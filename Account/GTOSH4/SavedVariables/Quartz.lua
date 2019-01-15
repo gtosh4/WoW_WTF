@@ -22,23 +22,23 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 445,
-					["hideicon"] = true,
+					["y"] = 452.000244140625,
 					["border"] = "None",
 					["fontsize"] = 10,
-					["texture"] = "Minimalist",
-					["x"] = 1493,
 					["hidetimetext"] = true,
-					["y"] = 452.000244140625,
+					["x"] = 1493,
+					["texture"] = "Minimalist",
+					["hideicon"] = true,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -73,6 +73,8 @@ Quartz3DB = {
 				},
 			},
 		},
+		["Range"] = {
+		},
 		["Mirror"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -84,8 +86,6 @@ Quartz3DB = {
 					["mirrorx"] = 1659.00036621094,
 				},
 			},
-		},
-		["Range"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -101,12 +101,12 @@ Quartz3DB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - Ursin"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Ursin"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

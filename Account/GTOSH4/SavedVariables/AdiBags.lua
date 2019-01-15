@@ -37,9 +37,14 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["MoneyFrame"] = {
-		},
 		["BfA"] = {
+			["profiles"] = {
+				["Default"] = {
+					["Junk"] = false,
+				},
+			},
+		},
+		["WoD"] = {
 			["profiles"] = {
 				["Default"] = {
 					["Junk"] = false,
@@ -54,8 +59,8 @@ AdiBagsDB = {
 			["profiles"] = {
 				["Default"] = {
 					["splitBySubclass"] = {
-						["Tradeskill"] = false,
 						["Consumable"] = true,
+						["Tradeskill"] = false,
 						["Gem"] = false,
 						["Miscellaneous"] = false,
 					},
@@ -77,18 +82,18 @@ AdiBagsDB = {
 						["Artifact Fragment"] = false,
 						["Timewarped Badge"] = false,
 						["Seal of Tempered Fate"] = false,
-						["Champion's Seal"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
+						["Lingering Soul Fragment"] = false,
+						["Curious Coin"] = false,
 						["Timeworn Artifact"] = false,
 						["Sightless Eye"] = false,
 						["Wakening Essence"] = false,
-						["Veiled Argunite"] = false,
+						["Conquest"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
 						["Seal of Broken Fate"] = false,
-						["Conquest"] = false,
-						["Curious Coin"] = false,
-						["Lingering Soul Fragment"] = false,
+						["Veiled Argunite"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Champion's Seal"] = false,
 						["Legionfall War Supplies"] = false,
 					},
 					["text"] = {
@@ -127,6 +132,8 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["DataSource"] = {
+		},
 		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -134,16 +141,9 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["DataSource"] = {
-		},
 		["Bound"] = {
 		},
-		["WoD"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
+		["MoneyFrame"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -160,14 +160,14 @@ AdiBagsDB = {
 				["Junk#Junk"] = true,
 			},
 		},
-		["Tosku - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 			["collapsedSections"] = {
-				["Quest#Quest"] = true,
 				["Junk#Junk"] = true,
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Tosku - Kil'jaeden"] = {
 			["collapsedSections"] = {
+				["Quest#Quest"] = true,
 				["Junk#Junk"] = true,
 			},
 		},
@@ -178,12 +178,12 @@ AdiBagsDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - Ursin"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Ursin"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -193,10 +193,7 @@ AdiBagsDB = {
 				["stackable"] = true,
 				["incomplete"] = true,
 			},
-			["columnWidth"] = {
-				["Bank"] = 8,
-				["Backpack"] = 8,
-			},
+			["scale"] = 1,
 			["maxHeight"] = 0.4,
 			["positions"] = {
 				["anchor"] = {
@@ -205,10 +202,13 @@ AdiBagsDB = {
 				},
 			},
 			["filterPriorities"] = {
-				["Legion"] = 89,
 				["ItemSets"] = 93,
+				["Legion"] = 89,
 			},
-			["scale"] = 1,
+			["columnWidth"] = {
+				["Backpack"] = 8,
+				["Bank"] = 8,
+			},
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 			["filters"] = {

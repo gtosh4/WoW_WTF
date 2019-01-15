@@ -19,6 +19,13 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+				},
+				["lastTime"] = 5733.56,
+				["chargeSpellsOnCooldown"] = {
+				},
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -30,11 +37,11 @@ oRA3DB = {
 							[740] = true,
 							[115310] = true,
 							[97462] = true,
-							[196718] = true,
+							[31821] = true,
 							[265202] = true,
 							[108280] = true,
 							[64843] = true,
-							[31821] = true,
+							[196718] = true,
 						},
 					},
 					["displays"] = {
@@ -61,16 +68,16 @@ oRA3DB = {
 				},
 			},
 		},
+		["Tanks"] = {
+		},
+		["Consumables"] = {
+		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
 					["prevRaidDifficulty"] = 15,
 				},
 			},
-		},
-		["Consumables"] = {
-		},
-		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -88,27 +95,27 @@ oRA3DB = {
 			["positions"] = {
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 147.999984741211,
-					["Width"] = 199.999771118164,
-					["PosY"] = 415.466688334942,
 					["PosX"] = 580.800941749461,
-				},
-				["oRA3CooldownFrameBarsRaidCDs"] = {
-					["Height"] = 147.999984741211,
-					["Width"] = 200,
-					["PosY"] = 263.466859443992,
-					["PosX"] = 1726.93290256656,
-				},
-				["oRA3BattleResMonitor"] = {
-					["Height"] = 30.0000171661377,
-					["Width"] = 140.000030517578,
-					["PosY"] = 111.910804990249,
-					["PosX"] = 709.33376095297,
+					["PosY"] = 415.466688334942,
+					["Width"] = 199.999771118164,
 				},
 				["oRA3ReadyCheck"] = {
 					["Height"] = 211.000015258789,
-					["PosX"] = 366.399009994613,
-					["PosY"] = 246.666305182358,
 					["Width"] = 319.999969482422,
+					["PosY"] = 246.666305182358,
+					["PosX"] = 366.399009994613,
+				},
+				["oRA3BattleResMonitor"] = {
+					["Height"] = 30.0000171661377,
+					["PosX"] = 709.33376095297,
+					["PosY"] = 111.910804990249,
+					["Width"] = 140.000030517578,
+				},
+				["oRA3CooldownFrameBarsRaidCDs"] = {
+					["Height"] = 147.999984741211,
+					["PosX"] = 1726.93290256656,
+					["PosY"] = 263.466859443992,
+					["Width"] = 200,
 				},
 			},
 			["lastSelectedPanel"] = "Checks",
