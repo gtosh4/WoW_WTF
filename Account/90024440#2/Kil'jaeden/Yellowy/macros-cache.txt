@@ -1,0 +1,74 @@
+VER 3 0100000000000017 "af" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 010000000000000C "bh" "INV_MISC_QUESTIONMARK"
+#showtooltip Binding Heal
+/cast [@mouseover,help][] Binding Heal
+END
+VER 3 0100000000000003 "fh" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash Heal
+/cast [@mouseover,help][] Flash Heal
+END
+VER 3 010000000000000B "gs" "INV_MISC_QUESTIONMARK"
+#showtooltip Guardian Spirit
+/cast [@mouseover,help][] Guardian Spirit
+END
+VER 3 0100000000000005 "heal" "INV_MISC_QUESTIONMARK"
+#showtooltip Heal
+/cast [@mouseover,help][] Heal
+END
+VER 3 0100000000000011 "hf" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Fire
+/cast [@mouseover,help][] Holy Fire
+END
+VER 3 0100000000000014 "hw:c" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Chastise
+/cast [@mouseover,help][] Holy Word: Chastise
+END
+VER 3 0100000000000006 "hw:s" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Serenity
+/cast [@mouseover,help][] Holy Word: Serenity
+END
+VER 3 0100000000000015 "lof" "INV_MISC_QUESTIONMARK"
+#showtooltip Leap of Faith
+/cast [@mouseover,help][] Leap of Faith
+END
+VER 3 0100000000000016 "lot" "INV_MISC_QUESTIONMARK"
+#showtooltip Light of T'uure
+/cast [@mouseover,help][] Light of T'uure
+END
+VER 3 010000000000000E "mr" "INV_MISC_QUESTIONMARK"
+#showtooltip Mass Resurrection
+/cast [@mouseover,help][] Mass Resurrection
+/run SendChatMessage("Mass Resurrection!", ((UnitInRaid("player")and "RAID" or "PARTY")))
+END
+VER 3 0100000000000007 "poh" "INV_MISC_QUESTIONMARK"
+#showtooltip Prayer of Healing
+/cast [@mouseover,help][] Prayer of Healing
+END
+VER 3 0100000000000009 "pom" "INV_MISC_QUESTIONMARK"
+#showtooltip Prayer of Mending
+/cast [@mouseover,help][] Prayer of Mending
+END
+VER 3 0100000000000008 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip Purify
+/cast [@mouseover,help][] Purify
+END
+VER 3 010000000000000A "renew" "INV_MISC_QUESTIONMARK"
+#showtooltip Renew
+/cast [@mouseover,help][] Renew
+END
+VER 3 010000000000000F "sf" "INV_MISC_QUESTIONMARK"
+#showtooltip Shining Force
+/cast [@mouseover,help][]  Shining Force
+END
+VER 3 0100000000000012 "smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Smite
+/cast [@mouseover,help][] Smite
+END
+VER 3 010000000000000D "tdgd" "INV_MISC_QUESTIONMARK"
+#showtooltip The Deceiver's Grand Design
+/cast [@mouseover,help][] The Deceiver's Grand Design
+END

@@ -1,0 +1,75 @@
+VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Hearthstone
+END
+VER 3 0000000000000010 "bounds" "132319"
+/click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
+END
+VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
+/script for i=1, 120 do PickupAction(i); ClearCursor(); end
+END
+VER 3 000000000000001A "dance" "ClassIcon_Druid."
+/dance
+END
+VER 3 000000000000001D "eq" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+/script for i=INVSLOT_FIRST_EQUIPPED ,INVSLOT_LAST_EQUIPPED do EquipmentManagerIgnoreSlotForSave(i) end
+END
+VER 3 000000000000000E "FameInfo" "1499566"
+/run print('----');local f=GetMouseFocus();while f do print(f:GetName());f=f:GetParent();end;print('----')
+END
+VER 3 0000000000000007 "focus" "132885"
+/focus
+END
+VER 3 0000000000000021 "follow" "134140"
+/follow yellowy
+END
+VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
+/script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
+END
+VER 3 0000000000000011 "nameplates" "Spell_ChargePositive."
+/console nameplateShowEnemies 1
+/console nameplateShowFriends 1
+END
+VER 3 0000000000000029 "page1" "134153"
+/changeactionbar 1
+END
+VER 3 000000000000002A "page2" "134154"
+/changeactionbar 3
+END
+VER 3 0000000000000028 "POT" "132847"
+#showtooltip Healthstone
+/use Healthstone
+/use Coastal Healing Potion
+END
+VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
+/pull 10
+END
+VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
+/readycheck
+END
+VER 3 0000000000000017 "RL" "Ability_Hunter_BeastCall02."
+/reload ui
+END
+VER 3 000000000000000D "rlgfx" "TRADE_ENGINEERING"
+/console gxrestart
+END
+VER 3 0000000000000013 "sheathe" "Ability_Warrior_Challange."
+/run ToggleSheath()
+END
+VER 3 0000000000000012 "skull" "Ability_Iyyokuk_Drum_White."
+/run SetRaidTarget("target", 8)
+END
+VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
+/stopcasting
+END
+VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/use [@mouseover][@target] 13
+END
+VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
+#showtooltip 14
+/use [@mouseover][@target] 14
+END
+VER 3 0000000000000022 "TEST" "413591"
+/rotac
+END

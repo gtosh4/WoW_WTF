@@ -1,0 +1,2 @@
+
+WorldQuestTipsData = nil

@@ -1,0 +1,12 @@
+TomTom: enabled
+tdBattlePetScript: enabled
+tdBattlePetScript_Rematch: enabled
+WorldQuestTracker: enabled
+AngryAssignments: enabled
+bigdumblootcouncil: enabled
+RCLootCouncil: disabled
+AdiBags: enabled
+!BugGrabber: disabled
+BugSack: disabled
+AdiBags_Legion_Filters: enabled
+Azeroth Auto Pilot: disabled

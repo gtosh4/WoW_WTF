@@ -1,0 +1,88 @@
+
+AAP1 = {
+	["Kil'jaeden"] = {
+		["Yuumi"] = {
+			["SavedVer"] = 8.1033,
+			[875] = 1,
+			["WantedQuestList"] = {
+			},
+			["862-110-120-3"] = 238,
+			["AAP_DoWarCampaign"] = 0,
+			["Settings"] = {
+				["LockArrow"] = 1,
+				["ShowQuestListOrder"] = 1,
+				["AutoRepair"] = 0,
+				["Greetings3"] = 0,
+				["BannerScale"] = 0.64,
+				["ChooseQuests"] = 0,
+				["AutoGossip"] = 1,
+				["Hide"] = 0,
+				["Greetings2"] = 1,
+				["ShowGroup"] = 1,
+				["OrderListScale"] = 1,
+				["BannerShow"] = 0,
+				["Partytop"] = -299.999969482422,
+				["arrowtop"] = -288.000122070313,
+				["AutoAccept"] = 1,
+				["CutScene"] = 1,
+				["left"] = 2573.6640625,
+				["ShowBlobs"] = 1,
+				["AutoHandIn"] = 1,
+				["ArrowFPS"] = 2,
+				["Lock"] = 1,
+				["Hcampleft"] = 1791.66656494141,
+				["Greetings"] = 0,
+				["arrowleft"] = 2643.37524414063,
+				["ArrowScale"] = 1.32,
+				["DisableHeirloomWarning"] = 0,
+				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
+				["QuestButtons"] = 1,
+				["MiniMapBlobAlpha"] = 1,
+				["Partyleft"] = 1146.6666015625,
+				["AutoHandInChoice"] = 1,
+				["top"] = -388.000366210938,
+				["Scale"] = 0.64,
+				["QuestButtonDetatch"] = 0,
+				["AutoShareQ"] = 0,
+				["AutoVendor"] = 0,
+				["alpha"] = 1,
+				["ShowArrow"] = 1,
+				["ShowQList"] = 1,
+			},
+			["CountedZoneSteps"] = {
+				["862-110-120-3"] = 504,
+			},
+			["SkippedBonusObj"] = {
+			},
+			["LoaPick"] = 1,
+			["BonusSkips"] = {
+			},
+			["QlineSkip"] = {
+			},
+		},
+	},
+	["GliderName"] = "Goblin Glider Kit",
+}
+AAP2 = nil
+AAP3 = nil
+AAPQuestNames = {
+	[50765] = "Herding Children",
+	[49930] = "The Call for Allies",
+	[53435] = "Azerite for the Horde",
+	[54180] = "Quest",
+	[25929] = "Sea Legs",
+	[51302] = "The Underrot: Sealing G'huun's Corruption",
+	[53349] = "Conquest's Reward",
+	[48639] = "Army of the Light",
+	[50562] = "Champions of Azeroth",
+	[54097] = "The Dark Lady Calls",
+	[48642] = "Argussian Reach",
+	[50598] = "Zandalari Empire",
+	[52183] = "When a Plan Comes Together",
+	[42420] = "Court of Farondis",
+	[53168] = "Magical Spyglass",
+	[50602] = "Talanji's Expedition",
+	[53476] = "The Great Sea Scrolls",
+}
+AAP_HoldZoneVar = nil

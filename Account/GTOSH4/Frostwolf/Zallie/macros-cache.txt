@@ -1,0 +1,85 @@
+VER 3 0100000000000015 "15 Talents" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Void Tendrils
+/cast Psyfiend
+/cast Dominate Mind
+/script n_vt=GetSpellInfo(108920); n_pf=GetSpellInfo(108921); n_dm=GetSpellInfo(605)
+/run SetMacroSpell("15 Talents", GetSpellInfo(n_vt) or GetSpellInfo(n_pf) or GetSpellInfo(n_dm))
+END
+VER 3 0100000000000007 "bind" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Binding Heal
+END
+VER 3 0100000000000010 "Chast" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Chastise
+/cast Chakra: Chastise
+/cast Holy Word: Chastise
+END
+VER 3 0100000000000014 "clone" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Cyclone
+END
+VER 3 010000000000000D "CoH" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Circle of Healing
+END
+VER 3 0100000000000001 "fh" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Flash Heal
+END
+VER 3 0100000000000004 "gh" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Greater Heal
+END
+VER 3 010000000000000C "GS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Guardian Spirit
+END
+VER 3 010000000000000E "HW:S" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Serenity
+/cast Chakra: Serenity
+/cast [@mouseover] Holy Word: Serenity
+END
+VER 3 010000000000000A "inner" "INV_MISC_QUESTIONMARK"
+#showtooltip Inner Fire
+/use Alchemist's Flask
+/cast Inner Fire
+END
+VER 3 0100000000000011 "MD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !Mass Dispel
+END
+VER 3 0100000000000016 "Pen" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover] Penance
+END
+VER 3 0100000000000006 "pom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Prayer of Mending
+END
+VER 3 0100000000000008 "pur" "INV_MISC_QUESTIONMARK"
+#showtooltip Purify
+/cast [help,target=mouseover,exists] Purify; [help,exists] Purify; [harm,exists] Dispel Magic
+END
+VER 3 0100000000000003 "pws" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Power Word: Shield
+END
+VER 3 0100000000000005 "ren" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Renew
+END
+VER 3 0100000000000012 "SF" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowfiend
+/cast [nopet] Shadowfiend
+/petaggressive
+/petattack
+/cast [harm, pet] Shadowcrawl; [target=pettarget, pet] Shadowcrawl
+/cast [target=pet,exists]Dispel Magic
+END
+VER 3 0100000000000013 "Shackle" "INV_MISC_QUESTIONMARK"
+#showtooltip Shackle Undead
+/target [harm] Ebon Gargoyle
+/cast Shackle Undead
+/targetlasttarget
+END
