@@ -7,16 +7,16 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Yorman - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec4_profileKey"] = "Yorman - Kil'jaeden",
-			["specswap"] = false,
 			["spec3_profileKey"] = "Yorman - Kil'jaeden",
+			["specswap"] = false,
+			["spec4_profileKey"] = "Yorman - Kil'jaeden",
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Yuumi - Kil'jaeden",
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Yuumi - Kil'jaeden",
-			["downclick"] = false,
 			["specswap"] = false,
+			["downclick"] = false,
+			["spec3_profileKey"] = "Yuumi - Kil'jaeden",
 			["spec2_profileKey"] = "Yuumi - Kil'jaeden",
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -24,8 +24,8 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Tosh - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Tosh - Kil'jaeden",
 			["specswap"] = false,
+			["spec2_profileKey"] = "Tosh - Kil'jaeden",
 		},
 	},
 	["profileKeys"] = {
@@ -49,10 +49,10 @@ CliqueDB3 = {
 					},
 				}, -- [1]
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [2]
@@ -77,10 +77,10 @@ CliqueDB3 = {
 					},
 				}, -- [1]
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [2]
@@ -105,10 +105,10 @@ CliqueDB3 = {
 					},
 				}, -- [1]
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [2]
@@ -125,10 +125,10 @@ CliqueDB3 = {
 		["Tosh - Kil'jaeden"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -144,10 +144,10 @@ CliqueDB3 = {
 		["Yorman - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -163,10 +163,10 @@ CliqueDB3 = {
 		["Zallie - Frostwolf"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -182,10 +182,10 @@ CliqueDB3 = {
 		["Koutetsu - Frostwolf"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -201,10 +201,10 @@ CliqueDB3 = {
 		["Tosku - Kil'jaeden"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

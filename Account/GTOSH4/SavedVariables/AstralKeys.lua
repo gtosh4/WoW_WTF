@@ -25,7 +25,7 @@ AstralKeys = {
 		14, -- [4]
 		12, -- [5]
 		77, -- [6]
-		557721, -- [7]
+		563093, -- [7]
 	}, -- [3]
 	{
 		"Baesong-Kil'jaeden", -- [1]
@@ -196,7 +196,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		77, -- [6]
-		557640, -- [7]
+		563107, -- [7]
 	}, -- [22]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -212,26 +212,26 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 12,
 		["class"] = "MONK",
-		["unit"] = "Yuumi-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yuumi-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 10,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 11,
 		["class"] = "DRUID",
-		["unit"] = "Yorman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yorman-Kil'jaeden",
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Zaemme-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Zaemme-Kil'jaeden",
 	}, -- [4]
 }
 AstralFriends = {
@@ -341,19 +341,26 @@ AstralFriends = {
 		246, -- [4]
 		10, -- [5]
 		77, -- [6]
-		494337, -- [7]
+		562607, -- [7]
 		"1", -- [8]
 		14, -- [9]
 	}, -- [10]
 }
 AstralKeysSettings = {
 	["initTime"] = 1547564400,
-	["resetVersion"] = 20200,
+	["frameOptions"] = {
+		["viewMode"] = 0,
+		["frame_list"] = "GUILD",
+		["list"] = "guild",
+		["orientation"] = 1,
+		["sortMethod"] = 4,
+		["sorth_method"] = "character_name",
+	},
 	["options"] = {
 		["announceKey"] = false,
 		["friendSync"] = true,
 		["minFriendSync"] = 2,
-		["showTooltip"] = true,
+		["showOffline"] = true,
 		["rankFilters"] = {
 			true, -- [1]
 			true, -- [2]
@@ -366,20 +373,13 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["whisperClick"] = false,
+		["showTooltip"] = true,
 		["showOtherFaction"] = false,
 		["mingle_offline"] = false,
-		["showOffline"] = true,
+		["whisperClick"] = false,
 		["showMiniMapButton"] = true,
 	},
-	["frameOptions"] = {
-		["viewMode"] = 0,
-		["frame_list"] = "GUILD",
-		["list"] = "guild",
-		["orientation"] = 1,
-		["sorth_method"] = "character_name",
-		["sortMethod"] = 4,
-	},
+	["resetVersion"] = 20200,
 }
 AstralMinimap = {
 	["profileKeys"] = {

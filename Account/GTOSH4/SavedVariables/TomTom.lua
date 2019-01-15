@@ -6,12 +6,12 @@ TomTomDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshtrial - Ursin"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Zallie - Frostwolf"] = "Default",
+		["Toshtrial - Ursin"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Zallie - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

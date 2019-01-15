@@ -18,12 +18,6 @@ MacroToolkitDB = {
 			},
 		},
 	},
-	["global"] = {
-		["backups"] = {
-		},
-		["ebackups"] = {
-		},
-	},
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
@@ -32,6 +26,12 @@ MacroToolkitDB = {
 		["Zallie - Frostwolf"] = "profile",
 		["Yuumi - Kil'jaeden"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
+	},
+	["global"] = {
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
 	},
 	["profiles"] = {
 		["profile"] = {

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1916,
 	["lastSanitation"] = 3,
-	["session"] = 1915,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MainMenuBar:ClearAllPoints()'.",
@@ -43,14 +43,14 @@ BugGrabberDB = {
 		}, -- [5]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Modules\\unitframes\\elements\\summonindicator.lua",
-			["session"] = 1868,
 			["time"] = "2019/01/04 21:21:43",
+			["session"] = 1868,
 			["counter"] = 5,
 		}, -- [6]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Libraries\\oUF\\elements\\summonindicator.lua",
-			["session"] = 1868,
 			["time"] = "2019/01/04 21:21:43",
+			["session"] = 1868,
 			["counter"] = 5,
 		}, -- [7]
 		{
