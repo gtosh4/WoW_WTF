@@ -1,18 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Ursin"] = "Toshtrial - Ursin",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -29,6 +16,19 @@ Postal3DB = {
 				"Zallie|Frostwolf|Horde|90|PRIEST", -- [11]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - Ursin"] = "Toshtrial - Ursin",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -62,8 +62,8 @@ Postal3DB = {
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Zaemme|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Zaemme|Kil'jaeden|Horde", -- [2]
 					"Yuumi|Kil'jaeden|Horde", -- [3]
 					"Yukio|Kil'jaeden|Horde", -- [4]
 					"Yellowy|Kil'jaeden|Horde", -- [5]
@@ -73,19 +73,20 @@ Postal3DB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshtrial - Ursin"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Yuumi|Kil'jaeden|Horde", -- [2]
+					"Zaemme|Kil'jaeden|Horde", -- [2]
+					"Yuumi|Kil'jaeden|Horde", -- [3]
 				},
 			},
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},
-		["Toshtrial - Ursin"] = {
+		["Zallie - Frostwolf"] = {
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -98,7 +99,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Zallie - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 	},
 }

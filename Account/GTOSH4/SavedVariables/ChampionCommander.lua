@@ -64,6 +64,7 @@ dbBFA = {
 				[1922] = false,
 				[1930] = false,
 				[2092] = false,
+				[1927] = false,
 				[2093] = false,
 				[1920] = false,
 				[1939] = false,

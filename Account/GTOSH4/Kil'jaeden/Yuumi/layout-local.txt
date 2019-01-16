@@ -83,13 +83,6 @@ X: -362
 Y: 178
 W: 400
 H: 140
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: -257
-W: 455
-H: 22
 Frame: ViragDevToolFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -104,3 +97,10 @@ X: -10
 Y: -257
 W: 56
 H: 42
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: -257
+W: 455
+H: 22

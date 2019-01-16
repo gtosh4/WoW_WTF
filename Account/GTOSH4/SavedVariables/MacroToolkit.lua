@@ -18,6 +18,12 @@ MacroToolkitDB = {
 			},
 		},
 	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
+		},
+	},
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
@@ -27,16 +33,10 @@ MacroToolkitDB = {
 		["Yuumi - Kil'jaeden"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
 	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
-	},
 	["profiles"] = {
 		["profile"] = {
-			["y"] = 832.995727539062,
-			["x"] = 1228.03662109375,
+			["y"] = 618.982360839844,
+			["x"] = 1626.06164550781,
 			["height"] = 423.999969482422,
 			["override"] = true,
 		},

@@ -4,7 +4,6 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128306] = {
 			["Relics"] = {
@@ -24,6 +23,7 @@ PawnOptions = {
 			["Name"] = "G'Hanir, the Mother Tree",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

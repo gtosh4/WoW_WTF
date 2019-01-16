@@ -6,12 +6,12 @@ AddonCpuUsageDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - Ursin"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Ursin"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
