@@ -148,11 +148,11 @@ ToshAssignmentsDB = {
 									["before"] = 3,
 									["type"] = "spell",
 									["spellId"] = 204471,
-									["spell"] = {
-										["spellId"] = 204471,
+									["time"] = {
 									},
 									["eventNumber"] = "1",
-									["time"] = {
+									["spell"] = {
+										["spellId"] = 204471,
 									},
 								},
 								["actions"] = {
@@ -226,11 +226,11 @@ ToshAssignmentsDB = {
 									["before"] = 0,
 									["type"] = "spell",
 									["spellId"] = 204372,
-									["spell"] = {
-										["spellId"] = 204372,
+									["time"] = {
 									},
 									["eventNumber"] = "2",
-									["time"] = {
+									["spell"] = {
+										["spellId"] = 204372,
 									},
 								},
 							}, -- [2]
@@ -267,11 +267,11 @@ ToshAssignmentsDB = {
 									["before"] = 0,
 									["type"] = "spell",
 									["spellId"] = 204372,
-									["spell"] = {
-										["spellId"] = 204372,
+									["time"] = {
 									},
 									["eventNumber"] = "*",
-									["time"] = {
+									["spell"] = {
+										["spellId"] = 204372,
 									},
 								},
 							}, -- [3]
@@ -282,11 +282,11 @@ ToshAssignmentsDB = {
 									["before"] = 3,
 									["type"] = "spell",
 									["spellId"] = 204471,
-									["spell"] = {
-										["spellId"] = 204471,
+									["time"] = {
 									},
 									["eventNumber"] = "2-3",
-									["time"] = {
+									["spell"] = {
+										["spellId"] = 204471,
 									},
 								},
 								["actions"] = {
@@ -334,8 +334,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 1706,
 						["name"] = "Test",
-						["enabled"] = true,
 						["showOthers"] = false,
+						["enabled"] = true,
 					},
 				},
 				[1731] = {

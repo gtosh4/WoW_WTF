@@ -8,11 +8,11 @@ AngryAssign_Pages = {
 		["Contents"] = "tehkz\nbails\njess\ngordy",
 	},
 	[153242359] = {
-		["Updated"] = 1547092996,
+		["Updated"] = 1547698179,
 		["Name"] = "ghuun pug",
 		["Id"] = 153242359,
-		["UpdateId"] = 2005034528,
-		["Contents"] = "1 - ||cffc69b6dOrcbum||r \n2 - ||cffff7c0aSloner||r ||cffa330c9Daesong||r \n3 - ||cffa330c9Dragonsdeath||r ||cffaad372Bigwilly||r \n4 - ||cfffff468Khelikloth||r ||cfffff468Silentkills||r \n5 - ||cffa330c9Cornhuskers||r ||cff0070ddBigbullz||r \n6 - ||cffffffffDolclemits||r ||cff0070ddVercetty||r \n\n||credblood||r 1 - {TANK} + G6\n||credblood||r 2 - EVERYONE!!!",
+		["UpdateId"] = 3967254442,
+		["Contents"] = "1 - ||cffc69b6dOrcbum||r \n2 - ||cff0070ddVoidamental||r ||cfffff468Anburogue||r \n3 - ||cffa330c9Dragonsdeath||r ||cff8787edKillerwhale||r \n4 - ||cfffff468Gapethatazz||r ||cffffffffDolclemits||r \n5 - ||cffaad372Bigwilly||r ||cffff7c0aSlurry||r \n6 - ||cffa330c9Rebblle||r \n\n||credblood||r 1 - {TANK} + G6\n||credblood||r 2 - EVERYONE!!!",
 	},
 	[3659164681] = {
 		["Updated"] = 1547262520,
@@ -84,12 +84,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3736496186,
 		["Contents"] = "CC all hexers (hunters)\nyuki > rogue\n\n{square} MERKYAH\n{triangle} ARN\n{x} GORDY\n{diamond} YUKI\n\nSoaks\n1. tank\n2. tank\n3. jess\n4. tehkz\n5. lohgical\n6. nav\n7. arn\n8. yuki\n9. merk\n10. anyone else\n\nyuki/rogues/hunters IMMUNE soaks",
 	},
-	[770388498] = {
-		["Updated"] = 1547608160,
-		["Name"] = "fetid",
-		["Id"] = 770388498,
-		["UpdateId"] = 2199334910,
-		["Contents"] = "G1 - {cross} or {skull}\n\nG2 - {star} or {circle}\nG3 - {diamond} or {triangle}\n\nG2 - {star} |||| G3 - {circle}\n\nG2 - {diamond} |||| G3 - {triangle}",
+	[1757045389] = {
+		["Updated"] = 1546663468,
+		["Name"] = "M G'huun",
+		["Id"] = 1757045389,
+		["UpdateId"] = 2128198835,
+		["Contents"] = "Group 1\nL ||cpaladinLohgical||r  / ||cwarriorPride||r\nR ||cwarlockRuesong||r / ||cdemonhunterYunzol||r\n\nGroup 2\nL ||crogueMelborn||r / ||cwarlockWarlockmania||r\nR ||cpriestYellowy||r / ||cmageArnbjørn||r\n\nGroup 3\nL ||cpriestNavaria||r / ||cdemonhunterAndruww||r\nR ||chunterKnoss||r / ||cmonkBailey||r\n\nGroup 4\nL ||cmonkYuumi||r / ||cdruidDaiyzed||r\nR ||cmageYukio||r / ||cdruidPluie||r\n\nGroup 5\nL ||cpriestTehkz||r /  ||cdeathknightMoonblight||r\nR ||cdeathknightDankxo||r / ||cwarlockSodalock||r\n\nNW {square} - ||cwarlockWarlockmania||r ||chunterThunderrz||r ||crogueMelborn||rr ||cmonkYuumi||r\nNE {triangle} - ||cwarriorPride||r ||cwarlockSodalock||r ||cdemonhunterYunzol||r ||cmonkBailey||r\nSE {diamond} - ||cdeathknightDankxo||r ||cwarlockRuesong||r ||chunterKnoss||r ||cmageArnbjørn||r\nSW {star} - ||cmageYukio||r ||cdruidDaiyzed||r ||cdemonhunterAndruww||r ||cpaladinLohgical||r\nS {x} - ||cpriestYellowy||r ||cdruidPluie||r  ||cpriestNavaria||r ||cpriestTehkz||r\n \nFEASTS\n1. Orb Groups 1/2\n2. EVERYONE\n3. Orb Group 4\n4. EVERYONE\n\n{circle} > {diamond} > {circle}",
 	},
 	[403340526] = {
 		["Updated"] = 1541657738,
@@ -98,12 +98,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2583496002,
 		["Contents"] = "Group 1: Sinatra, Jerdz, Fox, - on Mass\nGroup 3: Tairyn, Dylan, Nichons. Nez, Hector - {cross}, {star}, {square}\nGroup 4: Cac,Vass , True, Scruff, Boris, Qamari- {circle}, {diamond}, {triangle}\n\nAdds: \n1:00 - 2 min cds, 3min cds\n2:15 - lust\n3:30 - 2 min cds\nKILL BOSS - 3 min CDs, anything we have\n\n15 seconds to kill littles\n30 seconds on the big\n\n\nAlways be at max melee ranged if you have big debuff",
 	},
-	[168926731] = {
-		["Updated"] = 1544239392,
-		["Name"] = "fetid",
-		["Id"] = 168926731,
-		["UpdateId"] = 3787681371,
-		["Contents"] = "Big Add - soda / cada\n\nG1 - yuki thun andrew  knoss idling arn\n\nG2 - sneak frida daiyzed moon cj",
+	[2224783927] = {
+		["Updated"] = 1547261209,
+		["Name"] = "FETID",
+		["Id"] = 2224783927,
+		["UpdateId"] = 537764924,
+		["Contents"] = "BIG add - soda/moon\n\nG1FAR - yuki,  alec, fridaa,  knoss, andrew. akwi\n\nG2CLOSE - arn,  daiyzed, barb, cj, thun",
 	},
 	[1204279944] = {
 		["Updated"] = 1537071260,
@@ -119,12 +119,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3620991129,
 		["Contents"] = "Phase 1 \n1.Moon / Andrew / Idling\n2.Arn / Thunderz / Knoss\n\nIntermission 1\n1. Moon   Small: Smart /Idling\n2. Me   Small: Moon(dragon)/Barbados\n\nPhase 1 \n1.Moon / Thunderz / Knoss\n2.Smart / Andrew / Idling\n\nIntermission 2\n1. Moon   Small: Thunderz / Knoss\n2. Me   Small: Idling / Lock\n\nPhase 3\n1. yuki + lust\n2. moon/babies",
 	},
-	[2472041840] = {
-		["Updated"] = 1540003468,
-		["Name"] = "Vectissss",
-		["Id"] = 2472041840,
-		["UpdateId"] = 2298192992,
-		["Contents"] = "Healing CDs\nDawn AC + Tranq\nsalvation + symbol\nbailey + darkness\ntranq + commanding\ndawn AC + AM\nhymn\ntranq\nrevival\ndawn AC\nnothing\ndawn AM\nrevival\ndawn AC\nhymn + tranq\nand w/e we have\n\n1 - {diamond}\n2 - {circle}\n3 - {star} \n4 - {triangle}",
+	[3619189419] = {
+		["Updated"] = 1546660209,
+		["Name"] = "zEKVoz",
+		["Id"] = 3619189419,
+		["UpdateId"] = 1925458158,
+		["Contents"] = "1. PRIDE\n2. POOIE\n3. DAIYZED\n4. I DONT CARE\n5. ANDRUWW",
 	},
 	[3331657309] = {
 		["Updated"] = 1547614249,
@@ -133,13 +133,6 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3062343983,
 		["Contents"] = "{star} - {skull}\n{circle} -||cmage morri||r||cmage corey||r||cmonk alex||r\n{diamond} -||cmage gator||r||cshaman ilya||r||cwarlock andrew||r\n\n||cpurpleOrb of Corruption||r\n1 -||cshaman ilya||r\n2 -||cmonk alex||r\n3 -||cpaladin mason||r\n4 -||cpaladin zach||r\n5 -||cdemonhunter jd||r\n6 -||cdemonhunter brandon||r\n7 -||cdruid liz||r\n8 -||cmage johnny||r\n9 -||cwarlock andrew||r\n10 -||cmage morri||r\n11 -||cmage corey||r\n12 -||cmage gator||r\n13 -||cdruid craig||r\n14 -||cpriest dolly||r",
 	},
-	[3619189419] = {
-		["Updated"] = 1546660209,
-		["Name"] = "zEKVoz",
-		["Id"] = 3619189419,
-		["UpdateId"] = 1925458158,
-		["Contents"] = "1. PRIDE\n2. POOIE\n3. DAIYZED\n4. I DONT CARE\n5. ANDRUWW",
-	},
 	[1075609042] = {
 		["Updated"] = 1544834276,
 		["Name"] = "G'HUUNN",
@@ -147,25 +140,48 @@ AngryAssign_Pages = {
 		["UpdateId"] = 759961575,
 		["Contents"] = "ORB TEAM\nL O R E O\nRJESS DANK\nL BAILEY / FRIDAA\n\nL MERK TEHK\nR G O R D Y\nL thunder",
 	},
-	[2224783927] = {
-		["Updated"] = 1547261209,
-		["Name"] = "FETID",
-		["Id"] = 2224783927,
-		["UpdateId"] = 537764924,
-		["Contents"] = "BIG add - soda/moon\n\nG1FAR - yuki,  alec, fridaa,  knoss, andrew. akwi\n\nG2CLOSE - arn,  daiyzed, barb, cj, thun",
+	[2472041840] = {
+		["Updated"] = 1540003468,
+		["Name"] = "Vectissss",
+		["Id"] = 2472041840,
+		["UpdateId"] = 2298192992,
+		["Contents"] = "Healing CDs\nDawn AC + Tranq\nsalvation + symbol\nbailey + darkness\ntranq + commanding\ndawn AC + AM\nhymn\ntranq\nrevival\ndawn AC\nnothing\ndawn AM\nrevival\ndawn AC\nhymn + tranq\nand w/e we have\n\n1 - {diamond}\n2 - {circle}\n3 - {star} \n4 - {triangle}",
 	},
-	[1757045389] = {
-		["Updated"] = 1546663468,
-		["Name"] = "M G'huun",
-		["Id"] = 1757045389,
-		["UpdateId"] = 2128198835,
-		["Contents"] = "Group 1\nL ||cpaladinLohgical||r  / ||cwarriorPride||r\nR ||cwarlockRuesong||r / ||cdemonhunterYunzol||r\n\nGroup 2\nL ||crogueMelborn||r / ||cwarlockWarlockmania||r\nR ||cpriestYellowy||r / ||cmageArnbjørn||r\n\nGroup 3\nL ||cpriestNavaria||r / ||cdemonhunterAndruww||r\nR ||chunterKnoss||r / ||cmonkBailey||r\n\nGroup 4\nL ||cmonkYuumi||r / ||cdruidDaiyzed||r\nR ||cmageYukio||r / ||cdruidPluie||r\n\nGroup 5\nL ||cpriestTehkz||r /  ||cdeathknightMoonblight||r\nR ||cdeathknightDankxo||r / ||cwarlockSodalock||r\n\nNW {square} - ||cwarlockWarlockmania||r ||chunterThunderrz||r ||crogueMelborn||rr ||cmonkYuumi||r\nNE {triangle} - ||cwarriorPride||r ||cwarlockSodalock||r ||cdemonhunterYunzol||r ||cmonkBailey||r\nSE {diamond} - ||cdeathknightDankxo||r ||cwarlockRuesong||r ||chunterKnoss||r ||cmageArnbjørn||r\nSW {star} - ||cmageYukio||r ||cdruidDaiyzed||r ||cdemonhunterAndruww||r ||cpaladinLohgical||r\nS {x} - ||cpriestYellowy||r ||cdruidPluie||r  ||cpriestNavaria||r ||cpriestTehkz||r\n \nFEASTS\n1. Orb Groups 1/2\n2. EVERYONE\n3. Orb Group 4\n4. EVERYONE\n\n{circle} > {diamond} > {circle}",
+	[168926731] = {
+		["Updated"] = 1544239392,
+		["Name"] = "fetid",
+		["Id"] = 168926731,
+		["UpdateId"] = 3787681371,
+		["Contents"] = "Big Add - soda / cada\n\nG1 - yuki thun andrew  knoss idling arn\n\nG2 - sneak frida daiyzed moon cj",
+	},
+	[770388498] = {
+		["Updated"] = 1547608160,
+		["Name"] = "fetid",
+		["Id"] = 770388498,
+		["UpdateId"] = 2199334910,
+		["Contents"] = "G1 - {cross} or {skull}\n\nG2 - {star} or {circle}\nG3 - {diamond} or {triangle}\n\nG2 - {star} |||| G3 - {circle}\n\nG2 - {diamond} |||| G3 - {triangle}",
 	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
+	["directionUp"] = false,
 	["locked"] = true,
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["selected"] = 3964269801,
+		["treewidth"] = 175,
+		["fullwidth"] = 730.000610351563,
+	},
+	["window"] = {
+		["height"] = 842.999816894531,
+		["top"] = 1371.00012207031,
+		["left"] = 1824.00036621094,
+		["width"] = 764.00048828125,
+	},
 	["display"] = {
 		["y"] = -242.168579101563,
 		["x"] = -92.17431640625,
@@ -173,22 +189,6 @@ AngryAssign_State = {
 		["scale"] = 1,
 		["hidden"] = false,
 		["width"] = 320.000183105469,
-	},
-	["tree"] = {
-		["groups"] = {
-		},
-		["scrollvalue"] = 0,
-		["fullwidth"] = 730.000610351563,
-		["selected"] = 3964269801,
-		["treewidth"] = 175,
-		["treesizable"] = true,
-	},
-	["directionUp"] = false,
-	["window"] = {
-		["height"] = 842.999816894531,
-		["top"] = 1371.00012207031,
-		["left"] = 1824.00036621094,
-		["width"] = 764.00048828125,
 	},
 }
 AngryAssign_Config = {

@@ -8,12 +8,12 @@ OneRing_Config = {
 		["default"] = {
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
-				["SpecMenu"] = false,
 				["OPieTracking"] = false,
-				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-Q",
-				["OPieAutoQuest"] = false,
 				["PaladinAuras"] = false,
+				["CommonTrades"] = false,
+				["OPieAutoQuest"] = false,
+				["WorldMarkers"] = "ALT-Q",
+				["SpecMenu"] = false,
 			},
 			["PrimaryButton"] = "",
 			["SecondaryButton"] = "",

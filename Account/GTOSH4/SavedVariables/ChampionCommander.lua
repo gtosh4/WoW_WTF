@@ -14,6 +14,12 @@ dbBFA = {
 			["firstun"] = false,
 		},
 	},
+	["profileKeys"] = {
+		["Zaemme - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["silent"] = true,
 		["warn01_seen"] = 0,
@@ -21,12 +27,6 @@ dbBFA = {
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
-	},
-	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -50,12 +50,11 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = true,
-				["MAXCHAMP"] = 3,
 				["TROOPALERT"] = true,
+				["MAXCHAMP"] = 3,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 5,
 			},
-			["showmenu"] = true,
 			["blacklist"] = {
 				[2094] = false,
 				[1940] = false,
@@ -63,14 +62,15 @@ dbBFA = {
 				[1948] = false,
 				[1922] = false,
 				[1930] = false,
-				[2092] = false,
+				[1925] = false,
 				[1927] = false,
-				[2093] = false,
+				[1928] = false,
 				[1920] = false,
 				[1939] = false,
-				[1928] = false,
-				[1925] = false,
+				[2093] = false,
+				[2092] = false,
 			},
+			["showmenu"] = true,
 		},
 	},
 }

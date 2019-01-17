@@ -75,4 +75,4 @@ Anchor: TOPLEFT
 X: 524
 Y: -284
 W: 267
-H: 206
+H: 76

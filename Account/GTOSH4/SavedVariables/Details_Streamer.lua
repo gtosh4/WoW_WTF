@@ -6,12 +6,12 @@ Details_StreamerDB = {
 		["Daggny - Frostwolf"] = "Zaemme - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Toshtrial - Ursin"] = "Zaemme - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Zaemme - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Zaemme - Kil'jaeden",
-		["Zallie - Frostwolf"] = "Zaemme - Kil'jaeden",
+		["Toshtrial - Ursin"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Zaemme - Kil'jaeden",
+		["Zallie - Frostwolf"] = "Zaemme - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -39,17 +39,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Minimalist",
-			["scale"] = 1,
-			["row_height"] = 15.090913772583,
-			["point"] = "BOTTOMRIGHT",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = true,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = true,
 			["arrow_size"] = 13.3272771835327,
-			["row_color"] = {
-				0.101960784313725, -- [1]
-				0.101960784313725, -- [2]
-				0.101960784313725, -- [3]
-				0.600000023841858, -- [4]
-			},
+			["font_size"] = 12.1454601287842,
 			["row_spacement"] = 15.736367225647,
 			["main_frame_color"] = {
 				0.0627450980392157, -- [1]
@@ -57,9 +52,12 @@ Details_StreamerDB = {
 				0.0627450980392157, -- [3]
 				1, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
 			["y"] = 214.999862670898,
+			["x"] = -3.009033203125,
+			["font_face"] = "DejaVu Sans",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -67,17 +65,19 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 0.00201416015625,
 				["x"] = -0.00048828125,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["x"] = -3.009033203125,
-			["font_face"] = "DejaVu Sans",
-			["use_spark"] = true,
-			["font_size"] = 12.1454601287842,
-			["author"] = "Details! Team",
-			["main_frame_locked"] = true,
-			["arrow_anchor_y"] = 0,
+			["row_color"] = {
+				0.101960784313725, -- [1]
+				0.101960784313725, -- [2]
+				0.101960784313725, -- [3]
+				0.600000023841858, -- [4]
+			},
+			["point"] = "BOTTOMRIGHT",
+			["row_height"] = 15.090913772583,
+			["scale"] = 1,
 		},
 	},
 }

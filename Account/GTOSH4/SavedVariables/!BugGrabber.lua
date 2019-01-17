@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1936,
 	["lastSanitation"] = 3,
-	["session"] = 1931,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Clique' tried to call the protected function 'CompactRaidFrame7:Show()'.",
@@ -27,14 +27,14 @@ BugGrabberDB = {
 		}, -- [3]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Modules\\unitframes\\elements\\summonindicator.lua",
-			["session"] = 1868,
 			["time"] = "2019/01/04 21:21:43",
+			["session"] = 1868,
 			["counter"] = 5,
 		}, -- [4]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Libraries\\oUF\\elements\\summonindicator.lua",
-			["session"] = 1868,
 			["time"] = "2019/01/04 21:21:43",
+			["session"] = 1868,
 			["counter"] = 5,
 		}, -- [5]
 		{
@@ -108,5 +108,12 @@ BugGrabberDB = {
 			["session"] = 1927,
 			["counter"] = 2,
 		}, -- [14]
+		{
+			["message"] = "Interface\\AddOns\\NameplateSCT\\NameplateSCT-1.14.lua:755: attempt to concatenate a nil value",
+			["time"] = "2019/01/16 15:22:27",
+			["stack"] = "Interface\\AddOns\\NameplateSCT\\NameplateSCT-1.14.lua:755: in function `DamageEvent'\nInterface\\AddOns\\NameplateSCT\\NameplateSCT-1.14.lua:628: in function <Interface\\AddOns\\NameplateSCT\\NameplateSCT.lua:615>\n(tail call): ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1932,
+			["counter"] = 62,
+		}, -- [15]
 	},
 }

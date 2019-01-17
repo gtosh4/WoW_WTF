@@ -11,7 +11,30 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
+			["modules"] = {
+				["Announcements"] = false,
+			},
+			["classIconCrop"] = true,
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 519.999962015943,
+			},
+			["x"] = {
+				["arena1"] = 633.065202287755,
+			},
+			["backgroundColor"] = {
+				["a"] = 0,
+			},
 			["direction"] = 2,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+			},
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["button"] = "2",
@@ -24,15 +47,9 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
+			["classIconShowSpec"] = true,
 			["auraVersion"] = 1,
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-			},
+			["barWidth"] = 180,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -94,70 +111,40 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["y"] = {
-				["arena1"] = 519.999962015943,
-			},
-			["modules"] = {
-				["Announcements"] = false,
-			},
-			["x"] = {
-				["arena1"] = 633.065202287755,
-			},
-			["classIconShowSpec"] = true,
-			["classIconCrop"] = true,
-			["locked"] = true,
-			["tagsVersion"] = 4,
-			["backgroundColor"] = {
-				["a"] = 0,
-			},
-			["barWidth"] = 180,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 576.53329829772,
-			},
 			["x"] = {
 				["arena1"] = 505.066790664201,
 			},
+			["y"] = {
+				["arena1"] = 576.53329829772,
+			},
 		},
 		["Default"] = {
-			["modules"] = {
-				["Announcements"] = false,
-			},
-			["auraVersion"] = 1,
-			["growUp"] = true,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["y"] = {
-				["arena1"] = 395.200346132137,
-			},
-			["x"] = {
-				["arena1"] = 582.933038214826,
-			},
-			["globalFont"] = "UbuntuCondensed",
-			["trinketGloss"] = false,
-			["globalFontSize"] = 12,
 			["direction"] = 1,
+			["globalFont"] = "UbuntuCondensed",
+			["auraVersion"] = 1,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = " [health:short]",
 				},
 			},
+			["trinketFaction"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -219,49 +206,62 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["trinketFaction"] = false,
+			["modules"] = {
+				["Announcements"] = false,
+			},
+			["growUp"] = true,
+			["globalFontSize"] = 12,
+			["trinketGloss"] = false,
+			["locked"] = true,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 582.933038214826,
+			},
+			["y"] = {
+				["arena1"] = 395.200346132137,
+			},
 		},
 		["Tosh - Kil'jaeden"] = {
 			["y"] = {
 				["arena1"] = 538.666629656153,
 			},
 			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
 			["x"] = {
 				["arena1"] = 1491.73354134163,
 			},
-			["auraVersion"] = 1,
 		},
 		["Koutetsu - Frostwolf"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 405.333321921029,
-			},
 			["x"] = {
 				["arena1"] = 1425.06687119803,
+			},
+			["y"] = {
+				["arena1"] = 405.333321921029,
 			},
 		},
 		["Zallie - Frostwolf"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 481.599960013227,
-			},
 			["x"] = {
 				["arena1"] = 1483.7328898827,
+			},
+			["y"] = {
+				["arena1"] = 481.599960013227,
 			},
 		},
 		["Yuumi - Kil'jaeden"] = {
@@ -298,11 +298,11 @@ Gladius2DB = {
 					["text"] = "[health:short]",
 				},
 			},
-			["y"] = {
-				["arena1"] = 519.999962015943,
-			},
 			["modules"] = {
 				["Announcements"] = false,
+			},
+			["y"] = {
+				["arena1"] = 519.999962015943,
 			},
 			["x"] = {
 				["arena1"] = 633.065202287755,

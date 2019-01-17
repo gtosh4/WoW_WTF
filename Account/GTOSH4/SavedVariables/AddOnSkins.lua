@@ -6,12 +6,12 @@ AddOnSkinsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshtrial - Ursin"] = "Toshtrial - Ursin",
+		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Zallie - Frostwolf"] = "Default",
+		["Toshtrial - Ursin"] = "Toshtrial - Ursin",
 		["Yuumi - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Zallie - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
