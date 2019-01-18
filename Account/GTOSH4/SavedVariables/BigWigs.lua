@@ -27,11 +27,11 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["posx"] = 458.133622000987,
-					["font"] = "UbuntuCondensed",
-					["lock"] = true,
 					["posy"] = 288.533583685181,
-					["fontName"] = "Friz Quadrata TT",
 					["fontOutline"] = "OUTLINE",
+					["font"] = "UbuntuCondensed",
+					["fontName"] = "Friz Quadrata TT",
+					["lock"] = true,
 				},
 			},
 		},
@@ -47,7 +47,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
@@ -88,7 +88,7 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["outline"] = "OUTLINE",
-					["fontSize"] = 20.0000019073486,
+					["BWEmphasizeMessageAnchor_x"] = 865.599589415368,
 					["BWEmphasizeCountdownMessageAnchor_x"] = 904.000047147274,
 					["BWMessageAnchor_x"] = 866.133573818217,
 					["fontName"] = "Friz Quadrata TT",
@@ -96,7 +96,7 @@ BigWigs3DB = {
 					["font"] = "UbuntuCondensed",
 					["BWEmphasizeMessageAnchor_y"] = 368.000312161461,
 					["BWMessageAnchor_y"] = 410.666981053368,
-					["BWEmphasizeMessageAnchor_x"] = 865.599589415368,
+					["fontSize"] = 20.0000019073486,
 				},
 			},
 		},
@@ -167,7 +167,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 	},
 	["wipe80"] = true,
@@ -311,7 +311,7 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["kills"] = 12,
-				["wipes"] = 46,
+				["wipes"] = 69,
 				["best"] = 287.126000000004,
 			},
 			["heroic"] = {

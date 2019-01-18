@@ -1,10 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Tosku-Kil'jaeden",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128832] = {
 			["Relics"] = {
@@ -41,6 +40,7 @@ PawnOptions = {
 			["Name"] = "Twinblades of the Deceiver",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DEMONHUNTER",

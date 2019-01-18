@@ -1,9 +1,10 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0233,
+	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Zaemme-Kil'jaeden",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128823] = {
 			["Relics"] = {
@@ -40,7 +41,6 @@ PawnOptions = {
 			["Name"] = "Truthguard",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",

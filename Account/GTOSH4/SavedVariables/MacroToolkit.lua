@@ -5,11 +5,11 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Yorman - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Yorman - Kil'jaeden"] = {
+		["Yuumi - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},

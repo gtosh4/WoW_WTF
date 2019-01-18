@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1936,
+	["session"] = 1948,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -115,5 +115,13 @@ BugGrabberDB = {
 			["session"] = 1932,
 			["counter"] = 62,
 		}, -- [15]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Plater' tried to call the protected function 'SetTargetClampingInsets()'.",
+			["time"] = "2019/01/17 19:55:26",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetTargetClampingInsets'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:273: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:213>\n[C]: in function `SetupClassNameplateBars'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:96: in function `OnNamePlateAdded'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:51: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:42>",
+			["session"] = 1937,
+			["counter"] = 1,
+		}, -- [16]
 	},
 }

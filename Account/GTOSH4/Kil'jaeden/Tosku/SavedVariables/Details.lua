@@ -7,9 +7,9 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["combat_counter"] = 954,
+	["combat_counter"] = 956,
 	["character_data"] = {
-		["logons"] = 124,
+		["logons"] = 125,
 	},
 	["tabela_instancias"] = {
 	},
@@ -34,10 +34,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 608.9951171875,
-					["x"] = -1592.50021362305,
+					["y"] = 609.041320800781,
+					["x"] = -1592.60775756836,
 					["w"] = 247.000061035156,
-					["h"] = 182.007339477539,
+					["h"] = 182.007400512695,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -67,10 +67,10 @@ _detalhes_database = {
 			["attribute"] = 2,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 443.987915039063,
-					["x"] = -1592.50021362305,
+					["y"] = 444.033996582031,
+					["x"] = -1592.60775756836,
 					["w"] = 247.000061035156,
-					["h"] = 108.007514953613,
+					["h"] = 108.007507324219,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -118,7 +118,7 @@ _detalhes_database = {
 			["segment"] = 0,
 			["sub_attribute"] = 4,
 			["verticalSnap"] = true,
-			["isLocked"] = true,
+			["is_open"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -130,7 +130,7 @@ _detalhes_database = {
 				[2] = 5,
 				[4] = 3,
 			},
-			["is_open"] = true,
+			["isLocked"] = true,
 			["mode"] = 2,
 			["attribute"] = 4,
 			["pos"] = {
@@ -216,28 +216,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["enabled"] = false,
+			["animate"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
-			["author"] = "Details! Team",
 			["useclasscolors"] = false,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["animate"] = false,
-		},
-		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
-			["lasttry"] = {
-			},
-			["annouce"] = true,
-			["dpshistory"] = {
-			},
 			["enabled"] = false,
-			["author"] = "Details! Team",
-			["level"] = 1,
-			["dps"] = 0,
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
 			["enabled"] = false,
@@ -250,20 +239,31 @@ _detalhes_database = {
 			},
 			["time"] = 40,
 			["history_lastindex"] = 0,
-			["author"] = "Details! Team",
+			["realm_lastamt"] = 0,
 			["realm_history"] = {
 			},
-			["realm_lastamt"] = 0,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = false,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = false,
+			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -276,11 +276,16 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = false,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -292,11 +297,6 @@ _detalhes_database = {
 			["pre_pot_healers"] = false,
 			["pre_pot_tanks"] = false,
 			["food_tier3"] = true,
-		},
-		["DETAILS_PLUGIN_DPS_TUNING"] = {
-			["enabled"] = false,
-			["author"] = "Details! Team",
-			["SpellBarsShowType"] = 1,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -323,17 +323,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Minimalist",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = true,
-			["row_color"] = {
-				0.101960784313725, -- [1]
-				0.101960784313725, -- [2]
-				0.101960784313725, -- [3]
-				0.600000023841858, -- [4]
-			},
+			["scale"] = 1,
+			["row_height"] = 15.090913772583,
+			["point"] = "BOTTOMRIGHT",
 			["enabled"] = true,
 			["arrow_size"] = 13.3272771835327,
-			["use_spark"] = true,
+			["author"] = "Details! Team",
 			["row_spacement"] = 15.736367225647,
 			["main_frame_color"] = {
 				0.0627450980392157, -- [1]
@@ -341,42 +336,50 @@ _detalhes_database = {
 				0.0627450980392157, -- [3]
 				1, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.101960784313725, -- [1]
+				0.101960784313725, -- [2]
+				0.101960784313725, -- [3]
+				0.600000023841858, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 214.999862670898,
+			["font_size"] = 12.1454601287842,
+			["use_spark"] = true,
+			["x"] = -3.009033203125,
+			["font_face"] = "DejaVu Sans",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
 				["scale"] = 1,
 				["font_shadow"] = true,
-				["y"] = 0.001373291015625,
+				["y"] = 0.00201416015625,
 				["x"] = -0.00048828125,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["x"] = -3.009033203125,
-			["font_face"] = "DejaVu Sans",
-			["font_size"] = 12.1454601287842,
-			["author"] = "Details! Team",
-			["point"] = "BOTTOMRIGHT",
-			["row_height"] = 15.090913772583,
-			["scale"] = 1,
+			["y"] = 214.999862670898,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = true,
+			["arrow_anchor_y"] = 0,
 		},
 	},
+	["last_encounter"] = "Gul'dan",
 	["nick_tag_cache"] = {
 		["last_version"] = 11,
-		["nextreset"] = 1546331588,
+		["nextreset"] = 1549095284,
 	},
 	["ignore_nicktag"] = true,
-	["last_encounter"] = "Gul'dan",
-	["last_day"] = "17",
-	["last_version"] = "v8.1.0.6692",
+	["last_day"] = "18",
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
 	["combat_id"] = 685,
 	["savedStyles"] = {
 		{
-			["hide_in_combat_type"] = 1,
-			["menu_icons_size"] = 0.899999976158142,
+			["show_statusbar"] = false,
+			["backdrop_texture"] = "Details Ground",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -389,14 +392,14 @@ _detalhes_database = {
 				["side"] = 2,
 			},
 			["bg_r"] = 0.101960784313725,
-			["skin"] = "ElvUI Frame Style",
+			["hide_out_of_combat"] = false,
 			["following"] = {
+				["enabled"] = false,
 				["bar_color"] = {
 					1, -- [1]
 					1, -- [2]
 					1, -- [3]
 				},
-				["enabled"] = false,
 				["text_color"] = {
 					1, -- [1]
 					1, -- [2]
@@ -418,110 +421,39 @@ _detalhes_database = {
 				["n_abilities"] = 3,
 				["n_enemies"] = 3,
 			},
-			["bg_alpha"] = 0,
+			["version"] = 3,
 			["stretch_button_side"] = 1,
 			["switch_all_roles_in_combat"] = false,
 			["instance_button_anchor"] = {
 				-27, -- [1]
 				1, -- [2]
 			},
-			["version"] = 3,
-			["row_info"] = {
-				["textR_outline"] = false,
-				["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
-				["textL_outline"] = false,
-				["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-				["textL_outline_small"] = true,
-				["textL_enable_custom_text"] = false,
-				["fixed_text_color"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				},
-				["space"] = {
-					["right"] = 0,
-					["left"] = 0,
-					["between"] = 1,
-				},
-				["texture_background_class_color"] = false,
-				["start_after_icon"] = true,
-				["font_face_file"] = "Interface\\AddOns\\ElvUI_SLE\\media\\fonts\\UbuntuCondensed.ttf",
-				["backdrop"] = {
-					["enabled"] = false,
-					["texture"] = "Details BarBorder 2",
-					["color"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["size"] = 4,
-				},
-				["models"] = {
-					["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
-					["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
-					["upper_alpha"] = 0.5,
-					["lower_enabled"] = false,
-					["lower_alpha"] = 0.1,
-					["upper_enabled"] = false,
-				},
-				["texture_custom_file"] = "Interface\\",
-				["texture_file"] = "Interface\\AddOns\\ElvUI\\media\\textures\\Minimalist.tga",
-				["height"] = 14,
-				["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small_alpha",
-				["icon_grayscale"] = false,
-				["font_size"] = 13,
-				["use_spec_icons"] = true,
-				["texture_custom"] = "",
-				["textL_custom_text"] = "{data1}. {data3}{data2}",
-				["fixed_texture_color"] = {
-					0.643137254901961, -- [1]
-					0.643137254901961, -- [2]
-					0.643137254901961, -- [3]
-					0.800000011920929, -- [4]
-				},
-				["textL_show_number"] = true,
-				["percent_type"] = 1,
-				["textR_enable_custom_text"] = false,
-				["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
-				["texture"] = "Minimalist",
-				["textR_outline_small"] = true,
-				["textR_show_data"] = {
-					true, -- [1]
+			["bg_alpha"] = 0,
+			["attribute_text"] = {
+				["show_timer"] = {
+					false, -- [1]
 					true, -- [2]
 					true, -- [3]
 				},
-				["texture_background_file"] = "Interface\\AddOns\\ElvUI\\media\\textures\\Minimalist.tga",
-				["texture_background"] = "Minimalist",
-				["alpha"] = 0.800000011920929,
-				["textR_class_colors"] = false,
-				["textR_outline_small_color"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					1, -- [4]
+				["shadow"] = false,
+				["side"] = 1,
+				["text_color"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0.7, -- [4]
 				},
-				["no_icon"] = false,
-				["textL_class_colors"] = true,
-				["textL_outline_small_color"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					1, -- [4]
+				["custom_text"] = "{name}",
+				["text_face"] = "UbuntuCondensed",
+				["anchor"] = {
+					-19, -- [1]
+					4, -- [2]
 				},
-				["font_face"] = "UbuntuCondensed",
-				["texture_class_colors"] = false,
-				["fixed_texture_background_color"] = {
-					0.101960784313725, -- [1]
-					0.101960784313725, -- [2]
-					0.101960784313725, -- [3]
-					1, -- [4]
-				},
-				["fast_ps_update"] = true,
-				["textR_separator"] = ",",
-				["textR_bracket"] = "(",
+				["enabled"] = true,
+				["enable_custom_text"] = false,
+				["text_size"] = 13,
 			},
-			["hide_out_of_combat"] = false,
+			["skin"] = "ElvUI Frame Style",
 			["menu_alpha"] = {
 				["enabled"] = false,
 				["onleave"] = 1,
@@ -529,22 +461,19 @@ _detalhes_database = {
 				["iconstoo"] = true,
 				["onenter"] = 1,
 			},
+			["switch_damager"] = false,
+			["auto_hide_menu"] = {
+				["left"] = false,
+				["right"] = false,
+			},
 			["libwindow"] = {
 				["y"] = -20,
 				["x"] = 0,
 				["point"] = "TOPLEFT",
 			},
-			["micro_displays_side"] = 2,
-			["desaturated_menu"] = true,
 			["strata"] = "LOW",
-			["auto_hide_menu"] = {
-				["left"] = false,
-				["right"] = false,
-			},
-			["menu_anchor_down"] = {
-				16, -- [1]
-				-2, -- [2]
-			},
+			["micro_displays_side"] = 2,
+			["window_scale"] = 1,
 			["switch_tank"] = false,
 			["hide_in_combat_alpha"] = 0,
 			["switch_all_roles_after_wipe"] = false,
@@ -558,27 +487,30 @@ _detalhes_database = {
 				["space"] = -2,
 				["shadow"] = false,
 			},
-			["switch_damager"] = false,
+			["desaturated_menu"] = true,
 			["show_sidebars"] = false,
-			["window_scale"] = 1,
+			["menu_anchor_down"] = {
+				16, -- [1]
+				-2, -- [2]
+			},
+			["bars_grow_direction"] = 1,
+			["plugins_grow_direction"] = 1,
+			["switch_tank_in_combat"] = false,
+			["grab_on_top"] = false,
+			["hide_icon"] = true,
+			["ignore_mass_showhide"] = false,
+			["switch_damager_in_combat"] = false,
+			["auto_current"] = true,
+			["toolbar_side"] = 1,
+			["bg_g"] = 0.101960784313725,
 			["row_show_animation"] = {
 				["anim"] = "Fade",
 				["options"] = {
 				},
 			},
-			["plugins_grow_direction"] = 1,
-			["switch_tank_in_combat"] = false,
-			["hide_icon"] = true,
-			["switch_damager_in_combat"] = false,
-			["ignore_mass_showhide"] = false,
-			["grab_on_top"] = false,
-			["auto_current"] = true,
-			["toolbar_side"] = 1,
-			["bg_g"] = 0.101960784313725,
-			["bars_grow_direction"] = 1,
 			["hide_in_combat"] = false,
-			["show_statusbar"] = false,
-			["backdrop_texture"] = "Details Ground",
+			["hide_in_combat_type"] = 1,
+			["menu_icons_size"] = 0.899999976158142,
 			["statusbar_info"] = {
 				["alpha"] = 1,
 				["overlay"] = {
@@ -588,12 +520,7 @@ _detalhes_database = {
 				},
 			},
 			["wallpaper"] = {
-				["overlay"] = {
-					0.999997794628143, -- [1]
-					0.999997794628143, -- [2]
-					0.999997794628143, -- [3]
-					0.799998223781586, -- [4]
-				},
+				["enabled"] = true,
 				["width"] = 266.000061035156,
 				["texcoord"] = {
 					0.0480000019073486, -- [1]
@@ -601,7 +528,12 @@ _detalhes_database = {
 					0.630999984741211, -- [3]
 					0.755999984741211, -- [4]
 				},
-				["enabled"] = true,
+				["overlay"] = {
+					0.999997794628143, -- [1]
+					0.999997794628143, -- [2]
+					0.999997794628143, -- [3]
+					0.799998223781586, -- [4]
+				},
 				["anchor"] = "all",
 				["height"] = 225.999984741211,
 				["alpha"] = 0.800000071525574,
@@ -618,46 +550,109 @@ _detalhes_database = {
 				},
 			},
 			["micro_displays_locked"] = true,
-			["attribute_text"] = {
-				["show_timer"] = {
-					false, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
-				["shadow"] = false,
-				["side"] = 1,
-				["text_size"] = 13,
-				["custom_text"] = "{name}",
-				["text_face"] = "UbuntuCondensed",
-				["anchor"] = {
-					-19, -- [1]
-					4, -- [2]
-				},
-				["enabled"] = true,
-				["enable_custom_text"] = false,
-				["text_color"] = {
+			["row_info"] = {
+				["textR_outline"] = false,
+				["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
+				["textL_outline"] = false,
+				["textR_outline_small"] = true,
+				["textL_outline_small"] = true,
+				["textL_enable_custom_text"] = false,
+				["fixed_text_color"] = {
 					1, -- [1]
 					1, -- [2]
 					1, -- [3]
-					0.7, -- [4]
 				},
+				["space"] = {
+					["right"] = 0,
+					["left"] = 0,
+					["between"] = 1,
+				},
+				["texture_background_class_color"] = false,
+				["start_after_icon"] = true,
+				["font_face_file"] = "Interface\\AddOns\\ElvUI_SLE\\media\\fonts\\UbuntuCondensed.ttf",
+				["textL_custom_text"] = "{data1}. {data3}{data2}",
+				["font_size"] = 13,
+				["texture_custom_file"] = "Interface\\",
+				["texture_file"] = "Interface\\AddOns\\ElvUI\\media\\textures\\Minimalist.tga",
+				["height"] = 14,
+				["icon_file"] = "Interface\\AddOns\\Details\\images\\classes_small_alpha",
+				["icon_grayscale"] = false,
+				["models"] = {
+					["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
+					["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
+					["upper_alpha"] = 0.5,
+					["lower_enabled"] = false,
+					["lower_alpha"] = 0.1,
+					["upper_enabled"] = false,
+				},
+				["textR_bracket"] = "(",
+				["textR_enable_custom_text"] = false,
+				["backdrop"] = {
+					["enabled"] = false,
+					["texture"] = "Details BarBorder 2",
+					["color"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["size"] = 4,
+				},
+				["fixed_texture_color"] = {
+					0.643137254901961, -- [1]
+					0.643137254901961, -- [2]
+					0.643137254901961, -- [3]
+					0.800000011920929, -- [4]
+				},
+				["textL_show_number"] = true,
+				["percent_type"] = 1,
+				["texture_custom"] = "",
+				["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
+				["texture"] = "Minimalist",
+				["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+				["textR_show_data"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
+				["texture_background_file"] = "Interface\\AddOns\\ElvUI\\media\\textures\\Minimalist.tga",
+				["texture_background"] = "Minimalist",
+				["alpha"] = 0.800000011920929,
+				["textL_class_colors"] = true,
+				["textR_outline_small_color"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["no_icon"] = false,
+				["textR_class_colors"] = false,
+				["fixed_texture_background_color"] = {
+					0.101960784313725, -- [1]
+					0.101960784313725, -- [2]
+					0.101960784313725, -- [3]
+					1, -- [4]
+				},
+				["font_face"] = "UbuntuCondensed",
+				["texture_class_colors"] = false,
+				["textL_outline_small_color"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["fast_ps_update"] = true,
+				["textR_separator"] = ",",
+				["use_spec_icons"] = true,
 			},
 			["name"] = "Tosh",
 			["bg_b"] = 0.101960784313725,
 		}, -- [1]
 	},
-	["last_instance_time"] = 1532663781,
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "Cathedral of Eternal Night",
-		["started"] = false,
-		["segment_id"] = 5,
-		["ej_id"] = 0,
-		["started_at"] = 1532662422.7,
-		["run_id"] = 15,
-		["level"] = 16,
-		["dungeon_zone_id"] = 1677,
-		["previous_boss_killed_at"] = 1532663630,
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
 	},
+	["force_font_outline"] = "",
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -704,21 +699,21 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
-			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -731,26 +726,6 @@ _detalhes_database = {
 		["frags"] = {
 		},
 		["data_fim"] = 0,
-		["overall_refreshed"] = true,
-		["CombatSkillCache"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["damage"] = {
-			},
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-		},
-		["start_time"] = 382031.517,
-		["TimeData"] = {
-		},
 		["totals_grupo"] = {
 			0, -- [1]
 			0, -- [2]
@@ -758,33 +733,58 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
 		},
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 382031.517,
+		["TimeData"] = {
+		},
+		["overall_refreshed"] = true,
 	},
-	["force_font_outline"] = "",
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "Cathedral of Eternal Night",
+		["started"] = false,
+		["segment_id"] = 5,
+		["ej_id"] = 0,
+		["started_at"] = 1532662422.7,
+		["run_id"] = 15,
+		["level"] = 16,
+		["dungeon_zone_id"] = 1677,
+		["previous_boss_killed_at"] = 1532663630,
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
+	["last_instance_time"] = 1532663781,
+	["last_version"] = "v8.1.0.6702",
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -798,6 +798,5 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-9-0A7C686A"] = 581,
-		["Player-57-09AFA54D"] = 258,
 	},
 }

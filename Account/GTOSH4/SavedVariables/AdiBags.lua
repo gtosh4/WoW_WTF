@@ -160,14 +160,14 @@ AdiBagsDB = {
 				["Junk#Junk"] = true,
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
-			["collapsedSections"] = {
-				["Junk#Junk"] = true,
-			},
-		},
 		["Tosku - Kil'jaeden"] = {
 			["collapsedSections"] = {
 				["Quest#Quest"] = true,
+				["Junk#Junk"] = true,
+			},
+		},
+		["Tosh - Kil'jaeden"] = {
+			["collapsedSections"] = {
 				["Junk#Junk"] = true,
 			},
 		},

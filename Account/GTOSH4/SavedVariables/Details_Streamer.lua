@@ -44,7 +44,7 @@ Details_StreamerDB = {
 			["main_frame_strata"] = "LOW",
 			["enabled"] = true,
 			["arrow_size"] = 13.3272771835327,
-			["font_size"] = 12.1454601287842,
+			["y"] = 214.999862670898,
 			["row_spacement"] = 15.736367225647,
 			["main_frame_color"] = {
 				0.0627450980392157, -- [1]
@@ -54,10 +54,6 @@ Details_StreamerDB = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 214.999862670898,
-			["x"] = -3.009033203125,
-			["font_face"] = "DejaVu Sans",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -69,6 +65,10 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["font_size"] = 12.1454601287842,
+			["x"] = -3.009033203125,
+			["font_face"] = "DejaVu Sans",
+			["use_spark"] = true,
 			["row_color"] = {
 				0.101960784313725, -- [1]
 				0.101960784313725, -- [2]

@@ -16,7 +16,7 @@ H: 380
 Frame: AccountantClassicFrame
 FrameLevel: 1
 Anchor: TOP
-X: 138
+X: 139
 Y: -80
 W: 640
 H: 512
@@ -58,7 +58,7 @@ H: 200
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER
-X: 1
+X: 0
 Y: -257
 W: 455
 H: 22
