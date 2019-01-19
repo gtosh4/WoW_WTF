@@ -62,13 +62,6 @@ X: -295
 Y: 151
 W: 176
 H: 195
-Frame: DetailsPlayerDetailsWindow
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 580
-Y: -239
-W: 790
-H: 454
 Frame: PawnUIFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -97,6 +90,13 @@ X: -10
 Y: -257
 W: 56
 H: 42
+Frame: DetailsPlayerDetailsWindow
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 580
+Y: -239
+W: 790
+H: 454
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER

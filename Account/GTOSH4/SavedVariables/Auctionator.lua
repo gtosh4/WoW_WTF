@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["STARTING_DISCOUNT"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["_1000000"] = 2500,
-	["_5000000"] = 10000,
 	["_500"] = 5,
-	["_10000"] = 200,
+	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["STARTING_DISCOUNT"] = 5,
+	["_5000000"] = 10000,
+	["_10000"] = 200,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Honorable Combatant's Plate Greaves of the Fireflash"] = {
@@ -180,10 +180,10 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "164447:0:0:0:0",
 		["5390697"] = "29990000:1",
 		["5389232"] = "38580000:1",
-		["5396992"] = "59980000:1",
-		["5408684"] = "39999500:1",
-		["5394361"] = "24940000:1",
 		["5392034"] = "24980000:1",
+		["5408684"] = "39999500:1",
+		["5396992"] = "59980000:1",
+		["5394361"] = "24940000:1",
 		["5380571"] = "79990000:1",
 		["5386621"] = "44500000:1",
 		["5369741"] = "99890000:1",
@@ -225,13 +225,13 @@ AUCTIONATOR_PRICING_HISTORY = {
 	},
 	["'Bygone Bee' Almanac"] = {
 		["5489957"] = "219980000:1",
-		["5484702"] = "614584326:1",
+		["5486439"] = "304990000:1",
 		["5483174"] = "384990000:1",
 		["5490786"] = "889240000:1",
-		["5486439"] = "304990000:1",
+		["5490832"] = "600000000:1",
 		["is"] = "163936:0:0:0:1472",
 		["5491625"] = "300000000:1",
-		["5490832"] = "600000000:1",
+		["5484702"] = "614584326:1",
 	},
 	["Honorable Combatant's Plate Boots of the Fireflash"] = {
 		["is"] = "159860:0:0:0:1696",
@@ -1021,11 +1021,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2927"] = 160000,
 		},
 		["Vantus Rune: Uldir"] = {
-			["mr"] = 39999991,
-			["cc"] = 0,
-			["id"] = "153673:0:0:0:0",
-			["H2972"] = 39999991,
+			["mr"] = 14247260,
 			["sc"] = 9,
+			["id"] = "153673:0:0:0:0",
+			["H2986"] = 14247260,
+			["cc"] = 0,
 		},
 		["Enchant Off-Hand - Major Intellect"] = {
 			["mr"] = 313856,
@@ -2247,13 +2247,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2868"] = 248985,
 			["sc"] = 8,
 		},
-		["Shimmerscale Leggings of the Peerless"] = {
-			["L2971"] = 9999990,
-			["mr"] = 14558672,
-			["sc"] = 3,
-			["H2971"] = 14558672,
-			["id"] = "154150:0:0:0:1683",
+		["Tidespray Linen Sandals of the Peerless"] = {
+			["mr"] = 20000000,
 			["cc"] = 4,
+			["H2927"] = 20000000,
+			["sc"] = 1,
+			["id"] = "154686:0:0:0:1688",
 		},
 		["Coarse Leather Vest of the Peerless"] = {
 			["mr"] = 13384934,
@@ -2326,19 +2325,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H2863"] = 99999,
 		},
+		["Shimmerscale Leggings of the Peerless"] = {
+			["L2971"] = 9999990,
+			["mr"] = 14558672,
+			["sc"] = 3,
+			["H2971"] = 14558672,
+			["id"] = "154150:0:0:0:1683",
+			["cc"] = 4,
+		},
 		["Tome of the Quiet Mind"] = {
 			["mr"] = 745999,
 			["cc"] = 15,
 			["id"] = "153647:0:0:0:0",
 			["sc"] = 4,
 			["H2984"] = 745999,
-		},
-		["Tidespray Linen Sandals of the Peerless"] = {
-			["mr"] = 20000000,
-			["cc"] = 4,
-			["H2927"] = 20000000,
-			["sc"] = 1,
-			["id"] = "154686:0:0:0:1688",
 		},
 		["Enchant Bracer - Greater Intellect"] = {
 			["mr"] = 137499,
@@ -2577,12 +2577,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "2883:0:0:0:0",
 			["cc"] = 9,
 		},
-		["Shimmerscale Striker of the Peerless"] = {
-			["mr"] = 22819018,
-			["sc"] = 13,
-			["H2971"] = 22819018,
-			["id"] = "154160:0:0:0:1683",
-			["cc"] = 2,
+		["Heartbound Tome"] = {
+			["mr"] = 3927500,
+			["cc"] = 4,
+			["id"] = "67149:0:0:0:0",
+			["sc"] = 0,
+			["H2984"] = 3927500,
 		},
 		["Coarse Leather Leggings of the Fireflash"] = {
 			["mr"] = 12382435,
@@ -2630,12 +2630,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["id"] = "154685:0:0:0:1689",
 		},
-		["Enchant Weapon - Versatile Navigation"] = {
-			["H2919"] = 14489894,
-			["mr"] = 14489894,
-			["cc"] = 8,
-			["id"] = "159788:0:0:0:0",
-			["sc"] = 11,
+		["Drums of Restoration"] = {
+			["H2860"] = 581676589,
+			["mr"] = 581676589,
+			["sc"] = 8,
+			["id"] = "29531:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Crimson Ink Well"] = {
 			["mr"] = 402523178,
@@ -2738,19 +2738,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H2927"] = 6583492,
 		},
+		["Enchant Weapon - Versatile Navigation"] = {
+			["H2919"] = 14489894,
+			["mr"] = 14489894,
+			["cc"] = 8,
+			["id"] = "159788:0:0:0:0",
+			["sc"] = 11,
+		},
 		["Tidespray Linen Hood of the Harmonious"] = {
 			["H2954"] = 19125595,
 			["mr"] = 19125595,
 			["cc"] = 4,
 			["id"] = "154688:0:0:0:1714",
 			["sc"] = 1,
-		},
-		["Drums of Restoration"] = {
-			["H2860"] = 581676589,
-			["mr"] = 581676589,
-			["sc"] = 8,
-			["id"] = "29531:0:0:0:0",
-			["cc"] = 0,
 		},
 		["Saurok Scale Boots"] = {
 			["mr"] = 12489998,
@@ -2759,12 +2759,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 4,
 			["sc"] = 3,
 		},
-		["Shimmerscale Helm of the Aurora"] = {
-			["mr"] = 16775284,
-			["sc"] = 3,
-			["H2971"] = 16775284,
-			["id"] = "154149:0:0:0:1706",
-			["cc"] = 4,
+		["Shimmerscale Striker of the Peerless"] = {
+			["mr"] = 22819018,
+			["sc"] = 13,
+			["H2971"] = 22819018,
+			["id"] = "154160:0:0:0:1683",
+			["cc"] = 2,
 		},
 		["Contract: Talanji's Expedition"] = {
 			["mr"] = 800000,
@@ -2794,12 +2794,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153611:0:0:0:0",
 			["cc"] = 12,
 		},
-		["Heartbound Tome"] = {
-			["mr"] = 3927500,
+		["Shimmerscale Helm of the Aurora"] = {
+			["mr"] = 16775284,
+			["sc"] = 3,
+			["H2971"] = 16775284,
+			["id"] = "154149:0:0:0:1706",
 			["cc"] = 4,
-			["id"] = "67149:0:0:0:0",
-			["sc"] = 0,
-			["H2984"] = 3927500,
 		},
 		["Unbroken Tooth"] = {
 			["mr"] = 1955,

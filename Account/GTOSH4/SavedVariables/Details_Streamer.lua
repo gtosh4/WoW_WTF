@@ -39,12 +39,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Minimalist",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = true,
-			["main_frame_strata"] = "LOW",
+			["scale"] = 1,
+			["row_height"] = 15.090913772583,
+			["point"] = "BOTTOMRIGHT",
 			["enabled"] = true,
 			["arrow_size"] = 13.3272771835327,
-			["y"] = 214.999862670898,
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 15.736367225647,
 			["main_frame_color"] = {
 				0.0627450980392157, -- [1]
@@ -61,13 +61,14 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 0.00201416015625,
 				["x"] = -0.00048828125,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
 			["font_size"] = 12.1454601287842,
 			["x"] = -3.009033203125,
 			["font_face"] = "DejaVu Sans",
+			["y"] = 214.999862670898,
 			["use_spark"] = true,
 			["row_color"] = {
 				0.101960784313725, -- [1]
@@ -75,9 +76,8 @@ Details_StreamerDB = {
 				0.101960784313725, -- [3]
 				0.600000023841858, -- [4]
 			},
-			["point"] = "BOTTOMRIGHT",
-			["row_height"] = 15.090913772583,
-			["scale"] = 1,
+			["main_frame_locked"] = true,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }
