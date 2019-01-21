@@ -21,10 +21,14 @@ oRA3DB = {
 		["Cooldowns"] = {
 			["global"] = {
 				["spellsOnCooldown"] = {
+					[115310] = {
+						["Player-9-0B0E8ABC"] = 524584.782,
+					},
+					[116849] = {
+						["Player-9-0B0E8ABC"] = 524526.472,
+					},
 				},
-				["lastTime"] = 368777.983,
-				["chargeSpellsOnCooldown"] = {
-				},
+				["lastTime"] = 526329.685,
 			},
 			["profiles"] = {
 				["Default"] = {

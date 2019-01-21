@@ -91,11 +91,12 @@ Postal3DB = {
 		["Yuumi - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Yellowy|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
-					"Zaemme|Kil'jaeden|Horde", -- [4]
-					"Tosku|Kil'jaeden|Horde", -- [5]
+					"Pass|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Zaemme|Kil'jaeden|Horde", -- [5]
+					"Tosku|Kil'jaeden|Horde", -- [6]
 				},
 			},
 		},

@@ -10,6 +10,11 @@ VER 3 010000000000000D "em" "INV_Misc_QuestionMark"
 #showtooltip Enveloping Mist
 /cast [@mouseover]Enveloping Mist
 END
+VER 3 0100000000000013 "MT" "INV_Misc_QuestionMark"
+#showtooltip Mana Tea
+/use Ancient Knot of Wisdom
+/cast Mana Tea
+END
 VER 3 0100000000000011 "mwviv" "INV_Misc_QuestionMark"
 #showtooltip
 /cast [channeling,@target,help][@mouseover] Vivify

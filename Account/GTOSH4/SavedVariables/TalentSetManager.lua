@@ -84,6 +84,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "raid",
 					["tt"] = "talents",
 				}, -- [4]
+				{
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "pvp",
+					["texture"] = "interface\\icons\\ability_pvp_gladiatormedallion",
+				}, -- [5]
 			}, -- [2]
 			{
 			}, -- [3]

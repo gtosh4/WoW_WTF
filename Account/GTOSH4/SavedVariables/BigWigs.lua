@@ -51,20 +51,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Bosses_Mythrax the Unraveler"] = {
-			["profiles"] = {
-				["Default"] = {
-					[273810] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Vectis"] = {
-			["profiles"] = {
-				["Default"] = {
-					[267242] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
@@ -98,6 +84,13 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Mythrax the Unraveler"] = {
+			["profiles"] = {
+				["Default"] = {
+					[273810] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -117,6 +110,13 @@ BigWigs3DB = {
 					["font"] = "UbuntuCondensed",
 					["posy"] = 358.400637181632,
 					["width"] = 134.000015258789,
+				},
+			},
+		},
+		["BigWigs_Bosses_Vectis"] = {
+			["profiles"] = {
+				["Default"] = {
+					[267242] = 1032439,
 				},
 			},
 		},

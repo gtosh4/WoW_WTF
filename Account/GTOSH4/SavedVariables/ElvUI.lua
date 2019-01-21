@@ -1431,7 +1431,7 @@ ElvDB = {
 				["ElvUF_PetMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,574,471",
 				["TalkingHeadFrameMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,716,-4",
 				["RightChatMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-2,14",
-				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-371",
+				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-277",
 				["DebuffsMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-212,-102",
 				["ElvUF_AssistMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,51,937",
 			},
@@ -2830,6 +2830,19 @@ ElvPrivateDB = {
 			},
 		},
 		["Yuumi - Kil'jaeden"] = {
+			["general"] = {
+				["normTex"] = "Minimalist",
+				["chatBubbleFont"] = "UbuntuCondensed",
+				["dmgfont"] = "Friz Quadrata TT",
+				["namefont"] = "Friz Quadrata TT",
+				["glossTex"] = "Minimalist",
+			},
+			["bags"] = {
+				["enable"] = false,
+			},
+			["nameplates"] = {
+				["enable"] = false,
+			},
 			["sle"] = {
 				["pvpreadydialogreset"] = true,
 				["skins"] = {
@@ -2843,19 +2856,6 @@ ElvPrivateDB = {
 					["Kil'jaeden"] = {
 					},
 				},
-			},
-			["bags"] = {
-				["enable"] = false,
-			},
-			["nameplates"] = {
-				["enable"] = false,
-			},
-			["general"] = {
-				["normTex"] = "Minimalist",
-				["chatBubbleFont"] = "UbuntuCondensed",
-				["dmgfont"] = "Friz Quadrata TT",
-				["namefont"] = "Friz Quadrata TT",
-				["glossTex"] = "Minimalist",
 			},
 			["install_complete"] = "10.73",
 		},

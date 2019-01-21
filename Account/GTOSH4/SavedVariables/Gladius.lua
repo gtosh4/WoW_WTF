@@ -144,7 +144,20 @@ Gladius2DB = {
 					["text"] = " [health:short]",
 				},
 			},
-			["trinketFaction"] = false,
+			["y"] = {
+				["arena1"] = 395.200346132137,
+			},
+			["x"] = {
+				["arena1"] = 582.933038214826,
+			},
+			["modules"] = {
+				["Announcements"] = false,
+			},
+			["growUp"] = true,
+			["globalFontSize"] = 12,
+			["trinketGloss"] = false,
+			["locked"] = true,
+			["tagsVersion"] = 4,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -219,20 +232,7 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["modules"] = {
-				["Announcements"] = false,
-			},
-			["growUp"] = true,
-			["globalFontSize"] = 12,
-			["trinketGloss"] = false,
-			["locked"] = true,
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 582.933038214826,
-			},
-			["y"] = {
-				["arena1"] = 395.200346132137,
-			},
+			["trinketFaction"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["y"] = {

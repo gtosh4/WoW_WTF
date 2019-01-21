@@ -14,18 +14,18 @@ CliqueDB3 = {
 		["Yuumi - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Yuumi - Kil'jaeden",
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Yuumi - Kil'jaeden",
-			["downclick"] = false,
 			["specswap"] = false,
+			["downclick"] = false,
 			["spec3_profileKey"] = "Yuumi - Kil'jaeden",
+			["spec2_profileKey"] = "Yuumi - Kil'jaeden",
 		},
 		["Tosh - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Tosh - Kil'jaeden",
-			["spec3_profileKey"] = "Tosh - Kil'jaeden",
+			["spec2_profileKey"] = "Tosh - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
+			["spec3_profileKey"] = "Tosh - Kil'jaeden",
 			["specswap"] = false,
-			["spec2_profileKey"] = "Tosh - Kil'jaeden",
 		},
 	},
 	["profileKeys"] = {

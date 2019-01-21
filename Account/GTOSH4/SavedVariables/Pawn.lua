@@ -733,10 +733,10 @@ PawnCommon = {
 		["\"MrRobot\":MONK3"] = {
 			["IconTexturePath"] = 608953,
 			["PerCharacterOptions"] = {
-				["Yuumi-Kil'jaeden"] = {
+				["Daggny-Frostwolf"] = {
 					["Visible"] = true,
 				},
-				["Daggny-Frostwolf"] = {
+				["Yuumi-Kil'jaeden"] = {
 					["Visible"] = true,
 				},
 			},
