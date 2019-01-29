@@ -1,6 +1,6 @@
 
 Blizzard_CombatLog_Filters = {
-	["currentFilter"] = 2,
+	["currentFilter"] = 1,
 	["filters"] = {
 		{
 			["quickButtonName"] = "My actions",
@@ -422,10 +422,8 @@ Blizzard_CombatLog_Filters = {
 						[12561] = false,
 					},
 					["eventList"] = {
-						["SPELL_PERIODIC_ENERGIZE"] = true,
 						["DAMAGE_SPLIT"] = true,
 						["UNIT_DISSIPATES"] = true,
-						["SPELL_ENERGIZE"] = true,
 						["SPELL_PERIODIC_DAMAGE"] = true,
 						["SWING_DAMAGE"] = true,
 						["SPELL_DAMAGE"] = true,

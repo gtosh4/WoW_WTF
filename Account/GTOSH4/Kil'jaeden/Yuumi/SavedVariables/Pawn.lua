@@ -5,25 +5,6 @@ PawnOptions = {
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
 	["LastKeybindingsSet"] = 1,
-	["Artifacts"] = {
-		[128940] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 30,
-					["Type"] = "Wind",
-				}, -- [1]
-				{
-					["ItemLevel"] = 33,
-					["Type"] = "Iron",
-				}, -- [2]
-				{
-					["ItemLevel"] = 26,
-					["Type"] = "Wind",
-				}, -- [3]
-			},
-			["Name"] = "Fists of the Heavens",
-		},
-	},
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",

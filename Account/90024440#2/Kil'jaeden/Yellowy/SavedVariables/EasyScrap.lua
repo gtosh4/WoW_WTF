@@ -1,3 +1,0 @@
-
-EasyScrap_IgnoreList = {
-}

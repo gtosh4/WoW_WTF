@@ -1,8 +1,11 @@
 
 AzeriteTooltipDB = {
-	["OnlySpec"] = false,
-	["Compact"] = false,
-	["Bags"] = true,
-	["Flyout"] = true,
-	["RemoveBlizzard"] = true,
+	["profileKeys"] = {
+		["Yuumi - Kil'jaeden"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["compact"] = true,
+		},
+	},
 }
