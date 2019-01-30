@@ -8,10 +8,11 @@ DominosDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Monk",
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Monk"] = {
+		["Default"] = {
 			["frames"] = {
 				{
 					["showInPetBattleUI"] = false,
@@ -19,10 +20,10 @@ DominosDB = {
 					["scale"] = 1,
 					["showInOverrideUI"] = false,
 					["padW"] = 2,
-					["x"] = 17,
+					["showstates"] = "",
+					["y"] = -201,
 					["spacing"] = 4,
 					["padH"] = 2,
-					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
 							["page2"] = 1,
@@ -31,8 +32,16 @@ DominosDB = {
 							["page3"] = 2,
 							["page6"] = 5,
 						},
+						["PRIEST"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
 					},
-					["y"] = -200,
+					["numButtons"] = 12,
+					["x"] = 16,
 				}, -- [1]
 				{
 					["showInPetBattleUI"] = false,
@@ -46,6 +55,8 @@ DominosDB = {
 					["padH"] = 2,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -66,6 +77,8 @@ DominosDB = {
 					["pages"] = {
 						["MONK"] = {
 						},
+						["PRIEST"] = {
+						},
 					},
 					["x"] = -541,
 				}, -- [3]
@@ -73,14 +86,16 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 					["point"] = "TOP",
 					["showInOverrideUI"] = false,
-					["padW"] = 2,
-					["x"] = -541,
 					["y"] = -249,
+					["x"] = -541,
+					["padW"] = 2,
 					["spacing"] = 4,
 					["anchor"] = "3TL",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["padH"] = 2,
@@ -89,14 +104,16 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 					["point"] = "TOP",
 					["showInOverrideUI"] = false,
-					["padW"] = 2,
-					["x"] = -541,
 					["y"] = -209,
+					["x"] = -541,
+					["padW"] = 2,
 					["spacing"] = 4,
 					["anchor"] = "4TL",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["padH"] = 2,
@@ -105,14 +122,16 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 					["point"] = "TOP",
 					["showInOverrideUI"] = false,
-					["padW"] = 2,
-					["x"] = -541,
 					["y"] = -169,
+					["x"] = -541,
+					["padW"] = 2,
 					["spacing"] = 4,
 					["anchor"] = "5TC",
 					["numButtons"] = 12,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["padH"] = 2,
@@ -123,14 +142,17 @@ DominosDB = {
 					["scale"] = 1,
 					["showInOverrideUI"] = false,
 					["padW"] = 2,
-					["x"] = -503,
+					["x"] = 411,
 					["spacing"] = 0,
 					["padH"] = 2,
 					["pages"] = {
 						["MONK"] = {
 						},
+						["PRIEST"] = {
+						},
 					},
 					["numButtons"] = 12,
+					["point"] = "BOTTOMLEFT",
 				}, -- [7]
 				{
 					["showInPetBattleUI"] = false,
@@ -144,6 +166,8 @@ DominosDB = {
 					["y"] = 280,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -161,6 +185,8 @@ DominosDB = {
 					["pages"] = {
 						["MONK"] = {
 						},
+						["PRIEST"] = {
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [9]
@@ -176,6 +202,8 @@ DominosDB = {
 					["y"] = 360,
 					["pages"] = {
 						["MONK"] = {
+						},
+						["PRIEST"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -230,9 +258,11 @@ DominosDB = {
 				},
 				["encounter"] = {
 					["showInPetBattleUI"] = true,
-					["point"] = "CENTER",
+					["x"] = 12,
+					["anchor"] = "castTR",
 					["showInOverrideUI"] = true,
 					["hidden"] = true,
+					["y"] = 64,
 				},
 				["bags"] = {
 					["showInPetBattleUI"] = false,
@@ -245,9 +275,9 @@ DominosDB = {
 					["y"] = -219,
 				},
 				["pet"] = {
-					["y"] = -32,
-					["x"] = 0,
-					["point"] = "CENTER",
+					["y"] = 93,
+					["x"] = 684,
+					["point"] = "BOTTOMLEFT",
 					["spacing"] = 6,
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
@@ -260,7 +290,6 @@ DominosDB = {
 					["spacing"] = 2,
 					["anchor"] = "rollRC",
 					["showInOverrideUI"] = true,
-					["hidden"] = true,
 					["point"] = "LEFT",
 				},
 				["menu"] = {
@@ -273,20 +302,27 @@ DominosDB = {
 					["x"] = -547,
 					["spacing"] = 0,
 				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = -310,
+					["spacing"] = 2,
+					["showInOverrideUI"] = false,
+					["hidden"] = true,
+					["y"] = 17,
+				},
 				["cast"] = {
 					["showInPetBattleUI"] = false,
-					["point"] = "CENTER",
 					["showInOverrideUI"] = false,
 					["hidden"] = true,
 					["padW"] = 1,
 					["font"] = "Friz Quadrata TT",
-					["y"] = 30,
+					["y"] = -1,
+					["anchor"] = "petTC",
 					["padH"] = 1,
-					["x"] = 0,
 					["display"] = {
 						["border"] = true,
-						["icon"] = false,
 						["time"] = true,
+						["icon"] = false,
 					},
 					["texture"] = "blizzard",
 				},
@@ -306,11 +342,13 @@ DominosDB = {
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
-					["point"] = "LEFT",
-					["spacing"] = 2,
+					["columns"] = 1,
 					["showInOverrideUI"] = true,
 					["hidden"] = true,
-					["columns"] = 1,
+					["y"] = -98,
+					["x"] = 614,
+					["spacing"] = 2,
+					["point"] = "TOPLEFT",
 				},
 			},
 			["minimap"] = {

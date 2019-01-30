@@ -1,17 +1,26 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Yuumi|Kil'jaeden|Horde|120|MONK", -- [1]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [1]
+				"Yuumi|Kil'jaeden|Horde|120|MONK", -- [2]
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-	},
 	["profiles"] = {
+		["Tosh - Kil'jaeden"] = {
+		},
 		["Yuumi - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+				},
+			},
 		},
 	},
 }

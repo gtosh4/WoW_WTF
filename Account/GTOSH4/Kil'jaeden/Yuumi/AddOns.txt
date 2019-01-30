@@ -6,3 +6,8 @@ ElvUI_EverySecondCounts: disabled
 BigWigs_Voice: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CUFProfiles: disabled
+oRA3: disabled
+Clique: disabled
+bigdumblootcouncil: disabled
+BigWigs_BattleOfDazaralor: enabled
+LittleWigs: enabled

@@ -16,19 +16,30 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
+					["h"] = 12,
+					["targetname"] = true,
+					["w"] = 500,
 					["hideicon"] = true,
-					["border"] = "Grid2 Flat",
-					["x"] = 1308.33325195313,
+					["border"] = "None",
+					["x"] = 1111.07360839844,
 					["texture"] = "ElvUI Norm",
+					["y"] = 925.059326171875,
 				},
 			},
 		},
-		["EnemyCasts"] = {
-		},
 		["GCD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["gcdgap"] = -16,
+					["gcdheight"] = 12,
+					["strata"] = "BACKGROUND",
+				},
+			},
 		},
 		["Focus"] = {
 			["profiles"] = {
@@ -46,14 +57,15 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Tosh - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -62,9 +74,9 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Buff"] = false,
-				["Mirror"] = false,
 				["Target"] = false,
+				["Mirror"] = false,
+				["Buff"] = false,
 			},
 		},
 	},

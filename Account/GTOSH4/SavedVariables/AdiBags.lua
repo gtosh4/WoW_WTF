@@ -30,13 +30,18 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["WoD"] = {
+		["CurrencyFrame"] = {
 		},
 		["NewItem"] = {
 		},
 		["MoP"] = {
 		},
 		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "one",
+				},
+			},
 		},
 		["Legion"] = {
 		},
@@ -48,16 +53,23 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["CurrencyFrame"] = {
+		["WoD"] = {
 		},
 		["Hearthstones"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Tosh - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = 0,
+					["yOffset"] = 198.999923706055,
+				},
+			},
 		},
 	},
 }
