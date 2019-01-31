@@ -22,20 +22,20 @@ PremadeGroupsFilterState = {
 		},
 		["expression"] = "",
 		["difficulty"] = {
-			["act"] = false,
 			["val"] = 3,
-		},
-		["members"] = {
-			["max"] = "",
-			["min"] = "",
-			["act"] = false,
-		},
-		["heals"] = {
-			["max"] = "",
-			["min"] = "",
 			["act"] = false,
 		},
 		["defeated"] = {
+			["max"] = "5",
+			["min"] = "",
+			["act"] = true,
+		},
+		["heals"] = {
+			["max"] = "3",
+			["min"] = "",
+			["act"] = true,
+		},
+		["members"] = {
 			["max"] = "",
 			["min"] = "",
 			["act"] = false,

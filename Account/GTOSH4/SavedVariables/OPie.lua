@@ -6,6 +6,14 @@ OneRing_Config = {
 	["_OPieVersion"] = "Vanilla 9 (3.96)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["Bindings"] = {
+				["RaidSymbols"] = "ALT-E",
+				["WorldMarkers"] = "ALT-Q",
+				["CommonTrades"] = false,
+				["SpecMenu"] = false,
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+			},
 		},
 	},
 	["PersistentStorage"] = {

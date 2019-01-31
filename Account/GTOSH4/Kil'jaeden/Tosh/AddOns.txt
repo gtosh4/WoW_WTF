@@ -8,3 +8,6 @@ BigWigs_BattleOfDazaralor: enabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled
+LittleWigs: enabled
+Blizzard_CompactRaidFrames: enabled
+Blizzard_CUFProfiles: disabled

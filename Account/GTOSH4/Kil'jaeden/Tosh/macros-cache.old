@@ -32,8 +32,8 @@ VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
 /cast [spec:1,@mouseover,noharm] Power Word: Radiance; [spec:2] Holy Word: Sanctify
 END
 VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
-#showtooltip [spec:1] Power Word: Shield; [spec:2] Renew
-/cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew
+#showtooltip [spec:1] Power Word: Shield; [spec:2] Rene; [spec:3] Power Word: Shield
+/cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew; [spec:3,@mouseover,noharm] Power Word: Shield
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip Shadow Covenant
@@ -44,8 +44,8 @@ VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Holy Word: Serenity
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
-#showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal
-/cast [spec:1,@mouseover,noharm] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal
+#showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend
+/cast [spec:1,@mouseover,noharm] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal; [spec:3,@mouseover,noharm] Shadow Mend
 END
 VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
 #showtooltip Smite

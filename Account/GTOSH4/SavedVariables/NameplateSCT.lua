@@ -4,4 +4,13 @@ NameplateSCTDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
 	},
+	["global"] = {
+		["animations"] = {
+			["normal"] = "verticalUp",
+			["crit"] = "fountain",
+			["miss"] = "fountain",
+		},
+		["yOffset"] = 15,
+		["font"] = "Expressway",
+	},
 }

@@ -70,6 +70,10 @@ AdiBagsDB = {
 					["yOffset"] = 198.999923706055,
 				},
 			},
+			["filterPriorities"] = {
+				["ItemSets"] = 93,
+			},
+			["autoDeposit"] = true,
 		},
 	},
 }

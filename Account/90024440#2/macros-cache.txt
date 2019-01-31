@@ -1,0 +1,85 @@
+VER 3 000000000000000E "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Fading Umbral Wand
+END
+VER 3 0000000000000015 "bh/coh" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [nomod,talent:5/2,@mouseover,help,nodead] [nomod,talent:5/2] Binding Heal; [nomod,talent:5/3,@mouseover,help,nodead] [nomod,talent:5/3] Circle of Healing
+END
+VER 3 0000000000000008 "bird+fort" "INV_MISC_QUESTIONMARK"
+/say
+/cast Power Word: Fortitude
+/use Overtuned Corgi Goggles
+/use Trans-Dimensional Bird Whistle
+END
+VER 3 0000000000000012 "coh" "INV_MISC_QUESTIONMARK"
+#showtooltip Circle of Healing
+/cast [@mouseover,help][]  Circle of Healing
+END
+VER 3 0000000000000014 "ds/halo" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:6/2] Divine Star; [talent:6/3] Halo
+/cast [talent:6/2] Divine Star
+/cast [talent:6/3] Halo
+END
+VER 3 000000000000000F "fl" "136103"
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
+/follow Zaemme
+END
+VER 3 0000000000000010 "healthstone" "INV_MISC_QUESTIONMARK"
+/use Healthstone
+/use Coastal Healing Potion
+END
+VER 3 000000000000000B "LW" "INV_MISC_QUESTIONMARK"
+#showtooltip Light's Wrath
+/cast [@mouseover,help][] Light's Wrath
+END
+VER 3 0000000000000006 "mob" "INV_MISC_QUESTIONMARK"
+/way 51.6 16.2 Aogexon
+/way 65 21.2 Bergruu (Pats north and south)
+/way 50.2 41.2 Dekorhan
+/way 60.4 38.6 Direhoof
+/way 48.2 22.2 Gagrog
+/way 34.2 51.4 Mu'gra's
+/way 59.6 32.6 Thek'talon (Pats SW, NE)
+/way 41.6 45 Xelganak
+/way 37.4 39 Vileclaw
+END
+VER 3 0000000000000005 "pen" "INV_MISC_QUESTIONMARK"
+#showtooltip Penance
+/cast [@mouseover,help][] Penance
+END
+VER 3 0000000000000002 "ple" "INV_MISC_QUESTIONMARK"
+#showtooltip Plea
+/cast [@mouseover,help][] Plea
+END
+VER 3 000000000000000C "pom-me" "INV_MISC_QUESTIONMARK"
+#showtooltip Prayer of Mending
+/tar [@Yellowy]
+/cast Prayer of Mending
+END
+VER 3 0000000000000003 "ps" "INV_MISC_QUESTIONMARK"
+#showtooltip Pain Suppression
+/cast [@mouseover,help][] Pain Suppression
+END
+VER 3 0000000000000007 "pw:r" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Radiance
+/cast [@mouseover,help][] Power Word: Radiance
+END
+VER 3 0000000000000001 "pw:s" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield
+/cast [@mouseover,help][] Power Word: Shield
+END
+VER 3 000000000000000A "ring+apotheosis" "INV_MISC_QUESTIONMARK"
+#showtooltip Apotheosis
+/use Gnawed Thumb Ring
+/cast Apotheosis
+END
+VER 3 0000000000000009 "ring+hymn" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Hymn
+/use Gnawed Thumb Ring
+/cast Divine Hymn
+END
+VER 3 0000000000000004 "sm" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Mend
+/cast [@mouseover,help][] Shadow Mend
+END

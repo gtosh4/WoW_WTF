@@ -45,6 +45,8 @@ TalentSetManager_CharacterSaves = {
 					["tt"] = "talents",
 				}, -- [2]
 			},
+			[3] = {
+			},
 		},
 		["talents_pvp"] = {
 		},
@@ -61,6 +63,30 @@ TalentSetManager_CharacterSaves = {
 		},
 		["talents"] = {
 			{
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 135895,
+				}, -- [1]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 458720,
+				}, -- [2]
 			}, -- [1]
 			{
 			}, -- [2]
