@@ -2,3 +2,7 @@ AAP-Core: disabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled
+ElvUI_EverySecondCounts: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled

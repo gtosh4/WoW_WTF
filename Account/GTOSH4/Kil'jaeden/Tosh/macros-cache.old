@@ -3,7 +3,7 @@ VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
 /cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
-#showtooltip Angelic Feather
+#showtooltip Angelic Feather; [spec:3] Power Word: Sheidl
 /cast [@player] Angelic Feather
 /stopspelltarget
 END
@@ -16,8 +16,8 @@ VER 3 0100000000000010 "Pen" "INV_Misc_QuestionMark"
 /cast [spec:1,harm] Penance; [spec:2,@mouseover,noharm] Prayer of Mending
 END
 VER 3 010000000000000E "poh" "INV_Misc_QuestionMark"
-#showtooltip Prayer of Healing
-/cast [@mouseover,noharm] Prayer of Healing
+#showtooltip [spec:2] Prayer of Healing; [spec:1] Penance
+/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm] Penance
 END
 VER 3 0100000000000005 "ps" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Pain Suppression; [spec:2] Guardian Spirit

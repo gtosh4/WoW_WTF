@@ -1,8 +1,9 @@
 
 MacroToolkitDB = {
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "profile",
+		["Zaemme - Kil'jaeden"] = "profile",
 		["Yuumi - Kil'jaeden"] = "profile",
+		["Tosh - Kil'jaeden"] = "profile",
 	},
 	["profiles"] = {
 		["profile"] = {

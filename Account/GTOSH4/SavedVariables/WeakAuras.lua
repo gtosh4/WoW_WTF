@@ -2,6 +2,10 @@
 WeakAurasSaved = {
 	["dynamicIconCache"] = {
 	},
+	["minimap"] = {
+		["minimapPos"] = 285.444860106683,
+		["hide"] = true,
+	},
 	["displays"] = {
 		["Tosh RaidCDs"] = {
 			["grow"] = "DOWN",
@@ -81,15 +85,15 @@ WeakAurasSaved = {
 			["constantFactor"] = "RADIUS",
 			["borderOffset"] = 16,
 			["semver"] = "1.0.0-8",
-			["rotation"] = 0,
+			["internalVersion"] = 11,
 			["id"] = "Tosh RaidCDs",
-			["selfPoint"] = "TOP",
+			["rotation"] = 0,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 11,
+			["selfPoint"] = "TOP",
+			["uid"] = "k)k0yM84OEu",
 			["config"] = {
 			},
-			["uid"] = "k)k0yM84OEu",
 			["backgroundInset"] = 0,
 			["conditions"] = {
 			},
@@ -112,9 +116,9 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -186,7 +190,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -201,31 +205,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1FontFlags"] = "OUTLINE",
@@ -257,7 +261,7 @@ WeakAurasSaved = {
 			["text2Font"] = "Arial Narrow",
 			["uid"] = "KA(dTW0SGKG",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["xOffset"] = 0,
@@ -322,15 +326,15 @@ WeakAurasSaved = {
 			["uid"] = "M4TE6m25HGT",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -393,14 +397,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							284168, -- [1]
-						},
+						["name"] = "Plague of Toads",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Shrunk", -- [1]
 						},
-						["name"] = "Plague of Toads",
+						["spellIds"] = {
+							284168, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -503,15 +507,15 @@ WeakAurasSaved = {
 			["uid"] = "jaRY71jGBYy",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -586,19 +590,19 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["authorOptions"] = {
-			},
+			["text1FontFlags"] = "OUTLINE",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownSwipe"] = true,
-			["xOffset"] = 0,
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
@@ -661,8 +665,6 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["cooldownEdge"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -677,8 +679,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["selfPoint"] = "CENTER",
+			["xOffset"] = 0,
 			["uid"] = "69D6qf4vYHq",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				0.9921568627451, -- [1]
 				0.95686274509804, -- [2]
@@ -689,18 +693,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["cooldownEdge"] = false,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -712,13 +716,8 @@ WeakAurasSaved = {
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Arial Narrow",
+			["desaturate"] = false,
 			["frameStrata"] = 1,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -726,15 +725,20 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["useGlowColor"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Drops Pool",
 			["icon"] = true,
-			["auto"] = true,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["internalVersion"] = 11,
 			["id"] = "04 Liquid Gold",
 			["glow"] = true,
@@ -761,11 +765,13 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -776,8 +782,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
-			["icon"] = true,
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -805,10 +809,10 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"284168", -- [1]
 						},
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["matchesShowOn"] = "showOnActive",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["names"] = {
 							"Shrunk", -- [1]
 						},
@@ -842,31 +846,31 @@ WeakAurasSaved = {
 			["uid"] = "4YFhCcdEe(3",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -913,7 +917,38 @@ WeakAurasSaved = {
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["spellId"] = 283662,
+						["duration"] = "1",
+						["unit"] = "boss1",
+						["debuffType"] = "HARMFUL",
+						["type"] = "status",
+						["subeventSuffix"] = "_CAST_START",
+						["use_unit"] = true,
+						["event"] = "Cast",
+						["use_specific_unit"] = true,
+						["unevent"] = "auto",
+						["use_spellId"] = true,
+						["name"] = "Call to Arms",
+						["use_absorbMode"] = true,
+						["names"] = {
+							"Wave of Light", -- [1]
+						},
+						["spellIds"] = {
+							283598, -- [1]
+						},
+						["buffShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+						["use_specific_unit"] = true,
+						["unit"] = "boss1",
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
 			["cooldownTextEnabled"] = true,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
@@ -955,31 +990,31 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -1028,38 +1063,7 @@ WeakAurasSaved = {
 			["internalVersion"] = 11,
 			["displayIcon"] = 236362,
 			["cooldown"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["spellId"] = 283662,
-						["duration"] = "1",
-						["unit"] = "boss1",
-						["debuffType"] = "HARMFUL",
-						["type"] = "status",
-						["subeventSuffix"] = "_CAST_START",
-						["use_unit"] = true,
-						["event"] = "Cast",
-						["use_specific_unit"] = true,
-						["unevent"] = "auto",
-						["use_spellId"] = true,
-						["spellIds"] = {
-							283598, -- [1]
-						},
-						["use_absorbMode"] = true,
-						["names"] = {
-							"Wave of Light", -- [1]
-						},
-						["name"] = "Call to Arms",
-						["buffShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
-					},
-					["untrigger"] = {
-						["use_specific_unit"] = true,
-						["unit"] = "boss1",
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
+			["useglowColor"] = false,
 		},
 		["Tosh HealerMana"] = {
 			["grow"] = "DOWN",
@@ -1164,12 +1168,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -1213,7 +1211,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -1243,7 +1247,7 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -1257,31 +1261,31 @@ WeakAurasSaved = {
 			["uid"] = "fCbusg3tTD6",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["color"] = {
 				1, -- [1]
@@ -1315,10 +1319,10 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 		},
 		["09 Prismatic Image"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -1365,14 +1369,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							285215, -- [1]
-						},
+						["name"] = "Freezing Blast",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
-						["name"] = "Freezing Blast",
+						["spellIds"] = {
+							285215, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -1406,31 +1410,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["text1Containment"] = "OUTSIDE",
 			["text1FontFlags"] = "OUTLINE",
@@ -1524,11 +1528,11 @@ WeakAurasSaved = {
 						["use_absorbMode"] = true,
 						["unit"] = "boss1",
 						["duration"] = "1",
-						["debuffType"] = "HARMFUL",
+						["custom_hide"] = "timed",
 						["use_specific_unit"] = true,
 						["type"] = "custom",
-						["subeventSuffix"] = "_SUMMON",
 						["unevent"] = "timed",
+						["subeventSuffix"] = "_SUMMON",
 						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["event"] = "Combat Log",
@@ -1537,14 +1541,14 @@ WeakAurasSaved = {
 						},
 						["buffShowOn"] = "showOnActive",
 						["use_spellId"] = true,
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["name"] = "Set Charge",
 						["custom"] = "function(event, ...)\n    if not WeakAuras.triggerState[aura_env.id].triggers[1] then\n        if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n            local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n            if subEvent == \"SPELL_SUMMON\" and spellID == 285725 then\n                return true\n            end\n        end\n    end\nend",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["use_unit"] = true,
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
-						["custom_hide"] = "timed",
+						["debuffType"] = "HARMFUL",
 					},
 					["untrigger"] = {
 						["use_specific_unit"] = true,
@@ -1577,32 +1581,32 @@ WeakAurasSaved = {
 				},
 				["affixes"] = {
 				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = false,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = false,
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1FontFlags"] = "OUTLINE",
@@ -1646,21 +1650,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Buff.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -1701,7 +1690,22 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
+			["useglowColor"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Buff.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -1722,7 +1726,7 @@ WeakAurasSaved = {
 			},
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -1737,15 +1741,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -1793,7 +1797,7 @@ WeakAurasSaved = {
 			["text1Enabled"] = true,
 			["uid"] = "oU)eQyA)Znk",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["authorOptions"] = {
@@ -1801,20 +1805,38 @@ WeakAurasSaved = {
 		},
 		["02 Apetagonizer 3000"] = {
 			["text2Point"] = "CENTER",
-			["text1FontFlags"] = "OUTLINE",
+			["internalVersion"] = 11,
 			["text1FontSize"] = 16,
-			["cooldownTextEnabled"] = true,
+			["color"] = {
+				0.98823529411765, -- [1]
+				1, -- [2]
+				0.96078431372549, -- [3]
+				1, -- [4]
+			},
 			["useglowColor"] = false,
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
-			["cooldownSwipe"] = true,
-			["glow"] = false,
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["sound_path"] = "",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
+					["sound_path"] = "",
+					["do_sound"] = true,
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -1828,20 +1850,20 @@ WeakAurasSaved = {
 						["unit"] = "group",
 						["type"] = "custom",
 						["use_specific_unit"] = false,
-						["unevent"] = "timed",
+						["custom_type"] = "event",
 						["subeventSuffix"] = "_AURA_APPLIED",
 						["subeventPrefix"] = "SPELL",
 						["event"] = "Combat Log",
 						["dynamicDuration"] = false,
 						["customDuration"] = "function()\nreturn 4, 4 + GetTime()\nend",
 						["use_spellId"] = true,
+						["name"] = "Gestate",
 						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unit, castGUID, spellID = ...\n        if (spellID == 282247 or spellID == 282526) then\n            return true\n        end\n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 						["spellIds"] = {
 							265212, -- [1]
 						},
 						["events"] = "UNIT_SPELLCAST_SUCCEEDED, INSTANCE_ENCOUNTER_ENGAGE_UNIT",
-						["name"] = "Gestate",
-						["custom_type"] = "event",
+						["unevent"] = "timed",
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -1854,33 +1876,14 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["preset"] = "alphaPulse",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["url"] = "https://wago.io/bfaraid2/103",
-			["color"] = {
-				0.98823529411765, -- [1]
-				1, -- [2]
-				0.96078431372549, -- [3]
-				1, -- [4]
-			},
+			["selfPoint"] = "CENTER",
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["text1Enabled"] = true,
 			["config"] = {
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -1891,7 +1894,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -1918,11 +1921,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -1950,34 +1953,6 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["sound_path"] = "",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
-					["sound_path"] = "",
-					["do_sound"] = true,
-				},
-				["init"] = {
-				},
-			},
-			["xOffset"] = 0,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1989,26 +1964,55 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["preset"] = "alphaPulse",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["auto"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s%c",
 			["text1"] = "Add Inc",
 			["text1Font"] = "Arial Narrow",
-			["alpha"] = 1,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
-			["desaturate"] = false,
+			["icon"] = true,
 			["id"] = "02 Apetagonizer 3000",
-			["text1Enabled"] = true,
+			["alpha"] = 1,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["text1Containment"] = "OUTSIDE",
 			["uid"] = "evliJh2Fah(",
 			["inverse"] = false,
-			["text2Font"] = "Arial Narrow",
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1141394,
 			["cooldown"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["cooldownTextEnabled"] = true,
 		},
 		["06 Tampering!"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -2017,6 +2021,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["icon"] = true,
+			["cooldownSwipe"] = true,
+			["xOffset"] = 0,
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -2027,13 +2036,13 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["cooldownSwipe"] = true,
-			["xOffset"] = 0,
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
 			["useglowColor"] = false,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -2061,10 +2070,10 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"286105", -- [1]
 						},
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["matchesShowOn"] = "showOnActive",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["names"] = {
 							"Shrunk", -- [1]
 						},
@@ -2084,7 +2093,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["desaturate"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -2099,31 +2108,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "OUTLINE",
@@ -2151,15 +2160,10 @@ WeakAurasSaved = {
 			},
 			["uid"] = "HDW)zQ)xivN",
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 2115322,
 			["cooldown"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 		},
 		["T23 Battle of Dazar'alor Auras"] = {
 			["grow"] = "RIGHT",
@@ -2367,16 +2371,15 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["hybridPosition"] = "hybridFirst",
 			["sort"] = "hybrid",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["selfPoint"] = "LEFT",
 			["hybridSortMode"] = "descending",
 			["constantFactor"] = "RADIUS",
-			["expanded"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["borderOffset"] = 16,
 			["semver"] = "2.0.34-103",
-			["selfPoint"] = "LEFT",
+			["expanded"] = false,
 			["id"] = "T23 Battle of Dazar'alor Auras",
-			["authorOptions"] = {
-			},
+			["radius"] = 200,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["sortHybridTable"] = {
@@ -2426,19 +2429,19 @@ WeakAurasSaved = {
 				["02 High Energy [Horde]"] = true,
 				["02 High Energy [Alliance]"] = true,
 				["08 Storm's Wail"] = true,
-				["05 Lacerating Claws (Tank)"] = true,
+				["09 Glacial Ray"] = true,
 				["09 Broadside"] = true,
 				["08 Kel-Wrapped (Tank Only)"] = true,
 				["05 Akunda's Wrath"] = true,
 				["01 Sacred Blade (Tank Only)"] = true,
 				["05 Gift of Wind Cast (Mage Only)"] = false,
-				["09 Avalanche"] = true,
+				["01 Seal of Retribution"] = true,
 				["01 Blinding Faith"] = true,
 				["06 Gigavolt Charge"] = true,
 				["09 Ring of Frost"] = true,
-				["01 Seal of Retribution"] = true,
+				["09 Avalanche"] = true,
 				["06 Blast Off"] = false,
-				["08 Sea's Temptation"] = true,
+				["07 Focused Demise"] = true,
 				["07 Inevitable End"] = true,
 				["08 Tidal Shroud"] = true,
 				["04 Crush"] = true,
@@ -2451,27 +2454,28 @@ WeakAurasSaved = {
 				["01 Seal of Reckoning"] = true,
 				["06 Tampering!"] = false,
 				["04 Chaotic Displacement"] = true,
-				["07 Focused Demise"] = true,
+				["08 Sea's Temptation"] = true,
 				["05 Hastening Winds (Tank Only)"] = true,
 				["08 Sea Storm"] = true,
-				["09 Glacial Ray"] = true,
+				["05 Lacerating Claws (Tank)"] = true,
 				["02 Reverberating Slam [Horde]"] = true,
 				["07 Seal of Purification"] = true,
 			},
-			["uid"] = "oooQJ56mGyg",
-			["rotation"] = 0,
 			["config"] = {
 			},
+			["rotation"] = 0,
+			["uid"] = "oooQJ56mGyg",
 			["conditions"] = {
 			},
-			["radius"] = 200,
 			["backgroundInset"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["05 Kimbul's Wrath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
-			["auto"] = true,
+			["useGlowColor"] = false,
 			["cooldownEdge"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -2499,7 +2503,7 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["text1Enabled"] = true,
+			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["triggers"] = {
@@ -2545,7 +2549,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["text2Font"] = "Arial Narrow",
 			["config"] = {
 			},
 			["desaturate"] = false,
@@ -2562,15 +2566,15 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -2588,7 +2592,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["glow"] = true,
-			["stickyDuration"] = false,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["animation"] = {
@@ -2605,28 +2609,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useGlowColor"] = false,
+			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Targeted",
 			["text1Font"] = "Arial Narrow",
-			["alpha"] = 1,
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["stickyDuration"] = false,
 			["id"] = "05 Kimbul's Wrath",
-			["text1Containment"] = "OUTSIDE",
 			["text2Enabled"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 11,
+			["text1Containment"] = "OUTSIDE",
 			["uid"] = "5J5SlBK5aKw",
 			["inverse"] = false,
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["cooldownTextEnabled"] = true,
@@ -2673,16 +2677,16 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_never"] = false,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2263,2265,2266,2268,2271,2272,2276,2280,2281,2284,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -2726,10 +2730,10 @@ WeakAurasSaved = {
 				["285254"] = true,
 				["285253"] = false,
 				["289858dropdown"] = 2,
-				["283573slider"] = 0,
-				["285945slider"] = 0,
-				["283573"] = false,
 				["specifiedSound"] = 1,
+				["285945slider"] = 0,
+				["283573slider"] = 0,
+				["283573"] = false,
 				["289858"] = false,
 				["289699"] = true,
 				["285874"] = true,
@@ -2769,14 +2773,21 @@ WeakAurasSaved = {
 			["height"] = 80,
 			["fontSize"] = 57,
 			["text2Containment"] = "INSIDE",
-			["wordWrap"] = "WordWrap",
+			["uid"] = "YPFe0Za5Pf6",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["glow"] = false,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["authorOptions"] = {
 				{
 					["text"] = "Enable Taunt Sound?",
@@ -3244,13 +3255,6 @@ WeakAurasSaved = {
 					["width"] = 2,
 				}, -- [62]
 			},
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["uid"] = "YPFe0Za5Pf6",
 			["text1Containment"] = "OUTSIDE",
 			["text2Font"] = "Arial Narrow",
 			["text2"] = "%s%c",
@@ -3263,10 +3267,10 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_hide"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["duration"] = "5",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["custom_type"] = "stateupdate",
 						["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID,_,_, auraType, amount = ...\n        if (subEvent == \"SPELL_AURA_APPLIED\" or subEvent == \"SPELL_AURA_APPLIED_DOSE\" or subEvent == \"SPELL_AURA_REMOVED_DOSE\" or subEvent == \"SPELL_AURA_REFRESH\") then\n            --checks for buff/debuff applied to co-tanks based on auraType\n            \n            if UnitGroupRolesAssigned(destName) == \"TANK\" and UnitIsVisible(destName) and UnitIsPlayer(destName) and destGUID~=WeakAuras.myGUID\n            then\n                if aura_env.config[\"enableSound\"] == 1 and (amount and amount > 0 and aura_env.config[spellID..\"slider\"] == amount or aura_env.config[spellID..\"dropdown\"] == 1) then\n                    PlaySoundFile(aura_env.sound[aura_env.config[\"specifiedSound\"]], \"MASTER\")\n                end\n                if aura_env.config[tostring(spellID)] then\n                    local _, spellicon, stackcount, _, dur, expTime  = WA_GetUnitAura(destName, spellID, aura_env.convert[auraType])\n                    allstates[spellID..destGUID] = {\n                        show = true,\n                        changed = true,\n                        progressType = \"timed\",\n                        duration = dur,\n                        expirationTime = expTime,\n                        autoHide = true,\n                        name = WA_ClassColorName(destName),\n                        icon = spellicon,\n                        stacks = stackcount,\n                        spellID = spellID,\n                    } \n                end\n            end\n            if (strsplit(\"-\", destGUID) == \"Creature\" or strsplit(\"-\", destGUID) == \"Vehicle\") and auraType == \"BUFF\" then\n                --checks for buff applied to boss1-5 and returns bossX target's name\n                for i = 1,5 do \n                    local unit = \"boss\"..i\n                    if (UnitGUID(unit) == destGUID) and not UnitIsUnit(unit..\"target\", \"player\") then\n                        if aura_env.config[\"enableSound\"] == 1 and (amount and amount > 0 and aura_env.config[spellID..\"slider\"] == amount or aura_env.config[spellID..\"toggle\"] == 1) then\n                            PlaySoundFile(aura_env.sound[aura_env.config[\"specifiedSound\"]], \"MASTER\")\n                        end\n                        if aura_env.config[tostring(spellID)] then\n                            local _, spellicon, stackcount, _, dur, expTime  = WA_GetUnitAura(unit, spellID, aura_env.convert[auraType])\n                            allstates[spellID..destGUID] = {\n                                show = true,\n                                changed = true,\n                                progressType = \"timed\",\n                                duration = dur,\n                                expirationTime = expTime,\n                                autoHide = true,\n                                name = WA_ClassColorName(unit..\"target\"),\n                                icon = spellicon,\n                                stacks = stackcount,\n                                spellID = spellID,\n                            } \n                            break \n                        end\n                    end\n                end\n            end\n        elseif subEvent == \"SPELL_CAST_START\" and aura_env.config[tostring(spellID)] then\n            --checks for started casts then if player no debuff while co-tank debuff then it shows\n            for i = 1,5 do \n                local unit = \"boss\"..i\n                if (UnitGUID(unit) == sourceGUID) and not UnitIsUnit(unit..\"target\", \"player\") then\n                    if WA_GetUnitAura(unit..\"target\", aura_env.associatedDebuff[spellID], \"HARMFUL\") then\n                        local buffname, spellicon, stackcount, _, dur, expTime  = WA_GetUnitAura(\"player\", aura_env.associatedDebuff[spellID], \"HARMFUL\")\n                        local name, text, texture, startTimeMS, endTimeMS = UnitCastingInfo(unit)\n                        if (expTime and (expTime-GetTime()) < (endTimeMS/1000-GetTime())) or not buffname then\n                            PlaySoundFile(aura_env.sound[aura_env.config[\"specifiedSound\"]], \"MASTER\")\n                            allstates[sourceGUID..spellID] = {\n                                show = true,\n                                changed = true,\n                                progressType = \"timed\",\n                                duration = endTimeMS / 1000 - GetTime(),\n                                expirationTime = endTimeMS / 1000,\n                                autoHide = true,\n                                name = \"Taunt\",\n                                icon = texture,\n                                spellID = spellID,\n                            }\n                        break end\n                    end\n                end\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" then\n            if allstates[spellID..destGUID] then\n                allstates[spellID..destGUID].changed = true\n                allstates[spellID..destGUID].show = false\n            end\n        end\n    end\n    return true\nend",
 						["spellIds"] = {
@@ -3283,8 +3287,8 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["semver"] = "2.0.34-103",
 			["useGlowColor"] = false,
+			["semver"] = "2.0.34-103",
 			["justify"] = "LEFT",
 			["alpha"] = 1,
 			["id"] = "T23 Co-Tank Auras (Custom Options!)",
@@ -3327,7 +3331,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["wordWrap"] = "WordWrap",
 		},
 		["03 Magma Trap"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -3342,7 +3346,48 @@ WeakAurasSaved = {
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["rem"] = "4",
+						["spellId"] = "284374",
+						["useGroup_count"] = false,
+						["group_role"] = "TANK",
+						["matchesShowOn"] = "showOnActive",
+						["names"] = {
+							"Magma Trap", -- [1]
+						},
+						["use_tooltip"] = false,
+						["use_absorbMode"] = true,
+						["use_specific_unit"] = false,
+						["debuffType"] = "HARMFUL",
+						["buffShowOn"] = "showOnActive",
+						["unit"] = "player",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
+						["spellIds"] = {
+							284374, -- [1]
+						},
+						["event"] = "Cast",
+						["subeventPrefix"] = "SPELL",
+						["auraspellids"] = {
+							"284374", -- [1]
+						},
+						["use_spellId"] = true,
+						["name"] = "Magma Trap",
+						["useExactSpellId"] = true,
+						["remOperator"] = "<=",
+						["combineMatches"] = "showLowest",
+						["use_unit"] = true,
+						["fullscan"] = true,
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
 			["authorOptions"] = {
 			},
 			["text1Enabled"] = true,
@@ -3394,16 +3439,16 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2266,2285",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
+				["encounterid"] = "2266,2285",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
@@ -3414,12 +3459,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["glow"] = false,
 			["text2Color"] = {
@@ -3448,55 +3488,19 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
 			["text2Font"] = "Arial Narrow",
 			["displayIcon"] = 841379,
 			["cooldown"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["rem"] = "4",
-						["spellId"] = "284374",
-						["useGroup_count"] = false,
-						["group_role"] = "TANK",
-						["matchesShowOn"] = "showOnActive",
-						["names"] = {
-							"Magma Trap", -- [1]
-						},
-						["use_tooltip"] = false,
-						["use_absorbMode"] = true,
-						["use_specific_unit"] = false,
-						["debuffType"] = "HARMFUL",
-						["buffShowOn"] = "showOnActive",
-						["unit"] = "player",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["unevent"] = "auto",
-						["subeventSuffix"] = "_CAST_START",
-						["spellIds"] = {
-							284374, -- [1]
-						},
-						["event"] = "Cast",
-						["subeventPrefix"] = "SPELL",
-						["auraspellids"] = {
-							"284374", -- [1]
-						},
-						["use_spellId"] = true,
-						["name"] = "Magma Trap",
-						["useExactSpellId"] = true,
-						["remOperator"] = "<=",
-						["combineMatches"] = "showLowest",
-						["use_unit"] = true,
-						["fullscan"] = true,
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
+			["useglowColor"] = false,
 		},
 		["01 Divine Mallet"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -3539,14 +3543,14 @@ WeakAurasSaved = {
 						["dynamicDuration"] = true,
 						["unit"] = "boss1",
 						["use_unit"] = true,
-						["debuffType"] = "HARMFUL",
-						["use_cloneId"] = true,
 						["custom_hide"] = "timed",
-						["custom_type"] = "event",
+						["use_cloneId"] = true,
+						["debuffType"] = "HARMFUL",
+						["unevent"] = "timed",
 						["type"] = "event",
-						["events"] = "",
-						["subeventSuffix"] = "_CAST_START",
 						["name"] = "Divine Mallet",
+						["subeventSuffix"] = "_CAST_START",
+						["events"] = "",
 						["buffShowOn"] = "showOnActive",
 						["event"] = "Combat Log",
 						["use_specific_unit"] = true,
@@ -3555,7 +3559,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							282939, -- [1]
 						},
-						["unevent"] = "timed",
+						["custom_type"] = "event",
 						["remOperator"] = "<=",
 						["names"] = {
 							"Flames of Punishment", -- [1]
@@ -3591,32 +3595,32 @@ WeakAurasSaved = {
 				["use_encounterid"] = true,
 				["affixes"] = {
 				},
-				["encounterid"] = "2265",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2265",
+				["use_difficulty"] = true,
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -3676,15 +3680,15 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -3700,21 +3704,21 @@ WeakAurasSaved = {
 						},
 						["use_tooltip"] = false,
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["auranames"] = {
 							"285213", -- [1]
 						},
 						["useName"] = true,
 						["event"] = "Cast",
 						["subeventPrefix"] = "SPELL",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							285213, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
 						["use_unit"] = true,
 						["matchesShowOn"] = "showOnActive",
 						["combineMatches"] = "showLowest",
@@ -3744,15 +3748,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -3763,12 +3767,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["stickyDuration"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -3810,7 +3809,12 @@ WeakAurasSaved = {
 			["text2Font"] = "Arial Narrow",
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "kupU2KlQyZU",
 			["inverse"] = false,
 			["animation"] = {
@@ -3829,21 +3833,85 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 1802889,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = false,
 		},
 		["07 Scorching Detonation (Tank Only)"] = {
 			["text2Point"] = "CENTER",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
-			["text1FontFlags"] = "OUTLINE",
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"284831", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["genericShowOn"] = "showOnActive",
+						["unit"] = "player",
+						["use_tooltip"] = false,
+						["dynamicDuration"] = false,
+						["custom_hide"] = "timed",
+						["subeventSuffix"] = "_CAST_START",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["custom_type"] = "event",
+						["buffShowOn"] = "showOnActive",
+						["names"] = {
+							"Scorching Detonation", -- [1]
+						},
+						["event"] = "Chat Message",
+						["subeventPrefix"] = "SPELL",
+						["spellIds"] = {
+							284831, -- [1]
+						},
+						["useName"] = true,
+						["events"] = "",
+						["unevent"] = "auto",
+						["check"] = "event",
+						["combineMatches"] = "showLowest",
+						["useGroup_count"] = false,
+						["debuffType"] = "HARMFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["spellId"] = 284831,
+						["use_absorbMode"] = true,
+						["unit"] = "multi",
+						["destUnit"] = "player",
+						["custom_hide"] = "timed",
+						["type"] = "custom",
+						["unevent"] = "auto",
+						["subeventPrefix"] = "SPELL",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Cast",
+						["duration"] = "1",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284831 and UnitIsUnit(unitID..\"target\", \"player\") \n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284831 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
+						["use_spellId"] = true,
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["custom_type"] = "stateupdate",
+						["check"] = "event",
+						["use_destUnit"] = true,
+						["dynamicDuration"] = false,
+						["use_unit"] = true,
+					},
+					["untrigger"] = {
+						["unit"] = "multi",
+					},
+				}, -- [2]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["glow"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["cooldownSwipe"] = true,
-			["cooldownTextEnabled"] = true,
+			["glow"] = true,
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
 			["conditions"] = {
@@ -3871,6 +3939,8 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["cooldownTextEnabled"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -3886,15 +3956,8 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["uid"] = "kn4HEXpm1N9",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -3905,7 +3968,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -3934,11 +3997,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -3974,93 +4037,34 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["regionType"] = "icon",
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["auranames"] = {
-							"284831", -- [1]
-						},
-						["matchesShowOn"] = "showOnActive",
-						["genericShowOn"] = "showOnActive",
-						["unit"] = "player",
-						["use_tooltip"] = false,
-						["dynamicDuration"] = false,
-						["debuffType"] = "HARMFUL",
-						["custom_type"] = "event",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["buffShowOn"] = "showOnActive",
-						["names"] = {
-							"Scorching Detonation", -- [1]
-						},
-						["event"] = "Chat Message",
-						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-							284831, -- [1]
-						},
-						["useName"] = true,
-						["events"] = "",
-						["unevent"] = "auto",
-						["check"] = "event",
-						["combineMatches"] = "showLowest",
-						["useGroup_count"] = false,
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				{
-					["trigger"] = {
-						["spellId"] = 284831,
-						["use_absorbMode"] = true,
-						["unit"] = "multi",
-						["destUnit"] = "player",
-						["custom_hide"] = "timed",
-						["type"] = "custom",
-						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
-						["subeventSuffix"] = "_CAST_START",
-						["event"] = "Cast",
-						["duration"] = "1",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284831 and UnitIsUnit(unitID..\"target\", \"player\") \n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284831 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["use_spellId"] = true,
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["custom_type"] = "stateupdate",
-						["check"] = "event",
-						["use_destUnit"] = true,
-						["dynamicDuration"] = false,
-						["use_unit"] = true,
-					},
-					["untrigger"] = {
-						["unit"] = "multi",
-					},
-				}, -- [2]
-				["disjunctive"] = "any",
-				["activeTriggerMode"] = -10,
-			},
 			["auto"] = false,
 			["text2FontSize"] = 24,
 			["text2"] = "%p",
 			["text1"] = "Move Far",
 			["text1Containment"] = "OUTSIDE",
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["text2Font"] = "Friz Quadrata TT",
 			["id"] = "07 Scorching Detonation (Tank Only)",
 			["internalVersion"] = 11,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["text2Enabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -4087,14 +4091,14 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
@@ -4107,7 +4111,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -4142,6 +4145,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -4162,7 +4166,7 @@ WeakAurasSaved = {
 			},
 			["icon"] = true,
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -4176,31 +4180,31 @@ WeakAurasSaved = {
 			["uid"] = "9bj9I(lXa3E",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -4229,7 +4233,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 1698700,
 			["cooldown"] = true,
 			["xOffset"] = 0,
@@ -4247,7 +4251,7 @@ WeakAurasSaved = {
 			["yOffset"] = 616.019714355469,
 			["anchorPoint"] = "CENTER",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/ry2wJDZOb/1",
+			["automaticWidth"] = "Auto",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -4266,18 +4270,18 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["debuffType"] = "HELPFUL",
 						["custom_type"] = "event",
-						["event"] = "Health",
-						["custom"] = "--! [Encounter Time] Trigger (Enter/Exit Combat)\nfunction()\n    local A = aura_env\n    if (UnitExists(\"boss1\") and UnitIsDeadOrGhost(\"player\")) or UnitAffectingCombat(\"player\") or InCombatLockdown() then\n        A.combatStart = A.combatStart or GetTime()\n        return true\n    else\n        A.combatStart = nil\n        return false\n    end\nend",
 						["genericShowOn"] = "showOnActive",
+						["events"] = "INSTANCE_ENCOUNTER_ENGAGE_UNIT, PLAYER_REGEN_DISABLED, PLAYER_REGEN_ENABLED",
+						["event"] = "Health",
 						["unit"] = "player",
 						["customDuration"] = "",
 						["customName"] = "",
-						["events"] = "INSTANCE_ENCOUNTER_ENGAGE_UNIT, PLAYER_REGEN_DISABLED, PLAYER_REGEN_ENABLED",
+						["spellIds"] = {
+						},
 						["names"] = {
 						},
 						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-						},
+						["custom"] = "--! [Encounter Time] Trigger (Enter/Exit Combat)\nfunction()\n    local A = aura_env\n    if (UnitExists(\"boss1\") and UnitIsDeadOrGhost(\"player\")) or UnitAffectingCombat(\"player\") or InCombatLockdown() then\n        A.combatStart = A.combatStart or GetTime()\n        return true\n    else\n        A.combatStart = nil\n        return false\n    end\nend",
 						["subeventSuffix"] = "_CAST_START",
 						["custom_hide"] = "custom",
 					},
@@ -4288,20 +4292,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["internalVersion"] = 11,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "TOPRIGHT",
 			["font"] = "consolab",
 			["version"] = 1,
 			["height"] = 33.999992370605,
@@ -4332,7 +4323,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -4352,7 +4343,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -4365,21 +4356,34 @@ WeakAurasSaved = {
 			["regionType"] = "text",
 			["justify"] = "LEFT",
 			["semver"] = "1.0.0",
-			["xOffset"] = -555.027587890625,
-			["id"] = "Combat Time",
-			["wordWrap"] = "WordWrap",
-			["frameStrata"] = 4,
-			["anchorFrameType"] = "SCREEN",
 			["authorOptions"] = {
 			},
+			["id"] = "Combat Time",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["frameStrata"] = 4,
+			["anchorFrameType"] = "SCREEN",
+			["xOffset"] = -555.027587890625,
 			["config"] = {
 			},
 			["fixedWidth"] = 200,
 			["width"] = 123,
 			["conditions"] = {
 			},
-			["automaticWidth"] = "Auto",
-			["selfPoint"] = "TOPRIGHT",
+			["url"] = "https://wago.io/ry2wJDZOb/1",
+			["wordWrap"] = "WordWrap",
 		},
 		["05 Krag'wa's Wrath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -4390,7 +4394,7 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["text2"] = "%c",
 			["cooldownSwipe"] = true,
-			["useglowColor"] = false,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
@@ -4407,25 +4411,26 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
 						["type"] = "custom",
 						["custom_hide"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
-						["subeventPrefix"] = "SPELL",
-						["duration"] = "3",
-						["event"] = "Health",
 						["names"] = {
 						},
+						["duration"] = "3",
+						["event"] = "Health",
+						["unit"] = "player",
 						["customDuration"] = "function()\n    return aura_env.duration, aura_env.expirationTime + GetTime()\nend",
+						["custom"] = "function(event, ...)\n    if event == \"KRAG_WA\" and aura_env.counter >= 1 then\n        local aura_env = aura_env\n        C_Timer.After(3, function() aura_env.counter = aura_env.counter - 1 WeakAuras.ScanEvents(\"KRAG_WA\") end)\n        return true\n    end\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 282636 then\n            aura_env.successCount = aura_env.successCount + 1\n            if not WeakAuras.triggerState[aura_env.id].triggers[1] then\n                if aura_env.successCount <4 then\n                    aura_env.counter = 3                \n                    aura_env.duration = 3\n                    aura_env.expirationTime = 3\n                    local aura_env = aura_env\n                    C_Timer.After(3, function() aura_env.counter = aura_env.counter - 1 WeakAuras.ScanEvents(\"KRAG_WA\") end)\n                    return true\n                else\n                    aura_env.successCount = 0\n                end\n            end\n        end\n    end\n    if event == \"ENCOUNTER_START\" then\n        aura_env.successCount = 0\n    end\nend",
 						["spellIds"] = {
 						},
-						["custom"] = "function(event, ...)\n    if event == \"KRAG_WA\" and aura_env.counter >= 1 then\n        local aura_env = aura_env\n        C_Timer.After(3, function() aura_env.counter = aura_env.counter - 1 WeakAuras.ScanEvents(\"KRAG_WA\") end)\n        return true\n    end\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 282636 then\n            aura_env.successCount = aura_env.successCount + 1\n            if not WeakAuras.triggerState[aura_env.id].triggers[1] then\n                if aura_env.successCount <4 then\n                    aura_env.counter = 3                \n                    aura_env.duration = 3\n                    aura_env.expirationTime = 3\n                    local aura_env = aura_env\n                    C_Timer.After(3, function() aura_env.counter = aura_env.counter - 1 WeakAuras.ScanEvents(\"KRAG_WA\") end)\n                    return true\n                else\n                    aura_env.successCount = 0\n                end\n            end\n        end\n    end\n    if event == \"ENCOUNTER_START\" then\n        aura_env.successCount = 0\n    end\nend",
 						["dynamicDuration"] = true,
 						["events"] = "COMBAT_LOG_EVENT_UNFILTERED, KRAG_WA, ENCOUNTER_START",
 						["custom_type"] = "event",
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -4433,9 +4438,9 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -4450,11 +4455,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["stickyDuration"] = false,
 			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -4474,16 +4478,16 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
+				["encounterid"] = "2268",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
@@ -4494,12 +4498,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["frameStrata"] = 1,
 			["text2Color"] = {
@@ -4529,21 +4528,26 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 1802889,
 			["cooldown"] = true,
-			["text1Enabled"] = true,
+			["text2Font"] = "Arial Narrow",
 		},
 		["09 Broadside"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["authorOptions"] = {
 			},
-			["stickyDuration"] = false,
+			["text1FontFlags"] = "OUTLINE",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -4611,6 +4615,7 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -4627,9 +4632,8 @@ WeakAurasSaved = {
 				},
 			},
 			["text1Enabled"] = true,
-			["cooldownEdge"] = false,
 			["uid"] = "Ot8wCBLkO8r",
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				0.003921568627451, -- [2]
@@ -4640,18 +4644,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["selfPoint"] = "CENTER",
+			["text1Containment"] = "OUTSIDE",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -4664,12 +4668,7 @@ WeakAurasSaved = {
 			["glowType"] = "ACShine",
 			["text1Font"] = "Arial Narrow",
 			["desaturate"] = false,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -4677,21 +4676,26 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["useGlowColor"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Go Barrel",
 			["icon"] = true,
-			["auto"] = true,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["text2Font"] = "Arial Narrow",
 			["id"] = "09 Broadside",
 			["glow"] = false,
-			["alpha"] = 1,
-			["width"] = 80,
 			["text2Enabled"] = false,
+			["width"] = 80,
+			["alpha"] = 1,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -4753,11 +4757,11 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["debuffType"] = "HARMFUL",
 						["remOperator"] = "<=",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286541 and IsItemInRange(32825, unitID)\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n                name = aura_env.room[aura_env.counter],\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286541 and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    if event == \"ROOM_COUNTER\" then\n        aura_env.counter = ...\n    end\n    return true\nend",
-						["custom_hide"] = "timed",
 						["spellIds"] = {
 							285632, -- [1]
 						},
+						["custom_hide"] = "timed",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286541 and IsItemInRange(32825, unitID)\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n                name = aura_env.room[aura_env.counter],\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286541 and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    if event == \"ROOM_COUNTER\" then\n        aura_env.counter = ...\n    end\n    return true\nend",
 						["type"] = "custom",
 						["subeventSuffix"] = "_AURA_APPLIED",
 						["custom_type"] = "stateupdate",
@@ -4767,8 +4771,8 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["customDuration"] = "",
 						["use_spellId"] = true,
-						["name"] = "Stalking",
 						["events"] = "UNIT_SPELLCAST_CHANNEL_START, UNIT_SPELLCAST_CHANNEL_STOP, ROOM_COUNTER",
+						["name"] = "Stalking",
 						["check"] = "event",
 						["use_destUnit"] = false,
 						["unit"] = "player",
@@ -4795,37 +4799,37 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -4874,7 +4878,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["useGlowColor"] = true,
+			["auto"] = false,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -4887,112 +4891,8 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_castType"] = false,
-						["duration"] = "1",
-						["unit"] = "player",
-						["names"] = {
-							"Sea Swell", -- [1]
-						},
-						["debuffType"] = "HARMFUL",
-						["subeventPrefix"] = "SPELL",
-						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["unevent"] = "auto",
-						["use_absorbMode"] = true,
-						["name"] = "Sea Swell",
-						["event"] = "Cast",
-						["spellIds"] = {
-							285118, -- [1]
-						},
-						["custom_type"] = "stateupdate",
-						["use_spellId"] = false,
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 285118 or spellID == 288258)  then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 285118 or spellID == 288258) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["check"] = "event",
-						["buffShowOn"] = "showOnActive",
-						["use_unit"] = true,
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-						["unit"] = "player",
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
 			["text2Font"] = "Arial Narrow",
-			["uid"] = "3neGACO6rrs",
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["text1Enabled"] = true,
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2280",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["width"] = 80,
-			["authorMode"] = true,
-			["frameStrata"] = 1,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "Pixel",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["cooldownTextEnabled"] = true,
-			["text1Font"] = "Arial Narrow",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
-			["auto"] = false,
-			["text2FontSize"] = 25,
-			["text2"] = "%s",
-			["text1"] = "Pools",
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["alpha"] = 1,
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
+			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -5026,15 +4926,119 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["id"] = "08 Sea Swell",
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_castType"] = false,
+						["duration"] = "1",
+						["unit"] = "player",
+						["names"] = {
+							"Sea Swell", -- [1]
+						},
+						["custom_hide"] = "timed",
+						["subeventPrefix"] = "SPELL",
+						["type"] = "custom",
+						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
+						["use_absorbMode"] = true,
+						["spellIds"] = {
+							285118, -- [1]
+						},
+						["event"] = "Cast",
+						["name"] = "Sea Swell",
+						["custom_type"] = "stateupdate",
+						["use_spellId"] = false,
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 285118 or spellID == 288258)  then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 285118 or spellID == 288258) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
+						["check"] = "event",
+						["buffShowOn"] = "showOnActive",
+						["use_unit"] = true,
+						["debuffType"] = "HARMFUL",
+					},
+					["untrigger"] = {
+						["unit"] = "player",
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["selfPoint"] = "CENTER",
+			["uid"] = "3neGACO6rrs",
 			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["text1Enabled"] = true,
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["width"] = 80,
+			["authorMode"] = true,
+			["frameStrata"] = 1,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "Pixel",
+			["text1Font"] = "Arial Narrow",
+			["cooldownTextEnabled"] = true,
+			["text1Containment"] = "OUTSIDE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["text1FontFlags"] = "OUTLINE",
+			["useGlowColor"] = true,
+			["text2FontSize"] = 25,
+			["text2"] = "%s",
+			["text1"] = "Pools",
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "08 Sea Swell",
+			["alpha"] = 1,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = false,
+			["internalVersion"] = 11,
 			["displayIcon"] = 135861,
 			["cooldown"] = true,
 			["authorOptions"] = {
@@ -5096,8 +5100,8 @@ WeakAurasSaved = {
 						["custom_hide"] = "timed",
 						["subeventSuffix"] = "_AURA_APPLIED",
 						["type"] = "custom",
-						["unevent"] = "timed",
 						["custom_type"] = "event",
+						["unevent"] = "timed",
 						["name"] = "Stalking",
 						["spellIds"] = {
 							285632, -- [1]
@@ -5106,8 +5110,8 @@ WeakAurasSaved = {
 						["buffShowOn"] = "showOnActive",
 						["use_specific_unit"] = false,
 						["use_spellId"] = true,
-						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 285645 then \n            return true\n        end\n    end\nend\n\n\n",
 						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 285645 then \n            return true\n        end\n    end\nend\n\n\n",
 						["remOperator"] = "<=",
 						["use_destUnit"] = false,
 						["names"] = {
@@ -5145,32 +5149,32 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2266,2285",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2266,2285",
+				["use_difficulty"] = false,
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownEdge"] = false,
 			["text2Color"] = {
@@ -5242,16 +5246,216 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
+			["text2Enabled"] = true,
+			["internalVersion"] = 11,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["type"] = "custom",
+					["colorR"] = 1,
+					["duration"] = "1",
+					["duration_type"] = "seconds",
+					["y"] = 0,
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorB"] = 1,
+					["alphaType"] = "custom",
+					["x"] = 0,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    if aura_env.state and aura_env.state.canSelect then\n        aura_env.LCG.PixelGlow_Start(\n            aura_env.region, --Frame\n            {0, 1, 1, 1}, --Color\n            8, --N of lines\n            0.25, --Frequency\n            8, --LLength of lines\n            2, --Thickness of lines\n            0, --xOffset\n            0, --yOffset\n            true, --Border\n            nil --Key\n        )\n    else\n        aura_env.LCG.PixelGlow_Stop(aura_env.region)\n    end\n    if aura_env.flag then\n        aura_env.flag = false\n        aura_env.LCG.PixelGlow_Stop(aura_env.region)\n        aura_env.sortAndOffset()\n    end\n    return start\nend",
+					["colorA"] = 1,
+					["rotate"] = 0,
+					["scalex"] = 1,
+					["use_alpha"] = true,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["text2Font"] = "000 PFSquareSansPro-Medium",
+			["icon"] = true,
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "LEFT",
+			["version"] = 29,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 38,
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "desaturate",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "desaturate",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "hideMe",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0, -- [4]
+							},
+							["property"] = "color",
+						}, -- [1]
+					},
+				}, -- [2]
+			},
+			["load"] = {
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["use_never"] = false,
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["xOffset"] = -1699.10645866394,
+			["glow"] = false,
+			["uid"] = "8UpaElHlebR",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "000 PFSquareSansPro-Medium",
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["debuffType"] = "HELPFUL",
+						["custom_type"] = "stateupdate",
+						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
+						["genericShowOn"] = "showOnActive",
+						["names"] = {
+						},
+						["event"] = "Health",
+						["custom"] = "function(states, event)\n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"CHALLENGE_MODE_COMPLETED\" or event == \"CHALLENGE_MODE_START\" or event == \"CHALLENGE_MODE_RESET\" then\n        for k,v in pairs(states) do\n            if v.header == \"keystone\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showKeystone\"] then --creating keystone\n            local count = 1\n            local key = C_MythicPlus.GetOwnedKeystoneLevel()\n            local affixes = \"\"\n            local thisWeek = C_MythicPlus.GetCurrentAffixes()\n            if thisWeek and thisWeek[1] then\n                for _, affix in pairs(thisWeek) do \n                    if affix.id then\n                        local info = C_ChallengeMode.GetAffixInfo(affix.id)\n                        affixes = affixes .. info .. \"|n\"\n                    end\n                end\n                local name = aura_env.findKeystone()\n                if key then\n                    states[count] = {\n                        header = \"keystone\",\n                        name = name,\n                        icon = 525134,\n                        count = count,\n                        spellid = \"\",\n                        description = affixes,\n                        ilvl = \"|cFF00ff00\"..key..\"|r\",\n                        changed = true,\n                        show = true,\n                    }\n                else\n                    states[count] = {\n                        header = \"keystone\",\n                        name = name,\n                        icon = 525134,\n                        count = count,\n                        spellid = \"\",\n                        description = affixes,\n                        desaturate = true,\n                        ilvl = \"\",\n                        changed = true,\n                        show = true,\n                    }\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"CHALLENGE_MODE_COMPLETED\" then\n        C_MythicPlus.RequestRewards()\n        C_Timer.After(5, function() WeakAuras.ScanEvents(\"UPDATE_WEEKLY\") end)\n    end\n    \n    if event == \"UPDATE_WEEKLY\" then\n        for k,v in pairs(states) do\n            if v.header == \"chest\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showChest\"] then --creating weekly chest\n            local count = 2\n            local reward = C_MythicPlus.IsWeeklyRewardAvailable()\n            local level, rewardLvl = C_MythicPlus.GetWeeklyChestRewardLevel()\n            if reward then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"Get your reward!\",\n                    ilvl = \"|cFF00ff00loot!|r\",\n                    changed = true,\n                    show = true,\n                }\n            elseif level > 0 then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"Your weekly best key level is: \" .. level .. \"|nYour weekly reward item level is: \" .. rewardLvl,\n                    ilvl = \"|cFF00ff00\"..level..\"|r\",\n                    changed = true,\n                    show = true,\n                }\n            elseif level == 0 then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"You haven't completed any M+ this week\",\n                    desaturate = true,\n                    ilvl = \"\",\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"ACTIVE_TALENT_GROUP_CHANGED\" or event == \"PLAYER_TALENT_UPDATE\" then\n        for k,v in pairs(states) do\n            if v.header == \"talent\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showTalents\"] then --creating talents\n            local count = 3\n            for i = 1, 7 do -- talents\n                for j = 1, 3 do\n                    local talentID, name, texture, selected, available, spellID, unknown, row, column, known, byRing = GetTalentInfo(i, j, 1)\n                    if talentID and (known or byRing) then\n                        states[count] = {\n                            header = \"talent\",\n                            name = name,\n                            icon = texture,\n                            count = count,\n                            spellid = spellID,\n                            description = GetSpellDescription(spellID),\n                            ilvl = \"|cFFbbbbbbT\"..i..\"|r\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_FLAGS_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"warmode\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showWarmode\"] then --creating PvP talents\n            local count = 15\n            local warMode = UnitIsWarModeDesired(\"player\")\n            if warMode then\n                states[count] = {\n                    header = \"warmode\",\n                    name = \"Warmode: ON\",\n                    icon = GetSpellTexture(282559),\n                    count = count,\n                    spellid = \"\",\n                    description = \"+\" .. C_PvP.GetWarModeRewardBonus() .. \"%\",\n                    ilvl = \"|cFFbbbbbbON|r\",\n                    changed = true,\n                    show = true,\n                }\n            else\n                states[count] = {\n                    header = \"warmode\",\n                    name = \"Warmode: OFF\",\n                    icon = GetSpellTexture(282559),\n                    count = count,\n                    spellid = \"\",\n                    description = \"+\" .. C_PvP.GetWarModeRewardBonus() .. \"%\",\n                    desaturate = true,\n                    ilvl = \"|cFFbbbbbbOFF|r\",\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"ACTIVE_TALENT_GROUP_CHANGED\" or event == \"PLAYER_TALENT_UPDATE\" then\n        for k,v in pairs(states) do\n            if v.header == \"PvPtalent\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showPvP\"] then --creating PvP talents\n            local count = 16\n            for i=1, 4 do\n                local slot = C_SpecializationInfo.GetPvpTalentSlotInfo(i)\n                if slot.enabled and slot.selectedTalentID then\n                    local talentID, name, texture, selected, available, spellID = GetPvpTalentInfoByID(slot.selectedTalentID)\n                    states[count] = {\n                        header = \"PvPtalent\",\n                        name = name,\n                        icon = texture,\n                        count = count,\n                        spellid = spellID,\n                        description = GetSpellDescription(spellID),\n                        ilvl = \"|cFFbbbbbbPvP\"..i..\"|r\",\n                        changed = true,\n                        show = true,\n                    }\n                    count = count + 1\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"legendary\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showLegendaries\"] then --creating legendaries\n            local count = 20\n            for i = 1, 15 do\n                local itemID = GetInventoryItemLink(\"player\", i)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if quality == 5 and name then\n                        states[count] = {\n                            header = \"legendary\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"trinket\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showTrinkets\"] then --creating trinkets\n            local count = 40\n            for i = 1, 2 do\n                local trinketSlot = 12 + i\n                \n                local itemID = GetInventoryItemLink(\"player\", trinketSlot)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if quality ~= 5 and name then\n                        states[count] = {\n                            header = \"trinket\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            description = \"\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" or event == \"AZERITE_ITEM_POWER_LEVEL_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"heart\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showAmulet\"] then  --creating azerite amulet\n            local count = 45\n            local HeartOfAzeroth = C_AzeriteItem.FindActiveAzeriteItem()\n            if HeartOfAzeroth then\n                local azeritePowerLevel = C_AzeriteItem.GetPowerLevel(HeartOfAzeroth)\n                --local specID = GetSpecializationInfo(GetSpecialization())\n                local itemSlot = HeartOfAzeroth.equipmentSlotIndex\n                local itemID = GetInventoryItemLink(\"player\", itemSlot)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if name then\n                        states[count] = {\n                            header = \"heart\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            plvl = ITEM_QUALITY_COLORS[quality].hex..\"[\"..azeritePowerLevel..\"]|r\",\n                            changed = true,\n                            show = true,\n                        }\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" or event == \"AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED\" then\n        for k,v in pairs(states) do\n            if v.header == \"trait\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showAzeriteEmpoweredItems\"] then --creating azerite armor talents\n            local count = 50\n            local specID = GetSpecializationInfo(GetSpecialization())\n            for _, slot in next, {1,3,5} do\n                local item = Item:CreateFromEquipmentSlot(slot)\n                if (not item:IsItemEmpty()) then\n                    local itemLocation = item:GetItemLocation()\n                    if (C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem(itemLocation)) then\n                        local itemID = GetInventoryItemLink(\"player\", slot)\n                        local name, _, quality, ilvl = GetItemInfo(itemID)\n                        name = name or \"\"\n                        ilvl = ilvl or 1\n                        quality = quality or 2\n                        local icon = GetItemIcon(itemID)\n                        local itemSlot = slot == 1 and \"HEAD\" or slot == 3 and \"SHOULDERS\" or slot == 5 and \"CHEST\"\n                        states[count] = {\n                            header = \"trait\",\n                            name = aura_env.config[\"showGear\"] and \"\" or ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            hideMe = aura_env.config[\"showGear\"],\n                            ilvl = aura_env.config[\"showGear\"] and \"\" or ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            itemSlot = itemSlot,\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                        if aura_env.config[\"showMaxTiers\"] > -1 then\n                            local circle = 1\n                            local tierInfo = C_AzeriteEmpoweredItem.GetAllTierInfo(itemLocation)\n                            for tier, info in next, tierInfo do\n                                if aura_env.config[\"showMaxTiers\"] == 0 or tier <= aura_env.config[\"showMaxTiers\"] then\n                                    for _, powerID in next, info.azeritePowerIDs do\n                                        local powerInfo = C_AzeriteEmpoweredItem.GetPowerInfo(powerID)\n                                        local id = name..powerInfo.spellID\n                                        local spellName, _, spellIcon = GetSpellInfo(powerInfo.spellID)\n                                        if powerInfo.spellID == 263978 then\n                                            spellIcon = aura_env.config[\"upgradeTexture\"]\n                                        end\n                                        local description = GetSpellDescription(powerInfo.spellID)\n                                        local canSelect = C_AzeriteEmpoweredItem.CanSelectPower(itemLocation, powerID)\n                                        if powerID and specID and C_AzeriteEmpoweredItem.IsPowerAvailableForSpec(powerID, specID) and (C_AzeriteEmpoweredItem.IsPowerSelected(itemLocation, powerID) or canSelect) then\n                                            if powerInfo.spellID == 263978 and not canSelect then\n                                                if aura_env.config[\"showUpgrade\"] and aura_env.config[\"showMaxTiers\"] == 0 then\n                                                    states[id] = {\n                                                        header = \"trait\",\n                                                        name = spellName,\n                                                        icon = spellIcon,\n                                                        spellid = powerInfo.spellID,\n                                                        count = count,\n                                                        description = description,\n                                                        ilvl = \"|cFFbbbbbbT\"..circle..\"|r\",\n                                                        canSelect = canSelect,\n                                                        relativeTo = itemSlot,\n                                                        changed = true,\n                                                        show = true,\n                                                    }\n                                                end\n                                            else\n                                                states[id] = {\n                                                    header = \"trait\",\n                                                    name = spellName,\n                                                    icon = spellIcon,\n                                                    spellid = powerInfo.spellID,\n                                                    count = count,\n                                                    description = description,\n                                                    ilvl = \"|cFFbbbbbbT\"..circle..\"|r\",\n                                                    canSelect = canSelect,\n                                                    relativeTo = itemSlot,\n                                                    changed = true,\n                                                    show = true,\n                                                }\n                                                count = count + 1\n                                            end\n                                        end\n                                    end\n                                end\n                                circle = circle + 1\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    end\n    \n    aura_env.flag = true\n    return true\nend",
+						["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD ACTIVE_TALENT_GROUP_CHANGED PLAYER_TALENT_UPDATE PLAYER_EQUIPMENT_CHANGED AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED AZERITE_ITEM_POWER_LEVEL_CHANGED CHALLENGE_MODE_START CHALLENGE_MODE_RESET CHALLENGE_MODE_COMPLETED PLAYER_FLAGS_CHANGED UPDATE_WEEKLY",
+						["spellIds"] = {
+						},
+						["check"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["customVariables"] = "{\n    desaturate = {\n        display = \"desaturate\",\n        type = \"bool\",\n        \n    },\n    hideMe = {\n        display = \"hideMe\",\n        type = \"bool\",\n        \n    }\n}\n\n\n\n",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["anchorFrameType"] = "SCREEN",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
+			["text2FontSize"] = 12,
+			["text1FontFlags"] = "OUTLINE",
+			["text1"] = " ",
+			["auto"] = true,
+			["text2"] = "%c",
+			["zoom"] = 0,
+			["semver"] = "2.0.9-29",
+			["text1Enabled"] = false,
+			["id"] = "BFA Talents\\Items\\Azerite Traits (current setup)  ",
+			["selfPoint"] = "CENTER",
+			["alpha"] = 0.7,
+			["width"] = 38,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = false,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
+			["config"] = {
+				["upgradeTexture"] = 950989,
+				["direction"] = 2,
+				["showWarmode"] = false,
+				["showTrinkets"] = true,
+				["showUpgrade"] = false,
+				["showMaxTiers"] = 0,
+				["spacing"] = 1,
+				["showAzeriteEmpoweredItems"] = true,
+				["showTalents"] = true,
+				["side"] = 1,
+				["compact"] = true,
+				["showLegendaries"] = false,
+				["showTooltips"] = true,
+				["showGear"] = true,
+				["showPvP"] = false,
+				["showKeystone"] = false,
+				["showChest"] = false,
+				["showAmulet"] = true,
+			},
+			["inverse"] = false,
+			["desaturate"] = false,
+			["displayIcon"] = "Interface\\addons\\WeakAuras\\Media\\Textures\\icon.blp",
+			["url"] = "https://wago.io/TalentSetup/29",
 			["authorOptions"] = {
 				{
 					["text"] = "DISPLAY OPTIONS",
@@ -5497,206 +5701,6 @@ WeakAurasSaved = {
 					["width"] = 1,
 				}, -- [29]
 			},
-			["glow"] = false,
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "LEFT",
-			["version"] = 29,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 38,
-			["conditions"] = {
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "desaturate",
-						["value"] = 1,
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "desaturate",
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "hideMe",
-						["value"] = 1,
-					},
-					["changes"] = {
-						{
-							["value"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								0, -- [4]
-							},
-							["property"] = "color",
-						}, -- [1]
-					},
-				}, -- [2]
-			},
-			["load"] = {
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["use_never"] = false,
-				["talent"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["stickyDuration"] = false,
-			["text2Font"] = "000 PFSquareSansPro-Medium",
-			["uid"] = "8UpaElHlebR",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "000 PFSquareSansPro-Medium",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["type"] = "custom",
-					["colorR"] = 1,
-					["duration_type"] = "seconds",
-					["duration"] = "1",
-					["alphaType"] = "custom",
-					["scalex"] = 1,
-					["alpha"] = 0,
-					["colorB"] = 1,
-					["y"] = 0,
-					["colorA"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "function(progress, start, delta)\n    if aura_env.state and aura_env.state.canSelect then\n        aura_env.LCG.PixelGlow_Start(\n            aura_env.region, --Frame\n            {0, 1, 1, 1}, --Color\n            8, --N of lines\n            0.25, --Frequency\n            8, --LLength of lines\n            2, --Thickness of lines\n            0, --xOffset\n            0, --yOffset\n            true, --Border\n            nil --Key\n        )\n    else\n        aura_env.LCG.PixelGlow_Stop(aura_env.region)\n    end\n    if aura_env.flag then\n        aura_env.flag = false\n        aura_env.LCG.PixelGlow_Stop(aura_env.region)\n        aura_env.sortAndOffset()\n    end\n    return start\nend",
-					["x"] = 0,
-					["rotate"] = 0,
-					["scaley"] = 1,
-					["use_alpha"] = true,
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["anchorFrameType"] = "SCREEN",
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 12,
-			["icon"] = true,
-			["text1"] = " ",
-			["auto"] = true,
-			["text2"] = "%c",
-			["zoom"] = 0,
-			["semver"] = "2.0.9-29",
-			["frameStrata"] = 1,
-			["id"] = "BFA Talents\\Items\\Azerite Traits (current setup)  ",
-			["cooldownTextEnabled"] = true,
-			["alpha"] = 0.7,
-			["width"] = 38,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["debuffType"] = "HELPFUL",
-						["custom_type"] = "stateupdate",
-						["names"] = {
-						},
-						["unit"] = "player",
-						["genericShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
-						["event"] = "Health",
-						["spellIds"] = {
-						},
-						["custom"] = "function(states, event)\n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"CHALLENGE_MODE_COMPLETED\" or event == \"CHALLENGE_MODE_START\" or event == \"CHALLENGE_MODE_RESET\" then\n        for k,v in pairs(states) do\n            if v.header == \"keystone\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showKeystone\"] then --creating keystone\n            local count = 1\n            local key = C_MythicPlus.GetOwnedKeystoneLevel()\n            local affixes = \"\"\n            local thisWeek = C_MythicPlus.GetCurrentAffixes()\n            if thisWeek and thisWeek[1] then\n                for _, affix in pairs(thisWeek) do \n                    if affix.id then\n                        local info = C_ChallengeMode.GetAffixInfo(affix.id)\n                        affixes = affixes .. info .. \"|n\"\n                    end\n                end\n                local name = aura_env.findKeystone()\n                if key then\n                    states[count] = {\n                        header = \"keystone\",\n                        name = name,\n                        icon = 525134,\n                        count = count,\n                        spellid = \"\",\n                        description = affixes,\n                        ilvl = \"|cFF00ff00\"..key..\"|r\",\n                        changed = true,\n                        show = true,\n                    }\n                else\n                    states[count] = {\n                        header = \"keystone\",\n                        name = name,\n                        icon = 525134,\n                        count = count,\n                        spellid = \"\",\n                        description = affixes,\n                        desaturate = true,\n                        ilvl = \"\",\n                        changed = true,\n                        show = true,\n                    }\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"CHALLENGE_MODE_COMPLETED\" then\n        C_MythicPlus.RequestRewards()\n        C_Timer.After(5, function() WeakAuras.ScanEvents(\"UPDATE_WEEKLY\") end)\n    end\n    \n    if event == \"UPDATE_WEEKLY\" then\n        for k,v in pairs(states) do\n            if v.header == \"chest\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showChest\"] then --creating weekly chest\n            local count = 2\n            local reward = C_MythicPlus.IsWeeklyRewardAvailable()\n            local level, rewardLvl = C_MythicPlus.GetWeeklyChestRewardLevel()\n            if reward then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"Get your reward!\",\n                    ilvl = \"|cFF00ff00loot!|r\",\n                    changed = true,\n                    show = true,\n                }\n            elseif level > 0 then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"Your weekly best key level is: \" .. level .. \"|nYour weekly reward item level is: \" .. rewardLvl,\n                    ilvl = \"|cFF00ff00\"..level..\"|r\",\n                    changed = true,\n                    show = true,\n                }\n            elseif level == 0 then\n                states[count] = {\n                    header = \"chest\",\n                    name = \"Weekly best M+\",\n                    icon = 1001978,\n                    count = count,\n                    spellid = \"\",\n                    description = \"You haven't completed any M+ this week\",\n                    desaturate = true,\n                    ilvl = \"\",\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"ACTIVE_TALENT_GROUP_CHANGED\" or event == \"PLAYER_TALENT_UPDATE\" then\n        for k,v in pairs(states) do\n            if v.header == \"talent\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showTalents\"] then --creating talents\n            local count = 3\n            for i = 1, 7 do -- talents\n                for j = 1, 3 do\n                    local talentID, name, texture, selected, available, spellID, unknown, row, column, known, byRing = GetTalentInfo(i, j, 1)\n                    if talentID and (known or byRing) then\n                        states[count] = {\n                            header = \"talent\",\n                            name = name,\n                            icon = texture,\n                            count = count,\n                            spellid = spellID,\n                            description = GetSpellDescription(spellID),\n                            ilvl = \"|cFFbbbbbbT\"..i..\"|r\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_FLAGS_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"warmode\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showWarmode\"] then --creating PvP talents\n            local count = 15\n            local warMode = UnitIsWarModeDesired(\"player\")\n            if warMode then\n                states[count] = {\n                    header = \"warmode\",\n                    name = \"Warmode: ON\",\n                    icon = GetSpellTexture(282559),\n                    count = count,\n                    spellid = \"\",\n                    description = \"+\" .. C_PvP.GetWarModeRewardBonus() .. \"%\",\n                    ilvl = \"|cFFbbbbbbON|r\",\n                    changed = true,\n                    show = true,\n                }\n            else\n                states[count] = {\n                    header = \"warmode\",\n                    name = \"Warmode: OFF\",\n                    icon = GetSpellTexture(282559),\n                    count = count,\n                    spellid = \"\",\n                    description = \"+\" .. C_PvP.GetWarModeRewardBonus() .. \"%\",\n                    desaturate = true,\n                    ilvl = \"|cFFbbbbbbOFF|r\",\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"ACTIVE_TALENT_GROUP_CHANGED\" or event == \"PLAYER_TALENT_UPDATE\" then\n        for k,v in pairs(states) do\n            if v.header == \"PvPtalent\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showPvP\"] then --creating PvP talents\n            local count = 16\n            for i=1, 4 do\n                local slot = C_SpecializationInfo.GetPvpTalentSlotInfo(i)\n                if slot.enabled and slot.selectedTalentID then\n                    local talentID, name, texture, selected, available, spellID = GetPvpTalentInfoByID(slot.selectedTalentID)\n                    states[count] = {\n                        header = \"PvPtalent\",\n                        name = name,\n                        icon = texture,\n                        count = count,\n                        spellid = spellID,\n                        description = GetSpellDescription(spellID),\n                        ilvl = \"|cFFbbbbbbPvP\"..i..\"|r\",\n                        changed = true,\n                        show = true,\n                    }\n                    count = count + 1\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"legendary\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showLegendaries\"] then --creating legendaries\n            local count = 20\n            for i = 1, 15 do\n                local itemID = GetInventoryItemLink(\"player\", i)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if quality == 5 and name then\n                        states[count] = {\n                            header = \"legendary\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"trinket\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showTrinkets\"] then --creating trinkets\n            local count = 40\n            for i = 1, 2 do\n                local trinketSlot = 12 + i\n                \n                local itemID = GetInventoryItemLink(\"player\", trinketSlot)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if quality ~= 5 and name then\n                        states[count] = {\n                            header = \"trinket\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            description = \"\",\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" or event == \"AZERITE_ITEM_POWER_LEVEL_CHANGED\" then\n        for k,v in pairs(states) do\n            if v.header == \"heart\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showAmulet\"] then  --creating azerite amulet\n            local count = 45\n            local HeartOfAzeroth = C_AzeriteItem.FindActiveAzeriteItem()\n            if HeartOfAzeroth then\n                local azeritePowerLevel = C_AzeriteItem.GetPowerLevel(HeartOfAzeroth)\n                --local specID = GetSpecializationInfo(GetSpecialization())\n                local itemSlot = HeartOfAzeroth.equipmentSlotIndex\n                local itemID = GetInventoryItemLink(\"player\", itemSlot)\n                if itemID then\n                    local name, _, quality, ilvl = GetItemInfo(itemID)\n                    local icon = GetItemIcon(itemID)\n                    if name then\n                        states[count] = {\n                            header = \"heart\",\n                            name = ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            ilvl = ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            plvl = ITEM_QUALITY_COLORS[quality].hex..\"[\"..azeritePowerLevel..\"]|r\",\n                            changed = true,\n                            show = true,\n                        }\n                    end\n                end\n            end\n        end\n    end\n    \n    if event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" or event == \"PLAYER_EQUIPMENT_CHANGED\" or event == \"AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED\" then\n        for k,v in pairs(states) do\n            if v.header == \"trait\" then\n                if aura_env.config[\"showTooltips\"] then\n                    local region = WeakAuras.GetRegion(aura_env.id, k)\n                    region:SetScript(\"OnEnter\", nil)\n                    region:SetScript(\"OnLeave\", nil)\n                end\n                v.show = false\n                v.changed = true\n            end\n        end\n        if aura_env.config[\"showAzeriteEmpoweredItems\"] then --creating azerite armor talents\n            local count = 50\n            local specID = GetSpecializationInfo(GetSpecialization())\n            for _, slot in next, {1,3,5} do\n                local item = Item:CreateFromEquipmentSlot(slot)\n                if (not item:IsItemEmpty()) then\n                    local itemLocation = item:GetItemLocation()\n                    if (C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem(itemLocation)) then\n                        local itemID = GetInventoryItemLink(\"player\", slot)\n                        local name, _, quality, ilvl = GetItemInfo(itemID)\n                        name = name or \"\"\n                        ilvl = ilvl or 1\n                        quality = quality or 2\n                        local icon = GetItemIcon(itemID)\n                        local itemSlot = slot == 1 and \"HEAD\" or slot == 3 and \"SHOULDERS\" or slot == 5 and \"CHEST\"\n                        states[count] = {\n                            header = \"trait\",\n                            name = aura_env.config[\"showGear\"] and \"\" or ITEM_QUALITY_COLORS[quality].hex..name..\"|r\",\n                            icon = icon,\n                            count = count,\n                            link = itemID,\n                            description = \"\",\n                            hideMe = aura_env.config[\"showGear\"],\n                            ilvl = aura_env.config[\"showGear\"] and \"\" or ITEM_QUALITY_COLORS[quality].hex..ilvl..\"|r\",\n                            itemSlot = itemSlot,\n                            changed = true,\n                            show = true,\n                        }\n                        count = count + 1\n                        if aura_env.config[\"showMaxTiers\"] > -1 then\n                            local circle = 1\n                            local tierInfo = C_AzeriteEmpoweredItem.GetAllTierInfo(itemLocation)\n                            for tier, info in next, tierInfo do\n                                if aura_env.config[\"showMaxTiers\"] == 0 or tier <= aura_env.config[\"showMaxTiers\"] then\n                                    for _, powerID in next, info.azeritePowerIDs do\n                                        local powerInfo = C_AzeriteEmpoweredItem.GetPowerInfo(powerID)\n                                        local id = name..powerInfo.spellID\n                                        local spellName, _, spellIcon = GetSpellInfo(powerInfo.spellID)\n                                        if powerInfo.spellID == 263978 then\n                                            spellIcon = aura_env.config[\"upgradeTexture\"]\n                                        end\n                                        local description = GetSpellDescription(powerInfo.spellID)\n                                        local canSelect = C_AzeriteEmpoweredItem.CanSelectPower(itemLocation, powerID)\n                                        if powerID and specID and C_AzeriteEmpoweredItem.IsPowerAvailableForSpec(powerID, specID) and (C_AzeriteEmpoweredItem.IsPowerSelected(itemLocation, powerID) or canSelect) then\n                                            if powerInfo.spellID == 263978 and not canSelect then\n                                                if aura_env.config[\"showUpgrade\"] and aura_env.config[\"showMaxTiers\"] == 0 then\n                                                    states[id] = {\n                                                        header = \"trait\",\n                                                        name = spellName,\n                                                        icon = spellIcon,\n                                                        spellid = powerInfo.spellID,\n                                                        count = count,\n                                                        description = description,\n                                                        ilvl = \"|cFFbbbbbbT\"..circle..\"|r\",\n                                                        canSelect = canSelect,\n                                                        relativeTo = itemSlot,\n                                                        changed = true,\n                                                        show = true,\n                                                    }\n                                                end\n                                            else\n                                                states[id] = {\n                                                    header = \"trait\",\n                                                    name = spellName,\n                                                    icon = spellIcon,\n                                                    spellid = powerInfo.spellID,\n                                                    count = count,\n                                                    description = description,\n                                                    ilvl = \"|cFFbbbbbbT\"..circle..\"|r\",\n                                                    canSelect = canSelect,\n                                                    relativeTo = itemSlot,\n                                                    changed = true,\n                                                    show = true,\n                                                }\n                                                count = count + 1\n                                            end\n                                        end\n                                    end\n                                end\n                                circle = circle + 1\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    end\n    \n    aura_env.flag = true\n    return true\nend",
-						["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD ACTIVE_TALENT_GROUP_CHANGED PLAYER_TALENT_UPDATE PLAYER_EQUIPMENT_CHANGED AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED AZERITE_ITEM_POWER_LEVEL_CHANGED CHALLENGE_MODE_START CHALLENGE_MODE_RESET CHALLENGE_MODE_COMPLETED PLAYER_FLAGS_CHANGED UPDATE_WEEKLY",
-						["check"] = "event",
-						["subeventSuffix"] = "_CAST_START",
-						["customVariables"] = "{\n    desaturate = {\n        display = \"desaturate\",\n        type = \"bool\",\n        \n    },\n    hideMe = {\n        display = \"hideMe\",\n        type = \"bool\",\n        \n    }\n}\n\n\n\n",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["config"] = {
-				["upgradeTexture"] = 950989,
-				["direction"] = 2,
-				["showWarmode"] = false,
-				["showTrinkets"] = true,
-				["showUpgrade"] = false,
-				["showMaxTiers"] = 0,
-				["spacing"] = 1,
-				["showAzeriteEmpoweredItems"] = true,
-				["showTalents"] = true,
-				["side"] = 1,
-				["compact"] = true,
-				["showLegendaries"] = false,
-				["showTooltips"] = true,
-				["showGear"] = true,
-				["showPvP"] = false,
-				["showKeystone"] = false,
-				["showChest"] = false,
-				["showAmulet"] = true,
-			},
-			["inverse"] = false,
-			["xOffset"] = -1699.10645866394,
-			["displayIcon"] = "Interface\\addons\\WeakAuras\\Media\\Textures\\icon.blp",
-			["url"] = "https://wago.io/TalentSetup/29",
-			["internalVersion"] = 11,
 		},
 		["05 Pack Hunter"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -5794,31 +5798,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["authorOptions"] = {
 			},
@@ -5867,16 +5871,16 @@ WeakAurasSaved = {
 			["text2"] = "%s",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["sound"] = " custom",
 					["custom"] = "",
 					["do_custom"] = false,
-					["sound"] = " custom",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -5886,7 +5890,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -5907,11 +5910,11 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["event"] = "Cast",
 						["unevent"] = "auto",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							285195, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
 						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["combineMatches"] = "showLowest",
@@ -5924,6 +5927,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -5958,15 +5962,15 @@ WeakAurasSaved = {
 			["uid"] = "O)X6RpAVN)y",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -5977,20 +5981,15 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["authorOptions"] = {
 			},
@@ -6007,7 +6006,12 @@ WeakAurasSaved = {
 			["internalVersion"] = 11,
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -6054,20 +6058,20 @@ WeakAurasSaved = {
 				},
 				["main"] = {
 					["colorR"] = 1,
-					["x"] = 0,
-					["duration_type"] = "seconds",
 					["colorB"] = 1,
 					["use_color"] = false,
-					["alpha"] = 0,
-					["colorType"] = "straightHSV",
-					["y"] = 0,
 					["colorA"] = 1,
+					["scalex"] = 1,
+					["alpha"] = 0,
+					["x"] = 0,
+					["y"] = 0,
+					["colorType"] = "straightHSV",
 					["colorG"] = 1,
 					["type"] = "none",
 					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      return WeakAuras.GetHSVTransition(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    end\n  ",
 					["rotate"] = 0,
+					["duration_type"] = "seconds",
 					["scaley"] = 1,
-					["scalex"] = 1,
 				},
 				["finish"] = {
 					["duration_type"] = "seconds",
@@ -6089,12 +6093,13 @@ WeakAurasSaved = {
 						},
 						["unit"] = "player",
 						["subeventPrefix"] = "SPELL",
-						["useName"] = true,
-						["debuffType"] = "HARMFUL",
-						["unevent"] = "auto",
 						["type"] = "aura2",
-						["use_debuffClass"] = false,
+						["custom_hide"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["auraspellids"] = {
+						},
 						["name"] = "Broadside",
 						["custom_type"] = "event",
 						["event"] = "Cast",
@@ -6106,9 +6111,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							288212, -- [1]
 						},
-						["auraspellids"] = {
-						},
-						["custom_hide"] = "timed",
+						["unevent"] = "auto",
+						["debuffType"] = "HARMFUL",
 						["combineMatches"] = "showLowest",
 						["use_absorbMode"] = true,
 						["fullscan"] = true,
@@ -6119,7 +6123,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6156,17 +6160,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -6194,7 +6198,7 @@ WeakAurasSaved = {
 			["xOffset"] = 0,
 			["uid"] = "Wsj6w7tid4j",
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 538564,
 			["cooldown"] = true,
 			["color"] = {
@@ -6212,14 +6216,14 @@ WeakAurasSaved = {
 			["text2"] = "%s",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["cooldownTextEnabled"] = true,
+			["xOffset"] = 0,
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -6235,18 +6239,18 @@ WeakAurasSaved = {
 						["debuffType"] = "HARMFUL",
 						["subeventPrefix"] = "SPELL",
 						["type"] = "custom",
-						["unevent"] = "auto",
 						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["custom_hide"] = "timed",
 						["custom_type"] = "event",
 						["event"] = "Cast",
-						["name"] = "Icefall",
 						["spellIds"] = {
 							285215, -- [1]
 						},
+						["name"] = "Icefall",
 						["use_spellId"] = false,
-						["custom"] = "function(event, unit, _, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 288441 then\n            return true \n        end \n    end \nend",
 						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["custom"] = "function(event, unit, _, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 288441 then\n            return true \n        end \n    end \nend",
 						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["use_unit"] = true,
@@ -6273,39 +6277,39 @@ WeakAurasSaved = {
 			["uid"] = "a96HgWeacTr",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text1Enabled"] = true,
 			["animation"] = {
@@ -6357,7 +6361,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 135851,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["cooldownTextEnabled"] = true,
 		},
 		["09 Ice Shard (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -6368,14 +6372,14 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
 			["useglowColor"] = false,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -6415,16 +6419,16 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = false,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = false,
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -6432,9 +6436,9 @@ WeakAurasSaved = {
 			},
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -6520,7 +6524,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = false,
 		},
 		["06 Critter Explosion"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -6529,11 +6533,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Dance.ogg",
@@ -6546,7 +6550,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -6554,11 +6557,11 @@ WeakAurasSaved = {
 						["use_absorbMode"] = true,
 						["unit"] = "boss1",
 						["duration"] = "3",
-						["debuffType"] = "HARMFUL",
+						["custom_hide"] = "timed",
 						["use_specific_unit"] = true,
 						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
 						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["event"] = "Cast",
@@ -6567,14 +6570,14 @@ WeakAurasSaved = {
 						},
 						["buffShowOn"] = "showOnActive",
 						["use_spellId"] = true,
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["name"] = "Signal Exploding Sheep",
 						["custom"] = "function(event, ...)\n    if not WeakAuras.triggerState[aura_env.id].triggers[1] then\n        if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n            local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n            if subEvent == \"SPELL_CAST_START\" and spellID == 287877 then\n                return true\n            end\n        end\n    end\nend",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["names"] = {
 							"Shrunk", -- [1]
 						},
 						["use_unit"] = true,
-						["custom_hide"] = "timed",
+						["debuffType"] = "HARMFUL",
 					},
 					["untrigger"] = {
 						["use_specific_unit"] = true,
@@ -6583,6 +6586,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -6619,15 +6623,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -6638,12 +6642,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text2Color"] = {
@@ -6667,7 +6666,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "TsK)Q(DVN6k",
 			["inverse"] = false,
 			["color"] = {
@@ -6743,7 +6747,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -6759,7 +6763,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -6786,18 +6790,17 @@ WeakAurasSaved = {
 			["constantFactor"] = "RADIUS",
 			["borderOffset"] = 16,
 			["id"] = "Details! Boss Mods Group",
-			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 11,
 			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
 			["width"] = 359.096801757813,
-			["authorOptions"] = {
-			},
 			["config"] = {
 			},
-			["internalVersion"] = 11,
-			["backgroundInset"] = 0,
-			["conditions"] = {
+			["authorOptions"] = {
 			},
 			["stagger"] = 0,
+			["conditions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -6812,6 +6815,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["backgroundInset"] = 0,
 		},
 		["01 Wave of Light"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -6821,15 +6825,11 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["auto"] = true,
 			["cooldownSwipe"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownTextEnabled"] = true,
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
+			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -6839,10 +6839,10 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"283617", -- [1]
 						},
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["matchesShowOn"] = "showOnActive",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["names"] = {
 							"Wave of Light", -- [1]
 						},
@@ -6861,7 +6861,6 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -6878,11 +6877,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["authorOptions"] = {
 			},
-			["cooldownTextEnabled"] = true,
-			["stickyDuration"] = false,
 			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6896,15 +6895,15 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/bfaraid2/103",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -6912,15 +6911,15 @@ WeakAurasSaved = {
 			},
 			["uid"] = "(QYsBFJj88z",
 			["authorMode"] = true,
+			["text1Font"] = "Arial Narrow",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["width"] = 80,
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
@@ -6959,7 +6958,12 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["02 Crushed (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -6969,11 +6973,6 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["icon"] = true,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -6987,8 +6986,13 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -7046,33 +7050,33 @@ WeakAurasSaved = {
 				["role"] = {
 					["single"] = "TANK",
 				},
-				["encounterid"] = "2263,2284",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["use_role"] = true,
+				["encounterid"] = "2263,2284",
+				["use_zonegroupId"] = false,
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_zonegroupId"] = false,
+				["use_role"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -7132,20 +7136,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["auto"] = true,
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/SJzvGvYd7/6",
 			["actions"] = {
@@ -7164,19 +7155,19 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "status",
 						["subeventSuffix"] = "_CAST_START",
-						["names"] = {
-						},
-						["custom"] = "function()\n    return true;\nend",
-						["genericShowOn"] = "showOnActive",
 						["unit"] = "player",
 						["spellIds"] = {
 						},
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function()\n    return true;\nend",
 						["customIcon"] = "function()\n    \n    local id,name,_,icon = GetSpecializationInfo(GetSpecialization());\n\nreturn icon end\n\n\n",
 						["events"] = "PLAYER_ENTERING_WORLD,PLAYER_SPECIALIZATION_CHANGED",
 						["customTexture"] = "\n\n",
 						["check"] = "event",
-						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
+						["genericShowOn"] = "showOnActive",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -7186,14 +7177,14 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function()\n    return true\nend\n\n\n\n\n\n\n\n\n",
 				["activeTriggerMode"] = -10,
 			},
-			["glow"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "TOPRIGHT",
-			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
+			["parent"] = "LootSpecGroup",
+			["text2Font"] = "Friz Quadrata TT",
 			["displayIcon"] = "",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -7204,7 +7195,7 @@ WeakAurasSaved = {
 			["version"] = 6,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 30.000011444092,
-			["auto"] = true,
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -7262,7 +7253,12 @@ WeakAurasSaved = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["width"] = 30,
 			["text2Enabled"] = false,
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -7287,20 +7283,28 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Friz Quadrata TT",
 			["config"] = {
 			},
 			["inverse"] = false,
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["text1Enabled"] = true,
-			["parent"] = "LootSpecGroup",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["glow"] = false,
 		},
 		["02 High Energy [Horde]"] = {
 			["text2Point"] = "CENTER",
@@ -7459,8 +7463,8 @@ WeakAurasSaved = {
 					},
 				}, -- [4]
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
@@ -7475,7 +7479,7 @@ WeakAurasSaved = {
 			["uid"] = "8oPrgzFFrbd",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -7483,11 +7487,11 @@ WeakAurasSaved = {
 					["single"] = "Horde",
 				},
 				["use_faction"] = true,
-				["class"] = {
+				["encounterid"] = "2263,2284",
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2263,2284",
 				["size"] = {
 					["multi"] = {
 					},
@@ -7507,12 +7511,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["xOffset"] = 0,
 			["text1FontFlags"] = "OUTLINE",
@@ -7541,7 +7540,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2Enabled"] = true,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -7643,7 +7647,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -7659,7 +7663,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -7686,14 +7690,18 @@ WeakAurasSaved = {
 			["constantFactor"] = "RADIUS",
 			["borderOffset"] = 16,
 			["id"] = "Details! Aura Group",
-			["internalVersion"] = 11,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["backgroundInset"] = 0,
-			["config"] = {
-			},
 			["authorOptions"] = {
 			},
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 11,
+			["config"] = {
+			},
+			["backgroundInset"] = 0,
+			["stagger"] = 0,
+			["conditions"] = {
+			},
+			["width"] = 199.999969482422,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -7708,10 +7716,6 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["conditions"] = {
-			},
-			["stagger"] = 0,
-			["width"] = 199.999969482422,
 		},
 		["04 Pulse-quickening Toxin"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -7816,31 +7820,31 @@ WeakAurasSaved = {
 			["uid"] = "sdo5aVORq4m",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -7907,9 +7911,9 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -7963,7 +7967,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["desaturate"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -7978,31 +7982,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text1FontFlags"] = "OUTLINE",
@@ -8030,7 +8034,7 @@ WeakAurasSaved = {
 			},
 			["uid"] = "Mo2B50GpfFa",
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["color"] = {
@@ -8048,17 +8052,17 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -8067,7 +8071,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -8088,7 +8092,7 @@ WeakAurasSaved = {
 			},
 			["text2Font"] = "Arial Narrow",
 			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8105,16 +8109,16 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -8162,12 +8166,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text2Color"] = {
@@ -8196,11 +8195,16 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["cooldownTextEnabled"] = true,
@@ -8209,12 +8213,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text2Font"] = "Arial Narrow",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -8223,8 +8222,17 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -8243,12 +8251,14 @@ WeakAurasSaved = {
 							"Quickened Pulse", -- [1]
 						},
 						["unit"] = "player",
-						["useExactSpellId"] = true,
+						["auraspellids"] = {
+							"291146", -- [1]
+						},
 						["debuffType"] = "HARMFUL",
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["spellIds"] = {
 							284519, -- [1]
 						},
@@ -8258,9 +8268,7 @@ WeakAurasSaved = {
 						["castType"] = "cast",
 						["use_spellId"] = true,
 						["name"] = "Flames of Punishment",
-						["auraspellids"] = {
-							"291146", -- [1]
-						},
+						["useExactSpellId"] = true,
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
 						["use_absorbMode"] = true,
@@ -8276,24 +8284,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text2Font"] = "Arial Narrow",
 			["text1Enabled"] = true,
-			["config"] = {
-			},
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
+			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -8308,21 +8300,37 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["internalVersion"] = 11,
+			["selfPoint"] = "CENTER",
+			["config"] = {
+			},
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["icon"] = true,
 			["load"] = {
 				["difficulty"] = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2271",
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2271",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
@@ -8333,40 +8341,36 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "Pixel",
+			["text1Font"] = "Arial Narrow",
+			["stickyDuration"] = false,
+			["cooldownEdge"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["text1FontFlags"] = "OUTLINE",
+			["useGlowColor"] = true,
+			["text2FontSize"] = 25,
+			["text2"] = "%s",
+			["text1"] = "Protected",
+			["alpha"] = 1,
+			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["glow"] = false,
+			["id"] = "04 Protected from Dance",
+			["text1Containment"] = "OUTSIDE",
+			["text2Enabled"] = false,
+			["width"] = 80,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["url"] = "https://wago.io/bfaraid2/103",
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["stickyDuration"] = false,
-			["useGlowColor"] = true,
-			["text2FontSize"] = 25,
-			["text2"] = "%s",
-			["text1"] = "Protected",
-			["alpha"] = 1,
-			["auto"] = true,
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
-			["glow"] = false,
-			["id"] = "04 Protected from Dance",
-			["text1Containment"] = "OUTSIDE",
-			["text2Enabled"] = false,
-			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
 			["uid"] = "8)Z4T2StBXe",
 			["inverse"] = false,
 			["cooldownTextEnabled"] = true,
@@ -8388,22 +8392,22 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["auto"] = true,
 			["cooldownSwipe"] = true,
-			["text2Font"] = "Arial Narrow",
-			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
-			["useglowColor"] = false,
-			["xOffset"] = 0,
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = false,
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["text2Font"] = "Arial Narrow",
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["text1Enabled"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -8413,10 +8417,10 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"283573", -- [1]
 						},
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["matchesShowOn"] = "showOnActive",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["names"] = {
 							"Sacred Blade", -- [1]
 						},
@@ -8435,7 +8439,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8465,16 +8469,16 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -8486,12 +8490,7 @@ WeakAurasSaved = {
 			["text1Containment"] = "OUTSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "ACShine",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
@@ -8525,14 +8524,19 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "UZrmQZYAHgA",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["glow"] = false,
 		},
 		["05 Gift of Wind Cast (Mage Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -8542,14 +8546,14 @@ WeakAurasSaved = {
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
 			["useglowColor"] = false,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -8562,19 +8566,19 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["spellId"] = 282098,
 						["subeventSuffix"] = "_CAST_START",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["duration"] = "1",
 						["event"] = "Cast",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
+						["name"] = "Gift of Wind",
+						["use_spellId"] = true,
 						["spellIds"] = {
 						},
-						["use_spellId"] = true,
-						["name"] = "Gift of Wind",
 						["use_specific_unit"] = true,
 						["use_absorbMode"] = true,
 						["unit"] = "boss1",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -8638,16 +8642,16 @@ WeakAurasSaved = {
 				["role"] = {
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["single"] = "MAGE",
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -8659,12 +8663,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = true,
 			["text2Color"] = {
@@ -8706,7 +8705,12 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "i(xyMAhQ49O",
 			["inverse"] = false,
 			["animation"] = {
@@ -8725,7 +8729,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 1850549,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = false,
 		},
 		["01 Blinding Faith"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -8736,12 +8740,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text2Font"] = "Arial Narrow",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -8765,13 +8764,13 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["dynamicDuration"] = true,
 						["remOperator"] = "<=",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_hide"] = "timed",
+						["custom_type"] = "stateupdate",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							282939, -- [1]
 						},
 						["type"] = "custom",
-						["custom_type"] = "stateupdate",
+						["subeventSuffix"] = "_CAST_START",
 						["unevent"] = "auto",
 						["customDuration"] = "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
 						["buffShowOn"] = "showOnActive",
@@ -8779,11 +8778,11 @@ WeakAurasSaved = {
 						["unit"] = "boss1",
 						["castType"] = "cast",
 						["use_spellId"] = true,
-						["name"] = "Crush",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 283650\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 283650 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["check"] = "event",
-						["debuffType"] = "HARMFUL",
 						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["name"] = "Crush",
+						["check"] = "event",
+						["custom_hide"] = "timed",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 283650\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 283650 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["names"] = {
 							"Flames of Punishment", -- [1]
 						},
@@ -8800,6 +8799,7 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -8815,7 +8815,6 @@ WeakAurasSaved = {
 				},
 			},
 			["xOffset"] = 0,
-			["text2Font"] = "Arial Narrow",
 			["uid"] = "JE6KVO8QDh(",
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -8831,15 +8830,15 @@ WeakAurasSaved = {
 			["desaturate"] = false,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -8851,24 +8850,29 @@ WeakAurasSaved = {
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Arial Narrow",
-			["selfPoint"] = "CENTER",
+			["text1Containment"] = "OUTSIDE",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1FontFlags"] = "OUTLINE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["regionType"] = "icon",
-			["text1Containment"] = "OUTSIDE",
+			["text1FontFlags"] = "OUTLINE",
 			["auto"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Turn",
 			["glow"] = true,
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Turn.ogg",
@@ -8896,12 +8900,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1FontFlags"] = "OUTLINE",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -8912,19 +8911,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["cooldownSwipe"] = true,
-			["glow"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Hide.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -8963,8 +8953,56 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["xOffset"] = 0,
+			["uid"] = "0B2Osw75iZp",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Hide.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["anchorFrameType"] = "SCREEN",
+			["authorMode"] = true,
+			["alpha"] = 1,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Arial Narrow",
+			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -8979,45 +9017,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text2Font"] = "Arial Narrow",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["uid"] = "0B2Osw75iZp",
-			["text1Containment"] = "OUTSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["icon"] = true,
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2276",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["anchorFrameType"] = "SCREEN",
-			["authorMode"] = true,
-			["text2Enabled"] = false,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["desaturate"] = false,
-			["selfPoint"] = "CENTER",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9025,29 +9024,34 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Enabled"] = true,
 			["useGlowColor"] = false,
 			["text2FontSize"] = 25,
 			["zoom"] = 0.3,
 			["text1"] = "Hide (LoS)",
 			["auto"] = true,
-			["alpha"] = 1,
+			["text1Containment"] = "OUTSIDE",
 			["text2"] = "%s",
 			["semver"] = "2.0.34-103",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["id"] = "06 Gigavolt Charge",
-			["authorOptions"] = {
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["frameStrata"] = 1,
+			["text2Enabled"] = false,
 			["width"] = 80,
 			["internalVersion"] = 11,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
 			["displayIcon"] = 1698700,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = true,
 		},
 		["09 Ring of Frost"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -9085,14 +9089,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							285215, -- [1]
-						},
+						["name"] = "Ring of Frost",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
-						["name"] = "Ring of Frost",
+						["spellIds"] = {
+							285215, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -9126,15 +9130,15 @@ WeakAurasSaved = {
 			["uid"] = "Bgp5MZsrldQ",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -9159,12 +9163,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = true,
 			["text2Color"] = {
@@ -9194,7 +9193,12 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -9205,19 +9209,11 @@ WeakAurasSaved = {
 		},
 		["01 Seal of Retribution"] = {
 			["text2Point"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["text2Color"] = {
+				1, -- [1]
+				0, -- [2]
+				0.007843137254902, -- [3]
+				1, -- [4]
 			},
 			["text1FontSize"] = 16,
 			["color"] = {
@@ -9339,13 +9335,26 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["text2Font"] = "Arial Narrow",
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
 			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text2Font"] = "Arial Narrow",
+			["selfPoint"] = "CENTER",
 			["uid"] = "mVD2iu1rstI",
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9356,18 +9365,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -9379,19 +9388,14 @@ WeakAurasSaved = {
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "Pixel",
 			["text1Font"] = "Arial Narrow",
+			["text1Containment"] = "OUTSIDE",
 			["text2Enabled"] = true,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
-				1, -- [4]
-			},
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Color"] = {
-				1, -- [1]
-				0, -- [2]
-				0.007843137254902, -- [3]
 				1, -- [4]
 			},
 			["useGlowColor"] = false,
@@ -9399,9 +9403,9 @@ WeakAurasSaved = {
 			["text2"] = "%p",
 			["text1"] = "%c",
 			["internalVersion"] = 11,
-			["auto"] = true,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["glow"] = false,
 			["id"] = "01 Seal of Retribution",
 			["xOffset"] = 0,
@@ -9423,12 +9427,13 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
+			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -9443,14 +9448,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							284168, -- [1]
-						},
+						["name"] = "Blast Off",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Shrunk", -- [1]
 						},
-						["name"] = "Blast Off",
+						["spellIds"] = {
+							284168, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -9461,7 +9466,6 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -9506,31 +9510,31 @@ WeakAurasSaved = {
 			["uid"] = "1943(Wc)Whv",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -9575,15 +9579,15 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -9599,21 +9603,21 @@ WeakAurasSaved = {
 						},
 						["use_tooltip"] = false,
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["auranames"] = {
 							"286779", -- [1]
 						},
 						["useName"] = true,
 						["event"] = "Cast",
 						["subeventPrefix"] = "SPELL",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							286779, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
 						["use_unit"] = true,
 						["matchesShowOn"] = "showOnActive",
 						["combineMatches"] = "showLowest",
@@ -9642,15 +9646,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -9661,12 +9665,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["stickyDuration"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -9706,7 +9705,12 @@ WeakAurasSaved = {
 			["text2Font"] = "Arial Narrow",
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "9qMQ0qF8anc",
 			["inverse"] = false,
 			["animation"] = {
@@ -9725,7 +9729,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 571321,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = false,
 		},
 		["04 Crush"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -9762,7 +9766,50 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_castType"] = false,
+						["rem"] = "4",
+						["spellId"] = 283606,
+						["group_role"] = "TANK",
+						["use_absorbMode"] = true,
+						["use_unit"] = true,
+						["use_specific_unit"] = true,
+						["subeventPrefix"] = "SPELL",
+						["dynamicDuration"] = false,
+						["remOperator"] = "<=",
+						["custom_type"] = "stateupdate",
+						["debuffType"] = "HARMFUL",
+						["spellIds"] = {
+							282939, -- [1]
+						},
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
+						["customDuration"] = "",
+						["buffShowOn"] = "showOnActive",
+						["event"] = "Chat Message",
+						["unit"] = "boss1",
+						["castType"] = "cast",
+						["use_spellId"] = true,
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["name"] = "Crush",
+						["check"] = "event",
+						["custom_hide"] = "timed",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 289906 or spellID == 283606) and IsItemInRange(28767, unitID) \n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 289906 or spellID == 283606) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
+						["names"] = {
+							"Flames of Punishment", -- [1]
+						},
+					},
+					["untrigger"] = {
+						["unit"] = "boss1",
+						["use_specific_unit"] = true,
+					},
+				}, -- [1]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
 			["internalVersion"] = 11,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
@@ -9791,39 +9838,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["stickyDuration"] = false,
 			["xOffset"] = 0,
@@ -9846,75 +9893,22 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["displayIcon"] = 236316,
 			["cooldown"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_castType"] = false,
-						["rem"] = "4",
-						["spellId"] = 283606,
-						["group_role"] = "TANK",
-						["use_absorbMode"] = true,
-						["use_unit"] = true,
-						["use_specific_unit"] = true,
-						["subeventPrefix"] = "SPELL",
-						["dynamicDuration"] = false,
-						["remOperator"] = "<=",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_hide"] = "timed",
-						["spellIds"] = {
-							282939, -- [1]
-						},
-						["type"] = "custom",
-						["custom_type"] = "stateupdate",
-						["unevent"] = "auto",
-						["customDuration"] = "",
-						["buffShowOn"] = "showOnActive",
-						["event"] = "Chat Message",
-						["unit"] = "boss1",
-						["castType"] = "cast",
-						["use_spellId"] = true,
-						["name"] = "Crush",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 289906 or spellID == 283606) and IsItemInRange(28767, unitID) \n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 289906 or spellID == 283606) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["check"] = "event",
-						["debuffType"] = "HARMFUL",
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["names"] = {
-							"Flames of Punishment", -- [1]
-						},
-					},
-					["untrigger"] = {
-						["unit"] = "boss1",
-						["use_specific_unit"] = true,
-					},
-				}, -- [1]
-				["disjunctive"] = "any",
-				["activeTriggerMode"] = -10,
-			},
+			["useglowColor"] = false,
 		},
 		["05 Bwonsamdi's Wrath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
-			["useGlowColor"] = true,
+			["auto"] = true,
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["cooldownSwipe"] = true,
-			["authorOptions"] = {
-			},
+			["glow"] = false,
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -9955,11 +9949,11 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["internalVersion"] = 11,
-			["icon"] = true,
+			["text2Font"] = "Arial Narrow",
 			["uid"] = "VpAURWR6EZh",
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -9980,16 +9974,16 @@ WeakAurasSaved = {
 				["role"] = {
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2268",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2268",
+				["use_difficulty"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
@@ -10008,36 +10002,14 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Containment"] = "OUTSIDE",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["cooldownTextEnabled"] = true,
-			["auto"] = true,
+			["useGlowColor"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "No Heal",
 			["text2Enabled"] = false,
-			["text1FontFlags"] = "OUTLINE",
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["id"] = "05 Bwonsamdi's Wrath",
-			["text1Enabled"] = true,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["desaturate"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -10052,9 +10024,41 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "05 Bwonsamdi's Wrath",
+			["authorOptions"] = {
+			},
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["desaturate"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["LayoutAnchors"] = {
 			["outline"] = "OUTLINE",
@@ -10088,9 +10092,9 @@ WeakAurasSaved = {
 			["automaticWidth"] = "Auto",
 			["actions"] = {
 				["start"] = {
-					["do_custom"] = false,
 					["do_message"] = false,
 					["custom"] = "",
+					["do_custom"] = false,
 				},
 				["init"] = {
 				},
@@ -10104,21 +10108,21 @@ WeakAurasSaved = {
 					["trigger"] = {
 						["custom_hide"] = "timed",
 						["type"] = "custom",
-						["custom_type"] = "event",
 						["subeventSuffix"] = "_CAST_START",
-						["use_absorbMode"] = true,
+						["custom_type"] = "event",
 						["duration"] = "1",
+						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["subeventPrefix"] = "SPELL",
-						["custom"] = "function()\n  local grid = Grid2LayoutFrame\n  if not grid then return end\n\n  grid:ClearAllPoints()\n  grid:SetPoint(\"TOPLEFT\", UIParent, \"CENTER\", -1 * (100 * 2.5), -200)\n\n  local player = ElvUF_Player\n  if player then\n    player:ClearAllPoints()\n    player:SetPoint(\"TOPRIGHT\", grid, \"TOPLEFT\", -3, -7)\n  end\n\n  local cast = Quartz3CastBarPlayer\n  if cast then\n    cast:ClearAllPoints()\n    cast:SetPoint(\"BOTTOMLEFT\", grid, \"TOPLEFT\", 1, 0)\n  end\n\n  local bw = BigWigsAnchor\n  if bw then\n    bw:ClearAllPoints()\n    if player then\n      bw:SetPoint(\"TOPLEFT\", player, \"BOTTOMLEFT\", 0, -4)\n      bw:SetPoint(\"TOPRIGHT\", player, \"BOTTOMRIGHT\", 0, -4)\n    else\n      bw:SetPoint(\"TOPRIGHT\", grid, \"TOPLEFT\", -3, -7)\n    end\n  end\n\n  local aa = LibStub(\"AceAddon-3.0\"):GetAddon(\"AngryAssignments\")\n  if aa then\n    if bw then\n      aa.frame:ClearAllPoints()\n      aa.frame:SetPoint(\"TOPRIGHT\", bw, \"TOPLEFT\", -1, 0)\n    end\n  end\n\n  local hk = Hekili_PrimaryB1\n  if hk then\n    if cast then\n      hk:ClearAllPoints()\n      hk:SetPoint(\"BOTTOMLEFT\", cast, \"TOPLEFT\", 0, 1)\n    end\n  end\n\n  return true\nend",
+						["unit"] = "player",
 						["events"] = "PLAYER_ENTERING_WORLD,ADDON_LOADED",
 						["spellIds"] = {
 						},
+						["custom"] = "function()\n    local grid = Grid2LayoutFrame\n    if not grid then return end\n    \n    grid:ClearAllPoints()\n    grid:SetPoint(\"TOPLEFT\", UIParent, \"CENTER\", -1 * (100 * 2.5), -200)\n    \n    local player = ElvUF_Player\n    if player then\n        player:ClearAllPoints()\n        player:SetPoint(\"TOPRIGHT\", grid, \"TOPLEFT\", -3, -7)\n    end\n    \n    local cast = Quartz3CastBarPlayer\n    if cast then\n        cast:ClearAllPoints()\n        cast:SetPoint(\"BOTTOMLEFT\", grid, \"TOPLEFT\", 1, 0)\n    end\n    \n    local bw = BigWigsAnchor\n    if bw then\n        bw:ClearAllPoints()\n        if player then\n            bw:SetPoint(\"TOPLEFT\", player, \"BOTTOMLEFT\", 0, -4)\n            bw:SetPoint(\"TOPRIGHT\", player, \"BOTTOMRIGHT\", 0, -4)\n        else\n            bw:SetPoint(\"TOPRIGHT\", grid, \"TOPLEFT\", -3, -7)\n        end\n    end\n    \n    local aa = LibStub(\"AceAddon-3.0\"):GetAddon(\"AngryAssignments\")\n    if aa then\n        if bw then\n            aa.frame:ClearAllPoints()\n            aa.frame:SetPoint(\"TOPRIGHT\", bw, \"TOPLEFT\", -16, 0)\n        end\n    end\n    \n    local hk = Hekili_PrimaryB1\n    if hk then\n        if cast then\n            hk:ClearAllPoints()\n            hk:SetPoint(\"BOTTOMLEFT\", cast, \"TOPLEFT\", 0, 1)\n        end\n    end\n    \n    return true\nend",
 						["use_unit"] = true,
 						["unevent"] = "auto",
+						["subeventPrefix"] = "SPELL",
 						["names"] = {
 						},
-						["unit"] = "player",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -10134,11 +10138,11 @@ WeakAurasSaved = {
 			["fixedWidth"] = 200,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["font"] = "Friz Quadrata TT",
 			["config"] = {
 			},
-			["anchorPoint"] = "CENTER",
 			["uid"] = "VZTmdD9aojx",
+			["anchorPoint"] = "CENTER",
+			["font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["load"] = {
@@ -10168,7 +10172,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
 			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
@@ -10182,19 +10186,19 @@ WeakAurasSaved = {
 				["main"] = {
 					["type"] = "custom",
 					["colorR"] = 1,
-					["duration_type"] = "seconds",
 					["scalex"] = 1,
-					["alphaType"] = "custom",
-					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["y"] = 0,
+					["scaley"] = 1,
 					["alpha"] = 0.39,
 					["colorB"] = 1,
-					["y"] = 0,
-					["x"] = 0,
+					["alphaType"] = "custom",
+					["colorA"] = 1,
 					["colorG"] = 1,
 					["alphaFunc"] = "function(progress, start, delta)\n    local angle = (progress * 4 * math.pi) - (math.pi / 2)\n    if WeakAuras.triggerState[aura_env.id].triggers[1] then\n        return start + (((math.sin(angle) + 1)/2) * delta)\n    end\nend\n\n\n",
-					["colorA"] = 1,
+					["x"] = 0,
 					["rotate"] = 0,
-					["scaley"] = 1,
+					["preset"] = "alphaPulse",
 					["use_alpha"] = true,
 				},
 				["finish"] = {
@@ -10234,13 +10238,13 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["dynamicDuration"] = false,
 						["remOperator"] = "<=",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_hide"] = "timed",
+						["custom_type"] = "stateupdate",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							282939, -- [1]
 						},
 						["type"] = "custom",
-						["custom_type"] = "stateupdate",
+						["subeventSuffix"] = "_CAST_START",
 						["unevent"] = "auto",
 						["customDuration"] = "",
 						["buffShowOn"] = "showOnActive",
@@ -10248,11 +10252,11 @@ WeakAurasSaved = {
 						["unit"] = "boss1",
 						["castType"] = "cast",
 						["use_spellId"] = true,
-						["name"] = "Flames of Punishment",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["check"] = "event",
-						["debuffType"] = "HARMFUL",
 						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["name"] = "Flames of Punishment",
+						["check"] = "event",
+						["custom_hide"] = "timed",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["names"] = {
 							"Flames of Punishment", -- [1]
 						},
@@ -10266,18 +10270,18 @@ WeakAurasSaved = {
 					["trigger"] = {
 						["buffShowOn"] = "showOnActive",
 						["type"] = "custom",
-						["subeventPrefix"] = "SPELL",
-						["subeventSuffix"] = "_CAST_START",
 						["names"] = {
 						},
+						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["event"] = "Health",
 						["dynamicDuration"] = false,
 						["customDuration"] = "",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    return true\nend",
 						["events"] = "UNIT_SPELLCAST_CHANNEL_START, UNIT_SPELLCAST_CHANNEL_STOP",
 						["spellIds"] = {
 						},
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if (spellID == 282939 or spellID == 287659) and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    return true\nend",
 						["check"] = "event",
 						["custom_type"] = "stateupdate",
 						["debuffType"] = "HELPFUL",
@@ -10305,31 +10309,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -10374,13 +10378,13 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 135822,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["04 Chaotic Displacement"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["auto"] = true,
+			["useGlowColor"] = true,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -10400,20 +10404,7 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -10430,14 +10421,14 @@ WeakAurasSaved = {
 						["names"] = {
 							"Quickened Pulse", -- [1]
 						},
-						["useExactSpellId"] = true,
+						["subeventSuffix"] = "_CAST_START",
 						["debuffType"] = "HARMFUL",
-						["unevent"] = "auto",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"289383", -- [1]
 						},
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["unevent"] = "auto",
 						["name"] = "Flames of Punishment",
 						["buffShowOn"] = "showOnActive",
 						["event"] = "Cast",
@@ -10447,7 +10438,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							284519, -- [1]
 						},
-						["subeventSuffix"] = "_CAST_START",
+						["useExactSpellId"] = true,
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
 						["use_absorbMode"] = true,
@@ -10463,7 +10454,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Enabled"] = true,
+			["glow"] = true,
 			["uid"] = "bZm4Qaw2Etl",
 			["desaturate"] = false,
 			["glowColor"] = {
@@ -10482,16 +10473,16 @@ WeakAurasSaved = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2271",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2271",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
@@ -10522,29 +10513,42 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["xOffset"] = 0,
-			["useGlowColor"] = true,
+			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Swap Inc",
 			["text1Font"] = "Arial Narrow",
-			["text2Enabled"] = false,
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["text1Enabled"] = true,
 			["id"] = "04 Chaotic Displacement",
-			["selfPoint"] = "CENTER",
 			["alpha"] = 1,
+			["text2Enabled"] = false,
 			["width"] = 80,
 			["stickyDuration"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["displayIcon"] = 135822,
 			["cooldown"] = true,
 			["authorOptions"] = {
@@ -10554,7 +10558,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["useGlowColor"] = false,
+			["auto"] = false,
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -10562,8 +10566,17 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["glow"] = true,
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Debuff.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -10577,12 +10590,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["unit"] = "player",
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"284361", -- [1]
 						},
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
 						["subeventPrefix"] = "SPELL",
 						["useExactSpellId"] = true,
 						["event"] = "Cast",
@@ -10623,7 +10636,7 @@ WeakAurasSaved = {
 				},
 			},
 			["selfPoint"] = "CENTER",
-			["text2Font"] = "Arial Narrow",
+			["icon"] = true,
 			["uid"] = "WQFApVAOFeB",
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -10639,15 +10652,15 @@ WeakAurasSaved = {
 			["xOffset"] = 0,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -10660,48 +10673,39 @@ WeakAurasSaved = {
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
-			["desaturate"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text2Font"] = "Arial Narrow",
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text1Containment"] = "OUTSIDE",
-			["auto"] = false,
+			["useGlowColor"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Drops Pool",
 			["text1Enabled"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["id"] = "08 Sea Storm",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Debuff.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
+			["authorOptions"] = {
 			},
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["desaturate"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1385912,
 			["cooldown"] = true,
 			["color"] = {
@@ -10739,9 +10743,9 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -10806,15 +10810,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -10825,20 +10829,15 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
@@ -10859,7 +10858,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "39laB((ki8y",
 			["inverse"] = false,
 			["authorOptions"] = {
@@ -10875,15 +10879,15 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -10914,8 +10918,8 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["use_tooltip"] = false,
 						["useGroup_count"] = false,
-						["buffShowOn"] = "showOnActive",
 						["debuffType"] = "HARMFUL",
+						["buffShowOn"] = "showOnActive",
 						["subeventSuffix"] = "_CAST_START",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
@@ -10961,15 +10965,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -10980,12 +10984,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownTextEnabled"] = true,
 			["text2Color"] = {
@@ -11020,7 +11019,12 @@ WeakAurasSaved = {
 			["glow"] = true,
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "GEpw2i1lF7Z",
 			["inverse"] = false,
 			["text2Font"] = "Arial Narrow",
@@ -11044,7 +11048,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -11129,39 +11133,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
@@ -11189,7 +11193,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["07 Deathly Withering"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -11199,11 +11203,16 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["icon"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "event",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -11213,12 +11222,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
-			["icon"] = true,
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -11229,21 +11232,21 @@ WeakAurasSaved = {
 						},
 						["use_tooltip"] = false,
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["auranames"] = {
 							"285195", -- [1]
 						},
 						["useName"] = true,
 						["event"] = "Cast",
 						["subeventPrefix"] = "SPELL",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							285195, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
 						["use_unit"] = true,
 						["matchesShowOn"] = "showOnActive",
 						["combineMatches"] = "showLowest",
@@ -11256,6 +11259,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -11274,8 +11278,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -11291,31 +11295,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "OUTLINE",
@@ -11368,9 +11372,9 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -11486,31 +11490,31 @@ WeakAurasSaved = {
 			["uid"] = "SKGyBEztG3x",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["xOffset"] = 0,
 			["text2Color"] = {
@@ -11557,16 +11561,11 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["icon"] = true,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -11574,8 +11573,13 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -11633,31 +11637,31 @@ WeakAurasSaved = {
 			["uid"] = "d(pgt1tcFV1",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2263,2284",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -11787,29 +11791,33 @@ WeakAurasSaved = {
 			["sort"] = "none",
 			["expanded"] = true,
 			["constantFactor"] = "RADIUS",
-			["radius"] = 200,
+			["xOffset"] = -1,
 			["borderOffset"] = 16,
 			["semver"] = "1.0.0-8",
-			["anchorFrameParent"] = false,
+			["radius"] = 200,
 			["id"] = "Tosh ExternalCDs",
-			["xOffset"] = -1,
+			["anchorFrameParent"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SELECTFRAME",
-			["background"] = "None",
+			["backgroundInset"] = 0,
 			["uid"] = "k)k0yM84OEu",
 			["config"] = {
 			},
 			["selfPoint"] = "TOPRIGHT",
 			["conditions"] = {
 			},
-			["backgroundInset"] = 0,
 			["rotation"] = 0,
+			["background"] = "None",
 		},
 		["09 Siegebreaker Blast"] = {
 			["text2Point"] = "BOTTOM",
-			["auto"] = true,
+			["semver"] = "2.0.34-103",
 			["text1FontSize"] = 16,
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["cooldownEdge"] = false,
 			["customText"] = "",
@@ -11817,49 +11825,16 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["cooldownTextEnabled"] = true,
 			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["glow"] = true,
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["text1Enabled"] = true,
+			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["translateType"] = "custom",
-					["scalex"] = 1,
-					["alphaType"] = "custom",
-					["colorB"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "function(progress, start, delta)\n    local angle = (progress * 4 * math.pi) - (math.pi / 2)\n    if WeakAuras.triggerState[aura_env.id].triggers[1] then\n        aura_env.region.icon:SetDesaturation((math.sin(angle) + 1)/2)\n        return start\n    end\nend\n--ty asakawa",
-					["use_translate"] = false,
-					["use_alpha"] = false,
-					["type"] = "none",
-					["preset"] = "alphaPulse",
-					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
-					["scaley"] = 1,
-					["alpha"] = 0.42,
-					["use_color"] = false,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["colorR"] = 1,
-					["duration_type"] = "seconds",
-					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      local newProgress = ((math.sin(angle) + 1)/2);\n      return r1 + (newProgress * (r2 - r1)),\n           g1 + (newProgress * (g2 - g1)),\n           b1 + (newProgress * (b2 - b1)),\n           a1 + (newProgress * (a2 - a1))\n    end\n  ",
-					["rotate"] = 0,
-					["x"] = 140,
-					["colorA"] = 1,
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -11884,9 +11859,42 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["translateType"] = "custom",
+					["scalex"] = 1,
+					["alphaType"] = "custom",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    local angle = (progress * 4 * math.pi) - (math.pi / 2)\n    if WeakAuras.triggerState[aura_env.id].triggers[1] then\n        aura_env.region.icon:SetDesaturation((math.sin(angle) + 1)/2)\n        return start\n    end\nend\n--ty asakawa",
+					["use_translate"] = false,
+					["use_alpha"] = false,
+					["type"] = "none",
+					["scaley"] = 1,
+					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
+					["preset"] = "alphaPulse",
+					["alpha"] = 0.42,
+					["use_color"] = false,
+					["y"] = 0,
+					["x"] = 140,
+					["colorR"] = 1,
+					["duration_type"] = "seconds",
+					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      local newProgress = ((math.sin(angle) + 1)/2);\n      return r1 + (newProgress * (r2 - r1)),\n           g1 + (newProgress * (g2 - g1)),\n           b1 + (newProgress * (b2 - b1)),\n           a1 + (newProgress * (a2 - a1))\n    end\n  ",
+					["rotate"] = 0,
+					["colorType"] = "custom",
+					["colorA"] = 1,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "ym)7Iut3mG0",
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -11940,11 +11948,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -11976,41 +11984,37 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Font"] = "Arial Narrow",
-			["glow"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
-			["semver"] = "2.0.34-103",
-			["text2FontSize"] = 16,
-			["text2"] = "%c2",
-			["text1"] = "Targeted",
-			["text2Font"] = "Arial Narrow",
+			["stickyDuration"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["auto"] = true,
+			["text2FontSize"] = 16,
+			["text2"] = "%c2",
+			["text1"] = "Targeted",
+			["text2Font"] = "Arial Narrow",
+			["text1Containment"] = "OUTSIDE",
 			["zoom"] = 0.3,
 			["useGlowColor"] = true,
-			["internalVersion"] = 11,
+			["text1FontFlags"] = "OUTLINE",
 			["id"] = "09 Siegebreaker Blast",
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["desaturate"] = false,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["xOffset"] = 0,
 			["displayIcon"] = 135189,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["02 Discharge Shadow/Apetagonizer Core"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -12019,12 +12023,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -12062,7 +12060,13 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -12092,7 +12096,7 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -12108,31 +12112,31 @@ WeakAurasSaved = {
 				["role"] = {
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2263,2284",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["glow"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -12165,7 +12169,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["authorOptions"] = {
@@ -12175,7 +12179,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["useGlowColor"] = false,
+			["auto"] = false,
 			["icon"] = true,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -12197,9 +12201,22 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -12216,7 +12233,7 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["unit"] = "boss1",
-						["buffShowOn"] = "showOnActive",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							282939, -- [1]
 						},
@@ -12229,11 +12246,11 @@ WeakAurasSaved = {
 						["custom_hide"] = "timed",
 						["castType"] = "cast",
 						["use_spellId"] = true,
-						["name"] = "Crush",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 282411 and IsItemInRange(32321, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 282411 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["remOperator"] = "<=",
-						["debuffType"] = "HARMFUL",
 						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["name"] = "Crush",
+						["remOperator"] = "<=",
+						["buffShowOn"] = "showOnActive",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 282411 and IsItemInRange(32321, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 282411 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["dynamicDuration"] = true,
 					},
 					["untrigger"] = {
@@ -12244,8 +12261,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 11,
 			["uid"] = "pIPKRlI3Hek",
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -12258,23 +12274,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -12285,14 +12296,14 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["desaturate"] = false,
-			["color"] = {
+			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["desaturate"] = false,
+			["text1Enabled"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -12301,36 +12312,29 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["text1FontFlags"] = "OUTLINE",
-			["auto"] = false,
+			["useGlowColor"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Avoid",
 			["alpha"] = 1,
-			["text2Font"] = "Arial Narrow",
+			["selfPoint"] = "CENTER",
 			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
-			["cooldownEdge"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["id"] = "05 Thundering Storm",
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Containment"] = "OUTSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["authorOptions"] = {
 			},
 			["displayIcon"] = 237589,
 			["cooldown"] = true,
@@ -12347,7 +12351,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
 			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
@@ -12426,31 +12430,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -12495,7 +12499,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["04 Spirits of Gold"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -12504,13 +12508,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
-			["icon"] = true,
-			["useglowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -12525,6 +12527,8 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -12548,12 +12552,12 @@ WeakAurasSaved = {
 						},
 						["castType"] = "channel",
 						["use_spellId"] = true,
+						["name"] = "Spirits of Gold",
+						["unevent"] = "auto",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							285280, -- [1]
 						},
-						["unevent"] = "auto",
-						["debuffType"] = "HARMFUL",
-						["name"] = "Spirits of Gold",
 						["use_unit"] = true,
 						["duration"] = "1",
 					},
@@ -12580,31 +12584,31 @@ WeakAurasSaved = {
 			["uid"] = "pBPjkTpps04",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["color"] = {
 				1, -- [1]
@@ -12664,16 +12668,16 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -12683,7 +12687,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -12694,21 +12697,21 @@ WeakAurasSaved = {
 						},
 						["use_tooltip"] = false,
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["auranames"] = {
 							"285044", -- [1]
 						},
 						["useName"] = true,
 						["event"] = "Cast",
 						["subeventPrefix"] = "SPELL",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							285044, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
 						["use_unit"] = true,
 						["matchesShowOn"] = "showOnActive",
 						["combineMatches"] = "showLowest",
@@ -12721,6 +12724,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -12743,15 +12747,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -12825,21 +12829,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -12853,15 +12842,15 @@ WeakAurasSaved = {
 						["use_specific_unit"] = false,
 						["use_tooltip"] = false,
 						["matchesShowOn"] = "showOnActive",
+						["debuffType"] = "HARMFUL",
+						["subeventSuffix"] = "_CAST_START",
 						["buffShowOn"] = "showOnActive",
 						["unevent"] = "auto",
-						["debuffType"] = "HARMFUL",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"290654", -- [1]
 						},
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
 						["subeventPrefix"] = "SPELL",
 						["spellIds"] = {
 							284802, -- [1]
@@ -12884,7 +12873,22 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
+			["useglowColor"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -12905,7 +12909,7 @@ WeakAurasSaved = {
 			},
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -12920,15 +12924,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -12976,7 +12980,7 @@ WeakAurasSaved = {
 			["text1Enabled"] = true,
 			["uid"] = "w5oA()2zCbW",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["authorOptions"] = {
@@ -12990,6 +12994,16 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["icon"] = true,
+			["cooldownSwipe"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -13000,18 +13014,8 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["cooldownSwipe"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
 			["useglowColor"] = false,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["xOffset"] = 0,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -13052,7 +13056,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -13069,32 +13073,32 @@ WeakAurasSaved = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2276",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2276",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownEdge"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -13135,10 +13139,10 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 1698700,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 		},
 		["Tosh ExternalCDs bar"] = {
 			["textFlags"] = "OUTLINE",
@@ -13180,7 +13184,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_never"] = false,
+				["use_never"] = true,
 				["size"] = {
 					["multi"] = {
 					},
@@ -13224,17 +13228,17 @@ WeakAurasSaved = {
 						["customVariables"] = "  {\n    expirationTime = true,\n    active = {\n        display = \"effect active\",\n        type = \"bool\",\n    },\n    isplayer = {\n        display = \"is player\",\n        type = \"bool\",\n    },\n    classid = {\n        display = \"Class\",\n        type = \"string\",\n    }\n  }",
 						["subeventSuffix"] = "_CAST_START",
 						["debuffType"] = "HELPFUL",
-						["subeventPrefix"] = "SPELL",
-						["event"] = "Chat Message",
 						["names"] = {
 						},
+						["event"] = "Chat Message",
+						["unit"] = "player",
 						["custom_type"] = "stateupdate",
-						["events"] = "PLAYER_ENTERING_WORLD,GROUP_ROSTER_UPDATE,RAID_ROSTER_UPDATE,COMBAT_LOG_EVENT_UNFILTERED,ENCOUNTER_START,PLAYER_SPECIALIZATION_CHANGED,TOSH_EXTERNAL_CD_COMPLETED,TOSH_EXTERNAL_CD_UPDATE",
 						["custom"] = "function(allstates, event, ...)\n    if event == \"ENCOUNTER_END\" and aura_env.ShouldResetCDs() then\n        for k,v in pairs(allstates) do\n            v.expirationTime = nil\n        end\n        return true\n\n    elseif event == aura_env.events.completed then\n        local sourceGUID, spellId = ...\n        if not sourceGUID or not spellId then return end\n        local key = sourceGUID .. spellId\n        local state = allstates[key]\n        if not state then return end\n        local info = state.cdInfo\n        state.duration = info.cd\n        state.expirationTime = (state.duration - info.duration) + GetTime()\n        state.inverse = true\n        state.active = false\n        aura_env:setindex(state)\n        state.changed = true\n        return true\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local subevent = select(2,...)\n        if subevent == \"SPELL_CAST_SUCCESS\" then\n            local sourceGUID = aura_env.owner(select(4,...))\n            local spellId = select(12,...)\n            local key = sourceGUID .. spellId\n            local state = allstates[key]\n            if not state then\n                if spellId == 2050 or spellId == 34861 then -- Holy Word: Salvation CD reduction\n                    spellId = 265202\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 30\n                        end\n                    end\n                elseif spellId == 121253 then --  Fortifying Brew\n                    spellId = 115203\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 4\n                        end\n                    end\n                end\n                return\n            end\n            local info = state.cdInfo\n            if (info.duration or 0) > 0 then\n                state.duration = info.duration\n                state.inverse = false\n                state.active = true\n                aura_env:setindex(state)\n                local completed = aura_env.events.completed\n                C_Timer.After(info.duration, function() WeakAuras.ScanEvents(completed, sourceGUID, spellId) end)\n            else\n                state.duration = info.cd\n                state.inverse = true\n            end\n            state.expirationTime = state.duration + GetTime()\n            state.changed = true\n            return true\n        end\n\n    elseif event == \"PLAYER_ENTERING_WORLD\" or event == \"GROUP_ROSTER_UPDATE\" or event == \"RAID_ROSTER_UPDATE\" or event == \"PLAYER_SPECIALIZATION_CHANGED\" or event == aura_env.events.update then\n        for k,v in pairs(allstates) do\n            v.show = false\n            v.changed = true\n        end\n\n        local testbars = aura_env.config.testbars or 0\n        for i=1,testbars do\n            local tab = math.random(GetNumSpellTabs())\n            local slots = select(4, GetSpellTabInfo(tab))\n            local testSpell = GetSpellBookItemName(math.random(slots), BOOKTYPE_SPELL)\n            local _, _, icon, _, _, _, spellId = GetSpellInfo(testSpell)\n            allstates[i] = {\n                show = true,\n                changed = true,\n                sourceName = \"testbar\"..i,\n                progressType = \"timed\",\n                autoHide = false,\n                icon = icon,\n                spellId = spellId,\n                name = \"testbar\"..i,\n                duration = 10,\n                index = \"zzzz\"..i, -- sort last\n\n                -- Condition variables\n                active = false,\n                isplayer = false,\n                classid = select(2, UnitClass(\"player\")),\n            }\n        end\n\n        local playerguid = UnitGUID(\"player\")\n        for uid in WA_IterateGroupMembers() do\n            local info = UnitIsVisible(uid) and aura_env.inspectLib:GetCachedInfo(UnitGUID(uid))\n            if info then\n                local cds = aura_env.specCDs[info.global_spec_id]\n                if cds then\n                    for spellId, cdInfo in pairs(cds) do\n                        if cdInfo.talent then\n                            cdInfo = cdInfo.talent(info.talents)\n                        end\n                        if cdInfo then\n                            spellId = cdInfo.spellId or spellId\n                            local key = info.guid .. spellId\n                            allstates[key] = {\n                                show = true,\n                                changed = true,\n                                sourceName = info.name,\n                                progressType = \"timed\",\n                                autoHide = false,\n                                icon = select(3, GetSpellInfo(spellId)),\n                                spellId = spellId,\n                                name = info.name .. spellId,\n                                sourceGUID = info.guid,\n                                duration = cdInfo.cd,\n\n                                info = info,\n                                cdInfo = cdInfo,\n\n                                -- Condition variables\n                                active = false,\n                                isplayer = (playerguid == info.guid),\n                                classid = info.class,\n                            }\n                            aura_env:setindex(allstates[key])\n                        end\n                    end\n                end\n            end\n        end\n        return true\n    end\nend",
 						["spellIds"] = {
 						},
+						["events"] = "PLAYER_ENTERING_WORLD,GROUP_ROSTER_UPDATE,RAID_ROSTER_UPDATE,COMBAT_LOG_EVENT_UNFILTERED,ENCOUNTER_START,PLAYER_SPECIALIZATION_CHANGED,TOSH_EXTERNAL_CD_COMPLETED,TOSH_EXTERNAL_CD_UPDATE",
 						["check"] = "event",
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["unevent"] = "auto",
 						["buffShowOn"] = "showOnActive",
 					},
@@ -13251,36 +13255,36 @@ WeakAurasSaved = {
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
-					["colorB"] = 1,
-					["scalex"] = 1,
 					["colorType"] = "custom",
 					["scaley"] = 1,
-					["alpha"] = 0,
-					["x"] = 0,
-					["y"] = 0,
 					["colorA"] = 1,
+					["duration_type"] = "seconds",
+					["alpha"] = 0,
+					["colorB"] = 1,
+					["y"] = 0,
+					["x"] = 0,
 					["colorG"] = 1,
 					["type"] = "none",
 					["colorFunc"] = "function()\n    if not aura_env.state then return 0, 0, 0, 1 end  -- error checking.\n    local c = aura_env.state.barColor\n    if not c then return 0,0,0,1 end\n    return c.r, c.g, c.b, 1\nend",
 					["rotate"] = 0,
+					["scalex"] = 1,
 					["use_color"] = false,
-					["duration_type"] = "seconds",
 				},
 				["main"] = {
 					["colorR"] = 1,
-					["duration_type"] = "seconds",
 					["use_color"] = false,
-					["colorB"] = 1,
 					["scalex"] = 1,
-					["alpha"] = 0,
-					["colorType"] = "custom",
-					["y"] = 0,
 					["colorA"] = 1,
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorB"] = 1,
+					["y"] = 0,
+					["colorType"] = "custom",
 					["colorG"] = 1,
 					["x"] = 0,
 					["colorFunc"] = "",
 					["rotate"] = 0,
-					["scaley"] = 1,
+					["duration_type"] = "seconds",
 					["type"] = "none",
 				},
 				["finish"] = {
@@ -13295,8 +13299,8 @@ WeakAurasSaved = {
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["borderOffset"] = 5,
 			["version"] = 8,
-			["timer"] = true,
 			["height"] = 18,
+			["timer"] = true,
 			["timerFlags"] = "OUTLINE",
 			["stacksFont"] = "Friz Quadrata TT",
 			["sparkBlendMode"] = "ADD",
@@ -13325,10 +13329,10 @@ WeakAurasSaved = {
 			["border"] = false,
 			["borderEdge"] = "None",
 			["id"] = "Tosh ExternalCDs bar",
-			["borderInFront"] = true,
-			["semver"] = "1.0.0-8",
-			["icon_side"] = "LEFT",
+			["borderSize"] = 16,
 			["displayTextRight"] = "%p",
+			["icon_side"] = "LEFT",
+			["semver"] = "1.0.0-8",
 			["sparkRotationMode"] = "AUTO",
 			["sparkHeight"] = 30,
 			["borderBackdrop"] = "Blizzard Tooltip",
@@ -13342,7 +13346,7 @@ WeakAurasSaved = {
 			["timerSize"] = 12,
 			["rotateText"] = "NONE",
 			["sparkHidden"] = "NEVER",
-			["borderSize"] = 16,
+			["borderInFront"] = true,
 			["frameStrata"] = 3,
 			["width"] = 150,
 			["textSize"] = 14,
@@ -13709,7 +13713,38 @@ WeakAurasSaved = {
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["spellId"] = 284474,
+						["duration"] = "1",
+						["unit"] = "boss1",
+						["debuffType"] = "HARMFUL",
+						["type"] = "status",
+						["subeventSuffix"] = "_CAST_START",
+						["use_unit"] = true,
+						["event"] = "Cast",
+						["use_specific_unit"] = true,
+						["unevent"] = "auto",
+						["use_spellId"] = true,
+						["name"] = "Judgment: Reckoning",
+						["use_absorbMode"] = true,
+						["names"] = {
+							"Wave of Light", -- [1]
+						},
+						["spellIds"] = {
+							283598, -- [1]
+						},
+						["buffShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+						["use_specific_unit"] = true,
+						["unit"] = "boss1",
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
 			["cooldownTextEnabled"] = true,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
@@ -13744,31 +13779,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -13818,38 +13853,7 @@ WeakAurasSaved = {
 			["internalVersion"] = 11,
 			["displayIcon"] = 535593,
 			["cooldown"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["spellId"] = 284474,
-						["duration"] = "1",
-						["unit"] = "boss1",
-						["debuffType"] = "HARMFUL",
-						["type"] = "status",
-						["subeventSuffix"] = "_CAST_START",
-						["use_unit"] = true,
-						["event"] = "Cast",
-						["use_specific_unit"] = true,
-						["unevent"] = "auto",
-						["use_spellId"] = true,
-						["spellIds"] = {
-							283598, -- [1]
-						},
-						["use_absorbMode"] = true,
-						["names"] = {
-							"Wave of Light", -- [1]
-						},
-						["name"] = "Judgment: Reckoning",
-						["buffShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
-					},
-					["untrigger"] = {
-						["use_specific_unit"] = true,
-						["unit"] = "boss1",
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
+			["useglowColor"] = false,
 		},
 		["DominosToggle"] = {
 			["sparkWidth"] = 10,
@@ -13871,7 +13875,7 @@ WeakAurasSaved = {
 				},
 				["init"] = {
 					["do_custom"] = true,
-					["custom"] = "local bars = {\n  DominosFrame1,\n  DominosFrame2,\n  DominosFrame3,\n  DominosFrame4,\n  DominosFrame5,\n  DominosFrame6,\n}\n\nfunction aura_env.toggle()\n  aura_env.state = not aura_env.state\n  for _, df in ipairs(bars) do\n    if df then\n      if aura_env.state then\n        df:Show()\n      else\n        df:Hide()\n      end\n    end\n  end\n  aura_env.text = aura_env.state and \">\" or \"<\"\nend\n\nlocal f = aura_env.region\nif not f.button then\n    f.button = CreateFrame(\"Button\", \"WAButton\"..aura_env.id, f)\n    f.button:SetAllPoints(f)\n    local aura_env = aura_env\n\n    aura_env.state = true\n    aura_env.toggle()\n    \n    f.button:SetScript(\"OnClick\", aura_env.toggle)\nend\n\n",
+					["custom"] = "local bars = {\n  DominosFrame1,\n  DominosFrame2,\n  DominosFrame3,\n  DominosFrame4,\n  DominosFrame5,\n  DominosFrame6,\n}\n\nfunction aura_env:toggle()\n  self.state = not self.state\n  for _, df in ipairs(bars) do\n    if df then\n      if self.state then\n        df:Show()\n      else\n        df:Hide()\n      end\n    end\n  end\n  self.text = self.state and \">\" or \"<\"\nend\n\nlocal f = aura_env.region\nif not f.button then\n    f.button = CreateFrame(\"Button\", \"WAButton\"..aura_env.id, f)\n    f.button:SetAllPoints(f)\n    local aura_env = aura_env\n\n    aura_env.state = true\n    aura_env:toggle()\n    \n    f.button:SetScript(\"OnClick\", aura_env.toggle)\nend",
 				},
 				["finish"] = {
 				},
@@ -14000,8 +14004,8 @@ WeakAurasSaved = {
 			["anchorFrameFrame"] = "DominosFrame6",
 			["border"] = false,
 			["borderEdge"] = "None",
-			["borderSize"] = 16,
 			["borderInFront"] = true,
+			["borderSize"] = 16,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "RIGHT",
 			["auto"] = true,
@@ -14048,13 +14052,25 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
-			["useglowColor"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["stop_sound"] = false,
+					["do_sound"] = false,
+					["sound"] = " custom",
+					["sound_channel"] = "Ambience",
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -14073,12 +14089,12 @@ WeakAurasSaved = {
 						},
 						["castType"] = "channel",
 						["use_spellId"] = true,
+						["name"] = "Spirits of Gold",
+						["unevent"] = "auto",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							285280, -- [1]
 						},
-						["unevent"] = "auto",
-						["debuffType"] = "HARMFUL",
-						["name"] = "Spirits of Gold",
 						["subeventPrefix"] = "SPELL",
 						["duration"] = "1",
 					},
@@ -14090,6 +14106,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -14125,31 +14142,31 @@ WeakAurasSaved = {
 			["uid"] = "S5Ra4ged4Kw",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownTextEnabled"] = true,
 			["text1FontFlags"] = "OUTLINE",
@@ -14180,20 +14197,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["displayIcon"] = 1058933,
 			["cooldown"] = true,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["stop_sound"] = false,
-					["do_sound"] = false,
-					["sound"] = " custom",
-					["sound_channel"] = "Ambience",
-				},
-				["init"] = {
-				},
-			},
+			["icon"] = true,
 		},
 		["08 Mark of the Seas"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -14223,9 +14227,9 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -14293,32 +14297,32 @@ WeakAurasSaved = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2280",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2280",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1FontFlags"] = "OUTLINE",
@@ -14371,9 +14375,9 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -14405,10 +14409,10 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["debuffType"] = "HARMFUL",
 						["buffShowOn"] = "showOnActive",
-						["useExactSpellId"] = true,
+						["subeventSuffix"] = "_CAST_START",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["name"] = "Successful Defense",
 						["use_specific_unit"] = false,
 						["event"] = "Cast",
@@ -14420,7 +14424,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							284089, -- [1]
 						},
-						["unevent"] = "auto",
+						["useExactSpellId"] = true,
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
 						["subcountCount"] = 1,
@@ -14432,7 +14436,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["desaturate"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -14453,31 +14457,31 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -14524,7 +14528,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["xOffset"] = 0,
@@ -14542,112 +14546,6 @@ WeakAurasSaved = {
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
-			["useglowColor"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["conditions"] = {
-			},
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["uid"] = "q2Lt)fl(1fc",
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2281",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["frameStrata"] = 1,
-			["authorOptions"] = {
-			},
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/bfaraid2/103",
-			["text2FontSize"] = 25,
-			["auto"] = true,
-			["text1"] = "-stack/root",
-			["glow"] = false,
-			["alpha"] = 1,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["id"] = "09 Searing Pitch",
-			["internalVersion"] = 11,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextEnabled"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["displayIcon"] = 135854,
-			["cooldown"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -14688,6 +14586,112 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["conditions"] = {
+			},
+			["selfPoint"] = "CENTER",
+			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "q2Lt)fl(1fc",
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["authorOptions"] = {
+			},
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["url"] = "https://wago.io/bfaraid2/103",
+			["text2FontSize"] = 25,
+			["auto"] = true,
+			["text1"] = "-stack/root",
+			["glow"] = false,
+			["alpha"] = 1,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "09 Searing Pitch",
+			["internalVersion"] = 11,
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextEnabled"] = true,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["desaturate"] = false,
+			["displayIcon"] = 135854,
+			["cooldown"] = true,
+			["useglowColor"] = false,
 		},
 		["02 Rending Bite (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -14702,18 +14706,7 @@ WeakAurasSaved = {
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_custom"] = false,
-					["custom"] = "",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -14774,7 +14767,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -14791,18 +14784,18 @@ WeakAurasSaved = {
 				["role"] = {
 					["single"] = "TANK",
 				},
-				["spec"] = {
+				["class"] = {
 					["multi"] = {
 					},
 				},
 				["faction"] = {
 				},
 				["use_role"] = true,
-				["class"] = {
+				["encounterid"] = "2263,2284",
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2263,2284",
 				["size"] = {
 					["multi"] = {
 					},
@@ -14813,12 +14806,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["xOffset"] = 0,
 			["text2Color"] = {
@@ -14843,14 +14831,30 @@ WeakAurasSaved = {
 			["internalVersion"] = 11,
 			["text2Enabled"] = true,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["icon"] = true,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "",
+					["sound"] = " custom",
+					["do_custom"] = false,
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 		},
 		["08 Mark of the Storm"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -14872,9 +14876,9 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -14954,32 +14958,32 @@ WeakAurasSaved = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2280",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2280",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["xOffset"] = 0,
 			["text2Color"] = {
@@ -15020,16 +15024,16 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -15041,7 +15045,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -15057,14 +15061,14 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["use_specific_unit"] = false,
 						["subeventPrefix"] = "SPELL",
-						["custom_hide"] = "timed",
-						["use_message"] = false,
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["use_message"] = false,
+						["debuffType"] = "HARMFUL",
+						["unevent"] = "timed",
 						["type"] = "custom",
 						["spellIds"] = {
 						},
-						["unevent"] = "timed",
+						["subeventSuffix"] = "_CAST_START",
 						["duration"] = "8",
 						["custom_type"] = "event",
 						["event"] = "Chat Message",
@@ -15075,7 +15079,7 @@ WeakAurasSaved = {
 						["names"] = {
 						},
 						["remOperator"] = "<=",
-						["debuffType"] = "HARMFUL",
+						["custom_hide"] = "timed",
 						["use_messageType"] = false,
 						["messageType"] = "CHAT_MSG_RAID_BOSS_EMOTE",
 					},
@@ -15099,31 +15103,31 @@ WeakAurasSaved = {
 			["uid"] = "30FlkqqeQPH",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["internalVersion"] = 11,
 			["text1FontFlags"] = "OUTLINE",
@@ -15186,7 +15190,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Move.ogg",
@@ -15220,7 +15224,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -15234,7 +15238,7 @@ WeakAurasSaved = {
 			["uid"] = "pvxCQwoRPGR",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -15242,11 +15246,11 @@ WeakAurasSaved = {
 					["single"] = "Horde",
 				},
 				["use_faction"] = true,
-				["class"] = {
+				["encounterid"] = "2263,2284",
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2263,2284",
 				["size"] = {
 					["multi"] = {
 					},
@@ -15286,12 +15290,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["xOffset"] = 0,
 			["text1FontFlags"] = "OUTLINE",
@@ -15315,14 +15314,19 @@ WeakAurasSaved = {
 			["internalVersion"] = 11,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 2101174,
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["08 Thunderous Boom"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -15348,7 +15352,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -15376,24 +15380,24 @@ WeakAurasSaved = {
 						["unit"] = "player",
 						["dynamicDuration"] = false,
 						["duration"] = "5",
-						["debuffType"] = "HARMFUL",
+						["custom_hide"] = "timed",
 						["subeventPrefix"] = "SPELL",
 						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
 						["custom_type"] = "event",
-						["name"] = "Voltaic Flash",
+						["subeventSuffix"] = "_CAST_START",
 						["spellIds"] = {
 							285280, -- [1]
 						},
+						["name"] = "Voltaic Flash",
 						["event"] = "Chat Message",
 						["unevent"] = "auto",
 						["customDuration"] = "",
 						["use_spellId"] = false,
-						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        if spellID == 284106 and IsItemInRange(28767, unit) then\n            return true \n        end \n    end \nend \n\n",
 						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        if spellID == 284106 and IsItemInRange(28767, unit) then\n            return true \n        end \n    end \nend \n\n",
 						["buffShowOn"] = "showOnActive",
 						["use_unit"] = true,
-						["custom_hide"] = "timed",
+						["debuffType"] = "HARMFUL",
 						["names"] = {
 							"Searing Waves", -- [1]
 						},
@@ -15427,31 +15431,31 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownTextEnabled"] = true,
 			["text1FontFlags"] = "OUTLINE",
@@ -15487,7 +15491,7 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["displayIcon"] = 136050,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["Tosh HealerMana bar"] = {
 			["textFlags"] = "OUTLINE",
@@ -15573,14 +15577,14 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["custom_type"] = "stateupdate",
 						["subeventSuffix"] = "_CAST_START",
-						["use_requirePowerType"] = false,
 						["event"] = "Power",
+						["use_requirePowerType"] = false,
 						["subeventPrefix"] = "SPELL",
 						["unevent"] = "auto",
 						["custom"] = "function(allstates, ...)\n    for k,v in pairs(allstates) do\n        v.show = false\n        v.index = nil\n        v.changed = true\n    end\n\n    local sortby = aura_env.config.sortby\n    local playerguid = UnitGUID(\"player\")\n    for uid in WA_IterateGroupMembers() do\n        if UnitExists(uid) and UnitIsVisible(uid) and UnitPower(uid) and UnitPower(uid) > 0 then\n            local info = aura_env.inspectLib:GetCachedInfo(UnitGUID(uid))\n            if info and aura_env.healSpecs[info.global_spec_id] then\n                local name = UnitName(uid)\n                local currMana, maxMana = UnitPower(uid), UnitPowerMax(uid)\n                local pct = math.floor((currMana / maxMana)*100)\n                local class = select(2, UnitClass(\"player\"))\n\n                local state = allstates[info.guid]\n                if not state then\n                    allstates[info.guid] = {\n                        progressType = \"static\",\n                        autoHide = false,\n                        display = WA_ClassColorName(uid),\n\n                        -- Condition variables\n                        classid = class,\n                        isplayer = (playerguid == info.guid),\n                    }\n                    state = allstates[info.guid]\n                end\n                state.show = true\n                state.value = currMana\n                state.total = maxMana\n                state.pct = pct\n                state.changed = true\n\n                if sortby == \"VALUE\" then\n                    state.index = aura_env.config.sortdir * pct or 0\n                    state.resort = true\n                elseif sortby == \"CLASS\" then\n                    state.index = class .. name\n                end\n            end\n        end\n    end\n\n    return true\nend",
-						["events"] = "PLAYER_ENTERING_WORLD,UNIT_POWER_UPDATE",
 						["spellIds"] = {
 						},
+						["events"] = "PLAYER_ENTERING_WORLD,UNIT_POWER_UPDATE",
 						["check"] = "event",
 						["names"] = {
 						},
@@ -15598,36 +15602,36 @@ WeakAurasSaved = {
 				["start"] = {
 					["colorR"] = 1,
 					["type"] = "none",
-					["duration_type"] = "seconds",
-					["colorType"] = "custom",
 					["scaley"] = 1,
-					["alpha"] = 0,
-					["colorA"] = 1,
-					["y"] = 0,
 					["x"] = 0,
+					["scalex"] = 1,
+					["alpha"] = 0,
+					["colorType"] = "custom",
+					["y"] = 0,
+					["colorB"] = 1,
 					["colorG"] = 1,
 					["use_color"] = false,
 					["colorFunc"] = "function()\n    if not aura_env.state then return 0, 0, 0, 1 end  -- error checking.\n    local c = aura_env.state.barColor\n    if not c then return 0,0,0,1 end\n    return c.r, c.g, c.b, 1\nend",
 					["rotate"] = 0,
-					["scalex"] = 1,
-					["colorB"] = 1,
+					["duration_type"] = "seconds",
+					["colorA"] = 1,
 				},
 				["main"] = {
 					["colorR"] = 1,
-					["colorA"] = 1,
-					["scaley"] = 1,
 					["colorType"] = "custom",
 					["use_color"] = false,
-					["alpha"] = 0,
-					["colorB"] = 1,
-					["y"] = 0,
 					["x"] = 0,
+					["duration_type"] = "seconds",
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["colorB"] = 1,
 					["colorG"] = 1,
 					["type"] = "none",
 					["colorFunc"] = "function()\n    if not aura_env.state then return 0, 0, 0, 1 end  -- error checking.\n    local c = aura_env.state.barColor\n    if not c then return 0,0,0,1 end\n    return c.r, c.g, c.b, 1\nend",
 					["rotate"] = 0,
+					["scaley"] = 1,
 					["scalex"] = 1,
-					["duration_type"] = "seconds",
 				},
 				["finish"] = {
 					["duration_type"] = "seconds",
@@ -15653,12 +15657,7 @@ WeakAurasSaved = {
 			["timerFlags"] = "OUTLINE",
 			["sparkWidth"] = 10,
 			["sparkBlendMode"] = "ADD",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
+			["useAdjustededMax"] = false,
 			["uid"] = "qKfiru4pdOu",
 			["textSize"] = 14,
 			["actions"] = {
@@ -15681,8 +15680,8 @@ WeakAurasSaved = {
 			},
 			["border"] = false,
 			["borderEdge"] = "None",
-			["borderInFront"] = true,
 			["borderSize"] = 16,
+			["borderInFront"] = true,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["zoom"] = 0,
@@ -15696,8 +15695,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["semver"] = "1.0.0-7",
 			["displayTextRight"] = "%pct",
+			["semver"] = "1.0.0-7",
 			["id"] = "Tosh HealerMana bar",
 			["sparkRotation"] = 0,
 			["frameStrata"] = 1,
@@ -15705,7 +15704,12 @@ WeakAurasSaved = {
 			["stacksFont"] = "Friz Quadrata TT",
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["inverse"] = false,
-			["useAdjustededMax"] = false,
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 				{
@@ -15749,14 +15753,14 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
 			["actions"] = {
@@ -15772,7 +15776,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -15811,6 +15814,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -15853,16 +15857,16 @@ WeakAurasSaved = {
 				},
 				["affixes"] = {
 				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -15873,12 +15877,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -15903,7 +15902,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -15916,7 +15920,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["cooldownTextEnabled"] = true,
-			["frameStrata"] = 1,
+			["text1FontFlags"] = "OUTLINE",
 			["useglowColor"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -15925,7 +15929,18 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
+					["do_sound"] = true,
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -15942,15 +15957,15 @@ WeakAurasSaved = {
 						["unit"] = "group",
 						["use_tooltip"] = false,
 						["ignoreSelf"] = true,
-						["buffShowOn"] = "showOnActive",
-						["group_count"] = "0",
-						["debuffType"] = "HARMFUL",
-						["subeventSuffix"] = "_AURA_REMOVED",
 						["group_countOperator"] = ">",
-						["showClones"] = false,
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
+						["group_count"] = "0",
+						["buffShowOn"] = "showOnActive",
 						["unevent"] = "timed",
+						["debuffType"] = "HARMFUL",
+						["showClones"] = false,
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_AURA_REMOVED",
 						["name"] = "Storm's Wail",
 						["use_unit"] = true,
 						["event"] = "Health",
@@ -15960,7 +15975,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							285350, -- [1]
 						},
-						["useName"] = true,
+						["type"] = "aura2",
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
 						["useGroup_count"] = true,
@@ -15991,8 +16006,8 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["icon"] = true,
 			["text1Enabled"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["config"] = {
 			},
 			["text1Containment"] = "OUTSIDE",
@@ -16006,29 +16021,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
-					["do_sound"] = true,
-				},
-				["init"] = {
-				},
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -16036,7 +16040,7 @@ WeakAurasSaved = {
 			},
 			["anchorFrameType"] = "SCREEN",
 			["authorMode"] = true,
-			["text2Enabled"] = false,
+			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -16045,8 +16049,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["stickyDuration"] = false,
-			["desaturate"] = false,
+			["text2Enabled"] = false,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16054,15 +16058,15 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["desaturate"] = false,
 			["auto"] = false,
 			["text2FontSize"] = 25,
 			["zoom"] = 0.3,
 			["text1"] = "Add Inc",
 			["internalVersion"] = 11,
-			["useGlowColor"] = false,
-			["text2"] = "%s",
 			["semver"] = "2.0.34-103",
+			["text2"] = "%s",
+			["useGlowColor"] = false,
 			["text1Font"] = "Arial Narrow",
 			["id"] = "08 Energized Storm",
 			["color"] = {
@@ -16089,12 +16093,12 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -16106,7 +16110,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -16211,7 +16215,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16226,39 +16230,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text2Font"] = "Arial Narrow",
 			["xOffset"] = 0,
@@ -16277,7 +16281,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["uid"] = "GMhBFtn(J5M",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 511713,
 			["cooldown"] = true,
 			["color"] = {
@@ -16287,6 +16291,138 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 		},
+		["Dark Archangel"] = {
+			["text2Point"] = "CENTER",
+			["text1FontSize"] = 12,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["yOffset"] = 445.027770996094,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["icon"] = true,
+			["useglowColor"] = false,
+			["text1Enabled"] = false,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOMRIGHT",
+			["cooldownTextEnabled"] = true,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 64,
+			["internalVersion"] = 11,
+			["load"] = {
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["anchorFrameType"] = "SCREEN",
+			["xOffset"] = -319.019775390625,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "Pixel",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Font"] = "Friz Quadrata TT",
+			["text1FontFlags"] = "OUTLINE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["text2Font"] = "Friz Quadrata TT",
+			["text2FontSize"] = 24,
+			["stickyDuration"] = false,
+			["text1"] = "%p",
+			["text2Enabled"] = true,
+			["zoom"] = 0,
+			["text2"] = "%p",
+			["auto"] = true,
+			["frameStrata"] = 1,
+			["id"] = "Dark Archangel",
+			["glow"] = true,
+			["alpha"] = 1,
+			["width"] = 64,
+			["authorOptions"] = {
+			},
+			["uid"] = "BWsyqNbuxKk",
+			["inverse"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["subeventSuffix"] = "_CAST_START",
+						["auranames"] = {
+							"Dark Archangel", -- [1]
+						},
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+						["spellIds"] = {
+						},
+						["useName"] = true,
+						["names"] = {
+						},
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["conditions"] = {
+			},
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["config"] = {
+			},
+		},
 		["07 Necrotic Smash"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
@@ -16294,11 +16430,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["icon"] = true,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -16311,7 +16442,11 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -16326,10 +16461,10 @@ WeakAurasSaved = {
 						},
 						["subeventPrefix"] = "SPELL",
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["useExactSpellId"] = true,
 						["fetchTooltip"] = true,
 						["event"] = "Cast",
@@ -16353,13 +16488,14 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -16375,15 +16511,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -16394,12 +16530,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -16442,7 +16573,12 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "0(D1vF)0WY2",
 			["inverse"] = false,
 			["cooldownEdge"] = false,
@@ -16457,22 +16593,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Targeted.ogg",
-					["sound_path"] = "",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -16504,7 +16624,23 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Targeted.ogg",
+					["sound_path"] = "",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -16526,7 +16662,7 @@ WeakAurasSaved = {
 			},
 			["icon"] = true,
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16556,8 +16692,10 @@ WeakAurasSaved = {
 					},
 				},
 				["encounterid"] = "2263,2284",
-				["race"] = {
+				["role"] = {
 					["multi"] = {
+						["HEALER"] = true,
+						["DAMAGER"] = true,
 					},
 				},
 				["use_encounterid"] = true,
@@ -16567,10 +16705,8 @@ WeakAurasSaved = {
 						["heroic"] = true,
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
-						["HEALER"] = true,
-						["DAMAGER"] = true,
 					},
 				},
 				["pvptalent"] = {
@@ -16597,17 +16733,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -16641,17 +16777,171 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 132937,
 			["cooldown"] = true,
 			["glow"] = true,
+		},
+		["09 Glacial Ray"] = {
+			["text2Point"] = "BOTTOMRIGHT",
+			["text1FontSize"] = 16,
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Beam.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_castType"] = true,
+						["spellId"] = 288345,
+						["use_absorbMode"] = true,
+						["use_specific_unit"] = true,
+						["buffShowOn"] = "showOnActive",
+						["type"] = "status",
+						["subeventSuffix"] = "_CAST_START",
+						["subeventPrefix"] = "SPELL",
+						["unit"] = "boss1",
+						["event"] = "Cast",
+						["use_unit"] = true,
+						["castType"] = "cast",
+						["use_spellId"] = true,
+						["name"] = "Glacial Ray",
+						["unevent"] = "auto",
+						["debuffType"] = "HARMFUL",
+						["spellIds"] = {
+							285215, -- [1]
+						},
+						["names"] = {
+							"Chilling Touch", -- [1]
+						},
+						["duration"] = "1",
+					},
+					["untrigger"] = {
+						["unit"] = "boss1",
+						["use_specific_unit"] = true,
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+			},
+			["xOffset"] = 0,
+			["desaturate"] = false,
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["config"] = {
+			},
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Arial Narrow",
+			["text2Enabled"] = false,
+			["text1FontFlags"] = "OUTLINE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2FontSize"] = 25,
+			["auto"] = false,
+			["text1"] = "Beam",
+			["internalVersion"] = 11,
+			["glow"] = false,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["text1Containment"] = "OUTSIDE",
+			["id"] = "09 Glacial Ray",
+			["text2Font"] = "Arial Narrow",
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["uid"] = "Hg3SYo7I6OL",
+			["inverse"] = false,
+			["cooldownEdge"] = false,
+			["displayIcon"] = 1698700,
+			["cooldown"] = true,
+			["authorOptions"] = {
+			},
 		},
 		["03 Roll (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["text1FontFlags"] = "OUTLINE",
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -16666,8 +16956,8 @@ WeakAurasSaved = {
 						["custom_hide"] = "timed",
 						["subeventSuffix"] = "_AURA_APPLIED",
 						["type"] = "custom",
-						["unevent"] = "timed",
 						["custom_type"] = "event",
+						["unevent"] = "timed",
 						["name"] = "Stalking",
 						["spellIds"] = {
 							285632, -- [1]
@@ -16676,8 +16966,8 @@ WeakAurasSaved = {
 						["buffShowOn"] = "showOnActive",
 						["use_specific_unit"] = false,
 						["use_spellId"] = true,
-						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 286427 then \n            return true\n        end\n    end\nend\n\n\n",
 						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["custom"] = "function(event, unit, castGUID, spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 286427 then \n            return true\n        end\n    end\nend\n\n\n",
 						["remOperator"] = "<=",
 						["use_destUnit"] = false,
 						["use_unit"] = true,
@@ -16694,14 +16984,9 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["cooldownSwipe"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownTextEnabled"] = true,
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -16715,81 +17000,8 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["glow"] = true,
-			["uid"] = "X)HjyFqvei)",
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["cooldownTextEnabled"] = true,
-			["load"] = {
-				["role"] = {
-					["single"] = "TANK",
-					["multi"] = {
-						["TANK"] = true,
-					},
-				},
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2266,2285",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["width"] = 80,
-			["authorMode"] = true,
-			["alpha"] = 1,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["icon"] = true,
-			["text1Font"] = "Arial Narrow",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
-			["useGlowColor"] = false,
-			["text2FontSize"] = 25,
-			["zoom"] = 0.31,
-			["text1"] = "Roll",
-			["auto"] = false,
-			["text2Enabled"] = false,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["text1Containment"] = "OUTSIDE",
-			["id"] = "03 Roll (Tank Only)",
-			["stickyDuration"] = false,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -16804,13 +17016,91 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["internalVersion"] = 11,
+			["xOffset"] = 0,
+			["uid"] = "X)HjyFqvei)",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["desaturate"] = false,
+			["load"] = {
+				["role"] = {
+					["single"] = "TANK",
+					["multi"] = {
+						["TANK"] = true,
+					},
+				},
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["use_role"] = true,
+				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["width"] = 80,
+			["authorMode"] = true,
+			["text2Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Arial Narrow",
+			["frameStrata"] = 1,
+			["cooldownEdge"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["selfPoint"] = "CENTER",
+			["useGlowColor"] = false,
+			["text2FontSize"] = 25,
+			["zoom"] = 0.31,
+			["text1"] = "Roll",
+			["auto"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "03 Roll (Tank Only)",
+			["text2Font"] = "Arial Narrow",
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["text1Containment"] = "OUTSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["displayIcon"] = 606543,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = true,
 		},
 		["05 Gift of Wind Buff On You (Mage Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -16861,7 +17151,7 @@ WeakAurasSaved = {
 			},
 			["cooldownEdge"] = false,
 			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16879,32 +17169,32 @@ WeakAurasSaved = {
 				["role"] = {
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["single"] = "MAGE",
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -16948,10 +17238,10 @@ WeakAurasSaved = {
 						["fetchTooltip"] = true,
 						["event"] = "Cast",
 						["use_unit"] = true,
+						["name"] = "Gift of Wind",
+						["use_spellId"] = false,
 						["spellIds"] = {
 						},
-						["use_spellId"] = false,
-						["name"] = "Gift of Wind",
 						["unevent"] = "auto",
 						["auraspellids"] = {
 							"282098", -- [1]
@@ -16970,7 +17260,7 @@ WeakAurasSaved = {
 			},
 			["uid"] = "oshSCCOHHZA",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 1850549,
 			["cooldown"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
@@ -16983,14 +17273,14 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -17092,32 +17382,32 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "OUTLINE",
@@ -17135,9 +17425,9 @@ WeakAurasSaved = {
 			["text2Enabled"] = true,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -17661,131 +17951,32 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
+			["sparkRotationMode"] = "AUTO",
 			["cooldownSwipe"] = true,
 			["text1"] = "%s",
-			["sparkRotationMode"] = "AUTO",
+			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["textSize"] = 12,
-			["useglowColor"] = false,
-			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 11,
-			["text1Enabled"] = true,
-			["animation"] = {
-				["start"] = {
-					["colorR"] = 1,
-					["colorA"] = 1,
-					["use_color"] = true,
-					["colorB"] = 1,
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["x"] = 0,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["colorG"] = 1,
-					["type"] = "none",
-					["colorFunc"] = "function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    if aura_env.state and aura_env.state.member then\n        local colors = RAID_CLASS_COLORS[aura_env.state.member.classID]\n        if colors then\n            return colors.r, colors.g, colors.b, 1\n        end\n    end\nend\n",
-					["rotate"] = 0,
-					["duration_type"] = "seconds",
-					["scalex"] = 1,
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["colorA"] = 1,
-					["use_color"] = false,
-					["colorB"] = 1,
-					["scalex"] = 1,
-					["alpha"] = 0,
-					["x"] = 0,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["colorG"] = 1,
-					["type"] = "none",
-					["colorFunc"] = "function()\n    if aura_env.state then\n        local c = aura_env.state.classColor\n        if c then\n            return c.r, c.g, c.b, 1\n        end\n    end\nend",
-					["rotate"] = 0,
-					["duration_type"] = "seconds",
-					["scaley"] = 1,
-				},
-				["finish"] = {
-					["colorR"] = 1,
-					["colorA"] = 1,
-					["use_color"] = false,
-					["colorB"] = 1,
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["x"] = 0,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["colorG"] = 1,
-					["type"] = "none",
-					["colorFunc"] = "\n\n",
-					["rotate"] = 0,
-					["duration_type"] = "seconds",
-					["scalex"] = 1,
-				},
-			},
-			["backdropInFront"] = false,
-			["text"] = true,
-			["glow"] = false,
-			["stickyDuration"] = false,
-			["text2Point"] = "CENTER",
-			["borderSize"] = 1,
-			["version"] = 8,
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["timer"] = true,
-			["timerFlags"] = "OUTLINE",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["sparkBlendMode"] = "ADD",
-			["useAdjustededMax"] = false,
-			["text1Containment"] = "INSIDE",
-			["text2Containment"] = "INSIDE",
-			["alpha"] = 1,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Font"] = "Friz Quadrata TT",
-			["border"] = true,
-			["borderEdge"] = "1 Pixel",
-			["height"] = 25,
-			["borderInFront"] = true,
-			["displayTextLeft"] = "%n",
-			["icon_side"] = "LEFT",
-			["cooldownTextEnabled"] = true,
-			["auto"] = true,
-			["sparkHeight"] = 30,
 			["triggers"] = {
 				{
 					["trigger"] = {
 						["debuffType"] = "HELPFUL",
 						["type"] = "custom",
-						["unevent"] = "timed",
 						["custom_type"] = "stateupdate",
-						["genericShowOn"] = "showOnActive",
-						["duration"] = "1",
+						["subeventSuffix"] = "_CAST_START",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
-						["unit"] = "player",
-						["spellIds"] = {
-						},
-						["custom"] = "function(allstates, event, type, watchID, member, spellID)\n    if event ~= \"ZT_ADD\" then\n        return\n    end\n    \n    -- If this WA was just loaded\n    if not type then\n        -- Since there is no unload event, hooking into region:Collapse() which\n        -- is called from WeakAuras.UnloadDisplays(...)\n        aura_env.region.ZTTypes = aura_env.types\n        \n        if not aura_env.region.ZTCollapse then\n            aura_env.region.ZTCollapse = aura_env.region.Collapse\n        end\n        \n        function aura_env.region:Collapse(...)\n            if self.ZTTypes and (not WeakAuras.loaded[self.id]) then\n                for t,isTracked in pairs(self.ZTTypes) do\n                    if isTracked then\n                        WeakAuras.ScanEvents(\"ZT_UNREGISTER\", t, self.id)\n                    end\n                end\n                self.ZTTypes = nil\n            end\n            \n            self.ZTCollapse(self, ...)\n        end\n        \n        -- Register for all types tracked by this front-end WA\n        for t,isTracked in pairs(aura_env.types) do\n            if isTracked then\n                WeakAuras.ScanEvents(\"ZT_REGISTER\", t, aura_env.region.id)\n            end\n        end\n    end\n    \n    if aura_env.types[type] then\n        if watchID and (not aura_env.ignorePlayer or member.name~=WeakAuras.me)then\n            local state = {}\n            state.show = true\n            state.changed = true\n            state.progressType = 'timed'\n            state.autoHide = false\n            state.resort = false\n            state.value = 0\n            state.total = 0\n            state.duration = 0\n            state.expirationTime = GetTime() \n            state.ID = watchID\n            state.type = type\n            state.spellId = spellID\n            \n            state.name = member.name\n            state.icon = select(3,GetSpellInfo(spellID))\n            state.classColor = member.classColor\n            \n            allstates[watchID] = state\n            aura_env.allstates = allstates\n            return true\n        end\n    end\nend",
-						["events"] = "ZT_ADD",
-						["check"] = "event",
+						["duration"] = "1",
+						["genericShowOn"] = "showOnActive",
 						["names"] = {
 						},
-						["subeventSuffix"] = "_CAST_START",
+						["unit"] = "player",
+						["custom"] = "function(allstates, event, type, watchID, member, spellID)\n    if event ~= \"ZT_ADD\" then\n        return\n    end\n    \n    -- If this WA was just loaded\n    if not type then\n        -- Since there is no unload event, hooking into region:Collapse() which\n        -- is called from WeakAuras.UnloadDisplays(...)\n        aura_env.region.ZTTypes = aura_env.types\n        \n        if not aura_env.region.ZTCollapse then\n            aura_env.region.ZTCollapse = aura_env.region.Collapse\n        end\n        \n        function aura_env.region:Collapse(...)\n            if self.ZTTypes and (not WeakAuras.loaded[self.id]) then\n                for t,isTracked in pairs(self.ZTTypes) do\n                    if isTracked then\n                        WeakAuras.ScanEvents(\"ZT_UNREGISTER\", t, self.id)\n                    end\n                end\n                self.ZTTypes = nil\n            end\n            \n            self.ZTCollapse(self, ...)\n        end\n        \n        -- Register for all types tracked by this front-end WA\n        for t,isTracked in pairs(aura_env.types) do\n            if isTracked then\n                WeakAuras.ScanEvents(\"ZT_REGISTER\", t, aura_env.region.id)\n            end\n        end\n    end\n    \n    if aura_env.types[type] then\n        if watchID and (not aura_env.ignorePlayer or member.name~=WeakAuras.me)then\n            local state = {}\n            state.show = true\n            state.changed = true\n            state.progressType = 'timed'\n            state.autoHide = false\n            state.resort = false\n            state.value = 0\n            state.total = 0\n            state.duration = 0\n            state.expirationTime = GetTime() \n            state.ID = watchID\n            state.type = type\n            state.spellId = spellID\n            \n            state.name = member.name\n            state.icon = select(3,GetSpellInfo(spellID))\n            state.classColor = member.classColor\n            \n            allstates[watchID] = state\n            aura_env.allstates = allstates\n            return true\n        end\n    end\nend",
+						["events"] = "ZT_ADD",
+						["spellIds"] = {
+						},
+						["check"] = "event",
+						["subeventPrefix"] = "SPELL",
+						["unevent"] = "timed",
 						["custom_hide"] = "timed",
 					},
 					["untrigger"] = {
@@ -17824,6 +18015,105 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 11,
+			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["colorR"] = 1,
+					["colorB"] = 1,
+					["scaley"] = 1,
+					["colorType"] = "custom",
+					["scalex"] = 1,
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["colorG"] = 1,
+					["type"] = "none",
+					["colorFunc"] = "function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    if aura_env.state and aura_env.state.member then\n        local colors = RAID_CLASS_COLORS[aura_env.state.member.classID]\n        if colors then\n            return colors.r, colors.g, colors.b, 1\n        end\n    end\nend\n",
+					["rotate"] = 0,
+					["use_color"] = true,
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["colorB"] = 1,
+					["scalex"] = 1,
+					["colorType"] = "custom",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["colorG"] = 1,
+					["type"] = "none",
+					["colorFunc"] = "function()\n    if aura_env.state then\n        local c = aura_env.state.classColor\n        if c then\n            return c.r, c.g, c.b, 1\n        end\n    end\nend",
+					["rotate"] = 0,
+					["use_color"] = false,
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["colorR"] = 1,
+					["colorB"] = 1,
+					["scaley"] = 1,
+					["colorType"] = "custom",
+					["scalex"] = 1,
+					["alpha"] = 0,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["colorG"] = 1,
+					["type"] = "none",
+					["colorFunc"] = "\n\n",
+					["rotate"] = 0,
+					["use_color"] = false,
+					["duration_type"] = "seconds",
+				},
+			},
+			["backdropInFront"] = false,
+			["text"] = true,
+			["glow"] = false,
+			["stickyDuration"] = false,
+			["text2Point"] = "CENTER",
+			["borderSize"] = 1,
+			["version"] = 8,
+			["useAdjustededMax"] = false,
+			["height"] = 25,
+			["timerFlags"] = "OUTLINE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["sparkBlendMode"] = "ADD",
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["text1Containment"] = "INSIDE",
+			["text2Containment"] = "INSIDE",
+			["alpha"] = 1,
+			["text1Font"] = "Friz Quadrata TT",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["border"] = true,
+			["borderEdge"] = "1 Pixel",
+			["timer"] = true,
+			["borderInFront"] = true,
+			["displayTextLeft"] = "%n",
+			["icon_side"] = "LEFT",
+			["cooldownTextEnabled"] = true,
+			["auto"] = true,
+			["sparkHeight"] = 30,
+			["useglowColor"] = false,
 			["rotateText"] = "NONE",
 			["stacksColor"] = {
 				1, -- [1]
@@ -17831,8 +18121,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["displayTextRight"] = "%p",
 			["semver"] = "1.0.0-8",
+			["displayTextRight"] = "%p",
 			["id"] = "ZT - Nnogga's Party CD Front End",
 			["timerColor"] = {
 				1, -- [1]
@@ -17854,18 +18144,18 @@ WeakAurasSaved = {
 		},
 		["06 Wormhole Generator"] = {
 			["text2Point"] = "BOTTOM",
-			["cooldownEdge"] = false,
+			["text1FontFlags"] = "OUTLINE",
 			["text1FontSize"] = 16,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["glow"] = true,
+			["useglowColor"] = false,
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["cooldownTextEnabled"] = true,
+			["glow"] = true,
 			["cooldownSwipe"] = true,
-			["xOffset"] = 0,
+			["cooldownTextEnabled"] = true,
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -17926,19 +18216,19 @@ WeakAurasSaved = {
 				["main"] = {
 					["type"] = "none",
 					["colorR"] = 1,
-					["duration_type"] = "seconds",
 					["scalex"] = 1,
-					["alphaType"] = "custom",
-					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["y"] = 0,
+					["scaley"] = 1,
 					["alpha"] = 0.41,
 					["colorB"] = 1,
-					["y"] = 0,
-					["x"] = 0,
+					["alphaType"] = "custom",
+					["colorA"] = 1,
 					["colorG"] = 1,
 					["alphaFunc"] = "",
-					["colorA"] = 1,
+					["x"] = 0,
 					["rotate"] = 0,
-					["scaley"] = 1,
+					["preset"] = "alphaPulse",
 					["use_alpha"] = false,
 				},
 				["finish"] = {
@@ -17946,11 +18236,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text2Font"] = "Arial Narrow",
-			["useglowColor"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["xOffset"] = 0,
 			["config"] = {
 			},
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -17961,7 +18251,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Containment"] = "OUTSIDE",
+			["text2Font"] = "Arial Narrow",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -18030,8 +18320,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["stickyDuration"] = false,
 			["alpha"] = 1,
-			["text1Font"] = "Arial Narrow",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -18039,15 +18329,15 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Font"] = "Arial Narrow",
 			["auto"] = true,
 			["text2FontSize"] = 16,
 			["text2"] = "%p",
 			["text1"] = "Teleport",
 			["selfPoint"] = "CENTER",
-			["useGlowColor"] = true,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = true,
 			["icon"] = true,
 			["id"] = "06 Wormhole Generator",
 			["desaturate"] = false,
@@ -18086,35 +18376,6 @@ WeakAurasSaved = {
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1FontFlags"] = "OUTLINE",
-			["authorOptions"] = {
-			},
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOMRIGHT",
-			["glow"] = true,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 64,
-			["desaturate"] = false,
-			["load"] = {
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -18141,12 +18402,16 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownTextEnabled"] = false,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "Pixel",
-			["text1Font"] = "Friz Quadrata TT",
-			["uid"] = "erJbEcSo222",
+			["authorOptions"] = {
+			},
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOMRIGHT",
 			["actions"] = {
 				["start"] = {
 				},
@@ -18155,16 +18420,65 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 64,
+			["text2Font"] = "Friz Quadrata TT",
+			["load"] = {
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["glow"] = true,
+			["cooldownTextEnabled"] = false,
+			["text1Containment"] = "INSIDE",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "Pixel",
+			["text1Font"] = "Friz Quadrata TT",
+			["uid"] = "erJbEcSo222",
+			["xOffset"] = 0,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["anchorFrameType"] = "SCREEN",
+			["text2Enabled"] = true,
+			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["regionType"] = "icon",
-			["anchorFrameType"] = "SCREEN",
-			["text2Enabled"] = true,
-			["text2FontSize"] = 24,
+			["text1"] = "%casterName",
+			["zoom"] = 0,
+			["useGlowColor"] = false,
+			["text2"] = "%p",
+			["auto"] = true,
+			["frameStrata"] = 1,
+			["id"] = "Innervate",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["alpha"] = 0.6,
+			["width"] = 64,
+			["internalVersion"] = 11,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["desaturate"] = false,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -18179,30 +18493,6 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["text1"] = "%casterName",
-			["text2"] = "%p",
-			["useGlowColor"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["frameStrata"] = 1,
-			["id"] = "Innervate",
-			["text2Font"] = "Friz Quadrata TT",
-			["alpha"] = 0.6,
-			["width"] = 64,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["config"] = {
-			},
-			["inverse"] = false,
-			["xOffset"] = 0,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["internalVersion"] = 11,
 		},
 		["06 Buster Cannon Dot"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -18265,7 +18555,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = true,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -18279,15 +18569,15 @@ WeakAurasSaved = {
 			["uid"] = "TN6toBzBa8a",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -18298,12 +18588,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -18350,11 +18635,16 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = true,
 			["displayIcon"] = 1698700,
 			["cooldown"] = true,
 			["glow"] = false,
@@ -18366,12 +18656,14 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -18382,8 +18674,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
-			["icon"] = true,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -18424,32 +18714,32 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2266,2285",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
+				["encounterid"] = "2266,2285",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["stickyDuration"] = false,
 			["text2Color"] = {
@@ -18526,450 +18816,6 @@ WeakAurasSaved = {
 		},
 		["ZenTracker (ZT) Main"] = {
 			["outline"] = "OUTLINE",
-			["xOffset"] = 0,
-			["displayText"] = " ",
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["customTextUpdate"] = "update",
-			["automaticWidth"] = "Auto",
-			["actions"] = {
-				["start"] = {
-					["do_custom"] = false,
-					["do_message"] = false,
-					["custom"] = "",
-				},
-				["finish"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-				["init"] = {
-					["custom"] = "local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Class/Spec ID List\nlocal DK = {ID=6, name=\"DEATHKNIGHT\", Blood=250, Frost=251, Unholy=252}\nlocal DH = {ID=12, name=\"DEMONHUNTER\", Havoc=577, Veng=581}\nlocal Druid = {ID=11, name=\"DRUID\", Balance=102, Feral=103, Guardian=104, Resto=105}\nlocal Hunter = {ID=3, name=\"HUNTER\", BM=253, MM=254, SV=255}\nlocal Mage = {ID=8, name=\"MAGE\", Arcane=62, Fire=63, Frost=64}\nlocal Monk = {ID=10, name=\"MONK\", BRM=268, WW=269, MW=270}\nlocal Paladin = {ID=2, name=\"PALADIN\", Holy=65, Prot=66, Ret=70}\nlocal Priest = {ID=5, name=\"PRIEST\", Disc=256, Holy=257, Shadow=258}\nlocal Rogue = {ID=4, name=\"ROGUE\", Sin=259, Outlaw=260, Sub=261}\nlocal Shaman = {ID=7, name=\"SHAMAN\", Ele=262, Enh=263, Resto=264}\nlocal Warlock = {ID=9, name=\"WARLOCK\", Affl=265, Demo=266, Destro=267}\nlocal Warrior = {ID=1, name=\"WARRIOR\", Arms=71, Fury=72, Prot=73}\n\nlocal AllClasses = {\n    [DK.name] = DK, [DH.name] = DH, [Druid.name] = Druid, [Hunter.name] = Hunter,\n    [Mage.name] = Mage, [Monk.name] = Monk, [Paladin.name] = Paladin,\n    [Priest.name] = Priest, [Rogue.name] = Rogue, [Shaman.name] = Shaman,\n    [Warlock.name] = Warlock, [Warrior.name] = Warrior\n}\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nlocal IsInRaid = IsInRaid\nlocal UnitGUID = UnitGUID\nlocal C_ChatInfo_SendAddonMessage = C_ChatInfo.SendAddonMessage\n\n--------------------------------------------------------------------------------\n-- BEGIN SPELL COOLDOWN MODIFIERS\n--------------------------------------------------------------------------------\n\nlocal function StaticMod(type, value)\n    return { type = \"Static\", [type] = value }\nend\n\nlocal function DynamicMod(handlers)\n    if not handlers[1] then\n        handlers = { handlers }\n    end\n    \n    return { type = \"Dynamic\", handlers = handlers }\nend\n\nlocal function EventDeltaMod(type, spellID, delta)\n    return DynamicMod({\n            type = type,\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateDelta(delta)\n            end\n    })\nend\n\nlocal function CastDeltaMod(spellID, delta)\n    return EventDeltaMod(\"SPELL_CAST_SUCCESS\", spellID, delta)\nend\n\nlocal function EventRemainingMod(type, spellID, remaining)\n    return DynamicMod({\n            type = type,\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateRemaining(remaining)\n            end\n    })\nend\n\nlocal function CastRemainingMod(spellID, remaining)\n    return EventRemainingMod(\"SPELL_CAST_SUCCESS\", spellID, remaining)\nend\n\n-- Shockwave: If 3+ targets hit then reduces by 15 seconds\nlocal modShockwave = DynamicMod({\n        {\n            type = \"SPELL_CAST_SUCCESS\", spellID = 46968,\n            handler = function(watchInfo)\n                watchInfo.numHits = 0\n            end\n        },\n        {\n            type = \"SPELL_AURA_APPLIED\", spellID = 132168,\n            handler = function(watchInfo)\n                watchInfo.numHits = watchInfo.numHits + 1\n                if watchInfo.numHits == 3 then\n                    watchInfo:updateDelta(-15)\n                end\n            end\n        }\n})\n\n-- Capacitor Totem: Each target hit reduces by 5 seconds (up to 4 targets hit)\nlocal modCapTotem = DynamicMod({\n        type = \"SPELL_SUMMON\", spellID = 192058,\n        handler = function(watchInfo)\n            watchInfo.numHits = 0\n            \n            if not watchInfo.totemHandler then\n                watchInfo.totemHandler = function(watchInfo)\n                    watchInfo.numHits = watchInfo.numHits + 1\n                    if watchInfo.numHits <= 4 then\n                        watchInfo:updateDelta(-5)\n                    end\n                end\n            end\n            \n            if watchInfo.totemGUID then\n                ZT:removeEventHandler(\"SPELL_AURA_APPLIED\", 118905, watchInfo.totemGUID, watchInfo.totemHandler)\n            end\n            \n            watchInfo.totemGUID = select(8, CombatLogGetCurrentEventInfo())\n            ZT:addEventHandler(\"SPELL_AURA_APPLIED\", 118905, watchInfo.totemGUID, watchInfo.totemHandler, watchInfo)\n        end\n})\n\n\n-- Guardian Spirit: If expires watchInfothout healing then reset to 60 seconds\nlocal modGuardianSpirit = DynamicMod({\n        {\n            type = \"SPELL_HEAL\", spellID = 48153,\n            handler = function(watchInfo)\n                watchInfo.spiritHeal = true\n            end\n        },\n        {\n            type = \"SPELL_AURA_REMOVED\", spellID = 47788,\n            handler = function(watchInfo)\n                if not watchInfo.spiritHeal then\n                    watchInfo:updateRemaining(60)\n                end\n                watchInfo.spiritHeal = false\n            end\n        }\n})\n\n-- Dispels: Go on cooldown only if a debuff is dispelled\nlocal function DispelMod(spellID)\n    return DynamicMod({\n            type = \"SPELL_DISPEL\",\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateRemaining(8)\n            end\n    })\nend\n\n-- Resource Spending: For every spender, reduce cooldown by (coefficient * cost) seconds\n--   Note: By default, I use minimum cost values as to not over-estimate the cooldown reduction\nlocal specIDToSpenderInfo = {\n    [DK.Blood] = {resourceType=\"RUNIC_POWER\", spells={[49998]=40, [61999]=30, [206940]=30}},\n}\n\nlocal function ResourceSpendingMods(specID, coefficient)\n    local handlers = {}\n    local spenderInfo = specIDToSpenderInfo[specID]\n    \n    for spellID,cost in pairs(spenderInfo.spells) do\n        local delta = -(coefficient * cost)\n        \n        handlers[#handlers+1] = {\n            type = \"SPELL_CAST_SUCCESS\",\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateDelta(delta)\n            end\n        }\n    end\n    \n    return DynamicMod(handlers)\nend\n\n--------------------------------------------------------------------------------\n-- END SPELL COOLDOWN MODIFIERS\n--------------------------------------------------------------------------------\n\n--------------------------------------------------------------------------------\n-- BEGIN TRACKED SPELLS\n--------------------------------------------------------------------------------\n\nZT.spellsVersion = 3\nZT.typeToTrackedSpells = {}\n\nZT.typeToTrackedSpells[\"INTERRUPT\"] = {\n    {spellID=183752, class=DH, baseCD=15}, -- Consume Magic\n    {spellID=47528, class=DK, baseCD=15}, -- Mind Freeze\n    {spellID=91802, specs={DK.Unholy}, baseCD=30}, -- Shambling Rush\n    {spellID=78675, specs={Druid.Balance}, baseCD=60}, -- Solar Beam\n    {spellID=106839, specs={Druid.Feral,Druid.Guardian}, baseCD=15}, -- Skull Bash\n    {spellID=147362, specs={Hunter.BM, Hunter.MM}, baseCD=24}, -- Counter Shot\n    {spellID=187707, specs={Hunter.SV}, baseCD=15}, -- Muzzle\n    {spellID=2139, class=Mage, baseCD=24}, -- Counter Spell\n    {spellID=116705, specs={Monk.WW, Monk.BRM}, baseCD=15}, -- Spear Hand Strike\n    {spellID=96231, specs={Paladin.Prot, Paladin.Ret}, baseCD=15}, -- Rebuke\n    {spellID=15487, specs={Priest.Shadow}, baseCD=45, modTalents={[41]=StaticMod(\"sub\", 15)}}, -- Silence\n    {spellID=1766, class=Rogue, baseCD=15}, -- Kick\n    {spellID=57994, class=Shaman, baseCD=12}, -- Wind Shear\n    {spellID=19647, class=Warlock, baseCD=24}, -- Spell Lock\n    {spellID=6552, class=Warrior, baseCD=15}, -- Pummel\n}\n\nZT.typeToTrackedSpells[\"HARDCC\"] = {\n    {spellID=179057, specs={DH.Havoc}, baseCD=60, modTalents={[61]=StaticMod(\"mul\", 0.666667)}}, -- Chaos Nova\n    {spellID=119381, class=Monk, baseCD=60, modTalents={[41]=StaticMod(\"sub\", 10)}}, -- Leg Sweep\n    {spellID=192058, class=Shaman, baseCD=60, modTalents={[33]=modCapTotem}}, -- Capacitor Totem\n    {spellID=30283, class=Warlock, baseCD=60, modTalents={[51]=StaticMod(\"sub\", 15)}}, -- Shadowfury\n    {spellID=46968, specs={Warrior.Prot}, baseCD=40, modTalents={[52]=modShockwave}}, -- Shockwave\n    {spellID=20549, race=\"Tauren\", baseCD=90}, -- War Stomp\n    {spellID=255654, race=\"HighmountainTauren\", baseCD=120}, -- Bull Rush\n}\n\nZT.typeToTrackedSpells[\"SOFTCC\"] = {\n    {spellID=202138, specs={DH.Veng}, baseCD=90, reqTalents={53}}, -- Sigil of Chains\n    {spellID=207684, specs={DH.Veng}, baseCD=90}, -- Sigil of Misery\n    {spellID=202137, specs={DH.Veng}, baseCD=60, modTalents={[52]=StaticMod(\"mul\", 0.8)}}, -- Sigil of Silence\n    {spellID=108199, specs={DK.Blood}, baseCD=120, modTalents={[52]=StaticMod(\"sub\", 30)}}, -- Gorefiend's Grasp\n    {spellID=207167, specs={DK.Frost}, baseCD=60, reqTalents={33}}, -- Blinding Sleet\n    {spellID=132469, class=Druid, baseCD=30, reqTalents={43}}, -- Typhoon\n    {spellID=102359, class=Druid, baseCD=30, reqTalents={42}}, -- Mass Entanglement\n    {spellID=99, specs={Druid.Guardian}, baseCD=30}, -- Incapacitating Roar\n    {spellID=236748, specs={Druid.Guardian}, baseCD=30, reqTalents={22}}, -- Intimidating Roar\n    {spellID=102793, specs={Druid.Guardian}, baseCD=60, reqTalents={22}}, -- Ursol's Vortex\n    {spellID=102793, specs={Druid.Resto}, baseCD=60}, -- Ursol's Vortex\n    {spellID=109248, class=Hunter, baseCD=30, reqTalents={53}}, -- Binding Shot\n    {spellID=116844, class=Monk, baseCD=45, reqTalents={43}}, -- Ring of Peace\n    {spellID=115750, class=Paladin, baseCD=90, reqTalents={33}, version=3}, -- Blinding Light\n    {spellID=8122, specs={Priest.Disc,Priest.Holy}, baseCD=60, modTalents={[41]=StaticMod(\"sub\", 30)}}, -- Psychic Scream\n    {spellID=8122, specs={Priest.Shadow}, baseCD=60}, -- Psychic Scream\n    {spellID=204263, specs={Priest.Disc,Priest.Holy}, baseCD=45, reqTalents={43}}, -- Shining Force\n    {spellID=51490, specs={Shaman.Ele}, baseCD=45}, -- Thunderstorm\n    {spellID=31661, specs={Mage.Fire}, baseCD=20, version=2}, -- Dragon's Breath\n}\n\nZT.typeToTrackedSpells[\"STHARDCC\"] = {\n    {spellID=211881, specs={DH.Havoc}, baseCD=30, reqTalents={63}}, -- Fel Eruption\n    {spellID=221562, specs={DK.Blood}, baseCD=45}, -- Asphyxiate\n    {spellID=108194, specs={DK.Unholy}, baseCD=45, reqTalents={33}}, -- Asphyxiate\n    {spellID=108194, specs={DK.FrostDK}, baseCD=45, reqTalents={32}}, -- Asphyxiate\n    {spellID=5211, class=Druid, baseCD=50, reqTalents={41}}, -- Mighty Bash\n    {spellID=19577, specs={Hunter.BM,Hunter.Surv}, baseCD=60}, -- Intimidation\n    {spellID=853, specs={Paladin.Holy}, baseCD=60, modTalents={[31]=CastDeltaMod(275773, -10)}}, -- Hammer of Justice\n    {spellID=853, specs={Paladin.Prot}, baseCD=60, modTalents={[31]=CastDeltaMod(275779, -6)}}, -- Hammer of Justice\n    {spellID=853, specs={Paladin.Ret}, baseCD=60}, -- Hammer of Justice\n    {spellID=88625, specs={Priest.Holy}, baseCD=60, reqTalents={42}, mods=CastDeltaMod(585, -4), modTalents={[71]=CastDeltaMod(585, -1.333333)}}, -- Holy Word: Chastise\n    {spellID=64044, specs={Priest.Shadow}, baseCD=45, reqTalents={43}}, -- Psychic Horror\n    {spellID=6789, class=Warlock, baseCD=45, reqTalents={52}}, -- Mortal Coil\n    {spellID=107570, specs={Warrior.Prot}, baseCD=30, reqTalents={53}}, -- Storm Bolt\n    {spellID=107570, specs={Warrior.Arms,Warrior.Fury}, baseCD=30, reqTalents={23}}, -- Storm Bolt\n}\n\nZT.typeToTrackedSpells[\"STSOFTCC\"] = {\n    {spellID=217832, class=DH, baseCD=45}, -- Imprison\n    {spellID=2094, specs={Rogue.Sin,Rogue.Sub}, baseCD=120}, -- Blind\n    {spellID=2094, specs={Rogue.Outlaw}, baseCD=120, modTalents={[52]=StaticMod(\"sub\", 30)}}, -- Blind\n    {spellID=115078, class=Monk, baseCD=45}, -- Paralysis\n    {spellID=187650, class=Hunter, baseCD=30}, -- Freezing Trap\n    {spellID=49576, specs={DK.Blood}, baseCD=15, version=2}, -- Death Grip\n    {spellID=49576, specs={DK.Frost,DK.Unholy}, baseCD=25, version=2}, -- Death Grip\n}\n\nZT.typeToTrackedSpells[\"DISPEL\"] = {\n    {spellID=202719, race=\"BloodElf\", class=DH, baseCD=120}, -- Arcane Torrent\n    {spellID=50613, race=\"BloodElf\", class=DK, baseCD=120}, -- Arcane Torrent\n    {spellID=80483, race=\"BloodElf\", class=Hunter, baseCD=120}, -- Arcane Torrent\n    {spellID=28730, race=\"BloodElf\", class=Mage, baseCD=120}, -- Arcane Torrent\n    {spellID=129597, race=\"BloodElf\", class=Monk, baseCD=120}, -- Arcane Torrent\n    {spellID=155145, race=\"BloodElf\", class=Paladin, baseCD=120}, -- Arcane Torrent\n    {spellID=232633, race=\"BloodElf\", class=Priest, baseCD=120}, -- Arcane Torrent\n    {spellID=25046, race=\"BloodElf\", class=Rogue, baseCD=120}, -- Arcane Torrent\n    {spellID=28730, race=\"BloodElf\", class=Warlock, baseCD=120}, -- Arcane Torrent\n    {spellID=69179, race=\"BloodElf\", class=Warrior, baseCD=120}, -- Arcane Torrent\n    {spellID=32375, class=Priest, baseCD=45}, -- Mass Dispel\n}\n\nZT.typeToTrackedSpells[\"DEFMDISPEL\"] = {\n    {spellID=88423, specs={Druid.Resto}, baseCD=8, mods=DispelMod(88423), ignoreCast=true}, -- Nature's Cure\n    {spellID=115450, specs={Monk.MW}, baseCD=8, mods=DispelMod(115450), ignoreCast=true}, -- Detox\n    {spellID=4987, specs={Paladin.Holy}, baseCD=8, mods=DispelMod(4987), ignoreCast=true}, -- Cleanse\n    {spellID=527, specs={Priest.Disc,Priest.Holy}, baseCD=8, mods=DispelMod(527), ignoreCast=true}, -- Purify\n    {spellID=77130, specs={Shaman.Resto}, baseCD=8, mods=DispelMod(77130), ignoreCast=true}, -- Purify Spirit\n}\n\nZT.typeToTrackedSpells[\"EXTERNAL\"] = {\n    {spellID=196718, specs={DH.Havoc}, baseCD=180}, -- Darkness\n    {spellID=102342, specs={Druid.Resto}, baseCD=60, modTalents={[62]=StaticMod(\"sub\", 15)}}, -- Ironbark\n    {spellID=116849, specs={Monk.MW}, baseCD=120}, -- Life Cocoon\n    {spellID=31821, specs={Paladin.Holy}, baseCD=180}, -- Aura Mastery\n    {spellID=6940, specs={Paladin.Holy,Paladin.Prot}, baseCD=120}, -- Blessing of Sacrifice\n    {spellID=1022, specs={Paladin.Holy,Paladin.Ret}, baseCD=300}, -- Blessing of Protection\n    {spellID=1022, specs={Paladin.Prot}, baseCD=300, reqTalents={41,42}}, -- Blessing of Protection\n    {spellID=204018, specs={Paladin.Prot}, baseCD=180, reqTalents={43}}, -- Blessing of Spellwarding\n    {spellID=62618, specs={Priest.Disc}, baseCD=180, reqTalents={71,73}}, -- Power Word: Barrier\n    {spellID=271466, specs={Priest.Disc}, baseCD=180, reqTalents={72}}, -- Luminous Barrier\n    {spellID=33206, specs={Priest.Disc}, baseCD=180}, -- Pain Supression\n    {spellID=47788, specs={Priest.Holy}, baseCD=180, modTalents={[32]=modGuardianSpirit}}, -- Guardian Spirit\n    {spellID=98008, specs={Shaman.Resto}, baseCD=180}, -- Spirit Link Totem\n    {spellID=97462, class=Warrior, baseCD=180}, -- Rallying Cry\n}\n\nZT.typeToTrackedSpells[\"HEALING\"] = {\n    {spellID=740, specs={Druid.Resto}, baseCD=180, modTalents={[61]=StaticMod(\"sub\", 60)}}, -- Tranquility\n    {spellID=115310, specs={Monk.MW}, baseCD=180}, -- Revival\n    {spellID=216331, specs={Paladin.Holy}, baseCD=120, reqTalents={62}}, -- Avenging Crusader\n    {spellID=105809, specs={Paladin.Holy}, baseCD=90, reqTalents={53}}, -- Holy Avenger\n    {spellID=633, specs={Paladin.Holy}, baseCD=600, modTalents={[21]=StaticMod(\"mul\", 0.7)}}, -- Lay on Hands\n    {spellID=633, specs={Paladin.Prot,Paladin.Ret}, baseCD=600, modTalents={[51]=StaticMod(\"mul\", 0.7)}}, -- Lay on Hands\n    {spellID=210191, specs={Paladin.Ret}, baseCD=60, reqTalents={63}}, -- Word of Glory\n    {spellID=47536, specs={Priest.Disc}, baseCD=90}, -- Rapture\n    {spellID=246287, specs={Priest.Disc}, baseCD=90, reqTalents={73}}, -- Evangelism\n    {spellID=64843, specs={Priest.Holy}, baseCD=180}, -- Divine Hymn\n    {spellID=200183, specs={Priest.Holy}, baseCD=120, reqTalents={72}}, -- Apotheosis\n    {spellID=265202, specs={Priest.Holy}, baseCD=720, reqTalents={73}, mods={CastDeltaMod(34861,-30), CastDeltaMod(2050,-30)}}, -- Holy Word: Salvation\n    {spellID=15286, specs={Priest.Shadow}, baseCD=120, modTalents={[22]=StaticMod(\"sub\", 45)}}, -- Vampiric Embrace\n    {spellID=108280, specs={Shaman.Resto}, baseCD=180}, -- Healing Tide Totem\n    {spellID=198838, specs={Shaman.Resto}, baseCD=60, reqTalents={42}}, -- Earthen Wall Totem\n    {spellID=207399, specs={Shaman.Resto}, baseCD=300, reqTalents={43}}, -- Ancestral Protection Totem\n    {spellID=114052, specs={Shaman.Resto}, baseCD=180, reqTalents={73}}, -- Ascendance\n}\n\nZT.typeToTrackedSpells[\"UTILITY\"] = {\n    {spellID=205636, specs={Druid.Balance}, baseCD=60, reqTalents={13}}, -- Force of Nature (Treants)\n    {spellID=73325, class=Priest, baseCD=90}, -- Leap of Faith\n    {spellID=114018, class=Rogue, baseCD=360}, -- Shroud of Concealment\n    {spellID=29166, specs={Druid.Balance,Druid.Resto}, baseCD=180}, -- Innervate\n    {spellID=64901, specs={Priest.Holy}, baseCD=300}, -- Symbol of Hope\n    {spellID=198103, class=Shaman, baseCD=300, version=2}, -- Earth Elemental\n    {spellID=192077, class=Shaman, baseCD=120, reqTalents={53}, version=2}, -- Wind Rush Totem\n    {spellID=106898, specs={Druid.Guardian}, baseCD=60, version=2}, -- Stampeding Roar\n    {spellID=106898, specs={Druid.Feral}, baseCD=120, version=2}, -- Stampeding Roar\n    {spellID=58984, race=\"NightElf\", baseCD=120, version=3}, -- Shadowmeld\n}\n\nZT.typeToTrackedSpells[\"PERSONAL\"] = {\n    {spellID=198589, specs={DH.Havoc}, baseCD=60, mods=EventRemainingMod(\"SPELL_AURA_APPLIED\", 212800, 60)}, -- Blur\n    {spellID=187827, specs={DH.Veng}, baseCD=180}, -- Metamorphosis\n    {spellID=48707, specs={DK.Blood}, baseCD=60, modTalents={[42]=StaticMod(\"sub\", 15)}}, -- Anti-Magic Shell\n    {spellID=48707, specs={DK.Frost,DK.Unholy}, baseCD=60}, -- Anti-Magic Shell\n    {spellID=48743, specs={DK.Frost,DK.Unholy}, baseCD=120, reqTalents={53}}, -- Death Pact\n    {spellID=48792, class=DK, baseCD=180}, -- Icebound Fortitude\n    {spellID=55233, specs={DK.Blood}, baseCD=90, modTalents={[72]=ResourceSpendingMods(DK.Blood, 0.1)}}, -- Vampiric Blood\n    {spellID=22812, specs={Druid.Balance,Druid.Guardian,Druid.Resto}, baseCD=60}, -- Barkskin\n    {spellID=61336, specs={Druid.Feral,Druid.Guardian}, baseCD=180}, -- Survival Instincts\n    {spellID=109304, class=Hunter, baseCD=120}, -- Exhilaration\n    {spellID=235219, specs={Mage.Frost}, baseCD=300}, -- Cold Snap\n    {spellID=122278, class=Monk, baseCD=120, reqTalents={53}}, -- Dampen Harm\n    {spellID=122783, specs={Monk.MW, Monk.WW}, baseCD=90, reqTalents={52}}, -- Diffuse Magic\n    {spellID=115203, specs={Monk.BRM}, baseCD=420}, -- Fortifying Brew\n    {spellID=115176, specs={Monk.BRM}, baseCD=300}, -- Zen Meditation\n    {spellID=243435, specs={Monk.MW}, baseCD=90}, -- Fortifying Brew\n    {spellID=122470, specs={Monk.WW}, baseCD=90}, -- Touch of Karma\n    {spellID=498, specs={Paladin.Holy}, baseCD=60}, -- Divine Protection\n    {spellID=31850, specs={Paladin.Prot}, baseCD=120}, -- Ardent Defender\n    {spellID=86659, specs={Paladin.Prot}, baseCD=300}, -- Guardian of the Ancient Kings\n    {spellID=184662, specs={Paladin.Ret}, baseCD=120}, -- Shield of Vengeance\n    {spellID=205191, specs={Paladin.Ret}, baseCD=60, reqTalents={53}}, -- Eye for an Eye\n    {spellID=19236, specs={Priest.Disc, Priest.Holy}, baseCD=90}, -- Desperate Prayer\n    {spellID=47585, specs={Priest.Shadow}, baseCD=120}, -- Dispersion\n    {spellID=5277, specs={Rogue.Sin, Rogue.Sub}, baseCD=120, version=2}, -- Evasion\n    {spellID=199754, specs={Rogue.Outlaw}, baseCD=120, version=2}, -- Riposte\n    {spellID=108271, class=Shaman, baseCD=90}, -- Astral Shift\n    {spellID=104773, class=Warlock, baseCD=180}, -- Unending Resolve\n    {spellID=118038, specs={Warrior.Arms}, baseCD=180}, -- Die by the Sword\n    {spellID=184364, specs={Warrior.Fury}, baseCD=120}, -- Enraged Regeneration\n    {spellID=12975, specs={Warrior.Prot}, baseCD=180, modTalents={[43]=StaticMod(\"sub\", 60)}}, -- Last Stand\n    {spellID=871, specs={Warrior.Prot}, baseCD=240}, -- Shield Wall\n}\n\nZT.typeToTrackedSpells[\"IMMUNITY\"] = {\n    {spellID=196555, specs={DH.Havoc}, baseCD=120, reqTalents={43}}, -- Netherwalk\n    {spellID=186265, class=Hunter, baseCD=180, modTalents={[51]=StaticMod(\"mul\", 0.8)}}, -- Aspect of the Turtle\n    {spellID=45438, specs={Mage.Arcane,Mage.Fire}, baseCD=240}, -- Ice Block\n    {spellID=45438, specs={Mage.Frost}, baseCD=240, mods=CastRemainingMod(235219, 0)}, -- Ice Block\n    {spellID=642, class=Paladin, baseCD=300}, -- Divine Shield\n    {spellID=31224, class=Rogue, baseCD=120}, -- Cloak of Shadows\n}\n\nZT.typeToTrackedSpells[\"DAMAGE\"] = {\n    {spellID=191427, specs={DH.Havoc}, baseCD=240}, -- Metamorphosis\n    {spellID=258925, specs={DH.Havoc}, baseCD=60, reqTalents={33}}, -- Fel Barrage\n    {spellID=206491, specs={DH.Havoc}, baseCD=120, reqTalents={73}}, -- Nemesis\n    {spellID=279302, specs={DK.Frost}, baseCD=180, reqTalents={63}}, -- Frostwyrm's Fury\n    {spellID=152279, specs={DK.Frost}, baseCD=120, reqTalents={73}}, -- Breath of Sindragosaa\n    {spellID=42650, specs={DK.Unholy}, baseCD=480}, -- Army of the Dead\n    {spellID=49206, specs={DK.Unholy}, baseCD=180, reqTalents={73}}, -- Summon Gargoyle\n    {spellID=207289, specs={DK.Unholy}, baseCD=75, reqTalents={72}}, -- Unholy Frenzy\n    {spellID=194223, specs={Druid.Balance}, baseCD=180, reqTalents={51,52}}, -- Celestial Alignment\n    {spellID=102560, specs={Druid.Balance}, baseCD=180, reqTalents={53}}, -- Incarnation: Chosen of Elune\n    {spellID=106951, specs={Druid.Feral}, baseCD=180, version=3}, -- Berserk\n    {spellID=102543, specs={Druid.Feral}, baseCD=180, reqTalents={53}}, -- Incarnation: King of the Jungle\n    {spellID=19574, specs={Hunter.BM}, baseCD=90}, -- Bestial Wrath\n    {spellID=193530, specs={Hunter.BM}, baseCD=120}, -- Aspect of the Wild\n    {spellID=201430, specs={Hunter.BM}, baseCD=180, reqTalents={63}}, -- Stampede\n    {spellID=288613, specs={Hunter.MM}, baseCD=120, version=3}, -- Trueshot\n    {spellID=266779, specs={Hunter.SV}, baseCD=120}, -- Coordinated Assault\n    {spellID=12042, specs={Mage.Arcane}, baseCD=90}, -- Arcane Power\n    {spellID=190319, specs={Mage.Fire}, baseCD=120}, -- Combustion\n    {spellID=12472, specs={Mage.Frost}, baseCD=180}, -- Icy Veins\n    {spellID=55342, class=Mage, baseCD=120, reqTalents={32}}, -- Mirror Image\n    {spellID=115080, specs={Monk.WW}, baseCD=120}, -- Touch of Death\n    {spellID=123904, specs={Monk.WW}, baseCD=180, reqTalents={63}}, -- Xuen\n    {spellID=137639, specs={Monk.WW}, baseCD=90, reqTalents={71, 72}}, -- Storm, Earth, and Fire\n    {spellID=152173, specs={Monk.WW}, baseCD=90, reqTalents={73}}, -- Serenity\n    {spellID=31884, specs={Paladin.Ret}, baseCD=120, reqTalents={71,73}}, -- Avenging Wrath\n    {spellID=231895, specs={Paladin.Ret}, baseCD=120, reqTalents={72}}, -- Crusade\n    {spellID=280711, specs={Priest.Shadow}, baseCD=60, reqTalents={72}}, -- Dark Ascension\n    {spellID=193223, specs={Priest.Shadow}, baseCD=180, reqTalents={73}}, -- Surrender to Madness\n    {spellID=79140, specs={Rogue.Sin}, baseCD=120}, -- Vendetta\n    {spellID=121471, specs={Rogue.Sub}, baseCD=180}, -- Shadow Blades\n    {spellID=13750, specs={Rogue.Outlaw}, baseCD=180}, -- Adrenaline Rush\n    {spellID=51690, specs={Rogue.Outlaw}, baseCD=120, reqTalents={73}}, -- Killing Spree\n    {spellID=114050, specs={Shaman.Ele}, baseCD=180, reqTalents={73}}, -- Ascendance\n    {spellID=192249, specs={Shaman.Ele}, baseCD=150, reqTalents={42}, version=3}, -- Storm Elemental\n    {spellID=191634, specs={Shaman.Ele}, baseCD=60, reqTalents={72}, version=3}, -- Stormkeeper\n    {spellID=114051, specs={Shaman.Enh}, baseCD=180, reqTalents={73}}, -- Ascendance\n    {spellID=205180, specs={Warlock.Affl}, baseCD=180}, -- Summon Darkglare\n    {spellID=113860, specs={Warlock.Affl}, baseCD=120, reqTalents={73}}, -- Dark Soul: Misery\n    {spellID=265187, specs={Warlock.Demo}, baseCD=90}, -- Summon Demonic Tyrant\n    {spellID=267217, specs={Warlock.Demo}, baseCD=180, reqTalents={73}}, -- Nether Portal\n    {spellID=113858, specs={Warlock.Destro}, baseCD=120, reqTalents={73}}, -- Dark Soul: Instability\n    {spellID=1122, specs={Warlock.Destro}, baseCD=180}, -- Summon Infernal\n    {spellID=227847, specs={Warrior.Arms}, baseCD=90}, -- Bladestorm\n    {spellID=107574, specs={Warrior.Arms}, baseCD=120, reqTalents={62}}, -- Avatar\n    {spellID=1719, specs={Warrior.Fury}, baseCD=90}, -- Recklessness\n    {spellID=46924, specs={Warrior.Fury}, baseCD=60, reqTalents={63}}, -- Bladestorm\n}\n\nZT.typeToTrackedSpells[\"TANK\"] = {\n    {spellID=49028, specs={DK.Blood}, baseCD=120}, -- Dancing Rune Weapon\n    {spellID=194679, specs={DK.Blood}, baseCD=25, reqTalents={43}}, -- Rune Tap\n    {spellID=194844, specs={DK.Blood}, baseCD=60, reqTalents={73}}, -- Bonestorm\n    {spellID=204021, specs={DH.Veng}, baseCD=60}, -- Fiery Brand\n    {spellID=1160, specs={Warrior.Prot}, baseCD=45}, -- Demoralizing Shout\n}\n\nZT.linkedSpellIDs = {\n    [19647]  = {119910, 132409, 115781}, -- Spell Lock\n    [132469] = {61391}, -- Typhoon\n    [191427] = {200166}, -- Metamorphosis\n    [106898] = {77761, 77764}, -- Stampeding Roar\n    [86659] = {212641}, -- Guardian of the Ancient Kings (+Glyph)\n}\n\nZT.specialLinkedSpellIDs = {\n    [86659] = {212641}, -- Guardian of the Ancient Kings (+Glyph)\n}\n\nZT.specialConfigSpellIDs = {\n    [202719] = \"ArcaneTorrent\",\n    [50613]  = \"ArcaneTorrent\",\n    [80483]  = \"ArcaneTorrent\",\n    [28730]  = \"ArcaneTorrent\",\n    [129597] = \"ArcaneTorrent\",\n    [155145] = \"ArcaneTorrent\",\n    [232633] = \"ArcaneTorrent\",\n    [25046]  = \"ArcaneTorrent\",\n    [28730]  = \"ArcaneTorrent\",\n    [69179]  = \"ArcaneTorrent\",\n    [221562] = \"Asphyxiate\",\n    [108194] = \"Asphyxiate\",\n    [5277]   = \"Evasion/Riposte\",\n    [199754] = \"Evasion/Riposte\",\n}\n\n-- Adding custom spells from the user to the table\nlocal spellConfigFuncHeader = \"return function(DK,DH,Druid,Hunter,Mage,Monk,Paladin,Priest,Rogue,Shaman,Warlock,Warrior,StaticMod,DynamicMod,EventDeltaMod,CastDeltaMod,EventRemainingMod,CastRemainingMod,DispelMod)\"\n\nlocal function trim(s) -- From PiL2 20.4\n  return (s:gsub(\"^%s*(.-)%s*$\", \"%1\"))\nend\n\nlocal function addCustomSpell(spellConfig, i)\n    if not spellConfig or type(spellConfig) ~= \"table\" then\n        print(\"[ZT] Custom Spell\", i, \"is not represented as a valid table\")\n        return\n    end\n\n    if type(spellConfig.type) ~= \"string\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'type' entry\")\n        return\n    end\n\n    if type(spellConfig.spellID) ~= \"number\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'spellID' entry\")\n        return\n    end\n\n    if type(spellConfig.baseCD) ~= \"number\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'baseCD' entry\")\n        return\n    end\n\n    spellConfig.version = 10000\n    spellConfig.isCustom = true\n\n    local spells = ZT.typeToTrackedSpells[spellConfig.type]\n    spells[#spells + 1] = spellConfig\nend\n\nfor i = 1,11 do\n    local spellConfig = ZT.config[\"custom\"..i]\n    if spellConfig then\n        spellConfig = trim(spellConfig)\n    end\n\n    if spellConfig and spellConfig ~= \"\" then\n        local spellConfigFuncStr = spellConfigFuncHeader..\" return \"..spellConfig..\" end\"\n        local spellConfigFunc = WeakAuras.LoadFunction(spellConfigFuncStr, \"ZenTracker Custom Spell \"..i)\n        if spellConfigFunc then\n            local spellConfig = spellConfigFunc(DK,DH,Druid,Hunter,Mage,Monk,Paladin,Priest,Rogue,Shaman,Warlock,Warrior,\n                StaticMod,DynamicMod,EventDeltaMod,CastDeltaMod,EventRemainingMod,CastRemainingMod,DispelMod)\n            addCustomSpell(spellConfig, i)\n        end\n    end\nend\n\n-- Building a complete list of tracked spells\nZT.spellIDToInfo = {}\n\nfor type,spells in pairs(ZT.typeToTrackedSpells) do\n    for _,spellInfo in ipairs(spells) do\n        spellInfo.type = type\n\n        -- If no version, assign version=1\n        if not spellInfo.version then\n            spellInfo.version = 1\n        end\n        \n        -- Creating a lookup map from list of valid specs\n        if spellInfo.specs then\n            local specsMap = {}\n            for _,specID in ipairs(spellInfo.specs) do\n                specsMap[specID] = true\n            end\n            spellInfo.specs = specsMap\n        end\n        \n        -- Placing single modifiers inside of a table (or creating an empty table if none)\n        if spellInfo.mods then\n            if spellInfo.mods.type then\n                spellInfo.mods = { spellInfo.mods }\n            end\n        else\n            spellInfo.mods = {}\n        end\n        \n        -- Placing single talent modifiers inside of a table (or creating an empty table if none)\n        if spellInfo.modTalents then\n            for talent,modifiers in pairs(spellInfo.modTalents) do\n                if modifiers.type then\n                    spellInfo.modTalents[talent] = { modifiers }\n                end\n            end\n        else\n            spellInfo.modTalents = {}\n        end\n        \n        local spellID = spellInfo.spellID\n        local allSpellInfo = ZT.spellIDToInfo[spellID]\n        if not allSpellInfo then\n            -- Checking if this spellID is blacklisted or whitelisted\n            local isBlacklisted = ZT.config[\"spell\"..spellID]\n            if isBlacklisted == nil then\n                local configSpellID = ZT.specialConfigSpellIDs[spellID]\n                if configSpellID then\n                    isBlacklisted = ZT.config[\"spell\"..configSpellID]\n                else\n                    isBlacklisted = (ZT.config[\"spellConfigType\"] == 2) -- If not in config, ignore whitelist/blacklist\n                    if not spellInfo.isCustom then\n                        print(\"[ZT] Config not present for spellID\", spellID)\n                    end\n                end\n            end\n            if ZT.config[\"spellConfigType\"] == 2 then\n                isBlacklisted = not isBlacklisted\n            end\n            \n            allSpellInfo = {\n                type = type,\n                variants = { spellInfo },\n                isBlacklisted = isBlacklisted,\n            }\n            ZT.spellIDToInfo[spellID] = allSpellInfo\n        else\n            local variants = allSpellInfo.variants\n            variants[#variants+1] = spellInfo\n        end\n    end\nend\n\n--------------------------------------------------------------------------------\n-- END TRACKED SPELLS\n--------------------------------------------------------------------------------\n\n-- Handling the sending of events to the front-end WAs\nlocal function sendFrontEndTrigger(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_TRIGGER\", watchInfo.spellInfo.type, watchInfo.watchID, watchInfo.duration, watchInfo.expiration)\n    end\n    WeakAuras.ScanEvents(\"ZT_TRIGGER\", watchInfo.spellInfo.type, watchInfo.watchID, watchInfo.duration, watchInfo.expiration)\nend\n\nlocal function sendFrontEndAdd(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    local spellInfo = watchInfo.spellInfo\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_ADD\", spellInfo.type, watchInfo.watchID, watchInfo.member.name, spellInfo.spellID)\n    end\n    WeakAuras.ScanEvents(\"ZT_ADD\", spellInfo.type, watchInfo.watchID, watchInfo.member, spellInfo.spellID)\n    \n    if watchInfo.expiration > GetTime() then\n        sendFrontEndTrigger(watchInfo)\n    end\nend\n\nlocal function sendFrontEndRemove(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_REMOVE\", watchInfo.spellInfo.type, watchInfo.watchID)\n    end\n    WeakAuras.ScanEvents(\"ZT_REMOVE\", watchInfo.spellInfo.type, watchInfo.watchID)\nend\n\n-- Handling combatlog and WeakAura events by invoking specified handler functions\nZT.eventHandlers = {}\n\nfunction ZT:addEventHandler(type, spellID, sourceGUID, handler, data)\n    local types = self.eventHandlers[spellID]\n    if not types then\n        types = {}\n        self.eventHandlers[spellID] = types\n    end\n    \n    local sources = types[type]\n    if not sources then\n        sources = {}\n        types[type] = sources\n    end\n    \n    local handlers = sources[sourceGUID]\n    if not handlers then\n        handlers = {}\n        sources[sourceGUID] = handlers\n    end\n    \n    handlers[handler] = data\nend\n\nfunction ZT:removeEventHandler(type, spellID, sourceGUID, handler)\n    local types = self.eventHandlers[spellID]\n    if types then\n        local sources = types[type]\n        if sources then\n            local handlers = sources[sourceGUID]\n            if handlers then\n                handlers[handler] = nil\n            end\n        end\n    end\nend\n\nfunction ZT:removeAllEventHandlers(sourceGUID)\n    for _,spells in pairs(self.eventHandlers) do\n        for _,sources in pairs(spells) do\n            for GUID,handlers in pairs(sources) do\n                if GUID == sourceGUID then\n                    wipe(handlers)\n                end\n            end\n        end\n    end\nend\n\nlocal function fixSourceGUID(sourceGUID) -- Based on https://wago.io/p/Nnogga\n    local type = strsplit(\"-\",sourceGUID)\n    if type == \"Pet\" then\n        for unit in WA_IterateGroupMembers() do\n            if UnitGUID(unit..\"pet\") == sourceGUID then\n                sourceGUID = UnitGUID(unit)\n                break\n            end\n        end\n    end\n    \n    return sourceGUID\nend\n\nfunction ZT:handleEvent(type, spellID, sourceGUID)\n    local types = self.eventHandlers[spellID]\n    if not types then\n        return\n    end\n    \n    local sources = types[type]\n    if not sources then\n        return\n    end\n    \n    local handlers = sources[sourceGUID]\n    if not handlers then\n        sourceGUID = fixSourceGUID(sourceGUID)\n        handlers = sources[sourceGUID]\n        if not handlers then\n            return\n        end\n    end\n    \n    for handler,data in pairs(handlers) do\n        handler(data)\n    end\nend\n\n-- Managing the set of (spellID,sourceGUID) pairs that are being watched\nZT.nextWatchID = 1\nZT.watching = {}\n\nlocal function WatchInfo_startCooldown(self)\n    self.expiration = GetTime() + self.duration\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_updateDelta(self, delta)\n    self.expiration = self.expiration + delta\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_updateRemaining(self, remaining)\n    self.expiration = GetTime() + remaining\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_update(self, ignoreIfReady, ignoreRateLimit)\n    local startTime, duration, enabled = GetSpellCooldown(self.spellInfo.spellID)\n    if enabled ~= 0 then\n        if startTime ~= 0 then\n            self.duration = duration\n            self.expiration = startTime + duration\n        else\n            self.expiration = GetTime()\n        end\n        \n        if (not ignoreIfReady) or (startTime ~= 0) then\n            sendFrontEndTrigger(self)\n            ZT:sendCDUpdate(self, ignoreRateLimit)\n        end\n    end\nend\n\nlocal function WatchInfo_handleStarted(self)\n    WatchInfo_update(self, false, true)\nend\n\nlocal function WatchInfo_handleChanged(self)\n    WatchInfo_update(self, false, false)\nend\n\nlocal function WatchInfo_handleReady(self)\n    self.expiration = GetTime()\n    sendFrontEndTrigger(self)\n    ZT:sendCDUpdate(self, true)\nend\n\nlocal function WatchInfo_hide(self)\n    sendFrontEndRemove(self)\n    self.isHidden = true\nend\n\nlocal function WatchInfo_unhide(self)\n    self.isHidden = false\n    sendFrontEndAdd(self)\nend\n\nfunction ZT:togglePlayerHandlers(watchInfo, enable)\n    local spellID = watchInfo.spellInfo.spellID\n    local toggleEventHandler = enable and self.addEventHandler or self.removeEventHandler\n    \n    if enable then\n        WeakAuras.WatchSpellCooldown(spellID)\n    end\n    toggleEventHandler(self, \"SPELL_COOLDOWN_STARTED\", spellID, 0, WatchInfo_handleStarted, watchInfo)\n    toggleEventHandler(self, \"SPELL_COOLDOWN_CHANGED\", spellID, 0, WatchInfo_handleChanged, watchInfo)\n    toggleEventHandler(self, \"SPELL_COOLDOWN_READY\", spellID, 0, WatchInfo_handleReady, watchInfo)\n\n    local links = self.specialLinkedSpellIDs[spellID]\n    if links then\n        for _,linkedSpellID in ipairs(links) do\n          if enable then\n              WeakAuras.WatchSpellCooldown(linkedSpellID)\n          end\n          toggleEventHandler(self, \"SPELL_COOLDOWN_STARTED\", linkedSpellID, 0, WatchInfo_handleStarted, watchInfo)\n          toggleEventHandler(self, \"SPELL_COOLDOWN_CHANGED\", linkedSpellID, 0, WatchInfo_handleChanged, watchInfo)\n          toggleEventHandler(self, \"SPELL_COOLDOWN_READY\", linkedSpellID, 0, WatchInfo_handleReady, watchInfo)\n        end\n    end\nend\n\nfunction ZT:toggleCombatLogHandlers(watchInfo, enable, specInfo)\n    local spellInfo = watchInfo.spellInfo\n    local spellID = spellInfo.spellID\n    local member = watchInfo.member\n    local toggleEventHandler = enable and self.addEventHandler or self.removeEventHandler\n    \n    if not spellInfo.ignoreCast then\n        toggleEventHandler(self, \"SPELL_CAST_SUCCESS\", spellID, member.GUID, WatchInfo_startCooldown, watchInfo)\n        \n        local links = self.linkedSpellIDs[spellID]\n        if links then\n            for _,linkedSpellID in ipairs(links) do\n                toggleEventHandler(self, \"SPELL_CAST_SUCCESS\", linkedSpellID, member.GUID, WatchInfo_startCooldown, watchInfo)\n            end\n        end\n    end\n    \n    for _,modifier in pairs(spellInfo.mods) do\n        if modifier.type == \"Dynamic\" then\n            for _,handlerInfo in ipairs(modifier.handlers) do\n                toggleEventHandler(self, handlerInfo.type, handlerInfo.spellID, member.GUID, handlerInfo.handler, watchInfo)\n            end\n        end\n    end\n    \n    for talent, modifiers in pairs(spellInfo.modTalents) do\n        if specInfo.talentsMap[talent] then\n            for _, modifier in pairs(modifiers) do\n                if modifier.type == \"Dynamic\" then\n                    for _,handlerInfo in ipairs(modifier.handlers) do\n                        toggleEventHandler(self, handlerInfo.type, handlerInfo.spellID, member.GUID, handlerInfo.handler, watchInfo)\n                    end\n                end\n            end\n        end\n    end\nend\n\nfunction ZT:watch(spellInfo, member, specInfo, isHidden)\n    specInfo = specInfo or member.specInfo\n    \n    local spellID = spellInfo.spellID\n    local spells = self.watching[spellID]\n    if not spells then\n        spells = {}\n        self.watching[spellID] = spells\n    end\n    \n    local watchInfo = spells[member.GUID]\n    local isNew = (watchInfo == nil)\n    \n    if not watchInfo then\n        watchInfo = {\n            watchID = self.nextWatchID,\n            member = member,\n            spellInfo = spellInfo,\n            duration = member:computeCooldown(spellInfo, specInfo),\n            expiration = GetTime(),\n            isHidden = isHidden,\n            startCooldown = WatchInfo_startCooldown,\n            update = WatchInfo_update,\n            updateDelta = WatchInfo_updateDelta,\n            updateRemaining = WatchInfo_updateRemaining,\n        }\n        self.nextWatchID = self.nextWatchID + 1\n        \n        spells[member.GUID] = watchInfo\n        member.watching[spellID] = watchInfo\n        \n        sendFrontEndAdd(watchInfo)\n    else\n        watchInfo.spellInfo = spellInfo\n        watchInfo.duration = member:computeCooldown(spellInfo, specInfo)\n        \n        if watchInfo.isHidden and not isHidden then\n            WatchInfo_unhide(watchInfo)\n        end\n    end\n    \n    if member.isPlayer then\n        watchInfo:update(true)\n    end\n    \n    if member.isPlayer then\n        if isNew then\n            self:togglePlayerHandlers(watchInfo, true)\n        end\n    elseif member.tracking == \"CombatLog\" or (member.tracking == \"Sharing\" and member.spellsVersion < spellInfo.version) then\n        if isNew then\n            self:toggleCombatLogHandlers(watchInfo, true, specInfo)\n        else\n            self:toggleCombatLogHandlers(watchInfo, false, member.specInfo)\n            self:toggleCombatLogHandlers(watchInfo, true, specInfo)\n        end\n    end\nend\n\nfunction ZT:unwatch(spellInfo, member, specInfo, keepHidden)\n    local spellID = spellInfo.spellID\n    local sources = self.watching[spellID]\n    if not sources then\n        return\n    end\n    \n    local watchInfo = sources[member.GUID]\n    if watchInfo then\n        if member.isPlayer then\n            if keepHidden then\n                WatchInfo_hide(watchInfo)\n                return\n            end\n            \n            self:togglePlayerHandlers(watchInfo, false)\n        elseif member.tracking == \"CombatLog\"  or (member.tracking == \"Sharing\" and member.spellsVersion < spellInfo.version) then\n            self:toggleCombatLogHandlers(watchInfo, false, specInfo or member.specInfo)\n        end\n        \n        self.watching[spellInfo.spellID][member.GUID] = nil\n        member.watching[spellID] = nil\n        \n        sendFrontEndRemove(watchInfo)\n    end\nend\n\n-- Tracking types registered by front-end WAs\nZT.registration = {}\n\nfunction ZT:isTypeRegistered(type)\n    return self.registration[type] and (next(self.registration[type], nil) ~= nil)\nend\n\nfunction ZT:rebroadcast(type)\n    for _,sources in pairs(self.watching) do\n        for _,watchInfo in pairs(sources) do\n            if (watchInfo.spellInfo.type == type) then\n                sendFrontEndAdd(watchInfo)\n            end\n        end\n    end\nend\n\nfunction ZT:registerFrontEnd(type, frontendID)\n    local frontends = self.registration[type]\n    if not frontends then\n        frontends = {}\n        self.registration[type] = frontends\n    end\n    \n    if not frontends[frontendID] then\n        local typeWasRegistered = self:isTypeRegistered(type)\n        self.registration[type][frontendID] = true\n        \n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_REGISTER\", type, frontendID, \" -> New\", typeWasRegistered and \"(Type Registered)\" or \"(Type Unregistered)\")\n        end\n        \n        if typeWasRegistered then\n            self:rebroadcast(type)\n        else\n            for _,member in pairs(self.members) do\n                if (not member.isPlayer) or (self.config[\"my\"..type]) then\n                    for _,allSpellInfo in pairs(self.spellIDToInfo) do\n                        if (not allSpellInfo.isBlacklisted) and (type == allSpellInfo.type) then\n                            for _,spellInfo in pairs(allSpellInfo.variants) do\n                                if member:checkSpellRequirements(spellInfo) then\n                                    self:watch(spellInfo, member, member.specInfo, member.isHidden)\n                                    break\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    else\n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_REGISTER\", type, frontendID, \" -> Existing\")\n        end\n        \n        self:rebroadcast(type)\n    end\nend\n\nfunction ZT:unregisterFrontEnd(type, frontendID)\n    self.registration[type][frontendID] = nil\n    \n    if not self:isTypeRegistered(type) then\n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_UNREGISTER\", type)\n        end\n        \n        for _,member in pairs(self.members) do\n            for spellID,watchInfo in pairs(member.watching) do\n                local spellInfo = watchInfo.spellInfo\n                if spellInfo.type == type then\n                    self:unwatch(spellInfo, member, member.specInfo, true)\n                end\n            end\n        end\n    end\nend\n\n-- Utility functions for operating over all spells available for a group member\nZT.members = {}\nZT.inEncounter = false\n\nlocal function Member_checkSpellRequirements(self, spellInfo, specInfo)\n    if not specInfo then\n        specInfo = self.specInfo\n    end\n    \n    if spellInfo.race and spellInfo.race ~= self.race then\n        return false\n    end\n    if spellInfo.class and spellInfo.class.ID ~= self.classID then\n        return false\n    end\n    if spellInfo.specs and (not specInfo.specID or not spellInfo.specs[specInfo.specID]) then\n        return false\n    end\n    \n    if spellInfo.reqTalents then\n        local talented = false\n        for _,t in ipairs(spellInfo.reqTalents) do\n            if specInfo.talentsMap[t] then\n                talented = true\n                break\n            end\n        end\n        \n        if not talented then\n            return false\n        end\n    end\n    \n    return true\nend\n\nlocal function Member_computeCooldown(self, spellInfo, specInfo)\n    if not specInfo then\n        specInfo = self.specInfo\n    end\n    \n    local cooldown = spellInfo.baseCD\n    if spellInfo.modTalents then\n        for talent,modifiers in pairs(spellInfo.modTalents) do\n            if specInfo.talentsMap[talent] then\n                for _,modifier in ipairs(modifiers) do\n                    if modifier.type == \"Static\" then\n                        if modifier.sub then\n                            cooldown = cooldown - modifier.sub\n                        elseif modifier.mul then\n                            cooldown = cooldown * modifier.mul\n                        end\n                    end\n                end\n            end\n        end\n    end\n    \n    return cooldown\nend\n\nlocal function Member_hide(self)\n    if not self.isHidden and not self.isPlayer then\n        self.isHidden = true\n        for _,watchInfo in pairs(self.watching) do\n            WatchInfo_hide(watchInfo)\n        end\n    end\nend\n\nlocal function Member_unhide(self)\n    if self.isHidden and not self.isPlayer then\n        self.isHidden = false\n        for _,watchInfo in pairs(self.watching) do\n            WatchInfo_unhide(watchInfo)\n        end\n    end\nend\n\nfunction ZT:addOrUpdateMember(memberInfo)\n    local member = self.members[memberInfo.GUID]\n    if not member then\n        member = memberInfo\n        member.watching = {}\n        member.tracking = member.tracking and member.tracking or \"CombatLog\"\n        member.isPlayer = (member.GUID == UnitGUID(\"player\"))\n        member.isHidden = (not member.isPlayer and self.inEncounter)\n        member.isReady = false\n        member.checkSpellRequirements = Member_checkSpellRequirements\n        member.computeCooldown = Member_computeCooldown\n        self.members[memberInfo.GUID] = member\n    end\n    \n    -- Gathering all necessary information about the member (if we don't have it already)\n    local justBecameReady = false\n    if not member.isReady then\n        local _,className,_,race,_,name = GetPlayerInfoByGUID(member.GUID)\n        member.name = name and gsub(name, \"%-[^|]+\", \"\") or nil\n        if self.DEBUG_TRACKING and (member.tracking == \"Sharing\") and member.name then\n            print(\"[ZT]\", member.name, \"is using ZenTracker ( SpellsVersion =\", member.spellsVersion, \")\")\n        end\n        member.class = className and AllClasses[className] or nil\n        member.classID = className and AllClasses[className].ID or nil\n        member.classColor = className and RAID_CLASS_COLORS[className] or nil\n        member.race = race\n        \n        member.isReady = (member.name ~= nil) and (member.classID ~= nil) and (member.race ~= nil)\n        justBecameReady = member.isReady\n    end\n    \n    local specInfo = memberInfo.specInfo\n    \n    -- Update if the member is now ready, or if they swapped specs/talents\n    local needsUpdate = justBecameReady\n    if specInfo.specID and specInfo.talents then\n        if (specInfo.specID ~= member.specInfo.specID) or (specInfo.talents ~= member.specInfo.talents) then\n            needsUpdate = true\n        end\n    end\n    \n    if needsUpdate then\n        -- If we are updating information about the player, send a handshake now\n        if member.isPlayer then\n            self:sendHandshake(specInfo)\n        end\n        \n        -- Watching/Unwatching relevant spell cooldowns\n        for spellID, allSpellInfo in pairs(self.spellIDToInfo) do\n            local isRegistered = self:isTypeRegistered(allSpellInfo.type)\n            local isBlacklisted = allSpellInfo.isBlacklisted\n            local hasSpell = false\n            \n            if member.isPlayer then -- If player, watch all possible spells (but some may be hidden)\n                for _,spellInfo in ipairs(allSpellInfo.variants) do\n                    hasSpell = member:checkSpellRequirements(spellInfo, specInfo)\n                    if hasSpell then\n                        local isHidden = (not isRegistered) or (not self.config[\"my\"..allSpellInfo.type]) or isBlacklisted\n                        self:watch(spellInfo, member, specInfo, isHidden)\n                        break\n                    end\n                end\n            elseif isRegistered and (not isBlacklisted) then -- Otherwise if group member, only watch relevant spells\n                for _,spellInfo in ipairs(allSpellInfo.variants) do\n                    hasSpell = member:checkSpellRequirements(spellInfo, specInfo)\n                    if hasSpell then\n                        self:watch(spellInfo, member, specInfo, member.isHidden)\n                        break\n                    end\n                end\n            end\n            \n            local prevWatchInfo = member.watching[spellID]\n            if not hasSpell and prevWatchInfo then\n                self:unwatch(prevWatchInfo.spellInfo, member)\n            end\n        end\n        \n        member.specInfo = specInfo\n    end\n    \n    -- If tracking changed from \"CombatLog\" to \"Sharing\", remove unnecessary event handlers and send a handshake/updates\n    if (member.tracking == \"CombatLog\") and (memberInfo.tracking == \"Sharing\") then\n        member.tracking = \"Sharing\"\n        member.spellsVersion = memberInfo.spellsVersion\n\n        if self.DEBUG_TRACKING and member.name then\n            print(\"[ZT]\", member.name, \"is using ZenTracker ( SpellsVersion =\", member.spellsVersion, \")\")\n        end\n        \n        for _,watchInfo in pairs(member.watching) do\n            if watchInfo.spellInfo.version <= member.spellsVersion then\n                self:toggleCombatLogHandlers(watchInfo, false, member.specInfo)\n            end\n        end\n\n        self:sendHandshake()\n        local time = GetTime()\n        for _,watchInfo in pairs(self.members[UnitGUID(\"player\")].watching) do\n            if watchInfo.expiration > time then\n                self:sendCDUpdate(watchInfo)\n            end\n        end\n    end\nend\n\nfunction ZT:resetEncounterCDs()\n    for _,member in pairs(self.members) do\n        if not member.isPlayer and member.tracking ~= \"Sharing\" then\n            for _,watchInfo in pairs(member.watching) do\n                if watchInfo.duration >= 180 then\n                    WatchInfo_updateRemaining(watchInfo, 0)\n                end\n            end\n        end\n    end\nend\n\nfunction ZT:startEncounter(event)\n    -- Note: This shouldn't happen, but in case it does...\n    if self.inEncounter then\n        for _,member in pairs(self.members) do\n            Member_unhide(member)\n        end\n    end\n    \n    self.inEncounter = true\n    local _,_,_,instanceID = UnitPosition(\"player\")\n    for _,member in pairs(self.members) do\n        local _,_,_,mInstanceID = UnitPosition(self.inspectLib:GuidToUnit(member.GUID))\n        if mInstanceID ~= instanceID then\n            Member_hide(member)\n        end\n    end\n    \n    if event == \"CHALLENGE_MODE_START\" then\n        self:resetEncounterCDs()\n    end\nend\n\nfunction ZT:endEncounter(event)\n    if self.inEncounter then\n        self.inEncounter = false\n        for _,member in pairs(self.members) do\n            Member_unhide(member)\n        end\n    end\n    \n    if event == \"ENCOUNTER_END\" then\n        self:resetEncounterCDs()\n    end\nend\n\n-- Message Format = <Protocol Version (%d)>:<Message Type (%s)>:<Member GUID (%s)>...\n--   Type = \"H\" (Handshake)\n--     ...:<Spec ID (%d)>:<Talents (%s)>:<IsInitial? (%d) [2]>:<Spells Version (%d) [2]>\n--   Type = \"U\" (CD Update)\n--     ...:<Spell ID (%d)>:<Duration (%f)>:<Remaining (%f)>\n\nZT.protocolVersion = 2\n\nZT.timeBetweenHandshakes = 5 --seconds\nZT.timeOfLastHandshake = 0\nZT.queuedHandshake = false\n\nZT.timeBetweenCDUpdates = 5 --seconds (per spellID)\nZT.timeOfLastCDUpdate = {}\nZT.queuedCDUpdates = {}\n\nlocal function sendMessage(message)\n    if not IsInGroup() and not IsInRaid() then\n        return\n    end\n    \n    if ZT.DEBUG_MESSAGES then\n        print(\"[ZT] Sending Message '\"..message..\"'\")\n    end\n    \n    local channel = IsInGroup(2) and \"INSTANCE_CHAT\" or \"RAID\"\n    C_ChatInfo_SendAddonMessage(\"ZenTracker\", message, channel)\nend\n\nZT.hasSentHandshake = false\nfunction ZT:sendHandshake(specInfo)\n    local time = GetTime()\n    local timeSinceLastHandshake = (time - self.timeOfLastHandshake)\n    if timeSinceLastHandshake < self.timeBetweenHandshakes then\n        if not self.queuedHandshake then\n            self.queuedHandshake = true\n            C_Timer.After(self.timeBetweenHandshakes - timeSinceLastHandshake, function() self:sendHandshake() end)\n        end\n        return\n    end\n    \n    local GUID = UnitGUID(\"player\")\n    specInfo = specInfo or self.members[GUID].specInfo\n    local specID = specInfo.specID or 0\n    local talents = specInfo.talents or \"\"\n    local isInitial = self.hasSentHandshake and 0 or 1\n    local message = string.format(\"%d:H:%s:%d:%s:%d:%d\", self.protocolVersion, GUID, specID, talents, isInitial, self.spellsVersion)\n    sendMessage(message)\n    \n    self.timeOfLastHandshake = time\n    self.queuedHandshake = false\n    self.hasSentHandshake = true\nend\n\nfunction ZT:sendCDUpdate(watchInfo, ignoreRateLimit, wasQueued)\n    local spellID = watchInfo.spellInfo.spellID\n    local time = GetTime()\n    local remaining = watchInfo.expiration - time\n    if remaining < 0 then\n        remaining = 0\n    end\n    \n    if not ignoreRateLimit then\n        local isQueued = self.queuedCDUpdates[spellID]\n        if wasQueued then\n            if not isQueued then\n                return -- Ignore since an update occured while this update was queued\n            end\n        else\n            if isQueued then\n                return -- Ignore since an update is already queued\n            else\n                local timeOfLastCDUpdate = self.timeOfLastCDUpdate[spellID]\n                if timeOfLastCDUpdate then\n                    local timeSinceLastCDUpdate = (time - self.timeOfLastCDUpdate[spellID])\n                    if timeSinceLastCDUpdate < self.timeBetweenCDUpdates then\n                        self.queuedCDUpdates[spellID] = true\n                        C_Timer.After(self.timeBetweenCDUpdates - timeSinceLastCDUpdate, function() self:sendCDUpdate(watchInfo, false, true) end)\n                        return -- Ignore since an update has now been queued\n                    end\n                end\n            end\n        end\n    end\n    \n    local GUID = watchInfo.member.GUID\n    local duration = watchInfo.duration\n    local message = string.format(\"%d:U:%s:%d:%0.2f:%0.2f\", self.protocolVersion, GUID, spellID, duration, remaining)\n    sendMessage(message)\n    \n    self.timeOfLastCDUpdate[spellID] = time\n    self.queuedCDUpdates[spellID] = false\nend\n\nfunction ZT:handleHandshake(mGUID, specID, talents, isInitial, spellsVersion)\n    specID = tonumber(specID)\n    if specID == 0 then\n        specID = nil\n    end\n    \n    local talentsMap = {}\n    if talents ~= \"\" then\n        for index in talents:gmatch(\"%d%d\") do\n            index = tonumber(index)\n            talentsMap[index] = true\n        end\n    else\n        talents = nil\n    end\n\n    -- Protocol V2: Assume false if not present\n    if isInitial == \"1\" then\n        isInitial = true\n    else\n        isInitial = false\n    end\n\n    -- Protocol V2: Assume spellsVersion is 1 if not present\n    if spellsVersion then\n        spellsVersion = tonumber(spellsVersion)\n        if not spellsVersion then\n            spellsVersion = 1\n        end\n    else\n        spellsVersion = 1\n    end\n    \n    local memberInfo = {\n        GUID = mGUID,\n        specInfo = {\n            specID = specID,\n            talents = talents,\n            talentsMap = talentsMap,\n        },\n        tracking = \"Sharing\",\n        spellsVersion = spellsVersion,\n    }\n    \n    self:addOrUpdateMember(memberInfo)\n    if isInitial then\n        self:sendHandshake()\n    end\nend\n\nfunction ZT:handleCDUpdate(mGUID, spellID, duration, remaining)\n    local member = self.members[mGUID]\n    if not member or not member.isReady then\n        return\n    end\n    \n    spellID = tonumber(spellID)\n    duration = tonumber(duration)\n    remaining = tonumber(remaining)\n    if not spellID or not duration or not remaining then\n        return\n    end\n    \n    local sources = self.watching[spellID]\n    if sources then\n        local watchInfo = sources[member.GUID]\n        if not watchInfo then\n            return\n        end\n        \n        watchInfo.duration = duration\n        watchInfo:updateRemaining(remaining)\n    end\nend\n\nfunction ZT:handleMessage(message)\n    local protocolVersion, type, mGUID, arg1, arg2, arg3, arg4, arg5 = strsplit(\":\", message)\n    protocolVersion = tonumber(protocolVersion)\n    \n    -- Ignore any messages sent by the player\n    if mGUID == UnitGUID(\"player\") then\n        return\n    end\n    \n    if ZT.DEBUG_MESSAGES then\n        print(\"[ZT] Received Message '\"..message..\"'\")\n    end\n    \n    if type == \"H\" then     -- Handshake\n        self:handleHandshake(mGUID, arg1, arg2, arg3, arg4, arg5)\n    elseif type == \"U\" then -- CD Update\n        self:handleCDUpdate(mGUID, arg1, arg2, arg3, arg4, arg5)\n    else\n        return\n    end\nend\n\nif not C_ChatInfo.RegisterAddonMessagePrefix(\"ZenTracker\") then\n    print(\"[ZT] Error: Could not register addon message prefix. Defaulting to local-only cooldown tracking.\")\nend\n\n-- Callback functions for libGroupInspecT for updating/removing members\nfunction ZT:libInspectUpdate(event, GUID, unit, info)\n    local specID = info.global_spec_id\n    if specID == 0 then\n        specID = nil\n    end\n    \n    local talents = nil\n    local talentsMap = {}\n    if info.talents then\n        for _,talentInfo in pairs(info.talents) do\n            local index = (talentInfo.tier * 10) + talentInfo.column\n            if not talents then\n                talents = \"\"..index\n            else\n                talents = talents..\",\"..index\n            end\n            \n            talentsMap[index] = true\n        end\n    end\n    \n    local memberInfo = {\n        GUID = GUID,\n        specInfo = {\n            specID = specID,\n            talents = talents,\n            talentsMap = talentsMap,\n        },\n    }\n    \n    self:addOrUpdateMember(memberInfo)\nend\n\nfunction ZT:libInspectRemove(event, GUID)\n    local member = self.members[GUID]\n    if not member then\n        return\n    end\n    \n    for _,watchInfo in pairs(member.watching) do\n        self:unwatch(watchInfo.spellInfo, member)\n    end\n    self.members[GUID] = nil\nend\n\nZT.inspectLib = LibStub:GetLibrary(\"LibGroupInSpecT-1.1\",true)\n\nif ZT.inspectLib then\n    WeakAurasSaved[\"ZenTracker_AuraEnv\"] = nil -- Flushing out past garbage :)\n    \n    if _G[\"ZenTracker_AuraEnv\"] then\n        ZT.inspectLib.UnregisterAllCallbacks(_G[\"ZenTracker_AuraEnv\"])\n    end\n    _G[\"ZenTracker_AuraEnv\"] = ZT\n    \n    ZT.inspectLib.RegisterCallback(ZT, \"GroupInSpecT_Update\", \"libInspectUpdate\")\n    ZT.inspectLib.RegisterCallback(ZT, \"GroupInSpecT_Remove\", \"libInspectRemove\")\n    for unit in WA_IterateGroupMembers() do\n        local GUID = UnitGUID(unit)\n        if GUID then\n            local info = ZT.inspectLib:GetCachedInfo(GUID)\n            if info then\n                ZT:libInspectUpdate(\"Init\", GUID, unit, info)\n            else\n                ZT.inspectLib:Rescan(GUID)\n            end\n        end\n    end\nelse\n    print(\"[ZT] Error: LibGroupInSpecT-1.1 not found\")\nend\n\n",
-					["do_custom"] = true,
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["debuffType"] = "HELPFUL",
-						["genericShowOn"] = "showOnActive",
-						["unit"] = "player",
-						["names"] = {
-						},
-						["custom_type"] = "event",
-						["custom"] = "function(event,...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, eventType, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        aura_env:handleEvent(eventType, spellID, sourceGUID)\n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["event"] = "Health",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
-						["spellIds"] = {
-						},
-						["subeventPrefix"] = "SPELL",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				{
-					["trigger"] = {
-						["subeventPrefix"] = "SPELL",
-						["type"] = "custom",
-						["events"] = "SPELL_COOLDOWN_STARTED, SPELL_COOLDOWN_CHANGED, SPELL_COOLDOWN_READY",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_type"] = "event",
-						["custom"] = "function (event, id)\n    aura_env:handleEvent(event, id, 0)\nend",
-						["event"] = "Health",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [2]
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["unevent"] = "auto",
-						["event"] = "Chat Message",
-						["subeventPrefix"] = "SPELL",
-						["events"] = "ENCOUNTER_START,ENCOUNTER_END, CHALLENGE_MODE_START,CHALLENGE_MODE_COMPLETED,PLAYER_ENTERING_WORLD",
-						["custom_type"] = "event",
-						["subeventSuffix"] = "_CAST_START",
-						["custom"] = "function(event)\n    if event == \"ENCOUNTER_START\" or event == \"ENCOUNTER_END\" then\n        local _,instanceType = IsInInstance()\n        if instanceType ~= \"raid\" then\n            return\n        end\n    end\n    \n    if event == \"ENCOUNTER_START\" or event == \"CHALLENGE_MODE_START\" then\n        aura_env:startEncounter(event)\n    elseif event == \"ENCOUNTER_END\" or event == \"CHALLENGE_MODE_COMPLETED\" or event == \"PLAYER_ENTERING_WORLD\" then\n        aura_env:endEncounter(event)\n    end\nend",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [3]
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["use_absorbMode"] = true,
-						["event"] = "Chat Message",
-						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
-						["events"] = "ZT_REGISTER",
-						["custom_type"] = "event",
-						["use_unit"] = true,
-						["custom"] = "function (event, type, frontendID)\n    aura_env:registerFrontEnd(type, frontendID)\nend",
-						["unevent"] = "auto",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [4]
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["use_alwaystrue"] = true,
-						["unevent"] = "auto",
-						["use_absorbMode"] = true,
-						["event"] = "Conditions",
-						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
-						["custom"] = "function (event, type, frontendID)\n    aura_env:unregisterFrontEnd(type, frontendID)\nend",
-						["subeventSuffix"] = "_CAST_START",
-						["use_unit"] = true,
-						["events"] = "ZT_UNREGISTER",
-						["custom_type"] = "event",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [5]
-				{
-					["trigger"] = {
-						["custom_hide"] = "timed",
-						["type"] = "custom",
-						["events"] = "CHAT_MSG_ADDON",
-						["custom_type"] = "event",
-						["subeventSuffix"] = "_CAST_START",
-						["custom"] = "function(event,prefix,message,type,sender)\n    if prefix == \"ZenTracker\" then\n        aura_env:handleMessage(message)\n    end\nend",
-						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
-					},
-					["untrigger"] = {
-					},
-				}, -- [6]
-				{
-					["trigger"] = {
-						["subeventPrefix"] = "SPELL",
-						["type"] = "custom",
-						["events"] = "GROUP_JOINED",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_type"] = "event",
-						["custom"] = "function()\n    aura_env:sendHandshake()\nend",
-						["event"] = "Health",
-						["custom_hide"] = "timed",
-					},
-					["untrigger"] = {
-					},
-				}, -- [7]
-				["disjunctive"] = "any",
-				["activeTriggerMode"] = -10,
-			},
-			["internalVersion"] = 11,
-			["selfPoint"] = "BOTTOM",
-			["font"] = "Friz Quadrata TT",
-			["version"] = 49,
-			["height"] = 12.000001907349,
-			["load"] = {
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-				["use_never"] = false,
-				["talent"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["ingroup"] = {
-					["single"] = "group",
-					["multi"] = {
-						["group"] = true,
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["affixes"] = {
-					["multi"] = {
-					},
-				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["fontSize"] = 12,
-			["regionType"] = "text",
-			["config"] = {
-				["spell280711"] = false,
-				["spellArcaneTorrent"] = false,
-				["custom4"] = "",
-				["spell114051"] = false,
-				["spell64044"] = false,
-				["spell46924"] = false,
-				["spell191427"] = false,
-				["spell108199"] = false,
-				["spell107570"] = false,
-				["spell86659"] = false,
-				["spell740"] = false,
-				["spell196555"] = false,
-				["spell64843"] = false,
-				["spell265187"] = false,
-				["custom6"] = "",
-				["spell106839"] = false,
-				["spell109248"] = false,
-				["spell31661"] = false,
-				["spell79140"] = false,
-				["spell235219"] = false,
-				["spell57994"] = false,
-				["spell55342"] = false,
-				["spell198589"] = false,
-				["spell187707"] = false,
-				["myDAMAGE"] = true,
-				["spell1719"] = false,
-				["spell206491"] = false,
-				["myIMMUNITY"] = true,
-				["spell217832"] = false,
-				["custom5"] = "",
-				["spellEvasion/Riposte"] = false,
-				["spell198838"] = false,
-				["spell122470"] = false,
-				["spell267217"] = false,
-				["spell633"] = false,
-				["spell105809"] = false,
-				["spell194223"] = false,
-				["spell207289"] = false,
-				["spell200183"] = false,
-				["spell118038"] = false,
-				["spell30283"] = false,
-				["spell853"] = false,
-				["spell179057"] = false,
-				["spell47788"] = false,
-				["spell116705"] = false,
-				["spell186265"] = false,
-				["spell98008"] = false,
-				["spell46968"] = false,
-				["spell255654"] = false,
-				["spell5211"] = false,
-				["spell152279"] = false,
-				["spell102359"] = false,
-				["spell207399"] = false,
-				["spell192058"] = false,
-				["myDEFMDISPEL"] = true,
-				["spell207684"] = false,
-				["spell12975"] = false,
-				["spell1022"] = false,
-				["spell642"] = false,
-				["spell47585"] = false,
-				["spell122278"] = false,
-				["spell191634"] = false,
-				["spell106951"] = false,
-				["spell211881"] = false,
-				["spell31884"] = false,
-				["spell31821"] = false,
-				["spell116844"] = false,
-				["spell48707"] = false,
-				["myUTILITY"] = true,
-				["spell871"] = false,
-				["spell19236"] = false,
-				["spell12042"] = false,
-				["spell1122"] = false,
-				["spell6940"] = false,
-				["spell102560"] = false,
-				["spell13750"] = false,
-				["spell19574"] = false,
-				["myPERSONAL"] = true,
-				["spell97462"] = false,
-				["spell42650"] = false,
-				["spell31850"] = false,
-				["spell15286"] = false,
-				["spell266779"] = false,
-				["custom8"] = "",
-				["spell102342"] = false,
-				["spell114052"] = false,
-				["spell55233"] = false,
-				["mySTHARDCC"] = true,
-				["spell49028"] = false,
-				["spell202138"] = false,
-				["spell115750"] = false,
-				["spell184662"] = false,
-				["spell115176"] = false,
-				["spell62618"] = false,
-				["spell201430"] = false,
-				["myEXTERNAL"] = true,
-				["spell210191"] = false,
-				["spell204263"] = false,
-				["spell91802"] = false,
-				["spell108271"] = false,
-				["spell246287"] = false,
-				["spell22812"] = false,
-				["spell236748"] = false,
-				["spell109304"] = false,
-				["spell116849"] = false,
-				["spell1160"] = false,
-				["spell187650"] = false,
-				["myINTERRUPT"] = true,
-				["mySTSOFTCC"] = true,
-				["spell243435"] = false,
-				["myHEALING"] = true,
-				["spell115450"] = false,
-				["spell123904"] = false,
-				["spell104773"] = false,
-				["spell114018"] = false,
-				["spell51690"] = false,
-				["custom2"] = "",
-				["spell190319"] = false,
-				["spell279302"] = false,
-				["spell73325"] = false,
-				["spell205636"] = false,
-				["custom9"] = "",
-				["spell204018"] = false,
-				["spell48792"] = false,
-				["spell6552"] = false,
-				["spell33206"] = false,
-				["myTANK"] = true,
-				["spell204021"] = false,
-				["spell2139"] = false,
-				["spellAsphyxiate"] = false,
-				["spell4987"] = false,
-				["spell498"] = false,
-				["spell19647"] = false,
-				["spell271466"] = false,
-				["spell96231"] = false,
-				["spell198103"] = false,
-				["spell15487"] = false,
-				["custom7"] = "",
-				["spell121471"] = false,
-				["spell8122"] = false,
-				["spell1766"] = false,
-				["spell193223"] = false,
-				["spell64901"] = false,
-				["spell106898"] = false,
-				["myDISPEL"] = true,
-				["custom10"] = "",
-				["myHARDCC"] = true,
-				["spell184364"] = false,
-				["mySOFTCC"] = true,
-				["spell265202"] = false,
-				["spell192077"] = false,
-				["spell194844"] = false,
-				["spell288613"] = false,
-				["spell107574"] = false,
-				["spell152173"] = false,
-				["custom3"] = "",
-				["spell102543"] = false,
-				["spell49576"] = false,
-				["spell113858"] = false,
-				["spell6789"] = false,
-				["spell227847"] = false,
-				["spell115310"] = false,
-				["spell113860"] = false,
-				["spell202137"] = false,
-				["spell205191"] = false,
-				["spell61336"] = false,
-				["spell205180"] = false,
-				["spell88625"] = false,
-				["spell47528"] = false,
-				["spell527"] = false,
-				["spell192249"] = false,
-				["spell88423"] = false,
-				["spell114050"] = false,
-				["spell78675"] = false,
-				["spell49206"] = false,
-				["spell115203"] = false,
-				["spell132469"] = false,
-				["spell194679"] = false,
-				["spell2094"] = false,
-				["spell58984"] = false,
-				["spell12472"] = false,
-				["spell31224"] = false,
-				["spell207167"] = false,
-				["spell187827"] = false,
-				["spell147362"] = false,
-				["spell77130"] = false,
-				["spell119381"] = false,
-				["spell51490"] = false,
-				["spell115078"] = false,
-				["spell115080"] = false,
-				["spell196718"] = false,
-				["spell20549"] = false,
-				["spell216331"] = false,
-				["spell48743"] = false,
-				["spell122783"] = false,
-				["spell102793"] = false,
-				["spell231895"] = false,
-				["spell99"] = false,
-				["spellConfigType"] = 1,
-				["spell29166"] = false,
-				["spell45438"] = false,
-				["spell19577"] = false,
-				["spell183752"] = false,
-				["spell47536"] = false,
-				["spell193530"] = false,
-				["spell108280"] = false,
-				["spell137639"] = false,
-				["spell258925"] = false,
-				["custom1"] = "",
-				["spell32375"] = false,
-			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["justify"] = "LEFT",
-			["url"] = "https://wago.io/r14U746B7/49",
-			["id"] = "ZenTracker (ZT) Main",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["fixedWidth"] = 200,
-			["uid"] = "ejYTBRnd5n5",
-			["semver"] = "1.0.3-49",
-			["wordWrap"] = "WordWrap",
-			["conditions"] = {
-			},
-			["width"] = 6.9999642372131,
 			["authorOptions"] = {
 				{
 					["fontSize"] = "large",
@@ -21001,6 +20847,450 @@ WeakAurasSaved = {
 					["width"] = 2,
 				}, -- [266]
 			},
+			["displayText"] = " ",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/r14U746B7/49",
+			["actions"] = {
+				["start"] = {
+					["do_message"] = false,
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["finish"] = {
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["custom"] = "local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Class/Spec ID List\nlocal DK = {ID=6, name=\"DEATHKNIGHT\", Blood=250, Frost=251, Unholy=252}\nlocal DH = {ID=12, name=\"DEMONHUNTER\", Havoc=577, Veng=581}\nlocal Druid = {ID=11, name=\"DRUID\", Balance=102, Feral=103, Guardian=104, Resto=105}\nlocal Hunter = {ID=3, name=\"HUNTER\", BM=253, MM=254, SV=255}\nlocal Mage = {ID=8, name=\"MAGE\", Arcane=62, Fire=63, Frost=64}\nlocal Monk = {ID=10, name=\"MONK\", BRM=268, WW=269, MW=270}\nlocal Paladin = {ID=2, name=\"PALADIN\", Holy=65, Prot=66, Ret=70}\nlocal Priest = {ID=5, name=\"PRIEST\", Disc=256, Holy=257, Shadow=258}\nlocal Rogue = {ID=4, name=\"ROGUE\", Sin=259, Outlaw=260, Sub=261}\nlocal Shaman = {ID=7, name=\"SHAMAN\", Ele=262, Enh=263, Resto=264}\nlocal Warlock = {ID=9, name=\"WARLOCK\", Affl=265, Demo=266, Destro=267}\nlocal Warrior = {ID=1, name=\"WARRIOR\", Arms=71, Fury=72, Prot=73}\n\nlocal AllClasses = {\n    [DK.name] = DK, [DH.name] = DH, [Druid.name] = Druid, [Hunter.name] = Hunter,\n    [Mage.name] = Mage, [Monk.name] = Monk, [Paladin.name] = Paladin,\n    [Priest.name] = Priest, [Rogue.name] = Rogue, [Shaman.name] = Shaman,\n    [Warlock.name] = Warlock, [Warrior.name] = Warrior\n}\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nlocal IsInRaid = IsInRaid\nlocal UnitGUID = UnitGUID\nlocal C_ChatInfo_SendAddonMessage = C_ChatInfo.SendAddonMessage\n\n--------------------------------------------------------------------------------\n-- BEGIN SPELL COOLDOWN MODIFIERS\n--------------------------------------------------------------------------------\n\nlocal function StaticMod(type, value)\n    return { type = \"Static\", [type] = value }\nend\n\nlocal function DynamicMod(handlers)\n    if not handlers[1] then\n        handlers = { handlers }\n    end\n    \n    return { type = \"Dynamic\", handlers = handlers }\nend\n\nlocal function EventDeltaMod(type, spellID, delta)\n    return DynamicMod({\n            type = type,\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateDelta(delta)\n            end\n    })\nend\n\nlocal function CastDeltaMod(spellID, delta)\n    return EventDeltaMod(\"SPELL_CAST_SUCCESS\", spellID, delta)\nend\n\nlocal function EventRemainingMod(type, spellID, remaining)\n    return DynamicMod({\n            type = type,\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateRemaining(remaining)\n            end\n    })\nend\n\nlocal function CastRemainingMod(spellID, remaining)\n    return EventRemainingMod(\"SPELL_CAST_SUCCESS\", spellID, remaining)\nend\n\n-- Shockwave: If 3+ targets hit then reduces by 15 seconds\nlocal modShockwave = DynamicMod({\n        {\n            type = \"SPELL_CAST_SUCCESS\", spellID = 46968,\n            handler = function(watchInfo)\n                watchInfo.numHits = 0\n            end\n        },\n        {\n            type = \"SPELL_AURA_APPLIED\", spellID = 132168,\n            handler = function(watchInfo)\n                watchInfo.numHits = watchInfo.numHits + 1\n                if watchInfo.numHits == 3 then\n                    watchInfo:updateDelta(-15)\n                end\n            end\n        }\n})\n\n-- Capacitor Totem: Each target hit reduces by 5 seconds (up to 4 targets hit)\nlocal modCapTotem = DynamicMod({\n        type = \"SPELL_SUMMON\", spellID = 192058,\n        handler = function(watchInfo)\n            watchInfo.numHits = 0\n            \n            if not watchInfo.totemHandler then\n                watchInfo.totemHandler = function(watchInfo)\n                    watchInfo.numHits = watchInfo.numHits + 1\n                    if watchInfo.numHits <= 4 then\n                        watchInfo:updateDelta(-5)\n                    end\n                end\n            end\n            \n            if watchInfo.totemGUID then\n                ZT:removeEventHandler(\"SPELL_AURA_APPLIED\", 118905, watchInfo.totemGUID, watchInfo.totemHandler)\n            end\n            \n            watchInfo.totemGUID = select(8, CombatLogGetCurrentEventInfo())\n            ZT:addEventHandler(\"SPELL_AURA_APPLIED\", 118905, watchInfo.totemGUID, watchInfo.totemHandler, watchInfo)\n        end\n})\n\n\n-- Guardian Spirit: If expires watchInfothout healing then reset to 60 seconds\nlocal modGuardianSpirit = DynamicMod({\n        {\n            type = \"SPELL_HEAL\", spellID = 48153,\n            handler = function(watchInfo)\n                watchInfo.spiritHeal = true\n            end\n        },\n        {\n            type = \"SPELL_AURA_REMOVED\", spellID = 47788,\n            handler = function(watchInfo)\n                if not watchInfo.spiritHeal then\n                    watchInfo:updateRemaining(60)\n                end\n                watchInfo.spiritHeal = false\n            end\n        }\n})\n\n-- Dispels: Go on cooldown only if a debuff is dispelled\nlocal function DispelMod(spellID)\n    return DynamicMod({\n            type = \"SPELL_DISPEL\",\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateRemaining(8)\n            end\n    })\nend\n\n-- Resource Spending: For every spender, reduce cooldown by (coefficient * cost) seconds\n--   Note: By default, I use minimum cost values as to not over-estimate the cooldown reduction\nlocal specIDToSpenderInfo = {\n    [DK.Blood] = {resourceType=\"RUNIC_POWER\", spells={[49998]=40, [61999]=30, [206940]=30}},\n}\n\nlocal function ResourceSpendingMods(specID, coefficient)\n    local handlers = {}\n    local spenderInfo = specIDToSpenderInfo[specID]\n    \n    for spellID,cost in pairs(spenderInfo.spells) do\n        local delta = -(coefficient * cost)\n        \n        handlers[#handlers+1] = {\n            type = \"SPELL_CAST_SUCCESS\",\n            spellID = spellID,\n            handler = function(watchInfo)\n                watchInfo:updateDelta(delta)\n            end\n        }\n    end\n    \n    return DynamicMod(handlers)\nend\n\n--------------------------------------------------------------------------------\n-- END SPELL COOLDOWN MODIFIERS\n--------------------------------------------------------------------------------\n\n--------------------------------------------------------------------------------\n-- BEGIN TRACKED SPELLS\n--------------------------------------------------------------------------------\n\nZT.spellsVersion = 3\nZT.typeToTrackedSpells = {}\n\nZT.typeToTrackedSpells[\"INTERRUPT\"] = {\n    {spellID=183752, class=DH, baseCD=15}, -- Consume Magic\n    {spellID=47528, class=DK, baseCD=15}, -- Mind Freeze\n    {spellID=91802, specs={DK.Unholy}, baseCD=30}, -- Shambling Rush\n    {spellID=78675, specs={Druid.Balance}, baseCD=60}, -- Solar Beam\n    {spellID=106839, specs={Druid.Feral,Druid.Guardian}, baseCD=15}, -- Skull Bash\n    {spellID=147362, specs={Hunter.BM, Hunter.MM}, baseCD=24}, -- Counter Shot\n    {spellID=187707, specs={Hunter.SV}, baseCD=15}, -- Muzzle\n    {spellID=2139, class=Mage, baseCD=24}, -- Counter Spell\n    {spellID=116705, specs={Monk.WW, Monk.BRM}, baseCD=15}, -- Spear Hand Strike\n    {spellID=96231, specs={Paladin.Prot, Paladin.Ret}, baseCD=15}, -- Rebuke\n    {spellID=15487, specs={Priest.Shadow}, baseCD=45, modTalents={[41]=StaticMod(\"sub\", 15)}}, -- Silence\n    {spellID=1766, class=Rogue, baseCD=15}, -- Kick\n    {spellID=57994, class=Shaman, baseCD=12}, -- Wind Shear\n    {spellID=19647, class=Warlock, baseCD=24}, -- Spell Lock\n    {spellID=6552, class=Warrior, baseCD=15}, -- Pummel\n}\n\nZT.typeToTrackedSpells[\"HARDCC\"] = {\n    {spellID=179057, specs={DH.Havoc}, baseCD=60, modTalents={[61]=StaticMod(\"mul\", 0.666667)}}, -- Chaos Nova\n    {spellID=119381, class=Monk, baseCD=60, modTalents={[41]=StaticMod(\"sub\", 10)}}, -- Leg Sweep\n    {spellID=192058, class=Shaman, baseCD=60, modTalents={[33]=modCapTotem}}, -- Capacitor Totem\n    {spellID=30283, class=Warlock, baseCD=60, modTalents={[51]=StaticMod(\"sub\", 15)}}, -- Shadowfury\n    {spellID=46968, specs={Warrior.Prot}, baseCD=40, modTalents={[52]=modShockwave}}, -- Shockwave\n    {spellID=20549, race=\"Tauren\", baseCD=90}, -- War Stomp\n    {spellID=255654, race=\"HighmountainTauren\", baseCD=120}, -- Bull Rush\n}\n\nZT.typeToTrackedSpells[\"SOFTCC\"] = {\n    {spellID=202138, specs={DH.Veng}, baseCD=90, reqTalents={53}}, -- Sigil of Chains\n    {spellID=207684, specs={DH.Veng}, baseCD=90}, -- Sigil of Misery\n    {spellID=202137, specs={DH.Veng}, baseCD=60, modTalents={[52]=StaticMod(\"mul\", 0.8)}}, -- Sigil of Silence\n    {spellID=108199, specs={DK.Blood}, baseCD=120, modTalents={[52]=StaticMod(\"sub\", 30)}}, -- Gorefiend's Grasp\n    {spellID=207167, specs={DK.Frost}, baseCD=60, reqTalents={33}}, -- Blinding Sleet\n    {spellID=132469, class=Druid, baseCD=30, reqTalents={43}}, -- Typhoon\n    {spellID=102359, class=Druid, baseCD=30, reqTalents={42}}, -- Mass Entanglement\n    {spellID=99, specs={Druid.Guardian}, baseCD=30}, -- Incapacitating Roar\n    {spellID=236748, specs={Druid.Guardian}, baseCD=30, reqTalents={22}}, -- Intimidating Roar\n    {spellID=102793, specs={Druid.Guardian}, baseCD=60, reqTalents={22}}, -- Ursol's Vortex\n    {spellID=102793, specs={Druid.Resto}, baseCD=60}, -- Ursol's Vortex\n    {spellID=109248, class=Hunter, baseCD=30, reqTalents={53}}, -- Binding Shot\n    {spellID=116844, class=Monk, baseCD=45, reqTalents={43}}, -- Ring of Peace\n    {spellID=115750, class=Paladin, baseCD=90, reqTalents={33}, version=3}, -- Blinding Light\n    {spellID=8122, specs={Priest.Disc,Priest.Holy}, baseCD=60, modTalents={[41]=StaticMod(\"sub\", 30)}}, -- Psychic Scream\n    {spellID=8122, specs={Priest.Shadow}, baseCD=60}, -- Psychic Scream\n    {spellID=204263, specs={Priest.Disc,Priest.Holy}, baseCD=45, reqTalents={43}}, -- Shining Force\n    {spellID=51490, specs={Shaman.Ele}, baseCD=45}, -- Thunderstorm\n    {spellID=31661, specs={Mage.Fire}, baseCD=20, version=2}, -- Dragon's Breath\n}\n\nZT.typeToTrackedSpells[\"STHARDCC\"] = {\n    {spellID=211881, specs={DH.Havoc}, baseCD=30, reqTalents={63}}, -- Fel Eruption\n    {spellID=221562, specs={DK.Blood}, baseCD=45}, -- Asphyxiate\n    {spellID=108194, specs={DK.Unholy}, baseCD=45, reqTalents={33}}, -- Asphyxiate\n    {spellID=108194, specs={DK.FrostDK}, baseCD=45, reqTalents={32}}, -- Asphyxiate\n    {spellID=5211, class=Druid, baseCD=50, reqTalents={41}}, -- Mighty Bash\n    {spellID=19577, specs={Hunter.BM,Hunter.Surv}, baseCD=60}, -- Intimidation\n    {spellID=853, specs={Paladin.Holy}, baseCD=60, modTalents={[31]=CastDeltaMod(275773, -10)}}, -- Hammer of Justice\n    {spellID=853, specs={Paladin.Prot}, baseCD=60, modTalents={[31]=CastDeltaMod(275779, -6)}}, -- Hammer of Justice\n    {spellID=853, specs={Paladin.Ret}, baseCD=60}, -- Hammer of Justice\n    {spellID=88625, specs={Priest.Holy}, baseCD=60, reqTalents={42}, mods=CastDeltaMod(585, -4), modTalents={[71]=CastDeltaMod(585, -1.333333)}}, -- Holy Word: Chastise\n    {spellID=64044, specs={Priest.Shadow}, baseCD=45, reqTalents={43}}, -- Psychic Horror\n    {spellID=6789, class=Warlock, baseCD=45, reqTalents={52}}, -- Mortal Coil\n    {spellID=107570, specs={Warrior.Prot}, baseCD=30, reqTalents={53}}, -- Storm Bolt\n    {spellID=107570, specs={Warrior.Arms,Warrior.Fury}, baseCD=30, reqTalents={23}}, -- Storm Bolt\n}\n\nZT.typeToTrackedSpells[\"STSOFTCC\"] = {\n    {spellID=217832, class=DH, baseCD=45}, -- Imprison\n    {spellID=2094, specs={Rogue.Sin,Rogue.Sub}, baseCD=120}, -- Blind\n    {spellID=2094, specs={Rogue.Outlaw}, baseCD=120, modTalents={[52]=StaticMod(\"sub\", 30)}}, -- Blind\n    {spellID=115078, class=Monk, baseCD=45}, -- Paralysis\n    {spellID=187650, class=Hunter, baseCD=30}, -- Freezing Trap\n    {spellID=49576, specs={DK.Blood}, baseCD=15, version=2}, -- Death Grip\n    {spellID=49576, specs={DK.Frost,DK.Unholy}, baseCD=25, version=2}, -- Death Grip\n}\n\nZT.typeToTrackedSpells[\"DISPEL\"] = {\n    {spellID=202719, race=\"BloodElf\", class=DH, baseCD=120}, -- Arcane Torrent\n    {spellID=50613, race=\"BloodElf\", class=DK, baseCD=120}, -- Arcane Torrent\n    {spellID=80483, race=\"BloodElf\", class=Hunter, baseCD=120}, -- Arcane Torrent\n    {spellID=28730, race=\"BloodElf\", class=Mage, baseCD=120}, -- Arcane Torrent\n    {spellID=129597, race=\"BloodElf\", class=Monk, baseCD=120}, -- Arcane Torrent\n    {spellID=155145, race=\"BloodElf\", class=Paladin, baseCD=120}, -- Arcane Torrent\n    {spellID=232633, race=\"BloodElf\", class=Priest, baseCD=120}, -- Arcane Torrent\n    {spellID=25046, race=\"BloodElf\", class=Rogue, baseCD=120}, -- Arcane Torrent\n    {spellID=28730, race=\"BloodElf\", class=Warlock, baseCD=120}, -- Arcane Torrent\n    {spellID=69179, race=\"BloodElf\", class=Warrior, baseCD=120}, -- Arcane Torrent\n    {spellID=32375, class=Priest, baseCD=45}, -- Mass Dispel\n}\n\nZT.typeToTrackedSpells[\"DEFMDISPEL\"] = {\n    {spellID=88423, specs={Druid.Resto}, baseCD=8, mods=DispelMod(88423), ignoreCast=true}, -- Nature's Cure\n    {spellID=115450, specs={Monk.MW}, baseCD=8, mods=DispelMod(115450), ignoreCast=true}, -- Detox\n    {spellID=4987, specs={Paladin.Holy}, baseCD=8, mods=DispelMod(4987), ignoreCast=true}, -- Cleanse\n    {spellID=527, specs={Priest.Disc,Priest.Holy}, baseCD=8, mods=DispelMod(527), ignoreCast=true}, -- Purify\n    {spellID=77130, specs={Shaman.Resto}, baseCD=8, mods=DispelMod(77130), ignoreCast=true}, -- Purify Spirit\n}\n\nZT.typeToTrackedSpells[\"EXTERNAL\"] = {\n    {spellID=196718, specs={DH.Havoc}, baseCD=180}, -- Darkness\n    {spellID=102342, specs={Druid.Resto}, baseCD=60, modTalents={[62]=StaticMod(\"sub\", 15)}}, -- Ironbark\n    {spellID=116849, specs={Monk.MW}, baseCD=120}, -- Life Cocoon\n    {spellID=31821, specs={Paladin.Holy}, baseCD=180}, -- Aura Mastery\n    {spellID=6940, specs={Paladin.Holy,Paladin.Prot}, baseCD=120}, -- Blessing of Sacrifice\n    {spellID=1022, specs={Paladin.Holy,Paladin.Ret}, baseCD=300}, -- Blessing of Protection\n    {spellID=1022, specs={Paladin.Prot}, baseCD=300, reqTalents={41,42}}, -- Blessing of Protection\n    {spellID=204018, specs={Paladin.Prot}, baseCD=180, reqTalents={43}}, -- Blessing of Spellwarding\n    {spellID=62618, specs={Priest.Disc}, baseCD=180, reqTalents={71,73}}, -- Power Word: Barrier\n    {spellID=271466, specs={Priest.Disc}, baseCD=180, reqTalents={72}}, -- Luminous Barrier\n    {spellID=33206, specs={Priest.Disc}, baseCD=180}, -- Pain Supression\n    {spellID=47788, specs={Priest.Holy}, baseCD=180, modTalents={[32]=modGuardianSpirit}}, -- Guardian Spirit\n    {spellID=98008, specs={Shaman.Resto}, baseCD=180}, -- Spirit Link Totem\n    {spellID=97462, class=Warrior, baseCD=180}, -- Rallying Cry\n}\n\nZT.typeToTrackedSpells[\"HEALING\"] = {\n    {spellID=740, specs={Druid.Resto}, baseCD=180, modTalents={[61]=StaticMod(\"sub\", 60)}}, -- Tranquility\n    {spellID=115310, specs={Monk.MW}, baseCD=180}, -- Revival\n    {spellID=216331, specs={Paladin.Holy}, baseCD=120, reqTalents={62}}, -- Avenging Crusader\n    {spellID=105809, specs={Paladin.Holy}, baseCD=90, reqTalents={53}}, -- Holy Avenger\n    {spellID=633, specs={Paladin.Holy}, baseCD=600, modTalents={[21]=StaticMod(\"mul\", 0.7)}}, -- Lay on Hands\n    {spellID=633, specs={Paladin.Prot,Paladin.Ret}, baseCD=600, modTalents={[51]=StaticMod(\"mul\", 0.7)}}, -- Lay on Hands\n    {spellID=210191, specs={Paladin.Ret}, baseCD=60, reqTalents={63}}, -- Word of Glory\n    {spellID=47536, specs={Priest.Disc}, baseCD=90}, -- Rapture\n    {spellID=246287, specs={Priest.Disc}, baseCD=90, reqTalents={73}}, -- Evangelism\n    {spellID=64843, specs={Priest.Holy}, baseCD=180}, -- Divine Hymn\n    {spellID=200183, specs={Priest.Holy}, baseCD=120, reqTalents={72}}, -- Apotheosis\n    {spellID=265202, specs={Priest.Holy}, baseCD=720, reqTalents={73}, mods={CastDeltaMod(34861,-30), CastDeltaMod(2050,-30)}}, -- Holy Word: Salvation\n    {spellID=15286, specs={Priest.Shadow}, baseCD=120, modTalents={[22]=StaticMod(\"sub\", 45)}}, -- Vampiric Embrace\n    {spellID=108280, specs={Shaman.Resto}, baseCD=180}, -- Healing Tide Totem\n    {spellID=198838, specs={Shaman.Resto}, baseCD=60, reqTalents={42}}, -- Earthen Wall Totem\n    {spellID=207399, specs={Shaman.Resto}, baseCD=300, reqTalents={43}}, -- Ancestral Protection Totem\n    {spellID=114052, specs={Shaman.Resto}, baseCD=180, reqTalents={73}}, -- Ascendance\n}\n\nZT.typeToTrackedSpells[\"UTILITY\"] = {\n    {spellID=205636, specs={Druid.Balance}, baseCD=60, reqTalents={13}}, -- Force of Nature (Treants)\n    {spellID=73325, class=Priest, baseCD=90}, -- Leap of Faith\n    {spellID=114018, class=Rogue, baseCD=360}, -- Shroud of Concealment\n    {spellID=29166, specs={Druid.Balance,Druid.Resto}, baseCD=180}, -- Innervate\n    {spellID=64901, specs={Priest.Holy}, baseCD=300}, -- Symbol of Hope\n    {spellID=198103, class=Shaman, baseCD=300, version=2}, -- Earth Elemental\n    {spellID=192077, class=Shaman, baseCD=120, reqTalents={53}, version=2}, -- Wind Rush Totem\n    {spellID=106898, specs={Druid.Guardian}, baseCD=60, version=2}, -- Stampeding Roar\n    {spellID=106898, specs={Druid.Feral}, baseCD=120, version=2}, -- Stampeding Roar\n    {spellID=58984, race=\"NightElf\", baseCD=120, version=3}, -- Shadowmeld\n}\n\nZT.typeToTrackedSpells[\"PERSONAL\"] = {\n    {spellID=198589, specs={DH.Havoc}, baseCD=60, mods=EventRemainingMod(\"SPELL_AURA_APPLIED\", 212800, 60)}, -- Blur\n    {spellID=187827, specs={DH.Veng}, baseCD=180}, -- Metamorphosis\n    {spellID=48707, specs={DK.Blood}, baseCD=60, modTalents={[42]=StaticMod(\"sub\", 15)}}, -- Anti-Magic Shell\n    {spellID=48707, specs={DK.Frost,DK.Unholy}, baseCD=60}, -- Anti-Magic Shell\n    {spellID=48743, specs={DK.Frost,DK.Unholy}, baseCD=120, reqTalents={53}}, -- Death Pact\n    {spellID=48792, class=DK, baseCD=180}, -- Icebound Fortitude\n    {spellID=55233, specs={DK.Blood}, baseCD=90, modTalents={[72]=ResourceSpendingMods(DK.Blood, 0.1)}}, -- Vampiric Blood\n    {spellID=22812, specs={Druid.Balance,Druid.Guardian,Druid.Resto}, baseCD=60}, -- Barkskin\n    {spellID=61336, specs={Druid.Feral,Druid.Guardian}, baseCD=180}, -- Survival Instincts\n    {spellID=109304, class=Hunter, baseCD=120}, -- Exhilaration\n    {spellID=235219, specs={Mage.Frost}, baseCD=300}, -- Cold Snap\n    {spellID=122278, class=Monk, baseCD=120, reqTalents={53}}, -- Dampen Harm\n    {spellID=122783, specs={Monk.MW, Monk.WW}, baseCD=90, reqTalents={52}}, -- Diffuse Magic\n    {spellID=115203, specs={Monk.BRM}, baseCD=420}, -- Fortifying Brew\n    {spellID=115176, specs={Monk.BRM}, baseCD=300}, -- Zen Meditation\n    {spellID=243435, specs={Monk.MW}, baseCD=90}, -- Fortifying Brew\n    {spellID=122470, specs={Monk.WW}, baseCD=90}, -- Touch of Karma\n    {spellID=498, specs={Paladin.Holy}, baseCD=60}, -- Divine Protection\n    {spellID=31850, specs={Paladin.Prot}, baseCD=120}, -- Ardent Defender\n    {spellID=86659, specs={Paladin.Prot}, baseCD=300}, -- Guardian of the Ancient Kings\n    {spellID=184662, specs={Paladin.Ret}, baseCD=120}, -- Shield of Vengeance\n    {spellID=205191, specs={Paladin.Ret}, baseCD=60, reqTalents={53}}, -- Eye for an Eye\n    {spellID=19236, specs={Priest.Disc, Priest.Holy}, baseCD=90}, -- Desperate Prayer\n    {spellID=47585, specs={Priest.Shadow}, baseCD=120}, -- Dispersion\n    {spellID=5277, specs={Rogue.Sin, Rogue.Sub}, baseCD=120, version=2}, -- Evasion\n    {spellID=199754, specs={Rogue.Outlaw}, baseCD=120, version=2}, -- Riposte\n    {spellID=108271, class=Shaman, baseCD=90}, -- Astral Shift\n    {spellID=104773, class=Warlock, baseCD=180}, -- Unending Resolve\n    {spellID=118038, specs={Warrior.Arms}, baseCD=180}, -- Die by the Sword\n    {spellID=184364, specs={Warrior.Fury}, baseCD=120}, -- Enraged Regeneration\n    {spellID=12975, specs={Warrior.Prot}, baseCD=180, modTalents={[43]=StaticMod(\"sub\", 60)}}, -- Last Stand\n    {spellID=871, specs={Warrior.Prot}, baseCD=240}, -- Shield Wall\n}\n\nZT.typeToTrackedSpells[\"IMMUNITY\"] = {\n    {spellID=196555, specs={DH.Havoc}, baseCD=120, reqTalents={43}}, -- Netherwalk\n    {spellID=186265, class=Hunter, baseCD=180, modTalents={[51]=StaticMod(\"mul\", 0.8)}}, -- Aspect of the Turtle\n    {spellID=45438, specs={Mage.Arcane,Mage.Fire}, baseCD=240}, -- Ice Block\n    {spellID=45438, specs={Mage.Frost}, baseCD=240, mods=CastRemainingMod(235219, 0)}, -- Ice Block\n    {spellID=642, class=Paladin, baseCD=300}, -- Divine Shield\n    {spellID=31224, class=Rogue, baseCD=120}, -- Cloak of Shadows\n}\n\nZT.typeToTrackedSpells[\"DAMAGE\"] = {\n    {spellID=191427, specs={DH.Havoc}, baseCD=240}, -- Metamorphosis\n    {spellID=258925, specs={DH.Havoc}, baseCD=60, reqTalents={33}}, -- Fel Barrage\n    {spellID=206491, specs={DH.Havoc}, baseCD=120, reqTalents={73}}, -- Nemesis\n    {spellID=279302, specs={DK.Frost}, baseCD=180, reqTalents={63}}, -- Frostwyrm's Fury\n    {spellID=152279, specs={DK.Frost}, baseCD=120, reqTalents={73}}, -- Breath of Sindragosaa\n    {spellID=42650, specs={DK.Unholy}, baseCD=480}, -- Army of the Dead\n    {spellID=49206, specs={DK.Unholy}, baseCD=180, reqTalents={73}}, -- Summon Gargoyle\n    {spellID=207289, specs={DK.Unholy}, baseCD=75, reqTalents={72}}, -- Unholy Frenzy\n    {spellID=194223, specs={Druid.Balance}, baseCD=180, reqTalents={51,52}}, -- Celestial Alignment\n    {spellID=102560, specs={Druid.Balance}, baseCD=180, reqTalents={53}}, -- Incarnation: Chosen of Elune\n    {spellID=106951, specs={Druid.Feral}, baseCD=180, version=3}, -- Berserk\n    {spellID=102543, specs={Druid.Feral}, baseCD=180, reqTalents={53}}, -- Incarnation: King of the Jungle\n    {spellID=19574, specs={Hunter.BM}, baseCD=90}, -- Bestial Wrath\n    {spellID=193530, specs={Hunter.BM}, baseCD=120}, -- Aspect of the Wild\n    {spellID=201430, specs={Hunter.BM}, baseCD=180, reqTalents={63}}, -- Stampede\n    {spellID=288613, specs={Hunter.MM}, baseCD=120, version=3}, -- Trueshot\n    {spellID=266779, specs={Hunter.SV}, baseCD=120}, -- Coordinated Assault\n    {spellID=12042, specs={Mage.Arcane}, baseCD=90}, -- Arcane Power\n    {spellID=190319, specs={Mage.Fire}, baseCD=120}, -- Combustion\n    {spellID=12472, specs={Mage.Frost}, baseCD=180}, -- Icy Veins\n    {spellID=55342, class=Mage, baseCD=120, reqTalents={32}}, -- Mirror Image\n    {spellID=115080, specs={Monk.WW}, baseCD=120}, -- Touch of Death\n    {spellID=123904, specs={Monk.WW}, baseCD=180, reqTalents={63}}, -- Xuen\n    {spellID=137639, specs={Monk.WW}, baseCD=90, reqTalents={71, 72}}, -- Storm, Earth, and Fire\n    {spellID=152173, specs={Monk.WW}, baseCD=90, reqTalents={73}}, -- Serenity\n    {spellID=31884, specs={Paladin.Ret}, baseCD=120, reqTalents={71,73}}, -- Avenging Wrath\n    {spellID=231895, specs={Paladin.Ret}, baseCD=120, reqTalents={72}}, -- Crusade\n    {spellID=280711, specs={Priest.Shadow}, baseCD=60, reqTalents={72}}, -- Dark Ascension\n    {spellID=193223, specs={Priest.Shadow}, baseCD=180, reqTalents={73}}, -- Surrender to Madness\n    {spellID=79140, specs={Rogue.Sin}, baseCD=120}, -- Vendetta\n    {spellID=121471, specs={Rogue.Sub}, baseCD=180}, -- Shadow Blades\n    {spellID=13750, specs={Rogue.Outlaw}, baseCD=180}, -- Adrenaline Rush\n    {spellID=51690, specs={Rogue.Outlaw}, baseCD=120, reqTalents={73}}, -- Killing Spree\n    {spellID=114050, specs={Shaman.Ele}, baseCD=180, reqTalents={73}}, -- Ascendance\n    {spellID=192249, specs={Shaman.Ele}, baseCD=150, reqTalents={42}, version=3}, -- Storm Elemental\n    {spellID=191634, specs={Shaman.Ele}, baseCD=60, reqTalents={72}, version=3}, -- Stormkeeper\n    {spellID=114051, specs={Shaman.Enh}, baseCD=180, reqTalents={73}}, -- Ascendance\n    {spellID=205180, specs={Warlock.Affl}, baseCD=180}, -- Summon Darkglare\n    {spellID=113860, specs={Warlock.Affl}, baseCD=120, reqTalents={73}}, -- Dark Soul: Misery\n    {spellID=265187, specs={Warlock.Demo}, baseCD=90}, -- Summon Demonic Tyrant\n    {spellID=267217, specs={Warlock.Demo}, baseCD=180, reqTalents={73}}, -- Nether Portal\n    {spellID=113858, specs={Warlock.Destro}, baseCD=120, reqTalents={73}}, -- Dark Soul: Instability\n    {spellID=1122, specs={Warlock.Destro}, baseCD=180}, -- Summon Infernal\n    {spellID=227847, specs={Warrior.Arms}, baseCD=90}, -- Bladestorm\n    {spellID=107574, specs={Warrior.Arms}, baseCD=120, reqTalents={62}}, -- Avatar\n    {spellID=1719, specs={Warrior.Fury}, baseCD=90}, -- Recklessness\n    {spellID=46924, specs={Warrior.Fury}, baseCD=60, reqTalents={63}}, -- Bladestorm\n}\n\nZT.typeToTrackedSpells[\"TANK\"] = {\n    {spellID=49028, specs={DK.Blood}, baseCD=120}, -- Dancing Rune Weapon\n    {spellID=194679, specs={DK.Blood}, baseCD=25, reqTalents={43}}, -- Rune Tap\n    {spellID=194844, specs={DK.Blood}, baseCD=60, reqTalents={73}}, -- Bonestorm\n    {spellID=204021, specs={DH.Veng}, baseCD=60}, -- Fiery Brand\n    {spellID=1160, specs={Warrior.Prot}, baseCD=45}, -- Demoralizing Shout\n}\n\nZT.linkedSpellIDs = {\n    [19647]  = {119910, 132409, 115781}, -- Spell Lock\n    [132469] = {61391}, -- Typhoon\n    [191427] = {200166}, -- Metamorphosis\n    [106898] = {77761, 77764}, -- Stampeding Roar\n    [86659] = {212641}, -- Guardian of the Ancient Kings (+Glyph)\n}\n\nZT.specialLinkedSpellIDs = {\n    [86659] = {212641}, -- Guardian of the Ancient Kings (+Glyph)\n}\n\nZT.specialConfigSpellIDs = {\n    [202719] = \"ArcaneTorrent\",\n    [50613]  = \"ArcaneTorrent\",\n    [80483]  = \"ArcaneTorrent\",\n    [28730]  = \"ArcaneTorrent\",\n    [129597] = \"ArcaneTorrent\",\n    [155145] = \"ArcaneTorrent\",\n    [232633] = \"ArcaneTorrent\",\n    [25046]  = \"ArcaneTorrent\",\n    [28730]  = \"ArcaneTorrent\",\n    [69179]  = \"ArcaneTorrent\",\n    [221562] = \"Asphyxiate\",\n    [108194] = \"Asphyxiate\",\n    [5277]   = \"Evasion/Riposte\",\n    [199754] = \"Evasion/Riposte\",\n}\n\n-- Adding custom spells from the user to the table\nlocal spellConfigFuncHeader = \"return function(DK,DH,Druid,Hunter,Mage,Monk,Paladin,Priest,Rogue,Shaman,Warlock,Warrior,StaticMod,DynamicMod,EventDeltaMod,CastDeltaMod,EventRemainingMod,CastRemainingMod,DispelMod)\"\n\nlocal function trim(s) -- From PiL2 20.4\n  return (s:gsub(\"^%s*(.-)%s*$\", \"%1\"))\nend\n\nlocal function addCustomSpell(spellConfig, i)\n    if not spellConfig or type(spellConfig) ~= \"table\" then\n        print(\"[ZT] Custom Spell\", i, \"is not represented as a valid table\")\n        return\n    end\n\n    if type(spellConfig.type) ~= \"string\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'type' entry\")\n        return\n    end\n\n    if type(spellConfig.spellID) ~= \"number\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'spellID' entry\")\n        return\n    end\n\n    if type(spellConfig.baseCD) ~= \"number\" then\n        print(\"[ZT] Custom Spell\", i, \"does not have a valid 'baseCD' entry\")\n        return\n    end\n\n    spellConfig.version = 10000\n    spellConfig.isCustom = true\n\n    local spells = ZT.typeToTrackedSpells[spellConfig.type]\n    spells[#spells + 1] = spellConfig\nend\n\nfor i = 1,11 do\n    local spellConfig = ZT.config[\"custom\"..i]\n    if spellConfig then\n        spellConfig = trim(spellConfig)\n    end\n\n    if spellConfig and spellConfig ~= \"\" then\n        local spellConfigFuncStr = spellConfigFuncHeader..\" return \"..spellConfig..\" end\"\n        local spellConfigFunc = WeakAuras.LoadFunction(spellConfigFuncStr, \"ZenTracker Custom Spell \"..i)\n        if spellConfigFunc then\n            local spellConfig = spellConfigFunc(DK,DH,Druid,Hunter,Mage,Monk,Paladin,Priest,Rogue,Shaman,Warlock,Warrior,\n                StaticMod,DynamicMod,EventDeltaMod,CastDeltaMod,EventRemainingMod,CastRemainingMod,DispelMod)\n            addCustomSpell(spellConfig, i)\n        end\n    end\nend\n\n-- Building a complete list of tracked spells\nZT.spellIDToInfo = {}\n\nfor type,spells in pairs(ZT.typeToTrackedSpells) do\n    for _,spellInfo in ipairs(spells) do\n        spellInfo.type = type\n\n        -- If no version, assign version=1\n        if not spellInfo.version then\n            spellInfo.version = 1\n        end\n        \n        -- Creating a lookup map from list of valid specs\n        if spellInfo.specs then\n            local specsMap = {}\n            for _,specID in ipairs(spellInfo.specs) do\n                specsMap[specID] = true\n            end\n            spellInfo.specs = specsMap\n        end\n        \n        -- Placing single modifiers inside of a table (or creating an empty table if none)\n        if spellInfo.mods then\n            if spellInfo.mods.type then\n                spellInfo.mods = { spellInfo.mods }\n            end\n        else\n            spellInfo.mods = {}\n        end\n        \n        -- Placing single talent modifiers inside of a table (or creating an empty table if none)\n        if spellInfo.modTalents then\n            for talent,modifiers in pairs(spellInfo.modTalents) do\n                if modifiers.type then\n                    spellInfo.modTalents[talent] = { modifiers }\n                end\n            end\n        else\n            spellInfo.modTalents = {}\n        end\n        \n        local spellID = spellInfo.spellID\n        local allSpellInfo = ZT.spellIDToInfo[spellID]\n        if not allSpellInfo then\n            -- Checking if this spellID is blacklisted or whitelisted\n            local isBlacklisted = ZT.config[\"spell\"..spellID]\n            if isBlacklisted == nil then\n                local configSpellID = ZT.specialConfigSpellIDs[spellID]\n                if configSpellID then\n                    isBlacklisted = ZT.config[\"spell\"..configSpellID]\n                else\n                    isBlacklisted = (ZT.config[\"spellConfigType\"] == 2) -- If not in config, ignore whitelist/blacklist\n                    if not spellInfo.isCustom then\n                        print(\"[ZT] Config not present for spellID\", spellID)\n                    end\n                end\n            end\n            if ZT.config[\"spellConfigType\"] == 2 then\n                isBlacklisted = not isBlacklisted\n            end\n            \n            allSpellInfo = {\n                type = type,\n                variants = { spellInfo },\n                isBlacklisted = isBlacklisted,\n            }\n            ZT.spellIDToInfo[spellID] = allSpellInfo\n        else\n            local variants = allSpellInfo.variants\n            variants[#variants+1] = spellInfo\n        end\n    end\nend\n\n--------------------------------------------------------------------------------\n-- END TRACKED SPELLS\n--------------------------------------------------------------------------------\n\n-- Handling the sending of events to the front-end WAs\nlocal function sendFrontEndTrigger(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_TRIGGER\", watchInfo.spellInfo.type, watchInfo.watchID, watchInfo.duration, watchInfo.expiration)\n    end\n    WeakAuras.ScanEvents(\"ZT_TRIGGER\", watchInfo.spellInfo.type, watchInfo.watchID, watchInfo.duration, watchInfo.expiration)\nend\n\nlocal function sendFrontEndAdd(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    local spellInfo = watchInfo.spellInfo\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_ADD\", spellInfo.type, watchInfo.watchID, watchInfo.member.name, spellInfo.spellID)\n    end\n    WeakAuras.ScanEvents(\"ZT_ADD\", spellInfo.type, watchInfo.watchID, watchInfo.member, spellInfo.spellID)\n    \n    if watchInfo.expiration > GetTime() then\n        sendFrontEndTrigger(watchInfo)\n    end\nend\n\nlocal function sendFrontEndRemove(watchInfo)\n    if watchInfo.isHidden then\n        return\n    end\n    if ZT.DEBUG_EVENTS then\n        print(\"[ZT] Sending ZT_REMOVE\", watchInfo.spellInfo.type, watchInfo.watchID)\n    end\n    WeakAuras.ScanEvents(\"ZT_REMOVE\", watchInfo.spellInfo.type, watchInfo.watchID)\nend\n\n-- Handling combatlog and WeakAura events by invoking specified handler functions\nZT.eventHandlers = {}\n\nfunction ZT:addEventHandler(type, spellID, sourceGUID, handler, data)\n    local types = self.eventHandlers[spellID]\n    if not types then\n        types = {}\n        self.eventHandlers[spellID] = types\n    end\n    \n    local sources = types[type]\n    if not sources then\n        sources = {}\n        types[type] = sources\n    end\n    \n    local handlers = sources[sourceGUID]\n    if not handlers then\n        handlers = {}\n        sources[sourceGUID] = handlers\n    end\n    \n    handlers[handler] = data\nend\n\nfunction ZT:removeEventHandler(type, spellID, sourceGUID, handler)\n    local types = self.eventHandlers[spellID]\n    if types then\n        local sources = types[type]\n        if sources then\n            local handlers = sources[sourceGUID]\n            if handlers then\n                handlers[handler] = nil\n            end\n        end\n    end\nend\n\nfunction ZT:removeAllEventHandlers(sourceGUID)\n    for _,spells in pairs(self.eventHandlers) do\n        for _,sources in pairs(spells) do\n            for GUID,handlers in pairs(sources) do\n                if GUID == sourceGUID then\n                    wipe(handlers)\n                end\n            end\n        end\n    end\nend\n\nlocal function fixSourceGUID(sourceGUID) -- Based on https://wago.io/p/Nnogga\n    local type = strsplit(\"-\",sourceGUID)\n    if type == \"Pet\" then\n        for unit in WA_IterateGroupMembers() do\n            if UnitGUID(unit..\"pet\") == sourceGUID then\n                sourceGUID = UnitGUID(unit)\n                break\n            end\n        end\n    end\n    \n    return sourceGUID\nend\n\nfunction ZT:handleEvent(type, spellID, sourceGUID)\n    local types = self.eventHandlers[spellID]\n    if not types then\n        return\n    end\n    \n    local sources = types[type]\n    if not sources then\n        return\n    end\n    \n    local handlers = sources[sourceGUID]\n    if not handlers then\n        sourceGUID = fixSourceGUID(sourceGUID)\n        handlers = sources[sourceGUID]\n        if not handlers then\n            return\n        end\n    end\n    \n    for handler,data in pairs(handlers) do\n        handler(data)\n    end\nend\n\n-- Managing the set of (spellID,sourceGUID) pairs that are being watched\nZT.nextWatchID = 1\nZT.watching = {}\n\nlocal function WatchInfo_startCooldown(self)\n    self.expiration = GetTime() + self.duration\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_updateDelta(self, delta)\n    self.expiration = self.expiration + delta\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_updateRemaining(self, remaining)\n    self.expiration = GetTime() + remaining\n    sendFrontEndTrigger(self)\nend\n\nlocal function WatchInfo_update(self, ignoreIfReady, ignoreRateLimit)\n    local startTime, duration, enabled = GetSpellCooldown(self.spellInfo.spellID)\n    if enabled ~= 0 then\n        if startTime ~= 0 then\n            self.duration = duration\n            self.expiration = startTime + duration\n        else\n            self.expiration = GetTime()\n        end\n        \n        if (not ignoreIfReady) or (startTime ~= 0) then\n            sendFrontEndTrigger(self)\n            ZT:sendCDUpdate(self, ignoreRateLimit)\n        end\n    end\nend\n\nlocal function WatchInfo_handleStarted(self)\n    WatchInfo_update(self, false, true)\nend\n\nlocal function WatchInfo_handleChanged(self)\n    WatchInfo_update(self, false, false)\nend\n\nlocal function WatchInfo_handleReady(self)\n    self.expiration = GetTime()\n    sendFrontEndTrigger(self)\n    ZT:sendCDUpdate(self, true)\nend\n\nlocal function WatchInfo_hide(self)\n    sendFrontEndRemove(self)\n    self.isHidden = true\nend\n\nlocal function WatchInfo_unhide(self)\n    self.isHidden = false\n    sendFrontEndAdd(self)\nend\n\nfunction ZT:togglePlayerHandlers(watchInfo, enable)\n    local spellID = watchInfo.spellInfo.spellID\n    local toggleEventHandler = enable and self.addEventHandler or self.removeEventHandler\n    \n    if enable then\n        WeakAuras.WatchSpellCooldown(spellID)\n    end\n    toggleEventHandler(self, \"SPELL_COOLDOWN_STARTED\", spellID, 0, WatchInfo_handleStarted, watchInfo)\n    toggleEventHandler(self, \"SPELL_COOLDOWN_CHANGED\", spellID, 0, WatchInfo_handleChanged, watchInfo)\n    toggleEventHandler(self, \"SPELL_COOLDOWN_READY\", spellID, 0, WatchInfo_handleReady, watchInfo)\n\n    local links = self.specialLinkedSpellIDs[spellID]\n    if links then\n        for _,linkedSpellID in ipairs(links) do\n          if enable then\n              WeakAuras.WatchSpellCooldown(linkedSpellID)\n          end\n          toggleEventHandler(self, \"SPELL_COOLDOWN_STARTED\", linkedSpellID, 0, WatchInfo_handleStarted, watchInfo)\n          toggleEventHandler(self, \"SPELL_COOLDOWN_CHANGED\", linkedSpellID, 0, WatchInfo_handleChanged, watchInfo)\n          toggleEventHandler(self, \"SPELL_COOLDOWN_READY\", linkedSpellID, 0, WatchInfo_handleReady, watchInfo)\n        end\n    end\nend\n\nfunction ZT:toggleCombatLogHandlers(watchInfo, enable, specInfo)\n    local spellInfo = watchInfo.spellInfo\n    local spellID = spellInfo.spellID\n    local member = watchInfo.member\n    local toggleEventHandler = enable and self.addEventHandler or self.removeEventHandler\n    \n    if not spellInfo.ignoreCast then\n        toggleEventHandler(self, \"SPELL_CAST_SUCCESS\", spellID, member.GUID, WatchInfo_startCooldown, watchInfo)\n        \n        local links = self.linkedSpellIDs[spellID]\n        if links then\n            for _,linkedSpellID in ipairs(links) do\n                toggleEventHandler(self, \"SPELL_CAST_SUCCESS\", linkedSpellID, member.GUID, WatchInfo_startCooldown, watchInfo)\n            end\n        end\n    end\n    \n    for _,modifier in pairs(spellInfo.mods) do\n        if modifier.type == \"Dynamic\" then\n            for _,handlerInfo in ipairs(modifier.handlers) do\n                toggleEventHandler(self, handlerInfo.type, handlerInfo.spellID, member.GUID, handlerInfo.handler, watchInfo)\n            end\n        end\n    end\n    \n    for talent, modifiers in pairs(spellInfo.modTalents) do\n        if specInfo.talentsMap[talent] then\n            for _, modifier in pairs(modifiers) do\n                if modifier.type == \"Dynamic\" then\n                    for _,handlerInfo in ipairs(modifier.handlers) do\n                        toggleEventHandler(self, handlerInfo.type, handlerInfo.spellID, member.GUID, handlerInfo.handler, watchInfo)\n                    end\n                end\n            end\n        end\n    end\nend\n\nfunction ZT:watch(spellInfo, member, specInfo, isHidden)\n    specInfo = specInfo or member.specInfo\n    \n    local spellID = spellInfo.spellID\n    local spells = self.watching[spellID]\n    if not spells then\n        spells = {}\n        self.watching[spellID] = spells\n    end\n    \n    local watchInfo = spells[member.GUID]\n    local isNew = (watchInfo == nil)\n    \n    if not watchInfo then\n        watchInfo = {\n            watchID = self.nextWatchID,\n            member = member,\n            spellInfo = spellInfo,\n            duration = member:computeCooldown(spellInfo, specInfo),\n            expiration = GetTime(),\n            isHidden = isHidden,\n            startCooldown = WatchInfo_startCooldown,\n            update = WatchInfo_update,\n            updateDelta = WatchInfo_updateDelta,\n            updateRemaining = WatchInfo_updateRemaining,\n        }\n        self.nextWatchID = self.nextWatchID + 1\n        \n        spells[member.GUID] = watchInfo\n        member.watching[spellID] = watchInfo\n        \n        sendFrontEndAdd(watchInfo)\n    else\n        watchInfo.spellInfo = spellInfo\n        watchInfo.duration = member:computeCooldown(spellInfo, specInfo)\n        \n        if watchInfo.isHidden and not isHidden then\n            WatchInfo_unhide(watchInfo)\n        end\n    end\n    \n    if member.isPlayer then\n        watchInfo:update(true)\n    end\n    \n    if member.isPlayer then\n        if isNew then\n            self:togglePlayerHandlers(watchInfo, true)\n        end\n    elseif member.tracking == \"CombatLog\" or (member.tracking == \"Sharing\" and member.spellsVersion < spellInfo.version) then\n        if isNew then\n            self:toggleCombatLogHandlers(watchInfo, true, specInfo)\n        else\n            self:toggleCombatLogHandlers(watchInfo, false, member.specInfo)\n            self:toggleCombatLogHandlers(watchInfo, true, specInfo)\n        end\n    end\nend\n\nfunction ZT:unwatch(spellInfo, member, specInfo, keepHidden)\n    local spellID = spellInfo.spellID\n    local sources = self.watching[spellID]\n    if not sources then\n        return\n    end\n    \n    local watchInfo = sources[member.GUID]\n    if watchInfo then\n        if member.isPlayer then\n            if keepHidden then\n                WatchInfo_hide(watchInfo)\n                return\n            end\n            \n            self:togglePlayerHandlers(watchInfo, false)\n        elseif member.tracking == \"CombatLog\"  or (member.tracking == \"Sharing\" and member.spellsVersion < spellInfo.version) then\n            self:toggleCombatLogHandlers(watchInfo, false, specInfo or member.specInfo)\n        end\n        \n        self.watching[spellInfo.spellID][member.GUID] = nil\n        member.watching[spellID] = nil\n        \n        sendFrontEndRemove(watchInfo)\n    end\nend\n\n-- Tracking types registered by front-end WAs\nZT.registration = {}\n\nfunction ZT:isTypeRegistered(type)\n    return self.registration[type] and (next(self.registration[type], nil) ~= nil)\nend\n\nfunction ZT:rebroadcast(type)\n    for _,sources in pairs(self.watching) do\n        for _,watchInfo in pairs(sources) do\n            if (watchInfo.spellInfo.type == type) then\n                sendFrontEndAdd(watchInfo)\n            end\n        end\n    end\nend\n\nfunction ZT:registerFrontEnd(type, frontendID)\n    local frontends = self.registration[type]\n    if not frontends then\n        frontends = {}\n        self.registration[type] = frontends\n    end\n    \n    if not frontends[frontendID] then\n        local typeWasRegistered = self:isTypeRegistered(type)\n        self.registration[type][frontendID] = true\n        \n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_REGISTER\", type, frontendID, \" -> New\", typeWasRegistered and \"(Type Registered)\" or \"(Type Unregistered)\")\n        end\n        \n        if typeWasRegistered then\n            self:rebroadcast(type)\n        else\n            for _,member in pairs(self.members) do\n                if (not member.isPlayer) or (self.config[\"my\"..type]) then\n                    for _,allSpellInfo in pairs(self.spellIDToInfo) do\n                        if (not allSpellInfo.isBlacklisted) and (type == allSpellInfo.type) then\n                            for _,spellInfo in pairs(allSpellInfo.variants) do\n                                if member:checkSpellRequirements(spellInfo) then\n                                    self:watch(spellInfo, member, member.specInfo, member.isHidden)\n                                    break\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    else\n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_REGISTER\", type, frontendID, \" -> Existing\")\n        end\n        \n        self:rebroadcast(type)\n    end\nend\n\nfunction ZT:unregisterFrontEnd(type, frontendID)\n    self.registration[type][frontendID] = nil\n    \n    if not self:isTypeRegistered(type) then\n        if self.DEBUG_EVENTS then\n            print(\"[ZT] Received ZT_UNREGISTER\", type)\n        end\n        \n        for _,member in pairs(self.members) do\n            for spellID,watchInfo in pairs(member.watching) do\n                local spellInfo = watchInfo.spellInfo\n                if spellInfo.type == type then\n                    self:unwatch(spellInfo, member, member.specInfo, true)\n                end\n            end\n        end\n    end\nend\n\n-- Utility functions for operating over all spells available for a group member\nZT.members = {}\nZT.inEncounter = false\n\nlocal function Member_checkSpellRequirements(self, spellInfo, specInfo)\n    if not specInfo then\n        specInfo = self.specInfo\n    end\n    \n    if spellInfo.race and spellInfo.race ~= self.race then\n        return false\n    end\n    if spellInfo.class and spellInfo.class.ID ~= self.classID then\n        return false\n    end\n    if spellInfo.specs and (not specInfo.specID or not spellInfo.specs[specInfo.specID]) then\n        return false\n    end\n    \n    if spellInfo.reqTalents then\n        local talented = false\n        for _,t in ipairs(spellInfo.reqTalents) do\n            if specInfo.talentsMap[t] then\n                talented = true\n                break\n            end\n        end\n        \n        if not talented then\n            return false\n        end\n    end\n    \n    return true\nend\n\nlocal function Member_computeCooldown(self, spellInfo, specInfo)\n    if not specInfo then\n        specInfo = self.specInfo\n    end\n    \n    local cooldown = spellInfo.baseCD\n    if spellInfo.modTalents then\n        for talent,modifiers in pairs(spellInfo.modTalents) do\n            if specInfo.talentsMap[talent] then\n                for _,modifier in ipairs(modifiers) do\n                    if modifier.type == \"Static\" then\n                        if modifier.sub then\n                            cooldown = cooldown - modifier.sub\n                        elseif modifier.mul then\n                            cooldown = cooldown * modifier.mul\n                        end\n                    end\n                end\n            end\n        end\n    end\n    \n    return cooldown\nend\n\nlocal function Member_hide(self)\n    if not self.isHidden and not self.isPlayer then\n        self.isHidden = true\n        for _,watchInfo in pairs(self.watching) do\n            WatchInfo_hide(watchInfo)\n        end\n    end\nend\n\nlocal function Member_unhide(self)\n    if self.isHidden and not self.isPlayer then\n        self.isHidden = false\n        for _,watchInfo in pairs(self.watching) do\n            WatchInfo_unhide(watchInfo)\n        end\n    end\nend\n\nfunction ZT:addOrUpdateMember(memberInfo)\n    local member = self.members[memberInfo.GUID]\n    if not member then\n        member = memberInfo\n        member.watching = {}\n        member.tracking = member.tracking and member.tracking or \"CombatLog\"\n        member.isPlayer = (member.GUID == UnitGUID(\"player\"))\n        member.isHidden = (not member.isPlayer and self.inEncounter)\n        member.isReady = false\n        member.checkSpellRequirements = Member_checkSpellRequirements\n        member.computeCooldown = Member_computeCooldown\n        self.members[memberInfo.GUID] = member\n    end\n    \n    -- Gathering all necessary information about the member (if we don't have it already)\n    local justBecameReady = false\n    if not member.isReady then\n        local _,className,_,race,_,name = GetPlayerInfoByGUID(member.GUID)\n        member.name = name and gsub(name, \"%-[^|]+\", \"\") or nil\n        if self.DEBUG_TRACKING and (member.tracking == \"Sharing\") and member.name then\n            print(\"[ZT]\", member.name, \"is using ZenTracker ( SpellsVersion =\", member.spellsVersion, \")\")\n        end\n        member.class = className and AllClasses[className] or nil\n        member.classID = className and AllClasses[className].ID or nil\n        member.classColor = className and RAID_CLASS_COLORS[className] or nil\n        member.race = race\n        \n        member.isReady = (member.name ~= nil) and (member.classID ~= nil) and (member.race ~= nil)\n        justBecameReady = member.isReady\n    end\n    \n    local specInfo = memberInfo.specInfo\n    \n    -- Update if the member is now ready, or if they swapped specs/talents\n    local needsUpdate = justBecameReady\n    if specInfo.specID and specInfo.talents then\n        if (specInfo.specID ~= member.specInfo.specID) or (specInfo.talents ~= member.specInfo.talents) then\n            needsUpdate = true\n        end\n    end\n    \n    if needsUpdate then\n        -- If we are updating information about the player, send a handshake now\n        if member.isPlayer then\n            self:sendHandshake(specInfo)\n        end\n        \n        -- Watching/Unwatching relevant spell cooldowns\n        for spellID, allSpellInfo in pairs(self.spellIDToInfo) do\n            local isRegistered = self:isTypeRegistered(allSpellInfo.type)\n            local isBlacklisted = allSpellInfo.isBlacklisted\n            local hasSpell = false\n            \n            if member.isPlayer then -- If player, watch all possible spells (but some may be hidden)\n                for _,spellInfo in ipairs(allSpellInfo.variants) do\n                    hasSpell = member:checkSpellRequirements(spellInfo, specInfo)\n                    if hasSpell then\n                        local isHidden = (not isRegistered) or (not self.config[\"my\"..allSpellInfo.type]) or isBlacklisted\n                        self:watch(spellInfo, member, specInfo, isHidden)\n                        break\n                    end\n                end\n            elseif isRegistered and (not isBlacklisted) then -- Otherwise if group member, only watch relevant spells\n                for _,spellInfo in ipairs(allSpellInfo.variants) do\n                    hasSpell = member:checkSpellRequirements(spellInfo, specInfo)\n                    if hasSpell then\n                        self:watch(spellInfo, member, specInfo, member.isHidden)\n                        break\n                    end\n                end\n            end\n            \n            local prevWatchInfo = member.watching[spellID]\n            if not hasSpell and prevWatchInfo then\n                self:unwatch(prevWatchInfo.spellInfo, member)\n            end\n        end\n        \n        member.specInfo = specInfo\n    end\n    \n    -- If tracking changed from \"CombatLog\" to \"Sharing\", remove unnecessary event handlers and send a handshake/updates\n    if (member.tracking == \"CombatLog\") and (memberInfo.tracking == \"Sharing\") then\n        member.tracking = \"Sharing\"\n        member.spellsVersion = memberInfo.spellsVersion\n\n        if self.DEBUG_TRACKING and member.name then\n            print(\"[ZT]\", member.name, \"is using ZenTracker ( SpellsVersion =\", member.spellsVersion, \")\")\n        end\n        \n        for _,watchInfo in pairs(member.watching) do\n            if watchInfo.spellInfo.version <= member.spellsVersion then\n                self:toggleCombatLogHandlers(watchInfo, false, member.specInfo)\n            end\n        end\n\n        self:sendHandshake()\n        local time = GetTime()\n        for _,watchInfo in pairs(self.members[UnitGUID(\"player\")].watching) do\n            if watchInfo.expiration > time then\n                self:sendCDUpdate(watchInfo)\n            end\n        end\n    end\nend\n\nfunction ZT:resetEncounterCDs()\n    for _,member in pairs(self.members) do\n        if not member.isPlayer and member.tracking ~= \"Sharing\" then\n            for _,watchInfo in pairs(member.watching) do\n                if watchInfo.duration >= 180 then\n                    WatchInfo_updateRemaining(watchInfo, 0)\n                end\n            end\n        end\n    end\nend\n\nfunction ZT:startEncounter(event)\n    -- Note: This shouldn't happen, but in case it does...\n    if self.inEncounter then\n        for _,member in pairs(self.members) do\n            Member_unhide(member)\n        end\n    end\n    \n    self.inEncounter = true\n    local _,_,_,instanceID = UnitPosition(\"player\")\n    for _,member in pairs(self.members) do\n        local _,_,_,mInstanceID = UnitPosition(self.inspectLib:GuidToUnit(member.GUID))\n        if mInstanceID ~= instanceID then\n            Member_hide(member)\n        end\n    end\n    \n    if event == \"CHALLENGE_MODE_START\" then\n        self:resetEncounterCDs()\n    end\nend\n\nfunction ZT:endEncounter(event)\n    if self.inEncounter then\n        self.inEncounter = false\n        for _,member in pairs(self.members) do\n            Member_unhide(member)\n        end\n    end\n    \n    if event == \"ENCOUNTER_END\" then\n        self:resetEncounterCDs()\n    end\nend\n\n-- Message Format = <Protocol Version (%d)>:<Message Type (%s)>:<Member GUID (%s)>...\n--   Type = \"H\" (Handshake)\n--     ...:<Spec ID (%d)>:<Talents (%s)>:<IsInitial? (%d) [2]>:<Spells Version (%d) [2]>\n--   Type = \"U\" (CD Update)\n--     ...:<Spell ID (%d)>:<Duration (%f)>:<Remaining (%f)>\n\nZT.protocolVersion = 2\n\nZT.timeBetweenHandshakes = 5 --seconds\nZT.timeOfLastHandshake = 0\nZT.queuedHandshake = false\n\nZT.timeBetweenCDUpdates = 5 --seconds (per spellID)\nZT.timeOfLastCDUpdate = {}\nZT.queuedCDUpdates = {}\n\nlocal function sendMessage(message)\n    if not IsInGroup() and not IsInRaid() then\n        return\n    end\n    \n    if ZT.DEBUG_MESSAGES then\n        print(\"[ZT] Sending Message '\"..message..\"'\")\n    end\n    \n    local channel = IsInGroup(2) and \"INSTANCE_CHAT\" or \"RAID\"\n    C_ChatInfo_SendAddonMessage(\"ZenTracker\", message, channel)\nend\n\nZT.hasSentHandshake = false\nfunction ZT:sendHandshake(specInfo)\n    local time = GetTime()\n    local timeSinceLastHandshake = (time - self.timeOfLastHandshake)\n    if timeSinceLastHandshake < self.timeBetweenHandshakes then\n        if not self.queuedHandshake then\n            self.queuedHandshake = true\n            C_Timer.After(self.timeBetweenHandshakes - timeSinceLastHandshake, function() self:sendHandshake() end)\n        end\n        return\n    end\n    \n    local GUID = UnitGUID(\"player\")\n    specInfo = specInfo or self.members[GUID].specInfo\n    local specID = specInfo.specID or 0\n    local talents = specInfo.talents or \"\"\n    local isInitial = self.hasSentHandshake and 0 or 1\n    local message = string.format(\"%d:H:%s:%d:%s:%d:%d\", self.protocolVersion, GUID, specID, talents, isInitial, self.spellsVersion)\n    sendMessage(message)\n    \n    self.timeOfLastHandshake = time\n    self.queuedHandshake = false\n    self.hasSentHandshake = true\nend\n\nfunction ZT:sendCDUpdate(watchInfo, ignoreRateLimit, wasQueued)\n    local spellID = watchInfo.spellInfo.spellID\n    local time = GetTime()\n    local remaining = watchInfo.expiration - time\n    if remaining < 0 then\n        remaining = 0\n    end\n    \n    if not ignoreRateLimit then\n        local isQueued = self.queuedCDUpdates[spellID]\n        if wasQueued then\n            if not isQueued then\n                return -- Ignore since an update occured while this update was queued\n            end\n        else\n            if isQueued then\n                return -- Ignore since an update is already queued\n            else\n                local timeOfLastCDUpdate = self.timeOfLastCDUpdate[spellID]\n                if timeOfLastCDUpdate then\n                    local timeSinceLastCDUpdate = (time - self.timeOfLastCDUpdate[spellID])\n                    if timeSinceLastCDUpdate < self.timeBetweenCDUpdates then\n                        self.queuedCDUpdates[spellID] = true\n                        C_Timer.After(self.timeBetweenCDUpdates - timeSinceLastCDUpdate, function() self:sendCDUpdate(watchInfo, false, true) end)\n                        return -- Ignore since an update has now been queued\n                    end\n                end\n            end\n        end\n    end\n    \n    local GUID = watchInfo.member.GUID\n    local duration = watchInfo.duration\n    local message = string.format(\"%d:U:%s:%d:%0.2f:%0.2f\", self.protocolVersion, GUID, spellID, duration, remaining)\n    sendMessage(message)\n    \n    self.timeOfLastCDUpdate[spellID] = time\n    self.queuedCDUpdates[spellID] = false\nend\n\nfunction ZT:handleHandshake(mGUID, specID, talents, isInitial, spellsVersion)\n    specID = tonumber(specID)\n    if specID == 0 then\n        specID = nil\n    end\n    \n    local talentsMap = {}\n    if talents ~= \"\" then\n        for index in talents:gmatch(\"%d%d\") do\n            index = tonumber(index)\n            talentsMap[index] = true\n        end\n    else\n        talents = nil\n    end\n\n    -- Protocol V2: Assume false if not present\n    if isInitial == \"1\" then\n        isInitial = true\n    else\n        isInitial = false\n    end\n\n    -- Protocol V2: Assume spellsVersion is 1 if not present\n    if spellsVersion then\n        spellsVersion = tonumber(spellsVersion)\n        if not spellsVersion then\n            spellsVersion = 1\n        end\n    else\n        spellsVersion = 1\n    end\n    \n    local memberInfo = {\n        GUID = mGUID,\n        specInfo = {\n            specID = specID,\n            talents = talents,\n            talentsMap = talentsMap,\n        },\n        tracking = \"Sharing\",\n        spellsVersion = spellsVersion,\n    }\n    \n    self:addOrUpdateMember(memberInfo)\n    if isInitial then\n        self:sendHandshake()\n    end\nend\n\nfunction ZT:handleCDUpdate(mGUID, spellID, duration, remaining)\n    local member = self.members[mGUID]\n    if not member or not member.isReady then\n        return\n    end\n    \n    spellID = tonumber(spellID)\n    duration = tonumber(duration)\n    remaining = tonumber(remaining)\n    if not spellID or not duration or not remaining then\n        return\n    end\n    \n    local sources = self.watching[spellID]\n    if sources then\n        local watchInfo = sources[member.GUID]\n        if not watchInfo then\n            return\n        end\n        \n        watchInfo.duration = duration\n        watchInfo:updateRemaining(remaining)\n    end\nend\n\nfunction ZT:handleMessage(message)\n    local protocolVersion, type, mGUID, arg1, arg2, arg3, arg4, arg5 = strsplit(\":\", message)\n    protocolVersion = tonumber(protocolVersion)\n    \n    -- Ignore any messages sent by the player\n    if mGUID == UnitGUID(\"player\") then\n        return\n    end\n    \n    if ZT.DEBUG_MESSAGES then\n        print(\"[ZT] Received Message '\"..message..\"'\")\n    end\n    \n    if type == \"H\" then     -- Handshake\n        self:handleHandshake(mGUID, arg1, arg2, arg3, arg4, arg5)\n    elseif type == \"U\" then -- CD Update\n        self:handleCDUpdate(mGUID, arg1, arg2, arg3, arg4, arg5)\n    else\n        return\n    end\nend\n\nif not C_ChatInfo.RegisterAddonMessagePrefix(\"ZenTracker\") then\n    print(\"[ZT] Error: Could not register addon message prefix. Defaulting to local-only cooldown tracking.\")\nend\n\n-- Callback functions for libGroupInspecT for updating/removing members\nfunction ZT:libInspectUpdate(event, GUID, unit, info)\n    local specID = info.global_spec_id\n    if specID == 0 then\n        specID = nil\n    end\n    \n    local talents = nil\n    local talentsMap = {}\n    if info.talents then\n        for _,talentInfo in pairs(info.talents) do\n            local index = (talentInfo.tier * 10) + talentInfo.column\n            if not talents then\n                talents = \"\"..index\n            else\n                talents = talents..\",\"..index\n            end\n            \n            talentsMap[index] = true\n        end\n    end\n    \n    local memberInfo = {\n        GUID = GUID,\n        specInfo = {\n            specID = specID,\n            talents = talents,\n            talentsMap = talentsMap,\n        },\n    }\n    \n    self:addOrUpdateMember(memberInfo)\nend\n\nfunction ZT:libInspectRemove(event, GUID)\n    local member = self.members[GUID]\n    if not member then\n        return\n    end\n    \n    for _,watchInfo in pairs(member.watching) do\n        self:unwatch(watchInfo.spellInfo, member)\n    end\n    self.members[GUID] = nil\nend\n\nZT.inspectLib = LibStub:GetLibrary(\"LibGroupInSpecT-1.1\",true)\n\nif ZT.inspectLib then\n    WeakAurasSaved[\"ZenTracker_AuraEnv\"] = nil -- Flushing out past garbage :)\n    \n    if _G[\"ZenTracker_AuraEnv\"] then\n        ZT.inspectLib.UnregisterAllCallbacks(_G[\"ZenTracker_AuraEnv\"])\n    end\n    _G[\"ZenTracker_AuraEnv\"] = ZT\n    \n    ZT.inspectLib.RegisterCallback(ZT, \"GroupInSpecT_Update\", \"libInspectUpdate\")\n    ZT.inspectLib.RegisterCallback(ZT, \"GroupInSpecT_Remove\", \"libInspectRemove\")\n    for unit in WA_IterateGroupMembers() do\n        local GUID = UnitGUID(unit)\n        if GUID then\n            local info = ZT.inspectLib:GetCachedInfo(GUID)\n            if info then\n                ZT:libInspectUpdate(\"Init\", GUID, unit, info)\n            else\n                ZT.inspectLib:Rescan(GUID)\n            end\n        end\n    end\nelse\n    print(\"[ZT] Error: LibGroupInSpecT-1.1 not found\")\nend\n\n",
+					["do_custom"] = true,
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HELPFUL",
+						["genericShowOn"] = "showOnActive",
+						["unit"] = "player",
+						["names"] = {
+						},
+						["custom_type"] = "event",
+						["spellIds"] = {
+						},
+						["event"] = "Health",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["custom"] = "function(event,...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, eventType, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        aura_env:handleEvent(eventType, spellID, sourceGUID)\n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+						["subeventPrefix"] = "SPELL",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["subeventPrefix"] = "SPELL",
+						["type"] = "custom",
+						["events"] = "SPELL_COOLDOWN_STARTED, SPELL_COOLDOWN_CHANGED, SPELL_COOLDOWN_READY",
+						["subeventSuffix"] = "_CAST_START",
+						["custom_type"] = "event",
+						["custom"] = "function (event, id)\n    aura_env:handleEvent(event, id, 0)\nend",
+						["event"] = "Health",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["unevent"] = "auto",
+						["event"] = "Chat Message",
+						["subeventPrefix"] = "SPELL",
+						["events"] = "ENCOUNTER_START,ENCOUNTER_END, CHALLENGE_MODE_START,CHALLENGE_MODE_COMPLETED,PLAYER_ENTERING_WORLD",
+						["custom_type"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["custom"] = "function(event)\n    if event == \"ENCOUNTER_START\" or event == \"ENCOUNTER_END\" then\n        local _,instanceType = IsInInstance()\n        if instanceType ~= \"raid\" then\n            return\n        end\n    end\n    \n    if event == \"ENCOUNTER_START\" or event == \"CHALLENGE_MODE_START\" then\n        aura_env:startEncounter(event)\n    elseif event == \"ENCOUNTER_END\" or event == \"CHALLENGE_MODE_COMPLETED\" or event == \"PLAYER_ENTERING_WORLD\" then\n        aura_env:endEncounter(event)\n    end\nend",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [3]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["use_absorbMode"] = true,
+						["event"] = "Chat Message",
+						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
+						["events"] = "ZT_REGISTER",
+						["custom_type"] = "event",
+						["use_unit"] = true,
+						["custom"] = "function (event, type, frontendID)\n    aura_env:registerFrontEnd(type, frontendID)\nend",
+						["unevent"] = "auto",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [4]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["use_alwaystrue"] = true,
+						["unevent"] = "auto",
+						["use_absorbMode"] = true,
+						["event"] = "Conditions",
+						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function (event, type, frontendID)\n    aura_env:unregisterFrontEnd(type, frontendID)\nend",
+						["subeventSuffix"] = "_CAST_START",
+						["use_unit"] = true,
+						["events"] = "ZT_UNREGISTER",
+						["custom_type"] = "event",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [5]
+				{
+					["trigger"] = {
+						["custom_hide"] = "timed",
+						["type"] = "custom",
+						["events"] = "CHAT_MSG_ADDON",
+						["custom_type"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["custom"] = "function(event,prefix,message,type,sender)\n    if prefix == \"ZenTracker\" then\n        aura_env:handleMessage(message)\n    end\nend",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [6]
+				{
+					["trigger"] = {
+						["subeventPrefix"] = "SPELL",
+						["type"] = "custom",
+						["events"] = "GROUP_JOINED",
+						["subeventSuffix"] = "_CAST_START",
+						["custom_type"] = "event",
+						["custom"] = "function()\n    aura_env:sendHandshake()\nend",
+						["event"] = "Health",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [7]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 11,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["font"] = "Friz Quadrata TT",
+			["version"] = 49,
+			["height"] = 12.000001907349,
+			["load"] = {
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["use_never"] = false,
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["single"] = "group",
+					["multi"] = {
+						["group"] = true,
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["affixes"] = {
+					["multi"] = {
+					},
+				},
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["fontSize"] = 12,
+			["regionType"] = "text",
+			["config"] = {
+				["spell280711"] = false,
+				["spellArcaneTorrent"] = false,
+				["custom4"] = "",
+				["spell114051"] = false,
+				["spell64044"] = false,
+				["spell46924"] = false,
+				["spell191427"] = false,
+				["spell108199"] = false,
+				["spell107570"] = false,
+				["spell86659"] = false,
+				["spell740"] = false,
+				["spell196555"] = false,
+				["spell64843"] = false,
+				["spell265187"] = false,
+				["custom6"] = "",
+				["spell106839"] = false,
+				["spell109248"] = false,
+				["spell31661"] = false,
+				["spell79140"] = false,
+				["spell235219"] = false,
+				["spell57994"] = false,
+				["spell55342"] = false,
+				["spell198589"] = false,
+				["spell187707"] = false,
+				["myDAMAGE"] = true,
+				["spell1719"] = false,
+				["spell206491"] = false,
+				["myIMMUNITY"] = true,
+				["spell217832"] = false,
+				["custom5"] = "",
+				["spellEvasion/Riposte"] = false,
+				["spell198838"] = false,
+				["spell122470"] = false,
+				["spell267217"] = false,
+				["spell633"] = false,
+				["spell105809"] = false,
+				["spell194223"] = false,
+				["spell207289"] = false,
+				["spell200183"] = false,
+				["spell118038"] = false,
+				["spell30283"] = false,
+				["spell853"] = false,
+				["spell179057"] = false,
+				["spell47788"] = false,
+				["spell116705"] = false,
+				["spell186265"] = false,
+				["spell98008"] = false,
+				["spell46968"] = false,
+				["spell255654"] = false,
+				["spell5211"] = false,
+				["spell152279"] = false,
+				["spell102359"] = false,
+				["spell207399"] = false,
+				["spell192058"] = false,
+				["myDEFMDISPEL"] = true,
+				["spell207684"] = false,
+				["spell122278"] = false,
+				["spell1022"] = false,
+				["spell642"] = false,
+				["spell47585"] = false,
+				["spell12975"] = false,
+				["spell191634"] = false,
+				["spell137639"] = false,
+				["spell31884"] = false,
+				["spell211881"] = false,
+				["spell31821"] = false,
+				["spell116844"] = false,
+				["spell48707"] = false,
+				["myUTILITY"] = true,
+				["spell45438"] = false,
+				["spell19236"] = false,
+				["spell42650"] = false,
+				["spell1122"] = false,
+				["spell6940"] = false,
+				["spell102560"] = false,
+				["spell13750"] = false,
+				["spell19574"] = false,
+				["myPERSONAL"] = true,
+				["spell97462"] = false,
+				["spell12042"] = false,
+				["spell31850"] = false,
+				["spell15286"] = false,
+				["spell266779"] = false,
+				["custom8"] = "",
+				["spell102342"] = false,
+				["spell114052"] = false,
+				["spell55233"] = false,
+				["mySTHARDCC"] = true,
+				["spell49028"] = false,
+				["spell202138"] = false,
+				["spell115750"] = false,
+				["spell184662"] = false,
+				["spell115176"] = false,
+				["spell62618"] = false,
+				["myEXTERNAL"] = true,
+				["spell201430"] = false,
+				["spell210191"] = false,
+				["spell204263"] = false,
+				["spell91802"] = false,
+				["spell108271"] = false,
+				["spell246287"] = false,
+				["spell22812"] = false,
+				["spell236748"] = false,
+				["spell109304"] = false,
+				["spell116849"] = false,
+				["spell1160"] = false,
+				["spell187650"] = false,
+				["myINTERRUPT"] = true,
+				["mySTSOFTCC"] = true,
+				["spell243435"] = false,
+				["myHEALING"] = true,
+				["spell115450"] = false,
+				["spell123904"] = false,
+				["spell104773"] = false,
+				["spell114018"] = false,
+				["spell51690"] = false,
+				["spell190319"] = false,
+				["spell58984"] = false,
+				["spell279302"] = false,
+				["spell73325"] = false,
+				["spell205636"] = false,
+				["custom9"] = "",
+				["spell48792"] = false,
+				["spell204018"] = false,
+				["spell6552"] = false,
+				["spell33206"] = false,
+				["spell2139"] = false,
+				["spell4987"] = false,
+				["myTANK"] = true,
+				["spellAsphyxiate"] = false,
+				["spell114050"] = false,
+				["spell498"] = false,
+				["spell19647"] = false,
+				["spell271466"] = false,
+				["spell96231"] = false,
+				["spell198103"] = false,
+				["spell15487"] = false,
+				["custom7"] = "",
+				["spell121471"] = false,
+				["spell8122"] = false,
+				["spell1766"] = false,
+				["spell193223"] = false,
+				["spell64901"] = false,
+				["myDISPEL"] = true,
+				["spell106898"] = false,
+				["custom10"] = "",
+				["myHARDCC"] = true,
+				["spell184364"] = false,
+				["spell115310"] = false,
+				["spell265202"] = false,
+				["spell192077"] = false,
+				["spell194844"] = false,
+				["spell288613"] = false,
+				["spell107574"] = false,
+				["mySOFTCC"] = true,
+				["custom3"] = "",
+				["spell102543"] = false,
+				["spell49576"] = false,
+				["spell113858"] = false,
+				["spell6789"] = false,
+				["spell227847"] = false,
+				["spell205191"] = false,
+				["spell113860"] = false,
+				["spell202137"] = false,
+				["spell152173"] = false,
+				["spell61336"] = false,
+				["spell205180"] = false,
+				["spell88625"] = false,
+				["spell47528"] = false,
+				["spell527"] = false,
+				["spell192249"] = false,
+				["spell204021"] = false,
+				["spell88423"] = false,
+				["spell78675"] = false,
+				["spell49206"] = false,
+				["spell115203"] = false,
+				["spell132469"] = false,
+				["spell194679"] = false,
+				["spell2094"] = false,
+				["custom2"] = "",
+				["spell12472"] = false,
+				["spell31224"] = false,
+				["spell207167"] = false,
+				["spell187827"] = false,
+				["spell147362"] = false,
+				["spell77130"] = false,
+				["spell119381"] = false,
+				["spell51490"] = false,
+				["spell115078"] = false,
+				["spell115080"] = false,
+				["spell196718"] = false,
+				["spell20549"] = false,
+				["spell216331"] = false,
+				["spell48743"] = false,
+				["spell122783"] = false,
+				["spell102793"] = false,
+				["spell231895"] = false,
+				["spell99"] = false,
+				["spellConfigType"] = 1,
+				["spell29166"] = false,
+				["spell871"] = false,
+				["spell19577"] = false,
+				["spell183752"] = false,
+				["spell47536"] = false,
+				["spell193530"] = false,
+				["spell108280"] = false,
+				["spell106951"] = false,
+				["spell258925"] = false,
+				["custom1"] = "",
+				["spell32375"] = false,
+			},
+			["selfPoint"] = "BOTTOM",
+			["justify"] = "LEFT",
+			["automaticWidth"] = "Auto",
+			["id"] = "ZenTracker (ZT) Main",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["width"] = 6.9999642372131,
+			["fixedWidth"] = 200,
+			["uid"] = "ejYTBRnd5n5",
+			["semver"] = "1.0.3-49",
+			["wordWrap"] = "WordWrap",
+			["conditions"] = {
+			},
+			["anchorFrameType"] = "SCREEN",
+			["xOffset"] = 0,
 		},
 		["09 Arctic Armor"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -21009,14 +21299,14 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["actions"] = {
@@ -21030,7 +21320,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -21052,12 +21342,12 @@ WeakAurasSaved = {
 						["specificUnit"] = "boss1",
 						["useGroup_count"] = false,
 						["use_absorbMode"] = true,
-						["type"] = "aura2",
-						["debuffType"] = "HELPFUL",
-						["custom_type"] = "event",
 						["useName"] = true,
-						["use_debuffClass"] = false,
+						["debuffType"] = "HELPFUL",
 						["subeventSuffix"] = "_CAST_START",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["unevent"] = "auto",
 						["spellIds"] = {
 							288212, -- [1]
 						},
@@ -21068,7 +21358,7 @@ WeakAurasSaved = {
 						["custom_hide"] = "timed",
 						["use_spellId"] = true,
 						["name"] = "Broadside",
-						["unevent"] = "auto",
+						["custom_type"] = "event",
 						["subeventPrefix"] = "SPELL",
 						["combineMatches"] = "showLowest",
 						["unit"] = "boss",
@@ -21122,12 +21412,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1FontFlags"] = "OUTLINE",
@@ -21164,14 +21449,19 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "R3G0ZNfDJTD",
 			["inverse"] = false,
 			["authorOptions"] = {
 			},
 			["displayIcon"] = 135835,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["glow"] = false,
 		},
 		["06 Buster Cannon"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -21198,7 +21488,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Dodge.ogg",
@@ -21252,7 +21542,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["desaturate"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -21267,31 +21557,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownTextEnabled"] = true,
 			["text1FontFlags"] = "OUTLINE",
@@ -21323,10 +21613,10 @@ WeakAurasSaved = {
 			},
 			["uid"] = "79zRTffxGRC",
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 1717108,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["03 Stalking You"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -21378,39 +21668,39 @@ WeakAurasSaved = {
 			["uid"] = "8pyeiwsXDR4",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
+			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text1Containment"] = "OUTSIDE",
 			["actions"] = {
@@ -21486,160 +21776,6 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["glow"] = false,
 		},
-		["09 Glacial Ray"] = {
-			["text2Point"] = "BOTTOMRIGHT",
-			["text1FontSize"] = 16,
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["icon"] = true,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Beam.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_castType"] = true,
-						["spellId"] = 288345,
-						["use_absorbMode"] = true,
-						["use_specific_unit"] = true,
-						["buffShowOn"] = "showOnActive",
-						["type"] = "status",
-						["subeventSuffix"] = "_CAST_START",
-						["subeventPrefix"] = "SPELL",
-						["unit"] = "boss1",
-						["event"] = "Cast",
-						["use_unit"] = true,
-						["castType"] = "cast",
-						["use_spellId"] = true,
-						["spellIds"] = {
-							285215, -- [1]
-						},
-						["unevent"] = "auto",
-						["debuffType"] = "HARMFUL",
-						["name"] = "Glacial Ray",
-						["names"] = {
-							"Chilling Touch", -- [1]
-						},
-						["duration"] = "1",
-					},
-					["untrigger"] = {
-						["unit"] = "boss1",
-						["use_specific_unit"] = true,
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["useglowColor"] = false,
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["conditions"] = {
-			},
-			["xOffset"] = 0,
-			["desaturate"] = false,
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["config"] = {
-			},
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2281",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2Enabled"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 25,
-			["auto"] = false,
-			["text1"] = "Beam",
-			["internalVersion"] = 11,
-			["glow"] = false,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["text1Containment"] = "OUTSIDE",
-			["id"] = "09 Glacial Ray",
-			["text2Font"] = "Arial Narrow",
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
-			["uid"] = "Hg3SYo7I6OL",
-			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = 1698700,
-			["cooldown"] = true,
-			["authorOptions"] = {
-			},
-		},
 		["09 Freezing Blast"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
@@ -21647,12 +21783,13 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["glow"] = false,
-			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["cooldownSwipe"] = true,
+			["glow"] = false,
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["icon"] = true,
+			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -21667,14 +21804,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							285215, -- [1]
-						},
+						["name"] = "Freezing Blast",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
-						["name"] = "Freezing Blast",
+						["spellIds"] = {
+							285215, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -21685,7 +21822,6 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -21704,8 +21840,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["desaturate"] = false,
 			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -21721,31 +21857,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["selfPoint"] = "CENTER",
 			["text2Color"] = {
@@ -21808,7 +21944,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -21863,10 +21999,10 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"284556", -- [1]
 						},
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["matchesShowOn"] = "showAlways",
 						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["names"] = {
 							"Shadow-Touched", -- [1]
 						},
@@ -21930,7 +22066,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -21945,39 +22081,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "OUTSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "OUTSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["animation"] = {
 				["start"] = {
@@ -22014,10 +22150,10 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["uid"] = "M3gx(wUylxL",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["01 Judgment: Righteousness"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -22031,7 +22167,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Switch.ogg",
@@ -22078,14 +22214,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							283598, -- [1]
-						},
+						["name"] = "Judgment: Righteousness",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Wave of Light", -- [1]
 						},
-						["name"] = "Judgment: Righteousness",
+						["spellIds"] = {
+							283598, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -22112,39 +22248,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
@@ -22171,7 +22307,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["displayIcon"] = 135921,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["08 Voltaic Flash"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -22180,11 +22316,13 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Dance.ogg",
@@ -22197,8 +22335,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
-			["icon"] = true,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -22217,8 +22353,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -22234,15 +22370,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -22253,12 +22389,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["selfPoint"] = "CENTER",
 			["text2Color"] = {
@@ -22288,7 +22419,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "5fquK1YFGpB",
 			["inverse"] = false,
 			["triggers"] = {
@@ -22301,24 +22437,24 @@ WeakAurasSaved = {
 							"Searing Waves", -- [1]
 						},
 						["dynamicDuration"] = false,
-						["debuffType"] = "HARMFUL",
+						["custom_hide"] = "timed",
 						["subeventPrefix"] = "SPELL",
 						["type"] = "custom",
 						["custom_type"] = "stateupdate",
-						["subeventSuffix"] = "_CAST_START",
-						["name"] = "Voltaic Flash",
+						["unevent"] = "auto",
 						["spellIds"] = {
 							285280, -- [1]
 						},
+						["name"] = "Voltaic Flash",
 						["event"] = "Chat Message",
 						["buffShowOn"] = "showOnActive",
 						["customDuration"] = "",
 						["use_spellId"] = false,
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284262 and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284262 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284262 and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284262 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["check"] = "event",
-						["unevent"] = "auto",
-						["custom_hide"] = "timed",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HARMFUL",
 						["use_unit"] = true,
 					},
 					["untrigger"] = {
@@ -22332,331 +22468,6 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["xOffset"] = 0,
 		},
-		["07 Death's Door"] = {
-			["text2Point"] = "BOTTOMRIGHT",
-			["text1FontSize"] = 16,
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Debuff.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
-			["useglowColor"] = false,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["useGroup_count"] = false,
-						["use_absorbMode"] = true,
-						["names"] = {
-							"Death's Door", -- [1]
-						},
-						["use_tooltip"] = false,
-						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["unevent"] = "auto",
-						["auranames"] = {
-							"288449", -- [1]
-						},
-						["useName"] = true,
-						["event"] = "Cast",
-						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-							288449, -- [1]
-						},
-						["use_spellId"] = false,
-						["name"] = "Plague of Toads",
-						["use_unit"] = true,
-						["matchesShowOn"] = "showOnActive",
-						["combineMatches"] = "showLowest",
-						["debuffType"] = "HARMFUL",
-						["unit"] = "player",
-					},
-					["untrigger"] = {
-						["unit"] = "player",
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["conditions"] = {
-			},
-			["desaturate"] = false,
-			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["config"] = {
-			},
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2272",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["text2Font"] = "Arial Narrow",
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["frameStrata"] = 1,
-			["cooldownEdge"] = false,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 25,
-			["auto"] = true,
-			["text1"] = "Drops Rift",
-			["xOffset"] = 0,
-			["alpha"] = 1,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["internalVersion"] = 11,
-			["id"] = "07 Death's Door",
-			["glow"] = false,
-			["text2Enabled"] = false,
-			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
-			["uid"] = "s7GIReyd4HT",
-			["inverse"] = false,
-			["authorOptions"] = {
-			},
-			["displayIcon"] = 1802889,
-			["cooldown"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-		},
-		["06 World Enlarger"] = {
-			["text2Point"] = "BOTTOMRIGHT",
-			["text1FontSize"] = 16,
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownEdge"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.spellIDs = {\n    [289537] = true,\n    [286693] = true,\n    [288041] = true,\n}",
-					["do_custom"] = true,
-				},
-			},
-			["useglowColor"] = false,
-			["glow"] = false,
-			["text2Font"] = "Arial Narrow",
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["conditions"] = {
-			},
-			["authorOptions"] = {
-			},
-			["stickyDuration"] = false,
-			["text1Containment"] = "OUTSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["uid"] = "NzRkFvmRmz2",
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2276",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_castType"] = false,
-						["rem"] = "4",
-						["spellId"] = 283606,
-						["group_role"] = "TANK",
-						["use_absorbMode"] = true,
-						["use_unit"] = true,
-						["use_specific_unit"] = true,
-						["subeventPrefix"] = "SPELL",
-						["dynamicDuration"] = true,
-						["remOperator"] = "<=",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_hide"] = "timed",
-						["spellIds"] = {
-							282939, -- [1]
-						},
-						["type"] = "custom",
-						["custom_type"] = "stateupdate",
-						["unevent"] = "auto",
-						["customDuration"] = "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
-						["buffShowOn"] = "showOnActive",
-						["event"] = "Chat Message",
-						["names"] = {
-							"Flames of Punishment", -- [1]
-						},
-						["castType"] = "cast",
-						["use_spellId"] = true,
-						["name"] = "Crush",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if aura_env.spellIDs[spellID]\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if aura_env.spellIDs[spellID] and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["check"] = "event",
-						["debuffType"] = "HARMFUL",
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["unit"] = "boss1",
-					},
-					["untrigger"] = {
-						["use_specific_unit"] = true,
-						["unit"] = "boss1",
-					},
-				}, -- [1]
-				["disjunctive"] = "any",
-				["activeTriggerMode"] = -10,
-			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["frameStrata"] = 1,
-			["selfPoint"] = "CENTER",
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["icon"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 25,
-			["auto"] = false,
-			["text1"] = "Spread",
-			["text2Enabled"] = false,
-			["text1Enabled"] = true,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["internalVersion"] = 11,
-			["id"] = "06 World Enlarger",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
-			["config"] = {
-			},
-			["inverse"] = false,
-			["desaturate"] = false,
-			["displayIcon"] = 667398,
-			["cooldown"] = true,
-			["xOffset"] = 0,
-		},
 		["03 Prismatic Shield"] = {
 			["text2Point"] = "CENTER",
 			["text1FontSize"] = 16,
@@ -22665,12 +22476,14 @@ WeakAurasSaved = {
 			["customText"] = "function() \n    if aura_env.state and aura_env.state.tooltip1 then\n        return AbbreviateNumbers(aura_env.state.tooltip1)\n    end\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -22681,8 +22494,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
-			["icon"] = true,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -22697,26 +22508,26 @@ WeakAurasSaved = {
 						["useGroup_count"] = true,
 						["group_role"] = "TANK",
 						["matchesShowOn"] = "showOnActive",
-						["use_unit"] = true,
 						["names"] = {
 							"Blazing Phoenix", -- [1]
 						},
+						["unit"] = "boss",
 						["subcount"] = true,
 						["use_tooltip"] = false,
 						["buffShowOn"] = "showOnActive",
 						["specificUnit"] = "boss2",
 						["group_count"] = "0",
-						["group_countOperator"] = ">",
+						["debuffType"] = "HELPFUL",
 						["spellIds"] = {
 							282040, -- [1]
 						},
-						["debuffType"] = "HELPFUL",
+						["group_countOperator"] = ">",
 						["auraspellids"] = {
 							"286425", -- [1]
 						},
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
+						["useExactSpellId"] = true,
 						["use_specific_unit"] = true,
 						["fetchTooltip"] = true,
 						["event"] = "Cast",
@@ -22724,10 +22535,10 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["use_spellId"] = true,
 						["name"] = "Fire Shield",
-						["useExactSpellId"] = true,
+						["subeventSuffix"] = "_CAST_START",
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
-						["unit"] = "boss",
+						["use_unit"] = true,
 						["fullscan"] = true,
 					},
 					["untrigger"] = {
@@ -22753,31 +22564,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2266,2285",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownEdge"] = false,
 			["text1FontFlags"] = "OUTLINE",
@@ -22827,22 +22638,187 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 		},
-		["07 Zombie Dust Totem"] = {
+		["06 World Enlarger"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
-			["xOffset"] = 0,
-			["internalVersion"] = 11,
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.spellIDs = {\n    [289537] = true,\n    [286693] = true,\n    [288041] = true,\n}",
+					["do_custom"] = true,
+				},
+			},
+			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["text2Font"] = "Arial Narrow",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["conditions"] = {
+			},
+			["authorOptions"] = {
+			},
+			["stickyDuration"] = false,
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "NzRkFvmRmz2",
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2276",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_castType"] = false,
+						["rem"] = "4",
+						["spellId"] = 283606,
+						["group_role"] = "TANK",
+						["use_absorbMode"] = true,
+						["use_unit"] = true,
+						["use_specific_unit"] = true,
+						["subeventPrefix"] = "SPELL",
+						["dynamicDuration"] = true,
+						["remOperator"] = "<=",
+						["custom_type"] = "stateupdate",
+						["debuffType"] = "HARMFUL",
+						["spellIds"] = {
+							282939, -- [1]
+						},
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
+						["customDuration"] = "function()\n    return aura_env.duration, aura_env.expirationTime\nend",
+						["buffShowOn"] = "showOnActive",
+						["event"] = "Chat Message",
+						["names"] = {
+							"Flames of Punishment", -- [1]
+						},
+						["castType"] = "cast",
+						["use_spellId"] = true,
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["name"] = "Crush",
+						["check"] = "event",
+						["custom_hide"] = "timed",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if aura_env.spellIDs[spellID]\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if aura_env.spellIDs[spellID] and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
+						["unit"] = "boss1",
+					},
+					["untrigger"] = {
+						["use_specific_unit"] = true,
+						["unit"] = "boss1",
+					},
+				}, -- [1]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Arial Narrow",
+			["frameStrata"] = 1,
+			["selfPoint"] = "CENTER",
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["icon"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2FontSize"] = 25,
+			["auto"] = false,
+			["text1"] = "Spread",
+			["text2Enabled"] = false,
+			["text1Enabled"] = true,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["internalVersion"] = 11,
+			["id"] = "06 World Enlarger",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["config"] = {
+			},
+			["inverse"] = false,
+			["text1Containment"] = "OUTSIDE",
+			["displayIcon"] = 667398,
+			["cooldown"] = true,
 			["glow"] = false,
+		},
+		["07 Death's Door"] = {
+			["text2Point"] = "BOTTOMRIGHT",
+			["text1FontSize"] = 16,
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["icon"] = true,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Switch.ogg",
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Debuff.ogg",
 					["do_sound"] = true,
 				},
 				["finish"] = {
@@ -22858,19 +22834,168 @@ WeakAurasSaved = {
 						["useGroup_count"] = false,
 						["use_absorbMode"] = true,
 						["names"] = {
+							"Death's Door", -- [1]
+						},
+						["use_tooltip"] = false,
+						["buffShowOn"] = "showOnActive",
+						["unevent"] = "auto",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["auranames"] = {
+							"288449", -- [1]
+						},
+						["useName"] = true,
+						["event"] = "Cast",
+						["subeventPrefix"] = "SPELL",
+						["name"] = "Plague of Toads",
+						["use_spellId"] = false,
+						["spellIds"] = {
+							288449, -- [1]
+						},
+						["use_unit"] = true,
+						["matchesShowOn"] = "showOnActive",
+						["combineMatches"] = "showLowest",
+						["debuffType"] = "HARMFUL",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+						["unit"] = "player",
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["useglowColor"] = false,
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+			},
+			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["config"] = {
+			},
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text2Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Arial Narrow",
+			["frameStrata"] = 1,
+			["cooldownEdge"] = false,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2FontSize"] = 25,
+			["auto"] = true,
+			["text1"] = "Drops Rift",
+			["xOffset"] = 0,
+			["alpha"] = 1,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["internalVersion"] = 11,
+			["id"] = "07 Death's Door",
+			["glow"] = false,
+			["text2Enabled"] = false,
+			["width"] = 80,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["uid"] = "s7GIReyd4HT",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
+			["displayIcon"] = 1802889,
+			["cooldown"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+		},
+		["07 Zombie Dust Totem"] = {
+			["text2Point"] = "BOTTOMRIGHT",
+			["text1FontSize"] = 16,
+			["xOffset"] = 0,
+			["text1FontFlags"] = "OUTLINE",
+			["useglowColor"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["useGroup_count"] = false,
+						["use_absorbMode"] = true,
+						["names"] = {
 							"Caress of Death", -- [1]
 						},
 						["use_tooltip"] = false,
 						["matchesShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 						["unit"] = "player",
-						["custom_hide"] = "timed",
-						["subeventSuffix"] = "_CAST_START",
 						["debuffType"] = "HARMFUL",
-						["name"] = "Plague of Toads",
-						["type"] = "custom",
-						["use_debuffClass"] = false,
 						["custom_type"] = "event",
+						["custom_hide"] = "timed",
+						["name"] = "Plague of Toads",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
 						["auranames"] = {
 							"286695", -- [1]
 						},
@@ -22881,9 +23006,9 @@ WeakAurasSaved = {
 						["unevent"] = "auto",
 						["buffShowOn"] = "showOnActive",
 						["use_spellId"] = false,
-						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
-						["useName"] = true,
 						["custom"] = "function(event, unit, _,spellID)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then \n        if spellID == 285003 and IsItemInRange(32825, unit)\n        then return true \n        end \n    end \nend",
+						["type"] = "custom",
+						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
 						["combineMatches"] = "showLowest",
 						["duration"] = "2",
 						["use_unit"] = true,
@@ -22896,8 +23021,34 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Switch.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
+			["internalVersion"] = 11,
+			["uid"] = "(4zWCLo50fr",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -22914,21 +23065,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["text1Enabled"] = true,
-			["uid"] = "(4zWCLo50fr",
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["stickyDuration"] = false,
 			["load"] = {
 				["role"] = {
 					["multi"] = {
@@ -22937,15 +23073,15 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -22957,13 +23093,13 @@ WeakAurasSaved = {
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "Pixel",
 			["text1Font"] = "Arial Narrow",
+			["text2Font"] = "Arial Narrow",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["selfPoint"] = "CENTER",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -22971,15 +23107,15 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["desaturate"] = false,
 			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Kill Totem",
 			["text2Enabled"] = false,
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["cooldownEdge"] = false,
 			["id"] = "07 Zombie Dust Totem",
 			["color"] = {
@@ -23027,14 +23163,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["unevent"] = "auto",
 						["use_spellId"] = true,
-						["spellIds"] = {
-							285215, -- [1]
-						},
+						["name"] = "Orb of Frost",
 						["use_absorbMode"] = true,
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
-						["name"] = "Orb of Frost",
+						["spellIds"] = {
+							285215, -- [1]
+						},
 						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 					},
@@ -23087,32 +23223,32 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2281",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
+				["encounterid"] = "2281",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "OUTLINE",
@@ -23147,9 +23283,9 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Soak.ogg",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = true,
 				},
 				["finish"] = {
@@ -23235,7 +23371,7 @@ WeakAurasSaved = {
 			["uid"] = "Jeold5dtui3",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -23243,11 +23379,11 @@ WeakAurasSaved = {
 					["single"] = "Alliance",
 				},
 				["use_faction"] = true,
-				["class"] = {
+				["encounterid"] = "2263,2284",
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2263,2284",
 				["size"] = {
 					["multi"] = {
 					},
@@ -23271,12 +23407,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text2Color"] = {
@@ -23306,7 +23437,12 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -23328,24 +23464,7 @@ WeakAurasSaved = {
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["custom"] = "",
-					["do_sound"] = false,
-					["do_custom"] = false,
-					["sound"] = " custom",
-				},
-				["finish"] = {
-					["do_glow"] = false,
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-				["init"] = {
-					["custom"] = "aura_env.initialCast = 0\naura_env.soakamount = 0",
-					["do_custom"] = true,
-				},
-			},
+			["icon"] = true,
 			["useglowColor"] = false,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1Enabled"] = true,
@@ -23393,15 +23512,15 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -23413,12 +23532,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["xOffset"] = 0,
 			["text2Color"] = {
@@ -23442,7 +23556,12 @@ WeakAurasSaved = {
 			["text1Containment"] = "OUTSIDE",
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -23455,9 +23574,9 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["unit"] = "player",
 						["custom_hide"] = "timed",
+						["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_START\" and spellID == 285017 then\n            if aura_env.initialCast < 4 then\n                aura_env.initialCast = aura_env.initialCast + 1\n            end\n            aura_env.soakamount = aura_env.initialCast\n        end\n        if subEvent == \"SPELL_CAST_START\" and spellID == 285040 then\n            local aura_env = aura_env \n            C_Timer.After(0.1, function() aura_env.soakamount = aura_env.soakamount - 1 PlaySoundFile(\"Interface\\\\AddOns\\\\SharedMedia_Causese\\\\sound\\\\Soak.ogg\", \"MASTER\") end)\n            return true\n        end\n    end\n    if event == \"ENCOUNTER_START\" then\n        aura_env.initialCast = 0\n        aura_env.soakamount = 0\n    end\nend",
 						["spellIds"] = {
 						},
-						["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_START\" and spellID == 285017 then\n            if aura_env.initialCast < 4 then\n                aura_env.initialCast = aura_env.initialCast + 1\n            end\n            aura_env.soakamount = aura_env.initialCast\n        end\n        if subEvent == \"SPELL_CAST_START\" and spellID == 285040 then\n            local aura_env = aura_env \n            C_Timer.After(0.1, function() aura_env.soakamount = aura_env.soakamount - 1 PlaySoundFile(\"Interface\\\\AddOns\\\\SharedMedia_Causese\\\\sound\\\\Soak.ogg\", \"MASTER\") end)\n            return true\n        end\n    end\n    if event == \"ENCOUNTER_START\" then\n        aura_env.initialCast = 0\n        aura_env.soakamount = 0\n    end\nend",
 						["custom_type"] = "event",
 						["subeventPrefix"] = "SPELL",
 						["events"] = "COMBAT_LOG_EVENT_UNFILTERED, ENCOUNTER_START",
@@ -23472,7 +23591,24 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 237371,
 			["cooldown"] = true,
-			["icon"] = true,
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["custom"] = "",
+					["do_sound"] = false,
+					["do_custom"] = false,
+					["sound"] = " custom",
+				},
+				["finish"] = {
+					["do_glow"] = false,
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["custom"] = "aura_env.initialCast = 0\naura_env.soakamount = 0",
+					["do_custom"] = true,
+				},
+			},
 		},
 		["04 Depleted Diamond"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -23481,13 +23617,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -23498,6 +23632,8 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -23542,7 +23678,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -23559,16 +23695,16 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -23631,7 +23767,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
@@ -23644,11 +23780,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Targeted.ogg",
@@ -23660,7 +23796,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -23692,12 +23828,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["unit"] = "player",
 						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"284405", -- [1]
 						},
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
 						["subeventPrefix"] = "SPELL",
 						["useExactSpellId"] = true,
 						["event"] = "Cast",
@@ -23734,31 +23870,31 @@ WeakAurasSaved = {
 			["uid"] = "P(FsgqzjiSe",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "Pixel",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "Pixel",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["glow"] = true,
 			["text1FontFlags"] = "OUTLINE",
@@ -23856,8 +23992,8 @@ WeakAurasSaved = {
 							"Searing Waves", -- [1]
 						},
 						["type"] = "status",
-						["unevent"] = "auto",
 						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["use_unit"] = true,
 						["spellIds"] = {
 							285280, -- [1]
@@ -23907,15 +24043,15 @@ WeakAurasSaved = {
 				["affixes"] = {
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -23970,75 +24106,14 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["xOffset"] = 0,
 		},
-		["09 Chilling Touch"] = {
+		["02 Bestial Throw (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
-			["useGlowColor"] = false,
 			["text1FontSize"] = 16,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
+			["authorOptions"] = {
+			},
+			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["cooldownTextEnabled"] = true,
-			["cooldownSwipe"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_custom"] = false,
-					["custom"] = "",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["useglowColor"] = false,
-			["conditions"] = {
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["op"] = ">=",
-						["value"] = "17",
-						["variable"] = "stacks",
-					},
-					["changes"] = {
-						{
-							["property"] = "glowColor",
-						}, -- [1]
-						{
-							["value"] = "ACShine",
-							["property"] = "glowType",
-						}, -- [2]
-						{
-							["value"] = true,
-							["property"] = "glow",
-						}, -- [3]
-						{
-							["value"] = true,
-							["property"] = "useGlowColor",
-						}, -- [4]
-						{
-							["value"] = {
-								["sound_type"] = "Play",
-								["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\High Stacks.ogg",
-								["sound_channel"] = "Master",
-							},
-							["property"] = "sound",
-						}, -- [5]
-					},
-				}, -- [1]
-			},
-			["internalVersion"] = 11,
-			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -24053,130 +24128,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["auranames"] = {
-							"287993", -- [1]
-						},
-						["matchesShowOn"] = "showOnActive",
-						["names"] = {
-							"Chilling Touch", -- [1]
-						},
-						["use_tooltip"] = false,
-						["debuffType"] = "HARMFUL",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["useName"] = true,
-						["fetchTooltip"] = true,
-						["event"] = "Cast",
-						["useGroup_count"] = false,
-						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-							285215, -- [1]
-						},
-						["unit"] = "player",
-						["buffShowOn"] = "showOnActive",
-						["combineMatches"] = "showLowest",
-						["use_unit"] = true,
-						["use_absorbMode"] = true,
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["glow"] = false,
-			["uid"] = "ep6DoN06TAK",
-			["text1Containment"] = "OUTSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2281",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["width"] = 80,
-			["authorMode"] = true,
-			["frameStrata"] = 1,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "ACShine",
-			["text1Font"] = "Arial Narrow",
-			["icon"] = true,
-			["text1Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
-			["auto"] = true,
-			["text2FontSize"] = 25,
-			["text2"] = "%s%c",
-			["text1"] = "-%tooltip1%% Speed",
-			["alpha"] = 1,
-			["selfPoint"] = "CENTER",
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
-			["text2Font"] = "Arial Narrow",
-			["id"] = "09 Chilling Touch",
-			["desaturate"] = false,
-			["text2Enabled"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["stickyDuration"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["xOffset"] = 0,
-			["displayIcon"] = 135854,
-			["cooldown"] = true,
-			["authorOptions"] = {
-			},
-		},
-		["02 High Energy [Alliance]"] = {
-			["text2Point"] = "CENTER",
-			["text1FontSize"] = 16,
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%p",
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["cooldownSwipe"] = true,
-			["authorOptions"] = {
-			},
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -24187,6 +24142,163 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["useglowColor"] = false,
+			["icon"] = true,
+			["internalVersion"] = 11,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["conditions"] = {
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"289292", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_tooltip"] = false,
+						["buffShowOn"] = "showOnActive",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["unit"] = "player",
+						["use_absorbMode"] = true,
+						["event"] = "Cast",
+						["auraspellids"] = {
+							"289292", -- [1]
+						},
+						["useGroup_count"] = false,
+						["use_unit"] = true,
+						["spellIds"] = {
+							285875, -- [1]
+						},
+						["names"] = {
+							"Rending Bite", -- [1]
+						},
+						["unevent"] = "auto",
+						["combineMatches"] = "showLowest",
+						["debuffType"] = "HARMFUL",
+						["useExactSpellId"] = true,
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["stickyDuration"] = false,
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "L0yApV82wQl",
+			["load"] = {
+				["use_role"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["use_encounterid"] = true,
+				["difficulty"] = {
+					["multi"] = {
+						["mythic"] = true,
+						["heroic"] = true,
+					},
+				},
+				["role"] = {
+					["single"] = "TANK",
+				},
+				["encounterid"] = "2263,2284",
+				["use_difficulty"] = false,
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["text1Enabled"] = true,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["xOffset"] = 0,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2FontSize"] = 25,
+			["auto"] = true,
+			["text1"] = "Throw",
+			["text2Enabled"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["text1Containment"] = "OUTSIDE",
+			["id"] = "02 Bestial Throw (Tank Only)",
+			["glow"] = false,
+			["alpha"] = 1,
+			["width"] = 80,
+			["text2Font"] = "Arial Narrow",
+			["config"] = {
+			},
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["displayIcon"] = 135854,
+			["cooldown"] = true,
+			["cooldownTextEnabled"] = true,
+		},
+		["02 High Energy [Alliance]"] = {
+			["text2Point"] = "CENTER",
+			["text1FontSize"] = 16,
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%p",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["useglowColor"] = false,
+			["icon"] = true,
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -24346,7 +24458,7 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -24354,35 +24466,35 @@ WeakAurasSaved = {
 					["single"] = "Alliance",
 				},
 				["use_faction"] = true,
-				["class"] = {
+				["encounterid"] = "2263,2284",
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2263,2284",
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				0.94117647058824, -- [1]
 				1, -- [2]
 				0.95294117647059, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text1Enabled"] = true,
 			["xOffset"] = 0,
@@ -24440,143 +24552,9 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 		},
-		["LootSpecGroup"] = {
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["controlledChildren"] = {
-				"LootSpecIcon", -- [1]
-				"CurrentSpecIcon", -- [2]
-			},
-			["borderBackdrop"] = "Blizzard Tooltip",
-			["scale"] = 1,
-			["borderOffset"] = 5,
-			["border"] = false,
-			["borderEdge"] = "None",
-			["regionType"] = "group",
-			["borderSize"] = 16,
-			["xOffset"] = -1269.08508300781,
-			["borderColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["url"] = "https://wago.io/SJzvGvYd7/6",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "aura",
-						["subeventSuffix"] = "_CAST_START",
-						["event"] = "Health",
-						["unit"] = "player",
-						["spellIds"] = {
-						},
-						["debuffType"] = "HELPFUL",
-						["names"] = {
-						},
-						["subeventPrefix"] = "SPELL",
-						["buffShowOn"] = "showOnActive",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["yOffset"] = -1286.08000183105,
-			["internalVersion"] = 11,
-			["semver"] = "1.0.0-6",
-			["selfPoint"] = "BOTTOMLEFT",
-			["id"] = "LootSpecGroup",
-			["anchorPoint"] = "TOP",
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
-			["config"] = {
-			},
-			["version"] = 6,
-			["expanded"] = true,
-			["borderInset"] = 11,
-			["conditions"] = {
-			},
-			["load"] = {
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-				["talent"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["use_class"] = false,
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["uid"] = "kOJWhIeMGTv",
-		},
-		["05 Paku's Wrath"] = {
+		["08 Storm's Wail"] = {
 			["text2Point"] = "BOTTOMRIGHT",
+			["text1FontFlags"] = "OUTLINE",
 			["text1FontSize"] = 16,
 			["color"] = {
 				1, -- [1]
@@ -24584,29 +24562,54 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["zoom"] = 0.3,
+			["url"] = "https://wago.io/bfaraid2/103",
+			["xOffset"] = 0,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownTextEnabled"] = true,
 			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["conditions"] = {
+			},
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Hide.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-					["custom"] = "WeakAuras.ScanEvents(\"PAKU_WINDS\")",
-					["do_custom"] = true,
-				},
-				["init"] = {
-				},
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"285350", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["names"] = {
+							"Storm's Wail", -- [1]
+						},
+						["use_tooltip"] = false,
+						["debuffType"] = "HARMFUL",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["subeventPrefix"] = "SPELL",
+						["event"] = "Cast",
+						["use_unit"] = true,
+						["unevent"] = "auto",
+						["type"] = "aura2",
+						["spellIds"] = {
+							285350, -- [1]
+						},
+						["useGroup_count"] = false,
+						["buffShowOn"] = "showOnActive",
+						["combineMatches"] = "showLowest",
+						["use_absorbMode"] = true,
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
 			},
-			["useglowColor"] = false,
-			["glow"] = false,
-			["text1Enabled"] = true,
+			["authorOptions"] = {
+			},
+			["useTooltip"] = false,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -24622,44 +24625,171 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text2Font"] = "Arial Narrow",
+			["config"] = {
+			},
+			["text1Enabled"] = true,
+			["text1Containment"] = "OUTSIDE",
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["width"] = 80,
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["frameStrata"] = 1,
+			["authorMode"] = true,
+			["alpha"] = 1,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Font"] = "Arial Narrow",
+			["glow"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["useGlowColor"] = true,
+			["text2"] = "%s",
+			["text2FontSize"] = 25,
+			["auto"] = false,
+			["text1"] = "Clear Pools",
+			["desaturate"] = false,
+			["useglowColor"] = false,
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["stickyDuration"] = false,
+			["id"] = "08 Storm's Wail",
+			["selfPoint"] = "CENTER",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 11,
+			["uid"] = "MkEiT41z1I8",
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Clear.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["displayIcon"] = 1717108,
+			["cooldown"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+		},
+		["08 Sea's Temptation"] = {
+			["text2Point"] = "BOTTOMRIGHT",
+			["text1FontSize"] = 16,
+			["xOffset"] = 0,
+			["zoom"] = 0.3,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
+					["do_sound"] = true,
+				},
+				["init"] = {
+				},
+			},
+			["useglowColor"] = false,
+			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["rem"] = "4",
-						["group_role"] = "TANK",
+						["spellId"] = 284383,
 						["use_absorbMode"] = true,
-						["message_operator"] = "find('%s')",
-						["names"] = {
-						},
-						["use_specific_unit"] = false,
-						["duration"] = "5",
-						["buffShowOn"] = "showOnActive",
-						["use_unit"] = true,
-						["type"] = "event",
-						["use_message"] = true,
-						["subeventSuffix"] = "_CAST_START",
-						["custom_type"] = "event",
-						["unevent"] = "timed",
-						["event"] = "Chat Message",
-						["custom_hide"] = "timed",
-						["message"] = "spell:282107",
 						["unit"] = "player",
-						["spellIds"] = {
+						["names"] = {
+							"Searing Waves", -- [1]
 						},
-						["debuffType"] = "HARMFUL",
-						["remOperator"] = "<=",
+						["dynamicDuration"] = false,
+						["custom_hide"] = "timed",
 						["subeventPrefix"] = "SPELL",
-						["use_messageType"] = true,
-						["messageType"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+						["type"] = "custom",
+						["custom_type"] = "stateupdate",
+						["unevent"] = "auto",
+						["spellIds"] = {
+							285280, -- [1]
+						},
+						["name"] = "Sea's Temptation",
+						["event"] = "Cast",
+						["buffShowOn"] = "showOnActive",
+						["customDuration"] = "",
+						["use_spellId"] = false,
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284383 and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284383 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
+						["check"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HARMFUL",
+						["use_unit"] = true,
 					},
 					["untrigger"] = {
+						["unit"] = "player",
 					},
 				}, -- [1]
+				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["desaturate"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -24671,66 +24801,71 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["uid"] = "(AXVAfiDNdU",
+			["config"] = {
+			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2268",
+				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["desaturate"] = false,
+			["cooldownTextEnabled"] = true,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
-			["text1FontFlags"] = "OUTLINE",
+			["glow"] = false,
 			["text2FontSize"] = 25,
-			["auto"] = true,
-			["text1"] = "Hide",
+			["auto"] = false,
+			["text1"] = "Add Inc",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Enabled"] = false,
-			["internalVersion"] = 11,
 			["text2"] = "%s",
 			["semver"] = "2.0.34-103",
+			["internalVersion"] = 11,
+			["id"] = "08 Sea's Temptation",
 			["authorOptions"] = {
 			},
-			["id"] = "05 Paku's Wrath",
-			["text1Containment"] = "OUTSIDE",
 			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Arial Narrow",
-			["config"] = {
-			},
+			["width"] = 80,
+			["text1Containment"] = "OUTSIDE",
+			["uid"] = "62sm)YtUFBo",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
-			["displayIcon"] = 1624583,
+			["icon"] = true,
+			["displayIcon"] = 1391616,
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 		},
 		["08 Tidal Shroud"] = {
 			["text2Point"] = "CENTER",
@@ -24757,7 +24892,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -24782,7 +24917,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["desaturate"] = true,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24796,15 +24931,15 @@ WeakAurasSaved = {
 			["uid"] = "9Ar6RoAPHNV",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -24815,12 +24950,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -24841,7 +24971,8 @@ WeakAurasSaved = {
 						["custom_type"] = "status",
 						["duration"] = "1",
 						["genericShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["event"] = "Health",
 						["custom"] = "function()\n    local tState = WeakAuras.triggerState[aura_env.id]\n    if tState.triggers[2] then\n        local clones = tState[2]\n        for unit, _ in pairs(clones) do\n            if IsItemInRange(28767, unit) then\n                return true\n            end\n        end\n    end\nend",
 						["spellIds"] = {
@@ -24849,8 +24980,7 @@ WeakAurasSaved = {
 						["customIcon"] = "function()\n    if aura_env.icon then return aura_env.icon\n    end\nend",
 						["check"] = "update",
 						["unit"] = "player",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -24873,11 +25003,11 @@ WeakAurasSaved = {
 						["debuffType"] = "HELPFUL",
 						["showClones"] = true,
 						["type"] = "aura2",
+						["subeventSuffix"] = "_CAST_START",
 						["auraspellids"] = {
 							"130", -- [1]
 							"11426", -- [2]
 						},
-						["subeventSuffix"] = "_CAST_START",
 						["perUnitMode"] = "affected",
 						["fetchTooltip"] = true,
 						["event"] = "Health",
@@ -24912,14 +25042,19 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["displayIcon"] = "136051",
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["09 Marked Target"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -25007,16 +25142,16 @@ WeakAurasSaved = {
 				},
 				["affixes"] = {
 				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = false,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = false,
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -25040,12 +25175,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["desaturate"] = false,
 			["text2Color"] = {
@@ -25075,7 +25205,12 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -25084,14 +25219,39 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["xOffset"] = 0,
 		},
-		["02 Bestial Throw (Tank Only)"] = {
+		["05 Paku's Wrath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Hide.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+					["custom"] = "WeakAuras.ScanEvents(\"PAKU_WINDS\")",
+					["do_custom"] = true,
+				},
+				["init"] = {
+				},
+			},
+			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -25106,13 +25266,140 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["conditions"] = {
+			},
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["rem"] = "4",
+						["group_role"] = "TANK",
+						["use_absorbMode"] = true,
+						["message_operator"] = "find('%s')",
+						["names"] = {
+						},
+						["use_specific_unit"] = false,
+						["duration"] = "5",
+						["buffShowOn"] = "showOnActive",
+						["use_unit"] = true,
+						["type"] = "event",
+						["use_message"] = true,
+						["subeventSuffix"] = "_CAST_START",
+						["custom_type"] = "event",
+						["unevent"] = "timed",
+						["event"] = "Chat Message",
+						["custom_hide"] = "timed",
+						["message"] = "spell:282107",
+						["unit"] = "player",
+						["spellIds"] = {
+						},
+						["debuffType"] = "HARMFUL",
+						["remOperator"] = "<=",
+						["subeventPrefix"] = "SPELL",
+						["use_messageType"] = true,
+						["messageType"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "(AXVAfiDNdU",
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["desaturate"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["selfPoint"] = "CENTER",
+			["text1FontFlags"] = "OUTLINE",
+			["text2FontSize"] = 25,
+			["auto"] = true,
+			["text1"] = "Hide",
+			["text2Enabled"] = false,
+			["internalVersion"] = 11,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["authorOptions"] = {
+			},
+			["id"] = "05 Paku's Wrath",
+			["text1Containment"] = "OUTSIDE",
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["text2Font"] = "Arial Narrow",
+			["config"] = {
+			},
+			["inverse"] = false,
+			["cooldownTextEnabled"] = true,
+			["displayIcon"] = 1624583,
+			["cooldown"] = true,
+			["glow"] = false,
+		},
+		["09 Chilling Touch"] = {
+			["text2Point"] = "BOTTOMRIGHT",
+			["auto"] = true,
+			["text1FontSize"] = 16,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["url"] = "https://wago.io/bfaraid2/103",
+			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownTextEnabled"] = true,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
+			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
+					["do_custom"] = false,
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -25121,220 +25408,95 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["icon"] = true,
-			["internalVersion"] = 11,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = ">=",
+						["value"] = "17",
+						["variable"] = "stacks",
+					},
+					["changes"] = {
+						{
+							["property"] = "glowColor",
+						}, -- [1]
+						{
+							["value"] = "ACShine",
+							["property"] = "glowType",
+						}, -- [2]
+						{
+							["value"] = true,
+							["property"] = "glow",
+						}, -- [3]
+						{
+							["value"] = true,
+							["property"] = "useGlowColor",
+						}, -- [4]
+						{
+							["value"] = {
+								["sound_type"] = "Play",
+								["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\High Stacks.ogg",
+								["sound_channel"] = "Master",
+							},
+							["property"] = "sound",
+						}, -- [5]
+					},
+				}, -- [1]
+			},
+			["text2Font"] = "Arial Narrow",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["triggers"] = {
 				{
 					["trigger"] = {
 						["auranames"] = {
-							"289292", -- [1]
+							"287993", -- [1]
 						},
 						["matchesShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+							"Chilling Touch", -- [1]
+						},
 						["use_tooltip"] = false,
-						["buffShowOn"] = "showOnActive",
+						["debuffType"] = "HARMFUL",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
-						["unit"] = "player",
-						["use_absorbMode"] = true,
+						["useName"] = true,
+						["fetchTooltip"] = true,
 						["event"] = "Cast",
-						["auraspellids"] = {
-							"289292", -- [1]
-						},
 						["useGroup_count"] = false,
-						["use_unit"] = true,
-						["spellIds"] = {
-							285875, -- [1]
-						},
-						["names"] = {
-							"Rending Bite", -- [1]
-						},
 						["unevent"] = "auto",
-						["combineMatches"] = "showLowest",
-						["debuffType"] = "HARMFUL",
-						["useExactSpellId"] = true,
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["uid"] = "L0yApV82wQl",
-			["load"] = {
-				["use_role"] = true,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["use_encounterid"] = true,
-				["difficulty"] = {
-					["multi"] = {
-						["mythic"] = true,
-						["heroic"] = true,
-					},
-				},
-				["role"] = {
-					["single"] = "TANK",
-				},
-				["encounterid"] = "2263,2284",
-				["use_difficulty"] = false,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["frameStrata"] = 1,
-			["text1Enabled"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 25,
-			["auto"] = true,
-			["text1"] = "Throw",
-			["text2Enabled"] = false,
-			["url"] = "https://wago.io/bfaraid2/103",
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["text1Containment"] = "OUTSIDE",
-			["id"] = "02 Bestial Throw (Tank Only)",
-			["glow"] = false,
-			["alpha"] = 1,
-			["width"] = 80,
-			["text2Font"] = "Arial Narrow",
-			["config"] = {
-			},
-			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["displayIcon"] = 135854,
-			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
-		},
-		["08 Sea's Temptation"] = {
-			["text2Point"] = "BOTTOMRIGHT",
-			["text1FontSize"] = 16,
-			["xOffset"] = 0,
-			["zoom"] = 0.3,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg",
-					["do_sound"] = true,
-				},
-				["init"] = {
-				},
-			},
-			["useglowColor"] = false,
-			["text2Font"] = "Arial Narrow",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["conditions"] = {
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["spellId"] = 284383,
-						["use_absorbMode"] = true,
-						["unit"] = "player",
-						["names"] = {
-							"Searing Waves", -- [1]
-						},
-						["dynamicDuration"] = false,
-						["debuffType"] = "HARMFUL",
 						["subeventPrefix"] = "SPELL",
-						["type"] = "custom",
-						["custom_type"] = "stateupdate",
-						["subeventSuffix"] = "_CAST_START",
-						["name"] = "Sea's Temptation",
 						["spellIds"] = {
-							285280, -- [1]
+							285215, -- [1]
 						},
-						["event"] = "Cast",
+						["unit"] = "player",
 						["buffShowOn"] = "showOnActive",
-						["customDuration"] = "",
-						["use_spellId"] = false,
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284383 and IsItemInRange(28767, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284383 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["check"] = "event",
-						["unevent"] = "auto",
-						["custom_hide"] = "timed",
+						["combineMatches"] = "showLowest",
 						["use_unit"] = true,
+						["use_absorbMode"] = true,
 					},
 					["untrigger"] = {
-						["unit"] = "player",
 					},
 				}, -- [1]
-				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["internalVersion"] = 11,
+			["uid"] = "ep6DoN06TAK",
 			["desaturate"] = false,
-			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -25345,71 +25507,66 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["config"] = {
-			},
+			["text1Font"] = "Arial Narrow",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2280",
+				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["width"] = 80,
+			["authorMode"] = true,
+			["frameStrata"] = 1,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "ACShine",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["frameStrata"] = 1,
-			["cooldownTextEnabled"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["glow"] = false,
-			["text2FontSize"] = 25,
-			["auto"] = false,
-			["text1"] = "Add Inc",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2Enabled"] = false,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["internalVersion"] = 11,
-			["id"] = "08 Sea's Temptation",
+			["icon"] = true,
 			["authorOptions"] = {
 			},
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["text1FontFlags"] = "OUTLINE",
+			["useGlowColor"] = false,
+			["text2FontSize"] = 25,
+			["text2"] = "%s%c",
+			["text1"] = "-%tooltip1%% Speed",
 			["alpha"] = 1,
-			["width"] = 80,
+			["stickyDuration"] = false,
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
 			["text1Containment"] = "OUTSIDE",
-			["uid"] = "62sm)YtUFBo",
+			["id"] = "09 Chilling Touch",
+			["selfPoint"] = "CENTER",
+			["text2Enabled"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text1Enabled"] = true,
+			["config"] = {
+			},
 			["inverse"] = false,
-			["icon"] = true,
-			["displayIcon"] = 1391616,
+			["glow"] = false,
+			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["xOffset"] = 0,
 		},
 		["07 Focused Demise On You"] = {
 			["text2Point"] = "CENTER",
@@ -25472,10 +25629,10 @@ WeakAurasSaved = {
 						["customDuration"] = "",
 						["spellIds"] = {
 						},
-						["custom"] = "function(allstates, event, unit, castGUID, spellID)    \n    if event == \"UNIT_TARGET\" then\n        if UnitExists(unit) then\n            if UnitIsUnit(unit..\"target\", \"player\") then\n                local expirationTime = select(5, UnitCastingInfo(unit))\n                if expirationTime then\n                    local exp = expirationTime / 1000\n                    local dur = expirationTime / 1000 - GetTime()\n                    local spellicon = select(3, UnitCastingInfo(unit))\n                    local spellId = select(9, UnitCastingInfo(unit))\n                    if aura_env.spellIDs[spellId] and not allstates[UnitGUID(unit)] then\n                        allstates[UnitGUID(unit)] = {\n                            show = true,\n                            changed =  true,\n                            progressType = \"timed\", \n                            duration = dur,\n                            expirationTime = exp,\n                            name = WA_ClassColorName(unit..\"target\"),\n                            icon = spellicon,\n                            autoHide = true,\n                        }\n                        return true\n                    end\n                end\n            end\n        end\n    elseif (event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_STOP\" or event == \"UNIT_SPELLCAST_FAILED\" or event == \"UNIT_SPELLCAST_INTERRUPTED\") then\n        if UnitExists(unit) and aura_env.spellIDs[spellID] then\n            if allstates[UnitGUID(unit)] then\n                allstates[UnitGUID(unit)].show = false\n                allstates[UnitGUID(unit)].changed = true\n                return true\n            end\n        end\n    end\nend",
+						["events"] = "UNIT_TARGET, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_FAILED, UNIT_SPELLCAST_INTERRUPTED",
 						["dynamicDuration"] = false,
 						["check"] = "event",
-						["events"] = "UNIT_TARGET, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_FAILED, UNIT_SPELLCAST_INTERRUPTED",
+						["custom"] = "function(allstates, event, unit, castGUID, spellID)    \n    if event == \"UNIT_TARGET\" then\n        if UnitExists(unit) then\n            if UnitIsUnit(unit..\"target\", \"player\") then\n                local expirationTime = select(5, UnitCastingInfo(unit))\n                if expirationTime then\n                    local exp = expirationTime / 1000\n                    local dur = expirationTime / 1000 - GetTime()\n                    local spellicon = select(3, UnitCastingInfo(unit))\n                    local spellId = select(9, UnitCastingInfo(unit))\n                    if aura_env.spellIDs[spellId] and not allstates[UnitGUID(unit)] then\n                        allstates[UnitGUID(unit)] = {\n                            show = true,\n                            changed =  true,\n                            progressType = \"timed\", \n                            duration = dur,\n                            expirationTime = exp,\n                            name = WA_ClassColorName(unit..\"target\"),\n                            icon = spellicon,\n                            autoHide = true,\n                        }\n                        return true\n                    end\n                end\n            end\n        end\n    elseif (event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_STOP\" or event == \"UNIT_SPELLCAST_FAILED\" or event == \"UNIT_SPELLCAST_INTERRUPTED\") then\n        if UnitExists(unit) and aura_env.spellIDs[spellID] then\n            if allstates[UnitGUID(unit)] then\n                allstates[UnitGUID(unit)].show = false\n                allstates[UnitGUID(unit)].changed = true\n                return true\n            end\n        end\n    end\nend",
 						["names"] = {
 						},
 						["custom_hide"] = "timed",
@@ -25530,11 +25687,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -25554,17 +25711,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -25610,13 +25767,12 @@ WeakAurasSaved = {
 			["customText"] = "function() \nif aura_env.state and aura_env.state.tooltip1 then\nreturn AbbreviateNumbers(aura_env.state.tooltip1)\nend\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -25626,8 +25782,7 @@ WeakAurasSaved = {
 						["subeventSuffix"] = "_CAST_START",
 						["duration"] = "1",
 						["genericShowOn"] = "showOnActive",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["event"] = "Health",
 						["spellIds"] = {
 						},
@@ -25635,7 +25790,8 @@ WeakAurasSaved = {
 						["customIcon"] = "function()\n    if aura_env.icon then return aura_env.icon\n    end\nend",
 						["check"] = "update",
 						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -25658,11 +25814,11 @@ WeakAurasSaved = {
 						["buffShowOn"] = "showOnMissing",
 						["showClones"] = true,
 						["type"] = "aura2",
+						["subeventSuffix"] = "_CAST_START",
 						["auraspellids"] = {
 							"130", -- [1]
 							"11426", -- [2]
 						},
-						["subeventSuffix"] = "_CAST_START",
 						["perUnitMode"] = "affected",
 						["fetchTooltip"] = true,
 						["event"] = "Health",
@@ -25685,13 +25841,14 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(t) return t[1] \nend",
 				["activeTriggerMode"] = 2,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
@@ -25707,15 +25864,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2280",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -25726,12 +25883,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -25774,7 +25926,12 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = true,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "JTQaAHXv)jD",
 			["inverse"] = false,
 			["actions"] = {
@@ -25789,7 +25946,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = "136051",
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["05 Crawling Hex"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -25798,12 +25955,6 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["useglowColor"] = false,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -25842,7 +25993,13 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["glow"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -25872,7 +26029,7 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -25886,31 +26043,31 @@ WeakAurasSaved = {
 			["uid"] = "GJabENHewYD",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["color"] = {
 				1, -- [1]
@@ -25944,10 +26101,10 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 		},
 		["Tosh RaidCDs bar"] = {
 			["textFlags"] = "OUTLINE",
@@ -25984,7 +26141,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_never"] = false,
+				["use_never"] = true,
 				["size"] = {
 					["multi"] = {
 					},
@@ -26023,17 +26180,17 @@ WeakAurasSaved = {
 						["customVariables"] = "  {\n    expirationTime = true,\n    active = {\n        display = \"effect active\",\n        type = \"bool\",\n    },\n    isplayer = {\n        display = \"is player\",\n        type = \"bool\",\n    },\n    classid = {\n        display = \"Class\",\n        type = \"string\",\n    }\n  }",
 						["unevent"] = "auto",
 						["debuffType"] = "HELPFUL",
-						["unit"] = "player",
-						["event"] = "Chat Message",
 						["subeventPrefix"] = "SPELL",
-						["custom_type"] = "stateupdate",
-						["spellIds"] = {
-						},
-						["events"] = "PLAYER_ENTERING_WORLD,GROUP_ROSTER_UPDATE,RAID_ROSTER_UPDATE,COMBAT_LOG_EVENT_UNFILTERED,TOSH_RAID_CD_COMPLETED,TOSH_RAID_CD_UPDATE,ENCOUNTER_END,PLAYER_SPECIALIZATION_CHANGED",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"ENCOUNTER_END\" and aura_env.ShouldResetCDs() then\n        for k,v in pairs(allstates) do\n            v.expirationTime = nil\n        end\n        return true\n\n    elseif event == aura_env.events.completed then\n        local sourceGUID, spellId = ...\n        if not sourceGUID or not spellId then return end\n        local key = sourceGUID .. spellId\n        local state = allstates[key]\n        if not state then return end\n        local info = state.cdInfo\n        state.duration = info.cd\n        state.expirationTime = (state.duration - info.duration) + GetTime()\n        state.inverse = true\n        state.active = false\n        aura_env:setindex(state)\n        state.changed = true\n        return true\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local subevent = select(2,...)\n        if subevent == \"SPELL_CAST_SUCCESS\" then\n            local sourceGUID = aura_env.owner(select(4,...))\n            local spellId = select(12,...)\n            local key = sourceGUID .. spellId\n            local state = allstates[key]\n            if not state then\n                if spellId == 2050 or spellId == 34861 then -- Holy Word: Salvation CD reduction\n                    spellId = 265202\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 30\n                        end\n                    end\n                elseif spellId == 121253 then --  Fortifying Brew\n                    spellId = 115203\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 4\n                        end\n                    end\n                end\n                return\n            end\n            local info = state.cdInfo\n            if (info.duration or 0) > 0 then\n                state.duration = info.duration\n                state.inverse = false\n                state.active = true\n                aura_env:setindex(state)\n                local completed = aura_env.events.completed\n                C_Timer.After(info.duration, function() WeakAuras.ScanEvents(completed, sourceGUID, spellId) end)\n            else\n                state.duration = info.cd\n                state.inverse = true\n            end\n            state.expirationTime = state.duration + GetTime()\n            state.changed = true\n            return true\n        end\n\n    elseif event == \"PLAYER_ENTERING_WORLD\" or event == \"GROUP_ROSTER_UPDATE\" or event == \"RAID_ROSTER_UPDATE\" or event == \"PLAYER_SPECIALIZATION_CHANGED\" or event == aura_env.events.update then\n        for k,v in pairs(allstates) do\n            v.show = false\n            v.changed = true\n        end\n\n        local testbars = aura_env.config.testbars or 0\n        for i=1,testbars do\n            local tab = math.random(GetNumSpellTabs())\n            local slots = select(4, GetSpellTabInfo(tab))\n            local testSpell = GetSpellBookItemName(math.random(slots), BOOKTYPE_SPELL)\n            local _, _, icon, _, _, _, spellId = GetSpellInfo(testSpell)\n            allstates[i] = {\n                show = true,\n                changed = true,\n                sourceName = \"testbar\"..i,\n                progressType = \"timed\",\n                autoHide = false,\n                icon = icon,\n                spellId = spellId,\n                name = \"testbar\"..i,\n                duration = 10,\n                index = \"zzzz\"..i, -- sort last\n\n                -- Condition variables\n                active = false,\n                isplayer = false,\n                classid = select(2, UnitClass(\"player\")),\n            }\n        end\n\n        local playerguid = UnitGUID(\"player\")\n        for uid in WA_IterateGroupMembers() do\n            local info = UnitIsVisible(uid) and aura_env.inspectLib:GetCachedInfo(UnitGUID(uid))\n            if info then\n                local cds = aura_env.specCDs[info.global_spec_id]\n                if cds then\n                    for spellId, cdInfo in pairs(cds) do\n                        if cdInfo.talent then\n                            cdInfo = cdInfo.talent(info.talents)\n                        end\n                        if cdInfo then\n                            spellId = cdInfo.spellId or spellId\n                            local key = info.guid .. spellId\n                            allstates[key] = {\n                                show = true,\n                                changed = true,\n                                sourceName = info.name,\n                                progressType = \"timed\",\n                                autoHide = false,\n                                icon = select(3, GetSpellInfo(spellId)),\n                                spellId = spellId,\n                                name = info.name .. spellId,\n                                sourceGUID = info.guid,\n                                duration = cdInfo.cd,\n\n                                info = info,\n                                cdInfo = cdInfo,\n\n                                -- Condition variables\n                                active = false,\n                                isplayer = (playerguid == info.guid),\n                                classid = info.class,\n                            }\n                            aura_env:setindex(allstates[key])\n                        end\n                    end\n                end\n            end\n        end\n        return true\n    end\nend",
-						["check"] = "event",
+						["event"] = "Chat Message",
 						["names"] = {
 						},
+						["custom_type"] = "stateupdate",
+						["events"] = "PLAYER_ENTERING_WORLD,GROUP_ROSTER_UPDATE,RAID_ROSTER_UPDATE,COMBAT_LOG_EVENT_UNFILTERED,TOSH_RAID_CD_COMPLETED,TOSH_RAID_CD_UPDATE,ENCOUNTER_END,PLAYER_SPECIALIZATION_CHANGED",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"ENCOUNTER_END\" and aura_env.ShouldResetCDs() then\n        for k,v in pairs(allstates) do\n            v.expirationTime = nil\n        end\n        return true\n\n    elseif event == aura_env.events.completed then\n        local sourceGUID, spellId = ...\n        if not sourceGUID or not spellId then return end\n        local key = sourceGUID .. spellId\n        local state = allstates[key]\n        if not state then return end\n        local info = state.cdInfo\n        state.duration = info.cd\n        state.expirationTime = (state.duration - info.duration) + GetTime()\n        state.inverse = true\n        state.active = false\n        aura_env:setindex(state)\n        state.changed = true\n        return true\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local subevent = select(2,...)\n        if subevent == \"SPELL_CAST_SUCCESS\" then\n            local sourceGUID = aura_env.owner(select(4,...))\n            local spellId = select(12,...)\n            local key = sourceGUID .. spellId\n            local state = allstates[key]\n            if not state then\n                if spellId == 2050 or spellId == 34861 then -- Holy Word: Salvation CD reduction\n                    spellId = 265202\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 30\n                        end\n                    end\n                elseif spellId == 121253 then --  Fortifying Brew\n                    spellId = 115203\n                    key = sourceGUID .. spellId\n                    state = allstates[key]\n                    if state then\n                        if state.expirationTime and state.expirationTime < GetTime() then\n                            state.expirationTime = state.expirationTime - 4\n                        end\n                    end\n                end\n                return\n            end\n            local info = state.cdInfo\n            if (info.duration or 0) > 0 then\n                state.duration = info.duration\n                state.inverse = false\n                state.active = true\n                aura_env:setindex(state)\n                local completed = aura_env.events.completed\n                C_Timer.After(info.duration, function() WeakAuras.ScanEvents(completed, sourceGUID, spellId) end)\n            else\n                state.duration = info.cd\n                state.inverse = true\n            end\n            state.expirationTime = state.duration + GetTime()\n            state.changed = true\n            return true\n        end\n\n    elseif event == \"PLAYER_ENTERING_WORLD\" or event == \"GROUP_ROSTER_UPDATE\" or event == \"RAID_ROSTER_UPDATE\" or event == \"PLAYER_SPECIALIZATION_CHANGED\" or event == aura_env.events.update then\n        for k,v in pairs(allstates) do\n            v.show = false\n            v.changed = true\n        end\n\n        local testbars = aura_env.config.testbars or 0\n        for i=1,testbars do\n            local tab = math.random(GetNumSpellTabs())\n            local slots = select(4, GetSpellTabInfo(tab))\n            local testSpell = GetSpellBookItemName(math.random(slots), BOOKTYPE_SPELL)\n            local _, _, icon, _, _, _, spellId = GetSpellInfo(testSpell)\n            allstates[i] = {\n                show = true,\n                changed = true,\n                sourceName = \"testbar\"..i,\n                progressType = \"timed\",\n                autoHide = false,\n                icon = icon,\n                spellId = spellId,\n                name = \"testbar\"..i,\n                duration = 10,\n                index = \"zzzz\"..i, -- sort last\n\n                -- Condition variables\n                active = false,\n                isplayer = false,\n                classid = select(2, UnitClass(\"player\")),\n            }\n        end\n\n        local playerguid = UnitGUID(\"player\")\n        for uid in WA_IterateGroupMembers() do\n            local info = UnitIsVisible(uid) and aura_env.inspectLib:GetCachedInfo(UnitGUID(uid))\n            if info then\n                local cds = aura_env.specCDs[info.global_spec_id]\n                if cds then\n                    for spellId, cdInfo in pairs(cds) do\n                        if cdInfo.talent then\n                            cdInfo = cdInfo.talent(info.talents)\n                        end\n                        if cdInfo then\n                            spellId = cdInfo.spellId or spellId\n                            local key = info.guid .. spellId\n                            allstates[key] = {\n                                show = true,\n                                changed = true,\n                                sourceName = info.name,\n                                progressType = \"timed\",\n                                autoHide = false,\n                                icon = select(3, GetSpellInfo(spellId)),\n                                spellId = spellId,\n                                name = info.name .. spellId,\n                                sourceGUID = info.guid,\n                                duration = cdInfo.cd,\n\n                                info = info,\n                                cdInfo = cdInfo,\n\n                                -- Condition variables\n                                active = false,\n                                isplayer = (playerguid == info.guid),\n                                classid = info.class,\n                            }\n                            aura_env:setindex(allstates[key])\n                        end\n                    end\n                end\n            end\n        end\n        return true\n    end\nend",
+						["spellIds"] = {
+						},
+						["check"] = "event",
+						["unit"] = "player",
 						["subeventSuffix"] = "_CAST_START",
 						["buffShowOn"] = "showOnActive",
 					},
@@ -26052,36 +26209,36 @@ WeakAurasSaved = {
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
-					["colorType"] = "custom",
-					["use_color"] = false,
 					["x"] = 0,
 					["scalex"] = 1,
-					["alpha"] = 0,
-					["colorA"] = 1,
-					["y"] = 0,
 					["colorB"] = 1,
+					["duration_type"] = "seconds",
+					["alpha"] = 0,
+					["colorType"] = "custom",
+					["y"] = 0,
+					["colorA"] = 1,
 					["colorG"] = 1,
 					["type"] = "none",
 					["colorFunc"] = "function()\n    if not aura_env.state then return 0, 0, 0, 1 end  -- error checking.\n    local c = aura_env.state.barColor\n    if not c then return 0,0,0,1 end\n    return c.r, c.g, c.b, 1\nend",
 					["rotate"] = 0,
+					["use_color"] = false,
 					["scaley"] = 1,
-					["duration_type"] = "seconds",
 				},
 				["main"] = {
 					["type"] = "none",
-					["scaley"] = 1,
 					["use_color"] = false,
-					["colorType"] = "custom",
 					["duration_type"] = "seconds",
-					["alpha"] = 0,
-					["colorB"] = 1,
-					["y"] = 0,
 					["colorA"] = 1,
+					["scalex"] = 1,
+					["alpha"] = 0,
+					["colorType"] = "custom",
+					["y"] = 0,
+					["colorB"] = 1,
 					["colorG"] = 1,
 					["x"] = 0,
 					["colorFunc"] = "",
 					["rotate"] = 0,
-					["scalex"] = 1,
+					["scaley"] = 1,
 					["colorR"] = 1,
 				},
 				["finish"] = {
@@ -26116,14 +26273,14 @@ WeakAurasSaved = {
 			},
 			["anchorFrameType"] = "SCREEN",
 			["borderBackdrop"] = "Blizzard Tooltip",
-			["borderSize"] = 16,
+			["borderInFront"] = true,
 			["border"] = false,
 			["borderEdge"] = "None",
 			["id"] = "Tosh RaidCDs bar",
-			["borderInFront"] = true,
-			["displayTextRight"] = "%p",
-			["icon_side"] = "LEFT",
+			["borderSize"] = 16,
 			["semver"] = "1.0.0-8",
+			["icon_side"] = "LEFT",
+			["displayTextRight"] = "%p",
 			["actions"] = {
 				["start"] = {
 					["custom"] = "",
@@ -26501,7 +26658,7 @@ WeakAurasSaved = {
 		},
 		["05 Akunda's Wrath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
-			["text1Enabled"] = true,
+			["text1FontFlags"] = "OUTLINE",
 			["text1FontSize"] = 16,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["triggers"] = {
@@ -26556,25 +26713,14 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["useglowColor"] = false,
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -26589,8 +26735,19 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["selfPoint"] = "CENTER",
-			["icon"] = true,
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
 			["uid"] = "dPnUnLV8lzz",
 			["desaturate"] = false,
 			["glowColor"] = {
@@ -26603,7 +26760,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 			["load"] = {
 				["role"] = {
 					["single"] = "TANK",
@@ -26612,15 +26769,15 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2268",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -26637,8 +26794,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownEdge"] = false,
-			["text1Font"] = "Arial Narrow",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["internalVersion"] = 11,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -26646,15 +26803,15 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Font"] = "Arial Narrow",
 			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Spread",
 			["text2Enabled"] = false,
-			["useGlowColor"] = true,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = true,
 			["authorOptions"] = {
 			},
 			["id"] = "05 Akunda's Wrath",
@@ -26679,7 +26836,7 @@ WeakAurasSaved = {
 			["text2Point"] = "BOTTOMRIGHT",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
-			["desaturate"] = false,
+			["text1FontFlags"] = "OUTLINE",
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -26698,11 +26855,11 @@ WeakAurasSaved = {
 						},
 						["event"] = "Cast",
 						["unevent"] = "auto",
+						["name"] = "Avalanche",
+						["use_spellId"] = false,
 						["spellIds"] = {
 							285215, -- [1]
 						},
-						["use_spellId"] = false,
-						["name"] = "Avalanche",
 						["auraspellids"] = {
 							"285254", -- [1]
 						},
@@ -26747,6 +26904,7 @@ WeakAurasSaved = {
 			},
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -26762,9 +26920,8 @@ WeakAurasSaved = {
 				},
 			},
 			["internalVersion"] = 11,
-			["text1Enabled"] = true,
 			["uid"] = "g5w6q7N7Jez",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				0, -- [2]
@@ -26775,7 +26932,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
 			["load"] = {
 				["role"] = {
 					["multi"] = {
@@ -26783,15 +26940,15 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -26804,12 +26961,7 @@ WeakAurasSaved = {
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Arial Narrow",
 			["text1Containment"] = "OUTSIDE",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -26817,15 +26969,20 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["auto"] = false,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "Keep Moving",
 			["icon"] = true,
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["text2Enabled"] = false,
 			["id"] = "09 Avalanche",
 			["glow"] = true,
@@ -26842,12 +26999,7 @@ WeakAurasSaved = {
 		},
 		["07 Meteor Leap /  On You"] = {
 			["text2Point"] = "BOTTOMRIGHT",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["text1FontSize"] = 16,
 			["authorOptions"] = {
 			},
@@ -26916,6 +27068,7 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 11,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -26952,10 +27105,9 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
 			["config"] = {
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -26966,7 +27118,7 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["role"] = {
 					["single"] = "TANK",
@@ -26976,15 +27128,15 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -27001,19 +27153,24 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["selfPoint"] = "CENTER",
+			["text1Enabled"] = true,
 			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["regionType"] = "icon",
-			["text1Font"] = "Arial Narrow",
+			["text1FontFlags"] = "OUTLINE",
 			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s",
 			["text1"] = "%c",
 			["text2Font"] = "Arial Narrow",
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["icon"] = true,
 			["id"] = "07 Meteor Leap /  On You",
 			["glow"] = false,
@@ -27037,13 +27194,13 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
-						["subeventSuffix"] = "_CAST_START",
-						["buffShowOn"] = "showOnActive",
+						["custom_type"] = "stateupdate",
+						["debuffType"] = "HARMFUL",
 						["spellIds"] = {
 							282939, -- [1]
 						},
 						["type"] = "custom",
-						["custom_type"] = "stateupdate",
+						["subeventSuffix"] = "_CAST_START",
 						["unevent"] = "auto",
 						["customDuration"] = "",
 						["dynamicDuration"] = false,
@@ -27051,11 +27208,11 @@ WeakAurasSaved = {
 						["custom_hide"] = "timed",
 						["castType"] = "cast",
 						["use_spellId"] = true,
-						["name"] = "Crush",
-						["custom"] = "function(allstates, event, unit, castGUID, spellID)    \n    if event == \"UNIT_TARGET\" then\n        if UnitExists(unit) then\n            if UnitIsUnit(unit..\"target\", \"player\") then\n                local expirationTime = select(5, UnitCastingInfo(unit))\n                if expirationTime then\n                    local exp = expirationTime / 1000\n                    local dur = expirationTime / 1000 - GetTime()\n                    local spellicon = select(3, UnitCastingInfo(unit))\n                    local spellId = select(9, UnitCastingInfo(unit))\n                    local castGUID = select(7, UnitCastingInfo(unit))\n                    if aura_env.spellIDs[spellId] and not allstates[castGUID] then\n                        allstates[castGUID] = {\n                            show = true,\n                            changed =  true,\n                            progressType = \"timed\", \n                            duration = dur,\n                            expirationTime = exp,\n                            name = \"Dmgsplit\",\n                            icon = spellicon,\n                            autoHide = true,\n                        }\n                        return true\n                    end\n                end\n            end\n        end\n    elseif (event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_STOP\" or event == \"UNIT_SPELLCAST_FAILED\" or event == \"UNIT_SPELLCAST_INTERRUPTED\") then\n        if UnitExists(unit) and aura_env.spellIDs[spellID] then\n            if allstates[castGUID] then\n                allstates[castGUID].show = false\n                allstates[castGUID].changed = true\n                return true\n            end\n        end\n    end\nend",
-						["remOperator"] = "<=",
-						["debuffType"] = "HARMFUL",
 						["events"] = "UNIT_TARGET, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_FAILED, UNIT_SPELLCAST_INTERRUPTED",
+						["name"] = "Crush",
+						["remOperator"] = "<=",
+						["buffShowOn"] = "showOnActive",
+						["custom"] = "function(allstates, event, unit, castGUID, spellID)    \n    if event == \"UNIT_TARGET\" then\n        if UnitExists(unit) then\n            if UnitIsUnit(unit..\"target\", \"player\") then\n                local expirationTime = select(5, UnitCastingInfo(unit))\n                if expirationTime then\n                    local exp = expirationTime / 1000\n                    local dur = expirationTime / 1000 - GetTime()\n                    local spellicon = select(3, UnitCastingInfo(unit))\n                    local spellId = select(9, UnitCastingInfo(unit))\n                    local castGUID = select(7, UnitCastingInfo(unit))\n                    if aura_env.spellIDs[spellId] and not allstates[castGUID] then\n                        allstates[castGUID] = {\n                            show = true,\n                            changed =  true,\n                            progressType = \"timed\", \n                            duration = dur,\n                            expirationTime = exp,\n                            name = \"Dmgsplit\",\n                            icon = spellicon,\n                            autoHide = true,\n                        }\n                        return true\n                    end\n                end\n            end\n        end\n    elseif (event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_STOP\" or event == \"UNIT_SPELLCAST_FAILED\" or event == \"UNIT_SPELLCAST_INTERRUPTED\") then\n        if UnitExists(unit) and aura_env.spellIDs[spellID] then\n            if allstates[castGUID] then\n                allstates[castGUID].show = false\n                allstates[castGUID].changed = true\n                return true\n            end\n        end\n    end\nend",
 						["use_unit"] = true,
 					},
 					["untrigger"] = {
@@ -27129,8 +27286,8 @@ WeakAurasSaved = {
 					["use_alpha"] = true,
 					["scaleType"] = "straightScale",
 					["duration_type"] = "seconds",
-					["use_color"] = false,
 					["scaley"] = 1,
+					["use_color"] = false,
 					["alpha"] = 0.32,
 					["x"] = 0,
 					["y"] = 0,
@@ -27211,12 +27368,12 @@ WeakAurasSaved = {
 						["use_specific_unit"] = true,
 						["dynamicDuration"] = false,
 						["buffShowOn"] = "showOnActive",
-						["debuffType"] = "HARMFUL",
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 287333 and IsItemInRange(33119, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 287333 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["type"] = "custom",
+						["custom_hide"] = "timed",
 						["spellIds"] = {
 							284168, -- [1]
 						},
+						["type"] = "custom",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 287333 and IsItemInRange(33119, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 287333 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["subeventSuffix"] = "_CAST_START",
 						["custom_type"] = "stateupdate",
 						["unevent"] = "auto",
@@ -27224,10 +27381,10 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["customDuration"] = "",
 						["use_spellId"] = true,
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
 						["name"] = "Inevitable End",
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
 						["check"] = "event",
-						["custom_hide"] = "timed",
+						["debuffType"] = "HARMFUL",
 						["duration"] = "1",
 						["unit"] = "boss1",
 					},
@@ -27259,7 +27416,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -27273,31 +27430,31 @@ WeakAurasSaved = {
 			["uid"] = "TpSKI5hmTvx",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "OUTSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "OUTSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -27331,7 +27488,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 1029008,
 			["cooldown"] = true,
 			["xOffset"] = 0,
@@ -27347,7 +27504,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -27423,8 +27580,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
@@ -27440,15 +27597,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -27459,12 +27616,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text2Color"] = {
@@ -27494,31 +27646,36 @@ WeakAurasSaved = {
 			["text2Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "Hs2APo6PqjG",
 			["inverse"] = false,
 			["selfPoint"] = "CENTER",
 			["displayIcon"] = 135822,
 			["cooldown"] = true,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 		},
 		["07 Seal of Bwonsamdi"] = {
 			["text2Point"] = "BOTTOM",
 			["text1FontSize"] = 16,
 			["authorOptions"] = {
 			},
-			["useGlowColor"] = false,
+			["auto"] = false,
 			["customText"] = "function()\nreturn \"Soak Cast\", \"Soak\"\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["icon"] = true,
 			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -27613,12 +27770,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["use_absorbMode"] = true,
 						["duration"] = "4",
-						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
-						["useName"] = true,
-						["name"] = "Plague of Toads",
-						["debuffType"] = "HARMFUL",
-						["subeventSuffix"] = "_CAST_START",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286695 and IsItemInRange(33119, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286695 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
 						["type"] = "custom",
+						["events"] = "UNIT_SPELLCAST_START, UNIT_SPELLCAST_INTERRUPTED, UNIT_SPELLCAST_STOP, UNIT_SPELLCAST_SUCCEEDED, UNIT_SPELLCAST_FAILED",
+						["custom_hide"] = "timed",
+						["subeventSuffix"] = "_CAST_START",
+						["useName"] = true,
 						["use_debuffClass"] = false,
 						["custom_type"] = "stateupdate",
 						["spellIds"] = {
@@ -27629,8 +27786,8 @@ WeakAurasSaved = {
 						["buffShowOn"] = "showOnActive",
 						["unit"] = "player",
 						["use_spellId"] = false,
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286695 and IsItemInRange(33119, unitID)\n        then\n            local _, _, _, startC, endC  = UnitCastingInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[castGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_INTERRUPTED\" or event == \"UNIT_SPELLCAST_STOP\" or\n    event == \"UNIT_SPELLCAST_SUCCEEDED\" or event == \"UNIT_SPELLCAST_FAILED\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 286695 and allstates[castGUID] then\n            allstates[castGUID].changed = true\n            allstates[castGUID].show = false\n        end\n    end\n    return true\nend",
-						["custom_hide"] = "timed",
+						["name"] = "Plague of Toads",
+						["debuffType"] = "HARMFUL",
 						["check"] = "event",
 						["combineMatches"] = "showLowest",
 						["auranames"] = {
@@ -27647,8 +27804,8 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["debuffType"] = "HELPFUL",
 						["unevent"] = "auto",
-						["duration"] = "4",
 						["use_absorbMode"] = true,
+						["duration"] = "4",
 						["event"] = "Health",
 						["unit"] = "player",
 						["subeventSuffix"] = "_CAST_START",
@@ -27666,7 +27823,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -27680,15 +27837,15 @@ WeakAurasSaved = {
 			["uid"] = "TVigiCRkWro",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -27702,12 +27859,7 @@ WeakAurasSaved = {
 			["text1Font"] = "Arial Narrow",
 			["cooldownTextEnabled"] = true,
 			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
@@ -27721,25 +27873,30 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["auto"] = false,
+			["useGlowColor"] = false,
 			["text2FontSize"] = 16,
 			["text2"] = "%c2",
 			["text1"] = "%c1",
 			["internalVersion"] = 11,
-			["text1FontFlags"] = "OUTLINE",
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["id"] = "07 Seal of Bwonsamdi",
-			["text1Containment"] = "OUTSIDE",
+			["desaturate"] = false,
 			["alpha"] = 1,
 			["width"] = 80,
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -27758,7 +27915,7 @@ WeakAurasSaved = {
 			["text1FontSize"] = 16,
 			["authorOptions"] = {
 			},
-			["cooldownEdge"] = false,
+			["text1FontFlags"] = "OUTLINE",
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -27767,38 +27924,6 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["customTextUpdate"] = "event",
 			["url"] = "https://wago.io/bfaraid2/103",
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Transition.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["useglowColor"] = false,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["internalVersion"] = 11,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["conditions"] = {
-			},
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -27812,12 +27937,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["subeventPrefix"] = "SPELL",
 						["use_unit"] = true,
-						["events"] = "UNIT_SPELLCAST_CHANNEL_START, UNIT_SPELLCAST_CHANNEL_STOP",
-						["useName"] = true,
-						["name"] = "Plague of Toads",
-						["debuffType"] = "HARMFUL",
-						["subeventSuffix"] = "_CAST_START",
+						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284446\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284446 and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    return true\nend",
 						["type"] = "custom",
+						["events"] = "UNIT_SPELLCAST_CHANNEL_START, UNIT_SPELLCAST_CHANNEL_STOP",
+						["custom_hide"] = "timed",
+						["subeventSuffix"] = "_CAST_START",
+						["useName"] = true,
 						["use_debuffClass"] = false,
 						["custom_type"] = "stateupdate",
 						["spellIds"] = {
@@ -27830,8 +27955,8 @@ WeakAurasSaved = {
 							"Caress of Death", -- [1]
 						},
 						["use_spellId"] = false,
-						["custom"] = "function(allstates, event, ...)\n    if event == \"UNIT_SPELLCAST_CHANNEL_START\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284446\n        then\n            local _, _, _, startC, endC  = UnitChannelInfo(unitID)\n            local durationTime = (endC - startC) / 1000\n            local expirationTime = endC / 1000\n            allstates[UnitGUID(unitID)] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = durationTime,\n                expirationTime = expirationTime,\n                autoHide = true,\n            } \n        end\n    end\n    if event == \"UNIT_SPELLCAST_CHANNEL_STOP\" then\n        local unitID, castGUID, spellID = ...\n        if spellID == 284446 and allstates[UnitGUID(unitID)] then\n            allstates[UnitGUID(unitID)].changed = true\n            allstates[UnitGUID(unitID)].show = false\n        end\n    end\n    return true\nend",
-						["custom_hide"] = "timed",
+						["name"] = "Plague of Toads",
+						["debuffType"] = "HARMFUL",
 						["check"] = "event",
 						["combineMatches"] = "showLowest",
 						["useGroup_count"] = false,
@@ -27844,217 +27969,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Containment"] = "OUTSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["uid"] = "c)yAxxtuoRZ",
-			["load"] = {
-				["use_encounterid"] = true,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2272",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["glow"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 1,
-			["text2Containment"] = "OUTSIDE",
-			["glowType"] = "Pixel",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["desaturate"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["text1FontFlags"] = "OUTLINE",
-			["useGlowColor"] = false,
-			["text2FontSize"] = 16,
-			["text2"] = "%p",
-			["text1"] = "Transition",
-			["auto"] = false,
-			["text1Font"] = "Arial Narrow",
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
-			["text2Enabled"] = false,
-			["id"] = "07 Bwonsamdi's Boon",
-			["text2Font"] = "Arial Narrow",
-			["alpha"] = 1,
-			["width"] = 80,
-			["stickyDuration"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["text1Enabled"] = true,
-			["displayIcon"] = "237557",
-			["cooldown"] = true,
-			["xOffset"] = 0,
-		},
-		["08 Storm's Wail"] = {
-			["text2Point"] = "BOTTOMRIGHT",
-			["useGlowColor"] = true,
-			["text1FontSize"] = 16,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/bfaraid2/103",
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownTextEnabled"] = true,
-			["cooldownSwipe"] = true,
-			["conditions"] = {
-			},
-			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Clear.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["auranames"] = {
-							"285350", -- [1]
-						},
-						["matchesShowOn"] = "showOnActive",
-						["names"] = {
-							"Storm's Wail", -- [1]
-						},
-						["use_tooltip"] = false,
-						["debuffType"] = "HARMFUL",
-						["useName"] = true,
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["subeventPrefix"] = "SPELL",
-						["event"] = "Cast",
-						["use_unit"] = true,
-						["unevent"] = "auto",
-						["type"] = "aura2",
-						["spellIds"] = {
-							285350, -- [1]
-						},
-						["useGroup_count"] = false,
-						["buffShowOn"] = "showOnActive",
-						["combineMatches"] = "showLowest",
-						["use_absorbMode"] = true,
-						["unit"] = "player",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["authorOptions"] = {
-			},
-			["useTooltip"] = false,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text2Font"] = "Arial Narrow",
-			["config"] = {
-			},
-			["text1Enabled"] = true,
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["width"] = 80,
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2280",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["frameStrata"] = 1,
-			["authorMode"] = true,
-			["alpha"] = 1,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["icon"] = true,
-			["glow"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["auto"] = false,
-			["text2"] = "%s",
-			["text2FontSize"] = 25,
-			["text1FontFlags"] = "OUTLINE",
-			["text1"] = "Clear Pools",
-			["text1Font"] = "Arial Narrow",
 			["internalVersion"] = 11,
-			["zoom"] = 0.3,
-			["semver"] = "2.0.34-103",
-			["text1Containment"] = "OUTSIDE",
-			["id"] = "08 Storm's Wail",
-			["desaturate"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
+			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -28069,12 +27986,231 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["uid"] = "MkEiT41z1I8",
-			["inverse"] = false,
+			["conditions"] = {
+			},
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Transition.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
 			["useglowColor"] = false,
-			["displayIcon"] = 1717108,
-			["cooldown"] = true,
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "c)yAxxtuoRZ",
+			["load"] = {
+				["use_encounterid"] = true,
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2272",
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
 			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["text2Containment"] = "OUTSIDE",
+			["glowType"] = "Pixel",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Font"] = "Arial Narrow",
+			["stickyDuration"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["xOffset"] = 0,
+			["useGlowColor"] = false,
+			["text2FontSize"] = 16,
+			["text2"] = "%p",
+			["text1"] = "Transition",
+			["auto"] = false,
+			["alpha"] = 1,
+			["zoom"] = 0.3,
+			["semver"] = "2.0.34-103",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "07 Bwonsamdi's Boon",
+			["text2Font"] = "Arial Narrow",
+			["text2Enabled"] = false,
+			["width"] = 80,
+			["text1Containment"] = "OUTSIDE",
+			["config"] = {
+			},
+			["inverse"] = false,
+			["text1Enabled"] = true,
+			["displayIcon"] = "237557",
+			["cooldown"] = true,
+			["glow"] = false,
+		},
+		["LootSpecGroup"] = {
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["controlledChildren"] = {
+				"LootSpecIcon", -- [1]
+				"CurrentSpecIcon", -- [2]
+			},
+			["borderBackdrop"] = "Blizzard Tooltip",
+			["scale"] = 1,
+			["internalVersion"] = 11,
+			["border"] = false,
+			["borderEdge"] = "None",
+			["regionType"] = "group",
+			["borderSize"] = 16,
+			["xOffset"] = -1269.08508300781,
+			["borderColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["authorOptions"] = {
+			},
+			["url"] = "https://wago.io/SJzvGvYd7/6",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["unit"] = "player",
+						["spellIds"] = {
+						},
+						["debuffType"] = "HELPFUL",
+						["names"] = {
+						},
+						["subeventPrefix"] = "SPELL",
+						["buffShowOn"] = "showOnActive",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["yOffset"] = -1286.08000183105,
+			["borderOffset"] = 5,
+			["semver"] = "1.0.0-6",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["id"] = "LootSpecGroup",
+			["anchorPoint"] = "TOP",
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["selfPoint"] = "BOTTOMLEFT",
+			["config"] = {
+			},
+			["version"] = 6,
+			["expanded"] = true,
+			["borderInset"] = 11,
+			["conditions"] = {
+			},
+			["load"] = {
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["use_class"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["uid"] = "kOJWhIeMGTv",
 		},
 		["07 Serpent's Breath"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -28087,7 +28223,7 @@ WeakAurasSaved = {
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -28118,12 +28254,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["use_unit"] = true,
 						["buffShowOn"] = "showOnActive",
-						["unevent"] = "auto",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"272868", -- [1]
 						},
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["unevent"] = "auto",
 						["matchesShowOn"] = "showOnActive",
 						["subeventSuffix"] = "_CAST_START",
 						["event"] = "Cast",
@@ -28148,7 +28284,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -28163,31 +28299,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["animation"] = {
 				["start"] = {
@@ -28233,10 +28369,10 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["uid"] = "hAv0rYFQiSm",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 136040,
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["04 Coin Shower"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -28246,10 +28382,10 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    if aura_env.state and aura_env.state.unitName then\n        return WA_ClassColorName(aura_env.state.unitName)\n    end\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["authorOptions"] = {
 			},
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
 			["actions"] = {
@@ -28262,7 +28398,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -28288,6 +28423,7 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "",
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -28333,32 +28469,32 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2271",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = false,
+				["encounterid"] = "2271",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = false,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "Pixel",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "Pixel",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text2Color"] = {
@@ -28399,16 +28535,16 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["cooldownSwipe"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -28418,6 +28554,7 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -28427,12 +28564,12 @@ WeakAurasSaved = {
 						["use_tooltip"] = false,
 						["use_unit"] = true,
 						["buffShowOn"] = "showOnActive",
-						["unevent"] = "auto",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
 						["auraspellids"] = {
 							"289858", -- [1]
 						},
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["unevent"] = "auto",
 						["matchesShowOn"] = "showOnActive",
 						["subeventSuffix"] = "_CAST_START",
 						["event"] = "Cast",
@@ -28458,7 +28595,6 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
@@ -28483,32 +28619,32 @@ WeakAurasSaved = {
 					["single"] = "TANK",
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = true,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = true,
 				["encounterid"] = "2272",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["icon"] = true,
 			["text2Color"] = {
@@ -28573,112 +28709,6 @@ WeakAurasSaved = {
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["icon"] = true,
-			["useglowColor"] = false,
-			["actions"] = {
-				["start"] = {
-					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
-					["do_sound"] = true,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["conditions"] = {
-			},
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
-			["uid"] = "A8)HFDmiJVN",
-			["load"] = {
-				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2281",
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
-			["frameStrata"] = 1,
-			["authorOptions"] = {
-			},
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/bfaraid2/103",
-			["text2FontSize"] = 25,
-			["auto"] = true,
-			["text1"] = "Spread",
-			["glow"] = false,
-			["alpha"] = 1,
-			["text2"] = "%s",
-			["semver"] = "2.0.34-103",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["id"] = "09 Heart of Frost",
-			["internalVersion"] = 11,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextEnabled"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["displayIcon"] = 135854,
-			["cooldown"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -28719,6 +28749,112 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["actions"] = {
+				["start"] = {
+					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg",
+					["do_sound"] = true,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["conditions"] = {
+			},
+			["selfPoint"] = "CENTER",
+			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["uid"] = "A8)HFDmiJVN",
+			["load"] = {
+				["use_encounterid"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["authorOptions"] = {
+			},
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["url"] = "https://wago.io/bfaraid2/103",
+			["text2FontSize"] = 25,
+			["auto"] = true,
+			["text1"] = "Spread",
+			["glow"] = false,
+			["alpha"] = 1,
+			["text2"] = "%s",
+			["semver"] = "2.0.34-103",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "09 Heart of Frost",
+			["internalVersion"] = 11,
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextEnabled"] = true,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["desaturate"] = false,
+			["displayIcon"] = 135854,
+			["cooldown"] = true,
+			["useglowColor"] = false,
 		},
 		["09 Kul Tiran Corsair"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -28734,9 +28870,9 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "if not UnitGUID(\"boss3\") then\n    PlaySoundFile(aura_env.side, \"MASTER\")\nend",
 					["sound"] = " custom",
 					["do_custom"] = true,
-					["custom"] = "if not UnitGUID(\"boss3\") then\n    PlaySoundFile(aura_env.side, \"MASTER\")\nend",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -28776,20 +28912,20 @@ WeakAurasSaved = {
 						["debuffType"] = "HARMFUL",
 						["subeventPrefix"] = "SPELL",
 						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
 						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["names"] = {
 							"Chilling Touch", -- [1]
 						},
 						["custom_type"] = "event",
 						["event"] = "Cast",
-						["name"] = "Icefall",
 						["spellIds"] = {
 							285215, -- [1]
 						},
+						["name"] = "Icefall",
 						["use_spellId"] = false,
-						["custom"] = "function(event)\n    if event == \"INSTANCE_ENCOUNTER_ENGAGE_UNIT\" then \n        if UnitGUID(\"boss2\") and not WeakAuras.triggerState[aura_env.id].triggers[1] then\n            local guid = select(6, strsplit(\"-\", UnitGUID(\"boss2\")))\n            if aura_env.GUIDS[guid] then\n                aura_env.side = aura_env.GUIDS[guid]\n                return true \n            end\n        end\n    end\nend",
 						["events"] = "INSTANCE_ENCOUNTER_ENGAGE_UNIT",
+						["custom"] = "function(event)\n    if event == \"INSTANCE_ENCOUNTER_ENGAGE_UNIT\" then \n        if UnitGUID(\"boss2\") and not WeakAuras.triggerState[aura_env.id].triggers[1] then\n            local guid = select(6, strsplit(\"-\", UnitGUID(\"boss2\")))\n            if aura_env.GUIDS[guid] then\n                aura_env.side = aura_env.GUIDS[guid]\n                return true \n            end\n        end\n    end\nend",
 						["custom_hide"] = "timed",
 						["use_absorbMode"] = true,
 						["use_unit"] = true,
@@ -28823,16 +28959,16 @@ WeakAurasSaved = {
 					},
 				},
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["use_role"] = false,
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_role"] = false,
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -28843,12 +28979,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["cooldownEdge"] = false,
 			["text2Color"] = {
@@ -28873,7 +29004,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2Enabled"] = false,
 			["width"] = 80,
-			["text1Font"] = "Arial Narrow",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "TzO6qFPzlnz",
 			["inverse"] = false,
 			["xOffset"] = 0,
@@ -28888,12 +29024,7 @@ WeakAurasSaved = {
 		},
 		["01 Seal of Reckoning"] = {
 			["text2Point"] = "CENTER",
-			["text2Color"] = {
-				1, -- [1]
-				0, -- [2]
-				0.007843137254902, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Arial Narrow",
 			["text1FontSize"] = 16,
 			["xOffset"] = 0,
 			["icon"] = true,
@@ -28950,7 +29081,7 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["internalVersion"] = 11,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -28966,11 +29097,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["internalVersion"] = 11,
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
 			["config"] = {
 			},
-			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -28981,18 +29112,18 @@ WeakAurasSaved = {
 			["version"] = 103,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Containment"] = "OUTSIDE",
+			["stickyDuration"] = false,
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2265",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -29010,18 +29141,23 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["alpha"] = 1,
-			["text2Font"] = "Arial Narrow",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				0, -- [2]
+				0.007843137254902, -- [3]
+				1, -- [4]
+			},
 			["regionType"] = "icon",
-			["text1Font"] = "Arial Narrow",
+			["text1FontFlags"] = "OUTLINE",
 			["auto"] = true,
 			["text2FontSize"] = 35,
 			["text2"] = "%p",
 			["text1"] = "%c",
 			["glow"] = false,
-			["useGlowColor"] = false,
-			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
+			["zoom"] = 0.3,
+			["useGlowColor"] = false,
 			["desaturate"] = true,
 			["id"] = "01 Seal of Reckoning",
 			["selfPoint"] = "CENTER",
@@ -29123,19 +29259,19 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "status",
 						["subeventSuffix"] = "_CAST_START",
-						["names"] = {
-						},
-						["custom"] = "function() return true end",
-						["genericShowOn"] = "showOnActive",
 						["unit"] = "player",
 						["spellIds"] = {
 						},
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function() return true end",
 						["customIcon"] = "function()\n    local specID = GetLootSpecialization();\n    local id,name,_,icon = GetSpecializationInfo(GetSpecialization());\n    \n    if specID == 0 then specID = id;\n        _,_,_,icon = GetSpecializationInfoByID(specID); \n    end\n    _,_,_,icon = GetSpecializationInfoByID(specID);\n    return icon\nend\n\n\n",
 						["events"] = "PLAYER_ENTERING_WORLD,PLAYER_LOOT_SPEC_UPDATED,PLAYER_SPECIALIZATION_CHANGED",
 						["customTexture"] = "\n\n",
 						["check"] = "event",
-						["event"] = "Health",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
+						["genericShowOn"] = "showOnActive",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -29145,13 +29281,13 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function()\n    return true\nend\n\n\n\n\n\n\n\n\n",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
+			["desaturate"] = false,
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "TOPLEFT",
+			["authorOptions"] = {
+			},
 			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
 			["displayIcon"] = "",
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -29222,7 +29358,12 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["width"] = 30,
 			["text2Enabled"] = false,
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -29230,14 +29371,14 @@ WeakAurasSaved = {
 			["text1Containment"] = "INSIDE",
 			["internalVersion"] = 11,
 			["text2FontSize"] = 24,
-			["zoom"] = 0,
-			["text1"] = "L",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1"] = "L",
+			["zoom"] = 0,
 			["frameStrata"] = 1,
 			["text2"] = "%p",
 			["auto"] = true,
@@ -29259,12 +29400,7 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Font"] = "Friz Quadrata TT",
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -29282,11 +29418,6 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\n    return aura_env.counter\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["icon"] = true,
-			["cooldownSwipe"] = true,
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
 					["custom"] = "if aura_env.counter ~= 6 then PlaySoundFile(\"Interface\\\\AddOns\\\\SharedMedia_Causese\\\\sound\\\\Next.ogg\", \"MASTER\")\nelse PlaySoundFile(\"Interface\\\\AddOns\\\\SharedMedia_Causese\\\\sound\\\\Collect.ogg\", \"MASTER\")\nend",
@@ -29301,7 +29432,11 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
-			["useglowColor"] = false,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/bfaraid2/103",
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -29317,10 +29452,10 @@ WeakAurasSaved = {
 						["unit"] = "target",
 						["customDuration"] = "function()\n    return 3, 3+GetTime()\nend",
 						["custom_type"] = "event",
-						["events"] = "UNIT_HEALTH",
-						["custom"] = "function(event, unit) \n    if UnitExists(unit) then\n        if aura_env.GUIDS[select(6, strsplit(\"-\", UnitGUID(unit)))] and string.match(unit, \"boss\") then\n            if IsItemInRange(28767, unit) then\n                local bosshp = ((UnitHealth(unit)/UnitHealthMax(unit))*100)\n                if aura_env.counter == 0 and bosshp <= 90 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 1 and bosshp <= 80 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 2 and bosshp <= 70 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 3 and bosshp <= 60 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 4 and bosshp <= 50 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 5 and bosshp <= 40 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 6 and bosshp <= 30 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    local aura_env = aura_env\n                    C_Timer.After(3, function() aura_env.counter = aura_env.counter + 1 end)\n                    return true\n                end\n            end\n        end\n    end\nend",
 						["spellIds"] = {
 						},
+						["events"] = "UNIT_HEALTH",
+						["custom"] = "function(event, unit) \n    if UnitExists(unit) then\n        if aura_env.GUIDS[select(6, strsplit(\"-\", UnitGUID(unit)))] and string.match(unit, \"boss\") then\n            if IsItemInRange(28767, unit) then\n                local bosshp = ((UnitHealth(unit)/UnitHealthMax(unit))*100)\n                if aura_env.counter == 0 and bosshp <= 90 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 1 and bosshp <= 80 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 2 and bosshp <= 70 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 3 and bosshp <= 60 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 4 and bosshp <= 50 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 5 and bosshp <= 40 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    return true\n                elseif aura_env.counter == 6 and bosshp <= 30 then\n                    aura_env.counter = aura_env.counter + 1\n                    WeakAuras.ScanEvents(\"ROOM_COUNTER\", aura_env.counter)\n                    local aura_env = aura_env\n                    C_Timer.After(3, function() aura_env.counter = aura_env.counter + 1 end)\n                    return true\n                end\n            end\n        end\n    end\nend",
 						["use_unit"] = true,
 						["names"] = {
 						},
@@ -29349,13 +29484,14 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(t)\nreturn t[1] and aura_env.counter ~= 8\nend",
 				["activeTriggerMode"] = 1,
 			},
+			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -29370,31 +29506,31 @@ WeakAurasSaved = {
 			["uid"] = "0HV341ua)q6",
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["authorOptions"] = {
 			},
@@ -29453,11 +29589,11 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["cooldownTextEnabled"] = true,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = " custom",
@@ -29468,7 +29604,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -29480,8 +29615,8 @@ WeakAurasSaved = {
 						["auranames"] = {
 							"288394", -- [1]
 						},
-						["debuffType"] = "HARMFUL",
 						["buffShowOn"] = "showOnActive",
+						["debuffType"] = "HARMFUL",
 						["subeventSuffix"] = "_CAST_START",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
@@ -29509,6 +29644,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["useglowColor"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -29527,8 +29663,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -29544,31 +29680,31 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2281",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["alpha"] = 1,
 			["frameStrata"] = 1,
 			["text2Color"] = {
@@ -29604,29 +29740,43 @@ WeakAurasSaved = {
 			["text1Enabled"] = true,
 			["displayIcon"] = 135854,
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 		},
 		["05 Hastening Winds (Tank Only)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
-			["text1FontFlags"] = "OUTLINE",
+			["xOffset"] = 0,
 			["text1FontSize"] = 16,
+			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
+			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["glow"] = false,
+			["cooldownSwipe"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
-			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
-			["cooldownSwipe"] = true,
-			["xOffset"] = 0,
 			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/bfaraid2/103",
-			["icon"] = true,
+			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "",
+					["do_sound"] = false,
+					["do_custom"] = false,
+					["sound"] = " custom",
+					["sound_path"] = "",
+				},
+				["finish"] = {
+					["sound"] = " custom",
+					["sound_path"] = "",
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+			},
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -29638,8 +29788,8 @@ WeakAurasSaved = {
 						["specificUnit"] = "boss1",
 						["group_count"] = "0",
 						["use_specific_unit"] = false,
-						["group_countOperator"] = ">",
 						["debuffType"] = "HELPFUL",
+						["group_countOperator"] = ">",
 						["showClones"] = false,
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
@@ -29729,24 +29879,8 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["internalVersion"] = 11,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["cooldownEdge"] = false,
-			["glow"] = false,
-			["config"] = {
-			},
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["version"] = 103,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -29762,18 +29896,18 @@ WeakAurasSaved = {
 					["use_translate"] = false,
 					["use_alpha"] = false,
 					["type"] = "none",
-					["preset"] = "alphaPulse",
-					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
 					["scaley"] = 1,
+					["translateFunc"] = "    function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
+					["preset"] = "alphaPulse",
 					["alpha"] = 0,
 					["use_color"] = false,
 					["y"] = 0,
-					["colorType"] = "pulseHSV",
+					["x"] = 0,
 					["colorR"] = 0.77254901960784,
 					["duration_type"] = "seconds",
 					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      local newProgress = ((math.sin(angle) + 1)/2);\n      return WeakAuras.GetHSVTransition(newProgress, r1, g1, b1, a1, r2, g2, b2, a2)\n    end\n  ",
 					["rotate"] = 0,
-					["x"] = 0,
+					["colorType"] = "pulseHSV",
 					["colorA"] = 1,
 				},
 				["finish"] = {
@@ -29782,6 +29916,23 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = true,
+			["config"] = {
+			},
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["version"] = 103,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -29809,11 +29960,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -29843,37 +29994,17 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["actions"] = {
-				["start"] = {
-					["custom"] = "",
-					["do_sound"] = false,
-					["sound_path"] = "",
-					["do_custom"] = false,
-					["sound"] = " custom",
-				},
-				["finish"] = {
-					["sound"] = " custom",
-					["sound_path"] = "",
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-			},
-			["text1Enabled"] = true,
+			["text1Font"] = "Arial Narrow",
+			["internalVersion"] = 11,
+			["selfPoint"] = "CENTER",
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["regionType"] = "icon",
-			["text1Font"] = "Arial Narrow",
 			["auto"] = true,
 			["text2FontSize"] = 25,
 			["text2"] = "%s%c",
@@ -29889,18 +30020,23 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["text2Enabled"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["zoom"] = 0.3,
 			["semver"] = "2.0.34-103",
-			["desaturate"] = false,
+			["icon"] = true,
 			["id"] = "05 Hastening Winds (Tank Only)",
-			["cooldownTextEnabled"] = true,
+			["text2Enabled"] = true,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["text1Containment"] = "OUTSIDE",
 			["uid"] = "Thl8WMFanq4",
 			["inverse"] = false,
-			["text2Font"] = "Arial Narrow",
+			["url"] = "https://wago.io/bfaraid2/103",
 			["displayIcon"] = 633004,
 			["cooldown"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
@@ -29914,16 +30050,16 @@ WeakAurasSaved = {
 			["customText"] = "function()\n    local r = aura_env.region\n    r.text2:ClearAllPoints()\n    r.text2:SetPoint(\"BOTTOMRIGHT\", r, \"BOTTOMRIGHT\", -2, 1)\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["parent"] = "T23 Battle of Dazar'alor Auras",
-			["cooldownSwipe"] = true,
 			["xOffset"] = 0,
+			["cooldownSwipe"] = true,
+			["parent"] = "T23 Battle of Dazar'alor Auras",
 			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/bfaraid2/103",
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = "Interface\\Addons\\SharedMedia_Causese\\sound\\Dont Move.ogg",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = true,
 				},
 				["finish"] = {
@@ -29932,7 +30068,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["url"] = "https://wago.io/bfaraid2/103",
+			["cooldownEdge"] = false,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -30014,39 +30150,39 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				0.98039215686274, -- [1]
 				0.95294117647059, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["anchorFrameType"] = "SCREEN",
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["desaturate"] = false,
 			["icon"] = true,
@@ -30091,9 +30227,9 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -30144,7 +30280,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1Containment"] = "OUTSIDE",
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -30161,32 +30297,32 @@ WeakAurasSaved = {
 					["single"] = "mythic",
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2276",
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["use_difficulty"] = true,
+				["encounterid"] = "2276",
 				["class"] = {
 					["multi"] = {
 					},
 				},
+				["use_difficulty"] = true,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
+			["text1Font"] = "Arial Narrow",
+			["authorMode"] = true,
+			["width"] = 80,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorMode"] = true,
-			["width"] = 80,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Arial Narrow",
 			["frameStrata"] = 1,
 			["url"] = "https://wago.io/bfaraid2/103",
 			["text1FontFlags"] = "OUTLINE",
@@ -30232,7 +30368,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 1698700,
 			["cooldown"] = true,
 			["parent"] = "T23 Battle of Dazar'alor Auras",
@@ -30279,14 +30415,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["cooldownTextEnabled"] = true,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = false,
+			["text1Containment"] = "INSIDE",
+			["xOffset"] = 0,
+			["glow"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -30298,7 +30429,7 @@ WeakAurasSaved = {
 			["version"] = 1,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 64,
-			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
 			["load"] = {
 				["use_combat"] = false,
 				["spec"] = {
@@ -30314,7 +30445,32 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["cooldownTextEnabled"] = true,
+			["icon"] = true,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Friz Quadrata TT",
+			["uid"] = "rJZlIzacIZB",
+			["selfPoint"] = "CENTER",
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["width"] = 64,
+			["alpha"] = 1,
+			["text2FontSize"] = 24,
+			["text1FontFlags"] = "OUTLINE",
+			["text1"] = "%s",
+			["zoom"] = 0,
+			["auto"] = true,
+			["text2"] = "%p",
+			["semver"] = "1.0.0",
+			["frameStrata"] = 1,
+			["id"] = "Water!!!",
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -30328,10 +30484,10 @@ WeakAurasSaved = {
 						["duration"] = "1",
 						["event"] = "Item Count",
 						["debuffType"] = "HELPFUL",
-						["spellIds"] = {
-						},
 						["use_itemName"] = true,
 						["count"] = "100",
+						["spellIds"] = {
+						},
 						["unit"] = "player",
 						["unevent"] = "auto",
 						["subeventPrefix"] = "SPELL",
@@ -30360,43 +30516,23 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = -10,
 			},
-			["text2Color"] = {
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
-			["uid"] = "rJZlIzacIZB",
-			["cooldownEdge"] = false,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["width"] = 64,
-			["alpha"] = 1,
-			["text2FontSize"] = 24,
-			["auto"] = true,
-			["text1"] = "%s",
-			["glow"] = false,
-			["text2"] = "%p",
-			["zoom"] = 0,
-			["semver"] = "1.0.0",
-			["frameStrata"] = 1,
-			["id"] = "Water!!!",
-			["stickyDuration"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["icon"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
+			["text1Enabled"] = false,
 			["authorOptions"] = {
 			},
-			["xOffset"] = 0,
 		},
 		["04 Opal of Unleashed Rage"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -30450,15 +30586,15 @@ WeakAurasSaved = {
 			},
 			["load"] = {
 				["use_encounterid"] = true,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
 				["class"] = {
 					["multi"] = {
 					},
 				},
 				["encounterid"] = "2271",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["multi"] = {
 					},
@@ -30489,12 +30625,14 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["use_specific_unit"] = false,
 						["buffShowOn"] = "showOnActive",
-						["unevent"] = "auto",
+						["auraspellids"] = {
+							"284883", -- [1]
+						},
 						["debuffType"] = "HARMFUL",
-						["subeventSuffix"] = "_CAST_START",
+						["useExactSpellId"] = true,
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
-						["useExactSpellId"] = true,
+						["subeventSuffix"] = "_CAST_START",
 						["name"] = "Opal of Unleashed Rage",
 						["fetchTooltip"] = true,
 						["event"] = "Cast",
@@ -30506,9 +30644,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							284883, -- [1]
 						},
-						["auraspellids"] = {
-							"284883", -- [1]
-						},
+						["unevent"] = "auto",
 						["remOperator"] = "<=",
 						["combineMatches"] = "showLowest",
 						["use_absorbMode"] = true,
@@ -30529,9 +30665,9 @@ WeakAurasSaved = {
 			},
 			["actions"] = {
 				["start"] = {
+					["custom"] = "",
 					["sound"] = " custom",
 					["do_custom"] = false,
-					["custom"] = "",
 					["do_sound"] = false,
 				},
 				["finish"] = {
@@ -30567,13 +30703,9 @@ WeakAurasSaved = {
 	},
 	["registered"] = {
 	},
-	["minimap"] = {
-		["minimapPos"] = 285.444860106683,
-		["hide"] = true,
-	},
 	["frame"] = {
-		["xOffset"] = -556.4228515625,
-		["yOffset"] = -251.664794921875,
+		["xOffset"] = -365.411376953125,
+		["yOffset"] = -137.65771484375,
 		["height"] = 987.019958496094,
 		["width"] = 1144.02453613281,
 	},

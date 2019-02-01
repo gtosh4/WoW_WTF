@@ -1,18 +1,12 @@
 
 DeathNoteDB = {
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Tosh - Kil'jaeden"] = {
-			["searchbox_text"] = "",
-			["display"] = {
-				["w"] = 699.999938964844,
-				["y"] = 237.015075683594,
-				["x"] = -1244.09970092773,
-				["h"] = 500.000122070313,
-			},
+		["Zaemme - Kil'jaeden"] = {
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["searchbox_text"] = "",
@@ -22,6 +16,16 @@ DeathNoteDB = {
 				["x"] = -752.047210693359,
 				["w"] = 700.000061035156,
 				["h"] = 500.000244140625,
+			},
+		},
+		["Tosh - Kil'jaeden"] = {
+			["searchbox_text"] = "",
+			["display"] = {
+				["w"] = 699.999938964844,
+				["y"] = 106.007049560547,
+				["namelist"] = 2,
+				["h"] = 500.000183105469,
+				["x"] = -562.056915283203,
 			},
 		},
 	},

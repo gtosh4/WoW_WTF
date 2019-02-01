@@ -5,10 +5,613 @@ HekiliDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
+		["Zaemme - Kil'jaeden"] = {
+			["runOnce"] = {
+				["reviseDisplayModes_20180709"] = true,
+				["enableAllOfTheThings_20180820"] = true,
+			},
+			["specs"] = {
+				[70] = {
+					["enabled"] = true,
+					["maxRefresh"] = 10,
+					["damage"] = true,
+					["throttleRefresh"] = false,
+					["package"] = "Retribution",
+					["damageExpiration"] = 8,
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["cycle"] = false,
+					["nameplateRange"] = 8,
+					["potion"] = "battle_potion_of_strength",
+					["debuffPadding"] = 0,
+					["aoe"] = 3,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["buffPadding"] = 0.25,
+				},
+				[66] = {
+					["enabled"] = true,
+					["maxRefresh"] = 10,
+					["damage"] = true,
+					["throttleRefresh"] = false,
+					["package"] = "Protection Paladin",
+					["damageExpiration"] = 8,
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["cycle"] = false,
+					["nameplateRange"] = 8,
+					["potion"] = "potion_of_bursting_blood",
+					["debuffPadding"] = 0,
+					["aoe"] = 2,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["buffPadding"] = 0.25,
+				},
+			},
+			["displays"] = {
+				["Interrupts"] = {
+				},
+			},
+			["packs"] = {
+				["Protection Paladin"] = {
+					["source"] = "https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Paladin_Protection.simc",
+					["builtIn"] = true,
+					["date"] = 20181022.2059,
+					["author"] = "SimC",
+					["desc"] = "# Protection Paladin\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Paladin_Protection.simc\n# October 22, 2018 - 8:58 PM\n\n# Changes\n# - Added Rebuke.",
+					["lists"] = {
+						["cooldowns"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.avenging_wrath.up",
+								["action"] = "fireblood",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown.shield_of_the_righteous.charges_fractional >= 2",
+								["action"] = "seraphim",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.seraphim.up || cooldown.seraphim.remains < 2 || ! talent.seraphim.enabled",
+								["action"] = "avenging_wrath",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown.shield_of_the_righteous.charges_fractional <= 0",
+								["action"] = "bastion_of_light",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.avenging_wrath.up",
+								["action"] = "potion",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.seraphim.up || ! talent.seraphim.enabled",
+								["action"] = "use_items",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["name"] = "razdunks_big_red_button",
+								["action"] = "razdunks_big_red_button",
+							}, -- [7]
+						},
+						["mitigation"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & action.shield_of_the_righteous.charges > 2 & ! ( buff.aegis_of_light.up & buff.ardent_defender.up & buff.guardian_of_ancient_kings.up & buff.divine_shield.up & buff.potion.up )",
+								["action"] = "shield_of_the_righteous",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & talent.bastion_of_light.enabled & action.shield_of_the_righteous.charges < 1",
+								["action"] = "bastion_of_light",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "( health.pct < 40 )",
+								["action"] = "light_of_the_protector",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "( health.pct < 40 )",
+								["action"] = "hand_of_the_protector",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "( incoming_damage_10000ms < health.max * 1.25 ) & health.pct < 55 & talent.righteous_protector.enabled",
+								["action"] = "light_of_the_protector",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "( incoming_damage_13000ms < health.max * 1.6 ) & health.pct < 55",
+								["action"] = "light_of_the_protector",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "( incoming_damage_6000ms < health.max * 0.7 ) & health.pct < 65 & talent.righteous_protector.enabled",
+								["action"] = "hand_of_the_protector",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "( incoming_damage_9000ms < health.max * 1.2 ) & health.pct < 55",
+								["action"] = "hand_of_the_protector",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & incoming_damage_2500ms > health.max * 0.4 & ! ( buff.aegis_of_light.up || buff.ardent_defender.up || buff.guardian_of_ancient_kings.up || buff.divine_shield.up || buff.potion.up )",
+								["action"] = "aegis_of_light",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & incoming_damage_2500ms > health.max * 0.4 & ! ( buff.aegis_of_light.up || buff.ardent_defender.up || buff.guardian_of_ancient_kings.up || buff.divine_shield.up || buff.potion.up )",
+								["action"] = "guardian_of_ancient_kings",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & talent.final_stand.enabled & incoming_damage_2500ms > health.max * 0.4 & ! ( buff.aegis_of_light.up || buff.ardent_defender.up || buff.guardian_of_ancient_kings.up || buff.divine_shield.up || buff.potion.up )",
+								["action"] = "divine_shield",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & incoming_damage_2500ms > health.max * 0.4 & ! ( buff.aegis_of_light.up || buff.ardent_defender.up || buff.guardian_of_ancient_kings.up || buff.divine_shield.up || buff.potion.up )",
+								["action"] = "ardent_defender",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled & health.pct < 15",
+								["action"] = "lay_on_hands",
+							}, -- [13]
+						},
+						["default"] = {
+							{
+								["action"] = "auto_attack",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["action"] = "rebuke",
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "mitigation",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "cooldowns",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.avengers_valor.up & cooldown.shield_of_the_righteous.charges_fractional >= 2.5 ) & ( cooldown.seraphim.remains > gcd || ! talent.seraphim.enabled )",
+								["action"] = "shield_of_the_righteous",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.avenging_wrath.up & ! talent.seraphim.enabled ) || buff.seraphim.up & buff.avengers_valor.up",
+								["action"] = "shield_of_the_righteous",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.avenging_wrath.up & buff.avenging_wrath.remains < 4 & ! talent.seraphim.enabled ) || ( buff.seraphim.remains < 4 & buff.seraphim.up )",
+								["action"] = "shield_of_the_righteous",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.seraphim.up & buff.seraphim.remains < 3",
+								["action"] = "lights_judgment",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "! consecration.up",
+								["action"] = "consecration",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["criteria"] = "( cooldown.judgment.remains < gcd & cooldown.judgment.charges_fractional > 1 & cooldown_react ) || ! talent.crusaders_judgment.enabled",
+								["action"] = "judgment",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown_react",
+								["action"] = "avengers_shield",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown_react || ! talent.crusaders_judgment.enabled",
+								["action"] = "judgment",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.seraphim.enabled || buff.seraphim.up",
+								["action"] = "lights_judgment",
+							}, -- [13]
+							{
+								["enabled"] = true,
+								["action"] = "blessed_hammer",
+								["strikes"] = "2",
+							}, -- [14]
+							{
+								["action"] = "hammer_of_the_righteous",
+								["enabled"] = true,
+							}, -- [15]
+							{
+								["action"] = "consecration",
+								["enabled"] = true,
+							}, -- [16]
+						},
+						["precombat"] = {
+							{
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["enabled"] = true,
+							}, -- [4]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["action"] = "lights_judgment",
+								["enabled"] = true,
+							}, -- [6]
+							{
+								["action"] = "avenging_wrath",
+								["enabled"] = true,
+							}, -- [7]
+							{
+								["action"] = "seraphim",
+								["enabled"] = true,
+							}, -- [8]
+						},
+					},
+					["version"] = 20181022.2059,
+					["warnings"] = "WARNING:  The import for 'default' required some automated changes.\nLine 1: Unsupported action 'auto_attack'.\n\nImported 4 action lists.\n",
+					["spec"] = 66,
+					["profile"] = "# Protection Paladin\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Paladin_Protection.simc\n# October 22, 2018 - 8:58 PM\n\n# Changes\n# - Added Rebuke.\n\n# Executed before combat begins. Accepts non-harmful actions only.\nactions.precombat=flask\nactions.precombat+=/food\nactions.precombat+=/augmentation\n# Snapshot raid buffed stats before combat begins and pre-potting is done.\nactions.precombat+=/snapshot_stats\nactions.precombat+=/potion\nactions.precombat+=/lights_judgment\nactions.precombat+=/avenging_wrath\nactions.precombat+=/seraphim\n\n# Executed every time the actor is available.\nactions=auto_attack\nactions+=/rebuke\nactions+=/call_action_list,name=mitigation\nactions+=/call_action_list,name=cooldowns\n# Dumping SotR charges\nactions+=/shield_of_the_righteous,if=(buff.avengers_valor.up&cooldown.shield_of_the_righteous.charges_fractional>=2.5)&(cooldown.seraphim.remains>gcd||!talent.seraphim.enabled)\nactions+=/shield_of_the_righteous,if=(buff.avenging_wrath.up&!talent.seraphim.enabled)||buff.seraphim.up&buff.avengers_valor.up\nactions+=/shield_of_the_righteous,if=(buff.avenging_wrath.up&buff.avenging_wrath.remains<4&!talent.seraphim.enabled)||(buff.seraphim.remains<4&buff.seraphim.up)\nactions+=/lights_judgment,if=buff.seraphim.up&buff.seraphim.remains<3\nactions+=/consecration,if=!consecration.up\nactions+=/judgment,if=(cooldown.judgment.remains<gcd&cooldown.judgment.charges_fractional>1&cooldown_react)||!talent.crusaders_judgment.enabled\nactions+=/avengers_shield,if=cooldown_react\nactions+=/judgment,if=cooldown_react||!talent.crusaders_judgment.enabled\nactions+=/lights_judgment,if=!talent.seraphim.enabled||buff.seraphim.up\nactions+=/blessed_hammer,strikes=2\nactions+=/hammer_of_the_righteous\nactions+=/consecration\n\nactions.cooldowns=fireblood,if=buff.avenging_wrath.up\nactions.cooldowns+=/seraphim,if=cooldown.shield_of_the_righteous.charges_fractional>=2\nactions.cooldowns+=/avenging_wrath,if=buff.seraphim.up||cooldown.seraphim.remains<2||!talent.seraphim.enabled\nactions.cooldowns+=/bastion_of_light,if=cooldown.shield_of_the_righteous.charges_fractional<=0\nactions.cooldowns+=/potion,if=buff.avenging_wrath.up\nactions.cooldowns+=/use_items,if=buff.seraphim.up||!talent.seraphim.enabled\nactions.cooldowns+=/use_item,name=razdunks_big_red_button\n\nactions.mitigation=shield_of_the_righteous,if=!talent.seraphim.enabled&action.shield_of_the_righteous.charges>2&!(buff.aegis_of_light.up&buff.ardent_defender.up&buff.guardian_of_ancient_kings.up&buff.divine_shield.up&buff.potion.up)\nactions.mitigation+=/bastion_of_light,if=!talent.seraphim.enabled&talent.bastion_of_light.enabled&action.shield_of_the_righteous.charges<1\nactions.mitigation+=/light_of_the_protector,if=(health.pct<40)\nactions.mitigation+=/hand_of_the_protector,if=(health.pct<40)\nactions.mitigation+=/light_of_the_protector,if=(incoming_damage_10000ms<health.max*1.25)&health.pct<55&talent.righteous_protector.enabled\nactions.mitigation+=/light_of_the_protector,if=(incoming_damage_13000ms<health.max*1.6)&health.pct<55\nactions.mitigation+=/hand_of_the_protector,if=(incoming_damage_6000ms<health.max*0.7)&health.pct<65&talent.righteous_protector.enabled\nactions.mitigation+=/hand_of_the_protector,if=(incoming_damage_9000ms<health.max*1.2)&health.pct<55\nactions.mitigation+=/aegis_of_light,if=!talent.seraphim.enabled&incoming_damage_2500ms>health.max*0.4&!(buff.aegis_of_light.up||buff.ardent_defender.up||buff.guardian_of_ancient_kings.up||buff.divine_shield.up||buff.potion.up)\nactions.mitigation+=/guardian_of_ancient_kings,if=!talent.seraphim.enabled&incoming_damage_2500ms>health.max*0.4&!(buff.aegis_of_light.up||buff.ardent_defender.up||buff.guardian_of_ancient_kings.up||buff.divine_shield.up||buff.potion.up)\nactions.mitigation+=/divine_shield,if=!talent.seraphim.enabled&talent.final_stand.enabled&incoming_damage_2500ms>health.max*0.4&!(buff.aegis_of_light.up||buff.ardent_defender.up||buff.guardian_of_ancient_kings.up||buff.divine_shield.up||buff.potion.up)\nactions.mitigation+=/ardent_defender,if=!talent.seraphim.enabled&incoming_damage_2500ms>health.max*0.4&!(buff.aegis_of_light.up||buff.ardent_defender.up||buff.guardian_of_ancient_kings.up||buff.divine_shield.up||buff.potion.up)\nactions.mitigation+=/lay_on_hands,if=!talent.seraphim.enabled&health.pct<15",
+				},
+				["Retribution"] = {
+					["source"] = "https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/Tier21/T21_Paladin_Retribution.simc",
+					["builtIn"] = true,
+					["date"] = 20181230.2104,
+					["spec"] = 70,
+					["desc"] = "# Retribution Paladin\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Paladin_Retribution.simc\n# December 30, 2018 - 20:54\n\n# Changes:\n# - Updated trinkets.",
+					["profile"] = "# Retribution Paladin\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Paladin_Retribution.simc\n# December 30, 2018 - 20:54\n\n# Changes:\n# - Updated trinkets.\n\n# Executed before combat begins. Accepts non-harmful actions only.\nactions.precombat=flask\nactions.precombat+=/food\nactions.precombat+=/augmentation\n# Snapshot raid buffed stats before combat begins and pre-potting is done.\nactions.precombat+=/snapshot_stats\nactions.precombat+=/potion\nactions.precombat+=/arcane_torrent,if=!talent.wake_of_ashes.enabled\n\n# Executed every time the actor is available.\nactions=auto_attack\nactions+=/rebuke\nactions+=/call_action_list,name=opener\nactions+=/call_action_list,name=cooldowns\nactions+=/call_action_list,name=generators\n\nactions.cooldowns+=/use_item,name=razdunks_big_red_button\nactions.cooldowns+=/use_item,name=jes_howler,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack=10\nactions.cooldowns+=/use_item,name=vial_of_animated_blood,if=(buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<18)||(cooldown.avenging_wrath.remains>30||cooldown.crusade.remains>30)\nactions.cooldowns+=/use_item,name=dooms_fury,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<18\nactions.cooldowns+=/use_item,name=galecallers_beak,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<15\nactions.cooldowns+=/use_item,name=bygone_bee_almanac,if=buff.avenging_wrath.up||buff.crusade.up\nactions.cooldowns+=/use_item,name=merekthas_fang,if=(!raid_event.adds.exists||raid_event.adds.in>15)||spell_targets.divine_storm>=2\nactions.cooldowns+=/use_item,name=plunderbeards_flask,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack>=10||cooldown.avenging_wrath.remains>45||!buff.crusade.up&cooldown.crusade.remains>45\nactions.cooldowns+=/use_item,name=berserkers_juju,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack>=10||cooldown.avenging_wrath.remains>45||!buff.crusade.up&cooldown.crusade.remains>45\nactions.cooldowns+=/use_item,name=endless_tincture_of_fractional_power,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack>=10||cooldown.avenging_wrath.remains>45||cooldown.crusade.remains>45\nactions.cooldowns+=/use_item,name=pearl_divers_compass,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack>=10\nactions.cooldowns+=/use_item,name=first_mates_spyglass,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<=15\nactions.cooldowns+=/use_item,name=whirlwings_plumage,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<=20\nactions.cooldowns+=/use_item,name=dread_gladiators_badge,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<=20\nactions.cooldowns+=/use_item,name=dread_aspirants_medallion,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<=20\nactions.cooldowns+=/use_item,name=knot_of_ancient_fury,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack>=10||cooldown.avenging_wrath.remains>30||!buff.crusade.up&cooldown.crusade.remains>30\nactions.cooldowns+=/use_items,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack=10\nactions.cooldowns+=/potion,if=(buff.bloodlust.react||buff.avenging_wrath.up||buff.crusade.up&buff.crusade.remains<25||target.time_to_die<=40)\nactions.cooldowns+=/lights_judgment,if=spell_targets.lights_judgment>=2||(!raid_event.adds.exists||raid_event.adds.in>75)\nactions.cooldowns+=/fireblood,if=buff.avenging_wrath.up||buff.crusade.up&buff.crusade.stack=10\nactions.cooldowns+=/shield_of_vengeance\nactions.cooldowns+=/avenging_wrath,if=buff.inquisition.up||!talent.inquisition.enabled\nactions.cooldowns+=/crusade,if=holy_power>=4\n\nactions.finishers=variable,name=ds_castable,value=spell_targets.divine_storm>=2&!talent.righteous_verdict.enabled||spell_targets.divine_storm>=3&talent.righteous_verdict.enabled\nactions.finishers+=/inquisition,if=buff.inquisition.down||buff.inquisition.remains<5&holy_power>=3||talent.execution_sentence.enabled&cooldown.execution_sentence.remains<10&buff.inquisition.remains<15||cooldown.avenging_wrath.remains<15&buff.inquisition.remains<20&holy_power>=3\nactions.finishers+=/execution_sentence,if=spell_targets.divine_storm<=2&(!talent.crusade.enabled||cooldown.crusade.remains>gcd*2)\nactions.finishers+=/divine_storm,if=variable.ds_castable&buff.divine_purpose.react\nactions.finishers+=/divine_storm,if=variable.ds_castable&(!talent.crusade.enabled||cooldown.crusade.remains>gcd*2)||buff.empyrean_power.up&debuff.judgment.down&buff.divine_purpose.down\nactions.finishers+=/templars_verdict,if=buff.divine_purpose.react\nactions.finishers+=/templars_verdict,if=(!talent.crusade.enabled||cooldown.crusade.remains>gcd*3)&(!talent.execution_sentence.enabled||buff.crusade.up&buff.crusade.stack<10||cooldown.execution_sentence.remains>gcd*2)\n\nactions.generators=variable,name=HoW,value=(!talent.hammer_of_wrath.enabled||target.health.pct>=20&(buff.avenging_wrath.down||buff.crusade.down))\nactions.generators+=/call_action_list,name=finishers,if=holy_power>=5\nactions.generators+=/wake_of_ashes,if=(!raid_event.adds.exists||raid_event.adds.in>15||spell_targets.wake_of_ashes>=2)&(holy_power<=0||holy_power=1&cooldown.blade_of_justice.remains>gcd)\nactions.generators+=/blade_of_justice,if=holy_power<=2||(holy_power=3&(cooldown.hammer_of_wrath.remains>gcd*2||variable.HoW))\nactions.generators+=/judgment,if=holy_power<=2||(holy_power<=4&(cooldown.blade_of_justice.remains>gcd*2||variable.HoW))\nactions.generators+=/hammer_of_wrath,if=holy_power<=4\nactions.generators+=/consecration,if=holy_power<=2||holy_power<=3&cooldown.blade_of_justice.remains>gcd*2||holy_power=4&cooldown.blade_of_justice.remains>gcd*2&cooldown.judgment.remains>gcd*2\nactions.generators+=/call_action_list,name=finishers,if=talent.hammer_of_wrath.enabled&(target.health.pct<=20||buff.avenging_wrath.up||buff.crusade.up)\nactions.generators+=/crusader_strike,if=cooldown.crusader_strike.charges_fractional>=1.75&(holy_power<=2||holy_power<=3&cooldown.blade_of_justice.remains>gcd*2||holy_power=4&cooldown.blade_of_justice.remains>gcd*2&cooldown.judgment.remains>gcd*2&cooldown.consecration.remains>gcd*2)\nactions.generators+=/call_action_list,name=finishers\nactions.generators+=/crusader_strike,if=holy_power<=4\nactions.generators+=/arcane_torrent,if=holy_power<=4\n\nactions.opener=sequence,if=talent.wake_of_ashes.enabled&talent.crusade.enabled&talent.execution_sentence.enabled&!talent.hammer_of_wrath.enabled,name=wake_opener_ES_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:execution_sentence\nactions.opener+=/sequence,if=talent.wake_of_ashes.enabled&talent.crusade.enabled&!talent.execution_sentence.enabled&!talent.hammer_of_wrath.enabled,name=wake_opener_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:templars_verdict\nactions.opener+=/sequence,if=talent.wake_of_ashes.enabled&talent.crusade.enabled&talent.execution_sentence.enabled&talent.hammer_of_wrath.enabled,name=wake_opener_ES_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:execution_sentence\nactions.opener+=/sequence,if=talent.wake_of_ashes.enabled&talent.crusade.enabled&!talent.execution_sentence.enabled&talent.hammer_of_wrath.enabled,name=wake_opener_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:templars_verdict\nactions.opener+=/sequence,if=talent.wake_of_ashes.enabled&talent.inquisition.enabled,name=wake_opener_Inq:shield_of_vengeance:blade_of_justice:judgment:inquisition:avenging_wrath:wake_of_ashes",
+					["version"] = 20181230.2104,
+					["warnings"] = "WARNING:  The import for 'opener' required some automated changes.\nLine 1: Unsupported action 'sequence'.\nLine 2: Unsupported action 'sequence'.\nLine 3: Unsupported action 'sequence'.\nLine 4: Unsupported action 'sequence'.\nLine 5: Unsupported action 'sequence'.\n\nWARNING:  The import for 'default' required some automated changes.\nLine 1: Unsupported action 'auto_attack'.\n\nImported 6 action lists.\n",
+					["lists"] = {
+						["opener"] = {
+							{
+								["enabled"] = true,
+								["action"] = "sequence",
+								["name"] = "wake_opener_ES_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:execution_sentence",
+								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["action"] = "sequence",
+								["name"] = "wake_opener_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:templars_verdict",
+								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["action"] = "sequence",
+								["name"] = "wake_opener_ES_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:execution_sentence",
+								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["action"] = "sequence",
+								["name"] = "wake_opener_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:templars_verdict",
+								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["action"] = "sequence",
+								["name"] = "wake_opener_Inq:shield_of_vengeance:blade_of_justice:judgment:inquisition:avenging_wrath:wake_of_ashes",
+								["criteria"] = "talent.wake_of_ashes.enabled & talent.inquisition.enabled",
+							}, -- [5]
+						},
+						["default"] = {
+							{
+								["action"] = "auto_attack",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["action"] = "rebuke",
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "opener",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "cooldowns",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "generators",
+							}, -- [5]
+						},
+						["precombat"] = {
+							{
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["enabled"] = true,
+							}, -- [4]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.wake_of_ashes.enabled",
+								["action"] = "arcane_torrent",
+							}, -- [6]
+						},
+						["cooldowns"] = {
+							{
+								["enabled"] = true,
+								["name"] = "razdunks_big_red_button",
+								["action"] = "razdunks_big_red_button",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["action"] = "jes_howler",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack = 10",
+								["name"] = "jes_howler",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["action"] = "vial_of_animated_blood",
+								["criteria"] = "( buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18 ) || ( cooldown.avenging_wrath.remains > 30 || cooldown.crusade.remains > 30 )",
+								["name"] = "vial_of_animated_blood",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["action"] = "dooms_fury",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18",
+								["name"] = "dooms_fury",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["action"] = "galecallers_beak",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 15",
+								["name"] = "galecallers_beak",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["action"] = "bygone_bee_almanac",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up",
+								["name"] = "bygone_bee_almanac",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["action"] = "merekthas_fang",
+								["criteria"] = "( ! raid_event.adds.exists || raid_event.adds.in > 15 ) || spell_targets.divine_storm >= 2",
+								["name"] = "merekthas_fang",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["action"] = "plunderbeards_flask",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
+								["name"] = "plunderbeards_flask",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["action"] = "berserkers_juju",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
+								["name"] = "berserkers_juju",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["action"] = "endless_tincture_of_fractional_power",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || cooldown.crusade.remains > 45",
+								["name"] = "endless_tincture_of_fractional_power",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["action"] = "pearl_divers_compass",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10",
+								["name"] = "pearl_divers_compass",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["action"] = "first_mates_spyglass",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 15",
+								["name"] = "first_mates_spyglass",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["action"] = "whirlwings_plumage",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
+								["name"] = "whirlwings_plumage",
+							}, -- [13]
+							{
+								["enabled"] = true,
+								["action"] = "dread_gladiators_badge",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
+								["name"] = "dread_gladiators_badge",
+							}, -- [14]
+							{
+								["enabled"] = true,
+								["action"] = "dread_aspirants_medallion",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
+								["name"] = "dread_aspirants_medallion",
+							}, -- [15]
+							{
+								["enabled"] = true,
+								["action"] = "knot_of_ancient_fury",
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 30 || ! buff.crusade.up & cooldown.crusade.remains > 30",
+								["name"] = "knot_of_ancient_fury",
+							}, -- [16]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack = 10",
+								["action"] = "use_items",
+							}, -- [17]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.bloodlust.react || buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 25 || target.time_to_die <= 40 )",
+								["action"] = "potion",
+							}, -- [18]
+							{
+								["enabled"] = true,
+								["criteria"] = "spell_targets.lights_judgment >= 2 || ( ! raid_event.adds.exists || raid_event.adds.in > 75 )",
+								["action"] = "lights_judgment",
+							}, -- [19]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack = 10",
+								["action"] = "fireblood",
+							}, -- [20]
+							{
+								["action"] = "shield_of_vengeance",
+								["enabled"] = true,
+							}, -- [21]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.inquisition.up || ! talent.inquisition.enabled",
+								["action"] = "avenging_wrath",
+							}, -- [22]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power >= 4",
+								["action"] = "crusade",
+							}, -- [23]
+						},
+						["finishers"] = {
+							{
+								["value"] = "spell_targets.divine_storm >= 2 & ! talent.righteous_verdict.enabled || spell_targets.divine_storm >= 3 & talent.righteous_verdict.enabled",
+								["enabled"] = true,
+								["action"] = "variable",
+								["var_name"] = "ds_castable",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.inquisition.down || buff.inquisition.remains < 5 & holy_power >= 3 || talent.execution_sentence.enabled & cooldown.execution_sentence.remains < 10 & buff.inquisition.remains < 15 || cooldown.avenging_wrath.remains < 15 & buff.inquisition.remains < 20 & holy_power >= 3",
+								["action"] = "inquisition",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "spell_targets.divine_storm <= 2 & ( ! talent.crusade.enabled || cooldown.crusade.remains > gcd * 2 )",
+								["action"] = "execution_sentence",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "variable.ds_castable & buff.divine_purpose.react",
+								["action"] = "divine_storm",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "variable.ds_castable & ( ! talent.crusade.enabled || cooldown.crusade.remains > gcd * 2 ) || buff.empyrean_power.up & debuff.judgment.down & buff.divine_purpose.down",
+								["action"] = "divine_storm",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.divine_purpose.react",
+								["action"] = "templars_verdict",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "( ! talent.crusade.enabled || cooldown.crusade.remains > gcd * 3 ) & ( ! talent.execution_sentence.enabled || buff.crusade.up & buff.crusade.stack < 10 || cooldown.execution_sentence.remains > gcd * 2 )",
+								["action"] = "templars_verdict",
+							}, -- [7]
+						},
+						["generators"] = {
+							{
+								["value"] = "( ! talent.hammer_of_wrath.enabled || target.health.pct >= 20 & ( buff.avenging_wrath.down || buff.crusade.down ) )",
+								["enabled"] = true,
+								["action"] = "variable",
+								["var_name"] = "HoW",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power >= 5",
+								["action"] = "call_action_list",
+								["list_name"] = "finishers",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "( ! raid_event.adds.exists || raid_event.adds.in > 15 || spell_targets.wake_of_ashes >= 2 ) & ( holy_power <= 0 || holy_power = 1 & cooldown.blade_of_justice.remains > gcd )",
+								["action"] = "wake_of_ashes",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 2 || ( holy_power = 3 & ( cooldown.hammer_of_wrath.remains > gcd * 2 || variable.HoW ) )",
+								["action"] = "blade_of_justice",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 2 || ( holy_power <= 4 & ( cooldown.blade_of_justice.remains > gcd * 2 || variable.HoW ) )",
+								["action"] = "judgment",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 4",
+								["action"] = "hammer_of_wrath",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 2 || holy_power <= 3 & cooldown.blade_of_justice.remains > gcd * 2 || holy_power = 4 & cooldown.blade_of_justice.remains > gcd * 2 & cooldown.judgment.remains > gcd * 2",
+								["action"] = "consecration",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.hammer_of_wrath.enabled & ( target.health.pct <= 20 || buff.avenging_wrath.up || buff.crusade.up )",
+								["action"] = "call_action_list",
+								["list_name"] = "finishers",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown.crusader_strike.charges_fractional >= 1.75 & ( holy_power <= 2 || holy_power <= 3 & cooldown.blade_of_justice.remains > gcd * 2 || holy_power = 4 & cooldown.blade_of_justice.remains > gcd * 2 & cooldown.judgment.remains > gcd * 2 & cooldown.consecration.remains > gcd * 2 )",
+								["action"] = "crusader_strike",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "finishers",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 4",
+								["action"] = "crusader_strike",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "holy_power <= 4",
+								["action"] = "arcane_torrent",
+							}, -- [12]
+						},
+					},
+					["author"] = "SimC",
+				},
+			},
+		},
 		["Yuumi - Kil'jaeden"] = {
 			["runOnce"] = {
 				["reviseDisplayModes_20180709"] = true,
@@ -25,8 +628,8 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["strict"] = false,
-					["cycle"] = true,
 					["nameplateRange"] = 8,
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["potionsReset"] = 20180919.1,
 					["nameplates"] = true,
@@ -609,15 +1212,12 @@ HekiliDB = {
 				},
 				["Primary"] = {
 					["zoom"] = 0,
-					["keybindings"] = {
-						["y"] = 6,
-						["fontSize"] = 16,
-						["anchor"] = "TOPLEFT",
-						["font"] = "Expressway",
-						["x"] = 0,
-					},
 					["border"] = {
 						["fit"] = false,
+					},
+					["targets"] = {
+						["enabled"] = false,
+						["font"] = "Expressway",
 					},
 					["queue"] = {
 						["height"] = 26,
@@ -631,13 +1231,16 @@ HekiliDB = {
 						["fontSize"] = 14,
 					},
 					["primaryHeight"] = 36,
-					["targets"] = {
-						["enabled"] = false,
-						["font"] = "Expressway",
-					},
+					["primaryWidth"] = 36,
 					["numIcons"] = 2,
 					["y"] = -155.995147705078,
-					["primaryWidth"] = 36,
+					["keybindings"] = {
+						["y"] = 6,
+						["fontSize"] = 16,
+						["anchor"] = "TOPLEFT",
+						["font"] = "Expressway",
+						["x"] = 0,
+					},
 				},
 				["Defensives"] = {
 					["rel"] = "CENTER",
@@ -1482,26 +2085,26 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["strict"] = false,
-					["cycle"] = true,
 					["nameplateRange"] = 8,
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["nameplates"] = true,
 					["potionsReset"] = 20180919.1,
 					["damageExpiration"] = 8,
-					["package"] = "Windwalker",
 					["damage"] = true,
+					["package"] = "Windwalker",
 				},
 				[258] = {
 					["enabled"] = true,
 					["maxRefresh"] = 10,
-					["cycle"] = false,
+					["nameplates"] = false,
+					["nameplateRange"] = 8,
+					["package"] = "Shadow",
+					["damageExpiration"] = 6,
 					["potionsReset"] = 20180919.1,
 					["throttleRefresh"] = false,
-					["damageExpiration"] = 6,
-					["nameplates"] = false,
-					["package"] = "Shadow",
 					["damage"] = true,
-					["nameplateRange"] = 8,
+					["cycle"] = false,
 					["potion"] = "potion_of_rising_death",
 					["debuffPadding"] = 0,
 					["aoe"] = 3,
@@ -1512,14 +2115,14 @@ HekiliDB = {
 				[268] = {
 					["enabled"] = true,
 					["maxRefresh"] = 10,
-					["nameplateRange"] = 8,
+					["nameplates"] = true,
+					["cycle"] = false,
+					["throttleRefresh"] = false,
+					["damageExpiration"] = 8,
 					["potionsReset"] = 20180919.1,
 					["package"] = "Brewmaster",
-					["damageExpiration"] = 8,
-					["nameplates"] = true,
-					["throttleRefresh"] = false,
 					["damage"] = true,
-					["cycle"] = false,
+					["nameplateRange"] = 8,
 					["potion"] = "battle_potion_of_agility",
 					["debuffPadding"] = 0,
 					["aoe"] = 2,
@@ -1530,12 +2133,30 @@ HekiliDB = {
 			},
 		},
 		["Tosh - Kil'jaeden"] = {
-			["toggles"] = {
-				["cooldowns"] = {
-					["value"] = true,
+			["runOnce"] = {
+				["reviseDisplayModes_20180709"] = true,
+				["enableAllOfTheThings_20180820"] = true,
+			},
+			["specs"] = {
+				[258] = {
+					["maxRefresh"] = 10,
+					["package"] = "Shadow",
+					["aoe"] = 3,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["damage"] = true,
+					["enabled"] = true,
+					["debuffPadding"] = 0,
+					["buffPadding"] = 0.25,
+					["cycle"] = false,
+					["potion"] = "potion_of_rising_death",
+					["throttleRefresh"] = false,
+					["nameplates"] = false,
+					["damageExpiration"] = 6,
+					["nameplateRange"] = 8,
+					["potionsReset"] = 20180919.1,
 				},
 			},
-			["minimapIcon"] = true,
 			["displays"] = {
 				["Defensives"] = {
 					["rel"] = "CENTER",
@@ -1543,36 +2164,36 @@ HekiliDB = {
 					["x"] = -617.02685546875,
 				},
 				["Primary"] = {
-					["targets"] = {
-						["font"] = "Expressway",
-						["enabled"] = false,
+					["border"] = {
+						["fit"] = false,
 					},
 					["rel"] = "CENTER",
 					["numIcons"] = 2,
-					["keybindings"] = {
-						["fontSize"] = 16,
-						["y"] = 6,
-						["x"] = 0,
-						["anchor"] = "TOPLEFT",
-						["font"] = "Expressway",
-					},
+					["y"] = -111.992607116699,
 					["zoom"] = 0,
 					["queue"] = {
 						["width"] = 22,
 						["height"] = 22,
 					},
-					["y"] = -111.992607116699,
+					["keybindings"] = {
+						["fontSize"] = 16,
+						["y"] = 6,
+						["font"] = "Expressway",
+						["anchor"] = "TOPLEFT",
+						["x"] = 0,
+					},
 					["x"] = -166.004470825195,
 					["primaryHeight"] = 36,
-					["border"] = {
-						["fit"] = false,
+					["primaryWidth"] = 36,
+					["targets"] = {
+						["font"] = "Expressway",
+						["enabled"] = false,
 					},
 					["delays"] = {
-						["font"] = "Expressway",
-						["anchor"] = "BOTTOMRIGHT",
 						["fontSize"] = 14,
+						["anchor"] = "BOTTOMRIGHT",
+						["font"] = "Expressway",
 					},
-					["primaryWidth"] = 36,
 				},
 				["AOE"] = {
 					["targets"] = {
@@ -1912,37 +2533,19 @@ HekiliDB = {
 					["spec"] = 258,
 				},
 			},
-			["runOnce"] = {
-				["reviseDisplayModes_20180709"] = true,
-				["enableAllOfTheThings_20180820"] = true,
-			},
-			["notifications"] = {
-				["x"] = -99.0065765380859,
-				["y"] = 537.033508300781,
-			},
-			["specs"] = {
-				[258] = {
-					["maxRefresh"] = 10,
-					["package"] = "Shadow",
-					["aoe"] = 3,
-					["gcdSync"] = true,
-					["damageDots"] = false,
-					["buffPadding"] = 0.25,
-					["enabled"] = true,
-					["debuffPadding"] = 0,
-					["damage"] = true,
-					["cycle"] = false,
-					["potion"] = "potion_of_rising_death",
-					["throttleRefresh"] = false,
-					["potionsReset"] = 20180919.1,
-					["damageExpiration"] = 6,
-					["nameplates"] = false,
-					["nameplateRange"] = 8,
+			["toggles"] = {
+				["cooldowns"] = {
+					["value"] = true,
 				},
 			},
 			["iconStore"] = {
 				["minimapPos"] = 166.10719463682,
 				["hide"] = true,
+			},
+			["minimapIcon"] = true,
+			["notifications"] = {
+				["x"] = -99.0065765380859,
+				["y"] = 537.033508300781,
 			},
 		},
 	},

@@ -1,8 +1,9 @@
 
 MethodDungeonToolsDB = {
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["presets"] = {

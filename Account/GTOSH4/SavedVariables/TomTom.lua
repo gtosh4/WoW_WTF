@@ -1,8 +1,9 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Default",
+		["Zaemme - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -15,13 +16,16 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Tosh - Kil'jaeden"] = {
+		["Zaemme - Kil'jaeden"] = {
 		},
 		["Yuumi - Kil'jaeden"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
 		},
 	},
 }
