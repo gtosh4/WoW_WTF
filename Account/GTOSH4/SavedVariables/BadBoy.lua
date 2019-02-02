@@ -1,6 +1,7 @@
 
 BADBOY_BLACKLIST = {
-	["dayFromCal"] = 31,
+	["Player-9-0B56445D"] = true,
+	["dayFromCal"] = 1,
 }
 BADBOY_OPTIONS = {
 }

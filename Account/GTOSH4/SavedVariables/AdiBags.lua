@@ -30,7 +30,7 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["CurrencyFrame"] = {
+		["WoD"] = {
 		},
 		["NewItem"] = {
 		},
@@ -53,7 +53,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["WoD"] = {
+		["CurrencyFrame"] = {
 		},
 		["Hearthstones"] = {
 		},

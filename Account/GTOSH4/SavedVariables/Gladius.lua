@@ -11,35 +11,25 @@ Gladius2DB = {
 				["arena1"] = 415.465815041578,
 			},
 			["tagsVersion"] = 4,
-			["auraVersion"] = 1,
 			["x"] = {
 				["arena1"] = 1556.26908242071,
 			},
+			["auraVersion"] = 1,
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1252.79958137275,
-			},
 			["y"] = {
 				["arena1"] = 468.373309843541,
 			},
+			["x"] = {
+				["arena1"] = 1252.79958137275,
+			},
 		},
 		["Tosh - Kil'jaeden"] = {
-			["modules"] = {
-				["Announcements"] = false,
-			},
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
+			["powerBarTexture"] = "ElvUI Norm",
 			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
+			["auraVersion"] = 1,
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "",
@@ -51,8 +41,18 @@ Gladius2DB = {
 					["text"] = "[power:percentage]",
 				},
 			},
+			["modules"] = {
+				["Announcements"] = false,
+			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
 			["castBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
+			["locked"] = true,
+			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["classIconShowSpec"] = true,
 		},

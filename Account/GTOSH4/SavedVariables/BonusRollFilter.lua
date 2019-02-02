@@ -6,9 +6,9 @@ BRF_Data = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Yuumi - Kil'jaeden"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
+		},
+		["Yuumi - Kil'jaeden"] = {
 		},
 	},
 }
