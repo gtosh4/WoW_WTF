@@ -3,6 +3,7 @@ Gladius2DB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -26,6 +27,16 @@ Gladius2DB = {
 				["arena1"] = 1252.79958137275,
 			},
 		},
+		["Yorman - Kil'jaeden"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1438.93566484931,
+			},
+			["y"] = {
+				["arena1"] = 483.732411763853,
+			},
+		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
 			["classIconGloss"] = false,
@@ -47,14 +58,14 @@ Gladius2DB = {
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
+			["classIconShowSpec"] = true,
 			["castBarTexture"] = "ElvUI Norm",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["classIconShowSpec"] = true,
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
 		},
 	},
 }

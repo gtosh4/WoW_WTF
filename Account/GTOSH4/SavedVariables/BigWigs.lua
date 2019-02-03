@@ -1,12 +1,24 @@
 
 BigWigs3DB = {
+	["global"] = {
+		["watchedMovies"] = {
+			[-1004] = true,
+		},
+	},
 	["discord"] = 15,
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["namespaces"] = {
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[287333] = 1032439,
+					["stages"] = 1032439,
+				},
+			},
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -43,11 +55,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
 				["Default"] = {
+					[283606] = 1032439,
 					[285014] = 1032439,
 				},
 			},
@@ -88,27 +101,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWMessageAnchor_x"] = 866.669759724173,
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWMessageAnchor_y"] = 563.199610121541,
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-				},
-			},
-		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[287333] = 1032439,
-					["stages"] = 1032439,
-				},
-			},
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -117,8 +110,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -126,6 +117,22 @@ BigWigs3DB = {
 					["posy"] = 566.398108014917,
 					["height"] = 120.000015258789,
 					["posx"] = 425.589237946373,
+				},
+			},
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWMessageAnchor_x"] = 866.669759724173,
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWMessageAnchor_y"] = 563.199610121541,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
 				},
 			},
 		},
@@ -148,11 +155,6 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["global"] = {
-		["watchedMovies"] = {
-			[-1004] = true,
-		},
-	},
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,
@@ -168,7 +170,7 @@ BigWigsStatsDB = {
 		[2341] = {
 			["normal"] = {
 				["best"] = 228.07699999999,
-				["kills"] = 2,
+				["kills"] = 3,
 			},
 			["heroic"] = {
 				["kills"] = 2,
@@ -176,7 +178,9 @@ BigWigsStatsDB = {
 				["best"] = 278.724000000017,
 			},
 			["mythic"] = {
-				["wipes"] = 30,
+				["kills"] = 1,
+				["wipes"] = 32,
+				["best"] = 368.520000000019,
 			},
 		},
 		[2334] = {
@@ -190,15 +194,18 @@ BigWigsStatsDB = {
 			},
 		},
 		[2342] = {
+			["normal"] = {
+				["kills"] = 5,
+				["best"] = 394.35500000004,
+				["wipes"] = 1,
+			},
+			["mythic"] = {
+				["wipes"] = 46,
+			},
 			["heroic"] = {
 				["kills"] = 2,
 				["wipes"] = 6,
 				["best"] = 432.483999999997,
-			},
-			["normal"] = {
-				["kills"] = 4,
-				["best"] = 394.35500000004,
-				["wipes"] = 1,
 			},
 		},
 		[2335] = {
@@ -209,7 +216,7 @@ BigWigsStatsDB = {
 			},
 			["heroic"] = {
 				["kills"] = 1,
-				["wipes"] = 5,
+				["wipes"] = 6,
 				["best"] = 396.858999999997,
 			},
 		},

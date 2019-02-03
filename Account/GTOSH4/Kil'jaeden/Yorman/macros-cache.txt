@@ -1,0 +1,64 @@
+VER 3 0100000000000016 "14" "INV_Misc_QuestionMark"
+#showtooltip 14
+/use 14
+END
+VER 3 0100000000000010 "cancelform" "INV_MISC_QUESTIONMARK"
+/cancelform
+END
+VER 3 0100000000000009 "Cenarion Ward" "INV_MISC_QUESTIONMARK"
+#showtooltip Cenarion Ward
+/cast [@mouseover,help,nodead][help,nodead] Cenarion Ward
+END
+VER 3 0100000000000013 "ib" "INV_MISC_QUESTIONMARK"
+#showtooltip Ironbark
+/cast [@mouseover] Ironbark
+END
+VER 3 0100000000000015 "incarn" "INV_Misc_QuestionMark"
+#showtooltip  Incarnation: Tree of Life
+/cast Incarnation: Tree of Life 
+END
+VER 3 010000000000000C "innerv" "INV_MISC_QUESTIONMARK"
+#showtooltip Innervate
+/use Ignition Mage's Fuse
+/cast [@player] Innervate
+END
+VER 3 0100000000000007 "Lifebloom" "INV_MISC_QUESTIONMARK"
+#showtooltip Lifebloom
+/cast [@mouseover,help,nodead][help,nodead] Lifebloom
+END
+VER 3 0100000000000008 "Nature's Cure" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Cure
+/cast [@mouseover,help,nodead][help,nodead] Nature's Cure
+END
+VER 3 0100000000000002 "Regrowth" "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/cast [@mouseover,help,nodead][help,nodead] Regrowth
+END
+VER 3 0100000000000001 "Rejuvenation" "INV_MISC_QUESTIONMARK"
+#showtooltip Rejuvenation
+/cast [@mouseover,help,nodead][help,nodead] Rejuvenation
+END
+VER 3 0100000000000012 "rmcor" "INV_MISC_QUESTIONMARK"
+#showtooltip Remove Corruption
+/cast [@mouseover][@player] Remove Corruption
+END
+VER 3 0100000000000014 "SelfRG" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Regrowth
+END
+VER 3 0100000000000003 "Swiftmend" "INV_MISC_QUESTIONMARK"
+#showtooltip Swiftmend
+/cast [@mouseover,help,nodead][help,nodead] Swiftmend
+END
+VER 3 0100000000000011 "taunt" "INV_MISC_QUESTIONMARK"
+/cast Bear Form
+/cast Growl
+END
+VER 3 0100000000000017 "wc" "INV_Misc_QuestionMark"
+#showtooltip wild charge
+/cast [@focus,exists,help][] wild charge
+END
+VER 3 0100000000000004 "Wild Growth" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Growth
+/cast [@mouseover,help,nodead][help,nodead] Wild Growth
+END

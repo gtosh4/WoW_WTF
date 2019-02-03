@@ -23,6 +23,13 @@ AngryAssign_Pages = {
 		["CategoryId"] = 2406605962,
 		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Yuumi",
 	},
+	[2697659300] = {
+		["Updated"] = 1549168542,
+		["Name"] = "M Opulence",
+		["Id"] = 2697659300,
+		["UpdateId"] = 2938487265,
+		["Contents"] = "Tanks - Diamond\nLoh  / Jess - Amethyst\nGord / Bails - Sapphire\nLeft Ruby - Alec\nRight Ruby - Barbados\nALL dps - Opal nothing else\n\n\n~1:40    Toxin 1 A    ||cmonkBailey rev||r\n~1:40    Toxin 1 B    ||cmonkYuumi rev||r\n~2:00    Toxin 2 A    ||cpriestYellowy hymn||r\n~2:00    Toxin 2 B    ||cpaladinLoh AC||r\n        \n~4:30    Overload 1 A    ||cmonkBailey rev||r\n~4:30    Overload 1 B    ||cpaladinLoh AC||r\n~4:45    Overload 2 A    ||cpriestYellowy hymn||r\n~4:45    Overload 2 B    ||cmonkYuumi rev||r\n        \n~5:30    Coin Shower 1    nothing\n~6:03    Coin Shower 2    ||cpaladinLoh BoP||r\n~6:14    Wail of Greed 1    ||cpaladinLoh AM||r\n~6:34    Coin Shower 3    ||cpaladinLoh AC||r\n~7:05    Coin Shower 4    ||cpriestJess salv||r\n~7:31    Wail of Greed 2    ||cmonkBails rev||r\n~7:43    Coin Shower 5    ||cmonkGord rev||r    ||cpriestJess hymn||r",
+	},
 	[1764615927] = {
 		["Updated"] = 1548897455,
 		["Name"] = "H Grong",
@@ -52,8 +59,8 @@ AngryAssign_State = {
 		["left"] = 292.040191650391,
 		["width"] = 699.999938964844,
 	},
-	["directionUp"] = false,
 	["locked"] = true,
+	["directionUp"] = false,
 	["tree"] = {
 		["groups"] = {
 			["134906466"] = true,
@@ -66,8 +73,8 @@ AngryAssign_State = {
 		["fullwidth"] = 665.999877929688,
 	},
 	["display"] = {
-		["y"] = -218.502487182617,
-		["x"] = -716.543914794922,
+		["y"] = -204.501800537109,
+		["x"] = -719.5439453125,
 		["point"] = "CENTER",
 		["scale"] = 1,
 		["hidden"] = false,

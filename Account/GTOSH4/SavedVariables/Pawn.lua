@@ -11,7 +11,7 @@ PawnCommon = {
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
 	["ShowSpecIcons"] = true,
-	["ShowSocketingAdvisor"] = true,
+	["ShowSocketingAdvisor"] = false,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -184,6 +184,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID4"] = {
 			["IconTexturePath"] = 136041,
 			["PerCharacterOptions"] = {
+				["Yorman-Kil'jaeden"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff7c0a",
 			["ClassID"] = 11,
@@ -210,6 +213,40 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["SpecID"] = 3,
 			["UnenchantedColor"] = "bfb74e",
+		},
+		["Jadefire Masters(3)"] = {
+			["IconTexturePath"] = 608952,
+			["Values"] = {
+				["IsOffHand"] = -1000000,
+				["Versatility"] = 0.85,
+				["Is2HMace"] = -1000000,
+				["Leech"] = 1.29,
+				["CritRating"] = 0.9,
+				["IsDagger"] = -1000000,
+				["Intellect"] = 1,
+				["HasteRating"] = 0.15,
+				["MasteryRating"] = 0.74,
+				["IsCrossbow"] = -1000000,
+				["IsGun"] = -1000000,
+				["IsWand"] = -1000000,
+				["Is2HAxe"] = -1000000,
+				["IsBow"] = -1000000,
+				["IsMail"] = -1000000,
+				["IsPlate"] = -1000000,
+				["IsWarglaive"] = -1000000,
+				["Is2HSword"] = -1000000,
+				["IsShield"] = -1000000,
+			},
+			["Color"] = "00ff96",
+			["ClassID"] = 10,
+			["Role"] = "HEALER",
+			["UpgradesFollowSpecialization"] = true,
+			["SpecID"] = 2,
+			["PerCharacterOptions"] = {
+				["Yuumi-Kil'jaeden"] = {
+					["Visible"] = true,
+				},
+			},
 		},
 		["\"MrRobot\":WARRIOR3"] = {
 			["IconTexturePath"] = 132341,
@@ -561,7 +598,7 @@ PawnCommon = {
 		},
 	},
 	["LastVersion"] = 2.0234,
-	["ButtonPosition"] = 2,
+	["ButtonPosition"] = 0,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
 	["Digits"] = 1,

@@ -7,6 +7,7 @@ HekiliDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -297,33 +298,33 @@ HekiliDB = {
 						["opener"] = {
 							{
 								["enabled"] = true,
+								["action"] = "sequence",
 								["name"] = "wake_opener_ES_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:execution_sentence",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
-								["action"] = "sequence",
 							}, -- [1]
 							{
 								["enabled"] = true,
+								["action"] = "sequence",
 								["name"] = "wake_opener_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:templars_verdict",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
-								["action"] = "sequence",
 							}, -- [2]
 							{
 								["enabled"] = true,
+								["action"] = "sequence",
 								["name"] = "wake_opener_ES_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:execution_sentence",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
-								["action"] = "sequence",
 							}, -- [3]
 							{
 								["enabled"] = true,
+								["action"] = "sequence",
 								["name"] = "wake_opener_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:templars_verdict",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
-								["action"] = "sequence",
 							}, -- [4]
 							{
 								["enabled"] = true,
+								["action"] = "sequence",
 								["name"] = "wake_opener_Inq:shield_of_vengeance:blade_of_justice:judgment:inquisition:avenging_wrath:wake_of_ashes",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.inquisition.enabled",
-								["action"] = "sequence",
 							}, -- [5]
 						},
 						["default"] = {
@@ -382,93 +383,93 @@ HekiliDB = {
 							}, -- [1]
 							{
 								["enabled"] = true,
+								["action"] = "jes_howler",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack = 10",
 								["name"] = "jes_howler",
-								["action"] = "jes_howler",
 							}, -- [2]
 							{
 								["enabled"] = true,
+								["action"] = "vial_of_animated_blood",
 								["criteria"] = "( buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18 ) || ( cooldown.avenging_wrath.remains > 30 || cooldown.crusade.remains > 30 )",
 								["name"] = "vial_of_animated_blood",
-								["action"] = "vial_of_animated_blood",
 							}, -- [3]
 							{
 								["enabled"] = true,
+								["action"] = "dooms_fury",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18",
 								["name"] = "dooms_fury",
-								["action"] = "dooms_fury",
 							}, -- [4]
 							{
 								["enabled"] = true,
+								["action"] = "galecallers_beak",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 15",
 								["name"] = "galecallers_beak",
-								["action"] = "galecallers_beak",
 							}, -- [5]
 							{
 								["enabled"] = true,
+								["action"] = "bygone_bee_almanac",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up",
 								["name"] = "bygone_bee_almanac",
-								["action"] = "bygone_bee_almanac",
 							}, -- [6]
 							{
 								["enabled"] = true,
+								["action"] = "merekthas_fang",
 								["criteria"] = "( ! raid_event.adds.exists || raid_event.adds.in > 15 ) || spell_targets.divine_storm >= 2",
 								["name"] = "merekthas_fang",
-								["action"] = "merekthas_fang",
 							}, -- [7]
 							{
 								["enabled"] = true,
+								["action"] = "plunderbeards_flask",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
 								["name"] = "plunderbeards_flask",
-								["action"] = "plunderbeards_flask",
 							}, -- [8]
 							{
 								["enabled"] = true,
+								["action"] = "berserkers_juju",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
 								["name"] = "berserkers_juju",
-								["action"] = "berserkers_juju",
 							}, -- [9]
 							{
 								["enabled"] = true,
+								["action"] = "endless_tincture_of_fractional_power",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || cooldown.crusade.remains > 45",
 								["name"] = "endless_tincture_of_fractional_power",
-								["action"] = "endless_tincture_of_fractional_power",
 							}, -- [10]
 							{
 								["enabled"] = true,
+								["action"] = "pearl_divers_compass",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10",
 								["name"] = "pearl_divers_compass",
-								["action"] = "pearl_divers_compass",
 							}, -- [11]
 							{
 								["enabled"] = true,
+								["action"] = "first_mates_spyglass",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 15",
 								["name"] = "first_mates_spyglass",
-								["action"] = "first_mates_spyglass",
 							}, -- [12]
 							{
 								["enabled"] = true,
+								["action"] = "whirlwings_plumage",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "whirlwings_plumage",
-								["action"] = "whirlwings_plumage",
 							}, -- [13]
 							{
 								["enabled"] = true,
+								["action"] = "dread_gladiators_badge",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "dread_gladiators_badge",
-								["action"] = "dread_gladiators_badge",
 							}, -- [14]
 							{
 								["enabled"] = true,
+								["action"] = "dread_aspirants_medallion",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "dread_aspirants_medallion",
-								["action"] = "dread_aspirants_medallion",
 							}, -- [15]
 							{
 								["enabled"] = true,
+								["action"] = "knot_of_ancient_fury",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 30 || ! buff.crusade.up & cooldown.crusade.remains > 30",
 								["name"] = "knot_of_ancient_fury",
-								["action"] = "knot_of_ancient_fury",
 							}, -- [16]
 							{
 								["enabled"] = true,
@@ -1200,13 +1201,14 @@ HekiliDB = {
 					["x"] = -607.026123046875,
 				},
 				["Primary"] = {
-					["primaryWidth"] = 36,
+					["delays"] = {
+						["font"] = "Expressway",
+						["anchor"] = "BOTTOMRIGHT",
+						["fontSize"] = 14,
+					},
 					["rel"] = "CENTER",
 					["numIcons"] = 2,
-					["targets"] = {
-						["font"] = "Expressway",
-						["enabled"] = false,
-					},
+					["y"] = -155.995147705078,
 					["zoom"] = 0,
 					["queue"] = {
 						["width"] = 26,
@@ -1221,15 +1223,14 @@ HekiliDB = {
 					},
 					["x"] = -28.996660232544,
 					["primaryHeight"] = 36,
-					["delays"] = {
-						["font"] = "Expressway",
-						["anchor"] = "BOTTOMRIGHT",
-						["fontSize"] = 14,
-					},
 					["border"] = {
 						["fit"] = false,
 					},
-					["y"] = -155.995147705078,
+					["targets"] = {
+						["font"] = "Expressway",
+						["enabled"] = false,
+					},
+					["primaryWidth"] = 36,
 				},
 				["AOE"] = {
 					["targets"] = {
@@ -2099,14 +2100,14 @@ HekiliDB = {
 					["buffPadding"] = 0.25,
 					["enabled"] = true,
 					["debuffPadding"] = 0,
+					["damage"] = true,
 					["cycle"] = false,
-					["nameplateRange"] = 8,
 					["potion"] = "potion_of_rising_death",
-					["potionsReset"] = 20180919.1,
+					["package"] = "Shadow",
 					["nameplates"] = false,
 					["damageExpiration"] = 6,
-					["package"] = "Shadow",
-					["damage"] = true,
+					["nameplateRange"] = 8,
+					["potionsReset"] = 20180919.1,
 				},
 				[268] = {
 					["maxRefresh"] = 10,
@@ -2117,14 +2118,14 @@ HekiliDB = {
 					["buffPadding"] = 0.25,
 					["enabled"] = true,
 					["debuffPadding"] = 0,
+					["damage"] = true,
 					["nameplateRange"] = 8,
-					["cycle"] = false,
 					["potion"] = "battle_potion_of_agility",
-					["potionsReset"] = 20180919.1,
+					["throttleRefresh"] = false,
 					["nameplates"] = true,
 					["damageExpiration"] = 8,
-					["throttleRefresh"] = false,
-					["damage"] = true,
+					["cycle"] = false,
+					["potionsReset"] = 20180919.1,
 				},
 			},
 			["notifications"] = {
@@ -2154,7 +2155,7 @@ HekiliDB = {
 				},
 				["Primary"] = {
 					["zoom"] = 0,
-					["primaryWidth"] = 36,
+					["y"] = -111.992607116699,
 					["targets"] = {
 						["enabled"] = false,
 						["font"] = "Expressway",
@@ -2165,7 +2166,9 @@ HekiliDB = {
 					},
 					["rel"] = "CENTER",
 					["x"] = -166.004470825195,
-					["y"] = -111.992607116699,
+					["border"] = {
+						["fit"] = false,
+					},
 					["primaryHeight"] = 36,
 					["delays"] = {
 						["anchor"] = "BOTTOMRIGHT",
@@ -2173,9 +2176,6 @@ HekiliDB = {
 						["fontSize"] = 14,
 					},
 					["numIcons"] = 2,
-					["border"] = {
-						["fit"] = false,
-					},
 					["keybindings"] = {
 						["y"] = 6,
 						["fontSize"] = 16,
@@ -2183,6 +2183,7 @@ HekiliDB = {
 						["font"] = "Expressway",
 						["x"] = 0,
 					},
+					["primaryWidth"] = 36,
 				},
 				["Defensives"] = {
 					["rel"] = "CENTER",
@@ -2519,9 +2520,9 @@ HekiliDB = {
 				["y"] = 537.033508300781,
 				["x"] = -99.0065765380859,
 			},
-			["runOnce"] = {
-				["reviseDisplayModes_20180709"] = true,
-				["enableAllOfTheThings_20180820"] = true,
+			["iconStore"] = {
+				["minimapPos"] = 166.10719463682,
+				["hide"] = true,
 			},
 			["specs"] = {
 				[258] = {
@@ -2530,22 +2531,817 @@ HekiliDB = {
 					["damage"] = true,
 					["throttleRefresh"] = false,
 					["package"] = "Shadow",
-					["gcdSync"] = true,
-					["aoe"] = 3,
-					["debuffPadding"] = 0,
+					["damageExpiration"] = 6,
+					["potionsReset"] = 20180919.1,
+					["nameplates"] = false,
 					["cycle"] = false,
 					["nameplateRange"] = 8,
 					["potion"] = "potion_of_rising_death",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = false,
-					["damageExpiration"] = 6,
+					["debuffPadding"] = 0,
+					["aoe"] = 3,
+					["gcdSync"] = true,
 					["damageDots"] = false,
 					["buffPadding"] = 0.25,
 				},
 			},
-			["iconStore"] = {
-				["minimapPos"] = 166.10719463682,
-				["hide"] = true,
+			["runOnce"] = {
+				["reviseDisplayModes_20180709"] = true,
+				["enableAllOfTheThings_20180820"] = true,
+			},
+		},
+		["Yorman - Kil'jaeden"] = {
+			["runOnce"] = {
+				["reviseDisplayModes_20180709"] = true,
+				["enableAllOfTheThings_20180820"] = true,
+			},
+			["specs"] = {
+				[103] = {
+					["enabled"] = true,
+					["maxRefresh"] = 10,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
+					["package"] = "Feral",
+					["damageExpiration"] = 3,
+					["nameplates"] = true,
+					["throttleRefresh"] = false,
+					["buffPadding"] = 0.25,
+					["cycle"] = false,
+					["potion"] = "battle_potion_of_agility",
+					["debuffPadding"] = 0,
+					["aoe"] = 3,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["damage"] = true,
+				},
+				[104] = {
+					["enabled"] = true,
+					["maxRefresh"] = 10,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
+					["throttleRefresh"] = false,
+					["damageExpiration"] = 6,
+					["nameplates"] = true,
+					["package"] = "Guardian",
+					["buffPadding"] = 0.25,
+					["cycle"] = false,
+					["potion"] = "steelskin_potion",
+					["debuffPadding"] = 0,
+					["aoe"] = 3,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["damage"] = true,
+				},
+				[102] = {
+					["enabled"] = true,
+					["maxRefresh"] = 10,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
+					["package"] = "Balance",
+					["damageExpiration"] = 6,
+					["nameplates"] = false,
+					["throttleRefresh"] = false,
+					["buffPadding"] = 0.25,
+					["cycle"] = false,
+					["potion"] = "potion_of_rising_death",
+					["debuffPadding"] = 0,
+					["aoe"] = 3,
+					["gcdSync"] = true,
+					["damageDots"] = false,
+					["damage"] = true,
+				},
+			},
+			["displays"] = {
+				["Interrupts"] = {
+				},
+			},
+			["packs"] = {
+				["Feral"] = {
+					["source"] = "https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Feral.simc",
+					["builtIn"] = true,
+					["date"] = 20190123.1046,
+					["spec"] = 103,
+					["desc"] = "# Feral Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Feral.simc\n# January 23, 2019 - 10:46\n\n# Changes:\n# - Added Skull Bash.\n# - Added Brutal Slash/Swipe to opener in multi-target.\n# - Placed Cat Form after Prowl since Prowl triggers Cat Form.\n# - Relaxed Tiger's Fury energy check to apply only when Tiger's Fury is already up.\n# - opener_done is handled internally by the addon; removed these variables.  Only bother in boss fights.\n# - Check for target count for swipe_cat in generators list -- not just Scent of Blood.\n# - Added backup plan for opener.\n# - Using ShmooDude's edits.",
+					["profile"] = "# Feral Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Feral.simc\n# January 23, 2019 - 10:46\n\n# Changes:\n# - Added Skull Bash.\n# - Added Brutal Slash/Swipe to opener in multi-target.\n# - Placed Cat Form after Prowl since Prowl triggers Cat Form.\n# - Relaxed Tiger's Fury energy check to apply only when Tiger's Fury is already up.\n# - opener_done is handled internally by the addon; removed these variables.  Only bother in boss fights.\n# - Check for target count for swipe_cat in generators list -- not just Scent of Blood.\n# - Added backup plan for opener.\n# - Using ShmooDude's edits.\n\n# Feral Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Feral.simc\n# January 5, 2019 - 22:28\n\n# Changes:\n# - Added Skull Bash.\n# - Added Brutal Slash/Swipe to opener in multi-target.\n# - Placed Cat Form after Prowl since Prowl triggers Cat Form.\n# - Relaxed Tiger's Fury energy check to apply only when Tiger's Fury is already up.\n# - opener_done is handled internally by the addon; removed these variables.  Only bother in boss fights.\n# - Check for target count for swipe_cat in generators list -- not just Scent of Blood.\n# - Added backup plan for opener.\n\n# Executed before combat begins. Accepts non-harmful actions only.\nactions.precombat=flask\nactions.precombat+=/food\nactions.precombat+=/augmentation\nactions.precombat+=/variable,name=rip_ticks,value=8\nactions.precombat+=/regrowth,if=talent.bloodtalons.enabled\nactions.precombat+=/prowl\nactions.precombat+=/snapshot_stats\nactions.precombat+=/potion\nactions.precombat+=/berserk\n\n# Executed every time the actor is available.\nactions=auto_attack,if=!buff.prowl.up&!buff.shadowmeld.up\nactions+=/skull_bash\nactions+=/call_action_list,name=opener,if=!opener_done&(buff.berserk.up||buff.incarnation.up)\nactions+=/cat_form,if=!buff.cat_form.up\nactions+=/rake,if=buff.prowl.up||buff.shadowmeld.up\nactions+=/call_action_list,name=cooldowns\nactions+=/ferocious_bite,target_if=talent.sabertooth.enabled&combo_points>spell_targets.thrash_cat&dot.rip.ticking&dot.rip.remains<3&target.time_to_die>dot.rip.remains+variable.rip_ticks*action.rip.tick_time\nactions+=/call_action_list,name=finishers,if=combo_points>4\nactions+=/call_action_list,name=generators_aoe,if=combo_points<5&spell_targets.thrash_cat>1\nactions+=/call_action_list,name=generators,if=combo_points<5\n\nactions.cooldowns=berserk,if=energy>=30&(cooldown.tigers_fury.remains>5||cooldown.tigers_fury.remains<1)\nactions.cooldowns+=/incarnation,if=energy>=30\nactions.cooldowns+=/use_items,if=buff.tigers_fury.up\nactions.cooldowns+=/tigers_fury,if=energy.deficit>=50||buff.tigers_fury.down\nactions.cooldowns+=/berserking\nactions.cooldowns+=/pool_resource,for_next=1\nactions.cooldowns+=/feral_frenzy,if=combo_points=0\nactions.cooldowns+=/potion,name=battle_potion_of_agility,if=target.time_to_die<65||(time_to_die<180&(buff.berserk.up||buff.incarnation.up))\nactions.cooldowns+=/shadowmeld,if=combo_points<5&energy>=action.rake.cost&dot.rake.pmultiplier<2.1&buff.tigers_fury.up&(buff.bloodtalons.up||!talent.bloodtalons.enabled)&(!talent.incarnation.enabled||cooldown.incarnation.remains>18)&!buff.incarnation.up\n\nactions.finishers=regrowth,if=buff.predatory_swiftness.up&talent.bloodtalons.enabled&buff.bloodtalons.stack<2\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/savage_roar,if=buff.savage_roar.down\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/primal_wrath,target_if=spell_targets.primal_wrath>1+talent.sabertooth.enabled\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/rip,target_if=!talent.sabertooth.enabled&refreshable&target.time_to_die>dot.rip.remains+variable.rip_ticks*action.rip.tick_time\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/rip,target_if=talent.sabertooth.enabled&(!ticking||remains<=duration*0.3&persistent_multiplier>dot.rip.pmultiplier)&target.time_to_die>dot.rip.remains+variable.rip_ticks*(1+dot.rip.ticking*3)*action.rip.tick_time\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/savage_roar,if=buff.savage_roar.remains<12\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/maim,if=buff.iron_jaws.up\nactions.finishers+=/pool_resource,for_next=1\nactions.finishers+=/ferocious_bite,max_energy=1\n\nactions.generators=variable,name=rake_ttd,value=(1+(spell_targets.thrash_cat-1)*!talent.brutal_slash.enabled)*action.rake.tick_time\nactions.generators+=/regrowth,if=talent.bloodtalons.enabled&buff.predatory_swiftness.up&buff.bloodtalons.down&combo_points=4&dot.rake.remains<4&target.time_to_die>dot.rake.remains+variable.rake_ttd\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/rake,target_if=(!ticking||!talent.bloodtalons.enabled&refreshable)&target.time_to_die>dot.rake.remains+variable.rake_ttd\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/rake,target_if=talent.bloodtalons.enabled&buff.bloodtalons.up&remains<=7&persistent_multiplier>dot.rake.pmultiplier*0.85&target.time_to_die>dot.rake.remains+variable.rake_ttd\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/brutal_slash,if=(buff.tigers_fury.up||(charges>=2&cooldown.tigers_fury.remains>full_recharge_time))&raid_event.adds.in>full_recharge_time\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/moonfire_cat,target_if=refreshable&target.time_to_die>remains+(2+2*(spell_targets.thrash_cat-1)*!talent.brutal_slash.enabled)*dot.moonfire_cat.tick_time\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/thrash_cat,if=refreshable&(spell_targets.thrash_cat>1||(azerite.wild_fleshrending.enabled&target.time_to_die>remains+action.thrash_cat.tick_time))\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/swipe_cat,if=spell_targets.swipe_cat>1\nactions.generators+=/pool_resource,for_next=1\nactions.generators+=/shred,if=dot.rake.remains>(action.shred.cost+action.rake.cost-energy)%energy.regen||buff.clearcasting.react||!(target.time_to_die>dot.rake.remains+variable.rake_ttd)\n\nactions.generators_aoe=pool_resource,for_next=1\nactions.generators_aoe+=/thrash_cat,if=refreshable&spell_targets.thrash_cat>2||talent.scent_of_blood.enabled&buff.scent_of_blood.down&spell_targets.thrash_cat>3\nactions.generators_aoe+=/pool_resource,for_next=1\nactions.generators_aoe+=/brutal_slash,if=spell_targets.brutal_slash>desired_targets\nactions.generators_aoe+=/pool_resource,for_next=1\nactions.generators_aoe+=/swipe_cat,if=buff.scent_of_blood.up\n\nactions.opener=tigers_fury\nactions.opener+=/rake,if=!ticking||buff.prowl.up\nactions.opener+=/primal_wrath,if=active_enemies>1&combo_points>1&(buff.tigers_fury.up&(buff.bloodtalons.up||!talent.bloodtalons.enabled)&(!talent.lunar_inspiration.enabled||dot.moonfire_cat.ticking)&!ticking)\nactions.opener+=/rip,if=active_enemies=1&(buff.tigers_fury.up&(buff.bloodtalons.up||!talent.bloodtalons.enabled)&dot.rake.ticking&(!talent.lunar_inspiration.enabled||dot.moonfire_cat.ticking)&!ticking)",
+					["version"] = 20190123.1046,
+					["warnings"] = "WARNING:  The import for 'default' required some automated changes.\nLine 1: Unsupported action 'auto_attack'.\n\nImported 7 action lists.\n",
+					["author"] = "SimC",
+					["lists"] = {
+						["opener"] = {
+							{
+								["action"] = "tigers_fury",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "! ticking || buff.prowl.up",
+								["action"] = "rake",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "active_enemies > 1 & combo_points > 1 & ( buff.tigers_fury.up & ( buff.bloodtalons.up || ! talent.bloodtalons.enabled ) & ( ! talent.lunar_inspiration.enabled || dot.moonfire_cat.ticking ) & ! ticking )",
+								["action"] = "primal_wrath",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "active_enemies = 1 & ( buff.tigers_fury.up & ( buff.bloodtalons.up || ! talent.bloodtalons.enabled ) & dot.rake.ticking & ( ! talent.lunar_inspiration.enabled || dot.moonfire_cat.ticking ) & ! ticking )",
+								["action"] = "rip",
+							}, -- [4]
+						},
+						["generators_aoe"] = {
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "refreshable & spell_targets.thrash_cat > 2 || talent.scent_of_blood.enabled & buff.scent_of_blood.down & spell_targets.thrash_cat > 3",
+								["action"] = "thrash_cat",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "spell_targets.brutal_slash > desired_targets",
+								["action"] = "brutal_slash",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.scent_of_blood.up",
+								["action"] = "swipe_cat",
+							}, -- [6]
+						},
+						["default"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "! buff.prowl.up & ! buff.shadowmeld.up",
+								["action"] = "auto_attack",
+							}, -- [1]
+							{
+								["action"] = "skull_bash",
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "! opener_done & ( buff.berserk.up || buff.incarnation.up )",
+								["action"] = "call_action_list",
+								["list_name"] = "opener",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "! buff.cat_form.up",
+								["action"] = "cat_form",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.prowl.up || buff.shadowmeld.up",
+								["action"] = "rake",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "cooldowns",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.sabertooth.enabled & combo_points > spell_targets.thrash_cat & dot.rip.ticking & dot.rip.remains < 3 & target.time_to_die > dot.rip.remains + variable.rip_ticks * action.rip.tick_time",
+								["action"] = "ferocious_bite",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "combo_points > 4",
+								["action"] = "call_action_list",
+								["list_name"] = "finishers",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "combo_points < 5 & spell_targets.thrash_cat > 1",
+								["action"] = "call_action_list",
+								["list_name"] = "generators_aoe",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["criteria"] = "combo_points < 5",
+								["action"] = "call_action_list",
+								["list_name"] = "generators",
+							}, -- [10]
+						},
+						["precombat"] = {
+							{
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["value"] = "8",
+								["enabled"] = true,
+								["action"] = "variable",
+								["var_name"] = "rip_ticks",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.bloodtalons.enabled",
+								["action"] = "regrowth",
+							}, -- [5]
+							{
+								["action"] = "prowl",
+								["enabled"] = true,
+							}, -- [6]
+							{
+								["enabled"] = true,
+							}, -- [7]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [8]
+							{
+								["action"] = "berserk",
+								["enabled"] = true,
+							}, -- [9]
+						},
+						["generators"] = {
+							{
+								["value"] = "( 1 + ( spell_targets.thrash_cat - 1 ) * ! talent.brutal_slash.enabled ) * action.rake.tick_time",
+								["enabled"] = true,
+								["action"] = "variable",
+								["var_name"] = "rake_ttd",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.bloodtalons.enabled & buff.predatory_swiftness.up & buff.bloodtalons.down & combo_points = 4 & dot.rake.remains < 4 & target.time_to_die > dot.rake.remains + variable.rake_ttd",
+								["action"] = "regrowth",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "( ! ticking || ! talent.bloodtalons.enabled & refreshable ) & target.time_to_die > dot.rake.remains + variable.rake_ttd",
+								["action"] = "rake",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.bloodtalons.enabled & buff.bloodtalons.up & remains <= 7 & persistent_multiplier > dot.rake.pmultiplier * 0.85 & target.time_to_die > dot.rake.remains + variable.rake_ttd",
+								["action"] = "rake",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.tigers_fury.up || ( charges >= 2 & cooldown.tigers_fury.remains > full_recharge_time ) ) & raid_event.adds.in > full_recharge_time",
+								["action"] = "brutal_slash",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["criteria"] = "refreshable & target.time_to_die > remains + ( 2 + 2 * ( spell_targets.thrash_cat - 1 ) * ! talent.brutal_slash.enabled ) * dot.moonfire_cat.tick_time",
+								["action"] = "moonfire_cat",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "refreshable & ( spell_targets.thrash_cat > 1 || ( azerite.wild_fleshrending.enabled & target.time_to_die > remains + action.thrash_cat.tick_time ) )",
+								["action"] = "thrash_cat",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [13]
+							{
+								["enabled"] = true,
+								["criteria"] = "spell_targets.swipe_cat > 1",
+								["action"] = "swipe_cat",
+							}, -- [14]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [15]
+							{
+								["enabled"] = true,
+								["criteria"] = "dot.rake.remains > ( action.shred.cost + action.rake.cost - energy ) % energy.regen || buff.clearcasting.react || ! ( target.time_to_die > dot.rake.remains + variable.rake_ttd )",
+								["action"] = "shred",
+							}, -- [16]
+						},
+						["finishers"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.predatory_swiftness.up & talent.bloodtalons.enabled & buff.bloodtalons.stack < 2",
+								["action"] = "regrowth",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.savage_roar.down",
+								["action"] = "savage_roar",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "spell_targets.primal_wrath > 1 + talent.sabertooth.enabled",
+								["action"] = "primal_wrath",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "! talent.sabertooth.enabled & refreshable & target.time_to_die > dot.rip.remains + variable.rip_ticks * action.rip.tick_time",
+								["action"] = "rip",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "talent.sabertooth.enabled & ( ! ticking || remains <= duration * 0.3 & persistent_multiplier > dot.rip.pmultiplier ) & target.time_to_die > dot.rip.remains + variable.rip_ticks * ( 1 + dot.rip.ticking * 3 ) * action.rip.tick_time",
+								["action"] = "rip",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.savage_roar.remains < 12",
+								["action"] = "savage_roar",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.iron_jaws.up",
+								["action"] = "maim",
+							}, -- [13]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [14]
+							{
+								["max_energy"] = "1",
+								["action"] = "ferocious_bite",
+								["enabled"] = true,
+							}, -- [15]
+						},
+						["cooldowns"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "energy >= 30 & ( cooldown.tigers_fury.remains > 5 || cooldown.tigers_fury.remains < 1 )",
+								["action"] = "berserk",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "energy >= 30",
+								["action"] = "incarnation",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.tigers_fury.up",
+								["action"] = "use_items",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "energy.deficit >= 50 || buff.tigers_fury.down",
+								["action"] = "tigers_fury",
+							}, -- [4]
+							{
+								["action"] = "berserking",
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["for_next"] = 1,
+								["action"] = "pool_resource",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "combo_points = 0",
+								["action"] = "feral_frenzy",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["potion"] = "battle_potion_of_agility",
+								["action"] = "potion",
+								["criteria"] = "target.time_to_die < 65 || ( time_to_die < 180 & ( buff.berserk.up || buff.incarnation.up ) )",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "combo_points < 5 & energy >= action.rake.cost & dot.rake.pmultiplier < 2.1 & buff.tigers_fury.up & ( buff.bloodtalons.up || ! talent.bloodtalons.enabled ) & ( ! talent.incarnation.enabled || cooldown.incarnation.remains > 18 ) & ! buff.incarnation.up",
+								["action"] = "shadowmeld",
+							}, -- [9]
+						},
+					},
+				},
+				["Balance"] = {
+					["source"] = "https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Balance.simc",
+					["builtIn"] = true,
+					["date"] = 20190106.2123,
+					["author"] = "SimC",
+					["desc"] = "# Balance Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Balance.simc\n# January 6, 2019 - 21:19\n\n# Changes:\n# - Added Solar Beam.\n# - Changed target_if cases to cycle_targets.\n# - Adjusted sf_targets variable for addon syntax.\n# - Added Use Items.\n# - Simplify Azerite trait lookups (don't use unnecessary variable syntax).",
+					["lists"] = {
+						["default"] = {
+							{
+								["action"] = "solar_beam",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "potion",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "blood_fury",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "berserking",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "arcane_torrent",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "lights_judgment",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "fireblood",
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.ca_inc.up",
+								["action"] = "ancestral_call",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "cooldown.ca_inc.remains > 30",
+								["action"] = "use_items",
+							}, -- [9]
+							{
+								["action"] = "warrior_of_elune",
+								["enabled"] = true,
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "azerite.lively_spirit.enabled & ( cooldown.incarnation.remains < 2 || cooldown.celestial_alignment.remains < 12 )",
+								["action"] = "innervate",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "astral_power >= 40",
+								["action"] = "incarnation",
+							}, -- [12]
+							{
+								["enabled"] = true,
+								["criteria"] = "astral_power >= 40 & ( ! azerite.lively_spirit.enabled || buff.lively_spirit.up ) & ( buff.starlord.stack >= 2 || ! talent.starlord.enabled || ! azerite.streaking_stars.enabled )",
+								["action"] = "celestial_alignment",
+							}, -- [13]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.ca_inc.up || cooldown.ca_inc.remains > 30 ) & solar_wrath.ap_check",
+								["action"] = "fury_of_elune",
+							}, -- [14]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.ca_inc.up || cooldown.ca_inc.remains > 30 ) & ap_check",
+								["action"] = "force_of_nature",
+							}, -- [15]
+							{
+								["enabled"] = true,
+								["action"] = "cancel_buff",
+								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
+								["buff_name"] = "starlord",
+							}, -- [16]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.starlord.stack < 3 || buff.starlord.remains >= 8 ) & spell_targets >= variable.sf_targets & ( target.time_to_die + 1 ) * spell_targets > cost % 2.5",
+								["action"] = "starfall",
+							}, -- [17]
+							{
+								["enabled"] = true,
+								["criteria"] = "( talent.starlord.enabled & ( buff.starlord.stack < 3 || buff.starlord.remains >= 8 & buff.arcanic_pulsar.stack < 8 ) || ! talent.starlord.enabled & ( buff.arcanic_pulsar.stack < 8 || buff.ca_inc.up ) ) & spell_targets.starfall < variable.sf_targets & buff.lunar_empowerment.stack + buff.solar_empowerment.stack < 4 & buff.solar_empowerment.stack < 3 & buff.lunar_empowerment.stack < 3 & ( ! azerite.streaking_stars.enabled || ! buff.ca_inc.up || ! prev.starsurge ) || target.time_to_die <= execute_time * astral_power % 40 || ! solar_wrath.ap_check",
+								["action"] = "starsurge",
+							}, -- [18]
+							{
+								["enabled"] = true,
+								["action"] = "sunfire",
+								["criteria"] = "refreshable & ( ap_check & floor ( target.time_to_die % ( 2 * spell_haste ) ) * spell_targets >= 4 + spell_targets & ( spell_targets > 1 + talent.twin_moons.enabled || dot.moonfire.ticking ) & ( ! azerite.streaking_stars.enabled || ! buff.ca_inc.up || ! prev.sunfire ) )",
+								["cycle_targets"] = 1,
+							}, -- [19]
+							{
+								["enabled"] = true,
+								["action"] = "moonfire",
+								["criteria"] = "refreshable & ( ap_check & floor ( target.time_to_die % ( 2 * spell_haste ) ) * spell_targets >= 6 & ( ! azerite.streaking_stars.enabled || ! buff.ca_inc.up || ! prev.moonfire ) )",
+								["cycle_targets"] = 1,
+							}, -- [20]
+							{
+								["enabled"] = true,
+								["action"] = "stellar_flare",
+								["criteria"] = "refreshable & ( ap_check & floor ( target.time_to_die % ( 2 * spell_haste ) ) >= 6 & ( ! azerite.streaking_stars.enabled || ! buff.ca_inc.up || ! prev.stellar_flare ) )",
+								["cycle_targets"] = 1,
+							}, -- [21]
+							{
+								["enabled"] = true,
+								["criteria"] = "ap_check",
+								["action"] = "new_moon",
+							}, -- [22]
+							{
+								["enabled"] = true,
+								["criteria"] = "ap_check",
+								["action"] = "half_moon",
+							}, -- [23]
+							{
+								["enabled"] = true,
+								["criteria"] = "ap_check",
+								["action"] = "full_moon",
+							}, -- [24]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.solar_empowerment.stack < 3 & ( ap_check || buff.lunar_empowerment.stack = 3 ) & ( ( buff.warrior_of_elune.up || buff.lunar_empowerment.up || spell_targets >= 2 & ! buff.solar_empowerment.up || azerite.dawning_sun.enabled & ! buff.dawning_sun.up ) & ( ! azerite.streaking_stars.enabled || ! buff.ca_inc.up || ( ! prev.lunar_strike & ! talent.incarnation.enabled || prev.solar_wrath ) ) || azerite.streaking_stars.enabled & buff.ca_inc.up & prev.solar_wrath )",
+								["action"] = "lunar_strike",
+							}, -- [25]
+							{
+								["enabled"] = true,
+								["criteria"] = "azerite.streaking_stars.rank < 3 || ! buff.ca_inc.up || ! prev.solar_wrath",
+								["action"] = "solar_wrath",
+							}, -- [26]
+							{
+								["action"] = "sunfire",
+								["enabled"] = true,
+							}, -- [27]
+						},
+						["precombat"] = {
+							{
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["op"] = "set",
+								["action"] = "variable",
+								["value"] = "4 + ( talent.twin_moons.enabled & ( azerite.arcanic_pulsar.enabled || talent.starlord.enabled ) ) - ( ! azerite.arcanic_pulsar.enabled & ! talent.starlord.enabled & talent.stellar_drift.enabled )",
+								["var_name"] = "sf_targets",
+							}, -- [4]
+							{
+								["action"] = "moonkin_form",
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["enabled"] = true,
+							}, -- [6]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [7]
+							{
+								["action"] = "solar_wrath",
+								["enabled"] = true,
+							}, -- [8]
+						},
+					},
+					["version"] = 20190106.2123,
+					["warnings"] = "Imported 2 action lists.\n",
+					["profile"] = "# Balance Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Balance.simc\n# January 6, 2019 - 21:19\n\n# Changes:\n# - Added Solar Beam.\n# - Changed target_if cases to cycle_targets.\n# - Adjusted sf_targets variable for addon syntax.\n# - Added Use Items.\n# - Simplify Azerite trait lookups (don't use unnecessary variable syntax).\n\n# Executed before combat begins. Accepts non-harmful actions only.\nactions.precombat=flask\nactions.precombat+=/food\nactions.precombat+=/augmentation\n# Azerite Variables\n# actions.precombat+=/variable,name=az_ss,value=azerite.streaking_stars.rank\n# actions.precombat+=/variable,name=az_ds,value=azerite.dawning_sun.rank\n# actions.precombat+=/variable,name=az_ap,value=azerite.arcanic_pulsar.rank\n# Starfall v Starsurge target cutoff\nactions.precombat+=/variable,name=sf_targets,op=set,value=4+(talent.twin_moons.enabled&(azerite.arcanic_pulsar.enabled||talent.starlord.enabled))-(!azerite.arcanic_pulsar.enabled&!talent.starlord.enabled&talent.stellar_drift.enabled)\nactions.precombat+=/moonkin_form\n# Snapshot raid buffed stats before combat begins and pre-potting is done.\nactions.precombat+=/snapshot_stats\nactions.precombat+=/potion\nactions.precombat+=/solar_wrath\n\n# Executed every time the actor is available.\nactions=solar_beam\nactions+=/potion,if=buff.ca_inc.up\nactions+=/blood_fury,if=buff.ca_inc.up\nactions+=/berserking,if=buff.ca_inc.up\nactions+=/arcane_torrent,if=buff.ca_inc.up\nactions+=/lights_judgment,if=buff.ca_inc.up\nactions+=/fireblood,if=buff.ca_inc.up\nactions+=/ancestral_call,if=buff.ca_inc.up\n\n# CDs\nactions+=/use_items,if=cooldown.ca_inc.remains>30\nactions+=/warrior_of_elune\nactions+=/innervate,if=azerite.lively_spirit.enabled&(cooldown.incarnation.remains<2||cooldown.celestial_alignment.remains<12)\nactions+=/incarnation,if=astral_power>=40\nactions+=/celestial_alignment,if=astral_power>=40&(!azerite.lively_spirit.enabled||buff.lively_spirit.up)&(buff.starlord.stack>=2||!talent.starlord.enabled||!azerite.streaking_stars.enabled)\nactions+=/fury_of_elune,if=(buff.ca_inc.up||cooldown.ca_inc.remains>30)&solar_wrath.ap_check\nactions+=/force_of_nature,if=(buff.ca_inc.up||cooldown.ca_inc.remains>30)&ap_check\n\n# Spenders\nactions+=/cancel_buff,name=starlord,if=buff.starlord.remains<8&!solar_wrath.ap_check\nactions+=/starfall,if=(buff.starlord.stack<3||buff.starlord.remains>=8)&spell_targets>=variable.sf_targets&(target.time_to_die+1)*spell_targets>cost%2.5\nactions+=/starsurge,if=(talent.starlord.enabled&(buff.starlord.stack<3||buff.starlord.remains>=8&buff.arcanic_pulsar.stack<8)||!talent.starlord.enabled&(buff.arcanic_pulsar.stack<8||buff.ca_inc.up))&spell_targets.starfall<variable.sf_targets&buff.lunar_empowerment.stack+buff.solar_empowerment.stack<4&buff.solar_empowerment.stack<3&buff.lunar_empowerment.stack<3&(!azerite.streaking_stars.enabled||!buff.ca_inc.up||!prev.starsurge)||target.time_to_die<=execute_time*astral_power%40||!solar_wrath.ap_check\n\n# DoTs\nactions+=/sunfire,cycle_targets=1,if=refreshable&(ap_check&floor(target.time_to_die%(2*spell_haste))*spell_targets>=4+spell_targets&(spell_targets>1+talent.twin_moons.enabled||dot.moonfire.ticking)&(!azerite.streaking_stars.enabled||!buff.ca_inc.up||!prev.sunfire))\nactions+=/moonfire,cycle_targets=1,if=refreshable&(ap_check&floor(target.time_to_die%(2*spell_haste))*spell_targets>=6&(!azerite.streaking_stars.enabled||!buff.ca_inc.up||!prev.moonfire))\nactions+=/stellar_flare,cycle_targets=1,if=refreshable&(ap_check&floor(target.time_to_die%(2*spell_haste))>=6&(!azerite.streaking_stars.enabled||!buff.ca_inc.up||!prev.stellar_flare))\n\n# Generators\nactions+=/new_moon,if=ap_check\nactions+=/half_moon,if=ap_check\nactions+=/full_moon,if=ap_check\nactions+=/lunar_strike,if=buff.solar_empowerment.stack<3&(ap_check||buff.lunar_empowerment.stack=3)&((buff.warrior_of_elune.up||buff.lunar_empowerment.up||spell_targets>=2&!buff.solar_empowerment.up||azerite.dawning_sun.enabled&!buff.dawning_sun.up)&(!azerite.streaking_stars.enabled||!buff.ca_inc.up||(!prev.lunar_strike&!talent.incarnation.enabled||prev.solar_wrath))||azerite.streaking_stars.enabled&buff.ca_inc.up&prev.solar_wrath)\nactions+=/solar_wrath,if=azerite.streaking_stars.rank<3||!buff.ca_inc.up||!prev.solar_wrath\n\n# Fallthru for movement\nactions+=/sunfire",
+					["spec"] = 102,
+				},
+				["Guardian"] = {
+					["source"] = "https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Guardian.simc",
+					["builtIn"] = true,
+					["date"] = 20181023.2243,
+					["author"] = "SimC",
+					["desc"] = "# Guardian Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Guardian.simc\n# October 23, 2018 - 10:42 PM\n\n# Changes:\n# - Added Mitigation abilities.\n# - Added Skull Bash.",
+					["lists"] = {
+						["mitigation"] = {
+							{
+								["enabled"] = true,
+								["criteria"] = "incoming_damage_5s > 0.1 * health.max & buff.ironfur.remains < gcd * 2",
+								["action"] = "ironfur",
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["criteria"] = "health.current < 0.6 * health.max",
+								["action"] = "frenzied_regeneration",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["criteria"] = "health.pct < 50 & incoming_damage_5s > 0.25 * health.max",
+								["action"] = "barkskin",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.survival_instincts.down & health.pct < 35 & incoming_damage_5s > 0.25 * health.max",
+								["action"] = "survival_instincts",
+							}, -- [4]
+						},
+						["cooldowns"] = {
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["action"] = "blood_fury",
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["action"] = "berserking",
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["action"] = "arcane_torrent",
+								["enabled"] = true,
+							}, -- [4]
+							{
+								["action"] = "lights_judgment",
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["action"] = "fireblood",
+								["enabled"] = true,
+							}, -- [6]
+							{
+								["action"] = "ancestral_call",
+								["enabled"] = true,
+							}, -- [7]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.bear_form.up",
+								["action"] = "lunar_beam",
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.bear_form.up",
+								["action"] = "bristling_fur",
+							}, -- [9]
+							{
+								["action"] = "use_items",
+								["enabled"] = true,
+							}, -- [10]
+						},
+						["default"] = {
+							{
+								["action"] = "skull_bash",
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "mitigation",
+							}, -- [2]
+							{
+								["enabled"] = true,
+								["action"] = "call_action_list",
+								["list_name"] = "cooldowns",
+							}, -- [3]
+							{
+								["enabled"] = true,
+								["criteria"] = "rage.deficit < 10 & active_enemies < 4",
+								["action"] = "maul",
+							}, -- [4]
+							{
+								["enabled"] = true,
+								["criteria"] = "cost = 0 || ( rage > cost & azerite.layered_mane.enabled & active_enemies > 2 )",
+								["action"] = "ironfur",
+							}, -- [5]
+							{
+								["enabled"] = true,
+								["criteria"] = "dot.thrash_bear.stack = dot.thrash_bear.max_stacks",
+								["action"] = "pulverize",
+							}, -- [6]
+							{
+								["enabled"] = true,
+								["criteria"] = "dot.moonfire.refreshable & active_enemies < 2",
+								["action"] = "moonfire",
+							}, -- [7]
+							{
+								["action"] = "incarnation",
+								["enabled"] = true,
+							}, -- [8]
+							{
+								["enabled"] = true,
+								["criteria"] = "( buff.incarnation.down & active_enemies > 1 ) || ( buff.incarnation.up & active_enemies > 4 )",
+								["action"] = "thrash_bear",
+							}, -- [9]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.incarnation.down & active_enemies > 4",
+								["action"] = "swipe_bear",
+							}, -- [10]
+							{
+								["enabled"] = true,
+								["criteria"] = "dot.thrash_bear.ticking",
+								["action"] = "mangle",
+							}, -- [11]
+							{
+								["enabled"] = true,
+								["criteria"] = "buff.galactic_guardian.up & active_enemies < 2",
+								["action"] = "moonfire",
+							}, -- [12]
+							{
+								["action"] = "thrash_bear",
+								["enabled"] = true,
+							}, -- [13]
+							{
+								["action"] = "maul",
+								["enabled"] = true,
+							}, -- [14]
+							{
+								["enabled"] = true,
+								["criteria"] = "azerite.power_of_the_moon.rank > 1 & active_enemies = 1",
+								["action"] = "moonfire",
+							}, -- [15]
+							{
+								["action"] = "swipe_bear",
+								["enabled"] = true,
+							}, -- [16]
+						},
+						["precombat"] = {
+							{
+								["enabled"] = true,
+							}, -- [1]
+							{
+								["enabled"] = true,
+							}, -- [2]
+							{
+								["enabled"] = true,
+							}, -- [3]
+							{
+								["action"] = "bear_form",
+								["enabled"] = true,
+							}, -- [4]
+							{
+								["enabled"] = true,
+							}, -- [5]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [6]
+						},
+					},
+					["version"] = 20181023.2243,
+					["warnings"] = "Imported 4 action lists.\n",
+					["spec"] = 104,
+					["profile"] = "# Guardian Druid\n# https://github.com/simulationcraft/simc/blob/bfa-dev/profiles/PreRaids/PR_Druid_Guardian.simc\n# October 23, 2018 - 10:42 PM\n\n# Changes:\n# - Added Mitigation abilities.\n# - Added Skull Bash.\n\n# Executed before combat begins. Accepts non-harmful actions only.\nactions.precombat=flask\nactions.precombat+=/food\nactions.precombat+=/augmentation\nactions.precombat+=/bear_form\n# Snapshot raid buffed stats before combat begins and pre-potting is done.\nactions.precombat+=/snapshot_stats\nactions.precombat+=/potion\n\n# Executed every time the actor is available.\nactions=skull_bash\nactions+=/call_action_list,name=mitigation\nactions+=/call_action_list,name=cooldowns\nactions+=/maul,if=rage.deficit<10&active_enemies<4\nactions+=/ironfur,if=cost=0||(rage>cost&azerite.layered_mane.enabled&active_enemies>2)\nactions+=/pulverize,if=dot.thrash_bear.stack=dot.thrash_bear.max_stacks\nactions+=/moonfire,if=dot.moonfire.refreshable&active_enemies<2\nactions+=/incarnation\nactions+=/thrash_bear,if=(buff.incarnation.down&active_enemies>1)||(buff.incarnation.up&active_enemies>4)\nactions+=/swipe_bear,if=buff.incarnation.down&active_enemies>4\nactions+=/mangle,if=dot.thrash_bear.ticking\nactions+=/moonfire,if=buff.galactic_guardian.up&active_enemies<2\nactions+=/thrash_bear\nactions+=/maul\n# Fill with Moonfire with PotMx2\nactions+=/moonfire,if=azerite.power_of_the_moon.rank>1&active_enemies=1\nactions+=/swipe_bear\n\nactions.mitigation=ironfur,if=incoming_damage_5s>0.1*health.max&buff.ironfur.remains<gcd*2\nactions.mitigation+=/frenzied_regeneration,if=health.current<0.6*health.max\nactions.mitigation+=/barkskin,if=health.pct<50&incoming_damage_5s>0.25*health.max\nactions.mitigation+=/survival_instincts,if=buff.survival_instincts.down&health.pct<35&incoming_damage_5s>0.25*health.max\n\nactions.cooldowns=potion\nactions.cooldowns+=/blood_fury\nactions.cooldowns+=/berserking\nactions.cooldowns+=/arcane_torrent\nactions.cooldowns+=/lights_judgment\nactions.cooldowns+=/fireblood\nactions.cooldowns+=/ancestral_call\n# actions.cooldowns+=/barkskin,if=buff.bear_form.up\nactions.cooldowns+=/lunar_beam,if=buff.bear_form.up\nactions.cooldowns+=/bristling_fur,if=buff.bear_form.up\nactions.cooldowns+=/use_items",
+				},
 			},
 		},
 	},

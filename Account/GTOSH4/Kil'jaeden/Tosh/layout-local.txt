@@ -2,10 +2,10 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
-X: -196
-Y: -228
-W: 108
-H: 56
+X: 4
+Y: -252
+W: 508
+H: 104
 Frame: Details_StreamOverlay
 FrameLevel: 6
 Anchor: BOTTOMLEFT
