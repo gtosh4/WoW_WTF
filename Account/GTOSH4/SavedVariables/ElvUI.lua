@@ -32,7 +32,7 @@ ElvDB = {
 		["userInformedNewChanges1"] = true,
 		["unitframe"] = {
 			["ChannelTicks"] = {
-				["Penance"] = 3,
+				["Penance"] = 4,
 			},
 		},
 	},
@@ -654,11 +654,11 @@ ElvDB = {
 				["goldFormat"] = "CONDENSED",
 				["time24"] = true,
 				["panels"] = {
-					["LeftMiniPanel"] = "System",
+					["LeftMiniPanel"] = "",
 					["RightChatDataPanel"] = {
 						["right"] = "",
 						["left"] = "BfA Missions",
-						["middle"] = "AstralKeys",
+						["middle"] = "System",
 					},
 					["LeftChatDataPanel"] = {
 						["right"] = "BugSack",
@@ -1200,9 +1200,13 @@ ElvPrivateDB = {
 			["install_complete"] = "10.85",
 		},
 		["Yorman - Kil'jaeden"] = {
-			["general"] = {
-				["namefont"] = "Friz Quadrata TT",
-				["dmgfont"] = "Friz Quadrata TT",
+			["sle"] = {
+				["pvpreadydialogreset"] = true,
+				["characterGoldsSorting"] = {
+					["Kil'jaeden"] = {
+					},
+				},
+				["install_complete"] = "3.5",
 			},
 			["actionbar"] = {
 				["enable"] = false,
@@ -1213,6 +1217,18 @@ ElvPrivateDB = {
 			["bags"] = {
 				["enable"] = false,
 			},
+			["general"] = {
+				["dmgfont"] = "Friz Quadrata TT",
+				["namefont"] = "Friz Quadrata TT",
+			},
+			["install_complete"] = "10.87",
+		},
+		["Tosh - Kil'jaeden"] = {
+			["skins"] = {
+				["parchmentRemover"] = {
+					["enable"] = true,
+				},
+			},
 			["sle"] = {
 				["pvpreadydialogreset"] = true,
 				["characterGoldsSorting"] = {
@@ -1221,10 +1237,13 @@ ElvPrivateDB = {
 				},
 				["install_complete"] = "3.5",
 			},
-			["install_complete"] = "10.87",
-		},
-		["Tosh - Kil'jaeden"] = {
+			["actionbar"] = {
+				["enable"] = false,
+			},
 			["nameplates"] = {
+				["enable"] = false,
+			},
+			["bags"] = {
 				["enable"] = false,
 			},
 			["general"] = {
@@ -1232,25 +1251,6 @@ ElvPrivateDB = {
 				["minimap"] = {
 					["hideClassHallReport"] = true,
 				},
-			},
-			["actionbar"] = {
-				["enable"] = false,
-			},
-			["skins"] = {
-				["parchmentRemover"] = {
-					["enable"] = true,
-				},
-			},
-			["bags"] = {
-				["enable"] = false,
-			},
-			["sle"] = {
-				["pvpreadydialogreset"] = true,
-				["characterGoldsSorting"] = {
-					["Kil'jaeden"] = {
-					},
-				},
-				["install_complete"] = "3.5",
 			},
 			["install_complete"] = "10.85",
 		},

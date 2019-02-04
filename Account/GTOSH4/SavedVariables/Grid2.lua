@@ -42,13 +42,13 @@ Grid2DB = {
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
-					["PosY"] = -490.659940779093,
+					["PosY"] = -490.659908229045,
 					["extraThemes"] = {
 					},
 					["BackgroundA"] = 0.859999999403954,
 					["BackgroundR"] = 0,
 					["Spacing"] = 4,
-					["PosX"] = 784.008327529366,
+					["PosX"] = 784.008392629461,
 				},
 				["Tosh - Kil'jaeden"] = {
 					["BackgroundG"] = 0.101960784313725,
@@ -3800,6 +3800,7 @@ Grid2DB = {
 						"Dampen Harm", -- [20]
 						"Metamorphosis", -- [21]
 						"Life Cocoon", -- [22]
+						"Ironbark", -- [23]
 					},
 				},
 				["buff-EnvelopingMist-mine"] = {

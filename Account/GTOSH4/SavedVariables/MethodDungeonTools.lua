@@ -10,6 +10,9 @@ MethodDungeonToolsDB = {
 		["presets"] = {
 			[15] = {
 				{
+					["objects"] = {
+					},
+					["week"] = 1,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -22,9 +25,6 @@ MethodDungeonToolsDB = {
 							{
 							}, -- [1]
 						},
-					},
-					["week"] = 1,
-					["objects"] = {
 					},
 				}, -- [1]
 			},
