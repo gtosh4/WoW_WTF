@@ -298,33 +298,33 @@ HekiliDB = {
 						["opener"] = {
 							{
 								["enabled"] = true,
-								["action"] = "sequence",
 								["name"] = "wake_opener_ES_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:execution_sentence",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
+								["action"] = "sequence",
 							}, -- [1]
 							{
 								["enabled"] = true,
-								["action"] = "sequence",
 								["name"] = "wake_opener_CS:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:crusader_strike:templars_verdict",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & ! talent.hammer_of_wrath.enabled",
+								["action"] = "sequence",
 							}, -- [2]
 							{
 								["enabled"] = true,
-								["action"] = "sequence",
 								["name"] = "wake_opener_ES_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:execution_sentence",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
+								["action"] = "sequence",
 							}, -- [3]
 							{
 								["enabled"] = true,
-								["action"] = "sequence",
 								["name"] = "wake_opener_HoW:shield_of_vengeance:blade_of_justice:judgment:crusade:templars_verdict:wake_of_ashes:templars_verdict:hammer_of_wrath:templars_verdict",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.crusade.enabled & ! talent.execution_sentence.enabled & talent.hammer_of_wrath.enabled",
+								["action"] = "sequence",
 							}, -- [4]
 							{
 								["enabled"] = true,
-								["action"] = "sequence",
 								["name"] = "wake_opener_Inq:shield_of_vengeance:blade_of_justice:judgment:inquisition:avenging_wrath:wake_of_ashes",
 								["criteria"] = "talent.wake_of_ashes.enabled & talent.inquisition.enabled",
+								["action"] = "sequence",
 							}, -- [5]
 						},
 						["default"] = {
@@ -383,93 +383,93 @@ HekiliDB = {
 							}, -- [1]
 							{
 								["enabled"] = true,
-								["action"] = "jes_howler",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack = 10",
 								["name"] = "jes_howler",
+								["action"] = "jes_howler",
 							}, -- [2]
 							{
 								["enabled"] = true,
-								["action"] = "vial_of_animated_blood",
 								["criteria"] = "( buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18 ) || ( cooldown.avenging_wrath.remains > 30 || cooldown.crusade.remains > 30 )",
 								["name"] = "vial_of_animated_blood",
+								["action"] = "vial_of_animated_blood",
 							}, -- [3]
 							{
 								["enabled"] = true,
-								["action"] = "dooms_fury",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 18",
 								["name"] = "dooms_fury",
+								["action"] = "dooms_fury",
 							}, -- [4]
 							{
 								["enabled"] = true,
-								["action"] = "galecallers_beak",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains < 15",
 								["name"] = "galecallers_beak",
+								["action"] = "galecallers_beak",
 							}, -- [5]
 							{
 								["enabled"] = true,
-								["action"] = "bygone_bee_almanac",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up",
 								["name"] = "bygone_bee_almanac",
+								["action"] = "bygone_bee_almanac",
 							}, -- [6]
 							{
 								["enabled"] = true,
-								["action"] = "merekthas_fang",
 								["criteria"] = "( ! raid_event.adds.exists || raid_event.adds.in > 15 ) || spell_targets.divine_storm >= 2",
 								["name"] = "merekthas_fang",
+								["action"] = "merekthas_fang",
 							}, -- [7]
 							{
 								["enabled"] = true,
-								["action"] = "plunderbeards_flask",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
 								["name"] = "plunderbeards_flask",
+								["action"] = "plunderbeards_flask",
 							}, -- [8]
 							{
 								["enabled"] = true,
-								["action"] = "berserkers_juju",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || ! buff.crusade.up & cooldown.crusade.remains > 45",
 								["name"] = "berserkers_juju",
+								["action"] = "berserkers_juju",
 							}, -- [9]
 							{
 								["enabled"] = true,
-								["action"] = "endless_tincture_of_fractional_power",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 45 || cooldown.crusade.remains > 45",
 								["name"] = "endless_tincture_of_fractional_power",
+								["action"] = "endless_tincture_of_fractional_power",
 							}, -- [10]
 							{
 								["enabled"] = true,
-								["action"] = "pearl_divers_compass",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10",
 								["name"] = "pearl_divers_compass",
+								["action"] = "pearl_divers_compass",
 							}, -- [11]
 							{
 								["enabled"] = true,
-								["action"] = "first_mates_spyglass",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 15",
 								["name"] = "first_mates_spyglass",
+								["action"] = "first_mates_spyglass",
 							}, -- [12]
 							{
 								["enabled"] = true,
-								["action"] = "whirlwings_plumage",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "whirlwings_plumage",
+								["action"] = "whirlwings_plumage",
 							}, -- [13]
 							{
 								["enabled"] = true,
-								["action"] = "dread_gladiators_badge",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "dread_gladiators_badge",
+								["action"] = "dread_gladiators_badge",
 							}, -- [14]
 							{
 								["enabled"] = true,
-								["action"] = "dread_aspirants_medallion",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.remains <= 20",
 								["name"] = "dread_aspirants_medallion",
+								["action"] = "dread_aspirants_medallion",
 							}, -- [15]
 							{
 								["enabled"] = true,
-								["action"] = "knot_of_ancient_fury",
 								["criteria"] = "buff.avenging_wrath.up || buff.crusade.up & buff.crusade.stack >= 10 || cooldown.avenging_wrath.remains > 30 || ! buff.crusade.up & cooldown.crusade.remains > 30",
 								["name"] = "knot_of_ancient_fury",
+								["action"] = "knot_of_ancient_fury",
 							}, -- [16]
 							{
 								["enabled"] = true,
@@ -630,12 +630,12 @@ HekiliDB = {
 					["debuffPadding"] = 0,
 					["damage"] = true,
 					["package"] = "Windwalker",
-					["nameplateRange"] = 8,
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["nameplates"] = true,
 					["potionsReset"] = 20180919.1,
 					["damageExpiration"] = 8,
-					["cycle"] = true,
+					["nameplateRange"] = 8,
 					["strict"] = false,
 				},
 				[268] = {
@@ -1201,15 +1201,20 @@ HekiliDB = {
 					["x"] = -607.026184082031,
 				},
 				["Primary"] = {
-					["primaryWidth"] = 36,
+					["border"] = {
+						["fit"] = false,
+					},
 					["rel"] = "CENTER",
 					["numIcons"] = 2,
-					["y"] = -134.993804931641,
+					["primaryWidth"] = 36,
 					["zoom"] = 0,
 					["queue"] = {
 						["width"] = 26,
 						["height"] = 26,
 					},
+					["y"] = -134.993804931641,
+					["x"] = -229.009231567383,
+					["primaryHeight"] = 36,
 					["keybindings"] = {
 						["fontSize"] = 16,
 						["y"] = 6,
@@ -1217,14 +1222,9 @@ HekiliDB = {
 						["anchor"] = "TOPLEFT",
 						["font"] = "Expressway",
 					},
-					["x"] = -229.009231567383,
-					["primaryHeight"] = 36,
 					["targets"] = {
 						["font"] = "Expressway",
 						["enabled"] = false,
-					},
-					["border"] = {
-						["fit"] = false,
 					},
 					["delays"] = {
 						["font"] = "Expressway",
@@ -2392,9 +2392,9 @@ HekiliDB = {
 							}, -- [7]
 							{
 								["enabled"] = true,
-								["action"] = "potion",
 								["criteria"] = "target.time_to_die < 65 || ( time_to_die < 180 & ( buff.berserk.up || buff.incarnation.up ) )",
 								["potion"] = "battle_potion_of_agility",
+								["action"] = "potion",
 							}, -- [8]
 							{
 								["enabled"] = true,
@@ -2688,8 +2688,8 @@ HekiliDB = {
 							}, -- [15]
 							{
 								["enabled"] = true,
-								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
 								["action"] = "cancel_buff",
+								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
 								["buff_name"] = "starlord",
 							}, -- [16]
 							{
@@ -2808,19 +2808,19 @@ HekiliDB = {
 					["buffPadding"] = 0.25,
 					["enabled"] = true,
 					["debuffPadding"] = 0,
-					["package"] = "Windwalker",
 					["damage"] = true,
-					["nameplateRange"] = 8,
+					["package"] = "Windwalker",
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["potionsReset"] = 20180919.1,
 					["nameplates"] = true,
 					["damageExpiration"] = 8,
-					["cycle"] = true,
+					["nameplateRange"] = 8,
 					["strict"] = false,
 				},
 				[103] = {
 					["maxRefresh"] = 10,
-					["package"] = "Feral",
+					["throttleRefresh"] = false,
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -2828,17 +2828,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "battle_potion_of_agility",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = true,
-					["damageExpiration"] = 3,
-					["throttleRefresh"] = false,
 					["cycle"] = false,
+					["potion"] = "battle_potion_of_agility",
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 3,
+					["package"] = "Feral",
+					["nameplateRange"] = 8,
 				},
 				[258] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Shadow",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -2848,15 +2848,15 @@ HekiliDB = {
 					["damage"] = true,
 					["cycle"] = false,
 					["potion"] = "potion_of_rising_death",
-					["package"] = "Shadow",
-					["nameplates"] = false,
-					["damageExpiration"] = 6,
-					["nameplateRange"] = 8,
+					["throttleRefresh"] = false,
 					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 6,
+					["nameplates"] = false,
+					["nameplateRange"] = 8,
 				},
 				[102] = {
 					["maxRefresh"] = 10,
-					["package"] = "Balance",
+					["throttleRefresh"] = false,
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -2864,17 +2864,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "potion_of_rising_death",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = false,
-					["damageExpiration"] = 6,
-					["throttleRefresh"] = false,
 					["cycle"] = false,
+					["potion"] = "potion_of_rising_death",
+					["nameplates"] = false,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 6,
+					["package"] = "Balance",
+					["nameplateRange"] = 8,
 				},
 				[104] = {
 					["maxRefresh"] = 10,
-					["package"] = "Guardian",
+					["throttleRefresh"] = false,
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -2882,17 +2882,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "steelskin_potion",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = true,
-					["damageExpiration"] = 6,
-					["throttleRefresh"] = false,
 					["cycle"] = false,
+					["potion"] = "steelskin_potion",
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 6,
+					["package"] = "Guardian",
+					["nameplateRange"] = 8,
 				},
 				[268] = {
 					["maxRefresh"] = 10,
-					["package"] = "Brewmaster",
+					["throttleRefresh"] = false,
 					["aoe"] = 2,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -2902,11 +2902,11 @@ HekiliDB = {
 					["damage"] = true,
 					["nameplateRange"] = 8,
 					["potion"] = "battle_potion_of_agility",
-					["throttleRefresh"] = false,
-					["nameplates"] = true,
-					["damageExpiration"] = 8,
-					["cycle"] = false,
+					["package"] = "Brewmaster",
 					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 8,
+					["nameplates"] = true,
+					["cycle"] = false,
 				},
 			},
 			["notifications"] = {
@@ -2923,13 +2923,13 @@ HekiliDB = {
 				[258] = {
 					["enabled"] = true,
 					["maxRefresh"] = 10,
-					["nameplates"] = false,
-					["nameplateRange"] = 8,
-					["throttleRefresh"] = false,
-					["damageExpiration"] = 6,
-					["potionsReset"] = 20180919.1,
-					["package"] = "Shadow",
 					["buffPadding"] = 0.25,
+					["throttleRefresh"] = false,
+					["package"] = "Shadow",
+					["damageExpiration"] = 6,
+					["nameplates"] = false,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
 					["cycle"] = false,
 					["potion"] = "potion_of_rising_death",
 					["debuffPadding"] = 0,
@@ -2954,12 +2954,13 @@ HekiliDB = {
 				},
 				["Primary"] = {
 					["zoom"] = 0,
-					["border"] = {
-						["fit"] = false,
-					},
 					["delays"] = {
 						["anchor"] = "BOTTOMRIGHT",
 						["fontSize"] = 14,
+						["font"] = "Expressway",
+					},
+					["targets"] = {
+						["enabled"] = false,
 						["font"] = "Expressway",
 					},
 					["queue"] = {
@@ -2979,9 +2980,8 @@ HekiliDB = {
 						["x"] = 0,
 						["font"] = "Expressway",
 					},
-					["targets"] = {
-						["enabled"] = false,
-						["font"] = "Expressway",
+					["border"] = {
+						["fit"] = false,
 					},
 				},
 				["Defensives"] = {
@@ -3749,9 +3749,9 @@ HekiliDB = {
 							}, -- [7]
 							{
 								["enabled"] = true,
-								["potion"] = "battle_potion_of_agility",
 								["action"] = "potion",
 								["criteria"] = "target.time_to_die < 65 || ( time_to_die < 180 & ( buff.berserk.up || buff.incarnation.up ) )",
+								["potion"] = "battle_potion_of_agility",
 							}, -- [8]
 							{
 								["enabled"] = true,
@@ -3844,8 +3844,8 @@ HekiliDB = {
 							}, -- [15]
 							{
 								["enabled"] = true,
-								["action"] = "cancel_buff",
 								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
+								["action"] = "cancel_buff",
 								["buff_name"] = "starlord",
 							}, -- [16]
 							{

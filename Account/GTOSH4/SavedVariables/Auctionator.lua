@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_500"] = 5,
 	["STARTING_DISCOUNT"] = 5,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
-	["_200000"] = 1000,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Veiled Crystal"] = {
@@ -575,13 +575,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 12161024,
 			["sc"] = 3,
 		},
-		["Spectral Helmet of the Quickblade"] = {
-			["mr"] = 5000000,
+		["Pygmy Helmet of the Quickblade"] = {
+			["mr"] = 3893610,
 			["cc"] = 4,
-			["id"] = "36287:0:0:0:1681",
-			["L2999"] = 4999999,
-			["H2999"] = 5000000,
-			["sc"] = 3,
+			["id"] = "36151:0:0:0:1678",
+			["H2999"] = 3893610,
+			["sc"] = 2,
 		},
 		["Exalted Helmet of the Quickblade"] = {
 			["mr"] = 27618598,
@@ -590,12 +589,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 27618598,
 			["sc"] = 4,
 		},
-		["Pygmy Helmet of the Quickblade"] = {
-			["mr"] = 3893610,
+		["Spectral Helmet of the Quickblade"] = {
+			["mr"] = 5000000,
 			["cc"] = 4,
-			["id"] = "36151:0:0:0:1678",
-			["H2999"] = 3893610,
-			["sc"] = 2,
+			["id"] = "36287:0:0:0:1681",
+			["L2999"] = 4999999,
+			["H2999"] = 5000000,
+			["sc"] = 3,
 		},
 		["Corn-Breaded Sausage"] = {
 			["H2998"] = 742076,
@@ -603,20 +603,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "44940:0:0:0:0",
 			["sc"] = 5,
 			["mr"] = 742076,
-		},
-		["Nifflevar Helmet of the Quickblade"] = {
-			["mr"] = 76654004,
-			["cc"] = 4,
-			["id"] = "36207:0:0:-7:3849",
-			["H2999"] = 76654004,
-			["sc"] = 3,
-		},
-		["Bloodforged Helmet of the Fireflash"] = {
-			["mr"] = 33782133,
-			["cc"] = 4,
-			["id"] = "14952:0:0:-68:1692",
-			["H2999"] = 33782133,
-			["sc"] = 4,
 		},
 		["Bloodfist Helmet of the Aurora"] = {
 			["mr"] = 3000000,
@@ -626,12 +612,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 6342866,
 			["sc"] = 4,
 		},
-		["Dragonrider's Helmet"] = {
-			["mr"] = 22449999,
+		["Bloodforged Helmet of the Fireflash"] = {
+			["mr"] = 33782133,
 			["cc"] = 4,
-			["id"] = "164399:0:0:0:0",
-			["H2999"] = 22449999,
+			["id"] = "14952:0:0:-68:1692",
+			["H2999"] = 33782133,
+			["sc"] = 4,
+		},
+		["Nifflevar Helmet of the Quickblade"] = {
+			["mr"] = 76654004,
+			["cc"] = 4,
+			["id"] = "36207:0:0:-7:3849",
+			["H2999"] = 76654004,
 			["sc"] = 3,
+		},
+		["Deepdive Helmet"] = {
+			["mr"] = 95016602,
+			["cc"] = 4,
+			["id"] = "10506:0:0:0:0",
+			["H2999"] = 95016602,
+			["sc"] = 1,
 		},
 		["Sundered Helmet of the Aurora"] = {
 			["mr"] = 1999996,
@@ -689,12 +689,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 1652741,
 			["sc"] = 4,
 		},
-		["Deepdive Helmet"] = {
-			["mr"] = 95016602,
+		["Dragonrider's Helmet"] = {
+			["mr"] = 22449999,
 			["cc"] = 4,
-			["id"] = "10506:0:0:0:0",
-			["H2999"] = 95016602,
-			["sc"] = 1,
+			["id"] = "164399:0:0:0:0",
+			["H2999"] = 22449999,
+			["sc"] = 3,
 		},
 		["Welded Hardskin Helmet"] = {
 			["mr"] = 1600123434,

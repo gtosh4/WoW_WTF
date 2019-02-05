@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 177,
+	["session"] = 179,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:3406: script ran too long",
