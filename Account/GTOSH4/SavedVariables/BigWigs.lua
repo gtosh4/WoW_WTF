@@ -1,11 +1,15 @@
 
 BigWigs3DB = {
+	["profileKeys"] = {
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-1004] = true,
 		},
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
@@ -96,7 +100,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -115,11 +119,11 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["LibDualSpec-1.0"] = {
+		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -150,11 +154,7 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-	},
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,
@@ -173,7 +173,7 @@ BigWigsStatsDB = {
 				["kills"] = 4,
 			},
 			["heroic"] = {
-				["kills"] = 2,
+				["kills"] = 4,
 				["wipes"] = 7,
 				["best"] = 278.724000000017,
 			},
@@ -185,8 +185,9 @@ BigWigsStatsDB = {
 		},
 		[2334] = {
 			["heroic"] = {
+				["kills"] = 2,
 				["best"] = 398.872999999992,
-				["kills"] = 1,
+				["wipes"] = 6,
 			},
 			["normal"] = {
 				["best"] = 318.838000000047,
@@ -203,9 +204,9 @@ BigWigsStatsDB = {
 				["wipes"] = 46,
 			},
 			["heroic"] = {
-				["kills"] = 2,
+				["kills"] = 4,
 				["wipes"] = 13,
-				["best"] = 432.483999999997,
+				["best"] = 375.583999999915,
 			},
 		},
 		[2335] = {
@@ -215,9 +216,9 @@ BigWigsStatsDB = {
 				["best"] = 349.340000000026,
 			},
 			["heroic"] = {
-				["kills"] = 1,
-				["wipes"] = 6,
-				["best"] = 396.858999999997,
+				["kills"] = 2,
+				["wipes"] = 8,
+				["best"] = 388.858000000008,
 			},
 		},
 		[2343] = {
@@ -238,15 +239,15 @@ BigWigsStatsDB = {
 			},
 			["heroic"] = {
 				["kills"] = 1,
-				["wipes"] = 1,
+				["wipes"] = 3,
 				["best"] = 437.433000000019,
 			},
 		},
 		[2330] = {
 			["heroic"] = {
-				["kills"] = 2,
-				["wipes"] = 25,
-				["best"] = 427.654999999999,
+				["kills"] = 4,
+				["wipes"] = 28,
+				["best"] = 310.201000000001,
 			},
 			["normal"] = {
 				["kills"] = 1,
@@ -266,21 +267,26 @@ BigWigsStatsDB = {
 				["best"] = 339.929999999993,
 			},
 			["heroic"] = {
-				["kills"] = 3,
-				["wipes"] = 7,
-				["best"] = 208.479999999981,
+				["kills"] = 5,
+				["wipes"] = 8,
+				["best"] = 200.074000000022,
 			},
 		},
 		[2333] = {
-			["heroic"] = {
-				["kills"] = 3,
-				["wipes"] = 2,
-				["best"] = 111.252000000008,
-			},
 			["normal"] = {
 				["kills"] = 3,
 				["best"] = 116.285999999964,
 				["wipes"] = 2,
+			},
+			["heroic"] = {
+				["kills"] = 5,
+				["wipes"] = 2,
+				["best"] = 96.2770000000019,
+			},
+			["mythic"] = {
+				["kills"] = 1,
+				["wipes"] = 16,
+				["best"] = 147.814000000013,
 			},
 		},
 	},

@@ -30,8 +30,8 @@ Postal3DB = {
 		["Yuumi - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Qiro|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Qiro|Kil'jaeden|Horde", -- [2]
 				},
 			},
 		},
@@ -40,8 +40,9 @@ Postal3DB = {
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yuumi|Kil'jaeden|Horde", -- [1]
-					"Zaemme|Kil'jaeden|Horde", -- [2]
+					"Yorman|Kil'jaeden|Horde", -- [1]
+					"Yuumi|Kil'jaeden|Horde", -- [2]
+					"Zaemme|Kil'jaeden|Horde", -- [3]
 				},
 			},
 		},

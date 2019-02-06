@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["STARTING_DISCOUNT"] = 5,
-	["LOG_DE_DATA_X"] = true,
-	["_1000000"] = 2500,
-	["_5000000"] = 10000,
 	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
+	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["LOG_DE_DATA_X"] = true,
 	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Veiled Crystal"] = {
@@ -24,27 +24,27 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Versatile navigation", -- [1]
-			"Viridescent Ink", -- [2]
-			"Vantus Rune: Battle of Dazar'alor", -- [3]
-			"quick navigation", -- [4]
-			"Pact of haste", -- [5]
-			"quick owlseye", -- [6]
-			"Kraken's Eye of intellect", -- [7]
-			"helmet", -- [8]
-			"Deep sea", -- [9]
-			"Diver's", -- [10]
-			"Diver", -- [11]
-			"Deep sea satin", -- [12]
-			"Pact of Critical", -- [13]
-			"Deadly Navigation", -- [14]
-			"Kraken's Eye", -- [15]
-			"Akunda's bite", -- [16]
-			"bread", -- [17]
-			"Mount motivator", -- [18]
-			"Riverbud", -- [19]
-			"Winter's Kiss", -- [20]
-			"Anchor Weed", -- [21]
+			"Akunda's bite", -- [1]
+			"Anchor Weed", -- [2]
+			"Winter's Kiss", -- [3]
+			"Versatile navigation", -- [4]
+			"Viridescent Ink", -- [5]
+			"Vantus Rune: Battle of Dazar'alor", -- [6]
+			"quick navigation", -- [7]
+			"Pact of haste", -- [8]
+			"quick owlseye", -- [9]
+			"Kraken's Eye of intellect", -- [10]
+			"helmet", -- [11]
+			"Deep sea", -- [12]
+			"Diver's", -- [13]
+			"Diver", -- [14]
+			"Deep sea satin", -- [15]
+			"Pact of Critical", -- [16]
+			"Deadly Navigation", -- [17]
+			"Kraken's Eye", -- [18]
+			"bread", -- [19]
+			"Mount motivator", -- [20]
+			"Riverbud", -- [21]
 			"Siren's Pollen", -- [22]
 		},
 		["isRecents"] = 1,
@@ -166,9 +166,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 		},
 		["Enchant Ring - Pact of Haste"] = {
-			["mr"] = 39139996,
+			["mr"] = 38979998,
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
+			["H3004"] = 38979998,
 			["H2999"] = 39139996,
 			["sc"] = 10,
 		},
@@ -232,11 +233,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 		},
 		["Akunda's Bite"] = {
-			["mr"] = 246999,
-			["sc"] = 9,
-			["id"] = "152507:0:0:0:0",
-			["H2998"] = 246999,
+			["mr"] = 179499,
 			["cc"] = 7,
+			["id"] = "152507:0:0:0:0",
+			["H3004"] = 179499,
+			["sc"] = 9,
 		},
 		["Deep Sea Bandage"] = {
 			["mr"] = 1600000,
@@ -367,11 +368,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["mr"] = 6820000,
 		},
 		["Winter's Kiss"] = {
-			["mr"] = 232000,
-			["sc"] = 9,
-			["id"] = "152508:0:0:0:0",
-			["H2998"] = 232000,
+			["mr"] = 146500,
 			["cc"] = 7,
+			["id"] = "152508:0:0:0:0",
+			["H3004"] = 146500,
+			["sc"] = 9,
 		},
 		["Nexus-Strider Helmet of the Fireflash"] = {
 			["mr"] = 31563368,
@@ -382,11 +383,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Kraken's Eye of Intellect"] = {
 			["mr"] = 24999997,
-			["sc"] = 0,
-			["id"] = "153709:0:0:0:0",
-			["H2998"] = 28948248,
-			["H2999"] = 24999997,
 			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["H2999"] = 24999997,
+			["sc"] = 0,
 		},
 		["Jormungar Helmet of the Aurora"] = {
 			["mr"] = 1500000,
@@ -468,11 +468,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 		},
 		["Anchor Weed"] = {
-			["H2998"] = 688000,
+			["mr"] = 519999,
 			["cc"] = 7,
 			["id"] = "152510:0:0:0:0",
-			["L2998"] = 637999,
-			["mr"] = 637999,
+			["H3004"] = 519999,
 			["sc"] = 9,
 		},
 		["Quick Owlseye"] = {
@@ -575,20 +574,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 12161024,
 			["sc"] = 3,
 		},
-		["Pygmy Helmet of the Quickblade"] = {
-			["mr"] = 3893610,
-			["cc"] = 4,
-			["id"] = "36151:0:0:0:1678",
-			["H2999"] = 3893610,
-			["sc"] = 2,
-		},
-		["Exalted Helmet of the Quickblade"] = {
-			["mr"] = 27618598,
-			["cc"] = 4,
-			["id"] = "14979:0:0:0:1681",
-			["H2999"] = 27618598,
-			["sc"] = 4,
-		},
 		["Spectral Helmet of the Quickblade"] = {
 			["mr"] = 5000000,
 			["cc"] = 4,
@@ -597,12 +582,40 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 5000000,
 			["sc"] = 3,
 		},
+		["Exalted Helmet of the Quickblade"] = {
+			["mr"] = 27618598,
+			["cc"] = 4,
+			["id"] = "14979:0:0:0:1681",
+			["H2999"] = 27618598,
+			["sc"] = 4,
+		},
+		["Pygmy Helmet of the Quickblade"] = {
+			["mr"] = 3893610,
+			["cc"] = 4,
+			["id"] = "36151:0:0:0:1678",
+			["H2999"] = 3893610,
+			["sc"] = 2,
+		},
 		["Corn-Breaded Sausage"] = {
 			["H2998"] = 742076,
 			["cc"] = 0,
 			["id"] = "44940:0:0:0:0",
 			["sc"] = 5,
 			["mr"] = 742076,
+		},
+		["Nifflevar Helmet of the Quickblade"] = {
+			["mr"] = 76654004,
+			["cc"] = 4,
+			["id"] = "36207:0:0:-7:3849",
+			["H2999"] = 76654004,
+			["sc"] = 3,
+		},
+		["Bloodforged Helmet of the Fireflash"] = {
+			["mr"] = 33782133,
+			["cc"] = 4,
+			["id"] = "14952:0:0:-68:1692",
+			["H2999"] = 33782133,
+			["sc"] = 4,
 		},
 		["Bloodfist Helmet of the Aurora"] = {
 			["mr"] = 3000000,
@@ -612,26 +625,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 6342866,
 			["sc"] = 4,
 		},
-		["Bloodforged Helmet of the Fireflash"] = {
-			["mr"] = 33782133,
+		["Dragonrider's Helmet"] = {
+			["mr"] = 22449999,
 			["cc"] = 4,
-			["id"] = "14952:0:0:-68:1692",
-			["H2999"] = 33782133,
-			["sc"] = 4,
-		},
-		["Nifflevar Helmet of the Quickblade"] = {
-			["mr"] = 76654004,
-			["cc"] = 4,
-			["id"] = "36207:0:0:-7:3849",
-			["H2999"] = 76654004,
+			["id"] = "164399:0:0:0:0",
+			["H2999"] = 22449999,
 			["sc"] = 3,
-		},
-		["Deepdive Helmet"] = {
-			["mr"] = 95016602,
-			["cc"] = 4,
-			["id"] = "10506:0:0:0:0",
-			["H2999"] = 95016602,
-			["sc"] = 1,
 		},
 		["Sundered Helmet of the Aurora"] = {
 			["mr"] = 1999996,
@@ -689,12 +688,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 1652741,
 			["sc"] = 4,
 		},
-		["Dragonrider's Helmet"] = {
-			["mr"] = 22449999,
+		["Deepdive Helmet"] = {
+			["mr"] = 95016602,
 			["cc"] = 4,
-			["id"] = "164399:0:0:0:0",
-			["H2999"] = 22449999,
-			["sc"] = 3,
+			["id"] = "10506:0:0:0:0",
+			["H2999"] = 95016602,
+			["sc"] = 1,
 		},
 		["Welded Hardskin Helmet"] = {
 			["mr"] = 1600123434,

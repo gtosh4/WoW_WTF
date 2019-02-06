@@ -44,6 +44,10 @@ VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
 #showtooltip [spec:1] Power Word: Shield; [spec:2] Rene; [spec:3] Power Word: Shield
 /cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew; [spec:3,@mouseover,noharm] Power Word: Shield
 END
+VER 3 0100000000000014 "pws-self" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield
+/cast [@player] Power Word: Shield
+END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip Shadow Covenant
 /cast [@mouseover,noharm] Shadow Covenant
@@ -51,6 +55,10 @@ END
 VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 #showtooltip Holy Word: Serenity
 /cast [@mouseover,noharm] Holy Word: Serenity
+END
+VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
+#showtooltip Silence
+/cast [@focus]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend

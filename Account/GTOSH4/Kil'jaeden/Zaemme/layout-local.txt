@@ -13,10 +13,3 @@ X: -652
 Y: 16
 W: 393
 H: 248
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: RIGHT
-X: -362
-Y: 33
-W: 160
-H: 52
