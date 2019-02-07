@@ -34,7 +34,7 @@ Details_StreamerDB = {
 			["row_texture"] = "ElvUI Norm",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["enabled"] = true,
 			["arrow_size"] = 10,
 			["y"] = 200.028366088867,
@@ -45,7 +45,12 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.850000008940697, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
@@ -62,12 +67,7 @@ Details_StreamerDB = {
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["use_spark"] = true,
-			["row_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.850000008940697, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["point"] = "BOTTOMLEFT",
 			["row_height"] = 20,
 			["scale"] = 1,

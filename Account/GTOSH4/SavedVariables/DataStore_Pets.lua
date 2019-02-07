@@ -44,8 +44,8 @@ DataStore_PetsDB = {
 				[55068] = 29726,
 				[280332] = 143816,
 				[288916] = 148995,
-				[274760] = 139743,
 				[195370] = 99403,
+				[274760] = 139743,
 				[280333] = 143817,
 				[177219] = 143813,
 				[177228] = 143807,
@@ -54,7 +54,7 @@ DataStore_PetsDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549397021,
+				["lastUpdate"] = 1549516464,
 				["CRITTER"] = {
 					279638, -- [1]
 					280332, -- [2]
@@ -74,7 +74,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1549396690,
+				["lastUpdate"] = 1549498212,
 				["CRITTER"] = {
 					62746, -- [1]
 					10714, -- [2]
@@ -116,7 +116,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549429499,
+				["lastUpdate"] = 1549530339,
 				["CRITTER"] = {
 					286483, -- [1]
 					177229, -- [2]

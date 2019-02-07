@@ -1,12 +1,12 @@
 
 AngryAssign_Pages = {
 	[3754423109] = {
-		["Updated"] = 1548899044,
+		["Updated"] = 1549503600,
 		["Name"] = "H Opulence",
 		["Id"] = 3754423109,
-		["UpdateId"] = 3164524296,
+		["UpdateId"] = 490065121,
 		["CategoryId"] = 2406605962,
-		["Contents"] = "Tanks - Diamond\nTehkz / Jess - Amethyst\nLoh / Gord / Bails - Sapphire\nLeft Ruby - Alec\nRight Ruby - Idling\n\n\nHealing CDs\n6:38 jess salv\n7:09 jess hymn\n7:27 tekhz ramp\n7:39 Lohgical AC\n8:10 tehkz barrier\n8:38 Lohgical AM\n8:48 nothing\n9:18 Gordy\n9:50 tehkz ramp + bails\n10:01 lohgical AC",
+		["Contents"] = "Tanks - Diamond\nTehkz / Jess - Amethyst\nLoh / Gord / Bails - Sapphire\nLeft Ruby - moon\nRight Ruby - frida\n\n\nHealing CDs\n6:38 jess salv\n7:09 jess hymn\n7:27 tekhz ramp\n7:39 Lohgical AC\n8:10 tehkz barrier\n8:38 Lohgical AM\n8:48 nothing\n9:18 Gordy\n9:50 tehkz ramp + bails\n10:01 lohgical AC",
 	},
 	[763670677] = {
 		["Updated"] = 1549075749,

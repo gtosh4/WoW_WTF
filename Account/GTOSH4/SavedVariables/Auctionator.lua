@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_500"] = 5,
 	["STARTING_DISCOUNT"] = 5,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
-	["_200000"] = 1000,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Veiled Crystal"] = {
@@ -170,7 +170,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
 			["H3004"] = 38979998,
-			["H2999"] = 39139996,
 			["sc"] = 10,
 		},
 		["Golem Helmet of the Aurora"] = {

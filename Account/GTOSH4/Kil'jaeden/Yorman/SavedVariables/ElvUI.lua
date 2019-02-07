@@ -1,2338 +1,2558 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/g why raid mythic", -- [1]
-		"/g I did :)", -- [2]
-		" I took 3 :D", -- [3]
-		" lol", -- [4]
-		"/cw Nv-Kil'jaeden yeah", -- [5]
-		"/g limit's wiping on opulence right now? yikes", -- [6]
-		"/cw Nv-Kil'jaeden probably get this, we'll see for stormwall", -- [7]
-		"/cw Nv-Kil'jaeden hm?", -- [8]
-		"/cw Nv-Kil'jaeden oh", -- [9]
-		"/wa", -- [10]
-		"/cw Nv-Kil'jaeden ikr", -- [11]
-		"/p D:", -- [12]
-		"/p lol", -- [13]
-		"/o how you liking it", -- [14]
-		"/raid I can run orbs on the center platform", -- [15]
-		" doing stormwall", -- [16]
-		"/point", -- [17]
-		"/tmw", -- [18]
-		"/raid dps let me get the orb so you don't lose out on dps uptime", -- [19]
-		"/raid I can heal or run the orb, it's the same, you don't actually need 4 healers in that phase at all", -- [20]
+		"/point", -- [1]
+		"/tmw", -- [2]
+		"/raid dps let me get the orb so you don't lose out on dps uptime", -- [3]
+		"/raid I can heal or run the orb, it's the same, you don't actually need 4 healers in that phase at all", -- [4]
+		"/simc", -- [5]
+		"/pawn", -- [6]
+		"/mam", -- [7]
+		"/simc minimap", -- [8]
+		"/cw Saadxp-Area52 |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [9]
+		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [10]
+		"/raid am I going resto or boom", -- [11]
+		"/raid summon please", -- [12]
+		"/raid ty", -- [13]
+		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r I can't join discord, if that's a problem I don't mind leaving", -- [14]
+		"/cw Drift-Kil'jaeden ya", -- [15]
+		"/cw Drift-Kil'jaeden not lookin good tho, joined at blockade and we wiped", -- [16]
+		"/cw Drift-Kil'jaeden lol", -- [17]
+		"/cw Drift-Kil'jaeden I'm in a meeting (why I'm doing normal since it's easy)", -- [18]
+		"/cw Drift-Kil'jaeden I do want to tho :(", -- [19]
+		"/ert", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"same, 400", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
+			"which is sad after 8 years", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2976, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			62, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1549394484,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488230,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"https://discord.gg/6nmmEj", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2983, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			63, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394493,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488239,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [2]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"awe, i have so much rage :l, ty for diagnosing me", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2988, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			64, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394495,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488251,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [3]
 		{
-			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r used on Thatoneguy-Doomhammer!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"ZzZzzz", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2990, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			66, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549394495,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488261,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [4]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"i mean, it's a clear evaluation based on your display", -- [1]
+			"Sars-Darkspear", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2996, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			67, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394497,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488269,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"yeah can't explkain everytimes", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3002, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			68, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394499,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488273,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [6]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"priest buff", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3004, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			69, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394501,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488285,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"summon", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3009, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			70, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394503,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488293,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [8]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"melee left", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3016, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			71, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394504,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488294,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [9]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"summon please", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Yorman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3022, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			72, -- [11]
+			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394507,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aYorman|r",
+			[51] = 1549488297,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [10]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"ranged right", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3028, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			73, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394508,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488299,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [11]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"to each their own opinion", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3032, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			74, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394511,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488305,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [12]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wonderful!i'm so glad", -- [1]
+			"Sars-Darkspear", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3034, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			75, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394513,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488320,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [13]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"im just obliging you with responses.", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3036, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			76, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394515,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488322,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [14]
 		{
-			"Gigavolt Charge 2 on {rt2}Carinjali{rt2}", -- [1]
-			"Carinjali-Thrall", -- [2]
-			"Orcish", -- [3]
+			"you have gotten here", -- [1]
+			"Sars-Darkspear", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3040, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			77, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549394515,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488324,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [15]
 		{
-			"|cff71d5ff|Hspell:243435:0|h[Fortifying Brew]|h|r used on Kirá!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"well at least you feel the need :)", -- [1]
+			"Sars-Darkspear", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3042, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			78, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549394516,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488333,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [16]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"yorman azriel get in here plz", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3043, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			80, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394517,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488334,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [17]
 		{
-			"Lohgical", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"1 for summons", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3045, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			81, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394519,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488336,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [18]
 		{
-			"Gigavolt Charge (3{rt3}) on Nv", -- [1]
-			"Nv-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"ty", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nv-Kil'jaeden", -- [5]
+			"Yorman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3052, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			82, -- [11]
+			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1549394550,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aYorman|r",
+			[51] = 1549488340,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [19]
 		{
-			"Gigavolt Charge 2 on {rt2}Deaminase{rt2}", -- [1]
-			"Deaminase-Frostwolf", -- [2]
-			"Orcish", -- [3]
+			"I want my buff can't you read lmao", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Deaminase-Frostwolf", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3053, -- [11]
-			"Player-7-09C278D5", -- [12]
+			83, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDeaminase-Frostwolf|r",
-			[51] = 1549394550,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488361,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"Gigavolt Charge 1 on {rt1}Thatoneguy{rt1}", -- [1]
-			"Thatoneguy-Doomhammer", -- [2]
-			"Orcish", -- [3]
+			"not feeling a need just you are the only entertainment until this raid continues", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thatoneguy-Doomhammer", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3054, -- [11]
-			"Player-1190-07526559", -- [12]
+			84, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aThatoneguy-Doomhammer|r",
-			[51] = 1549394550,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488370,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"|cff71d5ff|Hspell:122783:0|h[Diffuse Magic]|h|r used on Kirá!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"well there is an underlying meaning to all this", -- [1]
+			"Sars-Darkspear", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3056, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			86, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549394553,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488385,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [22]
 		{
-			"|cff71d5ff|Hspell:115310:0|h[Revival]|h|r used!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"kibosh aint coming", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3057, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			87, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549394557,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488391,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [23]
 		{
-			"|cffa335ee|Hitem:165924::::::::120:65::5:3:4799:1537:4784:::|h[High Tinker's Cape]|h|r yes!", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"you do care", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3076, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			88, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394600,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488391,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [24]
 		{
-			"bis", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"you want help", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3078, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			89, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394610,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488393,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [25]
 		{
-			":D", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"and you're curious", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3079, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			90, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394611,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488398,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [26]
 		{
-			"yooo grats", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"when are you guys gonna suck each others dicks ", -- [1]
+			"Ahkoto-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahkoto-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3080, -- [11]
-			"Player-9-08462094", -- [12]
+			91, -- [11]
+			"Player-3678-0B20F0A1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1549394614,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Ahkoto-Thrall|r",
+			[51] = 1549488402,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"on your eingineering", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"ya im missing priest buff", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3081, -- [11]
-			"Player-9-08462094", -- [12]
+			93, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1549394616,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488423,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [28]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-9-0B3C7798:1:2:5:19:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
-			"Parsejuju-Kil'jaeden", -- [2]
+			"hey i have an 8inch cowboy cock ready and willing for a good suck from male /female", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Parsejuju-Kil'jaeden", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3083, -- [11]
-			"Player-9-0B3C7798", -- [12]
+			94, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffParsejuju|r",
-			[51] = 1549394621,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488424,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [29]
 		{
-			"roll |cffa335ee|Hitem:165924::::::::120:577::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r", -- [1]
-			"Slashyoulol-Malfurion", -- [2]
+			"im not taking anything serious from what you've been saying", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Slashyoulol-Malfurion", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3084, -- [11]
-			"Player-1175-0BA84BAC", -- [12]
+			95, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Slashyoulol-Malfurion|r",
-			[51] = 1549394623,
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488427,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [30]
 		{
-			"gotta bail, ty for the run", -- [1]
-			"Teach-Azralon", -- [2]
+			"long as it feels good", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teach-Azralon", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3089, -- [11]
-			"Player-3209-051331FC", -- [12]
+			96, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaTeach-Azralon|r",
-			[51] = 1549394629,
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488427,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [31]
 		{
-			"ALRIGHT BIG CACHE", -- [1]
-			"Yunzol-Kil'jaeden", -- [2]
+			".................", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3091, -- [11]
-			"Player-9-0B196809", -- [12]
+			97, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Yunzol|r",
-			[51] = 1549394637,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488429,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"BIG OOL CACHE", -- [1]
-			"Yunzol-Kil'jaeden", -- [2]
+			"hes offline", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3094, -- [11]
-			"Player-9-0B196809", -- [12]
+			98, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Yunzol|r",
-			[51] = 1549394640,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488437,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [33]
 		{
-			"|cffa335ee|Hitem:159659::::::::120:581::35:3:5010:1582:4783:::|h[Sinister Wicker Talons]|h|r|cffa335ee|Hitem:159659::::::::120:581::35:3:5010:1582:4783:::|h[Sinister Wicker Talons]|h|r", -- [1]
-			"Yunzol-Kil'jaeden", -- [2]
+			"go left ship plz", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3096, -- [11]
-			"Player-9-0B196809", -- [12]
+			101, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Yunzol|r",
-			[51] = 1549394642,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488447,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [34]
 		{
-			"thanks for the run", -- [1]
-			"Neralu-Area52", -- [2]
+			"you know stam buff?", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Neralu-Area52", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3098, -- [11]
-			"Player-3676-09ED22D8", -- [12]
+			102, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffNeralu-Area52|r",
-			[51] = 1549394653,
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488469,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [35]
 		{
-			"Thats not 420 ", -- [1]
-			"Yunzol-Kil'jaeden", -- [2]
+			"and that kibosh aint coming", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3099, -- [11]
-			"Player-9-0B196809", -- [12]
+			103, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Yunzol|r",
-			[51] = 1549394658,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488484,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [36]
 		{
-			"heck this game", -- [1]
-			"Yunzol-Kil'jaeden", -- [2]
+			"offlibe", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3100, -- [11]
-			"Player-9-0B196809", -- [12]
+			104, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Yunzol|r",
-			[51] = 1549394660,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488500,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [37]
 		{
-			"think im leaving", -- [1]
-			"Nv-Kil'jaeden", -- [2]
+			"offline", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nv-Kil'jaeden", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3105, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			105, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1549394685,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488502,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [38]
 		{
-			"doing the weekly", -- [1]
-			"Nv-Kil'jaeden", -- [2]
+			".....", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nv-Kil'jaeden", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3106, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			106, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1549394687,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488504,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [39]
 		{
-			"doing 3x fh", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
+			"jesus", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3107, -- [11]
-			"Player-9-0AF132BA", -- [12]
+			107, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Illsong|r",
-			[51] = 1549394700,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488507,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [40]
 		{
-			"anyone wanna go", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
+			"kibosh", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3108, -- [11]
-			"Player-9-0AF132BA", -- [12]
+			108, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Illsong|r",
-			[51] = 1549394702,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488509,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [41]
 		{
-			"so far 5 pieces of loot in heroic today", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"ready????", -- [1]
+			"Clamis-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Clamis-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3112, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			109, -- [11]
+			"Player-1427-080DC6EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394715,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaClamis-Ragnaros|r",
+			[51] = 1549488512,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [42]
 		{
-			":)", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"READ CHAT", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3113, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			110, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394716,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488516,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [43]
 		{
-			"gtg as well, dr appointment in 15", -- [1]
-			"Taijituw-Arthas", -- [2]
+			"priest is", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taijituw-Arthas", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3121, -- [11]
-			"Player-69-0BAB7CDC", -- [12]
+			111, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTaijituw-Arthas|r",
-			[51] = 1549394771,
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488518,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [44]
 		{
-			"thx for the run", -- [1]
-			"Taijituw-Arthas", -- [2]
+			"GET IN DISCORD OR TURN ON YOUR MIC", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taijituw-Arthas", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3122, -- [11]
-			"Player-69-0BAB7CDC", -- [12]
+			113, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTaijituw-Arthas|r",
-			[51] = 1549394773,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488534,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [45]
 		{
-			"anyone wanna go to fh m0", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
+			"we lost priest and mage buff", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3126, -- [11]
-			"Player-9-0AF132BA", -- [12]
+			114, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Illsong|r",
-			[51] = 1549394800,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488535,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [46]
 		{
-			"for the weekly 4 mythic heroic cache", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
+			"or read chat lmao", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3127, -- [11]
-			"Player-9-0AF132BA", -- [12]
+			115, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Illsong|r",
-			[51] = 1549394808,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488543,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [47]
 		{
-			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r used on Thatoneguy-Doomhammer!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kirá-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3128, -- [11]
-			"Player-57-0A49DD6B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549394827,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Nathanos can catch these hands", -- [1]
-			"Thatoneguy-Doomhammer", -- [2]
+			"TURN ON A MIC", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thatoneguy-Doomhammer", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3138, -- [11]
-			"Player-1190-07526559", -- [12]
+			116, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aThatoneguy-Doomhammer|r",
-			[51] = 1549394900,
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488550,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [48]
+		{
+			"no", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cénariuss-Dragonmaw", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			117, -- [11]
+			"Player-84-07BC374C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488553,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [49]
 		{
-			"|Kv6|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"im on right", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3139, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			118, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549394903,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488560,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [50]
 		{
-			"*snaps finger*", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r I can't join discord, if that's a problem I don't mind leaving", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Lohgical-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3141, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			119, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549394910,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488563,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [51]
 		{
-			"|Kv7|k", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
+			"don't fall off the boat", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3146, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			121, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549394939,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488580,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [52]
 		{
-			"|Kv8|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"that;s common logic", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3147, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			123, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549394947,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488590,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [53]
 		{
-			"|Kv9|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"now you understand", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3148, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			124, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549394972,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488595,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [54]
 		{
-			"|Kv10|k", -- [1]
-			"Nv-Kil'jaeden", -- [2]
+			"so glad", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3149, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			125, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1549394979,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488604,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [55]
 		{
-			"I can run orbs on the center platform", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
+			"yet somehow you still fell off the last wipes", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3150, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			126, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549394983,
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488606,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [56]
 		{
-			"|Kv11|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"i did not", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3151, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			127, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549394990,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488611,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [57]
 		{
-			"|Kv12|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"i jumped off last wipe", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3155, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			128, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395003,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488615,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [58]
 		{
-			"m0?", -- [1]
-			"|Kq33|k", -- [2]
+			"to wipe", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3157, -- [11]
-			false, -- [12]
-			33, -- [13]
+			129, -- [11]
+			"Player-120-08365C15", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Ceesong|r",
-			[51] = 1549395004,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488617,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [59]
 		{
-			"|Kv13|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"i stay because of that", -- [1]
+			"Eaterofgoats-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Eaterofgoats-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3158, -- [11]
-			"Player-9-099A8185", -- [12]
+			130, -- [11]
+			"Player-57-0ABBCE90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395006,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
+			[51] = 1549488646,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [60]
 		{
-			"|Kv14|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"you dying the first min is falling off", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3159, -- [11]
-			"Player-9-099A8185", -- [12]
+			131, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395007,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488646,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [61]
 		{
-			"doing stormwall", -- [1]
-			"|Kq33|k", -- [2]
+			"awe ", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3160, -- [11]
-			false, -- [12]
-			33, -- [13]
+			132, -- [11]
+			"Player-162-09F45028", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Ceesong|r",
-			[51] = 1549395015,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488647,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [62]
 		{
-			"|Kv15|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"that was a wow error sir", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3161, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			133, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395038,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488655,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [63]
 		{
-			"bio", -- [1]
-			"Thatoneguy-Doomhammer", -- [2]
+			"i like that shit", -- [1]
+			"Eaterofgoats-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thatoneguy-Doomhammer", -- [5]
+			"Eaterofgoats-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3167, -- [11]
-			"Player-1190-07526559", -- [12]
+			134, -- [11]
+			"Player-57-0ABBCE90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aThatoneguy-Doomhammer|r",
-			[51] = 1549395059,
+			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
+			[51] = 1549488656,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [64]
 		{
-			"same", -- [1]
-			"Slashyoulol-Malfurion", -- [2]
+			"which i had explained", -- [1]
+			"Sars-Darkspear", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Slashyoulol-Malfurion", -- [5]
+			"Sars-Darkspear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3168, -- [11]
-			"Player-1175-0BA84BAC", -- [12]
+			135, -- [11]
+			"Player-120-08365C15", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Slashyoulol-Malfurion|r",
-			[51] = 1549395066,
+			[52] = "|cff8787edSars-Darkspear|r",
+			[51] = 1549488659,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [65]
 		{
-			"|Kv16|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"hit me again", -- [1]
+			"Eaterofgoats-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Eaterofgoats-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3170, -- [11]
-			"Player-9-099A8185", -- [12]
+			136, -- [11]
+			"Player-57-0ABBCE90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395084,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
+			[51] = 1549488660,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [66]
 		{
-			"|Kv17|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"da", -- [1]
+			"Hanabii-EmeraldDream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hanabii-EmeraldDream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3171, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			137, -- [11]
+			"Player-162-09F45028", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395091,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edHanabii-EmeraldDream|r",
+			[51] = 1549488660,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [67]
 		{
-			"|Kv18|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"any voice", -- [1]
+			"Ghostloadz-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ghostloadz-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3172, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			146, -- [11]
+			"Player-3684-07DE26D7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395099,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edGhostloadz-Mal'Ganis|r",
+			[51] = 1549488705,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [68]
 		{
-			"|Kv19|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"https://discord.gg/6nmmEj ?", -- [1]
+			"Ascanius-Hellscream", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ascanius-Hellscream", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3175, -- [11]
-			"Player-9-099A8185", -- [12]
+			151, -- [11]
+			"Player-53-0B2DA298", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395185,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffaad372Ascanius-Hellscream|r",
+			[51] = 1549488734,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [69]
 		{
-			"|Kv20|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"https://discord.gg/6nmmEj", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3177, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			154, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395208,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488765,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [70]
 		{
-			"|Kv21|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"buffs and leggo", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3181, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			155, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1549395225,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488769,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [71]
 		{
-			"|Kv22|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"boot forrestgrump from disc", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3186, -- [11]
-			"Player-9-099A8185", -- [12]
+			156, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395306,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488788,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [72]
 		{
-			"|Kv23|k", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"i think it was one of those locks", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3187, -- [11]
-			"Player-9-099A8185", -- [12]
+			157, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRenewal|r",
-			[51] = 1549395312,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488801,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [73]
 		{
-			"https://discord.gg/ctCNPn", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"3 ppl not getting buffed", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lohgical", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3189, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			159, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549395351,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488822,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [74]
 		{
-			"https://discord.gg/ctCNPn", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"want me right?", -- [1]
+			"Scarlita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lohgical", -- [5]
+			"Scarlita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3198, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			163, -- [11]
+			"Player-116-05EC2781", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549395403,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			[52] = "|cffffffffScarlita-Antonidas|r",
+			[51] = 1549488853,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [75]
 		{
-			"right side", -- [1]
-			"Petersenseí-Blackrock", -- [2]
+			"ya u right", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3201, -- [11]
-			"Player-10-0B2F9A08", -- [12]
+			164, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549395405,
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549488862,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [76]
 		{
-			"mine", -- [1]
-			"Petersenseí-Blackrock", -- [2]
+			"right ship plz priest", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3202, -- [11]
-			"Player-10-0B2F9A08", -- [12]
+			165, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549395406,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549488864,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [77]
 		{
-			"no warrior shout feelsbadman", -- [1]
-			"Petersenseí-Blackrock", -- [2]
+			"gj warrior", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3235, -- [11]
-			"Player-10-0B2F9A08", -- [12]
+			177, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549395536,
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549488957,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [78]
 		{
-			"Interrupted |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r on Sister Katherine", -- [1]
-			"Carinjali-Thrall", -- [2]
+			"DONT", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3287, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			205, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549395791,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549489091,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [79]
 		{
-			"Interrupted |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r on Sister Katherine", -- [1]
-			"Carinjali-Thrall", -- [2]
+			"wow", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3296, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			208, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549395828,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549489095,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [80]
 		{
-			"3", -- [1]
-			"Petersenseí-Blackrock", -- [2]
-			"Orcish", -- [3]
+			"MAGE HERE", -- [1]
+			"Cénariuss-Dragonmaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
+			"Cénariuss-Dragonmaw", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3311, -- [11]
-			"Player-10-0B2F9A08", -- [12]
+			215, -- [11]
+			"Player-84-07BC374C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549395877,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
+			[51] = 1549489115,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [81]
 		{
-			"2", -- [1]
-			"Petersenseí-Blackrock", -- [2]
-			"Orcish", -- [3]
+			"jesus", -- [1]
+			"Ahkoto-Thrall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
+			"Ahkoto-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3312, -- [11]
-			"Player-10-0B2F9A08", -- [12]
+			219, -- [11]
+			"Player-3678-0B20F0A1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549395878,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Ahkoto-Thrall|r",
+			[51] = 1549489125,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [82]
 		{
-			"3", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"pastor", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3319, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			253, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549395911,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489271,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [83]
 		{
-			"2", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"i know", -- [1]
+			"Pastorsho-Ragnaros", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Pastorsho-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3320, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			257, -- [11]
+			"Player-1427-0859A97F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549395912,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
+			[51] = 1549489276,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [84]
 		{
-			"1", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"sry", -- [1]
+			"Pastorsho-Ragnaros", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Pastorsho-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3322, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			258, -- [11]
+			"Player-1427-0859A97F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549395913,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
+			[51] = 1549489276,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [85]
 		{
-			"Tempting Song on Carinjali", -- [1]
-			"Carinjali-Thrall", -- [2]
-			"Orcish", -- [3]
+			"do to discord.com", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3340, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			259, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549396102,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489278,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [86]
 		{
-			"Interrupted |cff71d5ff|Hspell:286563:0|h[Tidal Empowerment]|h|r on Brother Joseph", -- [1]
-			"Carinjali-Thrall", -- [2]
+			":(", -- [1]
+			"Gentrin-Stormreaver", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3343, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			263, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549396119,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489284,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [87]
 		{
-			"Interrupted |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r on Sister Katherine", -- [1]
-			"Carinjali-Thrall", -- [2]
+			"that other tank didnt go", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3357, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			265, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549396187,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549489315,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [88]
 		{
-			"Interrupted |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r on Sister Katherine", -- [1]
-			"Carinjali-Thrall", -- [2]
+			"to get dispel", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Carinjali-Thrall", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3365, -- [11]
-			"Player-3678-086DC67A", -- [12]
+			266, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Carinjali-Thrall|r",
-			[51] = 1549396223,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549489320,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [89]
 		{
-			"3", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"r u doin normal", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3383, -- [11]
-			"Player-57-0B449F01", -- [12]
+			268, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396286,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489331,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [90]
 		{
-			"2", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"ya", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3385, -- [11]
-			"Player-57-0B449F01", -- [12]
+			269, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396287,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489335,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [91]
 		{
-			"1", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"oh nvm", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3386, -- [11]
-			"Player-57-0B449F01", -- [12]
+			270, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489341,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [92]
 		{
-			"3", -- [1]
-			"Cabinmorgan-Arthas", -- [2]
-			"Orcish", -- [3]
+			"not lookin good tho, joined at blockade and we wiped", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cabinmorgan-Arthas", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3387, -- [11]
-			"Player-69-0B38DC33", -- [12]
+			271, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Cabinmorgan-Arthas|r",
-			[51] = 1549396288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489344,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [93]
 		{
-			"2", -- [1]
-			"Cabinmorgan-Arthas", -- [2]
-			"Orcish", -- [3]
+			"lol", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cabinmorgan-Arthas", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3388, -- [11]
-			"Player-69-0B38DC33", -- [12]
+			272, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Cabinmorgan-Arthas|r",
-			[51] = 1549396290,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489344,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [94]
 		{
-			"3", -- [1]
-			"Cabinmorgan-Arthas", -- [2]
-			"Orcish", -- [3]
+			"ah", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cabinmorgan-Arthas", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3398, -- [11]
-			"Player-69-0B38DC33", -- [12]
+			273, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Cabinmorgan-Arthas|r",
-			[51] = 1549396328,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489346,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [95]
 		{
-			"2", -- [1]
-			"Cabinmorgan-Arthas", -- [2]
-			"Orcish", -- [3]
+			"wanna heal some +", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cabinmorgan-Arthas", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3399, -- [11]
-			"Player-69-0B38DC33", -- [12]
+			274, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Cabinmorgan-Arthas|r",
-			[51] = 1549396329,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489350,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [96]
 		{
-			"|cff71d5ff|Hspell:122783:0|h[Diffuse Magic]|h|r used on Kirá!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"I'm in a meeting (why I'm doing normal since it's easy)", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3401, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			275, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549396337,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489363,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [97]
 		{
-			"2", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"q us", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3402, -- [11]
-			"Player-57-0B449F01", -- [12]
+			276, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396344,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549489364,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"1", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"ah", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3403, -- [11]
-			"Player-57-0B449F01", -- [12]
+			277, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396345,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489366,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [99]
 		{
-			"|cff71d5ff|Hspell:243435:0|h[Fortifying Brew]|h|r used on Kirá!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"I do want to tho :(", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Drift-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3410, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			278, -- [11]
+			"Player-9-0B32A56C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549396370,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Drift|r",
+			[51] = 1549489375,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [100]
 		{
-			"3", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"got a mage offline", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3411, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			283, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396371,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549489489,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [101]
 		{
-			"2", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"any tanks on that would like to quick run freehold for the weekly quest", -- [1]
+			"Rodveir-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3412, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			284, -- [11]
+			"Player-9-0AE34391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396372,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Rodveir|r",
+			[51] = 1549489490,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [102]
 		{
-			"1", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"atenidas is offline", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Kokahiena-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3413, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			287, -- [11]
+			"Player-9-0B5173DD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396373,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549489534,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [103]
 		{
-			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r used on Thatoneguy-Doomhammer!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
+			"https://discord.gg/6nmmEj", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Kirá-Illidan", -- [5]
+			"Gentrin-Stormreaver", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3414, -- [11]
-			"Player-57-0A49DD6B", -- [12]
+			291, -- [11]
+			"Player-58-0B2D4D94", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549396381,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489608,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [104]
 		{
-			"5", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
+			"mele to katerine, range to joseph", -- [1]
+			"Burthir-Velen", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
+			"Burthir-Velen", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3422, -- [11]
-			"Player-57-0B449F01", -- [12]
+			292, -- [11]
+			"Player-96-09B7B88D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396396,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Burthir-Velen|r",
+			[51] = 1549489612,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [105]
+		{
+			"melee left ship ranged right", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			293, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489619,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [106]
+		{
+			"pally heal to katherine", -- [1]
+			"Burthir-Velen", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Burthir-Velen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			294, -- [11]
+			"Player-96-09B7B88D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Burthir-Velen|r",
+			[51] = 1549489621,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [107]
+		{
+			"pastor go left", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489682,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [108]
+		{
+			"ok sr", -- [1]
+			"Pastorsho-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pastorsho-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			299, -- [11]
+			"Player-1427-0859A97F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
+			[51] = 1549489691,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [109]
+		{
+			"pally go left", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			300, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489706,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [110]
+		{
+			"healer", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489708,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [111]
+		{
+			"metalfur", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			302, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489711,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [112]
+		{
+			"Go left ship", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			308, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489763,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [113]
+		{
+			"plz", -- [1]
+			"Gentrin-Stormreaver", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gentrin-Stormreaver", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			310, -- [11]
+			"Player-58-0B2D4D94", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGentrin-Stormreaver|r",
+			[51] = 1549489767,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [114]
+		{
+			"Tempting Song on Ghostloadz", -- [1]
+			"Ghostloadz-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Ghostloadz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			330, -- [11]
+			"Player-3684-07DE26D7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edGhostloadz-Mal'Ganis|r",
+			[51] = 1549489883,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
 		{
 			"3", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2344,7 +2564,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3428, -- [11]
+			370, -- [11]
 			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2352,9 +2572,9 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396418,
+			[51] = 1549490054,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [116]
 		{
 			"2", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2366,7 +2586,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3429, -- [11]
+			371, -- [11]
 			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2374,9 +2594,9 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396419,
+			[51] = 1549490055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [117]
 		{
 			"1", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2388,7 +2608,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3430, -- [11]
+			372, -- [11]
 			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2396,11 +2616,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396420,
+			[51] = 1549490056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [118]
 		{
-			"so i have simed |cffa335ee|Hitem:159610::154127::::::120:258::16:4:5010:4802:1572:4786:::|h[Vessel of Skittering Shadows]|h|r and |cffa335ee|Hitem:159622::::::::120:258::35:3:5010:1582:4783:::|h[Hadal's Nautilus]|h|r 6 times to figure out which one is better and both of them have won 3 times by 20dps or less", -- [1]
+			"gg", -- [1]
+			"Kokahiena-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kokahiena-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			389, -- [11]
+			"Player-9-0B5173DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKokahiena|r",
+			[51] = 1549490146,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [119]
+		{
+			"Hi beautiful people", -- [1]
+			"Lohgical-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			451, -- [11]
+			"Player-9-0B4F7C2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLohgical|r",
+			[51] = 1549492892,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"okay thanks", -- [1]
+			"Lohgical-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			452, -- [11]
+			"Player-9-0B4F7C2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLohgical|r",
+			[51] = 1549492935,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"hello beautiful person", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Andruww|r",
+			[51] = 1549492936,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"*blush*", -- [1]
+			"Lohgical-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			454, -- [11]
+			"Player-9-0B4F7C2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLohgical|r",
+			[51] = 1549492944,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"andruww", -- [1]
 			"Parsejuju-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2410,7 +2740,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3433, -- [11]
+			455, -- [11]
 			"Player-9-0B3C7798", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2418,364 +2748,12 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffffffffParsejuju|r",
-			[51] = 1549396427,
+			[51] = 1549492959,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
-		{
-			"5", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3438, -- [11]
-			"Player-57-0B449F01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396440,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
-		{
-			"4", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3439, -- [11]
-			"Player-57-0B449F01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396441,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
-		{
-			"3", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3440, -- [11]
-			"Player-57-0B449F01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396442,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
-		{
-			"2", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3441, -- [11]
-			"Player-57-0B449F01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396443,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
-		{
-			"1", -- [1]
-			"Nicotiine-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nicotiine-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3442, -- [11]
-			"Player-57-0B449F01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aNicotiine-Illidan|r",
-			[51] = 1549396444,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
-		{
-			"3", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3443, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396446,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
-		{
-			"2", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3444, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396447,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
-		{
-			"1", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3446, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396448,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
-		{
-			"|cff71d5ff|Hspell:122783:0|h[Diffuse Magic]|h|r used on Kirá!", -- [1]
-			"Kirá-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kirá-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3448, -- [11]
-			"Player-57-0A49DD6B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Kirá-Illidan|r",
-			[51] = 1549396452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
-		{
-			"sorry i gtg", -- [1]
-			"Petersenseí-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Petersenseí-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3457, -- [11]
-			"Player-10-0B2F9A08", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffPetersenseí-Blackrock|r",
-			[51] = 1549396478,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
-		{
-			"dps let me get the orb so you don't lose out on dps uptime", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3462, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396520,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
-		{
-			"can range switch to adds faster?", -- [1]
-			"Slashyoulol-Malfurion", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Slashyoulol-Malfurion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3463, -- [11]
-			"Player-1175-0BA84BAC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Slashyoulol-Malfurion|r",
-			[51] = 1549396558,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
-		{
-			"I can heal or run the orb, it's the same, you don't actually need 4 healers in that phase at all", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3464, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549396565,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
-		{
-			"need to change a talent", -- [1]
-			"Thatoneguy-Doomhammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thatoneguy-Doomhammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3465, -- [11]
-			"Player-1190-07526559", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aThatoneguy-Doomhammer|r",
-			[51] = 1549396590,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
-		{
-			"same", -- [1]
-			"Slashyoulol-Malfurion", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Slashyoulol-Malfurion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3466, -- [11]
-			"Player-1175-0BA84BAC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Slashyoulol-Malfurion|r",
-			[51] = 1549396599,
-			[50] = "CHAT_MSG_RAID",
 		}, -- [124]
 		{
-			"ima run back", -- [1]
-			"Slashyoulol-Malfurion", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Slashyoulol-Malfurion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3467, -- [11]
-			"Player-1175-0BA84BAC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Slashyoulol-Malfurion|r",
-			[51] = 1549396600,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
-		{
-			"welp gg", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"youre the beautiful one", -- [1]
+			"Parsejuju-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2784,38 +2762,60 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3480, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			456, -- [11]
+			"Player-9-0B3C7798", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549396642,
+			[52] = "|cffffffffParsejuju|r",
+			[51] = 1549492963,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [125]
 		{
-			"I don't have enough time for a rebuild, peace guys", -- [1]
-			"Thatoneguy-Doomhammer", -- [2]
+			"awww thx qtpie", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thatoneguy-Doomhammer", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3482, -- [11]
-			"Player-1190-07526559", -- [12]
+			457, -- [11]
+			"Player-9-0B1541E0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aThatoneguy-Doomhammer|r",
-			[51] = 1549396653,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Andruww|r",
+			[51] = 1549492970,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"think i just vomitted mb", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Andruww|r",
+			[51] = 1549492985,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

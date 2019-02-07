@@ -2,7 +2,7 @@
 PawnOptions = {
 	["LastVersion"] = 2.0234,
 	["LastPlayerFullName"] = "Yorman-Kil'jaeden",
-	["AutoSelectScales"] = true,
+	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
 	["LastKeybindingsSet"] = 1,
 }

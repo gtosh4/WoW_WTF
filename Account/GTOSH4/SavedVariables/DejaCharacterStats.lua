@@ -274,6 +274,7 @@ DCS_ClassSpecDB = {
 		}, -- [8]
 		{
 			["statKey"] = "REPAIR_COST",
+			["hidden"] = true,
 		}, -- [9]
 		{
 			["statKey"] = "AttributesCategory",

@@ -18,7 +18,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1549397020,
+				["lastUpdate"] = 1549516463,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
@@ -34,7 +34,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1549396690,
+				["lastUpdate"] = 1549498210,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
@@ -51,7 +51,7 @@ DataStore_CraftsDB = {
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549429499,
+				["lastUpdate"] = 1549530339,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
@@ -170,29 +170,6 @@ DataStore_CraftsDB = {
 								["MaxRank"] = 300,
 								["Rank"] = 1,
 							}, -- [8]
-						},
-						["Cooldowns"] = {
-							"Transmute: Expulsom|85656|1549465198", -- [1]
-							"Transmute: Cloth to Skins|85656|1549465198", -- [2]
-							"Transmute: Fish to Gems|85656|1549465198", -- [3]
-							"Transmute: Herbs to Anchors|85656|1549465198", -- [4]
-							"Transmute: Herbs to Cloth|85656|1549465198", -- [5]
-							"Transmute: Herbs to Ore|85656|1549465198", -- [6]
-							"Transmute: Meat to Pet|85656|1549465198", -- [7]
-							"Transmute: Ore to Cloth|85656|1549465198", -- [8]
-							"Transmute: Ore to Gems|85656|1549465198", -- [9]
-							"Transmute: Ore to Herbs|85656|1549465198", -- [10]
-							"Transmute: Blood of Sargeras|85656|1549465198", -- [11]
-							"Transmute: Primal Sargerite|85656|1549465198", -- [12]
-							"Transmute: Cloth to Herbs|85656|1549465198", -- [13]
-							"Transmute: Cloth to Skins|85656|1549465198", -- [14]
-							"Transmute: Fish to Gems|85656|1549465198", -- [15]
-							"Transmute: Meat to Pants|85656|1549465198", -- [16]
-							"Transmute: Meat to Pet|85656|1549465198", -- [17]
-							"Transmute: Ore to Cloth|85656|1549465198", -- [18]
-							"Transmute: Ore to Herbs|85656|1549465198", -- [19]
-							"Transmute: Skins to Herbs|85656|1549465198", -- [20]
-							"Transmute: Skins to Ore|85656|1549465198", -- [21]
 						},
 						["Crafts"] = {
 							[635] = {

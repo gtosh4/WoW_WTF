@@ -20,11 +20,11 @@ Gladius2DB = {
 		["Yuumi - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1252.79958137275,
-			},
 			["y"] = {
 				["arena1"] = 468.373309843541,
+			},
+			["x"] = {
+				["arena1"] = 1252.79958137275,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -40,7 +40,11 @@ Gladius2DB = {
 		["Tosh - Kil'jaeden"] = {
 			["modules"] = {
 				["Announcements"] = false,
+				["Auras"] = true,
 			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["aurasBuffsPerColumn"] = 5,
+			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["locked"] = true,
@@ -51,6 +55,9 @@ Gladius2DB = {
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
+			["aurasBuffsHeight"] = 22,
+			["aurasBuffs"] = true,
+			["aurasBuffsWidth"] = 22,
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "",
@@ -65,6 +72,12 @@ Gladius2DB = {
 			["castBarTexture"] = "ElvUI Norm",
 			["healthBarTexture"] = "ElvUI Norm",
 			["powerBarTexture"] = "ElvUI Norm",
+			["clickAttributes"] = {
+				["Right"] = {
+					["macro"] = "Dispel Magic",
+					["action"] = "spell",
+				},
+			},
 			["classIconShowSpec"] = true,
 		},
 	},
