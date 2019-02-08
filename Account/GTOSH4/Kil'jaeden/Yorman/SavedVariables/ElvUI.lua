@@ -1,2560 +1,1966 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/point", -- [1]
-		"/tmw", -- [2]
-		"/raid dps let me get the orb so you don't lose out on dps uptime", -- [3]
-		"/raid I can heal or run the orb, it's the same, you don't actually need 4 healers in that phase at all", -- [4]
-		"/simc", -- [5]
-		"/pawn", -- [6]
-		"/mam", -- [7]
-		"/simc minimap", -- [8]
-		"/cw Saadxp-Area52 |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [9]
-		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [10]
-		"/raid am I going resto or boom", -- [11]
-		"/raid summon please", -- [12]
-		"/raid ty", -- [13]
-		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r I can't join discord, if that's a problem I don't mind leaving", -- [14]
-		"/cw Drift-Kil'jaeden ya", -- [15]
-		"/cw Drift-Kil'jaeden not lookin good tho, joined at blockade and we wiped", -- [16]
-		"/cw Drift-Kil'jaeden lol", -- [17]
-		"/cw Drift-Kil'jaeden I'm in a meeting (why I'm doing normal since it's easy)", -- [18]
-		"/cw Drift-Kil'jaeden I do want to tho :(", -- [19]
-		"/ert", -- [20]
+		"/tmw", -- [1]
+		"/raid dps let me get the orb so you don't lose out on dps uptime", -- [2]
+		"/raid I can heal or run the orb, it's the same, you don't actually need 4 healers in that phase at all", -- [3]
+		"/simc", -- [4]
+		"/pawn", -- [5]
+		"/mam", -- [6]
+		"/simc minimap", -- [7]
+		"/cw Saadxp-Area52 |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [8]
+		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r", -- [9]
+		"/raid am I going resto or boom", -- [10]
+		"/raid summon please", -- [11]
+		"/raid ty", -- [12]
+		"/cw Gentrin-Stormreaver |cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r I can't join discord, if that's a problem I don't mind leaving", -- [13]
+		"/cw Drift-Kil'jaeden ya", -- [14]
+		"/cw Drift-Kil'jaeden not lookin good tho, joined at blockade and we wiped", -- [15]
+		"/cw Drift-Kil'jaeden lol", -- [16]
+		"/cw Drift-Kil'jaeden I'm in a meeting (why I'm doing normal since it's easy)", -- [17]
+		"/cw Drift-Kil'jaeden I do want to tho :(", -- [18]
+		"/ert", -- [19]
+		" yeah, lemme log", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"which is sad after 8 years", -- [1]
-			"Sars-Darkspear", -- [2]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			62, -- [11]
-			"Player-120-08365C15", -- [12]
+			645, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488230,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571755,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"https://discord.gg/6nmmEj", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			63, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			646, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488239,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571763,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"awe, i have so much rage :l, ty for diagnosing me", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			"Player-162-09F45028", -- [12]
+			647, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488251,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571763,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"ZzZzzz", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"Taunted Bilge Rat Demolisher!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			66, -- [11]
-			"Player-162-09F45028", -- [12]
+			648, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488261,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571794,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"i mean, it's a clear evaluation based on your display", -- [1]
-			"Sars-Darkspear", -- [2]
+			"Explosives is immune to my |cff71d5ff|Hspell:183752:0|h[Disrupt]|h|r!", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			67, -- [11]
-			"Player-120-08365C15", -- [12]
+			650, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488269,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549571798,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"yeah can't explkain everytimes", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			68, -- [11]
-			"Player-84-07BC374C", -- [12]
+			651, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488273,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571802,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"priest buff", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			69, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			652, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488285,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571812,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"summon", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"Taunted Bilge Rat Buccaneer!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			70, -- [11]
-			"Player-84-07BC374C", -- [12]
+			654, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488293,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571813,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"melee left", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
+			"Taunted Bilge Rat Demolisher!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			71, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			657, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488294,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571854,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"summon please", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
+			"Taunted Bilge Rat Demolisher!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			72, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			658, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549488297,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571854,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"ranged right", -- [1]
-			"Gentrin-Stormreaver", -- [2]
+			"Mind Freezed Bilge Rat Tempest's |cff71d5ff|Hspell:272571:0|h[Choking Waters]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			73, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			659, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488299,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571894,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"to each their own opinion", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"Taunted Bilge Rat Buccaneer!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			74, -- [11]
-			"Player-162-09F45028", -- [12]
+			661, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488305,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571896,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"wonderful!i'm so glad", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"Taunted Bilge Rat Buccaneer!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			75, -- [11]
-			"Player-120-08365C15", -- [12]
+			662, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488320,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571896,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"im just obliging you with responses.", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Bilge Rat Tempest!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			76, -- [11]
-			"Player-162-09F45028", -- [12]
+			664, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488322,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571903,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"you have gotten here", -- [1]
-			"Sars-Darkspear", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Bilge Rat Tempest ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			77, -- [11]
-			"Player-120-08365C15", -- [12]
+			666, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488324,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571908,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"well at least you feel the need :)", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			78, -- [11]
-			"Player-120-08365C15", -- [12]
+			667, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488333,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571914,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"yorman azriel get in here plz", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			80, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			669, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488334,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571924,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"1 for summons", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-84-07BC374C", -- [12]
+			670, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488336,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571929,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"ty", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
+			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			82, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			671, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549488340,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571929,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"I want my buff can't you read lmao", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			83, -- [11]
-			"Player-84-07BC374C", -- [12]
+			672, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488361,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549571934,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"not feeling a need just you are the only entertainment until this raid continues", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			84, -- [11]
-			"Player-162-09F45028", -- [12]
+			673, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488370,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571945,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"well there is an underlying meaning to all this", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			86, -- [11]
-			"Player-120-08365C15", -- [12]
+			674, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488385,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571945,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"kibosh aint coming", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"Taunted Risen Soul!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			87, -- [11]
-			"Player-84-07BC374C", -- [12]
+			676, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488391,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571958,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"you do care", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-120-08365C15", -- [12]
+			679, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488391,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549571985,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"you want help", -- [1]
-			"Sars-Darkspear", -- [2]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			89, -- [11]
-			"Player-120-08365C15", -- [12]
+			681, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488393,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571987,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"and you're curious", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			90, -- [11]
-			"Player-120-08365C15", -- [12]
+			682, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488398,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571995,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"when are you guys gonna suck each others dicks ", -- [1]
-			"Ahkoto-Thrall", -- [2]
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ahkoto-Thrall", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			91, -- [11]
-			"Player-3678-0B20F0A1", -- [12]
+			683, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Ahkoto-Thrall|r",
-			[51] = 1549488402,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549571995,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"ya im missing priest buff", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			93, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			685, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488423,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549571998,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"hey i have an 8inch cowboy cock ready and willing for a good suck from male /female", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			94, -- [11]
-			"Player-120-08365C15", -- [12]
+			688, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488424,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572024,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"im not taking anything serious from what you've been saying", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"Taunted Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-162-09F45028", -- [12]
+			690, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488427,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572031,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"long as it feels good", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			96, -- [11]
-			"Player-120-08365C15", -- [12]
+			692, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488427,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572036,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			".................", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			97, -- [11]
-			"Player-84-07BC374C", -- [12]
+			693, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488429,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572037,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"hes offline", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
+			"Taunted Ashvane Commander!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			98, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			695, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488437,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572042,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"go left ship plz", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			101, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			696, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488447,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572042,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"you know stam buff?", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			102, -- [11]
-			"Player-84-07BC374C", -- [12]
+			697, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488469,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572047,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"and that kibosh aint coming", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			103, -- [11]
-			"Player-84-07BC374C", -- [12]
+			698, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488484,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572062,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"offlibe", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			104, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			700, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488500,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572075,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"offline", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
+			"Taunted Ashvane Spotter!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			105, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			709, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488502,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572118,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			".....", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"Taunted Ashvane Commander!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			106, -- [11]
-			"Player-84-07BC374C", -- [12]
+			710, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488504,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572140,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"jesus", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"Taunted Ashvane Commander!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			107, -- [11]
-			"Player-84-07BC374C", -- [12]
+			711, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488507,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572140,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"kibosh", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			108, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			713, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488509,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572153,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"ready????", -- [1]
-			"Clamis-Ragnaros", -- [2]
+			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Clamis-Ragnaros", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			109, -- [11]
-			"Player-1427-080DC6EF", -- [12]
+			714, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaClamis-Ragnaros|r",
-			[51] = 1549488512,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572154,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"READ CHAT", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			110, -- [11]
-			"Player-84-07BC374C", -- [12]
+			720, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488516,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572159,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"priest is", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"Taunted Ashvane Spotter!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			111, -- [11]
-			"Player-162-09F45028", -- [12]
+			723, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488518,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572193,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"GET IN DISCORD OR TURN ON YOUR MIC", -- [1]
-			"Gentrin-Stormreaver", -- [2]
+			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			724, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488534,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572201,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"we lost priest and mage buff", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"Taunted Ashvane Commander!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			114, -- [11]
-			"Player-84-07BC374C", -- [12]
+			726, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488535,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572202,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"or read chat lmao", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
+			"Taunted Ashvane Commander!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			115, -- [11]
-			"Player-84-07BC374C", -- [12]
+			727, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488543,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572202,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"TURN ON A MIC", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			116, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			728, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488550,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572220,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"no", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			117, -- [11]
-			"Player-84-07BC374C", -- [12]
+			730, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488553,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572234,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"im on right", -- [1]
-			"Sars-Darkspear", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			118, -- [11]
-			"Player-120-08365C15", -- [12]
+			733, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488560,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572246,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"|cffffff00|Hachievement:13322:Player-9-0A76FA3F:1:1:26:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r I can't join discord, if that's a problem I don't mind leaving", -- [1]
-			"Gentrin-Stormreaver", -- [2]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			119, -- [11]
-			"Player-58-0B2D4D94", -- [12]
+			734, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488563,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572247,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"don't fall off the boat", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-162-09F45028", -- [12]
+			735, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488580,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572251,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"that;s common logic", -- [1]
-			"Sars-Darkspear", -- [2]
+			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			123, -- [11]
-			"Player-120-08365C15", -- [12]
+			736, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488590,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572251,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"now you understand", -- [1]
-			"Sars-Darkspear", -- [2]
+			"<EH> Illsong got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			124, -- [11]
-			"Player-120-08365C15", -- [12]
+			737, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488595,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572251,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"so glad", -- [1]
-			"Sars-Darkspear", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ashvane Invader ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sars-Darkspear", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			125, -- [11]
-			"Player-120-08365C15", -- [12]
+			738, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488604,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572252,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"yet somehow you still fell off the last wipes", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			126, -- [11]
-			"Player-162-09F45028", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488606,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
-		{
-			"i did not", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sars-Darkspear", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			127, -- [11]
-			"Player-120-08365C15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488611,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
-		{
-			"i jumped off last wipe", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sars-Darkspear", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			128, -- [11]
-			"Player-120-08365C15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488615,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
-		{
-			"to wipe", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sars-Darkspear", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			129, -- [11]
-			"Player-120-08365C15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488617,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
-		{
-			"i stay because of that", -- [1]
-			"Eaterofgoats-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eaterofgoats-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			130, -- [11]
-			"Player-57-0ABBCE90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
-			[51] = 1549488646,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
-		{
-			"you dying the first min is falling off", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			131, -- [11]
-			"Player-162-09F45028", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488646,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
-		{
-			"awe ", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			132, -- [11]
-			"Player-162-09F45028", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488647,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
-		{
-			"that was a wow error sir", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sars-Darkspear", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			133, -- [11]
-			"Player-120-08365C15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488655,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
-		{
-			"i like that shit", -- [1]
-			"Eaterofgoats-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eaterofgoats-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-57-0ABBCE90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
-			[51] = 1549488656,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
-		{
-			"which i had explained", -- [1]
-			"Sars-Darkspear", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sars-Darkspear", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			135, -- [11]
-			"Player-120-08365C15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSars-Darkspear|r",
-			[51] = 1549488659,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
-		{
-			"hit me again", -- [1]
-			"Eaterofgoats-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eaterofgoats-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			136, -- [11]
-			"Player-57-0ABBCE90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Eaterofgoats-Illidan|r",
-			[51] = 1549488660,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
-		{
-			"da", -- [1]
-			"Hanabii-EmeraldDream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hanabii-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			137, -- [11]
-			"Player-162-09F45028", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edHanabii-EmeraldDream|r",
-			[51] = 1549488660,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
-		{
-			"any voice", -- [1]
-			"Ghostloadz-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ghostloadz-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			146, -- [11]
-			"Player-3684-07DE26D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGhostloadz-Mal'Ganis|r",
-			[51] = 1549488705,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
-		{
-			"https://discord.gg/6nmmEj ?", -- [1]
-			"Ascanius-Hellscream", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ascanius-Hellscream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			151, -- [11]
-			"Player-53-0B2DA298", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ascanius-Hellscream|r",
-			[51] = 1549488734,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
-		{
-			"https://discord.gg/6nmmEj", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488765,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [70]
-		{
-			"buffs and leggo", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			155, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488769,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
-		{
-			"boot forrestgrump from disc", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488788,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
-		{
-			"i think it was one of those locks", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			157, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488801,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
-		{
-			"3 ppl not getting buffed", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			159, -- [11]
-			"Player-84-07BC374C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488822,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
-		{
-			"want me right?", -- [1]
-			"Scarlita-Antonidas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scarlita-Antonidas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			163, -- [11]
-			"Player-116-05EC2781", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffScarlita-Antonidas|r",
-			[51] = 1549488853,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
-		{
-			"ya u right", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549488862,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
-		{
-			"right ship plz priest", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549488864,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [77]
-		{
-			"gj warrior", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-84-07BC374C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549488957,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
-		{
-			"DONT", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			205, -- [11]
-			"Player-84-07BC374C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549489091,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
-		{
-			"wow", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			"Player-84-07BC374C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549489095,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
-		{
-			"MAGE HERE", -- [1]
-			"Cénariuss-Dragonmaw", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cénariuss-Dragonmaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			215, -- [11]
-			"Player-84-07BC374C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCénariuss-Dragonmaw|r",
-			[51] = 1549489115,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
-		{
-			"jesus", -- [1]
-			"Ahkoto-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ahkoto-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			219, -- [11]
-			"Player-3678-0B20F0A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ahkoto-Thrall|r",
-			[51] = 1549489125,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
-		{
-			"pastor", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489271,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [83]
-		{
-			"i know", -- [1]
-			"Pastorsho-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pastorsho-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-1427-0859A97F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
-			[51] = 1549489276,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
-		{
-			"sry", -- [1]
-			"Pastorsho-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pastorsho-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			258, -- [11]
-			"Player-1427-0859A97F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
-			[51] = 1549489276,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
-		{
-			"do to discord.com", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489278,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [86]
-		{
-			":(", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489284,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [87]
-		{
-			"that other tank didnt go", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549489315,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
-		{
-			"to get dispel", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549489320,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
-		{
-			"r u doin normal", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489331,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [90]
-		{
-			"ya", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489335,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [91]
-		{
-			"oh nvm", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489341,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [92]
-		{
-			"not lookin good tho, joined at blockade and we wiped", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489344,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [93]
-		{
-			"lol", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489344,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [94]
-		{
-			"ah", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			273, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489346,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [95]
-		{
-			"wanna heal some +", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			274, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489350,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [96]
-		{
-			"I'm in a meeting (why I'm doing normal since it's easy)", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489363,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [97]
-		{
-			"q us", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			276, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549489364,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
-		{
-			"ah", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			277, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489366,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [99]
-		{
-			"I do want to tho :(", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			278, -- [11]
-			"Player-9-0B32A56C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1549489375,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [100]
-		{
-			"got a mage offline", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			283, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549489489,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
-		{
-			"any tanks on that would like to quick run freehold for the weekly quest", -- [1]
-			"Rodveir-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			284, -- [11]
-			"Player-9-0AE34391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Rodveir|r",
-			[51] = 1549489490,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
-		{
-			"atenidas is offline", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			287, -- [11]
-			"Player-9-0B5173DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549489534,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
-		{
-			"https://discord.gg/6nmmEj", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			291, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489608,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [104]
-		{
-			"mele to katerine, range to joseph", -- [1]
-			"Burthir-Velen", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Burthir-Velen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			292, -- [11]
-			"Player-96-09B7B88D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Burthir-Velen|r",
-			[51] = 1549489612,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
-		{
-			"melee left ship ranged right", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			293, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489619,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [106]
-		{
-			"pally heal to katherine", -- [1]
-			"Burthir-Velen", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Burthir-Velen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"Player-96-09B7B88D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Burthir-Velen|r",
-			[51] = 1549489621,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
-		{
-			"pastor go left", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			298, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489682,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [108]
-		{
-			"ok sr", -- [1]
-			"Pastorsho-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pastorsho-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			299, -- [11]
-			"Player-1427-0859A97F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Pastorsho-Ragnaros|r",
-			[51] = 1549489691,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
-		{
-			"pally go left", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			300, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489706,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [110]
-		{
-			"healer", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			301, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489708,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [111]
-		{
-			"metalfur", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489711,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [112]
-		{
-			"Go left ship", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			308, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489763,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [113]
-		{
-			"plz", -- [1]
-			"Gentrin-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gentrin-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			310, -- [11]
-			"Player-58-0B2D4D94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGentrin-Stormreaver|r",
-			[51] = 1549489767,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [114]
-		{
-			"Tempting Song on Ghostloadz", -- [1]
-			"Ghostloadz-Mal'Ganis", -- [2]
+			"Sighted Artillery on Illsong", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ghostloadz-Mal'Ganis", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			330, -- [11]
-			"Player-3684-07DE26D7", -- [12]
+			740, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edGhostloadz-Mal'Ganis|r",
-			[51] = 1549489883,
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [56]
 		{
-			"3", -- [1]
+			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			741, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572268,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			742, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572271,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			746, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572280,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			747, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572286,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"|cff71d5ff|Hspell:50613:0|h[Arcane Torrent]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			750, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572308,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			751, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572312,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"<EH> Illsong got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			752, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572312,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			753, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572312,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [64]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			754, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572313,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			755, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572313,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			757, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572321,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [67]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			758, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572321,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			759, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572328,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"<EH> Haxpaxy got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			760, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572328,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [70]
+		{
+			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			761, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572328,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			763, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572345,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"Taunted Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			769, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572375,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"Taunted Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			770, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572375,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [74]
+		{
+			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			771, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572379,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"Taunted Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			772, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572385,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Taunted Ashvane Invader!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			773, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572385,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			774, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572386,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [78]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			777, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572396,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [79]
+		{
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			778, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572405,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			779, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572408,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			780, -- [11]
+			"Player-9-0AF132BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572413,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"Taunted Risen Soul!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			782, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572438,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"Taunted Risen Soul!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			783, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572438,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [84]
+		{
+			"Lost Soul is immune to my |cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			786, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572475,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"Taunted Hadal Darkfathom!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			789, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572505,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			805, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572633,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
+		{
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			810, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572654,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [88]
+		{
+			"Putrid Waters on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2564,7 +1970,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			370, -- [11]
+			811, -- [11]
 			"Player-9-0A76FA3F", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2572,250 +1978,844 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549490054,
+			[51] = 1549572661,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			813, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572662,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [90]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			816, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572665,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [91]
+		{
+			"Putrid Waters on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			819, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aYorman|r",
+			[51] = 1549572683,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [92]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			820, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572687,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			827, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572719,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [94]
+		{
+			"Putrid Waters on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			830, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aYorman|r",
+			[51] = 1549572728,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"used pickpockets, and successfuly stole 4 gold 74 silver 13 copper from you.", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			832, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572744,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [96]
+		{
+			"Putrid Waters on Keydepleter", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			833, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572746,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [97]
+		{
+			"used pickpockets, and successfuly stole 5 gold 73 silver 51 copper from you.", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			834, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572747,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [98]
+		{
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			835, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572747,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [99]
+		{
+			"used pickpockets, and successfuly stole 2 gold 4 silver 97 copper from you.", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			836, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572752,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [100]
+		{
+			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			837, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572754,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [101]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			838, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572754,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			839, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572754,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [103]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			841, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572759,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			842, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572759,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [105]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			846, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572767,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [106]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			851, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572779,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [107]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			852, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572784,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			854, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572785,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [109]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			855, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572785,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [110]
+		{
+			"Putrid Waters on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			857, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aYorman|r",
+			[51] = 1549572790,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [111]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			858, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572793,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			859, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572793,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			860, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572794,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Taunted Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			863, -- [11]
+			"Player-9-0B42AEF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572802,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [115]
+		{
+			"Halahs Ka'kar za Erh'ongg", -- [1]
+			"Eruption-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Eruption-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			867, -- [11]
+			"Player-9-0AD124E8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffEruption|r",
+			[51] = 1549572812,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [116]
 		{
-			"2", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			371, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			868, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549490055,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572818,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [117]
 		{
-			"1", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			372, -- [11]
-			"Player-9-0A76FA3F", -- [12]
+			869, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aYorman|r",
-			[51] = 1549490056,
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [118]
 		{
-			"gg", -- [1]
-			"Kokahiena-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Kokahiena-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			389, -- [11]
-			"Player-9-0B5173DD", -- [12]
+			870, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKokahiena|r",
-			[51] = 1549490146,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572821,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [119]
 		{
-			"Hi beautiful people", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			451, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			871, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549492892,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aKeydepleter|r",
+			[51] = 1549572821,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"okay thanks", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			452, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			873, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549492935,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"hello beautiful person", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"1. Yorman 61.0k", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			453, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			874, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1549492936,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"*blush*", -- [1]
-			"Lohgical-Kil'jaeden", -- [2]
+			"2. Keydepleter 113.5k", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			454, -- [11]
-			"Player-9-0B4F7C2E", -- [12]
+			875, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLohgical|r",
-			[51] = 1549492944,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"andruww", -- [1]
-			"Parsejuju-Kil'jaeden", -- [2]
+			"3. Haxpaxy 150.7k", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			455, -- [11]
-			"Player-9-0B3C7798", -- [12]
+			876, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffParsejuju|r",
-			[51] = 1549492959,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"youre the beautiful one", -- [1]
-			"Parsejuju-Kil'jaeden", -- [2]
+			"4. Eruption 196.5k", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			456, -- [11]
-			"Player-9-0B3C7798", -- [12]
+			877, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffParsejuju|r",
-			[51] = 1549492963,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"awww thx qtpie", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"5. Illsong 299.7k", -- [1]
+			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Illsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			457, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			878, -- [11]
+			"Player-9-0AF132BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1549492970,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Illsong|r",
+			[51] = 1549572823,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"think i just vomitted mb", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"|cffffff00The Sliver is under attack!|r", -- [1]
+			"", -- [2]
 			"", -- [3]
-			"", -- [4]
+			"2. LocalDefense - Zuldazar", -- [4]
 			"", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Zuldazar", -- [9]
 			0, -- [10]
-			458, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			887, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1549492985,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "",
+			[51] = 1549572894,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

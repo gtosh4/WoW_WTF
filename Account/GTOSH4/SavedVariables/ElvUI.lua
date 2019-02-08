@@ -104,11 +104,11 @@ ElvDB = {
 				["ElvUF_TargetTargetMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,262,-328",
 				["BossButton"] = "BOTTOM,ElvUIParent,BOTTOM,0,275",
 				["LeftChatMover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,0,19",
-				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-383,357",
+				["ElvUF_PlayerMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,842,-534",
 				["RightChatMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,0,19",
 				["ElvUF_PartyMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMLEFT,986,450",
-				["ElvUF_PlayerMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,842,-534",
 				["ElvUF_PetMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,669,-413",
+				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-383,357",
 				["ElvUF_TargetMover"] = "TOP,ElvUIParent,TOP,415,-428",
 			},
 			["bags"] = {
@@ -458,6 +458,49 @@ ElvDB = {
 					["tank"] = {
 						["enable"] = false,
 					},
+					["party"] = {
+						["debuffs"] = {
+							["xOffset"] = -4,
+							["yOffset"] = -7,
+							["anchorPoint"] = "TOPRIGHT",
+							["sizeOverride"] = 16,
+						},
+						["healPrediction"] = {
+							["enable"] = true,
+						},
+						["name"] = {
+							["position"] = "TOP",
+							["text_format"] = "[namecolor][name:short]",
+						},
+						["height"] = 45,
+						["buffs"] = {
+							["enable"] = true,
+							["sizeOverride"] = 22,
+							["yOffset"] = -6,
+							["clickThrough"] = true,
+							["xOffset"] = 50,
+							["perrow"] = 1,
+						},
+						["horizontalSpacing"] = 9,
+						["enable"] = false,
+						["rdebuffs"] = {
+							["font"] = "Friz Quadrata TT",
+						},
+						["growthDirection"] = "LEFT_UP",
+						["roleIcon"] = {
+							["position"] = "BOTTOMRIGHT",
+						},
+						["power"] = {
+							["text_format"] = "",
+						},
+						["width"] = 80,
+						["health"] = {
+							["frequentUpdates"] = true,
+							["position"] = "BOTTOM",
+							["text_format"] = "[healthcolor][health:deficit]",
+						},
+						["verticalSpacing"] = 9,
+					},
 					["player"] = {
 						["debuffs"] = {
 							["attachTo"] = "BUFFS",
@@ -519,49 +562,6 @@ ElvDB = {
 							["anchorPoint"] = "RIGHT",
 							["yOffset"] = 13,
 						},
-					},
-					["party"] = {
-						["debuffs"] = {
-							["xOffset"] = -4,
-							["yOffset"] = -7,
-							["anchorPoint"] = "TOPRIGHT",
-							["sizeOverride"] = 16,
-						},
-						["healPrediction"] = {
-							["enable"] = true,
-						},
-						["name"] = {
-							["position"] = "TOP",
-							["text_format"] = "[namecolor][name:short]",
-						},
-						["height"] = 45,
-						["buffs"] = {
-							["enable"] = true,
-							["sizeOverride"] = 22,
-							["yOffset"] = -6,
-							["clickThrough"] = true,
-							["xOffset"] = 50,
-							["perrow"] = 1,
-						},
-						["horizontalSpacing"] = 9,
-						["enable"] = false,
-						["rdebuffs"] = {
-							["font"] = "Friz Quadrata TT",
-						},
-						["growthDirection"] = "LEFT_UP",
-						["roleIcon"] = {
-							["position"] = "BOTTOMRIGHT",
-						},
-						["power"] = {
-							["text_format"] = "",
-						},
-						["width"] = 80,
-						["health"] = {
-							["frequentUpdates"] = true,
-							["position"] = "BOTTOM",
-							["text_format"] = "[healthcolor][health:deficit]",
-						},
-						["verticalSpacing"] = 9,
 					},
 					["raid40"] = {
 						["healPrediction"] = {
@@ -830,9 +830,9 @@ ElvDB = {
 				["ElvAB_6"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-488,330",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-50,50",
 				["ElvUF_TankMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,50,995",
+				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["TotemBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,463,50",
 				["ElvUF_PetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,200",
-				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["ElvUF_PartyMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,184,773",
 				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-50",
 				["ElvUF_TargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,230,140",
@@ -1232,8 +1232,8 @@ ElvPrivateDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["general"] = {
-				["dmgfont"] = "Friz Quadrata TT",
 				["namefont"] = "Friz Quadrata TT",
+				["dmgfont"] = "Friz Quadrata TT",
 			},
 			["actionbar"] = {
 				["enable"] = false,

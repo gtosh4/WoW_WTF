@@ -16,6 +16,10 @@ VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
 /cast [@player] Angelic Feather
 /stopspelltarget
 END
+VER 3 0100000000000015 "fort" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Fortitude
+/cast [@player] Power Word: Fortitude
+END
 VER 3 010000000000000B "Heal" "INV_Misc_QuestionMark"
 #showtooltip Heal
 /cast [@mouseover,noharm] Heal

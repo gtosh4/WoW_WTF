@@ -9,7 +9,7 @@ DataStore_ReputationsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549516463,
+				["lastUpdate"] = 1549610166,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -43,7 +43,7 @@ DataStore_ReputationsDB = {
 					[141] = 15945,
 					[142] = 8935,
 					[20] = 500,
-					[151] = 40212,
+					[151] = 40937,
 					[14] = 750,
 					[9] = 8487,
 					[10] = 8999,
@@ -53,7 +53,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1549498211,
+				["lastUpdate"] = 1549572864,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -174,7 +174,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549530339,
+				["lastUpdate"] = 1549618340,
 				["Factions"] = {
 					[29] = 150,
 					[7] = 500,

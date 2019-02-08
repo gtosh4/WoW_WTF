@@ -26,9 +26,9 @@ PremadeGroupsFilterState = {
 			["act"] = false,
 		},
 		["defeated"] = {
-			["max"] = "40",
+			["max"] = "2",
 			["min"] = "",
-			["act"] = false,
+			["act"] = true,
 		},
 		["heals"] = {
 			["max"] = "3",

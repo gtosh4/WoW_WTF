@@ -42,7 +42,7 @@ Grid2DB = {
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
-					["PosY"] = -490.659908229045,
+					["PosY"] = -490.659875678997,
 					["extraThemes"] = {
 					},
 					["BackgroundA"] = 0.859999999403954,
@@ -917,15 +917,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["borderSize"] = 1,
 					["type"] = "icons",
+					["useStatusColor"] = true,
 					["iconSize"] = 16,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
-					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["b"] = 0,
@@ -2282,9 +2282,9 @@ Grid2DB = {
 					["buff-EnvelopingMist-mine"] = 50,
 				},
 				["heals"] = {
+					["my-heals-incoming"] = 100,
 					["shields"] = 101,
 					["heals-incoming"] = 99,
-					["my-heals-incoming"] = 100,
 				},
 			},
 			["themes"] = {
@@ -3670,26 +3670,39 @@ Grid2DB = {
 						["a"] = 0.550000011920929,
 					},
 				},
-				["buff-PrayerofMending-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["b"] = 0.152941176470588,
-						["g"] = 0.36078431372549,
-						["r"] = 0.329411764705882,
-					},
-					["type"] = "buff",
+				["buffs-DefensiveCooldowns"] = {
+					["type"] = "buffs",
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.419607843137255,
+						["r"] = 1,
 						["g"] = 1,
-						["r"] = 0.917647058823529,
+						["b"] = 1,
 					},
-					["colorThreshold"] = {
-						4, -- [1]
+					["auras"] = {
+						"Blessing of Sacrifice", -- [1]
+						"Ardent Defender", -- [2]
+						"Divine Protection", -- [3]
+						"Ancient Guardian", -- [4]
+						"Guardian of Ancient Kings", -- [5]
+						"Blessing of Spellwarding", -- [6]
+						"Shield Block", -- [7]
+						"Shield Wall", -- [8]
+						"Last Stand", -- [9]
+						"Survival Instincts", -- [10]
+						"Barkskin", -- [11]
+						"Frenzied Regeneration", -- [12]
+						"Vampiric Blood", -- [13]
+						"Dancing Rune Weapon", -- [14]
+						"Icebound Fortitude", -- [15]
+						"Anti-Magic Shell", -- [16]
+						"Pain Suppression", -- [17]
+						"Guardian Spirit", -- [18]
+						"Fortifying Brew", -- [19]
+						"Dampen Harm", -- [20]
+						"Metamorphosis", -- [21]
+						"Life Cocoon", -- [22]
+						"Ironbark", -- [23]
 					},
-					["colorCount"] = 2,
-					["mine"] = 1,
-					["spellName"] = 41635,
 				},
 				["buff-Atonement-mine"] = {
 					["color2"] = {
@@ -3769,39 +3782,26 @@ Grid2DB = {
 					["mine"] = 1,
 					["spellName"] = 198533,
 				},
-				["buffs-DefensiveCooldowns"] = {
-					["type"] = "buffs",
+				["buff-PrayerofMending-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["b"] = 0.152941176470588,
+						["g"] = 0.36078431372549,
+						["r"] = 0.329411764705882,
+					},
+					["type"] = "buff",
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 1,
+						["b"] = 0.419607843137255,
 						["g"] = 1,
-						["b"] = 1,
+						["r"] = 0.917647058823529,
 					},
-					["auras"] = {
-						"Blessing of Sacrifice", -- [1]
-						"Ardent Defender", -- [2]
-						"Divine Protection", -- [3]
-						"Ancient Guardian", -- [4]
-						"Guardian of Ancient Kings", -- [5]
-						"Blessing of Spellwarding", -- [6]
-						"Shield Block", -- [7]
-						"Shield Wall", -- [8]
-						"Last Stand", -- [9]
-						"Survival Instincts", -- [10]
-						"Barkskin", -- [11]
-						"Frenzied Regeneration", -- [12]
-						"Vampiric Blood", -- [13]
-						"Dancing Rune Weapon", -- [14]
-						"Icebound Fortitude", -- [15]
-						"Anti-Magic Shell", -- [16]
-						"Pain Suppression", -- [17]
-						"Guardian Spirit", -- [18]
-						"Fortifying Brew", -- [19]
-						"Dampen Harm", -- [20]
-						"Metamorphosis", -- [21]
-						"Life Cocoon", -- [22]
-						"Ironbark", -- [23]
+					["colorThreshold"] = {
+						4, -- [1]
 					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["spellName"] = 41635,
 				},
 				["buff-EnvelopingMist-mine"] = {
 					["color2"] = {
@@ -3898,27 +3898,27 @@ Grid2DB = {
 					["death"] = 51,
 				},
 				["heals-color"] = {
+					["shields"] = 50,
 					["my-heals-incoming"] = 52,
 					["heals-incoming"] = 51,
-					["shields"] = 50,
 				},
 				["alpha"] = {
 					["range"] = 99,
 					["offline"] = 97,
 				},
 				["heals"] = {
+					["heals-incoming"] = 100,
 					["shields"] = 99,
 					["my-heals-incoming"] = 101,
-					["heals-incoming"] = 100,
 				},
 				["health"] = {
 					["health-current"] = 99,
 				},
 				["icons-bottomleft"] = {
-					["debuff-Disease"] = 51,
-					["debuff-Magic"] = 53,
-					["debuff-Poison"] = 54,
-					["debuff-Curse"] = 52,
+					["debuff-Curse"] = 50,
+					["debuff-Magic"] = 51,
+					["debuff-Poison"] = 53,
+					["debuff-Disease"] = 52,
 				},
 				["text-up"] = {
 					["name"] = 50,
@@ -4072,15 +4072,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["type"] = "icons",
 					["borderSize"] = 1,
+					["iconSize"] = 16,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["useStatusColor"] = true,
 					["level"] = 8,
-					["iconSize"] = 16,
+					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["r"] = 0,
@@ -5320,9 +5320,9 @@ Grid2DB = {
 					["classcolor"] = 50,
 				},
 				["heals"] = {
+					["heals-incoming"] = 99,
 					["shields"] = 101,
 					["my-heals-incoming"] = 100,
-					["heals-incoming"] = 99,
 				},
 				["icons-topleft"] = {
 					["buffs-DefensiveCooldowns"] = 50,

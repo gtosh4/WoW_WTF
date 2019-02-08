@@ -11,13 +11,7 @@ BigWigs3DB = {
 		},
 	},
 	["namespaces"] = {
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[287333] = 1032439,
-					["stages"] = 1032439,
-				},
-			},
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -27,7 +21,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -45,7 +39,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
@@ -54,7 +48,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -79,28 +73,34 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.037536621094,
 					["BigWigsAnchor_y"] = 297.067815608047,
 					["BigWigsAnchor_x"] = 697.609563950515,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins Half-Bar",
 					["BigWigsEmphasizeAnchor_height"] = 15.9999761581421,
 					["growup"] = false,
-					["fontSizeEmph"] = 11,
+					["BigWigsEmphasizeAnchor_width"] = 200.037536621094,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 15.9999761581421,
-					["BigWigsEmphasizeAnchor_width"] = 200.037536621094,
+					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["emphasizeTime"] = 12,
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
+					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[287333] = 1032439,
+					["stages"] = 1032439,
+				},
+			},
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
@@ -121,9 +121,9 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -185,9 +185,9 @@ BigWigsStatsDB = {
 		},
 		[2334] = {
 			["heroic"] = {
-				["kills"] = 3,
+				["kills"] = 4,
 				["best"] = 398.872999999992,
-				["wipes"] = 7,
+				["wipes"] = 24,
 			},
 			["normal"] = {
 				["best"] = 318.838000000047,
@@ -216,8 +216,8 @@ BigWigsStatsDB = {
 				["best"] = 349.340000000026,
 			},
 			["heroic"] = {
-				["kills"] = 3,
-				["wipes"] = 9,
+				["kills"] = 4,
+				["wipes"] = 10,
 				["best"] = 345.146999999997,
 			},
 		},

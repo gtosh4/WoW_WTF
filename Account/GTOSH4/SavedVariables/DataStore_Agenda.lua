@@ -15,15 +15,15 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365316315"] = "467133|1549516465|0|1",
+					["Battle of Dazar'alor Heroic|365316315"] = "373429|1549610168|0|1",
 				},
-				["lastUpdate"] = 1549518265,
+				["lastUpdate"] = 1549610242,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365241153"] = "485385|1549498213|0|1",
+					["Battle of Dazar'alor Heroic|365241153"] = "410713|1549572884|0|1",
 				},
-				["lastUpdate"] = 1549498287,
+				["lastUpdate"] = 1549572893,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {
@@ -35,10 +35,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365264485"] = "453257|1549530340|0|1",
-					["Battle of Dazar'alor Mythic|365264911"] = "453257|1549530340|0|1",
+					["Battle of Dazar'alor Heroic|365264485"] = "365167|1549618430|0|1",
+					["Battle of Dazar'alor Mythic|365264911"] = "365167|1549618430|0|1",
 				},
-				["lastUpdate"] = 1549530351,
+				["lastUpdate"] = 1549618436,
 			},
 		},
 	},

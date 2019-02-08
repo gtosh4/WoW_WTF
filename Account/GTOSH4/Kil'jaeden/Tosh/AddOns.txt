@@ -11,3 +11,4 @@ bigdumblootcouncil: disabled
 LittleWigs: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CUFProfiles: disabled
+AzeriteForge: disabled

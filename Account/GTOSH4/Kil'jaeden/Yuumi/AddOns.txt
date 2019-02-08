@@ -11,3 +11,4 @@ Clique: disabled
 bigdumblootcouncil: disabled
 BigWigs_BattleOfDazaralor: enabled
 LittleWigs: enabled
+AzeriteForge: disabled

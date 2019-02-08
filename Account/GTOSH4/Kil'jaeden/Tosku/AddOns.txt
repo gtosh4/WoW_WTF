@@ -2,3 +2,4 @@ AAP-Core: disabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled
+AzeriteForge: disabled

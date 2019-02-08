@@ -5,18 +5,18 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "07/02/19",
+				["date"] = "08/02/19",
 				["class"] = "PRIEST",
-				["lastsessiondate"] = "07/02/19",
+				["lastsessiondate"] = "08/02/19",
 				["curryear"] = "2019",
 				["prvmonth"] = "01",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1748931894,
+				["totalcash"] = 1744482428,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
-				["prvday"] = "06/02/19",
+				["prvday"] = "07/02/19",
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -110,23 +110,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 12600,
+						["Out"] = 0,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 25200,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 2335340,
+						["Out"] = 2360540,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 2536940,
+						["Out"] = 2562140,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 2373140,
+						["Out"] = 2398340,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -138,11 +138,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 12600,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 2536940,
+						["Out"] = 2562140,
 					},
 				},
 				["GUILD"] = {
@@ -151,7 +151,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 0,
+						["In"] = 620503,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -159,15 +159,15 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 603643,
+						["In"] = 1224146,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 1872074,
+						["In"] = 2492577,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 603643,
+						["In"] = 1224146,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -183,7 +183,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1872074,
+						["In"] = 2492577,
 						["Out"] = 0,
 					},
 				},
@@ -193,7 +193,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 2167206,
 					},
 					["PrvDay"] = {
-						["In"] = 0,
+						["In"] = 3817,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -201,15 +201,15 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 0,
+						["In"] = 3817,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 0,
+						["In"] = 3817,
 						["Out"] = 2167206,
 					},
 					["Month"] = {
-						["In"] = 0,
+						["In"] = 3817,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -225,7 +225,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 0,
+						["In"] = 3817,
 						["Out"] = 2167206,
 					},
 				},
@@ -320,23 +320,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 2816874,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 2647328,
+						["In"] = 604808,
+						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 2680557,
-						["Out"] = 4308915,
+						["In"] = 3285365,
+						["Out"] = 4478461,
 					},
 					["Year"] = {
-						["In"] = 1192201911,
-						["Out"] = 7995458,
+						["In"] = 1192806719,
+						["Out"] = 8165004,
 					},
 					["Month"] = {
-						["In"] = 2680557,
-						["Out"] = 7995458,
+						["In"] = 3285365,
+						["Out"] = 8165004,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -348,11 +348,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 2647328,
+						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1192201911,
-						["Out"] = 7995458,
+						["In"] = 1192806719,
+						["Out"] = 8165004,
 					},
 				},
 				["TRADE"] = {
@@ -487,24 +487,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 32772833,
 					},
 					["PrvDay"] = {
-						["In"] = 0,
-						["Out"] = 0,
+						["In"] = 3662087,
+						["Out"] = 8092270,
 					},
 					["Day"] = {
-						["In"] = 3662087,
-						["Out"] = 1310246,
+						["In"] = 0,
+						["Out"] = 527139,
 					},
 					["Week"] = {
 						["In"] = 4111065,
-						["Out"] = 16729098,
+						["Out"] = 24038261,
 					},
 					["Year"] = {
 						["In"] = 5662674,
-						["Out"] = 49501931,
+						["Out"] = 56811094,
 					},
 					["Month"] = {
 						["In"] = 4157017,
-						["Out"] = 18799422,
+						["Out"] = 26108585,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -516,11 +516,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 428881,
 					},
 					["Total"] = {
 						["In"] = 5662674,
-						["Out"] = 49501931,
+						["Out"] = 56811094,
 					},
 				},
 				["LOOT"] = {
@@ -529,23 +529,23 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 603077,
+						["In"] = 13926127,
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 12100812,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 26341259,
+						["In"] = 28166574,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 38818712,
+						["In"] = 40644027,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 34380359,
+						["In"] = 36205674,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -557,11 +557,11 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Session"] = {
-						["In"] = 6397383,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 38818712,
+						["In"] = 40644027,
 						["Out"] = 0,
 					},
 				},
@@ -571,11 +571,11 @@ Accountant_ClassicSaveData = {
 						["Out"] = 120,
 					},
 					["PrvDay"] = {
-						["In"] = 0,
+						["In"] = 3902903,
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 3902903,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Week"] = {
@@ -599,7 +599,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 90,
 					},
 					["Session"] = {
-						["In"] = 2142023,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Total"] = {
@@ -697,17 +697,17 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "07/02/19",
+				["date"] = "08/02/19",
 				["class"] = "DRUID",
 				["faction"] = "Horde",
-				["prvday"] = "06/02/19",
+				["prvday"] = "07/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
 				["totalcash"] = 1376869441,
 				["curryear"] = "2019",
 				["prvdateweek"] = "Sun Jan ",
-				["lastsessiondate"] = "06/02/19",
+				["lastsessiondate"] = "07/02/19",
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -1388,18 +1388,18 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "07/02/19",
+				["date"] = "08/02/19",
 				["class"] = "MONK",
 				["curryear"] = "2019",
-				["lastsessiondate"] = "07/02/19",
+				["lastsessiondate"] = "08/02/19",
 				["prvmonth"] = "01",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1183559359,
+				["totalcash"] = 1182457352,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
-				["prvday"] = "06/02/19",
+				["prvday"] = "07/02/19",
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -1493,7 +1493,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 23800,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
@@ -1660,16 +1660,16 @@ Accountant_ClassicSaveData = {
 						["Out"] = 56940348,
 					},
 					["PrvDay"] = {
-						["In"] = 3000005,
-						["Out"] = 6918,
+						["In"] = 0,
+						["Out"] = 932007,
 					},
 					["Total"] = {
 						["In"] = 1030923954,
-						["Out"] = 56947266,
+						["Out"] = 57879273,
 					},
 					["Week"] = {
 						["In"] = 3000052,
-						["Out"] = 6918,
+						["Out"] = 938925,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -1677,7 +1677,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Month"] = {
 						["In"] = 4185725,
-						["Out"] = 1934687,
+						["Out"] = 2866694,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1693,7 +1693,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Year"] = {
 						["In"] = 1030923954,
-						["Out"] = 56947266,
+						["Out"] = 57879273,
 					},
 				},
 				["LOOT"] = {
@@ -1702,7 +1702,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 1210068,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Total"] = {
@@ -1870,16 +1870,16 @@ Accountant_ClassicSaveData = {
 						["Out"] = 117883863,
 					},
 					["PrvDay"] = {
-						["In"] = 1163625,
-						["Out"] = 11820107,
+						["In"] = 0,
+						["Out"] = 170000,
 					},
 					["Total"] = {
 						["In"] = 6707663,
-						["Out"] = 137290666,
+						["Out"] = 137460666,
 					},
 					["Week"] = {
 						["In"] = 1163625,
-						["Out"] = 19406803,
+						["Out"] = 19576803,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -1887,7 +1887,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Month"] = {
 						["In"] = 1517843,
-						["Out"] = 66401632,
+						["Out"] = 66571632,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1903,7 +1903,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Year"] = {
 						["In"] = 6707663,
-						["Out"] = 137290666,
+						["Out"] = 137460666,
 					},
 				},
 				["TRANSMO"] = {
@@ -1997,7 +1997,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 90,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 18496600,
@@ -2080,7 +2080,7 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "07/02/19",
+				["date"] = "08/02/19",
 				["class"] = "PALADIN",
 				["curryear"] = "2019",
 				["lastsessiondate"] = "05/02/19",
@@ -2091,7 +2091,7 @@ Accountant_ClassicSaveData = {
 				["totalcash"] = 1279183121,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
-				["prvday"] = "06/02/19",
+				["prvday"] = "07/02/19",
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -2914,12 +2914,12 @@ Accountant_ClassicZoneDB = {
 					["REPAIRS"] = {
 					},
 					["GUILD"] = {
+						["Battle of Dazar'alor"] = {
+							["In"] = 620503,
+							["Out"] = 0,
+						},
 					},
 					["TAXI"] = {
-						["Zuldazar - Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 12600,
-						},
 					},
 					["BARBER"] = {
 					},
@@ -2928,26 +2928,58 @@ Accountant_ClassicZoneDB = {
 					["LFG"] = {
 					},
 					["TRANSMO"] = {
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 0,
+						},
+					},
+					["MERCH"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 3662087,
+							["Out"] = 1310246,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 6782024,
+						},
+					},
+					["TRADE"] = {
+					},
+					["AH"] = {
+					},
+					["GARRISON"] = {
 					},
 					["LOOT"] = {
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 1801634,
+							["Out"] = 0,
+						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 603077,
+							["In"] = 23681,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 12100812,
+							["Out"] = 0,
+						},
+					},
+					["MAIL"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 3902903,
 							["Out"] = 0,
 						},
 					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
-					},
-					["GARRISON"] = {
-					},
-					["MERCH"] = {
-					},
-					["AH"] = {
-					},
-					["TRADE"] = {
-					},
 					["OTHER"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 2647328,
+						},
+						[""] = {
+							["In"] = 0,
+							["Out"] = 169546,
+						},
 					},
 					["QUEST"] = {
 					},
@@ -2958,44 +2990,48 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
+						["Zuldazar - Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 12600,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 12600,
+						},
 					},
 					["BARBER"] = {
 					},
-					["AH"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
 					["OTHER"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 2647328,
+						["Battle of Dazar'alor"] = {
+							["In"] = 604808,
+							["Out"] = 0,
 						},
-					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
 					},
 					["GARRISON"] = {
 					},
-					["LOOT"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 12100812,
-							["Out"] = 0,
-						},
-					},
 					["MERCH"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 3662087,
-							["Out"] = 1310246,
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 98258,
 						},
 					},
-					["MAIL"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 3902903,
-							["Out"] = 0,
-						},
+					["LOOT"] = {
+					},
+					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -3007,7 +3043,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 603643,
+							["In"] = 1224146,
 							["Out"] = 0,
 						},
 					},
@@ -3038,11 +3074,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2178540,
+							["Out"] = 2191140,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 37800,
+							["Out"] = 50400,
 						},
 					},
 					["BARBER"] = {
@@ -3050,10 +3086,10 @@ Accountant_ClassicZoneDB = {
 					["OTHER"] = {
 						[""] = {
 							["In"] = 0,
-							["Out"] = 1661587,
+							["Out"] = 1831133,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 590217,
+							["In"] = 1195025,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3070,6 +3106,10 @@ Accountant_ClassicZoneDB = {
 					["VOID"] = {
 					},
 					["TRANSMO"] = {
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 0,
+						},
 					},
 					["TRADE"] = {
 					},
@@ -3090,26 +3130,34 @@ Accountant_ClassicZoneDB = {
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 295867,
-							["Out"] = 0,
-						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 153111,
-							["Out"] = 12941369,
+							["Out"] = 19723393,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 3662087,
-							["Out"] = 1334962,
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
 							["Out"] = 2452767,
 						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 295867,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 3662087,
+							["Out"] = 1334962,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 98258,
+						},
 					},
 					["LOOT"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1824050,
+							["In"] = 1847731,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3121,7 +3169,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 3877391,
+							["In"] = 5679025,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
@@ -3172,7 +3220,7 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 75600,
+							["Out"] = 88200,
 						},
 						["Nazmir - Gloom Hollow"] = {
 							["In"] = 0,
@@ -3188,7 +3236,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2342340,
+							["Out"] = 2354940,
 						},
 						["Nazmir - Zo'bal Ruins"] = {
 							["In"] = 0,
@@ -3205,7 +3253,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1872074,
+							["In"] = 2492577,
 							["Out"] = 0,
 						},
 					},
@@ -3246,7 +3294,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1251612,
-							["Out"] = 40175290,
+							["Out"] = 46957314,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -3262,7 +3314,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
-							["Out"] = 549040,
+							["Out"] = 647298,
 						},
 					},
 					["TRADE"] = {
@@ -3293,7 +3345,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 6262403,
+							["In"] = 6286084,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3305,7 +3357,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 3877391,
+							["In"] = 5679025,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
@@ -3322,16 +3374,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 2167206,
 						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 0,
+						},
 					},
 					["VOID"] = {
 					},
 					["OTHER"] = {
 						[""] = {
 							["In"] = 1187660718,
-							["Out"] = 5348130,
+							["Out"] = 5517676,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 2450853,
+							["In"] = 3055661,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3366,7 +3422,7 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 50400,
+							["Out"] = 63000,
 						},
 						["Nazmir - Gloom Hollow"] = {
 							["In"] = 0,
@@ -3382,7 +3438,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2203740,
+							["Out"] = 2216340,
 						},
 						["Nazmir - Zo'bal Ruins"] = {
 							["In"] = 0,
@@ -3399,7 +3455,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 603643,
+							["In"] = 1224146,
 							["Out"] = 0,
 						},
 					},
@@ -3431,7 +3487,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1824050,
+							["In"] = 1847731,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3443,7 +3499,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 3877391,
+							["In"] = 5679025,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
@@ -3460,10 +3516,10 @@ Accountant_ClassicZoneDB = {
 					["OTHER"] = {
 						[""] = {
 							["In"] = 0,
-							["Out"] = 5348130,
+							["Out"] = 5517676,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 590217,
+							["In"] = 1195025,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3484,7 +3540,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 199063,
-							["Out"] = 14118425,
+							["Out"] = 20900449,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -3500,7 +3560,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
-							["Out"] = 349040,
+							["Out"] = 447298,
 						},
 					},
 					["MAIL"] = {
@@ -3524,6 +3584,10 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 0,
+						},
 					},
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
@@ -3674,14 +3738,14 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 12600,
+						},
 					},
 					["BARBER"] = {
 					},
 					["OTHER"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 2647328,
-						},
 					},
 					["LFG"] = {
 					},
@@ -3692,20 +3756,16 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["MAIL"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 2142023,
-							["Out"] = 0,
-						},
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
 					},
 					["LOOT"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 6397383,
-							["Out"] = 0,
-						},
 					},
 					["AH"] = {
 					},
@@ -3722,7 +3782,7 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 75600,
+							["Out"] = 88200,
 						},
 						["Nazmir - Gloom Hollow"] = {
 							["In"] = 0,
@@ -3738,7 +3798,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2342340,
+							["Out"] = 2354940,
 						},
 						["Nazmir - Zo'bal Ruins"] = {
 							["In"] = 0,
@@ -3755,7 +3815,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1872074,
+							["In"] = 2492577,
 							["Out"] = 0,
 						},
 					},
@@ -3796,7 +3856,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1251612,
-							["Out"] = 40175290,
+							["Out"] = 46957314,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -3812,7 +3876,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
-							["Out"] = 549040,
+							["Out"] = 647298,
 						},
 					},
 					["TRADE"] = {
@@ -3843,7 +3907,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 6262403,
+							["In"] = 6286084,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3855,7 +3919,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 3877391,
+							["In"] = 5679025,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
@@ -3872,16 +3936,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 2167206,
 						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 0,
+						},
 					},
 					["VOID"] = {
 					},
 					["OTHER"] = {
 						[""] = {
 							["In"] = 1187660718,
-							["Out"] = 5348130,
+							["Out"] = 5517676,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 2450853,
+							["In"] = 3055661,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -3985,19 +4053,19 @@ Accountant_ClassicZoneDB = {
 					},
 					["TRANSMO"] = {
 					},
-					["LOOT"] = {
-					},
-					["VOID"] = {
-					},
-					["MAIL"] = {
-					},
-					["GARRISON"] = {
-					},
 					["MERCH"] = {
+					},
+					["TRADE"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+					},
+					["MAIL"] = {
+					},
+					["VOID"] = {
 					},
 					["OTHER"] = {
 					},
@@ -4177,25 +4245,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["AH"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
 					["OTHER"] = {
 					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
 					["GARRISON"] = {
-					},
-					["LOOT"] = {
 					},
 					["MERCH"] = {
 					},
-					["MAIL"] = {
+					["LOOT"] = {
+					},
+					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -4359,33 +4427,33 @@ Accountant_ClassicZoneDB = {
 				["Session"] = {
 					["REPAIRS"] = {
 					},
-					["GUILD"] = {
+					["BARBER"] = {
 					},
 					["TAXI"] = {
 					},
-					["BARBER"] = {
+					["GUILD"] = {
 					},
-					["MAIL"] = {
+					["TRAIN"] = {
 					},
 					["LFG"] = {
 					},
-					["VOID"] = {
+					["MAIL"] = {
 					},
-					["AH"] = {
+					["MERCH"] = {
 					},
 					["TRADE"] = {
 					},
-					["OTHER"] = {
+					["AH"] = {
 					},
 					["GARRISON"] = {
-					},
-					["MERCH"] = {
 					},
 					["LOOT"] = {
 					},
 					["TRANSMO"] = {
 					},
-					["TRAIN"] = {
+					["VOID"] = {
+					},
+					["OTHER"] = {
 					},
 					["QUEST"] = {
 					},
@@ -4498,9 +4566,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 23800,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
+						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 47600,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
@@ -4510,17 +4578,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 178500,
 						},
-						["Vol'dun - Tortaka Refuge"] = {
+						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 12600,
+							["Out"] = 70000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
 							["Out"] = 35700,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 47600,
+							["Out"] = 12600,
 						},
 						["Zuldazar - Temple of the Prophet"] = {
 							["In"] = 0,
@@ -4628,17 +4696,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 2572363,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
+						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 3472192,
+							["Out"] = 91316,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
 							["Out"] = 35700000,
 						},
-						["The Underrot"] = {
+						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 676012,
+							["Out"] = 3472192,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 709820,
@@ -4656,9 +4724,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 172149,
 							["Out"] = 0,
 						},
-						["Zuldazar - Dazar'alor"] = {
+						["The Underrot"] = {
 							["In"] = 0,
-							["Out"] = 91316,
+							["Out"] = 676012,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
@@ -4724,10 +4792,6 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 23800,
-						},
 					},
 					["BARBER"] = {
 					},
@@ -4737,36 +4801,28 @@ Accountant_ClassicZoneDB = {
 					},
 					["TRANSMO"] = {
 					},
-					["LOOT"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1210068,
-							["Out"] = 0,
-						},
-					},
-					["VOID"] = {
-					},
-					["MAIL"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 90,
-						},
-					},
-					["GARRISON"] = {
-					},
 					["MERCH"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1163625,
-							["Out"] = 11820107,
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 0,
+							["Out"] = 170000,
 						},
-					},
-					["AH"] = {
 					},
 					["TRADE"] = {
 					},
+					["AH"] = {
+					},
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+					},
+					["MAIL"] = {
+					},
+					["VOID"] = {
+					},
 					["OTHER"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 3000005,
-							["Out"] = 6918,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 0,
+							["Out"] = 932007,
 						},
 					},
 					["QUEST"] = {
@@ -4884,6 +4940,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11900000,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 0,
+							["Out"] = 932007,
+						},
 						["The Underrot"] = {
 							["In"] = 0,
 							["Out"] = 614677,
@@ -4908,9 +4968,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 354218,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
+						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 3472192,
+							["Out"] = 482994,
 						},
 						["Siege of Boralus"] = {
 							["In"] = 0,
@@ -4932,9 +4992,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 35844533,
 						},
-						["The Underrot"] = {
+						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 676012,
+							["Out"] = 3472192,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1873445,
@@ -4950,11 +5010,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 172149,
-							["Out"] = 0,
+							["Out"] = 170000,
 						},
-						["Zuldazar - Dazar'alor"] = {
+						["The Underrot"] = {
 							["In"] = 0,
-							["Out"] = 482994,
+							["Out"] = 676012,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
@@ -5076,13 +5136,17 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["OTHER"] = {
-						["Arathi Basin"] = {
-							["In"] = 47,
-							["Out"] = 0,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 0,
+							["Out"] = 932007,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 3000005,
 							["Out"] = 6918,
+						},
+						["Arathi Basin"] = {
+							["In"] = 47,
+							["Out"] = 0,
 						},
 					},
 					["LFG"] = {
@@ -5113,6 +5177,10 @@ Accountant_ClassicZoneDB = {
 						["Battle of Dazar'alor"] = {
 							["In"] = 1163625,
 							["Out"] = 16173963,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 0,
+							["Out"] = 170000,
 						},
 						["The Dread Chain"] = {
 							["In"] = 0,
@@ -5181,25 +5249,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["AH"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
 					["OTHER"] = {
 					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
 					["GARRISON"] = {
-					},
-					["LOOT"] = {
 					},
 					["MERCH"] = {
 					},
-					["MAIL"] = {
+					["LOOT"] = {
+					},
+					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -5302,13 +5370,17 @@ Accountant_ClassicZoneDB = {
 					["VOID"] = {
 					},
 					["OTHER"] = {
-						["Arathi Basin"] = {
-							["In"] = 47,
-							["Out"] = 0,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 0,
+							["Out"] = 932007,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 4185678,
 							["Out"] = 1934687,
+						},
+						["Arathi Basin"] = {
+							["In"] = 47,
+							["Out"] = 0,
 						},
 					},
 					["GARRISON"] = {
@@ -5341,6 +5413,10 @@ Accountant_ClassicZoneDB = {
 						["Storm's End"] = {
 							["In"] = 0,
 							["Out"] = 4622607,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 0,
+							["Out"] = 170000,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -5611,21 +5687,21 @@ Accountant_ClassicZoneDB = {
 				["Session"] = {
 					["REPAIRS"] = {
 					},
-					["GUILD"] = {
+					["BARBER"] = {
 					},
 					["TAXI"] = {
 					},
-					["BARBER"] = {
+					["GUILD"] = {
 					},
-					["AH"] = {
+					["TRAIN"] = {
 					},
 					["LFG"] = {
 					},
-					["TRADE"] = {
-					},
 					["OTHER"] = {
 					},
-					["VOID"] = {
+					["MERCH"] = {
+					},
+					["TRADE"] = {
 					},
 					["TRANSMO"] = {
 					},
@@ -5633,11 +5709,11 @@ Accountant_ClassicZoneDB = {
 					},
 					["LOOT"] = {
 					},
-					["MERCH"] = {
+					["AH"] = {
+					},
+					["VOID"] = {
 					},
 					["MAIL"] = {
-					},
-					["TRAIN"] = {
 					},
 					["QUEST"] = {
 					},
@@ -5754,6 +5830,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11900000,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 0,
+							["Out"] = 932007,
+						},
 						["The Underrot"] = {
 							["In"] = 0,
 							["Out"] = 614677,
@@ -5778,9 +5858,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 354218,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
+						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 3472192,
+							["Out"] = 482994,
 						},
 						["Siege of Boralus"] = {
 							["In"] = 0,
@@ -5802,9 +5882,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 35844533,
 						},
-						["The Underrot"] = {
+						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 676012,
+							["Out"] = 3472192,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1873445,
@@ -5820,11 +5900,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 172149,
-							["Out"] = 0,
+							["Out"] = 170000,
 						},
-						["Zuldazar - Dazar'alor"] = {
+						["The Underrot"] = {
 							["In"] = 0,
-							["Out"] = 482994,
+							["Out"] = 676012,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
@@ -5989,19 +6069,19 @@ Accountant_ClassicZoneDB = {
 					},
 					["TRANSMO"] = {
 					},
-					["LOOT"] = {
-					},
-					["VOID"] = {
-					},
-					["MAIL"] = {
-					},
-					["GARRISON"] = {
-					},
 					["MERCH"] = {
+					},
+					["TRADE"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+					},
+					["MAIL"] = {
+					},
+					["VOID"] = {
 					},
 					["OTHER"] = {
 					},
@@ -6097,25 +6177,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["AH"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
 					["OTHER"] = {
 					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
 					["GARRISON"] = {
-					},
-					["LOOT"] = {
 					},
 					["MERCH"] = {
 					},
-					["MAIL"] = {
+					["LOOT"] = {
+					},
+					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
