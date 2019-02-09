@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_500"] = 5,
 	["STARTING_DISCOUNT"] = 5,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
-	["_200000"] = 1000,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Veiled Crystal"] = {
@@ -438,10 +438,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["L3000"] = 2079999,
 		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
-			["mr"] = 38459999,
+			["mr"] = 6939998,
 			["cc"] = 0,
-			["H3000"] = 38459999,
 			["id"] = "165692:0:0:0:0",
+			["H3007"] = 6939998,
 			["sc"] = 9,
 		},
 		["Enchant Weapon - Deadly Navigation"] = {

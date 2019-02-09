@@ -42,13 +42,13 @@ Grid2DB = {
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
-					["PosY"] = -490.659875678997,
+					["PosY"] = -490.659940779093,
 					["extraThemes"] = {
 					},
 					["BackgroundA"] = 0.859999999403954,
 					["BackgroundR"] = 0,
 					["Spacing"] = 4,
-					["PosX"] = 784.008392629461,
+					["PosX"] = 784.008327529366,
 				},
 				["Tosh - Kil'jaeden"] = {
 					["BackgroundG"] = 0.101960784313725,
@@ -917,15 +917,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["borderSize"] = 1,
 					["type"] = "icons",
-					["useStatusColor"] = true,
 					["iconSize"] = 16,
-					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
+					["level"] = 8,
+					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["b"] = 0,
@@ -2282,9 +2282,9 @@ Grid2DB = {
 					["buff-EnvelopingMist-mine"] = 50,
 				},
 				["heals"] = {
-					["my-heals-incoming"] = 100,
 					["shields"] = 101,
 					["heals-incoming"] = 99,
+					["my-heals-incoming"] = 100,
 				},
 			},
 			["themes"] = {
@@ -3898,18 +3898,18 @@ Grid2DB = {
 					["death"] = 51,
 				},
 				["heals-color"] = {
-					["shields"] = 50,
 					["my-heals-incoming"] = 52,
 					["heals-incoming"] = 51,
+					["shields"] = 50,
 				},
 				["alpha"] = {
 					["range"] = 99,
 					["offline"] = 97,
 				},
 				["heals"] = {
-					["heals-incoming"] = 100,
 					["shields"] = 99,
 					["my-heals-incoming"] = 101,
+					["heals-incoming"] = 100,
 				},
 				["health"] = {
 					["health-current"] = 99,
@@ -4072,15 +4072,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["type"] = "icons",
 					["borderSize"] = 1,
-					["iconSize"] = 16,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
 					["useStatusColor"] = true,
+					["level"] = 8,
+					["iconSize"] = 16,
 					["color1"] = {
 						["a"] = 0,
 						["r"] = 0,
@@ -5320,9 +5320,9 @@ Grid2DB = {
 					["classcolor"] = 50,
 				},
 				["heals"] = {
-					["heals-incoming"] = 99,
 					["shields"] = 101,
 					["my-heals-incoming"] = 100,
+					["heals-incoming"] = 99,
 				},
 				["icons-topleft"] = {
 					["buffs-DefensiveCooldowns"] = 50,

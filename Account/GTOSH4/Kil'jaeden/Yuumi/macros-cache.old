@@ -37,13 +37,13 @@ VER 3 0100000000000007 "SelfTL" "INV_MISC_QUESTIONMARK"
 #showtooltip Tiger's Lust
 /cast [@player] Tiger's Lust
 END
-VER 3 010000000000000E "sm" "INV_Misc_QuestionMark"
-#showtooltip
-/use [@mouseover]Soothing Mist
-END
 VER 3 0100000000000014 "sm" "INV_Misc_QuestionMark"
 #showtooltip Surging Mist
 /cast [@mouseover,noharm] Surging Mist
+END
+VER 3 010000000000000E "sm" "INV_Misc_QuestionMark"
+#showtooltip
+/use [@mouseover]Soothing Mist
 END
 VER 3 0100000000000012 "t5" "INV_Misc_QuestionMark"
 #showtooltip [talent:5/1]Healing Elixir; [talent:5/2]Diffuse Magic;[talent:5/3]Dampen Harm

@@ -53,7 +53,6 @@ BigWigs3DB = {
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
 				["Default"] = {
-					[283606] = 1032439,
 					[285014] = 1032439,
 				},
 			},
@@ -87,22 +86,12 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 15.9999761581421,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["outline"] = "OUTLINE",
 					["texture"] = "ElvUI Norm",
+					["outline"] = "OUTLINE",
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
 			},
-		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[287333] = 1032439,
-					["stages"] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -114,16 +103,26 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[287333] = 1032439,
+					["stages"] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
 				["Default"] = {
 					[285118] = 1032439,
 				},
 			},
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -178,9 +177,9 @@ BigWigsStatsDB = {
 				["best"] = 278.724000000017,
 			},
 			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 32,
-				["best"] = 368.520000000019,
+				["kills"] = 2,
+				["wipes"] = 33,
+				["best"] = 347.773000000045,
 			},
 		},
 		[2334] = {
@@ -201,7 +200,7 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 			},
 			["mythic"] = {
-				["wipes"] = 46,
+				["wipes"] = 71,
 			},
 			["heroic"] = {
 				["kills"] = 5,
@@ -262,8 +261,8 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 17,
+				["kills"] = 2,
+				["wipes"] = 25,
 				["best"] = 339.929999999993,
 			},
 			["heroic"] = {
@@ -284,9 +283,9 @@ BigWigsStatsDB = {
 				["best"] = 96.2770000000019,
 			},
 			["mythic"] = {
-				["kills"] = 1,
+				["kills"] = 2,
 				["wipes"] = 16,
-				["best"] = 147.814000000013,
+				["best"] = 112.614999999991,
 			},
 		},
 	},

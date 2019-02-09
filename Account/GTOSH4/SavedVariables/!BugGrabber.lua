@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 237,
+	["session"] = 245,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2DispellableDebuffs\\Grid2DispellableDebuffs.lua:22: unexpected symbol near '.'",
@@ -36,35 +36,12 @@ BugGrabberDB = {
 			["counter"] = 22,
 		}, -- [4]
 		{
-			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
-			["time"] = "2019/02/07 03:29:39",
-			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 237,
-			["counter"] = 14,
-		}, -- [5]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
-			["time"] = "2019/02/08 03:47:42",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:576: in function `Calendar_LoadUI'\nInterface\\FrameXML\\UIParent.lua:785: in function `ToggleCalendar'\nInterface\\FrameXML\\GameTime.lua:241: in function <Interface\\FrameXML\\GameTime.lua:230>\n[C]: in function `Click'\nInterface\\AddOns\\ElvUI\\Modules\\datatexts\\time.lua:87: in function `onClick'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:222: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:220>",
-			["session"] = 237,
-			["counter"] = 1,
-		}, -- [6]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
-			["time"] = "2019/02/08 03:47:42",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:576: in function `Calendar_LoadUI'\nInterface\\FrameXML\\UIParent.lua:785: in function `ToggleCalendar'\nInterface\\FrameXML\\GameTime.lua:241: in function <Interface\\FrameXML\\GameTime.lua:230>\n[C]: in function `Click'\nInterface\\AddOns\\ElvUI\\Modules\\datatexts\\time.lua:87: in function `onClick'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:222: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:220>",
-			["session"] = 237,
-			["counter"] = 1,
-		}, -- [7]
-		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:3406: script ran too long",
 			["time"] = "2019/02/08 04:28:13",
 			["stack"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:3406: in function `PerformActions'\n...ace\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:566: in function `Expand'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4543: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4494>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4591: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4585>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4693: in function `UpdatedTriggerState'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:642: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:631: in function <[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:623>\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:890: in function `watch'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1168: in function `addOrUpdateMember'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1481: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:607: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
 			["session"] = 237,
 			["counter"] = 1,
-		}, -- [8]
+		}, -- [5]
 		{
 			["message"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: script ran too long",
 			["time"] = "2019/02/07 03:49:16",
@@ -72,6 +49,36 @@ BugGrabberDB = {
 			["stack"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 237,
 			["counter"] = 2,
+		}, -- [6]
+		{
+			["message"] = "[string \"--[[ Error in 'Tosh Soulstone Icon' ]] retu...\"]:40: Usage: UnitIsUnit(\"unit\", \"otherUnit\")",
+			["time"] = "2019/02/08 21:27:47",
+			["stack"] = "[string \"--[[ Error in 'Tosh Soulstone Icon' ]] retu...\"]:40: in function `checkUnit'\n[string \"--[[ Error in 'Tosh Soulstone Icon' ]] retu...\"]:15: in function <[string \"--[[ Error in 'Tosh Soulstone Icon' ]] retu...\"]:3>\n(tail call): ?\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:517: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>",
+			["session"] = 244,
+			["counter"] = 5,
+		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
+			["time"] = "2019/02/08 03:47:42",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:576: in function `Calendar_LoadUI'\nInterface\\FrameXML\\UIParent.lua:785: in function `ToggleCalendar'\nInterface\\FrameXML\\GameTime.lua:241: in function <Interface\\FrameXML\\GameTime.lua:230>\n[C]: in function `Click'\nInterface\\AddOns\\ElvUI\\Modules\\datatexts\\time.lua:87: in function `onClick'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:222: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:220>",
+			["session"] = 244,
+			["counter"] = 3,
+		}, -- [8]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
+			["time"] = "2019/02/08 03:47:42",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:576: in function `Calendar_LoadUI'\nInterface\\FrameXML\\UIParent.lua:785: in function `ToggleCalendar'\nInterface\\FrameXML\\GameTime.lua:241: in function <Interface\\FrameXML\\GameTime.lua:230>\n[C]: in function `Click'\nInterface\\AddOns\\ElvUI\\Modules\\datatexts\\time.lua:87: in function `onClick'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:222: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\datatexts.lua:220>",
+			["session"] = 244,
+			["counter"] = 3,
 		}, -- [9]
+		{
+			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
+			["time"] = "2019/02/07 03:29:39",
+			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 245,
+			["counter"] = 22,
+		}, -- [10]
 	},
 }

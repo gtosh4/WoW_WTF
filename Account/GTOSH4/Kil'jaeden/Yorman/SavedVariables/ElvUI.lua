@@ -24,226 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			645, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571755,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			646, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571763,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			647, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571763,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"Taunted Bilge Rat Demolisher!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			648, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571794,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"Explosives is immune to my |cff71d5ff|Hspell:183752:0|h[Disrupt]|h|r!", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			650, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Illsong|r",
-			[51] = 1549571798,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			651, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571802,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			652, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571812,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Taunted Bilge Rat Buccaneer!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			654, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571813,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"Taunted Bilge Rat Demolisher!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			657, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571854,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Taunted Bilge Rat Demolisher!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1549571854,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
 			"Mind Freezed Bilge Rat Tempest's |cff71d5ff|Hspell:272571:0|h[Choking Waters]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -264,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571894,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [1]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -286,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571896,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [2]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -308,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571896,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Bilge Rat Tempest!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -330,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571903,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Bilge Rat Tempest ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -352,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571908,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -374,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -396,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571924,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [7]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -418,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571929,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [8]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -440,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571929,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [9]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -462,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549571934,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [10]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -484,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571945,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [11]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -506,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [12]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -528,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571958,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [13]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -550,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549571985,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [14]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -572,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -594,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571995,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -616,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549571995,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [17]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -638,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549571998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [18]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -660,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572024,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [19]
 		{
 			"Taunted Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -682,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572031,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -704,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572036,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [21]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -726,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572037,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [22]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -748,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572042,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [23]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -770,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572042,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -792,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [25]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -814,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572062,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [26]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -836,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572075,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [27]
 		{
 			"Taunted Ashvane Spotter!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -858,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572118,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [28]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -880,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572140,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [29]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -902,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572140,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [30]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -924,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572153,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [31]
 		{
 			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -946,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572154,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -968,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572159,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [33]
 		{
 			"Taunted Ashvane Spotter!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -990,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572193,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [34]
 		{
 			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1012,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572201,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [35]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1034,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572202,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [36]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1056,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572202,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [37]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1078,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [38]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1100,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572234,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1122,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572246,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [40]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1144,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572247,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [41]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1166,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572251,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [42]
 		{
 			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1188,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572251,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [43]
 		{
 			"<EH> Illsong got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1210,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572251,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [44]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ashvane Invader ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1232,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572252,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [45]
 		{
 			"Sighted Artillery on Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1254,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [46]
 		{
 			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1276,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572268,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1298,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572271,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1320,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [49]
 		{
 			"<EH> Eruption got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1342,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572286,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:50613:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1364,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572308,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [51]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1386,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572312,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [52]
 		{
 			"<EH> Illsong got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1408,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572312,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [53]
 		{
 			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1430,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572312,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [54]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1452,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [55]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1474,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572313,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1496,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572321,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1518,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572321,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [58]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1540,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572328,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [59]
 		{
 			"<EH> Haxpaxy got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1562,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572328,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [60]
 		{
 			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1584,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572328,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [61]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1606,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572345,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [62]
 		{
 			"Taunted Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1628,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572375,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [63]
 		{
 			"Taunted Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1650,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572375,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [64]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1672,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572379,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [65]
 		{
 			"Taunted Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1694,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572385,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [66]
 		{
 			"Taunted Ashvane Invader!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1716,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572385,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1738,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572386,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1760,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572396,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [69]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1782,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572405,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1804,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572408,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [71]
 		{
 			"<EH> Keydepleter got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r.", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1826,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572413,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [72]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1848,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572438,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [73]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1870,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572438,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [74]
 		{
 			"Lost Soul is immune to my |cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1892,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572475,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [75]
 		{
 			"Taunted Hadal Darkfathom!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1914,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572505,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [76]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1936,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572633,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [77]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1958,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [78]
 		{
 			"Putrid Waters on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1980,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1549572661,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2002,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572662,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [80]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2024,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572665,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [81]
 		{
 			"Putrid Waters on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2046,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1549572683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [82]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2068,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572687,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [83]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2090,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572719,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [84]
 		{
 			"Putrid Waters on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2112,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1549572728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [85]
 		{
 			"used pickpockets, and successfuly stole 4 gold 74 silver 13 copper from you.", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2134,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572744,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [96]
+		}, -- [86]
 		{
 			"Putrid Waters on Keydepleter", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2156,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572746,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [87]
 		{
 			"used pickpockets, and successfuly stole 5 gold 73 silver 51 copper from you.", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2178,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572747,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [98]
+		}, -- [88]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2200,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [89]
 		{
 			"used pickpockets, and successfuly stole 2 gold 4 silver 97 copper from you.", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2222,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572752,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [100]
+		}, -- [90]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2244,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572754,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [91]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2266,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572754,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [92]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2288,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572754,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [93]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2310,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572759,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [94]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2332,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572759,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [95]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2354,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [96]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2376,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572779,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [97]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2398,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572784,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [98]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2420,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572785,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [99]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2442,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572785,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [100]
 		{
 			"Putrid Waters on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2464,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1549572790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [101]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2486,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572793,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [102]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2508,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572793,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [103]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2530,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572794,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [104]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2552,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572802,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [105]
 		{
 			"Halahs Ka'kar za Erh'ongg", -- [1]
 			"Eruption-Kil'jaeden", -- [2]
@@ -2574,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffEruption|r",
 			[51] = 1549572812,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [106]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2596,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572818,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [107]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Demolishing Terror!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2618,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572818,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2640,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [109]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Demolishing Terror ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2662,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1549572821,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [110]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2684,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [111]
 		{
 			"1. Yorman 61.0k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2706,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [112]
 		{
 			"2. Keydepleter 113.5k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2728,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [113]
 		{
 			"3. Haxpaxy 150.7k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2750,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [114]
 		{
 			"4. Eruption 196.5k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2772,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [125]
+		}, -- [115]
 		{
 			"5. Illsong 299.7k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2794,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1549572823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [116]
 		{
 			"|cffffff00The Sliver is under attack!|r", -- [1]
 			"", -- [2]
@@ -2816,6 +2596,226 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1549572894,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12844:Player-9-0B1ACE61:1:2:8:19:4294967295:4294967295:4294967295:4294967295|h[The MOTHERLODE!!]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3366, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1549697944,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [118]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12845:Player-9-0B1ACE61:1:2:8:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3367, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1549697944,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [119]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12846:Player-9-0B1ACE61:1:2:8:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3368, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1549697944,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [120]
+		{
+			"merk apparently the guy didnt speak english ", -- [1]
+			"Hyperr-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3369, -- [11]
+			"Player-9-0AFE3075", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Hyperr|r",
+			[51] = 1549697968,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"yeah.. I think he put on a bot to mid-dungeon", -- [1]
+			"Merkyah-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3370, -- [11]
+			"Player-9-09C29B10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Merkyah|r",
+			[51] = 1549698006,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"never seen it before or heard of people doing that.. but thats what it looked like", -- [1]
+			"Merkyah-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3371, -- [11]
+			"Player-9-09C29B10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Merkyah|r",
+			[51] = 1549698022,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"yea i thought so too", -- [1]
+			"Hyperr-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3372, -- [11]
+			"Player-9-0AFE3075", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Hyperr|r",
+			[51] = 1549698035,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"after you left party he said \"no so nkeu7/\"", -- [1]
+			"Merkyah-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3374, -- [11]
+			"Player-9-09C29B10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Merkyah|r",
+			[51] = 1549698051,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"yea lock buddy told me ", -- [1]
+			"Hyperr-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3376, -- [11]
+			"Player-9-0AFE3075", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Hyperr|r",
+			[51] = 1549698062,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"o7", -- [1]
+			"Haxpaxy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3377, -- [11]
+			"Player-9-0B2D7AFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aHaxpaxy|r",
+			[51] = 1549698080,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }
