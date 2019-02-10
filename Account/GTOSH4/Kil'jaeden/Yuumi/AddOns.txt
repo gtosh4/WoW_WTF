@@ -12,3 +12,6 @@ bigdumblootcouncil: disabled
 BigWigs_BattleOfDazaralor: enabled
 LittleWigs: enabled
 AzeriteForge: disabled
+BigWigs_Azeroth: enabled
+BigWigs_Cataclysm: enabled
+BigWigs_MistsOfPandaria: enabled

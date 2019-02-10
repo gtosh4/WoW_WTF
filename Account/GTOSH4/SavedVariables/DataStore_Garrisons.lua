@@ -9,82 +9,86 @@ DataStore_GarrisonsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549697406,
-				["ActiveWarCampaignMissions"] = {
-					1921, -- [1]
-				},
+				["lastUpdate"] = 1549781708,
 				["Followers"] = {
 					[998] = {
-						["levelXP"] = 8000,
-						["xp"] = 0,
 						["link"] = "|cffffffff|Hgarrfollower:998:1:110:850:416:0:0:0:0:0:0:0:336|h[Brewer Almai]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 8000,
 					},
 					[603] = {
-						["levelXP"] = 1750,
+						["isInactive"] = true,
 						["link"] = "|cffffffff|Hgarrfollower:603:1:106:760:417:0:0:0:0:0:0:0:334|h[Taran Zhu]|h|r",
 						["xp"] = 520,
-						["isInactive"] = true,
+						["levelXP"] = 1750,
 					},
 					[605] = {
-						["levelXP"] = 100000,
-						["xp"] = 64744,
 						["link"] = "|cff0070dd|Hgarrfollower:605:3:110:860:412:420:0:0:682:0:0:0:335|h[Angus Ironfist]|h|r",
+						["xp"] = 64744,
+						["levelXP"] = 100000,
 					},
 					[607] = {
-						["levelXP"] = 8000,
+						["isInactive"] = true,
 						["link"] = "|cffffffff|Hgarrfollower:607:1:110:760:416:0:0:0:0:0:0:0:335|h[Aegira]|h|r",
 						["xp"] = 0,
-						["isInactive"] = true,
+						["levelXP"] = 8000,
 					},
 					[596] = {
-						["levelXP"] = 100000,
-						["xp"] = 24024,
 						["link"] = "|cff0070dd|Hgarrfollower:596:3:110:760:417:773:0:0:414:0:0:0:335|h[Chen Stormstout]|h|r",
+						["xp"] = 24024,
+						["levelXP"] = 100000,
 					},
 					[602] = {
-						["levelXP"] = 100000,
-						["xp"] = 56980,
 						["link"] = "|cff0070dd|Hgarrfollower:602:3:110:760:416:418:0:0:684:0:0:0:334|h[The Monkey King]|h|r",
+						["xp"] = 56980,
+						["levelXP"] = 100000,
 					},
 					[604] = {
-						["levelXP"] = 100000,
-						["xp"] = 28102,
 						["link"] = "|cff0070dd|Hgarrfollower:604:3:110:760:412:408:0:0:685:0:0:0:334|h[Sylara Steelsong]|h|r",
+						["xp"] = 28102,
+						["levelXP"] = 100000,
 					},
 					[606] = {
-						["levelXP"] = 100000,
-						["xp"] = 41226,
 						["link"] = "|cff0070dd|Hgarrfollower:606:3:110:760:417:423:0:0:682:0:0:0:336|h[Hiro]|h|r",
+						["xp"] = 41226,
+						["levelXP"] = 100000,
 					},
 					[588] = {
-						["levelXP"] = 2000,
+						["isInactive"] = true,
 						["link"] = "|cffffffff|Hgarrfollower:588:1:107:760:412:0:0:0:0:0:0:0:336|h[Li Li Stormstout]|h|r",
 						["xp"] = 680,
-						["isInactive"] = true,
+						["levelXP"] = 2000,
 					},
 				},
 				["AvailableWarCampaignMissions"] = {
-					1923, -- [1]
+					2087, -- [1]
+				},
+				["MissionsInfo"] = {
+					[1952] = {
+						["successChance"] = 190,
+						["followers"] = {
+							1065, -- [1]
+							1068, -- [2]
+							1070, -- [3]
+						},
+					},
 				},
 				["AvailableOrderHallMissions"] = {
-					1045, -- [1]
-					1060, -- [2]
-					1178, -- [3]
-					1682, -- [4]
-					1328, -- [5]
+					1328, -- [1]
+					1682, -- [2]
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["numRareFollowers"] = 3,
 				["avgArmoriLevel"] = 610.588235294118,
-				["lastUpdate"] = 1549697454,
+				["lastUpdate"] = 1549775028,
 				["numFollowersAtiLevel630"] = 5,
 				["AvailableWarCampaignMissions"] = {
-					1879, -- [1]
-					1931, -- [2]
+					1933, -- [1]
+					1921, -- [2]
 					1922, -- [3]
-					2082, -- [4]
-					1937, -- [5]
+					1937, -- [4]
+					1938, -- [5]
 				},
 				["AbilityCounters"] = {
 					1, -- [1]
@@ -104,24 +108,24 @@ DataStore_GarrisonsDB = {
 					187, -- [3]
 				},
 				["AvailableMissions"] = {
-					499, -- [1]
-					182, -- [2]
+					118, -- [1]
+					159, -- [2]
 					168, -- [3]
-					175, -- [4]
-					170, -- [5]
-					245, -- [6]
-					330, -- [7]
-					264, -- [8]
-					300, -- [9]
-					118, -- [10]
-					263, -- [11]
-					380, -- [12]
-					271, -- [13]
-					274, -- [14]
-					298, -- [15]
-					312, -- [16]
-					373, -- [17]
-					159, -- [18]
+					170, -- [4]
+					175, -- [5]
+					182, -- [6]
+					245, -- [7]
+					263, -- [8]
+					264, -- [9]
+					271, -- [10]
+					274, -- [11]
+					298, -- [12]
+					300, -- [13]
+					312, -- [14]
+					330, -- [15]
+					380, -- [16]
+					201, -- [17]
+					373, -- [18]
 				},
 				["MissionsInfo"] = {
 					[177] = {
@@ -149,9 +153,9 @@ DataStore_GarrisonsDB = {
 					[59] = 1,
 					[232] = 1,
 					[8] = 3,
-					[221] = 1,
-					[39] = 1,
 					[9] = 1,
+					[39] = 1,
+					[221] = 1,
 					[56] = 1,
 					[36] = 1,
 					[37] = 2,
@@ -165,9 +169,9 @@ DataStore_GarrisonsDB = {
 					[45] = 1,
 					[46] = 1,
 					[4] = 1,
-					[52] = 1,
-					[49] = 2,
 					[231] = 2,
+					[49] = 2,
+					[52] = 1,
 					[69] = 3,
 					[71] = 1,
 					[53] = 1,
@@ -178,18 +182,18 @@ DataStore_GarrisonsDB = {
 					[60] = 1,
 				},
 				["AvailableOrderHallMissions"] = {
-					1680, -- [1]
-					1710, -- [2]
-					1815, -- [3]
-					1377, -- [4]
+					1377, -- [1]
+					1680, -- [2]
+					1710, -- [3]
+					1815, -- [4]
 					1796, -- [5]
 					1751, -- [6]
-					1767, -- [7]
-					1761, -- [8]
-					1768, -- [9]
-					1765, -- [10]
-					1777, -- [11]
-					1774, -- [12]
+					1816, -- [7]
+					1766, -- [8]
+					1761, -- [9]
+					1769, -- [10]
+					1776, -- [11]
+					1779, -- [12]
 				},
 				["numFollowers"] = 17,
 				["Abilities"] = {
@@ -209,13 +213,13 @@ DataStore_GarrisonsDB = {
 					[172] = 1,
 					[157] = 1,
 					[160] = 2,
-					[165] = 1,
+					[100] = 1,
 					[102] = 3,
 					[104] = 1,
 					[106] = 1,
 					[5] = 1,
 					[148] = 2,
-					[100] = 1,
+					[165] = 1,
 					[101] = 1,
 				},
 				["Followers"] = {
@@ -555,8 +559,8 @@ DataStore_GarrisonsDB = {
 					[256] = 1,
 					[59] = 2,
 					[60] = 1,
-					[41] = 1,
 					[55] = 1,
+					[41] = 1,
 					[76] = 2,
 					[231] = 1,
 				},
@@ -575,14 +579,14 @@ DataStore_GarrisonsDB = {
 				},
 				["numFollowers"] = 8,
 				["Abilities"] = {
-					[137] = 1,
 					[144] = 1,
+					[137] = 1,
 					[148] = 1,
-					[131] = 1,
+					[159] = 1,
 					[100] = 1,
 					[102] = 1,
 					[5] = 1,
-					[159] = 1,
+					[131] = 1,
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -600,84 +604,24 @@ DataStore_GarrisonsDB = {
 		},
 		["Reference"] = {
 			["MissionInfos"] = {
-				[1777] = {
-					["durationSeconds"] = 23040,
+				[1758] = {
+					["durationSeconds"] = 25200,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
+					["cost"] = 600,
 					["rewards"] = {
 						{
-							["itemID"] = 139811,
-							["quantity"] = 1,
+							["itemID"] = 146940,
+							["quantity"] = 2,
 						}, -- [1]
 					},
 					["level"] = 110,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 900,
-				},
-				[1682] = {
-					["durationSeconds"] = 57600,
-					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
-					["cost"] = 500,
-					["iLevel"] = 900,
-					["rewards"] = {
-						{
-							["itemID"] = 147505,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 110,
-				},
-				[365] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Training",
-					["cost"] = 25,
-					["level"] = 90,
-					["rewards"] = {
-						{
-							["itemID"] = 118354,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Training",
-					["iLevel"] = 0,
-				},
-				[373] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Combat",
-					["cost"] = 20,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 1200,
-							["tooltip"] = "+1,200 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1,200 XP",
-						}, -- [1]
-					},
-					["level"] = 95,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[127] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["iLevel"] = 0,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 120301,
-							["quantity"] = 1,
-						}, -- [1]
-					},
+					["iLevel"] = 950,
 				},
 				[1762] = {
 					["durationSeconds"] = 64800,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 200,
-					["level"] = 110,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
@@ -686,169 +630,89 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
+					["level"] = 110,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 950,
 				},
-				[1778] = {
-					["durationSeconds"] = 86400,
+				[1766] = {
+					["durationSeconds"] = 138240,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["level"] = 110,
+					["cost"] = 200,
+					["iLevel"] = 950,
 					["rewards"] = {
 						{
-							["itemID"] = 152932,
+							["itemID"] = 152958,
 							["quantity"] = 1,
 						}, -- [1]
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 900,
+					["level"] = 110,
 				},
-				[266] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["iLevel"] = 0,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 120302,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[274] = {
+				[1952] = {
 					["durationSeconds"] = 28800,
-					["type"] = "Patrol",
-					["cost"] = 10,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 10000,
-							["tooltip"] = "+10,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+10,000 XP",
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["iLevel"] = 0,
-				},
-				[144] = {
-					["durationSeconds"] = 3600,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["level"] = 91,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 200,
-							["tooltip"] = "+200 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+200 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[146] = {
-					["durationSeconds"] = 3600,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["level"] = 91,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 200,
-							["tooltip"] = "+200 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+200 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[1922] = {
-					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
+					["cost"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 100,
-							["icon"] = 2032597,
-							["currencyID"] = 1595,
+							["quantity"] = 358,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
 					["typeAtlas"] = "BfAMission-Icon-Normal",
 					["iLevel"] = 800,
 				},
-				[298] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Combat",
-					["cost"] = 20,
+				[1774] = {
+					["durationSeconds"] = 20160,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["level"] = 110,
 					["rewards"] = {
 						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 15000,
-							["tooltip"] = "+15,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+15,000 XP",
+							["itemID"] = 139792,
+							["quantity"] = 1,
 						}, -- [1]
 					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 900,
 				},
-				[1796] = {
-					["durationSeconds"] = 23040,
+				[1778] = {
+					["durationSeconds"] = 86400,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 300,
+					["cost"] = 100,
 					["rewards"] = {
 						{
-							["itemID"] = 151568,
-							["quantity"] = 2,
+							["itemID"] = 152932,
+							["quantity"] = 1,
 						}, -- [1]
 					},
 					["level"] = 110,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
+					["iLevel"] = 900,
 				},
-				[330] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Exploration",
-					["cost"] = 10,
+				[2083] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Stealth",
+					["cost"] = 40,
 					["rewards"] = {
 						{
-							["itemID"] = 118193,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 90,
-					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
-					["iLevel"] = 0,
-				},
-				[664] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["iLevel"] = 0,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["icon"] = 1131085,
-							["quantity"] = 25,
 							["title"] = "Currency Reward",
-							["currencyID"] = 1101,
+							["quantity"] = 350,
+							["icon"] = 2032597,
+							["currencyID"] = 1595,
 						}, -- [1]
 					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["iLevel"] = 800,
 				},
-				[170] = {
-					["durationSeconds"] = 7200,
+				[182] = {
+					["durationSeconds"] = 5400,
 					["type"] = "Combat",
 					["cost"] = 10,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -858,59 +722,93 @@ DataStore_GarrisonsDB = {
 							["name"] = "+1,000 XP",
 						}, -- [1]
 					},
-					["level"] = 99,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["level"] = 99,
 				},
-				[1765] = {
-					["durationSeconds"] = 51840,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
+				[298] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Combat",
+					["cost"] = 20,
+					["iLevel"] = 615,
 					["rewards"] = {
 						{
-							["itemID"] = 146937,
-							["quantity"] = 2,
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 15000,
+							["tooltip"] = "+15,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+15,000 XP",
 						}, -- [1]
 					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
 				},
-				[1797] = {
-					["durationSeconds"] = 138240,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["iLevel"] = 950,
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["rewards"] = {
-						{
-							["itemID"] = 151568,
-							["quantity"] = 2,
-						}, -- [1]
-					},
-				},
-				[1178] = {
+				[1931] = {
 					["durationSeconds"] = 14400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 150,
-					["iLevel"] = 760,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
 					["rewards"] = {
 						{
-							["icon"] = 236521,
-							["quantity"] = 13,
 							["title"] = "Currency Reward",
-							["currencyID"] = 1533,
+							["quantity"] = 265,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 102,
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[300] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Combat",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 8000,
+							["tooltip"] = "+8,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+8,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
+				},
+				[1923] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 75,
+							["icon"] = 2032593,
+							["currencyID"] = 1600,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1680] = {
+					["durationSeconds"] = 46080,
+					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
+					["cost"] = 500,
+					["iLevel"] = 900,
+					["rewards"] = {
+						{
+							["itemID"] = 147499,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 110,
 				},
 				[366] = {
 					["durationSeconds"] = 36000,
 					["type"] = "Combat",
 					["cost"] = 20,
-					["level"] = 90,
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -920,42 +818,584 @@ DataStore_GarrisonsDB = {
 							["name"] = "+200 XP",
 						}, -- [1]
 					},
+					["level"] = 90,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
+				},
+				[367] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Combat",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 400,
+							["tooltip"] = "+400 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+400 XP",
+						}, -- [1]
+					},
+					["level"] = 91,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[1377] = {
+					["durationSeconds"] = 23040,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["iLevel"] = 830,
+					["rewards"] = {
+						{
+							["itemID"] = 116415,
+							["quantity"] = 5,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[1879] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Money Reward",
+							["quantity"] = 1428100,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[187] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Combat",
+					["cost"] = 0,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["icon"] = 1005027,
+							["quantity"] = 34,
+							["title"] = "Currency Reward",
+							["currencyID"] = 824,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 92,
+				},
+				[1767] = {
+					["durationSeconds"] = 34560,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 2400,
+					["level"] = 110,
+					["rewards"] = {
+						{
+							["itemID"] = 124124,
+							["quantity"] = 4,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[1751] = {
+					["durationSeconds"] = 34560,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["icon"] = 236521,
+							["quantity"] = 7,
+							["title"] = "Currency Reward",
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[373] = {
+					["durationSeconds"] = 36000,
+					["type"] = "Combat",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 1200,
+							["tooltip"] = "+1,200 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1,200 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 95,
+				},
+				[1779] = {
+					["durationSeconds"] = 40320,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 900,
+					["rewards"] = {
+						{
+							["itemID"] = 152931,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[221] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Patrol",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 300,
+							["tooltip"] = "+300 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+300 XP",
+						}, -- [1]
+					},
+					["level"] = 91,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[365] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Training",
+					["cost"] = 25,
+					["rewards"] = {
+						{
+							["itemID"] = 118354,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 90,
+					["typeAtlas"] = "GarrMission_MissionIcon-Training",
+					["iLevel"] = 0,
+				},
+				[159] = {
+					["durationSeconds"] = 5400,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 700,
+							["tooltip"] = "+700 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+700 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 96,
 				},
 				[263] = {
 					["durationSeconds"] = 28800,
 					["type"] = "Combat",
 					["cost"] = 15,
+					["iLevel"] = 615,
 					["rewards"] = {
 						{
 							["itemID"] = 114081,
 							["quantity"] = 1,
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
 				},
-				[200] = {
-					["durationSeconds"] = 5400,
+				[380] = {
+					["durationSeconds"] = 14400,
 					["type"] = "Combat",
-					["cost"] = 20,
+					["cost"] = 15,
 					["iLevel"] = 0,
-					["level"] = 95,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["rewards"] = {
 						{
-							["itemID"] = 114094,
+							["itemID"] = 120301,
 							["quantity"] = 1,
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
+				},
+				[1815] = {
+					["durationSeconds"] = 23040,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 600,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["icon"] = 1064188,
+							["quantity"] = 51,
+							["title"] = "Currency Reward",
+							["currencyID"] = 1508,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[271] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Patrol",
+					["cost"] = 15,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 10000,
+							["tooltip"] = "+10,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+10,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["level"] = 100,
+				},
+				[1760] = {
+					["durationSeconds"] = 50400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 500,
+					["rewards"] = {
+						{
+							["itemID"] = 140587,
+							["quantity"] = 4,
+						}, -- [1]
+					},
+					["level"] = 110,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 950,
+				},
+				[1776] = {
+					["durationSeconds"] = 69120,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 900,
+					["rewards"] = {
+						{
+							["itemID"] = 152935,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[1816] = {
+					["durationSeconds"] = 69120,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 400,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["icon"] = 1064188,
+							["quantity"] = 50,
+							["title"] = "Currency Reward",
+							["currencyID"] = 1508,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[133] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Combat",
+					["cost"] = 0,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["icon"] = 1005027,
+							["quantity"] = 175,
+							["title"] = "Currency Reward",
+							["currencyID"] = 824,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
+				},
+				[228] = {
+					["durationSeconds"] = 2700,
+					["type"] = "Patrol",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 300,
+							["tooltip"] = "+300 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+300 XP",
+						}, -- [1]
+					},
+					["level"] = 91,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[264] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Combat",
+					["cost"] = 15,
+					["iLevel"] = 615,
+					["rewards"] = {
+						{
+							["itemID"] = 114081,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
+				},
+				[2087] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 80,
+					["rewards"] = {
+						{
+							["itemID"] = 163036,
+							["quantity"] = 17,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1682] = {
+					["durationSeconds"] = 57600,
+					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
+					["cost"] = 500,
+					["rewards"] = {
+						{
+							["itemID"] = 147505,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 110,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 900,
+				},
+				[330] = {
+					["durationSeconds"] = 21600,
+					["type"] = "Exploration",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 118193,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Exploration",
+					["level"] = 90,
+				},
+				[1796] = {
+					["durationSeconds"] = 23040,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 300,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["itemID"] = 151568,
+							["quantity"] = 2,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[168] = {
+					["durationSeconds"] = 7200,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 1000,
+							["tooltip"] = "+1,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 99,
+				},
+				[1060] = {
+					["durationSeconds"] = 43200,
+					["type"] = "7.0 Class Hall - Treasure Missions",
+					["cost"] = 150,
+					["rewards"] = {
+						{
+							["itemID"] = 147348,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 109,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[1178] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 150,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 13,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["level"] = 102,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[170] = {
+					["durationSeconds"] = 7200,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 1000,
+							["tooltip"] = "+1,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+1,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 99,
+				},
+				[274] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Patrol",
+					["cost"] = 10,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 10000,
+							["tooltip"] = "+10,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+10,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["level"] = 100,
+				},
+				[1761] = {
+					["durationSeconds"] = 34560,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 200,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["icon"] = 236521,
+							["quantity"] = 21,
+							["title"] = "Currency Reward",
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[201] = {
+					["durationSeconds"] = 6750,
+					["type"] = "Combat",
+					["cost"] = 20,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 114099,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 96,
+				},
+				[1328] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 3000,
+							["tooltip"] = "+3,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+3,000 XP",
+						}, -- [1]
+					},
+					["level"] = 110,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[1710] = {
+					["durationSeconds"] = 46080,
+					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
+					["cost"] = 1000,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["itemID"] = 152326,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 110,
+				},
+				[118] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Combat",
+					["cost"] = 15,
+					["iLevel"] = 0,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 8000,
+							["tooltip"] = "+8,000 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+8,000 XP",
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
+				},
+				[1769] = {
+					["durationSeconds"] = 69120,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 100,
+					["iLevel"] = 950,
+					["rewards"] = {
+						{
+							["itemID"] = 140587,
+							["quantity"] = 4,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 110,
+				},
+				[139] = {
+					["durationSeconds"] = 1800,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 100,
+							["tooltip"] = "+100 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+100 XP",
+						}, -- [1]
+					},
+					["level"] = 90,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
 				},
 				[206] = {
 					["durationSeconds"] = 5400,
 					["type"] = "Combat",
 					["cost"] = 15,
-					["level"] = 91,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
@@ -971,169 +1411,30 @@ DataStore_GarrisonsDB = {
 							["name"] = "+300 XP",
 						}, -- [2]
 					},
+					["level"] = 91,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
-				[1767] = {
-					["durationSeconds"] = 34560,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 2400,
-					["rewards"] = {
-						{
-							["itemID"] = 124124,
-							["quantity"] = 4,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[1815] = {
-					["durationSeconds"] = 23040,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 600,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 51,
-							["icon"] = 1064188,
-							["currencyID"] = 1508,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[303] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Combat",
-					["cost"] = 20,
-					["iLevel"] = 630,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 120302,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[1879] = {
-					["durationSeconds"] = 43200,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Money Reward",
-							["quantity"] = 1246300,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1768] = {
-					["durationSeconds"] = 51840,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["rewards"] = {
-						{
-							["itemID"] = 146937,
-							["quantity"] = 2,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[228] = {
+				[175] = {
 					["durationSeconds"] = 2700,
-					["type"] = "Patrol",
-					["cost"] = 10,
-					["level"] = 91,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 300,
-							["tooltip"] = "+300 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+300 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["type"] = "Combat",
+					["cost"] = 0,
 					["iLevel"] = 0,
-				},
-				[1816] = {
-					["durationSeconds"] = 86400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["level"] = 110,
 					["rewards"] = {
 						{
+							["icon"] = 1005027,
+							["quantity"] = 34,
 							["title"] = "Currency Reward",
-							["quantity"] = 55,
-							["icon"] = 1064188,
-							["currencyID"] = 1508,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[367] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Combat",
-					["cost"] = 20,
-					["level"] = 91,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 400,
-							["tooltip"] = "+400 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+400 XP",
+							["currencyID"] = 824,
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
+					["level"] = 92,
 				},
-				[264] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["rewards"] = {
-						{
-							["itemID"] = 114081,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 615,
-				},
-				[139] = {
-					["durationSeconds"] = 1800,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["level"] = 90,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 100,
-							["tooltip"] = "+100 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+100 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[145] = {
+				[144] = {
 					["durationSeconds"] = 3600,
 					["type"] = "Combat",
 					["cost"] = 10,
-					["level"] = 91,
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -1143,102 +1444,40 @@ DataStore_GarrisonsDB = {
 							["name"] = "+200 XP",
 						}, -- [1]
 					},
+					["level"] = 91,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
-				[300] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Combat",
-					["cost"] = 20,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 8000,
-							["tooltip"] = "+8,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+8,000 XP",
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[312] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Combat",
-					["cost"] = 0,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 300,
-							["icon"] = 1005027,
-							["currencyID"] = 824,
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 630,
-				},
-				[1756] = {
-					["durationSeconds"] = 46080,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 300,
-					["iLevel"] = 950,
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["rewards"] = {
-						{
-							["itemID"] = 152959,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[1931] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 249,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1328] = {
+				[1045] = {
 					["durationSeconds"] = 14400,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 100,
-					["iLevel"] = 760,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 3000,
-							["tooltip"] = "+3,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+3,000 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 110,
-				},
-				[175] = {
-					["durationSeconds"] = 2700,
-					["type"] = "Combat",
-					["cost"] = 0,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 34,
-							["icon"] = 1005027,
-							["currencyID"] = 824,
+							["quantity"] = 7,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
 						}, -- [1]
 					},
-					["level"] = 92,
+					["level"] = 104,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[145] = {
+					["durationSeconds"] = 3600,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 200,
+							["tooltip"] = "+200 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+200 XP",
+						}, -- [1]
+					},
+					["level"] = 91,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
@@ -1246,168 +1485,56 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 2700,
 					["type"] = "Combat",
 					["cost"] = 0,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 38,
 							["icon"] = 1005027,
+							["quantity"] = 38,
+							["title"] = "Currency Reward",
 							["currencyID"] = 824,
 						}, -- [1]
 					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 94,
+				},
+				[146] = {
+					["durationSeconds"] = 3600,
+					["type"] = "Combat",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "Bonus Follower XP",
+							["followerXP"] = 200,
+							["tooltip"] = "+200 XP",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+200 XP",
+						}, -- [1]
+					},
+					["level"] = 91,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
-				[1710] = {
-					["durationSeconds"] = 46080,
-					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
-					["cost"] = 1000,
-					["rewards"] = {
-						{
-							["itemID"] = 152326,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[187] = {
-					["durationSeconds"] = 2700,
+				[312] = {
+					["durationSeconds"] = 21600,
 					["type"] = "Combat",
 					["cost"] = 0,
+					["iLevel"] = 630,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 34,
 							["icon"] = 1005027,
+							["quantity"] = 300,
+							["title"] = "Currency Reward",
 							["currencyID"] = 824,
 						}, -- [1]
 					},
-					["level"] = 92,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[1937] = {
-					["durationSeconds"] = 64800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 100,
-					["rewards"] = {
-						{
-							["itemID"] = 160053,
-							["quantity"] = 2,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[380] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["rewards"] = {
-						{
-							["itemID"] = 120301,
-							["quantity"] = 1,
-						}, -- [1]
-					},
 					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[1774] = {
-					["durationSeconds"] = 20160,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["rewards"] = {
-						{
-							["itemID"] = 139792,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 900,
-				},
-				[2082] = {
-					["durationSeconds"] = 43200,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 200,
-							["icon"] = 2032601,
-							["currencyID"] = 1597,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1758] = {
-					["durationSeconds"] = 25200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 600,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["itemID"] = 146940,
-							["quantity"] = 2,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[1060] = {
-					["durationSeconds"] = 43200,
-					["type"] = "7.0 Class Hall - Treasure Missions",
-					["cost"] = 150,
-					["iLevel"] = 760,
-					["rewards"] = {
-						{
-							["itemID"] = 147348,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 109,
-				},
-				[499] = {
-					["durationSeconds"] = 36000,
-					["type"] = "Combat",
-					["cost"] = 25,
-					["rewards"] = {
-						{
-							["itemID"] = 122583,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[1751] = {
-					["durationSeconds"] = 34560,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 300,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 10,
-							["icon"] = 236521,
-							["currencyID"] = 1533,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
 				},
 				[245] = {
 					["durationSeconds"] = 3600,
 					["type"] = "Patrol",
 					["cost"] = 10,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -1417,287 +1544,8 @@ DataStore_GarrisonsDB = {
 							["name"] = "+1,500 XP",
 						}, -- [1]
 					},
-					["level"] = 99,
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["iLevel"] = 0,
-				},
-				[1505] = {
-					["durationSeconds"] = 46080,
-					["type"] = "7.0 Class Hall - Special Reward Missions",
-					["cost"] = 200,
-					["iLevel"] = 850,
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
-					["rewards"] = {
-						{
-							["itemID"] = 143328,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[1775] = {
-					["durationSeconds"] = 115200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 900,
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["rewards"] = {
-						{
-							["itemID"] = 152927,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[1680] = {
-					["durationSeconds"] = 46080,
-					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
-					["cost"] = 500,
-					["rewards"] = {
-						{
-							["itemID"] = 147499,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 900,
-				},
-				[1045] = {
-					["durationSeconds"] = 14400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 760,
-					["rewards"] = {
-						{
-							["icon"] = 236521,
-							["quantity"] = 7,
-							["title"] = "Currency Reward",
-							["currencyID"] = 1533,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 104,
-				},
-				[1377] = {
-					["durationSeconds"] = 23040,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 300,
-					["rewards"] = {
-						{
-							["itemID"] = 116415,
-							["quantity"] = 5,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 830,
-				},
-				[182] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 1000,
-							["tooltip"] = "+1,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1,000 XP",
-						}, -- [1]
-					},
 					["level"] = 99,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[309] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Combat",
-					["cost"] = 20,
-					["iLevel"] = 630,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 114131,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[221] = {
-					["durationSeconds"] = 2700,
-					["type"] = "Patrol",
-					["cost"] = 10,
-					["level"] = 91,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 300,
-							["tooltip"] = "+300 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+300 XP",
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["iLevel"] = 0,
-				},
-				[1760] = {
-					["durationSeconds"] = 50400,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 500,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["itemID"] = 140587,
-							["quantity"] = 4,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[1776] = {
-					["durationSeconds"] = 34560,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 100,
-					["iLevel"] = 900,
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["rewards"] = {
-						{
-							["itemID"] = 152442,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[126] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["iLevel"] = 0,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["itemID"] = 120302,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-				},
-				[271] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Patrol",
-					["cost"] = 15,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 10000,
-							["tooltip"] = "+10,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+10,000 XP",
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["iLevel"] = 0,
-				},
-				[159] = {
-					["durationSeconds"] = 5400,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 700,
-							["tooltip"] = "+700 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+700 XP",
-						}, -- [1]
-					},
-					["level"] = 96,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[133] = {
-					["durationSeconds"] = 21600,
-					["type"] = "Combat",
-					["cost"] = 0,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 175,
-							["icon"] = 1005027,
-							["currencyID"] = 824,
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[118] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 8000,
-							["tooltip"] = "+8,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+8,000 XP",
-						}, -- [1]
-					},
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
-				[269] = {
-					["durationSeconds"] = 14400,
-					["type"] = "Combat",
-					["cost"] = 0,
-					["iLevel"] = 615,
-					["level"] = 100,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["rewards"] = {
-						{
-							["icon"] = 1005027,
-							["quantity"] = 225,
-							["title"] = "Currency Reward",
-							["currencyID"] = 824,
-						}, -- [1]
-					},
-				},
-				[1761] = {
-					["durationSeconds"] = 34560,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 22,
-							["icon"] = 236521,
-							["currencyID"] = 1533,
-						}, -- [1]
-					},
-					["level"] = 110,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 950,
-				},
-				[168] = {
-					["durationSeconds"] = 7200,
-					["type"] = "Combat",
-					["cost"] = 10,
-					["rewards"] = {
-						{
-							["title"] = "Bonus Follower XP",
-							["followerXP"] = 1000,
-							["tooltip"] = "+1,000 XP",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+1,000 XP",
-						}, -- [1]
-					},
-					["level"] = 99,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
 				},
 			},
 			["FollowerNamesToID"] = {
@@ -1745,16 +1593,16 @@ DataStore_GarrisonsDB = {
 				["Maximillian of Northshire"] = 1001,
 				["Lantresor of the Blade"] = 157,
 				["Bruto"] = 176,
-				["Fen Tao"] = 467,
 				["Justicar Julia Celeste"] = 755,
 				["Squad of Squires"] = 674,
-				["Dagg"] = 32,
-				["Zen'tika"] = 263,
-				["Vivianne"] = 216,
-				["Arator the Redeemer"] = 758,
 				["Chen Stormstout"] = 596,
-				["Tormmok"] = 193,
+				["Dagg"] = 32,
+				["Vivianne"] = 216,
+				["Zen'tika"] = 263,
+				["Arator the Redeemer"] = 758,
 				["Lothraxion"] = 759,
+				["Tormmok"] = 193,
+				["Fen Tao"] = 467,
 				["Angus Ironfist"] = 605,
 				["Karg Bloodfury"] = 459,
 				["Benjamin Gibb"] = 204,

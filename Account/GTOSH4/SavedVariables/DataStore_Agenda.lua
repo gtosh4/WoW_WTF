@@ -15,16 +15,20 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365316315"] = "289335|1549694261|0|1",
-					["Battle of Dazar'alor Mythic|365417616"] = "289335|1549694261|0|1",
+					["Siege of Orgrimmar Mythic|365465118"] = "202839|1549780760|0|1",
+					["Battle of Dazar'alor Heroic|365316315"] = "202839|1549780760|0|1",
+					["Well of Eternity Heroic|365465587"] = "30039|1549780760|0|0",
+					["Battle of Dazar'alor Mythic|365417616"] = "202839|1549780760|0|1",
+					["Firelands 10 Player (Heroic)|365463614"] = "202839|1549780760|0|1",
 				},
-				["lastUpdate"] = 1549697405,
+				["lastUpdate"] = 1549783713,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365241153"] = "286146|1549697451|0|1",
+					["Battle of Dazar'alor Mythic|365417616"] = "208569|1549775029|0|1",
+					["Battle of Dazar'alor Heroic|365241153"] = "208569|1549775029|0|1",
 				},
-				["lastUpdate"] = 1549698620,
+				["lastUpdate"] = 1549775028,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {

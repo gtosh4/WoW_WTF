@@ -9,8 +9,8 @@ DataStore_AuctionsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549679543,
-				["lastVisitDate"] = "2019/02/08 21:32",
+				["lastUpdate"] = 1549765900,
+				["lastVisitDate"] = "2019/02/09 21:31",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1549678868,
