@@ -29,7 +29,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -47,7 +47,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
@@ -56,7 +56,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -81,27 +81,27 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["BigWigsAnchor_width"] = 200.037536621094,
-					["BigWigsAnchor_x"] = 697.609563950515,
-					["BigWigsEmphasizeAnchor_height"] = 15.9999761581421,
-					["growup"] = false,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 15.9999761581421,
-					["emphasizeMove"] = false,
 					["visibleBarLimit"] = 15,
+					["BigWigsAnchor_width"] = 200.037536621094,
 					["BigWigsAnchor_y"] = 297.067815608047,
+					["BigWigsAnchor_x"] = 697.609563950515,
 					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins Half-Bar",
+					["BigWigsEmphasizeAnchor_height"] = 15.9999761581421,
+					["growup"] = false,
 					["BigWigsEmphasizeAnchor_width"] = 200.037536621094,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 15.9999761581421,
+					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
 					["outline"] = "OUTLINE",
 					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
-					["fontSizeEmph"] = 11,
+					["emphasizeMove"] = false,
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -110,29 +110,29 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWMessageAnchor_x"] = 866.669759724173,
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWMessageAnchor_y"] = 563.199610121541,
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["width"] = 140.000122070313,
-					["posy"] = 566.398108014917,
 					["height"] = 120.000015258789,
+					["posy"] = 566.398108014917,
 					["posx"] = 425.589237946373,
+					["width"] = 140.000122070313,
+				},
+			},
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWMessageAnchor_x"] = 866.669759724173,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWMessageAnchor_y"] = 563.199610121541,
 				},
 			},
 		},

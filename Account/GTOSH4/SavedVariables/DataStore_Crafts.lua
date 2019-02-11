@@ -717,7 +717,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1549780758,
+				["lastUpdate"] = 1549849405,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
@@ -733,7 +733,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1549775028,
+				["lastUpdate"] = 1549847130,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
@@ -750,7 +750,7 @@ DataStore_CraftsDB = {
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549678798,
+				["lastUpdate"] = 1549877489,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
