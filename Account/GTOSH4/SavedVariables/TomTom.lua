@@ -2,9 +2,10 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Yuumi - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -18,12 +19,19 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
+		},
+		["Yorman - Kil'jaeden"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Yuumi - Kil'jaeden"] = {
 			[629] = {
@@ -35,9 +43,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -50,10 +58,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Yorman - Kil'jaeden"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
 		},
 	},
 }

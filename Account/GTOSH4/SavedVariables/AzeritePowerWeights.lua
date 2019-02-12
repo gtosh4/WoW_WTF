@@ -5,39 +5,6 @@ AzeritePowerWeightsDB = {
 	["dbVersion"] = 2,
 	["char"] = {
 		["Kil'jaeden"] = {
-			["Tosh"] = {
-				["specScales"] = {
-					[257] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/2/Default",
-					},
-					[258] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/3/Default",
-					},
-					[256] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/1/Default",
-					},
-				},
-				["addPrimaryStatToScore"] = false,
-				["showTooltipLegend"] = true,
-				["zonePowers"] = true,
-				["pvpPowers"] = false,
-				["addILvlToScore"] = false,
-				["relativeScore"] = false,
-				["rolePowersNoOffRolePowers"] = false,
-				["importingCanUpdate"] = true,
-				["tooltipScales"] = {
-				},
-				["rolePowers"] = true,
-				["defensivePowers"] = true,
-				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
-				["showOnlyUpgrades"] = false,
-				["debug"] = false,
-				["professionPowers"] = false,
-			},
 			["Yorman"] = {
 				["specScales"] = {
 					[103] = {
@@ -72,8 +39,74 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["debug"] = false,
+			},
+			["Zaemme"] = {
+				["specScales"] = {
+					[70] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/2/3/Default",
+					},
+					[65] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/2/1/Default",
+					},
+					[66] = {
+						["scaleName"] = "Defensive",
+						["scaleID"] = "D/2/2/Defensive",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
 				["debug"] = false,
 				["professionPowers"] = false,
+			},
+			["Tosh"] = {
+				["specScales"] = {
+					[257] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/2/Default",
+					},
+					[258] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/3/Default",
+					},
+					[256] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/1/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["debug"] = false,
 			},
 			["Yuumi"] = {
 				["specScales"] = {
@@ -105,22 +138,22 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
 				["debug"] = false,
+				["professionPowers"] = false,
 			},
-			["Zaemme"] = {
+			["Toshaman"] = {
 				["specScales"] = {
-					[70] = {
+					[263] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/2/3/Default",
+						["scaleID"] = "D/7/2/Default",
 					},
-					[65] = {
+					[264] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/2/1/Default",
+						["scaleID"] = "D/7/3/Default",
 					},
-					[66] = {
-						["scaleName"] = "Defensive",
-						["scaleID"] = "D/2/2/Defensive",
+					[262] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/7/1/Default",
 					},
 				},
 				["addPrimaryStatToScore"] = false,

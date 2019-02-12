@@ -1,16 +1,16 @@
 
 BigWigs3DB = {
-	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-367] = true,
 			[-1004] = true,
 			[-557] = true,
 		},
+	},
+	["profileKeys"] = {
+		["Yuumi - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
@@ -49,10 +49,11 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					[285994] = 1032439,
+					[289401] = 1032439,
 				},
 			},
 		},
@@ -101,27 +102,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["height"] = 120.000015258789,
-					["posy"] = 566.398108014917,
-					["posx"] = 425.589237946373,
-					["width"] = 140.000122070313,
-				},
-			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
@@ -136,6 +116,27 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["height"] = 120.000015258789,
+					["posy"] = 566.398108014917,
+					["posx"] = 425.589237946373,
+					["width"] = 140.000122070313,
+				},
+			},
+		},
 		["BigWigs_Bosses_Champion of the Light Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -145,11 +146,10 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285994] = 1032439,
-					[289401] = 1032439,
+					[286988] = 1032951,
 				},
 			},
 		},
@@ -173,15 +173,15 @@ BigWigsStatsDB = {
 				["best"] = 228.07699999999,
 				["kills"] = 4,
 			},
-			["heroic"] = {
-				["kills"] = 5,
-				["wipes"] = 7,
-				["best"] = 278.724000000017,
-			},
 			["mythic"] = {
 				["kills"] = 2,
 				["wipes"] = 33,
 				["best"] = 347.773000000045,
+			},
+			["heroic"] = {
+				["kills"] = 5,
+				["wipes"] = 7,
+				["best"] = 278.724000000017,
 			},
 		},
 		[2334] = {
@@ -201,15 +201,15 @@ BigWigsStatsDB = {
 				["best"] = 394.35500000004,
 				["wipes"] = 1,
 			},
-			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 77,
-				["best"] = 530.755999999819,
-			},
 			["heroic"] = {
 				["kills"] = 5,
 				["wipes"] = 14,
 				["best"] = 375.583999999915,
+			},
+			["mythic"] = {
+				["kills"] = 1,
+				["wipes"] = 77,
+				["best"] = 530.755999999819,
 			},
 		},
 		[2335] = {
@@ -254,13 +254,13 @@ BigWigsStatsDB = {
 				["wipes"] = 3,
 				["best"] = 223.981000000029,
 			},
+			["mythic"] = {
+				["wipes"] = 27,
+			},
 			["heroic"] = {
 				["kills"] = 5,
 				["wipes"] = 29,
 				["best"] = 290.408999999985,
-			},
-			["mythic"] = {
-				["wipes"] = 27,
 			},
 		},
 		[2325] = {
@@ -269,15 +269,15 @@ BigWigsStatsDB = {
 				["best"] = 197.281000000017,
 				["wipes"] = 2,
 			},
-			["mythic"] = {
-				["kills"] = 2,
-				["wipes"] = 25,
-				["best"] = 339.929999999993,
-			},
 			["heroic"] = {
 				["kills"] = 6,
 				["wipes"] = 8,
 				["best"] = 200.074000000022,
+			},
+			["mythic"] = {
+				["kills"] = 2,
+				["wipes"] = 25,
+				["best"] = 339.929999999993,
 			},
 		},
 		[2333] = {
@@ -286,15 +286,15 @@ BigWigsStatsDB = {
 				["best"] = 116.285999999964,
 				["wipes"] = 2,
 			},
-			["heroic"] = {
-				["kills"] = 6,
-				["wipes"] = 2,
-				["best"] = 96.2770000000019,
-			},
 			["mythic"] = {
 				["kills"] = 2,
 				["wipes"] = 16,
 				["best"] = 112.614999999991,
+			},
+			["heroic"] = {
+				["kills"] = 6,
+				["wipes"] = 2,
+				["best"] = 96.2770000000019,
 			},
 		},
 	},

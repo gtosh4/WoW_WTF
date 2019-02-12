@@ -1,4 +1,4 @@
-AAP-Core: disabled
+AAP-Core: enabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled

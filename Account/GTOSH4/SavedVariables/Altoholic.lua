@@ -2,9 +2,10 @@
 AltoholicDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["global"] = {
 		["options"] = {

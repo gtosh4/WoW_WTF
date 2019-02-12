@@ -1,31 +1,31 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p nice", -- [1]
-		"/p does it have good traits?", -- [2]
-		" I shared the healing CDs sheet w/ you so you can edit it as you like", -- [3]
-		" kk", -- [4]
-		" I'll just copy mine below the images", -- [5]
-		" I've only done up to conclave so far", -- [6]
-		"/p yea", -- [7]
-		" yo", -- [8]
-		" talking wow officer shit then we gucci", -- [9]
-		" |cff71d5ff|Htalent:22316|h[Masochism]|h|r", -- [10]
-		" |cffa335ee|Hitem:165044::::::::120:256::38:4:5367:5142:1492:4786:::|h[Sinister Gladiator's Shawl]|h|r", -- [11]
-		" |cffa335ee|Hitem:164850::::::::120:256::38:4:5367:5142:1492:4786:::|h[Sinister Gladiator's Silk Sash]|h|r", -- [12]
-		"/p |cffa335ee|Hitem:160645:5943:::::::120:256::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r|cffa335ee|Hitem:165053::::::::120:256::38:5:5367:4802:5142:1492:4786:::|h[Sinister Gladiator's Band]|h|r", -- [13]
-		"/p |cffa335ee|Hitem:163306::::::::120:256::6:3:5126:1567:4783:::|h[Honorbound Artificer's Cuffs]|h|r", -- [14]
-		"/p |cffa335ee|Hitem:164785::::::::120:256::25:4:5252:5141:1497:4786:::|h[Sinister Gladiator's Silk Cuffs]|h|r", -- [15]
-		"/gladius", -- [16]
-		"/ob", -- [17]
-		"/wa", -- [18]
-		"/p |cffa335ee|Hitem:164780::::::::120:256::39:5:5368:4802:5142:1502:4786:::|h[Sinister Gladiator's Silk Treads]|h|r", -- [19]
-		"/p |cffa335ee|Hitem:159235::::::::120:256::35:3:5010:1582:4783:::|h[Deranged Alchemist's Slippers]|h|r", -- [20]
+		"/p |cffa335ee|Hitem:160645:5943:::::::120:256::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r|cffa335ee|Hitem:165053::::::::120:256::38:5:5367:4802:5142:1492:4786:::|h[Sinister Gladiator's Band]|h|r", -- [1]
+		"/p |cffa335ee|Hitem:163306::::::::120:256::6:3:5126:1567:4783:::|h[Honorbound Artificer's Cuffs]|h|r", -- [2]
+		"/p |cffa335ee|Hitem:164785::::::::120:256::25:4:5252:5141:1497:4786:::|h[Sinister Gladiator's Silk Cuffs]|h|r", -- [3]
+		"/gladius", -- [4]
+		"/ob", -- [5]
+		"/wa", -- [6]
+		"/p |cffa335ee|Hitem:164780::::::::120:256::39:5:5368:4802:5142:1502:4786:::|h[Sinister Gladiator's Silk Treads]|h|r", -- [7]
+		"/p |cffa335ee|Hitem:159235::::::::120:256::35:3:5010:1582:4783:::|h[Deranged Alchemist's Slippers]|h|r", -- [8]
+		"/ec", -- [9]
+		"/p WM right?", -- [10]
+		"/who oof", -- [11]
+		"/p I was in combat", -- [12]
+		"/p what", -- [13]
+		"/p brb", -- [14]
+		"/dn", -- [15]
+		"/tmw", -- [16]
+		"/dom", -- [17]
+		"/m", -- [18]
+		"/p mm wants it", -- [19]
+		"/p at your earliest convenience", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"yo", -- [1]
-			"|Kq23|k", -- [2]
+			"freakin' craig man", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -34,218 +34,218 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2368, -- [11]
-			false, -- [12]
-			24, -- [13]
+			440, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861640,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff0070ddSkarsnik|r",
+			[51] = 1549956798,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [1]
 		{
-			"shup", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"says something unintelligible.", -- [1]
+			"Lilstrong-Stormrage", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Lilstrong-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2369, -- [11]
-			false, -- [12]
-			24, -- [13]
+			474, -- [11]
+			"Player-60-0AF4D56C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861657,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cfff48cbaLilstrong-Stormrage|r",
+			[51] = 1549957070,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [2]
 		{
-			"doe", -- [1]
-			"|Kq23|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:398:Player-9-0B4BF6EE:1:2:11:19:4294967295:4294967295:4294967295:4294967295|h[Mercilessly Dedicated]|h|r!", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2370, -- [11]
-			false, -- [12]
-			24, -- [13]
+			478, -- [11]
+			"Player-9-0B4BF6EE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861658,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cffffffffTosh|r",
+			[51] = 1549957134,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [3]
 		{
-			"talking wow officer shit then we gucci", -- [1]
-			"|Kq23|k", -- [2]
+			"|cffa335ee|Hitem:165058::::::::120:63::39:4:5368:5142:1502:4786:::|h[Sinister Gladiator's Badge]|h|r", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2371, -- [11]
-			false, -- [12]
-			24, -- [13]
+			490, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861666,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957160,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"ur quickly", -- [1]
-			"|Kq23|k", -- [2]
+			"Interrupted |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r on Jcôn-AeriePeak", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2372, -- [11]
-			false, -- [12]
-			24, -- [13]
+			513, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861681,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957325,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [5]
 		{
-			"becoming the new wow lord", -- [1]
-			"|Kq23|k", -- [2]
+			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Zaein-Doomhammer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2373, -- [11]
-			false, -- [12]
-			24, -- [13]
+			542, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549861684,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957587,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [6]
 		{
-			"the stars aligned on this fight", -- [1]
-			"Khalitzburg-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:8936:0|h[Regrowth]|h|r on Zaein-Doomhammer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2375, -- [11]
-			"Player-9-0A35758B", -- [12]
+			543, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKhalitzburg|r",
-			[51] = 1549861706,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957613,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [7]
 		{
-			"Details!: Damage Done for Coin-Operated Crowd Pummeler (boss fight) [1:00 EF]", -- [1]
-			"Khalitzburg-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Zaein-Doomhammer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2376, -- [11]
-			"Player-9-0A35758B", -- [12]
+			544, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKhalitzburg|r",
-			[51] = 1549861708,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957642,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [8]
 		{
-			"1. Khalitzburg .. 2.13M (35.3k, 39.3%)", -- [1]
-			"Khalitzburg-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:8936:0|h[Regrowth]|h|r on Zaein-Doomhammer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2377, -- [11]
-			"Player-9-0A35758B", -- [12]
+			545, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKhalitzburg|r",
-			[51] = 1549861708,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957719,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [9]
 		{
-			"2. Êhrmantraut . 1.53M (25.4k, 28.3%)", -- [1]
-			"Khalitzburg-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:740:0|h[Tranquility]|h|r on Zaein-Doomhammer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2378, -- [11]
-			"Player-9-0A35758B", -- [12]
+			546, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKhalitzburg|r",
-			[51] = 1549861708,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957753,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [10]
 		{
-			"3. Poketrocket . 895.1K (14.8k, 16.5%)", -- [1]
-			"Khalitzburg-Kil'jaeden", -- [2]
+			"need a lock for 3s johhny wheres ur lok", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -254,547 +254,547 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2379, -- [11]
-			"Player-9-0A35758B", -- [12]
+			567, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKhalitzburg|r",
-			[51] = 1549861709,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957848,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [11]
 		{
-			"yeah", -- [1]
-			"|Kq23|k", -- [2]
+			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Cerundis-Sargeras", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2392, -- [11]
-			false, -- [12]
-			24, -- [13]
+			570, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549862359,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549957994,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [12]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13099:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Molten Cay]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Cerundis-Sargeras", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2418, -- [11]
-			"Player-9-0B192024", -- [12]
+			571, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549863012,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549958026,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [13]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13100:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Molten Cay]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r on Sistafista-Bloodscalp", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2419, -- [11]
-			"Player-9-0B192024", -- [12]
+			635, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549863012,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549958523,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [14]
 		{
-			"Interrupted |cff71d5ff|Hspell:8936:0|h[Regrowth]|h|r on Solarion-Kalecgos", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2426, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863129,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [15]
-		{
-			"Interrupted |cff71d5ff|Hspell:289022:0|h[Nourish]|h|r on Solarion-Kalecgos", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2430, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863194,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [16]
-		{
-			"Interrupted |cff71d5ff|Hspell:194153:0|h[Lunar Strike]|h|r on Ranaharr-Zul'jin", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2463, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863383,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [17]
-		{
-			"Interrupted |cff71d5ff|Hspell:209753:0|h[Cyclone]|h|r on Ranaharr-Zul'jin", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2465, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863429,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [18]
-		{
-			"Interrupted |cff71d5ff|Hspell:190984:0|h[Solar Wrath]|h|r on Ranaharr-Zul'jin", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2468, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863466,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [19]
-		{
-			"Interrupted |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r on Pseudomage-Area52", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2499, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549863776,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13396:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Havenswood]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2542, -- [11]
-			"Player-9-0B192024", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549863994,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13397:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Havenswood]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2543, -- [11]
-			"Player-9-0B192024", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549863994,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [22]
-		{
-			"|cffa335ee|Hitem:165547::::::::120:253::5:4:4799:40:1522:4786:::|h[City Crusher Sabatons]|h|r", -- [1]
-			"Dragonsbeast-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2577, -- [11]
-			"Player-9-0A08587B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Dragonsbeast|r",
-			[51] = 1549864208,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
-		{
-			"Interrupted |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r on Primelime-Kel'Thuzad", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2578, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549864235,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
-		{
-			"nice", -- [1]
-			"Seøhyun-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2584, -- [11]
-			"Player-9-04544BBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSeøhyun|r",
-			[51] = 1549864310,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
-		{
-			"Interrupted |cff71d5ff|Hspell:34914:0|h[Vampiric Touch]|h|r on Spooksmcdoot-Zul'jin", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2606, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549864393,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13111:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Verdant Wilds]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2618, -- [11]
-			"Player-9-0B192024", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549864538,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [27]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13112:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Verdant Wilds]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2619, -- [11]
-			"Player-9-0B192024", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549864538,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
-		{
-			"Interrupted |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r on Fairytalez-Barthilas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2637, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549864719,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
-		{
-			"|Htalent:22316|h[Masochism]|h", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2644, -- [11]
-			false, -- [12]
-			24, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549864762,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [30]
-		{
-			"Interrupted |cff71d5ff|Hspell:214621:0|h[Schism]|h|r on Tomathon-Blackrock", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2667, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549864863,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
-		{
 			"says something unintelligible.", -- [1]
-			"Gemetzall-Blackrock", -- [2]
+			"Sistafista-Bloodscalp", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Gemetzall-Blackrock", -- [5]
+			"Sistafista-Bloodscalp", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2668, -- [11]
-			"Player-10-0B44C909", -- [12]
+			636, -- [11]
+			"Player-119-089E37AC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gemetzall-Blackrock|r",
-			[51] = 1549864924,
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958544,
 			[50] = "CHAT_MSG_EMOTE",
+		}, -- [15]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958544,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [16]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			638, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958544,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [17]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			639, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958544,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [18]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			640, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958545,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [19]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			641, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958545,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [20]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958545,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [21]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			643, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958546,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [22]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958546,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [23]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			645, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958546,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [24]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			646, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958546,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [25]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			647, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958546,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [26]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			648, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958547,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [27]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			649, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958547,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [28]
+		{
+			"says something unintelligible.", -- [1]
+			"Sistafista-Bloodscalp", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sistafista-Bloodscalp", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			650, -- [11]
+			"Player-119-089E37AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sistafista-Bloodscalp|r",
+			[51] = 1549958547,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [29]
+		{
+			"3s", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			670, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549958629,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [30]
+		{
+			"idgaf if ur a retard", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			671, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549958634,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [31]
+		{
+			"Interrupted |cff71d5ff|Hspell:186263:0|h[Shadow Mend]|h|r on Thexdoors-Dalaran", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			678, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549958737,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [32]
 		{
-			"Interrupted |cff71d5ff|Hspell:51514:0|h[Hex]|h|r on Freebleboy-BleedingHollow", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Mistweaver MONK", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2693, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			733, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865090,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959356,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"Interrupted |cff71d5ff|Hspell:51514:0|h[Hex]|h|r on Freebleboy-BleedingHollow", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Marksmanship HUNTER", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2694, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			734, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865122,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959356,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Interrupted |cff71d5ff|Hspell:8004:0|h[Healing Surge]|h|r on Rngeezy-Maiev", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Destruction WARLOCK", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2723, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			735, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865284,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959356,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Interrupted |cff71d5ff|Hspell:203286:0|h[Greater Pyroblast]|h|r on Hihowareyou-TwistingNether", -- [1]
+			"what do we want ", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -804,7 +804,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2786, -- [11]
+			743, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -812,11 +812,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865686,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1549959367,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"Interrupted |cff71d5ff|Hspell:2948:0|h[Scorch]|h|r on Hihowareyou-TwistingNether", -- [1]
+			"rating", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -826,7 +826,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2787, -- [11]
+			744, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -834,77 +834,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865714,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1549959372,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"mm wants it", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2800, -- [11]
-			"Player-9-0006779D", -- [12]
+			746, -- [11]
+			"Player-9-0B4BF6EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549865813,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffTosh|r",
+			[51] = 1549959373,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [38]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"when do we want it", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2801, -- [11]
-			"Player-9-0006779D", -- [12]
+			748, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549865813,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549959374,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12807:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Dungeon Hero]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"soonish", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2802, -- [11]
-			"Player-9-0006779D", -- [12]
+			750, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549865813,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549959386,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"Interrupted |cff71d5ff|Hspell:214621:0|h[Schism]|h|r on Soulfuric-Zul'jin", -- [1]
+			"lock?", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -914,7 +914,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2824, -- [11]
+			751, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -922,385 +922,385 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549865914,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1549959390,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"Interrupted |cff71d5ff|Hspell:20066:0|h[Repentance]|h|r on Uzziel-Mal'Ganis", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"at your earliest convenience", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2888, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			752, -- [11]
+			"Player-9-0B4BF6EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866339,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffTosh|r",
+			[51] = 1549959391,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [42]
 		{
-			"Interrupted |cff71d5ff|Hspell:51514:0|h[Hex]|h|r on Fumbz-Sargeras", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Rlot - Monk", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2912, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			756, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866547,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959411,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"Interrupted |cff71d5ff|Hspell:19750:0|h[Flash of Light]|h|r on Devonius-Windrunner", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Fernac - Warlock", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2947, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			757, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866734,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959411,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"Interrupted |cff71d5ff|Hspell:116011:0|h[Rune of Power]|h|r on Çane-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Vasariah - Hunter", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2975, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			758, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866879,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959445,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"Interrupted |cff71d5ff|Hspell:118:0|h[Polymorph]|h|r on Çane-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fernac (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2976, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			759, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866912,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959451,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"Interrupted |cff71d5ff|Hspell:5143:0|h[Arcane Missiles]|h|r on Çane-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fernac (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2977, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			760, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549866999,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959469,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12826:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Atal'Dazar]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fernac (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2978, -- [11]
-			"Player-9-0B192024", -- [12]
+			761, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549867052,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959469,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12825:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Atal'Dazar]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Enemy Spec: Fury WARRIOR", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2979, -- [11]
-			"Player-9-0B192024", -- [12]
+			788, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549867052,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959563,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12824:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Atal'Dazar]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Enemy Spec: Restoration SHAMAN", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2980, -- [11]
-			"Player-9-0B192024", -- [12]
+			789, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549867052,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959563,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"says something unintelligible.", -- [1]
-			"Çane-Tichondrius", -- [2]
-			"Common", -- [3]
+			"Enemy Spec: Balance DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Çane-Tichondrius", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2981, -- [11]
-			"Player-11-0B0D06B7", -- [12]
+			790, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaÇane-Tichondrius|r",
-			[51] = 1549867137,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959563,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"says something unintelligible.", -- [1]
-			"Çane-Tichondrius", -- [2]
-			"Common", -- [3]
+			"Shocks - Shaman", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Çane-Tichondrius", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2982, -- [11]
-			"Player-11-0B0D06B7", -- [12]
+			803, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaÇane-Tichondrius|r",
-			[51] = 1549867183,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959615,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"Interrupted |cff71d5ff|Hspell:2061:0|h[Flash Heal]|h|r on Kemisk-MoonGuard", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Haine - Warrior", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3012, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			804, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549867356,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959615,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"Interrupted |cff71d5ff|Hspell:585:0|h[Smite]|h|r on Kemisk-MoonGuard", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Fsixfullvoic - Druid", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3013, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			805, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549867403,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959627,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Reditus-Sargeras", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Haine (Warrior)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3039, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			806, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549867532,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959636,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Reditus-Sargeras", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fsixfullvoic (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3043, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			807, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549867599,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959644,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"Interrupted |cff71d5ff|Hspell:19750:0|h[Flash of Light]|h|r on Noogz-BleedingHollow", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fsixfullvoic (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3072, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			808, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549867818,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959657,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"Interrupted |cff71d5ff|Hspell:191634:0|h[Stormkeeper]|h|r on Acdcx-Hyjal", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Fsixfullvoic (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3143, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			809, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868154,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959657,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [58]
 		{
-			"Interrupted |cff71d5ff|Hspell:8004:0|h[Healing Surge]|h|r on Acdcx-Hyjal", -- [1]
+			"relogging", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1310,7 +1310,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3144, -- [11]
+			821, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1318,605 +1318,605 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868274,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1549959681,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"Interrupted |cff71d5ff|Hspell:191634:0|h[Stormkeeper]|h|r on Acdcx-Hyjal", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Beast Mastery HUNTER", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3145, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			833, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868360,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959781,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12831:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Freehold]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Enemy Spec: Beast Mastery HUNTER", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3168, -- [11]
-			"Player-9-0B192024", -- [12]
+			839, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549868736,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959789,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12833:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Freehold]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Enemy Spec: Holy PALADIN", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3169, -- [11]
-			"Player-9-0B192024", -- [12]
+			840, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549868736,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959789,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12832:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Freehold]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"Enemy Spec: Beast Mastery HUNTER", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3170, -- [11]
-			"Player-9-0B192024", -- [12]
+			841, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549868736,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959794,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"Interrupted |cff71d5ff|Hspell:82326:0|h[Holy Light]|h|r on Yasuhiro-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Holy PALADIN", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3171, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			842, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868777,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959794,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"Interrupted |cff71d5ff|Hspell:20066:0|h[Repentance]|h|r on Duallitý-Lightbringer", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Balance DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3194, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			843, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868912,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959794,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"Interrupted |cff71d5ff|Hspell:20066:0|h[Repentance]|h|r on Duallitý-Lightbringer", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Lumnar - Hunter", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3196, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			851, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549868965,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959838,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"Interrupted |cff71d5ff|Hspell:198013:0|h[Eye Beam]|h|r on Justmagnets-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Rèquièm - Paladin", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3227, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			852, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549869122,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959838,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [67]
 		{
-			"Interrupted |cff71d5ff|Hspell:198013:0|h[Eye Beam]|h|r on Justmagnets-Tichondrius", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Nijlov - Druid", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3228, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			853, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549869153,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959849,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13056:Player-9-0B192024:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Giving a Scrap]|h|r!", -- [1]
-			"Yangy-Kil'jaeden", -- [2]
+			"LOW HEALTH: Nijlov (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yangy-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3230, -- [11]
-			"Player-9-0B192024", -- [12]
+			854, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edYangy|r",
-			[51] = 1549869162,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959861,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"Interrupted |cff71d5ff|Hspell:82326:0|h[Holy Light]|h|r on Lhyrae-Dalaran", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Nijlov (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3262, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			856, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549869372,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959872,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"Interrupted |cff71d5ff|Hspell:82326:0|h[Holy Light]|h|r on Phupatroopa-Illidan", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Nijlov (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3297, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			857, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549869657,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959872,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12561:Player-9-03CB9631:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Explore Nazmir]|h|r!", -- [1]
-			"Grimdark-Kil'jaeden", -- [2]
+			"LOW HEALTH: Rèquièm (Paladin)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Grimdark-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3330, -- [11]
-			"Player-9-03CB9631", -- [12]
+			858, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aGrimdark|r",
-			[51] = 1549869888,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959881,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [72]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12831:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Freehold]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"LOW HEALTH: Lumnar (Hunter)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3350, -- [11]
-			"Player-9-0006779D", -- [12]
+			859, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549869929,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959891,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12833:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Freehold]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"LOW HEALTH: Rèquièm (Paladin)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3351, -- [11]
-			"Player-9-0006779D", -- [12]
+			862, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549869929,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959893,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12832:Player-9-0006779D:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Freehold]|h|r!", -- [1]
-			"Obliterater-Kil'jaeden", -- [2]
+			"LOW HEALTH: Rèquièm (Paladin)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Obliterater-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3352, -- [11]
-			"Player-9-0006779D", -- [12]
+			863, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Obliterater|r",
-			[51] = 1549869929,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959893,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [75]
 		{
-			"|Hitem:165044::::::::120:256::38:4:5367:5142:1492:4786:::|h[Sinister Gladiator's Shawl]|h", -- [1]
-			"|Kq23|k", -- [2]
+			"LOW HEALTH: Nijlov (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3409, -- [11]
-			false, -- [12]
-			24, -- [13]
+			864, -- [11]
+			"Player-3661-07F99606", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549870243,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959893,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"|Hitem:164850::::::::120:256::38:4:5367:5142:1492:4786:::|h[Sinister Gladiator's Silk Sash]|h", -- [1]
-			"|Kq23|k", -- [2]
+			"LOW HEALTH: Nijlov (Druid)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3413, -- [11]
-			false, -- [12]
-			24, -- [13]
+			865, -- [11]
+			"Player-3661-07F99606", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithband|r",
-			[51] = 1549870256,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959893,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:11868:Player-9-03CB9631:1:2:10:19:4294967295:4294967295:4294967295:4294967295|h[The Dark Heart of Nazmir]|h|r!", -- [1]
-			"Grimdark-Kil'jaeden", -- [2]
+			"Enemy Spec: Balance DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Grimdark-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3426, -- [11]
-			"Player-9-03CB9631", -- [12]
+			880, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aGrimdark|r",
-			[51] = 1549870354,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959923,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Hawaiinekin-Blackrock", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Balance DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3431, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			883, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549870391,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959928,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [79]
 		{
-			"Interrupted |cff71d5ff|Hspell:214621:0|h[Schism]|h|r on Rév-Illidan", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Elemental SHAMAN", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3472, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			884, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549870705,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959928,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"Interrupted |cff71d5ff|Hspell:82326:0|h[Holy Light]|h|r on Jerseyshore-Wildhammer", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Balance DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3527, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			885, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549871127,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959932,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"Interrupted |cff71d5ff|Hspell:19750:0|h[Flash of Light]|h|r on Jerseyshore-Wildhammer", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Elemental SHAMAN", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3528, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			886, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549871233,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959932,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Ðetox-Draka", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Discipline PRIEST", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3560, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			887, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549871548,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959932,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Ðetox-Draka", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Vaimpacis - Druid", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3561, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			899, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549871666,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959978,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"Interrupted |cff71d5ff|Hspell:51514:0|h[Hex]|h|r on Nazkrel-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Acrycìa - Shaman", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			900, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872119,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959978,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"Interrupted |cff71d5ff|Hspell:204437:0|h[Lightning Lasso]|h|r on Nazkrel-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Ajidamo - Priest", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			52, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			901, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872146,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549959978,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"Interrupted |cff71d5ff|Hspell:188196:0|h[Lightning Bolt]|h|r on Nazkrel-Quel'Thalas", -- [1]
+			"Interrupted |cff71d5ff|Hspell:8004:0|h[Healing Surge]|h|r on Acrycìa-Lightbringer", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1926,7 +1926,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
+			902, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1934,231 +1934,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872185,
+			[51] = 1549960016,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [87]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Kroco-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Acrycìa (Shaman)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			54, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			903, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872218,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960044,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"Interrupted |cff71d5ff|Hspell:204437:0|h[Lightning Lasso]|h|r on Nazkrel-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Shadow PRIEST", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			55, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			924, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872261,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"Interrupted |cff71d5ff|Hspell:51505:0|h[Lava Burst]|h|r on Nazkrel-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Shadow PRIEST", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			56, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			925, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872290,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"Interrupted |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r on Makhluk-Blackrock", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Enemy Spec: Destruction WARLOCK", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			89, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			926, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549872649,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"hey Dolly and Boo?... im surprised your up so late", -- [1]
-			"Dragonsguard-Kil'jaeden", -- [2]
+			"Enemy Spec: Shadow PRIEST", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-9-0A66BC28", -- [12]
+			932, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aDragonsguard|r",
-			[51] = 1549872810,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960116,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"eh had to finish up some dailies", -- [1]
-			"Dolclemits-Kil'jaeden", -- [2]
+			"Enemy Spec: Destruction WARLOCK", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
-			"Player-9-0B37B4E4", -- [12]
+			933, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffDolclemits|r",
-			[51] = 1549872870,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960116,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"heh", -- [1]
-			"Dragonsguard-Kil'jaeden", -- [2]
+			"Enemy Spec: Restoration DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			116, -- [11]
-			"Player-9-0A66BC28", -- [12]
+			934, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aDragonsguard|r",
-			[51] = 1549872884,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960116,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Interrupted |cff71d5ff|Hspell:118:1269|h[Polymorph]|h|r on Iej-Frostmourne", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Frotoy - Priest", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			120, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			943, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873025,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960162,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"Interrupted |cff71d5ff|Hspell:28272:0|h[Polymorph]|h|r on Sweatymage-Proudmoore", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Ephexgg - Druid", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			144, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			944, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873197,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960162,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"Interrupted |cff71d5ff|Hspell:28272:0|h[Polymorph]|h|r on Sweatymage-Proudmoore", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Dewseejay - Warlock", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			145, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			945, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873222,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960163,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"Interrupted |cff71d5ff|Hspell:2948:0|h[Scorch]|h|r on Sweatymage-Proudmoore", -- [1]
+			"Interrupted |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r on Dewseejay-Stormreaver", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2168,7 +2168,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			146, -- [11]
+			946, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2176,33 +2176,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873255,
+			[51] = 1549960207,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [98]
 		{
-			"Interrupted |cff71d5ff|Hspell:605:0|h[Mind Control]|h|r on Àtheist-Garona", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			179, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			947, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873493,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960263,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 		{
-			"Interrupted |cff71d5ff|Hspell:605:0|h[Mind Control]|h|r on Àtheist-Garona", -- [1]
+			"Interrupted |cff71d5ff|Hspell:5782:0|h[Fear]|h|r on Dewseejay-Stormreaver", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2212,7 +2212,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			182, -- [11]
+			948, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2220,77 +2220,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873521,
+			[51] = 1549960271,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [100]
 		{
-			"Interrupted |cff71d5ff|Hspell:605:0|h[Mind Control]|h|r on Àtheist-Garona", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			185, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			949, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873585,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960277,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [101]
 		{
-			"Interrupted |cff71d5ff|Hspell:605:0|h[Mind Control]|h|r on Àtheist-Garona", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			188, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			950, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873614,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960277,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [102]
 		{
-			"Interrupted |cff71d5ff|Hspell:8936:0|h[Regrowth]|h|r on Oaktalon-EmeraldDream", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Frotoy (Priest)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			210, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			951, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873762,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960299,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [103]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Oaktalon-EmeraldDream", -- [1]
+			"Interrupted |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r on Dewseejay-Stormreaver", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2300,7 +2300,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			211, -- [11]
+			952, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2308,395 +2308,395 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549873842,
+			[51] = 1549960312,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [104]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:399:Player-9-0B4BF6EE:1:2:11:19:4294967295:4294967295:4294967295:4294967295|h[Just the Two of Us: 1550]|h|r!", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:5782:0|h[Fear]|h|r on Dewseejay-Stormreaver", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			250, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			953, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549874182,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960336,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [105]
 		{
-			"Interrupted |cff71d5ff|Hspell:5176:0|h[Solar Wrath]|h|r on Rynns-Area52", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			33, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			954, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549874493,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960346,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [106]
 		{
-			"Interrupted |cff71d5ff|Hspell:289022:0|h[Nourish]|h|r on Rynns-Area52", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			34, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			955, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549874559,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960346,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [107]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Kroco-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			94, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			956, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549874911,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960370,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [108]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Kroco-Quel'Thalas", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"LOW HEALTH: Dewseejay (Warlock)", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			957, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549874968,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960370,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [109]
 		{
-			"yells at her team members.", -- [1]
-			"Xop-Cho'gall", -- [2]
-			"Orcish", -- [3]
+			"Enemy Spec: Demonology WARLOCK", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xop-Cho'gall", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			147, -- [11]
-			"Player-101-0A28E606", -- [12]
+			988, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXop-Cho'gall|r",
-			[51] = 1549875300,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960503,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [110]
 		{
-			"yells at her team members.", -- [1]
-			"Xop-Cho'gall", -- [2]
-			"Orcish", -- [3]
+			"Enemy Spec: Restoration DRUID", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xop-Cho'gall", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-101-0A28E606", -- [12]
+			989, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXop-Cho'gall|r",
-			[51] = 1549875301,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960503,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [111]
 		{
-			"yells at her team members.", -- [1]
-			"Xop-Cho'gall", -- [2]
-			"Orcish", -- [3]
+			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xop-Cho'gall", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			149, -- [11]
-			"Player-101-0A28E606", -- [12]
+			990, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXop-Cho'gall|r",
-			[51] = 1549875301,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960503,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [112]
 		{
-			"yells at her team members.", -- [1]
-			"Xop-Cho'gall", -- [2]
-			"Orcish", -- [3]
+			"Warlockdelux - Warlock", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xop-Cho'gall", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			150, -- [11]
-			"Player-101-0A28E606", -- [12]
+			998, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXop-Cho'gall|r",
-			[51] = 1549875301,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960546,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [113]
 		{
-			"yells at her team members.", -- [1]
-			"Xop-Cho'gall", -- [2]
-			"Orcish", -- [3]
+			"Gargarhan - Druid", -- [1]
+			"Ahriam-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Xop-Cho'gall", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			151, -- [11]
-			"Player-101-0A28E606", -- [12]
+			999, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXop-Cho'gall|r",
-			[51] = 1549875301,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960546,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [114]
 		{
-			"Interrupted |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r on Xop-Cho'gall", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"Helltouched - Demon Hunter", -- [1]
+			"Ahriam-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"Ahriam-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			152, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			1000, -- [11]
+			"Player-3661-07F99606", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549875309,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffffffffAhriam-Hyjal|r",
+			[51] = 1549960546,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [115]
 		{
-			"|cffa335ee|Hitem:160645:5943:::::::120:256::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r|cffa335ee|Hitem:165053::::::::120:256::38:5:5367:4802:5142:1492:4786:::|h[Sinister Gladiator's Band]|h|r", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Gargarhan-Zangarmarsh", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			198, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1001, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549875685,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960603,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [116]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13203:Player-9-0A6CF05A:1:2:11:19:4294967295:4294967295:4294967295:4294967295|h[Challenger: Battle for Azeroth Season 2]|h|r!", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"ANYBODY ELSE NEED BLACKROCK FOUNDRY", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			205, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			1003, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549875816,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dOrcbum|r",
+			[51] = 1549960726,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [117]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13203:Player-9-0B4BF6EE:1:2:11:19:4294967295:4294967295:4294967295:4294967295|h[Challenger: Battle for Azeroth Season 2]|h|r!", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"FOR WAT", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			207, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1004, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549875816,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960776,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [118]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:2090:Player-9-0B4BF6EE:1:2:11:19:4294967295:4294967295:4294967295:4294967295|h[Challenger]|h|r!", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"chance at mount", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			208, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1005, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549875816,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc69b6dOrcbum|r",
+			[51] = 1549960851,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [119]
 		{
-			"|cffa335ee|Hitem:163306::::::::120:256::6:3:5126:1567:4783:::|h[Honorbound Artificer's Cuffs]|h|r", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"lets", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			227, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1006, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549875916,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960875,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [120]
 		{
-			"|cffa335ee|Hitem:164785::::::::120:256::25:4:5252:5141:1497:4786:::|h[Sinister Gladiator's Silk Cuffs]|h|r", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"do", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			228, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1007, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549875919,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960877,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [121]
 		{
-			"Interrupted |cff71d5ff|Hspell:585:0|h[Smite]|h|r on Tophington-Tichondrius", -- [1]
+			"it", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			257, -- [11]
+			1008, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2704,55 +2704,77 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549876124,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[51] = 1549960878,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [122]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Crypticstar-ShadowCouncil", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"guess I should tag along as well", -- [1]
+			"Fakebake-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			279, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			1009, -- [11]
+			"Player-9-0B412F39", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549876351,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfff48cbaFakebake|r",
+			[51] = 1549960891,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [123]
 		{
-			"Interrupted |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r on Crypticstar-ShadowCouncil", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
+			"i do that trick to give you your own lockout", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			280, -- [11]
-			"Player-9-0A6CF05A", -- [12]
+			1010, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549876393,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc69b6dOrcbum|r",
+			[51] = 1549960900,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [124]
 		{
-			"Interrupted |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r on Huggarn-Ragnaros", -- [1]
+			"one sec", -- [1]
+			"Fakebake-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1013, -- [11]
+			"Player-9-0B412F39", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaFakebake|r",
+			[51] = 1549960964,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"ggs bois", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2762,7 +2784,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			313, -- [11]
+			1022, -- [11]
 			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2770,52 +2792,30 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaWraithbrand|r",
-			[51] = 1549877026,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [125]
-		{
-			"|cffa335ee|Hitem:164780::::::::120:256::39:5:5368:4802:5142:1502:4786:::|h[Sinister Gladiator's Silk Treads]|h|r", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			385, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549877507,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1549960989,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"|cffa335ee|Hitem:159235::::::::120:256::35:3:5010:1582:4783:::|h[Deranged Alchemist's Slippers]|h|r", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
+			"rdy", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			386, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
+			1025, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1549877516,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1549960998,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

@@ -2,19 +2,27 @@
 DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549849405,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1549960975,
 				["Specializations"] = {
-					[2] = 5849,
-					[3] = 12011,
+					5503, -- [1]
+					[3] = 5543,
 				},
-				["Class"] = "MONK",
+				["Class"] = "PRIEST",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1549961237,
+				["Specializations"] = {
+					5462, -- [1]
+				},
+				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1549847130,
@@ -31,13 +39,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549877489,
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1549943604,
 				["Specializations"] = {
-					5501, -- [1]
-					[3] = 5543,
+					[2] = 5849,
+					[3] = 12011,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "MONK",
 			},
 		},
 	},
@@ -45,9 +53,10 @@ DataStore_TalentsDB = {
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["global"] = {
 		["PALADIN"] = {
@@ -77,6 +86,38 @@ DataStore_TalentsRefDB = {
 						21668, -- [19]
 						21671, -- [20]
 						21203, -- [21]
+					},
+				}, -- [1]
+			},
+			["Version"] = 29297,
+		},
+		["SHAMAN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 262,
+					["talents"] = {
+						22356, -- [1]
+						22357, -- [2]
+						22358, -- [3]
+						23108, -- [4]
+						22139, -- [5]
+						23190, -- [6]
+						23162, -- [7]
+						23163, -- [8]
+						23164, -- [9]
+						19271, -- [10]
+						19272, -- [11]
+						19273, -- [12]
+						22144, -- [13]
+						22172, -- [14]
+						21966, -- [15]
+						22145, -- [16]
+						19266, -- [17]
+						23111, -- [18]
+						21198, -- [19]
+						22153, -- [20]
+						21675, -- [21]
 					},
 				}, -- [1]
 			},
