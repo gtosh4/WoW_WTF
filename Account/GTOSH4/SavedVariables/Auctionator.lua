@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_5000000"] = 10000,
-	["_200000"] = 1000,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
-	["_500"] = 5,
-	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
+	["LOG_DE_DATA_X"] = true,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Veiled Crystal"] = {
@@ -24,28 +24,30 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Akunda's bite", -- [1]
-			"Anchor Weed", -- [2]
-			"Winter's Kiss", -- [3]
-			"Versatile navigation", -- [4]
-			"Viridescent Ink", -- [5]
-			"Vantus Rune: Battle of Dazar'alor", -- [6]
-			"quick navigation", -- [7]
-			"Pact of haste", -- [8]
-			"quick owlseye", -- [9]
-			"Kraken's Eye of intellect", -- [10]
-			"helmet", -- [11]
-			"Deep sea", -- [12]
-			"Diver's", -- [13]
-			"Diver", -- [14]
-			"Deep sea satin", -- [15]
-			"Pact of Critical", -- [16]
-			"Deadly Navigation", -- [17]
-			"Kraken's Eye", -- [18]
-			"bread", -- [19]
-			"Mount motivator", -- [20]
-			"Riverbud", -- [21]
-			"Siren's Pollen", -- [22]
+			"Goblin glider", -- [1]
+			"Pact of versatility", -- [2]
+			"Akunda's bite", -- [3]
+			"Anchor Weed", -- [4]
+			"Winter's Kiss", -- [5]
+			"Versatile navigation", -- [6]
+			"Viridescent Ink", -- [7]
+			"Vantus Rune: Battle of Dazar'alor", -- [8]
+			"quick navigation", -- [9]
+			"Pact of haste", -- [10]
+			"quick owlseye", -- [11]
+			"Kraken's Eye of intellect", -- [12]
+			"helmet", -- [13]
+			"Deep sea", -- [14]
+			"Diver's", -- [15]
+			"Diver", -- [16]
+			"Deep sea satin", -- [17]
+			"Pact of Critical", -- [18]
+			"Deadly Navigation", -- [19]
+			"Kraken's Eye", -- [20]
+			"bread", -- [21]
+			"Mount motivator", -- [22]
+			"Riverbud", -- [23]
+			"Siren's Pollen", -- [24]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -66,11 +68,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 	["__dbversion"] = 4,
 	["Kil'jaeden_Horde"] = {
 		["Kraken's Eye of Agility"] = {
+			["mr"] = 29949996,
+			["sc"] = 1,
+			["id"] = "153708:0:0:0:0",
 			["H2998"] = 29949996,
 			["cc"] = 3,
-			["id"] = "153708:0:0:0:0",
-			["sc"] = 1,
-			["mr"] = 29949996,
 		},
 		["Bloodwake Helmet"] = {
 			["mr"] = 50000000,
@@ -130,9 +132,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Pygmy Helmet of the Aurora"] = {
 			["mr"] = 3893608,
-			["L2999"] = 3893608,
-			["id"] = "36151:0:0:-10:1708",
 			["cc"] = 4,
+			["id"] = "36151:0:0:-10:1708",
+			["L2999"] = 3893608,
 			["H2999"] = 8027306,
 			["sc"] = 2,
 		},
@@ -152,9 +154,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Reaver Helmet of the Aurora"] = {
 			["mr"] = 63317872,
-			["L2999"] = 63317872,
-			["id"] = "24978:0:0:0:1707",
 			["cc"] = 4,
+			["id"] = "24978:0:0:0:1707",
+			["L2999"] = 63317872,
 			["H2999"] = 68168244,
 			["sc"] = 4,
 		},
@@ -166,11 +168,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 		},
 		["Enchant Ring - Pact of Haste"] = {
-			["mr"] = 38979998,
+			["mr"] = 47999999,
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
-			["H3004"] = 38979998,
 			["sc"] = 10,
+			["H3011"] = 47999999,
 		},
 		["Golem Helmet of the Aurora"] = {
 			["mr"] = 5715703,
@@ -181,17 +183,17 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Talonguard Helmet of the Aurora"] = {
 			["mr"] = 3314419,
-			["L2999"] = 3314419,
-			["id"] = "24970:0:0:0:1709",
 			["cc"] = 4,
+			["id"] = "24970:0:0:0:1709",
+			["L2999"] = 3314419,
 			["H2999"] = 26266289,
 			["sc"] = 4,
 		},
 		["Potent Helmet of the Fireflash"] = {
 			["mr"] = 74311935,
-			["L2999"] = 74311935,
-			["id"] = "15175:0:0:-78:4278",
 			["cc"] = 4,
+			["id"] = "15175:0:0:-78:4278",
+			["L2999"] = 74311935,
 			["H2999"] = 74311936,
 			["sc"] = 2,
 		},
@@ -204,9 +206,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Spectral Helmet of the Fireflash"] = {
 			["mr"] = 10782719,
-			["L2999"] = 10782719,
-			["id"] = "36287:0:0:0:1695",
 			["cc"] = 4,
+			["id"] = "36287:0:0:0:1695",
+			["L2999"] = 10782719,
 			["H2999"] = 11813211,
 			["sc"] = 3,
 		},
@@ -247,18 +249,18 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Spellbound Specimen Handlers"] = {
 			["mr"] = 48756908,
-			["L2999"] = 48756908,
-			["id"] = "160612:0:0:0:4801",
 			["cc"] = 4,
+			["id"] = "160612:0:0:0:4801",
+			["L2999"] = 48756908,
 			["H2999"] = 960512086,
 			["sc"] = 1,
 		},
 		["Enchant Ring - Pact of Critical Strike"] = {
+			["mr"] = 40119991,
+			["sc"] = 10,
+			["id"] = "153442:0:0:0:0",
 			["H2998"] = 40119991,
 			["cc"] = 8,
-			["id"] = "153442:0:0:0:0",
-			["sc"] = 10,
-			["mr"] = 40119991,
 		},
 		["Nightshade Helmet of the Quickblade"] = {
 			["mr"] = 8436833,
@@ -293,8 +295,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 12,
 			["id"] = "152877:0:0:0:0",
 			["L2998"] = 4850000,
-			["cc"] = 7,
 			["H2998"] = 4870000,
+			["cc"] = 7,
 		},
 		["Torgashell Helmet of the Peerless"] = {
 			["mr"] = 990000,
@@ -331,12 +333,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 1997500,
 			["sc"] = 4,
 		},
+		["Wolvar Helmet of the Aurora"] = {
+			["mr"] = 37835921,
+			["cc"] = 4,
+			["id"] = "36255:0:0:0:1706",
+			["H2999"] = 37835921,
+			["sc"] = 3,
+		},
 		["Wild Berry Bread"] = {
-			["mr"] = 245999,
-			["sc"] = 5,
-			["id"] = "166343:0:0:0:0",
 			["H2998"] = 245999,
 			["cc"] = 0,
+			["id"] = "166343:0:0:0:0",
+			["sc"] = 5,
+			["mr"] = 245999,
 		},
 		["Ironhide Helmet of the Fireflash"] = {
 			["mr"] = 31809950,
@@ -352,19 +361,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 2201695,
 			["sc"] = 3,
 		},
-		["Righteous Helmet of the Quickblade"] = {
-			["mr"] = 7852451,
+		["Jormungar Helmet of the Aurora"] = {
+			["mr"] = 1500000,
 			["cc"] = 4,
-			["id"] = "10073:0:0:-78:4277",
-			["H2999"] = 7852451,
-			["sc"] = 2,
+			["id"] = "36351:0:0:0:1708",
+			["H2999"] = 1500000,
+			["sc"] = 4,
+		},
+		["Enchant Weapon - Versatile Navigation"] = {
+			["mr"] = 25919990,
+			["cc"] = 8,
+			["id"] = "159788:0:0:0:0",
+			["sc"] = 11,
+			["H3001"] = 25919990,
 		},
 		["Recipe: Gingerbread Cookie"] = {
-			["mr"] = 6820000,
-			["sc"] = 5,
-			["id"] = "17200:0:0:0:0",
 			["H2998"] = 6820000,
 			["cc"] = 9,
+			["id"] = "17200:0:0:0:0",
+			["sc"] = 5,
+			["mr"] = 6820000,
 		},
 		["Winter's Kiss"] = {
 			["mr"] = 146500,
@@ -387,12 +403,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 24999997,
 			["sc"] = 0,
 		},
-		["Kraken's Eye of Strength"] = {
-			["H2998"] = 32489995,
-			["cc"] = 3,
-			["id"] = "153707:0:0:0:0",
-			["sc"] = 2,
-			["mr"] = 32489995,
+		["Viridescent Ink"] = {
+			["mr"] = 2079999,
+			["cc"] = 7,
+			["H3000"] = 2660000,
+			["id"] = "158189:0:0:0:0",
+			["sc"] = 16,
+			["L3000"] = 2079999,
 		},
 		["Gothic Plate Helmet of the Quickblade"] = {
 			["mr"] = 14661070,
@@ -408,12 +425,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 8999998,
 			["sc"] = 4,
 		},
-		["Enchant Weapon - Versatile Navigation"] = {
-			["mr"] = 25919990,
-			["sc"] = 11,
-			["id"] = "159788:0:0:0:0",
-			["cc"] = 8,
-			["H3001"] = 25919990,
+		["Goblin Glider Kit"] = {
+			["mr"] = 119498,
+			["cc"] = 0,
+			["H3012"] = 119498,
+			["id"] = "109076:0:0:0:0",
+			["sc"] = 8,
 		},
 		["Shimmerscale Diving Helmet"] = {
 			["mr"] = 889911,
@@ -429,13 +446,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 5000000,
 			["sc"] = 4,
 		},
-		["Electroshock Mount Motivator"] = {
-			["mr"] = 15999999,
-			["sc"] = 0,
-			["id"] = "153573:0:0:0:0",
-			["H2998"] = 15999999,
-			["cc"] = 0,
-		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
 			["mr"] = 6939998,
 			["cc"] = 0,
@@ -443,12 +453,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3007"] = 6939998,
 			["sc"] = 9,
 		},
+		["Anchor Weed"] = {
+			["mr"] = 519999,
+			["cc"] = 7,
+			["id"] = "152510:0:0:0:0",
+			["H3004"] = 519999,
+			["sc"] = 9,
+		},
 		["Enchant Weapon - Deadly Navigation"] = {
+			["mr"] = 27799994,
+			["sc"] = 11,
+			["id"] = "159785:0:0:0:0",
 			["H2998"] = 27799994,
 			["cc"] = 8,
-			["id"] = "159785:0:0:0:0",
-			["sc"] = 11,
-			["mr"] = 27799994,
 		},
 		["Warmaul Helmet of the Fireflash"] = {
 			["mr"] = 5000000,
@@ -459,39 +476,39 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Khan's Helmet"] = {
 			["mr"] = 51263498,
-			["L2999"] = 51263498,
-			["id"] = "14785:0:0:0:0",
 			["cc"] = 4,
+			["id"] = "14785:0:0:0:0",
+			["L2999"] = 51263498,
 			["H2999"] = 51293498,
 			["sc"] = 3,
 		},
-		["Deep Sea Satin"] = {
-			["mr"] = 1123315,
-			["cc"] = 7,
-			["id"] = "152577:0:0:0:0",
-			["H2999"] = 1123315,
-			["sc"] = 5,
+		["Quick Owlseye"] = {
+			["mr"] = 7399999,
+			["cc"] = 3,
+			["id"] = "154127:0:0:0:0",
+			["H2999"] = 7399999,
+			["sc"] = 7,
 		},
-		["Riverbud"] = {
-			["H2998"] = 299999,
-			["cc"] = 7,
-			["id"] = "152505:0:0:0:0",
-			["sc"] = 9,
-			["mr"] = 299999,
+		["Bonepicker Helmet of the Fireflash"] = {
+			["mr"] = 61056234,
+			["cc"] = 4,
+			["id"] = "160175:0:0:0:4796",
+			["H2999"] = 61056234,
+			["sc"] = 3,
 		},
 		["Conqueror's Helmet of the Fireflash"] = {
 			["mr"] = 6899152,
-			["L2999"] = 6899152,
-			["id"] = "25010:0:0:0:1695",
 			["cc"] = 4,
+			["id"] = "25010:0:0:0:1695",
+			["L2999"] = 6899152,
 			["H2999"] = 7036758,
 			["sc"] = 4,
 		},
-		["Khan'aish Helmet of the Fireflash"] = {
-			["mr"] = 28917289,
+		["Field Plate Helmet of the Fireflash"] = {
+			["mr"] = 300000,
 			["cc"] = 4,
-			["id"] = "24962:0:0:-8:3850",
-			["H2999"] = 28917289,
+			["id"] = "9290:0:0:0:1693",
+			["H2999"] = 300000,
 			["sc"] = 4,
 		},
 		["Amberpine Helmet of the Aurora"] = {
@@ -510,24 +527,24 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Bloodfist Helmet of the Quickblade"] = {
 			["mr"] = 2999999,
-			["L2999"] = 2999999,
-			["id"] = "25002:0:0:-45:3840",
 			["cc"] = 4,
+			["id"] = "25002:0:0:-45:3840",
+			["L2999"] = 2999999,
 			["H2999"] = 3000000,
 			["sc"] = 4,
-		},
-		["Bonelink Helmet of the Aurora"] = {
-			["mr"] = 75369715,
-			["cc"] = 4,
-			["id"] = "15615:0:0:0:1705",
-			["H2999"] = 75369715,
-			["sc"] = 3,
 		},
 		["Brutish Helmet of the Quickblade"] = {
 			["mr"] = 30615677,
 			["cc"] = 4,
 			["id"] = "14907:0:0:0:1679",
 			["H2999"] = 30615677,
+			["sc"] = 4,
+		},
+		["Revenant Helmet of the Fireflash"] = {
+			["mr"] = 1378546,
+			["cc"] = 4,
+			["id"] = "36391:0:0:-27:1692",
+			["H2999"] = 1378546,
 			["sc"] = 4,
 		},
 		["Warmaul Helmet of the Quickblade"] = {
@@ -544,19 +561,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 7498682,
 			["sc"] = 0,
 		},
-		["Mighty Helmet of the Fireflash"] = {
-			["mr"] = 6307516,
-			["cc"] = 4,
-			["id"] = "10150:0:0:0:1695",
-			["H2999"] = 6307516,
-			["sc"] = 2,
-		},
 		["Embossed Plate Helmet of the Fireflash"] = {
 			["mr"] = 46878537,
 			["cc"] = 4,
 			["id"] = "9969:0:0:0:1695",
 			["H2999"] = 46878537,
 			["sc"] = 4,
+		},
+		["Enchant Ring - Pact of Versatility"] = {
+			["mr"] = 45999979,
+			["cc"] = 8,
+			["id"] = "153445:0:0:0:0",
+			["sc"] = 10,
+			["H3011"] = 45999979,
 		},
 		["Sundered Helmet of the Quickblade"] = {
 			["mr"] = 1999996,
@@ -572,13 +589,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 12161024,
 			["sc"] = 3,
 		},
-		["Imbued Plate Helmet"] = {
-			["mr"] = 7683003,
-			["L2999"] = 7683003,
-			["id"] = "10372:0:0:0:0",
+		["Pygmy Helmet of the Quickblade"] = {
+			["mr"] = 3893610,
 			["cc"] = 4,
-			["H2999"] = 7713004,
-			["sc"] = 4,
+			["id"] = "36151:0:0:0:1678",
+			["H2999"] = 3893610,
+			["sc"] = 2,
 		},
 		["Exalted Helmet of the Quickblade"] = {
 			["mr"] = 27618598,
@@ -587,19 +603,27 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 27618598,
 			["sc"] = 4,
 		},
-		["Pygmy Helmet of the Quickblade"] = {
-			["mr"] = 3893610,
+		["Spectral Helmet of the Quickblade"] = {
+			["mr"] = 5000000,
 			["cc"] = 4,
-			["id"] = "36151:0:0:0:1678",
-			["H2999"] = 3893610,
-			["sc"] = 2,
+			["id"] = "36287:0:0:0:1681",
+			["L2999"] = 4999999,
+			["H2999"] = 5000000,
+			["sc"] = 3,
 		},
-		["Welded Hardskin Helmet"] = {
-			["mr"] = 1600123434,
+		["Bloodforged Helmet of the Fireflash"] = {
+			["mr"] = 33782133,
 			["cc"] = 4,
-			["id"] = "141579:0:0:0:1480",
-			["H2999"] = 1600123434,
+			["id"] = "14952:0:0:-68:1692",
+			["H2999"] = 33782133,
 			["sc"] = 4,
+		},
+		["Corn-Breaded Sausage"] = {
+			["H2998"] = 742076,
+			["cc"] = 0,
+			["id"] = "44940:0:0:0:0",
+			["sc"] = 5,
+			["mr"] = 742076,
 		},
 		["Dragonrider's Helmet"] = {
 			["mr"] = 22449999,
@@ -608,18 +632,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 22449999,
 			["sc"] = 3,
 		},
-		["Golem Helmet of the Quickblade"] = {
-			["mr"] = 1652741,
-			["cc"] = 4,
-			["id"] = "36383:0:0:0:1677",
-			["H2999"] = 1652741,
-			["sc"] = 4,
-		},
 		["Bloodfist Helmet of the Aurora"] = {
 			["mr"] = 3000000,
-			["L2999"] = 3000000,
-			["id"] = "25002:0:0:0:1708",
 			["cc"] = 4,
+			["id"] = "25002:0:0:0:1708",
+			["L2999"] = 3000000,
 			["H2999"] = 6342866,
 			["sc"] = 4,
 		},
@@ -637,12 +654,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 1999996,
 			["sc"] = 3,
 		},
-		["Champion's Helmet of the Aurora"] = {
-			["mr"] = 9466679,
+		["Shattered Hand Helmet of the Fireflash"] = {
+			["mr"] = 1500000,
 			["cc"] = 4,
-			["id"] = "7540:0:0:0:1707",
-			["H2999"] = 9466679,
-			["sc"] = 3,
+			["id"] = "25018:0:0:0:1695",
+			["H2999"] = 1500000,
+			["sc"] = 4,
 		},
 		["Embroidered Deep Sea Cloak of the Peerless"] = {
 			["mr"] = 49062277,
@@ -666,25 +683,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 11,
 		},
 		["Siren's Pollen"] = {
+			["mr"] = 322000,
+			["sc"] = 9,
+			["id"] = "152509:0:0:0:0",
 			["H2998"] = 322000,
 			["cc"] = 7,
-			["id"] = "152509:0:0:0:0",
-			["sc"] = 9,
-			["mr"] = 322000,
-		},
-		["Shattered Hand Helmet of the Fireflash"] = {
-			["mr"] = 1500000,
-			["cc"] = 4,
-			["id"] = "25018:0:0:0:1695",
-			["H2999"] = 1500000,
-			["sc"] = 4,
-		},
-		["Bloodforged Helmet of the Fireflash"] = {
-			["mr"] = 33782133,
-			["cc"] = 4,
-			["id"] = "14952:0:0:-68:1692",
-			["H2999"] = 33782133,
-			["sc"] = 4,
 		},
 		["Nifflevar Helmet of the Quickblade"] = {
 			["mr"] = 76654004,
@@ -693,20 +696,34 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 76654004,
 			["sc"] = 3,
 		},
-		["Corn-Breaded Sausage"] = {
-			["mr"] = 742076,
-			["sc"] = 5,
-			["id"] = "44940:0:0:0:0",
-			["H2998"] = 742076,
-			["cc"] = 0,
-		},
-		["Spectral Helmet of the Quickblade"] = {
-			["mr"] = 5000000,
-			["L2999"] = 4999999,
-			["id"] = "36287:0:0:0:1681",
+		["Golem Helmet of the Quickblade"] = {
+			["mr"] = 1652741,
 			["cc"] = 4,
-			["H2999"] = 5000000,
+			["id"] = "36383:0:0:0:1677",
+			["H2999"] = 1652741,
+			["sc"] = 4,
+		},
+		["Champion's Helmet of the Aurora"] = {
+			["mr"] = 9466679,
+			["cc"] = 4,
+			["id"] = "7540:0:0:0:1707",
+			["H2999"] = 9466679,
 			["sc"] = 3,
+		},
+		["Welded Hardskin Helmet"] = {
+			["mr"] = 1600123434,
+			["cc"] = 4,
+			["id"] = "141579:0:0:0:1480",
+			["H2999"] = 1600123434,
+			["sc"] = 4,
+		},
+		["Imbued Plate Helmet"] = {
+			["mr"] = 7683003,
+			["cc"] = 4,
+			["id"] = "10372:0:0:0:0",
+			["L2999"] = 7683003,
+			["H2999"] = 7713004,
+			["sc"] = 4,
 		},
 		["Halgrind Helmet of the Fireflash"] = {
 			["mr"] = 22143731,
@@ -715,12 +732,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 22143731,
 			["sc"] = 4,
 		},
-		["Revenant Helmet of the Fireflash"] = {
-			["mr"] = 1378546,
+		["Mighty Helmet of the Fireflash"] = {
+			["mr"] = 6307516,
 			["cc"] = 4,
-			["id"] = "36391:0:0:-27:1692",
-			["H2999"] = 1378546,
-			["sc"] = 4,
+			["id"] = "10150:0:0:0:1695",
+			["H2999"] = 6307516,
+			["sc"] = 2,
 		},
 		["Embroidered Deep Sea Bag"] = {
 			["mr"] = 89960000,
@@ -731,62 +748,61 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Ebonhold Helmet"] = {
 			["mr"] = 19959998,
-			["L2999"] = 19959998,
-			["id"] = "8270:0:0:0:3836",
 			["cc"] = 4,
+			["id"] = "8270:0:0:0:3836",
+			["L2999"] = 19959998,
 			["H2999"] = 19979998,
 			["sc"] = 3,
 		},
-		["Field Plate Helmet of the Fireflash"] = {
-			["mr"] = 300000,
+		["Bonelink Helmet of the Aurora"] = {
+			["mr"] = 75369715,
 			["cc"] = 4,
-			["id"] = "9290:0:0:0:1693",
-			["H2999"] = 300000,
-			["sc"] = 4,
-		},
-		["Kraken's Eye"] = {
-			["H2998"] = 45480000,
-			["cc"] = 7,
-			["id"] = "153706:0:0:0:0",
-			["sc"] = 4,
-			["mr"] = 45480000,
-		},
-		["Bonepicker Helmet of the Fireflash"] = {
-			["mr"] = 61056234,
-			["cc"] = 4,
-			["id"] = "160175:0:0:0:4796",
-			["H2999"] = 61056234,
+			["id"] = "15615:0:0:0:1705",
+			["H2999"] = 75369715,
 			["sc"] = 3,
 		},
-		["Quick Owlseye"] = {
-			["mr"] = 7399999,
-			["cc"] = 3,
-			["id"] = "154127:0:0:0:0",
-			["H2999"] = 7399999,
-			["sc"] = 7,
-		},
-		["Anchor Weed"] = {
-			["mr"] = 519999,
+		["Kraken's Eye"] = {
+			["mr"] = 45480000,
+			["sc"] = 4,
+			["id"] = "153706:0:0:0:0",
+			["H2998"] = 45480000,
 			["cc"] = 7,
-			["id"] = "152510:0:0:0:0",
-			["H3004"] = 519999,
+		},
+		["Khan'aish Helmet of the Fireflash"] = {
+			["mr"] = 28917289,
+			["cc"] = 4,
+			["id"] = "24962:0:0:-8:3850",
+			["H2999"] = 28917289,
+			["sc"] = 4,
+		},
+		["Riverbud"] = {
+			["mr"] = 299999,
 			["sc"] = 9,
+			["id"] = "152505:0:0:0:0",
+			["H2998"] = 299999,
+			["cc"] = 7,
+		},
+		["Deep Sea Satin"] = {
+			["mr"] = 1123315,
+			["cc"] = 7,
+			["id"] = "152577:0:0:0:0",
+			["H2999"] = 1123315,
+			["sc"] = 5,
 		},
 		["Golem Helmet of the Fireflash"] = {
 			["mr"] = 1652736,
-			["L2999"] = 1652736,
-			["id"] = "36383:0:0:0:1694",
 			["cc"] = 4,
+			["id"] = "36383:0:0:0:1694",
+			["L2999"] = 1652736,
 			["H2999"] = 5700668,
 			["sc"] = 4,
 		},
-		["Viridescent Ink"] = {
-			["mr"] = 2079999,
-			["cc"] = 7,
-			["H3000"] = 2660000,
-			["id"] = "158189:0:0:0:0",
-			["sc"] = 16,
-			["L3000"] = 2079999,
+		["Electroshock Mount Motivator"] = {
+			["H2998"] = 15999999,
+			["cc"] = 0,
+			["id"] = "153573:0:0:0:0",
+			["sc"] = 0,
+			["mr"] = 15999999,
 		},
 		["Bloodforged Helmet of the Aurora"] = {
 			["mr"] = 33782132,
@@ -795,19 +811,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 33782132,
 			["sc"] = 4,
 		},
-		["Jormungar Helmet of the Aurora"] = {
-			["mr"] = 1500000,
-			["cc"] = 4,
-			["id"] = "36351:0:0:0:1708",
-			["H2999"] = 1500000,
-			["sc"] = 4,
+		["Kraken's Eye of Strength"] = {
+			["mr"] = 32489995,
+			["sc"] = 2,
+			["id"] = "153707:0:0:0:0",
+			["H2998"] = 32489995,
+			["cc"] = 3,
 		},
-		["Wolvar Helmet of the Aurora"] = {
-			["mr"] = 37835921,
+		["Righteous Helmet of the Quickblade"] = {
+			["mr"] = 7852451,
 			["cc"] = 4,
-			["id"] = "36255:0:0:0:1706",
-			["H2999"] = 37835921,
-			["sc"] = 3,
+			["id"] = "10073:0:0:-78:4277",
+			["H2999"] = 7852451,
+			["sc"] = 2,
 		},
 	},
 }
@@ -815,34 +831,34 @@ AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
 	["Yorman"] = {
 		["firstSeen"] = 1549140261,
-		["guid"] = "Player-9-0A76FA3F",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0A76FA3F",
 	},
 	["Zaemme"] = {
 		["firstSeen"] = 1548952775,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-9-0AE4412E",
+		["firstVersion"] = "8.1.0",
 	},
 	["Tosh"] = {
 		["firstSeen"] = 1548795568,
-		["guid"] = "Player-9-0B4BF6EE",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B4BF6EE",
 	},
 	["Yuumi"] = {
 		["firstSeen"] = 1548723464,
-		["guid"] = "Player-9-0B0E8ABC",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B0E8ABC",
 	},
 	["Toshaman"] = {
 		["firstSeen"] = 1549905563,
-		["guid"] = "Player-9-0B58277D",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B58277D",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
 	["veiled crystal"] = {
-		["stacksize"] = 4,
 		["numstacks"] = 0,
+		["stacksize"] = 4,
 	},
 }
 AUCTIONATOR_SCAN_MINLEVEL = 1

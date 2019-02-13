@@ -8,12 +8,12 @@ OneRing_Config = {
 		["default"] = {
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
-				["SpecMenu"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["WorldMarkers"] = "ALT-Q",
+				["SpecMenu"] = false,
+				["OPieTracking"] = false,
 				["CommonTrades"] = false,
 				["DruidShift"] = false,
-				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
 				["DruidFeral"] = false,
 			},
 		},

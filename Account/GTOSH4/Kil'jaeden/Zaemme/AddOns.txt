@@ -7,3 +7,5 @@ BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 AzeriteForge: disabled
+BigWigs_Voice: enabled
+LittleWigs: enabled

@@ -32,6 +32,28 @@ TomTomWaypointsM = {
 		["Tosh - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+			[646] = {
+				["646:587186098.09875:282013118.26706:The United Front"] = {
+					646, -- [1]
+					0.587186098098755, -- [2]
+					0.282013118267059, -- [3]
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "The United Front",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Yuumi - Kil'jaeden"] = {
 			[629] = {
@@ -42,10 +64,18 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,

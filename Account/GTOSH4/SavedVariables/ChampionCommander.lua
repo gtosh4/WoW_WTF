@@ -55,6 +55,9 @@ dbBFA = {
 				["BASECHANCE"] = 0,
 			},
 			["showmenu"] = true,
+			["blacklist"] = {
+				[1935] = false,
+			},
 		},
 	},
 }

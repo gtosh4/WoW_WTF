@@ -8,6 +8,8 @@ BRF_Data = {
 		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
+		["Zaemme - Kil'jaeden"] = {
+		},
 		["Yuumi - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {

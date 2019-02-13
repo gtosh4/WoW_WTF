@@ -9,43 +9,44 @@ DataStore_TalentsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1549960975,
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1550052938,
 				["Specializations"] = {
-					5503, -- [1]
-					[3] = 5543,
+					[2] = 9979,
+					[3] = 12011,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1549961237,
+			["Default.Kil'jaeden.Zaemme"] = {
+				["lastUpdate"] = 1550021128,
 				["Specializations"] = {
-					5462, -- [1]
+					14169, -- [1]
+					7065, -- [2]
 				},
-				["Class"] = "SHAMAN",
+				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1549847130,
+				["lastUpdate"] = 1549997722,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 16381,
 				},
 				["Class"] = "DRUID",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1549678844,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1550052554,
 				["Specializations"] = {
-					14169, -- [1]
+					5462, -- [1]
 				},
-				["Class"] = "PALADIN",
+				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549943604,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1550052774,
 				["Specializations"] = {
-					[2] = 5849,
-					[3] = 12011,
+					16383, -- [1]
+					[3] = 5543,
 				},
-				["Class"] = "MONK",
+				["Class"] = "PRIEST",
 			},
 		},
 	},
@@ -88,6 +89,32 @@ DataStore_TalentsRefDB = {
 						21203, -- [21]
 					},
 				}, -- [1]
+				{
+					["id"] = 66,
+					["talents"] = {
+						22428, -- [1]
+						22558, -- [2]
+						22430, -- [3]
+						22431, -- [4]
+						22604, -- [5]
+						22594, -- [6]
+						22179, -- [7]
+						22180, -- [8]
+						21811, -- [9]
+						22433, -- [10]
+						22434, -- [11]
+						22435, -- [12]
+						22705, -- [13]
+						21795, -- [14]
+						17601, -- [15]
+						22189, -- [16]
+						22438, -- [17]
+						23087, -- [18]
+						21201, -- [19]
+						21202, -- [20]
+						22645, -- [21]
+					},
+				}, -- [2]
 			},
 			["Version"] = 29297,
 		},
