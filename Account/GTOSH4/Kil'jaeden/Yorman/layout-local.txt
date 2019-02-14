@@ -13,13 +13,6 @@ X: -196
 Y: -228
 W: 108
 H: 56
-Frame: AAPQOrderList
-FrameLevel: 1
-Anchor: RIGHT
-X: -673
-Y: 25
-W: 231
-H: 440
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: LEFT
@@ -48,6 +41,13 @@ X: 282
 Y: 129
 W: 715
 H: 490
+Frame: bdConfig Lib
+FrameLevel: 1
+Anchor: RIGHT
+X: -20
+Y: 0
+W: 750
+H: 480
 Frame: DetailsPluginContainerWindow
 FrameLevel: 1
 Anchor: TOPLEFT

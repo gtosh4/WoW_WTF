@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 ElvUI_EverySecondCounts: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled

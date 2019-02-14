@@ -10,11 +10,13 @@ BRF_Data = {
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
 		},
-		["Yuumi - Kil'jaeden"] = {
-		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+		},
+		["Yuumi - Kil'jaeden"] = {
 		},
 	},
 }

@@ -23,6 +23,9 @@ SimulationCraftDB = {
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["minimap"] = {

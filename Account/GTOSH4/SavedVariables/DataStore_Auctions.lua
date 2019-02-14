@@ -9,21 +9,21 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1549765900,
-				["lastVisitDate"] = "2019/02/09 21:31",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1550046404,
-				["lastVisitDate"] = "2019/02/13 03:26",
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1550023878,
+				["lastVisitDate"] = "2019/02/12 21:11",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1549678868,
 				["lastVisitDate"] = "2019/02/08 21:21",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1550023878,
-				["lastVisitDate"] = "2019/02/12 21:11",
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1550118111,
+				["lastVisitDate"] = "2019/02/13 23:21",
+			},
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1549765900,
+				["lastVisitDate"] = "2019/02/09 21:31",
 			},
 		},
 	},

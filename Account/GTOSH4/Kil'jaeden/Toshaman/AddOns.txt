@@ -12,3 +12,4 @@ LittleWigs: enabled
 Blizzard_CompactRaidFrames: enabled
 Blizzard_CUFProfiles: disabled
 AzeriteForge: disabled
+BigWigs_Azeroth: enabled
