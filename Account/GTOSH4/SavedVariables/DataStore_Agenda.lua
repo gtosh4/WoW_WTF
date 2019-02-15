@@ -14,40 +14,41 @@ DataStore_AgendaDB = {
 			["NextWeeklyReset"] = "2019-02-19",
 		},
 		["Characters"] = {
-			["Default.Kil'jaeden.Tosh"] = {
+			["Default.Kil'jaeden.Yuumi"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|365672454"] = "535622|1550052777|0|1",
+					["Battle of Dazar'alor Heroic|365674232"] = "369097|1550219300|0|1",
 				},
-				["lastUpdate"] = 1550052896,
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365708073"] = "469496|1550118902|0|1",
-				},
-				["lastUpdate"] = 1550118908,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1550089969,
+				["lastUpdate"] = 1550219419,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {
 					["Orcbum"] = {
 						["note"] = "",
-						["level"] = 120,
-						["class"] = "Warrior",
 					},
 				},
 				["DungeonIDs"] = {
-					["Atal'Dazar Mythic|365670769"] = "567269|1550021130|0|0",
-					["The MOTHERLODE!! Mythic|365670492"] = "567269|1550021130|0|0",
+					["Atal'Dazar Mythic|365670769"] = "427910|1550160488|0|0",
+					["The MOTHERLODE!! Mythic|365670492"] = "427910|1550160488|0|0",
 				},
-				["lastUpdate"] = 1550021155,
+				["lastUpdate"] = 1550160847,
 			},
-			["Default.Kil'jaeden.Yuumi"] = {
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1550182546,
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|365674232"] = "471222|1550117176|0|1",
+					["Battle of Dazar'alor Normal|313799698"] = "369345|1550219052|0|1",
+					["Battle of Dazar'alor Looking For Raid|300318645"] = "369345|1550219052|0|1",
+					["Battle of Dazar'alor Heroic|365708073"] = "369345|1550219052|0|1",
 				},
-				["lastUpdate"] = 1550117815,
+				["lastUpdate"] = 1550219244,
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Heroic|365749097"] = "380191|1550208206|0|1",
+					["Battle of Dazar'alor Mythic|365672454"] = "380191|1550208206|0|1",
+				},
+				["lastUpdate"] = 1550208275,
 			},
 		},
 	},

@@ -1,11 +1,4 @@
 Version: 1
-Frame: AAP_PartyListFrame1
-FrameLevel: 1
-Anchor: TOP
-X: 836
-Y: -259
-W: 1
-H: 1
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -13,6 +6,13 @@ X: 0
 Y: 0
 W: 365
 H: 380
+Frame: bdConfig Lib
+FrameLevel: 1
+Anchor: RIGHT
+X: -20
+Y: 0
+W: 750
+H: 480
 Frame: PLH_LootedItemsFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -20,10 +20,3 @@ X: -652
 Y: 16
 W: 393
 H: 248
-Frame: AAPQOrderList
-FrameLevel: 1
-Anchor: CENTER
-X: 622
-Y: 22
-W: 231
-H: 440

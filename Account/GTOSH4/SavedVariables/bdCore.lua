@@ -21,6 +21,34 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Zaemme"] = {
+			["profile"] = "default",
+			["name"] = "Zaemme",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Tosh"] = {
+			["profile"] = "default",
+			["name"] = "Tosh",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Yuumi"] = {
 			["profile"] = "default",
 			["name"] = "Yuumi",
@@ -52,7 +80,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Yuumi",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -73,32 +101,33 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
-			["interrupt"] = true,
 			["gmotd"] = {
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				[""] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 			},
-			["font"] = "bdFont",
-			["skingmotd"] = true,
-			["changefonts"] = true,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["changefonts"] = true,
+			["font"] = "bdFont",
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {
