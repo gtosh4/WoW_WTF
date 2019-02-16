@@ -1,292 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" yeah, bags ilvl went up lol", -- [1]
-		"/cw Voidamental-Kil'jaeden nope", -- [2]
-		"/cw Voidamental-Kil'jaeden got a heroic one", -- [3]
-		"/cw Voidamental-Kil'jaeden zzz", -- [4]
-		"/raid kanye was 2nd", -- [5]
-		"/raid me an priest should", -- [6]
-		" normal", -- [7]
-		" lol", -- [8]
-		" you right side", -- [9]
-		"/raid sham and priest should", -- [10]
-		"/raid no I got purp", -- [11]
-		"/raid I'm the sham", -- [12]
-		"/cw Pewpluver-Tichondrius ok, ty for answering anyway", -- [13]
-		"/raid he said he had to go grab something", -- [14]
-		"/raid pull timer?", -- [15]
-		" yeah, let's dip", -- [16]
-		" yea", -- [17]
-		" see ya", -- [18]
-		" nite", -- [19]
-		"/dom", -- [20]
+		"/cw Voidamental-Kil'jaeden nope", -- [1]
+		"/cw Voidamental-Kil'jaeden got a heroic one", -- [2]
+		"/cw Voidamental-Kil'jaeden zzz", -- [3]
+		"/raid kanye was 2nd", -- [4]
+		"/raid me an priest should", -- [5]
+		" normal", -- [6]
+		" lol", -- [7]
+		" you right side", -- [8]
+		"/raid sham and priest should", -- [9]
+		"/raid no I got purp", -- [10]
+		"/raid I'm the sham", -- [11]
+		"/cw Pewpluver-Tichondrius ok, ty for answering anyway", -- [12]
+		"/raid he said he had to go grab something", -- [13]
+		"/raid pull timer?", -- [14]
+		" yeah, let's dip", -- [15]
+		" yea", -- [16]
+		" see ya", -- [17]
+		" nite", -- [18]
+		"/dom", -- [19]
+		"/g see ya", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"right", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3716, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217534,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"slow", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3717, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217535,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"Volatile Charge on Jenkemhuffer", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3722, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217550,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Volatile Charge on Hellzacomin", -- [1]
-			"Hellzacomin-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Hellzacomin-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3723, -- [11]
-			"Player-57-08CD8AF4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHellzacomin-Illidan|r",
-			[51] = 1550217551,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3724, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217555,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3725, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217556,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3726, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217557,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Hellzacomin-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Hellzacomin-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3727, -- [11]
-			"Player-57-08CD8AF4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHellzacomin-Illidan|r",
-			[51] = 1550217558,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"right", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3728, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217565,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"slw down", -- [1]
-			"Jenkemhuffer-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jenkemhuffer-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3729, -- [11]
-			"Player-1129-092A464F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
-			[51] = 1550217566,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"STOP", -- [1]
-			"Hellzacomin-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hellzacomin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3730, -- [11]
-			"Player-57-08CD8AF4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHellzacomin-Illidan|r",
-			[51] = 1550217587,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [11]
-		{
-			"STOP", -- [1]
-			"Hellzacomin-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hellzacomin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3731, -- [11]
-			"Player-57-08CD8AF4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHellzacomin-Illidan|r",
-			[51] = 1550217588,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [12]
 		{
 			"Volatile Charge on Hellzacomin", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -308,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [1]
 		{
 			"STOp", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -330,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217589,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [14]
+		}, -- [2]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -352,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217593,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [3]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -374,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217594,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [4]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -396,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217595,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [5]
 		{
 			"right side slow down dps", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -418,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217615,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [18]
+		}, -- [6]
 		{
 			"Volatile Charge on Kanyeeast", -- [1]
 			"Kanyeeast-Illidan", -- [2]
@@ -440,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kanyeeast-Illidan|r",
 			[51] = 1550217618,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [7]
 		{
 			"Volatile Charge on Hellzacomin", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -462,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [8]
 		{
 			"I mean im just sitting here", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -484,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoidamental|r",
 			[51] = 1550217622,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [9]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -506,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217624,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [10]
 		{
 			"dont touch boss at all", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -528,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217624,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [23]
+		}, -- [11]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -550,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217625,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [12]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -572,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217626,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [13]
 		{
 			"Volatile Charge on Dojabadazz", -- [1]
 			"Dojabadazz-Zul'jin", -- [2]
@@ -594,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dojabadazz-Zul'jin|r",
 			[51] = 1550217641,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [14]
 		{
 			"Volatile Charge on Pewpluver", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -616,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217641,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [15]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -638,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217646,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [16]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -660,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217647,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [17]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -682,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [18]
 		{
 			"ok push", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -704,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217650,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [31]
+		}, -- [19]
 		{
 			"ok push", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -726,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217655,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [32]
+		}, -- [20]
 		{
 			"kill kill", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -748,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217662,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [33]
+		}, -- [21]
 		{
 			"Volatile Charge on Jenkemhuffer", -- [1]
 			"Jenkemhuffer-Archimonde", -- [2]
@@ -770,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
 			[51] = 1550217665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [22]
 		{
 			"Volatile Charge on Kanyeeast", -- [1]
 			"Kanyeeast-Illidan", -- [2]
@@ -792,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kanyeeast-Illidan|r",
 			[51] = 1550217665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [23]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Jenkemhuffer-Archimonde", -- [2]
@@ -814,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
 			[51] = 1550217670,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [24]
 		{
 			"STACK ON BOSS", -- [1]
 			"Kaizzepriest-Thrall", -- [2]
@@ -836,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKaizzepriest-Thrall|r",
 			[51] = 1550217687,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [25]
 		{
 			"Liquid Gold on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -858,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217695,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [26]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -880,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [27]
 		{
 			"stack", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -902,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217705,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [40]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -924,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217705,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [29]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -946,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [30]
 		{
 			"liquid gold move out", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -968,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217714,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [43]
+		}, -- [31]
 		{
 			"Liquid Gold on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -990,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217731,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [32]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1012,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217740,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [33]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1034,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217741,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [34]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1056,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217742,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [35]
 		{
 			"laggg can we lust", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1078,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217748,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [48]
+		}, -- [36]
 		{
 			"lust", -- [1]
 			"Kanyeeast-Illidan", -- [2]
@@ -1100,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kanyeeast-Illidan|r",
 			[51] = 1550217750,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [37]
 		{
 			"Liquid Gold on Tankalina", -- [1]
 			"Tankalina-Arthas", -- [2]
@@ -1122,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Tankalina-Arthas|r",
 			[51] = 1550217754,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [38]
 		{
 			"Liquid Gold on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1144,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [39]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1166,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [40]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1188,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217780,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [41]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1210,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550217780,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [42]
 		{
 			"lets go do trash", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1232,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550217881,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [55]
+		}, -- [43]
 		{
 			"yo, if you don't need |cffa335ee|Hitem:165571::::::::120:264::3:3:4798:1517:4783:::|h[Incandescent Sliver]|h|r I could use it", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -1254,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217887,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [56]
+		}, -- [44]
 		{
 			"|cff9d9d9d|Hitem:166855::::::::120:254::::::|h[Estatua de obsidiana de Kith'ix]|h|r", -- [1]
 			"Clintwestwod-Ragnaros", -- [2]
@@ -1276,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Clintwestwod-Ragnaros|r",
 			[51] = 1550217893,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [45]
 		{
 			"i need sorry", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -1298,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217908,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [58]
+		}, -- [46]
 		{
 			"ok, ty for answering anyway", -- [1]
 			"Pewpluver-Tichondrius", -- [2]
@@ -1320,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPewpluver-Tichondrius|r",
 			[51] = 1550217920,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [59]
+		}, -- [47]
 		{
 			"moose can yo udo trash i need to run and grab something real fast ", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -1342,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217927,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [48]
 		{
 			"i will", -- [1]
 			"Koia-Azgalor", -- [2]
@@ -1364,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Koia-Azgalor|r",
 			[51] = 1550217945,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [49]
 		{
 			"brb 3 min ", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -1386,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550217962,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [50]
 		{
 			"pulling", -- [1]
 			"Koia-Azgalor", -- [2]
@@ -1408,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Koia-Azgalor|r",
 			[51] = 1550217969,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [51]
 		{
 			"come back", -- [1]
 			"Koia-Azgalor", -- [2]
@@ -1430,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Koia-Azgalor|r",
 			[51] = 1550217972,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [52]
 		{
 			"lol", -- [1]
 			"Moosery-Ysera", -- [2]
@@ -1452,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMoosery-Ysera|r",
 			[51] = 1550217973,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [53]
 		{
 			"hope you know you can death run to boss", -- [1]
 			"Tankalina-Arthas", -- [2]
@@ -1474,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Tankalina-Arthas|r",
 			[51] = 1550218028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [54]
 		{
 			"with rogue and sham ank", -- [1]
 			"Tankalina-Arthas", -- [2]
@@ -1496,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Tankalina-Arthas|r",
 			[51] = 1550218041,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [55]
 		{
 			"reset it pls", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1518,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218211,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [68]
+		}, -- [56]
 		{
 			"Gonk first?", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1540,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218245,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [69]
+		}, -- [57]
 		{
 			"or paku", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1562,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218249,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [70]
+		}, -- [58]
 		{
 			"2 inc st", -- [1]
 			"Shadowrally-Thaurissan", -- [2]
@@ -1584,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Shadowrally-Thaurissan|r",
 			[51] = 1550218270,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [59]
 		{
 			"wait lets do paku first then gonk", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1606,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218272,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [72]
+		}, -- [60]
 		{
 			"thought paku was always first but i could be wrong", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -1628,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218275,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [61]
 		{
 			"yea", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1650,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218280,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [74]
+		}, -- [62]
 		{
 			"lets do paku first", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1672,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218282,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [75]
+		}, -- [63]
 		{
 			"hey sofa where u at", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1694,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218290,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [76]
+		}, -- [64]
 		{
 			"im here sry", -- [1]
 			"Dojabadazz-Zul'jin", -- [2]
@@ -1716,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dojabadazz-Zul'jin|r",
 			[51] = 1550218372,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [65]
 		{
 			"he said he had to go grab something", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1738,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550218382,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [66]
 		{
 			"lol", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1760,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218390,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [79]
+		}, -- [67]
 		{
 			"ok", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1782,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218392,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [80]
+		}, -- [68]
 		{
 			"brb gotta go do a pee pee", -- [1]
 			"Moosery-Ysera", -- [2]
@@ -1804,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMoosery-Ysera|r",
 			[51] = 1550218402,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [69]
 		{
 			"paku first", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1826,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218556,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [82]
+		}, -- [70]
 		{
 			"take gonk moose", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -1848,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550218597,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [71]
 		{
 			"ill take paku", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -1870,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550218599,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [72]
 		{
 			"tf is this", -- [1]
 			"|Kq23|k", -- [2]
@@ -1892,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218608,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [85]
+		}, -- [73]
 		{
 			"fucking pull", -- [1]
 			"|Kq23|k", -- [2]
@@ -1914,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218610,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [86]
+		}, -- [74]
 		{
 			"pull timer?", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1936,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550218623,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [75]
 		{
 			"ok go", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1958,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218623,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [88]
+		}, -- [76]
 		{
 			"kill paku first", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -1980,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218629,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [89]
+		}, -- [77]
 		{
 			"timer pls", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2002,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218643,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [90]
+		}, -- [78]
 		{
 			"lol", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2024,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218644,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [91]
+		}, -- [79]
 		{
 			"timer", -- [1]
 			"Respecto-Tichondrius", -- [2]
@@ -2046,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edRespecto-Tichondrius|r",
 			[51] = 1550218647,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [80]
 		{
 			"WIND", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2068,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218735,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [93]
+		}, -- [81]
 		{
 			"WIND", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2090,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218736,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [94]
+		}, -- [82]
 		{
 			"all in", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2112,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218739,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [95]
+		}, -- [83]
 		{
 			"Mark of Prey on Hellzacomin", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2134,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218753,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [84]
 		{
 			" ogG G", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2156,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [85]
 		{
 			"Mark of Prey on Hellzacomin", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2178,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218813,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [86]
 		{
 			"Mark of Prey on Shadowrally", -- [1]
 			"Shadowrally-Thaurissan", -- [2]
@@ -2200,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Shadowrally-Thaurissan|r",
 			[51] = 1550218819,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [87]
 		{
 			"Get tank up", -- [1]
 			"Hellzacomin-Illidan", -- [2]
@@ -2222,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dHellzacomin-Illidan|r",
 			[51] = 1550218820,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [100]
+		}, -- [88]
 		{
 			"Throm'ka Kaz L gi ogG No'throma ogG ", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2244,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218827,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [89]
 		{
 			"Crawling Hex (1{rt1}) on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2266,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoidamental|r",
 			[51] = 1550218827,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [90]
 		{
 			" ogG L", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2288,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [91]
 		{
 			" ogG G", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2310,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218830,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [92]
 		{
 			" ogG A", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2332,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218831,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [93]
 		{
 			"Leap on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2354,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550218832,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [94]
 		{
 			"Mark of Prey on Jenkemhuffer", -- [1]
 			"Jenkemhuffer-Archimonde", -- [2]
@@ -2376,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
 			[51] = 1550218878,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [95]
 		{
 			"Mark of Prey on Kaizzepriest", -- [1]
 			"Kaizzepriest-Thrall", -- [2]
@@ -2398,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKaizzepriest-Thrall|r",
 			[51] = 1550218878,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [96]
 		{
 			"thats my fault", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -2420,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550218882,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [97]
 		{
 			"Mark of Prey on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -2442,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithbrand|r",
 			[51] = 1550218886,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [98]
 		{
 			"I was lagging bad there", -- [1]
 			"Sofá-Boulderfist", -- [2]
@@ -2464,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSofá-Boulderfist|r",
 			[51] = 1550218888,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [99]
 		{
 			"Mark of Prey on Jenkemhuffer", -- [1]
 			"Jenkemhuffer-Archimonde", -- [2]
@@ -2486,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Jenkemhuffer-Archimonde|r",
 			[51] = 1550218892,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [100]
 		{
 			"Mark of Prey on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2508,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVoidamental|r",
 			[51] = 1550218892,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [101]
 		{
 			"Mark of Prey on Shadowrally", -- [1]
 			"Shadowrally-Thaurissan", -- [2]
@@ -2530,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Shadowrally-Thaurissan|r",
 			[51] = 1550218895,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [102]
 		{
 			"aight im tired", -- [1]
 			"|Kq23|k", -- [2]
@@ -2552,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218896,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [115]
+		}, -- [103]
 		{
 			"Mark of Prey on Shadowrally", -- [1]
 			"Shadowrally-Thaurissan", -- [2]
@@ -2574,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Shadowrally-Thaurissan|r",
 			[51] = 1550218899,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [104]
 		{
 			"i'm gonna need 1min dog is at the door", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2596,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218902,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [105]
 		{
 			"Mark of Prey on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2618,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1550218902,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [106]
 		{
 			"brb", -- [1]
 			"Shadowalt-Area52", -- [2]
@@ -2640,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffShadowalt-Area52|r",
 			[51] = 1550218904,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [107]
 		{
 			"yeah, let's dip", -- [1]
 			"|Kq23|k", -- [2]
@@ -2662,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218905,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [120]
+		}, -- [108]
 		{
 			"dudes fucktarded", -- [1]
 			"|Kq23|k", -- [2]
@@ -2684,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218910,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [121]
+		}, -- [109]
 		{
 			"we finish it tomorrow", -- [1]
 			"|Kq23|k", -- [2]
@@ -2706,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218949,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [122]
+		}, -- [110]
 		{
 			"yea", -- [1]
 			"|Kq23|k", -- [2]
@@ -2728,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218954,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [123]
+		}, -- [111]
 		{
 			"aight dongus ima snooze", -- [1]
 			"|Kq23|k", -- [2]
@@ -2750,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1550218967,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [124]
+		}, -- [112]
 		{
 			"see ya", -- [1]
 			"|Kq23|k", -- [2]
@@ -2772,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "Wraithband",
 			[51] = 1550218972,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [125]
+		}, -- [113]
 		{
 			"nite", -- [1]
 			"|Kq23|k", -- [2]
@@ -2794,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "Wraithband",
 			[51] = 1550218973,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [126]
+		}, -- [114]
 		{
 			" WTS mythic +5-10 Carryfor week reward 385-410+ /Full 385+ Set/Normal Battle of Dazer'alor Carry 9/9 Personal loot/,also |cffffff00|Hachievement:12806:Player-9-0B588F69:0:0:0:-1:0:0:0:0|h[Glory of the Uldir Raider]|h|rgetmountBloodgorged Crawgselfplaying█carry now PST", -- [1]
 			"Ougisana-Kil'jaeden", -- [2]
@@ -2816,6 +2552,270 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Ougisana|r",
 			[51] = 1550219252,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"ooo", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262743,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"Uldir ", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262744,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"got this fancy lockout whenever we're ready", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			49, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262751,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"ooo", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffFriendly|r",
+			[51] = 1550262766,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"didnt even link rip ", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262766,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"where's it at", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffFriendly|r",
+			[51] = 1550262768,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"its g'huun only", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262768,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"i need vectis", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffFriendly|r",
+			[51] = 1550262774,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"for what", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262794,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"the trinket still good?", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550262798,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"cya", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Rivalry|r",
+			[51] = 1550263013,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"see ya", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1550263014,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

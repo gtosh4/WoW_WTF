@@ -9,6 +9,7 @@ ElvCharacterDB = {
 		"/p got u", -- [6]
 		"/tmw", -- [7]
 		"/hek", -- [8]
+		"/alto show", -- [9]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -869,5 +870,27 @@ ElvCharacterDB = {
 			[51] = 1550021023,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
+		{
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Xatadima-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Xatadima-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			373, -- [11]
+			"Player-9-0B588F8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00ff96Xatadima|r",
+			[51] = 1550268759,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
 	},
 }

@@ -24,138 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"+", -- [1]
-			"Silentkills-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2470, -- [11]
-			"Player-9-0A9D8BB4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Silentkills|r",
-			[51] = 1550206881,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"teachmeto Ass", -- [1]
-			"Silentkills-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2471, -- [11]
-			"Player-9-0A9D8BB4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Silentkills|r",
-			[51] = 1550206893,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"Avalanche on Ceesong", -- [1]
-			"Ceesong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ceesong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2486, -- [11]
-			"Player-9-0AE8930C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaCeesong|r",
-			[51] = 1550206997,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Broadside (3{rt3}) on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2499, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1550207053,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"3", -- [1]
-			"Mçfreëzy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Mçfreëzy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2500, -- [11]
-			"Player-9-0B3A9C65", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMçfreëzy|r",
-			[51] = 1550207056,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"3", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2502, -- [11]
-			"Player-9-0B4BF6EE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTosh|r",
-			[51] = 1550207056,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
@@ -176,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207057,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [1]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -198,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207058,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [2]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -220,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [3]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -242,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [4]
 		{
 			"Hand of Frost on Rylaiz", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -264,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1550207073,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [5]
 		{
 			"Hand of Frost on Ceesong", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -286,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207075,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [6]
 		{
 			"Hand of Frost on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -308,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [7]
 		{
 			"Hand of Frost on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -330,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207079,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [8]
 		{
 			"Hand of Frost on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -352,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207085,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [9]
 		{
 			"3", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -374,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1550207088,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [10]
 		{
 			"2", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -396,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1550207089,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [11]
 		{
 			"1", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -418,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1550207090,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [12]
 		{
 			"Broadside (2{rt2}) on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -440,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550207119,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [13]
 		{
 			"{rt3}3", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -462,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithbrand|r",
 			[51] = 1550207122,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [14]
 		{
 			"{rt3}2", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -484,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithbrand|r",
 			[51] = 1550207123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [15]
 		{
 			"No Augment Rune (15): Aspbringer, Ceesong, Cheder, Focalaire, Hetril, Khelikloth, Khell, Mçfreëzy, Ngow, Papisalad, Rylaiz, Sherbie, Slurry, Tosh, Voidthirst", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -506,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207172,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [22]
+		}, -- [16]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -528,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207172,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [23]
+		}, -- [17]
 		{
 			"gotta sit on this pull", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -550,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithbrand|r",
 			[51] = 1550207175,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [18]
 		{
 			"The following players are Away: Wraithbrand", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -572,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207203,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [25]
+		}, -- [19]
 		{
 			"jesus my jewnose is huge in that photo", -- [1]
 			"Silentkills-Kil'jaeden", -- [2]
@@ -594,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silentkills|r",
 			[51] = 1550207226,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [20]
 		{
 			"what", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -616,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207231,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [21]
 		{
 			"my swollen eye in the wow cchannel", -- [1]
 			"Silentkills-Kil'jaeden", -- [2]
@@ -638,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Silentkills|r",
 			[51] = 1550207245,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [22]
 		{
 			"could just have me heal", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -660,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [23]
 		{
 			"I swear lol", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -682,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1550207257,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [24]
 		{
 			"ugh", -- [1]
 			"|Kq33|k", -- [2]
@@ -704,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207257,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [31]
+		}, -- [25]
 		{
 			"lol", -- [1]
 			"|Kq33|k", -- [2]
@@ -726,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207264,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [32]
+		}, -- [26]
 		{
 			"idk why they like to throw healers at it", -- [1]
 			"|Kq33|k", -- [2]
@@ -748,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207264,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [33]
+		}, -- [27]
 		{
 			"thac", -- [1]
 			"|Kq33|k", -- [2]
@@ -770,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207268,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [34]
+		}, -- [28]
 		{
 			"strat", -- [1]
 			"|Kq33|k", -- [2]
@@ -792,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207270,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [35]
+		}, -- [29]
 		{
 			"more healers", -- [1]
 			"|Kq33|k", -- [2]
@@ -814,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207271,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [36]
+		}, -- [30]
 		{
 			"by the moon and the stars in the sky?", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -836,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207287,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [37]
+		}, -- [31]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -858,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207315,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [32]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -880,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [33]
 		{
 			"Avalanche (1{rt1}) on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -902,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [34]
 		{
 			"Avalanche on Ceesong", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -924,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [35]
 		{
 			"Avalanche (2{rt2}) on Aspbringer", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -946,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAspbringer|r",
 			[51] = 1550207328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [36]
 		{
 			"Avalanche on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -968,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207389,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [37]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -990,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [38]
 		{
 			"Avalanche (1{rt1}) on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1012,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [39]
 		{
 			"Avalanche (2{rt2}) on Mçfreëzy", -- [1]
 			"Mçfreëzy-Kil'jaeden", -- [2]
@@ -1034,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaMçfreëzy|r",
 			[51] = 1550207450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [40]
 		{
 			"Avalanche on Slurry", -- [1]
 			"Slurry-Kil'jaeden", -- [2]
@@ -1056,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSlurry|r",
 			[51] = 1550207450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [41]
 		{
 			"Broadside 2 on {rt2}Ceesong{rt2}", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1078,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [42]
 		{
 			"{rt2}3", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1100,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207519,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [43]
 		{
 			"{rt2}2", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1122,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207520,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [44]
 		{
 			"{rt1}1", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1144,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1550207521,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [45]
 		{
 			"{rt2}1", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1166,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207521,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [46]
 		{
 			"Avalanche on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1188,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550207529,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [47]
 		{
 			"Avalanche on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1210,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550207529,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [48]
 		{
 			"Broadside 1 on {rt1}Khelikloth{rt1}", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1232,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [49]
 		{
 			"Broadside (3{rt3}) on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1254,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [50]
 		{
 			"{rt1}3", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1276,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207551,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [51]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1298,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207551,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [52]
 		{
 			"{rt1}2", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1320,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207552,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [53]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1342,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207552,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [54]
 		{
 			"{rt1}1", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1364,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207553,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [55]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1386,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207553,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [56]
 		{
 			"3", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1408,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFocalaire|r",
 			[51] = 1550207584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [57]
 		{
 			"{rt2}3", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1430,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [58]
 		{
 			"2", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1452,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFocalaire|r",
 			[51] = 1550207585,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [59]
 		{
 			"{rt2}2", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1474,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207585,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [60]
 		{
 			"1", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1496,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFocalaire|r",
 			[51] = 1550207586,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [61]
 		{
 			"{rt2}1", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1518,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207586,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [62]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1540,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [63]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1562,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207604,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [64]
 		{
 			"Avalanche on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1584,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207604,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [65]
 		{
 			"Broadside 3 on {rt3}Khell{rt3}", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -1606,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207613,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [66]
 		{
 			"Hand of Frost on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1628,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207614,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [67]
 		{
 			"Siegebreaker Blast on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1650,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207615,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [68]
 		{
 			"{rt3}3", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -1672,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207617,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [69]
 		{
 			"3", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -1694,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207617,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [70]
 		{
 			"Hand of Frost on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1716,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207617,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [71]
 		{
 			"Hand of Frost on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1738,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207617,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [72]
 		{
 			"{rt3}2", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -1760,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207618,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [73]
 		{
 			"2", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -1782,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207618,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [74]
 		{
 			"1", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -1804,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [75]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1826,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207620,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [76]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1848,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207621,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [77]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1870,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207622,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [78]
 		{
 			"Broadside 2 on {rt2}Ceesong{rt2}", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1892,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207645,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [79]
 		{
 			"Broadside 1 on {rt1}Ngow{rt1}", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1914,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207645,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [80]
 		{
 			"{rt2}3", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1936,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [81]
 		{
 			"{rt1}3", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1958,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [82]
 		{
 			"3", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -1980,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Sherbie!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2002,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [84]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2024,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [85]
 		{
 			"{rt2}2", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -2046,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [86]
 		{
 			"{rt1}2", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -2068,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [87]
 		{
 			"2", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -2090,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [88]
 		{
 			"{rt2}1", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -2112,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [89]
 		{
 			"1", -- [1]
 			"Soniç-Kil'jaeden", -- [2]
@@ -2134,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Soniç|r",
 			[51] = 1550207650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [90]
 		{
 			"{rt1}1", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -2156,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aNgow|r",
 			[51] = 1550207650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [91]
 		{
 			"Heart of Frost on Ceesong", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -2178,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCeesong|r",
 			[51] = 1550207743,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [92]
 		{
 			"Broadside 1 on {rt1}Khelikloth{rt1}", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2200,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Khelikloth|r",
 			[51] = 1550207775,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [93]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2222,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [94]
 		{
 			"Broadside (3{rt3}) on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2244,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550207822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [95]
 		{
 			"Broadside 1 on {rt1}Hetril{rt1}", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -2266,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaHetril|r",
 			[51] = 1550207822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [96]
 		{
 			"3", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2288,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550207825,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [97]
 		{
 			"2", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2310,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550207826,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [98]
 		{
 			"1", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2332,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550207827,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [99]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2354,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207839,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [106]
+		}, -- [100]
 		{
 			"! MORE PULL", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -2376,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207881,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [101]
 		{
 			"1", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -2398,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207883,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [102]
 		{
 			"10 more %", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -2420,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550207894,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [103]
 		{
 			"Not Well Fed (1): Skarsnik", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2442,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207932,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [110]
+		}, -- [104]
 		{
 			"No Flask (3): Orcbum, Sherbie, Soniç", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2464,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207932,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [111]
+		}, -- [105]
 		{
 			"No Augment Rune (16): Aspbringer, Ceesong, Focalaire, Hetril, Khelikloth, Khell, Mçfreëzy, Ngow, Orcbum, Papisalad, Sherbie, Skarsnik, Slurry, Soniç, Tosh, Voidthirst", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2486,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207932,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [112]
+		}, -- [106]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2508,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207932,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [113]
+		}, -- [107]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2530,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207943,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [114]
+		}, -- [108]
 		{
 			"last one for me", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -2552,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAspbringer|r",
 			[51] = 1550207963,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [109]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2574,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1550207966,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [110]
 		{
 			"Avalanche (3{rt3}) on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2596,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1550207978,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [111]
 		{
 			"Avalanche (2{rt2}) on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2618,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTosh|r",
 			[51] = 1550207978,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [112]
 		{
 			"1 more real attempt", -- [1]
 			"Khell-Kil'jaeden", -- [2]
@@ -2640,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKhell|r",
 			[51] = 1550208120,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [113]
 		{
 			"sorry- i gotta bounce >_<", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -2662,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAspbringer|r",
 			[51] = 1550208126,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [114]
 		{
 			"me too...wife's been waiting for me", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -2684,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaHetril|r",
 			[51] = 1550208145,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [115]
 		{
 			"i keep getting pressured by pauls feasts", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2706,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550208147,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [116]
 		{
 			"How to Bait a Foodie", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2728,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550208164,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [117]
 		{
 			"^", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2750,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550208173,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [118]
 		{
 			"GOODLUCK NEXT WEEK", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2772,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550208210,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [119]
 		{
 			"for reals", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2794,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1550208214,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [120]
 		{
 			"we'll need it ...hic!", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2816,6 +2684,138 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Voidthirst|r",
 			[51] = 1550208218,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-9-0A6CBDFD:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5461, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mahle|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0A6CBDFD:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5462, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mahle|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [123]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-9-0A6CBDFD:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5463, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mahle|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-9-0AD8140D:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Cheder-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cheder-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5464, -- [11]
+			"Player-9-0AD8140D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edCheder|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0AD8140D:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Cheder-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cheder-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5465, -- [11]
+			"Player-9-0AD8140D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edCheder|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-9-0AD8140D:1:2:15:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Cheder-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cheder-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5466, -- [11]
+			"Player-9-0AD8140D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edCheder|r",
+			[51] = 1550303351,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

@@ -7,14 +7,15 @@ OneRing_Config = {
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
-				["RaidSymbols"] = "ALT-E",
-				["WorldMarkers"] = "ALT-Q",
 				["SpecMenu"] = false,
-				["OPieTracking"] = false,
 				["CommonTrades"] = false,
 				["DruidShift"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["DruidFeral"] = false,
+				["RaidSymbols"] = "ALT-E",
+				["WorldMarkers"] = "ALT-Q",
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["PaladinAuras"] = false,
 			},
 		},
 	},
