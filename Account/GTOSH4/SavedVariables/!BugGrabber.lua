@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 358,
 	["lastSanitation"] = 3,
+	["session"] = 365,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MainMenuBar:SetPoint()'.",
@@ -27,33 +27,41 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [3]
 		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AAP-Core' tried to call the protected function 'EditMacro()'.",
+			["time"] = "2019/02/16 14:26:26",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `EditMacro'\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:2497: in function `MacroUpdater'\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:908: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:601>\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:4220: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4144>",
+			["session"] = 361,
+			["counter"] = 1,
+		}, -- [4]
+		{
+			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
+			["time"] = "2019/02/13 15:33:15",
+			["session"] = 365,
+			["counter"] = 225,
+		}, -- [5]
+		{
+			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
+			["time"] = "2019/02/13 15:33:24",
+			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 365,
+			["counter"] = 45,
+		}, -- [6]
+		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
 			["time"] = "2019/02/14 09:06:44",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:519: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
-			["session"] = 346,
-			["counter"] = 4,
-		}, -- [4]
+			["session"] = 365,
+			["counter"] = 5,
+		}, -- [7]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
 			["time"] = "2019/02/14 09:06:44",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:519: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
-			["session"] = 346,
-			["counter"] = 4,
-		}, -- [5]
-		{
-			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
-			["session"] = 358,
-			["time"] = "2019/02/13 15:33:15",
-			["counter"] = 190,
-		}, -- [6]
-		{
-			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
-			["time"] = "2019/02/13 15:33:24",
-			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 358,
-			["counter"] = 38,
-		}, -- [7]
+			["session"] = 365,
+			["counter"] = 5,
+		}, -- [8]
 	},
 }

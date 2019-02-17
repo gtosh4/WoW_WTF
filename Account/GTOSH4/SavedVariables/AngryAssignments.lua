@@ -19,8 +19,15 @@ AngryAssign_Pages = {
 		["Name"] = "H Conclave",
 		["Id"] = 653022546,
 		["UpdateId"] = 2086467670,
-		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Yuumi",
 		["CategoryId"] = 2406605962,
+		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Yuumi",
+	},
+	[2057181718] = {
+		["Updated"] = 1550379648,
+		["Name"] = "M Rasta",
+		["Id"] = 2057181718,
+		["UpdateId"] = 2950647030,
+		["Contents"] = "Leap 1    Spellwarding        \nDet 1    ||cshamanJ.SLT||r    ||cdemonhunterA.dark||r    ||cmonkB.rev||r   \nDet 2    ||cpriestT.ramp||r    ||cpriestY.salv||r\nLeap 2    ||cpriestT.barrier||r    ||cpriestY.hymn||r    \nDet 3    ||cmonkY.rev||r        \nDet 4    ||cshamanJ.HT||r        \nDet 5    ||cpriestT.ramp||r    ||cwarriorB.shout||r    \nDet 6    ||cshamanJ.SLT||r    ||cdemonhunterA.dark||r    \nSPLIT\nDet 7    ||cpriestY.hymn||r    ||cpriestT.barrier||r    \nDet 8    ||cpriestT.ramp||r    ||cwarriorF.shout||r    \nTOGETHER\nDet 9    ||cshamanJ.HT||r        \nDet 10    ||cmonkY.rev||r    ||cwarriorB.shout||r    \nDet 11    ||cpriestT.ramp||r    ||cpriestY.salv||r    \nDet 12    ||cshamanJ.SLT||r    ||cdemonhunterA.dark||r    \nDet 13    ||cmonkB.rev||r    ||cpriestY.hymn||r    ||cpriestT.barrier||r\n\n1. boomies\n2. knoss/thun\n3. merk/nav\n4. LOGO/soda\n5. yuki/cj",
 	},
 	[816559991] = {
 		["Updated"] = 1549592540,
@@ -83,8 +90,8 @@ AngryAssign_Pages = {
 		["Name"] = "H Grong",
 		["Id"] = 1764615927,
 		["UpdateId"] = 454805334,
-		["Contents"] = "Interrupts\n||chunterThunderrz||r > ||cdemonhunterAndruww||r >\n||crogueMelborn||r > ||cwarriorPride||r > ||cwarriorFridaa||r\n\n\nPicking up Core\n||cmonkYuumi||r\n\nHealing CDs\n1st tantrum Tehkz(ramp) / Jess(hymn) / lohgical(AC)\n2nd tantrum Bailey / Gordy / AM\n3rd tantrum Tehkz(ramp) / Jess(salv) / lohgical(AC)",
 		["CategoryId"] = 2406605962,
+		["Contents"] = "Interrupts\n||chunterThunderrz||r > ||cdemonhunterAndruww||r >\n||crogueMelborn||r > ||cwarriorPride||r > ||cwarriorFridaa||r\n\n\nPicking up Core\n||cmonkYuumi||r\n\nHealing CDs\n1st tantrum Tehkz(ramp) / Jess(hymn) / lohgical(AC)\n2nd tantrum Bailey / Gordy / AM\n3rd tantrum Tehkz(ramp) / Jess(salv) / lohgical(AC)",
 	},
 	[1328523944] = {
 		["Updated"] = 1550281681,
@@ -98,8 +105,8 @@ AngryAssign_Pages = {
 		["Name"] = "H Opulence",
 		["Id"] = 3754423109,
 		["UpdateId"] = 490065121,
-		["Contents"] = "Tanks - Diamond\nTehkz / Jess - Amethyst\nLoh / Gord / Bails - Sapphire\nLeft Ruby - moon\nRight Ruby - frida\n\n\nHealing CDs\n6:38 jess salv\n7:09 jess hymn\n7:27 tekhz ramp\n7:39 Lohgical AC\n8:10 tehkz barrier\n8:38 Lohgical AM\n8:48 nothing\n9:18 Gordy\n9:50 tehkz ramp + bails\n10:01 lohgical AC",
 		["CategoryId"] = 2406605962,
+		["Contents"] = "Tanks - Diamond\nTehkz / Jess - Amethyst\nLoh / Gord / Bails - Sapphire\nLeft Ruby - moon\nRight Ruby - frida\n\n\nHealing CDs\n6:38 jess salv\n7:09 jess hymn\n7:27 tekhz ramp\n7:39 Lohgical AC\n8:10 tehkz barrier\n8:38 Lohgical AM\n8:48 nothing\n9:18 Gordy\n9:50 tehkz ramp + bails\n10:01 lohgical AC",
 	},
 	[2697659300] = {
 		["Updated"] = 1550288083,
@@ -130,6 +137,25 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
+	["directionUp"] = false,
+	["locked"] = true,
+	["window"] = {
+		["height"] = 500.000244140625,
+		["top"] = 1114.0537109375,
+		["left"] = 602.059631347656,
+		["width"] = 699.999877929688,
+	},
+	["tree"] = {
+		["groups"] = {
+			["134906466"] = true,
+			[-2406605962] = false,
+		},
+		["scrollvalue"] = 0,
+		["selected"] = 3846756481,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 665.999877929688,
+	},
 	["display"] = {
 		["y"] = -204.501708984375,
 		["x"] = -716.544006347656,
@@ -138,25 +164,6 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 441.008666992188,
 	},
-	["locked"] = true,
-	["tree"] = {
-		["groups"] = {
-			["134906466"] = true,
-			[-2406605962] = false,
-		},
-		["scrollvalue"] = 0,
-		["fullwidth"] = 665.999877929688,
-		["selected"] = 3846756481,
-		["treewidth"] = 175,
-		["treesizable"] = true,
-	},
-	["window"] = {
-		["height"] = 500.000244140625,
-		["top"] = 1114.0537109375,
-		["left"] = 602.059631347656,
-		["width"] = 699.999877929688,
-	},
-	["directionUp"] = false,
 }
 AngryAssign_Config = {
 	["backdropShow"] = true,

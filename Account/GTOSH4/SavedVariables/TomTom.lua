@@ -32,6 +32,28 @@ TomTomWaypointsM = {
 		["Tosh - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+			[942] = {
+				["942:472205460.07156:658281981.94504:Whiplash"] = {
+					942, -- [1]
+					0.472205460071564, -- [2]
+					0.658281981945038, -- [3]
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Whiplash",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Yuumi - Kil'jaeden"] = {
 			[629] = {
