@@ -1,19 +1,19 @@
 
 BigWigs3DB = {
+	["global"] = {
+		["watchedMovies"] = {
+			[-557] = true,
+			[-367] = true,
+			[876] = true,
+			[-1004] = true,
+		},
+	},
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
-	},
-	["global"] = {
-		["watchedMovies"] = {
-			[876] = true,
-			[-367] = true,
-			[-1004] = true,
-			[-557] = true,
-		},
 	},
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
@@ -26,65 +26,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Atal'Dazar Trash"] = {
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
 					["posx"] = 401.594123936691,
-					["fontName"] = "Friz Quadrata TT",
 					["posy"] = 420.801483970972,
+					["fontName"] = "Friz Quadrata TT",
 					["lock"] = true,
 				},
 			},
 		},
 		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Bosses_Vol'kaal"] = {
-		},
-		["BigWigs_Bosses_Mogul Razzdunk"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_King's Rest Trash"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[284362] = 1032439,
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Coin-Operated Crowd Pummeler"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
-					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-				},
-			},
-		},
-		["BigWigs_Bosses_Champion of the Light Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[284474] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_The Golden Serpent"] = {
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Bosses_Yazma"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -95,17 +47,23 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Tik'ali"] = {
+		["BigWigs_Bosses_High Tinker Mekkatorque"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282153] = 1032951,
+				},
+			},
 		},
-		["BigWigs_Bosses_Dazar, The First King"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Bosses_The Council of Tribes"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[286988] = 1032951,
+				},
+			},
 		},
-		["BigWigs_Bosses_Mchimba the Embalmer"] = {
-		},
-		["BigWigs_Bosses_Priestess Alun'za"] = {
-		},
-		["BigWigs_Bosses_The MOTHERLODE!! Trash"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -116,7 +74,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -130,68 +88,80 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["outline"] = "OUTLINE",
-					["BigWigsAnchor_width"] = 200.037536621094,
-					["BigWigsAnchor_x"] = 675.743157964433,
-					["BigWigsEmphasizeAnchor_height"] = 19.9999847412109,
-					["growup"] = false,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 19.9999847412109,
-					["emphasizeMove"] = false,
 					["visibleBarLimit"] = 15,
+					["BigWigsAnchor_width"] = 200.037536621094,
 					["BigWigsAnchor_y"] = 257.60125702105,
+					["BigWigsAnchor_x"] = 675.743157964433,
 					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins",
+					["BigWigsEmphasizeAnchor_height"] = 19.9999847412109,
+					["growup"] = false,
 					["BigWigsEmphasizeAnchor_width"] = 200.037536621094,
-					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["texture"] = "ElvUI Norm",
-					["emphasizeMultiplier"] = 1,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 19.9999847412109,
 					["fontSizeEmph"] = 11,
+					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
+					["texture"] = "ElvUI Norm",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["emphasizeMultiplier"] = 1,
+					["emphasizeMove"] = false,
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[284362] = 1032439,
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
+					["fontName"] = "Friz Quadrata TT",
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+				},
+			},
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Bosses_Rixxa Fluxflame"] = {
-		},
-		["BigWigs_Bosses_High Tinker Mekkatorque"] = {
+		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282153] = 1032951,
+					["posx"] = 402.655939044766,
+					["posy"] = 517.864880098772,
+					["height"] = 120.000015258789,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000122070313,
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Bosses_Champion of the Light Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[284474] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
 		},
 		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
 				["Default"] = {
 					[285994] = 1032439,
 					[289401] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000122070313,
-					["posy"] = 517.864880098772,
-					["height"] = 120.000015258789,
-					["posx"] = 402.655939044766,
-				},
-			},
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_Pull"] = {
-		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[286988] = 1032951,
 				},
 			},
 		},

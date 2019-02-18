@@ -37,20 +37,30 @@ TomTomWaypointsM = {
 					942, -- [1]
 					0.472205460071564, -- [2]
 					0.658281981945038, -- [3]
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Whiplash",
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
-					["crazy"] = true,
 					["persistent"] = true,
+					["desc"] = "Whiplash",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Whiplash",
+					["crazy"] = true,
+					["minimap"] = true,
 					["world"] = true,
 				},
 			},

@@ -101,34 +101,35 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["topViewport"] = 0,
 			["interrupt"] = true,
 			["gmotd"] = {
-				[""] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
+				[""] = true,
 			},
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["skingmotd"] = true,
-			["bottomViewport"] = 0,
 			["font"] = "bdFont",
+			["skingmotd"] = true,
 			["changefonts"] = true,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
-			["topViewport"] = 0,
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

@@ -1,271 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p all the CDs were based off of bailey going down and lohgical playing pally", -- [1]
-		"/p so these were a bit of a rush", -- [2]
-		"/cw Bailey since you're not down, you can rev on det 6 where his SLT would be", -- [3]
-		"/p his SLT's back up", -- [4]
-		"/p for that", -- [5]
-		"/cw Bailey-Kil'jaeden yeah, I didn't really explain it; I appreciate you did it without hesitation <3", -- [6]
-		"/cw Bailey-Kil'jaeden btw, I hope you don't mind me kinda solo-ing the CDs, I figured you've been busy with IRL stuff which is obv more important", -- [7]
-		"/grid2", -- [8]
-		"/cw Dankox-Kil'jaeden ya", -- [9]
-		"/cw Dankox-Kil'jaeden yeah", -- [10]
-		"/cw Dankox-Kil'jaeden I can do it", -- [11]
-		"/cw Dankox-Kil'jaeden I should've been", -- [12]
-		"/o toshaman", -- [13]
-		"/o is ready", -- [14]
-		"/o almost", -- [15]
-		"/bw", -- [16]
-		"/wa", -- [17]
-		"/dn", -- [18]
-		" hey dude heard you killed the boss", -- [19]
-		" grats!", -- [20]
+		"/p his SLT's back up", -- [1]
+		"/p for that", -- [2]
+		"/cw Bailey-Kil'jaeden yeah, I didn't really explain it; I appreciate you did it without hesitation <3", -- [3]
+		"/cw Bailey-Kil'jaeden btw, I hope you don't mind me kinda solo-ing the CDs, I figured you've been busy with IRL stuff which is obv more important", -- [4]
+		"/grid2", -- [5]
+		"/cw Dankox-Kil'jaeden ya", -- [6]
+		"/cw Dankox-Kil'jaeden yeah", -- [7]
+		"/cw Dankox-Kil'jaeden I can do it", -- [8]
+		"/cw Dankox-Kil'jaeden I should've been", -- [9]
+		"/o toshaman", -- [10]
+		"/o is ready", -- [11]
+		"/o almost", -- [12]
+		"/bw", -- [13]
+		"/wa", -- [14]
+		"/dn", -- [15]
+		" hey dude heard you killed the boss", -- [16]
+		" grats!", -- [17]
+		" hi", -- [18]
+		" wyd", -- [19]
+		" m0s?", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Fire on Tehkz", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4479, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1550384059,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Fire on Dankox", -- [1]
-			"Dankox-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Dankox-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4481, -- [11]
-			"Player-9-0B4E75C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Dankox|r",
-			[51] = 1550384060,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Uruk gi Rath'is", -- [1]
-			"Navaria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navaria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4482, -- [11]
-			"Player-9-0B4F7BDA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffNavaria|r",
-			[51] = 1550384060,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Fire on Melborn", -- [1]
-			"Melborn-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Melborn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4486, -- [11]
-			"Player-9-0B026A30", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Melborn|r",
-			[51] = 1550384062,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Fire on Fridaa", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4487, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550384062,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Uruk gi Rath'is", -- [1]
-			"Navaria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navaria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4489, -- [11]
-			"Player-9-0B4F7BDA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffNavaria|r",
-			[51] = 1550384063,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Fire on Sodalock", -- [1]
-			"Sodalock-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Sodalock-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4490, -- [11]
-			"Player-9-0B1EDC03", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSodalock|r",
-			[51] = 1550384064,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Uruk gi Rath'is", -- [1]
-			"Navaria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navaria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4492, -- [11]
-			"Player-9-0B4F7BDA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffNavaria|r",
-			[51] = 1550384066,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"uh what", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4496, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1550384070,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"fuckin rip", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4499, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1550384083,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"hey dude heard you killed the boss", -- [1]
-			"|Kq49|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4503, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Haxpaxington|r",
-			[51] = 1550384095,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Haxpaxington",
-		}, -- [11]
 		{
 			"I heard \"I can't reset\"", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -287,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550384098,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [1]
 		{
 			"grats!", -- [1]
 			"|Kq49|k", -- [2]
@@ -310,7 +67,7 @@ ElvCharacterDB = {
 			[51] = 1550384098,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Haxpaxington",
-		}, -- [13]
+		}, -- [2]
 		{
 			"can we fucking reee louder into discord please", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -332,7 +89,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384117,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [3]
 		{
 			"likewise", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -354,7 +111,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384120,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [4]
 		{
 			"this mount is sick", -- [1]
 			"|Kq49|k", -- [2]
@@ -377,7 +134,7 @@ ElvCharacterDB = {
 			[51] = 1550384123,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Haxpaxington",
-		}, -- [16]
+		}, -- [5]
 		{
 			"im almost there", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -399,7 +156,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384124,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [6]
 		{
 			"CAN WE STOP SCREWING AROUND", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -421,7 +178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384130,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [7]
 		{
 			"nope", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -443,7 +200,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384137,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [8]
 		{
 			"THIS BOSS CAN DIE", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -465,7 +222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384142,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
+		}, -- [9]
 		{
 			"i dced", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -487,7 +244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550384145,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [10]
 		{
 			":)", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -509,7 +266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550384148,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [11]
 		{
 			"I DON'T NEED YOU TO DEFEND ME", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -531,7 +288,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [12]
 		{
 			"@_@", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -553,7 +310,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaYukio|r",
 			[51] = 1550384152,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [13]
 		{
 			"Thoq ez  za N'lyeth", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -575,7 +332,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550384180,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [14]
 		{
 			"Meteor Leap on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -597,7 +354,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384187,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [15]
 		{
 			"3", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -619,7 +376,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384188,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [16]
 		{
 			"2", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -641,7 +398,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [17]
 		{
 			"1", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -663,7 +420,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [18]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11212:Player-9-0B47DAF6:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Raise an Army]|h|r!", -- [1]
 			"Ispyyou-Kil'jaeden", -- [2]
@@ -685,7 +442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ispyyou|r",
 			[51] = 1550384195,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [30]
+		}, -- [19]
 		{
 			"Seal of Purification on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -707,7 +464,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384205,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [20]
 		{
 			"Fire on Fridaa", -- [1]
 			"Fridaa-Kil'jaeden", -- [2]
@@ -729,7 +486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dFridaa|r",
 			[51] = 1550384261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [21]
 		{
 			"Plague of Fire on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -751,7 +508,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550384261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [22]
 		{
 			"Fire on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -773,7 +530,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [23]
 		{
 			"Fire on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -795,7 +552,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [24]
 		{
 			"Fire on Sodalock", -- [1]
 			"Sodalock-Kil'jaeden", -- [2]
@@ -817,7 +574,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edSodalock|r",
 			[51] = 1550384263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [25]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -839,7 +596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [26]
 		{
 			"Fire on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -861,7 +618,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [27]
 		{
 			"Fire on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -883,7 +640,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [28]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -905,7 +662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [29]
 		{
 			"Fire on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -927,7 +684,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550384264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [30]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -949,7 +706,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [31]
 		{
 			"Fire on Sodalock", -- [1]
 			"Sodalock-Kil'jaeden", -- [2]
@@ -971,7 +728,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edSodalock|r",
 			[51] = 1550384265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [32]
 		{
 			"Fire on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -993,7 +750,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [33]
 		{
 			"Fire on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -1015,7 +772,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550384266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [34]
 		{
 			"Fire on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1037,7 +794,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [35]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1059,7 +816,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384268,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [36]
 		{
 			"Fire on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1081,7 +838,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550384287,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [37]
 		{
 			"Fire on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -1103,7 +860,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550384289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [38]
 		{
 			"3", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1125,7 +882,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384312,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [39]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1147,7 +904,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [40]
 		{
 			"2", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1169,7 +926,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [41]
 		{
 			"Fire on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1191,7 +948,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [42]
 		{
 			"Fire on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1213,7 +970,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [43]
 		{
 			"1", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1235,7 +992,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384314,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [44]
 		{
 			"Fire on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1257,7 +1014,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384315,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [45]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1279,7 +1036,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384316,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [46]
 		{
 			"Mass Resurrection!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1301,7 +1058,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384337,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [47]
 		{
 			"just get it in tight", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1323,7 +1080,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [48]
 		{
 			"I feel I'm loosing brain cells ", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1345,7 +1102,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Thunderrz|r",
 			[51] = 1550384376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [49]
 		{
 			"jess tehkz", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1367,7 +1124,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384376,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [50]
 		{
 			"can you guys shining force", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1389,7 +1146,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384379,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [51]
 		{
 			"2 and 4", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1411,7 +1168,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384380,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [52]
 		{
 			"MC", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1433,7 +1190,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384381,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [53]
 		{
 			"Pepega", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1455,7 +1212,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384381,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [54]
 		{
 			"ya", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1477,7 +1234,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384383,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [55]
 		{
 			"since its not getting tremorred", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1499,7 +1256,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384384,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
+		}, -- [56]
 		{
 			"frida told me", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1521,7 +1278,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384384,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [57]
 		{
 			"its 1 3", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1543,7 +1300,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384386,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [58]
 		{
 			"but no one allowing anyone to talk", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1565,7 +1322,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384390,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [59]
 		{
 			"so", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1587,7 +1344,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384391,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [60]
 		{
 			"ya cj", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1609,7 +1366,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
+		}, -- [61]
 		{
 			"soda", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1631,7 +1388,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [62]
 		{
 			"BigWigs:  King Rastakhan", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1653,7 +1410,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384425,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:284831:0|h[Scorching Detonation]|h|r |cff71d5ff|Hspell:284933:0|h[Plague of Toads]|h|r |cff71d5ff|Hspell:285172:0|h[Greater Serpent Totem]|h|r |cff71d5ff|Hspell:290450:0|h[Seal of Purification]|h|r", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1675,7 +1432,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384425,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:284686:0|h[Meteor Leap]|h|r |cff71d5ff|Hspell:284719:0|h[Crushing Leap]|h|r |cff71d5ff|Hspell:284781:0|h[Grievous Axe]|h|r |cff71d5ff|Hspell:285346:0|h[Plague of Fire]|h|r |cff71d5ff|Hspell:285003:0|h[Zombie Dust Totem]|h|r", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1697,7 +1454,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384425,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:285213:0|h[Caress of Death]|h|r |cff71d5ff|Hspell:288449:0|h[Death's Door]|h|r |cff71d5ff|Hspell:287333:0|h[Inevitable End]|h|r |cff71d5ff|Hspell:286742:0|h[Necrotic Smash]|h|r", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1719,7 +1476,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384425,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [66]
 		{
 			"alec", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1741,7 +1498,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384428,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
+		}, -- [67]
 		{
 			".", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1763,7 +1520,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384429,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [68]
 		{
 			"same", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1785,7 +1542,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384430,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [69]
 		{
 			"Seal of Purification on Merkyah", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -1807,7 +1564,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550384445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [70]
 		{
 			"Zaga gi Golgonnashar gi Rath'is", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -1829,7 +1586,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550384470,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [71]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1851,7 +1608,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [72]
 		{
 			"Fire on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -1873,7 +1630,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [73]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1895,7 +1652,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [74]
 		{
 			"Plague of Fire on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1917,7 +1674,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550384535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [75]
 		{
 			"Fire on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -1939,7 +1696,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550384535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [76]
 		{
 			"Fire on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1961,7 +1718,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [77]
 		{
 			"Fire on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -1983,7 +1740,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550384535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [78]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2005,7 +1762,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384537,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [79]
 		{
 			"Fire on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2027,7 +1784,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550384537,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [80]
 		{
 			"Fire on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2049,7 +1806,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550384537,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [81]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2071,7 +1828,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384537,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [82]
 		{
 			"Fire on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -2093,7 +1850,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550384537,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [83]
 		{
 			"Fire on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2115,7 +1872,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384538,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [84]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2137,7 +1894,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384538,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [85]
 		{
 			"Fire on Sodalock", -- [1]
 			"Sodalock-Kil'jaeden", -- [2]
@@ -2159,7 +1916,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edSodalock|r",
 			[51] = 1550384558,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [86]
 		{
 			"Fire on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2181,7 +1938,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384558,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [87]
 		{
 			"Fire on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2203,7 +1960,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550384583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [88]
 		{
 			"3", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -2225,7 +1982,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550384584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [89]
 		{
 			"Fire on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2247,7 +2004,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [90]
 		{
 			"Plague of Fire on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2269,7 +2026,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550384584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [91]
 		{
 			"2", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -2291,7 +2048,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550384584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [92]
 		{
 			"Death's Door on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2313,7 +2070,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550384606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [93]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2335,7 +2092,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [94]
 		{
 			"Fire on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2357,7 +2114,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [95]
 		{
 			"Fire on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2379,7 +2136,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550384609,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [96]
 		{
 			"Fire on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2401,7 +2158,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550384611,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [97]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2423,7 +2180,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384611,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [98]
 		{
 			"Fire on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -2445,7 +2202,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550384633,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [99]
 		{
 			"Fire on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2467,7 +2224,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550384634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [100]
 		{
 			"Fire on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -2489,7 +2246,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550384634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [101]
 		{
 			"Tehkz gripped Nv", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2511,7 +2268,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [102]
 		{
 			"Fire on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -2533,7 +2290,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550384690,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [103]
 		{
 			"Fire on Tehkz", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2555,7 +2312,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550384690,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [104]
 		{
 			"Fire on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2577,7 +2334,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550384691,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [105]
 		{
 			"Fire on Fridaa", -- [1]
 			"Fridaa-Kil'jaeden", -- [2]
@@ -2599,7 +2356,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dFridaa|r",
 			[51] = 1550384691,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [106]
 		{
 			"Fire on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2621,7 +2378,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1550384691,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [107]
 		{
 			"Fire on Nv", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2643,7 +2400,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550384693,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [108]
 		{
 			"RELOGGING", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2665,7 +2422,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550384717,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [109]
 		{
 			"got mc'd through the poision", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2687,7 +2444,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384725,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [110]
 		{
 			";-;", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2709,7 +2466,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384727,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [111]
 		{
 			":-(", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2731,7 +2488,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550384756,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [112]
 		{
 			"i'm sad", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2753,7 +2510,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550384763,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [113]
 		{
 			"same", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2775,7 +2532,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550384767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [125]
+		}, -- [114]
 		{
 			"YUKI WEHRE'S THE PORT", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2797,7 +2554,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384806,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [115]
 		{
 			"yikes", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2818,6 +2575,253 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550384808,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"hi", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEnvious|r",
+			[51] = 1550463278,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [117]
+		{
+			"hey", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEnvious|r",
+			[51] = 1550463282,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [118]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4624:Player-9-0B092D03:1:2:17:19:4294967295:4294967295:4294967295:4294967295|h[Tough Love]|h|r!", -- [1]
+			"Bloodstain-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bloodstain-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-9-0B092D03", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aBloodstain|r",
+			[51] = 1550463283,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [119]
+		{
+			"wyd", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEnvious|r",
+			[51] = 1550463288,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [120]
+		{
+			"nada", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEnvious|r",
+			[51] = 1550463292,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [121]
+		{
+			"m0s?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aEnvious|r",
+			[51] = 1550463301,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [122]
+		{
+			"wait oreo", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPluie|r",
+			[51] = 1550463359,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"did you run out of sanguicells", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPluie|r",
+			[51] = 1550463365,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"i assume?", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPluie|r",
+			[51] = 1550463367,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"yeah", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-9-0B390464", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1550463373,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"ok", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPluie|r",
+			[51] = 1550463375,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
