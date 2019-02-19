@@ -1,50 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" so I can talk to them", -- [1]
-		"/p hey team", -- [2]
-		"/p dispellers", -- [3]
-		"/p if someone's < 50% hp, just go ahead and dispell", -- [4]
-		"/p I won't be able to call them all", -- [5]
-		"/p but while there's only 1 or 2 out I'll do all of them", -- [6]
-		"/o we're talking", -- [7]
-		"/o we got it I think", -- [8]
-		"/p k, so starting with wrath 3 especially", -- [9]
-		"/p I'll need help dispelling", -- [10]
-		"/p for the mind wipes? or for offensive", -- [11]
-		"/p or misdirect not mass dispel", -- [12]
-		"/p right", -- [13]
-		"/p idk", -- [14]
-		"/o it's 'cuz they got stacked", -- [15]
-		"/o that akunda died", -- [16]
-		"/o at a bad time", -- [17]
-		"/o yeah, it's ok", -- [18]
-		"/p it's 1st and 4th", -- [19]
-		"/p wraths", -- [20]
+		"/p hey team", -- [1]
+		"/p dispellers", -- [2]
+		"/p if someone's < 50% hp, just go ahead and dispell", -- [3]
+		"/p I won't be able to call them all", -- [4]
+		"/p but while there's only 1 or 2 out I'll do all of them", -- [5]
+		"/o we're talking", -- [6]
+		"/o we got it I think", -- [7]
+		"/p k, so starting with wrath 3 especially", -- [8]
+		"/p I'll need help dispelling", -- [9]
+		"/p for the mind wipes? or for offensive", -- [10]
+		"/p or misdirect not mass dispel", -- [11]
+		"/p right", -- [12]
+		"/p idk", -- [13]
+		"/o it's 'cuz they got stacked", -- [14]
+		"/o that akunda died", -- [15]
+		"/o at a bad time", -- [16]
+		"/o yeah, it's ok", -- [17]
+		"/p it's 1st and 4th", -- [18]
+		"/p wraths", -- [19]
+		"/alto show", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Mark of Prey on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2193, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1550373543,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
 		{
 			"Mark of Prey on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Leap on Tehkz", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550373548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Kimbul's Wrath on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"Kimbul's Wrath on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Leap on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"Mark of Prey on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550373549,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Mark of Prey on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Qwor ez Ongg za N'lyeth", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550373589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Mark of Prey on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1550373589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Mark of Prey on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Mark of Prey on Nv", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Mark of Prey on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Kimbul's Wrath on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550373608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Leap on Moonblight", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Leap on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Thunderrz|r",
 			[51] = 1550373608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [15]
 		{
 			"Kimbul's Wrath on Sodalock", -- [1]
 			"Sodalock-Kil'jaeden", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edSodalock|r",
 			[51] = 1550373608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"Akunda's Wrath on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"Akunda's Wrath on Merkyah", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550373627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"Akunda's Wrath on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Thunderrz|r",
 			[51] = 1550373627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"Ye'tarIn W'ssh za N'lyeth", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550373627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"Akunda's Wrath on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373627,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"3", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373630,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"2", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"1", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"Mark of Prey on Yukio", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaYukio|r",
 			[51] = 1550373654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"Mark of Prey on Moonblight", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"Mark of Prey on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [29]
 		{
 			"Mark of Prey on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550373666,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [30]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Leap on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"Leap on Iko", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"Kog'zeLa Nogah gi Rath'is", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"Leap on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373685,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373685,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [38]
 		{
 			"Akunda's Wrath on Yukio", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaYukio|r",
 			[51] = 1550373687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"Akunda's Wrath on Merkyah", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550373687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Akunda's Wrath on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"Ye'tarIn W'ssh za N'lyeth", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550373687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"Akunda's Wrath on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550373687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373690,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaYukio|r",
 			[51] = 1550373692,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373696,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [46]
 		{
 			"Mark of Prey on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [47]
 		{
 			"Mark of Prey on Bailey", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550373714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [48]
 		{
 			"Mark of Prey on Jumpah", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550373714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [49]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [50]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [51]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373724,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [52]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373724,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"Mark of Prey on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550373725,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"Leap on Merkyah", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550373728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"Kimbul's Wrath on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"Leap on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1550373728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"Kimbul's Wrath on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"Mark of Prey on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550373738,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"Akunda's Wrath on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Akunda's Wrath on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"Akunda's Wrath on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"Akunda's Wrath on Moonblight", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"Akunda's Wrath on Pride", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"Akunda's Wrath on Melborn", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373747,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"3", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373750,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373750,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373750,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373750,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"3", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373750,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"2", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373751,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"2", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373751,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"2", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373751,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"1", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373752,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"Tehkz gripped Nv", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"Mark of Prey on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1550373774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Mark of Prey on Knoss", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550373774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [77]
 		{
 			"Mark of Prey on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Thunderrz|r",
 			[51] = 1550373774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [78]
 		{
 			"Mark of Prey on Dankox", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550373774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [79]
 		{
 			"Mark of Prey on Tehkz", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550373781,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"Mark of Prey on Tehkz", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550373785,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [81]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B4BF011:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffTehkz|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B081794:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Thunderrz|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [84]
+		}, -- [83]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0AF1840D:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [85]
+		}, -- [84]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-09C29B10:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Merkyah-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Merkyah|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+		}, -- [85]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0A76F241:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [87]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0AFB89C2:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaYukio|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [88]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B1322AE:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aMoonblight|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-08462094:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [90]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B390464:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [91]
+		}, -- [90]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B1541E0:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [92]
+		}, -- [91]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0A76FA3F:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
+		}, -- [92]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0A7EC3E5:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [93]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B363945:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B24697B:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Knoss|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [95]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0AE4E8BB:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [96]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B1EDC03:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Sodalock-Kil'jaeden", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edSodalock|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [97]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B4E75C8:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Dankox-Kil'jaeden", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Dankox|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [99]
+		}, -- [98]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B4F7BDA:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNavaria|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [100]
+		}, -- [99]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B026A30:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Melborn-Kil'jaeden", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Melborn|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [101]
+		}, -- [100]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0B56AC37:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550373786,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [102]
+		}, -- [101]
 		{
 			"gz!", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlueflame|r",
 			[51] = 1550373790,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [102]
 		{
 			"Mass Resurrection!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373790,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [103]
 		{
 			"EZ CLAP", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaArnbjørn|r",
 			[51] = 1550373793,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [104]
 		{
 			"Goood job guys!", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBlueflame|r",
 			[51] = 1550373797,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [105]
 		{
 			"GRATS", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Illsong|r",
 			[51] = 1550373801,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [106]
 		{
 			"|Kv43|k", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550373816,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [108]
+		}, -- [107]
 		{
 			"|cffa335ee|Hitem:165532::::::::120:264::6:4:4824:1537:4786:5419:::|h[Gonk's Scale Robes]|h|r|cff0070dd|Hitem:165846::::::::120:264::6::::|h[Enchanted Talon of Pa'ku]|h|r :D", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550373825,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [108]
 		{
 			"|cffa335ee|Hitem:165833::::::::120:66::6:4:4824:1537:4786:5419:::|h[Vestments of Indomitable Will]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373839,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [110]
+		}, -- [109]
 		{
 			"|cff71d5ff|Hspell:273367:0|h[Power of the Moon]|h|r|cff71d5ff|Hspell:278507:0|h[Lunar Shrapnel]|h|r|cff71d5ff|Hspell:278505:0|h[High Noon]|h|r|cff71d5ff|Hspell:288749:0|h[Seductive Power]|h|r", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550373883,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [110]
 		{
 			"|Kv44|k", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373910,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [112]
+		}, -- [111]
 		{
 			"|Kv45|k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373915,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [113]
+		}, -- [112]
 		{
 			"|Kv46|k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373916,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [114]
+		}, -- [113]
 		{
 			"|Kv47|k", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373918,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [115]
+		}, -- [114]
 		{
 			"|Kv48|k", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1550373919,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [116]
+		}, -- [115]
 		{
 			"ok real quick before i forget this for next week, near the end there we need to delay the decurses until the paku probably", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373931,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [117]
+		}, -- [116]
 		{
 			"to get use out of the 6sec downtime", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373937,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [118]
+		}, -- [117]
 		{
 			"ikoreonzul", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550373937,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [118]
 		{
 			"|Kv49|k", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Bailey|r",
 			[51] = 1550373939,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [120]
+		}, -- [119]
 		{
 			"name it ioy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373951,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [120]
 		{
 			"iyo?", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373953,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [121]
 		{
 			"yoi?", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffYellowy|r",
 			[51] = 1550373956,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [122]
 		{
 			"cause its like you said where its pretty predictable the damage and before paku theres not much", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWarlockmania|r",
 			[51] = 1550373964,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [124]
+		}, -- [123]
 		{
 			"rip pally", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550374001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [124]
 		{
 			"lol", -- [1]
 			"Jumpah-Kil'jaeden", -- [2]
@@ -2794,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJumpah|r",
 			[51] = 1550374003,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [125]
 		{
 			"just warrior tanks too man", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2815,6 +2793,28 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550467842,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"|cffffffff|Hitem:18232::::::::120:72::::::|h[Field Repair Bot 74A]|h|r|cffffffff|Hitem:34113::::::::120:72::::::|h[Field Repair Bot 110G]|h|r", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1749, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1550520169,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},

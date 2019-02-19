@@ -1,12 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -17,6 +10,13 @@ Postal3DB = {
 				"Zaemme|Kil'jaeden|Horde|120|PALADIN", -- [5]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -40,8 +40,8 @@ Postal3DB = {
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Yorman|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
 					"Yuumi|Kil'jaeden|Horde", -- [3]
 					"Zaemme|Kil'jaeden|Horde", -- [4]
 				},

@@ -43,7 +43,7 @@ Details_StreamerDB = {
 			},
 			["enabled"] = true,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -53,7 +53,10 @@ Details_StreamerDB = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
 			["y"] = 200.028366088867,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -65,9 +68,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["author"] = "Details! Team",
 			["point"] = "BOTTOMLEFT",
 			["row_height"] = 20,

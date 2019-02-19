@@ -6,13 +6,6 @@ X: 0
 Y: 0
 W: 365
 H: 380
-Frame: AltoholicFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 162
-Y: -231
-W: 832
-H: 447
 Frame: bdConfig Lib
 FrameLevel: 1
 Anchor: RIGHT
@@ -27,3 +20,10 @@ X: -652
 Y: 16
 W: 393
 H: 248
+Frame: AltoholicFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 485
+Y: 181
+W: 832
+H: 447

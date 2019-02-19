@@ -65,7 +65,7 @@ H: 600
 Frame: DetailsPlayerDetailsWindow
 FrameLevel: 1
 Anchor: RIGHT
-X: -605
+X: -604
 Y: 105
 W: 790
 H: 454

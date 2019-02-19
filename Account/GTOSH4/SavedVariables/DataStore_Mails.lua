@@ -9,101 +9,88 @@ DataStore_MailsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1550467783,
-				["lastVisitDate"] = "2019/02/18 00:29",
-			},
-			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550467638,
-				["lastVisitDate"] = "2019/02/18 00:27",
-			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1550467681,
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1550521121,
 				["Mails"] = {
 					{
 						["returned"] = false,
-						["sender"] = "Yuumi",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1550467681,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
+						["lastCheck"] = 1550521121,
 						["count"] = 5,
 						["icon"] = 1509634,
-						["daysLeft"] = 6.58206033706665,
+						["daysLeft"] = 5.99851846694946,
 					}, -- [1]
 					{
 						["returned"] = false,
-						["sender"] = "Yuumi",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1550467681,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
+						["lastCheck"] = 1550521121,
 						["count"] = 5,
 						["icon"] = 1509634,
-						["daysLeft"] = 6.59078693389893,
+						["daysLeft"] = 5.99862289428711,
 					}, -- [2]
 					{
-						["returned"] = false,
-						["sender"] = "Yuumi",
-						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1550467681,
-						["count"] = 5,
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 6.59091424942017,
+						["count"] = 5,
+						["lastCheck"] = 1550552823,
+						["daysLeft"] = 30,
 					}, -- [3]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["returned"] = true,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1550552824,
+						["daysLeft"] = 30,
+					}, -- [4]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["returned"] = true,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1550552825,
+						["daysLeft"] = 30,
+					}, -- [5]
 				},
-				["lastVisitDate"] = "2019/02/18 00:28",
+				["lastVisitDate"] = "2019/02/18 15:18",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1550469654,
-				["Mails"] = {
-					{
-						["returned"] = false,
-						["sender"] = "Yuumi",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 2,
-						["lastCheck"] = 1550469654,
-						["icon"] = 1509634,
-						["daysLeft"] = 25.5924530029297,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2019/02/18 01:00",
+				["lastUpdate"] = 1550563304,
+				["lastVisitDate"] = "2019/02/19 03:01",
 			},
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1550463272,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1550562797,
+				["lastVisitDate"] = "2019/02/19 02:53",
+			},
+			["Default.Kil'jaeden.Zaemme"] = {
+				["lastUpdate"] = 1550508545,
+				["lastVisitDate"] = "2019/02/18 11:49",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1550520193,
 				["Mails"] = {
 					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
-						["itemID"] = 163759,
-						["returned"] = false,
-						["icon"] = 1509634,
-						["count"] = 5,
-						["lastCheck"] = 1550463272,
-						["daysLeft"] = 6.66807889938355,
+						["sender"] = "Tosh",
+						["itemID"] = 152561,
+						["link"] = "|cffffffff|Hitem:152561::::::::120:256::::::|h[Potion of Replenishment]|h|r",
+						["count"] = 20,
+						["icon"] = 2057566,
+						["lastCheck"] = 1550552952,
+						["daysLeft"] = 30,
 					}, -- [1]
-					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
-						["itemID"] = 163759,
-						["returned"] = false,
-						["icon"] = 1509634,
-						["count"] = 5,
-						["lastCheck"] = 1550463272,
-						["daysLeft"] = 6.66818284988403,
-					}, -- [2]
-					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
-						["itemID"] = 163759,
-						["returned"] = false,
-						["icon"] = 1509634,
-						["count"] = 5,
-						["lastCheck"] = 1550463272,
-						["daysLeft"] = 6.66832160949707,
-					}, -- [3]
 				},
-				["lastVisitDate"] = "2019/02/17 23:14",
+				["lastVisitDate"] = "2019/02/18 15:03",
 			},
 		},
 	},

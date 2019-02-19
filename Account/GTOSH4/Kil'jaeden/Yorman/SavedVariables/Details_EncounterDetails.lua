@@ -1,5 +1,724 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			{
+				6.48899999982677, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				13.0239999999758, -- [1]
+				"You look right at home crawling on your bellies!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				38.1659999999683, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				38.5779999999795, -- [1]
+				"You look right at home crawling on your bellies!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				51.4399999999441, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				61.6280000000261, -- [1]
+				"My hunt... has ended...", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				69.9020000000019, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				73.3799999998882, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [8]
+			{
+				83.527999999933, -- [1]
+				"Break your bones!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				101.270000000019, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				102.778999999864, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				103.916999999899, -- [1]
+				"Spill your blood!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				124.969000000041, -- [1]
+				"Break your bones!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				135.666999999899, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				144.783000000054, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [15]
+			{
+				146.800999999978, -- [1]
+				"Rend your flesh!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				150.993000000017, -- [1]
+				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
+				"Ravenous Stalker", -- [3]
+				2, -- [4]
+			}, -- [17]
+			{
+				151.449999999953, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				158.419999999926, -- [1]
+				"How can... dis be...", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				167.248999999836, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				176.209999999963, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				195.486000000034, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				198.882999999914, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				201.294999999925, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				213.280999999959, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [25]
+			{
+				214.996999999974, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				231.828999999911, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				234.521999999881, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				248.295999999857, -- [1]
+				"I join... de wind...", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				251.510000000009, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				254.004999999888, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				273.018999999855, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [32]
+			{
+				273.528999999864, -- [1]
+				"You will be washed away!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				289.937999999849, -- [1]
+				"|TInterface\\ICONS\\Ability_Mount_JungleTiger.blp:20|t You've been marked for |cFFFF0000|Hspell:282447|h[Kimbul's Wrath]|h|r!", -- [2]
+				"Kimbul", -- [3]
+				2, -- [4]
+			}, -- [34]
+			{
+				292.945999999996, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				301.449000000022, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [36]
+			{
+				312.408000000054, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				331.892999999924, -- [1]
+				"You will be washed away!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [38]
+			{
+				333.05700000003, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [39]
+			{
+				335.946999999927, -- [1]
+				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
+				"Ravenous Stalker", -- [3]
+				2, -- [4]
+			}, -- [40]
+			{
+				339.618000000017, -- [1]
+				"Ya died as ya lived... forgettable.", -- [2]
+				"Bwonsamdi", -- [3]
+				5, -- [4]
+			}, -- [41]
+			["boss"] = "Conclave of the Chosen",
+		}, -- [1]
+		{
+			{
+				0.1, -- [1]
+				"More prey for de pack!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				6.7249999998603, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				13.2729999998119, -- [1]
+				"Dere is no escape for you!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				38.4179999998305, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				38.8240000000224, -- [1]
+				"You look right at home crawling on your bellies!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				51.7609999999404, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				63.1739999998827, -- [1]
+				"Dere is no escape for you!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				63.8739999998361, -- [1]
+				"My hunt... has ended...", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				70.0459999998566, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				74.7449999998789, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				84.9129999999423, -- [1]
+				"Spill your blood!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				101.774999999907, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				103.024999999907, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				106.860999999801, -- [1]
+				"Spill your blood!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				127.594999999972, -- [1]
+				"Break your bones!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				134.687999999849, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				143.432999999961, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [17]
+			{
+				148.42799999984, -- [1]
+				"Spill your blood!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				151.765999999829, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				158.137999999803, -- [1]
+				"How can... dis be...", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				166.503999999957, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				177.683999999892, -- [1]
+				"You will be washed away!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				197.221999999834, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				198.172000000021, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				201.767999999924, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				213.365999999922, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [26]
+			{
+				216.700999999885, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				231.017999999924, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				232.801999999909, -- [1]
+				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
+				"Ravenous Stalker", -- [3]
+				2, -- [4]
+			}, -- [29]
+			{
+				234.793999999994, -- [1]
+				"Thank ya for deliverin' a new champion to me service!", -- [2]
+				"Bwonsamdi", -- [3]
+				5, -- [4]
+			}, -- [30]
+			{
+				235.06799999997, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				246.137999999803, -- [1]
+				"Food for de saurid!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				251.774999999907, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				254.459999999963, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				258.637999999803, -- [1]
+				"Food for de saurid!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				260.98499999987, -- [1]
+				"Your mind has been cleansed!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [36]
+			{
+				264.320999999996, -- [1]
+				"Food for de saurid!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				267.794999999926, -- [1]
+				"Your mind has been cleansed!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [38]
+			["boss"] = "Conclave of the Chosen",
+		}, -- [2]
+		{
+			{
+				6.54799999995157, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				13.0600000000559, -- [1]
+				"You look right at home crawling on your bellies!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				30.9879999998957, -- [1]
+				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
+				"Ravenous Stalker", -- [3]
+				2, -- [4]
+			}, -- [3]
+			{
+				38.1469999998808, -- [1]
+				"De wind is my will!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				38.589999999851, -- [1]
+				"You look right at home crawling on your bellies!", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				51.6809999998659, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				62.4679999998771, -- [1]
+				"My hunt... has ended...", -- [2]
+				"Gonk's Aspect", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				71.0959999999032, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				73.7330000000075, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				84.6969999999274, -- [1]
+				"Rend your flesh!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				101.669999999926, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				103.92799999984, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				106.574000000022, -- [1]
+				"Rend your flesh!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				110.185000000056, -- [1]
+				"|TInterface\\ICONS\\Ability_Mount_JungleTiger.blp:20|t You've been marked for |cFFFF0000|Hspell:282447|h[Kimbul's Wrath]|h|r!", -- [2]
+				"Kimbul", -- [3]
+				2, -- [4]
+			}, -- [14]
+			{
+				128.43200000003, -- [1]
+				"Rend your flesh!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				135.514999999898, -- [1]
+				"De wind is at our backs!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				143.413999999873, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [17]
+			{
+				149.115999999922, -- [1]
+				"Break your bones!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				151.523000000045, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				167.121999999974, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				169.470999999903, -- [1]
+				"Rend your flesh!", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				173.543999999994, -- [1]
+				"How can... dis be...", -- [2]
+				"Kimbul's Aspect", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				192.59999999986, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				200.011999999871, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				201.686999999918, -- [1]
+				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				203.672999999952, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [26]
+			{
+				213.212000000058, -- [1]
+				"I call de thunder!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				232.822999999858, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				232.969999999972, -- [1]
+				"De skies belong to us!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				242.422999999952, -- [1]
+				"Food for de saurid!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				251.670999999857, -- [1]
+				"Sooner or later... everybody serves me!", -- [2]
+				"Bwonsamdi", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				252.20299999998, -- [1]
+				"Purified by lightning!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				252.943999999901, -- [1]
+				"Die, heretic!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				259.310999999987, -- [1]
+				"Your mind has been cleansed!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				260.808999999892, -- [1]
+				"Die, heretic!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				262.950999999885, -- [1]
+				"Don't ya know yet, mon? Dere be no hidin' from Bwonsamdi!", -- [2]
+				"Bwonsamdi", -- [3]
+				5, -- [4]
+			}, -- [36]
+			{
+				263.875, -- [1]
+				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
+				"Pa'ku", -- [3]
+				1, -- [4]
+			}, -- [37]
+			{
+				265.756000000052, -- [1]
+				"Your mind has been cleansed!", -- [2]
+				"Akunda's Aspect", -- [3]
+				7, -- [4]
+			}, -- [38]
+			{
+				267.929000000004, -- [1]
+				"Die, heretic!", -- [2]
+				"Pa'ku's Aspect", -- [3]
+				7, -- [4]
+			}, -- [39]
+			["boss"] = "Conclave of the Chosen",
+		}, -- [3]
+	},
 	["encounter_spells"] = {
 		[286436] = {
 			["school"] = 1,
@@ -351,8 +1070,8 @@ EncounterDetailsDB = {
 		[98021] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Spirit Link Totem",
 		},
@@ -560,8 +1279,8 @@ EncounterDetailsDB = {
 		[11366] = {
 			["school"] = 4,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Wraithbrand",
 		},
@@ -2899,13 +3618,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sneakydrag-Zul'jin",
 		},
-		[250050] = {
-			["school"] = 32,
+		[263778] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "Aspix",
 		},
 		[265912] = {
 			["school"] = 1,
@@ -2922,21 +3641,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yalat's Bulwark",
 		},
-		[286369] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Living Bomb",
-		},
-		[282109] = {
-			["school"] = 8,
+		[288116] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Pa'ku",
+			["source"] = "Manceroy Flamefist",
+		},
+		[285995] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Opulence",
 		},
 		[285350] = {
 			["school"] = 8,
@@ -2957,28 +3675,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yalat's Bulwark",
 		},
-		[258709] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[255836] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[274598] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Priestess Alun'za",
+			["source"] = "Wraithbrand",
 		},
-		[255582] = {
+		[285349] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "King Rastakhan",
+		},
+		[285347] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "King Rastakhan",
 		},
 		[289699] = {
 			["school"] = 1,
@@ -2988,46 +3707,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[250258] = {
-			["school"] = 8,
+		[255372] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Rezan",
+		},
+		[284388] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Manceroy Flamefist",
+		},
+		[288410] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "High Tinker Mekkatorque",
 		},
-		[265974] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Galvazzt",
-		},
-		[31661] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Wraithbrand",
-		},
-		[250259] = {
-			["school"] = 8,
+		[2139] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Robochumpp-Cho'gall",
 		},
-		[255434] = {
+		[256405] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Rezan",
+			["source"] = "Trothak",
 		},
 		[284316] = {
 			["school"] = 16,
@@ -3037,20 +3754,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brother Joseph",
 		},
-		[251187] = {
+		[256551] = {
 			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Sawtooth Shark",
+		},
+		[256477] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Toxic Saurid",
-		},
-		[251188] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Toxic Saurid",
+			["source"] = "Sawtooth Shark",
 		},
 		[118297] = {
 			["school"] = 4,
@@ -3096,13 +3814,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mestrah",
 		},
-		[256552] = {
+		[114942] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Sawtooth Shark",
+			["source"] = "Healing Tide Totem",
 		},
 		[257293] = {
 			["school"] = 8,
@@ -3138,35 +3855,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[258875] = {
+		[282636] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Krag' wa",
+		},
+		[279902] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Blackout Barrel",
+			["source"] = "Steelstryke",
 		},
-		[86392] = {
-			["school"] = 1,
+		[288221] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
-		},
-		[279014] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Heart of Sethraliss",
-		},
-		[289705] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Unexploded Ordnance",
 		},
 		[287659] = {
 			["school"] = 4,
@@ -3177,6 +3889,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Yalat's Bulwark",
+		},
+		[289705] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[284846] = {
 			["school"] = 4,
@@ -3193,13 +3912,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Captain Raoul",
 		},
-		[265056] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[258352] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Rummy Mancomb",
+			["source"] = "Captain Eudora",
 		},
 		[275384] = {
 			["school"] = 8,
@@ -3222,20 +3941,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ashvane Cannoneer",
 		},
-		[284688] = {
+		[272046] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Siegebreaker Roka",
+			["source"] = "Sharkbait",
 		},
-		[256594] = {
-			["school"] = 1,
+		[263365] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Captain Raoul",
+			["source"] = "Adderis",
 		},
 		[289963] = {
 			["school"] = 16,
@@ -3254,15 +3974,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidamental",
 		},
-		[257407] = {
+		[284383] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Rezan",
+			["source"] = "Brother Joseph",
 		},
 		[284593] = {
 			["school"] = 2,
@@ -3291,12 +4009,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[284596] = {
-			["school"] = 2,
+		[250096] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Anointed Disciple",
+			["source"] = "Yazma",
 		},
 		[284594] = {
 			["school"] = 2,
@@ -3308,8 +4026,8 @@ EncounterDetailsDB = {
 		[267459] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
 			},
@@ -3348,12 +4066,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grong",
 		},
-		[285661] = {
+		[282592] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Apetagonizer 3000",
+			["source"] = "Kimbul",
 		},
 		[264903] = {
 			["school"] = 16,
@@ -3365,14 +4085,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqu'sirr",
 		},
-		[283573] = {
+		[284596] = {
 			["school"] = 2,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Frida Ironbellows",
+			["source"] = "Anointed Disciple",
 		},
 		[285875] = {
 			["school"] = 1,
@@ -3384,12 +4102,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grong",
 		},
-		[267047] = {
+		[1604] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Demolishing Terror",
 		},
 		[256363] = {
 			["school"] = 1,
@@ -3464,19 +4183,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[256005] = {
-			["school"] = 1,
+		[34914] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Sharkbait",
+			["source"] = "Dolclemits",
 		},
-		[270481] = {
-			["school"] = 36,
+		[257883] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Demonic Tyrant",
+			["source"] = "Hadal Darkfathom",
 		},
 		[285878] = {
 			["school"] = 8,
@@ -3486,20 +4209,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Akunda's Aspect",
 		},
-		[188838] = {
-			["school"] = 4,
+		[282083] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Peacoat-Tichondrius",
+			["source"] = "Grong",
 		},
-		[285879] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[1856] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Akunda's Aspect",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[286646] = {
 			["school"] = 8,
@@ -3510,12 +4233,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[1856] = {
-			["school"] = 1,
+		[285879] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Akunda's Aspect",
 		},
 		[284089] = {
 			["school"] = 1,
@@ -3526,20 +4250,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Storm",
 		},
-		[269456] = {
-			["school"] = 16,
+		[259531] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Viq'Goth",
+			["source"] = "Reanimation Totem",
 		},
-		[274991] = {
-			["school"] = 16,
+		[283626] = {
+			["school"] = 2,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Viq'Goth",
+			["source"] = "Anointed Disciple",
 		},
 		[282113] = {
 			["school"] = 2,
@@ -3550,23 +4275,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[284436] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[285177] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Frida Ironbellows",
+			["source"] = "Lady Jaina Proudmoore",
 		},
-		[287322] = {
-			["school"] = 1,
+		[185311] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[283579] = {
 			["school"] = 1,
@@ -3591,46 +4317,47 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brother Joseph",
 		},
-		[272542] = {
+		[285346] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Ashvane Sniper",
-		},
-		[284474] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Frida Ironbellows",
+			["source"] = "King Rastakhan",
 		},
-		[268905] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[269242] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Haxpaxy",
 		},
-		[2580] = {
+		[284393] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Brother Joseph",
 		},
-		[280933] = {
-			["school"] = 4,
+		[285017] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Laminaria",
+		},
+		[264144] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Heavy Ordnance",
+			["source"] = "Aqu'sirr",
 		},
 		[288696] = {
 			["school"] = 1,
@@ -3647,12 +4374,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[278467] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[265168] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Rummy Mancomb",
 		},
@@ -3664,12 +4390,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[205345] = {
-			["school"] = 4,
+		[278467] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Wraithbrand",
+			["source"] = "Rummy Mancomb",
 		},
 		[257458] = {
 			["school"] = 64,
@@ -3679,13 +4407,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[276193] = {
+		[284377] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Unknown",
 		},
 		[286396] = {
 			["school"] = 1,
@@ -3701,12 +4430,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[288213] = {
-			["school"] = 1,
+		[284121] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
+			["source"] = "Sister Katherine",
 		},
 		[285118] = {
 			["school"] = 1,
@@ -3716,30 +4447,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Laminaria",
 		},
-		[282411] = {
-			["school"] = 8,
+		[224125] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Akunda's Aspect",
+			["source"] = "Spirit Wolf",
 		},
 		[288333] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Steelstryke",
 		},
-		[284376] = {
+		[269031] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Rowku",
 		},
 		[288188] = {
 			["school"] = 8,
@@ -3759,14 +4488,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "The Hand of In'zashi",
 		},
-		[287887] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[284177] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sister Katherine",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[284864] = {
 			["school"] = 1,
@@ -3819,22 +4546,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[284374] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Manceroy Flamefist",
-		},
-		[269029] = {
+		[263914] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Dread Captain Lockwood",
+			["source"] = "Merektha",
+		},
+		[276190] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Multz-Illidan",
 		},
 		[285889] = {
 			["school"] = 8,
@@ -3846,22 +4573,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gonk's Aspect",
 		},
-		[286565] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Mestrah",
-		},
-		[256589] = {
-			["school"] = 1,
+		[45242] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Healingmania",
+		},
+		[269266] = {
+			["school"] = 1,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Captain Raoul",
+			["source"] = "Demolishing Terror",
 		},
 		[285634] = {
 			["school"] = 8,
@@ -3895,22 +4622,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Slurry",
 		},
-		[250241] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[257402] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Harlan Sweete",
 		},
-		[284117] = {
-			["school"] = 8,
+		[286163] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sister Katherine",
+			["source"] = "Manceroy Flamefist",
 		},
 		[283078] = {
 			["school"] = 1,
@@ -3931,13 +4657,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bwonsamdi",
 		},
-		[285428] = {
+		[285893] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Manceroy Flamefist",
+			["source"] = "Gonk's Aspect",
 		},
 		[257650] = {
 			["school"] = 1,
@@ -3954,12 +4681,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Laminaria",
 		},
-		[285894] = {
-			["school"] = 1,
+		[120] = {
+			["school"] = 16,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gonk's Aspect",
+			["source"] = "Robochumpp-Cho'gall",
 		},
 		[284614] = {
 			["school"] = 1,
@@ -4000,13 +4728,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqualing",
 		},
-		[120] = {
-			["school"] = 16,
+		[285894] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Robochumpp-Cho'gall",
+			["source"] = "Gonk's Aspect",
 		},
 		[289219] = {
 			["school"] = 16,
@@ -4061,25 +4788,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brother Joseph",
 		},
-		[284781] = {
+		[115804] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Headhunter Gal'wana",
+			["source"] = "Fire Spirit",
 		},
-		[284362] = {
-			["school"] = 16,
+		[164815] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Brother Joseph",
+			["source"] = "Slurry",
 		},
 		[284106] = {
 			["school"] = 8,
@@ -4089,19 +4811,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Katherine",
 		},
-		[164815] = {
-			["school"] = 8,
+		[284362] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Slurry",
+			["source"] = "Brother Joseph",
 		},
-		[250368] = {
-			["school"] = 8,
+		[286673] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vol'kaal",
+			["source"] = "Ravenous Stalker",
 		},
 		[259187] = {
 			["school"] = 32,
@@ -4120,21 +4843,25 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[264477] = {
-			["school"] = 48,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Aqu'sirr",
-		},
-		[268705] = {
+		[288719] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sand-crusted Striker",
+			["source"] = "Lady Jaina Proudmoore",
+		},
+		[282939] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Yalat's Bulwark",
 		},
 		[283063] = {
 			["school"] = 4,
@@ -4147,20 +4874,25 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yalat's Bulwark",
 		},
-		[286672] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Phantom of Retribution",
-		},
-		[157644] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[264166] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Wraithbrand",
+			["source"] = "Aqualing",
+		},
+		[589] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Dolclemits",
 		},
 		[188389] = {
 			["school"] = 4,
@@ -4168,6 +4900,30 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Voidamental",
+		},
+		[268008] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Plague Doctor",
+		},
+		[286671] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Phantom of Retribution",
+		},
+		[284365] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Brother Joseph",
 		},
 		[283598] = {
 			["school"] = 1,
@@ -4177,44 +4933,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[259574] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Vol'kaal",
-		},
-		[284365] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Brother Joseph",
-		},
-		[259572] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Vol'kaal",
-		},
-		[257641] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Kul Tiran Marksman",
-		},
-		[285010] = {
-			["school"] = 8,
+		[261428] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Sergeant Bainbridge",
+		},
+		[11327] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[41425] = {
 			["school"] = 16,
@@ -4232,13 +4968,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[269279] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[52042] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Wraithbrand",
+			["source"] = "Healing Stream Totem",
 		},
 		[269104] = {
 			["school"] = 32,
@@ -4248,29 +4983,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Awoken Void",
-		},
-		[271685] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Bigbullz",
-		},
-		[275826] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ashvane Commander",
-		},
-		[285003] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "King Rastakhan",
 		},
 		[260954] = {
 			["school"] = 1,
@@ -4282,6 +4994,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sergeant Bainbridge",
 		},
+		[285003] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "King Rastakhan",
+		},
+		[275826] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ashvane Commander",
+		},
+		[271685] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Bigbullz",
+		},
 		[125439] = {
 			["school"] = 1,
 			["token"] = {
@@ -4289,12 +5024,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Steelstryke",
 		},
-		[52042] = {
-			["school"] = 8,
+		[269279] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Healing Stream Totem",
+			["source"] = "Wraithbrand",
 		},
 		[282834] = {
 			["school"] = 1,
@@ -4304,41 +5040,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kimbul",
 		},
-		[11327] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sneakydrag-Zul'jin",
-		},
-		[261428] = {
-			["school"] = 1,
+		[285010] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[257641] = {
+			["school"] = 4,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sergeant Bainbridge",
+			["source"] = "Kul Tiran Marksman",
 		},
-		[286671] = {
-			["school"] = 32,
+		[259574] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Phantom of Retribution",
+			["source"] = "Vol'kaal",
 		},
-		[268008] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[259572] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Plague Doctor",
+			["source"] = "Vol'kaal",
 		},
 		[287183] = {
 			["school"] = 8,
@@ -4348,25 +5080,20 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[589] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[157644] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Dolclemits",
+			["source"] = "Wraithbrand",
 		},
-		[264166] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[286672] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aqualing",
+			["source"] = "Phantom of Retribution",
 		},
 		[259191] = {
 			["school"] = 32,
@@ -4375,32 +5102,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yazma",
 		},
-		[282939] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Yalat's Bulwark",
-		},
-		[288719] = {
+		[268705] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
+			["source"] = "Sand-crusted Striker",
 		},
-		[286673] = {
-			["school"] = 1,
+		[264477] = {
+			["school"] = 48,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Aqu'sirr",
+		},
+		[250368] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ravenous Stalker",
+			["source"] = "Vol'kaal",
 		},
 		[287952] = {
 			["school"] = 64,
@@ -4410,13 +5133,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[115804] = {
+		[284781] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Fire Spirit",
+			["source"] = "Headhunter Gal'wana",
 		},
 		[263912] = {
 			["school"] = 1,
@@ -4433,16 +5160,7 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ashvane Cannoneer",
 		},
-		[285893] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Gonk's Aspect",
-		},
-		[286163] = {
+		[285428] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
@@ -4450,13 +5168,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[257402] = {
-			["school"] = 1,
+		[284117] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Harlan Sweete",
+			["source"] = "Sister Katherine",
+		},
+		[250241] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Vol'kaal",
 		},
 		[283606] = {
 			["school"] = 1,
@@ -4466,39 +5193,39 @@ EncounterDetailsDB = {
 			},
 			["source"] = "The Hand of In'zashi",
 		},
-		[269266] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Demolishing Terror",
-		},
-		[45242] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Healingmania",
-		},
-		[276190] = {
+		[256589] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Multz-Illidan",
-		},
-		[263914] = {
-			["school"] = 1,
-			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Captain Raoul",
+		},
+		[286565] = {
+			["school"] = 4,
+			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "Mestrah",
+		},
+		[284374] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Manceroy Flamefist",
+		},
+		[269029] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Dread Captain Lockwood",
 		},
 		[290001] = {
 			["school"] = 1,
@@ -4536,12 +5263,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Apetagonizer 3000",
 		},
-		[284177] = {
-			["school"] = 8,
+		[287887] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Sister Katherine",
 		},
 		[288212] = {
 			["school"] = 64,
@@ -4551,12 +5280,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[269031] = {
+		[284376] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rowku",
+			["source"] = "Unknown",
 		},
 		[283609] = {
 			["school"] = 1,
@@ -4568,31 +5298,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "The Hand of In'zashi",
 		},
-		[224125] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Spirit Wolf",
-		},
-		[284121] = {
+		[282411] = {
 			["school"] = 8,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sister Katherine",
+			["source"] = "Akunda's Aspect",
 		},
-		[284377] = {
+		[288213] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Lady Jaina Proudmoore",
+		},
+		[276193] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[283610] = {
 			["school"] = 1,
@@ -4604,55 +5332,53 @@ EncounterDetailsDB = {
 			},
 			["source"] = "The Hand of In'zashi",
 		},
-		[265168] = {
-			["school"] = 1,
+		[205345] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Rummy Mancomb",
+			["source"] = "Wraithbrand",
 		},
-		[264144] = {
-			["school"] = 16,
+		[280933] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Heavy Ordnance",
+		},
+		[2580] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sneakydrag-Zul'jin",
+		},
+		[268905] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sneakydrag-Zul'jin",
+		},
+		[284474] = {
+			["school"] = 2,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aqu'sirr",
+			["source"] = "Frida Ironbellows",
 		},
-		[285017] = {
+		[272542] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Laminaria",
-		},
-		[284393] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Brother Joseph",
-		},
-		[269242] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Haxpaxy",
-		},
-		[285346] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "King Rastakhan",
+			["source"] = "Ashvane Sniper",
 		},
 		[286425] = {
 			["school"] = 1,
@@ -4670,24 +5396,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'kaal",
 		},
-		[185311] = {
-			["school"] = 8,
+		[287322] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Sneakydrag-Zul'jin",
-		},
-		[285177] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Lady Jaina Proudmoore",
+		},
+		[284436] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Frida Ironbellows",
 		},
 		[270058] = {
 			["school"] = 1,
@@ -4697,21 +5422,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sneakydrag-Zul'jin",
 		},
-		[283626] = {
-			["school"] = 2,
+		[274991] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Anointed Disciple",
+			["source"] = "Viq'Goth",
 		},
-		[259531] = {
-			["school"] = 32,
+		[269456] = {
+			["school"] = 16,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Reanimation Totem",
+			["source"] = "Viq'Goth",
 		},
 		[257278] = {
 			["school"] = 8,
@@ -4720,31 +5444,26 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[282083] = {
-			["school"] = 1,
+		[188838] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Grong",
+			["source"] = "Peacoat-Tichondrius",
 		},
-		[257883] = {
-			["school"] = 16,
+		[270481] = {
+			["school"] = 36,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hadal Darkfathom",
+			["source"] = "Demonic Tyrant",
 		},
-		[34914] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[256005] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Dolclemits",
+			["source"] = "Sharkbait",
 		},
 		[288218] = {
 			["school"] = 64,
@@ -4753,29 +5472,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cannons",
 		},
-		[1604] = {
+		[267047] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Demolishing Terror",
+			["source"] = "Unknown",
 		},
-		[282592] = {
+		[285661] = {
 			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Apetagonizer 3000",
+		},
+		[283573] = {
+			["school"] = 2,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Kimbul",
-		},
-		[250096] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Yazma",
+			["source"] = "Frida Ironbellows",
 		},
 		[288219] = {
 			["school"] = 16,
@@ -4786,29 +5504,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unexploded Ordnance",
 		},
-		[284383] = {
+		[257407] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Rezan",
+		},
+		[256594] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Brother Joseph",
+			["source"] = "Captain Raoul",
 		},
-		[263365] = {
+		[284688] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Adderis",
-		},
-		[272046] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sharkbait",
+			["source"] = "Siegebreaker Roka",
 		},
 		[282082] = {
 			["school"] = 1,
@@ -4817,13 +5536,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grong",
 		},
-		[258352] = {
-			["school"] = 4,
+		[265056] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Captain Eudora",
+			["source"] = "Rummy Mancomb",
 		},
 		[283617] = {
 			["school"] = 2,
@@ -4842,30 +5561,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sneakydrag-Zul'jin",
 		},
-		[288221] = {
-			["school"] = 4,
+		[279014] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unexploded Ordnance",
+			["source"] = "Heart of Sethraliss",
 		},
-		[279902] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Steelstryke",
-		},
-		[282636] = {
+		[86392] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Krag' wa",
+			["source"] = "Sneakydrag-Zul'jin",
+		},
+		[258875] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Blackout Barrel",
 		},
 		[288989] = {
 			["school"] = 1,
@@ -4884,12 +5601,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[114942] = {
+		[256552] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Healing Tide Totem",
+			["source"] = "Sawtooth Shark",
 		},
 		[283619] = {
 			["school"] = 2,
@@ -4900,21 +5618,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Darkforged Crusader",
 		},
-		[256477] = {
-			["school"] = 8,
+		[251188] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Toxic Saurid",
+		},
+		[251187] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sawtooth Shark",
-		},
-		[256551] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sawtooth Shark",
+			["source"] = "Toxic Saurid",
 		},
 		[263927] = {
 			["school"] = 8,
@@ -4925,810 +5642,93 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Merektha",
 		},
-		[256405] = {
+		[255434] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Trothak",
-		},
-		[2139] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Robochumpp-Cho'gall",
-		},
-		[288410] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "High Tinker Mekkatorque",
-		},
-		[284388] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Manceroy Flamefist",
-		},
-		[255372] = {
-			["school"] = 1,
-			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Rezan",
 		},
-		[285347] = {
-			["school"] = 1,
+		[250259] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "King Rastakhan",
+			["source"] = "Vol'kaal",
 		},
-		[285349] = {
+		[31661] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "King Rastakhan",
-		},
-		[274598] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Wraithbrand",
 		},
-		[285995] = {
-			["school"] = 1,
+		[265974] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Galvazzt",
+		},
+		[250258] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Opulence",
+			["source"] = "Vol'kaal",
 		},
-		[288116] = {
+		[255582] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[255836] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Priestess Alun'za",
+		},
+		[258709] = {
 			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Manceroy Flamefist",
 		},
-		[263778] = {
-			["school"] = 1,
+		[282109] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Pa'ku",
+		},
+		[286369] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Aspix",
+			["source"] = "Living Bomb",
 		},
-	},
-	["emotes"] = {
-		{
-			{
-				6.48899999982677, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				13.0239999999758, -- [1]
-				"You look right at home crawling on your bellies!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				38.1659999999683, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				38.5779999999795, -- [1]
-				"You look right at home crawling on your bellies!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				51.4399999999441, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				61.6280000000261, -- [1]
-				"My hunt... has ended...", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				69.9020000000019, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				73.3799999998882, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [8]
-			{
-				83.527999999933, -- [1]
-				"Break your bones!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				101.270000000019, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				102.778999999864, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				103.916999999899, -- [1]
-				"Spill your blood!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				124.969000000041, -- [1]
-				"Break your bones!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				135.666999999899, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				144.783000000054, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [15]
-			{
-				146.800999999978, -- [1]
-				"Rend your flesh!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				150.993000000017, -- [1]
-				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
-				"Ravenous Stalker", -- [3]
-				2, -- [4]
-			}, -- [17]
-			{
-				151.449999999953, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				158.419999999926, -- [1]
-				"How can... dis be...", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				167.248999999836, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				176.209999999963, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				195.486000000034, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				198.882999999914, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				201.294999999925, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				213.280999999959, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [25]
-			{
-				214.996999999974, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [26]
-			{
-				231.828999999911, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				234.521999999881, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				248.295999999857, -- [1]
-				"I join... de wind...", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				251.510000000009, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				254.004999999888, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				273.018999999855, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [32]
-			{
-				273.528999999864, -- [1]
-				"You will be washed away!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				289.937999999849, -- [1]
-				"|TInterface\\ICONS\\Ability_Mount_JungleTiger.blp:20|t You've been marked for |cFFFF0000|Hspell:282447|h[Kimbul's Wrath]|h|r!", -- [2]
-				"Kimbul", -- [3]
-				2, -- [4]
-			}, -- [34]
-			{
-				292.945999999996, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				301.449000000022, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				312.408000000054, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				331.892999999924, -- [1]
-				"You will be washed away!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				333.05700000003, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				335.946999999927, -- [1]
-				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
-				"Ravenous Stalker", -- [3]
-				2, -- [4]
-			}, -- [40]
-			{
-				339.618000000017, -- [1]
-				"Ya died as ya lived... forgettable.", -- [2]
-				"Bwonsamdi", -- [3]
-				5, -- [4]
-			}, -- [41]
-			["boss"] = "Conclave of the Chosen",
-		}, -- [1]
-		{
-			{
-				0.1, -- [1]
-				"More prey for de pack!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				6.7249999998603, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				13.2729999998119, -- [1]
-				"Dere is no escape for you!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				38.4179999998305, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				38.8240000000224, -- [1]
-				"You look right at home crawling on your bellies!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				51.7609999999404, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				63.1739999998827, -- [1]
-				"Dere is no escape for you!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				63.8739999998361, -- [1]
-				"My hunt... has ended...", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				70.0459999998566, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				74.7449999998789, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				84.9129999999423, -- [1]
-				"Spill your blood!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				101.774999999907, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				103.024999999907, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				106.860999999801, -- [1]
-				"Spill your blood!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				127.594999999972, -- [1]
-				"Break your bones!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				134.687999999849, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				143.432999999961, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [17]
-			{
-				148.42799999984, -- [1]
-				"Spill your blood!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				151.765999999829, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				158.137999999803, -- [1]
-				"How can... dis be...", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				166.503999999957, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				177.683999999892, -- [1]
-				"You will be washed away!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				197.221999999834, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				198.172000000021, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				201.767999999924, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [25]
-			{
-				213.365999999922, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [26]
-			{
-				216.700999999885, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				231.017999999924, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				232.801999999909, -- [1]
-				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
-				"Ravenous Stalker", -- [3]
-				2, -- [4]
-			}, -- [29]
-			{
-				234.793999999994, -- [1]
-				"Thank ya for deliverin' a new champion to me service!", -- [2]
-				"Bwonsamdi", -- [3]
-				5, -- [4]
-			}, -- [30]
-			{
-				235.06799999997, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				246.137999999803, -- [1]
-				"Food for de saurid!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [32]
-			{
-				251.774999999907, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				254.459999999963, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				258.637999999803, -- [1]
-				"Food for de saurid!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				260.98499999987, -- [1]
-				"Your mind has been cleansed!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				264.320999999996, -- [1]
-				"Food for de saurid!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				267.794999999926, -- [1]
-				"Your mind has been cleansed!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [38]
-			["boss"] = "Conclave of the Chosen",
-		}, -- [2]
-		{
-			{
-				6.54799999995157, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				13.0600000000559, -- [1]
-				"You look right at home crawling on your bellies!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				30.9879999998957, -- [1]
-				"|TInterface\\ICONS\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t A raptor fixates on your |cFFF00000|Hspell:282209|h[Mark of Prey]|h|r!", -- [2]
-				"Ravenous Stalker", -- [3]
-				2, -- [4]
-			}, -- [3]
-			{
-				38.1469999998808, -- [1]
-				"De wind is my will!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				38.589999999851, -- [1]
-				"You look right at home crawling on your bellies!", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				51.6809999998659, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				62.4679999998771, -- [1]
-				"My hunt... has ended...", -- [2]
-				"Gonk's Aspect", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				71.0959999999032, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				73.7330000000075, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [9]
-			{
-				84.6969999999274, -- [1]
-				"Rend your flesh!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				101.669999999926, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				103.92799999984, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				106.574000000022, -- [1]
-				"Rend your flesh!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				110.185000000056, -- [1]
-				"|TInterface\\ICONS\\Ability_Mount_JungleTiger.blp:20|t You've been marked for |cFFFF0000|Hspell:282447|h[Kimbul's Wrath]|h|r!", -- [2]
-				"Kimbul", -- [3]
-				2, -- [4]
-			}, -- [14]
-			{
-				128.43200000003, -- [1]
-				"Rend your flesh!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				135.514999999898, -- [1]
-				"De wind is at our backs!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				143.413999999873, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [17]
-			{
-				149.115999999922, -- [1]
-				"Break your bones!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				151.523000000045, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				167.121999999974, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				169.470999999903, -- [1]
-				"Rend your flesh!", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				173.543999999994, -- [1]
-				"How can... dis be...", -- [2]
-				"Kimbul's Aspect", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				192.59999999986, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				200.011999999871, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				201.686999999918, -- [1]
-				"Well, if ya so eager for death, ya shoulda come see me sooner!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [25]
-			{
-				203.672999999952, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [26]
-			{
-				213.212000000058, -- [1]
-				"I call de thunder!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				232.822999999858, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				232.969999999972, -- [1]
-				"De skies belong to us!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				242.422999999952, -- [1]
-				"Food for de saurid!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				251.670999999857, -- [1]
-				"Sooner or later... everybody serves me!", -- [2]
-				"Bwonsamdi", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				252.20299999998, -- [1]
-				"Purified by lightning!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [32]
-			{
-				252.943999999901, -- [1]
-				"Die, heretic!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				259.310999999987, -- [1]
-				"Your mind has been cleansed!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				260.808999999892, -- [1]
-				"Die, heretic!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				262.950999999885, -- [1]
-				"Don't ya know yet, mon? Dere be no hidin' from Bwonsamdi!", -- [2]
-				"Bwonsamdi", -- [3]
-				5, -- [4]
-			}, -- [36]
-			{
-				263.875, -- [1]
-				"|TInterface\\ICONS\\INV_Pterrordax2Mount_LightGreen.BLP:20|t Winds gather to unleash |cFFFF0000|Hspell:282107|h[Pa'ku's Wrath]|h|r!", -- [2]
-				"Pa'ku", -- [3]
-				1, -- [4]
-			}, -- [37]
-			{
-				265.756000000052, -- [1]
-				"Your mind has been cleansed!", -- [2]
-				"Akunda's Aspect", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				267.929000000004, -- [1]
-				"Die, heretic!", -- [2]
-				"Pa'ku's Aspect", -- [3]
-				7, -- [4]
-			}, -- [39]
-			["boss"] = "Conclave of the Chosen",
-		}, -- [3]
+		[250050] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Yazma",
+		},
 	},
 }

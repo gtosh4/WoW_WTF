@@ -1,75 +1,43 @@
 
 BugGrabberDB = {
-	["session"] = 372,
 	["lastSanitation"] = 3,
+	["session"] = 391,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MainMenuBar:SetPoint()'.",
-			["time"] = "2019/02/13 21:29:32",
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'ActionButton5:Show()'.",
+			["time"] = "2019/02/18 20:18:09",
 			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetPoint'\nInterface\\FrameXML\\UIParent.lua:2981: in function `UIParentManageFramePositions'\nInterface\\FrameXML\\UIParent.lua:2357: in function <Interface\\FrameXML\\UIParent.lua:2344>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3153: in function <Interface\\FrameXML\\UIParent.lua:3151>\n[C]: in function `UIParent_ManageFramePositions'\n...ard_UIWidgets\\Blizzard_UIWidgetBelowMinimapFrame.lua:25: in function `layoutFunc'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:225: in function `UpdateWidgetSetContainerLayout'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:318: in function `ProcessWidgetSet'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:340: in function `UpdateAllWidgets'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:33: in function <...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:31>",
-			["session"] = 329,
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\ActionButton.lua:368: in function `ActionButton_Update'\nInterface\\FrameXML\\ActionButton.lua:723: in function `ActionButton_OnEvent'\nInterface\\FrameXML\\ActionButton.lua:211: in function <Interface\\FrameXML\\ActionButton.lua:208>",
+			["session"] = 383,
 			["counter"] = 1,
 		}, -- [1]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WorldQuestsList' tried to call the protected function 'Search()'.",
-			["time"] = "2019/02/14 10:36:57",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Search'\nInterface\\FrameXML\\LFGList.lua:1744: in function `LFGListSearchPanel_DoSearch'\nInterface\\FrameXML\\LFGList.lua:1916: in function <Interface\\FrameXML\\LFGList.lua:1910>\n[C]: ?\nInterface\\AddOns\\WorldQuestsList\\WorldQuestsList-85.lua:7026: in function <Interface\\AddOns\\WorldQuestsList\\WorldQuestsList.lua:7022>\n[C]: in function `Click'\nInterface\\AddOns\\WorldQuestsList\\WorldQuestsList-85.lua:7119: in function `LFG_Search'\nInterface\\AddOns\\WorldQuestsList\\WorldQuestsList-85.lua:7524: in function <Interface\\AddOns\\WorldQuestsList\\WorldQuestsList.lua:7498>",
-			["session"] = 333,
-			["counter"] = 1,
+			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
+			["session"] = 391,
+			["time"] = "2019/02/19 00:06:15",
+			["counter"] = 40,
 		}, -- [2]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'DominosFrame1:Show()'.",
-			["time"] = "2019/02/15 00:43:56",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\n[string \"--[[ Error in 'DominosToggle' ]] return fun...\"]:15: in function <[string \"--[[ Error in 'DominosToggle' ]] return fun...\"]:10>",
-			["session"] = 346,
-			["counter"] = 1,
+			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
+			["time"] = "2019/02/19 00:06:25",
+			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 391,
+			["counter"] = 8,
 		}, -- [3]
 		{
-			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
-			["session"] = 372,
-			["time"] = "2019/02/13 15:33:15",
-			["counter"] = 260,
+			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:3406: script ran too long",
+			["time"] = "2019/02/19 01:26:36",
+			["stack"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:3406: in function `PerformActions'\n...ace\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:566: in function `Expand'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4543: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4494>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4591: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4585>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.3.lua:4693: in function `UpdatedTriggerState'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:642: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:642: in function <[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:633>\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:926: in function `watch'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1212: in function `addOrUpdateMember'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1525: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:607: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
+			["session"] = 391,
+			["counter"] = 2,
 		}, -- [4]
 		{
-			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
-			["time"] = "2019/02/13 15:33:24",
-			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 372,
-			["counter"] = 52,
-		}, -- [5]
-		{
-			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\misc\\loot-Loot.lua:174: attempt to index field '?' (a nil value)",
-			["time"] = "2019/02/18 00:34:54",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\ElvUI\\Modules\\misc\\loot-Loot.lua:174: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 372,
+			["message"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: script ran too long",
+			["time"] = "2019/02/19 01:26:36",
+			["locals"] = "handlers = <table> {\n  = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119\n  = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119\n}\nindex = <table> {\n separateLinkedSpellIDs = <table> {\n }\n rebroadcast = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Turns on/off testing of combatlog-based tracking for the player\n-- (Note: This will disable sharing of player CD updates over addon messages)\nZT.TEST_CLEU = false\n\n-- Class/Spec ID List\nlocal DK = {ID=6, name=\"DEATHKNIGHT\", Blood=250, Frost=251, Unholy=252}\nlocal DH = {ID=12, name=\"DEMONHUNTER\", Havoc=577, Veng=581}\nlocal Druid = {ID=11, name=\"DRUID\", Balance=102, Feral=103, Guardian=104, Resto=105}\nlocal Hunter = {ID=3, name=\"HUNTER\", BM=253, MM=254, SV=255}\nlocal Mage = {ID=8 inspectLib = <table> {\n }\n handleCDUpdate = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Turns on/off testing of combatlog-based tracking for the player\n-- (Note: This will disable sharing of player CD updates over addon messages)\nZT.TEST_CLEU = false\n\n-- Class/Spec ID List\nlocal DK = {ID=6, name=\"DEATHKNIGHT\", Blood=250, Frost=251, Unholy=252}\nlocal DH = {ID=12, name=\"DEMONHUNTER\", Havoc=577, Veng=581}\nlocal Druid = {ID=11, name=\"DRUID\", Balance=102, Feral=103, Guardian=104, Resto=105}\nlocal Hunter = {ID=3, name=\"HUNTER\", BM=253, MM=254, SV=255}\nlocal Mage = {I registerFrontEnd = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Turns on/off testing of combatlog-based tracking for the player\n-- (Note: This will disable sharing of player CD updates over addon messages)\nZT.TEST_CLEU = false\n\n-- Class/Spec ID List\nlocal DK = {ID=6, name=\"DEATHKNIGHT\", Blood=250, Frost=251, Unholy=252}\nlocal DH = {ID=12, name=\"DEMONHUNTER\", Havoc=577, Veng=581}\nlocal Druid = {ID=11, name=\"DRUID\", Balance=102, Feral=103, Guardian=104, Resto=105}\nlocal Hunter = {ID=3, name=\"HUNTER\", BM=253, MM=254, SV=255}\nlocal Mage =  handleMessage = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() local ZT = aura_env\n--------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\n\n-- Turns on/off debugging messages\nZT.DEBUG_EVENTS = false\nZT.DEBUG_MESSAGES = false\nZT.DEBUG_TRACKING = false\n\n-- Turns on/off testing of combatlog-based tracking for the player\n-- (Note: This will disable sharing of player CD updates over addon messages)\nZT.TEST_",
+			["stack"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:607: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
+			["session"] = 391,
 			["counter"] = 2,
-		}, -- [6]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
-			["time"] = "2019/02/14 09:06:44",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:519: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
-			["session"] = 372,
-			["counter"] = 6,
-		}, -- [7]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
-			["time"] = "2019/02/14 09:06:44",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:519: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
-			["session"] = 372,
-			["counter"] = 6,
-		}, -- [8]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AAP-Core' tried to call the protected function 'EditMacro()'.",
-			["time"] = "2019/02/16 14:26:26",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `EditMacro'\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:2497: in function `MacroUpdater'\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:908: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:601>\nInterface\\AddOns\\AAP-Core\\QuestHandler.lua:4220: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4144>",
-			["session"] = 372,
-			["counter"] = 3,
-		}, -- [9]
+		}, -- [5]
 	},
 }
