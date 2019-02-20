@@ -100,6 +100,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 306463724,
 		["Contents"] = "",
 	},
+	[3243117585] = {
+		["Updated"] = 1550633304,
+		["Name"] = "Conclave",
+		["Id"] = 3243117585,
+		["UpdateId"] = 1327885161,
+		["Contents"] = "Paku's:\nJacob SLT+HT\nIlya SLT+HT\nNick Salv\nJacob SLT+HT\nIlya SLT+HT\n\nBoss deaths:\nTranq+DH\nDisc+Incarn\nTranq",
+	},
 	[3754423109] = {
 		["Updated"] = 1549503600,
 		["Name"] = "H Opulence",

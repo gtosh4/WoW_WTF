@@ -10,87 +10,80 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1550521121,
+				["lastUpdate"] = 1550615195,
 				["Mails"] = {
 					{
-						["returned"] = false,
-						["sender"] = "Yorman",
-						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1550521121,
-						["count"] = 5,
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 5.99851846694946,
+						["count"] = 5,
+						["lastCheck"] = 1550615195,
+						["daysLeft"] = 30.2786693572998,
 					}, -- [1]
 					{
-						["returned"] = false,
-						["sender"] = "Yorman",
-						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1550521121,
-						["count"] = 5,
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 5.99862289428711,
+						["count"] = 5,
+						["lastCheck"] = 1550615195,
+						["daysLeft"] = 30.2786808013916,
 					}, -- [2]
 					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Tosh",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1550552823,
-						["daysLeft"] = 30,
+						["lastCheck"] = 1550615195,
+						["daysLeft"] = 30.2786922454834,
 					}, -- [3]
-					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["returned"] = true,
-						["icon"] = 1509634,
-						["count"] = 5,
-						["lastCheck"] = 1550552824,
-						["daysLeft"] = 30,
-					}, -- [4]
-					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["returned"] = true,
-						["icon"] = 1509634,
-						["count"] = 5,
-						["lastCheck"] = 1550552825,
-						["daysLeft"] = 30,
-					}, -- [5]
 				},
-				["lastVisitDate"] = "2019/02/18 15:18",
+				["lastVisitDate"] = "2019/02/19 17:26",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1550563304,
-				["lastVisitDate"] = "2019/02/19 03:01",
-			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1550562797,
-				["lastVisitDate"] = "2019/02/19 02:53",
-			},
-			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550508545,
-				["lastVisitDate"] = "2019/02/18 11:49",
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1550520193,
+				["lastUpdate"] = 1550651356,
 				["Mails"] = {
 					{
-						["sender"] = "Tosh",
-						["itemID"] = 152561,
-						["link"] = "|cffffffff|Hitem:152561::::::::120:256::::::|h[Potion of Replenishment]|h|r",
-						["count"] = 20,
-						["icon"] = 2057566,
-						["lastCheck"] = 1550552952,
-						["daysLeft"] = 30,
+						["returned"] = false,
+						["sender"] = "Yorman",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["lastCheck"] = 1550651356,
+						["icon"] = 1509634,
+						["daysLeft"] = 30.6104049682617,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/02/18 15:03",
+				["lastVisitDate"] = "2019/02/20 03:29",
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1550647933,
+				["lastVisitDate"] = "2019/02/20 02:32",
+			},
+			["Default.Kil'jaeden.Zaemme"] = {
+				["lastUpdate"] = 1550597644,
+				["lastVisitDate"] = "2019/02/19 12:34",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1550619422,
+				["Mails"] = {
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Yuumi",
+						["itemID"] = 163759,
+						["returned"] = true,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1550619422,
+						["daysLeft"] = 30.9489116668701,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2019/02/19 18:37",
 			},
 		},
 	},

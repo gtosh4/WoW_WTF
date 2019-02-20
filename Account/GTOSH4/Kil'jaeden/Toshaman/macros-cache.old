@@ -1,0 +1,24 @@
+VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
+#showtooltip Chain Heal
+/cast [@mouseover,noharm] Chain Heal
+END
+VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
+#showtooltip Purify Spirit
+/cast [@mouseover,noharm] Purify Spirit
+END
+VER 3 0100000000000001 "rip" "INV_Misc_QuestionMark"
+#showtooltip Riptide
+/cast [@mouseover,noharm] Riptide
+END
+VER 3 0100000000000003 "surge" "INV_Misc_QuestionMark"
+#showtooltip Healing Surge
+/cast [@mouseover,noharm] Healing Surge
+END
+VER 3 0100000000000005 "unleash" "INV_Misc_QuestionMark"
+#showtooltip Unleash Life
+/cast [@mouseover,noharm] Unleash Life
+END
+VER 3 0100000000000004 "wave" "INV_Misc_QuestionMark"
+#showtooltip Healing Wave
+/cast [@mouseover,noharm] Healing Wave
+END

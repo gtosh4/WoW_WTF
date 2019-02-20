@@ -30,7 +30,7 @@ VER 3 0100000000000010 "Pen" "INV_Misc_QuestionMark"
 END
 VER 3 010000000000000E "poh" "INV_Misc_QuestionMark"
 #showtooltip [spec:2] Prayer of Healing; [spec:1] Penance
-/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm] Penance
+/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm][spec:1,@target,noharm] Penance
 END
 VER 3 0100000000000005 "ps" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Pain Suppression; [spec:2] Guardian Spirit

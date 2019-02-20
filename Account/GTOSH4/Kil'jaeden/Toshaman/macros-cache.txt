@@ -2,6 +2,10 @@ VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
 #showtooltip Chain Heal
 /cast [@mouseover,noharm] Chain Heal
 END
+VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
+#showtooltip Earth Shield
+/cast [@mouseover,help][@player]Earth Shield
+END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
 /cast [@mouseover,noharm] Purify Spirit
