@@ -22,9 +22,9 @@ Postal3DB = {
 		["Zaemme - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Toshaman|Kil'jaeden|Horde", -- [3]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
+					"Yorman|Kil'jaeden|Horde", -- [3]
 					"Yuumi|Kil'jaeden|Horde", -- [4]
 					"Yellowy|Kil'jaeden|Horde", -- [5]
 				},
@@ -40,10 +40,10 @@ Postal3DB = {
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Toshaman|Kil'jaeden|Horde", -- [2]
-					"Yuumi|Kil'jaeden|Horde", -- [3]
-					"Zaemme|Kil'jaeden|Horde", -- [4]
+					"Zaemme|Kil'jaeden|Horde", -- [1]
+					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Toshaman|Kil'jaeden|Horde", -- [3]
+					"Yuumi|Kil'jaeden|Horde", -- [4]
 				},
 			},
 		},
@@ -60,9 +60,9 @@ Postal3DB = {
 		["Yuumi - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Yellowy|Kil'jaeden|Horde", -- [2]
-					"Tosh|Kil'jaeden|Horde", -- [3]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
 					"Yorman|Kil'jaeden|Horde", -- [4]
 					"Qiro|Kil'jaeden|Horde", -- [5]
 				},

@@ -718,11 +718,11 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1550622525,
+				["lastUpdate"] = 1551230709,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550597549,
+				["lastUpdate"] = 1550851939,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
@@ -1446,11 +1446,14 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1550619379,
+				["lastUpdate"] = 1551200368,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Professions"] = {
+					["Inscription"] = {
+						["CurrentLevelName"] = "Zandalari Inscription",
+					},
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0B58277D:2259:171|h[Alchemy]|h|r",
@@ -1468,7 +1471,7 @@ DataStore_CraftsDB = {
 									1234, -- [8]
 								},
 								["MaxRank"] = 165,
-								["Rank"] = 150,
+								["Rank"] = 153,
 							}, -- [1]
 							{
 								["id"] = 433,
@@ -2016,12 +2019,12 @@ DataStore_CraftsDB = {
 								32301559, -- [4]
 							},
 							[609] = {
-								36726179, -- [1]
-								36726051, -- [2]
+								36726191, -- [1]
+								36726063, -- [2]
 								36725935, -- [3]
 								37259042, -- [4]
 								37258914, -- [5]
-								37258798, -- [6]
+								37258797, -- [6]
 								32304373, -- [7]
 								32304757, -- [8]
 								32302452, -- [9]
@@ -2151,18 +2154,15 @@ DataStore_CraftsDB = {
 								32167597, -- [10]
 							},
 						},
-						["Rank"] = 166,
-					},
-					["Enchanting"] = {
-						["CurrentLevelName"] = "Enchanting",
+						["Rank"] = 169,
 					},
 				},
-				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1550653967,
+				["Prof2"] = "Inscription",
+				["lastUpdate"] = 1551227266,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1550651052,
+				["lastUpdate"] = 1551254156,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {

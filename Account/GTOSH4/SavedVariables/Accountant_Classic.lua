@@ -5,17 +5,17 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "20/02/19",
+				["date"] = "27/02/19",
 				["class"] = "DRUID",
 				["month"] = "02",
-				["prvday"] = "19/02/19",
+				["prvday"] = "26/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["faction"] = "Horde",
-				["lastsessiondate"] = "19/02/19",
+				["lastsessiondate"] = "26/02/19",
 				["curryear"] = "2019",
 				["prvdateweek"] = "Sun Jan ",
-				["totalcash"] = 925080146,
+				["totalcash"] = 918939208,
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -109,7 +109,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 11900,
+						["Out"] = 0,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -117,15 +117,15 @@ Accountant_ClassicSaveData = {
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 166600,
+						["Out"] = 228200,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 190400,
+						["Out"] = 252000,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 190400,
+						["Out"] = 252000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -141,7 +141,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 190400,
+						["Out"] = 252000,
 					},
 				},
 				["GUILD"] = {
@@ -150,7 +150,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 601937,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -319,7 +319,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 30,
+						["Out"] = 0,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -347,7 +347,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 30,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
@@ -453,15 +453,15 @@ Accountant_ClassicSaveData = {
 					},
 					["Week"] = {
 						["In"] = 1213174,
-						["Out"] = 135000,
+						["Out"] = 185000,
 					},
 					["Year"] = {
 						["In"] = 1213174,
-						["Out"] = 135000,
+						["Out"] = 185000,
 					},
 					["Month"] = {
 						["In"] = 1213174,
-						["Out"] = 135000,
+						["Out"] = 185000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -477,7 +477,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 1213174,
-						["Out"] = 135000,
+						["Out"] = 185000,
 					},
 				},
 				["MERCH"] = {
@@ -486,24 +486,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 5976372,
 					},
 					["PrvDay"] = {
-						["In"] = 3122794,
-						["Out"] = 4918287,
+						["In"] = 0,
+						["Out"] = 3861041,
 					},
 					["Day"] = {
 						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 3950226,
-						["Out"] = 41493359,
+						["In"] = 3964992,
+						["Out"] = 47145579,
 					},
 					["Year"] = {
-						["In"] = 3950226,
-						["Out"] = 47469731,
+						["In"] = 3964992,
+						["Out"] = 53121951,
 					},
 					["Month"] = {
-						["In"] = 3950226,
-						["Out"] = 47469731,
+						["In"] = 3964992,
+						["Out"] = 53121951,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -515,11 +515,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 1523543,
+						["Out"] = 3861041,
 					},
 					["Total"] = {
-						["In"] = 3950226,
-						["Out"] = 47469731,
+						["In"] = 3964992,
+						["Out"] = 53121951,
 					},
 				},
 				["LOOT"] = {
@@ -528,7 +528,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 1834628,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -536,15 +536,15 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 6169427,
+						["In"] = 6777543,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 6772036,
+						["In"] = 7380152,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 6772036,
+						["In"] = 7380152,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -560,7 +560,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 6772036,
+						["In"] = 7380152,
 						["Out"] = 0,
 					},
 				},
@@ -570,8 +570,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 2261448,
-						["Out"] = 687927,
+						["In"] = 0,
+						["Out"] = 0,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -655,7 +655,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 71000000,
+						["Out"] = 0,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -663,15 +663,15 @@ Accountant_ClassicSaveData = {
 					},
 					["Week"] = {
 						["In"] = 468000,
-						["Out"] = 212000000,
+						["Out"] = 213000000,
 					},
 					["Year"] = {
 						["In"] = 468000,
-						["Out"] = 282000000,
+						["Out"] = 283000000,
 					},
 					["Month"] = {
 						["In"] = 468000,
-						["Out"] = 282000000,
+						["Out"] = 283000000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -687,7 +687,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 468000,
-						["Out"] = 282000000,
+						["Out"] = 283000000,
 					},
 				},
 			},
@@ -696,15 +696,15 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "20/02/19",
+				["date"] = "27/02/19",
 				["class"] = "PALADIN",
-				["lastsessiondate"] = "19/02/19",
+				["lastsessiondate"] = "22/02/19",
 				["curryear"] = "2019",
-				["prvday"] = "19/02/19",
+				["prvday"] = "26/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1068101200,
+				["totalcash"] = 864119200,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
 				["prvmonth"] = "01",
@@ -1221,23 +1221,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 180,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 1290,
+						["Out"] = 1470,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 780,
+						["Out"] = 960,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 1290,
+						["Out"] = 1470,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 780,
+						["Out"] = 960,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1305,23 +1305,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 74149994,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 183748128,
+						["Out"] = 387729948,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 120949908,
+						["Out"] = 324931728,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 183748128,
+						["Out"] = 387729948,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 120949908,
+						["Out"] = 324931728,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1333,7 +1333,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 74149994,
+						["Out"] = 203981820,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -1388,15 +1388,15 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "20/02/19",
+				["date"] = "27/02/19",
 				["class"] = "PRIEST",
 				["curryear"] = "2019",
-				["lastsessiondate"] = "20/02/19",
-				["prvday"] = "19/02/19",
+				["lastsessiondate"] = "27/02/19",
+				["prvday"] = "26/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1486340819,
+				["totalcash"] = 1461931451,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
 				["prvmonth"] = "01",
@@ -1493,23 +1493,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 12600,
+						["Out"] = 37800,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 2755340,
+						["Out"] = 2805740,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 2553740,
+						["Out"] = 2604140,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 26600,
+						["Out"] = 0,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 2591540,
+						["Out"] = 2641940,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1521,11 +1521,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 14000,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 2755340,
+						["Out"] = 2805740,
 					},
 				},
 				["GUILD"] = {
@@ -1534,15 +1534,15 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 1233994,
+						["In"] = 594863,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 4939017,
+						["In"] = 5533880,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 3670586,
+						["In"] = 4265449,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -1550,7 +1550,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 3670586,
+						["In"] = 4265449,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -1566,7 +1566,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 4939017,
+						["In"] = 5533880,
 						["Out"] = 0,
 					},
 				},
@@ -1577,23 +1577,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 240,
-					},
-					["Year"] = {
-						["In"] = 1196662903,
-						["Out"] = 150450,
-					},
-					["Week"] = {
-						["In"] = 1196662903,
-						["Out"] = 150330,
-					},
-					["Day"] = {
-						["In"] = 0,
 						["Out"] = 0,
 					},
-					["Month"] = {
-						["In"] = 1196662903,
+					["Year"] = {
+						["In"] = 1198513970,
+						["Out"] = 150480,
+					},
+					["Week"] = {
+						["In"] = 1198513970,
 						["Out"] = 150360,
+					},
+					["Day"] = {
+						["In"] = 1851067,
+						["Out"] = 30,
+					},
+					["Month"] = {
+						["In"] = 1198513970,
+						["Out"] = 150390,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1608,8 +1608,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1196662903,
-						["Out"] = 150450,
+						["In"] = 1198513970,
+						["Out"] = 150480,
 					},
 				},
 				["LFG"] = {
@@ -1786,24 +1786,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 3686543,
 					},
 					["PrvDay"] = {
-						["In"] = 1798251,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 1194623500,
-						["Out"] = 17211651,
+						["In"] = 1195228451,
+						["Out"] = 19693159,
 					},
 					["Week"] = {
-						["In"] = 5102146,
-						["Out"] = 13525108,
+						["In"] = 5707097,
+						["Out"] = 16006616,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 1773387,
+						["Out"] = 2481508,
 					},
 					["Month"] = {
-						["In"] = 5102146,
-						["Out"] = 17211651,
+						["In"] = 5707097,
+						["Out"] = 19693159,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1818,8 +1818,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1194623500,
-						["Out"] = 17211651,
+						["In"] = 1195228451,
+						["Out"] = 19693159,
 					},
 				},
 				["GARRISON"] = {
@@ -1870,23 +1870,23 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 9467814,
+						["In"] = 18648,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 81056426,
+						["In"] = 90956674,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 68578973,
+						["In"] = 78479221,
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 0,
+						["In"] = 1851067,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 76618073,
+						["In"] = 86518321,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -1902,7 +1902,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 81056426,
+						["In"] = 90956674,
 						["Out"] = 0,
 					},
 				},
@@ -1912,24 +1912,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 32772833,
 					},
 					["PrvDay"] = {
-						["In"] = 96428,
-						["Out"] = 10340216,
+						["In"] = 3859,
+						["Out"] = 8409996,
 					},
 					["Year"] = {
-						["In"] = 5759102,
-						["Out"] = 88356742,
+						["In"] = 5762961,
+						["Out"] = 99984925,
 					},
 					["Week"] = {
-						["In"] = 4207493,
-						["Out"] = 55583909,
+						["In"] = 4211352,
+						["Out"] = 67212092,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 4244282,
+						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 4253445,
-						["Out"] = 57654233,
+						["In"] = 4257304,
+						["Out"] = 69282416,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1941,11 +1941,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 3031787,
+						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 5759102,
-						["Out"] = 88356742,
+						["In"] = 5762961,
+						["Out"] = 99984925,
 					},
 				},
 				["AH"] = {
@@ -1955,23 +1955,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 88292,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 772864195,
+						["Out"] = 773217363,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 594950447,
+						["Out"] = 595303615,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 88292,
+						["Out"] = 0,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 594950447,
+						["Out"] = 595303615,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -1987,7 +1987,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 772864195,
+						["Out"] = 773217363,
 					},
 				},
 				["REPAIRS"] = {
@@ -2039,23 +2039,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 20000000,
+						["Out"] = 0,
 					},
 					["Year"] = {
 						["In"] = 819000,
-						["Out"] = 113000000,
+						["Out"] = 135851067,
 					},
 					["Week"] = {
 						["In"] = 819000,
-						["Out"] = 42000000,
+						["Out"] = 64851067,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 21851067,
 					},
 					["Month"] = {
 						["In"] = 819000,
-						["Out"] = 42000000,
+						["Out"] = 64851067,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2071,7 +2071,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 819000,
-						["Out"] = 113000000,
+						["Out"] = 135851067,
 					},
 				},
 			},
@@ -2080,15 +2080,15 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "20/02/19",
+				["date"] = "27/02/19",
 				["class"] = "MONK",
-				["lastsessiondate"] = "19/02/19",
+				["lastsessiondate"] = "26/02/19",
 				["curryear"] = "2019",
-				["prvday"] = "19/02/19",
+				["prvday"] = "26/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1075545328,
+				["totalcash"] = 971187565,
 				["faction"] = "Horde",
 				["prvdateweek"] = "Sun Jan ",
 				["prvmonth"] = "01",
@@ -2146,19 +2146,19 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 608528,
+						["In"] = 629727,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 5122,
+						["In"] = 26321,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 608528,
+						["In"] = 629727,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 5122,
+						["In"] = 26321,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -2185,23 +2185,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 35700,
+						["Out"] = 25900,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 1126627,
+						["Out"] = 1200127,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 380927,
+						["Out"] = 454427,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 1126627,
+						["Out"] = 1200127,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 792027,
+						["Out"] = 865527,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2213,7 +2213,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 25900,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -2395,23 +2395,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 876617,
+						["Out"] = 1465707,
 					},
 					["Total"] = {
-						["In"] = 6707663,
-						["Out"] = 233084120,
+						["In"] = 6886023,
+						["Out"] = 268228449,
 					},
 					["Week"] = {
-						["In"] = 1163625,
-						["Out"] = 115200257,
+						["In"] = 1341985,
+						["Out"] = 150344586,
 					},
 					["Year"] = {
-						["In"] = 6707663,
-						["Out"] = 233084120,
+						["In"] = 6886023,
+						["Out"] = 268228449,
 					},
 					["Month"] = {
-						["In"] = 1517843,
-						["Out"] = 162195086,
+						["In"] = 1696203,
+						["Out"] = 197339415,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2423,7 +2423,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 876617,
+						["Out"] = 85000,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -2482,20 +2482,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1041929252,
-						["Out"] = 68122020,
+						["In"] = 1043734234,
+						["Out"] = 68937660,
 					},
 					["Week"] = {
-						["In"] = 14005350,
-						["Out"] = 11181672,
+						["In"] = 15810332,
+						["Out"] = 11997312,
 					},
 					["Year"] = {
-						["In"] = 1041929252,
-						["Out"] = 68122020,
+						["In"] = 1043734234,
+						["Out"] = 68937660,
 					},
 					["Month"] = {
-						["In"] = 15191023,
-						["Out"] = 13109441,
+						["In"] = 16996005,
+						["Out"] = 13925081,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2566,19 +2566,19 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 27913748,
+						["In"] = 28585003,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 23924641,
+						["In"] = 24595896,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 27913748,
+						["In"] = 28585003,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 24064088,
+						["In"] = 24735343,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -2609,19 +2609,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 18496600,
-						["Out"] = 690,
+						["Out"] = 780,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 450,
+						["Out"] = 540,
 					},
 					["Year"] = {
 						["In"] = 18496600,
-						["Out"] = 690,
+						["Out"] = 780,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 480,
+						["Out"] = 570,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2731,23 +2731,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 1000000,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 23776100,
-						["Out"] = 65000000,
+						["Out"] = 136000000,
 					},
 					["Week"] = {
 						["In"] = 631800,
-						["Out"] = 43000000,
+						["Out"] = 114000000,
 					},
 					["Year"] = {
 						["In"] = 23776100,
-						["Out"] = 65000000,
+						["Out"] = 136000000,
 					},
 					["Month"] = {
 						["In"] = 23308100,
-						["Out"] = 44000000,
+						["Out"] = 115000000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2772,16 +2772,16 @@ Accountant_ClassicSaveData = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
-				["date"] = "20/02/19",
+				["date"] = "27/02/19",
 				["class"] = "SHAMAN",
-				["prvday"] = "19/02/19",
+				["prvday"] = "26/02/19",
 				["dateweek"] = "Sun Feb ",
 				["version"] = "v2.11.05",
 				["month"] = "02",
-				["totalcash"] = 1127062842,
+				["totalcash"] = 1115834440,
 				["curryear"] = "2019",
 				["faction"] = "Horde",
-				["lastsessiondate"] = "20/02/19",
+				["lastsessiondate"] = "26/02/19",
 			},
 			["data"] = {
 				["TRAIN"] = {
@@ -2791,15 +2791,15 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 4400000,
+						["Out"] = 0,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 23084018,
+						["Out"] = 23484026,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 23084018,
+						["Out"] = 23484026,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -2807,7 +2807,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 23084018,
+						["Out"] = 23484026,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2823,7 +2823,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 23084018,
+						["Out"] = 23484026,
 					},
 				},
 				["BARBER"] = {
@@ -2875,23 +2875,23 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 291200,
+						["Out"] = 11200,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 1932035,
+						["Out"] = 3392835,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 1932035,
+						["Out"] = 3392835,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 221200,
+						["Out"] = 0,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 1932035,
+						["Out"] = 3392835,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2903,11 +2903,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 28000,
+						["Out"] = 0,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 1932035,
+						["Out"] = 3392835,
 					},
 				},
 				["GUILD"] = {
@@ -2920,11 +2920,11 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 1434676,
+						["In"] = 1439117,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 1434676,
+						["In"] = 1439117,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -2932,7 +2932,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 1434676,
+						["In"] = 1439117,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -2948,7 +2948,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 1434676,
+						["In"] = 1439117,
 						["Out"] = 0,
 					},
 				},
@@ -2962,20 +2962,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 4641072,
-						["Out"] = 502646,
+						["In"] = 5383968,
+						["Out"] = 1913646,
 					},
 					["Week"] = {
-						["In"] = 4641072,
-						["Out"] = 502646,
+						["In"] = 5383968,
+						["Out"] = 1913646,
 					},
 					["Day"] = {
 						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 4641072,
-						["Out"] = 502646,
+						["In"] = 5383968,
+						["Out"] = 1913646,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -2990,8 +2990,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 4641072,
-						["Out"] = 502646,
+						["In"] = 5383968,
+						["Out"] = 1913646,
 					},
 				},
 				["LFG"] = {
@@ -3004,11 +3004,11 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 4816000,
+						["In"] = 6756000,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 4816000,
+						["In"] = 6756000,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -3016,7 +3016,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 4816000,
+						["In"] = 6756000,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -3032,7 +3032,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 4816000,
+						["In"] = 6756000,
 						["Out"] = 0,
 					},
 				},
@@ -3084,16 +3084,16 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 1110640000,
-						["Out"] = 322619799,
+						["In"] = 0,
+						["Out"] = 0,
 					},
 					["Year"] = {
 						["In"] = 2249590000,
-						["Out"] = 1441326370,
+						["Out"] = 1526040118,
 					},
 					["Week"] = {
 						["In"] = 2249590000,
-						["Out"] = 1441326370,
+						["Out"] = 1526040118,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -3101,7 +3101,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Month"] = {
 						["In"] = 2249590000,
-						["Out"] = 1441326370,
+						["Out"] = 1526040118,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3117,7 +3117,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 2249590000,
-						["Out"] = 1441326370,
+						["Out"] = 1526040118,
 					},
 				},
 				["VOID"] = {
@@ -3169,7 +3169,7 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 50000,
+						["Out"] = 0,
 					},
 					["Year"] = {
 						["In"] = 300604719,
@@ -3181,7 +3181,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 30,
+						["Out"] = 0,
 					},
 					["Month"] = {
 						["In"] = 300604719,
@@ -3210,23 +3210,23 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 607799,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 8542232,
+						["In"] = 58554248,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 8542232,
+						["In"] = 58554248,
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 1417130,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 8542232,
+						["In"] = 58554248,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -3242,7 +3242,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 8542232,
+						["In"] = 58554248,
 						["Out"] = 0,
 					},
 				},
@@ -3252,15 +3252,15 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 6978,
+						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 23210481,
+						["In"] = 42063166,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 23210481,
+						["In"] = 42063166,
 						["Out"] = 0,
 					},
 					["Day"] = {
@@ -3268,7 +3268,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 23210481,
+						["In"] = 42063166,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -3284,7 +3284,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 23210481,
+						["In"] = 42063166,
 						["Out"] = 0,
 					},
 				},
@@ -3294,24 +3294,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 330745,
-						["Out"] = 3925021,
+						["In"] = 0,
+						["Out"] = 13835,
 					},
 					["Year"] = {
-						["In"] = 20152788,
-						["Out"] = 24773220,
+						["In"] = 30529481,
+						["Out"] = 57888899,
 					},
 					["Week"] = {
-						["In"] = 20152788,
-						["Out"] = 24773220,
+						["In"] = 30529481,
+						["Out"] = 57888899,
 					},
 					["Day"] = {
 						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 20152788,
-						["Out"] = 24773220,
+						["In"] = 30529481,
+						["Out"] = 57888899,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3326,8 +3326,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 20152788,
-						["Out"] = 24773220,
+						["In"] = 30529481,
+						["Out"] = 57888899,
 					},
 				},
 				["TRANSMO"] = {
@@ -3337,15 +3337,15 @@ Accountant_ClassicSaveData = {
 					},
 					["PrvDay"] = {
 						["In"] = 0,
-						["Out"] = 1674275,
+						["Out"] = 0,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 5843074,
+						["Out"] = 10910312,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 5843074,
+						["Out"] = 10910312,
 					},
 					["Day"] = {
 						["In"] = 0,
@@ -3353,7 +3353,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 5843074,
+						["Out"] = 10910312,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3369,7 +3369,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 5843074,
+						["Out"] = 10910312,
 					},
 				},
 				["REPAIRS"] = {
@@ -3420,24 +3420,24 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["PrvDay"] = {
-						["In"] = 21363300,
-						["Out"] = 71000000,
+						["In"] = 0,
+						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 154808903,
-						["Out"] = 142000000,
+						["In"] = 189820243,
+						["Out"] = 144000000,
 					},
 					["Week"] = {
-						["In"] = 154808903,
-						["Out"] = 142000000,
+						["In"] = 189820243,
+						["Out"] = 144000000,
 					},
 					["Day"] = {
 						["In"] = 0,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 154808903,
-						["Out"] = 142000000,
+						["In"] = 189820243,
+						["Out"] = 144000000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3452,8 +3452,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 154808903,
-						["Out"] = 142000000,
+						["In"] = 189820243,
+						["Out"] = 144000000,
 					},
 				},
 			},
@@ -3550,73 +3550,41 @@ Accountant_ClassicZoneDB = {
 					},
 				},
 				["PrvDay"] = {
-					["REPAIRS"] = {
-					},
-					["GUILD"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 601937,
-							["Out"] = 0,
-						},
-					},
-					["TAXI"] = {
-						["Zuldazar - Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 11900,
-						},
+					["TRAIN"] = {
 					},
 					["BARBER"] = {
 					},
-					["TRAIN"] = {
+					["TAXI"] = {
+					},
+					["GUILD"] = {
+					},
+					["MAIL"] = {
 					},
 					["LFG"] = {
 					},
-					["OTHER"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 2261448,
-							["Out"] = 687927,
-						},
-					},
-					["LOOT"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1834628,
-							["Out"] = 0,
-						},
-					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 30,
-						},
+					["AH"] = {
+					},
+					["TRADE"] = {
+					},
+					["OTHER"] = {
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
-						["Zuldazar - Port of Zandalar"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 1523543,
+							["Out"] = 3861041,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 3122794,
-							["Out"] = 3394744,
-						},
+					},
+					["LOOT"] = {
 					},
 					["TRANSMO"] = {
 					},
-					["TRADE"] = {
-					},
-					["AH"] = {
+					["REPAIRS"] = {
 					},
 					["QUEST"] = {
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 70000000,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 1000000,
-						},
 					},
 				},
 				["Day"] = {
@@ -3628,25 +3596,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["LFG"] = {
+					},
+					["TRADE"] = {
+					},
+					["MAIL"] = {
 					},
 					["VOID"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
-					},
-					["OTHER"] = {
-					},
 					["GARRISON"] = {
-					},
-					["MERCH"] = {
 					},
 					["LOOT"] = {
 					},
-					["TRANSMO"] = {
+					["MERCH"] = {
+					},
+					["OTHER"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -3673,7 +3641,11 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 119000,
+							["Out"] = 166600,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 0,
+							["Out"] = 14000,
 						},
 					},
 					["BARBER"] = {
@@ -3697,7 +3669,7 @@ Accountant_ClassicZoneDB = {
 					["GARRISON"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 50000,
+							["Out"] = 100000,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1213174,
@@ -3710,7 +3682,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["LOOT"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 6169427,
+							["In"] = 6777543,
 							["Out"] = 0,
 						},
 					},
@@ -3720,8 +3692,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2898769,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3775116,
-							["Out"] = 27651796,
+							["In"] = 3789882,
+							["Out"] = 29442975,
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
@@ -3737,7 +3709,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 175110,
-							["Out"] = 9201043,
+							["Out"] = 13062084,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -3763,7 +3735,7 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
@@ -3777,13 +3749,17 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 142800,
-						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 47600,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 190400,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 0,
+							["Out"] = 14000,
 						},
 					},
 					["GUILD"] = {
@@ -3816,8 +3792,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2898769,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3775116,
-							["Out"] = 33458168,
+							["In"] = 3789882,
+							["Out"] = 35249347,
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
@@ -3833,7 +3809,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 175110,
-							["Out"] = 9201043,
+							["Out"] = 13062084,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -3847,7 +3823,7 @@ Accountant_ClassicZoneDB = {
 					["GARRISON"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 50000,
+							["Out"] = 100000,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1213174,
@@ -3860,7 +3836,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["LOOT"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 6772036,
+							["In"] = 7380152,
 							["Out"] = 0,
 						},
 					},
@@ -3889,7 +3865,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 					},
 				},
@@ -3899,13 +3875,17 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 142800,
-						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 47600,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 190400,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 0,
+							["Out"] = 14000,
 						},
 					},
 					["GUILD"] = {
@@ -3938,8 +3918,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2898769,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3775116,
-							["Out"] = 33458168,
+							["In"] = 3789882,
+							["Out"] = 35249347,
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
@@ -3955,7 +3935,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 175110,
-							["Out"] = 9201043,
+							["Out"] = 13062084,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -3969,7 +3949,7 @@ Accountant_ClassicZoneDB = {
 					["GARRISON"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 50000,
+							["Out"] = 100000,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1213174,
@@ -3982,7 +3962,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["LOOT"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 6772036,
+							["In"] = 7380152,
 							["Out"] = 0,
 						},
 					},
@@ -4011,7 +3991,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 					},
 				},
@@ -4096,31 +4076,27 @@ Accountant_ClassicZoneDB = {
 					},
 					["LFG"] = {
 					},
-					["AH"] = {
-					},
-					["LOOT"] = {
-					},
-					["VOID"] = {
-					},
 					["OTHER"] = {
 					},
-					["GARRISON"] = {
-					},
 					["MERCH"] = {
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 1523543,
-						},
-					},
-					["MAIL"] = {
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 30,
+							["Out"] = 3861041,
 						},
 					},
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+					},
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+					},
+					["AH"] = {
+					},
+					["VOID"] = {
+					},
+					["MAIL"] = {
 					},
 					["QUEST"] = {
 					},
@@ -4131,13 +4107,17 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 142800,
-						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 47600,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 190400,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 0,
+							["Out"] = 14000,
 						},
 					},
 					["GUILD"] = {
@@ -4170,8 +4150,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2898769,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3775116,
-							["Out"] = 33458168,
+							["In"] = 3789882,
+							["Out"] = 35249347,
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
@@ -4187,7 +4167,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 175110,
-							["Out"] = 9201043,
+							["Out"] = 13062084,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -4201,7 +4181,7 @@ Accountant_ClassicZoneDB = {
 					["GARRISON"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 50000,
+							["Out"] = 100000,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 1213174,
@@ -4214,7 +4194,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["LOOT"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 6772036,
+							["In"] = 7380152,
 							["Out"] = 0,
 						},
 					},
@@ -4243,7 +4223,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 					},
 				},
@@ -4298,43 +4278,35 @@ Accountant_ClassicZoneDB = {
 					},
 				},
 				["PrvDay"] = {
-					["REPAIRS"] = {
-					},
-					["GUILD"] = {
-					},
-					["TAXI"] = {
+					["TRAIN"] = {
 					},
 					["BARBER"] = {
 					},
-					["TRAIN"] = {
+					["TAXI"] = {
+					},
+					["GUILD"] = {
+					},
+					["MAIL"] = {
 					},
 					["LFG"] = {
 					},
-					["OTHER"] = {
-					},
-					["LOOT"] = {
-					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 0,
-							["Out"] = 180,
-						},
+					["AH"] = {
+					},
+					["TRADE"] = {
+					},
+					["OTHER"] = {
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
 					},
+					["LOOT"] = {
+					},
 					["TRANSMO"] = {
 					},
-					["TRADE"] = {
-					},
-					["AH"] = {
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 0,
-							["Out"] = 74149994,
-						},
+					["REPAIRS"] = {
 					},
 					["QUEST"] = {
 					},
@@ -4365,7 +4337,7 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1290,
+							["Out"] = 1470,
 						},
 					},
 					["VOID"] = {
@@ -4373,7 +4345,7 @@ Accountant_ClassicZoneDB = {
 					["AH"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 183748128,
+							["Out"] = 387729948,
 						},
 					},
 					["GARRISON"] = {
@@ -4429,7 +4401,7 @@ Accountant_ClassicZoneDB = {
 					["AH"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 120949908,
+							["Out"] = 324931728,
 						},
 					},
 					["LFG"] = {
@@ -4467,7 +4439,7 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 780,
+							["Out"] = 960,
 						},
 					},
 					["TRAIN"] = {
@@ -4501,7 +4473,7 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1290,
+							["Out"] = 1470,
 						},
 					},
 					["VOID"] = {
@@ -4509,7 +4481,7 @@ Accountant_ClassicZoneDB = {
 					["AH"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 183748128,
+							["Out"] = 387729948,
 						},
 					},
 					["GARRISON"] = {
@@ -4569,7 +4541,7 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 780,
+							["Out"] = 960,
 						},
 					},
 					["MERCH"] = {
@@ -4583,7 +4555,7 @@ Accountant_ClassicZoneDB = {
 					["AH"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 120949908,
+							["Out"] = 324931728,
 						},
 					},
 					["GARRISON"] = {
@@ -4704,31 +4676,31 @@ Accountant_ClassicZoneDB = {
 					},
 					["LFG"] = {
 					},
+					["TRANSMO"] = {
+					},
+					["LOOT"] = {
+					},
+					["VOID"] = {
+					},
 					["MAIL"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
 							["Out"] = 180,
 						},
 					},
+					["GARRISON"] = {
+					},
 					["MERCH"] = {
+					},
+					["OTHER"] = {
 					},
 					["TRADE"] = {
 					},
 					["AH"] = {
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 74149994,
+							["Out"] = 203981820,
 						},
-					},
-					["GARRISON"] = {
-					},
-					["LOOT"] = {
-					},
-					["TRANSMO"] = {
-					},
-					["VOID"] = {
-					},
-					["OTHER"] = {
 					},
 					["QUEST"] = {
 					},
@@ -4742,25 +4714,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["LFG"] = {
+					},
+					["TRADE"] = {
+					},
+					["MAIL"] = {
 					},
 					["VOID"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
-					},
-					["OTHER"] = {
-					},
 					["GARRISON"] = {
-					},
-					["MERCH"] = {
 					},
 					["LOOT"] = {
 					},
-					["TRANSMO"] = {
+					["MERCH"] = {
+					},
+					["OTHER"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -4882,77 +4854,65 @@ Accountant_ClassicZoneDB = {
 					},
 				},
 				["PrvDay"] = {
-					["REPAIRS"] = {
+					["TRAIN"] = {
 					},
-					["GUILD"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1233994,
-							["Out"] = 0,
-						},
+					["BARBER"] = {
 					},
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 12600,
 						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 25200,
+						},
 					},
-					["BARBER"] = {
+					["GUILD"] = {
+						["Battle of Dazar'alor"] = {
+							["In"] = 594863,
+							["Out"] = 0,
+						},
 					},
-					["TRAIN"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
 					},
-					["OTHER"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1798251,
-							["Out"] = 0,
-						},
-					},
-					["LOOT"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 1221526,
-							["Out"] = 0,
-						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 8246288,
-							["Out"] = 0,
-						},
-					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
-						["Zuldazar - Dazar'alor"] = {
+					["AH"] = {
+						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 240,
+							["Out"] = 88292,
 						},
+					},
+					["TRADE"] = {
+					},
+					["OTHER"] = {
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
-						["Zuldazar - Dazar'alor"] = {
+						["Atal'Dazar"] = {
 							["In"] = 0,
-							["Out"] = 462404,
+							["Out"] = 38247,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 96428,
-							["Out"] = 9749743,
+							["In"] = 3859,
+							["Out"] = 8371749,
 						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 0,
-							["Out"] = 128069,
+					},
+					["LOOT"] = {
+						["Battle of Dazar'alor"] = {
+							["In"] = 18648,
+							["Out"] = 0,
 						},
 					},
 					["TRANSMO"] = {
 					},
-					["TRADE"] = {
-					},
-					["AH"] = {
+					["REPAIRS"] = {
 					},
 					["QUEST"] = {
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 20000000,
-						},
 					},
 				},
 				["Year"] = {
@@ -4971,7 +4931,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 176400,
+							["Out"] = 201600,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
@@ -4995,12 +4955,12 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2392740,
+							["Out"] = 2417940,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 4939017,
+							["In"] = 5533880,
 							["Out"] = 0,
 						},
 					},
@@ -5044,11 +5004,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7521296,
+							["In"] = 7539944,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 6206321,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 8030533,
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
@@ -5060,7 +5024,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 32656617,
+							["In"] = 34507684,
 							["Out"] = 0,
 						},
 						["Drustvar - Chandlery Wharf"] = {
@@ -5084,8 +5048,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 330,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1196662903,
-							["Out"] = 0,
+							["In"] = 1198513970,
+							["Out"] = 30,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -5103,37 +5067,41 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["MERCH"] = {
+						["Waycrest Manor"] = {
+							["In"] = 0,
+							["Out"] = 3031787,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 775367,
+						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 1129537,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1348040,
-							["Out"] = 71020287,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 2452767,
-						},
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 295867,
-							["Out"] = 180000,
-						},
-						["Zuldazar - The Mugambala"] = {
-							["In"] = 0,
-							["Out"] = 428881,
+							["In"] = 1351899,
+							["Out"] = 82610223,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4115195,
 							["Out"] = 9338116,
 						},
-						["Dazar'alor - The Great Seal"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 775367,
+							["Out"] = 2452767,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 38247,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 295867,
+							["Out"] = 180000,
 						},
 					},
 					["OTHER"] = {
@@ -5142,8 +5110,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 9045560,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 4872442,
-							["Out"] = 1773387,
+							["In"] = 5477393,
+							["Out"] = 4254895,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 2090340,
@@ -5163,17 +5131,17 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 675994237,
+							["Out"] = 676347405,
 						},
 					},
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 3000000,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 110000000,
+							["Out"] = 131851067,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 117000,
@@ -5190,7 +5158,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 3670586,
+							["In"] = 4265449,
 							["Out"] = 0,
 						},
 					},
@@ -5205,7 +5173,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 138600,
+							["Out"] = 163800,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
@@ -5225,7 +5193,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2228940,
+							["Out"] = 2254140,
 						},
 						["Zuldazar - The Mugambala"] = {
 							["In"] = 0,
@@ -5241,7 +5209,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 498080489,
+							["Out"] = 498433657,
 						},
 					},
 					["LFG"] = {
@@ -5254,8 +5222,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 5359017,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3011806,
-							["Out"] = 1773387,
+							["In"] = 3616757,
+							["Out"] = 4254895,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 2090340,
@@ -5294,11 +5262,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3082943,
+							["In"] = 3101591,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 6206321,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 8030533,
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
@@ -5310,7 +5282,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 32656617,
+							["In"] = 34507684,
 							["Out"] = 0,
 						},
 						["Drustvar - Chandlery Wharf"] = {
@@ -5319,37 +5291,41 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["MERCH"] = {
+						["Waycrest Manor"] = {
+							["In"] = 0,
+							["Out"] = 3031787,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 226327,
+						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 1109017,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 249539,
-							["Out"] = 43786366,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 2452767,
-						},
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 295867,
-							["Out"] = 180000,
-						},
-						["Zuldazar - The Mugambala"] = {
-							["In"] = 0,
-							["Out"] = 428881,
+							["In"] = 253398,
+							["Out"] = 55376302,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 3662087,
 							["Out"] = 4368764,
 						},
-						["Dazar'alor - The Great Seal"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 226327,
+							["Out"] = 2452767,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 38247,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 295867,
+							["Out"] = 180000,
 						},
 					},
 					["MAIL"] = {
@@ -5362,8 +5338,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 150000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1196662903,
-							["Out"] = 0,
+							["In"] = 1198513970,
+							["Out"] = 30,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
@@ -5379,11 +5355,11 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 40000000,
+							["Out"] = 61851067,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 117000,
@@ -5401,60 +5377,48 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 12600,
-						},
-						["Drustvar - Anyport"] = {
-							["In"] = 0,
-							["Out"] = 14000,
-						},
 					},
 					["BARBER"] = {
 					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["LFG"] = {
+					},
+					["TRADE"] = {
+					},
+					["MAIL"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1851067,
+							["Out"] = 30,
+						},
 					},
 					["VOID"] = {
 					},
 					["AH"] = {
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 0,
-							["Out"] = 88292,
+					},
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1851067,
+							["Out"] = 0,
 						},
 					},
-					["TRADE"] = {
+					["MERCH"] = {
 					},
 					["OTHER"] = {
 						["Battle of Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 1773387,
+							["Out"] = 2481508,
 						},
-					},
-					["GARRISON"] = {
-					},
-					["MERCH"] = {
-						["Zuldazar - Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 646613,
-						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 565882,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
-					},
-					["LOOT"] = {
-					},
-					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
 					["QUEST"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 21851067,
+						},
 					},
 				},
 				["Month"] = {
@@ -5473,7 +5437,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 151200,
+							["Out"] = 176400,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
@@ -5497,12 +5461,12 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2254140,
+							["Out"] = 2279340,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 3670586,
+							["In"] = 4265449,
 							["Out"] = 0,
 						},
 					},
@@ -5524,8 +5488,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 330,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1196662903,
-							["Out"] = 0,
+							["In"] = 1198513970,
+							["Out"] = 30,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
@@ -5533,37 +5497,41 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["MERCH"] = {
+						["Waycrest Manor"] = {
+							["In"] = 0,
+							["Out"] = 3031787,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 575367,
+						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 1129537,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 295491,
-							["Out"] = 44963422,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 2452767,
-						},
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 295867,
-							["Out"] = 180000,
-						},
-						["Zuldazar - The Mugambala"] = {
-							["In"] = 0,
-							["Out"] = 428881,
+							["In"] = 299350,
+							["Out"] = 56553358,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 3662087,
 							["Out"] = 4892472,
 						},
-						["Dazar'alor - The Great Seal"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 575367,
+							["Out"] = 2452767,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 38247,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 295867,
+							["Out"] = 180000,
 						},
 					},
 					["TRADE"] = {
@@ -5575,7 +5543,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 498080489,
+							["Out"] = 498433657,
 						},
 					},
 					["GARRISON"] = {
@@ -5606,11 +5574,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3082943,
+							["In"] = 3101591,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 6206321,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 8030533,
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
@@ -5622,7 +5594,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 32656617,
+							["In"] = 34507684,
 							["Out"] = 0,
 						},
 						["Drustvar - Chandlery Wharf"] = {
@@ -5644,8 +5616,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 9045560,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3011806,
-							["Out"] = 1773387,
+							["In"] = 3616757,
+							["Out"] = 4254895,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 2090340,
@@ -5659,11 +5631,11 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 2000000,
+							["Out"] = 3000000,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 40000000,
+							["Out"] = 61851067,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 117000,
@@ -5806,41 +5778,33 @@ Accountant_ClassicZoneDB = {
 				["Session"] = {
 					["REPAIRS"] = {
 					},
-					["BARBER"] = {
-					},
-					["TAXI"] = {
-						["Drustvar - Anyport"] = {
-							["In"] = 0,
-							["Out"] = 14000,
-						},
-					},
 					["GUILD"] = {
 					},
-					["TRAIN"] = {
+					["TAXI"] = {
+					},
+					["BARBER"] = {
+					},
+					["OTHER"] = {
 					},
 					["LFG"] = {
 					},
-					["AH"] = {
-					},
-					["LOOT"] = {
+					["TRANSMO"] = {
 					},
 					["VOID"] = {
 					},
-					["OTHER"] = {
+					["TRADE"] = {
+					},
+					["MAIL"] = {
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
 					},
-					["MAIL"] = {
+					["LOOT"] = {
 					},
-					["TRADE"] = {
+					["AH"] = {
 					},
-					["TRANSMO"] = {
+					["TRAIN"] = {
 					},
 					["QUEST"] = {
 					},
@@ -5861,7 +5825,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 176400,
+							["Out"] = 201600,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
@@ -5885,12 +5849,12 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2392740,
+							["Out"] = 2417940,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 4939017,
+							["In"] = 5533880,
 							["Out"] = 0,
 						},
 					},
@@ -5934,11 +5898,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7521296,
+							["In"] = 7539944,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 6206321,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 8030533,
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
@@ -5950,7 +5918,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 32656617,
+							["In"] = 34507684,
 							["Out"] = 0,
 						},
 						["Drustvar - Chandlery Wharf"] = {
@@ -5974,8 +5942,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 330,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1196662903,
-							["Out"] = 0,
+							["In"] = 1198513970,
+							["Out"] = 30,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -5993,37 +5961,41 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["MERCH"] = {
+						["Waycrest Manor"] = {
+							["In"] = 0,
+							["Out"] = 3031787,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 775367,
+						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 1129537,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1348040,
-							["Out"] = 71020287,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 0,
-							["Out"] = 3031787,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 2452767,
-						},
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 295867,
-							["Out"] = 180000,
-						},
-						["Zuldazar - The Mugambala"] = {
-							["In"] = 0,
-							["Out"] = 428881,
+							["In"] = 1351899,
+							["Out"] = 82610223,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4115195,
 							["Out"] = 9338116,
 						},
-						["Dazar'alor - The Great Seal"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 775367,
+							["Out"] = 2452767,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 428881,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 38247,
+						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 295867,
+							["Out"] = 180000,
 						},
 					},
 					["OTHER"] = {
@@ -6032,8 +6004,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 9045560,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 4872442,
-							["Out"] = 1773387,
+							["In"] = 5477393,
+							["Out"] = 4254895,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 2090340,
@@ -6053,17 +6025,17 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 675994237,
+							["Out"] = 676347405,
 						},
 					},
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 3000000,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 110000000,
+							["Out"] = 131851067,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 117000,
@@ -6097,9 +6069,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 23800,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 47600,
+							["Out"] = 70000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
@@ -6109,17 +6081,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 178500,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
+						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 12600,
 						},
 						["Zuldazar - Temple of the Prophet"] = {
 							["In"] = 0,
 							["Out"] = 11900,
 						},
-						["Vol'dun - Tortaka Refuge"] = {
+						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 0,
-							["Out"] = 12600,
+							["Out"] = 47600,
 						},
 						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
@@ -6191,17 +6163,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 1724,
 						},
-						["Zuldazar - Dazar'alor"] = {
+						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 91316,
+							["Out"] = 3472192,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
 							["Out"] = 35700000,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
+						["The Underrot"] = {
 							["In"] = 0,
-							["Out"] = 3472192,
+							["Out"] = 676012,
 						},
 						["Battle of Dazar'alor"] = {
 							["In"] = 709820,
@@ -6219,9 +6191,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 172149,
 							["Out"] = 0,
 						},
-						["The Underrot"] = {
+						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 676012,
+							["Out"] = 91316,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
@@ -6318,53 +6290,53 @@ Accountant_ClassicZoneDB = {
 					},
 				},
 				["PrvDay"] = {
-					["REPAIRS"] = {
+					["TRAIN"] = {
 					},
-					["GUILD"] = {
+					["BARBER"] = {
 					},
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
 							["Out"] = 11900,
 						},
-						["Zuldazar - Grand Bazaar"] = {
+						["Drustvar - Anyport"] = {
 							["In"] = 0,
-							["Out"] = 23800,
+							["Out"] = 14000,
 						},
 					},
-					["BARBER"] = {
+					["GUILD"] = {
 					},
-					["TRAIN"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
 					},
-					["OTHER"] = {
-					},
-					["LOOT"] = {
-					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
+					["AH"] = {
+					},
+					["TRADE"] = {
+					},
+					["OTHER"] = {
 					},
 					["GARRISON"] = {
 					},
 					["MERCH"] = {
-						["Atal'Dazar"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 876617,
+							["Out"] = 1380707,
 						},
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 0,
+							["Out"] = 85000,
+						},
+					},
+					["LOOT"] = {
 					},
 					["TRANSMO"] = {
 					},
-					["TRADE"] = {
-					},
-					["AH"] = {
+					["REPAIRS"] = {
 					},
 					["QUEST"] = {
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 0,
-							["Out"] = 1000000,
-						},
 					},
 				},
 				["Total"] = {
@@ -6376,7 +6348,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 603406,
+							["In"] = 624605,
 							["Out"] = 0,
 						},
 						["Firelands"] = {
@@ -6387,11 +6359,11 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 285600,
+							["Out"] = 309400,
 						},
 						["Zuldazar - The Mugambala"] = {
 							["In"] = 0,
@@ -6419,7 +6391,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 285600,
+							["Out"] = 321300,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
@@ -6477,7 +6449,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 120,
+							["Out"] = 210,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 18496600,
@@ -6560,7 +6532,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 9722458,
+							["In"] = 10393713,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Mugambala"] = {
@@ -6595,7 +6567,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 172149,
-							["Out"] = 510000,
+							["Out"] = 595000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
@@ -6603,7 +6575,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
-							["Out"] = 17807198,
+							["Out"] = 20018419,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
@@ -6630,8 +6602,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2792791,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1873445,
-							["Out"] = 135295728,
+							["In"] = 2051805,
+							["Out"] = 168143836,
 						},
 						["Storm's End"] = {
 							["In"] = 0,
@@ -6672,8 +6644,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 614677,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 9599329,
-							["Out"] = 47880646,
+							["In"] = 11404311,
+							["Out"] = 48696286,
 						},
 						["Arathi Basin"] = {
 							["In"] = 47,
@@ -6709,7 +6681,7 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 20936000,
-							["Out"] = 5000000,
+							["Out"] = 6000000,
 						},
 						["Orgrimmar - Grommash Hold"] = {
 							["In"] = 46800,
@@ -6717,7 +6689,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 60000000,
+							["Out"] = 130000000,
 						},
 						["Tiragarde Sound - Eastpoint Station"] = {
 							["In"] = 1327040,
@@ -6741,15 +6713,19 @@ Accountant_ClassicZoneDB = {
 							["In"] = 5122,
 							["Out"] = 0,
 						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 21199,
+							["Out"] = 0,
+						},
 					},
 					["TAXI"] = {
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 107100,
+							["Out"] = 142800,
 						},
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Stormsong Valley - Warfang Hold"] = {
 							["In"] = 0,
@@ -6773,7 +6749,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 130900,
+							["Out"] = 154700,
 						},
 					},
 					["BARBER"] = {
@@ -6786,8 +6762,8 @@ Accountant_ClassicZoneDB = {
 					},
 					["OTHER"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 6005303,
-							["Out"] = 5832886,
+							["In"] = 7810285,
+							["Out"] = 6648526,
 						},
 						["Waycrest Manor"] = {
 							["In"] = 8000000,
@@ -6834,7 +6810,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 6017463,
+							["In"] = 6688718,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -6880,8 +6856,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2701475,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1163625,
-							["Out"] = 82999922,
+							["In"] = 1341985,
+							["Out"] = 115848030,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 0,
@@ -6893,7 +6869,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
-							["Out"] = 510000,
+							["Out"] = 595000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
@@ -6901,7 +6877,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 14654286,
+							["Out"] = 16865507,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -6915,7 +6891,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 120,
+							["Out"] = 210,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -6927,11 +6903,11 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 40000000,
+							["Out"] = 110000000,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 468000,
-							["Out"] = 3000000,
+							["Out"] = 4000000,
 						},
 						["Northern Barrens - Ratchet"] = {
 							["In"] = 117000,
@@ -6952,7 +6928,7 @@ Accountant_ClassicZoneDB = {
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 603406,
+							["In"] = 624605,
 							["Out"] = 0,
 						},
 						["Firelands"] = {
@@ -6963,11 +6939,11 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 285600,
+							["Out"] = 309400,
 						},
 						["Zuldazar - The Mugambala"] = {
 							["In"] = 0,
@@ -6995,7 +6971,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 285600,
+							["Out"] = 321300,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
@@ -7053,7 +7029,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 120,
+							["Out"] = 210,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 18496600,
@@ -7136,7 +7112,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 9722458,
+							["In"] = 10393713,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Mugambala"] = {
@@ -7171,7 +7147,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 172149,
-							["Out"] = 510000,
+							["Out"] = 595000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
@@ -7179,7 +7155,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 4302722,
-							["Out"] = 17807198,
+							["Out"] = 20018419,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
@@ -7206,8 +7182,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2792791,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1873445,
-							["Out"] = 135295728,
+							["In"] = 2051805,
+							["Out"] = 168143836,
 						},
 						["Storm's End"] = {
 							["In"] = 0,
@@ -7248,8 +7224,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 614677,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 9599329,
-							["Out"] = 47880646,
+							["In"] = 11404311,
+							["Out"] = 48696286,
 						},
 						["Arathi Basin"] = {
 							["In"] = 47,
@@ -7285,7 +7261,7 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 20936000,
-							["Out"] = 5000000,
+							["Out"] = 6000000,
 						},
 						["Orgrimmar - Grommash Hold"] = {
 							["In"] = 46800,
@@ -7293,7 +7269,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 60000000,
+							["Out"] = 130000000,
 						},
 						["Tiragarde Sound - Eastpoint Station"] = {
 							["In"] = 1327040,
@@ -7317,11 +7293,11 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 178500,
+							["Out"] = 202300,
 						},
 						["Zuldazar - The Golden Road"] = {
 							["In"] = 0,
@@ -7337,7 +7313,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 154700,
+							["Out"] = 190400,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
@@ -7373,6 +7349,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 5122,
 							["Out"] = 0,
 						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 21199,
+							["Out"] = 0,
+						},
 					},
 					["TRAIN"] = {
 					},
@@ -7389,7 +7369,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 120,
+							["Out"] = 210,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
@@ -7426,8 +7406,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 2718770,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1163625,
-							["Out"] = 121915177,
+							["In"] = 1341985,
+							["Out"] = 154763285,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 0,
@@ -7435,7 +7415,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
-							["Out"] = 510000,
+							["Out"] = 595000,
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
@@ -7447,7 +7427,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 14695027,
+							["Out"] = 16906248,
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 354218,
@@ -7502,7 +7482,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 6039194,
+							["In"] = 6710449,
 							["Out"] = 0,
 						},
 						["Well of Eternity"] = {
@@ -7540,8 +7520,8 @@ Accountant_ClassicZoneDB = {
 					},
 					["OTHER"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 7190976,
-							["Out"] = 7760655,
+							["In"] = 8995958,
+							["Out"] = 8576295,
 						},
 						["Waycrest Manor"] = {
 							["In"] = 8000000,
@@ -7563,7 +7543,7 @@ Accountant_ClassicZoneDB = {
 					["QUEST"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 40000000,
+							["Out"] = 110000000,
 						},
 						["Orgrimmar - Grommash Hold"] = {
 							["In"] = 46800,
@@ -7571,7 +7551,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 20468000,
-							["Out"] = 4000000,
+							["Out"] = 5000000,
 						},
 						["Tiragarde Sound - Eastpoint Station"] = {
 							["In"] = 1327040,
@@ -7805,32 +7785,40 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
+						["Zuldazar - Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 11900,
+						},
+						["Drustvar - Anyport"] = {
+							["In"] = 0,
+							["Out"] = 14000,
+						},
 					},
 					["BARBER"] = {
 					},
-					["AH"] = {
+					["MAIL"] = {
 					},
 					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
 					["OTHER"] = {
 					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
 					["GARRISON"] = {
+					},
+					["MERCH"] = {
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 0,
+							["Out"] = 85000,
+						},
 					},
 					["LOOT"] = {
 					},
-					["MERCH"] = {
-						["Atal'Dazar"] = {
-							["In"] = 0,
-							["Out"] = 876617,
-						},
-					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -7846,25 +7834,25 @@ Accountant_ClassicZoneDB = {
 					},
 					["BARBER"] = {
 					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["LFG"] = {
+					},
+					["TRADE"] = {
+					},
+					["MAIL"] = {
 					},
 					["VOID"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
-					},
-					["OTHER"] = {
-					},
 					["GARRISON"] = {
-					},
-					["MERCH"] = {
 					},
 					["LOOT"] = {
 					},
-					["TRANSMO"] = {
+					["MERCH"] = {
+					},
+					["OTHER"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -7910,133 +7898,45 @@ Accountant_ClassicZoneDB = {
 					},
 				},
 				["PrvDay"] = {
-					["REPAIRS"] = {
-					},
-					["GUILD"] = {
-					},
-					["TAXI"] = {
-						["Drustvar - Anyport"] = {
-							["In"] = 0,
-							["Out"] = 14000,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 0,
-							["Out"] = 22400,
-						},
-						["Nazmir - Gloom Hollow"] = {
-							["In"] = 0,
-							["Out"] = 22400,
-						},
-						["Zuldazar - Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 22400,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 0,
-							["Out"] = 28000,
-						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 0,
-							["Out"] = 28000,
-						},
-						["Vol'dun - Scorched Sands Outpost"] = {
-							["In"] = 0,
-							["Out"] = 22400,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 89600,
-						},
-						["Stormsong Valley - Ironmaul Overlook"] = {
-							["In"] = 0,
-							["Out"] = 42000,
-						},
+					["TRAIN"] = {
 					},
 					["BARBER"] = {
 					},
-					["TRAIN"] = {
-						["Zuldazar - Terrace of Crafters"] = {
+					["TAXI"] = {
+						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 4400000,
+							["Out"] = 11200,
 						},
+					},
+					["GUILD"] = {
+					},
+					["MAIL"] = {
 					},
 					["LFG"] = {
 					},
-					["OTHER"] = {
-					},
-					["LOOT"] = {
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 6978,
-							["Out"] = 0,
-						},
-					},
 					["VOID"] = {
 					},
-					["MAIL"] = {
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 50000,
-						},
-					},
-					["GARRISON"] = {
-						["Stormsong Valley - The Precipice of Oblivion"] = {
-							["In"] = 607799,
-							["Out"] = 0,
-						},
-					},
-					["MERCH"] = {
-						["Battle of Dazar'alor"] = {
-							["In"] = 0,
-							["Out"] = 22177,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 2634802,
-						},
-						["Verdant Wilds"] = {
-							["In"] = 330745,
-							["Out"] = 1268042,
-						},
-					},
-					["TRANSMO"] = {
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 1674275,
-						},
+					["AH"] = {
 					},
 					["TRADE"] = {
 					},
-					["AH"] = {
+					["OTHER"] = {
+					},
+					["GARRISON"] = {
+					},
+					["MERCH"] = {
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1110640000,
-							["Out"] = 0,
-						},
-						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 322619799,
+							["Out"] = 13835,
 						},
 					},
+					["LOOT"] = {
+					},
+					["TRANSMO"] = {
+					},
+					["REPAIRS"] = {
+					},
 					["QUEST"] = {
-						["The Banshee's Wail"] = {
-							["In"] = 23400,
-							["Out"] = 0,
-						},
-						["Nazmir - Zul'jan Ruins"] = {
-							["In"] = 1316500,
-							["Out"] = 0,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 23400,
-							["Out"] = 1000000,
-						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 70000000,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 20000000,
-							["Out"] = 0,
-						},
 					},
 				},
 				["Year"] = {
@@ -8047,7 +7947,43 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
+							["Out"] = 196000,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 0,
+							["Out"] = 67200,
+						},
+						["Zuldazar - Xibala"] = {
+							["In"] = 0,
+							["Out"] = 280000,
+						},
+						["Vol'dun - Conqueror's Path"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 0,
+							["Out"] = 89600,
+						},
+						["Stormsong Valley - Diretusk Hollow"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 0,
 							["Out"] = 84000,
+						},
+						["Stormsong Valley - Ironmaul Overlook"] = {
+							["In"] = 0,
+							["Out"] = 70000,
 						},
 						["Zuldazar - Warport Rastari"] = {
 							["In"] = 0,
@@ -8057,118 +7993,110 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Zuldazar - Garden of the Loa"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 44800,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 100000,
 						},
 						["Tiragarde Sound - Timberfell Outpost"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 436835,
+							["Out"] = 89600,
 						},
 						["Tiragarde Sound - Freehold"] = {
 							["In"] = 0,
 							["Out"] = 56000,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
+						["Drustvar - Krazzlefrazz Outpost"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 56000,
 						},
 						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 67200,
+							["Out"] = 89600,
 						},
-						["Zuldazar - Xibala"] = {
+						["Zuldazar - Nesingwary's Trek"] = {
 							["In"] = 0,
-							["Out"] = 182000,
+							["Out"] = 28000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 33600,
 						},
 						["Drustvar - Chandlery Wharf"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 42000,
+							["Out"] = 56000,
 						},
-						["Zuldazar - Seekers' Outpost"] = {
+						["Stormsong Valley - Warfang Hold"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 84000,
+						},
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 0,
+							["Out"] = 67200,
 						},
 						["Tiragarde Sound - Waning Glacier"] = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Stormsong Valley - Seekers' Vista"] = {
 							["In"] = 0,
-							["Out"] = 44800,
+							["Out"] = 33600,
 						},
 						["Tiragarde Sound - Castaway Point"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Nazmir - Gloom Hollow"] = {
+						["Zuldazar - The Sliver"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 44800,
 						},
 						["Tiragarde Sound - Wolf's Den"] = {
 							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 56000,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 257600,
+							["Out"] = 392000,
 						},
-						["Zuldazar - The Sliver"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 750435,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 70000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 84000,
+							["Out"] = 238000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
 							["Out"] = 22400,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 0,
-							["Out"] = 33600,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Ironmaul Overlook"] = {
+						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 0,
 							["Out"] = 70000,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 11200,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 0,
+							["Out"] = 33600,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1252348,
+							["In"] = 1256789,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -8195,7 +8123,7 @@ Accountant_ClassicZoneDB = {
 					["TRAIN"] = {
 						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 23084008,
+							["Out"] = 23484016,
 						},
 						["Zuldazar - Hall of Glimmers"] = {
 							["In"] = 0,
@@ -8208,7 +8136,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3880000,
+							["In"] = 5820000,
 							["Out"] = 0,
 						},
 					},
@@ -8223,64 +8151,36 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1424596650,
+							["Out"] = 1509310398,
 						},
 					},
 					["LOOT"] = {
-						["Darkshore - Twilight Shore"] = {
-							["In"] = 8932,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 164823,
 							["Out"] = 0,
 						},
-						["Nazmir - Koramar"] = {
-							["In"] = 656310,
+						["Shrine of the Storm"] = {
+							["In"] = 309754,
 							["Out"] = 0,
 						},
-						["Nazmir - The Sundered Span"] = {
-							["In"] = 157514,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Old Seawall"] = {
-							["In"] = 73166,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rastakhan's Might"] = {
-							["In"] = 3516,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 9860,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 36742,
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 5943792,
 							["Out"] = 0,
 						},
 						["Vol'dun - Redrock Lowlands"] = {
 							["In"] = 59668,
 							["Out"] = 0,
 						},
-						["Zuldazar - Talanji's Rebuke"] = {
-							["In"] = 95032,
+						["Nazmir - The Dreadmire"] = {
+							["In"] = 366317,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'farrak"] = {
-							["In"] = 36143,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Galson's Lode"] = {
-							["In"] = 19772,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound"] = {
-							["In"] = 10293,
+						["Nazmir - Shoaljai Tar Pits"] = {
+							["In"] = 10704,
 							["Out"] = 0,
 						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 108401,
-							["Out"] = 0,
-						},
-						["Nazmir - Kazai"] = {
-							["In"] = 5741,
 							["Out"] = 0,
 						},
 						["Nazmir - Antul'Mita Plateau"] = {
@@ -8292,55 +8192,35 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7469836,
+							["In"] = 15975791,
 							["Out"] = 0,
 						},
-						["Shrine of the Storm"] = {
-							["In"] = 309754,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 133994,
 							["Out"] = 0,
 						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 131612,
-							["Out"] = 0,
-						},
-						["Nazmir - Torga's Rest"] = {
-							["In"] = 191200,
+						["Zuldazar - Terrace of the Chosen"] = {
+							["In"] = 85828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
-							["In"] = 101547,
+							["In"] = 168972,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 6978,
+						["Vol'dun - The Blistering Wastes"] = {
+							["In"] = 12193,
 							["Out"] = 0,
 						},
 						["Nazmir - Zalamar"] = {
-							["In"] = 88091,
+							["In"] = 198943,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 176108,
-							["Out"] = 0,
-						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 73041,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Go'Shek Farm"] = {
-							["In"] = 63829,
-							["Out"] = 0,
-						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 166937,
+						["Siege of Boralus"] = {
+							["In"] = 208804,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
 							["In"] = 54497,
-							["Out"] = 0,
-						},
-						["Darkshore - Twilight Vale"] = {
-							["In"] = 7200,
 							["Out"] = 0,
 						},
 						["Vol'dun - Crater of Conquerors"] = {
@@ -8359,92 +8239,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 104649,
 							["Out"] = 0,
 						},
-						["Zuldazar - Alliance Airship"] = {
-							["In"] = 22255,
-							["Out"] = 0,
-						},
-						["Zuldazar - Crew Quarters"] = {
-							["In"] = 52104,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 74038,
-							["Out"] = 0,
-						},
-						["Siege of Boralus"] = {
-							["In"] = 208804,
-							["Out"] = 0,
-						},
-						["Darkshore - Ruins of Lornesta"] = {
-							["In"] = 8946,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 202393,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 75296,
+						["Tiragarde Sound - Proudmoore Barracks"] = {
+							["In"] = 153242,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Serpent's Maw"] = {
 							["In"] = 69515,
 							["Out"] = 0,
 						},
-						["Shadowfang Keep"] = {
-							["In"] = 46260,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 98959,
-							["Out"] = 0,
-						},
-						["Darkshore - Kor'gar"] = {
-							["In"] = 48587,
-							["Out"] = 0,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 126816,
-							["Out"] = 0,
-						},
-						["Dreadpearl Cavern"] = {
-							["In"] = 59680,
-							["Out"] = 0,
-						},
-						["Nazmir - Sethrak Front"] = {
-							["In"] = 226287,
-							["Out"] = 0,
-						},
-						["The Underrot"] = {
-							["In"] = 301149,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Hold"] = {
-							["In"] = 23679,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Boulderfist Hall"] = {
-							["In"] = 354811,
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 65832,
 							["Out"] = 0,
 						},
 						["Nazmir - Torga's Innards"] = {
 							["In"] = 114640,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of the Speakers"] = {
-							["In"] = 21446,
-							["Out"] = 0,
-						},
 						["Nazmir - Zal'amak"] = {
 							["In"] = 58576,
-							["Out"] = 0,
-						},
-						["Drustvar - Teller Farm"] = {
-							["In"] = 13898,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Freehold"] = {
-							["In"] = 61394,
 							["Out"] = 0,
 						},
 						["Vol'dun - Feeding Pits"] = {
@@ -8452,39 +8264,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 182598,
+							["In"] = 282736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 151767,
-							["Out"] = 0,
-						},
-						["Darkshore - Mist's Edge"] = {
-							["In"] = 19230,
-							["Out"] = 0,
-						},
-						["Zuldazar - Garden of the Loa"] = {
-							["In"] = 534002,
-							["Out"] = 0,
-						},
-						["Zuldazar - Terrace of the Chosen"] = {
-							["In"] = 85828,
-							["Out"] = 0,
-						},
-						["Darkshore - Ameth'Aran"] = {
-							["In"] = 152145,
-							["Out"] = 0,
-						},
-						["Darkshore"] = {
-							["In"] = 55300,
-							["Out"] = 0,
-						},
-						["Drustvar - Upper Corlain"] = {
-							["In"] = 60433,
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 88579,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -8499,36 +8283,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 4413,
 							["Out"] = 0,
 						},
-						["Vol'dun - Crackling Ridge"] = {
-							["In"] = 110435,
-							["Out"] = 0,
-						},
-						["Atal'Dazar"] = {
-							["In"] = 266199,
+						["Darkshore"] = {
+							["In"] = 55300,
 							["Out"] = 0,
 						},
 						["Zuldazar - Sandscar Breach"] = {
 							["In"] = 87902,
-							["Out"] = 0,
-						},
-						["Vol'dun - The Brine Basin"] = {
-							["In"] = 20478,
-							["Out"] = 0,
-						},
-						["Altar of Gonk"] = {
-							["In"] = 4471,
-							["Out"] = 0,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 378135,
-							["Out"] = 0,
-						},
-						["Drustvar - Corlain"] = {
-							["In"] = 51553,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Abyssal Melody"] = {
-							["In"] = 125945,
 							["Out"] = 0,
 						},
 						["Darkshore - Bitterstone Quarry"] = {
@@ -8543,36 +8303,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 6015,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 14448,
-							["Out"] = 0,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 249538,
-							["Out"] = 0,
-						},
-						["Kings' Rest"] = {
-							["In"] = 168372,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Jeweled Coast"] = {
-							["In"] = 43436,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 157672,
 							["Out"] = 0,
 						},
 						["Storm's End"] = {
 							["In"] = 186095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 139500,
-							["Out"] = 0,
-						},
-						["Nazmir - Naz'agal"] = {
-							["In"] = 219947,
-							["Out"] = 0,
-						},
-						["Zuldazar - Covescale Rise"] = {
-							["In"] = 5054,
+						["Stormsong Valley - Braxton Lodge"] = {
+							["In"] = 24352,
 							["Out"] = 0,
 						},
 						["Freehold"] = {
@@ -8580,103 +8320,379 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Drustvar - Arom's Crossing"] = {
-							["In"] = 7413,
+							["In"] = 21736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Zul'Ahjin"] = {
-							["In"] = 91461,
-							["Out"] = 0,
-						},
-						["Zuldazar - Shrine of Shadra"] = {
-							["In"] = 5919,
-							["Out"] = 0,
-						},
-						["Vol'dun - Rakjan's Peak"] = {
-							["In"] = 11552,
-							["Out"] = 0,
-						},
-						["Zuldazar - Savagelands"] = {
-							["In"] = 29663,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 128779,
+						["Tiragarde Sound - Mistfall Cleft"] = {
+							["In"] = 21917,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 8106,
 							["Out"] = 0,
 						},
-						["Vol'dun - Tongo's Hideout"] = {
-							["In"] = 8014,
-							["Out"] = 0,
-						},
 						["Nazmir - Plains of Tojek"] = {
-							["In"] = 72431,
+							["In"] = 99540,
 							["Out"] = 0,
 						},
-						["Vol'dun - Slithering Gulch"] = {
-							["In"] = 15773,
-							["Out"] = 0,
-						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 82416,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Feeding Grounds"] = {
-							["In"] = 57919,
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 14448,
 							["Out"] = 0,
 						},
 						["Tol Dagor"] = {
-							["In"] = 413851,
+							["In"] = 490321,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 112072,
+							["In"] = 2077937,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 72060,
-							["Out"] = 0,
-						},
-						["Nazmir - Shoaljai Tar Pits"] = {
-							["In"] = 10704,
+						["Stormsong Valley - The Brineworks"] = {
+							["In"] = 28079,
 							["Out"] = 0,
 						},
 						["Zuldazar - Headhunter Lodge"] = {
 							["In"] = 11991,
 							["Out"] = 0,
 						},
-						["Nazmir - Krag'wa's Shore"] = {
-							["In"] = 543170,
+						["Arathi Highlands - Boulderfist Hall"] = {
+							["In"] = 354811,
 							["Out"] = 0,
 						},
 						["Darkshore - Ashwood Depot"] = {
 							["In"] = 9943,
 							["Out"] = 0,
 						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 92223,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 4422,
 							["Out"] = 0,
 						},
-						["Vol'dun - Exiles' Enclave"] = {
-							["In"] = 63046,
+						["Temple of Sethraliss"] = {
+							["In"] = 393370,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 73041,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 233376,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 176108,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Shore"] = {
+							["In"] = 8932,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 656310,
+							["Out"] = 0,
+						},
+						["Nazmir - The Sundered Span"] = {
+							["In"] = 157514,
+							["Out"] = 0,
+						},
+						["Nazmir - Mangrove Shore"] = {
+							["In"] = 96431,
+							["Out"] = 0,
+						},
+						["Zuldazar - Savagelands"] = {
+							["In"] = 29663,
+							["Out"] = 0,
+						},
+						["Zuldazar - Rastakhan's Might"] = {
+							["In"] = 3516,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 9860,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 77759,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Fogcliff Strand"] = {
+							["In"] = 40143,
+							["Out"] = 0,
+						},
+						["Zuldazar - Talanji's Rebuke"] = {
+							["In"] = 95032,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'farrak"] = {
+							["In"] = 36143,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Galson's Lode"] = {
+							["In"] = 19772,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound"] = {
+							["In"] = 33514,
+							["Out"] = 0,
+						},
+						["Nazmir - Kazai"] = {
+							["In"] = 5741,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 131612,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
+							["Out"] = 0,
+						},
+						["Nazmir - Natha'vor"] = {
+							["In"] = 166937,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 85867,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Freehold"] = {
+							["In"] = 61394,
+							["Out"] = 0,
+						},
+						["Zuldazar - Alliance Airship"] = {
+							["In"] = 22255,
+							["Out"] = 0,
+						},
+						["Zuldazar - Crew Quarters"] = {
+							["In"] = 52104,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 74038,
+							["Out"] = 0,
+						},
+						["Shadowfang Keep"] = {
+							["In"] = 46260,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 98959,
+							["Out"] = 0,
+						},
+						["The MOTHERLODE!!"] = {
+							["In"] = 126816,
+							["Out"] = 0,
+						},
+						["Dreadpearl Cavern"] = {
+							["In"] = 59680,
+							["Out"] = 0,
+						},
+						["Nazmir - Sethrak Front"] = {
+							["In"] = 226287,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of the Speakers"] = {
+							["In"] = 21446,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Hold"] = {
+							["In"] = 23679,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 14217,
+							["Out"] = 0,
+						},
+						["Darkshore - Mist's Edge"] = {
+							["In"] = 19230,
+							["Out"] = 0,
+						},
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
+							["Out"] = 0,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 534002,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Sagehold"] = {
+							["In"] = 108166,
+							["Out"] = 0,
+						},
+						["Darkshore - Ameth'Aran"] = {
+							["In"] = 152145,
+							["Out"] = 0,
+						},
+						["Vol'dun - Rakjan's Peak"] = {
+							["In"] = 11552,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crackling Ridge"] = {
+							["In"] = 110435,
+							["Out"] = 0,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 266199,
+							["Out"] = 0,
+						},
+						["Altar of Gonk"] = {
+							["In"] = 4471,
+							["Out"] = 0,
+						},
+						["Drustvar - Upper Corlain"] = {
+							["In"] = 99733,
+							["Out"] = 0,
+						},
+						["Drustvar - Corlain"] = {
+							["In"] = 65761,
+							["Out"] = 0,
+						},
+						["Darkshore - Blackwood Camp"] = {
+							["In"] = 5497,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Feeding Grounds"] = {
+							["In"] = 57919,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 157095,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 109464,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Siren's Daughter"] = {
+							["In"] = 162137,
+							["Out"] = 0,
+						},
+						["Kings' Rest"] = {
+							["In"] = 168372,
+							["Out"] = 0,
+						},
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 82416,
+							["Out"] = 0,
+						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 249538,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Wavespeaker's Sanctum"] = {
+							["In"] = 13821,
+							["Out"] = 0,
+						},
+						["Zuldazar - Lair of Rezan"] = {
+							["In"] = 34284,
+							["Out"] = 0,
+						},
+						["Zuldazar - Covescale Rise"] = {
+							["In"] = 5054,
+							["Out"] = 0,
+						},
+						["Nazmir - Naz'agal"] = {
+							["In"] = 219947,
+							["Out"] = 0,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 145207,
+							["Out"] = 0,
+						},
+						["Vol'dun - Zul'Ahjin"] = {
+							["In"] = 97906,
+							["Out"] = 0,
+						},
+						["Zuldazar - Shrine of Shadra"] = {
+							["In"] = 5919,
+							["Out"] = 0,
+						},
+						["Nazmir"] = {
+							["In"] = 4049,
+							["Out"] = 0,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 128779,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 202393,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 72060,
 							["Out"] = 0,
 						},
 						["Nazmir - The Necropolis"] = {
 							["In"] = 441246,
 							["Out"] = 0,
 						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 4422,
+						["Darkshore - Kor'gar"] = {
+							["In"] = 48587,
+							["Out"] = 0,
+						},
+						["Vol'dun - Slithering Gulch"] = {
+							["In"] = 39345,
+							["Out"] = 0,
+						},
+						["Waycrest Manor"] = {
+							["In"] = 378135,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 92223,
+							["Out"] = 0,
+						},
+						["Drustvar - Teller Farm"] = {
+							["In"] = 13898,
+							["Out"] = 0,
+						},
+						["Vol'dun - The Brine Basin"] = {
+							["In"] = 20478,
+							["Out"] = 0,
+						},
+						["Vol'dun - Tongo's Hideout"] = {
+							["In"] = 8014,
+							["Out"] = 0,
+						},
+						["The Underrot"] = {
+							["In"] = 301149,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 139500,
+							["Out"] = 0,
+						},
+						["Nazmir - Krag'wa's Shore"] = {
+							["In"] = 543170,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 80069,
+							["Out"] = 0,
+						},
+						["Darkshore - Ruins of Lornesta"] = {
+							["In"] = 8946,
+							["Out"] = 0,
+						},
+						["Vol'dun - Exiles' Enclave"] = {
+							["In"] = 63046,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Go'Shek Farm"] = {
+							["In"] = 63829,
+							["Out"] = 0,
+						},
+						["Nazmir - Torga's Rest"] = {
+							["In"] = 191200,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 10608,
 							["Out"] = 0,
 						},
-						["Temple of Sethraliss"] = {
-							["In"] = 393370,
+						["Stormsong Valley - The Jeweled Coast"] = {
+							["In"] = 43436,
 							["Out"] = 0,
 						},
 						["Drustvar"] = {
@@ -8687,16 +8703,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 91266,
 							["Out"] = 0,
 						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 233376,
+						["Zuldazar - The Old Seawall"] = {
+							["In"] = 73166,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 145207,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 6978,
 							["Out"] = 0,
 						},
-						["Nazmir - The Dreadmire"] = {
-							["In"] = 204033,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 13046,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dreadpearl Shallows"] = {
@@ -8719,16 +8735,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 57963,
 							["Out"] = 0,
 						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 0,
-							["Out"] = 8647,
-						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 493999,
+							["Out"] = 1604999,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 308647,
+						},
+						["Zuldazar - Zeb'ahari"] = {
+							["In"] = 413078,
+							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1828035,
+							["In"] = 2444721,
 							["Out"] = 0,
 						},
 						["Kings' Rest"] = {
@@ -8751,12 +8771,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 629909,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zeb'ahari"] = {
-							["In"] = 413078,
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 126210,
 							["Out"] = 0,
 						},
 					},
 					["GARRISON"] = {
+						["Stormsong Valley - The Precipice of Oblivion"] = {
+							["In"] = 607799,
+							["Out"] = 0,
+						},
+						["Darkshore - Withering Thicket"] = {
+							["In"] = 602659,
+							["Out"] = 0,
+						},
 						["The Underrot"] = {
 							["In"] = 26444,
 							["Out"] = 0,
@@ -8765,12 +8793,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 249538,
 							["Out"] = 0,
 						},
-						["Arathi Highlands"] = {
-							["In"] = 606285,
+						["The Banshee's Wail"] = {
+							["In"] = 50000000,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Precipice of Oblivion"] = {
-							["In"] = 607799,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 12016,
 							["Out"] = 0,
 						},
 						["Zuldazar - Xibala Shallows"] = {
@@ -8785,19 +8813,35 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32377,
 							["Out"] = 0,
 						},
-						["Darkshore - Withering Thicket"] = {
-							["In"] = 602659,
+						["Arathi Highlands"] = {
+							["In"] = 606285,
 							["Out"] = 0,
 						},
 					},
 					["MERCH"] = {
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 0,
+							["Out"] = 3708920,
+						},
 						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 78212,
+							["In"] = 326533,
+							["Out"] = 91354,
+						},
+						["Freehold"] = {
+							["In"] = 0,
+							["Out"] = 3129707,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 129045,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 3928602,
-							["Out"] = 600000,
+							["Out"] = 4870542,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 6790,
 						},
 						["Zuldazar - Zeb'ahari"] = {
 							["In"] = 277009,
@@ -8807,13 +8851,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 81111,
 							["Out"] = 0,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 678187,
+							["Out"] = 0,
+						},
 						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 14114,
+							["Out"] = 320000,
+						},
+						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 6543057,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8582708,
-							["Out"] = 6430195,
+							["In"] = 17064773,
+							["Out"] = 10291940,
 						},
 						["Verdant Wilds"] = {
 							["In"] = 330745,
@@ -8823,41 +8875,45 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 19118,
 						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 129045,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 617484,
 							["Out"] = 0,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
 							["Out"] = 1044956,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 0,
-							["Out"] = 61725,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 0,
-							["Out"] = 484247,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 759987,
-							["Out"] = 1762856,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 678187,
-							["Out"] = 0,
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 430328,
+							["Out"] = 5973591,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 675165,
 							["Out"] = 615716,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 193717,
-							["Out"] = 3968770,
+						["The MOTHERLODE!!"] = {
+							["In"] = 0,
+							["Out"] = 2769430,
 						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 430328,
-							["Out"] = 5973591,
+						["Stormsong Valley - Seekers' Vista"] = {
+							["In"] = 759987,
+							["Out"] = 1762856,
+						},
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 1882269,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 83548,
+							["Out"] = 61725,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 1118024,
+							["Out"] = 11667180,
+						},
+						["The Rotting Mire"] = {
+							["In"] = 32029,
+							["Out"] = 292715,
 						},
 						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 3411686,
@@ -8871,13 +8927,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 494081,
 							["Out"] = 0,
 						},
-						["The Underrot"] = {
+						["The Banshee's Wail"] = {
 							["In"] = 0,
-							["Out"] = 1107990,
+							["Out"] = 179476,
 						},
-						["The Rotting Mire"] = {
-							["In"] = 32029,
-							["Out"] = 292715,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 3037,
+							["Out"] = 326216,
 						},
 					},
 					["MAIL"] = {
@@ -8909,6 +8965,14 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 588457,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 973152,
+						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
 							["Out"] = 5547879,
@@ -8917,38 +8981,22 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 295195,
 						},
+						["Orgrimmar - The Drag"] = {
+							["In"] = 0,
+							["Out"] = 3505629,
+						},
 					},
 					["QUEST"] = {
-						["Nazmir - Koramar"] = {
-							["In"] = 654000,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 585000,
 							["Out"] = 0,
 						},
-						["Zuldazar - House of Jol"] = {
-							["In"] = 2231000,
-							["Out"] = 0,
-						},
-						["Nazmir - Court of Spirits"] = {
-							["In"] = 630000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Redrock Lowlands"] = {
-							["In"] = 198000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 799200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 690000,
+						["The Great Sea"] = {
+							["In"] = 1872000,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
-							["In"] = 420200,
-							["Out"] = 0,
-						},
-						["Great Hall"] = {
-							["In"] = 468000,
+							["In"] = 443600,
 							["Out"] = 0,
 						},
 						["Vol'dun - Court of Zak'rajan"] = {
@@ -8959,20 +9007,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3634500,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
-							["In"] = 1973100,
+						["Vol'dun - Redrock Lowlands"] = {
+							["In"] = 198000,
 							["Out"] = 0,
-						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 140000000,
 						},
 						["Zuldazar - Gorilla Gorge"] = {
 							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 1427400,
 							["Out"] = 0,
 						},
 						["Nazmir - The Dreadmire"] = {
@@ -8991,32 +9031,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1554000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 21400,
 							["Out"] = 0,
 						},
-						["Nazmir - Gloom Hollow"] = {
-							["In"] = 280200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Sundered Temple"] = {
-							["In"] = 444000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 460000,
+						["Stormsong Valley - Tidebreak Summit"] = {
+							["In"] = 1310400,
 							["Out"] = 0,
 						},
 						["Nazmir - Burial Mound"] = {
-							["In"] = 2313566,
-							["Out"] = 0,
-						},
-						["Nazmir - The Rivermarsh"] = {
-							["In"] = 20600,
+							["In"] = 2336966,
 							["Out"] = 0,
 						},
 						["Nazmir - Tul'vor"] = {
@@ -9035,10 +9059,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 8409,
 							["Out"] = 0,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
 						["Nazmir - Zalamar"] = {
 							["In"] = 1365000,
 							["Out"] = 0,
@@ -9047,12 +9067,216 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1263600,
 							["Out"] = 0,
 						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 210000,
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 2069192,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Expedition"] = {
+							["In"] = 688200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crater of Conquerors"] = {
+							["In"] = 424200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Port of Zem'lan"] = {
+							["In"] = 1999800,
+							["Out"] = 0,
+						},
+						["Nazmir - Takulu Bridge"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["The Banshee's Wail"] = {
+							["In"] = 5548900,
+							["Out"] = 0,
+						},
+						["Vol'dun - Arid Basin"] = {
+							["In"] = 415800,
+							["Out"] = 0,
+						},
+						["Zuldazar - Nesingwary's Trek"] = {
+							["In"] = 926600,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 14074,
+							["Out"] = 0,
+						},
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 6186,
+							["Out"] = 0,
+						},
+						["Nazmir - The Far Reach"] = {
+							["In"] = 23400,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 3940034,
+							["Out"] = 0,
+						},
+						["Nazmir - Zal'amak"] = {
+							["In"] = 1284000,
+							["Out"] = 0,
+						},
+						["Drustvar - Anyport"] = {
+							["In"] = 230000,
+							["Out"] = 0,
+						},
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 1364000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 2017600,
+							["Out"] = 0,
+						},
+						["Nazwatha - Seal of Nazmir"] = {
+							["In"] = 1526000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Predator Pass"] = {
+							["In"] = 12004,
+							["Out"] = 0,
+						},
+						["Darkshore"] = {
+							["In"] = 11539,
+							["Out"] = 0,
+						},
+						["Zuldazar - Sandscar Breach"] = {
+							["In"] = 1130000,
+							["Out"] = 0,
+						},
+						["Silithus: The Wound - Magni's Encampment"] = {
+							["In"] = 66200,
+							["Out"] = 0,
+						},
+						["Nazmir - Forlorn Ruins"] = {
+							["In"] = 1712000,
+							["Out"] = 0,
+						},
+						["Darkshore - Bitterstone Quarry"] = {
+							["In"] = 22303,
+							["Out"] = 0,
+						},
+						["Zuldazar - Throne of Rezan"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Bridgeport"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Village in the Vines"] = {
+							["In"] = 678000,
+							["Out"] = 0,
+						},
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["Vol'dun - Camp Lastwind"] = {
+							["In"] = 19800,
+							["Out"] = 0,
+						},
+						["Darkshore - Delaryn's Demise"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Withering Gulch"] = {
+							["In"] = 1649000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Slough"] = {
+							["In"] = 1876300,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 702000,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Gates of Orgrimmar"] = {
+							["In"] = 213400,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1807000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Preserve"] = {
+							["In"] = 249000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Shrouded Hollow"] = {
+							["In"] = 388000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Headhunter Lodge"] = {
+							["In"] = 686000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 776000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 19400,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 2472000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 690000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 799200,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 654000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 21261000,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 1427400,
+							["Out"] = 0,
+						},
+						["Great Hall"] = {
+							["In"] = 468000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 140000000,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 280200,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 22200,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Stonetusk Watch"] = {
+							["In"] = 117000,
+							["Out"] = 0,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 681000,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 1404000,
+							["In"] = 2129400,
 							["Out"] = 0,
 						},
 						["Nazmir - Wayward Shoals"] = {
@@ -9063,76 +9287,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 62200,
 							["Out"] = 0,
 						},
-						["Vol'dun - Port of Zem'lan"] = {
-							["In"] = 1999800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Crater of Conquerors"] = {
-							["In"] = 424200,
-							["Out"] = 0,
-						},
-						["Drustvar - Crimson Forest"] = {
-							["In"] = 690000,
-							["Out"] = 0,
-						},
-						["Nazmir - Takulu Bridge"] = {
-							["In"] = 21800,
-							["Out"] = 0,
-						},
-						["Zuldazar - Nesingwary's Trek"] = {
-							["In"] = 926600,
-							["Out"] = 0,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 932000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Arid Basin"] = {
-							["In"] = 415800,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 1170000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 244200,
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 7717,
 							["Out"] = 0,
 						},
 						["Zuldazar - Warbeast Kraal"] = {
 							["In"] = 926600,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Preserve"] = {
-							["In"] = 249000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 2069192,
-							["Out"] = 0,
-						},
-						["The Banshee's Wail"] = {
-							["In"] = 4168300,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Expedition"] = {
-							["In"] = 688200,
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 1170000,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fall"] = {
-							["In"] = 840000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Outpost"] = {
-							["In"] = 22200,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 702000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 21261000,
+							["In"] = 2244000,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -9144,51 +9312,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Orgrimmar - Grommash Hold"] = {
-							["In"] = 46800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Withering Gulch"] = {
-							["In"] = 1649000,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 2223000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rootway"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
-						["Nazmir - Zal'amak"] = {
-							["In"] = 1284000,
+							["In"] = 70200,
 							["Out"] = 0,
 						},
 						["Drustvar - Teller Farm"] = {
 							["In"] = 1456840,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Drustvar - Anyport"] = {
-							["In"] = 230000,
-							["Out"] = 0,
-						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 638600,
-							["Out"] = 0,
-						},
-						["Darkshore - Delaryn's Demise"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
 						["Nazmir - The Edge of Oblivion"] = {
 							["In"] = 1260000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Camp Lastwind"] = {
-							["In"] = 19800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Garden of the Loa"] = {
@@ -9207,76 +9339,60 @@ Accountant_ClassicZoneDB = {
 							["In"] = 507000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Temple of Akunda"] = {
-							["In"] = 2017600,
+						["Tiragarde Sound - Westwind Weald"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
+						["Zuldazar - House of Jol"] = {
+							["In"] = 2231000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Rakjan's Peak"] = {
 							["In"] = 1212000,
 							["Out"] = 0,
 						},
-						["Nazwatha - Seal of Nazmir"] = {
-							["In"] = 1526000,
+						["Nazmir - Court of Spirits"] = {
+							["In"] = 630000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 514828,
+						["Nazmir - Natha'vor"] = {
+							["In"] = 210000,
 							["Out"] = 0,
 						},
-						["Nazmir - Altar of Rot"] = {
-							["In"] = 21800,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 1427400,
 							["Out"] = 0,
 						},
-						["Darkshore"] = {
-							["In"] = 11539,
+						["Zuldazar - The Forward Guard"] = {
+							["In"] = 888000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Sandscar Breach"] = {
-							["In"] = 1130000,
-							["Out"] = 0,
-						},
-						["Silithus: The Wound - Magni's Encampment"] = {
-							["In"] = 66200,
-							["Out"] = 0,
-						},
-						["Nazmir - Terrace of Sorrows"] = {
-							["In"] = 1236000,
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 782125,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Brine Basin"] = {
 							["In"] = 388000,
 							["Out"] = 0,
 						},
-						["Nazmir - Forlorn Ruins"] = {
-							["In"] = 1712000,
+						["Zuldazar - Sundered Temple"] = {
+							["In"] = 444000,
 							["Out"] = 0,
 						},
-						["Darkshore - Bitterstone Quarry"] = {
-							["In"] = 22303,
+						["Zuldazar - Scaletrader Post"] = {
+							["In"] = 460000,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
 							["In"] = 9892,
 							["Out"] = 0,
 						},
-						["Zuldazar - Throne of Rezan"] = {
-							["In"] = 920000,
+						["Zuldazar - Zanchul"] = {
+							["In"] = 2918945,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Bridgeport"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Dazar"] = {
-							["In"] = 920000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Village in the Vines"] = {
-							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Bwoljin's Fall"] = {
-							["In"] = 101000,
+						["Zuldazar - Hall of the High Priests"] = {
+							["In"] = 226000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Skycallers' Spire"] = {
@@ -9284,15 +9400,27 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 20885800,
-							["Out"] = 2000000,
+							["In"] = 40885800,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Zocalo"] = {
-							["In"] = 67800,
+							["In"] = 91200,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - The Jeweled Coast"] = {
 							["In"] = 22715,
+							["Out"] = 0,
+						},
+						["Vol'dun - Bwoljin's Fall"] = {
+							["In"] = 101000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Dazar"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 514828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -9303,8 +9431,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 428000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Forward Guard"] = {
-							["In"] = 888000,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Zul'Ahjin"] = {
@@ -9327,24 +9455,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 654000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Rootway"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 1980000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Slough"] = {
-							["In"] = 1876300,
-							["Out"] = 0,
-						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 654000,
+						["Drustvar - Krazzlefrazz Outpost"] = {
+							["In"] = 1423400,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
 							["In"] = 816985,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Gates of Orgrimmar"] = {
-							["In"] = 213400,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 654000,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
@@ -9355,68 +9483,68 @@ Accountant_ClassicZoneDB = {
 							["In"] = 436000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1807000,
+						["Drustvar - Mudfisher Cove"] = {
+							["In"] = 117000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Valley of Sorrows"] = {
 							["In"] = 415800,
 							["Out"] = 0,
 						},
-						["Vol'dun - Shrouded Hollow"] = {
-							["In"] = 388000,
+						["Valley of Strength - The Broken Tusk"] = {
+							["In"] = 19400,
 							["Out"] = 0,
 						},
-						["Zuldazar - Headhunter Lodge"] = {
-							["In"] = 686000,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 690000,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
 							["In"] = 642000,
 							["Out"] = 0,
 						},
-						["Valley of Strength - The Broken Tusk"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 776000,
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 982800,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Golden Throne"] = {
 							["In"] = 194000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 244200,
+							["Out"] = 0,
+						},
 						["Siege of Boralus"] = {
 							["In"] = 125664,
 							["Out"] = 0,
 						},
-						["Nazmir - The Necropolis"] = {
-							["In"] = 231000,
+						["Nazmir - The Rivermarsh"] = {
+							["In"] = 20600,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 869600,
 							["Out"] = 0,
 						},
-						["Nazmir - Zo'bal Ruins"] = {
-							["In"] = 681000,
+						["Nazmir - The Necropolis"] = {
+							["In"] = 231000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Hall of the High Priests"] = {
-							["In"] = 226000,
+						["Nazmir - Terrace of Sorrows"] = {
+							["In"] = 1236000,
 							["Out"] = 0,
 						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 2472000,
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 2441100,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 1029600,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 2918945,
+						["Zuldazar - Bilgewater Bonanza"] = {
+							["In"] = 257400,
 							["Out"] = 0,
 						},
 						["Nazmir - Mangrove Shore"] = {
@@ -9437,7 +9565,43 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
+							["Out"] = 196000,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 0,
+							["Out"] = 67200,
+						},
+						["Zuldazar - Xibala"] = {
+							["In"] = 0,
+							["Out"] = 280000,
+						},
+						["Vol'dun - Conqueror's Path"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 0,
+							["Out"] = 89600,
+						},
+						["Stormsong Valley - Diretusk Hollow"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 0,
 							["Out"] = 84000,
+						},
+						["Stormsong Valley - Ironmaul Overlook"] = {
+							["In"] = 0,
+							["Out"] = 70000,
 						},
 						["Zuldazar - Warport Rastari"] = {
 							["In"] = 0,
@@ -9447,118 +9611,110 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Zuldazar - Garden of the Loa"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 44800,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 100000,
 						},
 						["Tiragarde Sound - Timberfell Outpost"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 436835,
+							["Out"] = 89600,
 						},
 						["Tiragarde Sound - Freehold"] = {
 							["In"] = 0,
 							["Out"] = 56000,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
+						["Drustvar - Krazzlefrazz Outpost"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 56000,
 						},
 						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 67200,
+							["Out"] = 89600,
 						},
-						["Zuldazar - Xibala"] = {
+						["Zuldazar - Nesingwary's Trek"] = {
 							["In"] = 0,
-							["Out"] = 182000,
+							["Out"] = 28000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 33600,
 						},
 						["Drustvar - Chandlery Wharf"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 42000,
+							["Out"] = 56000,
 						},
-						["Zuldazar - Seekers' Outpost"] = {
+						["Stormsong Valley - Warfang Hold"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 84000,
+						},
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 0,
+							["Out"] = 67200,
 						},
 						["Tiragarde Sound - Waning Glacier"] = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Stormsong Valley - Seekers' Vista"] = {
 							["In"] = 0,
-							["Out"] = 44800,
+							["Out"] = 33600,
 						},
 						["Tiragarde Sound - Castaway Point"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Nazmir - Gloom Hollow"] = {
+						["Zuldazar - The Sliver"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 44800,
 						},
 						["Tiragarde Sound - Wolf's Den"] = {
 							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 56000,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 257600,
+							["Out"] = 392000,
 						},
-						["Zuldazar - The Sliver"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 750435,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 70000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 84000,
+							["Out"] = 238000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
 							["Out"] = 22400,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 0,
-							["Out"] = 33600,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Ironmaul Overlook"] = {
+						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 0,
 							["Out"] = 70000,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 11200,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 0,
+							["Out"] = 33600,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1252348,
+							["In"] = 1256789,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -9585,7 +9741,7 @@ Accountant_ClassicZoneDB = {
 					["TRAIN"] = {
 						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 23084008,
+							["Out"] = 23484016,
 						},
 						["Zuldazar - Hall of Glimmers"] = {
 							["In"] = 0,
@@ -9598,7 +9754,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3880000,
+							["In"] = 5820000,
 							["Out"] = 0,
 						},
 					},
@@ -9613,64 +9769,36 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1424596650,
+							["Out"] = 1509310398,
 						},
 					},
 					["LOOT"] = {
-						["Darkshore - Twilight Shore"] = {
-							["In"] = 8932,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 164823,
 							["Out"] = 0,
 						},
-						["Nazmir - Koramar"] = {
-							["In"] = 656310,
+						["Shrine of the Storm"] = {
+							["In"] = 309754,
 							["Out"] = 0,
 						},
-						["Nazmir - The Sundered Span"] = {
-							["In"] = 157514,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Old Seawall"] = {
-							["In"] = 73166,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rastakhan's Might"] = {
-							["In"] = 3516,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 9860,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 36742,
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 5943792,
 							["Out"] = 0,
 						},
 						["Vol'dun - Redrock Lowlands"] = {
 							["In"] = 59668,
 							["Out"] = 0,
 						},
-						["Zuldazar - Talanji's Rebuke"] = {
-							["In"] = 95032,
+						["Nazmir - The Dreadmire"] = {
+							["In"] = 366317,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'farrak"] = {
-							["In"] = 36143,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Galson's Lode"] = {
-							["In"] = 19772,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound"] = {
-							["In"] = 10293,
+						["Nazmir - Shoaljai Tar Pits"] = {
+							["In"] = 10704,
 							["Out"] = 0,
 						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 108401,
-							["Out"] = 0,
-						},
-						["Nazmir - Kazai"] = {
-							["In"] = 5741,
 							["Out"] = 0,
 						},
 						["Nazmir - Antul'Mita Plateau"] = {
@@ -9682,55 +9810,35 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7469836,
+							["In"] = 15975791,
 							["Out"] = 0,
 						},
-						["Shrine of the Storm"] = {
-							["In"] = 309754,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 133994,
 							["Out"] = 0,
 						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 131612,
-							["Out"] = 0,
-						},
-						["Nazmir - Torga's Rest"] = {
-							["In"] = 191200,
+						["Zuldazar - Terrace of the Chosen"] = {
+							["In"] = 85828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
-							["In"] = 101547,
+							["In"] = 168972,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 6978,
+						["Vol'dun - The Blistering Wastes"] = {
+							["In"] = 12193,
 							["Out"] = 0,
 						},
 						["Nazmir - Zalamar"] = {
-							["In"] = 88091,
+							["In"] = 198943,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 176108,
-							["Out"] = 0,
-						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 73041,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Go'Shek Farm"] = {
-							["In"] = 63829,
-							["Out"] = 0,
-						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 166937,
+						["Siege of Boralus"] = {
+							["In"] = 208804,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
 							["In"] = 54497,
-							["Out"] = 0,
-						},
-						["Darkshore - Twilight Vale"] = {
-							["In"] = 7200,
 							["Out"] = 0,
 						},
 						["Vol'dun - Crater of Conquerors"] = {
@@ -9749,92 +9857,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 104649,
 							["Out"] = 0,
 						},
-						["Zuldazar - Alliance Airship"] = {
-							["In"] = 22255,
-							["Out"] = 0,
-						},
-						["Zuldazar - Crew Quarters"] = {
-							["In"] = 52104,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 74038,
-							["Out"] = 0,
-						},
-						["Siege of Boralus"] = {
-							["In"] = 208804,
-							["Out"] = 0,
-						},
-						["Darkshore - Ruins of Lornesta"] = {
-							["In"] = 8946,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 202393,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 75296,
+						["Tiragarde Sound - Proudmoore Barracks"] = {
+							["In"] = 153242,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Serpent's Maw"] = {
 							["In"] = 69515,
 							["Out"] = 0,
 						},
-						["Shadowfang Keep"] = {
-							["In"] = 46260,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 98959,
-							["Out"] = 0,
-						},
-						["Darkshore - Kor'gar"] = {
-							["In"] = 48587,
-							["Out"] = 0,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 126816,
-							["Out"] = 0,
-						},
-						["Dreadpearl Cavern"] = {
-							["In"] = 59680,
-							["Out"] = 0,
-						},
-						["Nazmir - Sethrak Front"] = {
-							["In"] = 226287,
-							["Out"] = 0,
-						},
-						["The Underrot"] = {
-							["In"] = 301149,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Hold"] = {
-							["In"] = 23679,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Boulderfist Hall"] = {
-							["In"] = 354811,
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 65832,
 							["Out"] = 0,
 						},
 						["Nazmir - Torga's Innards"] = {
 							["In"] = 114640,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of the Speakers"] = {
-							["In"] = 21446,
-							["Out"] = 0,
-						},
 						["Nazmir - Zal'amak"] = {
 							["In"] = 58576,
-							["Out"] = 0,
-						},
-						["Drustvar - Teller Farm"] = {
-							["In"] = 13898,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Freehold"] = {
-							["In"] = 61394,
 							["Out"] = 0,
 						},
 						["Vol'dun - Feeding Pits"] = {
@@ -9842,39 +9882,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 182598,
+							["In"] = 282736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 151767,
-							["Out"] = 0,
-						},
-						["Darkshore - Mist's Edge"] = {
-							["In"] = 19230,
-							["Out"] = 0,
-						},
-						["Zuldazar - Garden of the Loa"] = {
-							["In"] = 534002,
-							["Out"] = 0,
-						},
-						["Zuldazar - Terrace of the Chosen"] = {
-							["In"] = 85828,
-							["Out"] = 0,
-						},
-						["Darkshore - Ameth'Aran"] = {
-							["In"] = 152145,
-							["Out"] = 0,
-						},
-						["Darkshore"] = {
-							["In"] = 55300,
-							["Out"] = 0,
-						},
-						["Drustvar - Upper Corlain"] = {
-							["In"] = 60433,
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 88579,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -9889,36 +9901,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 4413,
 							["Out"] = 0,
 						},
-						["Vol'dun - Crackling Ridge"] = {
-							["In"] = 110435,
-							["Out"] = 0,
-						},
-						["Atal'Dazar"] = {
-							["In"] = 266199,
+						["Darkshore"] = {
+							["In"] = 55300,
 							["Out"] = 0,
 						},
 						["Zuldazar - Sandscar Breach"] = {
 							["In"] = 87902,
-							["Out"] = 0,
-						},
-						["Vol'dun - The Brine Basin"] = {
-							["In"] = 20478,
-							["Out"] = 0,
-						},
-						["Altar of Gonk"] = {
-							["In"] = 4471,
-							["Out"] = 0,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 378135,
-							["Out"] = 0,
-						},
-						["Drustvar - Corlain"] = {
-							["In"] = 51553,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Abyssal Melody"] = {
-							["In"] = 125945,
 							["Out"] = 0,
 						},
 						["Darkshore - Bitterstone Quarry"] = {
@@ -9933,36 +9921,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 6015,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 14448,
-							["Out"] = 0,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 249538,
-							["Out"] = 0,
-						},
-						["Kings' Rest"] = {
-							["In"] = 168372,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Jeweled Coast"] = {
-							["In"] = 43436,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 157672,
 							["Out"] = 0,
 						},
 						["Storm's End"] = {
 							["In"] = 186095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 139500,
-							["Out"] = 0,
-						},
-						["Nazmir - Naz'agal"] = {
-							["In"] = 219947,
-							["Out"] = 0,
-						},
-						["Zuldazar - Covescale Rise"] = {
-							["In"] = 5054,
+						["Stormsong Valley - Braxton Lodge"] = {
+							["In"] = 24352,
 							["Out"] = 0,
 						},
 						["Freehold"] = {
@@ -9970,103 +9938,379 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Drustvar - Arom's Crossing"] = {
-							["In"] = 7413,
+							["In"] = 21736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Zul'Ahjin"] = {
-							["In"] = 91461,
-							["Out"] = 0,
-						},
-						["Zuldazar - Shrine of Shadra"] = {
-							["In"] = 5919,
-							["Out"] = 0,
-						},
-						["Vol'dun - Rakjan's Peak"] = {
-							["In"] = 11552,
-							["Out"] = 0,
-						},
-						["Zuldazar - Savagelands"] = {
-							["In"] = 29663,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 128779,
+						["Tiragarde Sound - Mistfall Cleft"] = {
+							["In"] = 21917,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 8106,
 							["Out"] = 0,
 						},
-						["Vol'dun - Tongo's Hideout"] = {
-							["In"] = 8014,
-							["Out"] = 0,
-						},
 						["Nazmir - Plains of Tojek"] = {
-							["In"] = 72431,
+							["In"] = 99540,
 							["Out"] = 0,
 						},
-						["Vol'dun - Slithering Gulch"] = {
-							["In"] = 15773,
-							["Out"] = 0,
-						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 82416,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Feeding Grounds"] = {
-							["In"] = 57919,
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 14448,
 							["Out"] = 0,
 						},
 						["Tol Dagor"] = {
-							["In"] = 413851,
+							["In"] = 490321,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 112072,
+							["In"] = 2077937,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 72060,
-							["Out"] = 0,
-						},
-						["Nazmir - Shoaljai Tar Pits"] = {
-							["In"] = 10704,
+						["Stormsong Valley - The Brineworks"] = {
+							["In"] = 28079,
 							["Out"] = 0,
 						},
 						["Zuldazar - Headhunter Lodge"] = {
 							["In"] = 11991,
 							["Out"] = 0,
 						},
-						["Nazmir - Krag'wa's Shore"] = {
-							["In"] = 543170,
+						["Arathi Highlands - Boulderfist Hall"] = {
+							["In"] = 354811,
 							["Out"] = 0,
 						},
 						["Darkshore - Ashwood Depot"] = {
 							["In"] = 9943,
 							["Out"] = 0,
 						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 92223,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 4422,
 							["Out"] = 0,
 						},
-						["Vol'dun - Exiles' Enclave"] = {
-							["In"] = 63046,
+						["Temple of Sethraliss"] = {
+							["In"] = 393370,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 73041,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 233376,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 176108,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Shore"] = {
+							["In"] = 8932,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 656310,
+							["Out"] = 0,
+						},
+						["Nazmir - The Sundered Span"] = {
+							["In"] = 157514,
+							["Out"] = 0,
+						},
+						["Nazmir - Mangrove Shore"] = {
+							["In"] = 96431,
+							["Out"] = 0,
+						},
+						["Zuldazar - Savagelands"] = {
+							["In"] = 29663,
+							["Out"] = 0,
+						},
+						["Zuldazar - Rastakhan's Might"] = {
+							["In"] = 3516,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 9860,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 77759,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Fogcliff Strand"] = {
+							["In"] = 40143,
+							["Out"] = 0,
+						},
+						["Zuldazar - Talanji's Rebuke"] = {
+							["In"] = 95032,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'farrak"] = {
+							["In"] = 36143,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Galson's Lode"] = {
+							["In"] = 19772,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound"] = {
+							["In"] = 33514,
+							["Out"] = 0,
+						},
+						["Nazmir - Kazai"] = {
+							["In"] = 5741,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 131612,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
+							["Out"] = 0,
+						},
+						["Nazmir - Natha'vor"] = {
+							["In"] = 166937,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 85867,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Freehold"] = {
+							["In"] = 61394,
+							["Out"] = 0,
+						},
+						["Zuldazar - Alliance Airship"] = {
+							["In"] = 22255,
+							["Out"] = 0,
+						},
+						["Zuldazar - Crew Quarters"] = {
+							["In"] = 52104,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 74038,
+							["Out"] = 0,
+						},
+						["Shadowfang Keep"] = {
+							["In"] = 46260,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 98959,
+							["Out"] = 0,
+						},
+						["The MOTHERLODE!!"] = {
+							["In"] = 126816,
+							["Out"] = 0,
+						},
+						["Dreadpearl Cavern"] = {
+							["In"] = 59680,
+							["Out"] = 0,
+						},
+						["Nazmir - Sethrak Front"] = {
+							["In"] = 226287,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of the Speakers"] = {
+							["In"] = 21446,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Hold"] = {
+							["In"] = 23679,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 14217,
+							["Out"] = 0,
+						},
+						["Darkshore - Mist's Edge"] = {
+							["In"] = 19230,
+							["Out"] = 0,
+						},
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
+							["Out"] = 0,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 534002,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Sagehold"] = {
+							["In"] = 108166,
+							["Out"] = 0,
+						},
+						["Darkshore - Ameth'Aran"] = {
+							["In"] = 152145,
+							["Out"] = 0,
+						},
+						["Vol'dun - Rakjan's Peak"] = {
+							["In"] = 11552,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crackling Ridge"] = {
+							["In"] = 110435,
+							["Out"] = 0,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 266199,
+							["Out"] = 0,
+						},
+						["Altar of Gonk"] = {
+							["In"] = 4471,
+							["Out"] = 0,
+						},
+						["Drustvar - Upper Corlain"] = {
+							["In"] = 99733,
+							["Out"] = 0,
+						},
+						["Drustvar - Corlain"] = {
+							["In"] = 65761,
+							["Out"] = 0,
+						},
+						["Darkshore - Blackwood Camp"] = {
+							["In"] = 5497,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Feeding Grounds"] = {
+							["In"] = 57919,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 157095,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 109464,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Siren's Daughter"] = {
+							["In"] = 162137,
+							["Out"] = 0,
+						},
+						["Kings' Rest"] = {
+							["In"] = 168372,
+							["Out"] = 0,
+						},
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 82416,
+							["Out"] = 0,
+						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 249538,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Wavespeaker's Sanctum"] = {
+							["In"] = 13821,
+							["Out"] = 0,
+						},
+						["Zuldazar - Lair of Rezan"] = {
+							["In"] = 34284,
+							["Out"] = 0,
+						},
+						["Zuldazar - Covescale Rise"] = {
+							["In"] = 5054,
+							["Out"] = 0,
+						},
+						["Nazmir - Naz'agal"] = {
+							["In"] = 219947,
+							["Out"] = 0,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 145207,
+							["Out"] = 0,
+						},
+						["Vol'dun - Zul'Ahjin"] = {
+							["In"] = 97906,
+							["Out"] = 0,
+						},
+						["Zuldazar - Shrine of Shadra"] = {
+							["In"] = 5919,
+							["Out"] = 0,
+						},
+						["Nazmir"] = {
+							["In"] = 4049,
+							["Out"] = 0,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 128779,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 202393,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 72060,
 							["Out"] = 0,
 						},
 						["Nazmir - The Necropolis"] = {
 							["In"] = 441246,
 							["Out"] = 0,
 						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 4422,
+						["Darkshore - Kor'gar"] = {
+							["In"] = 48587,
+							["Out"] = 0,
+						},
+						["Vol'dun - Slithering Gulch"] = {
+							["In"] = 39345,
+							["Out"] = 0,
+						},
+						["Waycrest Manor"] = {
+							["In"] = 378135,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 92223,
+							["Out"] = 0,
+						},
+						["Drustvar - Teller Farm"] = {
+							["In"] = 13898,
+							["Out"] = 0,
+						},
+						["Vol'dun - The Brine Basin"] = {
+							["In"] = 20478,
+							["Out"] = 0,
+						},
+						["Vol'dun - Tongo's Hideout"] = {
+							["In"] = 8014,
+							["Out"] = 0,
+						},
+						["The Underrot"] = {
+							["In"] = 301149,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 139500,
+							["Out"] = 0,
+						},
+						["Nazmir - Krag'wa's Shore"] = {
+							["In"] = 543170,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 80069,
+							["Out"] = 0,
+						},
+						["Darkshore - Ruins of Lornesta"] = {
+							["In"] = 8946,
+							["Out"] = 0,
+						},
+						["Vol'dun - Exiles' Enclave"] = {
+							["In"] = 63046,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Go'Shek Farm"] = {
+							["In"] = 63829,
+							["Out"] = 0,
+						},
+						["Nazmir - Torga's Rest"] = {
+							["In"] = 191200,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 10608,
 							["Out"] = 0,
 						},
-						["Temple of Sethraliss"] = {
-							["In"] = 393370,
+						["Stormsong Valley - The Jeweled Coast"] = {
+							["In"] = 43436,
 							["Out"] = 0,
 						},
 						["Drustvar"] = {
@@ -10077,16 +10321,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 91266,
 							["Out"] = 0,
 						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 233376,
+						["Zuldazar - The Old Seawall"] = {
+							["In"] = 73166,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 145207,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 6978,
 							["Out"] = 0,
 						},
-						["Nazmir - The Dreadmire"] = {
-							["In"] = 204033,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 13046,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dreadpearl Shallows"] = {
@@ -10109,16 +10353,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 57963,
 							["Out"] = 0,
 						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 0,
-							["Out"] = 8647,
-						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 493999,
+							["Out"] = 1604999,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 308647,
+						},
+						["Zuldazar - Zeb'ahari"] = {
+							["In"] = 413078,
+							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1828035,
+							["In"] = 2444721,
 							["Out"] = 0,
 						},
 						["Kings' Rest"] = {
@@ -10141,12 +10389,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 629909,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zeb'ahari"] = {
-							["In"] = 413078,
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 126210,
 							["Out"] = 0,
 						},
 					},
 					["GARRISON"] = {
+						["Stormsong Valley - The Precipice of Oblivion"] = {
+							["In"] = 607799,
+							["Out"] = 0,
+						},
+						["Darkshore - Withering Thicket"] = {
+							["In"] = 602659,
+							["Out"] = 0,
+						},
 						["The Underrot"] = {
 							["In"] = 26444,
 							["Out"] = 0,
@@ -10155,12 +10411,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 249538,
 							["Out"] = 0,
 						},
-						["Arathi Highlands"] = {
-							["In"] = 606285,
+						["The Banshee's Wail"] = {
+							["In"] = 50000000,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Precipice of Oblivion"] = {
-							["In"] = 607799,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 12016,
 							["Out"] = 0,
 						},
 						["Zuldazar - Xibala Shallows"] = {
@@ -10175,19 +10431,35 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32377,
 							["Out"] = 0,
 						},
-						["Darkshore - Withering Thicket"] = {
-							["In"] = 602659,
+						["Arathi Highlands"] = {
+							["In"] = 606285,
 							["Out"] = 0,
 						},
 					},
 					["MERCH"] = {
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 0,
+							["Out"] = 3708920,
+						},
 						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 78212,
+							["In"] = 326533,
+							["Out"] = 91354,
+						},
+						["Freehold"] = {
+							["In"] = 0,
+							["Out"] = 3129707,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 129045,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 3928602,
-							["Out"] = 600000,
+							["Out"] = 4870542,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 6790,
 						},
 						["Zuldazar - Zeb'ahari"] = {
 							["In"] = 277009,
@@ -10197,13 +10469,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 81111,
 							["Out"] = 0,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 678187,
+							["Out"] = 0,
+						},
 						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 14114,
+							["Out"] = 320000,
+						},
+						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 6543057,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8582708,
-							["Out"] = 6430195,
+							["In"] = 17064773,
+							["Out"] = 10291940,
 						},
 						["Verdant Wilds"] = {
 							["In"] = 330745,
@@ -10213,41 +10493,45 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 19118,
 						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 129045,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 617484,
 							["Out"] = 0,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
 							["Out"] = 1044956,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 0,
-							["Out"] = 61725,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 0,
-							["Out"] = 484247,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 759987,
-							["Out"] = 1762856,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 678187,
-							["Out"] = 0,
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 430328,
+							["Out"] = 5973591,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 675165,
 							["Out"] = 615716,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 193717,
-							["Out"] = 3968770,
+						["The MOTHERLODE!!"] = {
+							["In"] = 0,
+							["Out"] = 2769430,
 						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 430328,
-							["Out"] = 5973591,
+						["Stormsong Valley - Seekers' Vista"] = {
+							["In"] = 759987,
+							["Out"] = 1762856,
+						},
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 1882269,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 83548,
+							["Out"] = 61725,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 1118024,
+							["Out"] = 11667180,
+						},
+						["The Rotting Mire"] = {
+							["In"] = 32029,
+							["Out"] = 292715,
 						},
 						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 3411686,
@@ -10261,13 +10545,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 494081,
 							["Out"] = 0,
 						},
-						["The Underrot"] = {
+						["The Banshee's Wail"] = {
 							["In"] = 0,
-							["Out"] = 1107990,
+							["Out"] = 179476,
 						},
-						["The Rotting Mire"] = {
-							["In"] = 32029,
-							["Out"] = 292715,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 3037,
+							["Out"] = 326216,
 						},
 					},
 					["MAIL"] = {
@@ -10299,6 +10583,14 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 588457,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 973152,
+						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
 							["Out"] = 5547879,
@@ -10307,38 +10599,22 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 295195,
 						},
+						["Orgrimmar - The Drag"] = {
+							["In"] = 0,
+							["Out"] = 3505629,
+						},
 					},
 					["QUEST"] = {
-						["Nazmir - Koramar"] = {
-							["In"] = 654000,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 585000,
 							["Out"] = 0,
 						},
-						["Zuldazar - House of Jol"] = {
-							["In"] = 2231000,
-							["Out"] = 0,
-						},
-						["Nazmir - Court of Spirits"] = {
-							["In"] = 630000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Redrock Lowlands"] = {
-							["In"] = 198000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 799200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 690000,
+						["The Great Sea"] = {
+							["In"] = 1872000,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
-							["In"] = 420200,
-							["Out"] = 0,
-						},
-						["Great Hall"] = {
-							["In"] = 468000,
+							["In"] = 443600,
 							["Out"] = 0,
 						},
 						["Vol'dun - Court of Zak'rajan"] = {
@@ -10349,20 +10625,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3634500,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
-							["In"] = 1973100,
+						["Vol'dun - Redrock Lowlands"] = {
+							["In"] = 198000,
 							["Out"] = 0,
-						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 140000000,
 						},
 						["Zuldazar - Gorilla Gorge"] = {
 							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 1427400,
 							["Out"] = 0,
 						},
 						["Nazmir - The Dreadmire"] = {
@@ -10381,32 +10649,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1554000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 21400,
 							["Out"] = 0,
 						},
-						["Nazmir - Gloom Hollow"] = {
-							["In"] = 280200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Sundered Temple"] = {
-							["In"] = 444000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 460000,
+						["Stormsong Valley - Tidebreak Summit"] = {
+							["In"] = 1310400,
 							["Out"] = 0,
 						},
 						["Nazmir - Burial Mound"] = {
-							["In"] = 2313566,
-							["Out"] = 0,
-						},
-						["Nazmir - The Rivermarsh"] = {
-							["In"] = 20600,
+							["In"] = 2336966,
 							["Out"] = 0,
 						},
 						["Nazmir - Tul'vor"] = {
@@ -10425,10 +10677,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 8409,
 							["Out"] = 0,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
 						["Nazmir - Zalamar"] = {
 							["In"] = 1365000,
 							["Out"] = 0,
@@ -10437,12 +10685,216 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1263600,
 							["Out"] = 0,
 						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 210000,
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 2069192,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Expedition"] = {
+							["In"] = 688200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crater of Conquerors"] = {
+							["In"] = 424200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Port of Zem'lan"] = {
+							["In"] = 1999800,
+							["Out"] = 0,
+						},
+						["Nazmir - Takulu Bridge"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["The Banshee's Wail"] = {
+							["In"] = 5548900,
+							["Out"] = 0,
+						},
+						["Vol'dun - Arid Basin"] = {
+							["In"] = 415800,
+							["Out"] = 0,
+						},
+						["Zuldazar - Nesingwary's Trek"] = {
+							["In"] = 926600,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 14074,
+							["Out"] = 0,
+						},
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 6186,
+							["Out"] = 0,
+						},
+						["Nazmir - The Far Reach"] = {
+							["In"] = 23400,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 3940034,
+							["Out"] = 0,
+						},
+						["Nazmir - Zal'amak"] = {
+							["In"] = 1284000,
+							["Out"] = 0,
+						},
+						["Drustvar - Anyport"] = {
+							["In"] = 230000,
+							["Out"] = 0,
+						},
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 1364000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 2017600,
+							["Out"] = 0,
+						},
+						["Nazwatha - Seal of Nazmir"] = {
+							["In"] = 1526000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Predator Pass"] = {
+							["In"] = 12004,
+							["Out"] = 0,
+						},
+						["Darkshore"] = {
+							["In"] = 11539,
+							["Out"] = 0,
+						},
+						["Zuldazar - Sandscar Breach"] = {
+							["In"] = 1130000,
+							["Out"] = 0,
+						},
+						["Silithus: The Wound - Magni's Encampment"] = {
+							["In"] = 66200,
+							["Out"] = 0,
+						},
+						["Nazmir - Forlorn Ruins"] = {
+							["In"] = 1712000,
+							["Out"] = 0,
+						},
+						["Darkshore - Bitterstone Quarry"] = {
+							["In"] = 22303,
+							["Out"] = 0,
+						},
+						["Zuldazar - Throne of Rezan"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Bridgeport"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Village in the Vines"] = {
+							["In"] = 678000,
+							["Out"] = 0,
+						},
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["Vol'dun - Camp Lastwind"] = {
+							["In"] = 19800,
+							["Out"] = 0,
+						},
+						["Darkshore - Delaryn's Demise"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Withering Gulch"] = {
+							["In"] = 1649000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Slough"] = {
+							["In"] = 1876300,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 702000,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Gates of Orgrimmar"] = {
+							["In"] = 213400,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1807000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Preserve"] = {
+							["In"] = 249000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Shrouded Hollow"] = {
+							["In"] = 388000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Headhunter Lodge"] = {
+							["In"] = 686000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 776000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 19400,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 2472000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 690000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 799200,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 654000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 21261000,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 1427400,
+							["Out"] = 0,
+						},
+						["Great Hall"] = {
+							["In"] = 468000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 140000000,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 280200,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 22200,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Stonetusk Watch"] = {
+							["In"] = 117000,
+							["Out"] = 0,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 681000,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 1404000,
+							["In"] = 2129400,
 							["Out"] = 0,
 						},
 						["Nazmir - Wayward Shoals"] = {
@@ -10453,76 +10905,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 62200,
 							["Out"] = 0,
 						},
-						["Vol'dun - Port of Zem'lan"] = {
-							["In"] = 1999800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Crater of Conquerors"] = {
-							["In"] = 424200,
-							["Out"] = 0,
-						},
-						["Drustvar - Crimson Forest"] = {
-							["In"] = 690000,
-							["Out"] = 0,
-						},
-						["Nazmir - Takulu Bridge"] = {
-							["In"] = 21800,
-							["Out"] = 0,
-						},
-						["Zuldazar - Nesingwary's Trek"] = {
-							["In"] = 926600,
-							["Out"] = 0,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 932000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Arid Basin"] = {
-							["In"] = 415800,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 1170000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 244200,
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 7717,
 							["Out"] = 0,
 						},
 						["Zuldazar - Warbeast Kraal"] = {
 							["In"] = 926600,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Preserve"] = {
-							["In"] = 249000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 2069192,
-							["Out"] = 0,
-						},
-						["The Banshee's Wail"] = {
-							["In"] = 4168300,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Expedition"] = {
-							["In"] = 688200,
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 1170000,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fall"] = {
-							["In"] = 840000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Outpost"] = {
-							["In"] = 22200,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 702000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 21261000,
+							["In"] = 2244000,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -10534,51 +10930,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Orgrimmar - Grommash Hold"] = {
-							["In"] = 46800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Withering Gulch"] = {
-							["In"] = 1649000,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 2223000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rootway"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
-						["Nazmir - Zal'amak"] = {
-							["In"] = 1284000,
+							["In"] = 70200,
 							["Out"] = 0,
 						},
 						["Drustvar - Teller Farm"] = {
 							["In"] = 1456840,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Drustvar - Anyport"] = {
-							["In"] = 230000,
-							["Out"] = 0,
-						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 638600,
-							["Out"] = 0,
-						},
-						["Darkshore - Delaryn's Demise"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
 						["Nazmir - The Edge of Oblivion"] = {
 							["In"] = 1260000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Camp Lastwind"] = {
-							["In"] = 19800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Garden of the Loa"] = {
@@ -10597,76 +10957,60 @@ Accountant_ClassicZoneDB = {
 							["In"] = 507000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Temple of Akunda"] = {
-							["In"] = 2017600,
+						["Tiragarde Sound - Westwind Weald"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
+						["Zuldazar - House of Jol"] = {
+							["In"] = 2231000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Rakjan's Peak"] = {
 							["In"] = 1212000,
 							["Out"] = 0,
 						},
-						["Nazwatha - Seal of Nazmir"] = {
-							["In"] = 1526000,
+						["Nazmir - Court of Spirits"] = {
+							["In"] = 630000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 514828,
+						["Nazmir - Natha'vor"] = {
+							["In"] = 210000,
 							["Out"] = 0,
 						},
-						["Nazmir - Altar of Rot"] = {
-							["In"] = 21800,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 1427400,
 							["Out"] = 0,
 						},
-						["Darkshore"] = {
-							["In"] = 11539,
+						["Zuldazar - The Forward Guard"] = {
+							["In"] = 888000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Sandscar Breach"] = {
-							["In"] = 1130000,
-							["Out"] = 0,
-						},
-						["Silithus: The Wound - Magni's Encampment"] = {
-							["In"] = 66200,
-							["Out"] = 0,
-						},
-						["Nazmir - Terrace of Sorrows"] = {
-							["In"] = 1236000,
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 782125,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Brine Basin"] = {
 							["In"] = 388000,
 							["Out"] = 0,
 						},
-						["Nazmir - Forlorn Ruins"] = {
-							["In"] = 1712000,
+						["Zuldazar - Sundered Temple"] = {
+							["In"] = 444000,
 							["Out"] = 0,
 						},
-						["Darkshore - Bitterstone Quarry"] = {
-							["In"] = 22303,
+						["Zuldazar - Scaletrader Post"] = {
+							["In"] = 460000,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
 							["In"] = 9892,
 							["Out"] = 0,
 						},
-						["Zuldazar - Throne of Rezan"] = {
-							["In"] = 920000,
+						["Zuldazar - Zanchul"] = {
+							["In"] = 2918945,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Bridgeport"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Dazar"] = {
-							["In"] = 920000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Village in the Vines"] = {
-							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Bwoljin's Fall"] = {
-							["In"] = 101000,
+						["Zuldazar - Hall of the High Priests"] = {
+							["In"] = 226000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Skycallers' Spire"] = {
@@ -10674,15 +11018,27 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 20885800,
-							["Out"] = 2000000,
+							["In"] = 40885800,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Zocalo"] = {
-							["In"] = 67800,
+							["In"] = 91200,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - The Jeweled Coast"] = {
 							["In"] = 22715,
+							["Out"] = 0,
+						},
+						["Vol'dun - Bwoljin's Fall"] = {
+							["In"] = 101000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Dazar"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 514828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -10693,8 +11049,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 428000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Forward Guard"] = {
-							["In"] = 888000,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Zul'Ahjin"] = {
@@ -10717,24 +11073,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 654000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Rootway"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 1980000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Slough"] = {
-							["In"] = 1876300,
-							["Out"] = 0,
-						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 654000,
+						["Drustvar - Krazzlefrazz Outpost"] = {
+							["In"] = 1423400,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
 							["In"] = 816985,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Gates of Orgrimmar"] = {
-							["In"] = 213400,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 654000,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
@@ -10745,68 +11101,68 @@ Accountant_ClassicZoneDB = {
 							["In"] = 436000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1807000,
+						["Drustvar - Mudfisher Cove"] = {
+							["In"] = 117000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Valley of Sorrows"] = {
 							["In"] = 415800,
 							["Out"] = 0,
 						},
-						["Vol'dun - Shrouded Hollow"] = {
-							["In"] = 388000,
+						["Valley of Strength - The Broken Tusk"] = {
+							["In"] = 19400,
 							["Out"] = 0,
 						},
-						["Zuldazar - Headhunter Lodge"] = {
-							["In"] = 686000,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 690000,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
 							["In"] = 642000,
 							["Out"] = 0,
 						},
-						["Valley of Strength - The Broken Tusk"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 776000,
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 982800,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Golden Throne"] = {
 							["In"] = 194000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 244200,
+							["Out"] = 0,
+						},
 						["Siege of Boralus"] = {
 							["In"] = 125664,
 							["Out"] = 0,
 						},
-						["Nazmir - The Necropolis"] = {
-							["In"] = 231000,
+						["Nazmir - The Rivermarsh"] = {
+							["In"] = 20600,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 869600,
 							["Out"] = 0,
 						},
-						["Nazmir - Zo'bal Ruins"] = {
-							["In"] = 681000,
+						["Nazmir - The Necropolis"] = {
+							["In"] = 231000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Hall of the High Priests"] = {
-							["In"] = 226000,
+						["Nazmir - Terrace of Sorrows"] = {
+							["In"] = 1236000,
 							["Out"] = 0,
 						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 2472000,
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 2441100,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 1029600,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 2918945,
+						["Zuldazar - Bilgewater Bonanza"] = {
+							["In"] = 257400,
 							["Out"] = 0,
 						},
 						["Nazmir - Mangrove Shore"] = {
@@ -10825,52 +11181,28 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
-						["Zuldazar - Xibala"] = {
-							["In"] = 0,
-							["Out"] = 70000,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 0,
-							["Out"] = 28000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Vol'dun - Tortaka Refuge"] = {
-							["In"] = 0,
-							["Out"] = 67200,
-						},
 					},
 					["BARBER"] = {
 					},
-					["MAIL"] = {
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 30,
-						},
+					["TRANSMO"] = {
 					},
 					["LFG"] = {
+					},
+					["TRADE"] = {
+					},
+					["MAIL"] = {
 					},
 					["VOID"] = {
 					},
 					["AH"] = {
 					},
-					["TRADE"] = {
-					},
-					["OTHER"] = {
-					},
 					["GARRISON"] = {
-						["Zuldazar - Xibala Shallows"] = {
-							["In"] = 1417130,
-							["Out"] = 0,
-						},
-					},
-					["MERCH"] = {
 					},
 					["LOOT"] = {
 					},
-					["TRANSMO"] = {
+					["MERCH"] = {
+					},
+					["OTHER"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -10885,7 +11217,43 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
+							["Out"] = 196000,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 0,
+							["Out"] = 67200,
+						},
+						["Zuldazar - Xibala"] = {
+							["In"] = 0,
+							["Out"] = 280000,
+						},
+						["Vol'dun - Conqueror's Path"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 0,
+							["Out"] = 89600,
+						},
+						["Stormsong Valley - Diretusk Hollow"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 0,
 							["Out"] = 84000,
+						},
+						["Stormsong Valley - Ironmaul Overlook"] = {
+							["In"] = 0,
+							["Out"] = 70000,
 						},
 						["Zuldazar - Warport Rastari"] = {
 							["In"] = 0,
@@ -10895,118 +11263,110 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Zuldazar - Garden of the Loa"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 44800,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 100000,
 						},
 						["Tiragarde Sound - Timberfell Outpost"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 436835,
+							["Out"] = 89600,
 						},
 						["Tiragarde Sound - Freehold"] = {
 							["In"] = 0,
 							["Out"] = 56000,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
+						["Drustvar - Krazzlefrazz Outpost"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 56000,
 						},
 						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 67200,
+							["Out"] = 89600,
 						},
-						["Zuldazar - Xibala"] = {
+						["Zuldazar - Nesingwary's Trek"] = {
 							["In"] = 0,
-							["Out"] = 182000,
+							["Out"] = 28000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 33600,
 						},
 						["Drustvar - Chandlery Wharf"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 42000,
+							["Out"] = 56000,
 						},
-						["Zuldazar - Seekers' Outpost"] = {
+						["Stormsong Valley - Warfang Hold"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 84000,
+						},
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 0,
+							["Out"] = 67200,
 						},
 						["Tiragarde Sound - Waning Glacier"] = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Stormsong Valley - Seekers' Vista"] = {
 							["In"] = 0,
-							["Out"] = 44800,
+							["Out"] = 33600,
 						},
 						["Tiragarde Sound - Castaway Point"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Nazmir - Gloom Hollow"] = {
+						["Zuldazar - The Sliver"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 44800,
 						},
 						["Tiragarde Sound - Wolf's Den"] = {
 							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 56000,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 257600,
+							["Out"] = 392000,
 						},
-						["Zuldazar - The Sliver"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 750435,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 70000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 84000,
+							["Out"] = 238000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
 							["Out"] = 22400,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 0,
-							["Out"] = 33600,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Ironmaul Overlook"] = {
+						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 0,
 							["Out"] = 70000,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 11200,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 0,
+							["Out"] = 33600,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1252348,
+							["In"] = 1256789,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -11033,7 +11393,7 @@ Accountant_ClassicZoneDB = {
 					["TRAIN"] = {
 						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 23084008,
+							["Out"] = 23484016,
 						},
 						["Zuldazar - Hall of Glimmers"] = {
 							["In"] = 0,
@@ -11046,7 +11406,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3880000,
+							["In"] = 5820000,
 							["Out"] = 0,
 						},
 					},
@@ -11061,64 +11421,36 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1424596650,
+							["Out"] = 1509310398,
 						},
 					},
 					["LOOT"] = {
-						["Darkshore - Twilight Shore"] = {
-							["In"] = 8932,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 164823,
 							["Out"] = 0,
 						},
-						["Nazmir - Koramar"] = {
-							["In"] = 656310,
+						["Shrine of the Storm"] = {
+							["In"] = 309754,
 							["Out"] = 0,
 						},
-						["Nazmir - The Sundered Span"] = {
-							["In"] = 157514,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Old Seawall"] = {
-							["In"] = 73166,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rastakhan's Might"] = {
-							["In"] = 3516,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 9860,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 36742,
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 5943792,
 							["Out"] = 0,
 						},
 						["Vol'dun - Redrock Lowlands"] = {
 							["In"] = 59668,
 							["Out"] = 0,
 						},
-						["Zuldazar - Talanji's Rebuke"] = {
-							["In"] = 95032,
+						["Nazmir - The Dreadmire"] = {
+							["In"] = 366317,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'farrak"] = {
-							["In"] = 36143,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Galson's Lode"] = {
-							["In"] = 19772,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound"] = {
-							["In"] = 10293,
+						["Nazmir - Shoaljai Tar Pits"] = {
+							["In"] = 10704,
 							["Out"] = 0,
 						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 108401,
-							["Out"] = 0,
-						},
-						["Nazmir - Kazai"] = {
-							["In"] = 5741,
 							["Out"] = 0,
 						},
 						["Nazmir - Antul'Mita Plateau"] = {
@@ -11130,55 +11462,35 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7469836,
+							["In"] = 15975791,
 							["Out"] = 0,
 						},
-						["Shrine of the Storm"] = {
-							["In"] = 309754,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 133994,
 							["Out"] = 0,
 						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 131612,
-							["Out"] = 0,
-						},
-						["Nazmir - Torga's Rest"] = {
-							["In"] = 191200,
+						["Zuldazar - Terrace of the Chosen"] = {
+							["In"] = 85828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
-							["In"] = 101547,
+							["In"] = 168972,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 6978,
+						["Vol'dun - The Blistering Wastes"] = {
+							["In"] = 12193,
 							["Out"] = 0,
 						},
 						["Nazmir - Zalamar"] = {
-							["In"] = 88091,
+							["In"] = 198943,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 176108,
-							["Out"] = 0,
-						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 73041,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Go'Shek Farm"] = {
-							["In"] = 63829,
-							["Out"] = 0,
-						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 166937,
+						["Siege of Boralus"] = {
+							["In"] = 208804,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
 							["In"] = 54497,
-							["Out"] = 0,
-						},
-						["Darkshore - Twilight Vale"] = {
-							["In"] = 7200,
 							["Out"] = 0,
 						},
 						["Vol'dun - Crater of Conquerors"] = {
@@ -11197,92 +11509,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 104649,
 							["Out"] = 0,
 						},
-						["Zuldazar - Alliance Airship"] = {
-							["In"] = 22255,
-							["Out"] = 0,
-						},
-						["Zuldazar - Crew Quarters"] = {
-							["In"] = 52104,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 74038,
-							["Out"] = 0,
-						},
-						["Siege of Boralus"] = {
-							["In"] = 208804,
-							["Out"] = 0,
-						},
-						["Darkshore - Ruins of Lornesta"] = {
-							["In"] = 8946,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 202393,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 75296,
+						["Tiragarde Sound - Proudmoore Barracks"] = {
+							["In"] = 153242,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Serpent's Maw"] = {
 							["In"] = 69515,
 							["Out"] = 0,
 						},
-						["Shadowfang Keep"] = {
-							["In"] = 46260,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 98959,
-							["Out"] = 0,
-						},
-						["Darkshore - Kor'gar"] = {
-							["In"] = 48587,
-							["Out"] = 0,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 126816,
-							["Out"] = 0,
-						},
-						["Dreadpearl Cavern"] = {
-							["In"] = 59680,
-							["Out"] = 0,
-						},
-						["Nazmir - Sethrak Front"] = {
-							["In"] = 226287,
-							["Out"] = 0,
-						},
-						["The Underrot"] = {
-							["In"] = 301149,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Hold"] = {
-							["In"] = 23679,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Boulderfist Hall"] = {
-							["In"] = 354811,
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 65832,
 							["Out"] = 0,
 						},
 						["Nazmir - Torga's Innards"] = {
 							["In"] = 114640,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of the Speakers"] = {
-							["In"] = 21446,
-							["Out"] = 0,
-						},
 						["Nazmir - Zal'amak"] = {
 							["In"] = 58576,
-							["Out"] = 0,
-						},
-						["Drustvar - Teller Farm"] = {
-							["In"] = 13898,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Freehold"] = {
-							["In"] = 61394,
 							["Out"] = 0,
 						},
 						["Vol'dun - Feeding Pits"] = {
@@ -11290,39 +11534,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 182598,
+							["In"] = 282736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 151767,
-							["Out"] = 0,
-						},
-						["Darkshore - Mist's Edge"] = {
-							["In"] = 19230,
-							["Out"] = 0,
-						},
-						["Zuldazar - Garden of the Loa"] = {
-							["In"] = 534002,
-							["Out"] = 0,
-						},
-						["Zuldazar - Terrace of the Chosen"] = {
-							["In"] = 85828,
-							["Out"] = 0,
-						},
-						["Darkshore - Ameth'Aran"] = {
-							["In"] = 152145,
-							["Out"] = 0,
-						},
-						["Darkshore"] = {
-							["In"] = 55300,
-							["Out"] = 0,
-						},
-						["Drustvar - Upper Corlain"] = {
-							["In"] = 60433,
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 88579,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -11337,36 +11553,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 4413,
 							["Out"] = 0,
 						},
-						["Vol'dun - Crackling Ridge"] = {
-							["In"] = 110435,
-							["Out"] = 0,
-						},
-						["Atal'Dazar"] = {
-							["In"] = 266199,
+						["Darkshore"] = {
+							["In"] = 55300,
 							["Out"] = 0,
 						},
 						["Zuldazar - Sandscar Breach"] = {
 							["In"] = 87902,
-							["Out"] = 0,
-						},
-						["Vol'dun - The Brine Basin"] = {
-							["In"] = 20478,
-							["Out"] = 0,
-						},
-						["Altar of Gonk"] = {
-							["In"] = 4471,
-							["Out"] = 0,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 378135,
-							["Out"] = 0,
-						},
-						["Drustvar - Corlain"] = {
-							["In"] = 51553,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Abyssal Melody"] = {
-							["In"] = 125945,
 							["Out"] = 0,
 						},
 						["Darkshore - Bitterstone Quarry"] = {
@@ -11381,36 +11573,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 6015,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 14448,
-							["Out"] = 0,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 249538,
-							["Out"] = 0,
-						},
-						["Kings' Rest"] = {
-							["In"] = 168372,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Jeweled Coast"] = {
-							["In"] = 43436,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 157672,
 							["Out"] = 0,
 						},
 						["Storm's End"] = {
 							["In"] = 186095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 139500,
-							["Out"] = 0,
-						},
-						["Nazmir - Naz'agal"] = {
-							["In"] = 219947,
-							["Out"] = 0,
-						},
-						["Zuldazar - Covescale Rise"] = {
-							["In"] = 5054,
+						["Stormsong Valley - Braxton Lodge"] = {
+							["In"] = 24352,
 							["Out"] = 0,
 						},
 						["Freehold"] = {
@@ -11418,103 +11590,379 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Drustvar - Arom's Crossing"] = {
-							["In"] = 7413,
+							["In"] = 21736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Zul'Ahjin"] = {
-							["In"] = 91461,
-							["Out"] = 0,
-						},
-						["Zuldazar - Shrine of Shadra"] = {
-							["In"] = 5919,
-							["Out"] = 0,
-						},
-						["Vol'dun - Rakjan's Peak"] = {
-							["In"] = 11552,
-							["Out"] = 0,
-						},
-						["Zuldazar - Savagelands"] = {
-							["In"] = 29663,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 128779,
+						["Tiragarde Sound - Mistfall Cleft"] = {
+							["In"] = 21917,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 8106,
 							["Out"] = 0,
 						},
-						["Vol'dun - Tongo's Hideout"] = {
-							["In"] = 8014,
-							["Out"] = 0,
-						},
 						["Nazmir - Plains of Tojek"] = {
-							["In"] = 72431,
+							["In"] = 99540,
 							["Out"] = 0,
 						},
-						["Vol'dun - Slithering Gulch"] = {
-							["In"] = 15773,
-							["Out"] = 0,
-						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 82416,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Feeding Grounds"] = {
-							["In"] = 57919,
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 14448,
 							["Out"] = 0,
 						},
 						["Tol Dagor"] = {
-							["In"] = 413851,
+							["In"] = 490321,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 112072,
+							["In"] = 2077937,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 72060,
-							["Out"] = 0,
-						},
-						["Nazmir - Shoaljai Tar Pits"] = {
-							["In"] = 10704,
+						["Stormsong Valley - The Brineworks"] = {
+							["In"] = 28079,
 							["Out"] = 0,
 						},
 						["Zuldazar - Headhunter Lodge"] = {
 							["In"] = 11991,
 							["Out"] = 0,
 						},
-						["Nazmir - Krag'wa's Shore"] = {
-							["In"] = 543170,
+						["Arathi Highlands - Boulderfist Hall"] = {
+							["In"] = 354811,
 							["Out"] = 0,
 						},
 						["Darkshore - Ashwood Depot"] = {
 							["In"] = 9943,
 							["Out"] = 0,
 						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 92223,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 4422,
 							["Out"] = 0,
 						},
-						["Vol'dun - Exiles' Enclave"] = {
-							["In"] = 63046,
+						["Temple of Sethraliss"] = {
+							["In"] = 393370,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 73041,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 233376,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 176108,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Shore"] = {
+							["In"] = 8932,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 656310,
+							["Out"] = 0,
+						},
+						["Nazmir - The Sundered Span"] = {
+							["In"] = 157514,
+							["Out"] = 0,
+						},
+						["Nazmir - Mangrove Shore"] = {
+							["In"] = 96431,
+							["Out"] = 0,
+						},
+						["Zuldazar - Savagelands"] = {
+							["In"] = 29663,
+							["Out"] = 0,
+						},
+						["Zuldazar - Rastakhan's Might"] = {
+							["In"] = 3516,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 9860,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 77759,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Fogcliff Strand"] = {
+							["In"] = 40143,
+							["Out"] = 0,
+						},
+						["Zuldazar - Talanji's Rebuke"] = {
+							["In"] = 95032,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'farrak"] = {
+							["In"] = 36143,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Galson's Lode"] = {
+							["In"] = 19772,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound"] = {
+							["In"] = 33514,
+							["Out"] = 0,
+						},
+						["Nazmir - Kazai"] = {
+							["In"] = 5741,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 131612,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
+							["Out"] = 0,
+						},
+						["Nazmir - Natha'vor"] = {
+							["In"] = 166937,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 85867,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Freehold"] = {
+							["In"] = 61394,
+							["Out"] = 0,
+						},
+						["Zuldazar - Alliance Airship"] = {
+							["In"] = 22255,
+							["Out"] = 0,
+						},
+						["Zuldazar - Crew Quarters"] = {
+							["In"] = 52104,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 74038,
+							["Out"] = 0,
+						},
+						["Shadowfang Keep"] = {
+							["In"] = 46260,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 98959,
+							["Out"] = 0,
+						},
+						["The MOTHERLODE!!"] = {
+							["In"] = 126816,
+							["Out"] = 0,
+						},
+						["Dreadpearl Cavern"] = {
+							["In"] = 59680,
+							["Out"] = 0,
+						},
+						["Nazmir - Sethrak Front"] = {
+							["In"] = 226287,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of the Speakers"] = {
+							["In"] = 21446,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Hold"] = {
+							["In"] = 23679,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 14217,
+							["Out"] = 0,
+						},
+						["Darkshore - Mist's Edge"] = {
+							["In"] = 19230,
+							["Out"] = 0,
+						},
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
+							["Out"] = 0,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 534002,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Sagehold"] = {
+							["In"] = 108166,
+							["Out"] = 0,
+						},
+						["Darkshore - Ameth'Aran"] = {
+							["In"] = 152145,
+							["Out"] = 0,
+						},
+						["Vol'dun - Rakjan's Peak"] = {
+							["In"] = 11552,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crackling Ridge"] = {
+							["In"] = 110435,
+							["Out"] = 0,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 266199,
+							["Out"] = 0,
+						},
+						["Altar of Gonk"] = {
+							["In"] = 4471,
+							["Out"] = 0,
+						},
+						["Drustvar - Upper Corlain"] = {
+							["In"] = 99733,
+							["Out"] = 0,
+						},
+						["Drustvar - Corlain"] = {
+							["In"] = 65761,
+							["Out"] = 0,
+						},
+						["Darkshore - Blackwood Camp"] = {
+							["In"] = 5497,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Feeding Grounds"] = {
+							["In"] = 57919,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 157095,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 109464,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Siren's Daughter"] = {
+							["In"] = 162137,
+							["Out"] = 0,
+						},
+						["Kings' Rest"] = {
+							["In"] = 168372,
+							["Out"] = 0,
+						},
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 82416,
+							["Out"] = 0,
+						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 249538,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Wavespeaker's Sanctum"] = {
+							["In"] = 13821,
+							["Out"] = 0,
+						},
+						["Zuldazar - Lair of Rezan"] = {
+							["In"] = 34284,
+							["Out"] = 0,
+						},
+						["Zuldazar - Covescale Rise"] = {
+							["In"] = 5054,
+							["Out"] = 0,
+						},
+						["Nazmir - Naz'agal"] = {
+							["In"] = 219947,
+							["Out"] = 0,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 145207,
+							["Out"] = 0,
+						},
+						["Vol'dun - Zul'Ahjin"] = {
+							["In"] = 97906,
+							["Out"] = 0,
+						},
+						["Zuldazar - Shrine of Shadra"] = {
+							["In"] = 5919,
+							["Out"] = 0,
+						},
+						["Nazmir"] = {
+							["In"] = 4049,
+							["Out"] = 0,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 128779,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 202393,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 72060,
 							["Out"] = 0,
 						},
 						["Nazmir - The Necropolis"] = {
 							["In"] = 441246,
 							["Out"] = 0,
 						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 4422,
+						["Darkshore - Kor'gar"] = {
+							["In"] = 48587,
+							["Out"] = 0,
+						},
+						["Vol'dun - Slithering Gulch"] = {
+							["In"] = 39345,
+							["Out"] = 0,
+						},
+						["Waycrest Manor"] = {
+							["In"] = 378135,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 92223,
+							["Out"] = 0,
+						},
+						["Drustvar - Teller Farm"] = {
+							["In"] = 13898,
+							["Out"] = 0,
+						},
+						["Vol'dun - The Brine Basin"] = {
+							["In"] = 20478,
+							["Out"] = 0,
+						},
+						["Vol'dun - Tongo's Hideout"] = {
+							["In"] = 8014,
+							["Out"] = 0,
+						},
+						["The Underrot"] = {
+							["In"] = 301149,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 139500,
+							["Out"] = 0,
+						},
+						["Nazmir - Krag'wa's Shore"] = {
+							["In"] = 543170,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 80069,
+							["Out"] = 0,
+						},
+						["Darkshore - Ruins of Lornesta"] = {
+							["In"] = 8946,
+							["Out"] = 0,
+						},
+						["Vol'dun - Exiles' Enclave"] = {
+							["In"] = 63046,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Go'Shek Farm"] = {
+							["In"] = 63829,
+							["Out"] = 0,
+						},
+						["Nazmir - Torga's Rest"] = {
+							["In"] = 191200,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 10608,
 							["Out"] = 0,
 						},
-						["Temple of Sethraliss"] = {
-							["In"] = 393370,
+						["Stormsong Valley - The Jeweled Coast"] = {
+							["In"] = 43436,
 							["Out"] = 0,
 						},
 						["Drustvar"] = {
@@ -11525,16 +11973,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 91266,
 							["Out"] = 0,
 						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 233376,
+						["Zuldazar - The Old Seawall"] = {
+							["In"] = 73166,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 145207,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 6978,
 							["Out"] = 0,
 						},
-						["Nazmir - The Dreadmire"] = {
-							["In"] = 204033,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 13046,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dreadpearl Shallows"] = {
@@ -11557,16 +12005,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 57963,
 							["Out"] = 0,
 						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 0,
-							["Out"] = 8647,
-						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 493999,
+							["Out"] = 1604999,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 308647,
+						},
+						["Zuldazar - Zeb'ahari"] = {
+							["In"] = 413078,
+							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1828035,
+							["In"] = 2444721,
 							["Out"] = 0,
 						},
 						["Kings' Rest"] = {
@@ -11589,12 +12041,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 629909,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zeb'ahari"] = {
-							["In"] = 413078,
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 126210,
 							["Out"] = 0,
 						},
 					},
 					["GARRISON"] = {
+						["Stormsong Valley - The Precipice of Oblivion"] = {
+							["In"] = 607799,
+							["Out"] = 0,
+						},
+						["Darkshore - Withering Thicket"] = {
+							["In"] = 602659,
+							["Out"] = 0,
+						},
 						["The Underrot"] = {
 							["In"] = 26444,
 							["Out"] = 0,
@@ -11603,12 +12063,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 249538,
 							["Out"] = 0,
 						},
-						["Arathi Highlands"] = {
-							["In"] = 606285,
+						["The Banshee's Wail"] = {
+							["In"] = 50000000,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Precipice of Oblivion"] = {
-							["In"] = 607799,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 12016,
 							["Out"] = 0,
 						},
 						["Zuldazar - Xibala Shallows"] = {
@@ -11623,19 +12083,35 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32377,
 							["Out"] = 0,
 						},
-						["Darkshore - Withering Thicket"] = {
-							["In"] = 602659,
+						["Arathi Highlands"] = {
+							["In"] = 606285,
 							["Out"] = 0,
 						},
 					},
 					["MERCH"] = {
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 0,
+							["Out"] = 3708920,
+						},
 						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 78212,
+							["In"] = 326533,
+							["Out"] = 91354,
+						},
+						["Freehold"] = {
+							["In"] = 0,
+							["Out"] = 3129707,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 129045,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 3928602,
-							["Out"] = 600000,
+							["Out"] = 4870542,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 6790,
 						},
 						["Zuldazar - Zeb'ahari"] = {
 							["In"] = 277009,
@@ -11645,13 +12121,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 81111,
 							["Out"] = 0,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 678187,
+							["Out"] = 0,
+						},
 						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 14114,
+							["Out"] = 320000,
+						},
+						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 6543057,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8582708,
-							["Out"] = 6430195,
+							["In"] = 17064773,
+							["Out"] = 10291940,
 						},
 						["Verdant Wilds"] = {
 							["In"] = 330745,
@@ -11661,41 +12145,45 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 19118,
 						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 129045,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 617484,
 							["Out"] = 0,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
 							["Out"] = 1044956,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 0,
-							["Out"] = 61725,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 0,
-							["Out"] = 484247,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 759987,
-							["Out"] = 1762856,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 678187,
-							["Out"] = 0,
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 430328,
+							["Out"] = 5973591,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 675165,
 							["Out"] = 615716,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 193717,
-							["Out"] = 3968770,
+						["The MOTHERLODE!!"] = {
+							["In"] = 0,
+							["Out"] = 2769430,
 						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 430328,
-							["Out"] = 5973591,
+						["Stormsong Valley - Seekers' Vista"] = {
+							["In"] = 759987,
+							["Out"] = 1762856,
+						},
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 1882269,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 83548,
+							["Out"] = 61725,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 1118024,
+							["Out"] = 11667180,
+						},
+						["The Rotting Mire"] = {
+							["In"] = 32029,
+							["Out"] = 292715,
 						},
 						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 3411686,
@@ -11709,13 +12197,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 494081,
 							["Out"] = 0,
 						},
-						["The Underrot"] = {
+						["The Banshee's Wail"] = {
 							["In"] = 0,
-							["Out"] = 1107990,
+							["Out"] = 179476,
 						},
-						["The Rotting Mire"] = {
-							["In"] = 32029,
-							["Out"] = 292715,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 3037,
+							["Out"] = 326216,
 						},
 					},
 					["MAIL"] = {
@@ -11747,6 +12235,14 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 588457,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 973152,
+						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
 							["Out"] = 5547879,
@@ -11755,38 +12251,22 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 295195,
 						},
+						["Orgrimmar - The Drag"] = {
+							["In"] = 0,
+							["Out"] = 3505629,
+						},
 					},
 					["QUEST"] = {
-						["Nazmir - Koramar"] = {
-							["In"] = 654000,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 585000,
 							["Out"] = 0,
 						},
-						["Zuldazar - House of Jol"] = {
-							["In"] = 2231000,
-							["Out"] = 0,
-						},
-						["Nazmir - Court of Spirits"] = {
-							["In"] = 630000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Redrock Lowlands"] = {
-							["In"] = 198000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 799200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 690000,
+						["The Great Sea"] = {
+							["In"] = 1872000,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
-							["In"] = 420200,
-							["Out"] = 0,
-						},
-						["Great Hall"] = {
-							["In"] = 468000,
+							["In"] = 443600,
 							["Out"] = 0,
 						},
 						["Vol'dun - Court of Zak'rajan"] = {
@@ -11797,20 +12277,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3634500,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
-							["In"] = 1973100,
+						["Vol'dun - Redrock Lowlands"] = {
+							["In"] = 198000,
 							["Out"] = 0,
-						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 140000000,
 						},
 						["Zuldazar - Gorilla Gorge"] = {
 							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 1427400,
 							["Out"] = 0,
 						},
 						["Nazmir - The Dreadmire"] = {
@@ -11829,32 +12301,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1554000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 21400,
 							["Out"] = 0,
 						},
-						["Nazmir - Gloom Hollow"] = {
-							["In"] = 280200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Sundered Temple"] = {
-							["In"] = 444000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 460000,
+						["Stormsong Valley - Tidebreak Summit"] = {
+							["In"] = 1310400,
 							["Out"] = 0,
 						},
 						["Nazmir - Burial Mound"] = {
-							["In"] = 2313566,
-							["Out"] = 0,
-						},
-						["Nazmir - The Rivermarsh"] = {
-							["In"] = 20600,
+							["In"] = 2336966,
 							["Out"] = 0,
 						},
 						["Nazmir - Tul'vor"] = {
@@ -11873,10 +12329,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 8409,
 							["Out"] = 0,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
 						["Nazmir - Zalamar"] = {
 							["In"] = 1365000,
 							["Out"] = 0,
@@ -11885,12 +12337,216 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1263600,
 							["Out"] = 0,
 						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 210000,
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 2069192,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Expedition"] = {
+							["In"] = 688200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crater of Conquerors"] = {
+							["In"] = 424200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Port of Zem'lan"] = {
+							["In"] = 1999800,
+							["Out"] = 0,
+						},
+						["Nazmir - Takulu Bridge"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["The Banshee's Wail"] = {
+							["In"] = 5548900,
+							["Out"] = 0,
+						},
+						["Vol'dun - Arid Basin"] = {
+							["In"] = 415800,
+							["Out"] = 0,
+						},
+						["Zuldazar - Nesingwary's Trek"] = {
+							["In"] = 926600,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 14074,
+							["Out"] = 0,
+						},
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 6186,
+							["Out"] = 0,
+						},
+						["Nazmir - The Far Reach"] = {
+							["In"] = 23400,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 3940034,
+							["Out"] = 0,
+						},
+						["Nazmir - Zal'amak"] = {
+							["In"] = 1284000,
+							["Out"] = 0,
+						},
+						["Drustvar - Anyport"] = {
+							["In"] = 230000,
+							["Out"] = 0,
+						},
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 1364000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 2017600,
+							["Out"] = 0,
+						},
+						["Nazwatha - Seal of Nazmir"] = {
+							["In"] = 1526000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Predator Pass"] = {
+							["In"] = 12004,
+							["Out"] = 0,
+						},
+						["Darkshore"] = {
+							["In"] = 11539,
+							["Out"] = 0,
+						},
+						["Zuldazar - Sandscar Breach"] = {
+							["In"] = 1130000,
+							["Out"] = 0,
+						},
+						["Silithus: The Wound - Magni's Encampment"] = {
+							["In"] = 66200,
+							["Out"] = 0,
+						},
+						["Nazmir - Forlorn Ruins"] = {
+							["In"] = 1712000,
+							["Out"] = 0,
+						},
+						["Darkshore - Bitterstone Quarry"] = {
+							["In"] = 22303,
+							["Out"] = 0,
+						},
+						["Zuldazar - Throne of Rezan"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Bridgeport"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Village in the Vines"] = {
+							["In"] = 678000,
+							["Out"] = 0,
+						},
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["Vol'dun - Camp Lastwind"] = {
+							["In"] = 19800,
+							["Out"] = 0,
+						},
+						["Darkshore - Delaryn's Demise"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Withering Gulch"] = {
+							["In"] = 1649000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Slough"] = {
+							["In"] = 1876300,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 702000,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Gates of Orgrimmar"] = {
+							["In"] = 213400,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1807000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Preserve"] = {
+							["In"] = 249000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Shrouded Hollow"] = {
+							["In"] = 388000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Headhunter Lodge"] = {
+							["In"] = 686000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 776000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 19400,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 2472000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 690000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 799200,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 654000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 21261000,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 1427400,
+							["Out"] = 0,
+						},
+						["Great Hall"] = {
+							["In"] = 468000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 140000000,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 280200,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 22200,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Stonetusk Watch"] = {
+							["In"] = 117000,
+							["Out"] = 0,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 681000,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 1404000,
+							["In"] = 2129400,
 							["Out"] = 0,
 						},
 						["Nazmir - Wayward Shoals"] = {
@@ -11901,76 +12557,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 62200,
 							["Out"] = 0,
 						},
-						["Vol'dun - Port of Zem'lan"] = {
-							["In"] = 1999800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Crater of Conquerors"] = {
-							["In"] = 424200,
-							["Out"] = 0,
-						},
-						["Drustvar - Crimson Forest"] = {
-							["In"] = 690000,
-							["Out"] = 0,
-						},
-						["Nazmir - Takulu Bridge"] = {
-							["In"] = 21800,
-							["Out"] = 0,
-						},
-						["Zuldazar - Nesingwary's Trek"] = {
-							["In"] = 926600,
-							["Out"] = 0,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 932000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Arid Basin"] = {
-							["In"] = 415800,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 1170000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 244200,
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 7717,
 							["Out"] = 0,
 						},
 						["Zuldazar - Warbeast Kraal"] = {
 							["In"] = 926600,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Preserve"] = {
-							["In"] = 249000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 2069192,
-							["Out"] = 0,
-						},
-						["The Banshee's Wail"] = {
-							["In"] = 4168300,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Expedition"] = {
-							["In"] = 688200,
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 1170000,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fall"] = {
-							["In"] = 840000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Outpost"] = {
-							["In"] = 22200,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 702000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 21261000,
+							["In"] = 2244000,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -11982,51 +12582,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Orgrimmar - Grommash Hold"] = {
-							["In"] = 46800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Withering Gulch"] = {
-							["In"] = 1649000,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 2223000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rootway"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
-						["Nazmir - Zal'amak"] = {
-							["In"] = 1284000,
+							["In"] = 70200,
 							["Out"] = 0,
 						},
 						["Drustvar - Teller Farm"] = {
 							["In"] = 1456840,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Drustvar - Anyport"] = {
-							["In"] = 230000,
-							["Out"] = 0,
-						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 638600,
-							["Out"] = 0,
-						},
-						["Darkshore - Delaryn's Demise"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
 						["Nazmir - The Edge of Oblivion"] = {
 							["In"] = 1260000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Camp Lastwind"] = {
-							["In"] = 19800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Garden of the Loa"] = {
@@ -12045,76 +12609,60 @@ Accountant_ClassicZoneDB = {
 							["In"] = 507000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Temple of Akunda"] = {
-							["In"] = 2017600,
+						["Tiragarde Sound - Westwind Weald"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
+						["Zuldazar - House of Jol"] = {
+							["In"] = 2231000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Rakjan's Peak"] = {
 							["In"] = 1212000,
 							["Out"] = 0,
 						},
-						["Nazwatha - Seal of Nazmir"] = {
-							["In"] = 1526000,
+						["Nazmir - Court of Spirits"] = {
+							["In"] = 630000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 514828,
+						["Nazmir - Natha'vor"] = {
+							["In"] = 210000,
 							["Out"] = 0,
 						},
-						["Nazmir - Altar of Rot"] = {
-							["In"] = 21800,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 1427400,
 							["Out"] = 0,
 						},
-						["Darkshore"] = {
-							["In"] = 11539,
+						["Zuldazar - The Forward Guard"] = {
+							["In"] = 888000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Sandscar Breach"] = {
-							["In"] = 1130000,
-							["Out"] = 0,
-						},
-						["Silithus: The Wound - Magni's Encampment"] = {
-							["In"] = 66200,
-							["Out"] = 0,
-						},
-						["Nazmir - Terrace of Sorrows"] = {
-							["In"] = 1236000,
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 782125,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Brine Basin"] = {
 							["In"] = 388000,
 							["Out"] = 0,
 						},
-						["Nazmir - Forlorn Ruins"] = {
-							["In"] = 1712000,
+						["Zuldazar - Sundered Temple"] = {
+							["In"] = 444000,
 							["Out"] = 0,
 						},
-						["Darkshore - Bitterstone Quarry"] = {
-							["In"] = 22303,
+						["Zuldazar - Scaletrader Post"] = {
+							["In"] = 460000,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
 							["In"] = 9892,
 							["Out"] = 0,
 						},
-						["Zuldazar - Throne of Rezan"] = {
-							["In"] = 920000,
+						["Zuldazar - Zanchul"] = {
+							["In"] = 2918945,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Bridgeport"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Dazar"] = {
-							["In"] = 920000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Village in the Vines"] = {
-							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Bwoljin's Fall"] = {
-							["In"] = 101000,
+						["Zuldazar - Hall of the High Priests"] = {
+							["In"] = 226000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Skycallers' Spire"] = {
@@ -12122,15 +12670,27 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 20885800,
-							["Out"] = 2000000,
+							["In"] = 40885800,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Zocalo"] = {
-							["In"] = 67800,
+							["In"] = 91200,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - The Jeweled Coast"] = {
 							["In"] = 22715,
+							["Out"] = 0,
+						},
+						["Vol'dun - Bwoljin's Fall"] = {
+							["In"] = 101000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Dazar"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 514828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -12141,8 +12701,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 428000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Forward Guard"] = {
-							["In"] = 888000,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Zul'Ahjin"] = {
@@ -12165,24 +12725,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 654000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Rootway"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 1980000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Slough"] = {
-							["In"] = 1876300,
-							["Out"] = 0,
-						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 654000,
+						["Drustvar - Krazzlefrazz Outpost"] = {
+							["In"] = 1423400,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
 							["In"] = 816985,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Gates of Orgrimmar"] = {
-							["In"] = 213400,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 654000,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
@@ -12193,68 +12753,68 @@ Accountant_ClassicZoneDB = {
 							["In"] = 436000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1807000,
+						["Drustvar - Mudfisher Cove"] = {
+							["In"] = 117000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Valley of Sorrows"] = {
 							["In"] = 415800,
 							["Out"] = 0,
 						},
-						["Vol'dun - Shrouded Hollow"] = {
-							["In"] = 388000,
+						["Valley of Strength - The Broken Tusk"] = {
+							["In"] = 19400,
 							["Out"] = 0,
 						},
-						["Zuldazar - Headhunter Lodge"] = {
-							["In"] = 686000,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 690000,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
 							["In"] = 642000,
 							["Out"] = 0,
 						},
-						["Valley of Strength - The Broken Tusk"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 776000,
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 982800,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Golden Throne"] = {
 							["In"] = 194000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 244200,
+							["Out"] = 0,
+						},
 						["Siege of Boralus"] = {
 							["In"] = 125664,
 							["Out"] = 0,
 						},
-						["Nazmir - The Necropolis"] = {
-							["In"] = 231000,
+						["Nazmir - The Rivermarsh"] = {
+							["In"] = 20600,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 869600,
 							["Out"] = 0,
 						},
-						["Nazmir - Zo'bal Ruins"] = {
-							["In"] = 681000,
+						["Nazmir - The Necropolis"] = {
+							["In"] = 231000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Hall of the High Priests"] = {
-							["In"] = 226000,
+						["Nazmir - Terrace of Sorrows"] = {
+							["In"] = 1236000,
 							["Out"] = 0,
 						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 2472000,
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 2441100,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 1029600,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 2918945,
+						["Zuldazar - Bilgewater Bonanza"] = {
+							["In"] = 257400,
 							["Out"] = 0,
 						},
 						["Nazmir - Mangrove Shore"] = {
@@ -12341,32 +12901,28 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["TAXI"] = {
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 0,
-							["Out"] = 28000,
-						},
 					},
 					["BARBER"] = {
 					},
-					["OTHER"] = {
+					["AH"] = {
 					},
 					["LFG"] = {
 					},
-					["TRANSMO"] = {
+					["TRADE"] = {
+					},
+					["OTHER"] = {
 					},
 					["VOID"] = {
 					},
-					["TRADE"] = {
-					},
-					["MAIL"] = {
+					["TRANSMO"] = {
 					},
 					["GARRISON"] = {
 					},
-					["MERCH"] = {
-					},
 					["LOOT"] = {
 					},
-					["AH"] = {
+					["MERCH"] = {
+					},
+					["MAIL"] = {
 					},
 					["TRAIN"] = {
 					},
@@ -12381,7 +12937,43 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["Drustvar - Anyport"] = {
 							["In"] = 0,
+							["Out"] = 196000,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 0,
+							["Out"] = 67200,
+						},
+						["Zuldazar - Xibala"] = {
+							["In"] = 0,
+							["Out"] = 280000,
+						},
+						["Vol'dun - Conqueror's Path"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 0,
+							["Out"] = 89600,
+						},
+						["Stormsong Valley - Diretusk Hollow"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 0,
+							["Out"] = 22400,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 0,
 							["Out"] = 84000,
+						},
+						["Stormsong Valley - Ironmaul Overlook"] = {
+							["In"] = 0,
+							["Out"] = 70000,
 						},
 						["Zuldazar - Warport Rastari"] = {
 							["In"] = 0,
@@ -12391,118 +12983,110 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Zuldazar - Garden of the Loa"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 44800,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 100000,
 						},
 						["Tiragarde Sound - Timberfell Outpost"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 436835,
+							["Out"] = 89600,
 						},
 						["Tiragarde Sound - Freehold"] = {
 							["In"] = 0,
 							["Out"] = 56000,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
+						["Drustvar - Krazzlefrazz Outpost"] = {
 							["In"] = 0,
-							["Out"] = 70000,
+							["Out"] = 56000,
 						},
 						["Vol'dun - Tortaka Refuge"] = {
 							["In"] = 0,
-							["Out"] = 67200,
+							["Out"] = 89600,
 						},
-						["Zuldazar - Xibala"] = {
+						["Zuldazar - Nesingwary's Trek"] = {
 							["In"] = 0,
-							["Out"] = 182000,
+							["Out"] = 28000,
 						},
 						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 28000,
 						},
 						["Drustvar - Mudfisher Cove"] = {
 							["In"] = 0,
-							["Out"] = 22400,
+							["Out"] = 33600,
 						},
 						["Drustvar - Chandlery Wharf"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 42000,
+							["Out"] = 56000,
 						},
-						["Zuldazar - Seekers' Outpost"] = {
+						["Stormsong Valley - Warfang Hold"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 84000,
+						},
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 0,
+							["Out"] = 67200,
 						},
 						["Tiragarde Sound - Waning Glacier"] = {
 							["In"] = 0,
 							["Out"] = 11200,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
+						["Stormsong Valley - Seekers' Vista"] = {
 							["In"] = 0,
-							["Out"] = 44800,
+							["Out"] = 33600,
 						},
 						["Tiragarde Sound - Castaway Point"] = {
 							["In"] = 0,
 							["Out"] = 14000,
 						},
-						["Nazmir - Gloom Hollow"] = {
+						["Zuldazar - The Sliver"] = {
 							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 44800,
 						},
 						["Tiragarde Sound - Wolf's Den"] = {
 							["In"] = 0,
-							["Out"] = 33600,
+							["Out"] = 56000,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 0,
-							["Out"] = 257600,
+							["Out"] = 392000,
 						},
-						["Zuldazar - The Sliver"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 11200,
+							["Out"] = 750435,
 						},
 						["Drustvar"] = {
 							["In"] = 0,
-							["Out"] = 14000,
+							["Out"] = 70000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 0,
-							["Out"] = 84000,
+							["Out"] = 238000,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 0,
 							["Out"] = 22400,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 0,
-							["Out"] = 33600,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 0,
-							["Out"] = 56000,
-						},
-						["Stormsong Valley - Ironmaul Overlook"] = {
+						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 0,
 							["Out"] = 70000,
+						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 11200,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 0,
+							["Out"] = 33600,
 						},
 					},
 					["GUILD"] = {
 						["Battle of Dazar'alor"] = {
-							["In"] = 1252348,
+							["In"] = 1256789,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -12529,7 +13113,7 @@ Accountant_ClassicZoneDB = {
 					["TRAIN"] = {
 						["Zuldazar - Terrace of Crafters"] = {
 							["In"] = 0,
-							["Out"] = 23084008,
+							["Out"] = 23484016,
 						},
 						["Zuldazar - Hall of Glimmers"] = {
 							["In"] = 0,
@@ -12542,7 +13126,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 3880000,
+							["In"] = 5820000,
 							["Out"] = 0,
 						},
 					},
@@ -12557,64 +13141,36 @@ Accountant_ClassicZoneDB = {
 						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 1424596650,
+							["Out"] = 1509310398,
 						},
 					},
 					["LOOT"] = {
-						["Darkshore - Twilight Shore"] = {
-							["In"] = 8932,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 164823,
 							["Out"] = 0,
 						},
-						["Nazmir - Koramar"] = {
-							["In"] = 656310,
+						["Shrine of the Storm"] = {
+							["In"] = 309754,
 							["Out"] = 0,
 						},
-						["Nazmir - The Sundered Span"] = {
-							["In"] = 157514,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Old Seawall"] = {
-							["In"] = 73166,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rastakhan's Might"] = {
-							["In"] = 3516,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 9860,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 36742,
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 5943792,
 							["Out"] = 0,
 						},
 						["Vol'dun - Redrock Lowlands"] = {
 							["In"] = 59668,
 							["Out"] = 0,
 						},
-						["Zuldazar - Talanji's Rebuke"] = {
-							["In"] = 95032,
+						["Nazmir - The Dreadmire"] = {
+							["In"] = 366317,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'farrak"] = {
-							["In"] = 36143,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Galson's Lode"] = {
-							["In"] = 19772,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound"] = {
-							["In"] = 10293,
+						["Nazmir - Shoaljai Tar Pits"] = {
+							["In"] = 10704,
 							["Out"] = 0,
 						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 108401,
-							["Out"] = 0,
-						},
-						["Nazmir - Kazai"] = {
-							["In"] = 5741,
 							["Out"] = 0,
 						},
 						["Nazmir - Antul'Mita Plateau"] = {
@@ -12626,55 +13182,35 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 7469836,
+							["In"] = 15975791,
 							["Out"] = 0,
 						},
-						["Shrine of the Storm"] = {
-							["In"] = 309754,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 133994,
 							["Out"] = 0,
 						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 131612,
-							["Out"] = 0,
-						},
-						["Nazmir - Torga's Rest"] = {
-							["In"] = 191200,
+						["Zuldazar - Terrace of the Chosen"] = {
+							["In"] = 85828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
-							["In"] = 101547,
+							["In"] = 168972,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 6978,
+						["Vol'dun - The Blistering Wastes"] = {
+							["In"] = 12193,
 							["Out"] = 0,
 						},
 						["Nazmir - Zalamar"] = {
-							["In"] = 88091,
+							["In"] = 198943,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 176108,
-							["Out"] = 0,
-						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 73041,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Go'Shek Farm"] = {
-							["In"] = 63829,
-							["Out"] = 0,
-						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 166937,
+						["Siege of Boralus"] = {
+							["In"] = 208804,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
 							["In"] = 54497,
-							["Out"] = 0,
-						},
-						["Darkshore - Twilight Vale"] = {
-							["In"] = 7200,
 							["Out"] = 0,
 						},
 						["Vol'dun - Crater of Conquerors"] = {
@@ -12693,92 +13229,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 104649,
 							["Out"] = 0,
 						},
-						["Zuldazar - Alliance Airship"] = {
-							["In"] = 22255,
-							["Out"] = 0,
-						},
-						["Zuldazar - Crew Quarters"] = {
-							["In"] = 52104,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 74038,
-							["Out"] = 0,
-						},
-						["Siege of Boralus"] = {
-							["In"] = 208804,
-							["Out"] = 0,
-						},
-						["Darkshore - Ruins of Lornesta"] = {
-							["In"] = 8946,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 202393,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 75296,
+						["Tiragarde Sound - Proudmoore Barracks"] = {
+							["In"] = 153242,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Serpent's Maw"] = {
 							["In"] = 69515,
 							["Out"] = 0,
 						},
-						["Shadowfang Keep"] = {
-							["In"] = 46260,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 98959,
-							["Out"] = 0,
-						},
-						["Darkshore - Kor'gar"] = {
-							["In"] = 48587,
-							["Out"] = 0,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 126816,
-							["Out"] = 0,
-						},
-						["Dreadpearl Cavern"] = {
-							["In"] = 59680,
-							["Out"] = 0,
-						},
-						["Nazmir - Sethrak Front"] = {
-							["In"] = 226287,
-							["Out"] = 0,
-						},
-						["The Underrot"] = {
-							["In"] = 301149,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Hold"] = {
-							["In"] = 23679,
-							["Out"] = 0,
-						},
-						["Arathi Highlands - Boulderfist Hall"] = {
-							["In"] = 354811,
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 65832,
 							["Out"] = 0,
 						},
 						["Nazmir - Torga's Innards"] = {
 							["In"] = 114640,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of the Speakers"] = {
-							["In"] = 21446,
-							["Out"] = 0,
-						},
 						["Nazmir - Zal'amak"] = {
 							["In"] = 58576,
-							["Out"] = 0,
-						},
-						["Drustvar - Teller Farm"] = {
-							["In"] = 13898,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Freehold"] = {
-							["In"] = 61394,
 							["Out"] = 0,
 						},
 						["Vol'dun - Feeding Pits"] = {
@@ -12786,39 +13254,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 182598,
+							["In"] = 282736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 151767,
-							["Out"] = 0,
-						},
-						["Darkshore - Mist's Edge"] = {
-							["In"] = 19230,
-							["Out"] = 0,
-						},
-						["Zuldazar - Garden of the Loa"] = {
-							["In"] = 534002,
-							["Out"] = 0,
-						},
-						["Zuldazar - Terrace of the Chosen"] = {
-							["In"] = 85828,
-							["Out"] = 0,
-						},
-						["Darkshore - Ameth'Aran"] = {
-							["In"] = 152145,
-							["Out"] = 0,
-						},
-						["Darkshore"] = {
-							["In"] = 55300,
-							["Out"] = 0,
-						},
-						["Drustvar - Upper Corlain"] = {
-							["In"] = 60433,
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 88579,
 							["Out"] = 0,
 						},
 						["Arathi Basin"] = {
@@ -12833,36 +13273,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 4413,
 							["Out"] = 0,
 						},
-						["Vol'dun - Crackling Ridge"] = {
-							["In"] = 110435,
-							["Out"] = 0,
-						},
-						["Atal'Dazar"] = {
-							["In"] = 266199,
+						["Darkshore"] = {
+							["In"] = 55300,
 							["Out"] = 0,
 						},
 						["Zuldazar - Sandscar Breach"] = {
 							["In"] = 87902,
-							["Out"] = 0,
-						},
-						["Vol'dun - The Brine Basin"] = {
-							["In"] = 20478,
-							["Out"] = 0,
-						},
-						["Altar of Gonk"] = {
-							["In"] = 4471,
-							["Out"] = 0,
-						},
-						["Waycrest Manor"] = {
-							["In"] = 378135,
-							["Out"] = 0,
-						},
-						["Drustvar - Corlain"] = {
-							["In"] = 51553,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Abyssal Melody"] = {
-							["In"] = 125945,
 							["Out"] = 0,
 						},
 						["Darkshore - Bitterstone Quarry"] = {
@@ -12877,36 +13293,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 6015,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 14448,
-							["Out"] = 0,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 249538,
-							["Out"] = 0,
-						},
-						["Kings' Rest"] = {
-							["In"] = 168372,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - The Jeweled Coast"] = {
-							["In"] = 43436,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 157672,
 							["Out"] = 0,
 						},
 						["Storm's End"] = {
 							["In"] = 186095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 139500,
-							["Out"] = 0,
-						},
-						["Nazmir - Naz'agal"] = {
-							["In"] = 219947,
-							["Out"] = 0,
-						},
-						["Zuldazar - Covescale Rise"] = {
-							["In"] = 5054,
+						["Stormsong Valley - Braxton Lodge"] = {
+							["In"] = 24352,
 							["Out"] = 0,
 						},
 						["Freehold"] = {
@@ -12914,103 +13310,379 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Drustvar - Arom's Crossing"] = {
-							["In"] = 7413,
+							["In"] = 21736,
 							["Out"] = 0,
 						},
-						["Vol'dun - Zul'Ahjin"] = {
-							["In"] = 91461,
-							["Out"] = 0,
-						},
-						["Zuldazar - Shrine of Shadra"] = {
-							["In"] = 5919,
-							["Out"] = 0,
-						},
-						["Vol'dun - Rakjan's Peak"] = {
-							["In"] = 11552,
-							["Out"] = 0,
-						},
-						["Zuldazar - Savagelands"] = {
-							["In"] = 29663,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 128779,
+						["Tiragarde Sound - Mistfall Cleft"] = {
+							["In"] = 21917,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 8106,
 							["Out"] = 0,
 						},
-						["Vol'dun - Tongo's Hideout"] = {
-							["In"] = 8014,
-							["Out"] = 0,
-						},
 						["Nazmir - Plains of Tojek"] = {
-							["In"] = 72431,
+							["In"] = 99540,
 							["Out"] = 0,
 						},
-						["Vol'dun - Slithering Gulch"] = {
-							["In"] = 15773,
-							["Out"] = 0,
-						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 82416,
-							["Out"] = 0,
-						},
-						["Zuldazar - The Feeding Grounds"] = {
-							["In"] = 57919,
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 14448,
 							["Out"] = 0,
 						},
 						["Tol Dagor"] = {
-							["In"] = 413851,
+							["In"] = 490321,
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 112072,
+							["In"] = 2077937,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 72060,
-							["Out"] = 0,
-						},
-						["Nazmir - Shoaljai Tar Pits"] = {
-							["In"] = 10704,
+						["Stormsong Valley - The Brineworks"] = {
+							["In"] = 28079,
 							["Out"] = 0,
 						},
 						["Zuldazar - Headhunter Lodge"] = {
 							["In"] = 11991,
 							["Out"] = 0,
 						},
-						["Nazmir - Krag'wa's Shore"] = {
-							["In"] = 543170,
+						["Arathi Highlands - Boulderfist Hall"] = {
+							["In"] = 354811,
 							["Out"] = 0,
 						},
 						["Darkshore - Ashwood Depot"] = {
 							["In"] = 9943,
 							["Out"] = 0,
 						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 92223,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 4422,
 							["Out"] = 0,
 						},
-						["Vol'dun - Exiles' Enclave"] = {
-							["In"] = 63046,
+						["Temple of Sethraliss"] = {
+							["In"] = 393370,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 73041,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 233376,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 176108,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Shore"] = {
+							["In"] = 8932,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 656310,
+							["Out"] = 0,
+						},
+						["Nazmir - The Sundered Span"] = {
+							["In"] = 157514,
+							["Out"] = 0,
+						},
+						["Nazmir - Mangrove Shore"] = {
+							["In"] = 96431,
+							["Out"] = 0,
+						},
+						["Zuldazar - Savagelands"] = {
+							["In"] = 29663,
+							["Out"] = 0,
+						},
+						["Zuldazar - Rastakhan's Might"] = {
+							["In"] = 3516,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 9860,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 77759,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Fogcliff Strand"] = {
+							["In"] = 40143,
+							["Out"] = 0,
+						},
+						["Zuldazar - Talanji's Rebuke"] = {
+							["In"] = 95032,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'farrak"] = {
+							["In"] = 36143,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Galson's Lode"] = {
+							["In"] = 19772,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound"] = {
+							["In"] = 33514,
+							["Out"] = 0,
+						},
+						["Nazmir - Kazai"] = {
+							["In"] = 5741,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 131612,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
+							["Out"] = 0,
+						},
+						["Nazmir - Natha'vor"] = {
+							["In"] = 166937,
+							["Out"] = 0,
+						},
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 85867,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Freehold"] = {
+							["In"] = 61394,
+							["Out"] = 0,
+						},
+						["Zuldazar - Alliance Airship"] = {
+							["In"] = 22255,
+							["Out"] = 0,
+						},
+						["Zuldazar - Crew Quarters"] = {
+							["In"] = 52104,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 74038,
+							["Out"] = 0,
+						},
+						["Shadowfang Keep"] = {
+							["In"] = 46260,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 98959,
+							["Out"] = 0,
+						},
+						["The MOTHERLODE!!"] = {
+							["In"] = 126816,
+							["Out"] = 0,
+						},
+						["Dreadpearl Cavern"] = {
+							["In"] = 59680,
+							["Out"] = 0,
+						},
+						["Nazmir - Sethrak Front"] = {
+							["In"] = 226287,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of the Speakers"] = {
+							["In"] = 21446,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Hold"] = {
+							["In"] = 23679,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 14217,
+							["Out"] = 0,
+						},
+						["Darkshore - Mist's Edge"] = {
+							["In"] = 19230,
+							["Out"] = 0,
+						},
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
+							["Out"] = 0,
+						},
+						["Zuldazar - Garden of the Loa"] = {
+							["In"] = 534002,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Sagehold"] = {
+							["In"] = 108166,
+							["Out"] = 0,
+						},
+						["Darkshore - Ameth'Aran"] = {
+							["In"] = 152145,
+							["Out"] = 0,
+						},
+						["Vol'dun - Rakjan's Peak"] = {
+							["In"] = 11552,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crackling Ridge"] = {
+							["In"] = 110435,
+							["Out"] = 0,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 266199,
+							["Out"] = 0,
+						},
+						["Altar of Gonk"] = {
+							["In"] = 4471,
+							["Out"] = 0,
+						},
+						["Drustvar - Upper Corlain"] = {
+							["In"] = 99733,
+							["Out"] = 0,
+						},
+						["Drustvar - Corlain"] = {
+							["In"] = 65761,
+							["Out"] = 0,
+						},
+						["Darkshore - Blackwood Camp"] = {
+							["In"] = 5497,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Feeding Grounds"] = {
+							["In"] = 57919,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 157095,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 109464,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Siren's Daughter"] = {
+							["In"] = 162137,
+							["Out"] = 0,
+						},
+						["Kings' Rest"] = {
+							["In"] = 168372,
+							["Out"] = 0,
+						},
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 82416,
+							["Out"] = 0,
+						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 249538,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Wavespeaker's Sanctum"] = {
+							["In"] = 13821,
+							["Out"] = 0,
+						},
+						["Zuldazar - Lair of Rezan"] = {
+							["In"] = 34284,
+							["Out"] = 0,
+						},
+						["Zuldazar - Covescale Rise"] = {
+							["In"] = 5054,
+							["Out"] = 0,
+						},
+						["Nazmir - Naz'agal"] = {
+							["In"] = 219947,
+							["Out"] = 0,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 145207,
+							["Out"] = 0,
+						},
+						["Vol'dun - Zul'Ahjin"] = {
+							["In"] = 97906,
+							["Out"] = 0,
+						},
+						["Zuldazar - Shrine of Shadra"] = {
+							["In"] = 5919,
+							["Out"] = 0,
+						},
+						["Nazmir"] = {
+							["In"] = 4049,
+							["Out"] = 0,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 128779,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 202393,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 72060,
 							["Out"] = 0,
 						},
 						["Nazmir - The Necropolis"] = {
 							["In"] = 441246,
 							["Out"] = 0,
 						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 4422,
+						["Darkshore - Kor'gar"] = {
+							["In"] = 48587,
+							["Out"] = 0,
+						},
+						["Vol'dun - Slithering Gulch"] = {
+							["In"] = 39345,
+							["Out"] = 0,
+						},
+						["Waycrest Manor"] = {
+							["In"] = 378135,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 92223,
+							["Out"] = 0,
+						},
+						["Drustvar - Teller Farm"] = {
+							["In"] = 13898,
+							["Out"] = 0,
+						},
+						["Vol'dun - The Brine Basin"] = {
+							["In"] = 20478,
+							["Out"] = 0,
+						},
+						["Vol'dun - Tongo's Hideout"] = {
+							["In"] = 8014,
+							["Out"] = 0,
+						},
+						["The Underrot"] = {
+							["In"] = 301149,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 139500,
+							["Out"] = 0,
+						},
+						["Nazmir - Krag'wa's Shore"] = {
+							["In"] = 543170,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 80069,
+							["Out"] = 0,
+						},
+						["Darkshore - Ruins of Lornesta"] = {
+							["In"] = 8946,
+							["Out"] = 0,
+						},
+						["Vol'dun - Exiles' Enclave"] = {
+							["In"] = 63046,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Go'Shek Farm"] = {
+							["In"] = 63829,
+							["Out"] = 0,
+						},
+						["Nazmir - Torga's Rest"] = {
+							["In"] = 191200,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 10608,
 							["Out"] = 0,
 						},
-						["Temple of Sethraliss"] = {
-							["In"] = 393370,
+						["Stormsong Valley - The Jeweled Coast"] = {
+							["In"] = 43436,
 							["Out"] = 0,
 						},
 						["Drustvar"] = {
@@ -13021,16 +13693,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 91266,
 							["Out"] = 0,
 						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 233376,
+						["Zuldazar - The Old Seawall"] = {
+							["In"] = 73166,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 145207,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 6978,
 							["Out"] = 0,
 						},
-						["Nazmir - The Dreadmire"] = {
-							["In"] = 204033,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 13046,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dreadpearl Shallows"] = {
@@ -13053,16 +13725,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 57963,
 							["Out"] = 0,
 						},
-						["Dazar'alor - The Great Seal"] = {
-							["In"] = 0,
-							["Out"] = 8647,
-						},
 						["Orgrimmar - Valley of Strength"] = {
 							["In"] = 0,
-							["Out"] = 493999,
+							["Out"] = 1604999,
+						},
+						["Dazar'alor - The Great Seal"] = {
+							["In"] = 0,
+							["Out"] = 308647,
+						},
+						["Zuldazar - Zeb'ahari"] = {
+							["In"] = 413078,
+							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
-							["In"] = 1828035,
+							["In"] = 2444721,
 							["Out"] = 0,
 						},
 						["Kings' Rest"] = {
@@ -13085,12 +13761,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 629909,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zeb'ahari"] = {
-							["In"] = 413078,
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 126210,
 							["Out"] = 0,
 						},
 					},
 					["GARRISON"] = {
+						["Stormsong Valley - The Precipice of Oblivion"] = {
+							["In"] = 607799,
+							["Out"] = 0,
+						},
+						["Darkshore - Withering Thicket"] = {
+							["In"] = 602659,
+							["Out"] = 0,
+						},
 						["The Underrot"] = {
 							["In"] = 26444,
 							["Out"] = 0,
@@ -13099,12 +13783,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 249538,
 							["Out"] = 0,
 						},
-						["Arathi Highlands"] = {
-							["In"] = 606285,
+						["The Banshee's Wail"] = {
+							["In"] = 50000000,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Precipice of Oblivion"] = {
-							["In"] = 607799,
+						["Stormsong Valley - The Abyssal Melody"] = {
+							["In"] = 12016,
 							["Out"] = 0,
 						},
 						["Zuldazar - Xibala Shallows"] = {
@@ -13119,19 +13803,35 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32377,
 							["Out"] = 0,
 						},
-						["Darkshore - Withering Thicket"] = {
-							["In"] = 602659,
+						["Arathi Highlands"] = {
+							["In"] = 606285,
 							["Out"] = 0,
 						},
 					},
 					["MERCH"] = {
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 0,
+							["Out"] = 3708920,
+						},
 						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 78212,
+							["In"] = 326533,
+							["Out"] = 91354,
+						},
+						["Freehold"] = {
+							["In"] = 0,
+							["Out"] = 3129707,
+						},
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 129045,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 3928602,
-							["Out"] = 600000,
+							["Out"] = 4870542,
+						},
+						["Zuldazar - Zanchul"] = {
+							["In"] = 3817,
+							["Out"] = 6790,
 						},
 						["Zuldazar - Zeb'ahari"] = {
 							["In"] = 277009,
@@ -13141,13 +13841,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 81111,
 							["Out"] = 0,
 						},
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 678187,
+							["Out"] = 0,
+						},
 						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 14114,
+							["Out"] = 320000,
+						},
+						["Tol Dagor"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 6543057,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8582708,
-							["Out"] = 6430195,
+							["In"] = 17064773,
+							["Out"] = 10291940,
 						},
 						["Verdant Wilds"] = {
 							["In"] = 330745,
@@ -13157,41 +13865,45 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 19118,
 						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 129045,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 617484,
 							["Out"] = 0,
 						},
 						["Atal'Dazar"] = {
 							["In"] = 0,
 							["Out"] = 1044956,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 0,
-							["Out"] = 61725,
-						},
-						["The MOTHERLODE!!"] = {
-							["In"] = 0,
-							["Out"] = 484247,
-						},
-						["Stormsong Valley - Seekers' Vista"] = {
-							["In"] = 759987,
-							["Out"] = 1762856,
-						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 678187,
-							["Out"] = 0,
+						["Vol'dun - Skycallers' Spire"] = {
+							["In"] = 430328,
+							["Out"] = 5973591,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 675165,
 							["Out"] = 615716,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 193717,
-							["Out"] = 3968770,
+						["The MOTHERLODE!!"] = {
+							["In"] = 0,
+							["Out"] = 2769430,
 						},
-						["Vol'dun - Skycallers' Spire"] = {
-							["In"] = 430328,
-							["Out"] = 5973591,
+						["Stormsong Valley - Seekers' Vista"] = {
+							["In"] = 759987,
+							["Out"] = 1762856,
+						},
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 1882269,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 83548,
+							["Out"] = 61725,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 1118024,
+							["Out"] = 11667180,
+						},
+						["The Rotting Mire"] = {
+							["In"] = 32029,
+							["Out"] = 292715,
 						},
 						["Nazmir - Zul'jan Ruins"] = {
 							["In"] = 3411686,
@@ -13205,13 +13917,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 494081,
 							["Out"] = 0,
 						},
-						["The Underrot"] = {
+						["The Banshee's Wail"] = {
 							["In"] = 0,
-							["Out"] = 1107990,
+							["Out"] = 179476,
 						},
-						["The Rotting Mire"] = {
-							["In"] = 32029,
-							["Out"] = 292715,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 3037,
+							["Out"] = 326216,
 						},
 					},
 					["MAIL"] = {
@@ -13243,6 +13955,14 @@ Accountant_ClassicZoneDB = {
 					["TRADE"] = {
 					},
 					["TRANSMO"] = {
+						["The Underrot"] = {
+							["In"] = 0,
+							["Out"] = 588457,
+						},
+						["Battle of Dazar'alor"] = {
+							["In"] = 0,
+							["Out"] = 973152,
+						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
 							["Out"] = 5547879,
@@ -13251,38 +13971,22 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 295195,
 						},
+						["Orgrimmar - The Drag"] = {
+							["In"] = 0,
+							["Out"] = 3505629,
+						},
 					},
 					["QUEST"] = {
-						["Nazmir - Koramar"] = {
-							["In"] = 654000,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 585000,
 							["Out"] = 0,
 						},
-						["Zuldazar - House of Jol"] = {
-							["In"] = 2231000,
-							["Out"] = 0,
-						},
-						["Nazmir - Court of Spirits"] = {
-							["In"] = 630000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Redrock Lowlands"] = {
-							["In"] = 198000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Tal'gurub"] = {
-							["In"] = 799200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of the Prophet"] = {
-							["In"] = 690000,
+						["The Great Sea"] = {
+							["In"] = 1872000,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
-							["In"] = 420200,
-							["Out"] = 0,
-						},
-						["Great Hall"] = {
-							["In"] = 468000,
+							["In"] = 443600,
 							["Out"] = 0,
 						},
 						["Vol'dun - Court of Zak'rajan"] = {
@@ -13293,20 +13997,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3634500,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'jan Ruins"] = {
-							["In"] = 1973100,
+						["Vol'dun - Redrock Lowlands"] = {
+							["In"] = 198000,
 							["Out"] = 0,
-						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 140000000,
 						},
 						["Zuldazar - Gorilla Gorge"] = {
 							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Drustvar - Barrowknoll Cemetery"] = {
-							["In"] = 1427400,
 							["Out"] = 0,
 						},
 						["Nazmir - The Dreadmire"] = {
@@ -13325,32 +14021,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1554000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Terrace of Crafters"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
 						["Nazmir - The Frogmarsh"] = {
 							["In"] = 21400,
 							["Out"] = 0,
 						},
-						["Nazmir - Gloom Hollow"] = {
-							["In"] = 280200,
-							["Out"] = 0,
-						},
-						["Zuldazar - Sundered Temple"] = {
-							["In"] = 444000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Temple of Rezan"] = {
-							["In"] = 460000,
+						["Stormsong Valley - Tidebreak Summit"] = {
+							["In"] = 1310400,
 							["Out"] = 0,
 						},
 						["Nazmir - Burial Mound"] = {
-							["In"] = 2313566,
-							["Out"] = 0,
-						},
-						["Nazmir - The Rivermarsh"] = {
-							["In"] = 20600,
+							["In"] = 2336966,
 							["Out"] = 0,
 						},
 						["Nazmir - Tul'vor"] = {
@@ -13369,10 +14049,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 8409,
 							["Out"] = 0,
 						},
-						["Zuldazar - Scaletrader Post"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
 						["Nazmir - Zalamar"] = {
 							["In"] = 1365000,
 							["Out"] = 0,
@@ -13381,12 +14057,216 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1263600,
 							["Out"] = 0,
 						},
-						["Nazmir - Natha'vor"] = {
-							["In"] = 210000,
+						["Zuldazar - Warport Rastari"] = {
+							["In"] = 2069192,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Expedition"] = {
+							["In"] = 688200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Crater of Conquerors"] = {
+							["In"] = 424200,
+							["Out"] = 0,
+						},
+						["Vol'dun - Port of Zem'lan"] = {
+							["In"] = 1999800,
+							["Out"] = 0,
+						},
+						["Nazmir - Takulu Bridge"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["The Banshee's Wail"] = {
+							["In"] = 5548900,
+							["Out"] = 0,
+						},
+						["Vol'dun - Arid Basin"] = {
+							["In"] = 415800,
+							["Out"] = 0,
+						},
+						["Zuldazar - Nesingwary's Trek"] = {
+							["In"] = 926600,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 14074,
+							["Out"] = 0,
+						},
+						["Vol'dun - Dead Man's Pass"] = {
+							["In"] = 6186,
+							["Out"] = 0,
+						},
+						["Nazmir - The Far Reach"] = {
+							["In"] = 23400,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 3940034,
+							["Out"] = 0,
+						},
+						["Nazmir - Zal'amak"] = {
+							["In"] = 1284000,
+							["Out"] = 0,
+						},
+						["Drustvar - Anyport"] = {
+							["In"] = 230000,
+							["Out"] = 0,
+						},
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 1364000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Temple of Akunda"] = {
+							["In"] = 2017600,
+							["Out"] = 0,
+						},
+						["Nazwatha - Seal of Nazmir"] = {
+							["In"] = 1526000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Predator Pass"] = {
+							["In"] = 12004,
+							["Out"] = 0,
+						},
+						["Darkshore"] = {
+							["In"] = 11539,
+							["Out"] = 0,
+						},
+						["Zuldazar - Sandscar Breach"] = {
+							["In"] = 1130000,
+							["Out"] = 0,
+						},
+						["Silithus: The Wound - Magni's Encampment"] = {
+							["In"] = 66200,
+							["Out"] = 0,
+						},
+						["Nazmir - Forlorn Ruins"] = {
+							["In"] = 1712000,
+							["Out"] = 0,
+						},
+						["Darkshore - Bitterstone Quarry"] = {
+							["In"] = 22303,
+							["Out"] = 0,
+						},
+						["Zuldazar - Throne of Rezan"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Bridgeport"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Village in the Vines"] = {
+							["In"] = 678000,
+							["Out"] = 0,
+						},
+						["Nazmir - Altar of Rot"] = {
+							["In"] = 21800,
+							["Out"] = 0,
+						},
+						["Vol'dun - Camp Lastwind"] = {
+							["In"] = 19800,
+							["Out"] = 0,
+						},
+						["Darkshore - Delaryn's Demise"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Withering Gulch"] = {
+							["In"] = 1649000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Slough"] = {
+							["In"] = 1876300,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Warfang Hold"] = {
+							["In"] = 702000,
+							["Out"] = 0,
+						},
+						["Orgrimmar - Gates of Orgrimmar"] = {
+							["In"] = 213400,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 1807000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Preserve"] = {
+							["In"] = 249000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Shrouded Hollow"] = {
+							["In"] = 388000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Headhunter Lodge"] = {
+							["In"] = 686000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Abandoned Burrows"] = {
+							["In"] = 776000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of Rezan"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Terrace of Crafters"] = {
+							["In"] = 19400,
+							["Out"] = 0,
+						},
+						["Nazmir - Primal Wetlands"] = {
+							["In"] = 2472000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Temple of the Prophet"] = {
+							["In"] = 690000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Tal'gurub"] = {
+							["In"] = 799200,
+							["Out"] = 0,
+						},
+						["Nazmir - Koramar"] = {
+							["In"] = 654000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vulpera Hideaway"] = {
+							["In"] = 21261000,
+							["Out"] = 0,
+						},
+						["Drustvar - Barrowknoll Cemetery"] = {
+							["In"] = 1427400,
+							["Out"] = 0,
+						},
+						["Great Hall"] = {
+							["In"] = 468000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 140000000,
+						},
+						["Nazmir - Gloom Hollow"] = {
+							["In"] = 280200,
+							["Out"] = 0,
+						},
+						["Zuldazar - Seekers' Outpost"] = {
+							["In"] = 22200,
+							["Out"] = 0,
+						},
+						["Stormsong Valley - Stonetusk Watch"] = {
+							["In"] = 117000,
+							["Out"] = 0,
+						},
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 681000,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 1404000,
+							["In"] = 2129400,
 							["Out"] = 0,
 						},
 						["Nazmir - Wayward Shoals"] = {
@@ -13397,76 +14277,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 62200,
 							["Out"] = 0,
 						},
-						["Vol'dun - Port of Zem'lan"] = {
-							["In"] = 1999800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Crater of Conquerors"] = {
-							["In"] = 424200,
-							["Out"] = 0,
-						},
-						["Drustvar - Crimson Forest"] = {
-							["In"] = 690000,
-							["Out"] = 0,
-						},
-						["Nazmir - Takulu Bridge"] = {
-							["In"] = 21800,
-							["Out"] = 0,
-						},
-						["Zuldazar - Nesingwary's Trek"] = {
-							["In"] = 926600,
-							["Out"] = 0,
-						},
-						["Drustvar - Krazzlefrazz Outpost"] = {
-							["In"] = 932000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Arid Basin"] = {
-							["In"] = 415800,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Timberfell Outpost"] = {
-							["In"] = 1170000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 244200,
+						["Darkshore - Twilight Vale"] = {
+							["In"] = 7717,
 							["Out"] = 0,
 						},
 						["Zuldazar - Warbeast Kraal"] = {
 							["In"] = 926600,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Preserve"] = {
-							["In"] = 249000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Warport Rastari"] = {
-							["In"] = 2069192,
-							["Out"] = 0,
-						},
-						["The Banshee's Wail"] = {
-							["In"] = 4168300,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Expedition"] = {
-							["In"] = 688200,
+						["Tiragarde Sound - Timberfell Outpost"] = {
+							["In"] = 1170000,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fall"] = {
-							["In"] = 840000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Seekers' Outpost"] = {
-							["In"] = 22200,
-							["Out"] = 0,
-						},
-						["Stormsong Valley - Warfang Hold"] = {
-							["In"] = 702000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vulpera Hideaway"] = {
-							["In"] = 21261000,
+							["In"] = 2244000,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -13478,51 +14302,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Orgrimmar - Grommash Hold"] = {
-							["In"] = 46800,
-							["Out"] = 0,
-						},
-						["Vol'dun - Withering Gulch"] = {
-							["In"] = 1649000,
-							["Out"] = 0,
-						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 2223000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Rootway"] = {
-							["In"] = 460000,
-							["Out"] = 0,
-						},
-						["Nazmir - Zal'amak"] = {
-							["In"] = 1284000,
+							["In"] = 70200,
 							["Out"] = 0,
 						},
 						["Drustvar - Teller Farm"] = {
 							["In"] = 1456840,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Valley of Strength"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Drustvar - Anyport"] = {
-							["In"] = 230000,
-							["Out"] = 0,
-						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 638600,
-							["Out"] = 0,
-						},
-						["Darkshore - Delaryn's Demise"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
 						["Nazmir - The Edge of Oblivion"] = {
 							["In"] = 1260000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Camp Lastwind"] = {
-							["In"] = 19800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Garden of the Loa"] = {
@@ -13541,76 +14329,60 @@ Accountant_ClassicZoneDB = {
 							["In"] = 507000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Temple of Akunda"] = {
-							["In"] = 2017600,
+						["Tiragarde Sound - Westwind Weald"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
+						["Zuldazar - House of Jol"] = {
+							["In"] = 2231000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Rakjan's Peak"] = {
 							["In"] = 1212000,
 							["Out"] = 0,
 						},
-						["Nazwatha - Seal of Nazmir"] = {
-							["In"] = 1526000,
+						["Nazmir - Court of Spirits"] = {
+							["In"] = 630000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 514828,
+						["Nazmir - Natha'vor"] = {
+							["In"] = 210000,
 							["Out"] = 0,
 						},
-						["Nazmir - Altar of Rot"] = {
-							["In"] = 21800,
+						["Tiragarde Sound - Stormsong Monastery"] = {
+							["In"] = 1427400,
 							["Out"] = 0,
 						},
-						["Darkshore"] = {
-							["In"] = 11539,
+						["Zuldazar - The Forward Guard"] = {
+							["In"] = 888000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Sandscar Breach"] = {
-							["In"] = 1130000,
-							["Out"] = 0,
-						},
-						["Silithus: The Wound - Magni's Encampment"] = {
-							["In"] = 66200,
-							["Out"] = 0,
-						},
-						["Nazmir - Terrace of Sorrows"] = {
-							["In"] = 1236000,
+						["Tiragarde Sound - Vigil Hill"] = {
+							["In"] = 782125,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Brine Basin"] = {
 							["In"] = 388000,
 							["Out"] = 0,
 						},
-						["Nazmir - Forlorn Ruins"] = {
-							["In"] = 1712000,
+						["Zuldazar - Sundered Temple"] = {
+							["In"] = 444000,
 							["Out"] = 0,
 						},
-						["Darkshore - Bitterstone Quarry"] = {
-							["In"] = 22303,
+						["Zuldazar - Scaletrader Post"] = {
+							["In"] = 460000,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
 							["In"] = 9892,
 							["Out"] = 0,
 						},
-						["Zuldazar - Throne of Rezan"] = {
-							["In"] = 920000,
+						["Zuldazar - Zanchul"] = {
+							["In"] = 2918945,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Bridgeport"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Atal'Dazar"] = {
-							["In"] = 920000,
-							["Out"] = 0,
-						},
-						["Zuldazar - Village in the Vines"] = {
-							["In"] = 678000,
-							["Out"] = 0,
-						},
-						["Vol'dun - Bwoljin's Fall"] = {
-							["In"] = 101000,
+						["Zuldazar - Hall of the High Priests"] = {
+							["In"] = 226000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Skycallers' Spire"] = {
@@ -13618,15 +14390,27 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 20885800,
-							["Out"] = 2000000,
+							["In"] = 40885800,
+							["Out"] = 4000000,
 						},
 						["Zuldazar - The Zocalo"] = {
-							["In"] = 67800,
+							["In"] = 91200,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - The Jeweled Coast"] = {
 							["In"] = 22715,
+							["Out"] = 0,
+						},
+						["Vol'dun - Bwoljin's Fall"] = {
+							["In"] = 101000,
+							["Out"] = 0,
+						},
+						["Zuldazar - Atal'Dazar"] = {
+							["In"] = 920000,
+							["Out"] = 0,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 514828,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -13637,8 +14421,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 428000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Forward Guard"] = {
-							["In"] = 888000,
+						["Orgrimmar - Valley of Strength"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Zul'Ahjin"] = {
@@ -13661,24 +14445,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 654000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Rootway"] = {
+							["In"] = 460000,
+							["Out"] = 0,
+						},
 						["Vol'dun - Scorched Sands Arena"] = {
 							["In"] = 1980000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Slough"] = {
-							["In"] = 1876300,
-							["Out"] = 0,
-						},
-						["Nazmir - Bloodfire Ravine"] = {
-							["In"] = 654000,
+						["Drustvar - Krazzlefrazz Outpost"] = {
+							["In"] = 1423400,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
 							["In"] = 816985,
 							["Out"] = 0,
 						},
-						["Orgrimmar - Gates of Orgrimmar"] = {
-							["In"] = 213400,
+						["Nazmir - Bloodfire Ravine"] = {
+							["In"] = 654000,
 							["Out"] = 0,
 						},
 						["Nazmir - Nazwatha"] = {
@@ -13689,68 +14473,68 @@ Accountant_ClassicZoneDB = {
 							["In"] = 436000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1807000,
+						["Drustvar - Mudfisher Cove"] = {
+							["In"] = 117000,
 							["Out"] = 0,
 						},
 						["Vol'dun - Valley of Sorrows"] = {
 							["In"] = 415800,
 							["Out"] = 0,
 						},
-						["Vol'dun - Shrouded Hollow"] = {
-							["In"] = 388000,
+						["Valley of Strength - The Broken Tusk"] = {
+							["In"] = 19400,
 							["Out"] = 0,
 						},
-						["Zuldazar - Headhunter Lodge"] = {
-							["In"] = 686000,
+						["Drustvar - Crimson Forest"] = {
+							["In"] = 690000,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
 							["In"] = 642000,
 							["Out"] = 0,
 						},
-						["Valley of Strength - The Broken Tusk"] = {
-							["In"] = 19400,
-							["Out"] = 0,
-						},
-						["Vol'dun - Abandoned Burrows"] = {
-							["In"] = 776000,
+						["Tiragarde Sound - Norwington Estate"] = {
+							["In"] = 982800,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Golden Throne"] = {
 							["In"] = 194000,
 							["Out"] = 0,
 						},
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 244200,
+							["Out"] = 0,
+						},
 						["Siege of Boralus"] = {
 							["In"] = 125664,
 							["Out"] = 0,
 						},
-						["Nazmir - The Necropolis"] = {
-							["In"] = 231000,
+						["Nazmir - The Rivermarsh"] = {
+							["In"] = 20600,
 							["Out"] = 0,
 						},
 						["Zuldazar - Dazar'alor"] = {
 							["In"] = 869600,
 							["Out"] = 0,
 						},
-						["Nazmir - Zo'bal Ruins"] = {
-							["In"] = 681000,
+						["Nazmir - The Necropolis"] = {
+							["In"] = 231000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Hall of the High Priests"] = {
-							["In"] = 226000,
+						["Nazmir - Terrace of Sorrows"] = {
+							["In"] = 1236000,
 							["Out"] = 0,
 						},
-						["Nazmir - Primal Wetlands"] = {
-							["In"] = 2472000,
+						["Nazmir - Zul'jan Ruins"] = {
+							["In"] = 2441100,
 							["Out"] = 0,
 						},
 						["Vol'dun - Scorched Sands Outpost"] = {
 							["In"] = 1029600,
 							["Out"] = 0,
 						},
-						["Zuldazar - Zanchul"] = {
-							["In"] = 2918945,
+						["Zuldazar - Bilgewater Bonanza"] = {
+							["In"] = 257400,
 							["Out"] = 0,
 						},
 						["Nazmir - Mangrove Shore"] = {

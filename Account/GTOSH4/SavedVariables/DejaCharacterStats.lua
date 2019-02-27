@@ -23,7 +23,7 @@ DejaCharacterStatsDB = {
 			["ExpandButtonSetChecked"] = true,
 		},
 		["dejacharacterstatsShowItemLevelChecked"] = {
-			["ShowItemLevelSetChecked"] = true,
+			["ShowItemLevelSetChecked"] = false,
 		},
 		["dejacharacterstatsHideMasteryChecked"] = {
 			["SetChecked"] = true,
@@ -35,13 +35,13 @@ DejaCharacterStatsDB = {
 			["ClassBackgroundChecked"] = true,
 		},
 		["dejacharacterstatsShowDuraChecked"] = {
-			["ShowDuraSetChecked"] = false,
+			["ShowDuraSetChecked"] = true,
 		},
 		["dejacharacterstatsExpandChecked"] = {
 			["ExpandSetChecked"] = true,
 		},
 		["dejacharacterstatsShowDuraTextureChecked"] = {
-			["ShowDuraTextureSetChecked"] = true,
+			["ShowDuraTextureSetChecked"] = false,
 		},
 		["dejacharacterstatsScrollbarChecked"] = {
 			["ScrollbarSetChecked"] = false,
@@ -271,6 +271,7 @@ DCS_ClassSpecDB = {
 		}, -- [7]
 		{
 			["statKey"] = "DURABILITY_STAT",
+			["hidden"] = true,
 		}, -- [8]
 		{
 			["statKey"] = "REPAIR_COST",
@@ -295,6 +296,7 @@ DCS_ClassSpecDB = {
 		}, -- [14]
 		{
 			["statKey"] = "ARMOR",
+			["hidden"] = true,
 		}, -- [15]
 		{
 			["statKey"] = "OffenseCategory",
@@ -317,9 +319,11 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "SPELLPOWER",
+			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "MANAREGEN",
+			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "ENERGY_REGEN",
@@ -850,6 +854,7 @@ DCS_ClassSpecDB = {
 		}, -- [3]
 		{
 			["statKey"] = "DCS_POWER",
+			["hidden"] = true,
 		}, -- [4]
 		{
 			["statKey"] = "DCS_ALTERNATEMANA",
@@ -866,6 +871,7 @@ DCS_ClassSpecDB = {
 		}, -- [8]
 		{
 			["statKey"] = "REPAIR_COST",
+			["hidden"] = true,
 		}, -- [9]
 		{
 			["statKey"] = "AttributesCategory",
@@ -908,9 +914,11 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "SPELLPOWER",
+			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "MANAREGEN",
+			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "ENERGY_REGEN",
@@ -951,6 +959,7 @@ DCS_ClassSpecDB = {
 		{
 			["statKey"] = "AVOIDANCE",
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [33]
 		{
 			["statKey"] = "DefenseCategory",

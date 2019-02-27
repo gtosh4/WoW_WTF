@@ -10,7 +10,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1550622526,
+				["lastUpdate"] = 1551230709,
 				["Specializations"] = {
 					[2] = 5849,
 					[3] = 12011,
@@ -18,7 +18,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550597549,
+				["lastUpdate"] = 1550851939,
 				["Specializations"] = {
 					14169, -- [1]
 					7065, -- [2]
@@ -26,25 +26,25 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1550619379,
+				["lastUpdate"] = 1551200368,
 				["Specializations"] = {
 					7165, -- [1]
-					[4] = 14271,
+					[4] = 6893,
 				},
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1550653967,
+				["lastUpdate"] = 1551227266,
 				["Specializations"] = {
-					10605, -- [1]
+					9637, -- [1]
 					[3] = 5814,
 				},
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1550651052,
+				["lastUpdate"] = 1551258235,
 				["Specializations"] = {
-					5631, -- [1]
+					16383, -- [1]
 					[3] = 5527,
 				},
 				["Class"] = "PRIEST",
@@ -117,7 +117,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [2]
 			},
-			["Version"] = 29297,
+			["Version"] = 29482,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -175,7 +175,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29297,
+			["Version"] = 29482,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -233,7 +233,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29297,
+			["Version"] = 29482,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -291,7 +291,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29297,
+			["Version"] = 29482,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -349,7 +349,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29297,
+			["Version"] = 29482,
 		},
 	},
 }
