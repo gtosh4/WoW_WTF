@@ -65,11 +65,11 @@ AngryAssign_Pages = {
 		["Contents"] = "LEFT            \nCorner    ||cpriestTehkz.barrier||r        \nFlames 2    ||cmonkBails.rev||r        \nFinal Room 1            \nFinal Room 2            \n            \nRIGHT            \nCorner    ||cpriestJess.hymn||r        \nFlames 2    ||cmonkGordy.rev||r        \nFinal Room 1            \nFinal Room 2            \n            \nCENTER            \nCoin Shower 1    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    \nCoin Shower 2    ||cpaladinAber.BoP||r        \nWail of Greed 1    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r    \nCoin Shower 3    ||cwarriorFrida.shout||r    ||cdemonhunterAndr.dark||r    ||cmonkGordy.rev||r\nCoin Shower 4    suicide        \nWail of Greed 2    ||cpriestJess.salv||r        \nCoin Shower 5    suicide\n\nRUBY LEFT - FRIDAA/OREO\nRUBY RIGHT - NAWTY / DAIYZED\ntehkz/jess - amethyst\nbails/gords - sapph",
 	},
 	[3846756481] = {
-		["Updated"] = 1550290957,
+		["Updated"] = 1551318284,
 		["Name"] = "M Conc",
 		["Id"] = 3846756481,
-		["UpdateId"] = 3613992512,
-		["Contents"] = "0:01:00    Cry 1    ||cpriestT.ramp||r    ||cwarriorB.shout||r        \n0:01:15    Wrath 1    ||cshamanJ.SLT||r    ||cmonkB.rev||r    ||cdemonhunterA.dark||r    \n0:02:30    Wrath 2    ||cpriestT.barrier||r    ||cpriestY.hymn||r    ||cshamanJ.HT||r    \n0:02:40    Cry 2    ||cpriestT.ramp||r    ||cmonkY.rev||r        \n0:03:30    Wrath 3    ||cpriestY.salv||r    \n0:04:30    Wrath 4    ||cshamanJ.SLT||r    ||cmonkB.rev||r    ||cdemonhunterA.dark||r    \n0:04:30    Cry 3    ||cpriestT.ramp||r    ||cshamanJ.HT||r    ||cwarriorB.shout||r    \n0:05:30    Wrath 5    ||cpriestT.barrier||r    ||cpriestY.hymn||r    ||cmonkY.rev||r",
+		["UpdateId"] = 2680465059,
+		["Contents"] = "Cry 1    ||cpriestJess.salv||r    ||cpriestTehkz.ramp||r        \nWrath 1    ||cmonkBails.rev||r    ||cpaladinLohg.AC||r    ||cpaladinLohg.AM||r    ||cwarriorBarba.shout||r\nWrath 2    ||cmonkGordy.rev||r    ||cpriestTehkz.barrier||r    ||cwarriorFrida.shout||r    \nCry 2    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r        \nWrath 3    ||cpaladinLohg.AC||r    ||cdemonhunterAndr.dark||r        \nWrath 4    ||cpaladinLohg.AM||r    ||cwarriorBarba.shout||r        \nCry 3    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nWrath 5    ||cpaladinLohg.AC||r    ||cmonkGordy.rev||r    ||cpriestTehkz.barrier||r    ||cwarriorFrida.shout||r\nWrath 6    ||cpriestJess.salv||r    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r    ||cdemonhunterAndr.dark||r",
 	},
 	[763670677] = {
 		["Updated"] = 1550285120,

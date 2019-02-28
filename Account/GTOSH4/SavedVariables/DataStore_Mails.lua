@@ -36,39 +36,28 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/02/26 20:25",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1551153096,
+				["lastUpdate"] = 1551330422,
 				["Mails"] = {
 					{
-						["returned"] = false,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Yuumi",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1551153096,
-						["count"] = 5,
+						["returned"] = false,
 						["icon"] = 1509634,
-						["daysLeft"] = 27.8868980407715,
+						["count"] = 5,
+						["lastCheck"] = 1551330422,
+						["daysLeft"] = 25.8346652984619,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/02/25 22:51",
+				["lastVisitDate"] = "2019/02/28 00:07",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1551254292,
-				["lastVisitDate"] = "2019/02/27 02:58",
+				["lastUpdate"] = 1551324876,
+				["lastVisitDate"] = "2019/02/27 22:34",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550852066,
-				["Mails"] = {
-					{
-						["sender"] = "Tosh",
-						["itemID"] = 165509,
-						["link"] = "|cffa335ee|Hitem:165509::::::::120:256::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r",
-						["count"] = 1,
-						["lastCheck"] = 1551243925,
-						["icon"] = 2280670,
-						["daysLeft"] = 30,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2019/02/22 11:14",
+				["lastUpdate"] = 1551330456,
+				["lastVisitDate"] = "2019/02/28 00:07",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1551200379,

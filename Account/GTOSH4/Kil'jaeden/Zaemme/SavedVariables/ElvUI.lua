@@ -10,6 +10,8 @@ ElvCharacterDB = {
 		"/tmw", -- [7]
 		"/hek", -- [8]
 		"/alto show", -- [9]
+		"they're 700 rn", -- [10]
+		"ez", -- [11]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -914,5 +916,49 @@ ElvCharacterDB = {
 			[51] = 1550467639,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [41]
+		{
+			"<Intent>9/9H 5/9M BoD. Looking for a  healer and exceptional DPS. Apply at https://discord.gg/q7u8wqk Raid Times are FRI SAT 9pm PST to 1 am PST. Msg Ericb#11460 for questions. Selling AOTC + full heroic.", -- [1]
+			"Whitepally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Whitepally-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4123, -- [11]
+			"Player-9-07D46C6E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaWhitepally|r",
+			[51] = 1551331770,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"<Intent>9/9H 5/9M BoD. Looking for a  healer and exceptional DPS. Apply at https://discord.gg/q7u8wqk Raid Times are FRI SAT 9pm PST to 1 am PST. Msg Ericb#11460 for questions. Selling AOTC + full heroic.", -- [1]
+			"Whitepally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Whitepally-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4168, -- [11]
+			"Player-9-07D46C6E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaWhitepally|r",
+			[51] = 1551332300,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
 	},
 }

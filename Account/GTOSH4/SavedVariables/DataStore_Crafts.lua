@@ -722,7 +722,7 @@ DataStore_CraftsDB = {
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550851939,
+				["lastUpdate"] = 1551330446,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
@@ -1451,9 +1451,6 @@ DataStore_CraftsDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Professions"] = {
-					["Inscription"] = {
-						["CurrentLevelName"] = "Zandalari Inscription",
-					},
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0B58277D:2259:171|h[Alchemy]|h|r",
@@ -2156,13 +2153,16 @@ DataStore_CraftsDB = {
 						},
 						["Rank"] = 169,
 					},
+					["Inscription"] = {
+						["CurrentLevelName"] = "Zandalari Inscription",
+					},
 				},
 				["Prof2"] = "Inscription",
-				["lastUpdate"] = 1551227266,
+				["lastUpdate"] = 1551330397,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1551254156,
+				["lastUpdate"] = 1551329764,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {

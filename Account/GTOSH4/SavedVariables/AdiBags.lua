@@ -90,6 +90,10 @@ AdiBagsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["columnWidth"] = {
+				["Bank"] = 10,
+				["Backpack"] = 10,
+			},
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
@@ -99,10 +103,7 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["autoDeposit"] = true,
 		},
 	},

@@ -55,7 +55,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1550851939,
+				["lastUpdate"] = 1551330446,
 				["Factions"] = {
 					[38] = 2010,
 					[46] = 2158,
@@ -176,7 +176,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1551227266,
+				["lastUpdate"] = 1551330397,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -199,7 +199,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1551254156,
+				["lastUpdate"] = 1551329764,
 				["Factions"] = {
 					[78] = 3100,
 					[7] = 500,

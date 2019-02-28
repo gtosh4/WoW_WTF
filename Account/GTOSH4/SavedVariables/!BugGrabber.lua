@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 515,
+	["session"] = 519,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\gui.lua:199: attempt to concatenate local 'icon' (a nil value)",
@@ -19,17 +19,25 @@ BugGrabberDB = {
 			["counter"] = 4,
 		}, -- [2]
 		{
-			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
-			["time"] = "2019/02/25 12:38:32",
-			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 514,
-			["counter"] = 16,
+			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
+			["time"] = "2019/02/27 21:23:14",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
+			["session"] = 516,
+			["counter"] = 5,
 		}, -- [3]
 		{
 			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
-			["session"] = 515,
+			["session"] = 519,
 			["time"] = "2019/02/25 12:11:07",
-			["counter"] = 100,
+			["counter"] = 120,
 		}, -- [4]
+		{
+			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
+			["time"] = "2019/02/25 12:38:32",
+			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 519,
+			["counter"] = 20,
+		}, -- [5]
 	},
 }

@@ -27,3 +27,10 @@ X: -652
 Y: 16
 W: 393
 H: 248
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480

@@ -1,19 +1,17 @@
 
 ToshAssignmentsDB = {
 	["profileKeys"] = {
-		["Yorman - Kil'jaeden"] = "Default",
+		["Zaemme - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["encounters"] = {
 				[2325] = {
 					["Koopa"] = {
-						["enabled"] = true,
-						["encounterId"] = 2325,
-						["name"] = "Koopa",
 						["assignments"] = {
 							{
 								["players"] = {
@@ -32,8 +30,8 @@ ToshAssignmentsDB = {
 								},
 								["actions"] = {
 									{
-										["type"] = "bar",
 										["id"] = 1,
+										["type"] = "bar",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -41,8 +39,8 @@ ToshAssignmentsDB = {
 										},
 									}, -- [1]
 									{
-										["type"] = "countdown",
 										["id"] = 2,
+										["type"] = "countdown",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -67,8 +65,8 @@ ToshAssignmentsDB = {
 								},
 								["actions"] = {
 									{
-										["type"] = "bar",
 										["id"] = 1,
+										["type"] = "bar",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -76,8 +74,8 @@ ToshAssignmentsDB = {
 										},
 									}, -- [1]
 									{
-										["type"] = "countdown",
 										["id"] = 2,
+										["type"] = "countdown",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -87,6 +85,10 @@ ToshAssignmentsDB = {
 								["id"] = 2,
 							}, -- [2]
 						},
+						["encounterId"] = 2325,
+						["name"] = "Koopa",
+						["enabled"] = true,
+						["showOthers"] = true,
 					},
 				},
 			},

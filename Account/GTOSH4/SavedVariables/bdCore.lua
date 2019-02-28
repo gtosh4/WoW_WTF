@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Tosh",
+		["name"] = "Zaemme",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -115,6 +115,7 @@ BD_persistent = {
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["heroic bod wed @ 7pm cst. "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
