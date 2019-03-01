@@ -32,16 +32,16 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|366347301"] = "467599|1551330399|0|1",
+					["Battle of Dazar'alor Heroic|366347301"] = "378464|1551419534|0|1",
 				},
-				["lastUpdate"] = 1551330413,
+				["lastUpdate"] = 1551421597,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|366349639"] = "468207|1551329792|0|1",
-					["Battle of Dazar'alor Mythic|366308764"] = "468207|1551329792|0|1",
+					["Battle of Dazar'alor Heroic|366349639"] = "381810|1551416188|0|1",
+					["Battle of Dazar'alor Mythic|366308764"] = "381810|1551416188|0|1",
 				},
-				["lastUpdate"] = 1551330354,
+				["lastUpdate"] = 1551416835,
 			},
 		},
 	},

@@ -32,6 +32,36 @@ TomTomWaypointsM = {
 		["Tosh - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+			[862] = {
+				["862:588973641.39557:590280652.0462:Herding Children"] = {
+					862, -- [1]
+					0.588973641395569, -- [2]
+					0.590280652046204, -- [3]
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Herding Children",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Yuumi - Kil'jaeden"] = {
 			[629] = {

@@ -144,12 +144,12 @@ AngryAssign_Pages = {
 		["Contents"] = "Living Bomb 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nLiving Bomb 3    ||cshamanJamie.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestJess.hymn||r    \nMaze Start    ||cmonkGordy.rev||r            \nMaze Barriers    ||cpriestTehkz.barrier||r    ||cwarriorBarba.shout||r    ||cshamanJamie.HT||r    ||cpriestTehkz.ramp||r\nFlash 1    ||cpriestJess.salv||r            \nFlash 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nFlash 3    ||cshamanJamie.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestJess.hymn||r    \nFlash 4    ||cmonkGordy.rev||r    ||cwarriorBarba.shout||r    ||cshamanJamie.HT||r",
 	},
 	[930450812] = {
-		["Updated"] = 1551239871,
+		["Updated"] = 1551412344,
 		["Name"] = "grong",
 		["Id"] = 930450812,
-		["UpdateId"] = 3611176275,
-		["Contents"] = "Throw 1    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 1    ||cshamanIlya.SLT||r    ||cpriestBarb.hymn||r    \nThrow 2    ||cmonkCon.rev||r        \nTantrum 2    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r    \nThrow 3    ||cpriestGord.barrier||r        \nTantrum 3    ||cpriestBarb.salv||r        \nThrow 4    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 4  ||cshamanIlya.SLT||r          \nThrow 5    ||cmonkCon.rev||r        \nTantrum 5    ||cdruidCraig.tranq||r   ||cpriestBarb.hymn||r    ||cpriestGord.ramp||r\n\nAdd 1 -||cdemonhunter zach||r||cshaman devan||r||crogue liz||r||cpaladin mason||r\nAdd 2 -||cmage corey||r||cmage morri||r||cpriest dolly||r||cshaman doug||r",
-		["Backup"] = "Throw 1    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 1    ||cshamanIlya.SLT||r    ||cpriestBarb.hymn||r    \nThrow 2    ||cmonkCon.rev||r        \nTantrum 2    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r    \nThrow 3    ||cpriestGord.barrier||r        \nTantrum 3    ||cpriestBarb.salv||r        \nThrow 4    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 4  ||cshamanIlya.SLT||r          \nThrow 5    ||cmonkCon.rev||r        \nTantrum 5    ||cdruidCraig.tranq||r   ||cpriestBarb.hymn||r    ||cpriestGord.ramp||r\n\nAdd 1 -||cdemonhunter zach||r||cshaman devan||r||crogue liz||r||cpaladin mason||r\nAdd 2 -||cmage corey||r||cmage morri||r||cpriest dolly||r||cshaman doug||r",
+		["UpdateId"] = 1866357786,
+		["Contents"] = "Throw 1    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 1    ||cdruidBoo.tranq||r    ||cpriestBarb.hymn||r    \nThrow 2    ||cmonkJamie.rev||r        \nTantrum 2    ||cshamanIlya.SLT||r    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r\nThrow 3    ||cpriestGord.barrier||r        \nTantrum 3    ||cpriestBarb.salv||r        \nThrow 4    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 4    ||cdruidBoo.tranq||r        \nThrow 5    ||cmonkJamie.rev||r    ||cpriestBarb.hymn||r    \nTantrum 5    ||cshamanIlya.SLT||r    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
+		["Backup"] = "Throw 1    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 1    ||cdruidBoo.tranq||r    ||cpriestBarb.hymn||r    \nThrow 2    ||cmonkJamie.rev||r        \nTantrum 2    ||cshamanIlya.SLT||r    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r\nThrow 3    ||cpriestGord.barrier||r        \nTantrum 3    ||cpriestBarb.salv||r        \nThrow 4    ||cshamanIlya.HT||r    ||cpriestGord.ramp||r    \nTantrum 4    ||cdruidBoo.tranq||r        \nThrow 5    ||cmonkJamie.rev||r    ||cpriestBarb.hymn||r    \nTantrum 5    ||cshamanIlya.SLT||r    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
 	},
 }
 AngryAssign_Categories = {
@@ -159,6 +159,20 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
+	["window"] = {
+		["height"] = 500.000244140625,
+		["top"] = 1114.0537109375,
+		["left"] = 602.059631347656,
+		["width"] = 699.999877929688,
+	},
+	["display"] = {
+		["y"] = -204.501708984375,
+		["x"] = -716.544006347656,
+		["point"] = "CENTER",
+		["scale"] = 1,
+		["hidden"] = false,
+		["width"] = 441.008666992188,
+	},
 	["tree"] = {
 		["groups"] = {
 			["134906466"] = true,
@@ -170,21 +184,7 @@ AngryAssign_State = {
 		["treewidth"] = 175,
 		["fullwidth"] = 666,
 	},
-	["display"] = {
-		["y"] = -204.501708984375,
-		["x"] = -716.544006347656,
-		["point"] = "CENTER",
-		["scale"] = 1,
-		["hidden"] = false,
-		["width"] = 441.008666992188,
-	},
 	["directionUp"] = false,
-	["window"] = {
-		["height"] = 500.000244140625,
-		["top"] = 1114.0537109375,
-		["left"] = 602.059631347656,
-		["width"] = 699.999877929688,
-	},
 	["locked"] = true,
 }
 AngryAssign_Config = {

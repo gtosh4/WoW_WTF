@@ -30,8 +30,9 @@ ToshAssignmentsDB = {
 								},
 								["actions"] = {
 									{
-										["id"] = 1,
 										["type"] = "bar",
+										["id"] = 1,
+										["removeOptions"] = nil --[[ skipped inline function ]],
 										["marker"] = {
 										},
 										["bar"] = {
@@ -39,8 +40,9 @@ ToshAssignmentsDB = {
 										},
 									}, -- [1]
 									{
-										["id"] = 2,
 										["type"] = "countdown",
+										["id"] = 2,
+										["removeOptions"] = nil --[[ skipped inline function ]],
 										["marker"] = {
 										},
 										["bar"] = {
@@ -65,19 +67,19 @@ ToshAssignmentsDB = {
 								},
 								["actions"] = {
 									{
-										["id"] = 1,
-										["type"] = "bar",
 										["marker"] = {
 										},
+										["type"] = "bar",
+										["id"] = 1,
 										["bar"] = {
 											["icon"] = "marker1",
 										},
 									}, -- [1]
 									{
-										["id"] = 2,
-										["type"] = "countdown",
 										["marker"] = {
 										},
+										["type"] = "countdown",
+										["id"] = 2,
 										["bar"] = {
 										},
 									}, -- [2]

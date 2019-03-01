@@ -1,426 +1,426 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" gonna take ginjer out while you're filling group", -- [1]
-		" ~5 min", -- [2]
-		"/p I feel like it filled up way quicker last week", -- [3]
-		"gonna take ginjer out while you're filling group", -- [4]
-		"~5 min", -- [5]
-		" you got your key done right?", -- [6]
-		" no, just key for the weekly chest", -- [7]
-		"you got your key done right?", -- [8]
-		"no, just key for the weekly chest", -- [9]
-		"/ec", -- [10]
-		"/TA", -- [11]
-		"/aa", -- [12]
-		"/p :O", -- [13]
-		"/p uhm", -- [14]
-		"/p 10% ?", -- [15]
-		"/p people gonna die to multisided", -- [16]
-		"/p a lot", -- [17]
-		"/cw Thunderrz-Kil'jaeden yeah", -- [18]
-		"/cw Thunderrz-Kil'jaeden I would", -- [19]
-		"/cw Thunderrz-Kil'jaeden thanks!", -- [20]
+		"~5 min", -- [1]
+		" you got your key done right?", -- [2]
+		" no, just key for the weekly chest", -- [3]
+		"you got your key done right?", -- [4]
+		"no, just key for the weekly chest", -- [5]
+		"/ec", -- [6]
+		"/TA", -- [7]
+		"/aa", -- [8]
+		"/p :O", -- [9]
+		"/p uhm", -- [10]
+		"/p 10% ?", -- [11]
+		"/p people gonna die to multisided", -- [12]
+		"/p a lot", -- [13]
+		"/cw Thunderrz-Kil'jaeden yeah", -- [14]
+		"/cw Thunderrz-Kil'jaeden I would", -- [15]
+		"/cw Thunderrz-Kil'jaeden thanks!", -- [16]
+		"/ta", -- [17]
+		"/who koopa", -- [18]
+		"/p ya", -- [19]
+		"/p WM", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"jess i really need", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Wasting Servant!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2052, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3269, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321624,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418226,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"that chest for jaina", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Wasting Servant has ended!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2053, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3270, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321627,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418227,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"on my priest", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Taunted Gorestained Piglet!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2054, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3273, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321628,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418249,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"|Kv43|k", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:278444:0|h[Infest]|h|r on Devouring Maggot", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2055, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3276, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551321629,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418254,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"ok", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Taunted Infected Peasant!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2056, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3277, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551321630,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418263,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"to do the damage for kt", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Taunted Devouring Maggot!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2057, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3278, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321631,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418271,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"i'll try my best", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Taunted Jagged Hound!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2058, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3280, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551321632,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418307,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"|Kv44|k", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Taunted Thornguard!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2059, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3281, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551321632,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418320,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"|Kv45|k", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Taunted Thornguard!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2060, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3282, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321636,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418333,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"Taunted Sister Katherine!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Jagged Hound!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2063, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3283, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321638,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418357,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"Taunted Sister Katherine!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Interrupted Coven Thornshaper's |cff71d5ff|Hspell:264050:0|h[Infected Thorn]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2064, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3284, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321638,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418364,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"Interrupted Sister Katherine's |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Taunted Coven Thornshaper!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2076, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3285, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551321673,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418365,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"Taunted Brother Joseph!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:264050:0|h[Infected Thorn]|h|r on Coven Thornshaper", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2079, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3286, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321685,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418372,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"Taunted Brother Joseph!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2080, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321685,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2082, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321692,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2085, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321702,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Interrupted Brother Joseph's |cff71d5ff|Hspell:286563:0|h[Tidal Empowerment]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Taunted Coven Thornshaper!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2095, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3287, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551321724,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418387,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [14]
+		{
+			"Interrupted Coven Thornshaper's |cff71d5ff|Hspell:264050:0|h[Infected Thorn]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3288, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418392,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [15]
+		{
+			"Interrupted |cff71d5ff|Hspell:264050:0|h[Infected Thorn]|h|r on Coven Thornshaper", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3289, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418401,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [16]
+		{
+			"Taunted Coven Thornshaper!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3290, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418407,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [17]
 		{
-			"3", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Coven Thornshaper's |cff71d5ff|Hspell:278551:0|h[Soul Fetish]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2112, -- [11]
-			"Player-9-0B58277D", -- [12]
+			3291, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551321784,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418408,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"2", -- [1]
+			"Toshaman interrupted |cff71d5ff|Hspell:278474:0|h[Effigy Reconstruction]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -430,7 +430,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2113, -- [11]
+			3292, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -438,11 +438,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551321785,
+			[51] = 1551418408,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"1", -- [1]
+			"Taunted Soulbound Goliath!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3295, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418460,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [20]
+		{
+			"Soul Thorns on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -452,7 +474,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2114, -- [11]
+			3298, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -460,1419 +482,1397 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551321786,
+			[51] = 1551418465,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Taunted Laminaria!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2115, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321789,
-			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"Taunted Laminaria!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Taunted Soulbound Goliath!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2126, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3301, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321845,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418477,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"3", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Soul Thorns on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2132, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3308, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321872,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418508,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"2", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Soulbound Goliath!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2133, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3316, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321873,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418533,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [24]
 		{
-			"1", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Soulbound Goliath!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2136, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3320, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321874,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418555,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"|cff71d5ff|Hspell:61999:0|h[Raise Ally]|h|r cast on You!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Enthralled Guard!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2139, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3324, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321893,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418576,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"3", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Heartsbane Vinetwister!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2146, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3325, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321905,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418587,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"2", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Toshaman interrupted |cff71d5ff|Hspell:263891:0|h[Grasping Thorns]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2148, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3326, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321906,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418593,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"1", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Heartsbane Vinetwister!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2151, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3327, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321907,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418594,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"Taunted Laminaria!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Interrupted Bewitched Captain's |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2153, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3328, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321907,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418604,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2159, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321933,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"wait all the azerite dorps now", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:263891:0|h[Grasping Thorns]|h|r on Heartsbane Vinetwister", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2170, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3329, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321949,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418605,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [31]
+		{
+			"Interrupted |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r on Bewitched Captain", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3332, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418631,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"??????????", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Taunted Tormented Soul!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2172, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3333, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321951,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418635,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"no0000000000000", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Taunted Lost Soul!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2173, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			3334, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551321953,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418648,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Okay andrew", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Taunted Tormented Soul!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2175, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3335, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321958,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418658,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"im sorry", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r on Bewitched Captain", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2176, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3336, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321959,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418663,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"I just", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted Bewitched Captain's |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2177, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3337, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321960,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418675,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"i have a connection to my job", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted Thistle Acolyte's |cff71d5ff|Hspell:266035:0|h[Bone Splinter]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2180, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3338, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321971,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418698,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"of being orb boy", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:266036:0|h[Drain Essence]|h|r on Thistle Acolyte", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2181, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3339, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321973,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418704,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"he just needs to be needed dude", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Interrupted Sister Briar's |cff71d5ff|Hspell:260701:0|h[Bramble Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2182, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3342, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551321974,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418742,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"PLAYING THE VICTIM AGAIN", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Taunted Sister Briar!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2183, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3346, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551321975,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418752,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"COLOR ME SHOCKED", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted Sister Solena's |cff71d5ff|Hspell:260699:0|h[Soul Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2189, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3351, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551321981,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418756,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"I mean", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:260696:0|h[Ruinous Bolt]|h|r on Sister Malady", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2193, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3352, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321995,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418760,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"you did take my job.", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Taunted Sister Malady!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2194, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3353, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551321998,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418761,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"it sounds like a squeaky toy", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Toshaman interrupted |cff71d5ff|Hspell:260701:0|h[Bramble Bolt]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2206, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			3354, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551322044,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418765,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"it really does", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Unstable Runic Mark on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2209, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3360, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551322052,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418768,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"k gordy", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2215, -- [11]
-			"Player-9-09D60980", -- [12]
+			3363, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322083,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418771,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"what is the chance", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Taunted Sister Briar!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2216, -- [11]
-			"Player-9-09D60980", -- [12]
+			3364, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322086,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418772,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"we do opulence", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2217, -- [11]
-			"Player-9-09D60980", -- [12]
+			3366, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322088,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418772,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"in kt this week", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2218, -- [11]
-			"Player-9-09D60980", -- [12]
+			3368, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322091,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418773,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"l m a o", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted Sister Malady's |cff71d5ff|Hspell:260696:0|h[Ruinous Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2219, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3369, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551322096,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418774,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"hey andrew", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:260697:0|h[Bramble Bolt]|h|r on Sister Briar", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2220, -- [11]
-			"Player-9-09D60980", -- [12]
+			3372, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322104,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418786,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"brb 2 seconds", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Toshaman interrupted |cff71d5ff|Hspell:260699:0|h[Soul Bolt]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2222, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			3373, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551322106,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418787,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"that's our guild now", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted Sister Malady's |cff71d5ff|Hspell:260700:0|h[Ruinous Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2223, -- [11]
-			"Player-9-09D60980", -- [12]
+			3374, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322107,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418789,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"1", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Interrupted Sister Solena's |cff71d5ff|Hspell:260698:0|h[Soul Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2224, -- [11]
-			"Player-9-0B081794", -- [12]
+			3378, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322110,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418804,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"i know", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2225, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551322110,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"but like we'll prob kill grong", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2227, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551322122,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
-		{
-			"i do as well", -- [1]
-			"Blueflame-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Blueflame-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2231, -- [11]
-			"Player-9-0AF42949", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBlueflame|r",
-			[51] = 1551322166,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
-		{
-			"uhm", -- [1]
+			"Toshaman interrupted |cff71d5ff|Hspell:260701:0|h[Bramble Bolt]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2232, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322171,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
-		{
-			"10% ?", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2233, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322181,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
-		{
-			"back", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2234, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551322181,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
-		{
-			"people gonna die to multisided", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2236, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322203,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
-		{
-			"a lot", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2237, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322205,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
-		{
-			"Gordie can we get another corgi?", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2242, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3380, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551322225,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418806,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"Interrupted Sister Solena's |cff71d5ff|Hspell:260698:0|h[Soul Bolt]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3383, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mahle|r",
+			[51] = 1551418822,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"Unstable Runic Mark on Heavens", -- [1]
+			"Heavens-WyrmrestAccord", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Heavens-WyrmrestAccord", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3388, -- [11]
+			"Player-1171-06EE758C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHeavens-WyrmrestAccord|r",
+			[51] = 1551418835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [58]
+		{
+			"Unstable Runic Mark on Mahle", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3389, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Mahle|r",
+			[51] = 1551418835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"Unstable Runic Mark on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3390, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"Unstable Runic Mark on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3391, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Unstable Runic Mark on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3392, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418835,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3393, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418838,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3394, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418838,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"lol", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2243, -- [11]
-			"Player-9-09D60980", -- [12]
+			3395, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322230,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"i'm ready", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2244, -- [11]
-			"Player-9-09D60980", -- [12]
+			3396, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322237,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418839,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"tsnjdehgjsdfg", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2262, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3397, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551322308,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418840,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"lock rocks?", -- [1]
-			"Blueflame-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Blueflame-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2263, -- [11]
-			"Player-9-0AF42949", -- [12]
+			3398, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBlueflame|r",
-			[51] = 1551322309,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418840,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"THis is the first week im not using", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:260697:0|h[Bramble Bolt]|h|r on Sister Briar", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2264, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3402, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551322312,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418849,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"THE FOGBREAKER", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Interrupted Runic Disciple's |cff71d5ff|Hspell:264396:0|h[Spectral Talisman]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2265, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3407, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551322314,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418876,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"fuck", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Taunted Enthralled Guard!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2266, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			3408, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551322315,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418879,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"|cffa335ee|Hitem:165033::::::::120:266::25:4:5252:5142:1487:4786:::|h[Sinister Gladiator's Shield Wall]|h|r", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Toshaman interrupted |cff71d5ff|Hspell:278504:0|h[Ascension Ritual]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2267, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3409, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551322325,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551418883,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"big btw", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Taunted Coven Diviner!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2268, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3410, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551322327,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418905,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"it looks big", -- [1]
-			"Moonblight-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:267824:0|h[Scar Soul]|h|r on Soul Essence", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Moonblight-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2269, -- [11]
-			"Player-9-0B1322AE", -- [12]
+			3412, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aMoonblight|r",
-			[51] = 1551322336,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418913,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"3", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Coven Diviner!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2304, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3413, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322545,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418917,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [75]
 		{
-			"2", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2307, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3416, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322545,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418945,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"3", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2326, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3417, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322586,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418946,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"2", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2327, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3418, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322587,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418947,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"1", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:265876:0|h[Ruinous Volley]|h|r on Matron Alma", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2328, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3419, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322588,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418950,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [79]
 		{
-			"3", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r on Tormented Soul", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2331, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3421, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322609,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551418977,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"3", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Tormented Soul!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2332, -- [11]
-			"Player-9-0B081794", -- [12]
+			3422, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322609,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551418981,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"2", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Bewitched Captain!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2334, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3424, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322610,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419012,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"Avalanche on Goredamm", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r on Bewitched Captain", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Goredamm-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2340, -- [11]
-			"Player-9-0B53C813", -- [12]
+			3425, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGoredamm|r",
-			[51] = 1551322629,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419013,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"Broadside (3{rt3}) on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Enthralled Guard!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2344, -- [11]
-			"Player-9-0B58277D", -- [12]
+			3426, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322639,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419020,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"3", -- [1]
+			"Toshaman interrupted |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1882,7 +1882,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2351, -- [11]
+			3428, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1890,33 +1890,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322642,
+			[51] = 1551419027,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"2", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r on Bewitched Captain", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2354, -- [11]
-			"Player-9-0B58277D", -- [12]
+			3429, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322643,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419039,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"1", -- [1]
+			"Toshaman interrupted |cff71d5ff|Hspell:260699:0|h[Soul Bolt]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1926,7 +1926,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2358, -- [11]
+			3430, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1934,888 +1934,888 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551322644,
+			[51] = 1551419062,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Yellowy gripped Navaria", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Coven Diviner!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2372, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3431, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551322675,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419063,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted Coven Diviner's |cff71d5ff|Hspell:260699:0|h[Soul Bolt]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2377, -- [11]
-			"Player-9-09D60980", -- [12]
+			3432, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322713,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419069,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
+			"Taunted Soul Essence!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2379, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			3433, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551322720,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419075,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Taunted Marked Sister!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2381, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3435, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551322729,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419087,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"Broadside (2{rt2}) on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:263959:0|h[Soul Volley]|h|r on Heartsbane Soulcharmer", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2401, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3436, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322834,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419094,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"3", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Heartsbane Soulcharmer!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2405, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3437, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322837,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419096,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"3", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Toshaman interrupted |cff71d5ff|Hspell:264024:0|h[Soul Bolt]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2406, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			3439, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551322837,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419102,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"3", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Soul Essence!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2407, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			3440, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551322837,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"2", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Lord Waycrest!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2408, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3446, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322838,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419144,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"2", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2409, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			3450, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551322838,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419146,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
 			"2", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2410, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			3451, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551322838,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419147,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
 			"1", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"Sherbie-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2411, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3452, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322839,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419148,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"1", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Virulent Pathogen on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2412, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			3454, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551322839,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419159,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [100]
 		{
-			"1", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2413, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			3455, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551322839,
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419161,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0A7EC3E5:1:2:27:19:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
-			"Nv-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Nv-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2419, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			3457, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1551322870,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419162,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13322:Player-9-0A7EC3E5:1:2:27:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r!", -- [1]
-			"Nv-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Nv-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2420, -- [11]
-			"Player-9-0A7EC3E5", -- [12]
+			3458, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNv|r",
-			[51] = 1551322870,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419163,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0B53C813:1:2:27:19:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Virulent Pathogen on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Goredamm-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2421, -- [11]
-			"Player-9-0B53C813", -- [12]
+			3461, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGoredamm|r",
-			[51] = 1551322870,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419176,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13322:Player-9-0B53C813:1:2:27:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r!", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Goredamm-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2422, -- [11]
-			"Player-9-0B53C813", -- [12]
+			3462, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGoredamm|r",
-			[51] = 1551322870,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419178,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [105]
 		{
-			"typical shadow priests", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2429, -- [11]
-			"Player-9-09D60980", -- [12]
+			3463, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322873,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419179,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [106]
 		{
-			"i got speared", -- [1]
-			"Navaria-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Navaria-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2431, -- [11]
-			"Player-9-0B4F7BDA", -- [12]
+			3464, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffNavaria|r",
-			[51] = 1551322880,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff0070ddToshaman|r",
+			[51] = 1551419180,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"Mass Resurrection!", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Taunted Lady Waycrest!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2437, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3469, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551322883,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419197,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [108]
 		{
-			"brb phone call", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r on Lady Waycrest", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2442, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			3470, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551322888,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419198,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [109]
 		{
-			"JESSS PLS", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Virulent Pathogen", -- [1]
+			"Heavens-WyrmrestAccord", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Heavens-WyrmrestAccord", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2446, -- [11]
-			"Player-9-09D60980", -- [12]
+			3473, -- [11]
+			"Player-1171-06EE758C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322898,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaHeavens-WyrmrestAccord|r",
+			[51] = 1551419211,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"ONE TIME", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r on Lady Waycrest", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2447, -- [11]
-			"Player-9-09D60980", -- [12]
+			3477, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322899,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419234,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [111]
 		{
-			"You want |cffa335ee|Hitem:165831::::::::120:254::5:4:4823:1522:4786:5416:::|h[Flag Officer's Overcoat]|h|r ?", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Interrupted Lady Waycrest's |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2449, -- [11]
-			"Player-9-0B081794", -- [12]
+			3478, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322918,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419243,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [112]
 		{
-			"yeah", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Taunted Gorak Tul!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2450, -- [11]
-			"Player-9-0B081794", -- [12]
+			3492, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322928,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419307,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [113]
 		{
-			"I would", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r on Gorak Tul", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2451, -- [11]
-			"Player-9-0B081794", -- [12]
+			3493, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322931,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419308,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [114]
 		{
-			"NOOOOOOOOOO", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted Gorak Tul's |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2452, -- [11]
-			"Player-9-09D60980", -- [12]
+			3495, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322936,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419325,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [115]
 		{
-			"AP", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r on Gorak Tul", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2455, -- [11]
-			"Player-9-09D60980", -- [12]
+			3497, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322937,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419339,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [116]
 		{
-			"thanks!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Taunted Deathtouched Slaver!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2456, -- [11]
-			"Player-9-0B081794", -- [12]
+			3499, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322940,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419348,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [117]
 		{
-			"np", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Taunted Deathtouched Slaver!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2457, -- [11]
-			"Player-9-0B081794", -- [12]
+			3503, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551322942,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419366,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [118]
 		{
-			"oh well next week c:", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r on Gorak Tul", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2459, -- [11]
-			"Player-9-09D60980", -- [12]
+			3504, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322957,
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419368,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [119]
 		{
-			"how about normal", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Taunted Deathtouched Slaver!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2462, -- [11]
-			"Player-9-0A76F241", -- [12]
+			3507, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551322962,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419383,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"i have 415", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Interrupted Gorak Tul's |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2463, -- [11]
-			"Player-9-09D60980", -- [12]
+			3509, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffFriendly|r",
-			[51] = 1551322968,
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419393,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"|cffa335ee|Hitem:165822::::::::120:270::5:4:4823:1522:4786:5417:::|h[Cowl of Tideborne Omens]|h|r", -- [1]
-			"Drift-Kil'jaeden", -- [2]
+			"Taunted Gloom Horror!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"AFK", -- [6]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2467, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			3514, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Drift|r",
-			[51] = 1551322979,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419425,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"|cffffffff|Hitem:162518::::::::120:266::::::|h[Mystical Flask]|h|r", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Taunted Gloom Horror!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2468, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3519, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551322985,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff96Sherbie|r",
+			[51] = 1551419440,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"100g", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"|cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2469, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			3526, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551322986,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419485,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"sold", -- [1]
-			"Merkyah-Kil'jaeden", -- [2]
+			"|cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2470, -- [11]
-			"Player-9-09C29B10", -- [12]
+			3528, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Merkyah|r",
-			[51] = 1551322993,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419487,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"Dropping a cauldron for 3k, 100g per flask ;P", -- [1]
-			"Blueflame-Kil'jaeden", -- [2]
+			"m10", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2476, -- [11]
-			"Player-9-0AF42949", -- [12]
+			3543, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBlueflame|r",
-			[51] = 1551323016,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419801,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13301:Player-9-0B1322AE:1:2:27:19:4294967295:4294967295:4294967295:4294967295|h[Under Cover of Darkness]|h|r!", -- [1]
-			"Moonblight-Kil'jaeden", -- [2]
+			"erm", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Moonblight-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2536, -- [11]
-			"Player-9-0B1322AE", -- [12]
+			3544, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aMoonblight|r",
-			[51] = 1551323800,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551419803,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

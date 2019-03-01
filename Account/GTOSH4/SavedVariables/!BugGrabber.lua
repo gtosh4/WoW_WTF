@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 519,
+	["session"] = 523,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\gui.lua:199: attempt to concatenate local 'icon' (a nil value)",
@@ -11,33 +11,92 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [1]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:Hide()'.",
-			["time"] = "2019/02/25 21:30:06",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Hide'\nInterface\\AddOns\\MythicPlusTimer\\CMTimer.lua:423: in function `Draw'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:188: in function `?'\n...erface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0-17.lua:55: in function <...erface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:50>",
-			["session"] = 511,
-			["counter"] = 4,
-		}, -- [2]
-		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
 			["time"] = "2019/02/27 21:23:14",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
 			["session"] = 516,
 			["counter"] = 5,
+		}, -- [2]
+		{
+			["message"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:612: AceGUI30Button4:SetPoint(): trying to anchor to itself",
+			["time"] = "2019/02/28 21:43:51",
+			["stack"] = "[C]: in function `SetPoint'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:612: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:600>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:407: in function `PerformLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:412: in function `DoLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:433: in function `AddChild'\nInterface\\AddOns\\ToshAssignments\\gui.lua:102: in function <Interface\\AddOns\\ToshAssignments\\gui.lua:38>\nInterface\\AddOns\\ToshAssignments\\gui.lua:604: in function `ShowAssignment'\nInterface\\AddOns\\ToshAssignments\\config.lua:92: in function <Interface\\AddOns\\ToshAssignments\\config.lua:91>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ssic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Button.lua:22: in function <...ssic\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>",
+			["session"] = 521,
+			["counter"] = 4,
 		}, -- [3]
 		{
-			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
-			["session"] = 519,
-			["time"] = "2019/02/25 12:11:07",
-			["counter"] = 120,
+			["message"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:178: attempt to index local 'widget' (a nil value)",
+			["time"] = "2019/02/28 21:43:56",
+			["stack"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:178: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\nInterface\\AddOns\\ToshAssignments\\gui.lua:586: in function <Interface\\AddOns\\ToshAssignments\\gui.lua:585>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:33: in function <...ic\\Libs\\AceGUI-3.0\\widgets\\AceGUIContainer-Frame.lua:32>\n[C]: in function `Hide'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:128: in function `Hide'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:25: in function <...ic\\Libs\\AceGUI-3.0\\widgets\\AceGUIContainer-Frame.lua:23>",
+			["session"] = 521,
+			["counter"] = 2,
 		}, -- [4]
+		{
+			["message"] = "Interface\\AddOns\\WeakAuras\\Transmission.lua:1207: attempt to get length of field 'controlledChildren' (a nil value)",
+			["time"] = "2019/02/28 22:58:08",
+			["locals"] = "data = <table> {\n controlledChildren = <table> {\n }\n borderBackdrop = \"Blizzard Tooltip\"\n authorOptions = <table> {\n }\n yOffset = -28.444214\n anchorPoint = \"CENTER\"\n borderColor = <table> {\n }\n url = \"https://wago.io/y7HX7-ube/9\"\n actions = <table> {\n }\n triggers = <table> {\n }\n internalVersion = 11\n animation = <table> {\n }\n desc = \"http://twitch.tv/Shozerty & My YouTube Channel: https://www.youtube.com/channel/UCFsh6dSgPxbc2RdvERuFWhA\"\n version = 9\n load = <table> {\n }\n backdropColor = <table> {\n }\n scale = 1\n border = false\n borderEdge = \"None\"\n regionType = \"group\"\n borderSize = 16\n expanded = true\n borderOffset = 5\n semver = \"1.0.9\"\n id = \"T23 - Battle for Dazar'alor Text\"\n frameStrata = 1\n anchorFrameType = \"SCREEN\"\n borderInset = 11\n xOffset = -0.000366\n config = <table> {\n }\n conditions = <table> {\n }\n selfPoint = \"BOTTOMLEFT\"\n uid = \"3Iat6HBdR7K\"\n}\nchildren = <table> {\n 1 = <table> {\n }\n 2 = <table> {\n }\n 3 = <table> {\n }\n 4 = <table> {\n }\n 5 = <table> {\n }\n 6 = <table> {\n }\n 7 = <table> {\n }\n 8 = <table> {\n }\n 9 = <table> {\n }\n 10 = <table> {\n }\n 11 = <table> {\n }\n 12 = <table> {\n }\n 13 = <table> {\n }\n 14 = <table> {\n }\n 15 = <table> {\n }\n 16 = <table> {\n }\n 17 = <table> {\n }\n 18 = <table> {\n }\n 19 = <table> {\n }\n 20 = <table> {\n }\n 21 = <table> {\n }\n 22 = <table> {\n }\n 23 = <table> {\n }\n 24 = <table> {\n }\n 25 = <table> {\n }\n 26 = <table> {\n }\n 27 = <table> {\n }\n 28 = <table> {\n }\n 29 = <table> {\n }\n 30 = <table> {\n }\n 31 = <table> {\n }\n 32 = <table> {\n }\n 33 = <table> {\n }\n 34 = <table> {\n }\n 35 = <table> {\n }\n 36 = <table> {\n }\n 37 = <table> {\n }\n 38 = <table> {\n }\n 39 = <table> {\n }\n 40 = <table> {\n }\n 41 = <table> {\n }\n 42 = <table> {\n }\n 43 = <table> {\n }\n 44 = <table> {\n }\n 45 = <table> {\n }\n 46 = <table> {\n }\n 47 = <table> {\n }\n 48 = <table> {\n }\n 49 = <table> {\n }\n 50 = <table> {\n }\n 51 = <table> {\n }\n 52 = <table> {\n }\n 53 = <table> {\n }\n 54 = <table> {\n }\n 55 = <table> {\n }\n 56 = <table> {\n }\n 57 = <table> {\n }\n 58 = <table> {\n }\n 59 = <table> {\n }\n 60 = <table> {\n }\n 61 = <table> {\n }\n}\ntarget = <table> {\n user_y = 0\n user_x = 0\n authorOptions = <table> {\n }\n adjustedMax = 5\n yOffset = -36.653534\n anchorPoint = \"CENTER\"\n sameTexture = true\n url = \"https://wago.io/y7HX7-ube/2\"\n backgroundColor = <table> {\n }\n selfPoint = \"CENTER\"\n desaturate = false\n rotation = 0\n font = \"000 PFSquareSansPro-Medium\"\n crop_y = 0.410000\n textureWrapMode = \"CLAMP\"\n foregroundTexture = \"Interface\\AddOns\\WeakAuras\\Media\\Textures\\Circle_White\"\n useAdjustededMin = false\n regionType = \"progresstexture\"\n blendMode = \"BLEND\"\n slantMode = \"INSIDE\"\n texture = \"Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura94\"\n compress = false\n alpha = 1\n config = <table> {\n }\n fixedWidth = 200\n backgroundOffset = 2\n outline = \"OUTLINE\"\n color = <table> {\n }\n customText = \"--[[\n\n    examples:\n\n    valid range check numbers: 5, 6, 7, 8, 10, 15, 20, 25, 30, 35, 38, 40, 45, 50, 60, 70, 80, 100\n\n    ----- count amount of enemy targets in range 10 -----\n    function()\n        return aura_env.inRange(10, true)\n    end\n    ------------------------------------------------------\n    \n    ---------------- show range to unit ------------------\n    function()\n        return aura_env.RangeCheck(\"target\")\n    end\n    ------------------------------------------------------\n\n\n    ------------ show if unit is in range 10 -------------\n    function()\n        return aura_env.RangeCheck(\"target\", 10)\n    end\n    ------------------------------------------------------\n\n\n    ---- show units in range 10 without aura on them  ----\n    function()\n        return aura_env.InRangeNames(10, 3714, true)\n    end\n    ------------------------------------------------------\n\n]]--\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\"\n desaturateBackground = false\n customTextUpdate = \"update\"\n automaticWidth = \"Auto\"\n desaturateForeground = false\n triggers = <table> {\n }\n endAngle = 360\n internalVersion = 11\n animation = <table> {\n }\n stickyDuration = false\n discrete_rotation = 0\n version = 2\n height = 90\n rotate = false\n useAdjustededMax = true\n fontSize = 72\n mirror = fa",
+			["stack"] = "Interface\\AddOns\\WeakAuras\\Transmission.lua:1207: in function `MatchInfo'\nInterface\\AddOns\\WeakAuras\\Transmission.lua:1727: in function `Import'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:759: in function <...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:756>",
+			["session"] = 521,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:606: attempt to index local 'child' (a nil value)",
+			["time"] = "2019/02/28 21:43:55",
+			["stack"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:606: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:600>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:407: in function `PerformLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:412: in function `DoLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:433: in function `AddChild'\nInterface\\AddOns\\ToshAssignments\\gui.lua:53: in function <Interface\\AddOns\\ToshAssignments\\gui.lua:38>\nInterface\\AddOns\\ToshAssignments\\gui.lua:604: in function `ShowAssignment'\nInterface\\AddOns\\ToshAssignments\\config.lua:92: in function <Interface\\AddOns\\ToshAssignments\\config.lua:91>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ssic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Button.lua:22: in function <...ssic\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>",
+			["session"] = 521,
+			["counter"] = 15,
+		}, -- [6]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
+			["time"] = "2019/02/28 23:54:13",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:564: in function `AchievementFrame_LoadUI'\nInterface\\FrameXML\\AlertFrames.lua:454: in function <Interface\\FrameXML\\AlertFrames.lua:445>",
+			["session"] = 522,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
+			["time"] = "2019/02/28 23:54:13",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:564: in function `AchievementFrame_LoadUI'\nInterface\\FrameXML\\AlertFrames.lua:454: in function <Interface\\FrameXML\\AlertFrames.lua:445>",
+			["session"] = 522,
+			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
+			["session"] = 523,
+			["time"] = "2019/02/25 12:11:07",
+			["counter"] = 140,
+		}, -- [9]
 		{
 			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
 			["time"] = "2019/02/25 12:38:32",
 			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
-			["session"] = 519,
-			["counter"] = 20,
-		}, -- [5]
+			["session"] = 523,
+			["counter"] = 24,
+		}, -- [10]
+		{
+			["message"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:612: AceGUI30Button10:SetPoint(): trying to anchor to itself",
+			["time"] = "2019/03/01 00:08:14",
+			["stack"] = "[C]: in function `SetPoint'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:612: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:600>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:407: in function `PerformLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:412: in function `DoLayout'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:433: in function `AddChild'\nInterface\\AddOns\\ToshAssignments\\gui.lua:102: in function <Interface\\AddOns\\ToshAssignments\\gui.lua:38>\nInterface\\AddOns\\ToshAssignments\\gui.lua:604: in function `ShowAssignment'\nInterface\\AddOns\\ToshAssignments\\config.lua:92: in function <Interface\\AddOns\\ToshAssignments\\config.lua:91>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ssic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Button.lua:22: in function <...ssic\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>",
+			["session"] = 523,
+			["counter"] = 4,
+		}, -- [11]
+		{
+			["message"] = "...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:207: Attempt to Release Widget that is already released",
+			["time"] = "2019/02/28 21:43:53",
+			["stack"] = "[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:125: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:120>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:207: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:449: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:446>\n...\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:180: in function `Release'\nInterface\\AddOns\\ToshAssignments\\gui.lua:586: in function <Interface\\AddOns\\ToshAssignments\\gui.lua:585>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:33: in function <...ic\\Libs\\AceGUI-3.0\\widgets\\AceGUIContainer-Frame.lua:32>\n[C]: in function `Hide'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:128: in function `Hide'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIContainer-Frame.lua:25: in function <...ic\\Libs\\AceGUI-3.0\\widgets\\AceGUIContainer-Frame.lua:23>",
+			["session"] = 523,
+			["counter"] = 2,
+		}, -- [12]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:Hide()'.",
+			["time"] = "2019/02/25 21:30:06",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Hide'\nInterface\\AddOns\\MythicPlusTimer\\CMTimer.lua:423: in function `Draw'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:188: in function `?'\n...erface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0-17.lua:55: in function <...erface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:50>",
+			["session"] = 523,
+			["counter"] = 5,
+		}, -- [13]
 	},
 }
