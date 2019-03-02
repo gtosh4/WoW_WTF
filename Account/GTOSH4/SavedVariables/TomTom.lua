@@ -37,9 +37,6 @@ TomTomWaypointsM = {
 					862, -- [1]
 					0.588973641395569, -- [2]
 					0.590280652046204, -- [3]
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Herding Children",
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
@@ -57,8 +54,13 @@ TomTomWaypointsM = {
 							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
-					["crazy"] = true,
 					["persistent"] = true,
+					["desc"] = "Herding Children",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Herding Children",
+					["crazy"] = true,
+					["minimap"] = true,
 					["world"] = true,
 				},
 			},
@@ -73,9 +75,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,

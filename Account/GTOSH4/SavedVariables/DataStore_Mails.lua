@@ -10,33 +10,33 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1551230717,
+				["lastUpdate"] = 1551488108,
 				["Mails"] = {
 					{
-						["returned"] = true,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Tosh",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1551230717,
-						["count"] = 5,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 23.1540393829346,
+						["count"] = 5,
+						["lastCheck"] = 1551488108,
+						["daysLeft"] = 20.174976348877,
 					}, -- [1]
 					{
-						["returned"] = true,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Tosh",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1551230717,
-						["count"] = 5,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 23.1540508270264,
+						["count"] = 5,
+						["lastCheck"] = 1551488108,
+						["daysLeft"] = 20.1749877929688,
 					}, -- [2]
 				},
-				["lastVisitDate"] = "2019/02/26 20:25",
+				["lastVisitDate"] = "2019/03/01 19:55",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1551419776,
+				["lastUpdate"] = 1551509614,
 				["Mails"] = {
 					{
 						["returned"] = false,
@@ -44,12 +44,12 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1551419776,
+						["lastCheck"] = 1551509614,
 						["icon"] = 1509634,
-						["daysLeft"] = 24.8003234863281,
+						["daysLeft"] = 23.7605094909668,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/03/01 00:56",
+				["lastVisitDate"] = "2019/03/02 01:53",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1551406614,
