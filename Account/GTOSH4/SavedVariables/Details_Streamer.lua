@@ -24,7 +24,7 @@ Details_StreamerDB = {
 			},
 			["main_frame_size"] = {
 				412.000030517578, -- [1]
-				158.978759765625, -- [2]
+				158, -- [2]
 			},
 			["minimap"] = {
 				["minimapPos"] = 160,
@@ -33,31 +33,26 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "ElvUI Norm",
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "BOTTOMLEFT",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = true,
+			["author"] = "Details! Team",
 			["enabled"] = true,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.850000008940697, -- [4]
-			},
-			["row_spacement"] = 21,
+			["y"] = 200.028366088867,
+			["row_spacement"] = 28,
 			["main_frame_color"] = {
 				0, -- [1]
 				0, -- [2]
 				0, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.850000008940697, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 200.028366088867,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -65,13 +60,18 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 0.000274658203125,
 				["x"] = 0.000244140625,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["author"] = "Details! Team",
-			["main_frame_locked"] = true,
-			["arrow_anchor_y"] = 0,
+			["font_size"] = 14,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
+			["point"] = "BOTTOMLEFT",
+			["row_height"] = 28,
+			["scale"] = 1,
 		},
 	},
 }

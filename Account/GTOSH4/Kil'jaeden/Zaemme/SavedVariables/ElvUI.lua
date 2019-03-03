@@ -12,6 +12,7 @@ ElvCharacterDB = {
 		"/alto show", -- [9]
 		"they're 700 rn", -- [10]
 		"ez", -- [11]
+		"/camp", -- [12]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -960,5 +961,27 @@ ElvCharacterDB = {
 			[51] = 1551332300,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
+		{
+			"|Kv183|k", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13560, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPluie|r",
+			[51] = 1551595265,
+			[50] = "CHAT_MSG_OFFICER",
+		}, -- [44]
 	},
 }

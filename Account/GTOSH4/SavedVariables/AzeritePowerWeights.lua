@@ -39,8 +39,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["debug"] = false,
 				["professionPowers"] = false,
+				["debug"] = false,
 			},
 			["Zaemme"] = {
 				["specScales"] = {
@@ -72,8 +72,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
 				["debug"] = false,
+				["professionPowers"] = false,
 			},
 			["Tosh"] = {
 				["specScales"] = {
@@ -105,8 +105,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["debug"] = false,
 				["professionPowers"] = false,
+				["debug"] = false,
 			},
 			["Yuumi"] = {
 				["specScales"] = {
@@ -138,8 +138,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
 				["debug"] = false,
+				["professionPowers"] = false,
 			},
 			["Toshaman"] = {
 				["specScales"] = {
@@ -171,8 +171,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["debug"] = false,
 				["professionPowers"] = false,
+				["debug"] = false,
 			},
 		},
 	},
