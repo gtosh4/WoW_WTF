@@ -23,10 +23,11 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|366347301"] = "203135|1551594864|0|1",
-					["Battle of Dazar'alor Mythic|366428542"] = "203135|1551594864|0|1",
+					["Battle of Dazar'alor Heroic|366347301"] = "110016|1551687982|0|1",
+					["Battle of Dazar'alor Mythic|366428542"] = "110016|1551687982|0|1",
+					["Battle of Dazar'alor Looking For Raid|312282477"] = "110016|1551687982|0|1",
 				},
-				["lastUpdate"] = 1551595149,
+				["lastUpdate"] = 1551689546,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1551488029,
@@ -35,11 +36,9 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Orcbum"] = {
 						["note"] = "",
-						["class"] = "Warrior",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1551595276,
+				["lastUpdate"] = 1551646780,
 			},
 			["Default.Kil'jaeden.Yuumi"] = {
 				["lastUpdate"] = 1551491479,

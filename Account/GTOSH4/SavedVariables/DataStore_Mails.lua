@@ -26,15 +26,15 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/02/26 11:59",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1551595191,
-				["lastVisitDate"] = "2019/03/03 01:39",
+				["lastUpdate"] = 1551646737,
+				["lastVisitDate"] = "2019/03/03 15:58",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1551406614,
 				["lastVisitDate"] = "2019/02/28 21:16",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1551595160,
+				["lastUpdate"] = 1551673448,
 				["Mails"] = {
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -43,11 +43,11 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1551595160,
-						["daysLeft"] = 22.7704162597656,
+						["lastCheck"] = 1551673448,
+						["daysLeft"] = 21.8649425506592,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/03/03 01:39",
+				["lastVisitDate"] = "2019/03/03 23:24",
 			},
 			["Default.Kil'jaeden.Yuumi"] = {
 				["lastUpdate"] = 1551488108,

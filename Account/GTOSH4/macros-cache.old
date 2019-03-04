@@ -64,7 +64,7 @@ VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 END
 VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
-/use [@mouseover][@target] 13
+/use [@mouseover.exists][@target] 13
 END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14

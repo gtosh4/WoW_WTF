@@ -1,1272 +1,1668 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Pluie-Kil'jaeden done", -- [1]
-		"/dn", -- [2]
-		"/o aber died in under 2s", -- [3]
-		"/o after taunting", -- [4]
-		"/cw Yellowy-Kil'jaeden hm", -- [5]
-		"/cw Yellowy-Kil'jaeden uhhh", -- [6]
-		"/cw Yellowy-Kil'jaeden y i k e s", -- [7]
-		"/p he disengaged with the bomb", -- [8]
-		"/cw Warlockmania-Kil'jaeden dunno", -- [9]
-		"/cw Warlockmania-Kil'jaeden I was shrunk so all I could see was my UI and a 2 ft x 2 ft box around my toon", -- [10]
-		"/cw Warlockmania-Kil'jaeden nope", -- [11]
-		"/cw Warlockmania-Kil'jaeden just saw it on the frames", -- [12]
-		"/cw Yellowy-Kil'jaeden we have tranq and rev", -- [13]
-		"/cw Yellowy-Kil'jaeden and then my tide on that crashdown at the end", -- [14]
-		"/o it's been a while since daiyzed got hit", -- [15]
-		"/o on the plus side", -- [16]
-		"/cw Daiyzed hey, I know these pulls haven't been great, but I noticed you're much better on the busters, nice work", -- [17]
-		"/cw Daiyzed-Kil'jaeden it's all good man", -- [18]
-		"/o is there an officer meeting?", -- [19]
-		"/o uploading now", -- [20]
+		" we can play", -- [1]
+		"yo", -- [2]
+		"we can play", -- [3]
+		"after jess goes to bed", -- [4]
+		"/wa", -- [5]
+		"/p corey's key", -- [6]
+		" skittish this week so be careful", -- [7]
+		" idk", -- [8]
+		"/p |cffa335ee|Hitem:165679::::::::120:264::28:4:4803:41:1577:4786:::|h[Ornate Elun'dris Ring]|h|r", -- [9]
+		" just for int", -- [10]
+		" kk", -- [11]
+		"skittish this week so be careful", -- [12]
+		"just for int", -- [13]
+		"idk", -- [14]
+		"kk", -- [15]
+		"/ta", -- [16]
+		" lol", -- [17]
+		" just getting top 50 in battlerite", -- [18]
+		" then sleep time", -- [19]
+		" we're at 59, so we're close", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13338, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			505, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594713,
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551675817,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Pummeled Lady Waycrest's |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13339, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			507, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594713,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551675817,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13340, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			508, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594713,
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551675818,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13344, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			509, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594714,
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551675819,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Yellowy gripped Moonblight", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Pummeled Lady Waycrest's |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13345, -- [11]
-			"Player-9-0A76F241", -- [12]
+			511, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551675834,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r on Lady Waycrest", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13346, -- [11]
-			"Player-9-0B081794", -- [12]
+			512, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551675842,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13347, -- [11]
-			"Player-9-0B390464", -- [12]
+			517, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551675871,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13348, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			519, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551675871,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12825:Player-9-0B55AB44:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Atal'Dazar]|h|r!", -- [1]
+			"Knos-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Knos-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13349, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			521, -- [11]
+			"Player-9-0B55AB44", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dKnos|r",
+			[51] = 1551675878,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [9]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12824:Player-9-0B55AB44:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Atal'Dazar]|h|r!", -- [1]
+			"Knos-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Knos-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13350, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			522, -- [11]
+			"Player-9-0B55AB44", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594714,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dKnos|r",
+			[51] = 1551675878,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [10]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Deathtouched Slaver!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13351, -- [11]
-			"Player-9-0B390464", -- [12]
+			527, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551675907,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Gorak Tul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13352, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			539, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676012,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12484:Player-9-0AC53AA5:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Waycrest Manor]|h|r!", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13353, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			542, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551676034,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [13]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12488:Player-9-0AC53AA5:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Waycrest Manor]|h|r!", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13354, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			543, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551676034,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [14]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Gloom Horror!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13355, -- [11]
-			"Player-9-0B081794", -- [12]
+			549, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676053,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13357, -- [11]
-			"Player-9-0B390464", -- [12]
+			554, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594717,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"1. Nooks 185.8k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13358, -- [11]
-			"Player-9-0B081794", -- [12]
+			555, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594717,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [17]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"2. Wraithbrand 228.3k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13359, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			556, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594717,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"3. Blueflame 266.8k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13360, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			557, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594717,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"4. Pride 294.4k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13361, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			558, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594717,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"5. Toshaman 396.4k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13363, -- [11]
-			"Player-9-0B390464", -- [12]
+			559, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676080,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cffa335ee|Hkeystone:158923:251:13:9:11:2:117|h[Keystone: The Underrot (13)]|h|r", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13364, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			562, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551676101,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"tidal wee", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13365, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			563, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithbrand|r",
+			[51] = 1551676107,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"child is hungry", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13366, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
+			569, -- [11]
+			false, -- [12]
+			24, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithband|r",
+			[51] = 1551676165,
+			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [24]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"must feeeed", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13367, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
+			570, -- [11]
+			false, -- [12]
+			24, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithband|r",
+			[51] = 1551676170,
+			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [25]
 		{
-			"3", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"kk", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13368, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
+			571, -- [11]
+			false, -- [12]
+			24, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551594719,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaWraithband|r",
+			[51] = 1551676174,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 		}, -- [26]
 		{
-			"Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13370, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			577, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676297,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"2", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13371, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			580, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676387,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13372, -- [11]
-			"Player-9-0B390464", -- [12]
+			582, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676477,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13373, -- [11]
-			"Player-9-0B081794", -- [12]
+			584, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551676493,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13374, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			588, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676567,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13375, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			593, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676657,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13376, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			596, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594720,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551676736,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"1", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13377, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			597, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYukio|r",
-			[51] = 1551594721,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676747,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13379, -- [11]
-			"Player-9-0B390464", -- [12]
+			600, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676837,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13380, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			606, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551676927,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"anyone 11 siege?", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13381, -- [11]
-			"Player-9-0B081794", -- [12]
+			611, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676950,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [37]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"spoiler alert", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13382, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			612, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676956,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [38]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"it's a carry", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13383, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			613, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676958,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [39]
 		{
-			"Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"less of damage, more of mechanics", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13385, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			614, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594722,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551676965,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [40]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13386, -- [11]
-			"Player-9-0B390464", -- [12]
+			615, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594723,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551676978,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [41]
 		{
-			"Shrunk", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13387, -- [11]
-			"Player-9-0B081794", -- [12]
+			619, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594723,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551677017,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [42]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13388, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			625, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594723,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551677107,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13389, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			629, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594723,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551677197,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [44]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13390, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			630, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594723,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551677221,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13391, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			633, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594724,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551677287,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"<Hard Tacos> 6/9 H 1/9 M We are currently looking for healers(druid/monk/shaman) to fill in our mythic raid group,any exceptional dps are welcome. Raid tues/thurs/sat  6 to 9 PST.", -- [1]
+			"Mackasive-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mackasive-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13392, -- [11]
-			"Player-9-0B390464", -- [12]
+			635, -- [11]
+			"Player-9-0B4E87F5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594725,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffc69b6dMackasive|r",
+			[51] = 1551677325,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS]Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Gplayfdgd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Gplayfdgd-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13393, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			638, -- [11]
+			"Player-9-0B594D34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594725,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffaad372Gplayfdgd|r",
+			[51] = 1551677377,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13394, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			640, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594725,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551677463,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13395, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			656, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594725,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551677706,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13396, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			658, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594726,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551677812,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13397, -- [11]
-			"Player-9-0B390464", -- [12]
+			660, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594726,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551677949,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"Shrunk", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13398, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			674, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nawtyrogue|r",
-			[51] = 1551594726,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551678045,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"Shrunk", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
+			"<Disambiguation>  5/9M, CE Uldir, is looking for exceptional healers and DPS as we continue through BoD toward Cutting Edge. Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
+			"Alexithymìa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Alexithymìa-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13399, -- [11]
-			"Player-9-0B4D41A6", -- [12]
+			677, -- [11]
+			"Player-9-0A35DEB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594726,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff48cbaAlexithymìa|r",
+			[51] = 1551678064,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"Shrunk", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13400, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			684, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaArnbjørn|r",
-			[51] = 1551594726,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551678192,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"Taunted High Tinker Mekkatorque!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"<Unhallowed> is Recruiting. Currently 6/9H & 1/9M. Tu/W raid days (630p-9p ST). (Flasks/Feasts/Repairs Provided). All classes/roles considered. PST w/ questions if any. M+ players and casuals welcome.", -- [1]
+			"Exías-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Exías-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			685, -- [11]
+			"Player-9-0ADA185F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00ff96Exías|r",
+			[51] = 1551678197,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"<PGL>(6/9H 1/9M) is recruiting DPS and Heals and we need you to help us push further into mythic! Our raid times are M/T/W 8-10pm PST. If you're interested or have any questions please feel free to whisper.", -- [1]
+			"Petalpaw-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Petalpaw-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			686, -- [11]
+			"Player-9-073F01E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00ff96Petalpaw|r",
+			[51] = 1551678262,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			687, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551678264,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			688, -- [11]
+			"Player-9-0B5A78BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551678434,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			689, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551678438,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			690, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551678511,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682279,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0B5A78BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551682319,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682415,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682487,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12504:Player-9-0B1ACE61:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[The Temple of Sethraliss]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13401, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			14, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594728,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1551682508,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [66]
 		{
-			"Shrunk", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12505:Player-9-0B1ACE61:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Temple of Sethraliss]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13402, -- [11]
+			15, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1551682508,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [67]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12506:Player-9-0B1ACE61:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Temple of Sethraliss]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1551682508,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [68]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682528,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"hmm", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551682561,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [70]
+		{
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-9-0B5A78BD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551682562,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"interesting", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551682562,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
+		{
+			"|cffa335ee|Hitem:158367::::::::120:73::16:3:5010:1587:4784:::|h[Merektha's Fang]|h|r", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551682565,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682615,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"HMMMMMMMM", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
 			"Player-9-0B390464", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,782 +1670,364 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffff7c0aIko|r",
-			[51] = 1551594728,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13404, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594731,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13405, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594731,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
-		{
-			"Buster Cannon", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13406, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551594736,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13407, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594736,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13409, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594739,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13410, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594739,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
-		{
-			"Gigavolt Charge 1 on {rt1}Warlockmania{rt1}", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13416, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594745,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Bomb (2{rt2}) on Tehkz", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13419, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1551594745,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"Bomb (3{rt3}) on Fridaa", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13420, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1551594745,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Spark Bot!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13421, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594746,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Spark Bot ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13422, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594751,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Spark Bot ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13423, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594751,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
-		{
-			"{rt1}3", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13424, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594757,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"{rt1}2", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13425, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594758,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"{rt1}1", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13426, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594759,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"Taunted High Tinker Mekkatorque!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13427, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594760,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Taunted High Tinker Mekkatorque!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13428, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594760,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
-		{
-			"Miscalculated Teleport on Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13430, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594764,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1551682636,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [75]
 		{
-			"Miscalculated Teleport on Knoss", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"better have Last Stand up before you use it", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13431, -- [11]
-			"Player-9-0B24697B", -- [12]
+			25, -- [11]
+			"Player-9-0B390464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Knoss|r",
-			[51] = 1551594764,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1551682641,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [76]
 		{
-			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"or Shield Block", -- [1]
+			"Iko-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13436, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			26, -- [11]
+			"Player-9-0B390464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594771,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1551682646,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [77]
 		{
-			"|Kv166|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13437, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			27, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594771,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551682678,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"|Kv167|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
+			"Blonilis-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Blonilis-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13438, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			29, -- [11]
+			"Player-9-0B5A78BD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594774,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cff0070ddBlonilis|r",
+			[51] = 1551682804,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12826:Player-9-0B55AB44:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Atal'Dazar]|h|r!", -- [1]
+			"Knos-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Knos-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13439, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			30, -- [11]
+			"Player-9-0B55AB44", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594776,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dKnos|r",
+			[51] = 1551682815,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [80]
 		{
-			"|Kv168|k", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
+			"WTS |cffa335ee|Hitem:165518::::::::120:264::5:3:4799:1522:4786:::|h[Warbeast Hide Cinch]|h|r40k", -- [1]
+			"Crondor-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Crondor-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13442, -- [11]
-			"Player-9-0ABBBD86", -- [12]
+			31, -- [11]
+			"Player-9-0B468C45", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aPluie|r",
-			[51] = 1551594777,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cff0070ddCrondor|r",
+			[51] = 1551682840,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13444, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			33, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594780,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683011,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"|Kv169|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"WTS |cff1eff00|Hitem:164561::::::::120:72::11::::|h[Firekin Amice]|h|r 35K, OBO. PST.", -- [1]
+			"Ozsricl-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Ozsricl-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13446, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			34, -- [11]
+			"Player-9-0B5AD43C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594780,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffc69b6dOzsricl|r",
+			[51] = 1551683040,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"|Kv170|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13449, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			35, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594783,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683121,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"Gigavolt Charge 1 on {rt1}Abernathii{rt1}", -- [1]
-			"Abernathii-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Abernathii-Kil'jaeden", -- [5]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13453, -- [11]
-			"Player-9-0B46FEC9", -- [12]
+			41, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAbernathii|r",
-			[51] = 1551594785,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683420,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13455, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			43, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594789,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683570,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"well I was untill that pull... sorry been playing like trash all night", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13456, -- [11]
-			"Player-9-0B363945", -- [12]
+			45, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDaiyzed|r",
-			[51] = 1551594790,
-			[50] = "CHAT_MSG_WHISPER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683787,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"|Kv171|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13459, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			47, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594795,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551683939,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"lol rip", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13463, -- [11]
-			"Player-9-0B4BF011", -- [12]
+			51, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1551594799,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551684080,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"|Kv172|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13464, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			54, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594799,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551684233,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"it's all good man", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13465, -- [11]
-			"Player-9-0B363945", -- [12]
+			55, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDaiyzed|r",
-			[51] = 1551594804,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551684344,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"yikes.", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13466, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aPluie|r",
-			[51] = 1551594808,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"thanks yall c:", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"imagine wiping on grong", -- [1]
+			"Iko-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2058,152 +2036,174 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13467, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			88, -- [11]
+			"Player-9-0B390464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594814,
+			[52] = "|cffff7c0aIko|r",
+			[51] = 1551684803,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"i cant imagine", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551684817,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [93]
 		{
-			"think you can kill it next week?", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"heroic?", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13468, -- [11]
-			"Player-9-0A76F241", -- [12]
+			90, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551594817,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1551684819,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [94]
 		{
-			"]]]]]]]]]:", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"i remember", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13469, -- [11]
-			"Player-9-0A76F241", -- [12]
+			91, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1551594820,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551684820,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [95]
 		{
-			"No birthday present for me t.t", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13470, -- [11]
-			"Player-9-0B4BF011", -- [12]
+			92, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffTehkz|r",
-			[51] = 1551594826,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551684842,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"I'm going to delete my logs and re-upload since WCL took a shit midway thru", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"LF DPS for Mythic Champion on Kil'Jaeden. Send me a nice picture of your smile for an invite", -- [1]
+			"Honeystar-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Honeystar-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13478, -- [11]
-			"Player-9-0B081794", -- [12]
+			93, -- [11]
+			"Player-9-0B31A0EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Thunderrz|r",
-			[51] = 1551594862,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aHoneystar|r",
+			[51] = 1551684912,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"|Kv173|k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13479, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			95, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594862,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551684992,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"yo who", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"LF DPS for Mythic Champion on Kil'Jaeden. Send me a nice picture of your smile for an invite", -- [1]
+			"Honeystar-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Honeystar-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13488, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			99, -- [11]
+			"Player-9-0B31A0EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594876,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aHoneystar|r",
+			[51] = 1551685095,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 		{
-			"can loan me 213k so i can get the 1m gold pet", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:278803:0|h[Great Sea Ray]|h|r", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2212,174 +2212,174 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13490, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			152, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551594886,
+			[52] = "|cfffff468Bluedagger|r",
+			[51] = 1551685200,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [100]
 		{
-			"thanks", -- [1]
-			"Sodalock-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Shrunk", -- [1]
+			"Sagarodne-Alexstrasza", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sagarodne-Alexstrasza", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13491, -- [11]
-			"Player-9-0B1EDC03", -- [12]
+			222, -- [11]
+			"Player-1070-0AC537C8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSodalock|r",
-			[51] = 1551594887,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaSagarodne-Alexstrasza|r",
+			[51] = 1551685518,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"|Kv174|k", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"get in the robots", -- [1]
+			"Aliar-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aliar-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13494, -- [11]
-			"Player-9-0B58277D", -- [12]
+			230, -- [11]
+			"Player-3678-0AD5DF72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551594927,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc69b6dAliar-Thrall|r",
+			[51] = 1551685520,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [102]
 		{
-			"|Kv175|k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"hit your colots", -- [1]
+			"Aliar-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aliar-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13495, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			246, -- [11]
+			"Player-3678-0AD5DF72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594933,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc69b6dAliar-Thrall|r",
+			[51] = 1551685541,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [103]
 		{
-			"|Kv176|k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"colors", -- [1]
+			"Aliar-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aliar-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13496, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			247, -- [11]
+			"Player-3678-0AD5DF72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551594946,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffc69b6dAliar-Thrall|r",
+			[51] = 1551685543,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [104]
 		{
-			"|Kv177|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Shrunk", -- [1]
+			"Sagarodne-Alexstrasza", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sagarodne-Alexstrasza", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13497, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			249, -- [11]
+			"Player-1070-0AC537C8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594959,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cfff48cbaSagarodne-Alexstrasza|r",
+			[51] = 1551685549,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [105]
 		{
-			"|Kv178|k", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Any none need rogue gear, please let a brotha know <3", -- [1]
+			"Márius-WyrmrestAccord", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Márius-WyrmrestAccord", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13498, -- [11]
-			"Player-9-0B58277D", -- [12]
+			339, -- [11]
+			"Player-1171-06720CD8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddToshaman|r",
-			[51] = 1551594965,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cfffff468Márius-WyrmrestAccord|r",
+			[51] = 1551685792,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [106]
 		{
-			"|Kv179|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13292:Player-9-0AC53AA5:1:3:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Champion of the Light]|h|r!", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Nooks-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13499, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			365, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594970,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551685899,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [107]
 		{
-			"|Kv180|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"|cffa335ee|Hitem:165519::::::::120:577::6:4:4824:1537:4786:5420:::|h[Cowl of Righteous Resolve]|h|r :)", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2388,20 +2388,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13501, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			373, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551594978,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551685937,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [108]
 		{
-			"CJ", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"YO", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2410,20 +2410,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13504, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			374, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551595064,
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551685943,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [109]
 		{
-			"?", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"I", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2432,20 +2432,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13505, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			375, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595069,
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551685943,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [110]
 		{
-			"Do you sstill need the gold?", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"TOLD", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2454,20 +2454,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13506, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			376, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551595070,
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551685944,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [111]
 		{
-			"yeah", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"YOU", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2476,20 +2476,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13507, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			377, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595074,
+			[52] = "|cffc69b6dPride|r",
+			[51] = 1551685945,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [112]
 		{
-			"brb", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
+			"little helmet", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2498,20 +2498,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13508, -- [11]
-			"Player-9-0B42AEF9", -- [12]
+			378, -- [11]
+			"Player-9-0B196809", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKeydepleter|r",
-			[51] = 1551595074,
+			[52] = "|cffa330c9Yunzol|r",
+			[51] = 1551685946,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [113]
 		{
-			"wheres the pet anyways", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"little BABY helmet", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2520,20 +2520,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13509, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			380, -- [11]
+			"Player-9-0B196809", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595078,
+			[52] = "|cffa330c9Yunzol|r",
+			[51] = 1551685954,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [114]
 		{
-			"|Kv181|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"man heck you", -- [1]
+			"Nooks-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2542,20 +2542,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13510, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			385, -- [11]
+			"Player-9-0AC53AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551595079,
-			[50] = "CHAT_MSG_OFFICER",
+			[52] = "|cffa330c9Nooks|r",
+			[51] = 1551685994,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [115]
 		{
-			"Alright one sec", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"whoa", -- [1]
+			"Mattea-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2564,130 +2564,130 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13511, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			396, -- [11]
+			"Player-9-07CE345F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00ff96Bailey|r",
-			[51] = 1551595080,
+			[52] = "|cffaad372Mattea|r",
+			[51] = 1551686011,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [116]
 		{
-			"i only know about cause of you bailey", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13513, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			403, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595082,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551686112,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [117]
 		{
-			"lol", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13514, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			411, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595082,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551686357,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [118]
 		{
-			"i just happen to have more gold atm than ill ever have for the near future", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13515, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			413, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595098,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551686444,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [119]
 		{
-			"oh fuck wait", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13517, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			416, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595108,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffff7c0aMooncriketio|r",
+			[51] = 1551686589,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [120]
 		{
-			"|Kv182|k", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"<Disambiguation>  5/9M, CE Uldir, is looking for exceptional healers and DPS as we continue through BoD toward Cutting Edge. Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
+			"Alexithymìa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Alexithymìa-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13518, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			424, -- [11]
+			"Player-9-0A35DEB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edCadaceus|r",
-			[51] = 1551595112,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cfff48cbaAlexithymìa|r",
+			[51] = 1551686993,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [121]
 		{
-			"its 313", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			" gotosleep", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2696,20 +2696,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13519, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
+			611, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595113,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688345,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [122]
 		{
-			"You need 313k?", -- [1]
-			"Kaji-Kil'jaeden", -- [2]
+			"lol", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2718,20 +2719,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13520, -- [11]
-			"Player-9-0AFB5DB2", -- [12]
-			0, -- [13]
+			612, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaKaji|r",
-			[51] = 1551595119,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688353,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
 		}, -- [123]
 		{
-			"for like", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			":p", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2740,20 +2742,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13521, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
+			613, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595124,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688359,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [124]
 		{
-			"2 minutes", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"just getting top 50 in battlerite", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2762,20 +2765,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13523, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
+			620, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595125,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688472,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
 		}, -- [125]
 		{
-			"to get that cute 1m pet", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"then sleep time", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2784,20 +2788,21 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13525, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
+			621, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595131,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688477,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
 		}, -- [126]
 		{
-			"so i can flex on the poor people like andrew", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"we're at 59, so we're close", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2806,16 +2811,17 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			13527, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
+			622, -- [11]
+			false, -- [12]
+			26, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edWarlockmania|r",
-			[51] = 1551595146,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "Envious",
+			[51] = 1551688486,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
 		}, -- [127]
 	},
 }
