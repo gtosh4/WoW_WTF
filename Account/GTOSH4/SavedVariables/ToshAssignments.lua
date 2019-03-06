@@ -10,19 +10,18 @@ ToshAssignmentsDB = {
 	["profiles"] = {
 		["Default"] = {
 			["encounters"] = {
-				[2325] = {
-					["Koopa"] = {
+				[2334] = {
+					["test"] = {
+						["enabled"] = true,
+						["encounterId"] = 2334,
+						["name"] = "test",
 						["assignments"] = {
 							{
-								["players"] = {
-									"Tosh", -- [1]
-								},
 								["removeOptions"] = nil --[[ skipped inline function ]],
-								["name"] = "Ramp",
+								["name"] = "Assignment 1",
 								["trigger"] = {
-									["eventNumber"] = "1,4,7,10",
 									["spell"] = {
-										["spellId"] = 282082,
+										["spellId"] = 282205,
 									},
 									["time"] = {
 									},
@@ -35,14 +34,47 @@ ToshAssignmentsDB = {
 										["marker"] = {
 										},
 										["bar"] = {
+										},
+									}, -- [1]
+								},
+								["id"] = 1,
+							}, -- [1]
+						},
+					},
+				},
+				[2325] = {
+					["Koopa"] = {
+						["assignments"] = {
+							{
+								["players"] = {
+									"Tosh", -- [1]
+								},
+								["removeOptions"] = nil --[[ skipped inline function ]],
+								["name"] = "Ramp",
+								["trigger"] = {
+									["type"] = "spell",
+									["spell"] = {
+										["spellId"] = 282082,
+									},
+									["eventNumber"] = "1,4,7,10",
+									["time"] = {
+									},
+								},
+								["actions"] = {
+									{
+										["marker"] = {
+										},
+										["type"] = "bar",
+										["id"] = 1,
+										["bar"] = {
 											["icon"] = "marker6",
 										},
 									}, -- [1]
 									{
-										["id"] = 2,
-										["type"] = "countdown",
 										["marker"] = {
 										},
+										["type"] = "countdown",
+										["id"] = 2,
 										["bar"] = {
 										},
 									}, -- [2]
@@ -87,41 +119,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",
+						["enabled"] = true,
 						["showOthers"] = false,
-						["enabled"] = true,
-					},
-				},
-				[2334] = {
-					["test"] = {
-						["enabled"] = true,
-						["encounterId"] = 2334,
-						["name"] = "test",
-						["assignments"] = {
-							{
-								["removeOptions"] = nil --[[ skipped inline function ]],
-								["name"] = "Assignment 1",
-								["trigger"] = {
-									["spell"] = {
-										["spellId"] = 282205,
-									},
-									["time"] = {
-									},
-									["type"] = "spell",
-								},
-								["actions"] = {
-									{
-										["type"] = "bar",
-										["id"] = 1,
-										["marker"] = {
-										},
-										["removeOptions"] = nil --[[ skipped inline function ]],
-										["bar"] = {
-										},
-									}, -- [1]
-								},
-								["id"] = 1,
-							}, -- [1]
-						},
 					},
 				},
 			},

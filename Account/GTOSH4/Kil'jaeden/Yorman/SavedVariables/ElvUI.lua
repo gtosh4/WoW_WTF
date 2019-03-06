@@ -1,72 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/m", -- [1]
-		"/o she's here", -- [2]
-		"/cw Jumpah-Kil'jaeden am I going back heals?", -- [3]
-		"/g hey andrew, DYN", -- [4]
-		"/g ty <3", -- [5]
-		"/alto show", -- [6]
-		"/cw Scathing |cffffff00|Hachievement:13300:Player-9-0A76FA3F:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r", -- [7]
-		"/tmw", -- [8]
-		"/g wait, but you listen to asmr :thinking:", -- [9]
-		"/g ;D", -- [10]
-		"/g shaman's neck is above druid's rn, wut", -- [11]
-		"yo", -- [12]
-		" who's this elephant guy, saw you in officer w/ him", -- [13]
-		" this tank sucks", -- [14]
-		" S keys to reset stacks", -- [15]
-		"who's this elephant guy, saw you in officer w/ him", -- [16]
-		"S keys to reset stacks", -- [17]
-		"this tank sucks", -- [18]
-		"/s ya", -- [19]
-		"/s mage food after this?", -- [20]
+		"/o she's here", -- [1]
+		"/cw Jumpah-Kil'jaeden am I going back heals?", -- [2]
+		"/g hey andrew, DYN", -- [3]
+		"/g ty <3", -- [4]
+		"/alto show", -- [5]
+		"/cw Scathing |cffffff00|Hachievement:13300:Player-9-0A76FA3F:1:2:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r", -- [6]
+		"/tmw", -- [7]
+		"/g wait, but you listen to asmr :thinking:", -- [8]
+		"/g ;D", -- [9]
+		"/g shaman's neck is above druid's rn, wut", -- [10]
+		"yo", -- [11]
+		" who's this elephant guy, saw you in officer w/ him", -- [12]
+		" this tank sucks", -- [13]
+		" S keys to reset stacks", -- [14]
+		"who's this elephant guy, saw you in officer w/ him", -- [15]
+		"S keys to reset stacks", -- [16]
+		"this tank sucks", -- [17]
+		"/s ya", -- [18]
+		"/s mage food after this?", -- [19]
+		"/ec", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Daiyzed interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDaiyzed|r",
-			[51] = 1551148992,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Rivalry interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Rivalry-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Rivalry|r",
-			[51] = 1551149003,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
 		{
 			"i thought he'd typhoon", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -88,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149024,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
+		}, -- [1]
 		{
 			"noooo000", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -110,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149026,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
+		}, -- [2]
 		{
 			"or ursol's", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -132,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149030,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
+		}, -- [3]
 		{
 			"i may have stunned tooe arly", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -154,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149042,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
+		}, -- [4]
 		{
 			"trying to do it before sanguine is a possibility", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -176,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149057,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
+		}, -- [5]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -198,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149092,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [6]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -220,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149181,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [7]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -242,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149242,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [8]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -264,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149276,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [9]
 		{
 			"g/ we're goin at a pretty good pase", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -286,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
+		}, -- [10]
 		{
 			"i think", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -308,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149278,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [11]
 		{
 			"pace", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -330,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149279,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [12]
 		{
 			"oops", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -352,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149281,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [13]
 		{
 			"<EH> Yorman-Kil'jaeden got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 94k (43%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -374,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149314,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [14]
 		{
 			"|cffa335ee|Hitem:157888::::::::120:262::28:3:4803:1582:4783:::|h[Dreadmire Handguards]|h|r hot damn", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -396,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddWurzle|r",
 			[51] = 1551149339,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
+		}, -- [15]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -418,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149351,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [16]
 		{
 			"getting actual upgrades from world quests", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -440,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddWurzle|r",
 			[51] = 1551149358,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
+		}, -- [17]
 		{
 			"<EH> Yorman-Kil'jaeden got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 94k (43%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -462,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149371,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -484,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149380,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"<EH> Daiyzed-Kil'jaeden got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 100k (45%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -506,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149433,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -528,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149435,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -550,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551149447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [22]
 		{
 			"<EH> Rivalry-Kil'jaeden got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 156k (71%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -572,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149465,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [23]
 		{
 			"ok i just lagged out", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -594,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149471,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [24]
 		{
 			"lol", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -616,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149476,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [25]
 		{
 			"was running in place for like 10 sec ", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -638,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149486,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [26]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -660,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551149492,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -682,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149510,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -704,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551149528,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [29]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -726,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551149557,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [30]
 		{
 			"<EH> Nawtyrogue-Kil'jaeden got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 175k (78%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -748,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149560,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [31]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -770,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149565,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [32]
 		{
 			"this tank sucks", -- [1]
 			"|Kq25|k", -- [2]
@@ -793,7 +749,7 @@ ElvCharacterDB = {
 			[51] = 1551149586,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [35]
+		}, -- [33]
 		{
 			"<EH> Elephanteggs got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 164k (43%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -815,7 +771,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149590,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"S keys to reset stacks", -- [1]
 			"|Kq25|k", -- [2]
@@ -838,7 +794,7 @@ ElvCharacterDB = {
 			[51] = 1551149591,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [37]
+		}, -- [35]
 		{
 			"<EH> Nawtyrogue-Kil'jaeden got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 350k (157%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -860,7 +816,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149611,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [36]
 		{
 			"<EH> Rivalry-Kil'jaeden got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 157k (71%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -882,7 +838,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551149611,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"reminds me of aber", -- [1]
 			"|Kq25|k", -- [2]
@@ -905,7 +861,7 @@ ElvCharacterDB = {
 			[51] = 1551149658,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [40]
+		}, -- [38]
 		{
 			"not use to tanking necrotic", -- [1]
 			"|Kq25|k", -- [2]
@@ -928,7 +884,7 @@ ElvCharacterDB = {
 			[51] = 1551149664,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [41]
+		}, -- [39]
 		{
 			"make sure you range the totem", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -950,7 +906,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149810,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [40]
 		{
 			"when they come out", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -972,7 +928,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149812,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [41]
 		{
 			"well there are no more ", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -994,7 +950,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149817,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [42]
 		{
 			"lol", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1016,7 +972,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKeydepleter|r",
 			[51] = 1551149817,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [43]
 		{
 			"yeahhhhhh", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -1038,7 +994,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149821,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [44]
 		{
 			"lol", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -1060,7 +1016,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Nooks|r",
 			[51] = 1551149822,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [45]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -1082,7 +1038,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149825,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -1104,7 +1060,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149897,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [47]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1126,7 +1082,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551149914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [48]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -1148,7 +1104,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551149919,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"<EH> Elephanteggs got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 159k (42%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1170,7 +1126,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150006,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"<EH> Rivalry-Kil'jaeden got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 138k (62%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1192,7 +1148,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150018,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"<EH> Yorman-Kil'jaeden got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 159k (73%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1214,7 +1170,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150018,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"<EH> Daiyzed-Kil'jaeden got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 162k (72%).", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1236,7 +1192,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150024,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1258,7 +1214,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [54]
 		{
 			"1. Daiyzed-Kil'jaeden 1197k", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1280,7 +1236,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [55]
 		{
 			"2. Nawtyrogue-Kil'jaeden 1327k", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1302,7 +1258,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [56]
 		{
 			"3. Yorman-Kil'jaeden 1464k", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1324,7 +1280,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [57]
 		{
 			"4. Elephanteggs 1506k", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1346,7 +1302,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [58]
 		{
 			"5. Rivalry-Kil'jaeden 1721k", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1368,7 +1324,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150038,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [59]
 		{
 			"|cffa335ee|Hkeystone:158923:247:14:10:8:4:117|h[Keystone: The MOTHERLODE!! (14)]|h|r", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1390,7 +1346,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551150046,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"!keys", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1412,7 +1368,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551150096,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [61]
 		{
 			"|cffa335ee|Hkeystone:158923:247:14:10:8:4:117|h[Keystone: The MOTHERLODE!! (14)]|h|r", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1434,7 +1390,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551150097,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [62]
 		{
 			"|cffa335ee|Hkeystone:158923:249:13:10:8:4:117|h[Keystone: Kings' Rest (13)]|h|r", -- [1]
 			"Elephanteggs-Thrall", -- [2]
@@ -1456,7 +1412,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aElephanteggs-Thrall|r",
 			[51] = 1551150097,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [63]
 		{
 			"|cffa335ee|Hkeystone:158923:248:15:10:8:4:117|h[Keystone: Waycrest Manor (15)]|h|r", -- [1]
 			"Nawtyrogue-Kil'jaeden", -- [2]
@@ -1478,7 +1434,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nawtyrogue|r",
 			[51] = 1551150099,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [64]
 		{
 			"ya", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1500,7 +1456,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1551486322,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [65]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265084:0|h[Blood Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1522,7 +1478,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486384,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [68]
+		}, -- [66]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265089:0|h[Dark Reconstitution]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1544,7 +1500,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486423,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [69]
+		}, -- [67]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265091:0|h[Gift of G'huun]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1566,7 +1522,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486439,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [70]
+		}, -- [68]
 		{
 			"mage food after this?", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1588,7 +1544,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1551486475,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [69]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265091:0|h[Gift of G'huun]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1610,7 +1566,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486484,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [72]
+		}, -- [70]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1632,7 +1588,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486537,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [73]
+		}, -- [71]
 		{
 			"Interrupted Devout Blood Priest's |cff71d5ff|Hspell:265089:0|h[Dark Reconstitution]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1654,7 +1610,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486599,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [74]
+		}, -- [72]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1676,7 +1632,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486633,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [75]
+		}, -- [73]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1698,7 +1654,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486659,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [76]
+		}, -- [74]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1720,7 +1676,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486680,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [77]
+		}, -- [75]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1742,7 +1698,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [76]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1764,7 +1720,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486724,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [79]
+		}, -- [77]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1786,7 +1742,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486741,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [80]
+		}, -- [78]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1808,7 +1764,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486758,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [81]
+		}, -- [79]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1830,7 +1786,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486774,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [82]
+		}, -- [80]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1852,7 +1808,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486794,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [83]
+		}, -- [81]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1874,7 +1830,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486836,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [82]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1896,7 +1852,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486840,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [85]
+		}, -- [83]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1918,7 +1874,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486870,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [84]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1940,7 +1896,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486893,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [85]
 		{
 			"Interrupted Living Rot's |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1962,7 +1918,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486901,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [88]
+		}, -- [86]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1984,7 +1940,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12735:Player-9-0B3B1102:1:3:1:19:4294967295:4294967295:4294967295:4294967295|h[Working in Zandalar]|h|r!", -- [1]
 			"Scrubcity-Kil'jaeden", -- [2]
@@ -2006,7 +1962,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaScrubcity|r",
 			[51] = 1551486950,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [90]
+		}, -- [88]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2028,7 +1984,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486953,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [91]
+		}, -- [89]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2050,7 +2006,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486975,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [90]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2072,7 +2028,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551486990,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2094,7 +2050,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551486992,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [94]
+		}, -- [92]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2116,7 +2072,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487006,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [93]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2138,7 +2094,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2160,7 +2116,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487148,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [97]
+		}, -- [95]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2182,7 +2138,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487169,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [98]
+		}, -- [96]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2204,7 +2160,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487206,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [99]
+		}, -- [97]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2226,7 +2182,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487223,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [100]
+		}, -- [98]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2248,7 +2204,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [99]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2270,7 +2226,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487238,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [102]
+		}, -- [100]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2292,7 +2248,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [101]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2314,7 +2270,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487448,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [104]
+		}, -- [102]
 		{
 			"Upheaval on Rygren", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2336,7 +2292,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487572,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [103]
 		{
 			"Upheaval on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2358,7 +2314,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487572,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [104]
 		{
 			"3", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2380,7 +2336,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [105]
 		{
 			"3", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2402,7 +2358,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [106]
 		{
 			"2", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2424,7 +2380,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487576,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [107]
 		{
 			"2", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2446,7 +2402,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487576,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [108]
 		{
 			"1", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2468,7 +2424,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [109]
 		{
 			"1", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2490,7 +2446,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [110]
 		{
 			"Upheaval on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2512,7 +2468,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551487593,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [111]
 		{
 			"Upheaval on Rygren", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2534,7 +2490,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487593,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [112]
 		{
 			"3", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2556,7 +2512,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551487596,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [113]
 		{
 			"3", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2578,7 +2534,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487596,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [114]
 		{
 			"2", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2600,7 +2556,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551487597,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [115]
 		{
 			"2", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2622,7 +2578,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487597,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [116]
 		{
 			"1", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2644,7 +2600,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551487598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [117]
 		{
 			"1", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -2666,7 +2622,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551487598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [118]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2688,7 +2644,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487616,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [121]
+		}, -- [119]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2710,7 +2666,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487692,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [120]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2732,7 +2688,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551487697,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [123]
+		}, -- [121]
 		{
 			"Crippled interrupted |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2754,7 +2710,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551487726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [122]
 		{
 			"Cleansing Light on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2776,7 +2732,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1551487821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [125]
+		}, -- [123]
 		{
 			"Cleansing Light on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2798,7 +2754,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551487939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [126]
+		}, -- [124]
 		{
 			"Astral Keys: New key Keystone: Siege of Boralus + 15", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2820,6 +2776,51 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aYorman|r",
 			[51] = 1551487969,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [125]
+		{
+			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			8, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1551806284,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"want to do some keys?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddEnvious|r",
+			[51] = 1551806601,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [127]
 	},
 }

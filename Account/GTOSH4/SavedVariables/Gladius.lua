@@ -11,30 +11,45 @@ Gladius2DB = {
 		["Zaemme - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 415.465815041578,
-			},
 			["x"] = {
 				["arena1"] = 1556.26908242071,
+			},
+			["y"] = {
+				["arena1"] = 415.465815041578,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1438.93566484931,
-			},
 			["y"] = {
 				["arena1"] = 483.732411763853,
 			},
+			["x"] = {
+				["arena1"] = 1438.93566484931,
+			},
 		},
 		["Default"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -96,47 +111,21 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
-			},
-			["castBarTexture"] = "ElvUI Norm",
-			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
+			["classIconShowSpec"] = true,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -149,7 +138,18 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["classIconShowSpec"] = true,
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["aurasBuffsHeight"] = 22,
+			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsWidth"] = 22,
+			["tagsVersion"] = 4,
+			["healthBarTexture"] = "ElvUI Norm",
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
@@ -234,29 +234,30 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
 			["auraVersion"] = 1,
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
+			["aurasBuffsWidth"] = 22,
+			["classIconShowSpec"] = true,
 			["y"] = {
 				["arena1"] = 263.99849693316,
 			},
-			["classIconShowSpec"] = true,
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
 			["aurasBuffsHeight"] = 22,
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["button"] = "2",
@@ -269,20 +270,19 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["castBarTexture"] = "ElvUI Norm",
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {
 				["arena1"] = 472.532363479251,
 			},
 			["tagsVersion"] = 4,
-			["auraVersion"] = 1,
 			["x"] = {
 				["arena1"] = 1437.86971588517,
 			},
+			["auraVersion"] = 1,
 		},
 		["Yuumi - Kil'jaeden"] = {
 			["auraVersion"] = 1,

@@ -1,8 +1,8 @@
 
 PlaterDBChr = {
 	["first_run2"] = {
-		["Player-9-0B4BF6EE"] = true,
 		["Player-9-0B58277D"] = true,
+		["Player-9-0B4BF6EE"] = true,
 	},
 	["buffsBanned"] = {
 	},
@@ -13,7 +13,7 @@ PlaterDBChr = {
 		[263] = "Lightning Bolt",
 		[257] = "Smite",
 		[258] = "Mind Blast",
-		[256] = "Smite",
 		[264] = "Lightning Bolt",
+		[256] = "Smite",
 	},
 }

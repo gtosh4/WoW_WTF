@@ -1,358 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/DN", -- [1]
-		"/o idc doesn't bother me", -- [2]
-		"/o I see a healer missing", -- [3]
-		"/o :D", -- [4]
-		"/o true", -- [5]
-		"/o ~6:54", -- [6]
-		"/o for crash 9", -- [7]
-		"/p jess can you hymn like at the end of intermission?", -- [8]
-		"/o healing dank is monkaS", -- [9]
-		"/o why'd he switch in the first place?", -- [10]
-		"/p I click them", -- [11]
-		"/p that feel when I tick down from 100", -- [12]
-		"/p while channeling essence font", -- [13]
-		"/p well it was go right through radiation or get hit by buster, unlucky", -- [14]
-		"/p it was over 4.5 seconds", -- [15]
-		" yo", -- [16]
-		"yo", -- [17]
-		"/p monk |cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r druid |cffa335ee|Hkeystone:158923:251:14:9:11:2:117|h[Keystone: The Underrot (14)]|h|r I still need", -- [18]
-		"/p my druid's?", -- [19]
-		"/grid2", -- [20]
+		"/o :D", -- [1]
+		"/o true", -- [2]
+		"/o ~6:54", -- [3]
+		"/o for crash 9", -- [4]
+		"/p jess can you hymn like at the end of intermission?", -- [5]
+		"/o healing dank is monkaS", -- [6]
+		"/o why'd he switch in the first place?", -- [7]
+		"/p I click them", -- [8]
+		"/p that feel when I tick down from 100", -- [9]
+		"/p while channeling essence font", -- [10]
+		"/p well it was go right through radiation or get hit by buster, unlucky", -- [11]
+		"/p it was over 4.5 seconds", -- [12]
+		" yo", -- [13]
+		"yo", -- [14]
+		"/p monk |cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r druid |cffa335ee|Hkeystone:158923:251:14:9:11:2:117|h[Keystone: The Underrot (14)]|h|r I still need", -- [15]
+		"/p my druid's?", -- [16]
+		"/grid2", -- [17]
+		" jess is actually pissed at me", -- [18]
+		" idk why tho, like", -- [19]
+		" I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Unstable Runic Mark on Pass", -- [1]
-			"Pass-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pass-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			454, -- [11]
-			"Player-9-0B4653F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPass|r",
-			[51] = 1551230426,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Unstable Runic Mark on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			455, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aHaxpaxy|r",
-			[51] = 1551230426,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"3", -- [1]
-			"Yuumi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yuumi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			456, -- [11]
-			"Player-9-0B0E8ABC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Yuumi|r",
-			[51] = 1551230429,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"3", -- [1]
-			"Pass-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pass-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			457, -- [11]
-			"Player-9-0B4653F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPass|r",
-			[51] = 1551230429,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"3", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			458, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aHaxpaxy|r",
-			[51] = 1551230429,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"2", -- [1]
-			"Yuumi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yuumi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			459, -- [11]
-			"Player-9-0B0E8ABC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Yuumi|r",
-			[51] = 1551230430,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"2", -- [1]
-			"Pass-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pass-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			460, -- [11]
-			"Player-9-0B4653F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPass|r",
-			[51] = 1551230430,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"2", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			461, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aHaxpaxy|r",
-			[51] = 1551230430,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"1", -- [1]
-			"Yuumi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yuumi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			462, -- [11]
-			"Player-9-0B0E8ABC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Yuumi|r",
-			[51] = 1551230431,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"1", -- [1]
-			"Pass-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pass-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			463, -- [11]
-			"Player-9-0B4653F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPass|r",
-			[51] = 1551230431,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"1", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			464, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aHaxpaxy|r",
-			[51] = 1551230431,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Unstable Runic Mark on Baesong", -- [1]
-			"Baesong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Baesong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			466, -- [11]
-			"Player-9-04467765", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBaesong|r",
-			[51] = 1551230438,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Unstable Runic Mark on Pass", -- [1]
-			"Pass-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pass-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			467, -- [11]
-			"Player-9-0B4653F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPass|r",
-			[51] = 1551230438,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Unstable Runic Mark on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			468, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Andruww|r",
-			[51] = 1551230438,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Unstable Runic Mark on Yuumi", -- [1]
-			"Yuumi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yuumi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			469, -- [11]
-			"Player-9-0B0E8ABC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff96Yuumi|r",
-			[51] = 1551230438,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
 		{
 			"Unstable Runic Mark on Haxpaxy", -- [1]
 			"Haxpaxy-Kil'jaeden", -- [2]
@@ -374,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHaxpaxy|r",
 			[51] = 1551230438,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [1]
 		{
 			"Pummeled Sister Malady's |cff71d5ff|Hspell:260700:0|h[Ruinous Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -396,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBaesong|r",
 			[51] = 1551230439,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [2]
 		{
 			"3", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -418,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551230441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [3]
 		{
 			"3", -- [1]
 			"Pass-Kil'jaeden", -- [2]
@@ -440,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPass|r",
 			[51] = 1551230441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [4]
 		{
 			"3", -- [1]
 			"Haxpaxy-Kil'jaeden", -- [2]
@@ -462,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHaxpaxy|r",
 			[51] = 1551230441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [5]
 		{
 			"2", -- [1]
 			"Pass-Kil'jaeden", -- [2]
@@ -484,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPass|r",
 			[51] = 1551230442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [6]
 		{
 			"2", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -506,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551230442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [7]
 		{
 			"2", -- [1]
 			"Haxpaxy-Kil'jaeden", -- [2]
@@ -528,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHaxpaxy|r",
 			[51] = 1551230442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [8]
 		{
 			"1", -- [1]
 			"Pass-Kil'jaeden", -- [2]
@@ -550,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edPass|r",
 			[51] = 1551230443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [9]
 		{
 			"1", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -572,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551230443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [10]
 		{
 			"1", -- [1]
 			"Haxpaxy-Kil'jaeden", -- [2]
@@ -594,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHaxpaxy|r",
 			[51] = 1551230443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [11]
 		{
 			"Taunted Sister Briar!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -616,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBaesong|r",
 			[51] = 1551230446,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [12]
 		{
 			"Pummeled Sister Briar's |cff71d5ff|Hspell:260697:0|h[Bramble Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -638,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBaesong|r",
 			[51] = 1551230458,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [13]
 		{
 			"Interrupted Sister Briar's |cff71d5ff|Hspell:260697:0|h[Bramble Bolt]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -660,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1551230464,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [29]
+		}, -- [14]
 		{
 			"sir", -- [1]
 			"|Kq23|k", -- [2]
@@ -682,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1551230615,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [30]
+		}, -- [15]
 		{
 			"yo", -- [1]
 			"|Kq23|k", -- [2]
@@ -704,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1551230676,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [31]
+		}, -- [16]
 		{
 			"wyd", -- [1]
 			"|Kq23|k", -- [2]
@@ -726,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWraithband|r",
 			[51] = 1551230728,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [32]
+		}, -- [17]
 		{
 			"monk |cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r druid |cffa335ee|Hkeystone:158923:251:14:9:11:2:117|h[Keystone: The Underrot (14)]|h|r I still need", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -748,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551485643,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [18]
 		{
 			"k", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -770,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551485652,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [19]
 		{
 			"!keys", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -792,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551485655,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
+		}, -- [20]
 		{
 			"|cffa335ee|Hkeystone:158923:353:17:9:11:2:117|h[Keystone: Siege of Boralus (17)]|h|r", -- [1]
 			"Rygren-Hyjal", -- [2]
@@ -814,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaRygren-Hyjal|r",
 			[51] = 1551485655,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [21]
 		{
 			"|cffa335ee|Hkeystone:158923:249:14:9:11:2:117|h[Keystone: Kings' Rest (14)]|h|r", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -836,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551485659,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [22]
 		{
 			"YIKES.", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -858,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551485659,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [23]
 		{
 			"going to UR", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -880,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aCrippled|r",
 			[51] = 1551485761,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [24]
 		{
 			"my druid's?", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -902,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551485924,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [25]
 		{
 			"|cffa335ee|Hitem:155881::::::::120:577::16:3:5010:1572:4786:::|h[Harlan's Loaded Dice]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -924,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551488180,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [26]
 		{
 			"Interrupted Shadow-Borne Witch Doctor's |cff71d5ff|Hspell:269972:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -946,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551488972,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [42]
+		}, -- [27]
 		{
 			"Interrupted Shadow-Borne Witch Doctor's |cff71d5ff|Hspell:269972:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -968,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551488992,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [43]
+		}, -- [28]
 		{
 			"Fixate on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -990,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489003,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [29]
 		{
 			"Interrupted Shadow-Borne Witch Doctor's |cff71d5ff|Hspell:269972:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1012,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489051,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [45]
+		}, -- [30]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:269973:0|h[Deathly Chill]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1034,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551489060,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [31]
 		{
 			"|cffa335ee|Hkeystone:158923:249:13:9:11:2:117|h[Keystone: Kings' Rest (13)]|h|r", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1056,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551489163,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [32]
 		{
 			"Interrupted Shadow-Borne Witch Doctor's |cff71d5ff|Hspell:269972:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1078,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489179,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [48]
+		}, -- [33]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:269973:0|h[Deathly Chill]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1100,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551489187,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [34]
 		{
 			"Interrupted Shadow-Borne Witch Doctor's |cff71d5ff|Hspell:269972:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1122,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489194,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [50]
+		}, -- [35]
 		{
 			"Spit Gold on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1144,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489243,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [36]
 		{
 			"3", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1166,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489249,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [37]
 		{
 			"2", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1188,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489250,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [38]
 		{
 			"1", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1210,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489251,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [39]
 		{
 			"Spit Gold on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1232,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489341,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [40]
 		{
 			"3", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1254,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [41]
 		{
 			"2", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1276,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489348,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [42]
 		{
 			"1", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1298,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489349,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [43]
 		{
 			"Spit Gold on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1320,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551489353,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [44]
 		{
 			"Spit Gold on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1342,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489366,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [45]
 		{
 			"3", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1364,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489372,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [46]
 		{
 			"2", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1386,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489373,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [47]
 		{
 			"1", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1408,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551489374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [48]
 		{
 			"Spit Gold on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1430,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489376,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [49]
 		{
 			"Interrupted Queen Wasi's |cff71d5ff|Hspell:270923:0|h[Shadow Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1452,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489402,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [65]
+		}, -- [50]
 		{
 			"Interrupted Queen Wasi's |cff71d5ff|Hspell:270923:0|h[Shadow Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1474,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489420,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [66]
+		}, -- [51]
 		{
 			"Bladestorm on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1496,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489426,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [52]
 		{
 			"Hidden Blade on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1518,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [53]
 		{
 			"Hidden Blade on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1540,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551489482,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [54]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1562,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551489771,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [70]
+		}, -- [55]
 		{
 			"Entomb on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1584,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [56]
 		{
 			"Interrupted Spectral Hex Priest's |cff71d5ff|Hspell:270492:0|h[Hex]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1606,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490200,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [72]
+		}, -- [57]
 		{
 			"Poison Barrage on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1628,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490292,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [58]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1650,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490311,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [74]
+		}, -- [59]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:270493:0|h[Spectral Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1672,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551490396,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [60]
 		{
 			"Hunting Leap on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1694,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [61]
 		{
 			"Poison Barrage on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -1716,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [62]
 		{
 			"Interrupted Spectral Hex Priest's |cff71d5ff|Hspell:270492:0|h[Hex]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1738,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490453,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [78]
+		}, -- [63]
 		{
 			"Hunting Leap on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1760,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490474,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [64]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1782,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490486,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [65]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1804,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490496,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [66]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1826,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490497,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1848,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490498,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [68]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1870,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1892,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490500,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [70]
 		{
 			"Interrupted Zanazal the Wise's |cff71d5ff|Hspell:267308:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1914,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490516,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [86]
+		}, -- [71]
 		{
 			"Interrupted Zanazal the Wise's |cff71d5ff|Hspell:267273:0|h[Poison Nova]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1936,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490555,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [87]
+		}, -- [72]
 		{
 			"3", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1958,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490713,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [73]
 		{
 			"2", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -1980,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [74]
 		{
 			"1", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -2002,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551490715,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [75]
 		{
 			"3", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2024,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551490736,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [76]
 		{
 			"2", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2046,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551490737,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [77]
 		{
 			"1", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2068,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551490738,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [78]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2090,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490759,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [79]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2112,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490760,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [80]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2134,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490761,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [81]
 		{
 			"Barrel Through on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2156,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490778,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [82]
 		{
 			"3", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2178,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490783,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [83]
 		{
 			"2", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2200,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490784,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [84]
 		{
 			"1", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2222,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490785,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [85]
 		{
 			"Dark Revelation on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2244,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490857,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [86]
 		{
 			"3", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2266,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490864,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [87]
 		{
 			"2", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2288,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [88]
 		{
 			"1", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2310,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [89]
 		{
 			"Dark Revelation on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2332,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [90]
 		{
 			"3", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2354,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490886,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [91]
 		{
 			"2", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2376,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [92]
 		{
 			"1", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2398,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490888,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [93]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2420,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rivalry|r",
 			[51] = 1551490918,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [94]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2442,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490964,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [95]
 		{
 			"Hunting Leap on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2464,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490983,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [96]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2486,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551490984,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [97]
 		{
 			"Hunting Leap on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2508,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551490996,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [98]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2530,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551491011,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [99]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2552,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491184,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [100]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2574,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491194,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [101]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2596,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491195,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [102]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2618,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491196,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [103]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2640,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491197,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [104]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2662,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Andrewzz|r",
 			[51] = 1551491198,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [105]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2684,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551491272,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [106]
 		{
 			"Hunting Leap on Rygrendh", -- [1]
 			"Rygrendh-Hyjal", -- [2]
@@ -2706,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Rygrendh-Hyjal|r",
 			[51] = 1551491278,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [107]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2728,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551491333,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [123]
+		}, -- [108]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2750,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551491353,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [109]
 		{
 			"Quaking Leap on Yuumi", -- [1]
 			"Yuumi-Kil'jaeden", -- [2]
@@ -2772,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Yuumi|r",
 			[51] = 1551491378,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [125]
+		}, -- [110]
 		{
 			"Quaking Leap on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2794,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551491397,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [126]
+		}, -- [111]
 		{
 			"|cffa335ee|Hkeystone:158923:248:13:9:11:2:117|h[Keystone: Waycrest Manor (13)]|h|r", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2816,6 +2486,344 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDaiyzed|r",
 			[51] = 1551491434,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"jess is actually pissed at me", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			658, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849251,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [113]
+		{
+			"LOL", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			664, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849263,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [114]
+		{
+			" I toldddd you", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			665, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849273,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [115]
+		{
+			"she was like trying to play middle man", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			668, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849279,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [116]
+		{
+			"and have me or barbados msg you", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			670, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849284,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [117]
+		{
+			"|Hkeystone:158923:246:11:10:5:14:117|h[Keystone: Tol Dagor (11)]|h", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			671, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWraithband|r",
+			[51] = 1551849286,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [118]
+		{
+			"idk why tho, like", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			672, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849290,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [119]
+		{
+			"I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			680, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849322,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [120]
+		{
+			"<Heritage> is a progressive guild recruiting members of all levels. We're an extremely social, well-rounded family (Raiding, PvP, Leveling, Mythic+, Casual, Ect.). We'd love to make you a member of our ever-growing community. PST for more! 9/9H 2/9M", -- [1]
+			"Rumí-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rumí-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			691, -- [11]
+			"Player-9-09CE47CC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aRumí|r",
+			[51] = 1551849391,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"Mythic Champion of the Light raiding forming. Pst Achievement for invite.", -- [1]
+			"Metropolus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Metropolus-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			707, -- [11]
+			"Player-9-0ABDDDD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaMetropolus|r",
+			[51] = 1551849556,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"<Heritage> is a progressive guild recruiting members of all levels. We're an extremely social, well-rounded family (Raiding, PvP, Leveling, Mythic+, Casual, Ect.). We'd love to make you a member of our ever-growing community. PST for more! 9/9H 2/9M", -- [1]
+			"Rumí-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rumí-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			710, -- [11]
+			"Player-9-09CE47CC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aRumí|r",
+			[51] = 1551849653,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"lol", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			715, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1551849723,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [124]
+		{
+			"<Heritage> is a progressive guild recruiting members of all levels. We're an extremely social, well-rounded family (Raiding, PvP, Leveling, Mythic+, Casual, Ect.). We'd love to make you a member of our ever-growing community. PST for more! 9/9H 2/9M", -- [1]
+			"Rumí-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rumí-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			716, -- [11]
+			"Player-9-09CE47CC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aRumí|r",
+			[51] = 1551849734,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"LFM Mythic Champion of the Light first boss. Pst Achivement", -- [1]
+			"Metropolus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Metropolus-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			737, -- [11]
+			"Player-9-0ABDDDD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaMetropolus|r",
+			[51] = 1551849929,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"LFM Mythic Champion of the Light/first boss. Pst Achivement", -- [1]
+			"Metropolus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Metropolus-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			753, -- [11]
+			"Player-9-0ABDDDD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff48cbaMetropolus|r",
+			[51] = 1551850138,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }
