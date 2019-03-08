@@ -9,13 +9,29 @@ DataStore_TalentsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1551849229,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1551837438,
 				["Specializations"] = {
-					[2] = 5849,
-					[3] = 12011,
+					5631, -- [1]
+					[3] = 5527,
 				},
-				["Class"] = "MONK",
+				["Class"] = "PRIEST",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1552021325,
+				["Specializations"] = {
+					9637, -- [1]
+					[3] = 7831,
+				},
+				["Class"] = "SHAMAN",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1551994586,
+				["Specializations"] = {
+					7165, -- [1]
+					[4] = 15085,
+				},
+				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1551646719,
@@ -25,29 +41,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1551806095,
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1551991725,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
+					[2] = 5849,
+					[3] = 12011,
 				},
-				["Class"] = "DRUID",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1551848491,
-				["Specializations"] = {
-					9637, -- [1]
-					[3] = 7831,
-				},
-				["Class"] = "SHAMAN",
-			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1551837438,
-				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
-				},
-				["Class"] = "PRIEST",
+				["Class"] = "MONK",
 			},
 		},
 	},
@@ -175,7 +175,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29600,
+			["Version"] = 29621,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -233,7 +233,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29600,
+			["Version"] = 29621,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -291,7 +291,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29600,
+			["Version"] = 29621,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",

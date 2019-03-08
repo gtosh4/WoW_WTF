@@ -19,8 +19,8 @@ AngryAssign_Pages = {
 		["Name"] = "H Conclave",
 		["Id"] = 653022546,
 		["UpdateId"] = 2086467670,
-		["CategoryId"] = 2406605962,
 		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Yuumi",
+		["CategoryId"] = 2406605962,
 	},
 	[2057181718] = {
 		["Updated"] = 1550379648,
@@ -64,6 +64,14 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2377254289,
 		["Contents"] = "LEFT            \nCorner    ||cpriestTehkz.barrier||r        \nFlames 2    ||cmonkBails.rev||r        \nFinal Room 1            \nFinal Room 2            \n            \nRIGHT            \nCorner    ||cpriestJess.hymn||r        \nFlames 2    ||cmonkGordy.rev||r        \nFinal Room 1            \nFinal Room 2            \n            \nCENTER            \nCoin Shower 1    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    \nCoin Shower 2    ||cpaladinAber.BoP||r        \nWail of Greed 1    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r    \nCoin Shower 3    ||cwarriorFrida.shout||r    ||cdemonhunterAndr.dark||r    ||cmonkGordy.rev||r\nCoin Shower 4    suicide        \nWail of Greed 2    ||cpriestJess.salv||r        \nCoin Shower 5    suicide\n\nRUBY LEFT - FRIDAA/OREO\nRUBY RIGHT - NAWTY / DAIYZED\ntehkz/jess - amethyst\nbails/gords - sapph",
 	},
+	[1801712002] = {
+		["Updated"] = 1552013868,
+		["Name"] = "opul",
+		["Id"] = 1801712002,
+		["UpdateId"] = 3699326097,
+		["Backup"] = "LEFT        \nCorner    ||cshamanGord.HT||r    \nFlames 2    ||cshamanGord.SLT||r    ||cmonkAlex.rev||r\n        \nRIGHT        \nCorner    ||cdruidBoo.tranq||r    \nFlames 2    ||cpriestJess.hymn||r    \n        \nCENTER        \nCoin Shower 1    ||cmonkAlex.rev||r    \nCoin Shower 2    ||cpaladinMason.bop||r    \nWail of Greed 1    ||cpriestJess.hymn||r    \nCoin Shower 3    ||cpriestJess.salv||r    \nCoin Shower 4    ||cshamanGord.SLT||r    \nWail of Greed 2    ||cshamanGord.HT||r    ||cdruidBoo.tranq||r\nCoin Shower 5    sacrifice\n\nRUBY: andrew, johnny, JD, devon\nAMETHYST: gordon, jess",
+		["Contents"] = "LEFT        \nCorner    ||cshamanGord.HT||r    \nFlames 2    ||cshamanGord.SLT||r    ||cmonkAlex.rev||r\n        \nRIGHT        \nCorner    ||cdruidBoo.tranq||r    \nFlames 2    ||cpriestJess.hymn||r    \n        \nCENTER        \nCoin Shower 1    ||cmonkAlex.rev||r    \nCoin Shower 2    ||cpaladinMason.bop||r    \nWail of Greed 1    ||cpriestJess.hymn||r    \nCoin Shower 3    ||cpriestJess.salv||r    \nCoin Shower 4    ||cshamanGord.SLT||r    \nWail of Greed 2    ||cshamanGord.HT||r    ||cdruidBoo.tranq||r\nCoin Shower 5    sacrifice\n\nRUBY: andrew, johnny, JD, devon\nAMETHYST: gordon, jess",
+	},
 	[3846756481] = {
 		["Updated"] = 1551504172,
 		["Name"] = "M Conc",
@@ -71,13 +79,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3712565372,
 		["Contents"] = "Cry 1    ||cshamanGordy.HT||r    ||cpriestTehkz.ramp||r    ||cwarriorFrida.rally||r    \nWrath 1    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpaladinJamie.AC||r    ||cpaladinJamie.AM||r\nWrath 2    ||cpriestTehkz.barrier||r    ||cpriestJess.hymn||r    ||cwarriorBarba.rally||r    \nCry 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nWrath 3    ||cpaladinJamie.AC||r    ||cpriestJess.salv||r        \nWrath 4    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cwarriorFrida.rally||r    \nCry 3    ||cshamanGordy.HT||r    ||cpriestTehkz.ramp||r    ||cpaladinJamie.AM||r    \nWrath 5    ||cpaladinJamie.AC||r    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    ||cpriestJess.hymn||r",
 	},
-	[1185462480] = {
-		["Updated"] = 1551847239,
-		["Name"] = "Jadefire",
-		["Id"] = 1185462480,
-		["UpdateId"] = 1477722536,
-		["Backup"] = "Living Bomb 1    ||cshamanIlya.SLT||r    ||cpriestJess.hymn||r    \nLiving Bomb 2    ||cshamanGord.HT||r        \nLiving Bomb 3    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r    ||cdruidBoo.tranq||r\nMaze Start    ||cmonkAlex.rev||r        \nMaze Barriers    ||cpriestJess.salv||r        \nFlash 1    ||cpriestJess.hymn||r        \nFlash 2    ||cmonkAlex.rev||r        \nFlash 3    ||cshamanIlya.SLT||r    ||cshamanGord.HT||r    \nFlash 4    ||cdruidBoo.tranq||r    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r\n\nMulti-Sided Strike\n||cblue blue||r >>||cgreen green||r >>||corange orange||r >>||cgreen green||r >>||cblue blue||r",
-		["Contents"] = "Living Bomb 1    ||cshamanIlya.SLT||r    ||cpriestJess.hymn||r    \nLiving Bomb 2    ||cshamanGord.HT||r        \nLiving Bomb 3    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r    ||cdruidBoo.tranq||r\nMaze Start    ||cmonkAlex.rev||r        \nMaze Barriers    ||cpriestJess.salv||r        \nFlash 1    ||cpriestJess.hymn||r        \nFlash 2    ||cmonkAlex.rev||r        \nFlash 3    ||cshamanIlya.SLT||r    ||cshamanGord.HT||r    \nFlash 4    ||cdruidBoo.tranq||r    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r\n\nMulti-Sided Strike\n||cblue blue||r >>||cgreen green||r >>||corange orange||r >>||cgreen green||r >>||cblue blue||r",
+	[930450812] = {
+		["Updated"] = 1551839311,
+		["Name"] = "grong",
+		["Id"] = 930450812,
+		["UpdateId"] = 2807625221,
+		["Backup"] = "Throw 1    ||cshamanIlya.HT||r        \nTantrum 1    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 2    ||cshamanGord.HT||r        \nTantrum 2    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    \nThrow 3    ||cmonkAlex.rev||r        \nTantrum 3    ||cpriestJess.salv||r        \nThrow 4    ||cshamanIlya.HT||r        \nTantrum 4    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 5    ||cshamanGord.HT||r        \nTantrum 5    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    ||cmonkAlex.rev||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
+		["Contents"] = "Throw 1    ||cshamanIlya.HT||r        \nTantrum 1    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 2    ||cshamanGord.HT||r        \nTantrum 2    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    \nThrow 3    ||cmonkAlex.rev||r        \nTantrum 3    ||cpriestJess.salv||r        \nThrow 4    ||cshamanIlya.HT||r        \nTantrum 4    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 5    ||cshamanGord.HT||r        \nTantrum 5    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    ||cmonkAlex.rev||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
 	},
 	[3243117585] = {
 		["Updated"] = 1550633304,
@@ -93,12 +101,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2090400629,
 		["Contents"] = "Throw 1    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nTantrum 1    ||cshamanGordy.HT||r    ||cpaladinJamie.AC||r    ||cwarriorFrida.rally||r    \nThrow 2    ||cpriestJess.hymn||r    ||cpaladinJamie.AM||r        \nTantrum 2    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.ramp||r    \nThrow 3    ||cpriestTehkz.barrier||r            \nTantrum 3    ||cpaladinJamie.AC||r    ||cwarriorBarba.rally||r        \nThrow 4    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nTantrum 4    ||cpriestJess.salv||r    ||cwarriorFrida.rally||r        \nThrow 5    ||cshamanGordy.HT||r    ||cpriestJess.hymn||r    ||cpaladinJamie.AM||r    \nTantrum 5    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpaladinJamie.AC||r    ||cpriestTehkz.ramp||r\n\n\ninterrupts\nmelee - daiyzed > andrew > frid > moon\nrange - oreo  > thun > knoss > merk > arn > yuki\n\n{Diamond} healers\n{circle} 3hunters\n{star} g3\n{triangle} cada/daiyzed/gord",
 	},
-	[22206615] = {
-		["Updated"] = 1551593231,
-		["Name"] = "M Mekka",
-		["Id"] = 22206615,
-		["UpdateId"] = 1013737815,
-		["Contents"] = "Crash 1    ||cpriestTehkz.barrier||r  GORDY TIDE\nCrash 2    ||cpriestJess.salv||r    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r\nCrash 3   TRANQ   ||cdruidJamie.incarn||r    \nCrash 4    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    \nCrash 5    ||cpriestJess.hymn||r    ||cwarriorFrida.rally||r    ||cpriestTehkz.ramp||r\nINTERMISSION   TIDE    ||cmonkBails.rev||r    \nCrash 6   TRANQ    ||cpriestTehkz.ramp||r    \nCrash 7    ||cpriestTehkz.barrier||r    ||cdruidJamie.incarn||r    \nCrash 8    ||cpriestJess.salv||r    ||cwarriorFrida.rally||r    \nCrash 9    ||cdruidJamie.tranq||r    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r\nCrash 10    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cmonkBails.rev||r",
+	[2697659300] = {
+		["Updated"] = 1551500992,
+		["Name"] = "M Opulence",
+		["Id"] = 2697659300,
+		["UpdateId"] = 3646729516,
+		["Contents"] = "Tanks - Diamond\nLoh  / Tehz - Amethyst\nGord / Bails - Sapphire\nLeft Ruby - Nawty/Moon\nRight Ruby - Fridaa/Daiyzed\nALL dps - Opal nothing else\n                \nLEFT            \nCorner    ||cpriestTehkz.barrier||r        \nFlames 2    ||cmonkBails.rev||r        \n            \nRIGHT            \nCorner    ||cpriestJess.hymn||r    ||cshamanGordy.HT||r    \nFlames 2    ||cshamanGordy.SLT||r        \n            \nCENTER            \nCoin Shower 1    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    ||cwarriorFrida.rally||r\nCoin Shower 2    ||cpaladinAber.BoP||r        \nWail of Greed 1    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r    \nCoin Shower 3    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    \nCoin Shower 4    suicide        \nWail of Greed 2    ||cpriestJess.salv||r    ||cwarriorBarba.rally||r    \nCoin Shower 5    suicide",
 	},
 	[150766317] = {
 		["Updated"] = 1551504667,
@@ -119,8 +127,8 @@ AngryAssign_Pages = {
 		["Name"] = "H Grong",
 		["Id"] = 1764615927,
 		["UpdateId"] = 454805334,
-		["CategoryId"] = 2406605962,
 		["Contents"] = "Interrupts\n||chunterThunderrz||r > ||cdemonhunterAndruww||r >\n||crogueMelborn||r > ||cwarriorPride||r > ||cwarriorFridaa||r\n\n\nPicking up Core\n||cmonkYuumi||r\n\nHealing CDs\n1st tantrum Tehkz(ramp) / Jess(hymn) / lohgical(AC)\n2nd tantrum Bailey / Gordy / AM\n3rd tantrum Tehkz(ramp) / Jess(salv) / lohgical(AC)",
+		["CategoryId"] = 2406605962,
 	},
 	[1328523944] = {
 		["Updated"] = 1550892900,
@@ -141,15 +149,15 @@ AngryAssign_Pages = {
 		["Name"] = "H Opulence",
 		["Id"] = 3754423109,
 		["UpdateId"] = 490065121,
-		["CategoryId"] = 2406605962,
 		["Contents"] = "Tanks - Diamond\nTehkz / Jess - Amethyst\nLoh / Gord / Bails - Sapphire\nLeft Ruby - moon\nRight Ruby - frida\n\n\nHealing CDs\n6:38 jess salv\n7:09 jess hymn\n7:27 tekhz ramp\n7:39 Lohgical AC\n8:10 tehkz barrier\n8:38 Lohgical AM\n8:48 nothing\n9:18 Gordy\n9:50 tehkz ramp + bails\n10:01 lohgical AC",
+		["CategoryId"] = 2406605962,
 	},
-	[2697659300] = {
-		["Updated"] = 1551500992,
-		["Name"] = "M Opulence",
-		["Id"] = 2697659300,
-		["UpdateId"] = 3646729516,
-		["Contents"] = "Tanks - Diamond\nLoh  / Tehz - Amethyst\nGord / Bails - Sapphire\nLeft Ruby - Nawty/Moon\nRight Ruby - Fridaa/Daiyzed\nALL dps - Opal nothing else\n                \nLEFT            \nCorner    ||cpriestTehkz.barrier||r        \nFlames 2    ||cmonkBails.rev||r        \n            \nRIGHT            \nCorner    ||cpriestJess.hymn||r    ||cshamanGordy.HT||r    \nFlames 2    ||cshamanGordy.SLT||r        \n            \nCENTER            \nCoin Shower 1    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    ||cwarriorFrida.rally||r\nCoin Shower 2    ||cpaladinAber.BoP||r        \nWail of Greed 1    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r    \nCoin Shower 3    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    \nCoin Shower 4    suicide        \nWail of Greed 2    ||cpriestJess.salv||r    ||cwarriorBarba.rally||r    \nCoin Shower 5    suicide",
+	[22206615] = {
+		["Updated"] = 1551593231,
+		["Name"] = "M Mekka",
+		["Id"] = 22206615,
+		["UpdateId"] = 1013737815,
+		["Contents"] = "Crash 1    ||cpriestTehkz.barrier||r  GORDY TIDE\nCrash 2    ||cpriestJess.salv||r    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r\nCrash 3   TRANQ   ||cdruidJamie.incarn||r    \nCrash 4    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    \nCrash 5    ||cpriestJess.hymn||r    ||cwarriorFrida.rally||r    ||cpriestTehkz.ramp||r\nINTERMISSION   TIDE    ||cmonkBails.rev||r    \nCrash 6   TRANQ    ||cpriestTehkz.ramp||r    \nCrash 7    ||cpriestTehkz.barrier||r    ||cdruidJamie.incarn||r    \nCrash 8    ||cpriestJess.salv||r    ||cwarriorFrida.rally||r    \nCrash 9    ||cdruidJamie.tranq||r    ||cpriestJess.hymn||r    ||cpriestTehkz.ramp||r\nCrash 10    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cmonkBails.rev||r",
 	},
 	[1941723871] = {
 		["Updated"] = 1550890696,
@@ -158,13 +166,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2133174913,
 		["Contents"] = "Living Bomb 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nLiving Bomb 3    ||cshamanJamie.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestJess.hymn||r    \nMaze Start    ||cmonkGordy.rev||r            \nMaze Barriers    ||cpriestTehkz.barrier||r    ||cwarriorBarba.shout||r    ||cshamanJamie.HT||r    ||cpriestTehkz.ramp||r\nFlash 1    ||cpriestJess.salv||r            \nFlash 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nFlash 3    ||cshamanJamie.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestJess.hymn||r    \nFlash 4    ||cmonkGordy.rev||r    ||cwarriorBarba.shout||r    ||cshamanJamie.HT||r",
 	},
-	[930450812] = {
-		["Updated"] = 1551839311,
-		["Name"] = "grong",
-		["Id"] = 930450812,
-		["UpdateId"] = 2807625221,
-		["Contents"] = "Throw 1    ||cshamanIlya.HT||r        \nTantrum 1    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 2    ||cshamanGord.HT||r        \nTantrum 2    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    \nThrow 3    ||cmonkAlex.rev||r        \nTantrum 3    ||cpriestJess.salv||r        \nThrow 4    ||cshamanIlya.HT||r        \nTantrum 4    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 5    ||cshamanGord.HT||r        \nTantrum 5    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    ||cmonkAlex.rev||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
-		["Backup"] = "Throw 1    ||cshamanIlya.HT||r        \nTantrum 1    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 2    ||cshamanGord.HT||r        \nTantrum 2    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    \nThrow 3    ||cmonkAlex.rev||r        \nTantrum 3    ||cpriestJess.salv||r        \nThrow 4    ||cshamanIlya.HT||r        \nTantrum 4    ||cshamanIlya.SLT||r    ||cdruidBoo.tranq||r    \nThrow 5    ||cshamanGord.HT||r        \nTantrum 5    ||cshamanGord.SLT||r    ||cpriestJess.hymn||r    ||cmonkAlex.rev||r\n\nAdd 1 -||cdemonhunter zach||r||crogue liz||r||crogue johnny||r||crogue andrew||r\nAdd 2 -||cshaman nate||r||cmage morri||r||cshaman doug||r||cmage corey||r||chunter cj||r\n\nG1 - {star}\nG2 - {circle}\nG3 - {diamond}\nG4 - {triangle}",
+	[1185462480] = {
+		["Updated"] = 1551847239,
+		["Name"] = "Jadefire",
+		["Id"] = 1185462480,
+		["UpdateId"] = 1477722536,
+		["Contents"] = "Living Bomb 1    ||cshamanIlya.SLT||r    ||cpriestJess.hymn||r    \nLiving Bomb 2    ||cshamanGord.HT||r        \nLiving Bomb 3    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r    ||cdruidBoo.tranq||r\nMaze Start    ||cmonkAlex.rev||r        \nMaze Barriers    ||cpriestJess.salv||r        \nFlash 1    ||cpriestJess.hymn||r        \nFlash 2    ||cmonkAlex.rev||r        \nFlash 3    ||cshamanIlya.SLT||r    ||cshamanGord.HT||r    \nFlash 4    ||cdruidBoo.tranq||r    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r\n\nMulti-Sided Strike\n||cblue blue||r >>||cgreen green||r >>||corange orange||r >>||cgreen green||r >>||cblue blue||r",
+		["Backup"] = "Living Bomb 1    ||cshamanIlya.SLT||r    ||cpriestJess.hymn||r    \nLiving Bomb 2    ||cshamanGord.HT||r        \nLiving Bomb 3    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r    ||cdruidBoo.tranq||r\nMaze Start    ||cmonkAlex.rev||r        \nMaze Barriers    ||cpriestJess.salv||r        \nFlash 1    ||cpriestJess.hymn||r        \nFlash 2    ||cmonkAlex.rev||r        \nFlash 3    ||cshamanIlya.SLT||r    ||cshamanGord.HT||r    \nFlash 4    ||cdruidBoo.tranq||r    ||cshamanGord.SLT||r    ||cshamanIlya.HT||r\n\nMulti-Sided Strike\n||cblue blue||r >>||cgreen green||r >>||corange orange||r >>||cgreen green||r >>||cblue blue||r",
 	},
 }
 AngryAssign_Categories = {
@@ -174,12 +182,6 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
-	["window"] = {
-		["height"] = 501.006561279297,
-		["top"] = 1094.93432617187,
-		["left"] = 284.072021484375,
-		["width"] = 699.999938964844,
-	},
 	["display"] = {
 		["y"] = -204.501708984375,
 		["x"] = -716.544006347656,
@@ -188,19 +190,26 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 441.008666992188,
 	},
-	["directionUp"] = false,
-	["tree"] = {
-		["groups"] = {
-			["134906466"] = true,
-			[-2406605962] = false,
-		},
-		["scrollvalue"] = 0,
-		["treesizable"] = true,
-		["selected"] = 930450812,
-		["treewidth"] = 175,
-		["fullwidth"] = 666,
+	["window"] = {
+		["height"] = 501.006591796875,
+		["top"] = 1094.93432617187,
+		["left"] = 284.072021484375,
+		["width"] = 699.999938964844,
 	},
 	["locked"] = true,
+	["tree"] = {
+		["groups"] = {
+			[-2406605962] = false,
+			["134906466"] = true,
+			["1801712002"] = true,
+		},
+		["scrollvalue"] = 0,
+		["fullwidth"] = 666,
+		["selected"] = 1801712002,
+		["treewidth"] = 175,
+		["treesizable"] = true,
+	},
+	["directionUp"] = false,
 }
 AngryAssign_Config = {
 	["backdropShow"] = true,
