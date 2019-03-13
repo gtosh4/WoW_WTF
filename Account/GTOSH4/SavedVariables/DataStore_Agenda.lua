@@ -11,20 +11,20 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-03-12",
+			["NextWeeklyReset"] = "2019-03-19",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1551837460,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|366994074"] = "557740|1552449859|0|1",
+				},
+				["lastUpdate"] = 1552451683,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|366632646"] = "381472|1552021326|0|1",
-				},
-				["lastUpdate"] = 1552023564,
+				["lastUpdate"] = 1552437147,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1551995264,
+				["lastUpdate"] = 1552436210,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {

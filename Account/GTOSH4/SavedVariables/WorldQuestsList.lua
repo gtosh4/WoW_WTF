@@ -8,7 +8,7 @@ VWQL = {
 	["VERSION"] = 85,
 	["Anchor"] = 1,
 	["HideLegion"] = true,
-	["OppositeContinent"] = false,
+	["AzeriteFormat"] = 20,
 	["Zaemme-Kil'jaeden"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -35,7 +35,7 @@ VWQL = {
 		["VERSION"] = 85,
 	},
 	["DisableArrow"] = false,
-	["AzeriteFormat"] = 20,
+	["OppositeContinent"] = false,
 	["Yorman-Kil'jaeden"] = {
 		["VERSION"] = 85,
 		["FilterType"] = {
@@ -52,8 +52,6 @@ VWQL = {
 		},
 		["Quests"] = {
 			[50459] = true,
-			[51043] = true,
-			[49413] = true,
 			[51642] = true,
 		},
 		["Filter"] = 63,

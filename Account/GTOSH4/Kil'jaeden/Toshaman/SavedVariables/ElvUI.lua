@@ -1,116 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"k, so you can hymn there?", -- [1]
-		"inv", -- [2]
-		"takes 10 minutes to watch a 2 min video", -- [3]
-		"k, that will leave the 2nd room w/ the hexes without anything", -- [4]
-		"'cuz there's no way I'm having boo tranq in the room w/ the flames", -- [5]
-		"no", -- [6]
-		"yikes", -- [7]
-		"/o me and alex go left", -- [8]
-		"/o boo and jess go right", -- [9]
-		"/cw Orcbum put the better mechanical players on the left", -- [10]
-		"/o oh lol", -- [11]
-		"/o wrong guild", -- [12]
-		"/aa", -- [13]
-		"/wa", -- [14]
-		"/raid [WeakAuras: Toshaman-Kil'jaeden - OPULENCE]", -- [15]
-		"/cw Ngow druids typically take photosynthesis too and lifebloom themselves", -- [16]
-		"/cw Ngow for this", -- [17]
-		"/dn", -- [18]
-		" not gonna be playing for a bit, packing for my trip", -- [19]
-		" I'm going out of town this weekend which is why I brought shaman instead since I can't bring it to my other guild on friday and saturday and shaman needs the gear more", -- [20]
+		" I'm going out of town this weekend which is why I brought shaman instead since I can't bring it to my other guild on friday and saturday and shaman needs the gear more", -- [1]
+		"/cw Ngow for this", -- [2]
+		"/cw Orcbum put the better mechanical players on the left", -- [3]
+		"/raid [WeakAuras: Toshaman-Kil'jaeden - OPULENCE]", -- [4]
+		"/wa", -- [5]
+		"/aa", -- [6]
+		"/dn", -- [7]
+		"/cw Ngow druids typically take photosynthesis too and lifebloom themselves", -- [8]
+		"/o me and alex go left", -- [9]
+		"I'm going out of town this weekend which is why I brought shaman instead since I can't bring it to my other guild on friday and saturday and shaman needs the gear more", -- [10]
+		"k, so you can hymn there?", -- [11]
+		"/o oh lol", -- [12]
+		"yikes", -- [13]
+		"'cuz there's no way I'm having boo tranq in the room w/ the flames", -- [14]
+		"/o boo and jess go right", -- [15]
+		"takes 10 minutes to watch a 2 min video", -- [16]
+		"not gonna be playing for a bit, packing for my trip", -- [17]
+		"/o wrong guild", -- [18]
+		"k, that will leave the 2nd room w/ the hexes without anything", -- [19]
+		"/g HI FRIENDS", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Rylaiz-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Rylaiz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3256, -- [11]
-			"Player-9-0B40593C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddRylaiz|r",
-			[51] = 1552021164,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Steelfire-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Steelfire-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3257, -- [11]
-			"Player-9-0B3E3120", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aSteelfire|r",
-			[51] = 1552021164,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Steelfire-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Steelfire-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3258, -- [11]
-			"Player-9-0B3E3120", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aSteelfire|r",
-			[51] = 1552021165,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"2", -- [1]
-			"Focalaire-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Focalaire-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3259, -- [11]
-			"Player-9-07DFC49A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaFocalaire|r",
-			[51] = 1552021165,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -132,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021165,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [1]
 		{
 			"1", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -154,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFocalaire|r",
 			[51] = 1552021166,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [2]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -176,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021166,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [3]
 		{
 			"Volatile Charge on Drift", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -198,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021172,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [4]
 		{
 			"Zuq'nish Yu'gaz za Sk'woth'gl", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -220,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDolclemits|r",
 			[51] = 1552021172,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [5]
 		{
 			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -242,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDolclemits|r",
 			[51] = 1552021177,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [6]
 		{
 			"3", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -264,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021177,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [7]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -286,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021178,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [8]
 		{
 			"2", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -308,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021178,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [9]
 		{
 			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -330,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDolclemits|r",
 			[51] = 1552021178,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [10]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -352,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021179,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [11]
 		{
 			"1", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -374,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021179,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [12]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -396,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dOrcbum|r",
 			[51] = 1552021180,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [17]
+		}, -- [13]
 		{
 			"Volatile Charge on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -418,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021184,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [14]
 		{
 			"Volatile Charge on Steelfire", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -440,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021184,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [15]
 		{
 			"Volatile Charge on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -462,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021184,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [16]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -484,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021189,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [17]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -506,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021189,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [18]
 		{
 			"3", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -528,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021189,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [19]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -550,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [20]
 		{
 			"2", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -572,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -594,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [22]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -616,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021191,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [23]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Steelfire-Kil'jaeden", -- [2]
@@ -638,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteelfire|r",
 			[51] = 1552021191,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [24]
 		{
 			"1", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -660,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021191,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [25]
 		{
 			"Volatile Charge on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -682,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [26]
 		{
 			"Volatile Charge on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -704,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [27]
 		{
 			"Volatile Charge on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -726,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [28]
 		{
 			"3", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -748,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [29]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -770,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [30]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -792,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [31]
 		{
 			"2", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -814,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [32]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -836,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [33]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -858,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [34]
 		{
 			"1", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -880,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [35]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -902,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [36]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -924,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [37]
 		{
 			"Volatile Charge on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -946,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021213,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Volatile Charge on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -968,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021213,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Volatile Charge on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -990,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021213,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1012,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [41]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1034,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [42]
 		{
 			"3", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1056,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [43]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1078,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [44]
 		{
 			"2", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1100,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [45]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1122,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1144,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Papisalad|r",
 			[51] = 1552021220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1166,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [48]
 		{
 			"Volatile Charge on Rylaiz", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1188,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"Volatile Charge on Drift", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1210,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"Volatile Charge on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1232,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1254,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [52]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1276,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"3", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1298,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [54]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1320,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [55]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1342,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [56]
 		{
 			"2", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1364,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [57]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1386,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [58]
 		{
 			"1", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1408,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [59]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1430,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddVercetty|r",
 			[51] = 1552021232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [60]
 		{
 			"Volatile Charge on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1452,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021248,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [61]
 		{
 			"Volatile Charge on Drift", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1474,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021248,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [62]
 		{
 			"Volatile Charge on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1496,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021248,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [63]
 		{
 			"3", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1518,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021253,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [64]
 		{
 			"3", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1540,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021253,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [65]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1562,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021253,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [66]
 		{
 			"2", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1584,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [67]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1606,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [68]
 		{
 			"2", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1628,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1650,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSkarsnik|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [70]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1672,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [71]
 		{
 			"1", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1694,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"Volatile Charge on Rylaiz", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1716,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"Volatile Charge on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1738,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"Volatile Charge on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1760,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021261,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [75]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1782,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [76]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1804,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1826,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [78]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1848,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [79]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1870,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [80]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1892,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddToshaman|r",
 			[51] = 1552021267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [81]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1914,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021268,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [82]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1936,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021268,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [83]
 		{
 			"Volatile Charge on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1958,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Zombiemonk|r",
 			[51] = 1552021273,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [84]
 		{
 			"Volatile Charge on Rylaiz", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -1980,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021273,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"Volatile Charge on Drift", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2002,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021273,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -2024,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021278,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [87]
 		{
 			"3", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2046,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021278,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [88]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -2068,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [89]
 		{
 			"2", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2090,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [90]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Rylaiz-Kil'jaeden", -- [2]
@@ -2112,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRylaiz|r",
 			[51] = 1552021280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [91]
 		{
 			"1", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2134,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Drift|r",
 			[51] = 1552021280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"Taunted Yalat's Bulwark!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2156,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Sherbie|r",
 			[51] = 1552021284,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [93]
 		{
 			"what key you have?", -- [1]
 			"|Kq34|k", -- [2]
@@ -2179,7 +2091,7 @@ ElvCharacterDB = {
 			[51] = 1552021913,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dragonspawn",
-		}, -- [98]
+		}, -- [94]
 		{
 			"not gonna be playing for a bit, packing for my trip", -- [1]
 			"|Kq34|k", -- [2]
@@ -2202,7 +2114,7 @@ ElvCharacterDB = {
 			[51] = 1552021991,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dragonspawn",
-		}, -- [99]
+		}, -- [95]
 		{
 			"k np", -- [1]
 			"|Kq34|k", -- [2]
@@ -2225,7 +2137,7 @@ ElvCharacterDB = {
 			[51] = 1552022020,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Dragonspawn",
-		}, -- [100]
+		}, -- [96]
 		{
 			"I'm going out of town this weekend which is why I brought shaman instead since I can't bring it to my other guild on friday and saturday and shaman needs the gear more", -- [1]
 			"|Kq34|k", -- [2]
@@ -2248,7 +2160,7 @@ ElvCharacterDB = {
 			[51] = 1552022023,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Dragonspawn",
-		}, -- [101]
+		}, -- [97]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12738:Player-9-08462094:1:3:7:19:4294967295:4294967295:4294967295:4294967295|h[Holy Scrap!]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2270,7 +2182,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1552022611,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [102]
+		}, -- [98]
 		{
 			"i need johnny to let people clip shit from his stream", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2292,7 +2204,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023243,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [99]
 		{
 			"just record with your phone", -- [1]
 			"Genericbelf-Kil'jaeden", -- [2]
@@ -2314,7 +2226,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Genericbelf|r",
 			[51] = 1552023258,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [100]
 		{
 			"toxic andrew", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2336,7 +2248,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023272,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [101]
 		{
 			"ya", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2358,7 +2270,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1552023277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [102]
 		{
 			"that was so fucking bad haha", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2380,7 +2292,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023282,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [103]
 		{
 			"imagine hitting your talk button", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2402,7 +2314,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023292,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [104]
 		{
 			"imagine dying in the first room on opulence", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2424,7 +2336,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023304,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [105]
 		{
 			"3 PULLS IN A ROW", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2446,7 +2358,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023309,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [106]
 		{
 			"imagine dying", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2468,7 +2380,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1552023323,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [107]
 		{
 			"imagine not having the dps to push the boss to the 2nd room before any mechanics come out", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2490,7 +2402,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023324,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [108]
 		{
 			"yo thats how right side felt last week", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2512,7 +2424,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1552023336,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [109]
 		{
 			":D", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2534,7 +2446,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1552023337,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [110]
 		{
 			"there was a dh in that raid", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2556,7 +2468,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023341,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [111]
 		{
 			"flameessss NOPE", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2578,7 +2490,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023345,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [112]
 		{
 			"Oh I watched the raid, andrew", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2600,7 +2512,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023353,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [113]
 		{
 			"that kept his blade dance off cd for 80% of the fight", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2622,7 +2534,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023355,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [114]
 		{
 			"HIS TOP PRIORITY ABILITY", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2644,7 +2556,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023367,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [115]
 		{
 			"80%", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2666,7 +2578,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023372,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [116]
 		{
 			"hmmm", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2688,7 +2600,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1552023381,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [117]
 		{
 			"and did less than bailey did on fetid that one time last tier", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2710,7 +2622,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023416,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [118]
 		{
 			"LIKE HOW", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2732,7 +2644,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023428,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [119]
 		{
 			"Oh when bailey was the 7th melee", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -2754,7 +2666,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormlash|r",
 			[51] = 1552023439,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [120]
 		{
 			"He stood out and did like 8k, whatever", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2776,7 +2688,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023457,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [121]
 		{
 			"but this dude", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2798,7 +2710,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023460,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [122]
 		{
 			"400ilvl doing 7k and isnt dead", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2820,6 +2732,94 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Andruww|r",
 			[51] = 1552023507,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"HI FRIENDS", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1552436367,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"Hi", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1552436376,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13161:Player-9-0B081794:1:3:12:19:4294967295:4294967295:4294967295:4294967295|h[Allied Races: Zandalari Troll]|h|r!", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			85, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1552436741,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"WTS |cffa335ee|Hitem:165564::::::::120:250::6:3:4800:1547:4783:::|h[Last Stand Greatbelt]|h|r 425ilvl pst", -- [1]
+			"Schizo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Schizo-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			102, -- [11]
+			"Player-9-03166F05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Schizo|r",
+			[51] = 1552436875,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

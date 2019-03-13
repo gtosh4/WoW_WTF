@@ -3,3 +3,5 @@ oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled
 AzeriteForge: disabled
+AdiBags: disabled
+AzeritePowerWeights: disabled

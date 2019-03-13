@@ -52,70 +52,35 @@ ToshAssignmentsDB = {
 								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Ramp",
 								["trigger"] = {
-									["eventNumber"] = "1,4,7,10",
-									["spell"] = {
-										["spellId"] = 282082,
-									},
 									["time"] = {
 									},
 									["type"] = "spell",
+									["eventNumber"] = "*",
+									["spell"] = {
+										["spellId"] = 282082,
+									},
 								},
 								["actions"] = {
 									{
-										["marker"] = {
-										},
 										["type"] = "bar",
 										["id"] = 1,
+										["marker"] = {
+										},
 										["bar"] = {
 											["icon"] = "marker6",
 										},
 									}, -- [1]
 									{
-										["marker"] = {
-										},
 										["type"] = "countdown",
 										["id"] = 2,
+										["marker"] = {
+										},
 										["bar"] = {
 										},
 									}, -- [2]
 								},
 								["id"] = 1,
 							}, -- [1]
-							{
-								["players"] = {
-									"Tosh", -- [1]
-								},
-								["removeOptions"] = nil --[[ skipped inline function ]],
-								["name"] = "Rapt",
-								["trigger"] = {
-									["spell"] = {
-										["spellId"] = 282082,
-									},
-									["time"] = {
-									},
-									["type"] = "spell",
-								},
-								["actions"] = {
-									{
-										["marker"] = {
-										},
-										["type"] = "bar",
-										["id"] = 1,
-										["bar"] = {
-											["icon"] = "marker1",
-										},
-									}, -- [1]
-									{
-										["marker"] = {
-										},
-										["type"] = "countdown",
-										["id"] = 2,
-										["bar"] = {
-										},
-									}, -- [2]
-								},
-								["id"] = 2,
-							}, -- [2]
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",

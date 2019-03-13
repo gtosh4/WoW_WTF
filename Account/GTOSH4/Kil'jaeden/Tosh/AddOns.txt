@@ -13,3 +13,5 @@ Blizzard_CompactRaidFrames: enabled
 Blizzard_CUFProfiles: disabled
 AzeriteForge: disabled
 AzeriteTooltip: enabled
+AdiBags: disabled
+AzeritePowerWeights: disabled
