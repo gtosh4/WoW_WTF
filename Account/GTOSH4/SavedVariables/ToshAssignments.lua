@@ -52,18 +52,18 @@ ToshAssignmentsDB = {
 								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Ramp",
 								["trigger"] = {
-									["time"] = {
-									},
 									["type"] = "spell",
-									["eventNumber"] = "*",
 									["spell"] = {
 										["spellId"] = 282082,
+									},
+									["eventNumber"] = "*",
+									["time"] = {
 									},
 								},
 								["actions"] = {
 									{
-										["type"] = "bar",
 										["id"] = 1,
+										["type"] = "bar",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -71,8 +71,8 @@ ToshAssignmentsDB = {
 										},
 									}, -- [1]
 									{
-										["type"] = "countdown",
 										["id"] = 2,
+										["type"] = "countdown",
 										["marker"] = {
 										},
 										["bar"] = {
@@ -84,8 +84,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",
-						["showOthers"] = false,
 						["enabled"] = true,
+						["showOthers"] = false,
 					},
 				},
 			},

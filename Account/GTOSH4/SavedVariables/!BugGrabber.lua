@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 568,
 	["lastSanitation"] = 3,
+	["session"] = 571,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:14: attempt to index global 'BigWigs' (a nil value)",
@@ -12,8 +12,8 @@ BugGrabberDB = {
 		}, -- [1]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\BigWigs_Core\\BigWigs_Core.toc",
-			["session"] = 553,
 			["time"] = "2019/03/07 15:58:42",
+			["session"] = 553,
 			["counter"] = 2,
 		}, -- [2]
 		{
@@ -25,74 +25,58 @@ BugGrabberDB = {
 			["counter"] = 2,
 		}, -- [3]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
-			["time"] = "2019/03/07 21:03:05",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:975: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
-			["session"] = 554,
-			["counter"] = 1,
-		}, -- [4]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
-			["time"] = "2019/03/07 21:03:05",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:975: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
-			["session"] = 554,
-			["counter"] = 1,
-		}, -- [5]
-		{
 			["message"] = "...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: GetAchievementCriteriaInfo(achievementID, criteriaIndex [,countHidden]), criteria not found",
 			["time"] = "2019/03/06 00:13:50",
 			["stack"] = "[C]: in function `GetAchievementCriteriaInfo'\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:132: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:90>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:181: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:166>\n...ns\\DataStore_Achievements\\DataStore_Achievements-r47.lua:214: in function <...ns\\DataStore_Achievements\\DataStore_Achievements.lua:209>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 558,
 			["counter"] = 8,
-		}, -- [6]
+		}, -- [4]
 		{
 			["message"] = "...ce\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Character-Character.lua:423: attempt to index field 'ButtonBackground' (a nil value)",
 			["time"] = "2019/03/12 20:12:02",
 			["stack"] = "...ce\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Character-Character.lua:423: in function <...ce\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Character.lua:266>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1355: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1337>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1396: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1395>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1614: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1838: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:191: in function <Interface\\AddOns\\ElvUI\\init.lua:190>",
 			["session"] = 559,
 			["counter"] = 1,
-		}, -- [7]
+		}, -- [5]
 		{
 			["message"] = "...face\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Tooltip.lua:27: attempt to index local 'WorldMapTooltip' (a nil value)",
 			["time"] = "2019/03/12 20:12:02",
 			["stack"] = "...face\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Tooltip.lua:27: in function <...face\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Tooltip.lua:20>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1355: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1337>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1396: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1395>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1614: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1838: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:191: in function <Interface\\AddOns\\ElvUI\\init.lua:190>",
 			["session"] = 559,
 			["counter"] = 1,
-		}, -- [8]
+		}, -- [6]
 		{
 			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1333: attempt to call method 'HookAce3' (a nil value)",
 			["time"] = "2019/03/12 20:15:13",
 			["stack"] = "Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1333: in function `SkinAce3'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1214: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 560,
 			["counter"] = 10,
-		}, -- [9]
+		}, -- [7]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Modules\\skins\\Addons\\Ace3.lua",
-			["time"] = "2019/03/12 20:15:20",
 			["session"] = 560,
+			["time"] = "2019/03/12 20:15:20",
 			["counter"] = 3,
-		}, -- [10]
+		}, -- [8]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Libraries\\oUF\\elements\\pvpclassificationindicator.lua",
-			["time"] = "2019/03/12 20:15:20",
 			["session"] = 560,
+			["time"] = "2019/03/12 20:15:20",
 			["counter"] = 3,
-		}, -- [11]
+		}, -- [9]
 		{
 			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Modules\\unitframes\\Elements\\PVPClassificationIndicator.lua",
-			["time"] = "2019/03/12 20:15:20",
 			["session"] = 560,
+			["time"] = "2019/03/12 20:15:20",
 			["counter"] = 4,
-		}, -- [12]
+		}, -- [10]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\core\\OO.lua:54: CreateFrame(): Couldn't find inherited node \"ItemButtonTemplate\"",
 			["time"] = "2019/03/12 20:12:07",
 			["stack"] = "(tail call): ?\nInterface\\AddOns\\AdiBags\\core\\OO.lua:59: in function <Interface\\AddOns\\AdiBags\\core\\OO.lua:52>\n(tail call): ?\n(tail call): ?\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:129: in function `GetFrame'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:83: in function `Open'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:119: in function <Interface\\AddOns\\AdiBags\\core\\Bags.lua:115>\n(tail call): ?\n(tail call): ?\nInterface\\AddOns\\AddOnSkins\\Skins\\AdiBags-v1.9.13.lua:28: in function <Interface\\AddOns\\AddOnSkins\\Skins\\AdiBags.lua:27>",
 			["session"] = 562,
 			["counter"] = 3,
-		}, -- [13]
+		}, -- [11]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\core\\Bags.lua:130: attempt to index field 'CloseButton' (a nil value)",
 			["time"] = "2019/03/12 20:12:07",
@@ -100,7 +84,7 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AdiBags\\core\\Bags.lua:130: in function `GetFrame'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:83: in function `Open'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:119: in function <Interface\\AddOns\\AdiBags\\core\\Bags.lua:115>\n(tail call): ?\n(tail call): ?\nInterface\\AddOns\\AddOnSkins\\Skins\\AdiBags-v1.9.13.lua:28: in function <Interface\\AddOns\\AddOnSkins\\Skins\\AdiBags.lua:27>",
 			["session"] = 562,
 			["counter"] = 3,
-		}, -- [14]
+		}, -- [12]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:714: attempt to index field 'BagSlotPanel' (a nil value)",
 			["time"] = "2019/03/12 20:12:30",
@@ -108,14 +92,14 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:714: in function `FilterSlot'\nInterface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:751: in function `DispatchItem'\nInterface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:811: in function `UpdateButtons'\nInterface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:448: in function `RefreshContents'\nInterface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:433: in function `ResumeUpdates'\nInterface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:416: in function <Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:408>\n[C]: in function `Show'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:89: in function `Open'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:209: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `SendMessage'\nInterface\\AddOns\\AdiBags\\core\\Core.lua:447: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:59>\n(tail call): ?",
 			["session"] = 562,
 			["counter"] = 16,
-		}, -- [15]
+		}, -- [13]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:555: attempt to index field 'Title' (a nil value)",
 			["time"] = "2019/03/12 20:12:18",
 			["stack"] = "(tail call): ?\nInterface\\AddOns\\AdiBags\\widgets\\LayeredRegion.lua:119: in function <Interface\\AddOns\\AdiBags\\widgets\\LayeredRegion.lua:108>",
 			["session"] = 562,
 			["counter"] = 16,
-		}, -- [16]
+		}, -- [14]
 		{
 			["message"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1658: attempt to index upvalue 'cfg' (a nil value)",
 			["time"] = "2019/03/12 20:57:50",
@@ -123,7 +107,7 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1658: in function <Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1657>\n[C]: ?\n[C]: in function `SetBagItem'\nInterface\\FrameXML\\ContainerFrame.lua:1374: in function `ContainerFrameItemButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n[C]: ?",
 			["session"] = 564,
 			["counter"] = 31,
-		}, -- [17]
+		}, -- [15]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Molinari' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
 			["time"] = "2019/03/12 21:04:52",
@@ -131,7 +115,7 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\nInterface\\AddOns\\Molinari\\Molinari-80000.58-Release.lua:98: in function `UpdateModifier'\nInterface\\AddOns\\Molinari\\Config.lua:27: in function `callback'\nInterface\\AddOns\\Molinari\\libs\\Wasabi\\Wasabi-6.lua:327: in function `Fire'\nInterface\\AddOns\\Molinari\\libs\\Wasabi\\Wasabi-6.lua:160: in function <Interface\\AddOns\\Molinari\\libs\\Wasabi\\Wasabi.lua:153>\n[C]: in function `pcall'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:206: in function <Interface\\FrameXML\\InterfaceOptionsFrame.lua:205>\n[C]: in function `securecall'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:229: in function <Interface\\FrameXML\\InterfaceOptionsFrame.lua:221>",
 			["session"] = 564,
 			["counter"] = 1,
-		}, -- [18]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1733: Usage: hooksecurefunc([table,] \"function\", hookfunc)",
 			["time"] = "2019/03/12 20:11:52",
@@ -139,7 +123,7 @@ BugGrabberDB = {
 			["stack"] = "[C]: in function `hooksecurefunc'\nInterface\\AddOns\\AzeritePowerWeights\\Core.lua:1733: in main chunk",
 			["session"] = 566,
 			["counter"] = 7,
-		}, -- [19]
+		}, -- [17]
 		{
 			["message"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1690: attempt to index upvalue 'cfg' (a nil value)",
 			["time"] = "2019/03/12 20:14:47",
@@ -147,7 +131,7 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1690: in function <Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1689>\n[C]: ?\n[C]: in function `SetHyperlink'\nInterface\\AddOns\\ElvUI\\Modules\\chat\\Chat-Chat.lua:1011: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function <...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:87>",
 			["session"] = 566,
 			["counter"] = 70,
-		}, -- [20]
+		}, -- [18]
 		{
 			["message"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1718: attempt to index upvalue 'cfg' (a nil value)",
 			["time"] = "2019/03/12 20:19:54",
@@ -155,7 +139,7 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1718: in function <Interface\\AddOns\\AzeritePowerWeights\\Core.lua:1717>\n[C]: ?\n[C]: in function `SetCompareItem'\nInterface\\FrameXML\\GameTooltip.lua:734: in function `GameTooltip_ShowCompareItem'\nInterface\\FrameXML\\GameTooltip.lua:546: in function <Interface\\FrameXML\\GameTooltip.lua:544>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `SetHyperlink'\nInterface\\AddOns\\Blizzard_Communities\\GuildNews.lua:257: in function `UpdateTooltip'\nInterface\\FrameXML\\GameTooltip.lua:492: in function <Interface\\FrameXML\\GameTooltip.lua:471>\n[C]: ?",
 			["session"] = 566,
 			["counter"] = 109,
-		}, -- [21]
+		}, -- [19]
 		{
 			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\nameplates.lua:37: hooksecurefunc(): Update_ThreatList is not a function",
 			["time"] = "2019/03/12 20:11:53",
@@ -163,31 +147,86 @@ BugGrabberDB = {
 			["stack"] = "[C]: in function `hooksecurefunc'\nInterface\\AddOns\\ElvUI_SLE\\modules\\nameplates.lua:37: in main chunk",
 			["session"] = 568,
 			["counter"] = 9,
-		}, -- [22]
+		}, -- [20]
 		{
 			["message"] = "Interface\\AddOns\\AzeriteTooltip\\AzeriteTooltip-2.0.2.lua:162: Usage: SecureHookScript(object, method, [handler]): You can only hook a script on a frame object",
 			["time"] = "2019/03/12 20:12:00",
 			["stack"] = "[C]: ?\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:143: in function <...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:118>\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:411: in function `SecureHookScript'\nInterface\\AddOns\\AzeriteTooltip\\AzeriteTooltip-2.0.2.lua:162: in function <Interface\\AddOns\\AzeriteTooltip\\AzeriteTooltip.lua:146>\n[C]: ?\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:70: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:527: in function `EnableAddon'\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:620: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:605>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:565: in function `TimeManager_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1192: in function <Interface\\FrameXML\\UIParent.lua:1090>",
 			["session"] = 568,
 			["counter"] = 9,
-		}, -- [23]
-		{
-			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
-			["session"] = 568,
-			["time"] = "2019/03/06 00:13:44",
-			["counter"] = 76,
-		}, -- [24]
+		}, -- [21]
 		{
 			["message"] = "(null)",
-			["session"] = 568,
 			["time"] = "2019/03/12 20:11:58",
+			["session"] = 568,
 			["counter"] = 34,
-		}, -- [25]
+		}, -- [22]
 		{
 			["message"] = "Couldn't find inherited node: ItemButtonTemplate",
-			["session"] = 568,
 			["time"] = "2019/03/12 20:54:26",
+			["session"] = 568,
 			["counter"] = 4,
+		}, -- [23]
+		{
+			["message"] = "Interface\\AddOns\\AstralKeys\\MinimapButton.lua:21: attempt to index field 'general' (a nil value)",
+			["time"] = "2019/03/13 20:02:19",
+			["stack"] = "Interface\\AddOns\\AstralKeys\\MinimapButton.lua:21: in function <Interface\\AddOns\\AstralKeys\\MinimapButton.lua:17>\n[C]: ?\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:70: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:498: in function `InitializeAddon'\n...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua:613: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:605>",
+			["session"] = 569,
+			["counter"] = 1,
+		}, -- [24]
+		{
+			["message"] = "Deferred XML Node object named oUF_ClickCastUnitTemplate already exists",
+			["time"] = "2019/03/06 00:13:44",
+			["session"] = 571,
+			["counter"] = 91,
+		}, -- [25]
+		{
+			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v140.lua:242: attempt to perform arithmetic on local 'length' (a nil value)",
+			["time"] = "2019/03/13 21:37:41",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v140.lua:242: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
+			["session"] = 571,
+			["counter"] = 5,
 		}, -- [26]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'CollectionsJournal:EnableMouse()'.",
+			["time"] = "2019/03/13 21:41:10",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `EnableMouse'\nInterface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua:216: in function `MakeMovable'\nInterface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua:238: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:612: in function `CollectionsJournal_LoadUI'\nInterface\\FrameXML\\UIParent.lua:952: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:946: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
+			["session"] = 571,
+			["counter"] = 1,
+		}, -- [27]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
+			["time"] = "2019/03/07 21:03:05",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:975: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
+			["session"] = 571,
+			["counter"] = 2,
+		}, -- [28]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
+			["time"] = "2019/03/07 21:03:05",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:975: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
+			["session"] = 571,
+			["counter"] = 2,
+		}, -- [29]
+		{
+			["message"] = "...ntant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0-7.lua:74: bad argument #2 to 'format' (string expected, got nil)",
+			["time"] = "2019/03/13 22:29:54",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: ?\n...ntant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0-7.lua:74: in function `Printf'\nInterface\\AddOns\\ToshAssignments\\bigwigs-v140.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `CDBar'\nInterface\\AddOns\\BigWigs_BattleOfDazaralor\\Jaina.lua:202: in function `OnEngage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:844: in function `Engage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:653: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
+			["session"] = 571,
+			["counter"] = 3,
+		}, -- [30]
+		{
+			["message"] = "Interface\\FrameXML\\ContainerFrame.lua:1426: attempt to index a nil value",
+			["time"] = "2019/03/13 22:40:31",
+			["locals"] = "self = AdiBagsItemButton112 {\n timeSinceUpgradeCheck = 0\n PostOnLoad = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:169\n BattlepayItemTexture = <unnamed> {\n }\n IconOverlay = <unnamed> {\n }\n BagStaticTop = <unnamed> {\n }\n GetItemContextMatchResult = <function> defined @Interface\\FrameXML\\ContainerFrame.lua:1425\n IconBorder = <unnamed> {\n }\n newitemglowAnim = <unnamed> {\n }\n icon = AdiBagsItemButton112IconTexture {\n }\n UpdateTooltip = <function> defined @Interface\\FrameXML\\ContainerFrame.lua:1347\n ExtendedOverlay = <unnamed> {\n }\n RegisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:175\n UnregisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:182\n UpdateItemContextMatching = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:211\n itemContextChangedCallbackIsSet = false\n NewItemTexture = <unnamed> {\n }\n Cooldown = AdiBagsItemButton112Cooldown {\n }\n bagFamily = 0\n itemContextMatchResult = 3\n count = 1\n BagStaticBottom = <unnamed> {\n }\n filterName = \"Junk\"\n ItemContextOverlay = <unnamed> {\n }\n PostOnShow = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:189\n flash = <unnamed> {\n }\n ExtendedSlot = <unnamed> {\n }\n ExtendedOverlay2 = <unnamed> {\n }\n hasItem = false\n IconTexture = AdiBagsItemButton112IconTexture {\n }\n JunkIcon = <unnamed> {\n }\n SetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:202\n UpdateItemContextOverlay = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:222\n slot = 25\n bag = 1\n NormalTexture = AdiBagsItemButton112NormalTexture {\n }\n Stock = AdiBagsItemButton112Stock {\n }\n IconQuestTexture = AdiBagsItemButton112IconQuestTexture {\n }\n itemContextChangedCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:170\n 0 = <userdata>\n Count = AdiBagsItemButton112Count {\n }\n PostOnHide = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:198\n flashAnim = <unnamed> {\n }\n GetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:207\n UpgradeIcon = <unnamed> {\n }\n searchOverlay = AdiBagsItemButton112SearchOverlay {\n }\n}\n(*temporary) = <function> defined @Interface\\FrameXML\\ItemUtil.lua:47\n(*temporary) = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:9\n(*temporary) = <table> {\n CreateFromBagAndSlot = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:9\n CreateFromEquipmentSlot = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:15\n CreateEmpty = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:4\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index a nil value\"\n",
+			["stack"] = "Interface\\FrameXML\\ContainerFrame.lua:1426: in function `GetItemContextMatchResult'\nInterface\\FrameXML\\ItemButtonTemplate.lua:214: in function `UpdateItemContextMatching'\nInterface\\FrameXML\\ItemButtonTemplate.lua:190: in function <Interface\\FrameXML\\ItemButtonTemplate.lua:189>\n[C]: in function `Show'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:89: in function `Open'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:119: in function <Interface\\AddOns\\AdiBags\\core\\Bags.lua:115>\n(tail call): ?\n(tail call): ?\n[string \"TOGGLEBACKPACK\"]:1: in function <[string \"TOGGLEBACKPACK\"]:1>",
+			["session"] = 571,
+			["counter"] = 3,
+		}, -- [31]
 	},
 }

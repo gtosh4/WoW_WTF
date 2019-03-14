@@ -7,10 +7,10 @@ VWQL = {
 	["Sort"] = 5,
 	["VERSION"] = 85,
 	["Anchor"] = 1,
-	["HideLegion"] = true,
-	["AzeriteFormat"] = 20,
+	["ArrowStyle"] = 2,
+	["AnchorQCBTop"] = 872.035278320313,
 	["Zaemme-Kil'jaeden"] = {
-		["Filter"] = 63,
+		["VERSION"] = 85,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -21,62 +21,57 @@ VWQL = {
 			[50869] = true,
 			[51642] = true,
 			[50863] = true,
-			[50524] = true,
 			[49068] = true,
-		},
-		["VERSION"] = 85,
-	},
-	["Yuumi-Kil'jaeden"] = {
-		["FilterType"] = {
+			[50524] = true,
 		},
 		["Filter"] = 63,
-		["Quests"] = {
-		},
-		["VERSION"] = 85,
 	},
+	["ShellGameCenter"] = 48.0010375976563,
 	["DisableArrow"] = false,
 	["OppositeContinent"] = false,
 	["Yorman-Kil'jaeden"] = {
-		["VERSION"] = 85,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 			[51415] = true,
 		},
-		["Filter"] = 63,
-	},
-	["ShellGameSize"] = 383.011840820313,
-	["Tosh-Kil'jaeden"] = {
 		["VERSION"] = 85,
+	},
+	["DisableRibbon"] = true,
+	["Tosh-Kil'jaeden"] = {
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 			[50459] = true,
 			[51642] = true,
 		},
-		["Filter"] = 63,
+		["VERSION"] = 85,
 	},
 	["Ignore"] = {
 	},
-	["ShellGameCenter"] = 48.0010375976563,
-	["Toshaman-Kil'jaeden"] = {
+	["Yuumi-Kil'jaeden"] = {
 		["VERSION"] = 85,
 		["Filter"] = 63,
 		["Quests"] = {
-			[50870] = true,
-			[54619] = true,
-			[49413] = true,
-			[51625] = true,
-			[52871] = true,
 		},
+		["FilterType"] = {
+		},
+	},
+	["Toshaman-Kil'jaeden"] = {
 		["FilterType"] = {
 			["pet"] = true,
 		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 85,
 	},
-	["RewardIcons_DisableBountyColors"] = false,
 	["EnableRibbonGeneralMaps"] = false,
-	["DisableRibbon"] = true,
+	["RewardIcons_DisableBountyColors"] = false,
+	["ShellGameSize"] = 383.011840820313,
 	["AnchorQCBLeft"] = 1838.12561035156,
-	["AnchorQCBTop"] = 872.035278320313,
-	["ArrowStyle"] = 2,
+	["AzeriteFormat"] = 20,
+	["HideLegion"] = true,
 }

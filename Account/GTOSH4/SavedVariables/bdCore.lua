@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Tosh",
+		["name"] = "Toshaman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -108,8 +108,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
-			["interrupt"] = true,
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -118,33 +116,36 @@ BD_persistent = {
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

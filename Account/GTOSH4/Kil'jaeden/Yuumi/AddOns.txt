@@ -15,5 +15,5 @@ AzeriteForge: disabled
 BigWigs_Azeroth: enabled
 BigWigs_Cataclysm: enabled
 BigWigs_MistsOfPandaria: enabled
-AdiBags: disabled
+AdiBags: enabled
 AzeritePowerWeights: disabled

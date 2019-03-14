@@ -1,5 +1,6 @@
 
 BigWigs3DB = {
+	["discord"] = 15,
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -7,15 +8,14 @@ BigWigs3DB = {
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Yuumi - Kil'jaeden"] = "Default",
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
+					[288449] = 2015479,
 					[285003] = 1032439,
 					[287333] = 1032439,
 					["stages"] = 1032439,
-					[288449] = 2015479,
 				},
 			},
 		},
@@ -49,12 +49,15 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+		},
 		["BigWigs_Bosses_Battle of Dazar'alor Trash"] = {
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					[282082] = 1032439,
+					[289401] = 1032439,
 				},
 			},
 		},
@@ -103,15 +106,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
-					["posy"] = 517.864880098772,
-					["posx"] = 402.655939044766,
-				},
-			},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -120,14 +115,6 @@ BigWigs3DB = {
 					[285118] = 1032439,
 				},
 			},
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -142,6 +129,22 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+					["posy"] = 517.864880098772,
+					["posx"] = 402.655939044766,
+				},
+			},
+		},
 		["BigWigs_Bosses_Champion of the Light Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -151,11 +154,10 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
+					[286988] = 1032951,
 				},
 			},
 		},
@@ -167,8 +169,8 @@ BigWigs3DB = {
 			[-1004] = true,
 			[-367] = true,
 			[-557] = true,
-			[875] = true,
 			[876] = true,
+			[875] = true,
 		},
 	},
 	["profiles"] = {
@@ -194,7 +196,7 @@ BigWigsStatsDB = {
 				["best"] = 304.939000000013,
 			},
 			["heroic"] = {
-				["kills"] = 12,
+				["kills"] = 13,
 				["wipes"] = 10,
 				["best"] = 225.496000000043,
 			},
@@ -213,7 +215,7 @@ BigWigsStatsDB = {
 				["wipes"] = 102,
 			},
 			["heroic"] = {
-				["kills"] = 10,
+				["kills"] = 11,
 				["best"] = 381.266999999993,
 				["wipes"] = 34,
 			},
@@ -229,7 +231,7 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 			},
 			["heroic"] = {
-				["kills"] = 13,
+				["kills"] = 14,
 				["wipes"] = 15,
 				["best"] = 368.693999999901,
 			},
@@ -245,7 +247,7 @@ BigWigsStatsDB = {
 		},
 		[2335] = {
 			["heroic"] = {
-				["kills"] = 11,
+				["kills"] = 12,
 				["wipes"] = 14,
 				["best"] = 345.146999999997,
 			},
@@ -283,8 +285,8 @@ BigWigsStatsDB = {
 				["best"] = 385.11599999998,
 			},
 			["heroic"] = {
-				["kills"] = 7,
-				["wipes"] = 31,
+				["kills"] = 8,
+				["wipes"] = 35,
 				["best"] = 293.709000000003,
 			},
 		},
@@ -300,7 +302,7 @@ BigWigsStatsDB = {
 				["best"] = 327.901000000013,
 			},
 			["heroic"] = {
-				["kills"] = 12,
+				["kills"] = 13,
 				["wipes"] = 38,
 				["best"] = 259.287999999942,
 			},
@@ -316,7 +318,7 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["heroic"] = {
-				["kills"] = 13,
+				["kills"] = 14,
 				["wipes"] = 9,
 				["best"] = 194.273999999976,
 			},
@@ -343,7 +345,7 @@ BigWigsStatsDB = {
 				["best"] = 97.2330000000075,
 			},
 			["heroic"] = {
-				["kills"] = 12,
+				["kills"] = 13,
 				["wipes"] = 2,
 				["best"] = 84.7950000001583,
 			},
