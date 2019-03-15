@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 571,
+	["session"] = 573,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v137.lua:14: attempt to index global 'BigWigs' (a nil value)",
@@ -221,12 +221,36 @@ BugGrabberDB = {
 			["counter"] = 3,
 		}, -- [30]
 		{
+			["message"] = "Interface\\AddOns\\SavedInstances\\SavedInstances-8.1.0.lua:3188: Usage: <unnamed>:SetBackdrop(nil or {bgFile = \"bgFile\", edgeFile = \"edgeFile\", tile = false, tileSize = 0, edgeSize = 32, insets = { left = 0, right = 0, top = 0, bottom = 0 }})",
+			["time"] = "2019/03/14 22:52:05",
+			["locals"] = "(*temporary) = <unnamed> {\n 0 = <userdata>\n lines = <table> {\n }\n OnRelease = <function> defined @Interface\\AddOns\\SavedInstances\\SavedInstances.lua:4336\n headerFont = SavedInstancedTooltipHeaderFont {\n }\n scripts = <table> {\n }\n SetBackdropBorderColor = <function> defined =[C]:-1\n scrollFrame = <unnamed> {\n }\n anchorframe = SavedInstancesDetachHeader {\n }\n template = \"Transparent\"\n scrollChild = <unnamed> {\n }\n colspans = <table> {\n }\n width = 630.735859\n regularFont = GameTooltipText {\n }\n labelProvider = <table> {\n }\n columns = <table> {\n }\n height = 236.132107\n SetBackdropColor = <function> defined =[C]:-1\n pixelBorders = <table> {\n }\n key = \"SavedInstancesTooltip\"\n}\n",
+			["stack"] = "[C]: in function `SetBackdrop'\nInterface\\AddOns\\SavedInstances\\SavedInstances-8.1.0.lua:3188: in function <Interface\\AddOns\\SavedInstances\\SavedInstances.lua:3184>",
+			["session"] = 573,
+			["counter"] = 28,
+		}, -- [31]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MainMenuBar:SetPoint()'.",
+			["time"] = "2019/03/14 22:56:40",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetPoint'\nInterface\\FrameXML\\UIParent.lua:2978: in function `UIParentManageFramePositions'\nInterface\\FrameXML\\UIParent.lua:2354: in function <Interface\\FrameXML\\UIParent.lua:2341>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3150: in function <Interface\\FrameXML\\UIParent.lua:3148>\n[C]: in function `UIParent_ManageFramePositions'\n...ard_UIWidgets\\Blizzard_UIWidgetBelowMinimapFrame.lua:25: in function `layoutFunc'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:337: in function `UpdateWidgetLayout'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:318: in function `ProcessAllWidgets'\n...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:23: in function <...dOns\\Blizzard_UIWidgets\\Blizzard_UIWidgetManager.lua:21>",
+			["session"] = 573,
+			["counter"] = 1,
+		}, -- [32]
+		{
+			["message"] = "Found spell 'Biting Cold' using id 62039 on 24, tell the authors!",
+			["time"] = "2019/03/14 23:33:05",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:1130: in function `UnitDebuff'\n...e\\AddOns\\BigWigs_WrathOfTheLichKing\\Ulduar\\Hodir.lua:104: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:522: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:517>",
+			["session"] = 573,
+			["counter"] = 1,
+		}, -- [33]
+		{
 			["message"] = "Interface\\FrameXML\\ContainerFrame.lua:1426: attempt to index a nil value",
 			["time"] = "2019/03/13 22:40:31",
 			["locals"] = "self = AdiBagsItemButton112 {\n timeSinceUpgradeCheck = 0\n PostOnLoad = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:169\n BattlepayItemTexture = <unnamed> {\n }\n IconOverlay = <unnamed> {\n }\n BagStaticTop = <unnamed> {\n }\n GetItemContextMatchResult = <function> defined @Interface\\FrameXML\\ContainerFrame.lua:1425\n IconBorder = <unnamed> {\n }\n newitemglowAnim = <unnamed> {\n }\n icon = AdiBagsItemButton112IconTexture {\n }\n UpdateTooltip = <function> defined @Interface\\FrameXML\\ContainerFrame.lua:1347\n ExtendedOverlay = <unnamed> {\n }\n RegisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:175\n UnregisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:182\n UpdateItemContextMatching = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:211\n itemContextChangedCallbackIsSet = false\n NewItemTexture = <unnamed> {\n }\n Cooldown = AdiBagsItemButton112Cooldown {\n }\n bagFamily = 0\n itemContextMatchResult = 3\n count = 1\n BagStaticBottom = <unnamed> {\n }\n filterName = \"Junk\"\n ItemContextOverlay = <unnamed> {\n }\n PostOnShow = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:189\n flash = <unnamed> {\n }\n ExtendedSlot = <unnamed> {\n }\n ExtendedOverlay2 = <unnamed> {\n }\n hasItem = false\n IconTexture = AdiBagsItemButton112IconTexture {\n }\n JunkIcon = <unnamed> {\n }\n SetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:202\n UpdateItemContextOverlay = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:222\n slot = 25\n bag = 1\n NormalTexture = AdiBagsItemButton112NormalTexture {\n }\n Stock = AdiBagsItemButton112Stock {\n }\n IconQuestTexture = AdiBagsItemButton112IconQuestTexture {\n }\n itemContextChangedCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:170\n 0 = <userdata>\n Count = AdiBagsItemButton112Count {\n }\n PostOnHide = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:198\n flashAnim = <unnamed> {\n }\n GetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:207\n UpgradeIcon = <unnamed> {\n }\n searchOverlay = AdiBagsItemButton112SearchOverlay {\n }\n}\n(*temporary) = <function> defined @Interface\\FrameXML\\ItemUtil.lua:47\n(*temporary) = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:9\n(*temporary) = <table> {\n CreateFromBagAndSlot = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:9\n CreateFromEquipmentSlot = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:15\n CreateEmpty = <function> defined @Interface\\FrameXML\\ObjectAPI\\ItemLocation.lua:4\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index a nil value\"\n",
 			["stack"] = "Interface\\FrameXML\\ContainerFrame.lua:1426: in function `GetItemContextMatchResult'\nInterface\\FrameXML\\ItemButtonTemplate.lua:214: in function `UpdateItemContextMatching'\nInterface\\FrameXML\\ItemButtonTemplate.lua:190: in function <Interface\\FrameXML\\ItemButtonTemplate.lua:189>\n[C]: in function `Show'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:89: in function `Open'\nInterface\\AddOns\\AdiBags\\core\\Bags.lua:119: in function <Interface\\AddOns\\AdiBags\\core\\Bags.lua:115>\n(tail call): ?\n(tail call): ?\n[string \"TOGGLEBACKPACK\"]:1: in function <[string \"TOGGLEBACKPACK\"]:1>",
-			["session"] = 571,
-			["counter"] = 3,
-		}, -- [31]
+			["session"] = 573,
+			["counter"] = 6,
+		}, -- [34]
 	},
 }

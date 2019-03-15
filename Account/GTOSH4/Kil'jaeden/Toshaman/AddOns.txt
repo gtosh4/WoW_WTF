@@ -15,3 +15,4 @@ AzeriteForge: disabled
 BigWigs_Azeroth: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
+BigWigs_WrathOfTheLichKing: enabled

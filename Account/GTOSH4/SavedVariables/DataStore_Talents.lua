@@ -34,7 +34,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1552531247,
+				["lastUpdate"] = 1552626483,
 				["Specializations"] = {
 					9637, -- [1]
 					[3] = 7831,
@@ -42,7 +42,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1552449858,
+				["lastUpdate"] = 1552613628,
 				["Specializations"] = {
 					16383, -- [1]
 					[3] = 5527,
@@ -175,7 +175,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29704,
+			["Version"] = 29732,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -349,7 +349,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29701,
+			["Version"] = 29732,
 		},
 	},
 }
