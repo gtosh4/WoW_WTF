@@ -643,12 +643,12 @@ HekiliDB = {
 					["debuffPadding"] = 0,
 					["damage"] = true,
 					["package"] = "Windwalker",
-					["nameplateRange"] = 8,
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["nameplates"] = true,
 					["potionsReset"] = 20180919.1,
 					["damageExpiration"] = 8,
-					["cycle"] = true,
+					["nameplateRange"] = 8,
 					["strict"] = false,
 				},
 				[268] = {
@@ -1949,8 +1949,8 @@ HekiliDB = {
 							{
 								["enabled"] = true,
 								["moving"] = "1",
-								["criteria"] = "talent.ascendance.enabled",
 								["action"] = "lava_burst",
+								["criteria"] = "talent.ascendance.enabled",
 							}, -- [13]
 							{
 								["enabled"] = true,
@@ -2102,8 +2102,8 @@ HekiliDB = {
 							{
 								["enabled"] = true,
 								["moving"] = "1",
-								["criteria"] = "movement.distance > 6",
 								["action"] = "flame_shock",
+								["criteria"] = "movement.distance > 6",
 							}, -- [27]
 							{
 								["moving"] = "1",
@@ -2755,38 +2755,31 @@ HekiliDB = {
 								["action"] = "lava_lash",
 							}, -- [9]
 						},
-						["default_core"] = {
+						["precombat"] = {
 							{
 								["enabled"] = true,
-								["criteria"] = "variable.furyCheck_ES",
-								["action"] = "earthen_spike",
 							}, -- [1]
 							{
 								["enabled"] = true,
-								["criteria"] = "active_enemies > 1 & azerite.lightning_conduit.enabled & ! debuff.lightning_conduit.up & variable.furyCheck_SS",
-								["action"] = "stormstrike",
-								["cycle_targets"] = 1,
 							}, -- [2]
 							{
 								["enabled"] = true,
-								["criteria"] = "buff.stormbringer.up || ( active_enemies > 1 & buff.gathering_storms.up & variable.furyCheck_SS )",
-								["action"] = "stormstrike",
 							}, -- [3]
 							{
 								["enabled"] = true,
-								["criteria"] = "active_enemies >= 3 & variable.furyCheck_CL",
-								["action"] = "crash_lightning",
 							}, -- [4]
 							{
+								["action"] = "totem_mastery",
 								["enabled"] = true,
-								["criteria"] = "talent.overcharge.enabled & active_enemies = 1 & variable.furyCheck_LB & maelstrom >= 40",
-								["action"] = "lightning_bolt",
 							}, -- [5]
 							{
+								["action"] = "lightning_shield",
 								["enabled"] = true,
-								["criteria"] = "variable.OCPool_SS & variable.furyCheck_SS",
-								["action"] = "stormstrike",
 							}, -- [6]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [7]
 						},
 						["priority"] = {
 							{
@@ -2900,31 +2893,38 @@ HekiliDB = {
 								["enabled"] = true,
 							}, -- [9]
 						},
-						["precombat"] = {
+						["default_core"] = {
 							{
 								["enabled"] = true,
+								["criteria"] = "variable.furyCheck_ES",
+								["action"] = "earthen_spike",
 							}, -- [1]
 							{
 								["enabled"] = true,
+								["criteria"] = "active_enemies > 1 & azerite.lightning_conduit.enabled & ! debuff.lightning_conduit.up & variable.furyCheck_SS",
+								["action"] = "stormstrike",
+								["cycle_targets"] = 1,
 							}, -- [2]
 							{
 								["enabled"] = true,
+								["criteria"] = "buff.stormbringer.up || ( active_enemies > 1 & buff.gathering_storms.up & variable.furyCheck_SS )",
+								["action"] = "stormstrike",
 							}, -- [3]
 							{
 								["enabled"] = true,
+								["criteria"] = "active_enemies >= 3 & variable.furyCheck_CL",
+								["action"] = "crash_lightning",
 							}, -- [4]
 							{
-								["action"] = "totem_mastery",
 								["enabled"] = true,
+								["criteria"] = "talent.overcharge.enabled & active_enemies = 1 & variable.furyCheck_LB & maelstrom >= 40",
+								["action"] = "lightning_bolt",
 							}, -- [5]
 							{
-								["action"] = "lightning_shield",
 								["enabled"] = true,
+								["criteria"] = "variable.OCPool_SS & variable.furyCheck_SS",
+								["action"] = "stormstrike",
 							}, -- [6]
-							{
-								["action"] = "potion",
-								["enabled"] = true,
-							}, -- [7]
 						},
 						["default"] = {
 							{
@@ -4152,8 +4152,8 @@ HekiliDB = {
 							}, -- [20]
 							{
 								["enabled"] = true,
-								["action"] = "cancel_buff",
 								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
+								["action"] = "cancel_buff",
 								["buff_name"] = "starlord",
 							}, -- [21]
 							{
@@ -4277,7 +4277,7 @@ HekiliDB = {
 			["specs"] = {
 				[103] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Feral",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4285,17 +4285,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "battle_potion_of_agility",
-					["package"] = "Feral",
-					["potionsReset"] = 20180919.1,
-					["damageExpiration"] = 3,
-					["nameplates"] = true,
 					["cycle"] = false,
+					["potion"] = "battle_potion_of_agility",
+					["throttleRefresh"] = false,
+					["nameplates"] = true,
+					["damageExpiration"] = 3,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
 				},
 				[262] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Elemental",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4303,17 +4303,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["damage"] = true,
-					["nameplateRange"] = 8,
-					["potion"] = "battle_potion_of_intellect",
-					["package"] = "Elemental",
-					["nameplates"] = false,
-					["damageExpiration"] = 6,
-					["potionsReset"] = 20180919.1,
 					["cycle"] = false,
+					["potion"] = "battle_potion_of_intellect",
+					["throttleRefresh"] = false,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 6,
+					["nameplates"] = false,
+					["nameplateRange"] = 8,
 				},
 				[263] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Enhancement",
 					["aoe"] = 2,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4321,17 +4321,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["damage"] = true,
-					["nameplateRange"] = 8,
-					["potion"] = "battle_potion_of_agility",
-					["package"] = "Enhancement",
-					["nameplates"] = true,
-					["damageExpiration"] = 8,
-					["potionsReset"] = 20180919.1,
 					["cycle"] = false,
+					["potion"] = "battle_potion_of_agility",
+					["throttleRefresh"] = false,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 8,
+					["nameplates"] = true,
+					["nameplateRange"] = 8,
 				},
 				[104] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Guardian",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4339,17 +4339,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "steelskin_potion",
-					["package"] = "Guardian",
-					["potionsReset"] = 20180919.1,
-					["damageExpiration"] = 6,
-					["nameplates"] = true,
 					["cycle"] = false,
+					["potion"] = "steelskin_potion",
+					["throttleRefresh"] = false,
+					["nameplates"] = true,
+					["damageExpiration"] = 6,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
 				},
 				[268] = {
 					["maxRefresh"] = 10,
-					["package"] = "Brewmaster",
+					["throttleRefresh"] = false,
 					["aoe"] = 2,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4357,13 +4357,13 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["damage"] = true,
-					["cycle"] = false,
-					["potion"] = "battle_potion_of_agility",
-					["throttleRefresh"] = false,
-					["nameplates"] = true,
-					["damageExpiration"] = 8,
-					["potionsReset"] = 20180919.1,
 					["nameplateRange"] = 8,
+					["potion"] = "battle_potion_of_agility",
+					["package"] = "Brewmaster",
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 8,
+					["nameplates"] = true,
+					["cycle"] = false,
 				},
 				[269] = {
 					["maxRefresh"] = 10,
@@ -4374,19 +4374,19 @@ HekiliDB = {
 					["buffPadding"] = 0.25,
 					["enabled"] = true,
 					["debuffPadding"] = 0,
-					["damage"] = true,
 					["package"] = "Windwalker",
-					["nameplateRange"] = 8,
+					["damage"] = true,
+					["cycle"] = true,
 					["potion"] = "potion_of_bursting_blood",
 					["potionsReset"] = 20180919.1,
 					["nameplates"] = true,
 					["damageExpiration"] = 8,
-					["cycle"] = true,
+					["nameplateRange"] = 8,
 					["strict"] = false,
 				},
 				[102] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Balance",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4394,17 +4394,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["nameplateRange"] = 8,
-					["potion"] = "potion_of_rising_death",
-					["package"] = "Balance",
-					["potionsReset"] = 20180919.1,
-					["damageExpiration"] = 6,
-					["nameplates"] = false,
 					["cycle"] = false,
+					["potion"] = "potion_of_rising_death",
+					["throttleRefresh"] = false,
+					["nameplates"] = false,
+					["damageExpiration"] = 6,
+					["potionsReset"] = 20180919.1,
+					["nameplateRange"] = 8,
 				},
 				[258] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Shadow",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4412,17 +4412,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["damage"] = true,
-					["nameplateRange"] = 8,
-					["potion"] = "potion_of_rising_death",
-					["package"] = "Shadow",
-					["nameplates"] = false,
-					["damageExpiration"] = 6,
-					["potionsReset"] = 20180919.1,
 					["cycle"] = false,
+					["potion"] = "potion_of_rising_death",
+					["throttleRefresh"] = false,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 6,
+					["nameplates"] = false,
+					["nameplateRange"] = 8,
 				},
 				[70] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Retribution",
 					["aoe"] = 3,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4430,17 +4430,17 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["cycle"] = false,
-					["potion"] = "battle_potion_of_strength",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = true,
-					["damageExpiration"] = 8,
-					["package"] = "Retribution",
 					["nameplateRange"] = 8,
+					["potion"] = "battle_potion_of_strength",
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 8,
+					["throttleRefresh"] = false,
+					["cycle"] = false,
 				},
 				[66] = {
 					["maxRefresh"] = 10,
-					["throttleRefresh"] = false,
+					["package"] = "Protection Paladin",
 					["aoe"] = 2,
 					["gcdSync"] = true,
 					["damageDots"] = false,
@@ -4448,13 +4448,13 @@ HekiliDB = {
 					["enabled"] = true,
 					["debuffPadding"] = 0,
 					["buffPadding"] = 0.25,
-					["cycle"] = false,
-					["potion"] = "potion_of_bursting_blood",
-					["potionsReset"] = 20180919.1,
-					["nameplates"] = true,
-					["damageExpiration"] = 8,
-					["package"] = "Protection Paladin",
 					["nameplateRange"] = 8,
+					["potion"] = "potion_of_bursting_blood",
+					["nameplates"] = true,
+					["potionsReset"] = 20180919.1,
+					["damageExpiration"] = 8,
+					["throttleRefresh"] = false,
+					["cycle"] = false,
 				},
 			},
 			["notifications"] = {
@@ -4484,19 +4484,19 @@ HekiliDB = {
 				},
 				["Primary"] = {
 					["zoom"] = 0,
-					["border"] = {
-						["fit"] = false,
-					},
 					["delays"] = {
 						["anchor"] = "BOTTOMRIGHT",
 						["font"] = "Expressway",
 						["fontSize"] = 14,
 					},
+					["border"] = {
+						["fit"] = false,
+					},
 					["queue"] = {
 						["height"] = 22,
 						["width"] = 22,
 					},
-					["rel"] = "CENTER",
+					["y"] = -111.992607116699,
 					["x"] = -166.004470825195,
 					["keybindings"] = {
 						["y"] = 6,
@@ -4512,7 +4512,7 @@ HekiliDB = {
 					},
 					["numIcons"] = 2,
 					["primaryWidth"] = 36,
-					["y"] = -111.992607116699,
+					["rel"] = "CENTER",
 				},
 				["Defensives"] = {
 					["rel"] = "CENTER",
@@ -5071,38 +5071,31 @@ HekiliDB = {
 								["action"] = "lava_lash",
 							}, -- [9]
 						},
-						["default_core"] = {
+						["precombat"] = {
 							{
 								["enabled"] = true,
-								["criteria"] = "variable.furyCheck_ES",
-								["action"] = "earthen_spike",
 							}, -- [1]
 							{
 								["enabled"] = true,
-								["action"] = "stormstrike",
-								["criteria"] = "active_enemies > 1 & azerite.lightning_conduit.enabled & ! debuff.lightning_conduit.up & variable.furyCheck_SS",
-								["cycle_targets"] = 1,
 							}, -- [2]
 							{
 								["enabled"] = true,
-								["criteria"] = "buff.stormbringer.up || ( active_enemies > 1 & buff.gathering_storms.up & variable.furyCheck_SS )",
-								["action"] = "stormstrike",
 							}, -- [3]
 							{
 								["enabled"] = true,
-								["criteria"] = "active_enemies >= 3 & variable.furyCheck_CL",
-								["action"] = "crash_lightning",
 							}, -- [4]
 							{
+								["action"] = "totem_mastery",
 								["enabled"] = true,
-								["criteria"] = "talent.overcharge.enabled & active_enemies = 1 & variable.furyCheck_LB & maelstrom >= 40",
-								["action"] = "lightning_bolt",
 							}, -- [5]
 							{
+								["action"] = "lightning_shield",
 								["enabled"] = true,
-								["criteria"] = "variable.OCPool_SS & variable.furyCheck_SS",
-								["action"] = "stormstrike",
 							}, -- [6]
+							{
+								["action"] = "potion",
+								["enabled"] = true,
+							}, -- [7]
 						},
 						["cds"] = {
 							{
@@ -5216,31 +5209,38 @@ HekiliDB = {
 								["action"] = "rockbiter",
 							}, -- [13]
 						},
-						["precombat"] = {
+						["default_core"] = {
 							{
 								["enabled"] = true,
+								["criteria"] = "variable.furyCheck_ES",
+								["action"] = "earthen_spike",
 							}, -- [1]
 							{
 								["enabled"] = true,
+								["action"] = "stormstrike",
+								["criteria"] = "active_enemies > 1 & azerite.lightning_conduit.enabled & ! debuff.lightning_conduit.up & variable.furyCheck_SS",
+								["cycle_targets"] = 1,
 							}, -- [2]
 							{
 								["enabled"] = true,
+								["criteria"] = "buff.stormbringer.up || ( active_enemies > 1 & buff.gathering_storms.up & variable.furyCheck_SS )",
+								["action"] = "stormstrike",
 							}, -- [3]
 							{
 								["enabled"] = true,
+								["criteria"] = "active_enemies >= 3 & variable.furyCheck_CL",
+								["action"] = "crash_lightning",
 							}, -- [4]
 							{
-								["action"] = "totem_mastery",
 								["enabled"] = true,
+								["criteria"] = "talent.overcharge.enabled & active_enemies = 1 & variable.furyCheck_LB & maelstrom >= 40",
+								["action"] = "lightning_bolt",
 							}, -- [5]
 							{
-								["action"] = "lightning_shield",
 								["enabled"] = true,
+								["criteria"] = "variable.OCPool_SS & variable.furyCheck_SS",
+								["action"] = "stormstrike",
 							}, -- [6]
-							{
-								["action"] = "potion",
-								["enabled"] = true,
-							}, -- [7]
 						},
 						["default"] = {
 							{
@@ -5466,8 +5466,8 @@ HekiliDB = {
 							}, -- [9]
 							{
 								["enabled"] = true,
-								["criteria"] = "talent.ascendance.enabled",
 								["action"] = "lava_burst",
+								["criteria"] = "talent.ascendance.enabled",
 								["moving"] = "1",
 							}, -- [10]
 							{
@@ -5604,8 +5604,8 @@ HekiliDB = {
 							}, -- [23]
 							{
 								["enabled"] = true,
-								["criteria"] = "movement.distance > 6",
 								["action"] = "flame_shock",
+								["criteria"] = "movement.distance > 6",
 								["moving"] = "1",
 							}, -- [24]
 							{
@@ -6231,8 +6231,8 @@ HekiliDB = {
 							}, -- [15]
 							{
 								["enabled"] = true,
-								["action"] = "cancel_buff",
 								["criteria"] = "buff.starlord.remains < 8 & ! solar_wrath.ap_check",
+								["action"] = "cancel_buff",
 								["buff_name"] = "starlord",
 							}, -- [16]
 							{

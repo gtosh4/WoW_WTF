@@ -10,33 +10,33 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1551849274,
+				["lastUpdate"] = 1552699346,
 				["Mails"] = {
 					{
-						["returned"] = true,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Tosh",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1551849274,
-						["count"] = 5,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 15.9948034286499,
+						["count"] = 5,
+						["lastCheck"] = 1552699346,
+						["daysLeft"] = 6.15620374679565,
 					}, -- [1]
 					{
-						["returned"] = true,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Tosh",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:270::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1551849274,
-						["count"] = 5,
+						["returned"] = true,
 						["icon"] = 1509634,
-						["daysLeft"] = 15.9948148727417,
+						["count"] = 5,
+						["lastCheck"] = 1552699346,
+						["daysLeft"] = 6.15621519088745,
 					}, -- [2]
 				},
-				["lastVisitDate"] = "2019/03/06 00:14",
+				["lastVisitDate"] = "2019/03/15 21:22",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1552626324,
+				["lastUpdate"] = 1552717711,
 				["Mails"] = {
 					{
 						["returned"] = false,
@@ -44,16 +44,16 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1552626324,
+						["lastCheck"] = 1552717711,
 						["icon"] = 1509634,
-						["daysLeft"] = 10.8356714248657,
+						["daysLeft"] = 9.77826404571533,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/03/15 01:05",
+				["lastVisitDate"] = "2019/03/16 02:28",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1552613658,
-				["lastVisitDate"] = "2019/03/14 21:34",
+				["lastUpdate"] = 1552692116,
+				["lastVisitDate"] = "2019/03/15 19:21",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1551646737,

@@ -108,8 +108,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["interrupt"] = true,
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -127,6 +125,8 @@ BD_persistent = {
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 			},
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -135,8 +135,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -144,8 +144,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
 			["topViewport"] = 0,
 		},
 	},

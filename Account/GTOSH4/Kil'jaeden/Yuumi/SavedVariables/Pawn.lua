@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0236,
+	["LastVersion"] = 2.0239,
 	["LastPlayerFullName"] = "Yuumi-Kil'jaeden",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,

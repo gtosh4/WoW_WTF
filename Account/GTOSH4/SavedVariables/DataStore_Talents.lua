@@ -10,7 +10,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1551991725,
+				["lastUpdate"] = 1552699310,
 				["Specializations"] = {
 					[2] = 5849,
 					[3] = 12011,
@@ -26,7 +26,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1552435924,
+				["lastUpdate"] = 1552691951,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 15085,
@@ -34,7 +34,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1552626483,
+				["lastUpdate"] = 1552714262,
 				["Specializations"] = {
 					9637, -- [1]
 					[3] = 7831,
@@ -42,9 +42,9 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1552613628,
+				["lastUpdate"] = 1552694112,
 				["Specializations"] = {
-					16383, -- [1]
+					5631, -- [1]
 					[3] = 5527,
 				},
 				["Class"] = "PRIEST",
@@ -233,7 +233,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29701,
+			["Version"] = 29732,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -291,7 +291,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29621,
+			["Version"] = 29732,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",

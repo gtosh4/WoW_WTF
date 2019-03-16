@@ -21,11 +21,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1438.93566484931,
-			},
 			["y"] = {
 				["arena1"] = 483.732411763853,
+			},
+			["x"] = {
+				["arena1"] = 1438.93566484931,
 			},
 		},
 		["Default"] = {
@@ -248,8 +248,8 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
+			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
-			["aurasBuffsHeight"] = 22,
 			["y"] = {
 				["arena1"] = 263.99849693316,
 			},
@@ -269,7 +269,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["aurasBuffsWidth"] = 22,
+			["aurasBuffsHeight"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
