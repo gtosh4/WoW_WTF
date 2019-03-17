@@ -3,8 +3,8 @@ VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Chain Heal
 END
 VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
-#showtooltip Earth Shield
-/cast [@mouseover,help][@player]Earth Shield
+#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour
+/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dounpour
 END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
@@ -19,8 +19,8 @@ VER 3 0100000000000003 "surge" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Healing Surge
 END
 VER 3 0100000000000005 "unleash" "INV_Misc_QuestionMark"
-#showtooltip Unleash Life
-/cast [@mouseover,noharm] Unleash Life
+#showtooltip [talent:1/3] Unleash Life; [talent:7/3] Ascendance
+/cast [talent:1/3,@mouseover,noharm] Unleash Life; [talent:7/3] Ascendance
 END
 VER 3 0100000000000004 "wave" "INV_Misc_QuestionMark"
 #showtooltip Healing Wave

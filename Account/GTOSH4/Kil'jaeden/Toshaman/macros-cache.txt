@@ -6,6 +6,9 @@ VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
 #showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour
 /cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dounpour
 END
+VER 3 0100000000000008 "innervate" "Ability_DemonHunter_SigilofSilence."
+/w Iko innervate
+END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
 /cast [@mouseover,noharm] Purify Spirit

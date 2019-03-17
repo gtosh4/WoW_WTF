@@ -5378,6 +5378,8 @@ EncounterDetailsDB = {
 			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Anointed Disciple",
 		},
@@ -5958,6 +5960,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sodalock",
 		},
+		[190357] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Yukio",
+		},
 		[284377] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -5966,13 +5975,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Bwonsamdi",
-		},
-		[190357] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Yukio",
 		},
 		[277965] = {
 			["school"] = 4,
@@ -6659,23 +6661,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ashvane Invader",
 		},
-		[287469] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Frida Ironbellows",
-		},
-		[272167] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Bilescourge",
-		},
 		[257407] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -6685,6 +6670,23 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Rezan",
+		},
+		[272167] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Bilescourge",
+		},
+		[287469] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Frida Ironbellows",
 		},
 		[102265] = {
 			["school"] = 4,
@@ -7135,12 +7137,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Purpdanknugz-Tichondrius",
 		},
-		[86392] = {
+		[260741] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Melborn",
+			["source"] = "Sister Briar",
 		},
 		[287995] = {
 			["school"] = 16,
@@ -7152,13 +7159,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Katherine",
 		},
-		[272131] = {
-			["school"] = 36,
-			["type"] = "DEBUFF",
+		[288507] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Eye of Gul'dan",
+			["source"] = "Frozen Wave",
 		},
 		[264455] = {
 			["school"] = 1,
@@ -7176,17 +7182,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ragnaros",
 		},
-		[260741] = {
+		[86392] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sister Briar",
+			["source"] = "Melborn",
 		},
 		[267899] = {
 			["school"] = 1,
@@ -7356,13 +7357,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sporecaller Zancha",
 		},
-		[289537] = {
-			["school"] = 64,
+		[287490] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Unknown",
 		},
 		[256138] = {
 			["school"] = 1,
@@ -7373,15 +7376,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dazar'ai Honor Guard",
 		},
-		[287490] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[289537] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[108271] = {
 			["school"] = 1,
@@ -7551,14 +7552,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[143812] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[90361] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "He Softfoot",
+			["source"] = "Shadow",
 		},
 		[264467] = {
 			["school"] = 1,
@@ -7567,12 +7566,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Navaria",
 		},
-		[90361] = {
-			["school"] = 8,
+		[143812] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Shadow",
+			["source"] = "He Softfoot",
 		},
 		[240446] = {
 			["school"] = 4,
@@ -7716,6 +7717,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Iko",
 		},
+		[286989] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Manceroy Flamefist",
+		},
 		[284942] = {
 			["school"] = 32,
 			["type"] = "BUFF",
@@ -7725,13 +7733,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Opulence",
-		},
-		[286989] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Manceroy Flamefist",
 		},
 		[260852] = {
 			["school"] = 1,
@@ -8086,12 +8087,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nayro-Mal'Ganis",
 		},
-		[288507] = {
-			["school"] = 16,
+		[272131] = {
+			["school"] = 36,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Frozen Wave",
+			["source"] = "Eye of Gul'dan",
 		},
 		[264483] = {
 			["school"] = 1,
@@ -8962,13 +8964,349 @@ EncounterDetailsDB = {
 	},
 	["emotes"] = {
 		{
-			["boss"] = "Yazma",
+			{
+				10.5570000000007, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [1]
+			{
+				12.9649999999965, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				38.4830000000075, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				39.7050000000163, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				50.6270000000077, -- [1]
+				"Retribution fer the fallen!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				50.6270000000077, -- [1]
+				"|TInterface\\ICONS\\Ability_Paladin_EmpoweredSealsRighteous:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284469|h[Seal of Retribution]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [6]
+			{
+				62.768000000011, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [7]
+			{
+				63.9610000000103, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				79.7870000000112, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				93.1600000000035, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				93.1600000000035, -- [1]
+				"%s just won a game of Hearthstone!", -- [2]
+				"Friendly", -- [3]
+				3, -- [4]
+			}, -- [11]
+			{
+				95.4590000000026, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [12]
+			{
+				97.9079999999958, -- [1]
+				"The reckonin' is at hand!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				97.9079999999958, -- [1]
+				"|TInterface\\ICONS\\SPELL_HOLY_SEALOFWRATH:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284436|h[Seal of Reckoning]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [14]
+			{
+				104.00900000002, -- [1]
+				"Tae arms! Drive back this wretched Horde!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				111.377000000008, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				116.260999999999, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [17]
+			{
+				144.02900000001, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [18]
+			{
+				145.463000000018, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				152.732000000018, -- [1]
+				"Retribution fer the fallen!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				152.732000000018, -- [1]
+				"|TInterface\\ICONS\\Ability_Paladin_EmpoweredSealsRighteous:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284469|h[Seal of Retribution]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [21]
+			{
+				164.888000000006, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [22]
+			{
+				166.103000000003, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				180.679999999993, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [24]
+			{
+				196.548999999999, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				198.912000000011, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [26]
+			["boss"] = "Champion of the Light",
 		}, -- [1]
 		{
-			["boss"] = "Priestess Alun'za",
+			{
+				0.11600000000908, -- [1]
+				"Fer the Alliance!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				10.997000000003, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [2]
+			{
+				13.4180000000051, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				26.7660000000033, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				38.8030000000144, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				42.4510000000009, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [6]
+			{
+				49.8679999999877, -- [1]
+				"Retribution fer the fallen!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				49.8679999999877, -- [1]
+				"|TInterface\\ICONS\\Ability_Paladin_EmpoweredSealsRighteous:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284469|h[Seal of Retribution]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [8]
+			{
+				62.0340000000142, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				63.2399999999907, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				79.0320000000065, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [11]
+			{
+				92.380999999994, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				94.7639999999956, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [13]
+			{
+				105.741999999998, -- [1]
+				"The reckonin' is at hand!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				105.741999999998, -- [1]
+				"|TInterface\\ICONS\\SPELL_HOLY_SEALOFWRATH:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284436|h[Seal of Reckoning]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [15]
+			{
+				111.752999999997, -- [1]
+				"Tae arms! Drive back this wretched Horde!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				119.103999999992, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				123.79800000001, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [18]
+			{
+				148.280999999988, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [19]
+			{
+				149.502000000008, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				160.314000000013, -- [1]
+				"Retribution fer the fallen!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				160.314000000013, -- [1]
+				"|TInterface\\ICONS\\Ability_Paladin_EmpoweredSealsRighteous:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284469|h[Seal of Retribution]|h|r!", -- [2]
+				"Frida Ironbellows", -- [3]
+				2, -- [4]
+			}, -- [22]
+			{
+				171.412000000011, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [23]
+			{
+				173.829999999987, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				187.198000000004, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [25]
+			{
+				202.983000000007, -- [1]
+				"The Light judges all!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				205.451000000001, -- [1]
+				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
+				"Darkforged Crusader", -- [3]
+				1, -- [4]
+			}, -- [27]
+			{
+				207.424999999988, -- [1]
+				"Bested by a Dark Iron!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				216.364000000001, -- [1]
+				"The reckonin' is at hand!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [29]
+			["boss"] = "Champion of the Light",
 		}, -- [2]
 		{
-			["boss"] = "Vol'kaal",
+			{
+				0.215000000025611, -- [1]
+				"Face a daughter o' the mountain!", -- [2]
+				"Frida Ironbellows", -- [3]
+				7, -- [4]
+			}, -- [1]
+			["boss"] = "Champion of the Light",
 		}, -- [3]
 	},
 }

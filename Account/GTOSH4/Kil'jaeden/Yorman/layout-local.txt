@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -13,6 +6,13 @@ X: -196
 Y: -228
 W: 108
 H: 56
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
 Frame: ColorPickerFrame
 FrameLevel: 22
 Anchor: TOP
@@ -75,4 +75,4 @@ Anchor: LEFT
 X: 475
 Y: -192
 W: 267
-H: 147
+H: 358

@@ -33,26 +33,6 @@ TomTomWaypointsM = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			[864] = {
-				["864:594727873.80219:611559748.6496:Azerite Madness"] = {
-					864, -- [1]
-					0.594727873802185, -- [2]
-					0.611559748649597, -- [3]
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Azerite Madness",
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["crazy"] = true,
-					["persistent"] = true,
-					["world"] = true,
-				},
 				["864:594727873.80218:611559748.6496:Azerite Madness"] = {
 					864, -- [1]
 					0.594727873802185, -- [2]
@@ -60,18 +40,10 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -82,6 +54,26 @@ TomTomWaypointsM = {
 					["crazy"] = true,
 					["minimap"] = true,
 					["world"] = true,
+				},
+				["864:594727873.80219:611559748.6496:Azerite Madness"] = {
+					864, -- [1]
+					0.594727873802185, -- [2]
+					0.611559748649597, -- [3]
+					["world"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Azerite Madness",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
 				},
 			},
 		},
@@ -95,9 +87,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
