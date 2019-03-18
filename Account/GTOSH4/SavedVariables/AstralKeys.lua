@@ -500,27 +500,33 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 10,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 12,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 11,
 		["class"] = "DRUID",
-		["unit"] = "Yorman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yorman-Kil'jaeden",
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["faction"] = 1,
 		["unit"] = "Yuumi-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [4]
+	{
+		["weekly_best"] = 0,
+		["class"] = "PALADIN",
+		["faction"] = 1,
+		["unit"] = "Zaemme-Kil'jaeden",
+	}, -- [5]
 }
 AstralFriends = {
 	{
@@ -631,7 +637,7 @@ AstralFriends = {
 		86, -- [6]
 		388041, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		10, -- [9]
 	}, -- [10]
 	{
 		"Dragonsbeast-Kil'jaeden", -- [1]
@@ -717,7 +723,7 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		86, -- [6]
-		400458, -- [7]
+		445820, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [18]
@@ -761,6 +767,8 @@ AstralKeysSettings = {
 		["showOffline"] = true,
 		["friendSync"] = true,
 		["announce_party"] = true,
+		["announce_guild"] = false,
+		["whisperClick"] = false,
 		["rankFilters"] = {
 			true, -- [1]
 			true, -- [2]
@@ -773,16 +781,14 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
+		["showTooltip"] = true,
 		["report_on_message"] = {
 			["party"] = true,
 			["guild"] = false,
 			["raid"] = false,
 		},
-		["announce_guild"] = false,
-		["showTooltip"] = true,
-		["showOtherFaction"] = false,
 		["mingle_offline"] = true,
-		["whisperClick"] = false,
+		["showOtherFaction"] = false,
 		["showMiniMapButton"] = false,
 	},
 	["frameOptions"] = {
@@ -791,6 +797,10 @@ AstralKeysSettings = {
 		["list"] = "GUILD",
 		["sorth_method"] = "character_name",
 		["orientation"] = 1,
+	},
+	["friendOptions"] = {
+		["friend_sync"] = true,
+		["show_other_faction"] = true,
 	},
 	["frame"] = {
 		["rank_filter"] = {
@@ -805,26 +815,22 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = true,
 		["isCollapsed"] = false,
 		["orientation"] = 1,
 		["mingle_offline"] = false,
 		["sorth_method"] = "character_name",
-		["show_offline"] = true,
-	},
-	["friendOptions"] = {
-		["friend_sync"] = true,
-		["show_other_faction"] = true,
+		["current_list"] = "GUILD",
 	},
 	["general"] = {
 		["show_minimap_button"] = true,
 		["init_time"] = 1553007600,
 		["expanded_tooltip"] = true,
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = false,
 			["guild"] = false,
+			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = true,
 		["announce_party"] = true,

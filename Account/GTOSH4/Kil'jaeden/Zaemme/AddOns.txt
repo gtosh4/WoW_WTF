@@ -11,3 +11,4 @@ BigWigs_Voice: enabled
 LittleWigs: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
+BigWigs_BattleOfDazaralor: enabled

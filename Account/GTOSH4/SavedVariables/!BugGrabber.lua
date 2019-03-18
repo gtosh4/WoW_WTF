@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 586,
 	["lastSanitation"] = 3,
+	["session"] = 587,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\ContainerFrame.lua:1426: attempt to index a nil value",
