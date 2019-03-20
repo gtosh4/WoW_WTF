@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Zaemme",
+		["name"] = "Tosh",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -108,6 +108,28 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["topViewport"] = 0,
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -122,33 +144,11 @@ BD_persistent = {
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
+				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 			},
-			["interrupt"] = true,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["skingmotd"] = true,
-			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
-			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {
