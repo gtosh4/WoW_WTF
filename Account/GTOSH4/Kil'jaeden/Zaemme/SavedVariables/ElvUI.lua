@@ -3,16 +3,16 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" they're 700 rn", -- [1]
 		" ez", -- [2]
-		"/alto show", -- [3]
-		"/grid2", -- [4]
-		"/hek", -- [5]
-		"/camp", -- [6]
+		"/camp", -- [3]
+		"/p got u", -- [4]
+		"/gladius test", -- [5]
+		"/dom", -- [6]
 		"ez", -- [7]
-		"/dom", -- [8]
-		"/tmw", -- [9]
-		"/gladius test", -- [10]
+		"/tmw", -- [8]
+		"/alto show", -- [9]
+		"/grid2", -- [10]
 		"they're 700 rn", -- [11]
-		"/p got u", -- [12]
+		"/hek", -- [12]
 	},
 	["ChatHistoryLog"] = {
 		{

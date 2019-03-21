@@ -48,10 +48,7 @@ Details_StreamerDB = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 14,
-			["use_spark"] = true,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
+			["y"] = 200.028366088867,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -63,7 +60,10 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["y"] = 200.028366088867,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 14,
 			["row_color"] = {
 				0, -- [1]
 				0, -- [2]
