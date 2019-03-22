@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 594,
 	["lastSanitation"] = 3,
-	["session"] = 593,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",

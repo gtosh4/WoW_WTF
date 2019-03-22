@@ -14,27 +14,11 @@ DataStore_AgendaDB = {
 			["NextWeeklyReset"] = "2019-03-26",
 		},
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1552805519,
-			},
-			["Default.Kil'jaeden.Zaemme"] = {
-				["Contacts"] = {
-					["Orcbum"] = {
-						["note"] = "",
-						["level"] = 120,
-						["class"] = "Warrior",
-					},
-				},
+			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|366776867"] = "477743|1553134655|1|1",
+					["Battle of Dazar'alor Mythic|367358294"] = "384693|1553227706|0|1",
 				},
-				["lastUpdate"] = 1553134647,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1553139740,
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367403144"] = "474584|1553137814|0|1",
-				},
+				["lastUpdate"] = 1553227720,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
@@ -42,11 +26,27 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1553134583,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
+			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367358294"] = "559567|1553052831|0|1",
+					["Battle of Dazar'alor Mythic|367403144"] = "474584|1553137814|0|1",
 				},
-				["lastUpdate"] = 1553053279,
+				["lastUpdate"] = 1553139740,
+			},
+			["Default.Kil'jaeden.Zaemme"] = {
+				["Contacts"] = {
+					["Orcbum"] = {
+						["note"] = "",
+						["class"] = "Warrior",
+						["level"] = 120,
+					},
+				},
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|366776867"] = "477743|1553134655|1|1",
+				},
+				["lastUpdate"] = 1553134647,
+			},
+			["Default.Kil'jaeden.Yuumi"] = {
+				["lastUpdate"] = 1552805519,
 			},
 		},
 	},
