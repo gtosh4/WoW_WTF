@@ -24,820 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Wildsong!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3123, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136399,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"Successfully resurrected You!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3124, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136401,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"Successfully resurrected You!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3125, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136401,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Casting |cff71d5ff|Hspell:50769:0|h[Revive]|h|r on Eau!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3126, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136417,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"do u have a flask i can get u one back", -- [1]
-			"Zulic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3129, -- [11]
-			"Player-9-064D2D60", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcZulic|r",
-			[51] = 1553136436,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [5]
-		{
-			"ty", -- [1]
-			"Zulic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3131, -- [11]
-			"Player-9-064D2D60", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcZulic|r",
-			[51] = 1553136455,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [6]
-		{
-			"dw about it", -- [1]
-			"Zulic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3132, -- [11]
-			"Player-9-064D2D60", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcZulic|r",
-			[51] = 1553136457,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [7]
-		{
-			"not that its a healing problem", -- [1]
-			"Zulic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zulic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3133, -- [11]
-			"Player-9-064D2D60", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcZulic|r",
-			[51] = 1553136469,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [8]
-		{
-			"Details!: Interrupts for Champion of the Light (last fight) [2:57 EF]", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3135, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"1. Voidthirst ..... 2 (22.1%)", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3136, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"2. Renewal ...... 2 (22.1%)", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3137, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"3. Morepheous  1 (11.1%)", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3138, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"4. Illsong .......... 1 (11.1%)", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3139, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"5. Mmfingruckus  1 (11.1%)", -- [1]
-			"Mmfingruckus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mmfingruckus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3140, -- [11]
-			"Player-9-0B25BAED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Mmfingruckus|r",
-			[51] = 1553136501,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"ranged try to interupt far", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3141, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136533,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"becuase melee will probably interupt close", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3142, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136540,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"c:", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3143, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136541,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"thanks for the summon", -- [1]
-			"Uselessalt-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Uselessalt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3144, -- [11]
-			"Player-9-05C089C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Uselessalt|r",
-			[51] = 1553136542,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3146, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136595,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r faded!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3149, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136603,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3152, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136617,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3153, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136617,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3155, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136619,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3157, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136631,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3160, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136644,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3161, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136644,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:283628:0|h[Heal]|h|r!", -- [1]
-			"Hetril-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hetril-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3165, -- [11]
-			"Player-9-07CD89ED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Hetril|r",
-			[51] = 1553136656,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:283626:0|h[Divine Burst]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3167, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136670,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
-		{
-			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:283628:0|h[Heal]|h|r!", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3169, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1553136675,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [29]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3171, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136683,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3172, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136683,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Morepheous!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3178, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136699,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
-			"Successfully resurrected You!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3180, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136699,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Successfully resurrected You!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3181, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136699,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3185, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136722,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
-		{
-			"Taunted Frida Ironbellows!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3186, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136722,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3187, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1553136724,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
@@ -858,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553136736,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [1]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -880,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553136764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [2]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -902,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553136764,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [3]
 		{
 			"Interrupted Fallen Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -924,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1553136781,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [41]
+		}, -- [4]
 		{
 			"Details!: Interrupts for Champion of the Light [3:41 EF]", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -946,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136832,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [5]
 		{
 			"1. Voidthirst ..... 4 (22.2%)", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -968,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136832,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [6]
 		{
 			"2. Thunderzmonk  3 (16.6%)", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -990,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136832,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [7]
 		{
 			"3. Mmfingruckus  3 (16.6%)", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -1012,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136832,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [8]
 		{
 			"4. Druwqt ........ 2 (11.1%)", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -1034,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136833,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [9]
 		{
 			"5. Hetril ............ 2 (11.1%)", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -1056,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136833,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [10]
 		{
 			"more ints", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -1078,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553136857,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [11]
 		{
 			"is eau a dual box of someones or something?", -- [1]
 			"Vladrok-Kil'jaeden", -- [2]
@@ -1100,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vladrok|r",
 			[51] = 1553136969,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [12]
 		{
 			"eau you there?", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1122,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1553137036,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [13]
 		{
 			"he d/cs a lot", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1144,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137043,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [14]
 		{
 			"normal strat? kill first round of adds? burn boss?", -- [1]
 			"Yamionxtc-Kil'jaeden", -- [2]
@@ -1166,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Yamionxtc|r",
 			[51] = 1553137048,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [15]
 		{
 			"kick Eau?", -- [1]
 			"Rhaegal-Kil'jaeden", -- [2]
@@ -1188,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rhaegal|r",
 			[51] = 1553137049,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [16]
 		{
 			"just kick", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1210,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1553137050,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [17]
 		{
 			"yup", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1232,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137052,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [18]
 		{
 			"he cast like 2 spells", -- [1]
 			"Vladrok-Kil'jaeden", -- [2]
@@ -1254,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vladrok|r",
 			[51] = 1553137053,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [19]
 		{
 			"kk", -- [1]
 			"Yamionxtc-Kil'jaeden", -- [2]
@@ -1276,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Yamionxtc|r",
 			[51] = 1553137057,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [20]
 		{
 			"i mean", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1298,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137064,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [21]
 		{
 			"if youi cast more when you d/c", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1320,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137069,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [22]
 		{
 			"i'm impressed", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1342,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137071,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [23]
 		{
 			"kick the afk healer?", -- [1]
 			"Rhaegal-Kil'jaeden", -- [2]
@@ -1364,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rhaegal|r",
 			[51] = 1553137090,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [24]
 		{
 			"Eau isnt healing shit", -- [1]
 			"Rhaegal-Kil'jaeden", -- [2]
@@ -1386,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rhaegal|r",
 			[51] = 1553137104,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [25]
 		{
 			"Who's afk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1408,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1553137107,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1430,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1452,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [28]
 		{
 			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1474,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137159,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [29]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1496,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137165,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [30]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1518,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137165,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1540,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137168,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1562,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137180,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [33]
 		{
 			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1584,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1553137212,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [34]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1606,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137220,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [35]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1628,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [36]
 		{
 			"Taunted Darkforged Crusader!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1650,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [37]
 		{
 			"Taunted Darkforged Crusader!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1672,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137251,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [38]
 		{
 			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1694,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137268,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [39]
 		{
 			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1716,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1553137270,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [77]
+		}, -- [40]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1738,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137277,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [41]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1760,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137277,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [42]
 		{
 			"kick rhaegal, he's not doing anything", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1782,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1553137283,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [43]
 		{
 			"XD", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1804,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1553137287,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [44]
 		{
 			"cant 3 heal this with that many ppl getting hit by wave and hammers", -- [1]
 			"Vladrok-Kil'jaeden", -- [2]
@@ -1826,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vladrok|r",
 			[51] = 1553137316,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [45]
 		{
 			"kill the first set of adds", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1848,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1553137328,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [46]
 		{
 			"^", -- [1]
 			"Yamionxtc-Kil'jaeden", -- [2]
@@ -1870,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Yamionxtc|r",
 			[51] = 1553137335,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [47]
 		{
 			"and than swap back to boss", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1892,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1553137336,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [48]
 		{
 			"solution isn't to add more healers if that's what you're implying", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1914,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1553137339,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [49]
 		{
 			"people still swinging at the boss", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1936,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1553137343,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [50]
 		{
 			"45 stack and kill all the tanks", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1958,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1553137349,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [51]
 		{
 			"healing is the problem", -- [1]
 			"Vladrok-Kil'jaeden", -- [2]
@@ -1980,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vladrok|r",
 			[51] = 1553137353,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [52]
 		{
 			"you guys are adding stacks tot he boss quq", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2002,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137356,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [53]
 		{
 			"The boss had 25 stacks during the add phase", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -2024,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1553137358,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [54]
 		{
 			"tank?", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2046,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137403,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [55]
 		{
 			"please just swap to the adds", -- [1]
 			"Zulic-Kil'jaeden", -- [2]
@@ -2068,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcZulic|r",
 			[51] = 1553137405,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [56]
 		{
 			"waiting on mmfing", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2090,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137419,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [57]
 		{
 			"19?", -- [1]
 			"Mmfingruckus-Kil'jaeden", -- [2]
@@ -2112,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Mmfingruckus|r",
 			[51] = 1553137425,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [58]
 		{
 			"just the first time then stay on boss", -- [1]
 			"Zulic-Kil'jaeden", -- [2]
@@ -2134,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcZulic|r",
 			[51] = 1553137428,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [59]
 		{
 			"theres 20", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2156,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1553137431,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [60]
 		{
 			"it's 20", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2178,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137431,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [61]
 		{
 			"If you dont swap to addds you will get kicked", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -2200,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1553137434,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [62]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2222,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2244,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [64]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2266,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137472,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [65]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2288,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137472,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2310,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2332,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137498,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [68]
 		{
 			"ADDS", -- [1]
 			"Zulic-Kil'jaeden", -- [2]
@@ -2354,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcZulic|r",
 			[51] = 1553137500,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [69]
 		{
 			"ADDS", -- [1]
 			"Zulic-Kil'jaeden", -- [2]
@@ -2376,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcZulic|r",
 			[51] = 1553137502,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2398,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137526,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [71]
 		{
 			"Interrupted Fallen Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2420,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137529,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [72]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2442,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [73]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2464,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137533,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [74]
 		{
 			"Interrupted Anointed Disciple's |cff71d5ff|Hspell:283626:0|h[Divine Burst]|h|r!", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2486,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1553137548,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [112]
+		}, -- [75]
 		{
 			"Interrupted Fallen Disciple's |cff71d5ff|Hspell:287419:0|h[Angelic Renewal]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2508,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137579,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [76]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2530,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137596,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [77]
 		{
 			"Taunted Frida Ironbellows!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2552,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137596,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [78]
 		{
 			"two int eh back", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2574,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1553137633,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [116]
+		}, -- [79]
 		{
 			"anyone not need |cffa335ee|Hitem:165519::::::::120:260::6:4:4824:1537:4786:5420:::|h[Cowl of Righteous Resolve]|h|r?", -- [1]
 			"Yamionxtc-Kil'jaeden", -- [2]
@@ -2596,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Yamionxtc|r",
 			[51] = 1553137671,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [80]
 		{
 			"!keys", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2618,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1553138276,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [81]
 		{
 			"|cffa335ee|Hkeystone:158923:248:10:10:7:2:117|h[Keystone: Waycrest Manor (10)]|h|r", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -2640,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1553138277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [82]
 		{
 			"|cffa335ee|Hkeystone:158923:249:17:10:7:2:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2662,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1553138277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [83]
 		{
 			"|cffa335ee|Hkeystone:158923:245:9:10:7:2:0|h[Keystone: Freehold (9)]|h|r", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2684,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1553138277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [84]
 		{
 			"|cffa335ee|Hkeystone:158923:244:15:10:7:2:117|h[Keystone: Atal'Dazar (15)]|h|r", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2706,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1553138277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [85]
 		{
 			"|cffa335ee|Hkeystone:158923:247:15:10:7:2:117|h[Keystone: The MOTHERLODE!! (15)]|h|r", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2728,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1553138277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:964:Player-9-0B5E1AF6:1:3:20:19:4294967295:4294967295:4294967295:4294967295|h[Going Down?]|h|r!", -- [1]
 			"Moonheight-Kil'jaeden", -- [2]
@@ -2750,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Moonheight|r",
 			[51] = 1553138528,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [124]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11:Player-9-0B5E1AF6:1:3:20:19:4294967295:4294967295:4294967295:4294967295|h[Level 60]|h|r!", -- [1]
 			"Moonheight-Kil'jaeden", -- [2]
@@ -2772,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Moonheight|r",
 			[51] = 1553139054,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:890:Player-9-0B5E1AF6:1:3:20:19:4294967295:4294967295:4294967295:4294967295|h[Into the Wild Blue Yonder]|h|r!", -- [1]
 			"Moonheight-Kil'jaeden", -- [2]
@@ -2794,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Moonheight|r",
 			[51] = 1553139401,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:2766:Player-9-0B1541E0:1:3:20:19:4294967295:4294967295:4294967295:4294967295|h[Exalted Champion of Sen'jin]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2816,6 +2002,820 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1553139434,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [90]
+		{
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553278775,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [91]
+		{
+			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			87, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553278933,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [92]
+		{
+			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279035,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [93]
+		{
+			"hi", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1553279196,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"welcome", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			119, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1553279196,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"Guess I'm not banned", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553279204,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"damn", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553279205,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"shutup", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1553279212,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			":)~~", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			128, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1553279247,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"Ricocheting Throw on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279261,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [100]
+		{
+			"Ricocheting Throw on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279262,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [101]
+		{
+			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			134, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279269,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [102]
+		{
+			"Ricocheting Throw on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279279,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"Ricocheting Throw on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			141, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279290,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			142, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279292,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [105]
+		{
+			"Ricocheting Throw on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			165, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279495,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [106]
+		{
+			"Wait Andruww did you not exploit as well?", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			167, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553279534,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			168, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279534,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [108]
+		{
+			"hell naw", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			169, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279553,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"what kind of idiot would do that", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279561,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			171, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279568,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [111]
+		{
+			":thinking:", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			172, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553279571,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			175, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279630,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [113]
+		{
+			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			177, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279666,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [114]
+		{
+			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			179, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279683,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [115]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			180, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1553279688,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [116]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1553279767,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [117]
+		{
+			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			191, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553279777,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [118]
+		{
+			"Cannon Barrage on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			194, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279838,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [119]
+		{
+			"Fixate on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			197, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279856,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"Cannon Barrage on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			200, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279870,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [121]
+		{
+			"Fixate on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			205, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279880,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [122]
+		{
+			"Cannon Barrage on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			207, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553279888,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"Shark Toss on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			226, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553280183,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"Shark Toss on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553280213,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [125]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:251:12:10:7:2:117|h[Keystone: The Underrot (12)]|h|r +0", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			231, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1553280249,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			":)", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553280368,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }
