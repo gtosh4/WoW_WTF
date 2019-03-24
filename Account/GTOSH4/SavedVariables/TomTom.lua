@@ -32,58 +32,6 @@ TomTomWaypointsM = {
 		["Tosh - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
-			[864] = {
-				["864:594727873.80219:611559748.6496:Azerite Madness"] = {
-					864, -- [1]
-					0.594727873802185, -- [2]
-					0.611559748649597, -- [3]
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Azerite Madness",
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["crazy"] = true,
-					["persistent"] = true,
-					["world"] = true,
-				},
-				["864:594727873.80218:611559748.6496:Azerite Madness"] = {
-					864, -- [1]
-					0.594727873802185, -- [2]
-					0.611559748649597, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["persistent"] = true,
-					["desc"] = "Azerite Madness",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Azerite Madness",
-					["crazy"] = true,
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
 		},
 		["Yuumi - Kil'jaeden"] = {
 			[629] = {
@@ -95,9 +43,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,

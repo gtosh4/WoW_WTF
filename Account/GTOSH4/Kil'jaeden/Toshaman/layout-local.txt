@@ -43,9 +43,9 @@ W: 750
 H: 480
 Frame: PawnUIFrame
 FrameLevel: 1
-Anchor: RIGHT
-X: -506
-Y: 202
+Anchor: TOP
+X: -543
+Y: -205
 W: 800
 H: 525
 Frame: PLH_LootedItemsFrame
@@ -81,5 +81,12 @@ FrameLevel: 1
 Anchor: TOP
 X: 732
 Y: -227
-W: 251
-H: 366
+W: 267
+H: 278
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: RIGHT
+X: -528
+Y: 280
+W: 546
+H: 261

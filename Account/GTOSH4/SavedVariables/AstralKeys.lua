@@ -25,7 +25,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		87, -- [6]
-		295448, -- [7]
+		382903, -- [7]
 	}, -- [3]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -34,7 +34,7 @@ AstralKeys = {
 		12, -- [4]
 		17, -- [5]
 		87, -- [6]
-		312162, -- [7]
+		398994, -- [7]
 	}, -- [4]
 	{
 		"Maxomus-Kil'jaeden", -- [1]
@@ -372,11 +372,11 @@ AstralKeys = {
 	{
 		"Daiyzed-Kil'jaeden", -- [1]
 		"DRUID", -- [2]
-		250, -- [3]
-		12, -- [4]
-		15, -- [5]
-		86, -- [6]
-		287517, -- [7]
+		248, -- [3]
+		14, -- [4]
+		0, -- [5]
+		87, -- [6]
+		396956, -- [7]
 	}, -- [42]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -394,7 +394,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		87, -- [6]
-		312297, -- [7]
+		399000, -- [7]
 	}, -- [44]
 	{
 		"Friendly-Kil'jaeden", -- [1]
@@ -403,7 +403,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		87, -- [6]
-		296120, -- [7]
+		398600, -- [7]
 	}, -- [45]
 	{
 		"Khalitzburg-Kil'jaeden", -- [1]
@@ -484,7 +484,7 @@ AstralKeys = {
 		10, -- [4]
 		10, -- [5]
 		87, -- [6]
-		306548, -- [7]
+		398545, -- [7]
 	}, -- [54]
 	{
 		"Litsong-Kil'jaeden", -- [1]
@@ -547,7 +547,7 @@ AstralKeys = {
 		13, -- [4]
 		16, -- [5]
 		87, -- [6]
-		273775, -- [7]
+		396866, -- [7]
 	}, -- [61]
 	{
 		"Druwqt-Kil'jaeden", -- [1]
@@ -556,39 +556,39 @@ AstralKeys = {
 		9, -- [4]
 		11, -- [5]
 		87, -- [6]
-		129472, -- [7]
+		381987, -- [7]
 	}, -- [62]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 17,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [2]
 	{
 		["weekly_best"] = 11,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["unit"] = "Yuumi-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yuumi-Kil'jaeden",
 	}, -- [4]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Zaemme-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [5]
 }
 AstralFriends = {
@@ -786,7 +786,7 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		87, -- [6]
-		306522, -- [7]
+		399001, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [18]
@@ -797,7 +797,7 @@ AstralFriends = {
 		248, -- [4]
 		14, -- [5]
 		87, -- [6]
-		296120, -- [7]
+		398600, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [19]
@@ -808,7 +808,7 @@ AstralFriends = {
 		246, -- [4]
 		10, -- [5]
 		87, -- [6]
-		306547, -- [7]
+		398546, -- [7]
 		"1", -- [8]
 		10, -- [9]
 	}, -- [20]
@@ -843,10 +843,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
 			["no_key"] = false,
+			["party"] = true,
 			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -871,7 +871,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -880,9 +882,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
 }
 AstralMinimap = {

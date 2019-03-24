@@ -3,16 +3,17 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" they're 700 rn", -- [1]
 		" ez", -- [2]
-		"/camp", -- [3]
-		"/p got u", -- [4]
-		"/gladius test", -- [5]
-		"/dom", -- [6]
+		"/dom", -- [3]
+		"/hek", -- [4]
+		"/grid2", -- [5]
+		"/tmw", -- [6]
 		"ez", -- [7]
-		"/tmw", -- [8]
-		"/alto show", -- [9]
-		"/grid2", -- [10]
+		"/alto show", -- [8]
+		"/camp", -- [9]
+		"/p got u", -- [10]
 		"they're 700 rn", -- [11]
-		"/hek", -- [12]
+		"/gladius test", -- [12]
+		" |cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [13]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -1313,5 +1314,28 @@ ElvCharacterDB = {
 			[51] = 1552855190,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
+		{
+			"|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3234, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Envious|r",
+			[51] = 1553406670,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [60]
 	},
 }
