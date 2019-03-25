@@ -29,27 +29,12 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
-			["powerBarTexture"] = "ElvUI Norm",
-			["aurasBuffs"] = true,
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
-			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["locked"] = true,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["aurasBuffsPerColumn"] = 5,
-			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -124,8 +109,34 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["classIconShowSpec"] = true,
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["classIconGloss"] = false,
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["aurasBuffsHeight"] = 22,
+			["aurasBuffs"] = true,
+			["aurasBuffsWidth"] = 22,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["castBarTexture"] = "ElvUI Norm",
+			["healthBarTexture"] = "ElvUI Norm",
+			["powerBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -138,18 +149,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["castBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
-			["tagsVersion"] = 4,
-			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["classIconShowSpec"] = true,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
@@ -256,7 +256,6 @@ Gladius2DB = {
 				["arena1"] = 263.99849693316,
 			},
 			["classIconShowSpec"] = true,
-			["castBarTexture"] = "ElvUI Norm",
 			["aurasBuffsHeight"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
@@ -270,6 +269,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
+			["castBarTexture"] = "ElvUI Norm",
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
@@ -287,11 +287,11 @@ Gladius2DB = {
 		["Yuumi - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 468.373309843541,
-			},
 			["x"] = {
 				["arena1"] = 1252.79958137275,
+			},
+			["y"] = {
+				["arena1"] = 468.373309843541,
 			},
 		},
 	},

@@ -1,94 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" yo", -- [1]
-		" jess is actually pissed at me", -- [2]
-		" idk why tho, like", -- [3]
-		" I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [4]
-		"/o healing dank is monkaS", -- [5]
-		"/p while channeling essence font", -- [6]
-		"/p jess can you hymn like at the end of intermission?", -- [7]
-		"/o for crash 9", -- [8]
-		"/p it was over 4.5 seconds", -- [9]
-		"/p I click them", -- [10]
-		"jess is actually pissed at me", -- [11]
-		"I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [12]
-		"/p that feel when I tick down from 100", -- [13]
-		"/p my druid's?", -- [14]
-		"/o why'd he switch in the first place?", -- [15]
-		"idk why tho, like", -- [16]
-		"/p well it was go right through radiation or get hit by buster, unlucky", -- [17]
-		"yo", -- [18]
-		"/grid2", -- [19]
-		"/p monk |cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r druid |cffa335ee|Hkeystone:158923:251:14:9:11:2:117|h[Keystone: The Underrot (14)]|h|r I still need", -- [20]
+		" jess is actually pissed at me", -- [1]
+		" idk why tho, like", -- [2]
+		" I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [3]
+		"/o for crash 9", -- [4]
+		"/p my druid's?", -- [5]
+		"/p monk |cffa335ee|Hkeystone:158923:248:12:9:11:2:117|h[Keystone: Waycrest Manor (12)]|h|r druid |cffa335ee|Hkeystone:158923:251:14:9:11:2:117|h[Keystone: The Underrot (14)]|h|r I still need", -- [6]
+		"/p that feel when I tick down from 100", -- [7]
+		"/p it was over 4.5 seconds", -- [8]
+		"/o healing dank is monkaS", -- [9]
+		"jess is actually pissed at me", -- [10]
+		"I literally gave her the best CDs, the only difference is that we fucked up the interrupts before hers instead of before boo's", -- [11]
+		"/p I click them", -- [12]
+		"/p jess can you hymn like at the end of intermission?", -- [13]
+		"/o why'd he switch in the first place?", -- [14]
+		"idk why tho, like", -- [15]
+		"/p well it was go right through radiation or get hit by buster, unlucky", -- [16]
+		"yo", -- [17]
+		"/grid2", -- [18]
+		"/p while channeling essence font", -- [19]
+		"/p I guess I'll switch to shaman in case we don't do higher", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1551991003,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			103, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1551991003,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1551991023,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991023,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [1]
 		{
 			"Unstable Hex on Nv", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551991067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991067,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [3]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aWildsong|r",
 			[51] = 1551991069,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991076,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991076,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [6]
 		{
 			"Pummeled Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991082,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [7]
 		{
 			"Pummeled Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991082,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991093,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [9]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991133,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [11]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [12]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991193,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991201,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [14]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991216,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991216,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991217,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991217,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Taunted Dazar'ai Honor Guard!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991255,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Taunted Gilded Priestess!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991283,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [21]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253583:0|h[Fiery Enchant]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991293,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [22]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253583:0|h[Fiery Enchant]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991310,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551991325,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [24]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aWildsong|r",
 			[51] = 1551991333,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [25]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991337,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [26]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991337,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [27]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551991343,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Nv!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991360,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991365,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [30]
 		{
 			"Taunted Priestess Alun'za!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991392,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [31]
 		{
 			"root 2nd one", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991397,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [32]
 		{
 			"jk", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991406,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [33]
 		{
 			"gordy has parala", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991409,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [34]
 		{
 			"Taunted Yazma!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991504,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [35]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991567,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991585,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991603,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [38]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551991622,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [39]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [40]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991642,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [41]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaNv|r",
 			[51] = 1551991649,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991655,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [44]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991656,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991656,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991658,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991658,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991659,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991659,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [51]
 		{
 			"1. Pride 633.7k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [52]
 		{
 			"2. Paxington-Illidan 661.8k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"3. Yuumi 821.5k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [54]
 		{
 			"4. Nv 824.2k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [55]
 		{
 			"5. Wildsong 1192.2k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1551991660,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [56]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13116:Player-9-0B106E8E:1:3:15:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Whispering Reef]|h|r!", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1552699370,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [60]
+		}, -- [57]
 		{
 			"hahaha", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1552774737,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [58]
 		{
 			"you getting all this jess?", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774737,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [59]
 		{
 			"ahahaha", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1552774740,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [60]
 		{
 			"I wanna see some top ele dmg", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1552774749,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [61]
 		{
 			"you know the entire icy veins guide now", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774763,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [62]
 		{
 			"ima be real with ya jess", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774790,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [63]
 		{
 			"in this run on trash, spam chain lightning and hit earthquake when you can", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774801,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [64]
 		{
 			"HMMMMMMMMMMMMMM", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1552774801,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [65]
 		{
 			"all ya gotta do", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774807,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"PRESS MY BUTTONS", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1552774813,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [67]
 		{
 			"got it", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1552774814,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [68]
 		{
 			":D", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1552774816,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [69]
 		{
 			"if you took totem mastery talent, drop that before doing anything. thats it", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1552774836,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [70]
 		{
 			"making anotehr mythic champ group", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1552803409,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [71]
 		{
 			"sec", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552803721,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:2058:Player-9-09C51004:1:3:16:19:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!", -- [1]
 			"Levelgranter-Kil'jaeden", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecLevelgranter|r",
 			[51] = 1552803793,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
+		}, -- [73]
 		{
 			"lets go team", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1552804076,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [77]
+		}, -- [74]
 		{
 			"we are killing the first set of adds when it says swap", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1552804089,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [78]
+		}, -- [75]
 		{
 			"we are gonna zerg boss after that", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1552804096,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [79]
+		}, -- [76]
 		{
 			"we are lusting start", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1552804101,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [80]
+		}, -- [77]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:289497:0|h[Lava Burst]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804292,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [78]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804325,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [79]
 		{
 			"Nv interrupted |cff71d5ff|Hspell:289496:0|h[Lightning Bolt]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804334,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [80]
 		{
 			"Pummeled Blazing Fireguard's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804351,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [81]
 		{
 			"TAGGGG", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804375,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [85]
+		}, -- [82]
 		{
 			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804390,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [83]
 		{
 			"who wants adds?", -- [1]
 			"Katakiri-Kil'jaeden", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Katakiri|r",
 			[51] = 1552804408,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [84]
 		{
 			"you", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804412,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [85]
 		{
 			"youre on adds please", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804414,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [86]
 		{
 			"k", -- [1]
 			"Katakiri-Kil'jaeden", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Katakiri|r",
 			[51] = 1552804415,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [87]
 		{
 			"ADDS", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804522,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [91]
+		}, -- [88]
 		{
 			"ADDS", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804523,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [92]
+		}, -- [89]
 		{
 			"INTERRUPT", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804667,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [90]
 		{
 			"PLS", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804667,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [91]
 		{
 			"itnerupt", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804672,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [92]
 		{
 			"two mroe", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804673,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [93]
 		{
 			"hello", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804674,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [94]
 		{
 			"????????????????????????", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804677,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [95]
 		{
 			"intterruptttttttttttt", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2200,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804679,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [96]
 		{
 			"please kill the crusader too", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2222,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804686,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [97]
 		{
 			"on the first set of add before swapping bakc to boss", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2244,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804697,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [98]
 		{
 			"that add went from 2% to 30%", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2266,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804714,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [99]
 		{
 			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2288,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804731,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [100]
 		{
 			"buffs", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2310,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1552804786,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [104]
+		}, -- [101]
 		{
 			"1 min so sorry", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -2332,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1552804790,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [102]
 		{
 			"Gordy can Jess get another corgi?", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2354,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804795,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [103]
 		{
 			"i have a tanky sliver", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2376,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [104]
 		{
 			"and a healer sliver", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2398,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804848,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [105]
 		{
 			"|cffa335ee|Hitem:165571::::::::120:257::5:4:4799:40:1522:4786:::|h[Incandescent Sliver]|h|r|cffa335ee|Hitem:165571::::::::120:257::5:4:4799:41:1522:4786:::|h[Incandescent Sliver]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2420,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804851,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [106]
 		{
 			"|cffa335ee|Hitem:165571::::::::120:267::5:4:4799:42:1522:4786:::|h[Incandescent Sliver]|h|r", -- [1]
 			"Thunderlock-Kil'jaeden", -- [2]
@@ -2442,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecThunderlock|r",
 			[51] = 1552804862,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [107]
 		{
 			"ADDS", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2464,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804922,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [111]
+		}, -- [108]
 		{
 			"ADDS", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2486,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552804923,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [112]
+		}, -- [109]
 		{
 			"|cff71d5ff|Hspell:64901:0|h[Symbol of Hope]|h|r activated!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2508,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804935,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [110]
 		{
 			"|cff71d5ff|Hspell:64901:0|h[Symbol of Hope]|h|r faded!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2530,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552804940,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [114]
+		}, -- [111]
 		{
 			"INTERRUPTS", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2552,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1552804956,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [115]
+		}, -- [112]
 		{
 			"Pummeled Anointed Disciple's |cff71d5ff|Hspell:284595:0|h[Penance]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2574,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1552804989,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [116]
+		}, -- [113]
 		{
 			"kite the crusader", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2596,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552805000,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [114]
 		{
 			"ADDS", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2618,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552805004,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [118]
+		}, -- [115]
 		{
 			"interrupts", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2640,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552805007,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [119]
+		}, -- [116]
 		{
 			"boss.", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2662,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1552805018,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [120]
+		}, -- [117]
 		{
 			"'s pickpocket stole 3 gold 46 silver 19 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2684,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552805027,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [121]
+		}, -- [118]
 		{
 			"INTERRUPTS", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2706,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1552805055,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [122]
+		}, -- [119]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13292:Player-9-0B13C972:1:3:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Champion of the Light]|h|r!", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -2728,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1552805073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [123]
+		}, -- [120]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13292:Player-9-0B55AB44:1:3:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Champion of the Light]|h|r!", -- [1]
 			"Knos-Kil'jaeden", -- [2]
@@ -2750,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKnos|r",
 			[51] = 1552805073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [124]
+		}, -- [121]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13292:Player-9-0B513C7F:1:3:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Champion of the Light]|h|r!", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -2772,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1552805073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [122]
 		{
 			"'s pickpocket stole 3 gold 72 silver 94 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2794,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1552805075,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [126]
+		}, -- [123]
 		{
 			"thanks for the inv", -- [1]
 			"Sïñfül-Kil'jaeden", -- [2]
@@ -2816,6 +2750,72 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sïñfül|r",
 			[51] = 1552805116,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [124]
+		{
+			"[WTS] Battle of Dazar'Alor Heroic guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, Raids and Mythic+ help! Get your \"Ahead of the Curve\" Achievement tonight! PM for info!", -- [1]
+			"Pragromi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pragromi-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			43, -- [11]
+			"Player-9-0B5F320C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Pragromi|r",
+			[51] = 1553449585,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"getting siren's pollen then flying", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1553449602,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			"I guess I'll switch to shaman in case we don't do higher", -- [1]
+			"Yuumi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yuumi-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-9-0B0E8ABC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Yuumi|r",
+			[51] = 1553449656,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

@@ -10,20 +10,20 @@ DataStore_StatsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1553227498,
+				["lastUpdate"] = 1553457011,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|18.847221374512",
-					["HealthMax"] = 227220,
-					["Melee"] = "532-722|3.1500000953674|0|0|18.847221374512|0",
+					["HealthMax"] = 249940,
+					["Melee"] = "595-784|3.1500000953674|0|0|18.847221374512|0",
 					["MaxPower"] = "0|100000",
 					["Defense"] = "0|0|3|0|0|0",
 					["PVP"] = "46|0",
-					["Base"] = "848|1219|11361|9211|0",
-					["Spell"] = "9211|9211|0|18.847221374512|971|4000",
+					["Base"] = "848|1219|12497|8961|0",
+					["Spell"] = "8961|8961|0|18.847221374512|971|4000",
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1553406568,
+				["lastUpdate"] = 1553492829,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|19.972221374512",
 					["HealthMax"] = 222740,
@@ -62,7 +62,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1553277991,
+				["lastUpdate"] = 1553449479,
 				["Stats"] = {
 					["Ranged"] = "5720-5721|0|0|0|25.097221374512",
 					["HealthMax"] = 220560,
