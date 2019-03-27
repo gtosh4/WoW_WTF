@@ -30,7 +30,30 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["WoD"] = {
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Timewarped Badge"] = false,
+						["Timeworn Artifact"] = false,
+						["Wakening Essence"] = false,
+						["Apexis Crystal"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Curious Coin"] = false,
+						["Seafarer's Dubloon"] = false,
+						["Garrison Resources"] = false,
+						["Champion's Seal"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
 		},
 		["NewItem"] = {
 		},
@@ -53,30 +76,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Nethershard"] = false,
-						["Seal of Broken Fate"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Timewarped Badge"] = false,
-						["Timeworn Artifact"] = false,
-						["Wakening Essence"] = false,
-						["Apexis Crystal"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Curious Coin"] = false,
-						["Garrison Resources"] = false,
-						["Seafarer's Dubloon"] = false,
-						["Champion's Seal"] = false,
-						["Legionfall War Supplies"] = false,
-					},
-				},
-			},
+		["WoD"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -90,10 +90,7 @@ AdiBagsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
@@ -103,7 +100,10 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
+			},
 			["autoDeposit"] = true,
 		},
 	},

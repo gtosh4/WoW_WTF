@@ -2,15 +2,6 @@ VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
 #showtooltip [talent:5/2] Binding Heal; [talent:5/3] Circle of Healing
 /cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing
 END
-VER 3 0100000000000012 "CDs" "136103"
-Paku 1: Gordon + SLT
-Paku 2: Boo + Barrier
-Paku 3: Gordon + Tide
-Paku 4: Boo + SLT
-Boss Death 1: Alex
-Boss Death 2: Connor
-Boss Death 3: Alex
-END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
 #showtooltip Angelic Feather; [spec:3] Power Word: Sheidl
 /cast [@player] Angelic Feather
@@ -23,6 +14,10 @@ END
 VER 3 010000000000000B "Heal" "INV_Misc_QuestionMark"
 #showtooltip Heal
 /cast [@mouseover,noharm] Heal
+END
+VER 3 0100000000000017 "lev" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Levitate
 END
 VER 3 0100000000000010 "Pen" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Penance; [spec:2] Prayer of Mending
