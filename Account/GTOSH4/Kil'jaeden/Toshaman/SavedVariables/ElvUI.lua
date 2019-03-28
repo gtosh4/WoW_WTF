@@ -1,934 +1,1022 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" I'm good on those", -- [1]
-		" just need chest", -- [2]
-		" I'll lose out on my sprouting but..", -- [3]
-		" I might just leave chest then I guess", -- [4]
-		" and only take 2 igneous?", -- [5]
-		" only chest", -- [6]
-		" nope", -- [7]
-		" yeah, that's what I was askin", -- [8]
-		" I can buy 2 peices? maybe 3", -- [9]
-		" |cffa335ee|Hitem:159362::::::::120:264::35:4:5448:1587:4786:5419:::|h[Tri-Heart Chestguard]|h|r got one", -- [10]
-		" 2nd buy", -- [11]
-		" no sprouting though", -- [12]
-		" oh, no raid ones do?", -- [13]
-		" pvp shoulders / helm do", -- [14]
-		" lol", -- [15]
-		" |cff71d5ff|Hspell:277666:0|h[Ancestral Resonance]|h|r won't be good right? since we have to cancel lust anyway", -- [16]
-		" |cff71d5ff|Hspell:281841:0|h[Tradewinds]|h|r|cff71d5ff|Hspell:273448:0|h[Lava Shock]|h|r", -- [17]
-		" can't earth shock, so it's really just tradewinds", -- [18]
-		" should I respec now? not like I need my sprouting for m+", -- [19]
-		" just want to start the decay early :)", -- [20]
+		"nope", -- [1]
+		"|cff71d5ff|Hspell:277666:0|h[Ancestral Resonance]|h|r won't be good right? since we have to cancel lust anyway", -- [2]
+		"oh, no raid ones do?", -- [3]
+		"sure", -- [4]
+		"should I respec now? not like I need my sprouting for m+", -- [5]
+		"|cff71d5ff|Hspell:281841:0|h[Tradewinds]|h|r|cff71d5ff|Hspell:273448:0|h[Lava Shock]|h|r", -- [6]
+		"/wa", -- [7]
+		"lol", -- [8]
+		"pvp shoulders / helm do", -- [9]
+		"and only take 2 igneous?", -- [10]
+		"just want to start the decay early :)", -- [11]
+		"I can buy 2 peices? maybe 3", -- [12]
+		"I'll lose out on my sprouting but..", -- [13]
+		"/cw Lockynx-Azralon can you ss me", -- [14]
+		"/cw Lockynx-Azralon ty", -- [15]
+		"/dn", -- [16]
+		"/cw Undying-Kil'jaeden we were safe", -- [17]
+		"/cw Undying-Kil'jaeden and then she ran it on us", -- [18]
+		"/m", -- [19]
+		"/cw Undying need to take ginjer out, following you", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|Kv12|k", -- [1]
+			"Undying-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2016, -- [11]
-			"Player-9-08462094", -- [12]
+			2095, -- [11]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462066,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738598,
+			[50] = "CHAT_MSG_OFFICER",
 		}, -- [1]
 		{
-			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|Kv13|k", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2017, -- [11]
-			"Player-9-08462094", -- [12]
+			2096, -- [11]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462066,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738600,
+			[50] = "CHAT_MSG_OFFICER",
 		}, -- [2]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2018, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1553462077,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|Kv14|k", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2026, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462170,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2027, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462170,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Pummeled Abyss Dweller's |cff71d5ff|Hspell:268315:0|h[Lash]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2029, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462175,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
-		{
-			"Taunted Lord Stormsong!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2036, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462216,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"Pummeled Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2038, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462219,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"Interrupted Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2039, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1553462231,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [9]
-		{
-			"Pummeled Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2042, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462240,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
-		{
-			"Pummeled Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2044, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462266,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
-		{
-			"Interrupted Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2045, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1553462274,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [12]
-		{
-			"Pummeled Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2047, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462285,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Pummeled Lord Stormsong's |cff71d5ff|Hspell:268347:0|h[Void Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2048, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462285,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"Taunted Abyssal Eel!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2056, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462365,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"Pummeled Forgotten Denizen's |cff71d5ff|Hspell:267809:0|h[Consume Essence]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2061, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462378,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"Interrupted Forgotten Denizen's |cff71d5ff|Hspell:267809:0|h[Consume Essence]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2062, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1553462379,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [17]
-		{
-			"Taunted Forgotten Denizen!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2064, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462383,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:267809:0|h[Consume Essence]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2066, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1553462390,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:267809:0|h[Consume Essence]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2067, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1553462403,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r cast on You!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2068, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462419,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r on You has ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2069, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462429,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [22]
-		{
-			"Taunted Sunken Denizen!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2070, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462436,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"Taunted Sunken Denizen!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2075, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462477,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"Interrupted Forgotten Denizen's |cff71d5ff|Hspell:267459:0|h[Consume Essence]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2079, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1553462501,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [25]
-		{
-			"Taunted Vol'zith the Whisperer!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2081, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462514,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2084, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462517,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2085, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462517,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2086, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462532,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2087, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462532,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
-		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2097, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462594,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
-		{
-			"1. Paxington-Illidan 102.6k", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2098, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462594,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"2. Pride 342.7k", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2099, -- [11]
-			"Player-9-08462094", -- [12]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462594,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738605,
+			[50] = "CHAT_MSG_OFFICER",
+		}, -- [3]
 		{
-			"3. Andruww 561.8k", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|Kv15|k", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2100, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462595,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
-		{
-			"4. Toshaman 649.8k", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2101, -- [11]
-			"Player-9-08462094", -- [12]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462595,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738609,
+			[50] = "CHAT_MSG_OFFICER",
+		}, -- [4]
 		{
-			"5. Backstab 702.3k", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"need to take ginjer out, following you", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Undying-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2102, -- [11]
-			"Player-9-08462094", -- [12]
+			2105, -- [11]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462595,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738633,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [5]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:250:13:10:7:2:117|h[Keystone: Temple of Sethraliss (13)]|h|r +0", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"ok", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Undying-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2103, -- [11]
-			"Player-9-0B58277D", -- [12]
+			2108, -- [11]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1553462597,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553738638,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [6]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"i gota bounce wife agro", -- [1]
+			"Zulic-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Zulic-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2104, -- [11]
-			"Player-9-08462094", -- [12]
+			2112, -- [11]
+			"Player-9-064D2D60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462598,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+			[52] = "|cff006fdcZulic|r",
+			[51] = 1553738660,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [7]
 		{
-			"!keys", -- [1]
-			"Backstab-Kil'jaeden", -- [2]
+			"|Kv16|k", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Backstab-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			2113, -- [11]
-			"Player-9-0B1241C1", -- [12]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Backstab|r",
-			[51] = 1553462658,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553738662,
+			[50] = "CHAT_MSG_OFFICER",
+		}, -- [8]
+		{
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2127, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553738772,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [9]
+		{
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2129, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553738781,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [10]
+		{
+			"roll|cffa335ee|Hitem:165924::::::::120:63::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r", -- [1]
+			"Altairweeps-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Altairweeps-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2139, -- [11]
+			"Player-9-0B5DD49A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Altairweeps|r",
+			[51] = 1553738815,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [11]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2145, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553738872,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [12]
+		{
+			"Interrupted Breakwater Elemental's |cff71d5ff|Hspell:289647:0|h[Water Bolt]|h|r!", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2152, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553738920,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [13]
+		{
+			"135 left", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2171, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739069,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [14]
+		{
+			"246 right", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2172, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739071,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [15]
+		{
+			"umm..... whats left? i dont know my hands", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2174, -- [11]
+			"Player-9-0B379D1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553739089,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [16]
+		{
+			"Interrupted Sister Katherine's |cff71d5ff|Hspell:287887:0|h[Storm's Empowerment]|h|r!", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2190, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739160,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [17]
+		{
+			"3", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2193, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553739171,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [18]
+		{
+			"2", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2194, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553739172,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [19]
+		{
+			"1", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2195, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553739173,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [20]
+		{
+			"Interrupted Brother Joseph's |cff71d5ff|Hspell:286563:0|h[Tidal Empowerment]|h|r!", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2204, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739210,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [21]
+		{
+			"Interrupted Laminaria's |cff71d5ff|Hspell:288696:0|h[Catastrophic Tides]|h|r!", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2222, -- [11]
+			"Player-9-0B379D1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553739254,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [22]
+		{
+			"3", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2246, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739330,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
+		{
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2248, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553739338,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"** ЧИСТКА НА Eau! **", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2255, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739365,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [25]
+		{
+			"2", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2259, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739373,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [26]
+		{
+			"** ЧИСТКА НА Eau! **", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2268, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739399,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
+		{
+			"3", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2270, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739406,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
+			"** ADD SPAWN 3 SEC **", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2271, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739406,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"2", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2273, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau|r",
+			[51] = 1553739407,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [30]
+		{
+			"5", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2279, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739429,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [31]
+		{
+			"4", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2280, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739429,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [32]
+		{
+			"3", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2281, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739430,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [33]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Laminaria {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2282, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553739431,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"2", -- [1]
+			"Jxpz-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jxpz-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2283, -- [11]
+			"Player-3684-0A221EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cJxpz-Mal'Ganis|r",
+			[51] = 1553739431,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [35]
+		{
+			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Friendly-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2291, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553739461,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [36]
+		{
+			"you need?", -- [1]
+			"Pluckybear-Sen'jin", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluckybear-Sen'jin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2303, -- [11]
+			"Player-1185-0ACA9BCE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcPluckybear-Sen'jin|r",
+			[51] = 1553739491,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [37]
+		{
+			"thanks", -- [1]
+			"Pluckybear-Sen'jin", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluckybear-Sen'jin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2307, -- [11]
+			"Player-1185-0ACA9BCE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcPluckybear-Sen'jin|r",
+			[51] = 1553739517,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [38]
+		{
+			"1", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2324, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1553739647,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [39]
 		{
-			"|cffa335ee|Hkeystone:158923:249:17:10:7:2:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Gordy can Jess get another corgi?", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2114, -- [11]
-			"Player-9-08462094", -- [12]
+			2328, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1553462658,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553739675,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"Astral Keys: |cffa335ee|Hkeystone:158923:247:16:10:7:2:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13466:Player-9-09C51004:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Tides of Vengeance]|h|r!", -- [1]
+			"Levelgranter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Levelgranter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2115, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			2329, -- [11]
+			"Player-9-09C51004", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1553462658,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8686ecLevelgranter|r",
+			[51] = 1553739694,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [41]
 		{
-			"Astral Keys: |cffa335ee|Hkeystone:158923:250:13:10:7:2:117|h[Keystone: Temple of Sethraliss (13)]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13517:Player-9-09C51004:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Two Sides to Every Tale]|h|r!", -- [1]
+			"Levelgranter-Kil'jaeden", -- [2]
 			"", -- [3]
+			"", -- [4]
+			"Levelgranter-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2330, -- [11]
+			"Player-9-09C51004", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecLevelgranter|r",
+			[51] = 1553739694,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [42]
+		{
+			"g3 + 5 soak first orb", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluie", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2334, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1553739752,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [43]
+		{
+			"grp 2 + 4 2nd orb", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluie", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2335, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1553739756,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [44]
+		{
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2351, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553739843,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [45]
+		{
+			"Broadside (2{rt2}) on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -936,7 +1024,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2117, -- [11]
+			2372, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -944,527 +1032,395 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1553462659,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2172, -- [11]
-			"Player-9-0B5D6461", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553463563,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2223, -- [11]
-			"Player-9-0B5D6461", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553464048,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2255, -- [11]
-			"Player-9-0B5D6461", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553464536,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2388, -- [11]
-			"Player-9-0B5D6461", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553464775,
-			[50] = "CHAT_MSG_CHANNEL",
+			[51] = 1553739942,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2392, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2373, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553465019,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553739945,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"WTS |cffa335ee|Hitem:165925::::::::120:264::6:3:4800:1547:4783:::|h[Drape of Valiant Defense]|h|r", -- [1]
-			"Burningtree-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Burningtree-Kil'jaeden", -- [5]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2516, -- [11]
-			"Player-9-09C15560", -- [12]
+			2374, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcBurningtree|r",
-			[51] = 1553465202,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553739946,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2527, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2375, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553465263,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553739947,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"I", -- [1]
+			"Voidspike-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Voidspike-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2537, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2390, -- [11]
+			"Player-9-0A3E6C03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553465505,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeVoidspike|r",
+			[51] = 1553739977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"3", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2545, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2391, -- [11]
+			"Player-9-0B247D8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553465747,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1553739977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"WTS |cffa335ee|Hitem:165925::::::::120:264::6:3:4800:1547:4783:::|h[Drape of Valiant Defense]|h|r", -- [1]
-			"Burningtree-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Burningtree-Kil'jaeden", -- [5]
+			"2", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2557, -- [11]
-			"Player-9-09C15560", -- [12]
+			2394, -- [11]
+			"Player-9-0B247D8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcBurningtree|r",
-			[51] = 1553465960,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1553739977,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"I", -- [1]
+			"Voidspike-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Voidspike-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2558, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2396, -- [11]
+			"Player-9-0A3E6C03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553465989,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeVoidspike|r",
+			[51] = 1553739978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:8111:Player-9-0ACDA1AF:1:3:24:19:4294967295:4294967295:4294967295:4294967295|h[This Isn't Even My Final Form]|h|r!", -- [1]
-			"Subspacexd-Kil'jaeden", -- [2]
-			"", -- [3]
+			"I", -- [1]
+			"Voidspike-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Subspacexd-Kil'jaeden", -- [5]
+			"Voidspike-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2590, -- [11]
-			"Player-9-0ACDA1AF", -- [12]
+			2399, -- [11]
+			"Player-9-0A3E6C03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Subspacexd|r",
-			[51] = 1553466098,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeVoidspike|r",
+			[51] = 1553739979,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"1", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2598, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2400, -- [11]
+			"Player-9-0B247D8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553466230,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1553739979,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Aspbringer for 249580!", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2601, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2407, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553466475,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553739991,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [56]
 		{
-			"<PSISTORM Gaming> 8/8M & 8/9M is recruiting for Mythic raiding! We run multiple raid groups that vary in progression. We are also recruiting for MDI & PvP. PST!", -- [1]
-			"Dogchow-Kil'jaeden", -- [2]
+			"pepega", -- [1]
+			"Pluckybear-Sen'jin", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dogchow-Kil'jaeden", -- [5]
+			"", -- [4]
+			"Pluckybear-Sen'jin", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2606, -- [11]
-			"Player-9-0B52F434", -- [12]
+			2409, -- [11]
+			"Player-1185-0ACA9BCE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Dogchow|r",
-			[51] = 1553466701,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcPluckybear-Sen'jin|r",
+			[51] = 1553739992,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [57]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"3", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2607, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2422, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553466716,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553740009,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"WTS |cffa335ee|Hitem:165925::::::::120:264::6:3:4800:1547:4783:::|h[Drape of Valiant Defense]|h|r", -- [1]
-			"Burningtree-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Burningtree-Kil'jaeden", -- [5]
+			"2", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2613, -- [11]
-			"Player-9-09C15560", -- [12]
+			2423, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcBurningtree|r",
-			[51] = 1553466869,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553740010,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"1", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2615, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2425, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553466959,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553740011,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"<PSISTORM Gaming> 8/8M & 8/9M is recruiting for Mythic raiding! We run multiple raid groups that vary in progression. We are also recruiting for MDI & PvP. PST!", -- [1]
-			"Dogchow-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dogchow-Kil'jaeden", -- [5]
+			"", -- [4]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2619, -- [11]
-			"Player-9-0B52F434", -- [12]
+			2427, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Dogchow|r",
-			[51] = 1553467031,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740026,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [61]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"Altair is casting Conjure of Refreshment!", -- [1]
+			"Altairweeps-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Altairweeps-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2622, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2429, -- [11]
+			"Player-9-0B5DD49A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553467203,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Altairweeps|r",
+			[51] = 1553740058,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"<PSISTORM Gaming> 8/8M & 8/9M is recruiting for Mythic raiding! We run multiple raid groups that vary in progression. We are also recruiting for MDI & PvP. PST!", -- [1]
-			"Dogchow-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dogchow-Kil'jaeden", -- [5]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2625, -- [11]
-			"Player-9-0B52F434", -- [12]
+			2431, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Dogchow|r",
-			[51] = 1553467285,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740086,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:8116:Player-9-0ACDA1AF:1:3:24:19:4294967295:4294967295:4294967295:4294967295|h[You Made Me Bleed My Own Blood]|h|r!", -- [1]
-			"Subspacexd-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Subspacexd-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2629, -- [11]
-			"Player-9-0ACDA1AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Subspacexd|r",
-			[51] = 1553467515,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [64]
-		{
-			"my headset broke :/", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2631, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1553467589,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
-		{
-			"ri[", -- [1]
+			"Avalanche (3{rt3}) on Haxpaxy", -- [1]
 			"Haxpaxy-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Haxpaxy-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2632, -- [11]
+			2446, -- [11]
 			"Player-9-0B2D7AFD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1472,1399 +1428,1394 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1553467601,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1553740160,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"3", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2462, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740249,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"2", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2465, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740250,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"didnt touch it for twooooo weeeks it breaks.....", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thunderrz-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2633, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			2468, -- [11]
+			"Player-9-0B081794", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1553467604,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740252,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"Hand of Frost on Karthag", -- [1]
+			"Karthag-Azralon", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Karthag-Azralon", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2641, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2474, -- [11]
+			"Player-3209-0827A2C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553467688,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Karthag-Azralon|r",
+			[51] = 1553740270,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			" < PSISTORM Gaming >  8/8M & 8/9M is recruiting for Mythic Raiding! We run multiple raid groups that vary in progression. We are also recruiting for MDI & PvP,  PST!", -- [1]
-			"Givo-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Givo-Kil'jaeden", -- [5]
+			"Hand of Frost on Papisalad", -- [1]
+			"Papisalad-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Papisalad-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2642, -- [11]
-			"Player-9-072CF002", -- [12]
+			2479, -- [11]
+			"Player-9-06066AA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeGivo|r",
-			[51] = 1553467714,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Papisalad|r",
+			[51] = 1553740281,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			":< brb gonna buy a new headset ", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Thunderrz-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2646, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			2480, -- [11]
+			"Player-9-0B081794", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1553467904,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740281,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"2", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2648, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2481, -- [11]
+			"Player-9-0B081794", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553467929,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740282,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"WTS |cffa335ee|Hitem:165518::::::::120:259::3:3:4798:1512:4783:::|h[Warbeast Hide Cinch]|h|r", -- [1]
-			"Echowolf-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Echowolf-Kil'jaeden", -- [5]
+			"1", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2651, -- [11]
-			"Player-9-0B5D4817", -- [12]
+			2485, -- [11]
+			"Player-9-0B081794", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Echowolf|r",
-			[51] = 1553467932,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1553740283,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"<The Blooded> is 9/9H and 3/9M Tu/Thu/Sun 8:30pm-11pm server. LF a Fury Warrior, Elemental Shaman, and Shadow Priest,  for our Mythic Raid team! Friendly/Active Discord, collaborative raid environment, and solid M+ run teams.", -- [1]
-			"Pillsberry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Pillsberry-Kil'jaeden", -- [5]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2653, -- [11]
-			"Player-9-0B4DF320", -- [12]
+			2489, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Pillsberry|r",
-			[51] = 1553468053,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740286,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2654, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2493, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553468173,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740296,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [74]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys Mythic+ /w for info", -- [1]
-			"Sadaisene-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Sadaisene-Kil'jaeden", -- [5]
+			"Broadside 3 on {rt3}Rygren{rt3}", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2659, -- [11]
-			"Player-9-0B5D6461", -- [12]
+			2495, -- [11]
+			"Player-3661-07C91CA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSadaisene|r",
-			[51] = 1553468416,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740312,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"should I buy some random peices looking for igneous?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}3", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			34, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2497, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1553632727,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740315,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"um", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}2", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			35, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2500, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1553632735,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740316,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"do you have", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}1", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			36, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2502, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1553632737,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740317,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"sec", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Lady Jaina Proudmoore {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			38, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2520, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1553632746,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740364,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"you need shoulders from FH", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Lockynx-Azralon", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Lockynx-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			46, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2525, -- [11]
+			"Player-3209-0997F976", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632832,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff8686ecLockynx-Azralon|r",
+			[51] = 1553740382,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"yikes", -- [1]
-			"|Kq25|k", -- [2]
+			"|cff71d5ff|Hspell:64901:0|h[Symbol of Hope]|h|r activated!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			47, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2526, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632833,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740383,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [81]
 		{
-			"|Hitem:165535::::::::120:264::6:4:4824:1537:4786:5420:::|h[Simian Berserker's Helm]|h|Hitem:165921::::::::120:264::6:4:4824:1537:4786:5421:::|h[Pauldrons of Ancestral Vengeance]|h", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Lockynx-Azralon", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Lockynx-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			48, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2528, -- [11]
+			"Player-3209-0997F976", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632839,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff8686ecLockynx-Azralon|r",
+			[51] = 1553740383,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"I'm good on those", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Lockynx-Azralon", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Lockynx-Azralon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			49, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2530, -- [11]
+			"Player-3209-0997F976", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632844,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff8686ecLockynx-Azralon|r",
+			[51] = 1553740384,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"just need chest", -- [1]
-			"|Kq25|k", -- [2]
+			"|cff71d5ff|Hspell:64901:0|h[Symbol of Hope]|h|r faded!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			50, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2531, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632847,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740387,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [84]
 		{
-			"I'll lose out on my sprouting but..", -- [1]
-			"|Kq25|k", -- [2]
+			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Andruww-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2534, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632863,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553740426,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [85]
 		{
-			"ya but", -- [1]
-			"|Kq25|k", -- [2]
+			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			52, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2538, -- [11]
+			"Player-9-0B379D1C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632889,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553740441,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [86]
 		{
-			"you want at least 1 spouting spirits", -- [1]
-			"|Kq25|k", -- [2]
+			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Andruww-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2540, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632895,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1553740449,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [87]
 		{
-			"spouting + igneous on a piece", -- [1]
-			"|Kq25|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12557:Player-9-0AC54566:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Explore Drustvar]|h|r!", -- [1]
+			"Holybyn-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Holybyn-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			54, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2543, -- [11]
+			"Player-9-0AC54566", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632900,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffefefeHolybyn|r",
+			[51] = 1553740458,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [88]
 		{
-			"I might just leave chest then I guess", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Ree'thael I shN za Shgla'yos", -- [1]
+			"Voidspike-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Voidspike-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			55, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2548, -- [11]
+			"Player-9-0A3E6C03", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632913,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeVoidspike|r",
+			[51] = 1553740461,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"and only take 2 igneous?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Broadside (3{rt3}) on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			57, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2549, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632922,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553740461,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"doesnt really matter i guess ", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt2}3", -- [1]
+			"Dragonite-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Dragonite-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			58, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2551, -- [11]
+			"Player-9-0A6B573B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632951,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cffa22fc8Dragonite|r",
+			[51] = 1553740464,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"just go", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"I", -- [1]
+			"Voidspike-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Voidspike-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			59, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2552, -- [11]
+			"Player-9-0A3E6C03", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632952,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffefefeVoidspike|r",
+			[51] = 1553740464,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"triple igneous", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			60, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2553, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632956,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553740464,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"what piece do you not have igneous on", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			61, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2554, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632969,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553740465,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"only chest", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			62, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2555, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632974,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1553740466,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"oh", -- [1]
-			"|Kq25|k", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			63, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2558, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632980,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740482,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [96]
 		{
-			"you never got jadefire?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Broadside 3 on {rt3}Rygren{rt3}", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2567, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632982,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740508,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"nope", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}3", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			65, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2570, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632989,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740511,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"gamble chest then", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Haxpaxy-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Haxpaxy-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			66, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2571, -- [11]
+			"Player-9-0B2D7AFD", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553632993,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffe7b09Haxpaxy|r",
+			[51] = 1553740511,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"yeah, that's what I was askin", -- [1]
-			"|Kq25|k", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			67, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2573, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1553633001,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740512,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [100]
 		{
-			"I can buy 2 peices? maybe 3", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}2", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			71, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2574, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633062,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740512,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"okie", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Haxpaxy-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Haxpaxy-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			72, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2575, -- [11]
+			"Player-9-0B2D7AFD", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633075,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffe7b09Haxpaxy|r",
+			[51] = 1553740512,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"|Hitem:159362::::::::120:264::35:4:5448:1587:4786:5419:::|h[Tri-Heart Chestguard]|h got one", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Haxpaxy-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Haxpaxy-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			80, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2577, -- [11]
+			"Player-9-0B2D7AFD", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633153,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffe7b09Haxpaxy|r",
+			[51] = 1553740513,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"2nd buy", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt3}1", -- [1]
+			"Rygren-Hyjal", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rygren-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2578, -- [11]
+			"Player-3661-07C91CA6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633159,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff3ec5e9Rygren-Hyjal|r",
+			[51] = 1553740513,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"ya thats what i have", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"** Congélation sur Pluie **", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Pluie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			82, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2581, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633173,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1553740533,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [105]
 		{
-			"pretty pog", -- [1]
-			"|Kq25|k", -- [2]
+			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Aspbringer for 249580!", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			83, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2583, -- [11]
+			"Player-9-0B379D1C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633175,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1553740543,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [106]
 		{
-			"no sprouting though", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Broadside 1 on {rt1}Dawnzo{rt1}", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			84, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2589, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633175,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1553740564,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"ya ", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt1}3", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			85, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2593, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633179,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1553740567,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [108]
 		{
-			"only shoulders drop spouting + igneous", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt1}2", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			86, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2596, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633186,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1553740568,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [109]
 		{
-			"freehold shoulders", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"{rt1}1", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			87, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2599, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633189,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1553740569,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"oh, no raid ones do?", -- [1]
-			"|Kq25|k", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			89, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2601, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633208,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740572,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [111]
 		{
-			"newp", -- [1]
-			"|Kq25|k", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			90, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2602, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633229,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1553740608,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [112]
 		{
-			"pvp shoulders / helm do", -- [1]
-			"|Kq25|k", -- [2]
+			"I died for the greater good", -- [1]
+			"Papisalad-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Papisalad-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			91, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2604, -- [11]
+			"Player-9-06066AA5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633351,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cffa9d271Papisalad|r",
+			[51] = 1553740609,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [113]
 		{
-			"lol", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"** Congélation sur Pluie **", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Pluie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			92, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2606, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633354,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1553740617,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [114]
 		{
-			"XD", -- [1]
-			"|Kq25|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0B5FB49F:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Heyitsknoss-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2608, -- [11]
+			"Player-9-0B5FB49F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633388,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1553740619,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [115]
 		{
-			"gl", -- [1]
-			"|Kq25|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13322:Player-9-0B5FB49F:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Heyitsknoss-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			96, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2609, -- [11]
+			"Player-9-0B5FB49F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633389,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1553740619,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [116]
 		{
-			"LF ppl to push keys |cffa335ee|Hkeystone:158923:246:14:9:5:3:117|h[Keystone: Tol Dagor (14)]|h|r", -- [1]
-			"Makiee-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0AE05CF5:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Undying-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			97, -- [11]
-			"Player-9-0B5B36AF", -- [12]
+			2610, -- [11]
+			"Player-9-0AE05CF5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Makiee|r",
-			[51] = 1553633767,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553740619,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [117]
 		{
-			"|Hspell:277666:0|h[Ancestral Resonance]|h won't be good right? since we have to cancel lust anyway", -- [1]
-			"|Kq25|k", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13322:Player-9-0AE05CF5:1:3:27:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r!", -- [1]
+			"Undying-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Undying-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			99, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2611, -- [11]
+			"Player-9-0AE05CF5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633905,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeUndying|r",
+			[51] = 1553740619,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [118]
 		{
-			"what else is on that row", -- [1]
-			"|Kq25|k", -- [2]
+			"awesome guys thanks", -- [1]
+			"Pluckybear-Sen'jin", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Pluckybear-Sen'jin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			100, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2636, -- [11]
+			"Player-1185-0ACA9BCE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633922,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cff006fdcPluckybear-Sen'jin|r",
+			[51] = 1553740666,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [119]
 		{
-			"|Hspell:281841:0|h[Tradewinds]|h|Hspell:273448:0|h[Lava Shock]|h", -- [1]
-			"|Kq25|k", -- [2]
+			"for grp", -- [1]
+			"Pluckybear-Sen'jin", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Pluckybear-Sen'jin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			101, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2637, -- [11]
+			"Player-1185-0ACA9BCE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633929,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cff006fdcPluckybear-Sen'jin|r",
+			[51] = 1553740669,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [120]
 		{
-			"can't earth shock, so it's really just tradewinds", -- [1]
-			"|Kq25|k", -- [2]
+			"thanks for group <3", -- [1]
+			"Marvynn-WyrmrestAccord", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Marvynn-WyrmrestAccord", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			102, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2643, -- [11]
+			"Player-1171-086BEA3B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633941,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeMarvynn-WyrmrestAccord|r",
+			[51] = 1553740692,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [121]
 		{
-			"ya", -- [1]
-			"|Kq25|k", -- [2]
+			"thanks", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			103, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2648, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553633951,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740704,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [122]
 		{
-			"should I respec now? not like I need my sprouting for m+", -- [1]
-			"|Kq25|k", -- [2]
+			"jsut uhhh", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			108, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2649, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553634128,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740705,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [123]
 		{
-			"you can if you want lkol", -- [1]
-			"|Kq25|k", -- [2]
+			"lern mekkatorque", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			109, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2651, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553634140,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740708,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [124]
 		{
-			"just want to start the decay early :)", -- [1]
-			"|Kq25|k", -- [2]
+			"xd", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			110, -- [11]
-			false, -- [12]
-			25, -- [13]
+			2652, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1553634168,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740710,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [125]
 		{
-			"Hot", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"jk", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			112, -- [11]
-			"Player-9-0B081794", -- [12]
+			2653, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1553634184,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740718,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [126]
 		{
-			"Garbage", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"(am i )", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
-			"Player-9-0B081794", -- [12]
+			2654, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1553634185,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1553740720,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [127]
 	},
 }

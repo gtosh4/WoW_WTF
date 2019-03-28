@@ -7,7 +7,7 @@ AstralKeys = {
 		16, -- [4]
 		0, -- [5]
 		88, -- [6]
-		21934, -- [7]
+		128414, -- [7]
 	}, -- [1]
 	{
 		"Zulic-Kil'jaeden", -- [1]
@@ -234,6 +234,42 @@ AstralKeys = {
 		88, -- [6]
 		40128, -- [7]
 	}, -- [26]
+	{
+		"Daiyzed-Kil'jaeden", -- [1]
+		"DRUID", -- [2]
+		353, -- [3]
+		13, -- [4]
+		0, -- [5]
+		88, -- [6]
+		3, -- [7]
+	}, -- [27]
+	{
+		"Druwqt-Kil'jaeden", -- [1]
+		"PRIEST", -- [2]
+		353, -- [3]
+		12, -- [4]
+		10, -- [5]
+		88, -- [6]
+		5, -- [7]
+	}, -- [28]
+	{
+		"Altairweeps-Kil'jaeden", -- [1]
+		"MAGE", -- [2]
+		248, -- [3]
+		15, -- [4]
+		0, -- [5]
+		88, -- [6]
+		124656, -- [7]
+	}, -- [29]
+	{
+		"Friendly-Kil'jaeden", -- [1]
+		"PRIEST", -- [2]
+		245, -- [3]
+		13, -- [4]
+		13, -- [5]
+		88, -- [6]
+		124844, -- [7]
+	}, -- [30]
 }
 AstralCharacters = {
 	{
@@ -263,9 +299,9 @@ AstralFriends = {
 		247, -- [4]
 		15, -- [5]
 		88, -- [6]
-		38474, -- [7]
+		54411, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		15, -- [9]
 	}, -- [1]
 	{
 		"Sherbie-Kil'jaeden", -- [1]
@@ -280,14 +316,6 @@ AstralFriends = {
 	}, -- [2]
 }
 AstralKeysSettings = {
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -314,6 +342,7 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -323,10 +352,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
 			["raid"] = false,
-			["guild"] = false,
+			["party"] = true,
 			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -338,7 +367,14 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
