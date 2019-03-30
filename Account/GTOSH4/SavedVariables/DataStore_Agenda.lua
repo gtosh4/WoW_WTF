@@ -23,7 +23,10 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1553406849,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|367490213"] = "307166|1553910032|0|1",
+				},
+				["lastUpdate"] = 1553910030,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
@@ -33,9 +36,12 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|367749632"] = "385036|1553832162|0|1",
+					["The MOTHERLODE!! Mythic|367839884"] = "290819|1553926379|0|0",
+					["Atal'Dazar Mythic|367839629"] = "290819|1553926379|0|0",
+					["Battle of Dazar'alor Heroic|367749632"] = "290819|1553926379|0|1",
+					["Battle of Dazar'alor Mythic|367864168"] = "290819|1553926379|0|1",
 				},
-				["lastUpdate"] = 1553832536,
+				["lastUpdate"] = 1553926467,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {

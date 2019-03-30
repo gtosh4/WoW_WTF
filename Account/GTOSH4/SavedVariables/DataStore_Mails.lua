@@ -25,8 +25,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/03/22 14:07",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1553740695,
-				["lastVisitDate"] = "2019/03/27 22:38",
+				["lastUpdate"] = 1553925037,
+				["lastVisitDate"] = "2019/03/30 01:50",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1553842878,
@@ -36,8 +36,8 @@ DataStore_MailsDB = {
 						["sender"] = "Toshaman",
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 2,
 						["lastCheck"] = 1553842878,
+						["count"] = 2,
 						["icon"] = 1509634,
 						["daysLeft"] = 24.7533912658691,
 					}, -- [1]

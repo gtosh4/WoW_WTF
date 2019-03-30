@@ -1890,6 +1890,62 @@ VExRT = {
 				"^2280^15^1553739126^325^1^24^404.24^Heyitsknoss", -- [672]
 				"^2281^15^1553739784^235^0^24^404.65^Orcbum", -- [673]
 				"^2281^15^1553740085^534^1^24^404.65^Aznbabygirl", -- [674]
+				"^2086^23^1553876409^46^1^5^403.97^", -- [675]
+				"^2085^23^1553876601^62^1^5^405.44^", -- [676]
+				"^2084^23^1553876803^74^1^5^405.28^", -- [677]
+				"^2087^23^1553876925^52^1^5^405.28^", -- [678]
+				"^2105^23^1553877349^73^1^5^395.00^", -- [679]
+				"^2106^23^1553877497^55^1^5^395.00^", -- [680]
+				"^2107^23^1553877649^54^1^5^395.13^", -- [681]
+				"^2108^23^1553877797^99^1^5^395.13^", -- [682]
+				"^2093^8^1553878548^122^1^5^411.84^", -- [683]
+				"^2094^8^1553879187^143^1^5^411.84^", -- [684]
+				"^2096^8^1553879453^160^1^5^411.84^Toshaman", -- [685]
+				"^2095^8^1553879806^128^1^5^411.84^Mahle", -- [686]
+				"^2265^16^1553910327^7^0^20^387.41^", -- [687]
+				"^2265^16^1553910497^8^0^20^413.17^", -- [688]
+				"^2265^16^1553910593^97^1^20^413.10^", -- [689]
+				"^2263^16^1553910811^14^0^20^413.15^Bailey", -- [690]
+				"^2263^16^1553911030^99^0^20^413.39^Pluie", -- [691]
+				"^2263^16^1553911195^100^0^20^413.61^Abernathii", -- [692]
+				"^2263^16^1553911376^269^1^20^413.08^Pluie", -- [693]
+				"^2266^16^1553911842^9^0^20^413.24^", -- [694]
+				"^2266^16^1553912031^252^1^20^413.30^Abernathii", -- [695]
+				"^2271^16^1553912415^13^0^20^413.61^Tehkz", -- [696]
+				"^2271^16^1553912475^2^0^20^413.25^", -- [697]
+				"^2271^16^1553912703^394^0^20^413.19^Andruww", -- [698]
+				"^2271^16^1553913183^116^0^20^413.26^Tehkz", -- [699]
+				"^2271^16^1553913336^3^0^20^413.26^", -- [700]
+				"^2271^16^1553913392^450^1^20^413.22^Yellowy", -- [701]
+				"^2268^16^1553914184^8^0^20^413.53^", -- [702]
+				"^2268^16^1553914315^173^0^20^413.72^Tehkz", -- [703]
+				"^2268^16^1553914564^270^0^20^413.64^Toshaman", -- [704]
+				"^2268^16^1553914904^302^1^20^413.32^Toshaman", -- [705]
+				"^2272^16^1553915698^7^0^20^413.31^", -- [706]
+				"^2272^16^1553915752^7^0^20^413.33^", -- [707]
+				"^2272^16^1553915858^128^0^20^413.43^Daiyzed", -- [708]
+				"^2272^16^1553916131^494^1^20^413.45^Abernathii", -- [709]
+				"^2276^16^1553916947^7^0^20^413.56^", -- [710]
+				"^2276^16^1553917707^5^0^20^413.55^", -- [711]
+				"^2276^16^1553917758^325^0^20^413.61^Daiyzed", -- [712]
+				"^2276^16^1553918168^413^0^20^413.38^Warlockmania", -- [713]
+				"^2276^16^1553918720^144^0^20^413.53^Daiyzed", -- [714]
+				"^2276^16^1553918939^141^0^20^413.91^Abernathii", -- [715]
+				"^2276^16^1553919166^149^0^20^413.73^Knoss", -- [716]
+				"^2276^16^1553919372^464^0^20^413.73^Murkya", -- [717]
+				"^2276^16^1553919897^506^1^20^413.17^Moonblight", -- [718]
+				"^2280^16^1553920866^78^0^20^413.48^Knoss", -- [719]
+				"^2280^16^1553921257^27^0^20^413.55^Sonaris", -- [720]
+				"^2280^16^1553921385^106^0^20^413.82^Pride", -- [721]
+				"^2280^16^1553921598^88^0^20^413.60^Pluie", -- [722]
+				"^2280^16^1553921771^284^0^20^413.35^Altairweeps", -- [723]
+				"^2280^16^1553922161^344^0^20^413.34^Haxpaxy", -- [724]
+				"^2280^16^1553922614^82^0^20^412.93^Andruww", -- [725]
+				"^2280^16^1553922825^72^0^20^413.19^Haxpaxy", -- [726]
+				"^2280^16^1553922973^236^0^20^413.31^Warlockmania", -- [727]
+				"^2280^16^1553923284^401^0^20^413.23^Knoss", -- [728]
+				"^2280^16^1553923794^76^0^20^413.11^Toshaman", -- [729]
+				"^2280^16^1553923979^108^0^20^413.11^Pride", -- [730]
 			},
 		},
 		["names"] = {
@@ -1995,7 +2051,7 @@ VExRT = {
 			["Niphetilë-Ragnaros"] = 64,
 			["Illsong"] = 577,
 			["Trôllin-Illidan"] = 266,
-			["Drift"] = 269,
+			["Accidentibus-Thrall"] = 64,
 			["Frostsoul-Drakkari"] = 252,
 			["Rodd-Barthilas"] = 70,
 			["Warlockmania"] = 267,
@@ -2057,7 +2113,7 @@ VExRT = {
 			["Popenator-Nagrand"] = 257,
 			["Azian"] = 265,
 			["Raponzeu-Azralon"] = 253,
-			["Andruww"] = 577,
+			["Eau"] = 105,
 			["Morepheous"] = 102,
 			["Soniç"] = 270,
 			["Achuma-Nagrand"] = 264,
@@ -2083,7 +2139,7 @@ VExRT = {
 			["Váliant-Ragnaros"] = 70,
 			["Bankso-Gallywix"] = 263,
 			["Rït-Boulderfist"] = 70,
-			["Toshaman"] = 264,
+			["Toshaman"] = 262,
 			["Thinera-Galakrond"] = 260,
 			["Sharalin-Area52"] = 65,
 			["Kurtuk-Eonar"] = 254,
@@ -2119,43 +2175,44 @@ VExRT = {
 			["Felipefera-Azralon"] = 73,
 			["Keydepleter"] = 250,
 			["Kewalla-Azralon"] = 581,
-			["Márius-WyrmrestAccord"] = 261,
-			["Adørabelle-Barthilas"] = 270,
 			["Andrewzz"] = 259,
-			["Dawnzo"] = 70,
-			["Dragonite"] = 577,
+			["Andruww"] = 577,
+			["Adørabelle-Barthilas"] = 270,
+			["Haxpaxy"] = 102,
 			["Dragonsguard"] = 103,
-			["Babyh-Tichondrius"] = 258,
 			["Bluedagger"] = 259,
+			["Yellowy"] = 257,
+			["Babyh-Tichondrius"] = 258,
+			["Hetril"] = 70,
 			["Immórtal-Ragnaros"] = 102,
 			["Opbdn"] = 577,
 			["Grimacé-MoonGuard"] = 253,
 			["Genj"] = 258,
-			["Heyitsknoss"] = 269,
-			["Jxpz-Mal'Ganis"] = 73,
-			["Kojtxiv-Cho'gall"] = 262,
-			["Haveanicedot-Khadgar"] = 267,
-			["Focalaire"] = 64,
-			["Sigg-Dethecus"] = 257,
-			["Rygrendk-Hyjal"] = 252,
-			["Treb"] = 257,
-			["Haxpaxy"] = 102,
+			["Mahle"] = 577,
+			["Dawnzo"] = 70,
 			["Voidthirst"] = 577,
-			["Lapus-Mal'Ganis"] = 577,
-			["Parsejuju"] = 258,
-			["Eau"] = 105,
+			["Haveanicedot-Khadgar"] = 267,
 			["Daiyzed"] = 102,
-			["Altairweeps"] = 63,
+			["Sigg-Dethecus"] = 257,
+			["Heyitsknoss"] = 269,
+			["Treb"] = 257,
+			["Yukio"] = 64,
+			["Parsejuju"] = 258,
+			["Kojtxiv-Cho'gall"] = 262,
+			["Focalaire"] = 64,
+			["Rygrendk-Hyjal"] = 252,
 			["Iko"] = 102,
+			["Lapus-Mal'Ganis"] = 577,
+			["Jxpz-Mal'Ganis"] = 73,
 			["Cadaceus"] = 265,
 			["Shakalzera-Azralon"] = 70,
 			["Intestine-Ner'zhul"] = 72,
-			["Uselessalt"] = 260,
-			["Knoss"] = 254,
-			["Pass"] = 267,
-			["Steelfire"] = 102,
 			["Tehkz"] = 256,
-			["Oof"] = 66,
+			["Knoss"] = 254,
+			["Daiyzedk"] = 252,
+			["Steelfire"] = 102,
+			["Yamionxtc"] = 260,
+			["Druwqt"] = 258,
 			["Mandí"] = 70,
 			["Hyperr"] = 259,
 			["Siara-Stormreaver"] = 270,
@@ -2164,172 +2221,172 @@ VExRT = {
 			["Vfi-Tichondrius"] = 258,
 			["Skarsnik"] = 264,
 			["Benjidunn"] = 259,
-			["Yamionxtc"] = 260,
-			["Purpx-Tichondrius"] = 258,
 			["Crippled"] = 250,
 			["Dankxo"] = 250,
-			["Reverendkain-Hyjal"] = 257,
-			["Brunsen"] = 65,
-			["Orcbum"] = 73,
+			["Purpx-Tichondrius"] = 258,
 			["Snowfury-Rexxar"] = 253,
 			["Elvidnir"] = 260,
-			["Nogun-Nemesis"] = 72,
+			["Brunsen"] = 65,
+			["Orcbum"] = 73,
 			["Katakiri"] = 250,
-			["Tyrionsin-Ragnaros"] = 264,
 			["Jumpah"] = 264,
-			["Kurdd-Daggerspine"] = 103,
+			["Nogun-Nemesis"] = 72,
+			["Melborn"] = 259,
+			["Tyrionsin-Ragnaros"] = 264,
 			["Tehkyur-Thrall"] = 105,
+			["Kurdd-Daggerspine"] = 103,
+			["Tradina-Bladefist"] = 70,
 			["Friendly"] = 257,
 			["Willbernard-Eonar"] = 103,
 			["Moonblight"] = 250,
-			["Sonaris"] = 258,
-			["Heavens-WyrmrestAccord"] = 70,
-			["Tradina-Bladefist"] = 70,
 			["Arnbjørn"] = 64,
-			["Tosh"] = 256,
-			["Trophie"] = 258,
+			["Márius-WyrmrestAccord"] = 261,
 			["Zech-Thrall"] = 258,
 			["Mootilator-AeriePeak"] = 72,
+			["Tosh"] = 256,
+			["Trophie"] = 258,
 			["Grenhunts-Hyjal"] = 253,
 			["Whoforted-Khadgar"] = 253,
+			["Mistameseeks"] = 65,
+			["Sourjuju-Illidan"] = 263,
 			["Sïñfül"] = 102,
 			["Beefyypally-Illidan"] = 66,
-			["Mistameseeks"] = 65,
-			["Knos"] = 73,
 			["Tôg-Area52"] = 105,
 			["Serasong"] = 70,
 			["Nooks"] = 577,
 			["Polys-Illidan"] = 258,
 			["Lieth"] = 252,
-			["Sporak"] = 264,
+			["Tinuvel"] = 102,
+			["Sumtime-Dalaran"] = 267,
+			["Sabri-Thrall"] = 260,
 			["Siberus-EmeraldDream"] = 72,
 			["Navaria"] = 258,
 			["Vynro-Rexxar"] = 253,
 			["Rygren-Hyjal"] = 64,
 			["Crítical"] = 105,
-			["Anukett-Saurfang"] = 72,
-			["Sabri-Thrall"] = 260,
 			["Cornhuskers"] = 577,
-			["Rhaegal"] = 577,
+			["Anukett-Saurfang"] = 72,
 			["Pîngu-Barthilas"] = 253,
+			["Mattea"] = 253,
+			["Delmonio-Azralon"] = 267,
 			["Guntukal-WyrmrestAccord"] = 262,
 			["Daddykurisu"] = 254,
-			["Aveon"] = 577,
+			["Xaserchan-Nagrand"] = 260,
 			["Evolvè"] = 258,
 			["Shapeddk-Illidan"] = 250,
 			["Chuggernåut-WyrmrestAccord"] = 72,
-			["Delmonio-Azralon"] = 267,
-			["Sideburns-Thrall"] = 262,
-			["Seepriest-Arthas"] = 258,
-			["Purifieur-Zul'jin"] = 104,
+			["Aveon"] = 577,
 			["Losemymind-Illidan"] = 72,
+			["Seepriest-Arthas"] = 258,
 			["Helvetica-Moonrunner"] = 102,
-			["Huit"] = 253,
 			["Ingvar-BleedingHollow"] = 250,
 			["Kappazero-Lethon"] = 264,
+			["Slurry"] = 102,
 			["Junzi-SilverHand"] = 263,
+			["Abore-Azralon"] = 253,
+			["Oshuruk-EmeraldDream"] = 263,
 			["Bullredman-Eldre'Thalas"] = 104,
 			["Maddmartigan-Area52"] = 72,
 			["Skûmp-Zul'jin"] = 254,
 			["Cosmonaughty"] = 64,
-			["Zulic"] = 264,
-			["Oshuruk-EmeraldDream"] = 263,
 			["Lycoria-Proudmoore"] = 251,
-			["Junxie-Barthilas"] = 257,
 			["Bailey"] = 270,
+			["Halkuna-SteamwheedleCartel"] = 259,
+			["Junxie-Barthilas"] = 257,
+			["Raïn-Ysera"] = 577,
 			["Skynnz-EmeraldDream"] = 257,
 			["Metzinger"] = 577,
 			["Menegrot-Ragnaros"] = 72,
-			["Halkuna-SteamwheedleCartel"] = 259,
-			["Krypticdh"] = 577,
-			["Sagarodne-Alexstrasza"] = 66,
-			["Nocomplexity-Barthilas"] = 261,
 			["Ybrik"] = 253,
-			["Accidentibus-Thrall"] = 64,
-			["Vaseline-Azuremyst"] = 266,
+			["Krypticdh"] = 577,
+			["Daervon-Garona"] = 258,
+			["Nocomplexity-Barthilas"] = 261,
 			["Liwon-Barthilas"] = 270,
+			["Nóyd-Cenarius"] = 71,
 			["Bigbench-Tichondrius"] = 259,
-			["Areneault-Zul'jin"] = 256,
 			["Daizy-Frostmourne"] = 259,
-			["Arissa-BurningBlade"] = 257,
 			["Àmethyst-Frostwolf"] = 577,
+			["Gribber-Saurfang"] = 260,
+			["Voidamental"] = 262,
+			["Arissa-BurningBlade"] = 257,
+			["Pride"] = 72,
 			["Shifu-Anub'arak"] = 269,
 			["Rylaiz"] = 262,
-			["Voidamental"] = 262,
-			["Oakshiren-Illidan"] = 253,
-			["Pride"] = 73,
-			["Suaveagave-Thrall"] = 577,
-			["Gribber-Saurfang"] = 260,
 			["Alteo"] = 264,
-			["Papisalad"] = 254,
+			["Backstab"] = 259,
 			["Vyseris-Azralon"] = 269,
+			["Suaveagave-Thrall"] = 577,
+			["Tipsypaladin-Destromath"] = 70,
+			["Qiro"] = 264,
+			["Cynewulf"] = 105,
+			["Inyurendo-Thrall"] = 105,
 			["Butterilla-Zul'jin"] = 258,
 			["Renllash-Jubei'Thos"] = 70,
-			["Cynewulf"] = 105,
+			["Papisalad"] = 254,
 			["Jagerwerks"] = 253,
 			["Karthag-Azralon"] = 102,
 			["Evra-Quel'dorei"] = 577,
-			["Inyurendo-Thrall"] = 105,
-			["Qiro"] = 262,
+			["Gardox-Sentinels"] = 105,
+			["Oakshiren-Illidan"] = 253,
 			["Thalzore"] = 62,
 			["Whiterainc-Illidan"] = 260,
-			["Backstab"] = 259,
-			["Tipsypaladin-Destromath"] = 70,
-			["Gardox-Sentinels"] = 105,
+			["Vaseline-Azuremyst"] = 266,
+			["Areneault-Zul'jin"] = 256,
+			["Dekade"] = 269,
 			["Howlscream-Thrall"] = 253,
 			["Jetpackjonez-Thrall"] = 250,
-			["Dekade"] = 269,
+			["Sagarodne-Alexstrasza"] = 66,
 			["Demonhãoo-Azralon"] = 577,
-			["Nóyd-Cenarius"] = 71,
+			["Zulic"] = 264,
 			["Aütem-Tichondrius"] = 267,
 			["Shamtis"] = 262,
 			["Pluckybear-Sen'jin"] = 264,
-			["Raïn-Ysera"] = 577,
-			["Daervon-Garona"] = 258,
-			["Druwqt-Kel'Thuzad"] = 258,
 			["Heliandra-Gallywix"] = 64,
 			["Bhonez-Daggerspine"] = 260,
-			["Abore-Azralon"] = 253,
-			["Slurry"] = 102,
+			["Druwqt-Kel'Thuzad"] = 258,
+			["Huit"] = 253,
 			["Bulistus"] = 577,
+			["Purifieur-Zul'jin"] = 104,
+			["Sideburns-Thrall"] = 262,
+			["Algol-Ragnaros"] = 254,
 			["Pluie"] = 102,
 			["Felkilmer-Thrall"] = 581,
-			["Algol-Ragnaros"] = 254,
+			["Rhaegal"] = 577,
 			["Kaua-Turalyon"] = 577,
-			["Xaserchan-Nagrand"] = 260,
+			["Ícey-Garona"] = 257,
 			["Makiee"] = 65,
-			["Mattea"] = 253,
+			["Sporak"] = 264,
 			["Midnignt-Barthilas"] = 258,
 			["Liril-Jubei'Thos"] = 265,
 			["Maì"] = 577,
 			["Frituleta-Azralon"] = 64,
 			["Somunk-EmeraldDream"] = 269,
-			["Tinuvel"] = 102,
+			["Knos"] = 73,
 			["Paxington-Illidan"] = 254,
-			["Sumtime-Dalaran"] = 267,
+			["Nillidan"] = 577,
 			["Steelstryke"] = 253,
 			["Sylent-Mal'Ganis"] = 260,
 			["Maxomus"] = 64,
-			["Sourjuju-Illidan"] = 263,
-			["Ícey-Garona"] = 257,
-			["Nillidan"] = 577,
+			["Heavens-WyrmrestAccord"] = 70,
+			["Murkya"] = 265,
+			["Litsong"] = 258,
 			["Accountbound"] = 260,
 			["Dakariz-Dalaran"] = 577,
 			["Serqêt-Thrall"] = 105,
 			["Unrestricted-EmeraldDream"] = 64,
-			["Litsong"] = 258,
-			["Leîja-Area52"] = 64,
 			["Thoribiio-Ragnaros"] = 72,
+			["Leîja-Area52"] = 64,
 			["Talented-Area52"] = 268,
-			["Melborn"] = 259,
 			["Haxpax"] = 258,
-			["Animaltaming-Frostmourne"] = 253,
-			["Yellowy"] = 256,
+			["Reverendkain-Hyjal"] = 257,
 			["Sarapha-TheVentureCo"] = 266,
-			["Shanmonk"] = 268,
+			["Animaltaming-Frostmourne"] = 253,
 			["Valkdk"] = 250,
+			["Oof"] = 66,
+			["Shanmonk"] = 268,
+			["Pass"] = 267,
 			["Smaien-Illidan"] = 250,
-			["Druwqt"] = 258,
+			["Uselessalt"] = 260,
 			["Moodknight-Frostmourne"] = 252,
 			["Cheder"] = 267,
 			["Merkyah"] = 254,
@@ -2339,45 +2396,22 @@ VExRT = {
 			["Jonry-Onyxia"] = 70,
 			["Circé"] = 259,
 			["Smileatme-Dunemaul"] = 577,
-			["Hetril"] = 70,
+			["Dragonite"] = 577,
 			["Bellcat"] = 103,
-			["Wildsong"] = 102,
+			["Wildsong"] = 105,
 			["Ngow"] = 105,
 			["Jara-GrizzlyHills"] = 262,
-			["Daiyzedk"] = 252,
+			["Altairweeps"] = 64,
 			["Nawtyrogue"] = 260,
 			["Thunderlock"] = 267,
 			["Elvenlugs-Dalaran"] = 267,
-			["Mahle"] = 577,
+			["Drift"] = 269,
 		},
+		["SplitOpt"] = true,
+		["NoRaid"] = true,
+		["Left"] = 658.048889160156,
 		["default_userCD"] = {
 		},
-		["userDB"] = {
-			{
-				47536, -- [1]
-				"PRIEST", -- [2]
-				nil, -- [3]
-				{
-					47536, -- [1]
-					0, -- [2]
-					0, -- [3]
-				}, -- [4]
-				["user"] = true,
-			}, -- [1]
-			{
-				246287, -- [1]
-				"PRIEST", -- [2]
-				nil, -- [3]
-				{
-					246287, -- [1]
-					0, -- [2]
-					0, -- [3]
-				}, -- [4]
-				["user"] = true,
-			}, -- [2]
-		},
-		["Left"] = 658.048889160156,
-		["SplitOpt"] = true,
 		["Top"] = 1282.07348632813,
 		["CDECol"] = {
 			["31884;4"] = 3,
@@ -2405,9 +2439,9 @@ VExRT = {
 				["posY"] = 1278.91235351563,
 				["fontGeneral"] = true,
 				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
 				["posX"] = 952.588806152344,
+				["visibilityGeneral"] = true,
+				["fontOutline"] = true,
 				["textureAnimation"] = true,
 				["textureGeneral"] = true,
 			}, -- [1]
@@ -2605,7 +2639,30 @@ VExRT = {
 			[740] = true,
 			[97462] = true,
 		},
-		["NoRaid"] = true,
+		["userDB"] = {
+			{
+				47536, -- [1]
+				"PRIEST", -- [2]
+				nil, -- [3]
+				{
+					47536, -- [1]
+					0, -- [2]
+					0, -- [3]
+				}, -- [4]
+				["user"] = true,
+			}, -- [1]
+			{
+				246287, -- [1]
+				"PRIEST", -- [2]
+				nil, -- [3]
+				{
+					246287, -- [1]
+					0, -- [2]
+					0, -- [3]
+				}, -- [4]
+				["user"] = true,
+			}, -- [2]
+		},
 	},
 	["Attendance"] = {
 		["enabled"] = 2,
@@ -2640,13 +2697,13 @@ VExRT = {
 				"JSoniç", -- [26]
 				"GSkarsnik", -- [27]
 				"GBigbullz", -- [28]
-				["k"] = true,
 				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 				["t"] = 1548814461,
 				["g"] = 27,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 			}, -- [1]
 			{
 				"AOrcbum", -- [1]
@@ -2715,13 +2772,13 @@ VExRT = {
 				"JZombiemonk", -- [27]
 				"GBigbullz", -- [28]
 				"GSkarsnik", -- [29]
-				["c"] = "Tosh-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 				["d"] = 15,
-				["eI"] = 2266,
+				["eN"] = "Jadefire Masters",
 				["t"] = 1548819771,
 				["g"] = 28,
-				["eN"] = "Jadefire Masters",
+				["eI"] = 2266,
 			}, -- [3]
 			{
 				"KDaddyvince-Barthilas", -- [1]
@@ -2741,13 +2798,13 @@ VExRT = {
 				"ECigbrew-Mal'Ganis", -- [15]
 				"LJacindax-Barthilas", -- [16]
 				"EDynapríest-Barthilas", -- [17]
-				["eI"] = 2265,
-				["c"] = "Yuumi-Kil'jaeden",
-				["t"] = 1548829130,
 				["eN"] = "Champion of the Light",
+				["k"] = true,
+				["t"] = 1548829130,
+				["eI"] = 2265,
 				["d"] = 14,
 				["g"] = 17,
-				["k"] = true,
+				["c"] = "Yuumi-Kil'jaeden",
 			}, -- [4]
 			{
 				"BSlóppy-EmeraldDream", -- [1]
@@ -2825,13 +2882,13 @@ VExRT = {
 				"KUtsugi", -- [25]
 				"ETehkz", -- [26]
 				"GQiro", -- [27]
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1548897057,
 				["eN"] = "Champion of the Light",
+				["c"] = "Yuumi-Kil'jaeden",
+				["t"] = 1548897057,
+				["eI"] = 2265,
 				["d"] = 15,
 				["g"] = 27,
-				["c"] = "Yuumi-Kil'jaeden",
+				["k"] = true,
 			}, -- [7]
 			{
 				"AOrcbum", -- [1]
@@ -2854,13 +2911,13 @@ VExRT = {
 				"ETosh", -- [18]
 				"HWraithbrand", -- [19]
 				"HYukio", -- [20]
-				["k"] = true,
 				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 				["d"] = 14,
-				["eN"] = "Stormwall Blockade",
+				["eI"] = 2280,
 				["t"] = 1548910665,
 				["g"] = 20,
-				["eI"] = 2280,
+				["eN"] = "Stormwall Blockade",
 			}, -- [8]
 			{
 				"BPhirby-Proudmoore", -- [1]
@@ -2912,13 +2969,13 @@ VExRT = {
 				"GSwampsong-Jubei'Thos", -- [17]
 				"LKeyzo-Illidan", -- [18]
 				"ECompetent-Zul'jin", -- [19]
-				["eN"] = "Grong",
-				["c"] = "Tosh-Kil'jaeden",
-				["t"] = 1548930174,
 				["eI"] = 2263,
+				["k"] = true,
+				["t"] = 1548930174,
+				["eN"] = "Grong",
 				["d"] = 14,
 				["g"] = 19,
-				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 			}, -- [10]
 			{
 				"ASpesh-Area52", -- [1]
@@ -2941,13 +2998,13 @@ VExRT = {
 				"AHydeko-Azralon", -- [18]
 				"LRuicx-Area52", -- [19]
 				"ETosh", -- [20]
-				["k"] = true,
 				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 				["d"] = 14,
-				["eN"] = "Opulence",
+				["eI"] = 2271,
 				["t"] = 1548955597,
 				["g"] = 20,
-				["eI"] = 2271,
+				["eN"] = "Opulence",
 			}, -- [11]
 			{
 				"DZahrial-Illidan", -- [1]
@@ -2968,13 +3025,13 @@ VExRT = {
 				"ERikidybones-Tichondrius", -- [16]
 				"CMypaxa-Dalaran", -- [17]
 				"ETosh", -- [18]
-				["eI"] = 2266,
-				["k"] = true,
-				["t"] = 1548969765,
 				["eN"] = "Jadefire Masters",
+				["c"] = "Tosh-Kil'jaeden",
+				["t"] = 1548969765,
+				["eI"] = 2266,
 				["d"] = 14,
 				["g"] = 18,
-				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 			}, -- [12]
 			{
 				"AOrcbum", -- [1]
@@ -3002,13 +3059,13 @@ VExRT = {
 				"GBigbullz", -- [23]
 				"GRylaiz", -- [24]
 				"GVoidamental", -- [25]
-				["eI"] = 2268,
-				["c"] = "Tosh-Kil'jaeden",
-				["d"] = 15,
 				["eN"] = "Conclave of the Chosen",
+				["k"] = true,
+				["d"] = 15,
+				["eI"] = 2268,
 				["t"] = 1548996067,
 				["g"] = 22,
-				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 			}, -- [13]
 			{
 				"KPluie", -- [1]
@@ -3097,13 +3154,13 @@ VExRT = {
 				"FOqx-Illidan", -- [20]
 				"LCaust-Mal'Ganis", -- [21]
 				"FDances-Barthilas", -- [22]
-				["eI"] = 2266,
-				["k"] = true,
-				["t"] = 1549157738,
 				["eN"] = "Jadefire Masters",
+				["c"] = "Yorman-Kil'jaeden",
+				["t"] = 1549157738,
+				["eI"] = 2266,
 				["d"] = 14,
 				["g"] = 21,
-				["c"] = "Yorman-Kil'jaeden",
+				["k"] = true,
 			}, -- [16]
 			{
 				"KPluie", -- [1]
@@ -3163,13 +3220,13 @@ VExRT = {
 				"BOof", -- [24]
 				"KDazen", -- [25]
 				"BNv", -- [26]
-				["eI"] = 2265,
-				["c"] = "Yorman-Kil'jaeden",
-				["t"] = 1549254583,
 				["eN"] = "Champion of the Light",
+				["k"] = true,
+				["t"] = 1549254583,
+				["eI"] = 2265,
 				["d"] = 15,
 				["g"] = 26,
-				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 			}, -- [18]
 			{
 				"EHolysour-BleedingHollow", -- [1]
@@ -3192,13 +3249,13 @@ VExRT = {
 				"GTidewave-Thrall", -- [18]
 				"DWallpuncher-Stormreaver", -- [19]
 				"KOomtree-BleedingHollow", -- [20]
-				["c"] = "Yorman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 				["d"] = 14,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1549330894,
 				["g"] = 20,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [19]
 			{
 				"BLohgical", -- [1]
@@ -3222,13 +3279,13 @@ VExRT = {
 				"BMultz-Illidan", -- [19]
 				"IEdwardl-Thaurissan", -- [20]
 				"CPheiona-Azralon", -- [21]
-				["eN"] = "Champion of the Light",
-				["c"] = "Yorman-Kil'jaeden",
-				["t"] = 1549384454,
 				["eI"] = 2265,
+				["k"] = true,
+				["t"] = 1549384454,
+				["eN"] = "Champion of the Light",
 				["d"] = 15,
 				["g"] = 21,
-				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 			}, -- [20]
 			{
 				"BLohgical", -- [1]
@@ -3256,13 +3313,13 @@ VExRT = {
 				"LTeemi-Turalyon", -- [23]
 				"GMosashi-Illidan", -- [24]
 				"LSlashyoulol-Malfurion", -- [25]
-				["k"] = true,
 				["c"] = "Yorman-Kil'jaeden",
+				["k"] = true,
 				["t"] = 1549385919,
-				["eI"] = 2263,
+				["eN"] = "Grong",
 				["d"] = 15,
 				["g"] = 22,
-				["eN"] = "Grong",
+				["eI"] = 2263,
 			}, -- [21]
 			{
 				"AOrcbum", -- [1]
@@ -3290,13 +3347,13 @@ VExRT = {
 				"EDolclemits", -- [23]
 				"ESpinatik", -- [24]
 				"GSkarsnik", -- [25]
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1549424951,
 				["eN"] = "Champion of the Light",
+				["c"] = "Tosh-Kil'jaeden",
+				["t"] = 1549424951,
+				["eI"] = 2265,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 			}, -- [22]
 			{
 				"AOrcbum", -- [1]
@@ -3330,13 +3387,13 @@ VExRT = {
 				"APride", -- [29]
 				"AGoredamm", -- [30]
 				[36] = "CDragonsbeast",
-				["k"] = true,
 				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Jadefire Masters",
+				["eI"] = 2266,
 				["t"] = 1549427192,
 				["g"] = 30,
-				["eI"] = 2266,
+				["eN"] = "Jadefire Masters",
 			}, -- [23]
 			{
 				"FKeydepleter", -- [1]
@@ -3365,13 +3422,13 @@ VExRT = {
 				"KUtsugi", -- [24]
 				"CMerkyah", -- [25]
 				"GStormlash", -- [26]
-				["k"] = true,
 				["c"] = "Yuumi-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1549501513,
 				["g"] = 26,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [24]
 			{
 				"AOrcbum", -- [1]
@@ -3397,13 +3454,13 @@ VExRT = {
 				"GSkarsnik", -- [21]
 				"EKhell", -- [22]
 				[36] = "CPapisalad",
-				["eI"] = 2272,
-				["k"] = true,
-				["t"] = 1549593762,
 				["eN"] = "King Rastakhan",
+				["c"] = "Tosh-Kil'jaeden",
+				["t"] = 1549593762,
+				["eI"] = 2272,
 				["d"] = 15,
 				["g"] = 20,
-				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 			}, -- [25]
 			{
 				"AOrcbum", -- [1]
@@ -3429,13 +3486,13 @@ VExRT = {
 				"GSkarsnik", -- [21]
 				"GVercetty", -- [22]
 				"GRylaiz", -- [23]
-				["k"] = true,
 				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Mekkatorque",
+				["eI"] = 2276,
 				["t"] = 1549602016,
 				["g"] = 23,
-				["eI"] = 2276,
+				["eN"] = "Mekkatorque",
 			}, -- [26]
 			{
 				"KPluie", -- [1]
@@ -3485,13 +3542,13 @@ VExRT = {
 				"KDaiyzed", -- [13]
 				"IWarlockmania", -- [14]
 				"ETehkz", -- [15]
-				["c"] = "Yuumi-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Yuumi-Kil'jaeden",
 				["d"] = 15,
-				["eN"] = "Lady Jaina Proudmoore",
+				["eI"] = 2281,
 				["t"] = 1549762955,
 				["g"] = 15,
-				["eI"] = 2281,
+				["eN"] = "Lady Jaina Proudmoore",
 			}, -- [28]
 			{
 				"BNv", -- [1]
@@ -3514,14 +3571,14 @@ VExRT = {
 				"EYellowy", -- [18]
 				"JYuumi", -- [19]
 				"ENavaria", -- [20]
-				["d"] = 16,
-				["eI"] = 2271,
-				["k"] = true,
 				["t"] = 1549770369,
+				["eI"] = 2271,
+				["c"] = "Yuumi-Kil'jaeden",
+				["d"] = 16,
 				["eN"] = "Opulence",
 				[26] = "HArnbjørn",
 				["g"] = 20,
-				["c"] = "Yuumi-Kil'jaeden",
+				["k"] = true,
 			}, -- [29]
 			{
 				"AOrcbum", -- [1]
@@ -3620,13 +3677,13 @@ VExRT = {
 				"BNv", -- [22]
 				"GStormlash", -- [23]
 				"KUtsugi", -- [24]
-				["k"] = true,
 				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 				["t"] = 1550106792,
 				["g"] = 23,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 			}, -- [32]
 			{
 				"JDrift", -- [1]
@@ -3646,13 +3703,13 @@ VExRT = {
 				"APride", -- [15]
 				"JStargates-Mal'Ganis", -- [16]
 				"CMerkyah", -- [17]
-				["eI"] = 2281,
-				["c"] = "Yuumi-Kil'jaeden",
-				["t"] = 1550117055,
 				["eN"] = "Lady Jaina Proudmoore",
+				["k"] = true,
+				["t"] = 1550117055,
+				["eI"] = 2281,
 				["d"] = 15,
 				["g"] = 17,
-				["k"] = true,
+				["c"] = "Yuumi-Kil'jaeden",
 			}, -- [33]
 			{
 				"AOrcbum", -- [1]
@@ -3696,13 +3753,13 @@ VExRT = {
 				"GToshaman", -- [15]
 				"DShadowrally-Thaurissan", -- [16]
 				"CMagalator-Thrall", -- [17]
-				["eI"] = 2265,
-				["c"] = "Toshaman-Kil'jaeden",
-				["t"] = 1550215103,
 				["eN"] = "Champion of the Light",
+				["k"] = true,
+				["t"] = 1550215103,
+				["eI"] = 2265,
 				["d"] = 14,
 				["g"] = 17,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [35]
 			{
 				"KPluie", -- [1]
@@ -3756,13 +3813,13 @@ VExRT = {
 				"KChaoss-Illidan", -- [18]
 				"KYorman", -- [19]
 				"BSháank", -- [20]
-				["eN"] = "Grong",
-				["c"] = "Yorman-Kil'jaeden",
-				["t"] = 1550366329,
 				["eI"] = 2263,
+				["k"] = true,
+				["t"] = 1550366329,
+				["eN"] = "Grong",
 				["d"] = 15,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 			}, -- [37]
 			{
 				"BNv", -- [1]
@@ -3816,13 +3873,13 @@ VExRT = {
 				"IEdwardl-Thaurissan", -- [18]
 				"BOzgôrn-Illidan", -- [19]
 				"GToshaman", -- [20]
-				["eN"] = "Conclave of the Chosen",
-				["c"] = "Toshaman-Kil'jaeden",
-				["t"] = 1550523285,
 				["eI"] = 2268,
+				["k"] = true,
+				["t"] = 1550523285,
+				["eN"] = "Conclave of the Chosen",
 				["d"] = 14,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [39]
 			{
 				"BPnkranger-Illidan", -- [1]
@@ -3846,13 +3903,13 @@ VExRT = {
 				"CShréddèr-EmeraldDream", -- [19]
 				"JKilohertz-Andorhal", -- [20]
 				"ADhrek-Azralon", -- [21]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 14,
-				["eI"] = 2272,
+				["eN"] = "King Rastakhan",
 				["t"] = 1550530414,
 				["g"] = 21,
-				["eN"] = "King Rastakhan",
+				["eI"] = 2272,
 			}, -- [40]
 			{
 				"HCeesong", -- [1]
@@ -3875,13 +3932,13 @@ VExRT = {
 				"ICadaceus", -- [18]
 				"EMutiny", -- [19]
 				"DHyperr", -- [20]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 16,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1550540592,
 				["g"] = 20,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [41]
 			{
 				"GJumpah", -- [1]
@@ -3910,13 +3967,13 @@ VExRT = {
 				"AIsohash-Tichondrius", -- [24]
 				"CDrday-Area52", -- [25]
 				"CBanishes-Ner'zhul", -- [26]
-				["eN"] = "Champion of the Light",
-				["c"] = "Yorman-Kil'jaeden",
-				["t"] = 1550603568,
 				["eI"] = 2265,
+				["k"] = true,
+				["t"] = 1550603568,
+				["eN"] = "Champion of the Light",
 				["d"] = 15,
 				["g"] = 26,
-				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 			}, -- [42]
 			{
 				"IMurkya", -- [1]
@@ -3947,13 +4004,13 @@ VExRT = {
 				"CBanishes-Ner'zhul", -- [26]
 				"ABoominlikeme-Tichondrius", -- [27]
 				"CDrday-Area52", -- [28]
-				["c"] = "Yorman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 				["d"] = 15,
-				["eN"] = "Conclave of the Chosen",
+				["eI"] = 2268,
 				["t"] = 1550607378,
 				["g"] = 28,
-				["eI"] = 2268,
+				["eN"] = "Conclave of the Chosen",
 			}, -- [43]
 			{
 				"AOrcbum", -- [1]
@@ -4015,13 +4072,13 @@ VExRT = {
 				"GQiro", -- [24]
 				"KTurbaconepic-Thrall", -- [25]
 				"ABaesong", -- [26]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 15,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1550712020,
 				["g"] = 26,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [45]
 			{
 				"LScathing", -- [1]
@@ -4044,13 +4101,13 @@ VExRT = {
 				"KHordemaster", -- [18]
 				"EYuffio", -- [19]
 				"ABlueflame", -- [20]
-				["eN"] = "Champion of the Light",
-				["c"] = "Yorman-Kil'jaeden",
-				["t"] = 1550724946,
 				["eI"] = 2265,
+				["k"] = true,
+				["t"] = 1550724946,
+				["eN"] = "Champion of the Light",
 				["d"] = 16,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 			}, -- [46]
 			{
 				"BGoffx-Zul'jin", -- [1]
@@ -4069,13 +4126,13 @@ VExRT = {
 				"EHaysöos-Tichondrius", -- [14]
 				"IJordi-Gundrak", -- [15]
 				"HWraithbrand", -- [16]
-				["eI"] = 2268,
-				["c"] = "Toshaman-Kil'jaeden",
-				["t"] = 1550732703,
 				["eN"] = "Conclave of the Chosen",
+				["k"] = true,
+				["t"] = 1550732703,
+				["eI"] = 2268,
 				["d"] = 14,
 				["g"] = 16,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [47]
 			{
 				"AOrcbum", -- [1]
@@ -4098,13 +4155,13 @@ VExRT = {
 				"KNgow", -- [18]
 				"GSkarsnik", -- [19]
 				"HWraithbrand", -- [20]
-				["c"] = "Tosh-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 				["d"] = 15,
-				["eI"] = 2281,
+				["eN"] = "Lady Jaina Proudmoore",
 				["t"] = 1550809180,
 				["g"] = 20,
-				["eN"] = "Lady Jaina Proudmoore",
+				["eI"] = 2281,
 			}, -- [48]
 			{
 				"BSiinrunrpaly-Area52", -- [1]
@@ -4153,13 +4210,13 @@ VExRT = {
 				"LKewalla-Azralon", -- [17]
 				"ANogun-Nemesis", -- [18]
 				"JXoliswa-WyrmrestAccord", -- [19]
-				["k"] = true,
 				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 14,
-				["eN"] = "Conclave of the Chosen",
+				["eI"] = 2268,
 				["t"] = 1550858513,
 				["g"] = 19,
-				["eI"] = 2268,
+				["eN"] = "Conclave of the Chosen",
 			}, -- [50]
 			{
 				"GQiro", -- [1]
@@ -4188,8 +4245,8 @@ VExRT = {
 				[29] = "HArnbjørn",
 				[30] = "KIko",
 				["c"] = "Yuumi-Kil'jaeden",
-				["k"] = true,
 				[36] = "HYukio",
+				["k"] = true,
 				["d"] = 16,
 				["eI"] = 2265,
 				["t"] = 1550889705,
@@ -4249,14 +4306,14 @@ VExRT = {
 				"GSourjuju-Illidan", -- [21]
 				"CWhoforted-Khadgar", -- [22]
 				"KKèanu-Zul'jin", -- [23]
-				["t"] = 1551080868,
-				["eI"] = 2271,
-				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 14,
+				["eI"] = 2271,
+				["k"] = true,
+				["t"] = 1551080868,
 				["eN"] = "Opulence",
 				[26] = "DWhiterainc-Illidan",
 				["g"] = 24,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [53]
 			{
 				"HCeesong", -- [1]
@@ -4279,13 +4336,13 @@ VExRT = {
 				"CYbrik", -- [18]
 				"KCrítical", -- [19]
 				"GVercetty", -- [20]
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1551144867,
 				["eN"] = "Champion of the Light",
+				["c"] = "Toshaman-Kil'jaeden",
+				["t"] = 1551144867,
+				["eI"] = 2265,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 			}, -- [54]
 			{
 				"AOrcbum", -- [1]
@@ -4309,13 +4366,13 @@ VExRT = {
 				"GRylaiz", -- [19]
 				"ICheder", -- [20]
 				[36] = "DEmosong",
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1551234137,
 				["eN"] = "Champion of the Light",
+				["c"] = "Tosh-Kil'jaeden",
+				["t"] = 1551234137,
+				["eI"] = 2265,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 			}, -- [55]
 			{
 				"EYuffio", -- [1]
@@ -4343,13 +4400,13 @@ VExRT = {
 				"IHaxpax-Illidan", -- [23]
 				"IRuesong", -- [24]
 				"FAkwi", -- [25]
-				["eN"] = "Champion of the Light",
-				["k"] = true,
-				["t"] = 1551315797,
 				["eI"] = 2265,
+				["c"] = "Toshaman-Kil'jaeden",
+				["t"] = 1551315797,
+				["eN"] = "Champion of the Light",
 				["d"] = 15,
 				["g"] = 25,
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 			}, -- [56]
 			{
 				"FKeydepleter", -- [1]
@@ -4405,13 +4462,13 @@ VExRT = {
 				"EDolclemits", -- [18]
 				"HFocalaire", -- [19]
 				"DKhelikloth", -- [20]
-				["eN"] = "Grong",
-				["c"] = "Tosh-Kil'jaeden",
-				["t"] = 1551416053,
 				["eI"] = 2263,
+				["k"] = true,
+				["t"] = 1551416053,
+				["eN"] = "Grong",
 				["d"] = 16,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 			}, -- [58]
 			{
 				"KPluie", -- [1]
@@ -4435,13 +4492,13 @@ VExRT = {
 				"CThunderrz", -- [19]
 				"CMerkyah", -- [20]
 				"ISodalock", -- [21]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 16,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1551494516,
 				["g"] = 20,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [59]
 			{
 				"BNv", -- [1]
@@ -4527,13 +4584,13 @@ VExRT = {
 				"GToshaman", -- [18]
 				"GSkarsnik", -- [19]
 				"JZombiemonk", -- [20]
-				["eN"] = "Jadefire Masters",
-				["c"] = "Toshaman-Kil'jaeden",
-				["t"] = 1552012960,
 				["eI"] = 2266,
+				["k"] = true,
+				["t"] = 1552012960,
+				["eN"] = "Jadefire Masters",
 				["d"] = 16,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [62]
 			{
 				"AOrcbum", -- [1]
@@ -4557,13 +4614,13 @@ VExRT = {
 				"BAspbringer", -- [19]
 				"KSlurry", -- [20]
 				[36] = "GSkarsnik",
-				["c"] = "Tosh-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 				["d"] = 16,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1552439643,
 				["g"] = 20,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [63]
 			{
 				"IPass", -- [1]
@@ -4587,13 +4644,13 @@ VExRT = {
 				"KWildsong", -- [19]
 				"DBluedagger", -- [20]
 				"ELuxeice", -- [21]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 15,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1552522701,
 				["g"] = 21,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [64]
 			{
 				"KPluie", -- [1]
@@ -4616,13 +4673,13 @@ VExRT = {
 				"ENavaria", -- [18]
 				"HArnbjørn", -- [19]
 				"CThunderrz", -- [20]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 16,
-				["eI"] = 2276,
+				["eN"] = "Mekkatorque",
 				["t"] = 1552705910,
 				["g"] = 20,
-				["eN"] = "Mekkatorque",
+				["eI"] = 2276,
 			}, -- [65]
 			{
 				"EHaxpax", -- [1]
@@ -4645,13 +4702,13 @@ VExRT = {
 				"LBulistus", -- [18]
 				"LCornhuskers", -- [19]
 				"BBrunsen", -- [20]
-				["c"] = "Yorman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
 				["d"] = 16,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 				["t"] = 1552803042,
 				["g"] = 20,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 			}, -- [66]
 			{
 				"ABaesong", -- [1]
@@ -4674,13 +4731,13 @@ VExRT = {
 				"FKatakiri", -- [18]
 				"KBellcat", -- [19]
 				"LOpbdn", -- [20]
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1552805073,
 				["eN"] = "Champion of the Light",
+				["c"] = "Yuumi-Kil'jaeden",
+				["t"] = 1552805073,
+				["eI"] = 2265,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Yuumi-Kil'jaeden",
+				["k"] = true,
 			}, -- [67]
 			{
 				"AOrcbum", -- [1]
@@ -4704,13 +4761,13 @@ VExRT = {
 				"JZombiemonk", -- [19]
 				"EGenj", -- [20]
 				[36] = "HFocalaire",
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1553044597,
 				["eN"] = "Champion of the Light",
+				["c"] = "Tosh-Kil'jaeden",
+				["t"] = 1553044597,
+				["eI"] = 2265,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
 			}, -- [68]
 			{
 				"AOrcbum", -- [1]
@@ -4770,13 +4827,13 @@ VExRT = {
 				"GZulic", -- [24]
 				"KTehkyur-Thrall", -- [25]
 				"KEau", -- [26]
-				["c"] = "Toshaman-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 15,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1553127220,
 				["g"] = 26,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [70]
 			{
 				"KWildsong", -- [1]
@@ -4799,13 +4856,13 @@ VExRT = {
 				"ETreb", -- [18]
 				"JMmfingruckus", -- [19]
 				"DUselessalt", -- [20]
-				["k"] = true,
 				["c"] = "Yorman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 16,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 				["t"] = 1553137651,
 				["g"] = 20,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 			}, -- [71]
 			{
 				"KPluie", -- [1]
@@ -4828,14 +4885,14 @@ VExRT = {
 				"CThunderrz", -- [18]
 				"CKnoss", -- [19]
 				"KDaiyzed", -- [20]
-				["d"] = 16,
-				["eI"] = 2265,
-				["k"] = true,
 				["t"] = 1553304813,
+				["eI"] = 2265,
+				["c"] = "Toshaman-Kil'jaeden",
+				["d"] = 16,
 				["eN"] = "Champion of the Light",
 				[26] = "ICadaceus",
 				["g"] = 20,
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 			}, -- [72]
 			{
 				"KPluie", -- [1]
@@ -4858,14 +4915,14 @@ VExRT = {
 				"CThunderrz", -- [18]
 				"CKnoss", -- [19]
 				"ESonaris", -- [20]
-				["k"] = true,
-				["eN"] = "Mekkatorque",
 				["c"] = "Toshaman-Kil'jaeden",
+				["eN"] = "Mekkatorque",
+				["k"] = true,
 				[26] = "IMurkya",
 				["eI"] = 2276,
-				["t"] = 1553319653,
-				["g"] = 20,
 				["d"] = 16,
+				["g"] = 20,
+				["t"] = 1553319653,
 			}, -- [73]
 			{
 				"KPluie", -- [1]
@@ -4888,14 +4945,14 @@ VExRT = {
 				"HAltairweeps", -- [18]
 				"KDaiyzed", -- [19]
 				"KIko", -- [20]
-				["t"] = 1553403757,
-				["eI"] = 2280,
-				["c"] = "Toshaman-Kil'jaeden",
 				["d"] = 16,
+				["eI"] = 2280,
+				["k"] = true,
+				["t"] = 1553403757,
 				["eN"] = "Stormwall Blockade",
 				[26] = "IMurkya",
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [74]
 			{
 				"AOrcbum", -- [1]
@@ -4919,13 +4976,13 @@ VExRT = {
 				"JZombiemonk", -- [19]
 				"IAzian", -- [20]
 				[36] = "IPass",
-				["c"] = "Tosh-Kil'jaeden",
 				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 				["d"] = 16,
-				["eI"] = 2265,
+				["eN"] = "Champion of the Light",
 				["t"] = 1553649556,
 				["g"] = 20,
-				["eN"] = "Champion of the Light",
+				["eI"] = 2265,
 			}, -- [75]
 			{
 				"KEau", -- [1]
@@ -4955,13 +5012,13 @@ VExRT = {
 				"EVoidspike", -- [25]
 				"CJagerwerks", -- [26]
 				"JHeyitsknoss", -- [27]
-				["eI"] = 2265,
-				["k"] = true,
-				["t"] = 1553732744,
 				["eN"] = "Champion of the Light",
+				["c"] = "Toshaman-Kil'jaeden",
+				["t"] = 1553732744,
+				["eI"] = 2265,
 				["d"] = 15,
 				["g"] = 27,
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 			}, -- [76]
 			{
 				"KEau", -- [1]
@@ -4990,13 +5047,13 @@ VExRT = {
 				"KKarthag-Azralon", -- [24]
 				"EVoidspike", -- [25]
 				"CJagerwerks", -- [26]
-				["k"] = true,
 				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Jadefire Masters",
+				["eI"] = 2266,
 				["t"] = 1553734196,
 				["g"] = 26,
-				["eI"] = 2266,
+				["eN"] = "Jadefire Masters",
 			}, -- [77]
 			{
 				"AOrcbum", -- [1]
@@ -5019,14 +5076,44 @@ VExRT = {
 				"FDaiyzedk", -- [18]
 				"BAspbringer", -- [19]
 				"BDawnzo", -- [20]
-				["eN"] = "Opulence",
-				["c"] = "Tosh-Kil'jaeden",
-				["t"] = 1553823014,
 				["eI"] = 2271,
+				["k"] = true,
+				["t"] = 1553823014,
+				["eN"] = "Opulence",
 				["d"] = 16,
 				["g"] = 20,
-				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
 			}, -- [78]
+			{
+				"BNv", -- [1]
+				"APride", -- [2]
+				"BAbernathii", -- [3]
+				"HAltairweeps", -- [4]
+				"FMoonblight", -- [5]
+				"DNawtyrogue", -- [6]
+				"HArnbjørn", -- [7]
+				"IMurkya", -- [8]
+				"KDaiyzed", -- [9]
+				"KHaxpaxy", -- [10]
+				"JBailey", -- [11]
+				"ESonaris", -- [12]
+				"CThunderrz", -- [13]
+				"ETehkz", -- [14]
+				"GToshaman", -- [15]
+				"HYukio", -- [16]
+				"EYellowy", -- [17]
+				"CKnoss", -- [18]
+				"IWarlockmania", -- [19]
+				"LAndruww", -- [20]
+				"KPluie", -- [21]
+				["eI"] = 2265,
+				["k"] = true,
+				["t"] = 1553910690,
+				["eN"] = "Champion of the Light",
+				["d"] = 16,
+				["g"] = 20,
+				["c"] = "Toshaman-Kil'jaeden",
+			}, -- [79]
 		},
 		["alts"] = {
 		},
@@ -5040,13 +5127,13 @@ VExRT = {
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["IconMiniMapHide"] = true,
-		["Version"] = 4000,
-		["Scale"] = 1,
-		["PreVersion"] = 4000,
-		["IconMiniMapLeft"] = -78.3197369046974,
-		["Timer"] = 0.1,
 		["IconMiniMapTop"] = -16.3100831137973,
+		["Version"] = 4000,
+		["Timer"] = 0.1,
+		["IconMiniMapHide"] = true,
+		["IconMiniMapLeft"] = -78.3197369046974,
+		["PreVersion"] = 4000,
+		["Scale"] = 1,
 	},
 	["Timers"] = {
 		["specTimes"] = {

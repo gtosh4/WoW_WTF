@@ -3,17 +3,18 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" they're 700 rn", -- [1]
 		" ez", -- [2]
-		"/dom", -- [3]
-		"/hek", -- [4]
-		"/grid2", -- [5]
+		" |cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [3]
+		"/alto show", -- [4]
+		"/camp", -- [5]
 		"/tmw", -- [6]
-		"ez", -- [7]
-		"/alto show", -- [8]
-		"/camp", -- [9]
-		"/p got u", -- [10]
+		"/grid2", -- [7]
+		"ez", -- [8]
+		"/hek", -- [9]
+		"/gladius test", -- [10]
 		"they're 700 rn", -- [11]
-		"/gladius test", -- [12]
-		" |cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [13]
+		"/dom", -- [12]
+		"|cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [13]
+		"/p got u", -- [14]
 	},
 	["ChatHistoryLog"] = {
 		{
