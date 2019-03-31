@@ -1,70 +1,23 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 627,
+	["session"] = 631,
 	["errors"] = {
 		{
-			["message"] = "Interface\\AddOns\\SavedInstances\\SavedInstances-8.1.0.lua:3188: Usage: <unnamed>:SetBackdrop(nil or {bgFile = \"bgFile\", edgeFile = \"edgeFile\", tile = false, tileSize = 0, edgeSize = 32, insets = { left = 0, right = 0, top = 0, bottom = 0 }})",
-			["time"] = "2019/03/26 16:45:18",
-			["locals"] = "(*temporary) = <unnamed> {\n 0 = <userdata>\n lines = <table> {\n }\n OnRelease = <function> defined @Interface\\AddOns\\SavedInstances\\SavedInstances.lua:4336\n headerFont = SavedInstancedTooltipHeaderFont {\n }\n scripts = <table> {\n }\n SetBackdropBorderColor = <function> defined =[C]:-1\n scrollFrame = <unnamed> {\n }\n anchorframe = SavedInstancesDetachHeader {\n }\n template = \"Transparent\"\n scrollChild = <unnamed> {\n }\n colspans = <table> {\n }\n width = 689.654114\n columns = <table> {\n }\n labelProvider = <table> {\n }\n regularFont = GameTooltipText {\n }\n height = 688.396320\n SetBackdropColor = <function> defined =[C]:-1\n pixelBorders = <table> {\n }\n key = \"SavedInstancesTooltip\"\n}\n",
-			["stack"] = "[C]: in function `SetBackdrop'\nInterface\\AddOns\\SavedInstances\\SavedInstances-8.1.0.lua:3188: in function <Interface\\AddOns\\SavedInstances\\SavedInstances.lua:3184>",
-			["session"] = 614,
-			["counter"] = 7,
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
+			["time"] = "2019/03/31 01:18:27",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:516: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
+			["session"] = 631,
+			["counter"] = 1,
 		}, -- [1]
 		{
-			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
-			["time"] = "2019/03/27 21:52:17",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
-			["session"] = 617,
-			["counter"] = 11,
-		}, -- [2]
-		{
-			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.6.lua:3406: script ran too long",
-			["time"] = "2019/03/29 02:38:15",
-			["stack"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-2.11.6.lua:3406: in function `PerformActions'\n...ace\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:572: in function `Expand'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.6.lua:4543: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4494>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.6.lua:4591: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4585>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.11.6.lua:4693: in function `UpdatedTriggerState'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:651: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:972: in function `sendAddEvent'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1251: in function `watch'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1529: in function `addOrUpdateMember'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1854: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:607: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
-			["session"] = 621,
-			["counter"] = 1,
-		}, -- [3]
-		{
-			["message"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: script ran too long",
-			["time"] = "2019/03/29 02:38:15",
-			["locals"] = "handlers = <table> {\n  = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119\n  = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119\n}\nindex = <table> {\n watching = <table> {\n }\n timeOfNextCDUpdate = <table> {\n }\n inspectLib = <table> {\n }\n handleCDUpdate = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() --------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\nlocal ZT = aura_env\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nlocal IsInRaid = IsInRaid\nlocal UnitGUID = UnitGUID\n\n-- Turns on/off debugging messages\nlocal DEBUG_EVENT = { isEnabled = false, color = \"FF2281F4\" }\nlocal DEBUG_MESSAGE = { isEnabled = false, color = \"FF11D825\" }\nlocal DEBUG_TIMER = { isEnabled = false, color = \"FFF96D27\" }\nlocal DEBUG_TRACKING = { isEnabled = false, color = \"FFA53BF7\" }\n\n-- Turns on/off testing of combatlog-based tracking for the player\n- registerFrontEnd = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() --------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\nlocal ZT = aura_env\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nlocal IsInRaid = IsInRaid\nlocal UnitGUID = UnitGUID\n\n-- Turns on/off debugging messages\nlocal DEBUG_EVENT = { isEnabled = false, color = \"FF2281F4\" }\nlocal DEBUG_MESSAGE = { isEnabled = false, color = \"FF11D825\" }\nlocal DEBUG_TIMER = { isEnabled = false, color = \"FFF96D27\" }\nlocal DEBUG_TRACKING = { isEnabled = false, color = \"FFA53BF7\" }\n\n-- Turns on/off testing of combatlog-based tracking for the player updateTimers = <table> {\n }\n toggleCombatLogHandlers = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() --------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\nlocal ZT = aura_env\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nlocal IsInRaid = IsInRaid\nlocal UnitGUID = UnitGUID\n\n-- Turns on/off debugging messages\nlocal DEBUG_EVENT = { isEnabled = false, color = \"FF2281F4\" }\nlocal DEBUG_MESSAGE = { isEnabled = false, color = \"FF11D825\" }\nlocal DEBUG_TIMER = { isEnabled = false, color = \"FFF96D27\" }\nlocal DEBUG_TRACKING = { isEnabled = false, color = \"FFA53BF7\" }\n\n-- Turns on/off testing of combatlog-based tracking for the region = <unnamed> {\n }\n libInspectRemove = <function> defined --[[ Error in 'ZenTracker (ZT) Main' ]] return function() --------------------------------------------------------------------------------\n-- CONFIGURATION\n--\n-- The configuration options have moved to the \"Author Options\" tab as of\n-- WeakAuras Version 2.10. \n--\n-- DO NOT EDIT THIS CODE!\n--------------------------------------------------------------------------------\nlocal ZT = aura_env\n\n-- Local versions of commonly used functions\nlocal ipairs = ipairs\nlocal pairs = pairs\nlocal print = print\nlocal select = select\nlocal tonumber = tonumber\n\nlocal IsInGroup = IsInGroup\nloc",
-			["stack"] = "...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:30: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:607: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
-			["session"] = 621,
-			["counter"] = 1,
-		}, -- [4]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
-			["time"] = "2019/03/27 21:20:49",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:972: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
-			["session"] = 623,
-			["counter"] = 4,
-		}, -- [5]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
-			["time"] = "2019/03/27 21:20:49",
+			["time"] = "2019/03/31 01:18:27",
 			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\PVEFrame.lua:119: in function <Interface\\FrameXML\\PVEFrame.lua:90>\n[C]: in function `PVEFrame_ShowFrame'\nInterface\\FrameXML\\PVEFrame.lua:87: in function `PVEFrame_ToggleFrame'\nInterface\\FrameXML\\UIParent.lua:972: in function `TogglePVPUI'\n[string \"TOGGLECHARACTER4\"]:1: in function <[string \"TOGGLECHARACTER4\"]:1>",
-			["session"] = 623,
-			["counter"] = 4,
-		}, -- [6]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:Hide()'.",
-			["time"] = "2019/03/29 12:54:50",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Hide'\nInterface\\AddOns\\MythicPlusTimer\\CMTimer.lua:449: in function `Draw'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:380: in function `OnCMTimerTick'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:441: in function <Interface\\AddOns\\MythicPlusTimer\\Core.lua:436>\n[C]: in function `updateFunc'\n...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:228: in function <...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:226>",
-			["session"] = 623,
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:516: in function `RaidFrame_LoadUI'\nInterface\\FrameXML\\RaidFrame.lua:60: in function <Interface\\FrameXML\\RaidFrame.lua:51>",
+			["session"] = 631,
 			["counter"] = 1,
-		}, -- [7]
-		{
-			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.1.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
-			["time"] = "2019/03/29 23:53:23",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.1.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
-			["session"] = 626,
-			["counter"] = 23,
-		}, -- [8]
+		}, -- [2]
 	},
 }

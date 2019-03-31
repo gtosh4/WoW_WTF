@@ -43,6 +43,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2403802142,
 		["Contents"] = "Crash 1    ||cpriestTehkz.ramp||r    ||cshamanGordy.HT||r    \nCrash 2    ||cmonkBails.rev||r    ||cpaladinMakies.AC||r    \nCrash 3    ||cdruidJamie.tranq||r    ||cpriestTehkz.barrier||r    \nCrash 4    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpaladinMakies.AM||r\nCrash 5    ||cpriestTehkz.ramp||r    ||cpaladinMakies.AC||r    \nINTERMISSION            \nSheep 1    ||cshamanGordy.HT||r        \nSheep 2            \nWormhole            \nPHASE 3            \nCrash 6    ||cpriestTehkz.ramp||r        \nCrash 7    ||cpriestTehkz.barrier||r    ||cpaladinMakies.AC||r    ||cmonkBails.rev||r\nCrash 8    ||cpaladinMakies.AM||r    ||cdruidJamie.tranq||r    \nCrash 9    ||cshamanGordy.HT||r        \nCrash 10    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r",
 	},
+	[121094719] = {
+		["Updated"] = 1554002371,
+		["Name"] = "M Jaina",
+		["Id"] = 121094719,
+		["UpdateId"] = 2988917147,
+		["Contents"] = "Avalance 2    ||cpriestJess.salv||r    ||cpriestTehkz.ramp||r            \nLusted Avalanche    ||cwarriorBarba.rally||r    ||cmonkBails.rev||r            \nPhase 2                    \nP2 start    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.ramp||r    ||cpaladinMakie.AM||r    \nBroad 1    ||cpriestTehkz.barrier||r    ||cpriestJess.hymn||r            \nSiege 1    ||cpriestJess.grip||r    ||cshamanGordy.HT||r    3-min personals        \nSiege 2    ||cpriestTehkz.grip||r    ||cmonkBails.rev||r    ||cwarriorBarba.rally||r    ||cpriestTehkz.ramp||r    2-min personals\nPhase 3                    \nInterrupt boss    ||cpriestJess.grip||r                \nAfter Orb 1    ||cpaladinMakie.AM||r    ||cpriestTehkz.ramp||r            \nRay    ||cpriestJess.salv||r    ||cpriestTehkz.barrier||r            \nSiege 3    ||cpriestTehkz.grip||r    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestJess.hymn||r    all personals\nBroad 2    ||cshamanGordy.HT||r                \nPost-broad 2    ||cmonkBails.rev||r                \nOn CD    ||cwarriorBarba.rally||r    ||cpriestTehkz.ramp||r",
+	},
 	[2321609351] = {
 		["Updated"] = 1553305083,
 		["Name"] = "M Grong",
@@ -191,6 +198,12 @@ AngryAssign_Categories = {
 }
 AngryAssign_State = {
 	["directionUp"] = false,
+	["window"] = {
+		["height"] = 493.962524414063,
+		["top"] = 1101.978515625,
+		["left"] = 52.6252059936524,
+		["width"] = 700,
+	},
 	["display"] = {
 		["y"] = -204.501708984375,
 		["x"] = -716.544006347656,
@@ -210,12 +223,6 @@ AngryAssign_State = {
 		["selected"] = 1027799653,
 		["treewidth"] = 175,
 		["fullwidth"] = 666.000061035156,
-	},
-	["window"] = {
-		["height"] = 493.962524414063,
-		["top"] = 1101.978515625,
-		["left"] = 52.6252059936524,
-		["width"] = 700,
 	},
 	["locked"] = true,
 }
