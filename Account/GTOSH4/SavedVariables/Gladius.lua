@@ -21,11 +21,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 483.732411763853,
-			},
 			["x"] = {
 				["arena1"] = 1438.93566484931,
+			},
+			["y"] = {
+				["arena1"] = 483.732411763853,
 			},
 		},
 		["Default"] = {
@@ -123,6 +123,18 @@ Gladius2DB = {
 			["aurasBuffsHeight"] = 22,
 			["aurasBuffs"] = true,
 			["aurasBuffsWidth"] = 22,
+			["clickAttributes"] = {
+				["shift-Right"] = {
+					["macro"] = "Mind Control",
+					["button"] = "2",
+					["action"] = "target",
+					["modifier"] = "shift-",
+				},
+				["Right"] = {
+					["macro"] = "Dispel Magic",
+					["action"] = "spell",
+				},
+			},
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "",
@@ -137,18 +149,6 @@ Gladius2DB = {
 			["castBarTexture"] = "ElvUI Norm",
 			["healthBarTexture"] = "ElvUI Norm",
 			["powerBarTexture"] = "ElvUI Norm",
-			["clickAttributes"] = {
-				["shift-Right"] = {
-					["macro"] = "Mind Control",
-					["button"] = "2",
-					["action"] = "target",
-					["modifier"] = "shift-",
-				},
-				["Right"] = {
-					["macro"] = "Dispel Magic",
-					["action"] = "spell",
-				},
-			},
 			["classIconShowSpec"] = true,
 		},
 		["Tosh - Kil'jaeden"] = {

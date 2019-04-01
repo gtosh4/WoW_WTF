@@ -1,436 +1,436 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p yeah, you have to wait for the call", -- [1]
-		"/p but it's at 5 stacks", -- [2]
+		"/p it goes w/ sea swell usually", -- [1]
+		"/4 yeah, I wasn't sure what the healing pattern looks like for wings", -- [2]
 		"/p when he'll call for it", -- [3]
-		"/p makie, since he's melee", -- [4]
-		"/p just make sure he recognizes your voice", -- [5]
-		"/p it goes w/ sea swell usually", -- [6]
-		"/p since melee have to move out", -- [7]
-		"/tmw", -- [8]
-		"/o #9 dps like, what?", -- [9]
-		"/wa", -- [10]
-		"/4 yeah, I wasn't sure what the healing pattern looks like for wings", -- [11]
-		"/4 so I didn't know where to place it", -- [12]
-		"/4 the timings are in the screenshot I posted", -- [13]
-		"/4 let me know where you think it'd be best", -- [14]
-		"/bw", -- [15]
-		"/raid rdy", -- [16]
-		"/o a manual?", -- [17]
-		"/o hell yeah", -- [18]
-		"/cw Knoss-Kil'jaeden I don't have a feel yet when I can or can't", -- [19]
-		"/cw Knoss-Kil'jaeden to know beforehand", -- [20]
+		"/4 the timings are in the screenshot I posted", -- [4]
+		"/4 let me know where you think it'd be best", -- [5]
+		"/bw", -- [6]
+		"/cw Knoss-Kil'jaeden to know beforehand", -- [7]
+		"/o hell yeah", -- [8]
+		"/4 so I didn't know where to place it", -- [9]
+		"/p just make sure he recognizes your voice", -- [10]
+		"/p makie, since he's melee", -- [11]
+		"/raid rdy", -- [12]
+		"you need islands?", -- [13]
+		"/wa", -- [14]
+		"/tmw", -- [15]
+		"/wave", -- [16]
+		"/ginvite toshmonk", -- [17]
+		"/g lol", -- [18]
+		"/invite toshmonk", -- [19]
+		"/cw Pluie-Kil'jaeden sec, lemme see if jess needs me for anything", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Avalanche (3{rt3}) on Murkya", -- [1]
-			"Murkya-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Spirit of Gold!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Murkya-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3504, -- [11]
-			"Player-9-0B301A93", -- [12]
+			429, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecMurkya|r",
-			[51] = 1554007842,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072579,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Spirit of Gold ended!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3509, -- [11]
-			"Player-9-08462094", -- [12]
+			431, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007851,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072584,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Feasting Skyscreamer!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3510, -- [11]
-			"Player-9-08462094", -- [12]
+			440, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007851,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072637,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Taunted Feasting Skyscreamer!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3522, -- [11]
-			"Player-9-08462094", -- [12]
+			441, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007880,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072637,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Mind Freezed Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3523, -- [11]
-			"Player-9-08462094", -- [12]
+			443, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007883,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072643,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Yazma!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3524, -- [11]
-			"Player-9-08462094", -- [12]
+			446, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007888,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072665,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Mind Freezed Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3531, -- [11]
-			"Player-9-08462094", -- [12]
+			447, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007892,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072669,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Mind Freezed Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3532, -- [11]
-			"Player-9-08462094", -- [12]
+			450, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554007898,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072707,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"why are we still here", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"gordy's swapping", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3552, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			459, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554007943,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072732,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"just to suffer", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"toons", -- [1]
+			"Keydepleter-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Keydepleter-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3553, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			460, -- [11]
+			"Player-9-0B42AEF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554007945,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Keydepleter|r",
+			[51] = 1554072734,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Welcome!", -- [1]
+			"Blueflamee-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3554, -- [11]
-			"Player-9-0A76F241", -- [12]
+			948, -- [11]
+			"Player-9-0AA1230A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554007951,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Blueflamee|r",
+			[51] = 1554076256,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [11]
 		{
-			"isn't that why you raid", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"welcome", -- [1]
+			"Huit-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3555, -- [11]
-			"Player-9-0B390464", -- [12]
+			949, -- [11]
+			"Player-9-0A2130B4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554007956,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa9d271Huit|r",
+			[51] = 1554076263,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [12]
 		{
-			"is to suffer", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"|Kv1|k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3556, -- [11]
-			"Player-9-0B390464", -- [12]
+			953, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554007957,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1554076362,
+			[50] = "CHAT_MSG_OFFICER",
 		}, -- [13]
 		{
-			"true", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"|Kv2|k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3557, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			954, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554007962,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1554076363,
+			[50] = "CHAT_MSG_OFFICER",
 		}, -- [14]
 		{
-			"though fromsoft games feel better to suffer through", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"|Kv3|k", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3560, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			955, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554007983,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1554076364,
+			[50] = "CHAT_MSG_OFFICER",
 		}, -- [15]
 		{
-			"Avalanche (3{rt3}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"sec", -- [1]
+			"Huit-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3576, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			956, -- [11]
+			"Player-9-0A2130B4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1554008019,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271Huit|r",
+			[51] = 1554076373,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [16]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3579, -- [11]
-			"Player-9-08462094", -- [12]
+			1017, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008029,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554076673,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3583, -- [11]
-			"Player-9-08462094", -- [12]
+			1022, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008051,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554076785,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"LOL", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3584, -- [11]
+			1028, -- [11]
 			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -438,2384 +438,2384 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008062,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1554076887,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [19]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"lol", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3587, -- [11]
-			"Player-9-08462094", -- [12]
+			1031, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008066,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1554076989,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [20]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Toshaman interrupted |cff71d5ff|Hspell:255220:0|h[Siphon Blood]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3588, -- [11]
-			"Player-9-08462094", -- [12]
+			1073, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008071,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1554077591,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13017:Player-9-0B58277D:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Champion of the Vulpera]|h|r!", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3589, -- [11]
-			"Player-9-08462094", -- [12]
+			1155, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008071,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1554077934,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [22]
 		{
-			"Avalanche (1{rt1}) on Drift", -- [1]
-			"Drift-Kil'jaeden", -- [2]
+			"Toshaman interrupted |cff71d5ff|Hspell:261612:0|h[Lesser Healing Potion]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3591, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			1162, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1554008072,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1554077947,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"Avalanche (3{rt3}) on Altairweeps", -- [1]
-			"Altairweeps-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12831:Player-9-0AA1230A:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Freehold]|h|r!", -- [1]
+			"Blueflamee-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Altairweeps-Kil'jaeden", -- [5]
+			"Blueflamee-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3595, -- [11]
-			"Player-9-0B5DD49A", -- [12]
+			1199, -- [11]
+			"Player-9-0AA1230A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Altairweeps|r",
-			[51] = 1554008072,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Blueflamee|r",
+			[51] = 1554078485,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [24]
 		{
-			"Avalanche 2 on {rt2}Yellowy{rt2}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12833:Player-9-0AA1230A:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Freehold]|h|r!", -- [1]
+			"Blueflamee-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Blueflamee-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3596, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1200, -- [11]
+			"Player-9-0AA1230A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008072,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Blueflamee|r",
+			[51] = 1554078485,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [25]
 		{
-			"Avalanche (2{rt2}) on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12832:Player-9-0AA1230A:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Freehold]|h|r!", -- [1]
+			"Blueflamee-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Blueflamee-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3597, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1201, -- [11]
+			"Player-9-0AA1230A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008072,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Blueflamee|r",
+			[51] = 1554078485,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [26]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11214:Player-9-0B5FB49F:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Many Missions]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Heyitsknoss-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3598, -- [11]
-			"Player-9-08462094", -- [12]
+			1226, -- [11]
+			"Player-9-0B5FB49F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008074,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1554078747,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [27]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:12955:Player-9-0B608E72:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Champions of Azeroth]|h|r!", -- [1]
+			"Toshmonk-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Toshmonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3625, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1241, -- [11]
+			"Player-9-0B608E72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008123,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Toshmonk|r",
+			[51] = 1554078853,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [28]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"hooray!", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3633, -- [11]
-			"Player-9-08462094", -- [12]
+			1242, -- [11]
+			"Player-9-0ABBBD86", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008199,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1554078858,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [29]
 		{
-			"Avalanche (2{rt2}) on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"I did it", -- [1]
+			"Toshmonk-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3638, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			1249, -- [11]
+			"Player-9-0B608E72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1554008208,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Toshmonk|r",
+			[51] = 1554078891,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [30]
 		{
-			"Avalanche on Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3642, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			1263, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1554008208,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554078952,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3648, -- [11]
-			"Player-9-08462094", -- [12]
+			1266, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008252,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079064,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"Avalanche 1 on {rt1}Pride{rt1}", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3653, -- [11]
-			"Player-9-08462094", -- [12]
+			1268, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008265,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1554079110,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"Avalanche (2{rt2}) on Nawtyrogue", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nawtyrogue-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3654, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			1269, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Nawtyrogue|r",
-			[51] = 1554008265,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079158,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"Avalanche (3{rt3}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3655, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			1272, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1554008265,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1554079230,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3659, -- [11]
-			"Player-9-08462094", -- [12]
+			1275, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008266,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079271,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3660, -- [11]
-			"Player-9-08462094", -- [12]
+			1278, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008266,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1554079350,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3664, -- [11]
-			"Player-9-08462094", -- [12]
+			1280, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008278,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079365,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3665, -- [11]
-			"Player-9-08462094", -- [12]
+			1283, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008278,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1554079470,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [39]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3666, -- [11]
-			"Player-9-08462094", -- [12]
+			1284, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008281,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079478,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [40]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13017:Player-9-0B5FB49F:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Champion of the Vulpera]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Heyitsknoss-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3667, -- [11]
-			"Player-9-08462094", -- [12]
+			1285, -- [11]
+			"Player-9-0B5FB49F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008281,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1554079554,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [41]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3669, -- [11]
-			"Player-9-08462094", -- [12]
+			1286, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008292,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079572,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [42]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3670, -- [11]
-			"Player-9-08462094", -- [12]
+			1287, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008293,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1554079590,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3671, -- [11]
-			"Player-9-08462094", -- [12]
+			1288, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008301,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079685,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [44]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3672, -- [11]
-			"Player-9-08462094", -- [12]
+			1289, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008301,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079779,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"Avalanche (2{rt2}) on Iko", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3675, -- [11]
-			"Player-9-0B390464", -- [12]
+			1292, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554008313,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079891,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"Avalanche on Knoss", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3676, -- [11]
-			"Player-9-0B24697B", -- [12]
+			1295, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1554008313,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554079986,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3690, -- [11]
-			"Player-9-08462094", -- [12]
+			1298, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008334,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080099,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3692, -- [11]
-			"Player-9-08462094", -- [12]
+			1305, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008337,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080193,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3696, -- [11]
-			"Player-9-08462094", -- [12]
+			1340, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008353,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080306,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"Avalanche (1{rt1}) on Drift", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3700, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			1345, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1554008359,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080400,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3711, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1349, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008392,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080512,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"Avalanche (2{rt2}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3721, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			1394, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1554008490,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080814,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"Avalanche on Knoss", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"wts |cffffffff|Hitem:152508::::::::120:62::::::|h[Winter's Kiss]|h|r x 10,000", -- [1]
+			"Sweetbracket-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Sweetbracket-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3722, -- [11]
-			"Player-9-0B24697B", -- [12]
+			1397, -- [11]
+			"Player-9-0A83001D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1554008490,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec5e9Sweetbracket|r",
+			[51] = 1554080882,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"wts |cffa335ee|Hitem:165563::::::::120:62::5:3:4799:1547:4784:::|h[Boots of the Dark Iron Raider]|h|r 425 ilvl", -- [1]
+			"Sweetbracket-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Sweetbracket-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3726, -- [11]
-			"Player-9-08462094", -- [12]
+			1398, -- [11]
+			"Player-9-0A83001D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008522,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff3ec5e9Sweetbracket|r",
+			[51] = 1554080902,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3727, -- [11]
-			"Player-9-08462094", -- [12]
+			1399, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008530,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554080926,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"Avalanche (1{rt1}) on Drift", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3732, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			1401, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1554008545,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081021,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"Avalanche (2{rt2}) on Iko", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"WTS M+10-11 CARRY FOR GOLD. PST, (1.5k io Group) GROUP READY", -- [1]
+			"Alstre-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Alstre-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3736, -- [11]
-			"Player-9-0B390464", -- [12]
+			1402, -- [11]
+			"Player-9-0B58767B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554008545,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec5e9Alstre|r",
+			[51] = 1554081051,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"Avalanche (3{rt3}) on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3737, -- [11]
-			"Player-9-0B58277D", -- [12]
+			1404, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1554008545,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081133,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3738, -- [11]
-			"Player-9-08462094", -- [12]
+			1405, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008552,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081228,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3741, -- [11]
-			"Player-9-08462094", -- [12]
+			1406, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008578,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081230,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12848:Player-9-0AA1230A:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Kings' Rest]|h|r!", -- [1]
+			"Blueflamee-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Blueflamee-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3742, -- [11]
-			"Player-9-08462094", -- [12]
+			1407, -- [11]
+			"Player-9-0AA1230A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008593,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3ec5e9Blueflamee|r",
+			[51] = 1554081234,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [62]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"WTS M+10-11 CARRY FOR GOLD. PST, (1.5k io Group) GROUP READY", -- [1]
+			"Alstre-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Alstre-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3764, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1408, -- [11]
+			"Player-9-0B58767B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008666,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec5e9Alstre|r",
+			[51] = 1554081260,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"Avalanche (3{rt3}) on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			" <PGL>(9/9H 1/9M) is recruiting A Tank and DPS!) Our raid times are M/T/W 8-10pm PST. If you're interested or have any questions please feel free to whisper.", -- [1]
+			"Petalpaw-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Petalpaw-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3771, -- [11]
-			"Player-9-0B58277D", -- [12]
+			1409, -- [11]
+			"Player-9-073F01E0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1554008708,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe95Petalpaw|r",
+			[51] = 1554081276,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"Avalanche (2{rt2}) on Arnbjørn", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3772, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			1410, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554008708,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081280,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3777, -- [11]
-			"Player-9-08462094", -- [12]
+			1411, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008713,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081340,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3779, -- [11]
-			"Player-9-08462094", -- [12]
+			1414, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008735,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081435,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [67]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3783, -- [11]
-			"Player-9-08462094", -- [12]
+			1415, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008743,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081447,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"Avalanche (2{rt2}) on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3789, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			1419, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1554008764,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081547,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [69]
 		{
-			"Avalanche (3{rt3}) on Altairweeps", -- [1]
-			"Altairweeps-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Altairweeps-Kil'jaeden", -- [5]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3790, -- [11]
-			"Player-9-0B5DD49A", -- [12]
+			1423, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Altairweeps|r",
-			[51] = 1554008764,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081580,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [70]
 		{
-			"Avalanche (1{rt1}) on Drift", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3791, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			1428, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1554008764,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081642,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3796, -- [11]
-			"Player-9-08462094", -- [12]
+			1439, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008767,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081733,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3797, -- [11]
-			"Player-9-08462094", -- [12]
+			1441, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008767,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554081754,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			" >>>Selling Freehold Twink Runs<<< 110-120 powerleveling for gold. 110-120 in about 2.5 hours (faster with heirloom set) {Whisper for more info}", -- [1]
+			"Felfatalle-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Felfatalle-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3799, -- [11]
-			"Player-9-08462094", -- [12]
+			1442, -- [11]
+			"Player-9-0B5E0E0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008783,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa22fc8Felfatalle|r",
+			[51] = 1554081789,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [74]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"m+?", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Pluie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3801, -- [11]
-			"Player-9-08462094", -- [12]
+			1459, -- [11]
+			"Player-9-0ABBBD86", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008792,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1554081945,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [75]
 		{
-			"Avalanche (3{rt3}) on Altairweeps", -- [1]
-			"Altairweeps-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"sec, lemme see if jess needs me for anything", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Altairweeps-Kil'jaeden", -- [5]
+			"Pluie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3804, -- [11]
-			"Player-9-0B5DD49A", -- [12]
+			1463, -- [11]
+			"Player-9-0ABBBD86", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Altairweeps|r",
-			[51] = 1554008810,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1554081967,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [76]
 		{
-			"Avalanche (3{rt3}) on Murkya", -- [1]
-			"Murkya-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Murkya-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3817, -- [11]
-			"Player-9-0B301A93", -- [12]
+			128, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecMurkya|r",
-			[51] = 1554008857,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554088771,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"!keys", -- [1]
-			"Ruesong-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3821, -- [11]
-			"Player-9-038F56C4", -- [12]
+			220, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecRuesong|r",
-			[51] = 1554008869,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554088838,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"|cffa335ee|Hkeystone:158923:248:17:9:5:3:117|h[Keystone: Waycrest Manor (17)]|h|r", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3822, -- [11]
-			"Player-9-08462094", -- [12]
+			269, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554088885,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"|cffa335ee|Hkeystone:158923:245:9:9:5:3:0|h[Keystone: Freehold (9)]|h|r", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3823, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			293, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554088905,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"|cffa335ee|Hkeystone:158923:353:13:9:5:3:117|h[Keystone: Siege of Boralus (13)]|h|r", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3824, -- [11]
-			"Player-9-0B363945", -- [12]
+			380, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554088972,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"|cffa335ee|Hkeystone:158923:248:18:9:5:3:117|h[Keystone: Waycrest Manor (18)]|h|r", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3825, -- [11]
-			"Player-9-0B390464", -- [12]
+			411, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554088998,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"|cffa335ee|Hkeystone:158923:248:14:9:5:3:117|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3826, -- [11]
-			"Player-9-0B081794", -- [12]
+			480, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089039,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"|cffa335ee|Hkeystone:158923:247:11:9:5:3:117|h[Keystone: The MOTHERLODE!! (11)]|h|r", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3827, -- [11]
-			"Player-9-0B24697B", -- [12]
+			538, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089092,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"|cffa335ee|Hkeystone:158923:252:15:9:5:3:117|h[Keystone: Shrine of the Storm (15)]|h|r", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3828, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			553, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089106,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"|cffa335ee|Hkeystone:158923:353:14:9:5:3:117|h[Keystone: Siege of Boralus (14)]|h|r", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3829, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			625, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089173,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"|cffa335ee|Hkeystone:158923:248:14:9:5:3:117|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3830, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			635, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffe7b09Mooncriketio|r",
+			[51] = 1554089181,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"|cffa335ee|Hkeystone:158923:247:14:9:5:3:117|h[Keystone: The MOTHERLODE!! (14)]|h|r", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3831, -- [11]
-			"Player-9-0A76F241", -- [12]
+			641, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089205,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"|cffa335ee|Hkeystone:158923:247:14:9:5:3:117|h[Keystone: The MOTHERLODE!! (14)]|h|r", -- [1]
-			"Murkya-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3832, -- [11]
-			"Player-9-0B301A93", -- [12]
+			642, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecMurkya|r",
-			[51] = 1554008870,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089240,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3846, -- [11]
-			"Player-9-0A76F241", -- [12]
+			647, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554008908,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089299,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"Avalanche on Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3858, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			649, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1554008955,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089308,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:3937:Player-9-0B583DCA:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Not One, But Two Jormungars (25 player)]|h|r!", -- [1]
+			"Dx-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Dx-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3864, -- [11]
-			"Player-9-08462094", -- [12]
+			651, -- [11]
+			"Player-9-0B583DCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008982,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc59a6cDx|r",
+			[51] = 1554089325,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [92]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3865, -- [11]
-			"Player-9-08462094", -- [12]
+			652, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554008990,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Mooncriketio|r",
+			[51] = 1554089332,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [93]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3873, -- [11]
-			"Player-9-08462094", -- [12]
+			655, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009010,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089374,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3878, -- [11]
-			"Player-9-08462094", -- [12]
+			656, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009025,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Mooncriketio|r",
+			[51] = 1554089398,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [95]
 		{
-			"Avalanche 1 on {rt1}Pride{rt1}", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3886, -- [11]
-			"Player-9-08462094", -- [12]
+			657, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009064,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089411,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"Avalanche (3{rt3}) on Murkya", -- [1]
-			"Murkya-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Murkya-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3887, -- [11]
-			"Player-9-0B301A93", -- [12]
+			658, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecMurkya|r",
-			[51] = 1554009064,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089441,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"Avalanche (2{rt2}) on Iko", -- [1]
-			"Iko-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3891, -- [11]
-			"Player-9-0B390464", -- [12]
+			660, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1554009064,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089506,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3894, -- [11]
-			"Player-9-08462094", -- [12]
+			661, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009072,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089508,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3895, -- [11]
-			"Player-9-08462094", -- [12]
+			696, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009072,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Mooncriketio|r",
+			[51] = 1554089569,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [100]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3898, -- [11]
-			"Player-9-08462094", -- [12]
+			704, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009084,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089575,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [101]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling +10`s get your chance at 400+ loot and 100% chance at 410 item from chest on tuesday", -- [1]
+			"Mooncriketio-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Mooncriketio-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3899, -- [11]
-			"Player-9-08462094", -- [12]
+			733, -- [11]
+			"Player-9-0B4B5DD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009084,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Mooncriketio|r",
+			[51] = 1554089601,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [102]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3903, -- [11]
-			"Player-9-08462094", -- [12]
+			752, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009111,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089618,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [103]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3904, -- [11]
-			"Player-9-08462094", -- [12]
+			775, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009111,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089642,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [104]
 		{
-			"Avalanche 1 on {rt1}Pride{rt1}", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3907, -- [11]
-			"Player-9-08462094", -- [12]
+			845, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009112,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089709,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [105]
 		{
-			"Avalanche 2 on {rt2}Makiee{rt2}", -- [1]
-			"Makiee-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Makiee-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3908, -- [11]
-			"Player-9-0B5B36AF", -- [12]
+			851, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Makiee|r",
-			[51] = 1554009112,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089713,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [106]
 		{
-			"Avalanche (3{rt3}) on Tehkz", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"turns his |Hitem:118427|h|cFFFFFFFF[Autographed Hearthstone Card]|r|h card over, revealing a |cFFFFFFFF[Common Hearthstone Card]|r!", -- [1]
+			"Frankenlock-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
+			"Frankenlock-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3909, -- [11]
-			"Player-9-0B4BF011", -- [12]
+			881, -- [11]
+			"Player-9-0794F806", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1554009112,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8686ecFrankenlock|r",
+			[51] = 1554089740,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [107]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3924, -- [11]
-			"Player-9-08462094", -- [12]
+			921, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009141,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089776,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [108]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3931, -- [11]
-			"Player-9-08462094", -- [12]
+			972, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009156,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089825,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [109]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3932, -- [11]
-			"Player-9-08462094", -- [12]
+			992, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009156,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089843,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [110]
 		{
-			"!", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3968, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			1060, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1554009268,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089910,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [111]
 		{
-			"I FIXED IT CJ", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3969, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			1071, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1554009279,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554089920,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [112]
 		{
-			"I'ma need a rundown on intermission again", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0B5FB49F:1:3:31:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bailey-Kil'jaeden", -- [5]
+			"Heyitsknoss-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3970, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			1089, -- [11]
+			"Player-9-0B5FB49F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1554009291,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1554089936,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [113]
 		{
-			"now if you say", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3971, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			1134, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1554009293,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554089977,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [114]
 		{
-			"fuck frida", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3972, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			1194, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1554009296,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554090032,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [115]
 		{
-			"|cffa335ee|Hkeystone:158923:248:14:9:5:3:117|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3973, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			1206, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1554009296,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090044,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [116]
 		{
-			"|Kv103|k", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3974, -- [11]
-			"Player-9-0AF1840D", -- [12]
+			1208, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1554009338,
-			[50] = "CHAT_MSG_OFFICER",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090111,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [117]
 		{
-			"I'm back, bitches", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3978, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1210, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554009398,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554090127,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [118]
 		{
-			"Avalanche 2 on {rt2}Andruww{rt2}", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3985, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			1211, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1554009413,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090178,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [119]
 		{
-			"Avalanche 3 on {rt3}Yellowy{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3986, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1212, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554009413,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554090239,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [120]
 		{
-			"Avalanche (3{rt3}) on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3987, -- [11]
-			"Player-9-0A76F241", -- [12]
+			1213, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1554009413,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090245,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [121]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3991, -- [11]
-			"Player-9-08462094", -- [12]
+			1214, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009444,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090312,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [122]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3992, -- [11]
-			"Player-9-08462094", -- [12]
+			1217, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009458,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554090334,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [123]
 		{
-			"Avalanche on Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3994, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			1220, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1554009463,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090379,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [124]
 		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Barmaakaisa-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"1. Trade - City", -- [4]
+			"Barmaakaisa-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			13, -- [11]
-			"Player-9-08462094", -- [12]
+			1221, -- [11]
+			"Player-9-0B609553", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554009514,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Barmaakaisa|r",
+			[51] = 1554090446,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [125]
 		{
-			"if i get raid lead. i hit disband", -- [1]
-			"Nawtyrogue-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-9-0B5975CE", -- [12]
+			1222, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Nawtyrogue|r",
-			[51] = 1554009592,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090446,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [126]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12591:Player-9-0AFE3075:1:3:30:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Un'gol Ruins]|h|r!", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
+			"Selling Mythic+10 Get all 400+ilvl tradable loots for 625+ Titan Residuum and 410+ weeky chest,Battle of Dazar'Alor Heroic 9/9 PL/3-4items guaranteed/full 400+gear,and unlock |cffffff00|Hachievement:13315:Player-9-0B5BE73C:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,starting now PST", -- [1]
+			"Pordura-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
+			"1. Trade - City", -- [4]
+			"Pordura-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			41, -- [11]
-			"Player-9-0AFE3075", -- [12]
+			1225, -- [11]
+			"Player-9-0B5BE73C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1554009716,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			true, -- [17]
+			[52] = "|cff006fdcPordura|r",
+			[51] = 1554090513,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

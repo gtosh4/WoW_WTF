@@ -15,7 +15,7 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Yuumi"] = {
-				["lastUpdate"] = 1553449657,
+				["lastUpdate"] = 1554050616,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {
@@ -30,25 +30,32 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367705088"] = "385089|1553832109|0|1",
+					["Battle of Dazar'alor Mythic|367705088"] = "133606|1554083593|0|1",
+					["Atal'Dazar Mythic|367980004"] = "133606|1554083593|0|0",
 				},
-				["lastUpdate"] = 1553832128,
+				["lastUpdate"] = 1554085615,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|367749632"] = "207613|1554009584|0|1",
-					["Atal'Dazar Mythic|367839629"] = "207613|1554009584|0|0",
-					["The MOTHERLODE!! Mythic|367839884"] = "207613|1554009584|0|0",
-					["Battle of Dazar'alor Mythic|367864168"] = "207613|1554009584|0|1",
-					["Shrine of the Storm Mythic|367919179"] = "207613|1554009584|0|0",
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+						["class"] = "Monk",
+						["level"] = 120,
+					},
 				},
-				["lastUpdate"] = 1554010459,
+				["DungeonIDs"] = {
+					["The MOTHERLODE!! Mythic|367839884"] = "128538|1554088661|0|0",
+					["Battle of Dazar'alor Mythic|367864168"] = "128538|1554088661|0|1",
+					["Battle of Dazar'alor Heroic|367749632"] = "128538|1554088661|0|1",
+					["Atal'Dazar Mythic|367839629"] = "128538|1554088661|0|0",
+				},
+				["lastUpdate"] = 1554090519,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367705088"] = "374335|1553842863|0|1",
+					["Battle of Dazar'alor Mythic|367705088"] = "167189|1554050011|0|1",
 				},
-				["lastUpdate"] = 1553842870,
+				["lastUpdate"] = 1554050018,
 			},
 		},
 	},
