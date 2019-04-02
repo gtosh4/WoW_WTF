@@ -14,6 +14,11 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
+			["global"] = {
+				["spellsOnCooldown"] = {
+				},
+				["lastTime"] = 156729.25,
+			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -37,8 +42,8 @@ oRA3DB = {
 		},
 	},
 	["profileKeys"] = {
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

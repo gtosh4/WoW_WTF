@@ -20,7 +20,7 @@ AngryAssign_Pages = {
 		["Id"] = 653022546,
 		["UpdateId"] = 2086467670,
 		["CategoryId"] = 2406605962,
-		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Yuumi",
+		["Contents"] = "Paku's Wrath 1 Tehkz Ramp + AM\nPaku's Wrath 2 Bailey\nPaku's Wrath 3 AC\nPaku's Wrath 4 Salv + Barrier + AM\n\nBoss Death 1 AC + Barrier\nBoss Death 2 Tahkz Ramp + DH\nBoss Death 3 Toshmonk",
 	},
 	[2057181718] = {
 		["Updated"] = 1553915834,
@@ -143,7 +143,7 @@ AngryAssign_Pages = {
 		["Id"] = 1764615927,
 		["UpdateId"] = 454805334,
 		["CategoryId"] = 2406605962,
-		["Contents"] = "Interrupts\n||chunterThunderrz||r > ||cdemonhunterAndruww||r >\n||crogueMelborn||r > ||cwarriorPride||r > ||cwarriorFridaa||r\n\n\nPicking up Core\n||cmonkYuumi||r\n\nHealing CDs\n1st tantrum Tehkz(ramp) / Jess(hymn) / lohgical(AC)\n2nd tantrum Bailey / Gordy / AM\n3rd tantrum Tehkz(ramp) / Jess(salv) / lohgical(AC)",
+		["Contents"] = "Interrupts\n||chunterThunderrz||r > ||cdemonhunterAndruww||r >\n||crogueMelborn||r > ||cwarriorPride||r > ||cwarriorFridaa||r\n\n\nPicking up Core\n||cmonkToshmonk||r\n\nHealing CDs\n1st tantrum Tehkz(ramp) / Jess(hymn) / lohgical(AC)\n2nd tantrum Bailey / Gordy / AM\n3rd tantrum Tehkz(ramp) / Jess(salv) / lohgical(AC)",
 	},
 	[1328523944] = {
 		["Updated"] = 1550892900,
@@ -197,26 +197,7 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
-	["window"] = {
-		["height"] = 493.962524414063,
-		["top"] = 1101.978515625,
-		["left"] = 52.6252059936524,
-		["width"] = 700,
-	},
-	["locked"] = true,
 	["directionUp"] = false,
-	["tree"] = {
-		["groups"] = {
-			[-2406605962] = false,
-			["134906466"] = true,
-			["1801712002"] = true,
-		},
-		["scrollvalue"] = 0,
-		["selected"] = 1027799653,
-		["treesizable"] = true,
-		["treewidth"] = 175,
-		["fullwidth"] = 666.000061035156,
-	},
 	["display"] = {
 		["y"] = -204.501708984375,
 		["x"] = -716.544006347656,
@@ -225,6 +206,25 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 441.008666992188,
 	},
+	["window"] = {
+		["height"] = 493.962524414063,
+		["top"] = 1101.978515625,
+		["left"] = 52.6252059936524,
+		["width"] = 700,
+	},
+	["tree"] = {
+		["groups"] = {
+			[-2406605962] = false,
+			["134906466"] = true,
+			["1801712002"] = true,
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["selected"] = 1027799653,
+		["treewidth"] = 175,
+		["fullwidth"] = 666.000061035156,
+	},
+	["locked"] = true,
 }
 AngryAssign_Config = {
 	["backdropShow"] = true,

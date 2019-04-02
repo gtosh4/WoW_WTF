@@ -2,13 +2,13 @@
 CliqueDB = nil
 CliqueDB3 = {
 	["char"] = {
-		["Yuumi - Kil'jaeden"] = {
-			["spec1_profileKey"] = "Yuumi - Kil'jaeden",
-			["spec3_profileKey"] = "Yuumi - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshmonk - Kil'jaeden",
+			["spec3_profileKey"] = "Toshmonk - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
 			["specswap"] = false,
-			["spec2_profileKey"] = "Yuumi - Kil'jaeden",
+			["spec2_profileKey"] = "Toshmonk - Kil'jaeden",
 		},
 		["Tosh - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Tosh - Kil'jaeden",
@@ -21,7 +21,7 @@ CliqueDB3 = {
 	},
 	["profileKeys"] = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Tosh - Kil'jaeden"] = {
@@ -43,7 +43,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",

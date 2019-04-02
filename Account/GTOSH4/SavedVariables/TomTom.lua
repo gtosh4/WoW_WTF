@@ -4,8 +4,8 @@ TomTomDB = {
 		["Zaemme - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -21,8 +21,8 @@ TomTomWaypointsM = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -31,9 +31,7 @@ TomTomWaypointsM = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
 				["629:488300000:420800000:Page 9"] = {
 					629, -- [1]
@@ -58,6 +56,8 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 	},
 }

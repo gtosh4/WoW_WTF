@@ -18,26 +18,20 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshaman"] = {
 						["note"] = "",
-						["class"] = "Shaman",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1554091809,
-			},
-			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367705088"] = "167189|1554050011|0|1",
+					["Battle of Dazar'alor Mythic|368027339"] = "67431|1554149767|0|1",
+					["Atal'Dazar Mythic|368029664"] = "67431|1554149767|0|0",
 				},
-				["lastUpdate"] = 1554050018,
+				["lastUpdate"] = 1554149769,
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
+			["Default.Kil'jaeden.Yorman"] = {
 				["DungeonIDs"] = {
-					["Atal'Dazar Mythic|367839629"] = "144461|1554072738|0|0",
-					["Battle of Dazar'alor Mythic|367864168"] = "144461|1554072738|0|1",
-					["Battle of Dazar'alor Heroic|367749632"] = "144461|1554072738|0|1",
-					["The MOTHERLODE!! Mythic|367839884"] = "144461|1554072738|0|0",
+					["Battle of Dazar'alor Mythic|367705088"] = "133606|1554083593|0|1",
+					["Atal'Dazar Mythic|367980004"] = "133606|1554083593|0|0",
 				},
-				["lastUpdate"] = 1554072737,
+				["lastUpdate"] = 1554085615,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {
@@ -50,12 +44,27 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1553910030,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367705088"] = "141023|1554076176|0|1",
-					["Atal'Dazar Mythic|367980004"] = "141023|1554076176|0|0",
+			["Default.Kil'jaeden.Toshaman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+						["class"] = "Monk",
+						["level"] = 120,
+					},
 				},
-				["lastUpdate"] = 1554076201,
+				["DungeonIDs"] = {
+					["The MOTHERLODE!! Mythic|367839884"] = "128538|1554088661|0|0",
+					["Battle of Dazar'alor Mythic|367864168"] = "128538|1554088661|0|1",
+					["Battle of Dazar'alor Heroic|367749632"] = "128538|1554088661|0|1",
+					["Atal'Dazar Mythic|367839629"] = "128538|1554088661|0|0",
+				},
+				["lastUpdate"] = 1554090519,
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|333184153"] = "30244|1554186953|0|1",
+				},
+				["lastUpdate"] = 1554186981,
 			},
 		},
 	},

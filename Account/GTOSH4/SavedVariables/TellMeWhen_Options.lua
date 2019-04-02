@@ -18444,7 +18444,7 @@ TMWOptDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["XPac_AuraCache"] = 8,
@@ -22935,7 +22935,7 @@ TMWOptDB = {
 				["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 				["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 				["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-				["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
+				["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 			},
 			["global"] = {
 				["TextLayouts"] = {
@@ -48752,7 +48752,7 @@ TMWOptDB = {
 					},
 					["Locked"] = true,
 				},
-				["Yuumi - Kil'jaeden"] = {
+				["Toshmonk - Kil'jaeden"] = {
 					["Version"] = 86006,
 					["Groups"] = {
 						{
@@ -59417,7 +59417,7 @@ TMWOptDB = {
 		["Toshaman - Kil'jaeden"] = {
 			["Version"] = 86006,
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["Version"] = 85901,
 		},
 	},

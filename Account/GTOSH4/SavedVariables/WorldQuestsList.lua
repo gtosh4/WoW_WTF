@@ -1,54 +1,7 @@
 
 VWQL = {
 	["ShellGameLocked"] = true,
-	["Scale"] = 0.8,
-	["DisableIconsGeneralMap947"] = true,
-	["DisableLFG_Popup"] = true,
-	["Sort"] = 5,
-	["VERSION"] = 85,
-	["Anchor"] = 1,
-	["ArrowStyle"] = 2,
-	["AnchorQCBTop"] = 872.035278320313,
-	["Zaemme-Kil'jaeden"] = {
-		["VERSION"] = 85,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[50877] = true,
-			[52937] = true,
-			[50874] = true,
-			[52923] = true,
-			[50524] = true,
-		},
-		["Filter"] = 63,
-	},
-	["ShellGameCenter"] = 48.0010375976563,
-	["DisableArrow"] = false,
-	["AzeriteFormat"] = 20,
-	["Yorman-Kil'jaeden"] = {
-		["Filter"] = 63,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[50744] = true,
-			[51051] = true,
-			[50547] = true,
-			[52892] = true,
-		},
-		["VERSION"] = 85,
-	},
-	["DisableRibbon"] = true,
-	["Tosh-Kil'jaeden"] = {
-		["Filter"] = 63,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["VERSION"] = 85,
-	},
-	["Ignore"] = {
-	},
-	["Yuumi-Kil'jaeden"] = {
+	["Toshmonk-Kil'jaeden"] = {
 		["VERSION"] = 85,
 		["Filter"] = 63,
 		["Quests"] = {
@@ -66,9 +19,9 @@ VWQL = {
 			[50695] = true,
 			[50850] = true,
 			[50665] = true,
-			[54697] = true,
 			[50636] = true,
 			[51628] = true,
+			[54697] = true,
 			[54699] = true,
 			[51450] = true,
 			[50548] = true,
@@ -76,6 +29,58 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
+	["Scale"] = 0.8,
+	["DisableIconsGeneralMap947"] = true,
+	["DisableLFG_Popup"] = true,
+	["Sort"] = 5,
+	["VERSION"] = 85,
+	["Anchor"] = 1,
+	["ArrowStyle"] = 2,
+	["Zaemme-Kil'jaeden"] = {
+		["VERSION"] = 85,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[50877] = true,
+			[52937] = true,
+			[50874] = true,
+			[52923] = true,
+			[50524] = true,
+		},
+		["Filter"] = 63,
+	},
+	["AnchorQCBTop"] = 872.035278320313,
+	["DisableArrow"] = false,
+	["OppositeContinent"] = false,
+	["Yorman-Kil'jaeden"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[51494] = true,
+			[51450] = true,
+			[52937] = true,
+			[50875] = true,
+			[50846] = true,
+			[50547] = true,
+			[50571] = true,
+			[50871] = true,
+			[50850] = true,
+		},
+		["VERSION"] = 85,
+	},
+	["Ignore"] = {
+	},
+	["Tosh-Kil'jaeden"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 85,
+	},
+	["EnableRibbonGeneralMaps"] = false,
+	["ShellGameCenter"] = 48.0010375976563,
 	["Toshaman-Kil'jaeden"] = {
 		["FilterType"] = {
 			["pet"] = true,
@@ -112,20 +117,20 @@ VWQL = {
 			[54595] = true,
 			[53076] = true,
 			[54551] = true,
+			[50847] = true,
 			[54060] = true,
-			[51666] = true,
 			[52280] = true,
 			[51583] = true,
 			[55302] = true,
 			[54548] = true,
 			[51743] = true,
-			[50459] = true,
 			[54617] = true,
+			[50459] = true,
 			[54808] = true,
 			[52309] = true,
 			[51095] = true,
 			[51727] = true,
-			[50847] = true,
+			[51666] = true,
 			[51542] = true,
 			[52454] = true,
 			[51173] = true,
@@ -136,10 +141,10 @@ VWQL = {
 		},
 		["VERSION"] = 85,
 	},
-	["EnableRibbonGeneralMaps"] = false,
+	["DisableRibbon"] = true,
 	["RewardIcons_DisableBountyColors"] = false,
 	["ShellGameSize"] = 383.011840820313,
 	["AnchorQCBLeft"] = 1838.12561035156,
-	["OppositeContinent"] = false,
+	["AzeriteFormat"] = 20,
 	["HideLegion"] = true,
 }

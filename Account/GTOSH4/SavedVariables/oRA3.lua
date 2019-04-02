@@ -43,7 +43,7 @@ oRA3DB = {
 	},
 	["profileKeys"] = {
 		["Tosh - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

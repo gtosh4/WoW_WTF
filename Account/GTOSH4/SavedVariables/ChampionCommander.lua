@@ -13,7 +13,7 @@ dbBFA = {
 		["Toshaman - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
 	},
@@ -29,7 +29,7 @@ dbBFA = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

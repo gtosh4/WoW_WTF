@@ -1,7 +1,7 @@
 
 AzeriteForgeDB = {
 	["char"] = {
-		["Yuumi - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["weightProfile"] = {
 				[270] = "[Default] - Monk Mistweaver",
 			},
@@ -1814,7 +1814,7 @@ AzeriteForgeDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 	},

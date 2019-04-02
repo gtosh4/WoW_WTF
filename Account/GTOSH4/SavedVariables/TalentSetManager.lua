@@ -135,6 +135,59 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Toshmonk-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[2] = {
+				{
+					3, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 135734,
+				}, -- [1]
+				{
+					1, -- [1]
+					2, -- [2]
+					1, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 839394,
+				}, -- [2]
+				{
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 642414,
+					["name"] = "pvp",
+					["tt"] = "talents",
+				}, -- [3]
+			},
+			[3] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Yorman-Kil'jaeden"] = {
 		["talents"] = {
 			{
@@ -251,59 +304,6 @@ TalentSetManager_CharacterSaves = {
 		["interface"] = {
 			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Yuumi-Kil'jaeden"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			[2] = {
-				{
-					3, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					2, -- [7]
-					["tt"] = "talents",
-					["name"] = "raid",
-					["texture"] = 135734,
-				}, -- [1]
-				{
-					1, -- [1]
-					2, -- [2]
-					1, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "m+",
-					["texture"] = 839394,
-				}, -- [2]
-				{
-					1, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["texture"] = 642414,
-					["name"] = "pvp",
-					["tt"] = "talents",
-				}, -- [3]
-			},
-			[3] = {
-			},
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},

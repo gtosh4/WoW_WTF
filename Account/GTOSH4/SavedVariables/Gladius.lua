@@ -4,8 +4,8 @@ Gladius2DB = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -21,20 +21,35 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1438.93566484931,
-			},
 			["y"] = {
 				["arena1"] = 483.732411763853,
 			},
+			["x"] = {
+				["arena1"] = 1438.93566484931,
+			},
 		},
 		["Default"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -109,20 +124,17 @@ Gladius2DB = {
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["classIconShowSpec"] = true,
+			["castBarTexture"] = "ElvUI Norm",
 			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -135,21 +147,9 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
-			},
-			["castBarTexture"] = "ElvUI Norm",
+			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
-			["classIconShowSpec"] = true,
+			["aurasBuffsWidth"] = 22,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
@@ -274,6 +274,16 @@ Gladius2DB = {
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
 		},
+		["Toshmonk - Kil'jaeden"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 468.373309843541,
+			},
+			["x"] = {
+				["arena1"] = 1252.79958137275,
+			},
+		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {
 				["arena1"] = 472.532363479251,
@@ -283,16 +293,6 @@ Gladius2DB = {
 				["arena1"] = 1437.86971588517,
 			},
 			["auraVersion"] = 1,
-		},
-		["Yuumi - Kil'jaeden"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 468.373309843541,
-			},
-			["x"] = {
-				["arena1"] = 1252.79958137275,
-			},
 		},
 	},
 }

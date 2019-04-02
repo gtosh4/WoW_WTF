@@ -2,10 +2,10 @@
 DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -14,8 +14,22 @@ DataStore_AgendaDB = {
 			["NextWeeklyReset"] = "2019-04-02",
 		},
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
+			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Tosh"] = {
+						["note"] = "",
+						["class"] = "Priest",
+						["level"] = 120,
+					},
+				},
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|367705088"] = "30244|1554186954|0|1",
+					["Atal'Dazar Mythic|367980004"] = "30244|1554186954|0|0",
+				},
+				["lastUpdate"] = 1554187077,
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["Contacts"] = {
@@ -27,13 +41,6 @@ DataStore_AgendaDB = {
 					["Battle of Dazar'alor Mythic|367490213"] = "307166|1553910032|0|1",
 				},
 				["lastUpdate"] = 1553910030,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367705088"] = "133606|1554083593|0|1",
-					["Atal'Dazar Mythic|367980004"] = "133606|1554083593|0|0",
-				},
-				["lastUpdate"] = 1554085615,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {

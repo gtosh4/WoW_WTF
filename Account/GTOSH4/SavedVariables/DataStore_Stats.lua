@@ -2,14 +2,14 @@
 DataStore_StatsDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
+			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050602,
 				["Stats"] = {
 					["Ranged"] = "5720-5721|0|0|0|25.097221374512",
@@ -20,6 +20,19 @@ DataStore_StatsDB = {
 					["PVP"] = "457|0",
 					["Base"] = "628|1468|11028|8697|0",
 					["Spell"] = "8697|8697|0|25.097221374512|510|4000",
+				},
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554186953,
+				["Stats"] = {
+					["Ranged"] = "3073-3074|0|0|0|19.083332061768",
+					["HealthMax"] = 226460,
+					["Melee"] = "3229-3336|1.6160000562668|1465|0|19.083332061768|0",
+					["MaxPower"] = "0|100000",
+					["Defense"] = "0|0|6.2373266220093|0|0|0",
+					["PVP"] = "3503|0",
+					["Base"] = "633|1465|11323|9074|0",
+					["Spell"] = "9074|9074|0|19.083332061768|775|4000",
 				},
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
@@ -33,19 +46,6 @@ DataStore_StatsDB = {
 					["PVP"] = "286|0",
 					["Base"] = "1464|514|7509|6536|0",
 					["Defense"] = "0|0|3|6.2351169586182|10|0",
-				},
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554083591,
-				["Stats"] = {
-					["Ranged"] = "3072-3073|0|0|0|18.499998092651",
-					["HealthMax"] = 226300,
-					["Melee"] = "3227-3335|1.6160000562668|1465|0|18.499998092651|0",
-					["MaxPower"] = "0|100000",
-					["Defense"] = "0|0|6.2373266220093|0|0|0",
-					["PVP"] = "3503|0",
-					["Base"] = "633|1465|11315|9070|0",
-					["Spell"] = "9070|9070|0|18.499998092651|773|4000",
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {

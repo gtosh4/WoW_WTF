@@ -2,10 +2,10 @@
 ToshAssignmentsDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -52,13 +52,13 @@ ToshAssignmentsDB = {
 								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Ramp",
 								["trigger"] = {
+									["type"] = "spell",
 									["spell"] = {
 										["spellId"] = 282082,
 									},
-									["type"] = "spell",
+									["eventNumber"] = "*",
 									["time"] = {
 									},
-									["eventNumber"] = "*",
 								},
 								["actions"] = {
 									{

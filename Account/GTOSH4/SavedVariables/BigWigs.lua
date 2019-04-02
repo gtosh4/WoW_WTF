@@ -5,17 +5,17 @@ BigWigs3DB = {
 		["Zaemme - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 	},
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285003] = 1032439,
-					[287333] = 1032439,
 					["stages"] = 1032439,
 					[288449] = 2015479,
+					[285003] = 1032439,
+					[287333] = 1032439,
 				},
 			},
 		},
@@ -91,12 +91,12 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_y"] = 257.60125702105,
 					["BigWigsAnchor_x"] = 675.743157964433,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
 					["growup"] = false,
@@ -105,18 +105,20 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.9999809265137,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["emphasizeTime"] = 12,
-					["outline"] = "OUTLINE",
+					["texture"] = "ElvUI Norm",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
 		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -124,8 +126,6 @@ BigWigs3DB = {
 					[285118] = 1032439,
 				},
 			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {

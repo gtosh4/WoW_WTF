@@ -10,28 +10,21 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554091595,
+				["lastUpdate"] = 1554149751,
 				["Specializations"] = {
-					[2] = 5849,
-					[3] = 12011,
+					6619, -- [1]
+					5849, -- [2]
+					12011, -- [3]
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049957,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554083591,
 				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
+					7165, -- [1]
+					[4] = 15085,
 				},
-				["Class"] = "PRIEST",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554072737,
-				["Specializations"] = {
-					11614, -- [1]
-					[3] = 8151,
-				},
-				["Class"] = "SHAMAN",
+				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1553910030,
@@ -41,13 +34,21 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554076127,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1554088657,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 16383,
+					11614, -- [1]
+					[3] = 8151,
 				},
-				["Class"] = "DRUID",
+				["Class"] = "SHAMAN",
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554186952,
+				["Specializations"] = {
+					5631, -- [1]
+					[3] = 5527,
+				},
+				["Class"] = "PRIEST",
 			},
 		},
 	},
@@ -238,7 +239,33 @@ DataStore_TalentsRefDB = {
 		["MONK"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
-				[2] = {
+				{
+					["id"] = 268,
+					["talents"] = {
+						23106, -- [1]
+						19820, -- [2]
+						20185, -- [3]
+						19304, -- [4]
+						19818, -- [5]
+						19302, -- [6]
+						22099, -- [7]
+						22097, -- [8]
+						19992, -- [9]
+						19993, -- [10]
+						19994, -- [11]
+						19995, -- [12]
+						20174, -- [13]
+						23363, -- [14]
+						20175, -- [15]
+						19819, -- [16]
+						20184, -- [17]
+						22103, -- [18]
+						22106, -- [19]
+						22104, -- [20]
+						22108, -- [21]
+					},
+				}, -- [1]
+				{
 					["id"] = 270,
 					["talents"] = {
 						19823, -- [1]
@@ -263,8 +290,8 @@ DataStore_TalentsRefDB = {
 						22169, -- [20]
 						22170, -- [21]
 					},
-				},
-				[3] = {
+				}, -- [2]
+				{
 					["id"] = 269,
 					["talents"] = {
 						23106, -- [1]
@@ -289,7 +316,7 @@ DataStore_TalentsRefDB = {
 						22105, -- [20]
 						21191, -- [21]
 					},
-				},
+				}, -- [3]
 			},
 			["Version"] = 29869,
 		},
@@ -349,7 +376,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 	},
 }

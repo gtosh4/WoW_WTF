@@ -42,9 +42,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Tosh"] = {
+		["Toshmonk"] = {
 			["profile"] = "default",
-			["name"] = "Tosh",
+			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -56,9 +56,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Yuumi"] = {
+		["Tosh"] = {
 			["profile"] = "default",
-			["name"] = "Yuumi",
+			["name"] = "Tosh",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Yorman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -108,8 +108,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["interrupt"] = true,
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -118,7 +116,7 @@ BD_persistent = {
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
-				["RIP Yuumi"] = true,
+				["RIP Toshmonk"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["slay mekka friday and blockade saturday "] = true,
@@ -133,6 +131,8 @@ BD_persistent = {
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -141,8 +141,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -150,8 +150,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
 			["topViewport"] = 0,
 		},
 	},

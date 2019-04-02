@@ -4,8 +4,8 @@ BRF_Data = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -14,9 +14,9 @@ BRF_Data = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshaman - Kil'jaeden"] = {
 		},
 	},
 }

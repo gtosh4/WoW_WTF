@@ -1190,7 +1190,7 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"3. Yuumi 821.5k", -- [1]
+			"3. Toshmonk 821.5k", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2797,10 +2797,10 @@ ElvCharacterDB = {
 		}, -- [126]
 		{
 			"I guess I'll switch to shaman in case we don't do higher", -- [1]
-			"Yuumi-Kil'jaeden", -- [2]
+			"Toshmonk-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yuumi-Kil'jaeden", -- [5]
+			"Toshmonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
@@ -2813,7 +2813,7 @@ ElvCharacterDB = {
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Yuumi|r",
+			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1553449656,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]

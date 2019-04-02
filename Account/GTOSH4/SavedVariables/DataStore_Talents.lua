@@ -2,20 +2,28 @@
 DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Yuumi"] = {
+			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050599,
 				["Specializations"] = {
 					[2] = 9979,
 					[3] = 12011,
 				},
 				["Class"] = "MONK",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554186953,
+				["Specializations"] = {
+					7165, -- [1]
+					[4] = 15085,
+				},
+				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Zaemme"] = {
 				["lastUpdate"] = 1553910030,
@@ -24,14 +32,6 @@ DataStore_TalentsDB = {
 					7065, -- [2]
 				},
 				["Class"] = "PALADIN",
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554083591,
-				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
-				},
-				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1554088657,
@@ -55,10 +55,10 @@ DataStore_TalentsDB = {
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["global"] = {
 		["PALADIN"] = {
@@ -233,7 +233,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",

@@ -1,7 +1,7 @@
 
 GottaGoFastHistoryDB = {
 	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

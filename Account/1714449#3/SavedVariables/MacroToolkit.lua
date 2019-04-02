@@ -6,18 +6,18 @@ MacroToolkitDB = {
 			},
 		},
 	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
+		},
+	},
 	["profileKeys"] = {
 		["Zaemme - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
 		["Tosh - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
-	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
 	},
 	["profiles"] = {
 		["profile"] = {

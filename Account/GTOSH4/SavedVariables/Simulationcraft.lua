@@ -4,8 +4,8 @@ SimulationCraftDB = {
 		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Zaemme - Kil'jaeden"] = {
@@ -22,14 +22,14 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
+		["Toshmonk - Kil'jaeden"] = {
+			["minimap"] = {
+				["minimapPos"] = 171.609243367346,
+			},
+		},
 		["Toshaman - Kil'jaeden"] = {
 			["minimap"] = {
 				["hide"] = true,
-			},
-		},
-		["Yuumi - Kil'jaeden"] = {
-			["minimap"] = {
-				["minimapPos"] = 171.609243367346,
 			},
 		},
 	},

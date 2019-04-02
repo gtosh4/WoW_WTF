@@ -108,7 +108,7 @@ AzeritePowerWeightsDB = {
 				["professionPowers"] = false,
 				["debug"] = false,
 			},
-			["Yuumi"] = {
+			["Toshmonk"] = {
 				["specScales"] = {
 					[269] = {
 						["scaleName"] = "Default",

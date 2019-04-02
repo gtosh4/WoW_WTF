@@ -2,9 +2,9 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
-X: -146
+X: -96
 Y: -228
-W: 208
+W: 308
 H: 56
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
@@ -29,9 +29,9 @@ W: 365
 H: 380
 Frame: AstralKeyFrame
 FrameLevel: 1
-Anchor: CENTER
-X: 282
-Y: 129
+Anchor: TOP
+X: -657
+Y: -199
 W: 715
 H: 490
 Frame: bdConfig Lib

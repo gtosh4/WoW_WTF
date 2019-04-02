@@ -19,24 +19,24 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
-			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["guildName"] = "Koopa Troopa",
-				["faction"] = "Horde",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
-			},
-			["Default.Kil'jaeden.Zaemme"] = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
+				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Zaemme"] = {
 				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Koopa Troopa",
 			},
 		},
 		["ShortToLongRealmNames"] = {

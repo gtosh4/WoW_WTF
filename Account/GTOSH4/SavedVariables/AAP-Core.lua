@@ -186,7 +186,7 @@ AAP1 = {
 			["QlineSkip"] = {
 			},
 		},
-		["Yuumi"] = {
+		["Toshmonk"] = {
 			["SavedVer"] = 8.1046,
 			[875] = 1,
 			["Settings"] = {
