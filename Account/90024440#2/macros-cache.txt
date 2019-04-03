@@ -23,7 +23,7 @@ VER 3 0000000000000014 "ds/halo" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000000F "fl" "136103"
 /run if not IsMounted() then C_MountJournal.SummonByID(0) end
-/follow Zaemme
+/follow Toshpal
 END
 VER 3 0000000000000010 "healthstone" "INV_MISC_QUESTIONMARK"
 /use Healthstone

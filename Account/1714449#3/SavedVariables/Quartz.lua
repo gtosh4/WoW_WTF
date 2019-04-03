@@ -16,21 +16,21 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 500,
-					["y"] = 925.059326171875,
+					["hideicon"] = true,
 					["border"] = "None",
 					["x"] = 1111.07360839844,
 					["texture"] = "ElvUI Norm",
-					["hideicon"] = true,
+					["y"] = 925.059326171875,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -57,9 +57,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -77,9 +77,9 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Buff"] = false,
-				["Mirror"] = false,
 				["Target"] = false,
+				["Mirror"] = false,
+				["Buff"] = false,
 			},
 		},
 	},

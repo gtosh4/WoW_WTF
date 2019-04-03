@@ -1,35 +1,26 @@
 
 Postal3DB = {
-	["global"] = {
-		["BlackBook"] = {
-			["alts"] = {
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [1]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [2]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [3]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [4]
-				"Zaemme|Kil'jaeden|Horde|120|PALADIN", -- [5]
-			},
-		},
-	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
-	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Drift|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Toshaman|Kil'jaeden|Horde", -- [3]
-					"Yorman|Kil'jaeden|Horde", -- [4]
-					"Toshmonk|Kil'jaeden|Horde", -- [5]
-					"Yellowy|Kil'jaeden|Horde", -- [6]
-				},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [1]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [2]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [3]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [4]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [5]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [6]
 			},
+		},
+	},
+	["profiles"] = {
+		["Toshpal - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -43,7 +34,7 @@ Postal3DB = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Zaemme|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [2]
 					"Yorman|Kil'jaeden|Horde", -- [3]
 					"Toshmonk|Kil'jaeden|Horde", -- [4]
 				},
@@ -66,7 +57,7 @@ Postal3DB = {
 					"Yorman|Kil'jaeden|Horde", -- [1]
 					"Yukio|Kil'jaeden|Horde", -- [2]
 					"Tosh|Kil'jaeden|Horde", -- [3]
-					"Zaemme|Kil'jaeden|Horde", -- [4]
+					"Toshpal|Kil'jaeden|Horde", -- [4]
 					"Wraithbrand|Kil'jaeden|Horde", -- [5]
 					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [6]
 					"Toshmonk|Kil'jaeden|Horde", -- [7]

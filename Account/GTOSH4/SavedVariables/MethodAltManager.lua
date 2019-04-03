@@ -38,7 +38,7 @@ MethodAltManagerDB = {
 			["highest_mplus"] = 0,
 			["class"] = "PALADIN",
 			["level"] = "?",
-			["name"] = "Zaemme",
+			["name"] = "Toshpal",
 			["dungeon"] = "Unknown",
 		},
 		["Player-9-0A76FA3F"] = {

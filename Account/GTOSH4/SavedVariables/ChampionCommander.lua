@@ -1,7 +1,7 @@
 
 dbBFA = {
 	["char"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -25,7 +25,7 @@ dbBFA = {
 		["warn02_seen"] = 0,
 	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",

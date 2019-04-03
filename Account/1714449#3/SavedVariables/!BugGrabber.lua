@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 662,
 	["lastSanitation"] = 3,
-	["session"] = 659,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\SavedInstances\\SavedInstances-8.1.0.lua:3188: Usage: <unnamed>:SetBackdrop(nil or {bgFile = \"bgFile\", edgeFile = \"edgeFile\", tile = false, tileSize = 0, edgeSize = 32, insets = { left = 0, right = 0, top = 0, bottom = 0 }})",
@@ -35,5 +35,40 @@ BugGrabberDB = {
 			["session"] = 659,
 			["counter"] = 1,
 		}, -- [4]
+		{
+			["message"] = "AceLocale-3.0-6: Quartz3: Missing entry for 'Frame Strata'",
+			["time"] = "2019/04/02 20:09:59",
+			["stack"] = "Interface\\AddOns\\Quartz\\modules\\GCD.lua:289: in function `v'\nInterface\\AddOns\\Quartz\\Config.lua:188: in function <Interface\\AddOns\\Quartz\\Config.lua:51>\n...-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0-18.lua:311: in function `app'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1800: in function `Open'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1893: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:1891>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:19>\n[C]: in function `Show'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:28: in function `InterfaceOptionsList_DisplayPanel'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:46: in function `InterfaceOptionsListButton_OnClick'\n[string \"*:OnClick\"]:2: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "AceLocale-3.0-6: Quartz3: Missing entry for 'Low'",
+			["time"] = "2019/04/02 20:09:59",
+			["stack"] = "Interface\\AddOns\\Quartz\\modules\\GCD.lua:293: in function `v'\nInterface\\AddOns\\Quartz\\Config.lua:188: in function <Interface\\AddOns\\Quartz\\Config.lua:51>\n...-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0-18.lua:311: in function `app'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1800: in function `Open'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1893: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:1891>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:19>\n[C]: in function `Show'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:28: in function `InterfaceOptionsList_DisplayPanel'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:46: in function `InterfaceOptionsListButton_OnClick'\n[string \"*:OnClick\"]:2: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
+			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "AceLocale-3.0-6: Quartz3: Missing entry for 'Medium'",
+			["time"] = "2019/04/02 20:09:59",
+			["stack"] = "Interface\\AddOns\\Quartz\\modules\\GCD.lua:294: in function `v'\nInterface\\AddOns\\Quartz\\Config.lua:188: in function <Interface\\AddOns\\Quartz\\Config.lua:51>\n...-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0-18.lua:311: in function `app'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1800: in function `Open'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1893: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:1891>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:19>\n[C]: in function `Show'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:28: in function `InterfaceOptionsList_DisplayPanel'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:46: in function `InterfaceOptionsListButton_OnClick'\n[string \"*:OnClick\"]:2: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "AceLocale-3.0-6: Quartz3: Missing entry for 'High'",
+			["time"] = "2019/04/02 20:09:59",
+			["stack"] = "Interface\\AddOns\\Quartz\\modules\\GCD.lua:295: in function `v'\nInterface\\AddOns\\Quartz\\Config.lua:188: in function <Interface\\AddOns\\Quartz\\Config.lua:51>\n...-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0-18.lua:311: in function `app'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1800: in function `Open'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1893: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:1891>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:19>\n[C]: in function `Show'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:28: in function `InterfaceOptionsList_DisplayPanel'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:46: in function `InterfaceOptionsListButton_OnClick'\n[string \"*:OnClick\"]:2: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
+			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "AceLocale-3.0-6: Quartz3: Missing entry for 'Dialog'",
+			["time"] = "2019/04/02 20:09:59",
+			["stack"] = "Interface\\AddOns\\Quartz\\modules\\GCD.lua:296: in function `v'\nInterface\\AddOns\\Quartz\\Config.lua:188: in function <Interface\\AddOns\\Quartz\\Config.lua:51>\n...-3.0\\AceConfigRegistry-3.0\\AceConfigRegistry-3.0-18.lua:311: in function `app'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1800: in function `Open'\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:1893: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:1891>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\\widgets\\AceGUIContainer-BlizOptionsGroup.lua:19>\n[C]: in function `Show'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:28: in function `InterfaceOptionsList_DisplayPanel'\nInterface\\FrameXML\\InterfaceOptionsFrame.lua:46: in function `InterfaceOptionsListButton_OnClick'\n[string \"*:OnClick\"]:2: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
+			["counter"] = 1,
+		}, -- [9]
 	},
 }

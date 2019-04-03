@@ -18440,7 +18440,7 @@ TMWOptDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -22961,7 +22961,7 @@ TMWOptDB = {
 		["LastChangelogVersion"] = 86006,
 		["TellMeWhenDBBackup"] = {
 			["profileKeys"] = {
-				["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+				["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 				["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 				["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 				["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -23086,7 +23086,7 @@ TMWOptDB = {
 			},
 			["Version"] = 86006,
 			["profiles"] = {
-				["Zaemme - Kil'jaeden"] = {
+				["Toshpal - Kil'jaeden"] = {
 					["Locked"] = true,
 					["Version"] = 86006,
 					["Groups"] = {
@@ -59484,7 +59484,7 @@ TMWOptDB = {
 	},
 	["Version"] = 86006,
 	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["Version"] = 85901,
 		},
 		["Yorman - Kil'jaeden"] = {

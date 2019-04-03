@@ -9,7 +9,6 @@ favsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["colorBackground"] = true,
 			["favTypes"] = {
 				["Favorites"] = {
 					["Yellowy#1796"] = true,
@@ -17,6 +16,7 @@ favsDB = {
 					["Envious#1968"] = true,
 				},
 			},
+			["colorBackground"] = true,
 		},
 	},
 }

@@ -62,7 +62,7 @@ AAP1 = {
 			["QlineSkip"] = {
 			},
 		},
-		["Zaemme"] = {
+		["Toshpal"] = {
 			1, -- [1]
 			["HordeD"] = 1,
 			["SavedVer"] = 8.1046,

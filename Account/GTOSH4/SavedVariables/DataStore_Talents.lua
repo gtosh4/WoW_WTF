@@ -1,7 +1,7 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -17,30 +17,6 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554186953,
-				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
-				},
-				["Class"] = "DRUID",
-			},
-			["Default.Kil'jaeden.Zaemme"] = {
-				["lastUpdate"] = 1553910030,
-				["Specializations"] = {
-					14169, -- [1]
-					7065, -- [2]
-				},
-				["Class"] = "PALADIN",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554088657,
-				["Specializations"] = {
-					11614, -- [1]
-					[3] = 8151,
-				},
-				["Class"] = "SHAMAN",
-			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1554049957,
 				["Specializations"] = {
@@ -49,12 +25,36 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PRIEST",
 			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1553910030,
+				["Specializations"] = {
+					14169, -- [1]
+					7065, -- [2]
+				},
+				["Class"] = "PALADIN",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1554248187,
+				["Specializations"] = {
+					11614, -- [1]
+					[3] = 8151,
+				},
+				["Class"] = "SHAMAN",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554248233,
+				["Specializations"] = {
+					7165, -- [1]
+					[4] = 15085,
+				},
+				["Class"] = "DRUID",
+			},
 		},
 	},
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -117,7 +117,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [2]
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -175,7 +175,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",

@@ -569,10 +569,10 @@ ElvCharacterDB = {
 		}, -- [25]
 		{
 			"got u", -- [1]
-			"Zaemme-Kil'jaeden", -- [2]
+			"Toshpal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zaemme-Kil'jaeden", -- [5]
+			"Toshpal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
@@ -585,7 +585,7 @@ ElvCharacterDB = {
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaZaemme|r",
+			[52] = "|cfff48cbaToshpal|r",
 			[51] = 1550020910,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
@@ -744,11 +744,11 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"Pursuit on Zaemme", -- [1]
-			"Zaemme-Kil'jaeden", -- [2]
+			"Pursuit on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaemme-Kil'jaeden", -- [5]
+			"Toshpal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
@@ -761,7 +761,7 @@ ElvCharacterDB = {
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaZaemme|r",
+			[52] = "|cfff48cbaToshpal|r",
 			[51] = 1550020980,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [34]

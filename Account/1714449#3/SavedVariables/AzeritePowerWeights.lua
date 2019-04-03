@@ -42,7 +42,7 @@ AzeritePowerWeightsDB = {
 				["professionPowers"] = false,
 				["debug"] = false,
 			},
-			["Zaemme"] = {
+			["Toshpal"] = {
 				["specScales"] = {
 					[70] = {
 						["scaleName"] = "Default",
