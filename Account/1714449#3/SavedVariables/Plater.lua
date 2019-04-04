@@ -1,7 +1,7 @@
 
 PlaterDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "PixelPerfect",
 		["Toshmonk - Kil'jaeden"] = "Default",

@@ -28,9 +28,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Zaemme"] = {
+		["Toshpal"] = {
 			["profile"] = "default",
-			["name"] = "Zaemme",
+			["name"] = "Toshpal",
 			["spec_profile"] = {
 				{
 				}, -- [1]

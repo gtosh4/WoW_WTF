@@ -1,7 +1,7 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Zaemme - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",

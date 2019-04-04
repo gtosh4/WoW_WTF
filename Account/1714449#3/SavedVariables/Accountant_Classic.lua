@@ -693,7 +693,7 @@ Accountant_ClassicSaveData = {
 				},
 			},
 		},
-		["Zaemme"] = {
+		["Toshpal"] = {
 			["options"] = {
 				["weekdate"] = "",
 				["weekstart"] = 1,
@@ -3465,7 +3465,7 @@ Accountant_ClassicSaveData = {
 }
 Accountant_ClassicDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
@@ -4264,7 +4264,7 @@ Accountant_ClassicZoneDB = {
 				},
 			},
 		},
-		["Zaemme"] = {
+		["Toshpal"] = {
 			["data"] = {
 				["PrvWeek"] = {
 					["REPAIRS"] = {

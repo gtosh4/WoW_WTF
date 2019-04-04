@@ -300,7 +300,7 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN1"] = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
-				["Zaemme-Kil'jaeden"] = {
+				["Toshpal-Kil'jaeden"] = {
 					["Visible"] = true,
 				},
 			},

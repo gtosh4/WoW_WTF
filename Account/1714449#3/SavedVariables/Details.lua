@@ -13474,7 +13474,7 @@ _detalhes_global = {
 		}, -- [1]
 	},
 	["__profiles"] = {
-		["Zaemme-Kil'jaeden"] = {
+		["Toshpal-Kil'jaeden"] = {
 			["show_arena_role_icon"] = false,
 			["capture_real"] = {
 				["heal"] = true,

@@ -1,7 +1,7 @@
 
 DataStore_ReputationsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -99,7 +99,7 @@ DataStore_ReputationsDB = {
 				["guildRep"] = 42000,
 				["guildName"] = "Rivalry",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1553910030,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,

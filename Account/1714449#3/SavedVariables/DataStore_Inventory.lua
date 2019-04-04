@@ -1,7 +1,7 @@
 
 DataStore_InventoryDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -80,7 +80,7 @@ DataStore_InventoryDB = {
 				["overallAIL"] = 412.9375,
 				["lastUpdate"] = 1554088658,
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["Inventory"] = {
 					"|cffa335ee|Hitem:160634::::::::120:65::3:4:4822:1477:4786:4775:::|h[Gridrunner Galea]|h|r", -- [1]
 					"|cffe6cc80|Hitem:158075::::::::120:65::11:4:4936:4929:4930:1524:::|h[Heart of Azeroth]|h|r", -- [2]
@@ -391,7 +391,7 @@ DataStore_InventoryDB = {
 					["Toshmonk"] = {
 						["averageItemLvl"] = 411,
 					},
-					["Zaemme"] = {
+					["Toshpal"] = {
 						["averageItemLvl"] = 378,
 					},
 					["Phavicuz"] = {

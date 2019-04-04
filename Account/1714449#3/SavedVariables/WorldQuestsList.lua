@@ -24,7 +24,7 @@ VWQL = {
 	["VERSION"] = 85,
 	["Anchor"] = 1,
 	["HideLegion"] = true,
-	["Zaemme-Kil'jaeden"] = {
+	["Toshpal-Kil'jaeden"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
 		},

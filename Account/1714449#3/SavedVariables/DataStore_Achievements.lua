@@ -1,7 +1,7 @@
 
 DataStore_AchievementsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -1214,7 +1214,7 @@ DataStore_AchievementsDB = {
 				["numCompletedAchievements"] = 1358,
 				["guid"] = "ayer-9-0B58277D",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["Partial"] = {
 					[2191] = 1,
 					[11256] = 4,

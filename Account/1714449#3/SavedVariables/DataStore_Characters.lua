@@ -1,7 +1,7 @@
 
 DataStore_CharactersDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -81,7 +81,7 @@ DataStore_CharactersDB = {
 				["lastLogoutTimestamp"] = 1554090520,
 				["englishClass"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["XPMax"] = 893550,
 				["played"] = 3215641,
 				["playedThisLevel"] = 1032285,
@@ -101,7 +101,7 @@ DataStore_CharactersDB = {
 				["subZone"] = "Spirits Be With You",
 				["guildName"] = "Rivalry",
 				["englishRace"] = "BloodElf",
-				["name"] = "Zaemme",
+				["name"] = "Toshpal",
 				["lastLogoutTimestamp"] = 1553910032,
 				["guildRankName"] = "Officer alts",
 			},

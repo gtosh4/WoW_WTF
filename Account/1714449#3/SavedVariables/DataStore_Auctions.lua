@@ -1,7 +1,7 @@
 
 DataStore_AuctionsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -17,7 +17,7 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1550603842,
 				["lastVisitDate"] = "2019/02/19 14:17",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1552850777,
 				["lastVisitDate"] = "2019/03/17 15:25",
 			},

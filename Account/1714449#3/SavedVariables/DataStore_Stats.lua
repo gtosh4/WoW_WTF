@@ -1,7 +1,7 @@
 
 DataStore_StatsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -48,7 +48,7 @@ DataStore_StatsDB = {
 					["Spell"] = "8910|8910|0|21.111110687256|833|3200",
 				},
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1553910030,
 				["Stats"] = {
 					["Ranged"] = "3169-3170|0|0|0|18.861110687256",

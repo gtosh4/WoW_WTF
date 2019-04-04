@@ -17,7 +17,7 @@ TalentSetManager_Options = {
 	},
 }
 TalentSetManager_CharacterSaves = {
-	["Zaemme-Kil'jaeden"] = {
+	["Toshpal-Kil'jaeden"] = {
 		["talents"] = {
 			{
 			}, -- [1]

@@ -8,7 +8,7 @@ VExRT = {
 		["enabled"] = true,
 	},
 	["ProfileKeys"] = {
-		["Zaemme-Kil'jaeden"] = "default",
+		["Toshpal-Kil'jaeden"] = "default",
 		["Toshaman-Kil'jaeden"] = "default",
 		["Toshmonk-Kil'jaeden"] = "default",
 		["Yorman-Kil'jaeden"] = "default",
@@ -277,7 +277,7 @@ VExRT = {
 				"^2084^8^1554083115^170^1^5^409.69^Pride", -- [193]
 				"^2087^8^1554083331^113^1^5^409.48^Jagerwerks", -- [194]
 			},
-			["Zaemme"] = {
+			["Toshpal"] = {
 				"^2105^23^1550020601^38^1^5^393.51^", -- [1]
 				"^2086^23^1550020957^50^1^5^395.19^", -- [2]
 			},
@@ -2191,7 +2191,7 @@ VExRT = {
 			["Mutiny"] = 258,
 			["Dizcleave-Tichondrius"] = 71,
 			["Marrakech-Azralon"] = 63,
-			["Zaemme"] = 65,
+			["Toshpal"] = 65,
 			["Yuffio"] = 258,
 			["Korlos-EmeraldDream"] = 103,
 			["Holywar-Staghelm"] = 70,

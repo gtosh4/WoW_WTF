@@ -1,7 +1,7 @@
 
 ElvDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
@@ -22,7 +22,7 @@ ElvDB = {
 	["gold"] = {
 		["Kil'jaeden"] = {
 			["Yorman"] = 1537117866,
-			["Zaemme"] = 1279183481,
+			["Toshpal"] = 1279183481,
 			["Toshmonk"] = 1023673258,
 			["Tosh"] = 1187660718,
 			["Toshaman"] = 100000,
@@ -37,7 +37,7 @@ ElvDB = {
 			["Toshmonk"] = "MONK",
 			["Yorman"] = "DRUID",
 			["Toshaman"] = "SHAMAN",
-			["Zaemme"] = "PALADIN",
+			["Toshpal"] = "PALADIN",
 		},
 	},
 	["global"] = {
@@ -270,7 +270,7 @@ ElvDB = {
 		["userInformedNewChanges1"] = true,
 	},
 	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["chat"] = {
 				["panelColorConverted"] = true,
 			},
@@ -1212,14 +1212,14 @@ ElvDB = {
 }
 ElvPrivateDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["sle"] = {
 				["pvpreadydialogreset"] = true,
 				["characterGoldsSorting"] = {

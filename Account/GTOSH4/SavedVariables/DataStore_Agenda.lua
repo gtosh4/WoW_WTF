@@ -17,16 +17,16 @@ DataStore_AgendaDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554050018,
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
+			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
-					["Orcbum"] = {
+					["Toshmonk"] = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1553910030,
+				["lastUpdate"] = 1554335857,
+			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1554335375,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -34,17 +34,13 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1554248209,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-						["class"] = "Monk",
-						["level"] = 120,
-					},
+				["lastUpdate"] = 1554347483,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Heroic|368162477"] = "477135|1554344864|0|1",
 				},
-				["lastUpdate"] = 1554248775,
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554050018,
 			},
 		},
 	},

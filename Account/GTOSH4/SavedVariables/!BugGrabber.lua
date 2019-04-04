@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 646,
 	["lastSanitation"] = 3,
+	["session"] = 651,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
@@ -35,5 +35,13 @@ BugGrabberDB = {
 			["session"] = 642,
 			["counter"] = 13,
 		}, -- [4]
+		{
+			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.1.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
+			["time"] = "2019/04/03 21:46:27",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v142.1.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:450: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:416>",
+			["session"] = 651,
+			["counter"] = 5,
+		}, -- [5]
 	},
 }

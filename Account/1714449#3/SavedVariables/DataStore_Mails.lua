@@ -1,7 +1,7 @@
 
 DataStore_MailsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -79,7 +79,7 @@ DataStore_MailsDB = {
 				},
 				["lastVisitDate"] = "2019/03/31 21:54",
 			},
-			["Default.Kil'jaeden.Zaemme"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1553406759,
 				["lastVisitDate"] = "2019/03/24 01:52",
 			},

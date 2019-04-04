@@ -849,7 +849,7 @@ DCS_ClassSpecDB = {
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:1",
 	},
-	["Zaemme:Kil'jaeden:1"] = {
+	["Toshpal:Kil'jaeden:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1044,7 +1044,7 @@ DCS_ClassSpecDB = {
 			["hidden"] = true,
 			["hideAt"] = 0,
 		}, -- [49]
-		["uniqueKey"] = "Zaemme:Kil'jaeden:1",
+		["uniqueKey"] = "Toshpal:Kil'jaeden:1",
 	},
 	["Toshaman:Kil'jaeden:3"] = {
 		{
@@ -1642,7 +1642,7 @@ DCS_ClassSpecDB = {
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:4",
 	},
-	["Zaemme:Kil'jaeden:2"] = {
+	["Toshpal:Kil'jaeden:2"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1830,7 +1830,7 @@ DCS_ClassSpecDB = {
 			["hideAt"] = 0,
 			["hidden"] = true,
 		}, -- [49]
-		["uniqueKey"] = "Zaemme:Kil'jaeden:2",
+		["uniqueKey"] = "Toshpal:Kil'jaeden:2",
 	},
 	["Toshmonk:Kil'jaeden:1"] = {
 		{

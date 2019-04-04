@@ -7,7 +7,7 @@ MacroToolkitDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "profile",
+		["Toshpal - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
 		["Tosh - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
