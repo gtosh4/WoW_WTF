@@ -30,6 +30,15 @@ VER 3 0000000000000011 "nameplates" "Spell_ChargePositive."
 /console nameplateShowEnemies 1
 /console nameplateShowFriends 1
 END
+VER 3 000000000000002B "noblust" "INV_MISC_QUESTIONMARK"
+/cancelaura Bloodlust
+/cancelaura Drums of Fury
+/cancelaura Drums of the Maelstrom
+/cancelaura Drums of the Mountain
+/cancelaura Drums of Rage
+/cancelaura Primal Rage
+/cancelaura Time Warp
+END
 VER 3 0000000000000029 "page1" "134153"
 /changeactionbar 1
 END

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0239,
+	["LastVersion"] = 2.024,
 	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
