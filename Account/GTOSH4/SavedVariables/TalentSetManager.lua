@@ -123,6 +123,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "pvp",
 					["texture"] = "interface\\icons\\ability_creature_cursed_02",
 				}, -- [3]
+				{
+					3, -- [1]
+					1, -- [2]
+					1, -- [3]
+					3, -- [4]
+					3, -- [5]
+					3, -- [6]
+					1, -- [7]
+					["texture"] = "interface\\icons\\spell_frost_frostbolt02",
+					["name"] = "jaina",
+					["tt"] = "talents",
+				}, -- [4]
 			},
 		},
 		["version"] = 0,

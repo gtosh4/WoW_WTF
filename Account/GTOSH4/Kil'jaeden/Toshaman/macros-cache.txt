@@ -1,3 +1,7 @@
+VER 3 0100000000000008 "apt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/2] Earthen Wall Totem; [talent:4/3] Ancestral Protection Totem
+END
 VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
 #showtooltip Chain Heal
 /cast [@mouseover,noharm] Chain Heal

@@ -16,3 +16,5 @@ BigWigs_Azeroth: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_WrathOfTheLichKing: enabled
+BigWigs_CrucibleOfStorms: enabled
+BigWigs_Uldir: enabled

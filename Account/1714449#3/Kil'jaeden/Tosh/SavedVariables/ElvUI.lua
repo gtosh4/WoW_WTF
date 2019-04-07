@@ -1,160 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Jargo-Kil'jaeden use it on link", -- [1]
-		" yeah, for 50% dmg", -- [2]
-		" plus, you'll have more to cleave too", -- [3]
-		" w/ the living bombs and kittehs", -- [4]
-		" they fix that today?", -- [5]
-		" did someone stay behind and not get in combat?", -- [6]
-		" or did everyone run", -- [7]
-		" yeah", -- [8]
-		" that's how I thought you always do it", -- [9]
-		" no warlock", -- [10]
-		" so unlikely", -- [11]
-		" click summary", -- [12]
-		" click the player", -- [13]
-		" these heckin greens", -- [14]
-		" xd", -- [15]
-		"/raid brb", -- [16]
-		"/cw Skarsnik helps sometimes to drop it early", -- [17]
-		"/cw Skarsnik to get the debuff", -- [18]
-		"/aa", -- [19]
-		"/dn", -- [20]
+		" xd", -- [1]
+		"/aa", -- [2]
+		"/cw Jargo-Kil'jaeden use it on link", -- [3]
+		"/raid brb", -- [4]
+		"/dn", -- [5]
+		"or did everyone run", -- [6]
+		"/cw Skarsnik to get the debuff", -- [7]
+		"no warlock", -- [8]
+		"these heckin greens", -- [9]
+		"so unlikely", -- [10]
+		"that's how I thought you always do it", -- [11]
+		"/cw Skarsnik helps sometimes to drop it early", -- [12]
+		"click summary", -- [13]
+		"xd", -- [14]
+		"they fix that today?", -- [15]
+		"click the player", -- [16]
+		"plus, you'll have more to cleave too", -- [17]
+		"/wa", -- [18]
+		"/ec", -- [19]
+		"/cw Toshaman [WeakAuras: Tosh-Kil'jaeden - AzeriteIcon]", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Missing Buffs (1): Intellect", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3599, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1554263244,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [1]
-		{
-			"oRA3> No Augment Rune", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3600, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1554263244,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [2]
-		{
-			"you COULD have a healthstone", -- [1]
-			"Aspbringer-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aspbringer-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3602, -- [11]
-			"Player-9-0B379D1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Aspbringer|r",
-			[51] = 1554263250,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"save bubble for second to last boss", -- [1]
-			"Zombiemonk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zombiemonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3609, -- [11]
-			"Player-9-0A31676A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Zombiemonk|r",
-			[51] = 1554263257,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [4]
-		{
-			"but raid would be over lol", -- [1]
-			"Aspbringer-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aspbringer-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3612, -- [11]
-			"Player-9-0B379D1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Aspbringer|r",
-			[51] = 1554263260,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3614, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1554263269,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [6]
 		{
 			"oh nvm", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -176,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1554263276,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [7]
+		}, -- [1]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Gonk's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -198,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [2]
 		{
 			"Crawling Hex (2{rt2}) on Aspbringer", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -220,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263296,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [3]
 		{
 			"{rt2} 3", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -242,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263298,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [4]
 		{
 			"Mark of Prey on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -264,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263314,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [5]
 		{
 			"Mark of Prey on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -286,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1554263314,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [6]
 		{
 			"Mark of Prey on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -308,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263314,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [7]
 		{
 			"Mark of Prey on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -330,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1554263322,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [8]
 		{
 			"{rt2} 3", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -352,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263323,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [9]
 		{
 			"Mark of Prey on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -374,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263327,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [10]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Pa'ku's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -396,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [11]
 		{
 			"Taunted Kimbul's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -418,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263348,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [12]
 		{
 			"Mark of Prey on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -440,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [13]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -462,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [14]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -484,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [15]
 		{
 			"Mark of Prey on Daiyzedk", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -506,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [16]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -528,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263382,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [17]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Kimbul's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -550,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263382,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [18]
 		{
 			"Mark of Prey on Trophie", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -572,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1554263384,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [19]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -594,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263386,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [20]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -616,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263386,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [21]
 		{
 			"Mark of Prey on Daiyzedk", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -638,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263389,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [22]
 		{
 			"Leap on Aspbringer", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -660,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263393,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [23]
 		{
 			"Leap on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -682,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1554263393,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [24]
 		{
 			"Mark of Prey on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -704,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263434,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [25]
 		{
 			"Mark of Prey on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -726,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263434,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [26]
 		{
 			"Mark of Prey on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -748,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1554263434,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [27]
 		{
 			"Qwor ez Ongg za Ph'magg", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -770,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1554263434,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [28]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Pa'ku's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -792,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [29]
 		{
 			"Mark of Prey on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -814,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1554263452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [30]
 		{
 			"Kimbul's Wrath on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -836,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1554263453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [31]
 		{
 			"Kimbul's Wrath on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -858,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554263453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [32]
 		{
 			"Mark of Prey on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -880,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [33]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -902,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263454,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [34]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -924,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263468,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [35]
 		{
 			"Akunda's Wrath on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -946,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1554263472,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [36]
 		{
 			"Akunda's Wrath on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -968,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263472,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [37]
 		{
 			"Mark of Prey on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -990,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263498,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [38]
 		{
 			"Not Well Fed (4): Aspbringer, Daiyzedk, Emosong, Wraithbrand", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1012,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263565,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [45]
+		}, -- [39]
 		{
 			"No Augment Rune (15): Andrewzz, Daiyzedk, Dawnzo, Huit, Jargo, Ngow, Sherbie, Skarsnik, Slurry, Tosh, Trophie, Vercetty, Voidamental, Wraithbrand, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1034,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263565,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [46]
+		}, -- [40]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1056,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263565,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [47]
+		}, -- [41]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1078,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263578,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [48]
+		}, -- [42]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1100,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [43]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Gonk's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1122,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263613,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [44]
 		{
 			"Mark of Prey on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1144,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1554263644,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [45]
 		{
 			"Mark of Prey on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -1166,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263644,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [46]
 		{
 			"Crawling Hex (1{rt1}) on Trophie", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -1188,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1554263652,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [47]
 		{
 			"Mark of Prey on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1210,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [48]
 		{
 			"{rt1} 3", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -1232,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1554263654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [49]
 		{
 			"{rt2} 3", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -1254,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [50]
 		{
 			"{rt1} 2", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -1276,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1554263655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [51]
 		{
 			"{rt2} 2", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -1298,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [52]
 		{
 			"Mark of Prey on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1320,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1554263658,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [53]
 		{
 			"Crawling Hex 1 on {rt1}Papisalad{rt1}", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1342,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263677,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [54]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Pa'ku's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1364,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263678,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [55]
 		{
 			"Taunted Kimbul's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1386,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263679,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [56]
 		{
 			"{rt1}3", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1408,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [57]
 		{
 			"Mark of Prey on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1430,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [58]
 		{
 			"Mark of Prey on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1452,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [59]
 		{
 			"Mark of Prey on Jargo", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -1474,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [60]
 		{
 			"Mark of Prey on Slurry", -- [1]
 			"Slurry-Kil'jaeden", -- [2]
@@ -1496,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Slurry|r",
 			[51] = 1554263704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [61]
 		{
 			"Mark of Prey on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1518,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1554263714,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [62]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Kimbul's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1540,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263715,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [63]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1562,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263716,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [64]
 		{
 			"Kimbul's Wrath on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1584,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263723,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [65]
 		{
 			"Kimbul's Wrath on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1606,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263723,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [66]
 		{
 			"Mark of Prey on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1628,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [67]
 		{
 			"Mark of Prey on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1650,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1554263764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [68]
 		{
 			"Mark of Prey on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -1672,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1554263764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [69]
 		{
 			"Mark of Prey on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1694,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [70]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1716,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263771,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [71]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Pa'ku's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1738,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [72]
 		{
 			"Mark of Prey on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1760,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263775,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [73]
 		{
 			"Mark of Prey on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1782,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1554263779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [74]
 		{
 			"Mark of Prey on Jargo", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -1804,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263781,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [75]
 		{
 			"Kimbul's Wrath on Papisalad", -- [1]
 			"Papisalad-Kil'jaeden", -- [2]
@@ -1826,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Papisalad|r",
 			[51] = 1554263783,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [76]
 		{
 			"Kimbul's Wrath on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1848,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1554263783,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [77]
 		{
 			"Kimbul's Wrath on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1870,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1554263783,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [78]
 		{
 			"Mark of Prey on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1892,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1554263787,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [79]
 		{
 			"Akunda's Wrath on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1914,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [80]
 		{
 			"Akunda's Wrath on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1936,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [81]
 		{
 			"Akunda's Wrath on Daiyzedk", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -1958,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [82]
 		{
 			"Akunda's Wrath on Jargo", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -1980,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [83]
 		{
 			"Akunda's Wrath on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2002,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [84]
 		{
 			"3", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -2024,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [85]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -2046,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [86]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2068,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [87]
 		{
 			"2", -- [1]
 			"Daiyzedk-Kil'jaeden", -- [2]
@@ -2090,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Daiyzedk|r",
 			[51] = 1554263806,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [88]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Akunda's Aspect {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2112,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263818,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [89]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2134,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263818,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [90]
 		{
 			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Skarsnik for 251160!", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -2156,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1554263819,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [91]
 		{
 			"Mark of Prey on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -2178,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1554263829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [92]
 		{
 			"Mark of Prey on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -2200,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554263829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [93]
 		{
 			"Mark of Prey on Jargo", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -2222,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [94]
 		{
 			"Mark of Prey on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2244,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263839,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [95]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2266,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554263841,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [102]
+		}, -- [96]
 		{
 			"Mark of Prey on Slurry", -- [1]
 			"Slurry-Kil'jaeden", -- [2]
@@ -2288,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Slurry|r",
 			[51] = 1554263843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [97]
 		{
 			"Kimbul's Wrath on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -2310,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554263843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [98]
 		{
 			"Leap on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2332,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [99]
 		{
 			"Kimbul's Wrath on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2354,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [100]
 		{
 			"Mark of Prey on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2376,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263846,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [101]
 		{
 			"Mark of Prey on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2398,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263846,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [102]
 		{
 			"Mark of Prey on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -2420,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1554263853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [103]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2442,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1554263859,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [104]
 		{
 			"Akunda's Wrath on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2464,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [105]
 		{
 			"Akunda's Wrath on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2486,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [106]
 		{
 			"Akunda's Wrath on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -2508,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [107]
 		{
 			"Akunda's Wrath on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2530,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [108]
 		{
 			"Akunda's Wrath on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2552,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [109]
 		{
 			"Akunda's Wrath on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2574,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [110]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2596,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1554263865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [111]
 		{
 			"3", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2618,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1554263865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [112]
 		{
 			"3", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2640,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [113]
 		{
 			"Akunda's Wrath fading in 3", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2662,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [114]
 		{
 			"2", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2684,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1554263866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [115]
 		{
 			"2", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2706,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [116]
 		{
 			"1", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -2728,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1554263867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [123]
+		}, -- [117]
 		{
 			"1", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2750,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1554263867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [118]
 		{
 			"i had mine on lol", -- [1]
 			"Jargo-Kil'jaeden", -- [2]
@@ -2772,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jargo|r",
 			[51] = 1554263921,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [119]
 		{
 			"I still use mine", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2794,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263931,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [120]
 		{
 			"It just isn't easy, lol", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2816,6 +2684,138 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554263935,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:11758:Player-9-07CD89ED:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Thunderwear]|h|r!", -- [1]
+			"Hetril-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hetril-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-9-07CD89ED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Hetril|r",
+			[51] = 1554578094,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"normal and heroic dungeons have differetn lock outs?", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1554578624,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"well there are no lockouts for normal", -- [1]
+			"Hetril-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-9-07CD89ED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Hetril|r",
+			[51] = 1554578666,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"k", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1554578675,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"I'm trying to farm up these mats", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1554578679,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"[WeakAuras: Tosh-Kil'jaeden - AzeriteIcon]", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1554599601,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [127]
 	},
 }

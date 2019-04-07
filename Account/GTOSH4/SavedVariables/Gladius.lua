@@ -15,11 +15,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1438.93566484931,
-			},
 			["y"] = {
 				["arena1"] = 483.732411763853,
+			},
+			["x"] = {
+				["arena1"] = 1438.93566484931,
 			},
 		},
 		["Default"] = {

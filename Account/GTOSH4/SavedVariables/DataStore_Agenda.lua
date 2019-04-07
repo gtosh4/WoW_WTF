@@ -28,20 +28,27 @@ DataStore_AgendaDB = {
 					["Toshmonk"] = {
 						["note"] = "",
 					},
+					["Tosh"] = {
+						["note"] = "",
+						["class"] = "Priest",
+						["level"] = 120,
+					},
 				},
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|368162477"] = "293131|1554528866|0|1",
-					["Battle of Dazar'alor Mythic|367490213"] = "293131|1554528866|0|1",
+					["Battle of Dazar'alor Heroic|368162477"] = "206909|1554615090|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "206909|1554615090|0|1",
 				},
-				["lastUpdate"] = 1554529103,
+				["lastUpdate"] = 1554617361,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
 					["Toshmonk"] = {
 						["note"] = "",
+						["class"] = "Monk",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1554335857,
+				["lastUpdate"] = 1554596883,
 			},
 		},
 	},

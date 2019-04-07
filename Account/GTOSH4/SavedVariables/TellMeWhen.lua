@@ -114,6 +114,859 @@ TellMeWhenDB = {
 				["Name"] = "Center Number 2",
 			},
 		},
+		["AuraCache"] = {
+			[265720] = 1,
+			[167898] = 2,
+			[233498] = 2,
+			[265722] = 1,
+			[270070] = 2,
+			[187464] = 2,
+			[208052] = 2,
+			[257284] = 2,
+			[254471] = 2,
+			[292322] = 2,
+			[193475] = 2,
+			[272119] = 2,
+			[254472] = 2,
+			[130] = 2,
+			[208693] = 2,
+			[223143] = 2,
+			[272888] = 1,
+			[272121] = 2,
+			[1044] = 2,
+			[113746] = 2,
+			[279028] = 2,
+			[257415] = 2,
+			[236060] = 2,
+			[279029] = 2,
+			[280308] = 2,
+			[281843] = 2,
+			[48018] = 2,
+			[207289] = 2,
+			[261764] = 2,
+			[272893] = 2,
+			[272126] = 2,
+			[156779] = 2,
+			[1066] = 2,
+			[279033] = 2,
+			[271105] = 2,
+			[247827] = 2,
+			[274942] = 2,
+			[257418] = 2,
+			[250769] = 1,
+			[287731] = 2,
+			[17] = 2,
+			[136] = 2,
+			[289523] = 2,
+			[135299] = 2,
+			[257292] = 1,
+			[289524] = 2,
+			[269576] = 2,
+			[87023] = 2,
+			[102560] = 2,
+			[53390] = 2,
+			[289526] = 2,
+			[14914] = 2,
+			[281854] = 2,
+			[193356] = 2,
+			[222256] = 2,
+			[58729] = 1,
+			[147833] = 2,
+			[257422] = 2,
+			[279810] = 2,
+			[87024] = 2,
+			[188370] = 2,
+			[294133] = 2,
+			[113942] = 2,
+			[5487] = 2,
+			[272140] = 2,
+			[8936] = 2,
+			[257168] = 1,
+			[48020] = 2,
+			[257424] = 2,
+			[81782] = 2,
+			[248473] = 2,
+			[289277] = 2,
+			[257169] = 1,
+			[272144] = 2,
+			[257042] = 1,
+			[196941] = 2,
+			[287490] = 1,
+			[254485] = 2,
+			[234153] = 2,
+			[194384] = 2,
+			[216251] = 2,
+			[42650] = 2,
+			[268311] = 2,
+			[212799] = 2,
+			[205766] = 2,
+			[257044] = 2,
+			[33763] = 2,
+			[108446] = 1,
+			[212800] = 2,
+			[48181] = 2,
+			[1160] = 2,
+			[260242] = 2,
+			[206151] = 2,
+			[264735] = 2,
+			[3355] = 2,
+			[202188] = 2,
+			[288777] = 2,
+			[24858] = 2,
+			[269085] = 2,
+			[589] = 2,
+			[282129] = 1,
+			[279572] = 2,
+			[292360] = 2,
+			[60234] = 2,
+			[273947] = 2,
+			[225080] = 2,
+			[185311] = 2,
+			[292363] = 2,
+			[292364] = 2,
+			[48438] = 2,
+			[26297] = 2,
+			[294155] = 2,
+			[268836] = 2,
+			[221885] = 2,
+			[605] = 2,
+			[81340] = 2,
+			[235313] = 2,
+			[285719] = 2,
+			[241835] = 2,
+			[121557] = 2,
+			[212552] = 2,
+			[285976] = 2,
+			[224189] = 2,
+			[285721] = 2,
+			[191837] = 2,
+			[45242] = 2,
+			[279584] = 2,
+			[288024] = 2,
+			[266030] = 2,
+			[77505] = 2,
+			[204242] = 2,
+			[240559] = 2,
+			[115804] = 1,
+			[285981] = 2,
+			[16739] = 2,
+			[278310] = 2,
+			[289308] = 2,
+			[294935] = 2,
+			[77762] = 2,
+			[12054] = 1,
+			[273453] = 2,
+			[280615] = 2,
+			[192225] = 2,
+			[188389] = 2,
+			[288800] = 2,
+			[225601] = 2,
+			[264761] = 2,
+			[191587] = 2,
+			[72968] = 2,
+			[288803] = 2,
+			[255909] = 2,
+			[214222] = 2,
+			[264764] = 2,
+			[642] = 2,
+			[274739] = 2,
+			[179057] = 2,
+			[235450] = 2,
+			[290085] = 2,
+			[2580] = 2,
+			[274741] = 2,
+			[25771] = 2,
+			[267325] = 2,
+			[274742] = 2,
+			[269883] = 2,
+			[266047] = 2,
+			[267326] = 2,
+			[267327] = 2,
+			[90361] = 2,
+			[62124] = 2,
+			[114018] = 2,
+			[268607] = 2,
+			[267329] = 2,
+			[289324] = 2,
+			[269120] = 2,
+			[287790] = 2,
+			[267331] = 2,
+			[45181] = 2,
+			[264774] = 2,
+			[105771] = 2,
+			[273470] = 1,
+			[270657] = 2,
+			[182387] = 2,
+			[12654] = 2,
+			[288305] = 2,
+			[6343] = 2,
+			[290608] = 2,
+			[193641] = 2,
+			[280635] = 2,
+			[270661] = 2,
+			[268616] = 2,
+			[190446] = 2,
+			[18499] = 2,
+			[196840] = 2,
+			[13877] = 2,
+			[190319] = 2,
+			[22703] = 2,
+			[64843] = 2,
+			[205025] = 2,
+			[275014] = 1,
+			[280385] = 2,
+			[268877] = 2,
+			[64044] = 2,
+			[272970] = 2,
+			[108843] = 2,
+			[61295] = 2,
+			[195181] = 2,
+			[290364] = 2,
+			[96312] = 2,
+			[97463] = 2,
+			[195949] = 2,
+			[293946] = 2,
+			[64844] = 2,
+			[226512] = 2,
+			[204262] = 2,
+			[44544] = 2,
+			[285253] = 1,
+			[252216] = 2,
+			[214621] = 2,
+			[112042] = 2,
+			[115175] = 2,
+			[272421] = 1,
+			[225603] = 2,
+			[118779] = 2,
+			[290371] = 2,
+			[280773] = 2,
+			[280653] = 2,
+			[288091] = 2,
+			[202602] = 2,
+			[280398] = 2,
+			[280654] = 2,
+			[202347] = 2,
+			[355] = 2,
+			[271103] = 2,
+			[272471] = 1,
+			[68054] = 1,
+			[254474] = 2,
+			[280400] = 2,
+			[74589] = 2,
+			[154797] = 2,
+			[108271] = 2,
+			[280830] = 2,
+			[288841] = 2,
+			[210660] = 2,
+			[268893] = 2,
+			[190456] = 2,
+			[206662] = 2,
+			[288075] = 2,
+			[269651] = 2,
+			[253331] = 2,
+			[275544] = 2,
+			[292361] = 2,
+			[242597] = 2,
+			[251837] = 2,
+			[288844] = 1,
+			[203852] = 2,
+			[280149] = 2,
+			[288509] = 2,
+			[31224] = 2,
+			[272733] = 2,
+			[5215] = 2,
+			[251838] = 2,
+			[246851] = 2,
+			[271711] = 2,
+			[268898] = 2,
+			[287568] = 2,
+			[256742] = 2,
+			[242599] = 2,
+			[268899] = 2,
+			[251839] = 2,
+			[246852] = 2,
+			[132404] = 2,
+			[220510] = 2,
+			[1459] = 2,
+			[264353] = 2,
+			[288756] = 2,
+			[229206] = 2,
+			[287280] = 2,
+			[246853] = 2,
+			[193287] = 2,
+			[289362] = 2,
+			[36554] = 2,
+			[138927] = 2,
+			[155158] = 2,
+			[132951] = 1,
+			[193530] = 2,
+			[268998] = 2,
+			[287062] = 2,
+			[268904] = 2,
+			[266091] = 2,
+			[8220] = 2,
+			[279902] = 2,
+			[268905] = 2,
+			[256957] = 1,
+			[287831] = 2,
+			[280661] = 1,
+			[156064] = 2,
+			[279715] = 2,
+			[188033] = 2,
+			[275481] = 2,
+			[157228] = 2,
+			[188501] = 2,
+			[250770] = 1,
+			[108211] = 2,
+			[1490] = 2,
+			[6197] = 2,
+			[188034] = 2,
+			[73685] = 2,
+			[188290] = 2,
+			[282482] = 2,
+			[287835] = 2,
+			[12975] = 2,
+			[264091] = 2,
+			[23920] = 2,
+			[287836] = 2,
+			[281954] = 2,
+			[193358] = 2,
+			[279397] = 2,
+			[287837] = 2,
+			[89798] = 1,
+			[32216] = 2,
+			[109128] = 2,
+			[271896] = 2,
+			[755] = 2,
+			[193359] = 2,
+			[272571] = 1,
+			[193538] = 2,
+			[193357] = 2,
+			[193316] = 2,
+			[13750] = 2,
+			[204018] = 2,
+			[217832] = 2,
+			[66] = 2,
+			[53563] = 2,
+			[287722] = 2,
+			[8122] = 2,
+			[185736] = 2,
+			[273264] = 2,
+			[47585] = 2,
+			[20707] = 2,
+			[278124] = 2,
+			[107574] = 2,
+			[233499] = 2,
+			[157644] = 2,
+			[198013] = 2,
+			[116014] = 2,
+			[277703] = 2,
+			[227041] = 2,
+			[281195] = 2,
+			[768] = 2,
+			[199804] = 2,
+			[291170] = 2,
+			[156071] = 2,
+			[78675] = 2,
+			[288333] = 2,
+			[275826] = 1,
+			[279151] = 2,
+			[231390] = 2,
+			[273525] = 2,
+			[226757] = 2,
+			[279152] = 2,
+			[774] = 2,
+			[269279] = 2,
+			[61684] = 2,
+			[279153] = 2,
+			[264064] = 1,
+			[256231] = 2,
+			[287322] = 1,
+			[280177] = 2,
+			[280433] = 2,
+			[114923] = 2,
+			[8219] = 2,
+			[256456] = 2,
+			[157736] = 2,
+			[116847] = 2,
+			[146739] = 2,
+			[12472] = 2,
+			[119085] = 2,
+			[5225] = 2,
+			[32752] = 2,
+			[278134] = 2,
+			[176151] = 2,
+			[273843] = 2,
+			[60229] = 2,
+			[108280] = 2,
+			[34767] = 2,
+			[280286] = 2,
+			[194310] = 2,
+			[186254] = 2,
+			[264070] = 1,
+			[217200] = 2,
+			[275835] = 1,
+			[205180] = 2,
+			[703] = 2,
+			[278954] = 2,
+			[275836] = 1,
+			[285978] = 2,
+			[281303] = 2,
+			[16591] = 2,
+			[274814] = 2,
+			[284277] = 2,
+			[256459] = 2,
+			[178306] = 2,
+			[288865] = 1,
+			[281209] = 2,
+			[270670] = 2,
+			[288882] = 2,
+			[101568] = 2,
+			[292463] = 2,
+			[256460] = 2,
+			[288374] = 1,
+			[5697] = 2,
+			[186257] = 2,
+			[272260] = 2,
+			[288394] = 1,
+			[294255] = 2,
+			[156079] = 2,
+			[256453] = 2,
+			[1604] = 1,
+			[110960] = 2,
+			[186258] = 2,
+			[196555] = 2,
+			[19236] = 2,
+			[280165] = 2,
+			[45438] = 2,
+			[19574] = 2,
+			[288345] = 1,
+			[154953] = 2,
+			[285720] = 2,
+			[132168] = 2,
+			[243435] = 2,
+			[289387] = 2,
+			[116849] = 2,
+			[197908] = 2,
+			[117952] = 2,
+			[61340] = 2,
+			[102401] = 2,
+			[48707] = 2,
+			[94632] = 2,
+			[288434] = 2,
+			[288193] = 2,
+			[188499] = 2,
+			[201350] = 2,
+			[288297] = 2,
+			[408] = 2,
+			[288212] = 1,
+			[104773] = 2,
+			[108194] = 2,
+			[47536] = 2,
+			[200200] = 2,
+			[228358] = 2,
+			[290053] = 1,
+			[289405] = 2,
+			[288219] = 1,
+			[236645] = 2,
+			[288981] = 2,
+			[287360] = 2,
+			[192082] = 2,
+			[3409] = 2,
+			[272783] = 2,
+			[236299] = 2,
+			[257622] = 2,
+			[191634] = 2,
+			[57723] = 2,
+			[289408] = 2,
+			[268955] = 2,
+			[280713] = 2,
+			[73325] = 2,
+			[263725] = 2,
+			[122783] = 2,
+			[33395] = 2,
+			[287639] = 2,
+			[15286] = 2,
+			[282505] = 2,
+			[59628] = 2,
+			[251316] = 2,
+			[288388] = 1,
+			[288613] = 2,
+			[288038] = 1,
+			[80354] = 2,
+			[280205] = 2,
+			[192106] = 2,
+			[207495] = 2,
+			[277904] = 2,
+			[208772] = 2,
+			[115767] = 2,
+			[210152] = 2,
+			[272790] = 2,
+			[268954] = 2,
+			[280409] = 2,
+			[45182] = 2,
+			[274740] = 2,
+			[51490] = 2,
+			[73313] = 2,
+			[264352] = 2,
+			[57724] = 2,
+			[164273] = 2,
+			[287626] = 1,
+			[281744] = 2,
+			[278931] = 2,
+			[280210] = 2,
+			[11426] = 2,
+			[111400] = 2,
+			[160029] = 2,
+			[267685] = 2,
+			[204079] = 2,
+			[139] = 2,
+			[279956] = 2,
+			[287925] = 1,
+			[48778] = 2,
+			[288169] = 2,
+			[268953] = 2,
+			[15407] = 2,
+			[6788] = 2,
+			[274447] = 2,
+			[280204] = 2,
+			[139212] = 1,
+			[286581] = 2,
+			[2383] = 2,
+			[3408] = 2,
+			[276025] = 2,
+			[53365] = 2,
+			[288615] = 2,
+			[285497] = 2,
+			[289423] = 2,
+			[245686] = 2,
+			[294027] = 2,
+			[77535] = 2,
+			[281240] = 2,
+			[186387] = 2,
+			[197937] = 2,
+			[288146] = 2,
+			[287379] = 2,
+			[1719] = 2,
+			[259161] = 2,
+			[71909] = 2,
+			[191840] = 2,
+			[187935] = 2,
+			[281844] = 2,
+			[114108] = 2,
+			[287365] = 2,
+			[260057] = 1,
+			[279709] = 2,
+			[228600] = 2,
+			[180612] = 2,
+			[287638] = 2,
+			[11327] = 2,
+			[48792] = 2,
+			[268769] = 2,
+			[202770] = 2,
+			[98444] = 2,
+			[6940] = 2,
+			[185763] = 2,
+			[267612] = 2,
+			[275378] = 2,
+			[871] = 2,
+			[260954] = 1,
+			[31850] = 2,
+			[268956] = 2,
+			[285254] = 1,
+			[33206] = 2,
+			[51460] = 2,
+			[198069] = 2,
+			[203539] = 2,
+			[257886] = 2,
+			[194249] = 2,
+			[118905] = 2,
+			[281721] = 2,
+			[279204] = 2,
+			[288267] = 2,
+			[194223] = 2,
+			[288156] = 2,
+			[202090] = 2,
+			[273836] = 2,
+			[205179] = 2,
+			[170293] = 2,
+			[210824] = 2,
+			[291944] = 2,
+			[12042] = 2,
+			[224001] = 2,
+			[19483] = 2,
+			[186406] = 2,
+			[268854] = 2,
+			[226510] = 1,
+			[32645] = 2,
+			[80240] = 2,
+			[123254] = 2,
+			[187174] = 2,
+			[277179] = 2,
+			[245389] = 2,
+			[285979] = 2,
+			[197916] = 2,
+			[210320] = 2,
+			[204213] = 2,
+			[277181] = 2,
+			[256739] = 2,
+			[256867] = 1,
+			[184362] = 2,
+			[1784] = 2,
+			[290337] = 2,
+			[188838] = 2,
+			[288675] = 2,
+			[242551] = 2,
+			[273842] = 2,
+			[33702] = 2,
+			[269239] = 2,
+			[198813] = 2,
+			[130736] = 2,
+			[290467] = 2,
+			[119611] = 2,
+			[2818] = 2,
+			[267330] = 2,
+			[8222] = 2,
+			[184364] = 2,
+			[271543] = 2,
+			[197919] = 2,
+			[290469] = 2,
+			[274357] = 2,
+			[271544] = 2,
+			[126389] = 2,
+			[113860] = 2,
+			[228354] = 2,
+			[63560] = 2,
+			[243955] = 2,
+			[1943] = 2,
+			[132403] = 2,
+			[164545] = 2,
+			[287993] = 2,
+			[6673] = 2,
+			[65081] = 2,
+			[271107] = 2,
+			[113858] = 2,
+			[79140] = 2,
+			[34914] = 2,
+			[287916] = 2,
+			[207640] = 2,
+			[267560] = 2,
+			[260069] = 1,
+			[91800] = 2,
+			[5246] = 2,
+			[196725] = 2,
+			[277432] = 2,
+			[164547] = 2,
+			[271115] = 2,
+			[276154] = 2,
+			[260070] = 1,
+			[31884] = 2,
+			[260402] = 2,
+			[290370] = 2,
+			[2645] = 2,
+			[292012] = 2,
+			[2649] = 2,
+			[258920] = 2,
+			[5302] = 2,
+			[115834] = 2,
+			[57934] = 2,
+			[115192] = 2,
+			[41425] = 2,
+			[256619] = 1,
+			[41635] = 2,
+			[201633] = 2,
+			[260072] = 1,
+			[115191] = 2,
+			[272834] = 1,
+			[174524] = 2,
+			[79206] = 2,
+			[114052] = 2,
+			[212801] = 2,
+			[80396] = 2,
+			[287766] = 1,
+			[199844] = 2,
+			[54149] = 2,
+			[3714] = 2,
+			[273348] = 2,
+			[48107] = 2,
+			[200015] = 2,
+			[257408] = 2,
+			[187973] = 2,
+			[210873] = 2,
+			[217668] = 2,
+			[48265] = 2,
+			[274373] = 2,
+			[43308] = 2,
+			[257410] = 2,
+			[288330] = 2,
+			[118337] = 2,
+			[219788] = 2,
+			[277955] = 2,
+			[227723] = 2,
+			[51514] = 2,
+			[205473] = 2,
+			[270576] = 2,
+			[60233] = 2,
+			[195627] = 2,
+			[259455] = 2,
+			[113862] = 2,
+			[47788] = 2,
+			[290365] = 2,
+			[118] = 2,
+			[124682] = 2,
+			[289467] = 2,
+			[165961] = 2,
+			[272588] = 1,
+			[224772] = 2,
+			[264689] = 2,
+			[16870] = 2,
+			[48108] = 2,
+			[12051] = 2,
+			[189363] = 2,
+			[256455] = 2,
+			[278999] = 2,
+			[280007] = 2,
+			[118455] = 2,
+			[210657] = 2,
+			[277706] = 2,
+			[258883] = 2,
+			[193456] = 2,
+			[203814] = 2,
+			[232698] = 2,
+			[268756] = 2,
+			[213405] = 2,
+			[288839] = 2,
+			[257650] = 1,
+			[288194] = 2,
+			[80610] = 1,
+			[117828] = 2,
+			[196782] = 2,
+			[277965] = 1,
+			[3600] = 1,
+			[196608] = 2,
+			[77489] = 2,
+			[264667] = 2,
+			[55078] = 2,
+			[290121] = 2,
+			[275351] = 2,
+			[24331] = 1,
+			[263806] = 2,
+			[108366] = 2,
+			[2823] = 2,
+			[2825] = 2,
+			[164815] = 2,
+			[279503] = 2,
+			[278736] = 2,
+			[288199] = 1,
+			[24394] = 2,
+			[257413] = 2,
+			[212641] = 2,
+			[236298] = 2,
+			[22812] = 2,
+			[27827] = 2,
+			[116841] = 2,
+			[290372] = 2,
+			[260881] = 2,
+			[160331] = 2,
+			[215711] = 2,
+			[193333] = 2,
+			[186265] = 2,
+			[203819] = 2,
+			[282211] = 1,
+			[105682] = 2,
+			[273232] = 2,
+			[974] = 2,
+			[122] = 2,
+			[293965] = 2,
+			[199600] = 2,
+			[114250] = 2,
+			[272940] = 2,
+			[1953] = 2,
+			[257420] = 2,
+			[274395] = 2,
+			[126892] = 2,
+			[116680] = 2,
+			[271071] = 2,
+			[980] = 2,
+			[290468] = 2,
+			[131493] = 2,
+			[127230] = 2,
+			[191034] = 2,
+			[185710] = 2,
+			[279684] = 2,
+			[1966] = 2,
+			[292359] = 2,
+			[1850] = 2,
+			[268887] = 2,
+			[259448] = 2,
+			[266144] = 1,
+			[277724] = 2,
+			[546] = 2,
+			[199603] = 2,
+			[233490] = 2,
+			[164812] = 2,
+			[271843] = 2,
+			[162264] = 2,
+			[270987] = 1,
+			[221886] = 2,
+			[275936] = 2,
+			[280187] = 2,
+			[90328] = 2,
+			[273930] = 1,
+			[268776] = 1,
+			[205644] = 2,
+			[264173] = 2,
+			[296142] = 1,
+			[280121] = 2,
+			[211881] = 2,
+			[21562] = 2,
+			[111759] = 2,
+			[270232] = 2,
+			[246152] = 2,
+			[225820] = 1,
+			[203975] = 2,
+			[268856] = 2,
+			[270058] = 2,
+			[275429] = 2,
+			[198839] = 2,
+			[267558] = 2,
+			[202164] = 2,
+			[205708] = 2,
+			[2983] = 2,
+			[290264] = 2,
+			[197561] = 2,
+			[280546] = 2,
+			[143625] = 2,
+			[272874] = 1,
+			[264760] = 2,
+			[225822] = 2,
+			[292362] = 2,
+			[203538] = 2,
+			[5672] = 2,
+			[199736] = 2,
+			[288988] = 2,
+			[255234] = 2,
+			[259454] = 2,
+			[36897] = 2,
+			[288989] = 2,
+			[287199] = 1,
+			[269887] = 2,
+			[233496] = 2,
+			[118922] = 2,
+			[982] = 2,
+			[156132] = 2,
+			[23161] = 2,
+			[212653] = 2,
+			[251836] = 2,
+			[288158] = 2,
+			[233497] = 2,
+			[200166] = 2,
+			[134522] = 2,
+			[259456] = 2,
+			[261616] = 2,
+			[224186] = 2,
+			[261428] = 1,
+		},
 		["ReceiveComm"] = false,
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -204,14 +1057,14 @@ TellMeWhenDB = {
 							},
 							["Unit"] = "player; party 1-4; raid 1-40",
 							["OnlyMine"] = true,
-							["Name"] = "Lifebloom",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 								},
 							},
 							["Type"] = "meta",
-							["ShowTimerText"] = true,
+							["Name"] = "Lifebloom",
 							["States"] = {
 								{
 									["Alpha"] = 0.5,
@@ -299,7 +1152,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Cenarion Ward",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -316,7 +1169,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Cenarion Ward",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -809,7 +1662,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["Locked"] = true,
+					["Columns"] = 6,
 					["Name"] = "Resto Info",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -825,25 +1678,10 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 6,
+					["Locked"] = true,
 				}, -- [1]
 				{
 					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["Name"] = "Resto Rotation",
-					["Point"] = {
-						["y"] = -171.126803687818,
-						["x"] = 396.212554931641,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 4,
 					["Icons"] = {
 						{
 							["States"] = {
@@ -950,9 +1788,9 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["DurationMin"] = 4,
-							["DurationMinEnabled"] = true,
 							["Enabled"] = true,
+							["DurationMinEnabled"] = true,
+							["DurationMin"] = 4,
 							["States"] = {
 								{
 									["Alpha"] = 0.5,
@@ -968,11 +1806,6 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1Rp1m3NFV6Uz",
 							["ShowTimer"] = true,
 							["DurationMaxEnabled"] = true,
-							["DurationMax"] = 4,
-							["Unit"] = "player; party 1-4; raid 1-40",
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["Name"] = "Lifebloom",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
@@ -981,8 +1814,11 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Enabled"] = true,
-							["Type"] = "buff",
+							["Unit"] = "player; party 1-4; raid 1-40",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["Name"] = "Lifebloom",
+							["DurationMax"] = 4,
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -999,6 +1835,8 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["Type"] = "buff",
+							["Enabled"] = true,
 							["States"] = {
 								{
 									["Alpha"] = 0.5,
@@ -1608,6 +2446,20 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
+					["Point"] = {
+						["y"] = -171.126803687818,
+						["x"] = 396.212554931641,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 4,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -1615,13 +2467,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
+					["Name"] = "Resto Rotation",
 				}, -- [2]
 				{
 					["GUID"] = "TMW:group:1Rdy4shSvHOv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
 						["x"] = 10,
+						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -1680,7 +2533,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Flourish",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -1696,7 +2549,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "Flourish",
 							["States"] = {
 								{
 								}, -- [1]
@@ -1721,6 +2574,14 @@ TellMeWhenDB = {
 									},
 								},
 							},
+							["ShowTimerText"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Incarnation: Tree of Life",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -1740,14 +2601,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Conditions"] = {
-								{
-									["Name"] = "Incarnation: Tree of Life",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -1772,6 +2625,7 @@ TellMeWhenDB = {
 								},
 							},
 							["Type"] = "cooldown",
+							["Name"] = "Innervate",
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -1798,7 +2652,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Innervate",
 							["States"] = {
 								{
 								}, -- [1]
@@ -2437,8 +3290,8 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 						},
 					},
-					["Locked"] = true,
 					["ShrinkGroup"] = true,
+					["Columns"] = 6,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -2446,14 +3299,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 6,
+					["Locked"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1Re9GhuLUhA_",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
 						["x"] = 10,
+						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -2462,7 +3315,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Wild Charge",
+							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -2471,7 +3324,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "Wild Charge",
 							["States"] = {
 								{
 								}, -- [1]
@@ -2487,9 +3340,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "cooldown",
 							["Name"] = "Ursol's Vortex",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2505,7 +3358,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Typhoon",
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -2514,7 +3367,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Typhoon",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2530,9 +3383,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "cooldown",
 							["Name"] = "War Stomp",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2548,9 +3401,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "cooldown",
 							["Name"] = "Nature's Cure",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2566,9 +3419,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Soothe",
-							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Soothe",
 							["States"] = {
 								{
 								}, -- [1]
@@ -2584,9 +3437,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Dash",
-							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Dash",
 							["States"] = {
 								{
 									["Alpha"] = 0,
@@ -2603,7 +3456,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Growl",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -2619,7 +3472,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Growl",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2635,7 +3488,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Renewal",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -2651,7 +3504,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Renewal",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -2667,9 +3520,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "cooldown",
 							["Name"] = "Rebirth",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -3418,8 +4271,8 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 						},
 					},
-					["Locked"] = true,
 					["ShrinkGroup"] = true,
+					["Columns"] = 11,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -3427,7 +4280,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 11,
+					["Locked"] = true,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1ReGzyv8L=59",
@@ -3443,9 +4296,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "buff",
 							["Name"] = "Incarnation",
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -3491,9 +4344,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "buff",
 							["Name"] = "Clearcasting",
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -3524,8 +4377,8 @@ TellMeWhenDB = {
 									["OnlyShown"] = true,
 									["OnConditionConditions"] = {
 										{
-											["Level"] = 2.5,
 											["Type"] = "BUFFDUR",
+											["Level"] = 2.5,
 											["Name"] = "Innervate",
 											["Operator"] = "<=",
 										}, -- [1]
@@ -3548,7 +4401,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Starsurge",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
@@ -3565,7 +4418,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "Starsurge",
 							["States"] = {
 								{
 								}, -- [1]
@@ -3721,7 +4574,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "13",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -3738,7 +4591,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "13",
 							["States"] = {
 								{
 								}, -- [1]
@@ -3754,7 +4607,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "14",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -3771,7 +4624,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "14",
 							["States"] = {
 								{
 								}, -- [1]
@@ -4498,8 +5351,8 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 						},
 					},
-					["Locked"] = true,
 					["ShrinkGroup"] = true,
+					["Columns"] = 12,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -4507,7 +5360,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 12,
+					["Locked"] = true,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1RmjXRSgY=Dt",
@@ -5036,7 +5889,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["Locked"] = true,
+					["Columns"] = 6,
 					["Name"] = "Guarian Info",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -5053,26 +5906,10 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 6,
+					["Locked"] = true,
 				}, -- [6]
 				{
 					["GUID"] = "TMW:group:1RmjXbUwZ7=8",
-					["Name"] = "Guarian Rotation",
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 3,
 					["Icons"] = {
 						{
 							["GUID"] = "TMW:icon:1RmjZQgW7YD0",
@@ -5785,6 +6622,21 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 3,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -5792,13 +6644,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
+					["Name"] = "Guarian Rotation",
 				}, -- [7]
 				{
 					["GUID"] = "TMW:group:1RmjXh0hzbMv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
 						["x"] = 9.9998779296875,
+						["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -6515,8 +7368,8 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 						},
 					},
-					["ShrinkGroup"] = true,
 					["Locked"] = true,
+					["Columns"] = 5,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -6524,14 +7377,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 5,
+					["ShrinkGroup"] = true,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1RmjXmImbWxE",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
 						["x"] = 10.000244140625,
+						["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -6540,7 +7393,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Wild Charge",
+							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -6549,7 +7402,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "Wild Charge",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7425,8 +8278,8 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 						},
 					},
-					["ShrinkGroup"] = true,
 					["Locked"] = true,
+					["Columns"] = 11,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -7434,7 +8287,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 11,
+					["ShrinkGroup"] = true,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1RmjXtBcHfpO",
@@ -8293,8 +9146,8 @@ TellMeWhenDB = {
 							["SpacingY"] = -4,
 						},
 					},
-					["ShrinkGroup"] = true,
 					["Locked"] = true,
+					["Columns"] = 7,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -8302,7 +9155,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 7,
+					["ShrinkGroup"] = true,
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1SRYTdGwTTqM",
@@ -8313,12 +9166,6 @@ TellMeWhenDB = {
 						},
 					},
 					["Scale"] = 1.39175975322723,
-					["Point"] = {
-						["relativeTo"] = "HekiliDisplayPrimary",
-						["x"] = 36,
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
 					["Icons"] = {
 						{
 							["Enabled"] = true,
@@ -9372,6 +10219,12 @@ TellMeWhenDB = {
 						[103] = false,
 						[104] = false,
 						[105] = false,
+					},
+					["Point"] = {
+						["x"] = 36,
+						["relativeTo"] = "HekiliDisplayPrimary",
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
 					},
 				}, -- [11]
 				{
@@ -10549,8 +11402,8 @@ TellMeWhenDB = {
 				}, -- [26]
 			},
 			["Locked"] = true,
-			["SoundChannel"] = "Master",
 			["NumGroups"] = 11,
+			["SoundChannel"] = "Master",
 			["TextureName"] = "Minimalist",
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -10683,6 +11536,7 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1S5rMWv1TVbh",
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
+							["Name"] = "Power Word: Solace",
 							["Events"] = {
 								{
 									["OnConditionConditions"] = {
@@ -10701,7 +11555,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -10718,7 +11571,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Power Word: Solace",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -19053,11 +19906,8 @@ TellMeWhenDB = {
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1SMaYKnDlBS=",
+					["Columns"] = 6,
 					["Name"] = "Shadow CDs",
-					["Point"] = {
-						["y"] = -121.046818198855,
-						["x"] = -21.3822437199841,
-					},
 					["SettingsPerView"] = {
 						["icon"] = {
 							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -19559,7 +20409,10 @@ TellMeWhenDB = {
 						[256] = false,
 						[257] = false,
 					},
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = -121.046818198855,
+						["x"] = -21.3822437199841,
+					},
 				}, -- [11]
 				{
 					["Icons"] = {
@@ -31306,8 +32159,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "Thunderstorm",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SP6fEfacpmV",
@@ -31627,10 +32480,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Ele Main",
 					["Point"] = {
-						["relativeTo"] = "HekiliDisplayPrimary",
+						["x"] = 36.0001089418626,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
-						["x"] = 36.0001089418626,
+						["relativeTo"] = "HekiliDisplayPrimary",
 					},
 				}, -- [1]
 				{
@@ -32882,6 +33735,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["GUID"] = "TMW:icon:1Sf_uOFqFR49",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -32905,18 +33759,10 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1Sf_uOFqFR49",
 						}, -- [17]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Type"] = "MACRO",
-									["Name"] = "actionbar:3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["Icons"] = {
 								"TMW:icon:1S5rMOrbx2W6", -- [1]
 								"TMW:icon:1S5rMRlNU6DL", -- [2]
@@ -32928,7 +33774,15 @@ TellMeWhenDB = {
 							},
 							["Name"] = "Lava Burst",
 							["ShowTimerTextnoOCC"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "MACRO",
+									["Name"] = "actionbar:3",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["GUID"] = "TMW:icon:1Sf_uOFv0cK5",
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -32950,7 +33804,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["Enabled"] = true,
 						}, -- [18]
 						{
 							["ShowTimer"] = true,
@@ -32973,6 +33826,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["GUID"] = "TMW:icon:1Sf_uOFzQpGU",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -32995,18 +33849,10 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1Sf_uOFzQpGU",
 						}, -- [19]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Type"] = "MACRO",
-									["Name"] = "actionbar:3",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["Icons"] = {
 								"TMW:icon:1S5rMOrbx2W6", -- [1]
 								"TMW:icon:1S5rMRlNU6DL", -- [2]
@@ -33018,7 +33864,15 @@ TellMeWhenDB = {
 							},
 							["Name"] = "Flame Shock",
 							["ShowTimerTextnoOCC"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "MACRO",
+									["Name"] = "actionbar:3",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["GUID"] = "TMW:icon:1Sf_uOG1uBKv",
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -33040,7 +33894,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["Enabled"] = true,
 						}, -- [20]
 						{
 							["States"] = {
@@ -33501,13 +34354,13 @@ TellMeWhenDB = {
 				{
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
+						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
-						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["x"] = 10,
 					},
 					["Scale"] = 1,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[103] = false,
 						[66] = false,
@@ -34262,18 +35115,18 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1Rdy4shSvHOv",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [4]
 				{
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
+						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
-						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["x"] = 10,
 					},
 					["Scale"] = 1,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[103] = false,
 						[66] = false,
@@ -35223,7 +36076,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1Re9GhuLUhA_",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [5]
 				{
 					["Strata"] = "LOW",
@@ -35234,7 +36087,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPLEFT",
 					},
 					["Scale"] = 1,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[103] = false,
 						[66] = false,
@@ -36361,7 +37214,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1ReGzyv8L=59",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [6]
 				{
 					["Point"] = {

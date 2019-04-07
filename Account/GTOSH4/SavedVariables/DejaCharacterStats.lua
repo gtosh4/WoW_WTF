@@ -30,7 +30,7 @@ DejaCharacterStatsDB = {
 		},
 		["dejacharacterstatsSimpleItemColorChecked"] = {
 			["SimpleItemColorChecked"] = false,
-			["DarkerItemColorChecked"] = false,
+			["DarkerItemColorChecked"] = true,
 		},
 		["dejacharacterstatsHideMasteryChecked"] = {
 			["SetChecked"] = true,

@@ -3433,12 +3433,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Opulence",
 		},
-		[256706] = {
-			["school"] = 1,
+		[288345] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Trothak",
+			["source"] = "Lady Jaina Proudmoore",
 		},
 		[260541] = {
 			["school"] = 1,
@@ -3471,20 +3474,17 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
+		[256706] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Trothak",
+		},
 		[287585] = {
 			["school"] = 16,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Lady Jaina Proudmoore",
-		},
-		[288345] = {
-			["school"] = 16,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
@@ -5095,13 +5095,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[267685] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[284474] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Voidamental",
+			["source"] = "Frida Ironbellows",
 		},
 		[255835] = {
 			["school"] = 32,
@@ -5112,14 +5113,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[284474] = {
-			["school"] = 2,
+		[267685] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Frida Ironbellows",
+			["source"] = "Voidamental",
 		},
 		[287889] = {
 			["school"] = 1,
@@ -5138,13 +5138,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Workwork-Bladefist",
 		},
-		[285592] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Phantom of Retribution",
-		},
 		[269351] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -5154,12 +5147,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "T'zala",
 		},
-		[255581] = {
+		[284781] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Priestess Alun'za",
+			["source"] = "Headhunter Gal'wana",
+		},
+		[285592] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Phantom of Retribution",
 		},
 		[258777] = {
 			["school"] = 1,
@@ -5177,48 +5182,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[287638] = {
-			["school"] = 40,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Maì",
-		},
-		[268403] = {
+		[266923] = {
 			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "King Dazar",
-		},
-		[86040] = {
-			["school"] = 36,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Murkya",
-		},
-		[224125] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Spirit Wolf",
-		},
-		[284781] = {
-			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Headhunter Gal'wana",
+			["source"] = "Energy Core",
 		},
 		[260696] = {
 			["school"] = 32,
@@ -5228,6 +5199,36 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sister Malady",
+		},
+		[286086] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Spirit of Xuen",
+		},
+		[256477] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sawtooth Shark",
+		},
+		[201363] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Pride",
+		},
+		[255581] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Priestess Alun'za",
 		},
 		[282010] = {
 			["school"] = 8,
@@ -5248,12 +5249,25 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Prelate Za'lan",
 		},
+		[86040] = {
+			["school"] = 36,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Murkya",
+		},
 		[268203] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Deathtouched Slaver",
+		},
+		[260570] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
 		},
 		[201364] = {
 			["school"] = 1,
@@ -5262,38 +5276,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pride",
 		},
-		[284316] = {
-			["school"] = 16,
+		[287638] = {
+			["school"] = 40,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Brother Joseph",
+			["source"] = "Maì",
 		},
-		[260700] = {
-			["school"] = 32,
+		[289940] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sister Malady",
-		},
-		[256477] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Sawtooth Shark",
-		},
-		[255582] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
+			["source"] = "Lady Jaina Proudmoore",
 		},
 		[257756] = {
 			["school"] = 1,
@@ -5305,14 +5303,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bilge Rat Buccaneer",
 		},
-		[266923] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[224125] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Energy Core",
+			["source"] = "Spirit Wolf",
 		},
 		[255966] = {
 			["school"] = 4,
@@ -5322,13 +5319,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Skycap'n Kragg",
 		},
-		[286086] = {
-			["school"] = 8,
+		[274598] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Spirit of Xuen",
+			["source"] = "Wraithbrand",
 		},
 		[288151] = {
 			["school"] = 1,
@@ -5370,13 +5367,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bilge Rat Buccaneer",
 		},
-		[224126] = {
+		[284316] = {
 			["school"] = 16,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Spirit Wolf",
+			["source"] = "Brother Joseph",
 		},
 		[186403] = {
 			["school"] = 1,
@@ -5393,12 +5390,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[114942] = {
-			["school"] = 8,
+		[268705] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Healing Tide Totem",
+			["source"] = "Sand-crusted Striker",
 		},
 		[287386] = {
 			["school"] = 4,
@@ -5441,12 +5439,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit Wolf",
 		},
-		[283810] = {
+		[11327] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Pride",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[272554] = {
 			["school"] = 1,
@@ -5455,11 +5454,15 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[260702] = {
-			["school"] = 32,
+		[257736] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Irontide Stormcaller",
 		},
 		[285342] = {
 			["school"] = 1,
@@ -5478,55 +5481,54 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Reban",
 		},
-		[284831] = {
-			["school"] = 4,
+		[260700] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sister Malady",
+		},
+		[288415] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "King Rastakhan",
-		},
-		[268705] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sand-crusted Striker",
-		},
-		[285346] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "King Rastakhan",
-		},
-		[16827] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ralph",
+			["source"] = "Bwonsamdi",
 		},
-		[288671] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[286369] = {
+		[114942] = {
 			["school"] = 8,
-			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Healing Tide Totem",
+		},
+		[269231] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Reban",
+		},
+		[283810] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Pride",
+		},
+		[267444] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Living Bomb",
+			["source"] = "Vol'zith the Whisperer",
 		},
 		[286367] = {
 			["school"] = 8,
@@ -5555,13 +5557,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Briar",
 		},
-		[11327] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[286369] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Living Bomb",
 		},
 		[286368] = {
 			["school"] = 8,
@@ -5569,53 +5572,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Unknown",
-		},
-		[265910] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "The Golden Serpent",
-		},
-		[287419] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Anointed Disciple",
-		},
-		[219271] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Bigbullz",
-		},
-		[288415] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Bwonsamdi",
-		},
-		[287648] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "The Hand of In'zashi",
 		},
 		[288927] = {
 			["school"] = 32,
@@ -5626,22 +5582,57 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unliving Augur",
 		},
-		[257736] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[287419] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Irontide Stormcaller",
+			["source"] = "Anointed Disciple",
 		},
-		[285347] = {
+		[286370] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Unknown",
+		},
+		[285346] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "King Rastakhan",
+		},
+		[288671] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[260702] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
+		[219271] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Bigbullz",
+		},
+		[265910] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "The Golden Serpent",
 		},
 		[265168] = {
 			["school"] = 1,
@@ -5668,6 +5659,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Litsong",
 		},
+		[289952] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Kul Tiran Marine",
+		},
 		[184362] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -5675,13 +5673,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Pride",
-		},
-		[289952] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Kul Tiran Marine",
 		},
 		[197277] = {
 			["school"] = 2,
@@ -5769,6 +5760,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
+		[31661] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Wraithbrand",
+		},
 		[269239] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -5776,14 +5776,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Rylaiz",
-		},
-		[289699] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "High Tinker Mekkatorque",
 		},
 		[198813] = {
 			["school"] = 1,
@@ -5864,12 +5856,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Earthbind Totem",
 		},
-		[256358] = {
+		[272055] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Trothak",
+			["source"] = "Sharkbait",
 		},
 		[286633] = {
 			["school"] = 16,
@@ -5893,13 +5885,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mestrah",
 		},
-		[162243] = {
-			["school"] = 1,
+		[286051] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[287659] = {
 			["school"] = 4,
@@ -5928,17 +5921,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mestrah",
 		},
-		[286379] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[162243] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Manceroy Flamefist",
+			["source"] = "Andruww",
 		},
 		[271290] = {
 			["school"] = 1,
@@ -6356,14 +6345,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zag'gron",
 		},
-		[286051] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[286379] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Manceroy Flamefist",
 		},
 		[210714] = {
 			["school"] = 16,
@@ -6372,13 +6364,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bigbullz",
 		},
-		[267060] = {
+		[266940] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Zanazal the Wise",
+			["source"] = "Aka'ali the Conqueror",
 		},
 		[268234] = {
 			["school"] = 1,
@@ -6389,12 +6381,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bile Oozeling",
 		},
-		[272055] = {
+		[256358] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sharkbait",
+			["source"] = "Trothak",
+		},
+		[267060] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Zanazal the Wise",
 		},
 		[268008] = {
 			["school"] = 32,
@@ -6405,14 +6405,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Plague Doctor",
-		},
-		[266940] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Aka'ali the Conqueror",
 		},
 		[287640] = {
 			["school"] = 8,
@@ -6431,14 +6423,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maseychang",
 		},
-		[31661] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[289699] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Wraithbrand",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[260703] = {
 			["school"] = 32,
@@ -6466,12 +6457,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[86392] = {
-			["school"] = 1,
+		[285349] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "King Rastakhan",
 		},
 		[288441] = {
 			["school"] = 16,
@@ -6488,22 +6481,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wraithbrand",
 		},
-		[285349] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "King Rastakhan",
-		},
-		[288410] = {
+		[285347] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "King Rastakhan",
+		},
+		[86392] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[286396] = {
 			["school"] = 1,
@@ -6519,13 +6509,16 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[267444] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[287648] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Vol'zith the Whisperer",
+			["source"] = "The Hand of In'zashi",
 		},
 		[285118] = {
 			["school"] = 1,
@@ -6534,13 +6527,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Laminaria",
-		},
-		[286370] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Unknown",
 		},
 		[272046] = {
 			["school"] = 8,
@@ -6551,6 +6537,40 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sharkbait",
 		},
+		[288410] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "High Tinker Mekkatorque",
+		},
+		[16827] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ralph",
+		},
+		[288188] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Spark Bot",
+		},
+		[284831] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "King Rastakhan",
+		},
 		[287887] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -6560,28 +6580,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Katherine",
 		},
-		[288188] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Spark Bot",
-		},
-		[269231] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Reban",
-		},
-		[282083] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Grong",
-		},
 		[284864] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -6590,14 +6588,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Soul of the Tidepriest",
-		},
-		[274598] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Wraithbrand",
 		},
 		[286618] = {
 			["school"] = 1,
@@ -6609,6 +6599,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Laminaria",
 		},
+		[224126] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Spirit Wolf",
+		},
 		[285632] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -6617,12 +6615,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Spirit of Xuen",
-		},
-		[260570] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
 		},
 		[268202] = {
 			["school"] = 1,
@@ -6634,6 +6626,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Deathtouched Slaver",
 		},
+		[260697] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sister Briar",
+		},
 		[193455] = {
 			["school"] = 1,
 			["token"] = {
@@ -6642,14 +6643,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Paxington-Illidan",
 		},
-		[289940] = {
-			["school"] = 16,
+		[282083] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
+			["source"] = "Grong",
 		},
 		[285889] = {
 			["school"] = 8,
@@ -6661,21 +6661,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gonk's Aspect",
 		},
-		[260697] = {
-			["school"] = 1,
+		[255582] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sister Briar",
 		},
-		[201363] = {
-			["school"] = 1,
+		[289169] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Pride",
+			["source"] = "King Rastakhan",
 		},
 		[285634] = {
 			["school"] = 8,
@@ -6685,13 +6685,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit of Xuen",
 		},
-		[289169] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[268403] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "King Rastakhan",
+			["source"] = "King Dazar",
 		},
 		[287169] = {
 			["school"] = 8,

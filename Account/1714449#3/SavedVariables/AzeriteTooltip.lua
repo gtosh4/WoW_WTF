@@ -10,6 +10,7 @@ AzeriteTooltipDB = {
 	["profiles"] = {
 		["Default"] = {
 			["compact"] = true,
+			["paperdoll"] = false,
 		},
 	},
 }

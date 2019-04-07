@@ -28,13 +28,21 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1554248775,
+				["lastUpdate"] = 1554594177,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554263945,
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|368107334"] = "558080|1554263917|0|1",
+					["Battle of Dazar'alor Mythic|368107334"] = "227055|1554594942|0|1",
 				},
+				["lastUpdate"] = 1554599775,
+			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["Contacts"] = {
+					["Orcbum"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1553910030,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -45,14 +53,6 @@ DataStore_AgendaDB = {
 					},
 				},
 				["lastUpdate"] = 1554090519,
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["Contacts"] = {
-					["Orcbum"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1553910030,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1554085615,

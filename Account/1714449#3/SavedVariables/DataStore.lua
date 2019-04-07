@@ -26,13 +26,13 @@ DataStoreDB = {
 				["guildName"] = "Koopa Troopa",
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
-			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["faction"] = "Horde",

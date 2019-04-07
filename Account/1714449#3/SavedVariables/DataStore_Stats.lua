@@ -10,7 +10,7 @@ DataStore_StatsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554248345,
+				["lastUpdate"] = 1554582538,
 				["Stats"] = {
 					["Ranged"] = "5911-5912|0|0|0|25.25",
 					["HealthMax"] = 221460,
@@ -23,7 +23,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554263916,
+				["lastUpdate"] = 1554594835,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|15.222221374512",
 					["HealthMax"] = 229340,
@@ -33,19 +33,6 @@ DataStore_StatsDB = {
 					["PVP"] = "46|0",
 					["Base"] = "848|1219|11467|9620|0",
 					["Spell"] = "9620|9620|0|15.222221374512|1170|4000",
-				},
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554088660,
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|21.111110687256",
-					["HealthMax"] = 231962,
-					["Melee"] = "942-1194|2.2930002212524|1468|0|21.111110687256|0",
-					["MaxPower"] = "11|100",
-					["Defense"] = "0|0|6.2439560890198|0|10|0",
-					["PVP"] = "32|0",
-					["Base"] = "628|1468|11217|8910|0",
-					["Spell"] = "8910|8910|0|21.111110687256|833|3200",
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
@@ -59,6 +46,19 @@ DataStore_StatsDB = {
 					["PVP"] = "286|0",
 					["Base"] = "1464|514|7509|6536|0",
 					["Spell"] = "6536|6536|0|18.861110687256|661|4000",
+				},
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1554088660,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|21.111110687256",
+					["HealthMax"] = 231962,
+					["Melee"] = "942-1194|2.2930002212524|1468|0|21.111110687256|0",
+					["MaxPower"] = "11|100",
+					["Defense"] = "0|0|6.2439560890198|0|10|0",
+					["PVP"] = "32|0",
+					["Base"] = "628|1468|11217|8910|0",
+					["Spell"] = "8910|8910|0|21.111110687256|833|3200",
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {

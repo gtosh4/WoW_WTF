@@ -1,6 +1,7 @@
 
 REFlexSettings = {
 	["MiniMapButtonSettings"] = {
+		["minimapPos"] = 219.899044693422,
 		["hide"] = false,
 	},
 	["ShowServerName"] = false,

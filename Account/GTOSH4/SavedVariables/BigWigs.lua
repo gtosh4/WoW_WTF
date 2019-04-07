@@ -1,5 +1,6 @@
 
 BigWigs3DB = {
+	["discord"] = 15,
 	["global"] = {
 		["watchedMovies"] = {
 			[-1358] = true,
@@ -20,7 +21,6 @@ BigWigs3DB = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
@@ -44,6 +44,10 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
+		["BigWigs_Bosses_G'huun"] = {
+		},
+		["BigWigs_Bosses_Taloc"] = {
+		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
 		["BigWigs_Bosses_Conclave of the Chosen"] = {
@@ -62,6 +66,12 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Bosses_T'zane"] = {
+		},
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -69,20 +79,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
-					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-				},
-			},
+		["BigWigs_Bosses_The Restless Cabal"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -93,7 +90,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -102,21 +99,6 @@ BigWigs3DB = {
 					["posy"] = 354.667696578315,
 				},
 			},
-		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
@@ -142,7 +124,33 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
+					["fontName"] = "Friz Quadrata TT",
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -275,7 +283,7 @@ BigWigsStatsDB = {
 				["best"] = 608.823999999993,
 			},
 			["mythic"] = {
-				["wipes"] = 77,
+				["wipes"] = 118,
 			},
 			["heroic"] = {
 				["kills"] = 8,
