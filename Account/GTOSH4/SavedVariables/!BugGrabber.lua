@@ -1,22 +1,20 @@
 
 BugGrabberDB = {
-	["session"] = 656,
+	["session"] = 662,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'Grid2LayoutFrame:ClearAllPoints()'.",
-			["time"] = "2019/04/06 21:39:11",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:5: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:525: in function `TalentFrame_LoadUI'\nInterface\\FrameXML\\UIParent.lua:757: in function `ToggleTalentFrame'\n[string \"TOGGLETALENTS\"]:1: in function <[string \"TOGGLETALENTS\"]:1>",
-			["session"] = 656,
-			["counter"] = 1,
+			["message"] = "[string \"--[[ Error in 'Tosh ZT External CDs bar' ]]...\"]:64: attempt to index field 'types' (a nil value)",
+			["time"] = "2019/04/07 20:24:00",
+			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:990: in function `sendRemoveEvent'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1301: in function `unwatch'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1537: in function `addOrUpdateMember'\n[string \"--[[ Error in 'ZenTracker (ZT) Main' ]] ret...\"]:1854: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:574: in function `eventhandler'\n...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1-90.lua:120: in function <...ils\\Libs\\LibGroupInSpecT-1.1\\LibGroupInSpecT-1.1.lua:118>",
+			["session"] = 662,
+			["counter"] = 2,
 		}, -- [1]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUF_Player:ClearAllPoints()'.",
-			["time"] = "2019/04/06 21:39:11",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\n[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:10: in function <[string \"--[[ Error in 'LayoutAnchors' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:555: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:525: in function `TalentFrame_LoadUI'\nInterface\\FrameXML\\UIParent.lua:757: in function `ToggleTalentFrame'\n[string \"TOGGLETALENTS\"]:1: in function <[string \"TOGGLETALENTS\"]:1>",
-			["session"] = 656,
+			["message"] = "...face\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1054: attempt to index field 'cooldowns' (a nil value)",
+			["time"] = "2019/04/07 20:28:05",
+			["stack"] = "...face\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1054: in function `StyleFilterConfigure'\n...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:427: in function `ConfigureAll'\nInterface\\AddOns\\ElvUI_Config\\UnitFrames.lua:2939: in function <Interface\\AddOns\\ElvUI_Config\\UnitFrames.lua:2935>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-ColorPicker.lua:36: in function <...Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-ColorPicker.lua:21>\n...Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-ColorPicker.lua:71: in function `opacityFunc'\n[string \"*:OnClick\"]:4: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 662,
 			["counter"] = 1,
 		}, -- [2]
 	},

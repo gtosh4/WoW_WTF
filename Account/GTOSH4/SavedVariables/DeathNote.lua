@@ -13,11 +13,11 @@ DeathNoteDB = {
 		["Yorman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["w"] = 830.008178710938,
 				["y"] = 157.510009765625,
+				["namelist"] = 2,
 				["h"] = 639.008911132813,
 				["x"] = 1103.06964111328,
-				["w"] = 830.008178710938,
-				["namelist"] = 2,
 			},
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -43,9 +43,9 @@ DeathNoteDB = {
 		["Toshaman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 699.999633789063,
 				["y"] = 244.085815429688,
 				["x"] = 1114.13189697266,
+				["w"] = 699.999633789063,
 				["namelist"] = 2,
 			},
 		},

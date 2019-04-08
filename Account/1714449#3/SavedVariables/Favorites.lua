@@ -16,7 +16,6 @@ favsDB = {
 					["Envious#1968"] = true,
 				},
 			},
-			["colorBackground"] = true,
 		},
 	},
 }

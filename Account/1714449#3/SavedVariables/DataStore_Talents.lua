@@ -10,24 +10,23 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554582177,
+				["lastUpdate"] = 1554050599,
 				["Specializations"] = {
-					6619, -- [1]
-					5849, -- [2]
-					12011, -- [3]
+					[2] = 9979,
+					[3] = 12011,
 				},
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554599394,
+				["lastUpdate"] = 1554049957,
 				["Specializations"] = {
-					16383, -- [1]
+					5631, -- [1]
 					[3] = 5527,
 				},
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1553910030,
+				["lastUpdate"] = 1554335366,
 				["Specializations"] = {
 					14169, -- [1]
 					7065, -- [2]
@@ -35,7 +34,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554088657,
+				["lastUpdate"] = 1554679517,
 				["Specializations"] = {
 					11614, -- [1]
 					[3] = 8151,
@@ -43,7 +42,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554083591,
+				["lastUpdate"] = 1554683448,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 15085,
@@ -118,7 +117,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [2]
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -176,7 +175,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -234,38 +233,12 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29869,
+			["Version"] = 29896,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
-				{
-					["id"] = 268,
-					["talents"] = {
-						23106, -- [1]
-						19820, -- [2]
-						20185, -- [3]
-						19304, -- [4]
-						19818, -- [5]
-						19302, -- [6]
-						22099, -- [7]
-						22097, -- [8]
-						19992, -- [9]
-						19993, -- [10]
-						19994, -- [11]
-						19995, -- [12]
-						20174, -- [13]
-						23363, -- [14]
-						20175, -- [15]
-						19819, -- [16]
-						20184, -- [17]
-						22103, -- [18]
-						22106, -- [19]
-						22104, -- [20]
-						22108, -- [21]
-					},
-				}, -- [1]
-				{
+				[2] = {
 					["id"] = 270,
 					["talents"] = {
 						19823, -- [1]
@@ -290,8 +263,8 @@ DataStore_TalentsRefDB = {
 						22169, -- [20]
 						22170, -- [21]
 					},
-				}, -- [2]
-				{
+				},
+				[3] = {
 					["id"] = 269,
 					["talents"] = {
 						23106, -- [1]
@@ -316,9 +289,9 @@ DataStore_TalentsRefDB = {
 						22105, -- [20]
 						21191, -- [21]
 					},
-				}, -- [3]
+				},
 			},
-			["Version"] = 29896,
+			["Version"] = 29869,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -376,7 +349,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29896,
+			["Version"] = 29869,
 		},
 	},
 }

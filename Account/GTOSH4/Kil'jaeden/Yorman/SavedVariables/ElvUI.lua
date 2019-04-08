@@ -1,380 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" do you want me on shaman for mail gear?", -- [1]
-		"/fstack", -- [2]
-		"/cw Eau-Kil'jaeden yeah", -- [3]
-		"er, the dude yeah", -- [4]
-		"/p how many you get from that one", -- [5]
-		"table", -- [6]
-		"it's at the board", -- [7]
-		"/alto show", -- [8]
-		"/invite Tosh", -- [9]
-		"/ak", -- [10]
+		"/p how many you get from that one", -- [1]
+		"/invite Tosh", -- [2]
+		"it's at the board", -- [3]
+		"over where I am", -- [4]
+		"/fstack", -- [5]
+		"is the turn in", -- [6]
+		"/wa", -- [7]
+		"/cw Wraithbrand-Kil'jaeden lol", -- [8]
+		"/friend tosh", -- [9]
+		"/cw Eau-Kil'jaeden yeah", -- [10]
 		"/p for this run", -- [11]
-		"/cw Wraithbrand-Kil'jaeden lol", -- [12]
-		"is the turn in", -- [13]
-		"/p kill alliance", -- [14]
-		"/wa", -- [15]
-		"not a quest, jsut turn in after this one", -- [16]
-		"over where I am", -- [17]
-		"do you want me on shaman for mail gear?", -- [18]
-		"over where my druid is", -- [19]
-		"/friend tosh", -- [20]
+		"/ak", -- [12]
+		"/p kill alliance", -- [13]
+		"over where my druid is", -- [14]
+		"er, the dude yeah", -- [15]
+		"table", -- [16]
+		"do you want me on shaman for mail gear?", -- [17]
+		"not a quest, jsut turn in after this one", -- [18]
+		"/alto show", -- [19]
+		"/ec", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 143.9k (59%).", -- [1]
-			"Litsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Litsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			237, -- [11]
-			"Player-9-074DF608", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeLitsong|r",
-			[51] = 1554181242,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			238, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1554181258,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 145.5k (60%).", -- [1]
-			"Litsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Litsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-9-074DF608", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeLitsong|r",
-			[51] = 1554181261,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			242, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181281,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			243, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181281,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 147.8k (62%).", -- [1]
-			"Litsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Litsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			244, -- [11]
-			"Player-9-074DF608", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeLitsong|r",
-			[51] = 1554181299,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1554181299,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181313,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181313,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			250, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181322,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
-		{
-			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 146.8k (62%).", -- [1]
-			"Litsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Litsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			251, -- [11]
-			"Player-9-074DF608", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeLitsong|r",
-			[51] = 1554181322,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			252, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181325,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181328,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			254, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181328,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			255, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181333,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			256, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1554181333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -396,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [1]
 		{
 			"1. Pride 593.3k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -418,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [2]
 		{
 			"2. Yorman 835.2k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -440,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [3]
 		{
 			"3. Wraithbrand 965.7k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -462,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [4]
 		{
 			"4. Bluedagger 1147.6k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -484,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [5]
 		{
 			"5. Litsong 1313.6k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -506,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1554181335,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [6]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:249:13:9:5:3:117|h[Keystone: Kings' Rest (13)]|h|r", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -528,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554181339,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [7]
 		{
 			"Keydepleter |cffa335ee|Hkeystone:158923:252:13:9:5:3:117|h[Keystone: Shrine of the Storm (13)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -550,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1554181663,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
+		}, -- [8]
 		{
 			"Friendly |cffa335ee|Hkeystone:158923:247:13:9:5:3:117|h[Keystone: The MOTHERLODE!! (13)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -572,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1554181663,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [9]
 		{
 			"Pride |cffa335ee|Hkeystone:158923:251:16:9:5:3:117|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -594,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1554181663,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [10]
 		{
 			"wttttf", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -616,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1554181665,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [11]
 		{
 			"|cffffff00Zuldazar is under attack!|r", -- [1]
 			"", -- [2]
@@ -638,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1554181725,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [12]
 		{
 			"|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -660,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554181897,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [13]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13396:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Havenswood]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -682,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182266,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [30]
+		}, -- [14]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13397:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Havenswood]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -704,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182266,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [31]
+		}, -- [15]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13398:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Havenswood]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -726,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182266,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [32]
+		}, -- [16]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13123:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[My Dubs]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -748,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182289,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [33]
+		}, -- [17]
 		{
 			"Interrupted |cff71d5ff|Hspell:277365:0|h[Empowered Subjugation]|h|r on Kao-Tien Subjugator", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -770,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554182414,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [18]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12590:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Un'gol Ruins]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -792,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182859,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [35]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12589:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Un'gol Ruins]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -814,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182859,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [36]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12591:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Un'gol Ruins]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -836,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554182859,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [37]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12591:Player-9-09D60980:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Un'gol Ruins]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -858,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1554182859,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
+		}, -- [22]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13111:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Verdant Wilds]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -880,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
+		}, -- [23]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13112:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Verdant Wilds]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -902,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [40]
+		}, -- [24]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13113:Player-9-0AA1230A:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Verdant Wilds]|h|r!", -- [1]
 			"Blueflamee-Kil'jaeden", -- [2]
@@ -924,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Blueflamee|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [41]
+		}, -- [25]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13111:Player-9-0A418A98:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Verdant Wilds]|h|r!", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -946,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Wildsong|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [42]
+		}, -- [26]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13112:Player-9-0A418A98:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Verdant Wilds]|h|r!", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -968,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Wildsong|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [43]
+		}, -- [27]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13113:Player-9-0A418A98:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Verdant Wilds]|h|r!", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -990,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Wildsong|r",
 			[51] = 1554183488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [44]
+		}, -- [28]
 		{
 			"Interrupted |cff71d5ff|Hspell:261612:0|h[Lesser Healing Potion]|h|r on Sethrak Warden", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1012,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554183794,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [29]
 		{
 			"gunna do world booss rq", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1034,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554183948,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [46]
+		}, -- [30]
 		{
 			"LF enchanter with rank 3 deadly navigation", -- [1]
 			"Duskull-Kil'jaeden", -- [2]
@@ -1056,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Duskull|r",
 			[51] = 1554184270,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [31]
 		{
 			"yoo", -- [1]
 			"|Kq23|k", -- [2]
@@ -1078,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554184431,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [48]
+		}, -- [32]
 		{
 			"<Dead of Summer> 9/9H 5/9M looking for more experienced players for our core raid team. Ele sham, Mage, or Warrior pref, but all are welcome to apply.  Raid times Tues/Thurs 8:30 - 11:30PM EST. Whisper me for more info!", -- [1]
 			"Tavarner-Kil'jaeden", -- [2]
@@ -1100,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Tavarner|r",
 			[51] = 1554184462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [33]
 		{
 			"Interrupted |cff71d5ff|Hspell:275507:0|h[Azerite Empowerment]|h|r on Infused Bedrock", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1122,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [34]
 		{
 			"Interrupted |cff71d5ff|Hspell:275507:0|h[Azerite Empowerment]|h|r on Infused Bedrock", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1144,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184590,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [35]
 		{
 			"Interrupted |cff71d5ff|Hspell:258201:0|h[Impaling Quills]|h|r on Bristlethorn Battleguard", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1166,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184784,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
+		}, -- [36]
 		{
 			"Interrupted |cff71d5ff|Hspell:275347:0|h[Screech]|h|r on Nightscale Coilfang", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1188,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184862,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [53]
+		}, -- [37]
 		{
 			"Interrupted |cff71d5ff|Hspell:275347:0|h[Screech]|h|r on Nightscale Coilfang", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1210,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184899,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [54]
+		}, -- [38]
 		{
 			"Interrupted |cff71d5ff|Hspell:275345:0|h[Darkened Blast]|h|r on Nightscale Screecher", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1232,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554184977,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
+		}, -- [39]
 		{
 			"Interrupted |cff71d5ff|Hspell:275345:0|h[Darkened Blast]|h|r on Nightscale Screecher", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1254,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185005,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [56]
+		}, -- [40]
 		{
 			"Interrupted |cff71d5ff|Hspell:275345:0|h[Darkened Blast]|h|r on Sky Viper", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1276,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185034,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [57]
+		}, -- [41]
 		{
 			"kill alliance", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1298,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185219,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [42]
 		{
 			"Interrupted |cff71d5ff|Hspell:262524:0|h[Eject Explosive]|h|r on Automatic Explosive Ejector", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1320,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185307,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [59]
+		}, -- [43]
 		{
 			"Interrupted |cff71d5ff|Hspell:262607:0|h[Zephyrium Beam]|h|r on Tally Zapnabber", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1342,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185332,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [60]
+		}, -- [44]
 		{
 			"Interrupted |cff71d5ff|Hspell:275507:0|h[Azerite Empowerment]|h|r on Infused Bedrock", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1364,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185391,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [45]
 		{
 			"how many you get from that one", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1386,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185423,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [46]
 		{
 			"make sure you save one / use one", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1408,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185448,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [47]
 		{
 			"for this run", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1430,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185454,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [48]
 		{
 			"Interrupted |cff71d5ff|Hspell:275789:0|h[Fiery Bolt]|h|r on Scheming Flame", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1452,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185502,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [65]
+		}, -- [49]
 		{
 			"Interrupted |cff71d5ff|Hspell:275789:0|h[Fiery Bolt]|h|r on Jadeflare", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1474,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185530,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [66]
+		}, -- [50]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13124:Player-9-0B60A063:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Metal Detector]|h|r!", -- [1]
 			"Righteousox-Kil'jaeden", -- [2]
@@ -1496,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Righteousox|r",
 			[51] = 1554185573,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [67]
+		}, -- [51]
 		{
 			"Interrupted |cff71d5ff|Hspell:275377:0|h[Throw Dirt]|h|r on Knucklebump Silverback", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1518,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185647,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [68]
+		}, -- [52]
 		{
 			"Interrupted |cff71d5ff|Hspell:270513:0|h[Azerite Effusion]|h|r on Geoactive Azershard", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1540,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185854,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [69]
+		}, -- [53]
 		{
 			"Interrupted |cff71d5ff|Hspell:270513:0|h[Azerite Effusion]|h|r on Agitated Azerite", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1562,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554185879,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
+		}, -- [54]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13396:Player-9-0A76FA3F:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Havenswood]|h|r!", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1584,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185967,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [71]
+		}, -- [55]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13397:Player-9-0A76FA3F:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Havenswood]|h|r!", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1606,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185967,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [72]
+		}, -- [56]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13398:Player-9-0A76FA3F:1:4:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Havenswood]|h|r!", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -1628,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1554185967,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [57]
 		{
 			"is there quest for this?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1650,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554185999,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [74]
+		}, -- [58]
 		{
 			"it's at the board", -- [1]
 			"|Kq23|k", -- [2]
@@ -1672,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186007,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [75]
+		}, -- [59]
 		{
 			"over where I am", -- [1]
 			"|Kq23|k", -- [2]
@@ -1694,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186010,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [76]
+		}, -- [60]
 		{
 			"not a quest, jsut turn in after this one", -- [1]
 			"|Kq23|k", -- [2]
@@ -1716,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186015,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [77]
+		}, -- [61]
 		{
 			"Interrupted |cff71d5ff|Hspell:275789:0|h[Fiery Bolt]|h|r on Pyrekin", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1738,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554186431,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [62]
 		{
 			"sec gotta walk chinda out", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1760,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554186463,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [63]
 		{
 			"Interrupted |cff71d5ff|Hspell:262607:0|h[Zephyrium Beam]|h|r on Tally Zapnabber", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1782,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554186649,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [64]
 		{
 			"Interrupted |cff71d5ff|Hspell:262607:0|h[Zephyrium Beam]|h|r on Tally Zapnabber", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1804,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554186708,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [81]
+		}, -- [65]
 		{
 			"Interrupted |cff71d5ff|Hspell:262524:0|h[Eject Explosive]|h|r on Automatic Explosive Ejector", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1826,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1554186756,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [66]
 		{
 			"over where my druid is", -- [1]
 			"|Kq23|k", -- [2]
@@ -1848,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186848,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [83]
+		}, -- [67]
 		{
 			"is the turn in", -- [1]
 			"|Kq23|k", -- [2]
@@ -1870,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186851,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [84]
+		}, -- [68]
 		{
 			"table", -- [1]
 			"|Kq23|k", -- [2]
@@ -1892,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186857,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [85]
+		}, -- [69]
 		{
 			"er, the dude yeah", -- [1]
 			"|Kq23|k", -- [2]
@@ -1914,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186866,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [86]
+		}, -- [70]
 		{
 			"IVE GUT A DOOBLIN", -- [1]
 			"|Kq23|k", -- [2]
@@ -1936,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554186882,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [87]
+		}, -- [71]
 		{
 			"|cff0070dd|Hitem:113082::::::::120:72:512::1:3784:100:::|h[Precious Bloodthorn Loop]|h|r", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -1958,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1554187037,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [72]
 		{
 			"|Hitem:159630::::::::120:63::35:3:5010:1582:4783:::|h[Balefire Branch]|h", -- [1]
 			"|Kq23|k", -- [2]
@@ -1980,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554248330,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [89]
+		}, -- [73]
 		{
 			"ayyy", -- [1]
 			"|Kq23|k", -- [2]
@@ -2002,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554248337,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [90]
+		}, -- [74]
 		{
 			"not sure if good ayy", -- [1]
 			"|Kq23|k", -- [2]
@@ -2024,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554248342,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [91]
+		}, -- [75]
 		{
 			"thought all the mages wanted that shit", -- [1]
 			"|Kq23|k", -- [2]
@@ -2046,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554248366,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [92]
+		}, -- [76]
 		{
 			"depends", -- [1]
 			"|Kq23|k", -- [2]
@@ -2068,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554248372,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [93]
+		}, -- [77]
 		{
 			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Aggaras-Kil'jaeden", -- [2]
@@ -2090,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aggaras|r",
 			[51] = 1554248496,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [78]
 		{
 			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
 			"Wabrianat-Kil'jaeden", -- [2]
@@ -2112,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWabrianat|r",
 			[51] = 1554248548,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [79]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Aggaras-Kil'jaeden", -- [2]
@@ -2134,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aggaras|r",
 			[51] = 1554248558,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [80]
 		{
 			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Aggaras-Kil'jaeden", -- [2]
@@ -2156,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aggaras|r",
 			[51] = 1554248632,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [81]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Aggaras-Kil'jaeden", -- [2]
@@ -2178,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aggaras|r",
 			[51] = 1554248694,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [82]
 		{
 			"LFM Mythic Champs, on KJ pst ilvl, spec and achiev for inv! ", -- [1]
 			"Sarthé-Kil'jaeden", -- [2]
@@ -2200,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sarthé|r",
 			[51] = 1554248741,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [83]
 		{
 			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Aggaras-Kil'jaeden", -- [2]
@@ -2222,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aggaras|r",
 			[51] = 1554248767,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [84]
 		{
 			"are you coming to heroic", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2244,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1554335692,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [101]
+		}, -- [85]
 		{
 			"yeah", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2266,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1554335704,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [102]
+		}, -- [86]
 		{
 			"do you want me on shaman for mail gear?", -- [1]
 			"|Kq49|k", -- [2]
@@ -2288,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowy|r",
 			[51] = 1554335749,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [103]
+		}, -- [87]
 		{
 			"idc", -- [1]
 			"|Kq49|k", -- [2]
@@ -2310,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowy|r",
 			[51] = 1554335831,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [104]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5118:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halfus Wyrmbreaker]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2332,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588125,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [105]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5117:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Valiona and Theralion]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2354,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [106]
+		}, -- [90]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5119:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Ascendant Council]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2376,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588292,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [107]
+		}, -- [91]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4850:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[The Bastion of Twilight]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2398,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588355,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [108]
+		}, -- [92]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5312:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[The Abyss Will Gaze Back Into You]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2420,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588355,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [109]
+		}, -- [93]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5120:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Cho'gall]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2442,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554588355,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [110]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:245:Player-9-0B5D5520:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[That Takes Class]|h|r!", -- [1]
 			"Necrøtìc-Kil'jaeden", -- [2]
@@ -2464,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrøtìc|r",
 			[51] = 1554590284,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [111]
+		}, -- [95]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5215:Player-9-0B5D5520:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Twin Peaks Perfection]|h|r!", -- [1]
 			"Necrøtìc-Kil'jaeden", -- [2]
@@ -2486,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrøtìc|r",
 			[51] = 1554590806,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [112]
+		}, -- [96]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5269:Player-9-0B5D5520:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[In Service of the Horde]|h|r!", -- [1]
 			"Necrøtìc-Kil'jaeden", -- [2]
@@ -2508,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrøtìc|r",
 			[51] = 1554590806,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [113]
+		}, -- [97]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12733:Player-9-0A185FCF:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Professional Zandalari Master]|h|r!", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2530,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1554593228,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [114]
+		}, -- [98]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5107:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Omnotron Defense System]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2552,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594714,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [115]
+		}, -- [99]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5094:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Magmaw]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2574,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594770,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [116]
+		}, -- [100]
 		{
 			"really good job", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -2596,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1554594780,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [101]
 		{
 			"proud of you", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -2618,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1554594781,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [102]
 		{
 			"ty", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2640,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594789,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [103]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5108:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Maloriak]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2662,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594868,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [120]
+		}, -- [104]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5308:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Silence is Golden]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2684,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594992,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [105]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5109:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Atramedes]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2706,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554594992,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [122]
+		}, -- [106]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5309:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Full of Sound and Fury]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2728,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554595095,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [123]
+		}, -- [107]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5115:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Chimaeron]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2750,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554595095,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [124]
+		}, -- [108]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4842:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Blackwing Descent]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2772,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554595273,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4849:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Keeping it in the Family]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2794,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554595273,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [110]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5116:Player-9-0A76F241:1:4:6:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Nefarian]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2816,6 +2464,358 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1554595273,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [111]
+		{
+			"knock out a key?", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1554681795,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [112]
+		{
+			"you strong", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			99, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1554682403,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [113]
+		{
+			"for a 12", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			100, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1554682404,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"depends whos healing ", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1554682424,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13441:Player-9-0AC53B45:1:4:7:19:4294967295:4294967295:4294967295:4294967295|h[Pushing the Payload]|h|r!", -- [1]
+			"Lul-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lul-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-9-0AC53B45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Lul|r",
+			[51] = 1554682617,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [116]
+		{
+			"im dying", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			162, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1554683248,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"here", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			163, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1554683249,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"we doing normal strat or zerg?", -- [1]
+			"Shundi-Alexstrasza", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shundi-Alexstrasza", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			165, -- [11]
+			"Player-1070-0B3419D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Shundi-Alexstrasza|r",
+			[51] = 1554683264,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [119]
+		{
+			"id hope we can manage zerg", -- [1]
+			"Cambrià-Caelestrasz", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cambrià-Caelestrasz", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			168, -- [11]
+			"Player-3721-07145F26", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeCambrià-Caelestrasz|r",
+			[51] = 1554683277,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [120]
+		{
+			"same", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			169, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1554683278,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"it's LFR", -- [1]
+			"Elesplosion-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Elesplosion-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-3676-0A3000E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcElesplosion-Area52|r",
+			[51] = 1554683281,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [122]
+		{
+			"my mom's still talking", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			171, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1554683285,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"zerg it is then", -- [1]
+			"Shundi-Alexstrasza", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shundi-Alexstrasza", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			172, -- [11]
+			"Player-1070-0B3419D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Shundi-Alexstrasza|r",
+			[51] = 1554683285,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [124]
+		{
+			":..Lust Detector:..: Elesplosion-Area52 Casted a Spell |cff71d5ff|Hspell:2825:0|h[Bloodlust]|h|r!", -- [1]
+			"Shundi-Alexstrasza", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shundi-Alexstrasza", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			175, -- [11]
+			"Player-1070-0B3419D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Shundi-Alexstrasza|r",
+			[51] = 1554683303,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [125]
+		{
+			":..Lust Detector:..: Elesplosion-Area52 Casted a Spell |cff71d5ff|Hspell:2825:0|h[Bloodlust]|h|r!", -- [1]
+			"Restokhan-Proudmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Restokhan-Proudmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			176, -- [11]
+			"Player-5-0B0ABE89", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Restokhan-Proudmoore|r",
+			[51] = 1554683303,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [126]
+		{
+			"women", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			178, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1554683315,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

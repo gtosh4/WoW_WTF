@@ -15,47 +15,39 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["Contacts"] = {
-					["Yorman"] = {
-						["note"] = "",
-						["level"] = 120,
-						["class"] = "Druid",
-					},
-					["Toshpal"] = {
-						["note"] = "",
-					},
-					["Toshaman"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1554594177,
+				["lastUpdate"] = 1554050616,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|368107334"] = "227055|1554594942|0|1",
-				},
-				["lastUpdate"] = 1554599775,
+				["lastUpdate"] = 1554050018,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["Contacts"] = {
-					["Orcbum"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1553910030,
+				["lastUpdate"] = 1554335375,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
 					["Toshmonk"] = {
 						["note"] = "",
-						["level"] = 120,
-						["class"] = "Monk",
+					},
+					["Tosh"] = {
+						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1554090519,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Heroic|368162477"] = "140645|1554681353|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "140645|1554681353|0|1",
+				},
+				["lastUpdate"] = 1554681353,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554085615,
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1554683527,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Looking For Raid|336808532"] = "138460|1554683538|0|1",
+				},
 			},
 		},
 	},

@@ -20,16 +20,6 @@ Postal3DB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Drift|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Toshaman|Kil'jaeden|Horde", -- [3]
-					"Yorman|Kil'jaeden|Horde", -- [4]
-					"Toshmonk|Kil'jaeden|Horde", -- [5]
-					"Yellowy|Kil'jaeden|Horde", -- [6]
-				},
-			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -52,9 +42,9 @@ Postal3DB = {
 		["Toshmonk - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yellowy|Kil'jaeden|Horde", -- [1]
-					"Toshaman|Kil'jaeden|Horde", -- [2]
-					"Tosh|Kil'jaeden|Horde", -- [3]
+					"Toshaman|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
 					"Yorman|Kil'jaeden|Horde", -- [4]
 					"Qiro|Kil'jaeden|Horde", -- [5]
 				},

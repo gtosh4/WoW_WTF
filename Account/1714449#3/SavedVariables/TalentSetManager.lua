@@ -18,18 +18,16 @@ TalentSetManager_Options = {
 }
 TalentSetManager_CharacterSaves = {
 	["Toshpal-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
 		["talents"] = {
 			{
 			}, -- [1]
-			{
-			}, -- [2]
-		},
-		["talents_pvp"] = {
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -125,6 +123,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "pvp",
 					["texture"] = "interface\\icons\\ability_creature_cursed_02",
 				}, -- [3]
+				{
+					3, -- [1]
+					1, -- [2]
+					1, -- [3]
+					3, -- [4]
+					3, -- [5]
+					3, -- [6]
+					1, -- [7]
+					["texture"] = "interface\\icons\\spell_frost_frostbolt02",
+					["name"] = "jaina",
+					["tt"] = "talents",
+				}, -- [4]
 			},
 		},
 		["version"] = 0,
@@ -137,9 +147,7 @@ TalentSetManager_CharacterSaves = {
 	},
 	["Toshmonk-Kil'jaeden"] = {
 		["talents"] = {
-			{
-			}, -- [1]
-			{
+			[2] = {
 				{
 					3, -- [1]
 					2, -- [2]
@@ -176,9 +184,9 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "pvp",
 					["texture"] = 642414,
 				}, -- [3]
-			}, -- [2]
-			{
-			}, -- [3]
+			},
+			[3] = {
+			},
 		},
 		["talents_pvp"] = {
 		},

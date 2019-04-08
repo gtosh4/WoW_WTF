@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_5000000"] = 10000,
-	["_200000"] = 1000,
-	["_1000000"] = 2500,
 	["_10000"] = 200,
-	["_500"] = 5,
+	["_5000000"] = 10000,
+	["_1000000"] = 2500,
+	["_200000"] = 1000,
 	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
+	["_500"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,32 +48,32 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Felwort", -- [1]
-			"Siren's Pollen", -- [2]
-			"Battle-Scarred Augment Rune", -- [3]
-			"Vantus Rune: Battle of Dazar'alor", -- [4]
-			"Pact of Critical", -- [5]
-			"time shifter", -- [6]
-			"time-shifter", -- [7]
-			"Ultramarine", -- [8]
-			"hexweave bag", -- [9]
-			"Battle Shout", -- [10]
-			"Battle flag", -- [11]
-			"Anchor Weed", -- [12]
-			"Winter's Kiss", -- [13]
-			"crafting", -- [14]
-			"Star moss", -- [15]
-			"Riverbud", -- [16]
-			"Sugar Crusted", -- [17]
-			"Sugar-Crusted", -- [18]
-			"Fish", -- [19]
-			"Feast", -- [20]
-			"Fish Feast", -- [21]
-			"Monel-hardened stirrups", -- [22]
-			"Great sea catfish", -- [23]
-			"Drums", -- [24]
-			"Drums of maelstrom", -- [25]
-			"Deadly amberblaze", -- [26]
+			"Deadly amberblaze", -- [1]
+			"Felwort", -- [2]
+			"Siren's Pollen", -- [3]
+			"Battle-Scarred Augment Rune", -- [4]
+			"Vantus Rune: Battle of Dazar'alor", -- [5]
+			"Pact of Critical", -- [6]
+			"time shifter", -- [7]
+			"time-shifter", -- [8]
+			"Ultramarine", -- [9]
+			"hexweave bag", -- [10]
+			"Battle Shout", -- [11]
+			"Battle flag", -- [12]
+			"Anchor Weed", -- [13]
+			"Winter's Kiss", -- [14]
+			"crafting", -- [15]
+			"Star moss", -- [16]
+			"Riverbud", -- [17]
+			"Sugar Crusted", -- [18]
+			"Sugar-Crusted", -- [19]
+			"Fish", -- [20]
+			"Feast", -- [21]
+			"Fish Feast", -- [22]
+			"Monel-hardened stirrups", -- [23]
+			"Great sea catfish", -- [24]
+			"Drums", -- [25]
+			"Drums of maelstrom", -- [26]
 			"Kraken's Eye of intellect", -- [27]
 			"coarse leather", -- [28]
 			"Alchemist stone", -- [29]
@@ -1611,19 +1611,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 9,
 			["H3017"] = 760488,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 63479985,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3016"] = 63479985,
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 12900000,
+			["cc"] = 0,
+			["id"] = "152813:0:0:0:0",
+			["sc"] = 8,
+			["H3017"] = 12900000,
 		},
 		["Deadly Amberblaze"] = {
-			["mr"] = 629999,
+			["mr"] = 758499,
 			["cc"] = 3,
 			["id"] = "154126:0:0:0:0",
+			["H3060"] = 758499,
 			["sc"] = 5,
-			["H3016"] = 629999,
 		},
 		["Tidespray Linen Net"] = {
 			["mr"] = 1763112,
@@ -1966,12 +1966,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 19979998,
 			["sc"] = 3,
 		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 12900000,
-			["cc"] = 0,
-			["id"] = "152813:0:0:0:0",
-			["sc"] = 8,
-			["H3017"] = 12900000,
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 63479985,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3016"] = 63479985,
 		},
 		["Tidespray Linen Cloak of the Aurora"] = {
 			["mr"] = 14360670,
@@ -2048,18 +2048,18 @@ AUCTIONATOR_TOONS = {
 	},
 	["Toshmonk"] = {
 		["firstSeen"] = 1548723464,
-		["guid"] = "Player-9-0B608E72",
+		["guid"] = "Player-9-0B0E8ABC",
 		["firstVersion"] = "8.1.0",
 	},
 	["Tosh"] = {
 		["firstSeen"] = 1548795568,
-		["guid"] = "Player-9-0B60C7FF",
+		["guid"] = "Player-9-0B4BF6EE",
 		["firstVersion"] = "8.1.0",
 	},
 	["Toshpal"] = {
-		["firstSeen"] = 1548952775,
+		["firstSeen"] = 1554248062,
+		["guid"] = "Player-9-0B60C80F",
 		["firstVersion"] = "8.1.0",
-		["guid"] = "Player-9-0AE4412E",
 	},
 	["Toshaman"] = {
 		["firstSeen"] = 1549905563,
