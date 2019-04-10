@@ -20,14 +20,14 @@ VWQL = {
 			[50850] = true,
 			[50695] = true,
 			[50665] = true,
+			[51628] = true,
 			[54697] = true,
 			[50636] = true,
-			[51628] = true,
 			[54699] = true,
 			[51047] = true,
 			[51496] = true,
 		},
-		["VERSION"] = 85,
+		["VERSION"] = 87,
 	},
 	["Scale"] = 0.8,
 	["DisableIconsGeneralMap947"] = true,
@@ -71,7 +71,7 @@ VWQL = {
 	},
 	["EnableRibbonGeneralMaps"] = false,
 	["Tosh-Kil'jaeden"] = {
-		["VERSION"] = 85,
+		["VERSION"] = 87,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -85,10 +85,10 @@ VWQL = {
 		["VERSION"] = 87,
 		["Filter"] = 63,
 		["Quests"] = {
-			[51475] = true,
-			[50578] = true,
-			[52395] = true,
 			[51496] = true,
+			[51475] = true,
+			[52395] = true,
+			[50578] = true,
 		},
 		["FilterType"] = {
 			["pet"] = true,

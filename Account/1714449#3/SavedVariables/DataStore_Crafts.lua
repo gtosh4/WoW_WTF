@@ -10,7 +10,7 @@ DataStore_CraftsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554050599,
+				["lastUpdate"] = 1554850644,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
@@ -1443,7 +1443,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1554049957,
+				["lastUpdate"] = 1554868934,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {

@@ -55,6 +55,8 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
+		["BigWigs_Bosses_Battle of Dazar'alor Trash"] = {
+		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -86,7 +88,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_x"] = 675.743157964433,
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
@@ -96,12 +98,12 @@ BigWigs3DB = {
 					["emphasizeMove"] = false,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_y"] = 257.60125702105,
-					["emphasizeTime"] = 12,
+					["texture"] = "ElvUI Norm",
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["texture"] = "ElvUI Norm",
+					["outline"] = "OUTLINE",
+					["emphasizeTime"] = 12,
 					["emphasizeMultiplier"] = 1,
 					["fontSizeEmph"] = 11,
 				},
@@ -189,7 +191,7 @@ BigWigsStatsDB = {
 				["kills"] = 5,
 			},
 			["mythic"] = {
-				["kills"] = 11,
+				["kills"] = 12,
 				["wipes"] = 67,
 				["best"] = 251.736999999965,
 			},
@@ -237,7 +239,7 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["kills"] = 7,
-				["wipes"] = 175,
+				["wipes"] = 185,
 				["best"] = 450.55299999984,
 			},
 			["LFR"] = {
@@ -331,8 +333,8 @@ BigWigsStatsDB = {
 				["best"] = 194.273999999976,
 			},
 			["mythic"] = {
-				["kills"] = 12,
-				["wipes"] = 108,
+				["kills"] = 13,
+				["wipes"] = 111,
 				["best"] = 265.092999999994,
 			},
 			["LFR"] = {
@@ -348,7 +350,7 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["mythic"] = {
-				["kills"] = 18,
+				["kills"] = 19,
 				["wipes"] = 32,
 				["best"] = 97.1759999999777,
 			},

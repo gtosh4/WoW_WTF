@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 662,
+	["session"] = 666,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -17,5 +17,13 @@ BugGrabberDB = {
 			["session"] = 662,
 			["counter"] = 1,
 		}, -- [2]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Favorites' tried to call the protected function 'RaidFrame:Show()'.",
+			["time"] = "2019/04/09 23:18:50",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\FriendsFrame.lua:83: in function `FriendsFrame_ShowSubFrame'\nInterface\\FrameXML\\FriendsFrame.lua:355: in function <Interface\\FrameXML\\FriendsFrame.lua:316>\n[C]: in function `FriendsFrame_Update'\nInterface\\FrameXML\\FriendsFrame.lua:308: in function <Interface\\FrameXML\\FriendsFrame.lua:306>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2632: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2477: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2345: in function <Interface\\FrameXML\\UIParent.lua:2341>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3173: in function `ShowUIPanel'\nInterface\\FrameXML\\FriendsFrame.lua:1067: in function `ToggleFriendsFrame'\n[string \"TOGGLESOCIAL\"]:1: in function <[string \"TOGGLESOCIAL\"]:1>",
+			["session"] = 666,
+			["counter"] = 1,
+		}, -- [3]
 	},
 }

@@ -22,6 +22,18 @@ TalentSetManager_CharacterSaves = {
 		},
 		["talents"] = {
 			{
+				{
+					1, -- [1]
+					2, -- [2]
+					2, -- [3]
+					1, -- [4]
+					3, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 135897,
+					["name"] = "raid",
+					["tt"] = "talents",
+				}, -- [1]
 			}, -- [1]
 		},
 		["version"] = 0,

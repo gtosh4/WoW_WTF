@@ -42,52 +42,6 @@ ToshAssignmentsDB = {
 						},
 					},
 				},
-				[2325] = {
-					["Koopa"] = {
-						["assignments"] = {
-							{
-								["players"] = {
-									"Tosh", -- [1]
-								},
-								["removeOptions"] = nil --[[ skipped inline function ]],
-								["name"] = "Ramp",
-								["trigger"] = {
-									["eventNumber"] = "*",
-									["spell"] = {
-										["spellId"] = 282082,
-									},
-									["time"] = {
-									},
-									["type"] = "spell",
-								},
-								["actions"] = {
-									{
-										["id"] = 1,
-										["type"] = "bar",
-										["marker"] = {
-										},
-										["bar"] = {
-											["icon"] = "marker6",
-										},
-									}, -- [1]
-									{
-										["id"] = 2,
-										["type"] = "countdown",
-										["marker"] = {
-										},
-										["bar"] = {
-										},
-									}, -- [2]
-								},
-								["id"] = 1,
-							}, -- [1]
-						},
-						["encounterId"] = 2325,
-						["name"] = "Koopa",
-						["showOthers"] = false,
-						["enabled"] = true,
-					},
-				},
 			},
 		},
 	},

@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
-	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
-	["LOG_DE_DATA_X"] = true,
+	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
 	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
+	["LOG_DE_DATA_X"] = true,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -2048,12 +2048,12 @@ AUCTIONATOR_TOONS = {
 	},
 	["Toshmonk"] = {
 		["firstSeen"] = 1548723464,
-		["guid"] = "Player-9-0B0E8ABC",
+		["guid"] = "Player-9-0B608E72",
 		["firstVersion"] = "8.1.0",
 	},
 	["Tosh"] = {
 		["firstSeen"] = 1548795568,
-		["guid"] = "Player-9-0B4BF6EE",
+		["guid"] = "Player-9-0B60C7FF",
 		["firstVersion"] = "8.1.0",
 	},
 	["Toshpal"] = {

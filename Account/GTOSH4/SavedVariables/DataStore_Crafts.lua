@@ -2155,11 +2155,11 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1554335366,
+				["lastUpdate"] = 1554853382,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554679517,
+				["lastUpdate"] = 1554852418,
 				["Prof2"] = "Inscription",
 				["Professions"] = {
 					["Inscription"] = {
