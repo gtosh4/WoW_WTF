@@ -17,7 +17,15 @@ oRA3DB = {
 			["global"] = {
 				["spellsOnCooldown"] = {
 				},
-				["lastTime"] = 156729.25,
+				["lastTime"] = 2380767.471,
+				["chargeSpellsOnCooldown"] = {
+					[116011] = {
+						["Player-9-0A6CF05A"] = {
+							2379637.014, -- [1]
+							2379877.014, -- [2]
+						},
+					},
+				},
 			},
 			["profiles"] = {
 				["Default"] = {
@@ -42,8 +50,10 @@ oRA3DB = {
 		},
 	},
 	["profileKeys"] = {
-		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

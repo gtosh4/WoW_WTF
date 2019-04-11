@@ -3,9 +3,12 @@ DataStore_MailsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -13,88 +16,41 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1554050614,
 				["lastVisitDate"] = "2019/03/31 12:43",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683487,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554049963,
 				["Mails"] = {
 					{
-						["returned"] = false,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 5,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6363430023193,
+						["sender"] = "Tosku",
+						["itemID"] = 141446,
+						["link"] = "|cff1eff00|Hitem:141446::::::::110:581::::::|h[Tome of the Tranquil Mind]|h|r",
+						["count"] = 78,
+						["icon"] = 134915,
+						["lastCheck"] = 1554950273,
+						["daysLeft"] = 30,
 					}, -- [1]
-					{
-						["returned"] = false,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 5,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6364936828613,
-					}, -- [2]
-					{
-						["returned"] = false,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 5,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6366443634033,
-					}, -- [3]
-					{
-						["returned"] = false,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 5,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6368522644043,
-					}, -- [4]
-					{
-						["returned"] = false,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 5,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6369800567627,
-					}, -- [5]
-					{
-						["returned"] = true,
-						["sender"] = "Yuumi",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1554683487,
-						["count"] = 2,
-						["icon"] = 1509634,
-						["daysLeft"] = 23.6747570037842,
-					}, -- [6]
 				},
-				["lastVisitDate"] = "2019/04/07 20:31",
+				["lastVisitDate"] = "2019/03/31 12:32",
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1554953553,
+				["lastVisitDate"] = "2019/04/10 23:32",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1554853944,
 				["lastVisitDate"] = "2019/04/09 19:52",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554853022,
+				["lastUpdate"] = 1554954540,
 				["Mails"] = {
 					{
-						["icon"] = 134327,
-						["sender"] = "Yunrazzlixx",
-						["subject"] = "World of Warcraft Boosting Services",
+						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
 						["returned"] = false,
-						["money"] = 0,
-						["text"] = "Battle of Dazar'Alor guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! \nVisit gplay.pro for info!\n\nTop raiding guilds, Safe & Cheap boost. Feel the difference!\n\nBest regards,\ngplay.pro                        ",
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 17.6003131866455,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5171413421631,
 					}, -- [1]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -103,8 +59,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.6927318572998,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5172691345215,
 					}, -- [2]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -113,8 +69,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.6928596496582,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5268058776855,
 					}, -- [3]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -123,8 +79,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.7023963928223,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5269336700439,
 					}, -- [4]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -133,8 +89,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.702522277832,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5270595550537,
 					}, -- [5]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -143,8 +99,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.7026500701904,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5271987915039,
 					}, -- [6]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
@@ -153,25 +109,77 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.7027893066406,
+						["lastCheck"] = 1554954540,
+						["daysLeft"] = 20.5272922515869,
 					}, -- [7]
+				},
+				["lastVisitDate"] = "2019/04/10 23:49",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554683487,
+				["Mails"] = {
 					{
-						["link"] = "|cffffffff|Hitem:163759::::::::120:262::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Toshaman",
 						["itemID"] = 163759,
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554853022,
-						["daysLeft"] = 21.7028827667236,
-					}, -- [8]
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6363430023193,
+					}, -- [1]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Toshaman",
+						["itemID"] = 163759,
+						["returned"] = false,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6364936828613,
+					}, -- [2]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Toshaman",
+						["itemID"] = 163759,
+						["returned"] = false,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6366443634033,
+					}, -- [3]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Toshaman",
+						["itemID"] = 163759,
+						["returned"] = false,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6368522644043,
+					}, -- [4]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Toshaman",
+						["itemID"] = 163759,
+						["returned"] = false,
+						["icon"] = 1509634,
+						["count"] = 5,
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6369800567627,
+					}, -- [5]
+					{
+						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
+						["sender"] = "Yuumi",
+						["itemID"] = 163759,
+						["returned"] = true,
+						["icon"] = 1509634,
+						["count"] = 2,
+						["lastCheck"] = 1554683487,
+						["daysLeft"] = 23.6747570037842,
+					}, -- [6]
 				},
-				["lastVisitDate"] = "2019/04/09 19:37",
-			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049963,
-				["lastVisitDate"] = "2019/03/31 12:32",
+				["lastVisitDate"] = "2019/04/07 20:31",
 			},
 		},
 	},

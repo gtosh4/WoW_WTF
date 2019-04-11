@@ -1,22 +1,28 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
 				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [1]
 				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [2]
 				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [3]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [4]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [5]
+				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [4]
+				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [5]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [6]
+				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [7]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [8]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -28,6 +34,8 @@ Postal3DB = {
 					"Toshaman|Kil'jaeden|Horde", -- [2]
 				},
 			},
+		},
+		["Toshtrial - Blood Furnace"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -50,6 +58,8 @@ Postal3DB = {
 				},
 			},
 		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -60,6 +70,14 @@ Postal3DB = {
 					"Wraithbrand|Kil'jaeden|Horde", -- [5]
 					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [6]
 					"Toshmonk|Kil'jaeden|Horde", -- [7]
+				},
+			},
+		},
+		["Tosku - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
 				},
 			},
 		},

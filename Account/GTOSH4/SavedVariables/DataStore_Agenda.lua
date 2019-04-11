@@ -3,9 +3,12 @@ DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -17,8 +20,22 @@ DataStore_AgendaDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554050018,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1554683527,
+			},
+			["Default.Blood Furnace.Toshtrial"] = {
+				["lastUpdate"] = 1554968622,
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958119,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1554953608,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1554855827,
@@ -27,22 +44,15 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshmonk"] = {
 						["note"] = "",
-						["level"] = 120,
-						["class"] = "Monk",
 					},
 					["Tosh"] = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1554853356,
+				["lastUpdate"] = 1554957959,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1554683527,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554050018,
 			},
 		},
 	},

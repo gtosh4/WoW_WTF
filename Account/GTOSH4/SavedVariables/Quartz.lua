@@ -16,21 +16,21 @@ Quartz3DB = {
 				},
 			},
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 500,
-					["hideicon"] = true,
+					["y"] = 925.059326171875,
 					["border"] = "None",
 					["x"] = 1111.07360839844,
 					["texture"] = "ElvUI Norm",
-					["y"] = 925.059326171875,
+					["hideicon"] = true,
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -57,9 +57,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Range"] = {
-		},
 		["Mirror"] = {
+		},
+		["Range"] = {
 		},
 		["Latency"] = {
 		},
@@ -67,9 +67,12 @@ Quartz3DB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -77,9 +80,9 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Target"] = false,
-				["Mirror"] = false,
 				["Buff"] = false,
+				["Mirror"] = false,
+				["Target"] = false,
 			},
 		},
 	},

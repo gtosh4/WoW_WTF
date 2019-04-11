@@ -4,6 +4,42 @@ AzeritePowerWeightsDB = {
 	},
 	["dbVersion"] = 2,
 	["char"] = {
+		["Blood Furnace"] = {
+			["Toshtrial"] = {
+				["specScales"] = {
+					[64] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/8/3/Default",
+					},
+					[63] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/8/2/Default",
+					},
+					[62] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/8/1/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["debug"] = false,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["onlyOwnClassCustoms"] = false,
+			},
+		},
 		["Kil'jaeden"] = {
 			["Yorman"] = {
 				["specScales"] = {
@@ -22,72 +58,6 @@ AzeritePowerWeightsDB = {
 					[105] = {
 						["scaleName"] = "Default",
 						["scaleID"] = "D/11/4/Default",
-					},
-				},
-				["addPrimaryStatToScore"] = false,
-				["showTooltipLegend"] = true,
-				["zonePowers"] = true,
-				["pvpPowers"] = false,
-				["addILvlToScore"] = false,
-				["relativeScore"] = false,
-				["rolePowersNoOffRolePowers"] = false,
-				["importingCanUpdate"] = true,
-				["tooltipScales"] = {
-				},
-				["rolePowers"] = true,
-				["defensivePowers"] = true,
-				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
-				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
-				["debug"] = false,
-			},
-			["Toshpal"] = {
-				["specScales"] = {
-					[70] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/2/3/Default",
-					},
-					[65] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/2/1/Default",
-					},
-					[66] = {
-						["scaleName"] = "Defensive",
-						["scaleID"] = "D/2/2/Defensive",
-					},
-				},
-				["addPrimaryStatToScore"] = false,
-				["showTooltipLegend"] = true,
-				["zonePowers"] = true,
-				["pvpPowers"] = false,
-				["addILvlToScore"] = false,
-				["relativeScore"] = false,
-				["rolePowersNoOffRolePowers"] = false,
-				["importingCanUpdate"] = true,
-				["tooltipScales"] = {
-				},
-				["rolePowers"] = true,
-				["defensivePowers"] = true,
-				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
-				["showOnlyUpgrades"] = false,
-				["debug"] = false,
-				["professionPowers"] = false,
-			},
-			["Tosh"] = {
-				["specScales"] = {
-					[257] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/2/Default",
-					},
-					[258] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/3/Default",
-					},
-					[256] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/5/1/Default",
 					},
 				},
 				["addPrimaryStatToScore"] = false,
@@ -141,6 +111,72 @@ AzeritePowerWeightsDB = {
 				["debug"] = false,
 				["professionPowers"] = false,
 			},
+			["Tosh"] = {
+				["specScales"] = {
+					[257] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/2/Default",
+					},
+					[258] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/3/Default",
+					},
+					[256] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/1/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["debug"] = false,
+			},
+			["Toshpal"] = {
+				["specScales"] = {
+					[70] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/2/3/Default",
+					},
+					[65] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/2/1/Default",
+					},
+					[66] = {
+						["scaleName"] = "Defensive",
+						["scaleID"] = "D/2/2/Defensive",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
+				["debug"] = false,
+				["professionPowers"] = false,
+			},
 			["Toshaman"] = {
 				["specScales"] = {
 					[263] = {
@@ -173,6 +209,42 @@ AzeritePowerWeightsDB = {
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
 				["debug"] = false,
+			},
+		},
+		["The Forgotten Coast"] = {
+			["Toshtrial"] = {
+				["specScales"] = {
+					[257] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/2/Default",
+					},
+					[258] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/3/Default",
+					},
+					[256] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/1/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["debug"] = false,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
+				["onlyOwnClassCustoms"] = false,
 			},
 		},
 	},

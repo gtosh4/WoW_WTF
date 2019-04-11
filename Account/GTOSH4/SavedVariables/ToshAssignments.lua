@@ -3,9 +3,12 @@ ToshAssignmentsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -52,13 +55,13 @@ ToshAssignmentsDB = {
 								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Ramp",
 								["trigger"] = {
-									["eventNumber"] = "*",
+									["type"] = "spell",
 									["spell"] = {
 										["spellId"] = 282082,
 									},
+									["eventNumber"] = "*",
 									["time"] = {
 									},
-									["type"] = "spell",
 								},
 								["actions"] = {
 									{
@@ -84,8 +87,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",
-						["showOthers"] = false,
 						["enabled"] = true,
+						["showOthers"] = false,
 					},
 				},
 			},

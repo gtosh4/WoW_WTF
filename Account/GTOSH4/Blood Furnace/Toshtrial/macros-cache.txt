@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "pyrofb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Pyroblast
+/castsequence reset=2 Fire Blast, Pyroblast
+/stopcasting
+END
