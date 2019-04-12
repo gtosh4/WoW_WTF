@@ -17,6 +17,7 @@ ElvCharacterDB = {
 		"/ec", -- [14]
 		"/gladius", -- [15]
 		"they're 700 rn", -- [16]
+		"/wa", -- [17]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -1340,5 +1341,50 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
 		}, -- [60]
+		{
+			"hi", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555052260,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [61]
+		{
+			"what the you're up still", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1555054744,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [62]
 	},
 }

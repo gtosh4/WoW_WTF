@@ -20,13 +20,8 @@ DataStore_AgendaDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1554683527,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554050018,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -38,7 +33,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1554953608,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1554855827,
+				["lastUpdate"] = 1555059185,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -47,12 +42,19 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
+						["level"] = 120,
+						["class"] = "Priest",
 					},
 				},
-				["lastUpdate"] = 1554957959,
+				["lastUpdate"] = 1555044284,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554050018,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1554683527,
 			},
 		},
 	},

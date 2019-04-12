@@ -55,8 +55,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_Battle of Dazar'alor Trash"] = {
-		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -222,8 +220,8 @@ BigWigsStatsDB = {
 				["wipes"] = 35,
 			},
 			["LFR"] = {
-				["best"] = 479.823000000033,
-				["kills"] = 1,
+				["best"] = 431.864999999758,
+				["kills"] = 2,
 			},
 		},
 		[2342] = {
@@ -238,8 +236,8 @@ BigWigsStatsDB = {
 				["best"] = 368.693999999901,
 			},
 			["mythic"] = {
-				["kills"] = 7,
-				["wipes"] = 185,
+				["kills"] = 8,
+				["wipes"] = 191,
 				["best"] = 450.55299999984,
 			},
 			["LFR"] = {
@@ -307,8 +305,8 @@ BigWigsStatsDB = {
 				["best"] = 223.981000000029,
 			},
 			["mythic"] = {
-				["kills"] = 5,
-				["wipes"] = 82,
+				["kills"] = 6,
+				["wipes"] = 88,
 				["best"] = 301.307999999961,
 			},
 			["heroic"] = {

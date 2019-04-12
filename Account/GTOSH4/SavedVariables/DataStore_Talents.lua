@@ -20,13 +20,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683448,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554049957,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
+					5631, -- [1]
+					[3] = 5527,
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554966021,
@@ -52,7 +52,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DEMONHUNTER",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1554853938,
+				["lastUpdate"] = 1555048078,
 				["Specializations"] = {
 					5993, -- [1]
 					7065, -- [2]
@@ -60,20 +60,20 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554957748,
+				["lastUpdate"] = 1555043822,
 				["Specializations"] = {
 					11614, -- [1]
 					[3] = 8151,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049957,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554683448,
 				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
+					7165, -- [1]
+					[4] = 15085,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 		},
 	},

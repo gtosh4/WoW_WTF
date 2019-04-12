@@ -53,6 +53,11 @@ END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
 END
+VER 3 000000000000002C "racial" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Arcane Torrent
+/cast Every Man for Himself(Racial)
+END
 VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
 /readycheck
 END

@@ -55,7 +55,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554868934,
+				["lastUpdate"] = 1555048025,
 				["guildName"] = "Koopa Troopa",
 				["guildRep"] = 42000,
 				["Factions"] = {
