@@ -30,7 +30,29 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["WoD"] = {
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Timewarped Badge"] = false,
+						["Seal of Broken Fate"] = false,
+						["Nethershard"] = false,
+						["Timeworn Artifact"] = false,
+						["Apexis Crystal"] = false,
+						["Wakening Essence"] = false,
+						["Garrison Resources"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Curious Coin"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Champion's Seal"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
 		},
 		["NewItem"] = {
 		},
@@ -53,29 +75,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Legionfall War Supplies"] = false,
-						["Timeworn Artifact"] = false,
-						["Nethershard"] = false,
-						["Seal of Broken Fate"] = false,
-						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Curious Coin"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Apexis Crystal"] = false,
-						["Champion's Seal"] = false,
-						["Timewarped Badge"] = false,
-					},
-				},
-			},
+		["WoD"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -92,10 +92,7 @@ AdiBagsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
@@ -105,7 +102,10 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
+			},
 			["autoDeposit"] = true,
 		},
 	},

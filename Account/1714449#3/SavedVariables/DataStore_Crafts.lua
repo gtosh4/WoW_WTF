@@ -1443,7 +1443,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1555048025,
+				["lastUpdate"] = 1555115759,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
