@@ -40,17 +40,17 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/12 01:48",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555134010,
+				["lastUpdate"] = 1555219720,
 				["Mails"] = {
 					{
+						["lastCheck"] = 1555219720,
+						["sender"] = "Yunrazzlixx",
+						["subject"] = "World of Warcraft Boosting Services",
 						["returned"] = false,
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1555134010,
-						["icon"] = 1509634,
-						["daysLeft"] = 18.4398612976074,
+						["money"] = 0,
+						["text"] = "Battle of Dazar'Alor guild loot runs, mythic+ 10-15+ keys, Full & BiS Gear, mounts and more! \nVisit gplay.pro for info!\n\nTop raiding guilds, Safe & Cheap boost. Feel the difference!\n\nBest regards,\ngplay.pro                        ",
+						["icon"] = 134327,
+						["daysLeft"] = 13.3554630279541,
 					}, -- [1]
 					{
 						["returned"] = false,
@@ -58,9 +58,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.4399890899658,
+						["daysLeft"] = 17.4478816986084,
 					}, -- [2]
 					{
 						["returned"] = false,
@@ -68,9 +68,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.4495258331299,
+						["daysLeft"] = 17.4480094909668,
 					}, -- [3]
 					{
 						["returned"] = false,
@@ -78,9 +78,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.4496536254883,
+						["daysLeft"] = 17.4575462341309,
 					}, -- [4]
 					{
 						["returned"] = false,
@@ -88,9 +88,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.449779510498,
+						["daysLeft"] = 17.4576740264893,
 					}, -- [5]
 					{
 						["returned"] = false,
@@ -98,9 +98,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.4499187469482,
+						["daysLeft"] = 17.4578018188477,
 					}, -- [6]
 					{
 						["returned"] = false,
@@ -108,15 +108,25 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1555134010,
+						["lastCheck"] = 1555219720,
 						["icon"] = 1509634,
-						["daysLeft"] = 18.4500122070313,
+						["daysLeft"] = 17.4579391479492,
 					}, -- [7]
+					{
+						["returned"] = false,
+						["sender"] = "Tosh",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["lastCheck"] = 1555219720,
+						["icon"] = 1509634,
+						["daysLeft"] = 17.4580326080322,
+					}, -- [8]
 				},
-				["lastVisitDate"] = "2019/04/13 01:40",
+				["lastVisitDate"] = "2019/04/14 01:28",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683487,
+				["lastUpdate"] = 1555196539,
 				["Mails"] = {
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -125,8 +135,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6363430023193,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.698205947876,
 					}, -- [1]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -135,8 +145,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6364936828613,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.698356628418,
 					}, -- [2]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -145,8 +155,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6366443634033,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.69850730896,
 					}, -- [3]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -155,8 +165,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6368522644043,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.6987152099609,
 					}, -- [4]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -165,8 +175,8 @@ DataStore_MailsDB = {
 						["returned"] = false,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6369800567627,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.6988430023193,
 					}, -- [5]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:105::::::|h[Rabbit's Charm]|h|r",
@@ -175,11 +185,11 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 2,
-						["lastCheck"] = 1554683487,
-						["daysLeft"] = 23.6747570037842,
+						["lastCheck"] = 1555196539,
+						["daysLeft"] = 17.7366199493408,
 					}, -- [6]
 				},
-				["lastVisitDate"] = "2019/04/07 20:31",
+				["lastVisitDate"] = "2019/04/13 19:02",
 			},
 		},
 	},

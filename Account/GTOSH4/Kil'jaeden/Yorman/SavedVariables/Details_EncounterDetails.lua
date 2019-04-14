@@ -2,103 +2,13 @@
 EncounterDetailsDB = {
 	["emotes"] = {
 		{
-			{
-				9.40299999993295, -- [1]
-				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
-				"Darkforged Crusader", -- [3]
-				1, -- [4]
-			}, -- [1]
-			{
-				11.8170000000391, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				33.777999999933, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				39.7749999999069, -- [1]
-				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
-				"Darkforged Crusader", -- [3]
-				1, -- [4]
-			}, -- [4]
-			{
-				43.4619999998249, -- [1]
-				"Retribution fer the fallen!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				43.4619999998249, -- [1]
-				"|TInterface\\ICONS\\Ability_Paladin_EmpoweredSealsRighteous:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284469|h[Seal of Retribution]|h|r!", -- [2]
-				"Frida Ironbellows", -- [3]
-				2, -- [4]
-			}, -- [6]
-			{
-				56.814000000013, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				70.183999999892, -- [1]
-				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
-				"Darkforged Crusader", -- [3]
-				1, -- [4]
-			}, -- [8]
-			{
-				78.685999999987, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				84.7069999999367, -- [1]
-				"The reckonin' is at hand!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				84.9279999998398, -- [1]
-				"|TInterface\\ICONS\\SPELL_HOLY_SEALOFWRATH:20|tFrida Ironbellows starts to release |cFFFF0000|Hspell:284436|h[Seal of Reckoning]|h|r!", -- [2]
-				"Frida Ironbellows", -- [3]
-				2, -- [4]
-			}, -- [11]
-			{
-				90.7949999999255, -- [1]
-				"Tae arms! Drive back this wretched Horde!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				98.0109999999404, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				103.007999999914, -- [1]
-				"|TInterface\\ICONS\\ABILITY_PALADIN_BEACONOFLIGHT:20|tA Crusader starts to cast |cFFFF0000|Hspell:283650|h[Blinding Faith]|h|r!", -- [2]
-				"Darkforged Crusader", -- [3]
-				1, -- [4]
-			}, -- [14]
-			{
-				120.04700000002, -- [1]
-				"The Light judges all!", -- [2]
-				"Frida Ironbellows", -- [3]
-				7, -- [4]
-			}, -- [15]
-			["boss"] = "Champion of the Light",
+			["boss"] = "Ring of Booty",
 		}, -- [1]
 		{
-			["boss"] = "Yazma",
+			["boss"] = "Lord Harlan Sweete",
 		}, -- [2]
 		{
-			["boss"] = "Priestess Alun'za",
+			["boss"] = "Council o' Captains",
 		}, -- [3]
 	},
 	["encounter_spells"] = {
@@ -3369,15 +3279,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit Wolf",
 		},
-		[286618] = {
+		[186403] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Laminaria",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[264368] = {
 			["school"] = 1,
@@ -3419,12 +3327,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kimbul",
 		},
-		[268717] = {
-			["school"] = 1,
+		[253666] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sharkbait",
+			["source"] = "Dazar'ai Juggernaut",
 		},
 		[224127] = {
 			["school"] = 8,
@@ -3573,6 +3481,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
+		[114942] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Healing Tide Totem",
+		},
 		[286369] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -3592,13 +3507,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Bwonsamdi",
-		},
-		[114942] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Healing Tide Totem",
 		},
 		[288671] = {
 			["school"] = 16,
@@ -4035,13 +3943,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[263365] = {
-			["school"] = 8,
+		[289963] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Adderis",
+			["source"] = "Ice Blocked Nathanos",
 		},
 		[277943] = {
 			["school"] = 1,
@@ -4323,13 +4232,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[285879] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[1856] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Akunda's Aspect",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[284089] = {
 			["school"] = 1,
@@ -4464,12 +4372,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[205345] = {
-			["school"] = 4,
+		[278467] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Wraithbrand",
+			["source"] = "Rummy Mancomb",
 		},
 		[288441] = {
 			["school"] = 16,
@@ -4479,12 +4389,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[278467] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[265168] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Rummy Mancomb",
 		},
@@ -4682,13 +4591,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yalat's Bulwark",
 		},
-		[285634] = {
-			["school"] = 8,
+		[269266] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Spirit of Xuen",
+			["source"] = "Demolishing Terror",
 		},
 		[284362] = {
 			["school"] = 16,
@@ -4910,14 +4820,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Slurry",
 		},
-		[269266] = {
-			["school"] = 1,
+		[285634] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Demolishing Terror",
+			["source"] = "Spirit of Xuen",
 		},
 		[259187] = {
 			["school"] = 32,
@@ -5033,13 +4942,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Blazing Fireguard",
 		},
-		[265168] = {
-			["school"] = 1,
+		[205345] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Rummy Mancomb",
+			["source"] = "Wraithbrand",
 		},
 		[284943] = {
 			["school"] = 1,
@@ -5125,12 +5033,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kimbul",
 		},
-		[1856] = {
-			["school"] = 1,
+		[285879] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Akunda's Aspect",
 		},
 		[288333] = {
 			["school"] = 1,
@@ -5194,14 +5103,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[289963] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[263365] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ice Blocked Nathanos",
+			["source"] = "Adderis",
 		},
 		[250368] = {
 			["school"] = 8,
@@ -5565,12 +5473,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Apetagonizer 3000",
 		},
-		[253666] = {
-			["school"] = 4,
+		[268717] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Dazar'ai Juggernaut",
+			["source"] = "Sharkbait",
 		},
 		[288219] = {
 			["school"] = 16,
@@ -5588,13 +5496,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Iron Primalist",
 		},
-		[186403] = {
+		[286618] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Laminaria",
 		},
 		[250258] = {
 			["school"] = 8,

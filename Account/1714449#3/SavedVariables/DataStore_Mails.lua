@@ -10,8 +10,8 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554853472,
-				["lastVisitDate"] = "2019/04/09 19:44",
+				["lastUpdate"] = 1555200722,
+				["lastVisitDate"] = "2019/04/13 20:12",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1554683487,
@@ -170,8 +170,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/07 19:55",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1555116675,
-				["lastVisitDate"] = "2019/04/12 20:51",
+				["lastUpdate"] = 1555196737,
+				["lastVisitDate"] = "2019/04/13 19:05",
 			},
 		},
 	},

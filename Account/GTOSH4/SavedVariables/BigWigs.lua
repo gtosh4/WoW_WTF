@@ -1,5 +1,12 @@
 
 BigWigs3DB = {
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-1358] = true,
@@ -14,21 +21,14 @@ BigWigs3DB = {
 		},
 	},
 	["discord"] = 15,
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-	},
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[288449] = 2015479,
 					[287333] = 1032439,
-					[285003] = 1032439,
+					[288449] = 2015479,
 					["stages"] = 1032439,
+					[285003] = 1032439,
 				},
 			},
 		},
@@ -43,6 +43,23 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+			["profiles"] = {
+				["Default"] = {
+					[288345] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -62,58 +79,11 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-		},
-		["BigWigs_Bosses_Grong Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Opulence"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285014] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Colors"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
 					["posx"] = 398.945786950604,
 					["posy"] = 354.667696578315,
-				},
-			},
-		},
-		["BigWigs_Plugins_Bars"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["BigWigsAnchor_width"] = 200.251571655273,
-					["BigWigsAnchor_x"] = 675.743157964433,
-					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
-					["growup"] = false,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 19.9999809265137,
-					["emphasizeMove"] = false,
-					["visibleBarLimit"] = 15,
-					["BigWigsAnchor_y"] = 257.60125702105,
-					["texture"] = "ElvUI Norm",
-					["barStyle"] = "AddOnSkins",
-					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
-					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["outline"] = "OUTLINE",
-					["emphasizeTime"] = 12,
-					["emphasizeMultiplier"] = 1,
-					["fontSizeEmph"] = 11,
 				},
 			},
 		},
@@ -127,6 +97,41 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Opulence"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285014] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["outline"] = "OUTLINE",
+					["BigWigsAnchor_width"] = 200.251571655273,
+					["BigWigsAnchor_x"] = 675.743157964433,
+					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
+					["growup"] = false,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 19.9999809265137,
+					["emphasizeMove"] = false,
+					["visibleBarLimit"] = 15,
+					["BigWigsAnchor_y"] = 257.60125702105,
+					["emphasizeTime"] = 12,
+					["barStyle"] = "AddOnSkins",
+					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
+					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["texture"] = "ElvUI Norm",
+					["emphasizeMultiplier"] = 1,
+					["fontSizeEmph"] = 11,
+				},
+			},
+		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -134,13 +139,11 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -154,6 +157,8 @@ BigWigs3DB = {
 					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
 				},
 			},
+		},
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Bosses_Champion of the Light Horde"] = {
 			["profiles"] = {
@@ -280,7 +285,7 @@ BigWigsStatsDB = {
 				["best"] = 449.687000000035,
 			},
 			["mythic"] = {
-				["wipes"] = 158,
+				["wipes"] = 197,
 			},
 		},
 		[2337] = {

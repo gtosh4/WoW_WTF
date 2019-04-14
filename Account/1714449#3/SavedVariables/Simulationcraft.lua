@@ -24,7 +24,7 @@ SimulationCraftDB = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 171.609243367346,
+				["minimapPos"] = 162.64162115908,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {

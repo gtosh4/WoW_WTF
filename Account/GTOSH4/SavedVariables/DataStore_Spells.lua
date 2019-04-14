@@ -147,7 +147,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683448,
+				["lastUpdate"] = 1555196201,
 				["Spells"] = {
 					["Balance"] = {
 						5839872, -- [1]
@@ -825,7 +825,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555133156,
+				["lastUpdate"] = 1555219714,
 				["Spells"] = {
 					["Enhancement"] = {
 						514048, -- [1]

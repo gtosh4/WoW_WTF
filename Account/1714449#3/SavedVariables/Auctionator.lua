@@ -1611,12 +1611,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 9,
 			["H3017"] = 760488,
 		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 12900000,
-			["cc"] = 0,
-			["id"] = "152813:0:0:0:0",
-			["sc"] = 8,
-			["H3017"] = 12900000,
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 63479985,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3016"] = 63479985,
 		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 758499,
@@ -1966,12 +1966,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 19979998,
 			["sc"] = 3,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 63479985,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3016"] = 63479985,
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 12900000,
+			["cc"] = 0,
+			["id"] = "152813:0:0:0:0",
+			["sc"] = 8,
+			["H3017"] = 12900000,
 		},
 		["Tidespray Linen Cloak of the Aurora"] = {
 			["mr"] = 14360670,

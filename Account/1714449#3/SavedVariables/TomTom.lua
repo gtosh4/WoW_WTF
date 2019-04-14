@@ -30,6 +30,50 @@ TomTomWaypointsM = {
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
+			[895] = {
+				["895:580264091.4917:761365950.10757:Beachhead"] = {
+					895, -- [1]
+					0.580264091491699, -- [2]
+					0.761365950107575, -- [3]
+					["world"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Beachhead",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+				},
+				["895:580264091.4917:761365950.10758:Beachhead"] = {
+					895, -- [1]
+					0.580264091491699, -- [2]
+					0.761365950107575, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["desc"] = "Beachhead",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Beachhead",
+					["crazy"] = true,
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -40,10 +84,18 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,

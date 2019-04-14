@@ -62,3 +62,10 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: TomTomCrazyArrow
+FrameLevel: 1
+Anchor: TOP
+X: 21
+Y: -269
+W: 56
+H: 42

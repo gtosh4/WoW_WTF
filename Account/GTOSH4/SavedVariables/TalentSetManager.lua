@@ -74,12 +74,12 @@ TalentSetManager_CharacterSaves = {
 					["texture"] = "interface\\icons\\ability_bossdarkvindicator_auraofcontempt",
 				}, -- [2]
 				{
-					1, -- [1]
+					2, -- [1]
 					1, -- [2]
 					3, -- [3]
 					2, -- [4]
 					1, -- [5]
-					3, -- [6]
+					2, -- [6]
 					2, -- [7]
 					["texture"] = 135855,
 					["name"] = "m+",
@@ -159,21 +159,6 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Tosku-Kil'jaeden"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			[2] = {
-			},
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
 	["Toshmonk-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
@@ -227,14 +212,75 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-Blood Furnace"] = {
+	["Tosku-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[2] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Yorman-Kil'jaeden"] = {
 		["talents"] = {
 			{
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 236168,
+				}, -- [1]
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					2, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 631519,
+				}, -- [2]
 			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
+			[4] = {
+				{
+					1, -- [1]
+					3, -- [2]
+					2, -- [3]
+					3, -- [4]
+					2, -- [5]
+					2, -- [6]
+					3, -- [7]
+					["texture"] = 132124,
+					["name"] = "m+",
+					["tt"] = "talents",
+				}, -- [1]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					1, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 132123,
+				}, -- [2]
+			},
 		},
 		["talents_pvp"] = {
 		},
@@ -316,60 +362,14 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Yorman-Kil'jaeden"] = {
+	["Toshtrial-Blood Furnace"] = {
 		["talents"] = {
 			{
-				{
-					1, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					3, -- [5]
-					2, -- [6]
-					2, -- [7]
-					["tt"] = "talents",
-					["name"] = "m+",
-					["texture"] = 236168,
-				}, -- [1]
-				{
-					1, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					3, -- [5]
-					2, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "raid",
-					["texture"] = 631519,
-				}, -- [2]
 			}, -- [1]
-			[4] = {
-				{
-					1, -- [1]
-					3, -- [2]
-					2, -- [3]
-					3, -- [4]
-					2, -- [5]
-					2, -- [6]
-					3, -- [7]
-					["texture"] = 132124,
-					["name"] = "m+",
-					["tt"] = "talents",
-				}, -- [1]
-				{
-					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					3, -- [5]
-					1, -- [6]
-					3, -- [7]
-					["tt"] = "talents",
-					["name"] = "raid",
-					["texture"] = 132123,
-				}, -- [2]
-			},
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},

@@ -136,6 +136,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["interrupt"] = false,
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -153,8 +155,8 @@ BD_persistent = {
 				["slay mekka friday and blockade saturday "] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["main raid tonight slay stormwall :)"] = true,
 				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -163,8 +165,6 @@ BD_persistent = {
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -173,8 +173,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -182,8 +182,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
 			["topViewport"] = 0,
 		},
 	},
