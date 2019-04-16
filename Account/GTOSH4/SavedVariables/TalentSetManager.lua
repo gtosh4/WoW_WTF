@@ -272,9 +272,9 @@ TalentSetManager_CharacterSaves = {
 					3, -- [1]
 					3, -- [2]
 					3, -- [3]
-					3, -- [4]
+					2, -- [4]
 					3, -- [5]
-					1, -- [6]
+					3, -- [6]
 					3, -- [7]
 					["tt"] = "talents",
 					["name"] = "raid",

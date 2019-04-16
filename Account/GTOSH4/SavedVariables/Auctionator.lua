@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
-	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
+	["LOG_DE_DATA_X"] = true,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
 	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,56 +48,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Black cat", -- [1]
-			"Roseate pigment", -- [2]
-			"Deadly amberblaze", -- [3]
-			"Felwort", -- [4]
-			"Siren's Pollen", -- [5]
-			"Battle-Scarred Augment Rune", -- [6]
-			"Vantus Rune: Battle of Dazar'alor", -- [7]
-			"Pact of Critical", -- [8]
-			"time shifter", -- [9]
-			"time-shifter", -- [10]
-			"Ultramarine", -- [11]
-			"hexweave bag", -- [12]
-			"Battle Shout", -- [13]
-			"Battle flag", -- [14]
-			"Anchor Weed", -- [15]
-			"Winter's Kiss", -- [16]
-			"crafting", -- [17]
-			"Star moss", -- [18]
-			"Riverbud", -- [19]
-			"Sugar Crusted", -- [20]
-			"Sugar-Crusted", -- [21]
-			"Fish", -- [22]
-			"Feast", -- [23]
-			"Fish Feast", -- [24]
-			"Monel-hardened stirrups", -- [25]
-			"Great sea catfish", -- [26]
-			"Drums", -- [27]
-			"Drums of maelstrom", -- [28]
-			"Kraken's Eye of intellect", -- [29]
-			"coarse leather", -- [30]
-			"Alchemist stone", -- [31]
-			"Darkmoon deck: tides", -- [32]
-			"tides", -- [33]
-			"Goblin glider", -- [34]
-			"Pact of versatility", -- [35]
-			"Akunda's bite", -- [36]
-			"Versatile navigation", -- [37]
-			"Viridescent Ink", -- [38]
-			"quick navigation", -- [39]
-			"Pact of haste", -- [40]
-			"quick owlseye", -- [41]
-			"helmet", -- [42]
-			"Deep sea", -- [43]
-			"Diver's", -- [44]
-			"Diver", -- [45]
-			"Deep sea satin", -- [46]
-			"Deadly Navigation", -- [47]
-			"Kraken's Eye", -- [48]
-			"bread", -- [49]
-			"Mount motivator", -- [50]
+			"Deadly Navigation", -- [1]
+			"Masterful navigation", -- [2]
+			"Black cat", -- [3]
+			"Roseate pigment", -- [4]
+			"Deadly amberblaze", -- [5]
+			"Felwort", -- [6]
+			"Siren's Pollen", -- [7]
+			"Battle-Scarred Augment Rune", -- [8]
+			"Vantus Rune: Battle of Dazar'alor", -- [9]
+			"Pact of Critical", -- [10]
+			"time shifter", -- [11]
+			"time-shifter", -- [12]
+			"Ultramarine", -- [13]
+			"hexweave bag", -- [14]
+			"Battle Shout", -- [15]
+			"Battle flag", -- [16]
+			"Anchor Weed", -- [17]
+			"Winter's Kiss", -- [18]
+			"crafting", -- [19]
+			"Star moss", -- [20]
+			"Riverbud", -- [21]
+			"Sugar Crusted", -- [22]
+			"Sugar-Crusted", -- [23]
+			"Fish", -- [24]
+			"Feast", -- [25]
+			"Fish Feast", -- [26]
+			"Monel-hardened stirrups", -- [27]
+			"Great sea catfish", -- [28]
+			"Drums", -- [29]
+			"Drums of maelstrom", -- [30]
+			"Kraken's Eye of intellect", -- [31]
+			"coarse leather", -- [32]
+			"Alchemist stone", -- [33]
+			"Darkmoon deck: tides", -- [34]
+			"tides", -- [35]
+			"Goblin glider", -- [36]
+			"Pact of versatility", -- [37]
+			"Akunda's bite", -- [38]
+			"Versatile navigation", -- [39]
+			"Viridescent Ink", -- [40]
+			"quick navigation", -- [41]
+			"Pact of haste", -- [42]
+			"quick owlseye", -- [43]
+			"helmet", -- [44]
+			"Deep sea", -- [45]
+			"Diver's", -- [46]
+			"Diver", -- [47]
+			"Deep sea satin", -- [48]
+			"Kraken's Eye", -- [49]
+			"bread", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -775,6 +775,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 22143731,
 			["sc"] = 4,
 		},
+		["Enchant Weapon - Masterful Navigation"] = {
+			["mr"] = 5785632,
+			["cc"] = 8,
+			["H3073"] = 5785632,
+			["id"] = "159787:0:0:0:0",
+			["sc"] = 11,
+		},
 		["Bonelink Helmet of the Aurora"] = {
 			["mr"] = 75369715,
 			["cc"] = 4,
@@ -1114,11 +1121,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 549998,
 		},
 		["Enchant Weapon - Deadly Navigation"] = {
-			["mr"] = 27799994,
-			["sc"] = 11,
-			["id"] = "159785:0:0:0:0",
-			["H2998"] = 27799994,
+			["mr"] = 8377109,
 			["cc"] = 8,
+			["H3073"] = 8377109,
+			["id"] = "159785:0:0:0:0",
+			["sc"] = 11,
 		},
 		["Khan's Helmet"] = {
 			["mr"] = 51263498,
