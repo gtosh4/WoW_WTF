@@ -22,11 +22,11 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
-			},
-			["Default.Kil'jaeden.Yorman"] = {
 				["guildName"] = "Rivalry",
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["guildName"] = "Koopa Troopa",
 				["faction"] = "Horde",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
@@ -36,25 +36,25 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
-				["guildName"] = "Koopa Troopa",
 				["faction"] = "Horde",
+				["guildName"] = "Koopa Troopa",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
+				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
-				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
+			["Default.Kil'jaeden.Yorman"] = {
 				["faction"] = "Horde",
-				["guildName"] = "Koopa Troopa",
+				["guildName"] = "Rivalry",
 			},
 		},
 		["ShortToLongRealmNames"] = {
 			["Kil'jaeden"] = "Kil'jaeden",
-			["TheForgottenCoast"] = "The Forgotten Coast",
 			["BloodFurnace"] = "Blood Furnace",
+			["TheForgottenCoast"] = "The Forgotten Coast",
 		},
 	},
 }

@@ -1,230 +1,296 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" sec", -- [1]
-		" jess just woke up", -- [2]
-		"/cw Toshpal [WeakAuras: Tosh-Kil'jaeden - Tosh HealerMana]", -- [3]
-		"/hek", -- [4]
-		"/cw Toshpal [WeakAuras: Tosh-Kil'jaeden - Tosh ZT Raid CDs]", -- [5]
-		"/cw Toshpal [WeakAuras: Tosh-Kil'jaeden - Atonement Missing]", -- [6]
-		"/cw Toshpal hi", -- [7]
-		"/tmw", -- [8]
-		"/cw Toshpal [WeakAuras: Tosh-Kil'jaeden - Tosh ZT External CDs]", -- [9]
-		"/cw Emosong-Kil'jaeden mine's to jamie still I think", -- [10]
-		"jess just woke up", -- [11]
-		"/m", -- [12]
-		"/invite Toshpal", -- [13]
-		"/cw Orcbum-Kil'jaeden inv", -- [14]
-		"yeah same", -- [15]
-		"/cw Wraithbrand yeah", -- [16]
-		"/cw Orcbum-Kil'jaeden |cffa335ee|Hitem:158314:5943:::::::120:256::35:3:5010:1582:4783:::|h[Seal of Questionable Loyalties]|h|r", -- [17]
-		"sec", -- [18]
-		"/INVITE FRIENDLY", -- [19]
-		"/simc", -- [20]
+		" inc thac dropping orbs on people lol", -- [1]
+		"/cw Sherbie-Kil'jaeden the corner is just that corner room that you can see from here", -- [2]
+		"/cw Sherbie corner is the corner room", -- [3]
+		"/cw Sherbie it's the middle on the right side", -- [4]
+		"/cw Sherbie oh", -- [5]
+		"/cw Sherbie rev where it says boo tranq", -- [6]
+		"/cw Friendly that's what jess does at least", -- [7]
+		"/cw Sherbie I think", -- [8]
+		"/alto show", -- [9]
+		"/grid2", -- [10]
+		"/cw Sherbie-Kil'jaeden the 4th room in", -- [11]
+		"/dn", -- [12]
+		"/cw Friendly you can salv on the room right before corner", -- [13]
+		"/cw Sherbie grab sapphire", -- [14]
+		"tomes for yaself", -- [15]
+		"/cw Friendly then on wail 2", -- [16]
+		"/cw Sherbie uh", -- [17]
+		"inc thac dropping orbs on people lol", -- [18]
+		"ya", -- [19]
+		"/cw Dolclemits that was toward the middle right?", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"1", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Thunderlock", -- [1]
+			"Thunderlock-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Thunderlock-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			530, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3195, -- [11]
+			"Player-9-0B144B1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187882,
+			[52] = "|cff8686ecThunderlock|r",
+			[51] = 1555473899,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Spectral Hex Priest!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			533, -- [11]
-			"Player-9-09D60980", -- [12]
+			3196, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555187918,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555473904,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Spectral Hex Priest ended!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			534, -- [11]
-			"Player-9-09D60980", -- [12]
+			3197, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555187922,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473904,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"Interrupted Spectral Hex Priest's |cff71d5ff|Hspell:270493:0|h[Spectral Bolt]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Thunderlock-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Thunderlock-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			535, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3198, -- [11]
+			"Player-9-0B144B1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187941,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff8686ecThunderlock|r",
+			[51] = 1555473904,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Interrupted Spectral Hex Priest's |cff71d5ff|Hspell:270493:0|h[Spectral Bolt]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			536, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3199, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187973,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555473905,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"Poison Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			537, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3200, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555187976,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473905,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"3", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"2", -- [1]
+			"Thunderlock-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Thunderlock-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			540, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3201, -- [11]
+			"Player-9-0B144B1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187980,
+			[52] = "|cff8686ecThunderlock|r",
+			[51] = 1555473905,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"2", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			541, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3202, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187981,
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555473906,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"1", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			542, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3203, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187982,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473906,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"Poison Barrage on Tosh", -- [1]
+			"1", -- [1]
+			"Thunderlock-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Thunderlock-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3204, -- [11]
+			"Player-9-0B144B1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecThunderlock|r",
+			[51] = 1555473906,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [10]
+		{
+			"Volatile Charge on Khelikloth", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3205, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473919,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [11]
+		{
+			"Volatile Charge on Emosong", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Emosong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3206, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555473919,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [12]
+		{
+			"Volatile Charge on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -232,7 +298,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			543, -- [11]
+			3207, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -240,585 +306,497 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555187984,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"3", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			546, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187988,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"2", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			547, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187989,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"1", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			549, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555187990,
+			[51] = 1555473919,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"'s pickpocket stole 5 gold 29 silver 59 copper from you.", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			550, -- [11]
-			"Player-9-09D60980", -- [12]
+			3208, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555187995,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473924,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"'s pickpocket stole 2 gold 40 silver 39 copper from you.", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Emosong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			551, -- [11]
-			"Player-9-09D60980", -- [12]
+			3209, -- [11]
+			"Player-9-0361ED90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555187996,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555473924,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Drift!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			561, -- [11]
-			"Player-9-09D60980", -- [12]
+			3210, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188163,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555473924,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"Interrupted Zanazal the Wise's |cff71d5ff|Hspell:267308:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			563, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3211, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188176,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473925,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"Interrupted Zanazal the Wise's |cff71d5ff|Hspell:267273:0|h[Poison Nova]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Emosong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			570, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3212, -- [11]
+			"Player-9-0361ED90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188210,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555473925,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Drift!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			576, -- [11]
-			"Player-9-09D60980", -- [12]
+			3213, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188253,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555473925,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Emosong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			596, -- [11]
-			"Player-9-09D60980", -- [12]
+			3214, -- [11]
+			"Player-9-0361ED90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188339,
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555473926,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			597, -- [11]
-			"Player-9-09D60980", -- [12]
+			3215, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188340,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555473926,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge on Khelikloth", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			598, -- [11]
-			"Player-9-09D60980", -- [12]
+			3216, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188341,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473932,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"Fssh vwahuhn On'ma", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Zuq'nish Yu'gaz za Ph'magg", -- [1]
+			"Trophie-Kil'jaeden", -- [2]
 			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Trophie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			601, -- [11]
-			"Player-9-09D60980", -- [12]
+			3217, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188352,
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555473932,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"Drift interrupted |cff71d5ff|Hspell:267273:0|h[Poison Nova]|h|r", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			602, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			3218, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1555188354,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473937,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
 			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			606, -- [11]
-			"Player-9-09D60980", -- [12]
+			3219, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188362,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473937,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
 			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Trophie-Kil'jaeden", -- [2]
 			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Trophie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			607, -- [11]
-			"Player-9-09D60980", -- [12]
+			3220, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188363,
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555473937,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			608, -- [11]
-			"Player-9-09D60980", -- [12]
+			3221, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188364,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Qvsakf Zyqtahg za Halsheth", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
 			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			612, -- [11]
-			"Player-9-09D60980", -- [12]
+			3222, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188381,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"3", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"I", -- [1]
+			"Trophie-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Trophie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			613, -- [11]
-			"Player-9-09D60980", -- [12]
+			3223, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188386,
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555473938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"2", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			614, -- [11]
-			"Player-9-09D60980", -- [12]
+			3224, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188387,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555473938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"1", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			615, -- [11]
-			"Player-9-09D60980", -- [12]
+			3225, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188388,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473939,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Qvsakf Zyqtahg za Halsheth", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"1", -- [1]
+			"Trophie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Trophie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			620, -- [11]
-			"Player-9-09D60980", -- [12]
+			3226, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188404,
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555473939,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			621, -- [11]
-			"Player-9-09D60980", -- [12]
+			3228, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188409,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555473945,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [33]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge on Voidamental", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			622, -- [11]
-			"Player-9-09D60980", -- [12]
+			3229, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188410,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473951,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"I", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			623, -- [11]
-			"Player-9-09D60980", -- [12]
+			3230, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188411,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473951,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Drift!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			636, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188478,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"Dark Revelation on Tosh", -- [1]
+			"Volatile Charge on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -826,7 +804,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			637, -- [11]
+			3231, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -834,13 +812,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188502,
+			[51] = 1555473951,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
+		{
+			"3", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Voidamental-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3232, -- [11]
+			"Player-9-09423122", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473956,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -848,7 +848,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			638, -- [11]
+			3233, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -856,35 +856,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188509,
+			[51] = 1555473956,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
 			"2", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			639, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3234, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188510,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473957,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"1", -- [1]
+			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -892,7 +892,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			640, -- [11]
+			3235, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -900,35 +900,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188511,
+			[51] = 1555473957,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"Fixate on Paxington", -- [1]
-			"Paxington-Illidan", -- [2]
-			"Orcish", -- [3]
+			"1", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Paxington-Illidan", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			641, -- [11]
-			"Player-57-0ACFA287", -- [12]
+			3236, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Paxington-Illidan|r",
-			[51] = 1555188516,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473958,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Dark Revelation on Tosh", -- [1]
+			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -936,7 +936,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			642, -- [11]
+			3237, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -944,651 +944,629 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188525,
+			[51] = 1555473958,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"3", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Voidamental", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			644, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3238, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188532,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473963,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"2", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			645, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3239, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188533,
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555473963,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"1", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			646, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3240, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188534,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473963,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"Drift interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
-			"Drift-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"3", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Drift-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			655, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			3241, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Drift|r",
-			[51] = 1555188563,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473968,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Quaking Leap on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"3", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			662, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3242, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188576,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473968,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"Awtgssh Zaix za Halsheth", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"2", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			672, -- [11]
-			"Player-9-09D60980", -- [12]
+			3243, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188604,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473969,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"Hunting Leap on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"2", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			684, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3244, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188628,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473969,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Hunting Leap on Friendly", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"1", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			688, -- [11]
-			"Player-9-09D60980", -- [12]
+			3245, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188664,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555473970,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"Hunting Leap on Friendly", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"1", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			693, -- [11]
-			"Player-9-09D60980", -- [12]
+			3246, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188677,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473970,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"Casting |cff71d5ff|Hspell:2006:0|h[Resurrection]|h|r on You!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Orcbum", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			702, -- [11]
-			"Player-9-09D60980", -- [12]
+			3247, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188781,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555473984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Casting |cff71d5ff|Hspell:2006:0|h[Resurrection]|h|r on Tosh!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Orcbum", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			703, -- [11]
-			"Player-9-09D60980", -- [12]
+			3248, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188781,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555473984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Successfully resurrected You!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Druwqt", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			704, -- [11]
-			"Player-9-09D60980", -- [12]
+			3249, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188789,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473984,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Successfully resurrected You!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			705, -- [11]
-			"Player-9-09D60980", -- [12]
+			3250, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188789,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473989,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Drift!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			707, -- [11]
-			"Player-9-09D60980", -- [12]
+			3251, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188804,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473990,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"Hunting Leap on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			717, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3252, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188856,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555473991,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Hunting Leap on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			724, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3253, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188868,
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555473996,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"Hunting Leap on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			731, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			3254, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1555188880,
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555473996,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Awtgssh Zaix za Halsheth", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Volatile Charge on Khelikloth", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			734, -- [11]
-			"Player-9-09D60980", -- [12]
+			3255, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188892,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474008,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Drift!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			737, -- [11]
-			"Player-9-09D60980", -- [12]
+			3256, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188896,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555474008,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"Quaking Leap on Paxington", -- [1]
-			"Paxington-Illidan", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge on Druwqt", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Paxington-Illidan", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			744, -- [11]
-			"Player-57-0ACFA287", -- [12]
+			3257, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Paxington-Illidan|r",
-			[51] = 1555188922,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555474008,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"Quaking Leap on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			748, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3258, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1555188940,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474013,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"Pulling You to Me!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 3", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			750, -- [11]
-			"Player-9-09D60980", -- [12]
+			3259, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555188944,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555474013,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [64]
 		{
-			"Quaking Leap on Paxington", -- [1]
-			"Paxington-Illidan", -- [2]
-			"Orcish", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Paxington-Illidan", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			763, -- [11]
-			"Player-57-0ACFA287", -- [12]
+			3260, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Paxington-Illidan|r",
-			[51] = 1555188984,
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474014,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 2", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			772, -- [11]
-			"Player-9-09D60980", -- [12]
+			3261, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555474014,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"1. Paxington-Illidan 424.9k", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			773, -- [11]
-			"Player-9-09D60980", -- [12]
+			3262, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474015,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"2. Drift 524.0k", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge fading in 1", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			774, -- [11]
-			"Player-9-09D60980", -- [12]
+			3263, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1555474015,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"3. Tosh 598.0k", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			775, -- [11]
-			"Player-9-09D60980", -- [12]
+			3264, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1555474023,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"4. Andruww 911.0k", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Volatile Charge on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			776, -- [11]
-			"Player-9-09D60980", -- [12]
+			3265, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555474023,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"5. Friendly 1302.5k", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			777, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1555189011,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:245:14:9:7:13:117|h[Keystone: Freehold (14)]|h|r", -- [1]
+			"Volatile Charge on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -1596,7 +1574,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			787, -- [11]
+			3266, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1604,498 +1582,782 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1555189023,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1555474023,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3267, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474028,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			865, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3268, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191240,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474029,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			885, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3269, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191301,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Zombiemonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			890, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3270, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191374,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555474039,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Vercetty-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			899, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3271, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191435,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1555474039,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Aspbringer-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			901, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3272, -- [11]
+			"Player-9-0B379D1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191507,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555474039,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge fading in 3", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Zombiemonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			902, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3273, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191569,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1555474044,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
+			"Volatile Charge on Khelikloth", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			903, -- [11]
-			"Player-9-0B624CCF", -- [12]
+			3274, -- [11]
+			"Player-9-026CC87F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555191576,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474054,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Dawnzo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			907, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3275, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191641,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1555474070,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Trophie", -- [1]
+			"Trophie-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Trophie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			968, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3276, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191703,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555474070,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1017, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3277, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191775,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474070,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1018, -- [11]
-			"Player-9-0B624CCF", -- [12]
+			3278, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555191818,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474075,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"<Margaritaville> 1/9M 8/9H is a casual raid group and [insert thing you desire here] - We're really lazy.  Raids are Tues/Wed 7-10pm server. ilvl 395+ pst for info! Lookin for dps!", -- [1]
-			"Stumpmaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Stumpmaster-Kil'jaeden", -- [5]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1020, -- [11]
-			"Player-9-045129E0", -- [12]
+			3279, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Stumpmaster|r",
-			[51] = 1555191834,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474076,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Volatile Charge fading in 1", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Dawnzo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1021, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3280, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191836,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1555474077,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"<Margaritaville> 1/9M 8/9H is a casual raid group and [insert thing you desire here] - We're really lazy.  Raids are Tues/Wed 7-10pm server. ilvl 395+ pst for info! Lookin for dps!", -- [1]
-			"Stumpmaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Stumpmaster-Kil'jaeden", -- [5]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1025, -- [11]
-			"Player-9-045129E0", -- [12]
+			3281, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Stumpmaster|r",
-			[51] = 1555191903,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474077,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"Taunted Opulence!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"Sherbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1026, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3282, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191909,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1555474083,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [87]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Liquid Gold on Dolclemits", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Dolclemits-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1052, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3286, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555191970,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1555474101,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Liquid Gold on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Vercetty-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1075, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3287, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555192043,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1555474101,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
+			"Liquid Gold on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1076, -- [11]
-			"Player-9-0B624CCF", -- [12]
+			3289, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555192061,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1555474106,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Qualar Ifis za Ph'magg", -- [1]
+			"Trophie-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Trophie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1077, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3290, -- [11]
+			"Player-9-08D734A5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555192104,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeTrophie|r",
+			[51] = 1555474106,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5455:Player-9-07DEC29B:1:4:13:19:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
-			"Zarbon-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Liquid Gold on Focalaire", -- [1]
+			"Focalaire-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Zarbon-Kil'jaeden", -- [5]
+			"Focalaire-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1197, -- [11]
-			"Player-9-07DEC29B", -- [12]
+			3293, -- [11]
+			"Player-9-07DFC49A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zarbon|r",
-			[51] = 1555192923,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3ec5e9Focalaire|r",
+			[51] = 1555474117,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"sec", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Liquid Gold on Khelikloth", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Khelikloth-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1277, -- [11]
-			false, -- [12]
-			26, -- [13]
+			3294, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1555193763,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1555474117,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"jess just woke up", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
+			"Liquid Gold on Aspbringer", -- [1]
+			"Aspbringer-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aspbringer-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1278, -- [11]
-			false, -- [12]
-			26, -- [13]
+			3295, -- [11]
+			"Player-9-0B379D1C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1555193765,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Envious",
+			[52] = "|cfff38bb9Aspbringer|r",
+			[51] = 1555474122,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"ok", -- [1]
-			"|Kq25|k", -- [2]
+			"Liquid Gold on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Dawnzo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3296, -- [11]
+			"Player-9-062E1CCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1555474122,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"3", -- [1]
+			"Focalaire-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Focalaire-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3297, -- [11]
+			"Player-9-07DFC49A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Focalaire|r",
+			[51] = 1555474126,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"Liquid Gold on Mahle", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3298, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1555474126,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [97]
+		{
+			"Liquid Gold on Voidamental", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Voidamental-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3299, -- [11]
+			"Player-9-09423122", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1555474126,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"2", -- [1]
+			"Focalaire-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Focalaire-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3300, -- [11]
+			"Player-9-07DFC49A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Focalaire|r",
+			[51] = 1555474126,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [99]
+		{
+			"1", -- [1]
+			"Focalaire-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Focalaire-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3301, -- [11]
+			"Player-9-07DFC49A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Focalaire|r",
+			[51] = 1555474127,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [100]
+		{
+			"Liquid Gold on Wraithbrand", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3307, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1555474134,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [101]
+		{
+			"Liquid Gold on Friendly", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Friendly-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3308, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1555474134,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"Liquid Gold on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3311, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474139,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"Liquid Gold fading in 3", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Friendly-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3316, -- [11]
+			"Player-9-09D60980", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1555474143,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3321, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1555474148,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"<oRA3> Disbanding group.", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3339, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555474168,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [106]
+		{
+			"GARRISON INVASION ANYONE?", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2104,720 +2366,455 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1281, -- [11]
-			false, -- [12]
-			26, -- [13]
+			3367, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1555193792,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
-		}, -- [95]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1501, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555196991,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1540, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197052,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1586, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197125,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1625, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197186,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1638, -- [11]
-			"Player-9-0B624CCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555197204,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1668, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197259,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
-		{
-			"<AGB Community> selling BoD Heroic (Full Runs or Jaina Only). (Personal loot - Armor stack)  Starting at 9:00 PM EST ...  Gold Only", -- [1]
-			"Turnoo-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Turnoo-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1669, -- [11]
-			"Player-9-0B5A253A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcTurnoo|r",
-			[51] = 1555197264,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
-		{
-			"Wreckreational Havoc is looking for active RAIDERS and casuals. LF exceptional DPS, Mythic Keys ran daily. Raid times are Fri-Sat 7pm-9:30pm realm. 9/9N 6/9H FOR THE HORDE!", -- [1]
-			"Runswithcron-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Runswithcron-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1670, -- [11]
-			"Player-9-0B468C6A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcRunswithcron|r",
-			[51] = 1555197269,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1681, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197320,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1729, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197392,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
-		{
-			"The Gallywix Community || WTS > Mythic Plus 10s - 20s < - Ran by 2-3k Raider.io Players & Teams. We sell Random Keys,Specific Keys,Armor Stack Keys. All the loot boosters do not need is traded out. Get your Weekly 410+ Piece & 625+ Resdium with", -- [1]
-			"Gunkzz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Gunkzz-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1758, -- [11]
-			"Player-9-0B620957", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGunkzz|r",
-			[51] = 1555197439,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
-		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1764, -- [11]
-			"Player-9-0B624CCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555197446,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555474456,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [107]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"me", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1769, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3368, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197454,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1555474480,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [108]
 		{
-			"<AGB Community> selling BoD Heroic (Full Runs or Jaina Only). (Personal loot - Armor stack)  Starting at 9:00 PM EST ...  Gold Only", -- [1]
-			"Turnoo-Kil'jaeden", -- [2]
+			"sure", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Turnoo-Kil'jaeden", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1800, -- [11]
-			"Player-9-0B5A253A", -- [12]
+			3369, -- [11]
+			"Player-9-0361ED90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcTurnoo|r",
-			[51] = 1555197504,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555474485,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [109]
 		{
-			"Wreckreational Havoc is looking for active RAIDERS and casuals. LF exceptional DPS, Mythic Keys ran daily. Raid times are Fri-Sat 7pm-9:30pm realm. 9/9N 6/9H FOR THE HORDE!", -- [1]
-			"Runswithcron-Kil'jaeden", -- [2]
+			"let me log on mage", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3371, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1555474487,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:2758:Player-9-0876E67F:1:4:16:19:4294967295:4294967295:4294967295:4294967295|h[Argent Valor]|h|r!", -- [1]
+			"Zemma-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zemma-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3375, -- [11]
+			"Player-9-0876E67F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cZemma|r",
+			[51] = 1555474584,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [111]
+		{
+			"Looking for MAGE pst please", -- [1]
+			"Merthiza-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Runswithcron-Kil'jaeden", -- [5]
+			"Merthiza-Kil'jaeden", -- [5]
 			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			1804, -- [11]
-			"Player-9-0B468C6A", -- [12]
+			3417, -- [11]
+			"Player-9-07D3B045", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcRunswithcron|r",
-			[51] = 1555197508,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1816, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197526,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1855, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197587,
+			[52] = "|cff00fe95Merthiza|r",
+			[51] = 1555474883,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [112]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:3804:Player-9-0876E67F:1:4:16:19:4294967295:4294967295:4294967295:4294967295|h[I've Had Worse]|h|r!", -- [1]
+			"Zemma-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"Zemma-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1903, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			3423, -- [11]
+			"Player-9-0876E67F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197660,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cZemma|r",
+			[51] = 1555474941,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [113]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13101:Player-9-07D05E4B:1:4:16:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Molten Cay]|h|r!", -- [1]
+			"Ngow-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ngow-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-9-07D05E4B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Ngow|r",
+			[51] = 1555478431,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [114]
+		{
+			" <PGL>(9/9H 1/9M) (2/2N 1/2H) is recruiting DPS! (Boomkin, DK, Warrior prefered)) Our raid times are M/T/W 8-10pm PST. If you're interested or have any questions please feel free to whisper.", -- [1]
+			"Goldenpetal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
+			"Goldenpetal-Kil'jaeden", -- [5]
 			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			1924, -- [11]
-			"Player-9-0B624CCF", -- [12]
+			12, -- [11]
+			"Player-9-0B5C6A91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555197689,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1947, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197721,
+			[52] = "|cfff38bb9Goldenpetal|r",
+			[51] = 1555478651,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [115]
 		{
-			"<AGB Community> selling BoD Heroic (Full Runs or Jaina Only). (Personal loot - Armor stack)  Starting at 9:00 PM EST ...  Gold Only", -- [1]
-			"Turnoo-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:12845:Player-9-060A01FE:1:4:16:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Cacturne-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cacturne-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-9-060A01FE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Cacturne|r",
+			[51] = 1555480462,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [116]
+		{
+			"<Temporary Insanity>  5/9 M. Monday 7-10, Thursday 7-10, Friday 8-11pst.  Recruiting good players for core raid spots.", -- [1]
+			"Gymmy-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Turnoo-Kil'jaeden", -- [5]
+			"Gymmy-Kil'jaeden", -- [5]
 			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			1963, -- [11]
-			"Player-9-0B5A253A", -- [12]
+			67, -- [11]
+			"Player-9-0B5D7EA4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcTurnoo|r",
-			[51] = 1555197744,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1999, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197794,
+			[52] = "|cfffefefeGymmy|r",
+			[51] = 1555480590,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [117]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"dolly", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2044, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			278, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555197855,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555481100,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [118]
 		{
-			"WTS|cffa335ee|Hitem:137686::::::::20:71::13::::|h[Arnés de vinculacero]|h|r30k ", -- [1]
-			"Dasdaeesd-Kil'jaeden", -- [2]
+			"you coming", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dasdaeesd-Kil'jaeden", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2053, -- [11]
-			"Player-9-0B5BC149", -- [12]
+			279, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cDasdaeesd|r",
-			[51] = 1555197867,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555481104,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [119]
 		{
-			"WTS|cffa335ee|Hitem:137686::::::::20:71::13::::|h[Arnés de vinculacero]|h|r30k ", -- [1]
-			"Dasdaeesd-Kil'jaeden", -- [2]
+			"might as well lol", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dasdaeesd-Kil'jaeden", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2146, -- [11]
-			"Player-9-0B5BC149", -- [12]
+			283, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cDasdaeesd|r",
-			[51] = 1555197967,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1555481114,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [120]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"gonna get boo back?", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2208, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			286, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555198061,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1555481120,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [121]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"yeah", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2250, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			288, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555198123,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1555481125,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [122]
 		{
-			"Top Guild selling daily Heroic Battle of Dazar'alor Runs as well Mythic+ dungeon keys  /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
+			"gordon", -- [1]
+			"Serasong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			375, -- [11]
+			"Player-9-0AE87A48", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Serasong|r",
+			[51] = 1555484229,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2283, -- [11]
-			"Player-9-0B624CCF", -- [12]
+			418, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1555198174,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
-		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2298, -- [11]
-			"Player-9-0B6295C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555198195,
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486256,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [124]
 		{
-			"<AGB Community> selling BoD Heroic (Full Runs or Jaina Only). (Personal loot - Armor stack)  Starting at 9:00 PM EST ...  Gold Only", -- [1]
-			"Turnoo-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Turnoo-Kil'jaeden", -- [5]
+			"Cinnaminson-Kil'jaeden", -- [5]
 			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2321, -- [11]
-			"Player-9-0B5A253A", -- [12]
+			419, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcTurnoo|r",
-			[51] = 1555198226,
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486376,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [125]
 		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2342, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			421, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555198256,
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486496,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [126]
 		{
-			"[WTS] BoD Heroic & Mythic guild loot share runs. Full & BiS Gear, Azerite 3/3 guarantee! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Ugosan-Kil'jaeden", -- [2]
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
 			"", -- [3]
 			"1. Trade - City", -- [4]
-			"Ugosan-Kil'jaeden", -- [5]
-			"DND", -- [6]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
 			2, -- [7]
 			1, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2386, -- [11]
-			"Player-9-0B6295C8", -- [12]
+			422, -- [11]
+			"Player-9-0B40671B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Ugosan|r",
-			[51] = 1555198329,
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486616,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

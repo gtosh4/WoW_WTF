@@ -14,22 +14,14 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-04-16",
+			["NextWeeklyReset"] = "2019-04-23",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369033055"] = "43459|1555383339|0|1",
-				},
-				["lastUpdate"] = 1555385143,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554050018,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -49,16 +41,22 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 					["Tosh"] = {
-						["note"] = "",
+						["note"] = "<Away>",
+						["class"] = "Priest",
+						["level"] = 120,
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|367490213"] = "47885|1555378913|0|1",
-				},
-				["lastUpdate"] = 1555381140,
+				["lastUpdate"] = 1555491813,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554050018,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+						["level"] = 120,
+						["class"] = "Monk",
+					},
+				},
+				["lastUpdate"] = 1555432096,
 			},
 		},
 	},

@@ -13,13 +13,6 @@ X: -214
 Y: 235
 W: 128
 H: 64
-Frame: ColorPickerFrame
-FrameLevel: 21
-Anchor: TOP
-X: -342
-Y: -195
-W: 365
-H: 380
 Frame: AstralKeyFrame
 FrameLevel: 1
 Anchor: TOP
@@ -69,3 +62,10 @@ X: 21
 Y: -269
 W: 56
 H: 42
+Frame: ColorPickerFrame
+FrameLevel: 22
+Anchor: TOP
+X: -342
+Y: -195
+W: 420
+H: 380

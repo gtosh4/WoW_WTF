@@ -1,314 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" think that'd help?", -- [1]
-		"/m", -- [2]
-		"/o 20.6", -- [3]
-		"/raid 1", -- [4]
-		"/dn", -- [5]
-		"/o er, 20.9", -- [6]
-		"/o I looked at logs", -- [7]
-		"/roll", -- [8]
-		"/raid |cff66bbff|Hjournal:2:19658:16|h[Hand of Frost]|h|r", -- [9]
-		"think that'd help?", -- [10]
-		"/grid2", -- [11]
-		"/bw", -- [12]
-		"/ert", -- [13]
-		"/o he's exagerating", -- [14]
-		"/cw Qiro-Kil'jaeden if people are low, use before", -- [15]
-		"/o it's only 26~27%", -- [16]
-		"should we swap your slt and barrier?", -- [17]
-		"/roll 10", -- [18]
-		"/cw Qiro-Kil'jaeden was on thunderz", -- [19]
-		"/DN", -- [20]
+		"/o 20.6", -- [1]
+		"/DN", -- [2]
+		"/dn", -- [3]
+		"/o er, 20.9", -- [4]
+		"/roll", -- [5]
+		"/raid 1", -- [6]
+		"/raid |cff66bbff|Hjournal:2:19658:16|h[Hand of Frost]|h|r", -- [7]
+		"/cw Qiro-Kil'jaeden was on thunderz", -- [8]
+		"/bw", -- [9]
+		"/ert", -- [10]
+		"/o it's only 26~27%", -- [11]
+		"/cw Qiro-Kil'jaeden if people are low, use before", -- [12]
+		"/o I looked at logs", -- [13]
+		"/grid2", -- [14]
+		"/roll 10", -- [15]
+		"think that'd help?", -- [16]
+		"/o he's exagerating", -- [17]
+		"should we swap your slt and barrier?", -- [18]
+		"/tmw", -- [19]
+		"/ec", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			774, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376736,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:272046:0|h[Dive Bomb]|h|r for 128.2k (58%).", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			776, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376757,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"<EH> Emosong got hit by |cff71d5ff|Hspell:272046:0|h[Dive Bomb]|h|r for 123.2k (53%).", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			782, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376793,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"<EH> Toshaman got hit by |cff71d5ff|Hspell:272046:0|h[Dive Bomb]|h|r for 122.8k (53%).", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			790, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376827,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Cutwater Duelist!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			794, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376880,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"<EH> Rivalry got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			799, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376895,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			800, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376895,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			801, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376901,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"<EH> Emosong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			804, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376913,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			810, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376934,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			811, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376934,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"<EH> Emosong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			815, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376937,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Cutwater Duelist has ended!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			816, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1555376940,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
 		{
 			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 114.9k (52%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -330,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377031,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [1]
 		{
 			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 109.7k (49%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -352,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377053,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Cutwater Duelist!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -374,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377103,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [3]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -396,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377137,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [4]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -418,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377147,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [5]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -440,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [6]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -462,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [7]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -484,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377156,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Cutwater Duelist has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -506,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377163,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [9]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -528,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377164,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [10]
 		{
 			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -550,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377282,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [11]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -572,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377320,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [12]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -594,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377329,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [13]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -616,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377337,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [14]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -638,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377346,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [15]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:272374:0|h[Whirlpool of Blades]|h|r for 117.4k (50%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -660,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377397,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [16]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:272374:0|h[Whirlpool of Blades]|h|r for 118.2k (51%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -682,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377423,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [17]
 		{
 			"<EH> Emosong got hit by |cff71d5ff|Hspell:272374:0|h[Whirlpool of Blades]|h|r for 117.8k (51%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -704,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377447,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [18]
 		{
 			"]: sorry moon, i saw you wave as i logged", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -726,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377465,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [19]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:272374:0|h[Whirlpool of Blades]|h|r for 114.8k (49%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -748,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377471,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [20]
 		{
 			"y i k e s", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -770,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377474,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [21]
 		{
 			"i was making you lose stacks of your trinkets", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -792,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555377478,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [22]
 		{
 			"o", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -814,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377487,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [23]
 		{
 			"rekd", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -836,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555377493,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [24]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:272374:0|h[Whirlpool of Blades]|h|r for 119.7k (53%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -858,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377495,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [25]
 		{
 			"]:", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -880,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377497,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [26]
 		{
 			"toxic", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -902,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1555377502,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [27]
 		{
 			"super toxic", -- [1]
 			"Altairweeps-Kil'jaeden", -- [2]
@@ -924,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Altairweeps|r",
 			[51] = 1555377538,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [28]
 		{
 			"jokes on you i don't need the stacks if i'm just standing in town", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -946,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377573,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [29]
 		{
 			"not need", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -968,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555377582,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [30]
 		{
 			"WANT", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -990,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555377584,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [31]
 		{
 			"yeah but your afk progression", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1012,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1555377588,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [32]
 		{
 			"o", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1034,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555377591,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [33]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1056,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377628,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Irontide Stormcaller!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1078,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377664,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [35]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Irontide Stormcaller has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1100,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377678,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [36]
 		{
 			"<EH> Emosong got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 113.5k (49%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1122,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377691,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [37]
 		{
 			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1144,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377722,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Irontide Stormcaller!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1166,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377754,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Irontide Stormcaller has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1188,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377769,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [40]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1210,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555377769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [41]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1232,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377774,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [42]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1254,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555377790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [43]
 		{
 			"5", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1276,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [44]
 		{
 			"4", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1298,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377815,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [45]
 		{
 			"3", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1320,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377816,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [46]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1342,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377851,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [47]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1364,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377872,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [48]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1386,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377924,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [49]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1408,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377924,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [50]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1430,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377924,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [51]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1452,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [52]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1474,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [53]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1496,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [54]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1518,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [55]
 		{
 			"Fixate on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1540,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377965,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [56]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1562,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377967,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [57]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1584,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377967,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [58]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1606,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377967,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [59]
 		{
 			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:257310:0|h[Cannon Barrage]|h|r for 291.0k (131%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1628,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377974,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [60]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1650,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555377998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [61]
 		{
 			"Cannon Barrage on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1672,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555377998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [62]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1694,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555377998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [63]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1716,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555377998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [64]
 		{
 			"Fixate on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1738,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378009,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [65]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1760,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378048,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [66]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1782,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [67]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1804,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378058,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [68]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1826,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378058,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [69]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1848,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555378066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [70]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1870,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555378066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [71]
 		{
 			"<EH> Paxington-Illidan got hit by |cff71d5ff|Hspell:276061:0|h[Boulder Throw]|h|r for 130.7k (52%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1892,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378067,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [72]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:276061:0|h[Boulder Throw]|h|r for 109.6k (49%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1914,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378080,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [73]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1936,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [74]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:276061:0|h[Boulder Throw]|h|r for 131.3k (58%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1958,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378091,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [75]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1980,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555378184,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [76]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2002,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555378192,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [77]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2024,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555378200,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [78]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2046,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555378201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [79]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2068,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [80]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2090,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [81]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2112,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555378226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [82]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 105.3k (47%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2134,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378269,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [83]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 97.2k (43%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2156,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378302,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [84]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 105.1k (47%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2178,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378317,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [85]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2200,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378340,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [86]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2222,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378358,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [87]
 		{
 			"<EH> Elvidnir got hit by |cff71d5ff|Hspell:256546:0|h[Shark Tornado]|h|r for 115.3k (52%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2244,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378446,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [88]
 		{
 			"Shark Toss on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2266,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378460,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [89]
 		{
 			"<EH> Emosong got hit by |cff71d5ff|Hspell:256546:0|h[Shark Tornado]|h|r for 131.6k (57%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2288,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378476,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [90]
 		{
 			"Shark Toss on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2310,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378489,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [91]
 		{
 			"Shark Toss on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2332,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1555378510,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [92]
 		{
 			"|cff71d5ff|Htalent:19236|h[Acrobatic Strikes]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2354,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1555378516,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
+		}, -- [93]
 		{
 			"i like how my alt gets declined for keys when they can see my main's score -.-", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2376,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378535,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [94]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2398,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378541,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [95]
 		{
 			"Ricocheting Throw on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2420,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1555378549,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [96]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2442,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [97]
 		{
 			"1. Paxington-Illidan 180.8k", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2464,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [98]
 		{
 			"2. Emosong 878.4k", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2486,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [99]
 		{
 			"3. Elvidnir 961.8k", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2508,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [100]
 		{
 			"4. Toshaman 1404.5k", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2530,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [114]
+		}, -- [101]
 		{
 			"5. Rivalry 1451.8k", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2552,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1555378572,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [102]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:244:17:9:7:13:117|h[Keystone: Atal'Dazar (17)]|h|r", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2574,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555378575,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [103]
 		{
 			"look at the cloak this buyer got |cffa335ee|Hitem:155884::::::::120:577::16:3:5010:1597:4784:::|h[Parrotfeather Cloak]|h|r", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2596,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1555378842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [104]
 		{
 			"damnn", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2618,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378860,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [105]
 		{
 			"they always have the luck", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2640,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378873,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [106]
 		{
 			"earned it", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2662,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1555378877,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [107]
 		{
 			"psh; rng doesnt reward ppl", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2684,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378922,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [108]
 		{
 			"its plotting something", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2706,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378928,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [109]
 		{
 			":]", -- [1]
 			"Altairmatter-Kil'jaeden", -- [2]
@@ -2728,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Altairmatter|r",
 			[51] = 1555378939,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [110]
 		{
 			"EVERYONE TALKING AT ONCE", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2750,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1555379308,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [111]
 		{
 			"anyone need some", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2772,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555379748,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [112]
 		{
 			"ISLANDS", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2794,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1555379750,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [113]
 		{
 			"what about peninsulas", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2816,6 +2530,292 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1555379774,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"slaps Doopy across the face. Ouch!", -- [1]
+			"Laax-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Laax-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-9-0B1A850E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Laax|r",
+			[51] = 1555480215,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [115]
+		{
+			"why would anyone hold lust on stormwall", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1555483138,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"like until dock phase", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1555483144,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"that seems weird", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1555483146,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"you have a sub again", -- [1]
+			"Nawtyrogue-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			324, -- [11]
+			"Player-9-0B5975CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Nawtyrogue|r",
+			[51] = 1555483155,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"good talk", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			326, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1555483209,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"lol", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1555483210,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:11846:Player-9-0B5FB49F:1:4:16:19:4294967295:4294967295:4294967295:4294967295|h[Champions of Legionfall]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Heyitsknoss-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
+			"Player-9-0B5FB49F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1555484372,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			396, -- [11]
+			"Player-9-0B40671B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486256,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"Player-9-0B40671B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486376,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			400, -- [11]
+			"Player-9-0B40671B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486496,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"Selling Mythic +10 Dungeon carries. Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
+			"Cinnaminson-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Cinnaminson-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			401, -- [11]
+			"Player-9-0B40671B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeCinnaminson|r",
+			[51] = 1555486616,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:11543:Player-9-0B5FB49F:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Explore Broken Shore]|h|r!", -- [1]
+			"Heyitsknoss-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Heyitsknoss-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			423, -- [11]
+			"Player-9-0B5FB49F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Heyitsknoss|r",
+			[51] = 1555487666,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }
