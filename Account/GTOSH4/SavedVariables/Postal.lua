@@ -1,15 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -24,14 +14,25 @@ Postal3DB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshmonk|Kil'jaeden|Horde", -- [1]
-					"Toshaman|Kil'jaeden|Horde", -- [2]
+					"Wraithbrand|Kil'jaeden|Horde", -- [1]
+					"Toshmonk|Kil'jaeden|Horde", -- [2]
+					"Toshaman|Kil'jaeden|Horde", -- [3]
 				},
 			},
 		},
