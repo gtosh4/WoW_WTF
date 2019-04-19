@@ -35,21 +35,21 @@ TomTomWaypointsM = {
 					895, -- [1]
 					0.580264091491699, -- [2]
 					0.761365950107575, -- [3]
-					["minimap"] = true,
+					["world"] = true,
 					["cleardistance"] = 10,
 					["title"] = "Beachhead",
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["crazy"] = true,
 					["persistent"] = true,
-					["world"] = true,
+					["minimap"] = true,
 				},
 				["895:580264091.4917:761365950.10758:Beachhead"] = {
 					895, -- [1]
@@ -93,9 +93,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,

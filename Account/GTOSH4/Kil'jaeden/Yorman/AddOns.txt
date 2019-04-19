@@ -14,3 +14,4 @@ Blizzard_CUFProfiles: disabled
 AzeriteForge: disabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
+BigWigs_CrucibleOfStorms: enabled

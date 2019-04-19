@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 709,
+	["session"] = 711,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2\\modules\\IndicatorTooltip.lua:55: attempt to call method 'GetTooltip' (a nil value)",
@@ -27,5 +27,13 @@ BugGrabberDB = {
 			["session"] = 709,
 			["counter"] = 2,
 		}, -- [3]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:Hide()'.",
+			["time"] = "2019/04/19 00:13:55",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Hide'\nInterface\\AddOns\\MythicPlusTimer\\CMTimer.lua:449: in function `Draw'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:380: in function `OnCMTimerTick'\nInterface\\AddOns\\MythicPlusTimer\\Core.lua:441: in function <Interface\\AddOns\\MythicPlusTimer\\Core.lua:436>\n[C]: in function `updateFunc'\n...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:228: in function <...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:226>",
+			["session"] = 711,
+			["counter"] = 2,
+		}, -- [4]
 	},
 }

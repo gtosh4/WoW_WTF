@@ -21,6 +21,16 @@ BigWigs3DB = {
 		},
 	},
 	["namespaces"] = {
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[288449] = 2015479,
+					[287333] = 1032439,
+					[285003] = 1032439,
+					["stages"] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Alt Power"] = {
@@ -33,7 +43,19 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+		},
+		["BigWigs_Bosses_Skycap'n Kragg"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -51,25 +73,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Harlan Sweete"] = {
+		},
+		["BigWigs_Bosses_Freehold Trash"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Bosses_Ring of Booty"] = {
+		},
+		["BigWigs_Bosses_The Restless Cabal"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[287333] = 1032439,
-					[288449] = 2015479,
-					["stages"] = 1032439,
-					[285003] = 1032439,
+					[282540] = 1032439,
 				},
 			},
 		},
@@ -82,7 +99,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -116,6 +133,10 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -126,8 +147,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-		},
 		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -135,16 +154,14 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
 				["Default"] = {
 					[285118] = 1032439,
 				},
 			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -394,7 +411,7 @@ BigWigsStatsDB = {
 		[2328] = {
 			["heroic"] = {
 				["kills"] = 1,
-				["wipes"] = 6,
+				["wipes"] = 10,
 				["best"] = 326.630999999994,
 			},
 		},

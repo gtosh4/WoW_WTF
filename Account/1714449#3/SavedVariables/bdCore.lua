@@ -108,8 +108,28 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["topViewport"] = 0,
 			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				[""] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -120,43 +140,23 @@ BD_persistent = {
 				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
 				["RIP Toshmonk"] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["slay mekka friday and blockade saturday "] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
-				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["main raid tonight slay stormwall :)"] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["main raid tonight slay stormwall :)"] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
-				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["skingmotd"] = true,
-			["bottomViewport"] = 0,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
-			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
 	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
-	["_5000000"] = 10000,
+	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["LOG_DE_DATA_X"] = true,
+	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -39,15 +39,15 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "152876:0:0:0:0",
 		["5631147"] = "856000:5",
 	},
+	["Bloodstained Message"] = {
+		["is"] = "158879:0:0:0:0",
+		["5552851"] = "7420000:1",
+	},
 	["Veiled Crystal"] = {
 		["5521304"] = "4867500:4",
 		["5521828"] = "4847500:4",
 		["5631147"] = "2045000:4",
 		["is"] = "152877:0:0:0:0",
-	},
-	["Bloodstained Message"] = {
-		["is"] = "158879:0:0:0:0",
-		["5552851"] = "7420000:1",
 	},
 }
 AUCTIONATOR_SHOPPING_LISTS = {
@@ -1643,13 +1643,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3017"] = 760488,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 63479985,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3016"] = 63479985,
-		},
 		["Monel-Hardened Stirrups"] = {
 			["mr"] = 12900000,
 			["sc"] = 8,
@@ -1657,11 +1650,17 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 12900000,
 		},
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 63479985,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3016"] = 63479985,
+		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 1187497,
 			["cc"] = 3,
 			["id"] = "154126:0:0:0:0",
-			["H3060"] = 758499,
 			["H3075"] = 1187497,
 			["sc"] = 5,
 		},
