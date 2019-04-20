@@ -147,18 +147,6 @@ Gladius2DB = {
 			["aurasBuffsHeight"] = 22,
 			["aurasBuffs"] = true,
 			["aurasBuffsWidth"] = 22,
-			["clickAttributes"] = {
-				["shift-Right"] = {
-					["macro"] = "Mind Control",
-					["button"] = "2",
-					["action"] = "target",
-					["modifier"] = "shift-",
-				},
-				["Right"] = {
-					["macro"] = "Dispel Magic",
-					["action"] = "spell",
-				},
-			},
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "",
@@ -173,6 +161,18 @@ Gladius2DB = {
 			["castBarTexture"] = "ElvUI Norm",
 			["healthBarTexture"] = "ElvUI Norm",
 			["powerBarTexture"] = "ElvUI Norm",
+			["clickAttributes"] = {
+				["shift-Right"] = {
+					["macro"] = "Mind Control",
+					["button"] = "2",
+					["action"] = "target",
+					["modifier"] = "shift-",
+				},
+				["Right"] = {
+					["macro"] = "Dispel Magic",
+					["action"] = "spell",
+				},
+			},
 			["classIconShowSpec"] = true,
 		},
 		["Tosh - Kil'jaeden"] = {

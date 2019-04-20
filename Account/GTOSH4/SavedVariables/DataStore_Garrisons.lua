@@ -722,12 +722,13 @@ DataStore_GarrisonsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555652116,
+				["lastUpdate"] = 1555738303,
 				["AvailableWarCampaignMissions"] = {
-					1935, -- [1]
-					1932, -- [2]
-					2086, -- [3]
-					1946, -- [4]
+					1959, -- [1]
+					1930, -- [2]
+					1935, -- [3]
+					1956, -- [4]
+					1940, -- [5]
 				},
 				["ActiveWarCampaignMissions"] = {
 					1925, -- [1]
@@ -741,9 +742,6 @@ DataStore_GarrisonsDB = {
 							1070, -- [3]
 						},
 					},
-				},
-				["MissionsStartTimes"] = {
-					[1925] = 1555649807,
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -1274,16 +1272,16 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1946] = {
-					["durationSeconds"] = 28800,
+				[1930] = {
+					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 80,
+					["cost"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 200,
-							["icon"] = 2032597,
-							["currencyID"] = 1595,
+							["quantity"] = 252,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -1319,52 +1317,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 950,
-				},
-				[2086] = {
-					["durationSeconds"] = 57600,
-					["type"] = "8.0 - Stealth",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 350,
-							["icon"] = 2032599,
-							["currencyID"] = 1596,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Stealth",
-					["iLevel"] = 800,
-				},
-				[264] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Combat",
-					["cost"] = 15,
-					["iLevel"] = 615,
-					["rewards"] = {
-						{
-							["itemID"] = 114081,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["level"] = 100,
-				},
-				[1935] = {
-					["durationSeconds"] = 43200,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Money Reward",
-							["quantity"] = 1004900,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
 				},
 				[1709] = {
 					["durationSeconds"] = 92160,
@@ -1443,21 +1395,19 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 96,
 				},
-				[1932] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
+				[1059] = {
+					["durationSeconds"] = 36000,
+					["type"] = "7.0 Class Hall - Treasure Missions",
+					["cost"] = 100,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 242,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
+							["itemID"] = 147348,
+							["quantity"] = 1,
 						}, -- [1]
 					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
+					["level"] = 108,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 760,
 				},
 				[187] = {
 					["durationSeconds"] = 2700,
@@ -1519,6 +1469,34 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["level"] = 110,
 				},
+				[1956] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["itemID"] = 163036,
+							["quantity"] = 16,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1060] = {
+					["durationSeconds"] = 43200,
+					["type"] = "7.0 Class Hall - Treasure Missions",
+					["cost"] = 300,
+					["rewards"] = {
+						{
+							["itemID"] = 147348,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 109,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 760,
+				},
 				[668] = {
 					["durationSeconds"] = 28800,
 					["type"] = "Combat",
@@ -1534,20 +1512,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 100,
-				},
-				[1060] = {
-					["durationSeconds"] = 43200,
-					["type"] = "7.0 Class Hall - Treasure Missions",
-					["cost"] = 300,
-					["rewards"] = {
-						{
-							["itemID"] = 147348,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 109,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 760,
 				},
 				[73] = {
 					["durationSeconds"] = 300,
@@ -1566,25 +1530,19 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Logistics",
 					["iLevel"] = 0,
 				},
-				[331] = {
-					["durationSeconds"] = 1800,
-					["type"] = "Patrol",
-					["cost"] = 10,
-					["level"] = 90,
+				[130] = {
+					["durationSeconds"] = 14400,
+					["type"] = "Combat",
+					["cost"] = 15,
+					["iLevel"] = 0,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 100,
-							["icon"] = 1005027,
-							["currencyID"] = 824,
-						}, -- [1]
-						{
-							["itemID"] = 27944,
+							["itemID"] = 120302,
 							["quantity"] = 1,
-						}, -- [2]
+						}, -- [1]
 					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
-					["iLevel"] = 0,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["level"] = 100,
 				},
 				[1505] = {
 					["durationSeconds"] = 46080,
@@ -1662,6 +1620,22 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 100,
+				},
+				[1935] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Money Reward",
+							["quantity"] = 1496300,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[1751] = {
 					["durationSeconds"] = 21600,
@@ -1758,19 +1732,25 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["level"] = 110,
 				},
-				[1059] = {
-					["durationSeconds"] = 36000,
-					["type"] = "7.0 Class Hall - Treasure Missions",
-					["cost"] = 100,
+				[331] = {
+					["durationSeconds"] = 1800,
+					["type"] = "Patrol",
+					["cost"] = 10,
+					["level"] = 90,
 					["rewards"] = {
 						{
-							["itemID"] = 147348,
-							["quantity"] = 1,
+							["title"] = "Currency Reward",
+							["quantity"] = 100,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
 						}, -- [1]
+						{
+							["itemID"] = 27944,
+							["quantity"] = 1,
+						}, -- [2]
 					},
-					["level"] = 108,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["iLevel"] = 760,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
 				},
 				[1332] = {
 					["durationSeconds"] = 86400,
@@ -1789,19 +1769,35 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 760,
 				},
-				[130] = {
-					["durationSeconds"] = 14400,
+				[264] = {
+					["durationSeconds"] = 28800,
 					["type"] = "Combat",
 					["cost"] = 15,
-					["iLevel"] = 0,
+					["iLevel"] = 615,
 					["rewards"] = {
 						{
-							["itemID"] = 120302,
+							["itemID"] = 114081,
 							["quantity"] = 1,
 						}, -- [1]
 					},
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["level"] = 100,
+				},
+				[1959] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 125,
+							["icon"] = 2032593,
+							["currencyID"] = 1600,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[1761] = {
 					["durationSeconds"] = 34560,
@@ -1818,6 +1814,22 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["level"] = 110,
+				},
+				[1940] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Stealth",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 525,
+							["icon"] = 2032592,
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["iLevel"] = 800,
 				},
 			},
 			["FollowerNamesToID"] = {

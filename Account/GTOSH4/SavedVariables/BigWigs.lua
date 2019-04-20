@@ -1,5 +1,6 @@
 
 BigWigs3DB = {
+	["discord"] = 15,
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -31,8 +32,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -44,18 +43,6 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Grong Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Council o' Captains"] = {
-		},
-		["BigWigs_Bosses_Skycap'n Kragg"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
@@ -75,13 +62,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_Harlan Sweete"] = {
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
 		},
-		["BigWigs_Bosses_Freehold Trash"] = {
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Bosses_Ring of Booty"] = {
 		},
 		["BigWigs_Bosses_The Restless Cabal"] = {
 			["profiles"] = {
@@ -99,7 +90,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -112,7 +103,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_x"] = 675.743157964433,
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
@@ -122,20 +113,16 @@ BigWigs3DB = {
 					["emphasizeMove"] = false,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_y"] = 257.60125702105,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["outline"] = "OUTLINE",
-					["emphasizeTime"] = 12,
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
 					["fontSizeEmph"] = 11,
 				},
 			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -147,6 +134,17 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
 		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -154,14 +152,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -194,7 +185,6 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,
@@ -302,7 +292,7 @@ BigWigsStatsDB = {
 				["best"] = 449.687000000035,
 			},
 			["mythic"] = {
-				["wipes"] = 197,
+				["wipes"] = 236,
 			},
 		},
 		[2337] = {

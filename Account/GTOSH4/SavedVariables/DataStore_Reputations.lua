@@ -254,7 +254,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555652116,
+				["lastUpdate"] = 1555738303,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {

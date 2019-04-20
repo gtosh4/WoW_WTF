@@ -264,9 +264,9 @@ DominosDB = {
 					["padH"] = 1,
 					["x"] = 0,
 					["display"] = {
+						["border"] = true,
 						["icon"] = false,
 						["time"] = true,
-						["border"] = true,
 					},
 					["texture"] = "blizzard",
 				},
@@ -539,9 +539,9 @@ DominosDB = {
 					["padH"] = 1,
 					["x"] = 0,
 					["display"] = {
+						["border"] = true,
 						["icon"] = false,
 						["time"] = true,
-						["border"] = true,
 					},
 					["texture"] = "blizzard",
 				},
@@ -582,13 +582,6 @@ DominosDB = {
 					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
-						["PALADIN"] = {
-							["page2"] = 1,
-							["page5"] = 4,
-							["page4"] = 3,
-							["page3"] = 2,
-							["page6"] = 5,
-						},
 						["SHAMAN"] = {
 							["page2"] = 1,
 							["page5"] = 4,
@@ -597,6 +590,13 @@ DominosDB = {
 							["page6"] = 5,
 						},
 						["DEMONHUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PALADIN"] = {
 							["page2"] = 1,
 							["page5"] = 4,
 							["page4"] = 3,
@@ -648,11 +648,11 @@ DominosDB = {
 					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -674,11 +674,11 @@ DominosDB = {
 					["y"] = -121,
 					["x"] = 16,
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -706,11 +706,11 @@ DominosDB = {
 					["spacing"] = 4,
 					["anchor"] = "3TL",
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -735,11 +735,11 @@ DominosDB = {
 					["spacing"] = 4,
 					["anchor"] = "4TL",
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -764,11 +764,11 @@ DominosDB = {
 					["spacing"] = 4,
 					["anchor"] = "5TC",
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -793,11 +793,11 @@ DominosDB = {
 					["padH"] = 2,
 					["point"] = "BOTTOMLEFT",
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -821,11 +821,11 @@ DominosDB = {
 					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -849,11 +849,11 @@ DominosDB = {
 					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -877,11 +877,11 @@ DominosDB = {
 					["padH"] = 2,
 					["numButtons"] = 12,
 					["pages"] = {
-						["PALADIN"] = {
-						},
 						["SHAMAN"] = {
 						},
 						["DEMONHUNTER"] = {
+						},
+						["PALADIN"] = {
 						},
 						["MAGE"] = {
 						},
@@ -1022,9 +1022,9 @@ DominosDB = {
 					["font"] = "Friz Quadrata TT",
 					["x"] = 561,
 					["display"] = {
+						["icon"] = false,
 						["border"] = true,
 						["time"] = true,
-						["icon"] = false,
 					},
 					["y"] = 49,
 					["padH"] = 1,
@@ -1276,9 +1276,9 @@ DominosDB = {
 					["y"] = 30,
 					["padH"] = 1,
 					["display"] = {
+						["border"] = true,
 						["icon"] = false,
 						["time"] = true,
-						["border"] = true,
 					},
 					["x"] = 0,
 					["texture"] = "blizzard",
@@ -1592,9 +1592,9 @@ DominosDB = {
 					["y"] = 30,
 					["padH"] = 1,
 					["display"] = {
+						["time"] = true,
 						["border"] = true,
 						["icon"] = false,
-						["time"] = true,
 					},
 					["x"] = 0,
 					["texture"] = "blizzard",
@@ -1836,9 +1836,9 @@ DominosDB = {
 					["y"] = 30,
 					["padH"] = 1,
 					["display"] = {
+						["icon"] = false,
 						["time"] = true,
 						["border"] = true,
-						["icon"] = false,
 					},
 					["x"] = 0,
 					["texture"] = "blizzard",
@@ -2152,9 +2152,9 @@ DominosDB = {
 					["y"] = 30,
 					["padH"] = 1,
 					["display"] = {
+						["border"] = true,
 						["icon"] = false,
 						["time"] = true,
-						["border"] = true,
 					},
 					["x"] = 0,
 					["texture"] = "blizzard",

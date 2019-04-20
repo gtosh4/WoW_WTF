@@ -197,6 +197,7 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
+	["displayed"] = 121094719,
 	["window"] = {
 		["height"] = 493.962524414063,
 		["top"] = 1101.978515625,
