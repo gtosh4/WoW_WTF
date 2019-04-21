@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 715,
+	["session"] = 719,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2\\modules\\IndicatorTooltip.lua:55: attempt to call method 'GetTooltip' (a nil value)",
@@ -35,5 +35,12 @@ BugGrabberDB = {
 			["session"] = 711,
 			["counter"] = 2,
 		}, -- [4]
+		{
+			["message"] = "...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:238: attempt to call global 'IsAddonMessagePrefixRegistered' (a nil value)",
+			["time"] = "2019/04/20 21:20:35",
+			["stack"] = "...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:238: in function `Enable'\n...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:251: in function `SendMessage'\n...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:381: in function <...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:378>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ssic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Button.lua:22: in function <...ssic\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>",
+			["session"] = 718,
+			["counter"] = 1,
+		}, -- [5]
 	},
 }

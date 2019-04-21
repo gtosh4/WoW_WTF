@@ -68,6 +68,38 @@ TomTomWaypointsM = {
 		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+			[863] = {
+				["863:495581090.45029:379226565.36102:Totem Maker Jash'ga"] = {
+					863, -- [1]
+					0.495581090450287, -- [2]
+					0.379226565361023, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["persistent"] = true,
+					["desc"] = "Totem Maker Jash'ga",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Totem Maker Jash'ga",
+					["crazy"] = true,
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Tosku - Kil'jaeden"] = {
 		},

@@ -191,7 +191,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1555649105,
+				["lastUpdate"] = 1555804221,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "2558-0-0-0",
@@ -438,7 +438,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1555738303,
+				["lastUpdate"] = 1555826783,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",

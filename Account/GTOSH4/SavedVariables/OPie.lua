@@ -16,11 +16,42 @@ OneRing_Config = {
 				["PaladinAuras"] = false,
 				["OPieAutoQuest"] = "ALT-S",
 				["OPieTracking"] = false,
+				["Mounts"] = "ALT-1",
 			},
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
+			["Mounts"] = {
+				{
+					["id"] = 150544,
+					["sliceToken"] = "ABuefXkOF8p",
+				}, -- [1]
+				{
+					"mount", -- [1]
+					1025, -- [2]
+					["sliceToken"] = "ABuefXkOF8o",
+				}, -- [2]
+				{
+					"mount", -- [1]
+					284, -- [2]
+					["sliceToken"] = "ABuefXkOF82",
+				}, -- [3]
+				{
+					"mount", -- [1]
+					449, -- [2]
+					["sliceToken"] = "ABuefXkOF8i",
+				}, -- [4]
+				{
+					"mount", -- [1]
+					407, -- [2]
+					["sliceToken"] = "ABuefXkOF8a",
+				}, -- [5]
+				["offset"] = 0,
+				["name"] = "Mounts",
+				["save"] = true,
+				["hotkey"] = "ALT-1",
+			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},

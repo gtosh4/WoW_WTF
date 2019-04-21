@@ -27,9 +27,9 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369157966"] = "382447|1555649151|0|1",
+					["Battle of Dazar'alor Mythic|369157966"] = "227372|1555804224|0|1",
 				},
-				["lastUpdate"] = 1555649152,
+				["lastUpdate"] = 1555806248,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -50,13 +50,15 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
+						["class"] = "Priest",
+						["level"] = 120,
 					},
 				},
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369151940"] = "293292|1555738304|0|1",
-					["Battle of Dazar'alor Mythic|367490213"] = "293292|1555738304|0|1",
+					["Crucible of Storms Heroic|369151940"] = "204223|1555827373|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "204223|1555827373|0|1",
 				},
-				["lastUpdate"] = 1555738304,
+				["lastUpdate"] = 1555827432,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1554050018,

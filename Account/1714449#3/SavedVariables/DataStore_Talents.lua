@@ -17,13 +17,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1555637269,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1554683448,
 				["Specializations"] = {
-					16383, -- [1]
-					[3] = 5527,
+					7165, -- [1]
+					[4] = 15085,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1554335366,
@@ -41,13 +41,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683448,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1555826796,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
+					16383, -- [1]
+					[3] = 5527,
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 		},
 	},

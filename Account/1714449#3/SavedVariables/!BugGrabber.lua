@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 686,
 	["lastSanitation"] = 3,
+	["session"] = 689,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:60: attempt to index global 'aura_env' (a nil value)",
@@ -35,5 +35,12 @@ BugGrabberDB = {
 			["session"] = 686,
 			["counter"] = 1,
 		}, -- [4]
+		{
+			["message"] = "...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:238: attempt to call global 'IsAddonMessagePrefixRegistered' (a nil value)",
+			["time"] = "2019/04/20 21:20:59",
+			["stack"] = "...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:238: in function `Enable'\n...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:364: in function <...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:364>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-69.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...ns\\Accountant_Classic\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...ic\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-CheckBox.lua:68: in function <...ic\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-CheckBox.lua:57>",
+			["session"] = 687,
+			["counter"] = 1,
+		}, -- [5]
 	},
 }

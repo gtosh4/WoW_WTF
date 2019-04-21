@@ -12,7 +12,7 @@ VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
 #showtooltip Wind Shear
-/cast [@focus,exists,noharm,nodead] Wind Shear; Wind Shear
+/cast [@focus,exists,noharm,nodead][] Wind Shear
 END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit

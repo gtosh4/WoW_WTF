@@ -13,14 +13,45 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["OPieTracking"] = false,
+				["Mounts"] = "ALT-1",
 			},
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
+			["Mounts"] = {
+				{
+					["id"] = 150544,
+					["sliceToken"] = "ABuefXkFMjy",
+				}, -- [1]
+				{
+					"mount", -- [1]
+					1025, -- [2]
+					["sliceToken"] = "ABuefXkFMjt",
+				}, -- [2]
+				{
+					"mount", -- [1]
+					284, -- [2]
+					["sliceToken"] = "ABuefXkFMj1",
+				}, -- [3]
+				{
+					"mount", -- [1]
+					449, -- [2]
+					["sliceToken"] = "ABuefXkFMjr",
+				}, -- [4]
+				{
+					"mount", -- [1]
+					407, -- [2]
+					["sliceToken"] = "ABuefXkFMje",
+				}, -- [5]
+				["offset"] = 0,
+				["name"] = "Mounts",
+				["save"] = true,
+				["quarantineBind"] = "ALT-1",
+			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},

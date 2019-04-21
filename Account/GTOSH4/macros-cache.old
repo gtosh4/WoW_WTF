@@ -38,6 +38,7 @@ VER 3 000000000000002B "noblust" "Ability_DemonHunter_Torment."
 /cancelaura Drums of Rage
 /cancelaura Primal Rage
 /cancelaura Time Warp
+/focus Jaina's Tide Elemental
 END
 VER 3 0000000000000029 "page1" "134153"
 /changeactionbar 1
