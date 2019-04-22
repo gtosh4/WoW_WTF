@@ -13,10 +13,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-S",
-				["OPieTracking"] = false,
 				["Mounts"] = "ALT-1",
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["PaladinAuras"] = false,
 			},
 		},
 	},
@@ -24,8 +24,8 @@ OneRing_Config = {
 		["RingKeeper"] = {
 			["Mounts"] = {
 				{
-					["id"] = 150544,
 					["sliceToken"] = "ABuefXkOF8p",
+					["id"] = 150544,
 				}, -- [1]
 				{
 					"mount", -- [1]

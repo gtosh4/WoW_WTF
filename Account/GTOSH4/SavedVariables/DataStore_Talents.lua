@@ -20,13 +20,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1555804220,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554049957,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 16319,
+					5631, -- [1]
+					[3] = 5527,
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554966021,
@@ -60,20 +60,20 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555826796,
+				["lastUpdate"] = 1555894532,
 				["Specializations"] = {
 					10678, -- [1]
 					[3] = 8151,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049957,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1555804220,
 				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
+					7165, -- [1]
+					[4] = 16319,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 		},
 	},
@@ -90,38 +90,6 @@ DataStore_TalentsRefDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["global"] = {
-		["DEMONHUNTER"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				[2] = {
-					["id"] = 581,
-					["talents"] = {
-						22502, -- [1]
-						22503, -- [2]
-						22504, -- [3]
-						22505, -- [4]
-						22766, -- [5]
-						22507, -- [6]
-						22324, -- [7]
-						22541, -- [8]
-						22540, -- [9]
-						22508, -- [10]
-						22509, -- [11]
-						22770, -- [12]
-						22546, -- [13]
-						22510, -- [14]
-						22511, -- [15]
-						22512, -- [16]
-						22513, -- [17]
-						22768, -- [18]
-						22543, -- [19]
-						22548, -- [20]
-						21902, -- [21]
-					},
-				},
-			},
-			["Version"] = 29981,
-		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
@@ -235,6 +203,38 @@ DataStore_TalentsRefDB = {
 						22645, -- [21]
 					},
 				}, -- [2]
+			},
+			["Version"] = 29981,
+		},
+		["DEMONHUNTER"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				[2] = {
+					["id"] = 581,
+					["talents"] = {
+						22502, -- [1]
+						22503, -- [2]
+						22504, -- [3]
+						22505, -- [4]
+						22766, -- [5]
+						22507, -- [6]
+						22324, -- [7]
+						22541, -- [8]
+						22540, -- [9]
+						22508, -- [10]
+						22509, -- [11]
+						22770, -- [12]
+						22546, -- [13]
+						22510, -- [14]
+						22511, -- [15]
+						22512, -- [16]
+						22513, -- [17]
+						22768, -- [18]
+						22543, -- [19]
+						22548, -- [20]
+						21902, -- [21]
+					},
+				},
 			},
 			["Version"] = 29981,
 		},

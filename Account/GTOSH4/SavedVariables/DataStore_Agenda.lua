@@ -20,16 +20,8 @@ DataStore_AgendaDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1554050616,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369157966"] = "227372|1555804224|0|1",
-				},
-				["lastUpdate"] = 1555806248,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554050018,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -50,18 +42,24 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["class"] = "Priest",
-						["level"] = 120,
 					},
 				},
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369151940"] = "204223|1555827373|0|1",
-					["Battle of Dazar'alor Mythic|367490213"] = "204223|1555827373|0|1",
+					["Crucible of Storms Heroic|369151940"] = "135609|1555895990|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "135609|1555895990|0|1",
 				},
-				["lastUpdate"] = 1555827432,
+				["lastUpdate"] = 1555899801,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554050018,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|369157966"] = "227372|1555804224|0|1",
+				},
+				["lastUpdate"] = 1555806248,
 			},
 		},
 	},
