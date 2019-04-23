@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 732,
 	["lastSanitation"] = 3,
+	["session"] = 737,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2\\modules\\IndicatorTooltip.lua:55: attempt to call method 'GetTooltip' (a nil value)",

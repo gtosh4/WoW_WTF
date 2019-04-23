@@ -33,7 +33,7 @@ Grid2DB = {
 					["BackgroundTexture"] = "bdSmooth",
 					["BackgroundR"] = 0.101960784313725,
 					["FrameLock"] = true,
-					["Spacing"] = 4,
+					["PosX"] = -24.3800310325605,
 					["anchor"] = "TOP",
 					["BackgroundG"] = 0.101960784313725,
 					["minimapIcon"] = {
@@ -42,8 +42,8 @@ Grid2DB = {
 					["PosY"] = -490.00004801192,
 					["BackgroundB"] = 0.101960784313725,
 					["BackgroundA"] = 1,
-					["PosX"] = -103.879988327027,
 					["BorderTexture"] = "None",
+					["Spacing"] = 4,
 				},
 				["Default"] = {
 					["BackgroundG"] = 0,
@@ -53,18 +53,18 @@ Grid2DB = {
 						["solo"] = "By Group w/Pets",
 						["arena"] = "By Group w/Pets",
 					},
-					["BackgroundR"] = 0,
+					["extraThemes"] = {
+					},
 					["FrameLock"] = true,
 					["BackgroundA"] = 1,
+					["BackgroundB"] = 0,
+					["Spacing"] = 4,
+					["BorderTexture"] = "None",
+					["BackgroundR"] = 0,
+					["PosX"] = 784.833299918624,
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
-					["BorderTexture"] = "None",
-					["extraThemes"] = {
-					},
-					["BackgroundB"] = 0,
-					["Spacing"] = 4,
-					["PosX"] = 784.833299918624,
 				},
 				["Tosh - Kil'jaeden"] = {
 					["BackgroundG"] = 0.101960784313725,
@@ -382,14 +382,14 @@ Grid2DB = {
 					["blinkFrequency"] = 3,
 					["extraThemes"] = {
 					},
-					["frameBorderDistance"] = 0,
+					["fontFlags"] = "OUTLINE",
 					["font"] = "Friz Quadrata TT",
 					["menuDisabled"] = true,
 					["frameTexture"] = "ElvUI Norm",
 					["orientation"] = "HORIZONTAL",
 					["barTexture"] = "ElvUI Norm",
 					["frameWidth"] = 100,
-					["fontFlags"] = "OUTLINE",
+					["frameBorderDistance"] = 0,
 				},
 				["Tosh - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -412,7 +412,7 @@ Grid2DB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default2",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default2",
 		["Toshaman - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -1503,26 +1503,39 @@ Grid2DB = {
 				},
 			},
 			["statuses"] = {
-				["buff-PrayerofMending-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["b"] = 0.152941176470588,
-						["g"] = 0.36078431372549,
-						["r"] = 0.329411764705882,
-					},
-					["type"] = "buff",
+				["buffs-DefensiveCooldowns"] = {
+					["type"] = "buffs",
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.419607843137255,
+						["r"] = 1,
 						["g"] = 1,
-						["r"] = 0.917647058823529,
+						["b"] = 1,
 					},
-					["colorThreshold"] = {
-						4, -- [1]
+					["auras"] = {
+						"Blessing of Sacrifice", -- [1]
+						"Ardent Defender", -- [2]
+						"Divine Protection", -- [3]
+						"Ancient Guardian", -- [4]
+						"Guardian of Ancient Kings", -- [5]
+						"Blessing of Spellwarding", -- [6]
+						"Shield Block", -- [7]
+						"Shield Wall", -- [8]
+						"Last Stand", -- [9]
+						"Survival Instincts", -- [10]
+						"Barkskin", -- [11]
+						"Frenzied Regeneration", -- [12]
+						"Vampiric Blood", -- [13]
+						"Dancing Rune Weapon", -- [14]
+						"Icebound Fortitude", -- [15]
+						"Anti-Magic Shell", -- [16]
+						"Pain Suppression", -- [17]
+						"Guardian Spirit", -- [18]
+						"Fortifying Brew", -- [19]
+						"Dampen Harm", -- [20]
+						"Metamorphosis", -- [21]
+						"Life Cocoon", -- [22]
+						"Ironbark", -- [23]
 					},
-					["colorCount"] = 2,
-					["mine"] = 1,
-					["spellName"] = 41635,
 				},
 				["buff-EarthShield-mine"] = {
 					["color2"] = {
@@ -1564,71 +1577,25 @@ Grid2DB = {
 					["mine"] = 1,
 					["spellName"] = "Enveloping Mist",
 				},
-				["buff-EssenceFont-mine"] = {
+				["buff-Renew-mine"] = {
 					["color2"] = {
 						["a"] = 1,
-						["b"] = 0.36078431372549,
+						["b"] = 0.180392156862745,
 						["g"] = 0.36078431372549,
-						["r"] = 0.0862745098039216,
+						["r"] = 0.211764705882353,
 					},
 					["type"] = "buff",
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.788235294117647,
-						["g"] = 0.788235294117647,
-						["r"] = 0.188235294117647,
-					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["spellName"] = 139,
 					["colorThreshold"] = {
 						4, -- [1]
 					},
-					["colorCount"] = 2,
-					["mine"] = 1,
-					["spellName"] = "Essence Font",
-				},
-				["threat"] = {
-					["color2"] = {
-						["r"] = 0.180392156862745,
-						["g"] = 0.36078431372549,
-						["b"] = 0.36078431372549,
-					},
-					["color3"] = {
-						["r"] = 0.188235294117647,
-						["g"] = 0,
-						["b"] = 0.36078431372549,
-					},
-					["color1"] = {
-						["r"] = 0.36078431372549,
-					},
-				},
-				["buff-RenewingMist-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["b"] = 0.215686274509804,
-						["g"] = 0.36078431372549,
-						["r"] = 0.00392156862745098,
-					},
-					["type"] = "buff",
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.423529411764706,
-						["g"] = 0.701960784313726,
-						["r"] = 0.00392156862745098,
-					},
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["colorCount"] = 2,
-					["mine"] = 1,
-					["spellName"] = 119611,
-				},
-				["debuff-Burst"] = {
-					["type"] = "debuff",
-					["spellName"] = "Burst",
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
+						["b"] = 0.498039215686275,
+						["g"] = 1,
+						["r"] = 0.588235294117647,
 					},
 				},
 				["buff-Regrowth-mine"] = {
@@ -1652,6 +1619,54 @@ Grid2DB = {
 					},
 					["spellName"] = 8936,
 				},
+				["health-current"] = {
+					["color2"] = {
+						["r"] = 0.654901960784314,
+						["g"] = 0.654901960784314,
+						["b"] = 0.36078431372549,
+					},
+					["color3"] = {
+						["r"] = 0.411764705882353,
+						["g"] = 0.168627450980392,
+						["b"] = 0.168627450980392,
+					},
+					["color1"] = {
+						["r"] = 0.270588235294118,
+						["g"] = 0.270588235294118,
+						["b"] = 0.270588235294118,
+					},
+				},
+				["debuff-Burst"] = {
+					["type"] = "debuff",
+					["spellName"] = "Burst",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+				},
+				["buff-PrayerofMending-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["b"] = 0.152941176470588,
+						["g"] = 0.36078431372549,
+						["r"] = 0.329411764705882,
+					},
+					["type"] = "buff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.419607843137255,
+						["g"] = 1,
+						["r"] = 0.917647058823529,
+					},
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["spellName"] = 41635,
+				},
 				["buff-Atonement-mine"] = {
 					["color2"] = {
 						["a"] = 1,
@@ -1672,6 +1687,147 @@ Grid2DB = {
 					["colorCount"] = 2,
 					["mine"] = 1,
 					["spellName"] = 81749,
+				},
+				["buff-Riptide-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0.274509803921569,
+						["b"] = 0.32156862745098,
+					},
+					["type"] = "buff",
+					["spellName"] = 61295,
+					["mine"] = 1,
+					["colorCount"] = 2,
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0.658823529411765,
+						["b"] = 0.764705882352941,
+					},
+				},
+				["buff-HealingStreamTotem-mine"] = {
+					["spellName"] = 5394,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0,
+						["g"] = 0.752941176470588,
+						["b"] = 0.603921568627451,
+					},
+				},
+				["debuff-IceShard"] = {
+					["type"] = "debuff",
+					["spellName"] = 285253,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+				},
+				["self"] = {
+					["color1"] = {
+						["a"] = 0.5,
+						["r"] = 0.250980392156863,
+						["g"] = 0.850980392156863,
+						["b"] = 1,
+					},
+				},
+				["threat"] = {
+					["color2"] = {
+						["r"] = 0.180392156862745,
+						["g"] = 0.36078431372549,
+						["b"] = 0.36078431372549,
+					},
+					["color3"] = {
+						["r"] = 0.188235294117647,
+						["g"] = 0,
+						["b"] = 0.36078431372549,
+					},
+					["color1"] = {
+						["r"] = 0.36078431372549,
+					},
+				},
+				["buff-Rejuvenation-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["r"] = 0.325490196078431,
+						["g"] = 0.0823529411764706,
+						["b"] = 0.36078431372549,
+					},
+					["type"] = "buff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.964705882352941,
+						["g"] = 0.219607843137255,
+						["r"] = 0.874509803921569,
+					},
+					["mine"] = 1,
+					["colorCount"] = 2,
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["spellName"] = 774,
+				},
+				["buff-Lifebloom-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["r"] = 0.36078431372549,
+						["g"] = 0.36078431372549,
+						["b"] = 0.36078431372549,
+					},
+					["type"] = "buff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["mine"] = 1,
+					["colorCount"] = 2,
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["spellName"] = 33763,
+				},
+				["debuff-NecroticWound"] = {
+					["enableStacks"] = 5,
+					["type"] = "debuff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.2,
+						["g"] = 0.2,
+						["r"] = 1,
+					},
+					["spellName"] = 209858,
+				},
+				["debuff-Priest>WeakenedSoul-mine"] = {
+					["spellName"] = 6788,
+					["type"] = "debuff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+				},
+				["buff-SoothingMist-mine"] = {
+					["type"] = "buff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.423529411764706,
+						["g"] = 0.701960784313726,
+						["r"] = 0.00392156862745098,
+					},
+					["useSpellId"] = true,
+					["mine"] = 1,
+					["spellName"] = 198533,
 				},
 				["raid-debuffs"] = {
 					["debuffs"] = {
@@ -2653,127 +2809,34 @@ Grid2DB = {
 						},
 					},
 				},
-				["buff-HealingStreamTotem-mine"] = {
-					["spellName"] = 5394,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0,
-						["g"] = 0.752941176470588,
-						["b"] = 0.603921568627451,
-					},
-				},
-				["buff-Renew-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["b"] = 0.180392156862745,
-						["g"] = 0.36078431372549,
-						["r"] = 0.211764705882353,
-					},
-					["type"] = "buff",
-					["colorCount"] = 2,
-					["mine"] = 1,
-					["spellName"] = 139,
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.498039215686275,
-						["g"] = 1,
-						["r"] = 0.588235294117647,
-					},
-				},
-				["self"] = {
-					["color1"] = {
-						["a"] = 0.5,
-						["r"] = 0.250980392156863,
-						["g"] = 0.850980392156863,
-						["b"] = 1,
-					},
-				},
-				["debuff-IceShard"] = {
-					["type"] = "debuff",
-					["spellName"] = 285253,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
-					},
-				},
-				["buff-Rejuvenation-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["r"] = 0.325490196078431,
-						["g"] = 0.0823529411764706,
-						["b"] = 0.36078431372549,
-					},
-					["type"] = "buff",
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.964705882352941,
-						["g"] = 0.219607843137255,
-						["r"] = 0.874509803921569,
-					},
-					["mine"] = 1,
-					["colorCount"] = 2,
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["spellName"] = 774,
-				},
-				["buff-Lifebloom-mine"] = {
+				["buff-WildGrowth-mine"] = {
 					["color2"] = {
 						["a"] = 1,
 						["r"] = 0.36078431372549,
-						["g"] = 0.36078431372549,
-						["b"] = 0.36078431372549,
+						["g"] = 0.266666666666667,
+						["b"] = 0.0705882352941177,
 					},
 					["type"] = "buff",
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
-						["r"] = 1,
+						["b"] = 0.184313725490196,
+						["g"] = 0.701960784313726,
+						["r"] = 0.952941176470588,
 					},
 					["mine"] = 1,
 					["colorCount"] = 2,
 					["colorThreshold"] = {
 						4, -- [1]
 					},
-					["spellName"] = 33763,
+					["spellName"] = 48438,
 				},
-				["debuff-NecroticWound"] = {
-					["enableStacks"] = 5,
-					["type"] = "debuff",
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.2,
-						["g"] = 0.2,
-						["r"] = 1,
-					},
-					["spellName"] = 209858,
-				},
-				["health-current"] = {
+				["buff-RenewingMist-mine"] = {
 					["color2"] = {
-						["r"] = 0.654901960784314,
-						["g"] = 0.654901960784314,
-						["b"] = 0.36078431372549,
+						["a"] = 1,
+						["b"] = 0.215686274509804,
+						["g"] = 0.36078431372549,
+						["r"] = 0.00392156862745098,
 					},
-					["color3"] = {
-						["r"] = 0.411764705882353,
-						["g"] = 0.168627450980392,
-						["b"] = 0.168627450980392,
-					},
-					["color1"] = {
-						["r"] = 0.270588235294118,
-						["g"] = 0.270588235294118,
-						["b"] = 0.270588235294118,
-					},
-				},
-				["buff-SoothingMist-mine"] = {
 					["type"] = "buff",
 					["color1"] = {
 						["a"] = 1,
@@ -2781,57 +2844,12 @@ Grid2DB = {
 						["g"] = 0.701960784313726,
 						["r"] = 0.00392156862745098,
 					},
-					["useSpellId"] = true,
-					["mine"] = 1,
-					["spellName"] = 198533,
-				},
-				["dungeon-role"] = {
-					["color2"] = {
-						["a"] = 1,
-						["g"] = 0.36078431372549,
-					},
-					["useAlternateIcons"] = true,
-					["color3"] = {
-						["a"] = 1,
-						["b"] = 0.36078431372549,
-					},
-					["hideDamagers"] = true,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.36078431372549,
-					},
-				},
-				["buff-Riptide-mine"] = {
-					["color2"] = {
-						["a"] = 1,
-						["r"] = 0,
-						["g"] = 0.274509803921569,
-						["b"] = 0.32156862745098,
-					},
-					["type"] = "buff",
-					["spellName"] = 61295,
-					["mine"] = 1,
-					["colorCount"] = 2,
 					["colorThreshold"] = {
 						4, -- [1]
 					},
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0,
-						["g"] = 0.658823529411765,
-						["b"] = 0.764705882352941,
-					},
-				},
-				["debuff-Priest>WeakenedSoul-mine"] = {
-					["spellName"] = 6788,
-					["type"] = "debuff",
+					["colorCount"] = 2,
 					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
-					},
+					["spellName"] = 119611,
 				},
 				["aoe-aoe"] = {
 					["type"] = "aoe-heals",
@@ -2868,26 +2886,21 @@ Grid2DB = {
 						["a"] = 0.550000011920929,
 					},
 				},
-				["buff-WildGrowth-mine"] = {
+				["dungeon-role"] = {
 					["color2"] = {
 						["a"] = 1,
-						["r"] = 0.36078431372549,
-						["g"] = 0.266666666666667,
-						["b"] = 0.0705882352941177,
+						["g"] = 0.36078431372549,
 					},
-					["type"] = "buff",
+					["useAlternateIcons"] = true,
+					["color3"] = {
+						["a"] = 1,
+						["b"] = 0.36078431372549,
+					},
+					["hideDamagers"] = true,
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.184313725490196,
-						["g"] = 0.701960784313726,
-						["r"] = 0.952941176470588,
+						["r"] = 0.36078431372549,
 					},
-					["mine"] = 1,
-					["colorCount"] = 2,
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["spellName"] = 48438,
 				},
 				["debuff-GrievousWound"] = {
 					["type"] = "debuff",
@@ -2920,39 +2933,26 @@ Grid2DB = {
 					["mine"] = 1,
 					["spellName"] = 17,
 				},
-				["buffs-DefensiveCooldowns"] = {
-					["type"] = "buffs",
+				["buff-EssenceFont-mine"] = {
+					["color2"] = {
+						["a"] = 1,
+						["b"] = 0.36078431372549,
+						["g"] = 0.36078431372549,
+						["r"] = 0.0862745098039216,
+					},
+					["type"] = "buff",
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
+						["b"] = 0.788235294117647,
+						["g"] = 0.788235294117647,
+						["r"] = 0.188235294117647,
 					},
-					["auras"] = {
-						"Blessing of Sacrifice", -- [1]
-						"Ardent Defender", -- [2]
-						"Divine Protection", -- [3]
-						"Ancient Guardian", -- [4]
-						"Guardian of Ancient Kings", -- [5]
-						"Blessing of Spellwarding", -- [6]
-						"Shield Block", -- [7]
-						"Shield Wall", -- [8]
-						"Last Stand", -- [9]
-						"Survival Instincts", -- [10]
-						"Barkskin", -- [11]
-						"Frenzied Regeneration", -- [12]
-						"Vampiric Blood", -- [13]
-						"Dancing Rune Weapon", -- [14]
-						"Icebound Fortitude", -- [15]
-						"Anti-Magic Shell", -- [16]
-						"Pain Suppression", -- [17]
-						"Guardian Spirit", -- [18]
-						"Fortifying Brew", -- [19]
-						"Dampen Harm", -- [20]
-						"Metamorphosis", -- [21]
-						"Life Cocoon", -- [22]
-						"Ironbark", -- [23]
+					["colorThreshold"] = {
+						4, -- [1]
 					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["spellName"] = "Essence Font",
 				},
 			},
 			["versions"] = {
@@ -3011,9 +3011,9 @@ Grid2DB = {
 				["heals-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["health-current"] = 1,
 					["heals-incoming"] = 2,
 					["my-heals-incoming"] = 3,
-					["health-current"] = 1,
 				},
 				["heals-color"] = {
 				},
@@ -3196,15 +3196,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["type"] = "icons",
 					["borderSize"] = 1,
+					["iconSize"] = 16,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["useStatusColor"] = true,
 					["level"] = 8,
-					["iconSize"] = 16,
+					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["r"] = 0,
@@ -4444,9 +4444,9 @@ Grid2DB = {
 					["classcolor"] = 50,
 				},
 				["heals"] = {
+					["heals-incoming"] = 99,
 					["shields"] = 101,
 					["my-heals-incoming"] = 100,
-					["heals-incoming"] = 99,
 				},
 				["icons-topleft"] = {
 					["buffs-DefensiveCooldowns"] = 50,
@@ -4608,15 +4608,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["borderSize"] = 1,
 					["type"] = "icons",
+					["useStatusColor"] = true,
 					["iconSize"] = 16,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
-					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["b"] = 0,
@@ -5973,9 +5973,9 @@ Grid2DB = {
 					["buff-EnvelopingMist-mine"] = 50,
 				},
 				["heals"] = {
+					["my-heals-incoming"] = 100,
 					["shields"] = 101,
 					["heals-incoming"] = 99,
-					["my-heals-incoming"] = 100,
 				},
 			},
 			["themes"] = {
@@ -6425,16 +6425,16 @@ Grid2DB = {
 					["maxIcons"] = 2,
 					["borderSize"] = 1,
 					["type"] = "icons",
+					["iconSize"] = 14,
 					["useStatusColor"] = true,
+					["maxIconsPerRow"] = 2,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "LEFT",
 						["point"] = "LEFT",
 						["x"] = 0,
 					},
-					["maxIconsPerRow"] = 2,
-					["level"] = 8,
-					["iconSize"] = 14,
 				},
 				["tanking"] = {
 					["location"] = {
@@ -6558,8 +6558,40 @@ Grid2DB = {
 				},
 			},
 			["statuses"] = {
-				["leader"] = {
-					["hideInCombat"] = true,
+				["debuff-NecroticWound"] = {
+					["enableStacks"] = 5,
+					["type"] = "debuff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.2,
+						["g"] = 0.2,
+						["r"] = 1,
+					},
+					["spellName"] = "Necrotic Wound",
+				},
+				["buff-EssenceFont-mine"] = {
+					["color2"] = {
+						["a"] = 0.600000023841858,
+						["b"] = 0.909803921568627,
+						["g"] = 0.76078431372549,
+						["r"] = 0.129411764705882,
+					},
+					["type"] = "buff",
+					["spellName"] = "Essence Font",
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.129411764705882,
+						["g"] = 0.76078431372549,
+						["b"] = 0.909803921568627,
+					},
+				},
+				["range"] = {
+					["range"] = "Healing Wave",
 				},
 				["buff-Regrowth-mine"] = {
 					["color2"] = {
@@ -6957,27 +6989,6 @@ Grid2DB = {
 						},
 					},
 				},
-				["buff-Riptide-mine"] = {
-					["color2"] = {
-						["a"] = 0.600000023841858,
-						["r"] = 0.8,
-						["g"] = 0.6,
-						["b"] = 1,
-					},
-					["type"] = "buff",
-					["spellName"] = 61295,
-					["mine"] = true,
-					["colorCount"] = 2,
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.8,
-						["g"] = 0.6,
-						["b"] = 1,
-					},
-				},
 				["threat"] = {
 					["color2"] = {
 						["b"] = 0.701960784313726,
@@ -6993,16 +7004,26 @@ Grid2DB = {
 						["r"] = 0.701960784313726,
 					},
 				},
-				["debuff-NecroticWound"] = {
-					["enableStacks"] = 5,
-					["type"] = "debuff",
+				["buff-RenewingMist-mine"] = {
+					["color2"] = {
+						["a"] = 0.600000023841858,
+						["b"] = 0.686274509803922,
+						["g"] = 0.850980392156863,
+						["r"] = 0.258823529411765,
+					},
+					["type"] = "buff",
+					["spellName"] = 119611,
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["colorCount"] = 2,
+					["mine"] = 1,
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.2,
-						["g"] = 0.2,
-						["r"] = 1,
+						["r"] = 0.258823529411765,
+						["g"] = 0.850980392156863,
+						["b"] = 0.686274509803922,
 					},
-					["spellName"] = "Necrotic Wound",
 				},
 				["buff-Rejuvenation-mine"] = {
 					["color2"] = {
@@ -7081,8 +7102,8 @@ Grid2DB = {
 					["mine"] = true,
 					["blinkThreshold"] = 2,
 				},
-				["range"] = {
-					["range"] = "Healing Wave",
+				["leader"] = {
+					["hideInCombat"] = true,
 				},
 				["debuff-Burst"] = {
 					["type"] = "debuff",
@@ -7173,6 +7194,27 @@ Grid2DB = {
 						["b"] = 0.2,
 					},
 				},
+				["buff-EnvelopingMist-mine"] = {
+					["color2"] = {
+						["a"] = 0.600000023841858,
+						["b"] = 0.0784313725490196,
+						["g"] = 0.980392156862745,
+						["r"] = 0.858823529411765,
+					},
+					["type"] = "buff",
+					["spellName"] = "Enveloping Mist",
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["colorCount"] = 2,
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.858823529411765,
+						["g"] = 0.980392156862745,
+						["b"] = 0.0784313725490196,
+					},
+				},
 				["debuff-LadyJainaProudmoore>IceShard"] = {
 					["type"] = "debuff",
 					["color1"] = {
@@ -7182,6 +7224,27 @@ Grid2DB = {
 						["r"] = 1,
 					},
 					["spellName"] = 285253,
+				},
+				["buff-Riptide-mine"] = {
+					["color2"] = {
+						["a"] = 0.600000023841858,
+						["r"] = 0.8,
+						["g"] = 0.6,
+						["b"] = 1,
+					},
+					["type"] = "buff",
+					["spellName"] = 61295,
+					["mine"] = true,
+					["colorCount"] = 2,
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.8,
+						["g"] = 0.6,
+						["b"] = 1,
+					},
 				},
 				["debuff-GrievousWound"] = {
 					["type"] = "debuff",
@@ -7230,6 +7293,7 @@ Grid2DB = {
 				},
 				["ind-second"] = {
 					["buff-EarthShield-mine"] = 50,
+					["buff-EssenceFont-mine"] = 54,
 					["buff-Regrowth-mine"] = 52,
 					["buff-PowerWord:Shield-mine"] = 53,
 				},
@@ -7241,6 +7305,7 @@ Grid2DB = {
 					["classcolor"] = 99,
 				},
 				["ind-third"] = {
+					["buff-EnvelopingMist-mine"] = 53,
 					["debuff-Priest>WeakenedSoul-mine"] = 52,
 					["buff-Lifebloom-mine"] = 51,
 				},
@@ -7274,9 +7339,9 @@ Grid2DB = {
 				["health-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["my-heals-incoming"] = 3,
 					["health-current"] = 1,
 					["heals-incoming"] = 2,
-					["my-heals-incoming"] = 3,
 				},
 				["text-up-color"] = {
 				},
@@ -7284,6 +7349,7 @@ Grid2DB = {
 					["buff-Atonement-mine"] = 52,
 					["buff-Riptide-mine"] = 50,
 					["buff-Rejuvenation-mine"] = 51,
+					["buff-RenewingMist-mine"] = 53,
 				},
 				["dispel"] = {
 				},

@@ -4,22 +4,23 @@ ElvCharacterDB = {
 		" they're 700 rn", -- [1]
 		" ez", -- [2]
 		" |cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [3]
-		"/wa", -- [4]
+		" noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [4]
 		"/p got u", -- [5]
-		"/camp", -- [6]
-		"/gladius", -- [7]
-		"/tmw", -- [8]
-		"they're 700 rn", -- [9]
-		"|cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [10]
-		"/grid2", -- [11]
-		"/alto show", -- [12]
-		"/ec", -- [13]
-		"/hek", -- [14]
-		"/gladius test", -- [15]
-		"/dom", -- [16]
-		"ez", -- [17]
-		"/cw Pass-Kil'jaeden  /wave", -- [18]
-		" noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [19]
+		"/gladius", -- [6]
+		"/gladius test", -- [7]
+		"/camp", -- [8]
+		"/cw Pass-Kil'jaeden  /wave", -- [9]
+		"/ec", -- [10]
+		"ez", -- [11]
+		"noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [12]
+		"/wa", -- [13]
+		"/tmw", -- [14]
+		"/dom", -- [15]
+		"|cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [16]
+		"/grid2", -- [17]
+		"they're 700 rn", -- [18]
+		"/hek", -- [19]
+		"/alto show", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -1566,5 +1567,49 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
 		}, -- [70]
+		{
+			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: WCM.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
+			"Bootywerx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Bootywerx-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			139, -- [11]
+			"Player-9-0B548C6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Bootywerx|r",
+			[51] = 1555982812,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
+			"Fodliers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Fodliers-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-9-0B624CCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcFodliers|r",
+			[51] = 1555982822,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
 	},
 }

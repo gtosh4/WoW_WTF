@@ -69,6 +69,13 @@ X: -495
 Y: -316
 W: 56
 H: 42
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: CENTER
+X: -723
+Y: 225
+W: 562
+H: 306
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT

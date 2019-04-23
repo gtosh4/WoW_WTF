@@ -41,3 +41,17 @@ X: -652
 Y: 16
 W: 393
 H: 248
+Frame: TomTomCrazyArrow
+FrameLevel: 1
+Anchor: TOP
+X: -6
+Y: -328
+W: 56
+H: 42
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: CENTER
+X: -723
+Y: 225
+W: 562
+H: 306
