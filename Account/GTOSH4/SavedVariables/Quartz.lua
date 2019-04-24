@@ -14,7 +14,12 @@ Quartz3DB = {
 				["Default"] = {
 					["x"] = 1333.33325195313,
 				},
+				["DEMONHUNTER"] = {
+					["x"] = 1630.81762695313,
+				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
@@ -22,15 +27,16 @@ Quartz3DB = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 500,
-					["y"] = 925.059326171875,
+					["hideicon"] = true,
 					["border"] = "None",
 					["x"] = 1111.07360839844,
 					["texture"] = "ElvUI Norm",
-					["hideicon"] = true,
+					["y"] = 925.059326171875,
+				},
+				["DEMONHUNTER"] = {
+					["x"] = 1605.81762695313,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -46,6 +52,9 @@ Quartz3DB = {
 				["Default"] = {
 					["x"] = 1333.33325195313,
 				},
+				["DEMONHUNTER"] = {
+					["x"] = 1630.81762695313,
+				},
 			},
 		},
 		["Target"] = {
@@ -55,11 +64,14 @@ Quartz3DB = {
 					["texture"] = "ElvUI Norm",
 					["x"] = 1333.33325195313,
 				},
+				["DEMONHUNTER"] = {
+					["x"] = 1630.81762695313,
+				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -80,10 +92,12 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Buff"] = false,
-				["Mirror"] = false,
 				["Target"] = false,
+				["Mirror"] = false,
+				["Buff"] = false,
 			},
+		},
+		["DEMONHUNTER"] = {
 		},
 	},
 }

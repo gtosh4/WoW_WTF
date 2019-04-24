@@ -20,13 +20,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1555804220,
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1554049957,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 16319,
+					5631, -- [1]
+					[3] = 5527,
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554966021,
@@ -45,9 +45,10 @@ DataStore_TalentsDB = {
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1555996721,
+				["lastUpdate"] = 1556083143,
 				["Specializations"] = {
-					[2] = 11225,
+					5759, -- [1]
+					11225, -- [2]
 				},
 				["Class"] = "DEMONHUNTER",
 			},
@@ -67,13 +68,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049957,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1555804220,
 				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
+					7165, -- [1]
+					[4] = 16319,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 		},
 	},
@@ -93,7 +94,33 @@ DataStore_TalentsRefDB = {
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
-				[2] = {
+				{
+					["id"] = 577,
+					["talents"] = {
+						21854, -- [1]
+						22493, -- [2]
+						22416, -- [3]
+						21857, -- [4]
+						22765, -- [5]
+						22799, -- [6]
+						22909, -- [7]
+						22494, -- [8]
+						21862, -- [9]
+						21863, -- [10]
+						21864, -- [11]
+						21865, -- [12]
+						21866, -- [13]
+						21867, -- [14]
+						21868, -- [15]
+						21869, -- [16]
+						21870, -- [17]
+						22767, -- [18]
+						21900, -- [19]
+						21901, -- [20]
+						22547, -- [21]
+					},
+				}, -- [1]
+				{
 					["id"] = 581,
 					["talents"] = {
 						22502, -- [1]
@@ -118,7 +145,7 @@ DataStore_TalentsRefDB = {
 						22548, -- [20]
 						21902, -- [21]
 					},
-				},
+				}, -- [2]
 			},
 			["Version"] = 29981,
 		},

@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-04-23",
+			["NextWeeklyReset"] = "2019-04-30",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -25,9 +25,6 @@ DataStore_AgendaDB = {
 					["Toshaman"] = {
 						["note"] = "",
 					},
-				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369379036"] = "34908|1555996690|0|1",
 				},
 				["lastUpdate"] = 1555996694,
 			},
@@ -55,10 +52,9 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369101117"] = "35017|1555996581|0|1",
-					["Crucible of Storms Heroic|369195941"] = "35017|1555996581|0|1",
+					["Battle of Dazar'alor Mythic|369444835"] = "557611|1556078786|0|1",
 				},
-				["lastUpdate"] = 1555996664,
+				["lastUpdate"] = 1556080621,
 			},
 		},
 	},
