@@ -304,6 +304,9 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN1"] = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "f48cba",
 			["LocalizedName"] = "Paladin: Holy",
@@ -394,9 +397,6 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN2"] = {
 			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
-				["Toshpal-Kil'jaeden"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "f48cba",
 			["LocalizedName"] = "Paladin: Protection",

@@ -53,7 +53,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DEMONHUNTER",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1555981281,
+				["lastUpdate"] = 1556156676,
 				["Specializations"] = {
 					5993, -- [1]
 					7065, -- [2]
@@ -61,10 +61,10 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555991758,
+				["lastUpdate"] = 1556161641,
 				["Specializations"] = {
 					10678, -- [1]
-					[3] = 8151,
+					[3] = 7831,
 				},
 				["Class"] = "SHAMAN",
 			},

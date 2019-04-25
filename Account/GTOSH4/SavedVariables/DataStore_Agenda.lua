@@ -33,7 +33,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1556091490,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1555982873,
+				["lastUpdate"] = 1556159182,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -42,11 +42,12 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["level"] = 120,
-						["class"] = "Priest",
 					},
 				},
-				["lastUpdate"] = 1555995255,
+				["DungeonIDs"] = {
+					["Crucible of Storms Heroic|369485266"] = "474683|1556161716|0|1",
+				},
+				["lastUpdate"] = 1556163891,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {

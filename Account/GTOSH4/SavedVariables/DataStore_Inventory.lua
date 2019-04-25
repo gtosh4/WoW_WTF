@@ -133,25 +133,25 @@ DataStore_InventoryDB = {
 				["Inventory"] = {
 					"|cffffffff|Hitem:160634::::::::120:66::3:4:4822:1477:4786:4775:::|h[]|h|r", -- [1]
 					"|cffe6cc80|Hitem:158075::::::::120:66::11:4:4936:4929:4930:1524:::|h[Heart of Azeroth]|h|r", -- [2]
-					"|cffa335ee|Hitem:159431::::::::120:66::35:3:5063:1557:4786:::|h[Kraken Shell Pauldrons]|h|r", -- [3]
+					"|cffa335ee|Hitem:160641::::::::120:65::5:3:4823:1492:4786:::|h[Chitinspine Pauldrons]|h|r", -- [3]
 					nil, -- [4]
-					"|cffa335ee|Hitem:159408::::::::120:66::35:3:5061:1557:4786:::|h[Chestguard of the Deep Denizen]|h|r", -- [5]
-					"|cffffffff|Hitem:160215::::::::120:66::16:3:5010:1542:4786:::|h[]|h|r", -- [6]
+					"|cffa335ee|Hitem:159448::::::::120:65::35:3:5061:1557:4786:::|h[Breastplate of the Vengeful]|h|r", -- [5]
+					"|cffa335ee|Hitem:160215::::::::120:66::16:3:5010:1542:4786:::|h[Sewer Grate Girdle]|h|r", -- [6]
 					"|cffffffff|Hitem:160718::::::::120:66::5:3:4799:1517:4784:::|h[]|h|r", -- [7]
-					"|cffa335ee|Hitem:157927::::::::120:66::28:4:4803:4802:1577:4786:::|h[Warboots of Rezan's Bladeguard]|h|r", -- [8]
+					"|cffffffff|Hitem:157927::::::::120:66::28:4:4803:4802:1577:4786:::|h[]|h|r", -- [8]
 					"|cffffffff|Hitem:163307::::::::120:66::6:3:5126:1577:4784:::|h[]|h|r", -- [9]
 					"|cffffffff|Hitem:159429:5937:::::::120:66::16:3:5009:1562:4784:::|h[]|h|r", -- [10]
-					"|cffffffff|Hitem:159459:5939:::::::120:66::35:4:5010:40:1567:4784:::|h[]|h|r", -- [11]
-					"|cffffffff|Hitem:159460:5942:::::::120:66::35:3:5010:1552:4783:::|h[]|h|r", -- [12]
-					"|cffa335ee|Hitem:159618::::::::120:66::23:3:4779:1512:4786:::|h[Mchimba's Ritual Bandages]|h|r", -- [13]
-					"|cffa335ee|Hitem:158155::::::::120:66::27:3:4803:1537:4784:::|h[Dinobone Charm]|h|r", -- [14]
-					"|cffffffff|Hitem:160642::154126::::::120:66::5:4:4799:1808:1492:4786:::|h[]|h|r", -- [15]
-					"|cffa335ee|Hitem:159632:5963:::::::120:66::16:3:5010:1542:4786:::|h[Adulation Enforcer]|h|r", -- [16]
-					"|cffffffff|Hitem:158713::::::::120:66::16:3:5010:1552:4783:::|h[]|h|r", -- [17]
+					"|cffa335ee|Hitem:159459:5939:::::::120:66::35:4:5010:40:1567:4784:::|h[Ritual Binder's Ring]|h|r", -- [11]
+					"|cffa335ee|Hitem:159460:5942:::::::120:66::35:3:5010:1552:4783:::|h[Overseer's Lost Seal]|h|r", -- [12]
+					"|cffa335ee|Hitem:159618::::::::120:65::23:3:4779:1512:4786:::|h[Mchimba's Ritual Bandages]|h|r", -- [13]
+					"|cffa335ee|Hitem:158155::::::::120:65::27:3:4803:1537:4784:::|h[Dinobone Charm]|h|r", -- [14]
+					"|cffa335ee|Hitem:160642::154126::::::120:66::5:4:4799:1808:1492:4786:::|h[Cloak of Rippling Whispers]|h|r", -- [15]
+					"|cffa335ee|Hitem:159632:5963:::::::120:65::16:3:5010:1542:4786:::|h[Adulation Enforcer]|h|r", -- [16]
+					"|cffa335ee|Hitem:158713::::::::120:66::16:3:5010:1552:4783:::|h[Disc of Indomitable Will]|h|r", -- [17]
 				},
-				["averageItemLvl"] = 374.8125,
+				["averageItemLvl"] = 375.75,
 				["overallAIL"] = 380.75,
-				["lastUpdate"] = 1555982535,
+				["lastUpdate"] = 1556156710,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Inventory"] = {
@@ -167,7 +167,7 @@ DataStore_InventoryDB = {
 					"|cffffffff|Hitem:159382::::::::120:264::16:3:5010:1582:4783:::|h[]|h|r", -- [10]
 					"|cffffffff|Hitem:159461:5942:::::::120:264::16:4:5010:41:1572:4786:::|h[]|h|r", -- [11]
 					"|cffffffff|Hitem:159460:5942:::::::120:264::35:4:5010:41:1582:4783:::|h[]|h|r", -- [12]
-					"|cffffffff|Hitem:167865::::::::120:264::5:3:4799:1532:4786:::|h[]|h|r", -- [13]
+					"|cffa335ee|Hitem:167865::::::::120:264::5:3:4799:1532:4786:::|h[Void Stone]|h|r", -- [13]
 					"|cffffffff|Hitem:165928::::::::120:264::13::::|h[]|h|r", -- [14]
 					"|cffffffff|Hitem:165513::::::::120:264::6:3:4800:1537:4786:::|h[]|h|r", -- [15]
 					"|cffffffff|Hitem:165594:5965:::::::120:264::6:3:4800:1537:4786:::|h[]|h|r", -- [16]
@@ -175,7 +175,7 @@ DataStore_InventoryDB = {
 				},
 				["averageItemLvl"] = 411.9375,
 				["overallAIL"] = 414.125,
-				["lastUpdate"] = 1555991759,
+				["lastUpdate"] = 1556161642,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Inventory"] = {
@@ -395,19 +395,19 @@ DataStore_InventoryDB = {
 			["Default.Kil'jaeden.Rivalry"] = {
 				["Members"] = {
 					["Crippled"] = {
-						["averageItemLvl"] = 410,
+						["averageItemLvl"] = 411,
 					},
 					["Huit"] = {
 						["averageItemLvl"] = 409,
 					},
 					["Rivalry"] = {
-						["averageItemLvl"] = 411,
+						["averageItemLvl"] = 413,
 					},
 					["Mattea"] = {
 						["averageItemLvl"] = 408,
 					},
 					["Pluie"] = {
-						["averageItemLvl"] = 415,
+						["averageItemLvl"] = 418,
 					},
 					["Phavikoos"] = {
 						["averageItemLvl"] = 373,
@@ -416,19 +416,22 @@ DataStore_InventoryDB = {
 						["averageItemLvl"] = 325,
 					},
 					["Thunderzmonk"] = {
-						["averageItemLvl"] = 410,
+						["averageItemLvl"] = 411,
 					},
 					["Qiro"] = {
-						["averageItemLvl"] = 415,
+						["averageItemLvl"] = 414,
 					},
 					["Nv"] = {
-						["averageItemLvl"] = 411,
+						["averageItemLvl"] = 410,
 					},
 					["Heyitsknoss"] = {
 						["averageItemLvl"] = 405,
 					},
 					["Shanarru"] = {
 						["averageItemLvl"] = 411,
+					},
+					["Thunderlock"] = {
+						["averageItemLvl"] = 402,
 					},
 					["Netherlord"] = {
 						["averageItemLvl"] = 247,
@@ -440,19 +443,19 @@ DataStore_InventoryDB = {
 						["averageItemLvl"] = 300,
 					},
 					["Pass"] = {
-						["averageItemLvl"] = 411,
+						["averageItemLvl"] = 412,
 					},
 					["Toshaman"] = {
 						["averageItemLvl"] = 411,
 					},
 					["Umbrasong"] = {
-						["averageItemLvl"] = 408,
+						["averageItemLvl"] = 409,
 					},
 					["Fiery"] = {
 						["averageItemLvl"] = 251,
 					},
-					["Sodalock"] = {
-						["averageItemLvl"] = 413,
+					["Dx"] = {
+						["averageItemLvl"] = 408,
 					},
 					["Phavi"] = {
 						["averageItemLvl"] = 362,
@@ -460,17 +463,17 @@ DataStore_InventoryDB = {
 					["Toshmonk"] = {
 						["averageItemLvl"] = 411,
 					},
-					["Dx"] = {
-						["averageItemLvl"] = 409,
+					["Toshpal"] = {
+						["averageItemLvl"] = 375,
 					},
-					["Brewsko"] = {
-						["averageItemLvl"] = 372,
+					["Phavicuz"] = {
+						["averageItemLvl"] = 363,
 					},
 					["Ruesong"] = {
 						["averageItemLvl"] = 406,
 					},
-					["Phavicuz"] = {
-						["averageItemLvl"] = 363,
+					["Brewsko"] = {
+						["averageItemLvl"] = 372,
 					},
 					["Genj"] = {
 						["averageItemLvl"] = 414,
@@ -479,7 +482,7 @@ DataStore_InventoryDB = {
 						["averageItemLvl"] = 171,
 					},
 					["Backstab"] = {
-						["averageItemLvl"] = 409,
+						["averageItemLvl"] = 410,
 					},
 					["Genericbelf"] = {
 						["averageItemLvl"] = 344,
@@ -493,20 +496,20 @@ DataStore_InventoryDB = {
 					["Happystab"] = {
 						["averageItemLvl"] = 233,
 					},
-					["Knosskin"] = {
-						["averageItemLvl"] = 341,
+					["Eruption"] = {
+						["averageItemLvl"] = 397,
 					},
 					["Helloimsoda"] = {
 						["averageItemLvl"] = 370,
 					},
-					["Eruption"] = {
-						["averageItemLvl"] = 397,
-					},
 					["Shanmonk"] = {
 						["averageItemLvl"] = 415,
 					},
+					["Eau"] = {
+						["averageItemLvl"] = 409,
+					},
 					["Illsong"] = {
-						["averageItemLvl"] = 410,
+						["averageItemLvl"] = 412,
 					},
 					["Subspacexd"] = {
 						["averageItemLvl"] = 393,
@@ -518,7 +521,7 @@ DataStore_InventoryDB = {
 						["averageItemLvl"] = 256,
 					},
 					["Drift"] = {
-						["averageItemLvl"] = 411,
+						["averageItemLvl"] = 412,
 					},
 					["Hotdhunter"] = {
 						["averageItemLvl"] = 223,
@@ -526,20 +529,20 @@ DataStore_InventoryDB = {
 					["Thunderevil"] = {
 						["averageItemLvl"] = 335,
 					},
-					["Eau"] = {
-						["averageItemLvl"] = 408,
+					["Spacesub"] = {
+						["averageItemLvl"] = 161,
 					},
 					["Zensong"] = {
 						["averageItemLvl"] = 234,
-					},
-					["Spacesub"] = {
-						["averageItemLvl"] = 159,
 					},
 					["Zythos"] = {
 						["averageItemLvl"] = 257,
 					},
 					["Slipspace"] = {
 						["averageItemLvl"] = 300,
+					},
+					["Knosskin"] = {
+						["averageItemLvl"] = 341,
 					},
 					["Wildsong"] = {
 						["averageItemLvl"] = 413,
@@ -553,11 +556,11 @@ DataStore_InventoryDB = {
 					["Hotcity"] = {
 						["averageItemLvl"] = 371,
 					},
-					["Toshpal"] = {
-						["averageItemLvl"] = 378,
+					["Sodalock"] = {
+						["averageItemLvl"] = 413,
 					},
-					["Thunderlock"] = {
-						["averageItemLvl"] = 402,
+					["Voidzeal"] = {
+						["averageItemLvl"] = 300,
 					},
 					["Knos"] = {
 						["averageItemLvl"] = 380,
@@ -1931,9 +1934,6 @@ DataStore_InventoryDB = {
 				[766] = {
 					[25206] = true,
 				},
-				[125] = {
-					[60175] = true,
-				},
 				[496] = {
 					[80965] = true,
 					[80969] = true,
@@ -1942,13 +1942,6 @@ DataStore_InventoryDB = {
 					[80967] = true,
 					[80964] = true,
 					[80970] = true,
-				},
-				[1731] = {
-					[99673] = true,
-					[99663] = true,
-					[99667] = true,
-					[99671] = true,
-					[99665] = true,
 				},
 				[1653] = {
 					[98991] = true,
@@ -1959,12 +1952,12 @@ DataStore_InventoryDB = {
 				[157] = {
 					[79511] = true,
 				},
-				[699] = {
-					[36431] = true,
-				},
 				[927] = {
 					[6967] = true,
 					[6964] = true,
+				},
+				[699] = {
+					[36431] = true,
 				},
 				[1468] = {
 					[89392] = true,
@@ -2074,6 +2067,9 @@ DataStore_InventoryDB = {
 				[357] = {
 					[6897] = true,
 				},
+				[125] = {
+					[60175] = true,
+				},
 				[994] = {
 					[79814] = true,
 					[80486] = true,
@@ -2103,6 +2099,13 @@ DataStore_InventoryDB = {
 				[498] = {
 					[64445] = true,
 					[64446] = true,
+				},
+				[1731] = {
+					[99673] = true,
+					[99663] = true,
+					[99667] = true,
+					[99671] = true,
+					[99665] = true,
 				},
 				[1476] = {
 					[90044] = true,
@@ -2275,7 +2278,7 @@ DataStore_InventoryDB = {
 					"32/465", -- [11]
 					[13] = "44/344",
 					[15] = "92/543",
-					[16] = "79/574",
+					[16] = "81/574",
 					[17] = "27/176",
 					[18] = "49/504",
 					[19] = "62/338",
@@ -2378,16 +2381,16 @@ DataStore_InventoryDB = {
 				},
 			},
 			["SetNumCollected"] = {
-				[500] = 4,
+				[998] = 5,
 				[131] = 2,
 				[1674] = 6,
-				[357] = 1,
-				[373] = 1,
-				[203] = 1,
+				[1675] = 5,
+				[999] = 3,
+				[553] = 4,
 				[1676] = 7,
 				[936] = 1,
-				[61] = 8,
-				[251] = 5,
+				[1677] = 3,
+				[1000] = 1,
 				[554] = 2,
 				[1806] = 4,
 				[1424] = 4,
@@ -2395,7 +2398,7 @@ DataStore_InventoryDB = {
 				[555] = 5,
 				[1170] = 2,
 				[1808] = 4,
-				[502] = 2,
+				[747] = 1,
 				[1809] = 6,
 				[1427] = 4,
 				[1810] = 1,
@@ -2411,14 +2414,14 @@ DataStore_InventoryDB = {
 				[1431] = 2,
 				[1495] = 2,
 				[1814] = 1,
-				[1751] = 1,
+				[1496] = 4,
 				[1815] = 2,
 				[559] = 1,
-				[1752] = 2,
+				[1497] = 8,
 				[1816] = 8,
 				[1498] = 8,
 				[1817] = 5,
-				[815] = 1,
+				[560] = 1,
 				[157] = 1,
 				[1820] = 1,
 				[505] = 2,
@@ -2431,121 +2434,121 @@ DataStore_InventoryDB = {
 				[506] = 2,
 				[1315] = 6,
 				[819] = 2,
-				[1316] = 4,
+				[1826] = 3,
 				[347] = 4,
 				[379] = 1,
 				[1317] = 2,
 				[1318] = 2,
-				[491] = 1,
+				[980] = 2,
 				[1765] = 2,
 				[1319] = 2,
 				[1638] = 2,
 				[1766] = 4,
 				[1320] = 2,
-				[1639] = 3,
+				[348] = 3,
 				[981] = 9,
 				[1640] = 5,
 				[1449] = 1,
 				[1641] = 3,
 				[1195] = 1,
 				[1642] = 8,
+				[141] = 1,
 				[632] = 4,
 				[1643] = 9,
 				[983] = 4,
-				[1261] = 2,
+				[1771] = 5,
 				[207] = 2,
 				[1772] = 7,
 				[920] = 1,
 				[1645] = 4,
+				[997] = 5,
 				[1646] = 1,
-				[1476] = 6,
-				[498] = 2,
-				[350] = 3,
+				[1499] = 7,
+				[1751] = 1,
+				[1647] = 1,
 				[985] = 4,
 				[1329] = 5,
 				[826] = 1,
 				[635] = 1,
 				[1330] = 2,
-				[699] = 1,
+				[1649] = 1,
 				[1331] = 2,
 				[1650] = 6,
+				[1648] = 1,
 				[1332] = 8,
 				[1651] = 5,
 				[184] = 9,
-				[727] = 1,
 				[1333] = 8,
 				[860] = 1,
-				[1649] = 1,
+				[1731] = 5,
 				[1334] = 5,
-				[1653] = 4,
-				[1675] = 5,
+				[701] = 1,
 				[511] = 1,
 				[1335] = 4,
-				[1496] = 4,
 				[1336] = 8,
-				[553] = 4,
 				[766] = 1,
 				[1482] = 2,
-				[141] = 1,
+				[357] = 1,
+				[373] = 1,
 				[496] = 7,
-				[999] = 3,
-				[1480] = 2,
-				[560] = 1,
+				[203] = 1,
+				[727] = 1,
+				[61] = 8,
+				[251] = 5,
+				[815] = 1,
 				[927] = 2,
 				[177] = 9,
-				[185] = 9,
-				[997] = 5,
-				[1644] = 8,
+				[1468] = 3,
+				[502] = 2,
 				[209] = 1,
-				[487] = 1,
 				[896] = 1,
-				[582] = 5,
-				[1470] = 6,
+				[487] = 1,
 				[497] = 3,
-				[65] = 7,
 				[258] = 3,
-				[1000] = 1,
+				[1752] = 2,
 				[610] = 6,
 				[1535] = 6,
-				[1468] = 3,
-				[998] = 5,
-				[701] = 1,
+				[1653] = 4,
+				[500] = 4,
+				[501] = 1,
 				[515] = 1,
-				[1648] = 1,
-				[284] = 5,
-				[348] = 3,
-				[1731] = 5,
+				[1316] = 4,
+				[1470] = 6,
 				[176] = 9,
+				[491] = 1,
+				[284] = 5,
+				[1639] = 3,
 				[994] = 8,
 				[125] = 1,
-				[175] = 9,
 				[548] = 8,
 				[1666] = 1,
-				[1647] = 1,
-				[1771] = 5,
+				[982] = 2,
+				[350] = 3,
+				[175] = 9,
 				[178] = 9,
-				[995] = 1,
+				[1476] = 6,
+				[1261] = 2,
 				[549] = 3,
 				[1668] = 5,
 				[1477] = 8,
-				[980] = 2,
-				[1826] = 3,
+				[1644] = 8,
+				[699] = 1,
 				[1669] = 4,
 				[1478] = 5,
-				[1499] = 7,
-				[1497] = 8,
-				[1670] = 2,
-				[1479] = 1,
 				[765] = 1,
-				[1677] = 3,
+				[1670] = 2,
+				[582] = 5,
+				[1479] = 1,
+				[1480] = 2,
+				[185] = 9,
 				[1671] = 8,
 				[372] = 4,
 				[1289] = 1,
 				[551] = 2,
-				[982] = 2,
 				[1481] = 3,
-				[747] = 1,
-				[501] = 1,
+				[995] = 1,
+				[65] = 7,
+				[498] = 2,
 			},
 		},
 	},

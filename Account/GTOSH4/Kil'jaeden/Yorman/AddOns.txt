@@ -15,3 +15,4 @@ AzeriteForge: disabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_CrucibleOfStorms: enabled
+Dominos: disabled

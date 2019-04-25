@@ -101,12 +101,12 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_y"] = 257.60125702105,
 					["BigWigsAnchor_x"] = 675.743157964433,
-					["emphasizeTime"] = 12,
+					["texture"] = "ElvUI Norm",
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
 					["growup"] = false,
@@ -115,8 +115,8 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.9999809265137,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["texture"] = "ElvUI Norm",
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
+					["emphasizeTime"] = 12,
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
@@ -408,7 +408,7 @@ BigWigsStatsDB = {
 		},
 		[2332] = {
 			["heroic"] = {
-				["kills"] = 1,
+				["kills"] = 2,
 				["wipes"] = 3,
 				["best"] = 414.770000000019,
 			},

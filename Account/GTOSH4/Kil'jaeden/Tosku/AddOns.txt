@@ -8,3 +8,4 @@ AzeritePowerWeights: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
+Dominos: disabled

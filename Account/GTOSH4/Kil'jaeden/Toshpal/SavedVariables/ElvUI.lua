@@ -1,600 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" they're 700 rn", -- [1]
-		" ez", -- [2]
-		" |cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [3]
-		" noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [4]
-		"/p got u", -- [5]
-		"/gladius", -- [6]
-		"/gladius test", -- [7]
-		"/camp", -- [8]
-		"/cw Pass-Kil'jaeden  /wave", -- [9]
-		"/ec", -- [10]
-		"ez", -- [11]
-		"noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [12]
-		"/wa", -- [13]
-		"/tmw", -- [14]
-		"/dom", -- [15]
-		"|cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [16]
-		"/grid2", -- [17]
-		"they're 700 rn", -- [18]
-		"/hek", -- [19]
-		"/alto show", -- [20]
+		" noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [1]
+		" hi", -- [2]
+		"/ec", -- [3]
+		"/dom", -- [4]
+		"/tmw", -- [5]
+		"/alto show", -- [6]
+		"/gladius", -- [7]
+		"/hek", -- [8]
+		"/grid2", -- [9]
+		"noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [10]
+		"they're 700 rn", -- [11]
+		"ez", -- [12]
+		"/cw Pass-Kil'jaeden  /wave", -- [13]
+		"/gladius test", -- [14]
+		"hi", -- [15]
+		"/camp", -- [16]
+		"|cffa335ee|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|r|cffa335ee|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h|r", -- [17]
+		"/wa", -- [18]
+		"/p got u", -- [19]
+		" is that trinket good for dps? idk", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"they're 700 rn", -- [1]
-			"|Kq48|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			912, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1549678877,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [1]
-		{
-			"ez", -- [1]
-			"|Kq48|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			913, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffYellowy|r",
-			[51] = 1549678878,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [2]
-		{
-			"RIP", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020655,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"feelsbadman", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			105, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020661,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"thanks team", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020666,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"any time", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			107, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020670,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"wait", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			108, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020679,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"wait", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			109, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020680,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"AD first boss", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020682,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"also drops a shield", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			111, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020684,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"no trash", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			112, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020685,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"ez", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			113, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020686,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"are you trying for your warrior or your shaman>?", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020724,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
-		{
-			"warrior", -- [1]
-			"Dx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dx-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-9-0B583DCA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDx|r",
-			[51] = 1550020734,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"prot", -- [1]
-			"Dx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dx-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			117, -- [11]
-			"Player-9-0B583DCA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDx|r",
-			[51] = 1550020735,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"tanking jaina for us in the future>?", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			119, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020742,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
-		{
-			"yikes", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			121, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020782,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"also screw you for having |cffa335ee|Hitem:166795::::::::120:72::3:3:5479:1507:4783:::|h[Knot of Ancient Fury]|h|r", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			122, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020809,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"Pummeled 7th Legion Despoiler's |cff71d5ff|Hspell:189990:0|h[Immolate]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			128, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1550020858,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"bar ba dos", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			129, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020867,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"lol", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			130, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddQiro|r",
-			[51] = 1550020882,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"save me from being parried by bosses so i can pump on meaningless content", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			131, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dFridaa|r",
-			[51] = 1550020882,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"same", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			132, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1550020903,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"wait so doi tank", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			133, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1550020907,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"or is gordy", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPride|r",
-			[51] = 1550020910,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"got u", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			135, -- [11]
-			"Player-9-0AE4412E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaToshpal|r",
-			[51] = 1550020910,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
 		{
 			"with this new weapon the world is my oyster", -- [1]
 			"Fridaa-Kil'jaeden", -- [2]
@@ -616,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dFridaa|r",
 			[51] = 1550020912,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [1]
 		{
 			"wait", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -638,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddQiro|r",
 			[51] = 1550020925,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [2]
 		{
 			"no tank", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -660,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddQiro|r",
 			[51] = 1550020942,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [3]
 		{
 			"dont need it", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -682,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddQiro|r",
 			[51] = 1550020943,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [4]
 		{
 			"just play dps", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -704,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddQiro|r",
 			[51] = 1550020945,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [5]
 		{
 			"sure", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -726,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550020946,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [6]
 		{
 			"imma let you poull so i dont have aggro", -- [1]
 			"Fridaa-Kil'jaeden", -- [2]
@@ -748,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dFridaa|r",
 			[51] = 1550020958,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [7]
 		{
 			"Pursuit on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -770,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaToshpal|r",
 			[51] = 1550020980,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [8]
 		{
 			"rip", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -792,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550021012,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [9]
 		{
 			"yooo", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -814,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550021017,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [10]
 		{
 			"WARRFORGEEE", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -836,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550021019,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [11]
 		{
 			"k back to my sspaghetti", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -858,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPride|r",
 			[51] = 1550021022,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [12]
 		{
 			"thanks", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -880,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dDx|r",
 			[51] = 1550021023,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [13]
 		{
 			"WTS <<< Heroic Battle of Dazar'alor>>>  << Weekly Mythic+ Dungeons Runs >> /w for info", -- [1]
 			"Xatadima-Kil'jaeden", -- [2]
@@ -902,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff96Xatadima|r",
 			[51] = 1550268759,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [14]
 		{
 			"bolstering siege last boss", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -924,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aIko|r",
 			[51] = 1550467639,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [15]
 		{
 			"<Intent>9/9H 5/9M BoD. Looking for a  healer and exceptional DPS. Apply at https://discord.gg/q7u8wqk Raid Times are FRI SAT 9pm PST to 1 am PST. Msg Ericb#11460 for questions. Selling AOTC + full heroic.", -- [1]
 			"Whitepally-Kil'jaeden", -- [2]
@@ -946,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaWhitepally|r",
 			[51] = 1551331770,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [16]
 		{
 			"<Intent>9/9H 5/9M BoD. Looking for a  healer and exceptional DPS. Apply at https://discord.gg/q7u8wqk Raid Times are FRI SAT 9pm PST to 1 am PST. Msg Ericb#11460 for questions. Selling AOTC + full heroic.", -- [1]
 			"Whitepally-Kil'jaeden", -- [2]
@@ -968,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaWhitepally|r",
 			[51] = 1551332300,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [17]
 		{
 			"|Kv183|k", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -990,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aPluie|r",
 			[51] = 1551595265,
 			[50] = "CHAT_MSG_OFFICER",
-		}, -- [44]
+		}, -- [18]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11868:Player-9-0B5B36AF:1:3:17:19:4294967295:4294967295:4294967295:4294967295|h[The Dark Heart of Nazmir]|h|r!", -- [1]
 			"Makiee-Kil'jaeden", -- [2]
@@ -1012,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Makiee|r",
 			[51] = 1552852315,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [45]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4520:Player-9-08462094:1:3:17:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Pit of Saron]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1034,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1552853147,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [46]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4517:Player-9-08462094:1:3:17:19:4294967295:4294967295:4294967295:4294967295|h[The Pit of Saron]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1056,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1552853147,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [47]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:2156:Player-9-08462094:1:3:17:19:4294967295:4294967295:4294967295:4294967295|h[My Girl Loves to Skadi All the Time]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1078,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1552853446,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [48]
+		}, -- [22]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:2157:Player-9-0A185FCF:1:3:17:19:4294967295:4294967295:4294967295:4294967295|h[King's Bane]|h|r!", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1100,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1552853691,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
+		}, -- [23]
 		{
 			"anyone have |cffffffff|Hitem:154898::::::::120:102::::::|h[Meaty Haunch]|h|r |cffffffff|Hitem:154897::::::::120:102::::::|h[Stringy Loins]|h|r ", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1122,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1552853968,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [24]
 		{
 			"they dont want", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1144,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1552853970,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [25]
 		{
 			"is it me", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1166,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1552854181,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [26]
 		{
 			"or is discord robot", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1188,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1552854183,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [27]
 		{
 			"<Dead of Summer> 9/9H 4/9M looking for 1 more DPS for our core raid team. Warrior preferred, but all are open to apply. Tank/Heal OS preferred. Raid times Tues/Thurs 8:30 - 11:30PM EST. Whisper me for more info!", -- [1]
 			"Stereo-Kil'jaeden", -- [2]
@@ -1210,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stereo|r",
 			[51] = 1552854261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [28]
 		{
 			"<Dead of Summer> 9/9H 4/9M looking for 1 more DPS for our core raid team. Warrior preferred, but all are open to apply. Tank/Heal OS preferred. Raid times Tues/Thurs 8:30 - 11:30PM EST. Whisper me for more info!", -- [1]
 			"Stereo-Kil'jaeden", -- [2]
@@ -1232,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stereo|r",
 			[51] = 1552854287,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [29]
 		{
 			"<Valid Point>  6/9 H BoD. LF DPS preferred Ret and Spriest for Heroic progression. Raids are Tues/Wed 6:00-8:30pm ST. LFM for mythic + as well. Everyone is welcome!", -- [1]
 			"Wormholes-Kil'jaeden", -- [2]
@@ -1254,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wormholes|r",
 			[51] = 1552854402,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [30]
 		{
 			"<Dead of Summer> 9/9H 4/9M looking for 1 more DPS for our core raid team. Warrior preferred, but all are open to apply. Tank/Heal OS preferred. Raid times Tues/Thurs 8:30 - 11:30PM EST. Whisper me for more info!", -- [1]
 			"Stereo-Kil'jaeden", -- [2]
@@ -1276,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stereo|r",
 			[51] = 1552854655,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [31]
 		{
 			"<Dead of Summer> 9/9H 4/9M looking for 1 more DPS for our core raid team. Warrior preferred, but all are open to apply. Tank/Heal OS preferred. Raid times Tues/Thurs 8:30 - 11:30PM EST. Whisper me for more info!", -- [1]
 			"Stereo-Kil'jaeden", -- [2]
@@ -1298,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stereo|r",
 			[51] = 1552855143,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [32]
 		{
 			"<Valid Point> 6/9 H BoD LF DPS Heroic Prog. Tues/Wed 6-8:30 ST. High mythic + groups and more! Tight group of social players looking to expand. Whis for info.", -- [1]
 			"Daps-Kil'jaeden", -- [2]
@@ -1320,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Daps|r",
 			[51] = 1552855190,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [33]
 		{
 			"|Hitem:165547::::::::120:65::5:3:4799:1522:4786:::|h[City Crusher Sabatons]|h|Hitem:165509::::::::120:65::5:3:4799:1542:4784:::|h[Slippers of the Encroaching Tide]|h", -- [1]
 			"|Kq25|k", -- [2]
@@ -1343,7 +771,7 @@ ElvCharacterDB = {
 			[51] = 1553406670,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [60]
+		}, -- [34]
 		{
 			"hi", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1365,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1555052260,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [61]
+		}, -- [35]
 		{
 			"what the you're up still", -- [1]
 			"|Kq25|k", -- [2]
@@ -1388,7 +816,7 @@ ElvCharacterDB = {
 			[51] = 1555054744,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [62]
+		}, -- [36]
 		{
 			"[WeakAuras: Tosh-Kil'jaeden - Atonement Missing]", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1410,7 +838,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1555088815,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [63]
+		}, -- [37]
 		{
 			"[WeakAuras: Tosh-Kil'jaeden - Tosh ZT Raid CDs]", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1432,7 +860,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1555088817,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [64]
+		}, -- [38]
 		{
 			"[WeakAuras: Tosh-Kil'jaeden - Tosh ZT External CDs]", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1454,7 +882,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1555088882,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [65]
+		}, -- [39]
 		{
 			"[WeakAuras: Tosh-Kil'jaeden - Tosh HealerMana]", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1476,7 +904,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1555088902,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [66]
+		}, -- [40]
 		{
 			" /wave", -- [1]
 			"Pass-Kil'jaeden", -- [2]
@@ -1498,7 +926,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPass|r",
 			[51] = 1555088934,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [67]
+		}, -- [41]
 		{
 			" /wave", -- [1]
 			"Pass-Kil'jaeden", -- [2]
@@ -1520,7 +948,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPass|r",
 			[51] = 1555088953,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [68]
+		}, -- [42]
 		{
 			"noticed my atonement uptime on tanks sucked so been working on a weakaura crutch for myself :D", -- [1]
 			"|Kq25|k", -- [2]
@@ -1543,7 +971,7 @@ ElvCharacterDB = {
 			[51] = 1555088984,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [69]
+		}, -- [43]
 		{
 			"lol", -- [1]
 			"|Kq25|k", -- [2]
@@ -1566,7 +994,7 @@ ElvCharacterDB = {
 			[51] = 1555089001,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [70]
+		}, -- [44]
 		{
 			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: WCM.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -1588,7 +1016,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1555982812,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [45]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -1610,6 +1038,1790 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1555982822,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"hi", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			80, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecEnvious|r",
+			[51] = 1556148805,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [47]
+		{
+			"toshapaladin toshpala toshpaly", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			81, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecEnvious|r",
+			[51] = 1556148808,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [48]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556148974,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-9-0B1EF2DA:1:4:24:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderzmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1556148989,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [50]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0B1EF2DA:1:4:24:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderzmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			121, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1556148989,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [51]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-9-0B1EF2DA:1:4:24:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderzmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1556148989,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [52]
+		{
+			"WOW GRATS MAN", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556148999,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [53]
+		{
+			"stfu", -- [1]
+			"Pass-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			132, -- [11]
+			"Player-9-0B4653F5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecPass|r",
+			[51] = 1556149016,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [54]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			135, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556149035,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"LFM MYTHIC BOD", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			259, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556156718,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [56]
+		{
+			"WHO COMING", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			260, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556156720,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [57]
+		{
+			"first 4", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			261, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556156721,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [58]
+		{
+			"BRB PEE ", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556156727,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [59]
+		{
+			"hello", -- [1]
+			"Circé-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			264, -- [11]
+			"Player-9-0B268E56", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Circé|r",
+			[51] = 1556156779,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [60]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556156803,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"is that trinket good for dps? idk", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1556156849,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [62]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556156876,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"pretty good", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			269, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1556156905,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [64]
+		{
+			"assuming u dont get silenced", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			270, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1556156912,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [65]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			274, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556156937,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			279, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157009,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			282, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157071,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			285, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157143,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			287, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157204,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157277,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			296, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157338,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
+		{
+			"LF TANK MYTHIC BOD", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556157349,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"@Af", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1556157381,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [74]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			299, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157411,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			300, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157472,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			331, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157544,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"BARBADOS", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			335, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556157551,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [78]
+		{
+			"GET ON UR DRUID", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556157554,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [79]
+		{
+			"or nvm", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556157560,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [80]
+		{
+			"my WHO", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			345, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1556157565,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [81]
+		{
+			"lmfao", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			349, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556157573,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [82]
+		{
+			"R E N E W A L", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			350, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1556157573,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [83]
+		{
+			"really?", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1556157576,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [84]
+		{
+			"iunno", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556157580,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"im lost", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			357, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556157581,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [86]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			371, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157606,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"{Forbidden Loot} Newly Transferred Guild. 5/9H Currently & looking for more raiders or anyone looking for a home for BfA. Raid Times Sat/Sun night 4-7pm serve. Whisper anyone online for more info or invite", -- [1]
+			"Crazycabbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Crazycabbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			379, -- [11]
+			"Player-9-0B607A25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCrazycabbie|r",
+			[51] = 1556157622,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			408, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157678,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"wyd", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			414, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1556157688,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [90]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			423, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157739,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			426, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157812,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			429, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157873,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"{Forbidden Loot} Newly Transferred Guild. 5/9H Currently & looking for more raiders or anyone looking for a home for BfA. Raid Times Sat/Sun night 4-7pm serve. Whisper anyone online for more info or invite", -- [1]
+			"Crazycabbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Crazycabbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			430, -- [11]
+			"Player-9-0B607A25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCrazycabbie|r",
+			[51] = 1556157905,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556157945,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			434, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158007,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"{Forbidden Loot} Newly Transferred Guild. 5/9H Currently & looking for more raiders or anyone looking for a home for BfA. Raid Times Sat/Sun night 4-7pm serve. Whisper anyone online for more info or invite", -- [1]
+			"Crazycabbie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Crazycabbie-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			437, -- [11]
+			"Player-9-0B607A25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cCrazycabbie|r",
+			[51] = 1556158022,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			450, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158079,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			457, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158141,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			460, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158213,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			" <PGL>(9/9H 2/9M) (2/2N 1/2H) is recruiting DPS! (Boomkin, DK, Mage, Warrior prefered)) Our raid times are M/T/W 8-10pm PST. If you're interested or have any questions please feel free to whisper.", -- [1]
+			"Petalpaw-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Petalpaw-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"Player-9-073F01E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Petalpaw|r",
+			[51] = 1556158247,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"hit my rocket jump", -- [1]
+			"Wurzle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			464, -- [11]
+			"Player-9-0B4A686D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcWurzle|r",
+			[51] = 1556158265,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"pro cat", -- [1]
+			"Wurzle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			465, -- [11]
+			"Player-9-0B4A686D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcWurzle|r",
+			[51] = 1556158265,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			466, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158274,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			470, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158347,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			472, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158408,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			474, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158481,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			475, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158542,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			478, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158614,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			483, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158676,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			516, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158748,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"do you lust at start or like 30% or whatever", -- [1]
+			"Wurzle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			519, -- [11]
+			"Player-9-0B4A686D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcWurzle|r",
+			[51] = 1556158807,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			520, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158809,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"at the end i think", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			521, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556158824,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"unless we geared af", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			522, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556158838,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"you rang?", -- [1]
+			"Af-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			523, -- [11]
+			"Player-9-0AC53F26", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Af|r",
+			[51] = 1556158847,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"lol", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556158854,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"WELL just call it out and I'll hit it", -- [1]
+			"Wurzle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"Player-9-0B4A686D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcWurzle|r",
+			[51] = 1556158854,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			529, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158882,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			535, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556158943,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			548, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556159016,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			549, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556159077,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Clemikaraku-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Clemikaraku-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			551, -- [11]
+			"Player-9-0B6352E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Clemikaraku|r",
+			[51] = 1556159149,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"OOOOOF", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			552, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1556159151,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"OOOF", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			553, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556159156,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"is he in a cafe?", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			554, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1556159160,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"is he cute", -- [1]
+			"Subspacexd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			556, -- [11]
+			"Player-9-0ACDA1AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Subspacexd|r",
+			[51] = 1556159176,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [127]
 	},
 }

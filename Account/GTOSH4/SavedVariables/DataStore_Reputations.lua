@@ -155,7 +155,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Koopa Troopa",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1555982522,
+				["lastUpdate"] = 1556156660,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -206,7 +206,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1555991758,
+				["lastUpdate"] = 1556161641,
 				["Factions"] = {
 					[156] = 48700,
 					[113] = 3100,

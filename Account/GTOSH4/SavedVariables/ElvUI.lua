@@ -691,29 +691,34 @@ ElvDB = {
 			["layoutSet"] = "healer",
 			["movers"] = {
 				["TopCenterContainerMover"] = "TOP,ElvUIParent,TOP,0,-198",
-				["ElvUF_PlayerCastbarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,726,-293",
+				["ElvUF_PlayerCastbarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,912,-262",
 				["ElvUF_RaidMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMLEFT,986,497",
 				["LeftChatMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,0,0",
 				["GMMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,909,-4",
 				["BuffsMover"] = "TOP,ElvUIParent,TOP,284,-4",
 				["BossButton"] = "BOTTOM,ElvUIParent,BOTTOM,0,275",
+				["LootFrameMover"] = "TOP,ElvUIParent,TOP,-422,-114",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 				["ElvUF_FocusMover"] = "BOTTOM,ElvUIParent,BOTTOM,472,682",
 				["VehicleSeatMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-1060,-4",
 				["ElvUF_TargetMover"] = "TOP,ElvUIParent,TOP,482,-507",
 				["ElvUF_Raid40Mover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMLEFT,986,450",
-				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
+				["ElvAB_6"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,522,559",
+				["ElvAB_1"] = "TOPLEFT,ElvUIParent,TOPLEFT,353,-469",
+				["ElvAB_2"] = "TOPLEFT,ElvUIParent,TOPLEFT,353,-438",
+				["ElvAB_4"] = "TOPLEFT,ElvUIParent,TOPLEFT,353,-375",
+				["PetAB"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,418,4",
 				["TalkingHeadFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-530,-4",
 				["ElvUF_TargetTargetMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-804,-505",
 				["AzeriteBarMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-4,-186",
-				["ElvAB_3"] = "BOTTOM,ElvUIParent,BOTTOM,312,4",
-				["ElvAB_5"] = "BOTTOM,ElvUIParent,BOTTOM,-312,4",
+				["ElvAB_3"] = "TOPLEFT,ElvUIParent,TOPLEFT,353,-407",
+				["ElvAB_5"] = "TOPLEFT,ElvUIParent,TOPLEFT,353,-344",
 				["VOICECHAT"] = "TOPLEFT,ElvUIParent,TOPLEFT,536,-710",
 				["ElvUF_TargetCastbarMover"] = "TOP,ElvUIParent,TOP,482,-529",
 				["RightChatMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,0,0",
 				["ObjectiveFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-52,-235",
 				["BNETMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-182,-77",
-				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1196",
+				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,39,884",
 				["ElvUF_PetMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,473,324",
 				["RaidUtility_Mover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-197,-4",
 				["ArenaHeaderMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,35,-425",
@@ -1107,16 +1112,28 @@ ElvDB = {
 			["actionbar"] = {
 				["bar3"] = {
 					["buttons"] = 12,
+					["buttonsPerRow"] = 12,
 				},
+				["fontOutline"] = "OUTLINE",
 				["font"] = "Friz Quadrata TT",
+				["hotkeyTextYOffset"] = -1,
+				["barPet"] = {
+					["buttonsPerRow"] = 10,
+				},
+				["bar6"] = {
+					["enabled"] = true,
+				},
 				["bar2"] = {
 					["enabled"] = true,
 				},
 				["bar5"] = {
 					["buttons"] = 12,
+					["buttonsPerRow"] = 12,
 				},
+				["fontSize"] = 12,
 				["bar4"] = {
-					["enabled"] = false,
+					["backdrop"] = false,
+					["buttonsPerRow"] = 12,
 				},
 			},
 			["chat"] = {
@@ -1412,19 +1429,16 @@ ElvPrivateDB = {
 		["Toshaman - Kil'jaeden"] = {
 			["sle"] = {
 				["pvpreadydialogreset"] = true,
+				["install_complete"] = "3.5",
 				["characterGoldsSorting"] = {
 					["Kil'jaeden"] = {
 					},
 				},
-				["install_complete"] = "3.5",
 			},
-			["actionbar"] = {
+			["bags"] = {
 				["enable"] = false,
 			},
 			["nameplates"] = {
-				["enable"] = false,
-			},
-			["bags"] = {
 				["enable"] = false,
 			},
 			["general"] = {
@@ -1433,8 +1447,13 @@ ElvPrivateDB = {
 			["install_complete"] = "10.87",
 		},
 		["Tosku - Kil'jaeden"] = {
-			["bags"] = {
-				["enable"] = false,
+			["sle"] = {
+				["pvpreadydialogreset"] = true,
+				["characterGoldsSorting"] = {
+					["Kil'jaeden"] = {
+					},
+				},
+				["install_complete"] = "3.53",
 			},
 			["actionbar"] = {
 				["enable"] = false,
@@ -1442,13 +1461,8 @@ ElvPrivateDB = {
 			["nameplates"] = {
 				["enable"] = false,
 			},
-			["sle"] = {
-				["pvpreadydialogreset"] = true,
-				["install_complete"] = "3.53",
-				["characterGoldsSorting"] = {
-					["Kil'jaeden"] = {
-					},
-				},
+			["bags"] = {
+				["enable"] = false,
 			},
 			["install_complete"] = "11.10",
 		},
