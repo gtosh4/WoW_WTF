@@ -159,6 +159,78 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Toshtrial-Blood Furnace"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshmonk-Kil'jaeden"] = {
+		["talents"] = {
+			[2] = {
+				{
+					3, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					2, -- [7]
+					["texture"] = 135734,
+					["name"] = "raid",
+					["tt"] = "talents",
+				}, -- [1]
+				{
+					1, -- [1]
+					2, -- [2]
+					1, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 839394,
+					["name"] = "m+",
+					["tt"] = "talents",
+				}, -- [2]
+				{
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "pvp",
+					["texture"] = 642414,
+				}, -- [3]
+			},
+			[3] = {
+			},
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Yorman-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
@@ -215,42 +287,6 @@ TalentSetManager_CharacterSaves = {
 					["tt"] = "talents",
 				}, -- [2]
 			},
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Tosku-Kil'jaeden"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-			{
-			}, -- [2]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Toshtrial-Blood Furnace"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -330,48 +366,12 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshmonk-Kil'jaeden"] = {
+	["Tosku-Kil'jaeden"] = {
 		["talents"] = {
-			[2] = {
-				{
-					3, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					2, -- [7]
-					["texture"] = 135734,
-					["name"] = "raid",
-					["tt"] = "talents",
-				}, -- [1]
-				{
-					1, -- [1]
-					2, -- [2]
-					1, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["texture"] = 839394,
-					["name"] = "m+",
-					["tt"] = "talents",
-				}, -- [2]
-				{
-					1, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "pvp",
-					["texture"] = 642414,
-				}, -- [3]
-			},
-			[3] = {
-			},
+			{
+			}, -- [1]
+			{
+			}, -- [2]
 		},
 		["talents_pvp"] = {
 		},

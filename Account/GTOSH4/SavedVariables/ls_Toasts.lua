@@ -11,6 +11,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 				["size"] = 14,
 			},
 			["version"] = 8010009,
+			["skin"] = "elv",
 			["anchors"] = {
 				{
 					["point"] = {

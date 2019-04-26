@@ -197,7 +197,6 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
-	["locked"] = true,
 	["display"] = {
 		["y"] = -204.501708984375,
 		["x"] = -716.544006347656,
@@ -206,6 +205,14 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 441.008666992188,
 	},
+	["locked"] = true,
+	["window"] = {
+		["height"] = 493.962524414063,
+		["top"] = 1101.978515625,
+		["left"] = 52.6252059936524,
+		["width"] = 700,
+	},
+	["directionUp"] = false,
 	["tree"] = {
 		["groups"] = {
 			[-2406605962] = false,
@@ -214,16 +221,9 @@ AngryAssign_State = {
 		},
 		["scrollvalue"] = 0,
 		["fullwidth"] = 666.000061035156,
-		["treesizable"] = true,
-		["treewidth"] = 175,
 		["selected"] = 121094719,
-	},
-	["directionUp"] = false,
-	["window"] = {
-		["height"] = 493.962524414063,
-		["top"] = 1101.978515625,
-		["left"] = 52.6252059936524,
-		["width"] = 700,
+		["treewidth"] = 175,
+		["treesizable"] = true,
 	},
 }
 AngryAssign_Config = {

@@ -45,9 +45,9 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369485266"] = "474683|1556161716|0|1",
+					["Crucible of Storms Heroic|369485266"] = "424346|1556212052|0|1",
 				},
-				["lastUpdate"] = 1556163891,
+				["lastUpdate"] = 1556213537,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {

@@ -21,8 +21,8 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["class"] = "Paladin",
 						["level"] = 120,
+						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -30,11 +30,13 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1556159205,
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369444835"] = "489557|1556146842|0|1",
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
 				},
-				["lastUpdate"] = 1556146917,
+				["lastUpdate"] = 1554683527,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1554335375,
@@ -50,13 +52,11 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1554681353,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
+			["Default.Kil'jaeden.Tosh"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|369444835"] = "392896|1556243502|0|1",
 				},
-				["lastUpdate"] = 1554683527,
+				["lastUpdate"] = 1556246629,
 			},
 		},
 	},
