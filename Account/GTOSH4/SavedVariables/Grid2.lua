@@ -3,6 +3,21 @@ Grid2DB = {
 	["namespaces"] = {
 		["Grid2Frame"] = {
 			["profiles"] = {
+				["Toshmonk - Kil'jaeden"] = {
+					["fontSize"] = 12,
+					["shadowDisabled"] = true,
+					["barTexture"] = "ElvUI Norm",
+					["extraThemes"] = {
+					},
+					["fontFlags"] = "OUTLINE",
+					["font"] = "Friz Quadrata TT",
+					["menuDisabled"] = true,
+					["frameTexture"] = "ElvUI Norm",
+					["orientation"] = "HORIZONTAL",
+					["blinkFrequency"] = 3,
+					["frameWidth"] = 100,
+					["frameBorderDistance"] = 0,
+				},
 				["Default22"] = {
 					["mouseoverTexture"] = "bdSmooth",
 					["frameBorderDistance"] = 2,
@@ -21,21 +36,6 @@ Grid2DB = {
 						["g"] = 0.101960784313725,
 						["r"] = 0.101960784313725,
 					},
-				},
-				["Toshmonk - Kil'jaeden"] = {
-					["fontSize"] = 12,
-					["shadowDisabled"] = true,
-					["barTexture"] = "ElvUI Norm",
-					["extraThemes"] = {
-					},
-					["fontFlags"] = "OUTLINE",
-					["font"] = "Friz Quadrata TT",
-					["menuDisabled"] = true,
-					["frameTexture"] = "ElvUI Norm",
-					["orientation"] = "HORIZONTAL",
-					["blinkFrequency"] = 3,
-					["frameWidth"] = 100,
-					["frameBorderDistance"] = 0,
 				},
 				["Default"] = {
 					["fontSize"] = 12,
@@ -209,6 +209,10 @@ Grid2DB = {
 						["hide"] = true,
 					},
 				},
+				["Yorman - Kil'jaeden"] = {
+					["PosY"] = -543.000012802266,
+					["PosX"] = 784.833299918624,
+				},
 				["Default22"] = {
 					["BackgroundTexture"] = "bdSmooth",
 					["BackgroundB"] = 0.101960784313725,
@@ -223,7 +227,7 @@ Grid2DB = {
 					["BackgroundR"] = 0.101960784313725,
 					["BackgroundA"] = 1,
 					["Spacing"] = 4,
-					["PosX"] = -77.3799998664854,
+					["PosX"] = 2.11993518829695,
 				},
 			},
 		},
@@ -231,18 +235,18 @@ Grid2DB = {
 		},
 		["Grid2Options"] = {
 			["profiles"] = {
-				["Default22"] = {
-					["L"] = {
-						["indicators"] = {
-							["text-down"] = "name",
-						},
-					},
-				},
 				["Toshmonk - Kil'jaeden"] = {
 					["L"] = {
 						["indicators"] = {
 							["text-up"] = "name",
 							["icon-topright"] = "square-topright",
+						},
+					},
+				},
+				["Default22"] = {
+					["L"] = {
+						["indicators"] = {
+							["text-down"] = "name",
 						},
 					},
 				},
@@ -266,13 +270,6 @@ Grid2DB = {
 		},
 		["Grid2RaidDebuffs"] = {
 			["profiles"] = {
-				["Default22"] = {
-					["lastSelectedModule"] = "[Custom Debuffs]",
-					["defaultEJ_difficulty"] = 16,
-					["enabledModules"] = {
-						["Battle for Azeroth"] = true,
-					},
-				},
 				["Toshmonk - Kil'jaeden"] = {
 					["defaultEJ_difficulty"] = 16,
 					["lastSelectedModule"] = "Battle for Azeroth",
@@ -340,6 +337,13 @@ Grid2DB = {
 						["Legion"] = true,
 					},
 					["lastSelectedInstance"] = 1176,
+				},
+				["Default22"] = {
+					["lastSelectedModule"] = "[Custom Debuffs]",
+					["defaultEJ_difficulty"] = 16,
+					["enabledModules"] = {
+						["Battle for Azeroth"] = true,
+					},
 				},
 				["Default"] = {
 					["lastSelectedModule"] = "Battle for Azeroth",
@@ -484,6 +488,7 @@ Grid2DB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default22",
 		["Toshtrial - Blood Furnace"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default22",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",

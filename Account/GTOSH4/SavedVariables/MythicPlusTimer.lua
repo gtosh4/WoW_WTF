@@ -7,18 +7,58 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["scale"] = 1,
-		["objectiveTimeInChat"] = true,
-		["hideDefaultObjectiveTracker"] = true,
 		["position"] = {
 			["top"] = 190,
 			["left"] = -260,
 			["relative_point"] = "RIGHT",
 		},
+		["objectiveTimeInChat"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l16",
+			["quantity_number"] = 384,
+			["cm_level"] = 16,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "The MOTHERLODE!!",
+			["time_left"] = 266,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Yorman"] = 5,
+				["Paxington-Illidan"] = 1,
+				["Andruww"] = 3,
+				["Soozpriest-Area52"] = 4,
+				["Nv"] = 3,
+			},
+			["time_left_2"] = 0,
+			["is_reaping"] = true,
+			["final_quantity_number"] = 384,
+			["current_zone_id"] = 1594,
+			["affixes"] = {
+				9, -- [1]
+				6, -- [2]
+				3, -- [3]
+				117, -- [4]
+			},
+			["current_map_id"] = 247,
+			["times"] = {
+				838, -- [1]
+				1377, -- [2]
+				1660, -- [3]
+				2034, -- [4]
+				2073, -- [5]
+			},
+			["deathcount"] = 16,
+			["max_time"] = 2340,
+			["elapsed_time"] = 2074,
+		},
 		["show_affixes_as_icons"] = false,
-		["show_reapingtimer"] = true,
+		["progressTooltip"] = true,
 		["deathCounter"] = false,
 		["show_affixes_as_text"] = true,
-		["progressTooltip"] = true,
+		["show_reapingtimer"] = true,
 		["objective_time"] = true,
 		["objective_time_inchat"] = true,
 		["insertKeystone"] = true,
@@ -301,6 +341,13 @@ MythicPlusTimerDB = {
 					1600, -- [5]
 					["_complete"] = 2029,
 				},
+				["l10"] = {
+					515, -- [1]
+					1019, -- [2]
+					1506, -- [3]
+					[5] = 1574,
+					["_complete"] = 2008,
+				},
 				["l14"] = {
 					775, -- [1]
 					1440, -- [2]
@@ -309,12 +356,12 @@ MythicPlusTimerDB = {
 					["_complete"] = 2415,
 				},
 				["_complete"] = 2008,
-				["l10"] = {
-					515, -- [1]
-					1019, -- [2]
-					1506, -- [3]
-					[5] = 1574,
-					["_complete"] = 2008,
+				["l16"] = {
+					838, -- [1]
+					1377, -- [2]
+					1660, -- [3]
+					2034, -- [4]
+					2073, -- [5]
 				},
 			},
 			[1763] = {
@@ -428,7 +475,7 @@ MythicPlusTimerDB = {
 				[2] = 1,
 			},
 			[130653] = {
-				[4] = 12,
+				[4] = 13,
 			},
 			[96480] = {
 				1, -- [1]
@@ -464,7 +511,7 @@ MythicPlusTimerDB = {
 				[8] = 11,
 			},
 			[134005] = {
-				21, -- [1]
+				24, -- [1]
 			},
 			[100250] = {
 				[4] = 1,
@@ -586,7 +633,7 @@ MythicPlusTimerDB = {
 				[10] = 1,
 			},
 			[130435] = {
-				[5] = 20,
+				[5] = 26,
 			},
 			[118714] = {
 				[4] = 1,
@@ -631,7 +678,7 @@ MythicPlusTimerDB = {
 				[4] = 1,
 			},
 			[130437] = {
-				[2] = 17,
+				[2] = 21,
 			},
 			[118716] = {
 				[4] = 1,
@@ -640,7 +687,8 @@ MythicPlusTimerDB = {
 				1, -- [1]
 			},
 			[130661] = {
-				[4] = 34,
+				[4] = 25.4,
+				[2] = 1.024,
 			},
 			[131847] = {
 				[4] = 26,
@@ -833,7 +881,7 @@ MythicPlusTimerDB = {
 				[3] = 44,
 			},
 			[136139] = {
-				[12] = 4,
+				[12] = 5,
 			},
 			[138247] = {
 				27, -- [1]
@@ -1046,8 +1094,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[131677] = {
-				[6] = 8,
+			[135254] = {
+				[4] = 2,
 			},
 			[133593] = {
 				[5] = 3,
@@ -1055,8 +1103,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[98926] = {
-				[4] = 1,
+			[134232] = {
+				[4] = 31,
 			},
 			[141285] = {
 				0.0281474976710656, -- [1]
@@ -1115,7 +1163,7 @@ MythicPlusTimerDB = {
 				[4] = 4,
 			},
 			[136470] = {
-				[4] = 31,
+				[4] = 40,
 			},
 			[135167] = {
 				[4] = 16,
@@ -1265,7 +1313,7 @@ MythicPlusTimerDB = {
 				[4] = 5,
 			},
 			[130635] = {
-				[4] = 10,
+				[4] = 11,
 			},
 			[106787] = {
 				1, -- [1]
@@ -1286,8 +1334,8 @@ MythicPlusTimerDB = {
 				[2] = 1,
 			},
 			[130485] = {
-				[12] = 2.24,
-				[4] = 1.64,
+				[12] = 3.7509632,
+				[4] = 3.79151616,
 			},
 			[95769] = {
 				[4] = 1,
@@ -1431,7 +1479,7 @@ MythicPlusTimerDB = {
 				[4] = 1,
 			},
 			[130488] = {
-				[4] = 25,
+				[4] = 32,
 			},
 			[95772] = {
 				[4] = 1,
@@ -1453,7 +1501,7 @@ MythicPlusTimerDB = {
 				[8] = 1,
 			},
 			[130436] = {
-				52, -- [1]
+				70, -- [1]
 			},
 			[105705] = {
 				[4] = 1,
@@ -1549,11 +1597,11 @@ MythicPlusTimerDB = {
 			[135245] = {
 				[8] = 13,
 			},
-			[134232] = {
-				[4] = 25,
+			[98926] = {
+				[4] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[131677] = {
+				[6] = 8,
 			},
 			[96657] = {
 				[12] = 1,
@@ -1653,7 +1701,7 @@ MythicPlusTimerDB = {
 				[4] = 18,
 			},
 			[133436] = {
-				[5] = 2,
+				[5] = 3,
 			},
 			[100248] = {
 				[4] = 1,

@@ -45,9 +45,10 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369485266"] = "424346|1556212052|0|1",
+					["Crucible of Storms Heroic|369485266"] = "292998|1556343400|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "292998|1556343400|0|1",
 				},
-				["lastUpdate"] = 1556213537,
+				["lastUpdate"] = 1556344894,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -55,7 +56,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1555806248,
+				["lastUpdate"] = 1556303906,
 			},
 		},
 	},

@@ -27,6 +27,13 @@ X: -646
 Y: -255
 W: 365
 H: 380
+Frame: AAPQOrderList
+FrameLevel: 1
+Anchor: RIGHT
+X: -310
+Y: 81
+W: 231
+H: 440
 Frame: AdiBagsAnchor1
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
@@ -76,3 +83,10 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: CopyChatFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -494
+Y: 163
+W: 700
+H: 200

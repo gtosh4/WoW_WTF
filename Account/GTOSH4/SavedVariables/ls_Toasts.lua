@@ -2,6 +2,7 @@
 LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 	},

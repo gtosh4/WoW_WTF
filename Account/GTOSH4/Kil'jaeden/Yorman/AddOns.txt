@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 ElvUI_EverySecondCounts: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
@@ -16,3 +16,5 @@ AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_CrucibleOfStorms: enabled
 Dominos: disabled
+AAP-Vanilla: enabled
+AAP-TBC-WotLK: enabled

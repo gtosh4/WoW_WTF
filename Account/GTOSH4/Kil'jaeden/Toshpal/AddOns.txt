@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: disabled
@@ -13,3 +13,5 @@ AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_BattleOfDazaralor: enabled
 Dominos: disabled
+AAP-Vanilla: enabled
+AAP-TBC-WotLK: enabled

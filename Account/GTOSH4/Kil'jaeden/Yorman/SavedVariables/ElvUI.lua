@@ -1,1546 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" yao", -- [1]
-		" I rdy", -- [2]
-		" ayy", -- [3]
-		"jk, back now", -- [4]
-		"/bw", -- [5]
-		"gotta do it in person", -- [6]
-		"erright", -- [7]
-		"/g dude talks too much", -- [8]
-		"/g literally retarded", -- [9]
-		"kk", -- [10]
-		"I rdy", -- [11]
-		"/g wtf", -- [12]
-		"or wait an hour", -- [13]
-		"/cw Andrewzz-Kil'jaeden yeah lol", -- [14]
-		"/grid2", -- [15]
-		"ayy", -- [16]
-		"/cw Crippled I have 1 streaking and pulsar", -- [17]
-		"yao", -- [18]
-		"/dn", -- [19]
-		"/g it's not on gcd", -- [20]
+		"/cw Andrewzz-Kil'jaeden yeah lol", -- [1]
+		"/cw Crippled I have 1 streaking and pulsar", -- [2]
+		"erright", -- [3]
+		"or wait an hour", -- [4]
+		"jk, back now", -- [5]
+		"/g it's not on gcd", -- [6]
+		"ayy", -- [7]
+		"/ec", -- [8]
+		"/g wtf", -- [9]
+		"/grid2", -- [10]
+		"kk", -- [11]
+		"/g dude talks too much", -- [12]
+		"/bw", -- [13]
+		"I rdy", -- [14]
+		"/dn", -- [15]
+		"yao", -- [16]
+		"/wa", -- [17]
+		"/script for k,v in pairs(ElvUI_Bar1) do print(k) end", -- [18]
+		"/script for k,v in pairs(ElvUI_Bar1.buttonConfig) do print(k) end", -- [19]
+		"/script for k,v in pairs(ElvUI_Bar1.db) do print(k) end", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Taunted Dazar'ai Honor Guard!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1081, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648635,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1082, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648636,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1083, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648636,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"Mind Freezed Dazar'ai Augur's |cff71d5ff|Hspell:253583:0|h[Fiery Enchant]|h|r!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1085, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648645,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Dazar'ai Augur!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1086, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648647,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1087, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648650,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Dazar'ai Augur ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1088, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648652,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Dazar'ai Augur ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1089, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648652,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"Mind Freezed Dazar'ai Juggernaut's |cff71d5ff|Hspell:255824:0|h[Fanatic's Rage]|h|r!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1092, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648672,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"Taunted Priestess Alun'za!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1094, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648709,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:50613:0|h[Arcane Torrent]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1099, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648724,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Spirit of Gold!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1106, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648755,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Spirit of Gold ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1107, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648760,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Spirit of Gold!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1113, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648800,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Spirit of Gold ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1118, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648803,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
-		{
-			"Taunted Yazma!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1128, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648905,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1130, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1555648909,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"Mind Freezed Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1134, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648930,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1136, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1555648946,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"Mind Freezed Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1139, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648964,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"|cff71d5ff|Hspell:61999:0|h[Raise Ally]|h|r cast on You!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1144, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648970,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [21]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1145, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1555648984,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1146, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555648985,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Mind Freezed Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1149, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649005,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"Taunted Reanimated Honor Guard!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1150, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649019,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"Interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r on Yazma", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1151, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1555649024,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1153, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649025,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1154, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649025,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1156, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649030,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1157, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649033,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1158, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649033,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Reanimated Honor Guard!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1159, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649033,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Reanimated Honor Guard!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1160, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649033,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
-		{
-			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1161, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649035,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Reanimated Honor Guard ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1162, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649038,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Reanimated Honor Guard ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1163, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649038,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1165, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
-		{
-			"1. Keydepleter 723.3k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1166, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"2. Litsong 898.9k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1167, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"3. Morepheous 1199.6k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1168, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"4. Yorman 1239.1k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1169, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
-		{
-			"5. Wraithbrand 1250.2k", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1170, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1555649061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:249:14:10:11:14:117|h[Keystone: Kings' Rest (14)]|h|r", -- [1]
-			"Yorman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yorman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1171, -- [11]
-			"Player-9-0A76FA3F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Yorman|r",
-			[51] = 1555649064,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:246:14:10:11:14:117|h[Keystone: Tol Dagor (14)]|h|r", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1175, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1555649070,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"only 12, one box and one turn in pur i believe", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1555804250,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
-		{
-			"unless i understood what you're syaing wrong", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1555804260,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
-		{
-			"then jk", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1555804261,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
-		{
-			"That's lame", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1555804269,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
-		{
-			"I remember people had bags upon bags in legion", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1555804280,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
-		{
-			"What does the paragon rep cap at? 15k or 20?", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			34, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1555804315,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			88, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804407,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"19999 i think", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			90, -- [11]
-			"Player-9-0B59DAFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1555804409,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
-		{
-			"zzz", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			92, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1555804415,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
-		{
-			"Thanks", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			94, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1555804416,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			115, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804541,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
-			"Madyidem-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Madyidem-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			117, -- [11]
-			"Player-9-0B63AFA1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMadyidem|r",
-			[51] = 1555804554,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			121, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804613,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			123, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804674,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			124, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804747,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
-		{
-			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
-			"Madyidem-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Madyidem-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			129, -- [11]
-			"Player-9-0B63AFA1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMadyidem|r",
-			[51] = 1555804796,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			132, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804808,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			140, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804881,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			141, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555804942,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			146, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555805015,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
-		{
-			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
-			"Madyidem-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Madyidem-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			148, -- [11]
-			"Player-9-0B63AFA1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMadyidem|r",
-			[51] = 1555805038,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			149, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555805076,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			152, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555805149,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
-		{
-			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
-			"Clemikaraku-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Clemikaraku-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-9-0B6352E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Clemikaraku|r",
-			[51] = 1555805210,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
 		{
 			"2k Selling +10-14 M+ keystones or Conqueror S2 Achievement  for gold - come get your 400 loot + 410 cache or push your .io score for the new season! Run by 2k io 8/9M raiders - can do specific keys upon request . Pst for more info and pricing.", -- [1]
 			"Kiysfault-Kil'jaeden", -- [2]
@@ -1562,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKiysfault|r",
 			[51] = 1555805256,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [1]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -1584,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1555805280,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [2]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1606,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [3]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1628,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805344,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [4]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1650,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805416,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [5]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1672,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805477,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [6]
 		{
 			"2k Selling +10-14 M+ keystones or Conqueror S2 Achievement  for gold - come get your 400 loot + 410 cache or push your .io score for the new season! Run by 2k io 8/9M raiders - can do specific keys upon request . Pst for more info and pricing.", -- [1]
 			"Kiysfault-Kil'jaeden", -- [2]
@@ -1694,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKiysfault|r",
 			[51] = 1555805483,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [7]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -1716,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555805499,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [8]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -1738,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1555805522,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [9]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1760,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805550,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [10]
 		{
 			"2k Selling +10-14 M+ keystones or Conqueror S2 Achievement  for gold - come get your 400 loot + 410 cache or push your .io score for the new season! Run by 2k io 8/9M raiders - can do specific keys upon request . Pst for more info and pricing.", -- [1]
 			"Kiysfault-Kil'jaeden", -- [2]
@@ -1782,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKiysfault|r",
 			[51] = 1555805594,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [11]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1804,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805611,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [12]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -1826,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555805619,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [13]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1848,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805684,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [14]
 		{
 			"2k Selling +10-14 M+ keystones or Conqueror S2 Achievement  for gold - come get your 400 loot + 410 cache or push your .io score for the new season! Run by 2k io 8/9M raiders - can do specific keys upon request . Pst for more info and pricing.", -- [1]
 			"Kiysfault-Kil'jaeden", -- [2]
@@ -1870,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKiysfault|r",
 			[51] = 1555805704,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [15]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -1892,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555805739,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [16]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -1914,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805745,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [17]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -1936,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1555805764,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [18]
 		{
 			"Pride", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1958,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805802,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [19]
 		{
 			"why is there another Pride", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1980,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805804,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [20]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2002,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805818,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [21]
 		{
 			"he's right there", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2024,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805821,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [22]
 		{
 			"do you know him", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2046,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [23]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -2068,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555805859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [24]
 		{
 			"lol no", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2090,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805875,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [25]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2112,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805879,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [26]
 		{
 			"he /waves at me a lot", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2134,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805879,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [27]
 		{
 			"the first time he saw me he whispered me", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2156,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805888,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [28]
 		{
 			"i just waved at him", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2178,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555805890,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [29]
 		{
 			"\":(\"", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2200,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805891,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [30]
 		{
 			"and he wasn't in our guild", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2222,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555805895,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [100]
+		}, -- [31]
 		{
 			"i was like awk", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2244,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555805897,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
+		}, -- [32]
 		{
 			"looool", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2266,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805898,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [33]
 		{
 			"and ran away", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2288,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555805899,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [34]
 		{
 			"LOL", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2310,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805902,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [35]
 		{
 			"yikes", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2332,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805904,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [36]
 		{
 			"]:", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2354,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1555805906,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [37]
 		{
 			"he probably xferred or something", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2376,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805917,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [38]
 		{
 			"tried to use the name and got triggered so he alt' coded it ", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2398,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805926,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [39]
 		{
 			"LOL", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2420,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805930,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [40]
 		{
 			"he didn't realize you are so active", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2442,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805933,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [41]
 		{
 			"so now its just awkward for both of you", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2464,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555805941,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [42]
 		{
 			"i mean", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2486,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805946,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [43]
 		{
 			"i'm laughing", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2508,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805949,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [44]
 		{
 			"so", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2530,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805951,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [45]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2552,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555805951,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [46]
 		{
 			"LOL", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2574,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555805960,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [47]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -2596,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555805979,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [48]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2618,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1555806006,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [49]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2640,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555806013,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [50]
 		{
 			"called it.", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2662,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1555806052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [51]
 		{
 			"AHAHA", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2684,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1555806053,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [52]
 		{
 			"Freehold leveling boosting. 110-120. 15 minutes per level. Cheaper price with BoAs/leveling potion. PST (Gold only) ", -- [1]
 			"Brewmassaqt-Kil'jaeden", -- [2]
@@ -2706,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Brewmassaqt|r",
 			[51] = 1555806064,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [53]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2728,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555806085,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [54]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -2750,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555806099,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [55]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2772,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555806147,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [56]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Clemikaraku-Kil'jaeden", -- [2]
@@ -2794,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Clemikaraku|r",
 			[51] = 1555806219,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [57]
 		{
 			"WTS Mythic +10 for 400lvl+gears and weekly reward 410, and Heroic Battle of Dazer'alor 9/9 with guaranteed 3+items,also do |cffffff00|Hachievement:13315:Player-9-0B63B360:0:0:0:-1:0:0:0:0|h[Glory of the Dazar'alor Raider]|h|r,Running now !/W", -- [1]
 			"Goodstar-Kil'jaeden", -- [2]
@@ -2816,6 +1298,1524 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoodstar|r",
 			[51] = 1555806219,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"!keys", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301395,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [59]
+		{
+			"|cffa335ee|Hkeystone:158923:247:16:9:6:3:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
+			"Soozpriest-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Soozpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-3676-0A3FE244", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSoozpriest-Area52|r",
+			[51] = 1556301395,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:244:20:9:6:3:117|h[Keystone: Atal'Dazar (20)]|h|r", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301395,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"if you care", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301430,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [62]
+		{
+			"https://discord.gg/SU2Nk9", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301430,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [63]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301544,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [64]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			59, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301565,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [65]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			78, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301610,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			79, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301617,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [67]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301635,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [68]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			82, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301641,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			85, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301655,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [70]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			86, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301657,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [71]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			88, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301668,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			"Brain Freeze on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			91, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556301676,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301679,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [74]
+		{
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301792,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [75]
+		{
+			"Interrupted Hired Assassin's |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301838,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [76]
+		{
+			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301876,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [77]
+		{
+			"Interrupted Hired Assassin's |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301894,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [78]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556301923,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [79]
+		{
+			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			119, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301937,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [80]
+		{
+			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301956,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [81]
+		{
+			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556301984,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [82]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302005,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			131, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302021,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [84]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			132, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302034,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [85]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302035,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [86]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			134, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302046,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [87]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			135, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302051,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [88]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			136, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302057,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			137, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302080,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302095,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [91]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			139, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302100,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [92]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			142, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302135,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [93]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302155,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [94]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			172, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302338,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			177, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302351,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			178, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302353,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [97]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			179, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302362,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			181, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302370,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [99]
+		{
+			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			184, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302460,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [100]
+		{
+			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			189, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302487,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [101]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			193, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302500,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			194, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302503,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [103]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			195, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302520,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			196, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302521,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556302526,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [106]
+		{
+			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			199, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302538,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [107]
+		{
+			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			200, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302577,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [108]
+		{
+			"Interrupted Stonefury's |cff71d5ff|Hspell:263215:0|h[Tectonic Barrier]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			207, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302615,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [109]
+		{
+			"Interrupted Stonefury's |cff71d5ff|Hspell:263215:0|h[Tectonic Barrier]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302638,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [110]
+		{
+			"Raging Gaze on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556302701,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [111]
+		{
+			"Raging Gaze on Andruww", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			232, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556302824,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [112]
+		{
+			"Propellant Blast on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			248, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556302978,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"Propellant Blast on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			261, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303068,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Propellant Blast on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303104,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
+		{
+			"Interrupted Venture Co. Skyscorcher's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Andruww-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556303331,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [116]
+		{
+			"Homing Missile on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			305, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303378,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [117]
+		{
+			"Homing Missile on Paxington", -- [1]
+			"Paxington-Illidan", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Paxington-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			308, -- [11]
+			"Player-57-0ACFA287", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Paxington-Illidan|r",
+			[51] = 1556303399,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [118]
+		{
+			"Homing Missile on Yorman", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303423,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [119]
+		{
+			"Homing Missile on Soozpriest", -- [1]
+			"Soozpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Soozpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			316, -- [11]
+			"Player-3676-0A3FE244", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSoozpriest-Area52|r",
+			[51] = 1556303444,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12854:Player-9-0A76FA3F:1:4:26:19:4294967295:4294967295:4294967295:4294967295|h[Ready for Raiding VI]|h|r!", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			318, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303466,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13448:Player-9-0A7EC3E5:1:4:26:19:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Conqueror: Season Two]|h|r!", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556303507,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:252:15:9:6:3:117|h[Keystone: Shrine of the Storm (15)]|h|r", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yorman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			331, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1556303521,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [123]
+		{
+			"bruh this priest actually did 11k on that boss", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1556303523,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"|cffa335ee|Hkeystone:158923:250:17:9:6:3:117|h[Keystone: Temple of Sethraliss (17)]|h|r", -- [1]
+			"Soozpriest-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Soozpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			334, -- [11]
+			"Player-3676-0A3FE244", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSoozpriest-Area52|r",
+			[51] = 1556303525,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [125]
+		{
+			"thanks for the run xD", -- [1]
+			"Soozpriest-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Soozpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"Player-3676-0A3FE244", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSoozpriest-Area52|r",
+			[51] = 1556303591,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			"thx", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			339, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1556303593,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [127]
 	},
 }

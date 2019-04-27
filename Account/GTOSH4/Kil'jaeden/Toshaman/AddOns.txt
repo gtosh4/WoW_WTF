@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 ElvUI_EverySecondCounts: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
@@ -19,3 +19,5 @@ BigWigs_WrathOfTheLichKing: enabled
 BigWigs_CrucibleOfStorms: enabled
 BigWigs_Uldir: enabled
 Dominos: disabled
+AAP-Vanilla: enabled
+AAP-TBC-WotLK: enabled

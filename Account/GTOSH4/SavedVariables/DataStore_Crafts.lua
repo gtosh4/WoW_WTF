@@ -1459,6 +1459,9 @@ DataStore_CraftsDB = {
 				["lastUpdate"] = 1556081745,
 				["Prof2"] = "Inscription",
 				["Professions"] = {
+					["Alchemy"] = {
+						["CurrentLevelName"] = "Legion Alchemy",
+					},
 					["Inscription"] = {
 						["CurrentLevelName"] = "Legion Inscription",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0A7C686A:195115:773|h[Inscription]|h|r",
@@ -2091,9 +2094,6 @@ DataStore_CraftsDB = {
 							},
 						},
 						["Rank"] = 795,
-					},
-					["Alchemy"] = {
-						["CurrentLevelName"] = "Legion Alchemy",
 					},
 				},
 				["Prof1"] = "Alchemy",
@@ -2811,12 +2811,9 @@ DataStore_CraftsDB = {
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1556211832,
+				["lastUpdate"] = 1556343392,
 				["Prof2"] = "Inscription",
 				["Professions"] = {
-					["Inscription"] = {
-						["CurrentLevelName"] = "Zandalari Inscription",
-					},
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0B58277D:2259:171|h[Alchemy]|h|r",
@@ -3532,11 +3529,14 @@ DataStore_CraftsDB = {
 						["MaxRank"] = 480,
 						["Rank"] = 169,
 					},
+					["Inscription"] = {
+						["CurrentLevelName"] = "Zandalari Inscription",
+					},
 				},
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1555804220,
+				["lastUpdate"] = 1556303623,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Cooking"] = {

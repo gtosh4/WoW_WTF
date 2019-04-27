@@ -7,12 +7,13 @@ VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Chain Heal
 END
 VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
-#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour
-/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dounpour
+#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour; [talent:5/3] Wind Rush Totem
+/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dowpour; [talent:5/3] Wind Rush Totem
 END
 VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
 #showtooltip Wind Shear
-/cast [@focus,exists,noharm,nodead] Wind Shear; Wind Shear
+/stopcasting
+/cast [@focus,exists,harm,nodead][] Wind Shear
 END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
