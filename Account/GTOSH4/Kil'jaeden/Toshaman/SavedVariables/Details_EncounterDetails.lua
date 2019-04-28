@@ -73,6 +73,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Orgruin-Magtheridon",
 		},
+		[289589] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Prismatic Image",
+		},
 		[183752] = {
 			["school"] = 124,
 			["token"] = {
@@ -759,10 +766,10 @@ EncounterDetailsDB = {
 		[62415] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Jormungar Behemoth",
 		},
@@ -3700,15 +3707,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ritzy",
 		},
-		[111400] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[47528] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Maseychang",
+			["source"] = "Moonblight",
 		},
 		[257278] = {
 			["school"] = 8,
@@ -3784,12 +3788,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[279537] = {
+		[111400] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Pluie",
+			["source"] = "Maseychang",
 		},
 		[257791] = {
 			["school"] = 32,
@@ -6851,12 +6858,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tehkz",
 		},
-		[265813] = {
+		[288330] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Rygrendh-Hyjal",
+			["source"] = "Andruww",
 		},
 		[17253] = {
 			["school"] = 1,
@@ -6865,13 +6874,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Munchlax",
 		},
-		[193357] = {
+		[265813] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Nawtyrogue",
+			["source"] = "Rygrendh-Hyjal",
 		},
 		[63276] = {
 			["school"] = 32,
@@ -7175,13 +7183,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aspix",
 		},
-		[78674] = {
-			["school"] = 72,
+		[127802] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Iko",
+			["source"] = "Ayho-Illidan",
 		},
 		[268893] = {
 			["school"] = 1,
@@ -7208,13 +7216,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marked Sister",
 		},
-		[127802] = {
+		[47541] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ayho-Illidan",
+			["source"] = "Moonblight",
 		},
 		[64173] = {
 			["school"] = 8,
@@ -7225,12 +7232,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brain of Yogg-Saron",
 		},
-		[47541] = {
-			["school"] = 32,
+		[78674] = {
+			["school"] = 72,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Moonblight",
+			["source"] = "Iko",
 		},
 		[63981] = {
 			["school"] = 1,
@@ -7350,13 +7358,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Backstab",
 		},
-		[286811] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[55090] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Akunda",
+			["source"] = "Moonblight",
 		},
 		[253239] = {
 			["school"] = 1,
@@ -7385,13 +7393,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[63278] = {
-			["school"] = 1,
+		[286811] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "General Vezax",
+			["source"] = "Akunda",
 		},
 		[287322] = {
 			["school"] = 1,
@@ -7416,13 +7424,13 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[55090] = {
+		[63278] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Moonblight",
+			["source"] = "General Vezax",
 		},
 		[116] = {
 			["school"] = 16,
@@ -7756,14 +7764,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wraithbrand",
 		},
-		[260924] = {
-			["school"] = 1,
+		[222031] = {
+			["school"] = 127,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sergeant Bainbridge",
+			["source"] = "Andruww",
 		},
 		[63983] = {
 			["school"] = 1,
@@ -7937,12 +7943,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gilded Priestess",
 		},
-		[31616] = {
-			["school"] = 8,
+		[260924] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Rylaiz",
+			["source"] = "Sergeant Bainbridge",
 		},
 		[246851] = {
 			["school"] = 1,
@@ -8081,14 +8089,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Solena",
 		},
-		[267385] = {
-			["school"] = 32,
+		[273526] = {
+			["school"] = 36,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Sodalock",
 		},
 		[261438] = {
 			["school"] = 8,
@@ -8102,12 +8108,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Waycrest",
 		},
-		[81751] = {
-			["school"] = 2,
+		[267385] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Areneault-Zul'jin",
+			["source"] = "Unknown",
 		},
 		[64496] = {
 			["school"] = 32,
@@ -8182,22 +8190,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ruesong",
 		},
-		[267901] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Brother Ironhull",
-		},
 		[12294] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Gems-Gnomeregan",
+		},
+		[63473] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ignis the Furnace Master",
 		},
 		[282742] = {
 			["school"] = 8,
@@ -8246,12 +8251,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yalat's Bulwark",
 		},
-		[63473] = {
-			["school"] = 4,
+		[267901] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ignis the Furnace Master",
+			["source"] = "Brother Ironhull",
 		},
 		[286836] = {
 			["school"] = 4,
@@ -8328,6 +8336,15 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
+		[281721] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Andruww",
+		},
 		[258627] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -8337,16 +8354,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Earthrager",
-		},
-		[62130] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Thorim",
 		},
 		[284280] = {
 			["school"] = 1,
@@ -9534,12 +9541,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[5374] = {
-			["school"] = 1,
+		[255575] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Backstab",
+			["source"] = "Priestess Alun'za",
 		},
 		[288410] = {
 			["school"] = 1,
@@ -9549,13 +9556,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[270058] = {
+		[24331] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Harbor Saurid",
 		},
 		[288415] = {
 			["school"] = 32,
@@ -9568,21 +9577,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bwonsamdi",
 		},
-		[63414] = {
+		[5374] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "VX-001",
+			["source"] = "Backstab",
 		},
-		[62519] = {
+		[274598] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Freya",
+			["source"] = "Wraithbrand",
 		},
 		[285345] = {
 			["school"] = 32,
@@ -9595,15 +9603,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maddening Eyes of N'Zoth",
 		},
-		[24331] = {
+		[276199] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Harbor Saurid",
+			["source"] = "Makhaar-Hyjal",
 		},
 		[44544] = {
 			["school"] = 16,
@@ -9724,14 +9729,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[288927] = {
-			["school"] = 32,
+		[62519] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unliving Augur",
+			["source"] = "Freya",
 		},
 		[32323] = {
 			["school"] = 1,
@@ -9850,13 +9855,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[257882] = {
-			["school"] = 16,
+		[255835] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Hadal Darkfathom",
+			["source"] = "Priestess Alun'za",
 		},
 		[22568] = {
 			["school"] = 1,
@@ -9984,12 +9990,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Priestess Alun'za",
 		},
-		[62457] = {
-			["school"] = 16,
+		[272055] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Icicle",
+			["source"] = "Sharkbait",
 		},
 		[217200] = {
 			["school"] = 1,
@@ -10140,12 +10146,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mogul Razdunk",
 		},
-		[272055] = {
+		[30213] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sharkbait",
+			["source"] = "Felguard",
 		},
 		[269493] = {
 			["school"] = 4,
@@ -10214,14 +10222,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[186265] = {
-			["school"] = 1,
+		[63486] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Merkyah",
+			["source"] = "Stormcaller Brundir",
 		},
 		[264378] = {
 			["school"] = 32,
@@ -10248,22 +10256,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Rune Watcher",
 		},
-		[30213] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[62457] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Felguard",
+			["source"] = "Icicle",
 		},
-		[276193] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[288475] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sneakydrag-Zul'jin",
+			["source"] = "Icefall",
 		},
 		[170379] = {
 			["school"] = 8,
@@ -10283,12 +10288,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Malady",
 		},
-		[3716] = {
-			["school"] = 32,
+		[276193] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Zag'gron",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[185099] = {
 			["school"] = 1,
@@ -10513,12 +10519,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Waycrest Reveler",
 		},
-		[64953] = {
-			["school"] = 1,
+		[263365] = {
+			["school"] = 8,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Mechagnome Battletank",
+			["source"] = "Adderis",
 		},
 		[256101] = {
 			["school"] = 1,
@@ -10536,12 +10544,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[62906] = {
-			["school"] = 8,
+		[64953] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Freya's Ward",
+			["source"] = "Mechagnome Battletank",
 		},
 		[265923] = {
 			["school"] = 1,
@@ -10550,6 +10558,21 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "The Golden Serpent",
+		},
+		[287929] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "High Tinker Mekkatorque",
+		},
+		[286396] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Mestrah",
 		},
 		[267459] = {
 			["school"] = 32,
@@ -10560,22 +10583,6 @@ EncounterDetailsDB = {
 				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Forgotten Denizen",
-		},
-		[286396] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Mestrah",
-		},
-		[263365] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Adderis",
 		},
 		[288441] = {
 			["school"] = 16,
@@ -10921,14 +10928,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Stormcaller Brundir",
 		},
-		[260202] = {
+		[115804] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mogul Razdunk",
+			["source"] = "Fire Spirit",
 		},
 		[256363] = {
 			["school"] = 1,
@@ -10957,13 +10963,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Andruww",
 		},
-		[115804] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[64059] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Fire Spirit",
+			["source"] = "Brain of Yogg-Saron",
 		},
 		[285382] = {
 			["school"] = 1,
@@ -10988,13 +10994,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Steelstryke",
 		},
-		[64059] = {
-			["school"] = 32,
+		[260202] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Brain of Yogg-Saron",
+			["source"] = "Mogul Razdunk",
 		},
 		[208772] = {
 			["school"] = 2,
@@ -11592,13 +11599,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal the Gluttonous",
 		},
-		[287929] = {
-			["school"] = 1,
+		[62906] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Freya's Ward",
 		},
 		[36107] = {
 			["school"] = 1,
@@ -11699,14 +11705,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aka'ali the Conqueror",
 		},
-		[63486] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[3716] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Stormcaller Brundir",
+			["source"] = "Zag'gron",
 		},
 		[63550] = {
 			["school"] = 8,
@@ -11728,12 +11732,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dread Captain Lockwood",
 		},
-		[288475] = {
-			["school"] = 16,
+		[186265] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Icefall",
+			["source"] = "Merkyah",
 		},
 		[51460] = {
 			["school"] = 32,
@@ -11871,14 +11877,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Banquet Steward",
 		},
-		[255835] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[63479] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Priestess Alun'za",
+			["source"] = "Stormcaller Brundir",
 		},
 		[285410] = {
 			["school"] = 32,
@@ -11894,12 +11900,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thorim's Hammer",
 		},
-		[276199] = {
+		[270058] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Makhaar-Hyjal",
+			["source"] = "Sneakydrag-Zul'jin",
 		},
 		[285346] = {
 			["school"] = 1,
@@ -11909,22 +11916,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "King Rastakhan",
 		},
-		[274598] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Wraithbrand",
-		},
-		[63479] = {
-			["school"] = 8,
+		[288927] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Stormcaller Brundir",
+			["source"] = "Unliving Augur",
+		},
+		[257882] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Hadal Darkfathom",
 		},
 		[284388] = {
 			["school"] = 4,
@@ -11933,12 +11940,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[255575] = {
-			["school"] = 32,
+		[63414] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Priestess Alun'za",
+			["source"] = "VX-001",
 		},
 		[257402] = {
 			["school"] = 1,
@@ -12456,14 +12463,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[281721] = {
-			["school"] = 8,
+		[62130] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Thorim",
 		},
 		[285428] = {
 			["school"] = 1,
@@ -12576,12 +12584,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Auriaya",
 		},
-		[273526] = {
-			["school"] = 36,
+		[81751] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Sodalock",
+			["source"] = "Areneault-Zul'jin",
 		},
 		[273525] = {
 			["school"] = 32,
@@ -12653,12 +12661,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azerokk",
 		},
-		[222031] = {
-			["school"] = 127,
+		[31616] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Rylaiz",
 		},
 		[267523] = {
 			["school"] = 1,
@@ -12966,14 +12974,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ice Block",
 		},
-		[288330] = {
+		[193357] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Nawtyrogue",
 		},
 		[284420] = {
 			["school"] = 4,
@@ -14262,12 +14269,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thistle Acolyte",
 		},
-		[47528] = {
-			["school"] = 16,
+		[279537] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Moonblight",
+			["source"] = "Pluie",
 		},
 		[260508] = {
 			["school"] = 1,
@@ -14556,629 +14563,779 @@ EncounterDetailsDB = {
 	["emotes"] = {
 		{
 			{
-				0.191000000108033, -- [1]
+				0.192000000039116, -- [1]
+				"For the Alliance!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				0.635000000009313, -- [1]
+				"You are no longer dealing with some underling!", -- [2]
+				"Qiro", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				1.12199999997392, -- [1]
+				"How's THIS?", -- [2]
+				"Nawtyrogue", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				2.37100000004284, -- [1]
+				"I will break you.", -- [2]
+				"Paxington", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				2.8090000001248, -- [1]
+				"This ends NOW!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				3.8519999999553, -- [1]
+				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				7.29300000006333, -- [1]
+				"Kul Tirans on de starboard side!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				8.30400000000373, -- [1]
+				"I hope you don't mind the cold!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				9.38500000000931, -- [1]
+				"We ride, Midnight! To victory!", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				17.9570000001695, -- [1]
+				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				30.1480000000447, -- [1]
+				"Charges set!", -- [2]
+				"Kul Tiran Marine", -- [3]
+				4, -- [4]
+			}, -- [11]
+			{
+				36.9560000000056, -- [1]
+				"A fine shot! Their vessel is bound for de deep!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				54.438000000082, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				63.2170000001788, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [14]
+			{
+				63.2170000001788, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				72.8680000000168, -- [1]
+				"Kul Tiran colors off our port side!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				85.5150000001304, -- [1]
+				"A Kul Tiran Corsair approaches on the port side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [17]
+			{
+				108.324000000022, -- [1]
+				"I hope you don't mind the cold!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				112.951000000117, -- [1]
+				"A fine shot! Their vessel is bound for de deep!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				124.091000000015, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [20]
+			{
+				124.091000000015, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				133.691000000108, -- [1]
+				"Kul Tirans on de starboard side!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				137.626000000164, -- [1]
+				"SUFFER!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				144.766000000061, -- [1]
+				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [24]
+			{
+				145.969000000041, -- [1]
+				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				148.099000000162, -- [1]
+				"Yogg-Saron! Grant me your power!", -- [2]
+				"Pride", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				161.743000000017, -- [1]
+				"|TInterface\\ICONS\\Spell_Mage_CometStorm.BLP:20|t You've been targeted by |cFFFF0000|Hspell:287565|h[Avalanche]|h|r!", -- [2]
+				"Toshaman", -- [3]
+				2, -- [4]
+			}, -- [27]
+			{
+				161.743000000017, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				166.013999999966, -- [1]
+				"You will be washed away!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				185.90000000014, -- [1]
+				"Impossible!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				189.050000000047, -- [1]
+				"I lured you into open waters. Because out here, you have no hope of escape.", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [31]
+			["boss"] = "Lady Jaina Proudmoore",
+		}, -- [1]
+		{
+			{
+				0.1, -- [1]
 				"The sea answers my call!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				9.49900000006892, -- [1]
+				1.05800000019372, -- [1]
+				"I will break you.", -- [2]
+				"Paxington", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				1.70000000018626, -- [1]
+				"You are no longer dealing with some underling!", -- [2]
+				"Qiro", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				1.97999999998137, -- [1]
+				"Hammer of the Righteous!", -- [2]
+				"Hyperr", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				3.78800000017509, -- [1]
+				"Can you handle this?", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				4.15300000016578, -- [1]
+				"Hold nothing back, for I will not!", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				4.59400000004098, -- [1]
+				"Form ranks! Charge!", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				7.93700000015087, -- [1]
 				"Kul Tirans on de starboard side!", -- [2]
 				"Captain Zadari", -- [3]
 				7, -- [4]
-			}, -- [2]
-			{
-				17.3870000001043, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				19.8000000000466, -- [1]
-				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
-				"Kul Tiran Corsair", -- [3]
-				1, -- [4]
-			}, -- [4]
-			{
-				40.940000000177, -- [1]
-				"Ha! Hope de Kul Tirans can swim better than dey sail!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				61.1100000001025, -- [1]
-				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [6]
-			{
-				61.1100000001025, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				69.6210000000428, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
 			}, -- [8]
 			{
-				69.8270000000484, -- [1]
-				"Kul Tiran colors off our port side!", -- [2]
-				"Captain Zadari", -- [3]
+				15.8549999999814, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [9]
 			{
-				82.063000000082, -- [1]
-				"A Kul Tiran Corsair approaches on the port side!", -- [2]
+				18.1970000001602, -- [1]
+				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
 				"Kul Tiran Corsair", -- [3]
 				1, -- [4]
 			}, -- [10]
 			{
-				92.7060000000056, -- [1]
-				"The deck is rigged to explode!", -- [2]
-				"Kul Tiran Marine", -- [3]
-				4, -- [4]
+				38.4120000000112, -- [1]
+				"A fine shot! Their vessel is bound for de deep!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
 			}, -- [11]
 			{
-				98.5339999999851, -- [1]
-				"The tide moves against you!", -- [2]
+				66.1310000000522, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
+				1, -- [4]
 			}, -- [12]
 			{
-				117.043999999994, -- [1]
+				66.1310000000522, -- [1]
 				"I will freeze you where you stand!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [13]
 			{
-				120.455000000075, -- [1]
-				"Dey are sunk! Nothing left but ash and splinters!", -- [2]
-				"Captain Zadari", -- [3]
+				73.4640000001527, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [14]
 			{
-				124.368000000017, -- [1]
-				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [15]
-			{
-				124.368000000017, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				134.305000000168, -- [1]
-				"Enemy vessel off de starboard side! Man de guns!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				144.972000000067, -- [1]
-				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
-				"Kul Tiran Corsair", -- [3]
-				1, -- [4]
-			}, -- [18]
-			{
-				166.695000000065, -- [1]
-				"I hope you don't mind the cold!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				181.346000000136, -- [1]
-				"Ha! Horde vessels on de horizon! You have nowhere left to run, ice witch!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				188.758000000147, -- [1]
-				"You really think I've been running, captain?", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				196.26500000013, -- [1]
-				"Impossible!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				199.425999999978, -- [1]
-				"I lured you into open waters. Because out here, you have no hope of escape.", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				225.695000000065, -- [1]
-				"It's time we finish this.", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				242.222000000067, -- [1]
-				"I hope you don't mind the cold!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [25]
-			{
-				255.631000000052, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [26]
-			{
-				266.36400000006, -- [1]
-				"Cannons, fire!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				266.36400000006, -- [1]
-				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Sonaris|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [28]
-			{
-				294.462999999989, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [29]
-			{
-				322.45299999998, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				330.941000000108, -- [1]
-				"All weapons, open fire!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				330.941000000108, -- [1]
-				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Qiro|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [32]
-			{
-				334.607000000076, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [33]
-			{
-				372.298000000184, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [34]
-			{
-				395.420000000158, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				430.631999999983, -- [1]
-				"What are you waiting for? Finish her.", -- [2]
-				"Nathanos Blightcaller", -- [3]
-				7, -- [4]
-			}, -- [36]
-			["boss"] = "Lady Jaina Proudmoore",
-		}, -- [1]
-		{
-			{
-				0.177000000141561, -- [1]
-				"For Kul Tiras!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				0.437000000150874, -- [1]
-				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
-				"Daiyzed", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				0.437000000150874, -- [1]
-				"Bow to my will!", -- [2]
-				"Knoss", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				1.93600000021979, -- [1]
-				"Bye-bye.", -- [2]
-				"Warlockmania", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				3.16700000013225, -- [1]
-				"This farce ends here!", -- [2]
-				"Arnbjørn", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				8.11400000005961, -- [1]
-				"Flesh turns to ash!", -- [2]
-				"Yukio", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				9.07800000021234, -- [1]
-				"You will suffer from our failure.", -- [2]
-				"Hyperr", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				9.94000000017695, -- [1]
-				"The vortex of the harvested calls to you!", -- [2]
-				"Cadaceus", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				14.3330000001006, -- [1]
-				"Enemy vessel off de starboard side! Man de guns!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				14.8580000000075, -- [1]
-				"Witness the power bestowed upon me by Deathwing! Feel the fury of earth!", -- [2]
-				"Moonblight", -- [3]
-				7, -- [4]
-			}, -- [10]
-			{
-				14.8580000000075, -- [1]
-				"|TInterface\\ICONS\\Spell_Mage_CometStorm.BLP:20|t You've been targeted by |cFFFF0000|Hspell:287565|h[Avalanche]|h|r!", -- [2]
-				"Toshaman", -- [3]
-				2, -- [4]
-			}, -- [11]
-			{
-				14.8580000000075, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				21.2130000002217, -- [1]
-				"Fodder for the engine.", -- [2]
-				"Cadaceus", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				25.4170000001323, -- [1]
-				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
-				"Kul Tiran Corsair", -- [3]
-				1, -- [4]
-			}, -- [14]
-			{
-				43.1090000001714, -- [1]
-				"Ha! Hope de Kul Tirans can swim better than dey sail!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				60.6350000000093, -- [1]
-				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				60.6350000000093, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				79.8980000000447, -- [1]
+				73.6710000000894, -- [1]
 				"Enemy vessel off our port side! Give dem a taste of our cannons!", -- [2]
 				"Captain Zadari", -- [3]
 				7, -- [4]
-			}, -- [18]
+			}, -- [15]
 			{
-				88.6130000001285, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				92.7220000000671, -- [1]
+				86.0540000000037, -- [1]
 				"A Kul Tiran Corsair approaches on the port side!", -- [2]
 				"Kul Tiran Corsair", -- [3]
 				1, -- [4]
-			}, -- [20]
+			}, -- [16]
 			{
-				104.27500000014, -- [1]
-				"Charges set!", -- [2]
+				97.7720000001136, -- [1]
+				"The deck is rigged to explode!", -- [2]
 				"Kul Tiran Marine", -- [3]
 				4, -- [4]
-			}, -- [21]
+			}, -- [17]
 			{
-				121.388000000035, -- [1]
-				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [22]
-			{
-				121.388000000035, -- [1]
-				"I will freeze you where you stand!", -- [2]
+				119.237000000197, -- [1]
+				"I hope you don't mind the cold!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
-			}, -- [23]
+			}, -- [18]
 			{
-				123.566000000108, -- [1]
+				127.052000000142, -- [1]
+				"This ends NOW!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				131.553000000073, -- [1]
 				"Dey belong to de sharks now!", -- [2]
 				"Captain Zadari", -- [3]
 				7, -- [4]
-			}, -- [24]
+			}, -- [20]
 			{
-				135.245000000112, -- [1]
+				132.589000000153, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [21]
+			{
+				132.589000000153, -- [1]
 				"I will freeze you where you stand!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
-			}, -- [25]
+			}, -- [22]
 			{
-				151.679000000004, -- [1]
-				"Kul Tirans on de starboard side!", -- [2]
+				141.690000000177, -- [1]
+				"Enemy vessel off de starboard side! Man de guns!", -- [2]
 				"Captain Zadari", -- [3]
 				7, -- [4]
-			}, -- [26]
+			}, -- [23]
 			{
-				161.981000000145, -- [1]
+				146.585000000196, -- [1]
+				"Guards, rally!  Cut these invaders down!", -- [2]
+				"Qiro", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				151.986000000034, -- [1]
 				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
 				"Kul Tiran Corsair", -- [3]
 				1, -- [4]
+			}, -- [25]
+			{
+				164.569000000134, -- [1]
+				"|TInterface\\ICONS\\Spell_Mage_CometStorm.BLP:20|t You've been targeted by |cFFFF0000|Hspell:287565|h[Avalanche]|h|r!", -- [2]
+				"Toshaman", -- [3]
+				2, -- [4]
+			}, -- [26]
+			{
+				164.569000000134, -- [1]
+				"I hope you don't mind the cold!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
 			}, -- [27]
 			{
-				175.236000000034, -- [1]
-				"Ha! Horde vessels on de horizon! You have nowhere left to run, ice witch!", -- [2]
-				"Captain Zadari", -- [3]
+				169.195999999996, -- [1]
+				"Do not expect your sacrilege... to go unpunished.", -- [2]
+				"Pride", -- [3]
 				7, -- [4]
 			}, -- [28]
 			{
-				182.655000000028, -- [1]
-				"You really think I've been running, captain?", -- [2]
+				169.195999999996, -- [1]
+				"The tide moves against you!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [29]
 			{
-				189.371000000043, -- [1]
+				182.614999999991, -- [1]
 				"Impossible!", -- [2]
 				"Captain Zadari", -- [3]
 				7, -- [4]
 			}, -- [30]
 			{
-				192.530000000028, -- [1]
+				185.777000000002, -- [1]
 				"I lured you into open waters. Because out here, you have no hope of escape.", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [31]
 			{
-				220.621000000043, -- [1]
-				"It's time we finish this.", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
+				214.300000000047, -- [1]
+				"My fists are scarlet... with your blood!", -- [2]
+				"Paxington", -- [3]
 				7, -- [4]
 			}, -- [32]
 			{
-				237.388000000035, -- [1]
-				"I hope you don't mind the cold!", -- [2]
+				214.956000000006, -- [1]
+				"It's time we finish this.", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [33]
 			{
-				250.639000000199, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
+				230.123000000138, -- [1]
+				"I have not yet... begun to...", -- [2]
+				"Qiro", -- [3]
+				7, -- [4]
 			}, -- [34]
 			{
-				260.339000000153, -- [1]
-				"All weapons, open fire!", -- [2]
+				230.123000000138, -- [1]
+				"You will be washed away!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [35]
 			{
-				260.339000000153, -- [1]
-				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Knoss|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
+				231.442000000039, -- [1]
+				"I will freeze you where you stand!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
+				7, -- [4]
 			}, -- [36]
 			{
-				288.363000000129, -- [1]
+				245.252000000095, -- [1]
+				"Form ranks! Charge!", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				246.032000000123, -- [1]
 				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				1, -- [4]
+			}, -- [38]
+			{
+				246.032000000123, -- [1]
+				"You there! Step forward!", -- [2]
+				"Pride", -- [3]
+				7, -- [4]
+			}, -- [39]
+			{
+				250.694000000134, -- [1]
+				"SUFFER!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [40]
+			{
+				255.677000000142, -- [1]
+				"Cannons, fire!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [41]
+			{
+				255.677000000142, -- [1]
+				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Nawtyrogue|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [42]
+			{
+				256.439000000013, -- [1]
+				"COME ON!", -- [2]
+				"Nawtyrogue", -- [3]
+				7, -- [4]
+			}, -- [43]
+			{
+				257.668999999994, -- [1]
+				"Hammer of the Righteous!", -- [2]
+				"Hyperr", -- [3]
+				7, -- [4]
+			}, -- [44]
+			{
+				283.581000000006, -- [1]
+				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [45]
+			{
+				306.058000000194, -- [1]
+				"Where one falls, another will rise to take their place.", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [46]
+			{
+				306.058000000194, -- [1]
+				"You need more training!", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [47]
+			{
+				312.766999999993, -- [1]
+				"I hope you don't mind the cold!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [48]
+			{
+				317.060999999987, -- [1]
+				"Do not expect your sacrilege... to go unpunished.", -- [2]
+				"Pride", -- [3]
+				7, -- [4]
+			}, -- [49]
+			{
+				317.403000000166, -- [1]
+				"You are like... piece of iron...", -- [2]
+				"Paxington", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				317.403000000166, -- [1]
+				"You will be washed away!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				321.219000000041, -- [1]
+				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [52]
+			{
+				322.796000000089, -- [1]
+				"Well... done, heh. But I wonder if you're good enough... to best him.", -- [2]
+				"Nawtyrogue", -- [3]
+				7, -- [4]
+			}, -- [53]
+			{
+				322.796000000089, -- [1]
+				"I... have become... the hunted.", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [54]
+			{
+				322.796000000089, -- [1]
+				"I yield! I submit. Excellent work. May I run away now?", -- [2]
+				"Hyperr", -- [3]
+				7, -- [4]
+			}, -- [55]
+			{
+				323.019000000088, -- [1]
+				"Really...? Is that all you've got?", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [56]
+			{
+				323.769000000088, -- [1]
+				"Cannons, fire!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [57]
+			{
+				323.769000000088, -- [1]
+				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Yukio|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [58]
+			["boss"] = "Lady Jaina Proudmoore",
+		}, -- [2]
+		{
+			{
+				0.597000000067055, -- [1]
+				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				1.39399999985471, -- [1]
+				"I will break you.", -- [2]
+				"Paxington", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				1.63100000005215, -- [1]
+				"We ride, Midnight! To victory!", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				2.00600000005215, -- [1]
+				"Hammer of the Righteous!", -- [2]
+				"Hyperr", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				5.77600000007078, -- [1]
+				"How's THIS?", -- [2]
+				"Nawtyrogue", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				6.48799999989569, -- [1]
+				"Enemy vessel off our port side! Give dem a taste of our cannons!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				16.3710000000428, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				19.3019999999087, -- [1]
+				"A Kul Tiran Corsair approaches on the port side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [8]
+			{
+				20.4159999999683, -- [1]
+				"This ends NOW!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				30.9579999998678, -- [1]
+				"The deck is rigged to explode!", -- [2]
+				"Kul Tiran Marine", -- [3]
+				4, -- [4]
+			}, -- [10]
+			{
+				39.4779999998864, -- [1]
+				"Dey belong to de sharks now!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				60.1769999999087, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [12]
+			{
+				60.1769999999087, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				67.4479999998584, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				79.4209999998566, -- [1]
+				"Kul Tirans on de starboard side!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				90.5039999999572, -- [1]
+				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [16]
+			{
+				114.118999999948, -- [1]
+				"Dey belong to de sharks now!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				114.439000000013, -- [1]
+				"|TInterface\\ICONS\\Spell_Mage_CometStorm.BLP:20|t You've been targeted by |cFFFF0000|Hspell:287565|h[Avalanche]|h|r!", -- [2]
+				"Toshaman", -- [3]
+				2, -- [4]
+			}, -- [18]
+			{
+				114.439000000013, -- [1]
+				"I hope you don't mind the cold!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				122.126999999862, -- [1]
+				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				1, -- [4]
+			}, -- [20]
+			{
+				122.126999999862, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				129.876999999862, -- [1]
+				"Form ranks! Charge!", -- [2]
+				"Daiyzed", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				133.358000000007, -- [1]
+				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
+			}, -- [23]
+			{
+				135.824999999953, -- [1]
+				"Guards, rally!  Cut these invaders down!", -- [2]
+				"Qiro", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				137.619999999879, -- [1]
+				"Master, a gift for you!", -- [2]
+				"Pride", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				140.175000000047, -- [1]
+				"Kul Tiran colors off our port side!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				152.953999999911, -- [1]
+				"A Kul Tiran Corsair approaches on the port side!", -- [2]
+				"Kul Tiran Corsair", -- [3]
+				1, -- [4]
+			}, -- [27]
+			{
+				158.244999999879, -- [1]
+				"Death is no escape!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				159.480999999912, -- [1]
+				"This ends NOW!", -- [2]
+				"Rygren", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				159.76099999994, -- [1]
+				"I will freeze you where you stand!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				169.429999999935, -- [1]
+				"Ha! Horde vessels on de horizon! You have nowhere left to run, ice witch!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				176.852999999886, -- [1]
+				"You really think I've been running, captain?", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				182.682999999961, -- [1]
+				"Impossible!", -- [2]
+				"Captain Zadari", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				185.82799999998, -- [1]
+				"I lured you into open waters. Because out here, you have no hope of escape.", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				224.126999999862, -- [1]
+				"It's time we finish this.", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				234.534999999916, -- [1]
+				"You will be washed away!", -- [2]
+				"Lady Jaina Proudmoore", -- [3]
+				7, -- [4]
+			}, -- [36]
+			{
+				235.545999999857, -- [1]
+				"Where one falls, another will rise to take their place.", -- [2]
+				"Bailey", -- [3]
+				7, -- [4]
 			}, -- [37]
 			{
-				318.620000000112, -- [1]
+				241.175999999978, -- [1]
 				"I hope you don't mind the cold!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
 			}, -- [38]
 			{
-				327.258000000147, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				329.570000000065, -- [1]
-				"All weapons, open fire!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				329.570000000065, -- [1]
-				"|TInterface\\Icons\\INV_STAFF_53:20|t|cFFFF0000%s|r marks |cFFFF0000Sunni|r for a massive |cFFFF0000|Hspell:288380|h[Siegebreaker Blast]|h|r, move away!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [41]
-			{
-				341.667000000132, -- [1]
+				250.375999999931, -- [1]
 				"You will be washed away!", -- [2]
 				"Lady Jaina Proudmoore", -- [3]
 				7, -- [4]
-			}, -- [42]
-			{
-				364.958000000101, -- [1]
-				"|TInterface\\Icons\\SPELL_FROST_FROZENCORE:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:288441|h[Icefall]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [43]
-			{
-				380.809000000125, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [44]
-			{
-				445.837000000058, -- [1]
-				"The tide moves against you!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [45]
-			["boss"] = "Lady Jaina Proudmoore",
-		}, -- [2]
-		{
-			{
-				0.153999999864027, -- [1]
-				"For Kul Tiras!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				1.01799999992363, -- [1]
-				"Flesh turns to ash!", -- [2]
-				"Yukio", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				1.76000000000931, -- [1]
-				"As my master once said, \"You cannot truly know someone until you fight them.\"", -- [2]
-				"Daiyzed", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				2.75499999988824, -- [1]
-				"Anar'anel belore!", -- [2]
-				"Knoss", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				14.6489999999758, -- [1]
-				"I hope you don't mind the cold!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				15.8489999999292, -- [1]
-				"The vortex of the harvested calls to you!", -- [2]
-				"Cadaceus", -- [3]
-				7, -- [4]
-			}, -- [6]
-			{
-				30.6269999998622, -- [1]
-				"Kul Tirans on de starboard side!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				32.1769999999087, -- [1]
-				"I have no need for bones to best you!", -- [2]
-				"Arnbjørn", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				39.4120000000112, -- [1]
-				"Mmm, too much fun!", -- [2]
-				"Warlockmania", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				41.7419999998529, -- [1]
-				"A Kul Tiran Corsair approaches on the starboard side!", -- [2]
-				"Kul Tiran Corsair", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				60.0409999999683, -- [1]
-				"|TInterface\\ICONS\\Spell_Mage_CometStorm.BLP:20|t You've been targeted by |cFFFF0000|Hspell:287565|h[Avalanche]|h|r!", -- [2]
-				"Toshaman", -- [3]
-				2, -- [4]
-			}, -- [11]
-			{
-				60.0409999999683, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				60.2609999999404, -- [1]
-				"Dey belong to de sharks now!", -- [2]
-				"Captain Zadari", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				70.4819999998435, -- [1]
-				"Guh...", -- [2]
-				"Cadaceus", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				70.4819999998435, -- [1]
-				"Another soul to strengthen the host!", -- [2]
-				"Cadaceus", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				72.0939999998082, -- [1]
-				"No! I must not fail... again...", -- [2]
-				"Arnbjørn", -- [3]
-				7, -- [4]
-			}, -- [16]
-			{
-				72.0939999998082, -- [1]
-				"You're much... better... than I thought...", -- [2]
-				"Warlockmania", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				73.4020000000019, -- [1]
-				"|TInterface\\ICONS\\Spell_Frost_Ring of Frost.blp:20|t Cold winds gather to unleash |cFFFF0000|Hspell:285459|h[Ring of Frost]|h|r!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				1, -- [4]
-			}, -- [18]
-			{
-				73.4020000000019, -- [1]
-				"I will freeze you where you stand!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				76.1990000000224, -- [1]
-				"Where one falls, another will rise to take their place.", -- [2]
-				"Daiyzed", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				77.5100000000093, -- [1]
-				"Defeat has never tasted so bitter...", -- [2]
-				"Yukio", -- [3]
-				7, -- [4]
-			}, -- [21]
-			{
-				78.7099999999628, -- [1]
-				"The tide moves against you!", -- [2]
-				"Lady Jaina Proudmoore", -- [3]
-				7, -- [4]
-			}, -- [22]
+			}, -- [39]
 			["boss"] = "Lady Jaina Proudmoore",
 		}, -- [3]
 	},

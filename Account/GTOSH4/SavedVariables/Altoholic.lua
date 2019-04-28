@@ -11,7 +11,19 @@ AltoholicDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["global"] = {
+		["Sharing"] = {
+			["Domains"] = {
+				["Tosh.Kil'jaeden"] = {
+					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
+				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
+			},
+		},
 		["options"] = {
+			["UI.Mail.TimeToNextWarning"] = 12,
 			["Tabs.Grids.Default.Kil'jaeden.Column4"] = "Default.Kil'jaeden.Tosh",
 			["UI.Tabs.Characters.ViewVoidStorage"] = false,
 			["UI.Tabs.Summary.CurrentLevelsMin"] = 120,
@@ -22,8 +34,9 @@ AltoholicDB = {
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",
 			["UI.Tabs.Summary.CurrentLevels"] = 10,
-			["UI.Mail.LastExpiryWarning"] = 1556339200,
+			["UI.Mail.LastExpiryWarning"] = 1556406588,
 			["UI.Minimap.ShowIcon"] = false,
+			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshaman",
 			["Tabs.Achievements.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",
 		},

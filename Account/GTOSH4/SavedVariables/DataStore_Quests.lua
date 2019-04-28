@@ -53,10 +53,21 @@ DataStore_QuestsDB = {
 					0, -- [17]
 				},
 				["HistorySize"] = 1110,
-				["Rewards"] = {
-					[3] = "r|157823|1|1",
-					[7] = "r|157826|1|1",
-					[8] = "r|157822|1|1",
+				["QuestHeaders"] = {
+					"Highmountain", -- [1]
+					"Kelp'thar Forest", -- [2]
+					"Nazmir", -- [3]
+					"Silithus: The Wound", -- [4]
+					"Suramar", -- [5]
+					"Val'sharah", -- [6]
+					"Vol'dun", -- [7]
+					"Zuldazar", -- [8]
+					"Missing header! (quest designers)", -- [9]
+					"Allied Races", -- [10]
+					"Heart of Azeroth", -- [11]
+					"Island Expeditions", -- [12]
+					"Rated PvP", -- [13]
+					"Treasure Map", -- [14]
 				},
 				["QuestTags"] = {
 					nil, -- [1]
@@ -383,23 +394,12 @@ DataStore_QuestsDB = {
 					[1445] = 32,
 					[1337] = 123904,
 				},
-				["lastUpdate"] = 1554050599,
-				["QuestHeaders"] = {
-					"Highmountain", -- [1]
-					"Kelp'thar Forest", -- [2]
-					"Nazmir", -- [3]
-					"Silithus: The Wound", -- [4]
-					"Suramar", -- [5]
-					"Val'sharah", -- [6]
-					"Vol'dun", -- [7]
-					"Zuldazar", -- [8]
-					"Missing header! (quest designers)", -- [9]
-					"Allied Races", -- [10]
-					"Heart of Azeroth", -- [11]
-					"Island Expeditions", -- [12]
-					"Rated PvP", -- [13]
-					"Treasure Map", -- [14]
+				["Rewards"] = {
+					[3] = "r|157823|1|1",
+					[7] = "r|157826|1|1",
+					[8] = "r|157822|1|1",
 				},
+				["lastUpdate"] = 1554050599,
 				["HistoryBuild"] = "29869",
 				["Quests"] = {
 					7864384, -- [1]
@@ -470,7 +470,12 @@ DataStore_QuestsDB = {
 					0, -- [17]
 				},
 				["HistorySize"] = 654,
-				["lastUpdate"] = 1554049967,
+				["Rewards"] = {
+					[3] = "r|157823|1|1",
+					[6] = "r|157826|1|1",
+					[7] = "r|157822|1|1",
+					[17] = "c|163862|1|1",
+				},
 				["QuestTags"] = {
 					nil, -- [1]
 					nil, -- [2]
@@ -680,13 +685,8 @@ DataStore_QuestsDB = {
 					[1260] = 536870912,
 					[1001] = 512,
 				},
+				["lastUpdate"] = 1554049967,
 				["HistoryBuild"] = "29869",
-				["Rewards"] = {
-					[3] = "r|157823|1|1",
-					[6] = "r|157826|1|1",
-					[7] = "r|157822|1|1",
-					[17] = "c|163862|1|1",
-				},
 				["QuestHeaders"] = {
 					"Highmountain", -- [1]
 					"Nazmir", -- [2]
@@ -930,19 +930,17 @@ DataStore_QuestsDB = {
 					194000, -- [15]
 				},
 				["HistorySize"] = 1803,
-				["QuestHeaders"] = {
-					"Antoran Wastes", -- [1]
-					"Antorus, the Burning Throne", -- [2]
-					"Azsuna", -- [3]
-					"Broken Shore", -- [4]
-					"Dalaran", -- [5]
-					"Invasion Point", -- [6]
-					"Karazhan", -- [7]
-					"Stormheim", -- [8]
-					"Suramar", -- [9]
-					"Val'sharah", -- [10]
-					"Allied Races", -- [11]
-					"Artifact", -- [12]
+				["Rewards"] = {
+					nil, -- [1]
+					nil, -- [2]
+					nil, -- [3]
+					"r|153503|1|1", -- [4]
+					"r|157825|1|1", -- [5]
+					"r|157830|1|1", -- [6]
+					"r|157827|1|1", -- [7]
+					[10] = "r|152106|1|1",
+					[9] = "c|142468|1|1",
+					[13] = "r|152103|1|1",
 				},
 				["QuestTags"] = {
 					"COMPLETED", -- [1]
@@ -1325,19 +1323,21 @@ DataStore_QuestsDB = {
 					[1257] = 3363831804,
 					[925] = 3221225472,
 				},
-				["HistoryBuild"] = "29981",
-				["Rewards"] = {
-					nil, -- [1]
-					nil, -- [2]
-					nil, -- [3]
-					"r|153503|1|1", -- [4]
-					"r|157825|1|1", -- [5]
-					"r|157830|1|1", -- [6]
-					"r|157827|1|1", -- [7]
-					[10] = "r|152106|1|1",
-					[9] = "c|142468|1|1",
-					[13] = "r|152103|1|1",
+				["QuestHeaders"] = {
+					"Antoran Wastes", -- [1]
+					"Antorus, the Burning Throne", -- [2]
+					"Azsuna", -- [3]
+					"Broken Shore", -- [4]
+					"Dalaran", -- [5]
+					"Invasion Point", -- [6]
+					"Karazhan", -- [7]
+					"Stormheim", -- [8]
+					"Suramar", -- [9]
+					"Val'sharah", -- [10]
+					"Allied Races", -- [11]
+					"Artifact", -- [12]
 				},
+				["HistoryBuild"] = "29981",
 				["lastUpdate"] = 1556086875,
 				["Quests"] = {
 					7209025, -- [1]
@@ -1413,11 +1413,7 @@ DataStore_QuestsDB = {
 					0, -- [22]
 				},
 				["HistorySize"] = 1666,
-				["Rewards"] = {
-					"r|157825|1|1", -- [1]
-					"r|157827|1|1", -- [2]
-					[5] = "r|157829|1|1",
-				},
+				["HistoryBuild"] = "29981",
 				["QuestTags"] = {
 					128, -- [1]
 					128, -- [2]
@@ -1866,8 +1862,12 @@ DataStore_QuestsDB = {
 					[1657] = 2048,
 					[288] = 276857600,
 				},
+				["Rewards"] = {
+					"r|157825|1|1", -- [1]
+					"r|157827|1|1", -- [2]
+					[5] = "r|157829|1|1",
+				},
 				["lastUpdate"] = 1556156660,
-				["HistoryBuild"] = "29981",
 				["QuestHeaders"] = {
 					"Azsuna", -- [1]
 					"Dalaran", -- [2]
@@ -1920,48 +1920,46 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["HistoryLastUpdate"] = 1556339200,
+				["HistoryLastUpdate"] = 1556414128,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:54100:-1:120:120:0|h[A Way Out]|h|r", -- [1]
 					"|cff40c040|Hquest:43179:110:110:255:0|h[The Kirin Tor of Dalaran]|h|r", -- [2]
 					"|cffffff00|Hquest:54844:-1:120:120:0|h[Tapping the Breach]|h|r", -- [3]
 					"|cff40c040|Hquest:42233:110:110:255:0|h[Highmountain Tribes]|h|r", -- [4]
-					"|cff40c040|Hquest:48639:110:110:255:0|h[Army of the Light]|h|r", -- [5]
-					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [6]
-					"|cffffff00|Hquest:50562:-1:120:120:0|h[Champions of Azeroth]|h|r", -- [7]
-					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [8]
-					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [9]
-					"|cffffff00|Hquest:50116:-1:110:120:0|h[A Possible Solution]|h|r", -- [10]
-					"|cffffff00|Hquest:48066:-1:110:120:0|h[A Feast for Our Kin]|h|r", -- [11]
-					"|cffffff00|Hquest:53082:-1:120:120:0|h[Spare Parts]|h|r", -- [12]
-					"|cffffff00|Hquest:53103:-1:120:120:0|h[Wicker Magic]|h|r", -- [13]
-					"|cffffff00|Hquest:53160:-1:110:120:0|h[Ancient Crypt Key]|h|r", -- [14]
-					"|cffffff00|Hquest:53177:-1:110:120:0|h[Broken Compass]|h|r", -- [15]
-					"|cffffff00|Hquest:53181:-1:110:120:0|h[Druidic Fur]|h|r", -- [16]
-					"|cffffff00|Hquest:53167:-1:110:120:0|h[Icetusk Fur Cloak]|h|r", -- [17]
-					"|cffffff00|Hquest:53184:-1:110:120:0|h[Weathered Pamphlet]|h|r", -- [18]
-					"|cffffff00|Hquest:53467:-1:120:120:0|h[Caverns of Time]|h|r", -- [19]
-					"|cffffff00|Hquest:54062:120:120:255:0|h[Conquest's Reward]|h|r", -- [20]
-					"|cffffff00|Hquest:53476:-1:110:120:0|h[The Great Sea Scrolls]|h|r", -- [21]
+					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [5]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[The Dreamweavers]|h|r", -- [6]
+					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [7]
+					"|cffffff00|Hquest:50116:-1:110:120:0|h[A Possible Solution]|h|r", -- [8]
+					"|cffffff00|Hquest:48066:-1:110:120:0|h[A Feast for Our Kin]|h|r", -- [9]
+					"|cffffff00|Hquest:53082:-1:120:120:0|h[Spare Parts]|h|r", -- [10]
+					"|cffffff00|Hquest:53103:-1:120:120:0|h[Wicker Magic]|h|r", -- [11]
+					"|cffffff00|Hquest:53160:-1:110:120:0|h[Ancient Crypt Key]|h|r", -- [12]
+					"|cffffff00|Hquest:53177:-1:110:120:0|h[Broken Compass]|h|r", -- [13]
+					"|cffffff00|Hquest:53181:-1:110:120:0|h[Druidic Fur]|h|r", -- [14]
+					"|cffffff00|Hquest:53167:-1:110:120:0|h[Icetusk Fur Cloak]|h|r", -- [15]
+					"|cffffff00|Hquest:53184:-1:110:120:0|h[Weathered Pamphlet]|h|r", -- [16]
+					"|cffffff00|Hquest:53467:-1:120:120:0|h[Caverns of Time]|h|r", -- [17]
+					"|cffffff00|Hquest:54062:120:120:255:0|h[Conquest's Reward]|h|r", -- [18]
+					"|cffffff00|Hquest:53476:-1:110:120:0|h[The Great Sea Scrolls]|h|r", -- [19]
+					"|cffffff00|Hquest:50604:-1:120:120:0|h[Tortollan Seekers]|h|r", -- [20]
 				},
-				["lastUpdate"] = 1556343392,
-				["HistorySize"] = 802,
+				["lastUpdate"] = 1556429403,
+				["HistorySize"] = 809,
 				["QuestHeaders"] = {
 					"Dalaran", -- [1]
 					"Darkshore", -- [2]
 					"Highmountain", -- [3]
-					"Krokuun", -- [4]
-					"Nazmir", -- [5]
-					"Silithus: The Wound", -- [6]
-					"Vol'dun", -- [7]
-					"Missing header! (quest designers)", -- [8]
-					"Alchemy", -- [9]
-					"Highmountain Tauren", -- [10]
-					"Horde War Campaign", -- [11]
-					"Island Expeditions", -- [12]
-					"Mag'har Orc", -- [13]
-					"Rated PvP", -- [14]
-					"Treasure Map", -- [15]
+					"Nazmir", -- [4]
+					"Val'sharah", -- [5]
+					"Missing header! (quest designers)", -- [6]
+					"Alchemy", -- [7]
+					"Highmountain Tauren", -- [8]
+					"Horde War Campaign", -- [9]
+					"Island Expeditions", -- [10]
+					"Mag'har Orc", -- [11]
+					"Rated PvP", -- [12]
+					"Treasure Map", -- [13]
+					"World Quest", -- [14]
 				},
 				["QuestTags"] = {
 					nil, -- [1]
@@ -1970,10 +1968,9 @@ DataStore_QuestsDB = {
 					128, -- [4]
 					128, -- [5]
 					128, -- [6]
-					128, -- [7]
-					128, -- [8]
-					256, -- [9]
-					[20] = 256,
+					256, -- [7]
+					[18] = 256,
+					[20] = 128,
 				},
 				["History"] = {
 					[998] = 16384,
@@ -1984,7 +1981,7 @@ DataStore_QuestsDB = {
 					[1547] = 16712320,
 					[1611] = 856128,
 					[1675] = 32768,
-					[1612] = 6291456,
+					[1612] = 2153775104,
 					[1676] = 4,
 					[1485] = 1193281545,
 					[453] = 524288,
@@ -2080,14 +2077,17 @@ DataStore_QuestsDB = {
 					[1577] = 130,
 					[1514] = 65536,
 					[1578] = 65550,
+					[1270] = 256,
 					[1260] = 536870912,
 					[1579] = 536870912,
+					[1282] = 1024,
+					[1526] = 41943106,
 					[1516] = 987136,
 					[1580] = 4197760,
 					[1241] = 32768,
 					[1708] = 2048,
 					[1517] = 16678912,
-					[1581] = 2,
+					[1581] = 6,
 					[1482] = 3221225472,
 					[1709] = 32,
 					[1518] = 1610616545,
@@ -2099,7 +2099,7 @@ DataStore_QuestsDB = {
 					[1392] = 2147483648,
 					[1684] = 25165824,
 					[1520] = 262144,
-					[1584] = 1073741824,
+					[1584] = 1073872896,
 					[1393] = 2048,
 					[1712] = 269484032,
 					[1521] = 537100288,
@@ -2116,20 +2116,20 @@ DataStore_QuestsDB = {
 					[987] = 4294901787,
 					[1269] = 2684354560,
 					[1588] = 18874368,
-					[1652] = 536870912,
+					[1652] = 1610612736,
 					[1461] = 17408,
-					[1270] = 256,
-					[1589] = 524288,
 					[1525] = 4204545,
+					[1589] = 524288,
+					[1653] = 8192,
 					[1717] = 469762048,
 					[1271] = 262144,
-					[1526] = 41943106,
-					[1719] = 262144,
+					[1590] = 32,
+					[774] = 512,
 					[1718] = 1048576,
 					[1527] = 64275456,
 					[1591] = 2,
 					[1655] = 262144,
-					[1464] = 1073741824,
+					[1719] = 262144,
 					[1528] = 3347055009,
 					[1592] = 6815746,
 					[1656] = 1074004480,
@@ -2137,9 +2137,9 @@ DataStore_QuestsDB = {
 					[1274] = 16777216,
 					[1593] = 537395200,
 					[1657] = 2048,
-					[774] = 512,
-					[1530] = 65,
 					[1480] = 16,
+					[1530] = 65,
+					[1464] = 1073741824,
 					[1658] = 536871056,
 					[1467] = 1032192,
 					[1531] = 2550140929,
@@ -2163,7 +2163,7 @@ DataStore_QuestsDB = {
 					[1663] = 33554432,
 					[1472] = 2147483648,
 					[1281] = 12648448,
-					[1282] = 1024,
+					[1600] = 131072,
 					[1664] = 16,
 					[1473] = 67108866,
 					[1537] = 134217984,
@@ -2204,9 +2204,10 @@ DataStore_QuestsDB = {
 					[1054] = 2048,
 				},
 				["Rewards"] = {
+					[6] = "r|157822|1|1",
 					[2] = "c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1",
 					[4] = "r|157823|1|1",
-					[5] = "r|157829|1|1",
+					[19] = "c|163864|1|1",
 				},
 				["HistoryBuild"] = "29981",
 				["Money"] = {
@@ -2217,51 +2218,55 @@ DataStore_QuestsDB = {
 					0, -- [5]
 					0, -- [6]
 					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					23400, -- [10]
-					234000, -- [11]
+					23400, -- [8]
+					234000, -- [9]
+					117000, -- [10]
+					117000, -- [11]
 					117000, -- [12]
 					117000, -- [13]
 					117000, -- [14]
 					117000, -- [15]
 					117000, -- [16]
-					117000, -- [17]
-					117000, -- [18]
+					0, -- [17]
+					0, -- [18]
 					0, -- [19]
 					0, -- [20]
-					0, -- [21]
+				},
+				["Dailies"] = {
+					{
+						["id"] = 50562,
+						["timestamp"] = 1556413341,
+						["title"] = "Champions of Azeroth",
+					}, -- [1]
 				},
 				["Quests"] = {
 					7864384, -- [1]
 					7211112, -- [2]
 					7868480, -- [3]
 					7215208, -- [4]
-					7217256, -- [5]
-					7874664, -- [6]
-					7876712, -- [7]
-					7878760, -- [8]
-					7880800, -- [9]
+					7872616, -- [5]
+					7219304, -- [6]
+					7876704, -- [7]
+					7878720, -- [8]
+					7880768, -- [9]
 					7882816, -- [10]
-					7884864, -- [11]
-					7886912, -- [12]
-					7886912, -- [13]
-					7888960, -- [14]
-					7888960, -- [15]
-					7888960, -- [16]
-					7888960, -- [17]
-					7888960, -- [18]
+					7882816, -- [11]
+					7884864, -- [12]
+					7884864, -- [13]
+					7884864, -- [14]
+					7884864, -- [15]
+					7884864, -- [16]
+					7886912, -- [17]
+					7888992, -- [18]
 					7891008, -- [19]
-					7893088, -- [20]
-					7895104, -- [21]
+					7893096, -- [20]
 				},
 				["Emissaries"] = {
-					[50602] = "0|4|3444|0/4 Complete 4 world quests in Nazmir.",
-					[50562] = "0|4|2004|0/4 Complete 4 Azerite World Quest for Magni",
-					[43179] = "0|3|3445|0/3 Complete 3 Kirin Tor World Quests",
-					[50603] = "0|4|564|0/4 Complete 4 world quests in Vol'dun",
-					[42233] = "0|4|2005|0/4 Complete 4 world quests in Highmountain.",
-					[48639] = "0|4|565|0/4 Complete 4 Army of the Light World Quests",
+					[50602] = "0|4|2011|0/4 Complete 4 world quests in Nazmir.",
+					[50604] = "0|3|3451|0/3 Complete 3 Tortollan Seeker World Quests",
+					[43179] = "0|3|2011|0/3 Complete 3 Kirin Tor World Quests",
+					[42233] = "0|4|571|0/4 Complete 4 world quests in Highmountain.",
+					[42170] = "0|4|3451|0/4 Complete 4 world quests in Val'sharah",
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
@@ -2309,21 +2314,10 @@ DataStore_QuestsDB = {
 					0, -- [19]
 				},
 				["HistorySize"] = 3302,
-				["QuestHeaders"] = {
-					"Darkshore", -- [1]
-					"Zuldazar", -- [2]
-					"Dalaran", -- [3]
-					"Highmountain", -- [4]
-					"Krokuun", -- [5]
-					"Nazmir", -- [6]
-					"Silithus: The Wound", -- [7]
-					"Vol'dun", -- [8]
-					"Missing header! (quest designers)", -- [9]
-					"Allied Races", -- [10]
-					"Artifact", -- [11]
-					"Horde War Campaign", -- [12]
-					"Island Expeditions", -- [13]
-					"Rated PvP", -- [14]
+				["Rewards"] = {
+					[5] = "c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1",
+					[6] = "r|157823|1|1",
+					[7] = "r|157829|1|1",
 				},
 				["QuestTags"] = {
 					nil, -- [1]
@@ -3050,12 +3044,23 @@ DataStore_QuestsDB = {
 					[339] = 524288,
 					[1718] = 1048576,
 				},
-				["lastUpdate"] = 1556303623,
-				["Rewards"] = {
-					[5] = "c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1",
-					[6] = "r|157823|1|1",
-					[7] = "r|157829|1|1",
+				["QuestHeaders"] = {
+					"Darkshore", -- [1]
+					"Zuldazar", -- [2]
+					"Dalaran", -- [3]
+					"Highmountain", -- [4]
+					"Krokuun", -- [5]
+					"Nazmir", -- [6]
+					"Silithus: The Wound", -- [7]
+					"Vol'dun", -- [8]
+					"Missing header! (quest designers)", -- [9]
+					"Allied Races", -- [10]
+					"Artifact", -- [11]
+					"Horde War Campaign", -- [12]
+					"Island Expeditions", -- [13]
+					"Rated PvP", -- [14]
 				},
+				["lastUpdate"] = 1556303623,
 				["HistoryBuild"] = "29981",
 				["Quests"] = {
 					7864384, -- [1]

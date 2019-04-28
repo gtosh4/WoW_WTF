@@ -14,8 +14,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 21:49",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1556239782,
-				["lastVisitDate"] = "2019/04/25 20:49",
+				["lastUpdate"] = 1556414016,
+				["lastVisitDate"] = "2019/04/27 21:13",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1553406759,
@@ -106,13 +106,40 @@ DataStore_MailsDB = {
 					}, -- [8]
 					{
 						["sender"] = "Tosh",
+						["itemID"] = 152494,
+						["link"] = "|cffffffff|Hitem:152494::::::::120:256::::::|h[Coastal Healing Potion]|h|r",
+						["count"] = 20,
+						["lastCheck"] = 1556414015,
+						["icon"] = 2057574,
+						["daysLeft"] = 30,
+					}, -- [9]
+					{
+						["sender"] = "Tosh",
+						["itemID"] = 152494,
+						["link"] = "|cffffffff|Hitem:152494::::::::120:256::::::|h[Coastal Healing Potion]|h|r",
+						["count"] = 20,
+						["lastCheck"] = 1556414015,
+						["icon"] = 2057574,
+						["daysLeft"] = 30,
+					}, -- [10]
+					{
+						["sender"] = "Tosh",
+						["itemID"] = 152494,
+						["link"] = "|cffffffff|Hitem:152494::::::::120:256::::::|h[Coastal Healing Potion]|h|r",
+						["count"] = 19,
+						["lastCheck"] = 1556414015,
+						["icon"] = 2057574,
+						["daysLeft"] = 30,
+					}, -- [11]
+					{
+						["sender"] = "Tosh",
 						["itemID"] = 160053,
 						["link"] = "|cff0070dd|Hitem:160053::::::::120:256::::::|h[Battle-Scarred Augment Rune]|h|r",
 						["count"] = 6,
 						["lastCheck"] = 1555811703,
 						["icon"] = 840006,
 						["daysLeft"] = 30,
-					}, -- [9]
+					}, -- [12]
 					{
 						["sender"] = "Tosh",
 						["itemID"] = 160053,
@@ -121,7 +148,16 @@ DataStore_MailsDB = {
 						["lastCheck"] = 1555811703,
 						["icon"] = 840006,
 						["daysLeft"] = 30,
-					}, -- [10]
+					}, -- [13]
+					{
+						["sender"] = "Tosh",
+						["itemID"] = 152494,
+						["link"] = "|cffffffff|Hitem:152494::::::::120:256::::::|h[Coastal Healing Potion]|h|r",
+						["count"] = 20,
+						["lastCheck"] = 1556414015,
+						["icon"] = 2057574,
+						["daysLeft"] = 30,
+					}, -- [14]
 				},
 				["lastVisitDate"] = "2019/04/07 19:55",
 			},

@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_500"] = 5,
 	["STARTING_DISCOUNT"] = 5,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
-	["_200000"] = 1000,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,54 +48,55 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Deadly amberblaze", -- [1]
-			"Felwort", -- [2]
-			"Siren's Pollen", -- [3]
-			"Battle-Scarred Augment Rune", -- [4]
-			"Vantus Rune: Battle of Dazar'alor", -- [5]
-			"Pact of Critical", -- [6]
-			"time shifter", -- [7]
-			"time-shifter", -- [8]
-			"Ultramarine", -- [9]
-			"hexweave bag", -- [10]
-			"Battle Shout", -- [11]
-			"Battle flag", -- [12]
-			"Anchor Weed", -- [13]
-			"Winter's Kiss", -- [14]
-			"crafting", -- [15]
-			"Star moss", -- [16]
-			"Riverbud", -- [17]
-			"Sugar Crusted", -- [18]
-			"Sugar-Crusted", -- [19]
-			"Fish", -- [20]
-			"Feast", -- [21]
-			"Fish Feast", -- [22]
-			"Monel-hardened stirrups", -- [23]
-			"Great sea catfish", -- [24]
-			"Drums", -- [25]
-			"Drums of maelstrom", -- [26]
-			"Kraken's Eye of intellect", -- [27]
-			"coarse leather", -- [28]
-			"Alchemist stone", -- [29]
-			"Darkmoon deck: tides", -- [30]
-			"tides", -- [31]
-			"Goblin glider", -- [32]
-			"Pact of versatility", -- [33]
-			"Akunda's bite", -- [34]
-			"Versatile navigation", -- [35]
-			"Viridescent Ink", -- [36]
-			"quick navigation", -- [37]
-			"Pact of haste", -- [38]
-			"quick owlseye", -- [39]
-			"helmet", -- [40]
-			"Deep sea", -- [41]
-			"Diver's", -- [42]
-			"Diver", -- [43]
-			"Deep sea satin", -- [44]
-			"Deadly Navigation", -- [45]
-			"Kraken's Eye", -- [46]
-			"bread", -- [47]
-			"Mount motivator", -- [48]
+			"coastal healing potion", -- [1]
+			"Deadly amberblaze", -- [2]
+			"Felwort", -- [3]
+			"Siren's Pollen", -- [4]
+			"Battle-Scarred Augment Rune", -- [5]
+			"Vantus Rune: Battle of Dazar'alor", -- [6]
+			"Pact of Critical", -- [7]
+			"time shifter", -- [8]
+			"time-shifter", -- [9]
+			"Ultramarine", -- [10]
+			"hexweave bag", -- [11]
+			"Battle Shout", -- [12]
+			"Battle flag", -- [13]
+			"Anchor Weed", -- [14]
+			"Winter's Kiss", -- [15]
+			"crafting", -- [16]
+			"Star moss", -- [17]
+			"Riverbud", -- [18]
+			"Sugar Crusted", -- [19]
+			"Sugar-Crusted", -- [20]
+			"Fish", -- [21]
+			"Feast", -- [22]
+			"Fish Feast", -- [23]
+			"Monel-hardened stirrups", -- [24]
+			"Great sea catfish", -- [25]
+			"Drums", -- [26]
+			"Drums of maelstrom", -- [27]
+			"Kraken's Eye of intellect", -- [28]
+			"coarse leather", -- [29]
+			"Alchemist stone", -- [30]
+			"Darkmoon deck: tides", -- [31]
+			"tides", -- [32]
+			"Goblin glider", -- [33]
+			"Pact of versatility", -- [34]
+			"Akunda's bite", -- [35]
+			"Versatile navigation", -- [36]
+			"Viridescent Ink", -- [37]
+			"quick navigation", -- [38]
+			"Pact of haste", -- [39]
+			"quick owlseye", -- [40]
+			"helmet", -- [41]
+			"Deep sea", -- [42]
+			"Diver's", -- [43]
+			"Diver", -- [44]
+			"Deep sea satin", -- [45]
+			"Deadly Navigation", -- [46]
+			"Kraken's Eye", -- [47]
+			"bread", -- [48]
+			"Mount motivator", -- [49]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -1511,6 +1512,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154687:0:0:0:1685",
 			["sc"] = 1,
 		},
+		["Coastal Healing Potion"] = {
+			["mr"] = 109919,
+			["cc"] = 0,
+			["id"] = "152494:0:0:0:0",
+			["sc"] = 1,
+			["H3085"] = 109919,
+		},
 		["Tidespray Linen Hood of the Fireflash"] = {
 			["mr"] = 23331659,
 			["cc"] = 4,
@@ -1603,19 +1611,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154697:0:0:0:1706",
 			["sc"] = 1,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 63479985,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3016"] = 63479985,
-		},
 		["Monel-Hardened Stirrups"] = {
 			["mr"] = 12900000,
 			["sc"] = 8,
 			["id"] = "152813:0:0:0:0",
 			["cc"] = 0,
 			["H3017"] = 12900000,
+		},
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 63479985,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3016"] = 63479985,
 		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 758499,

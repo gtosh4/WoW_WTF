@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_5000000"] = 10000,
-	["_200000"] = 1000,
-	["_1000000"] = 2500,
 	["_10000"] = 200,
-	["_500"] = 5,
+	["_5000000"] = 10000,
+	["_1000000"] = 2500,
+	["_200000"] = 1000,
 	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
+	["_500"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -1111,11 +1111,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3016"] = 21626469,
 		},
 		["Battle-Scarred Augment Rune"] = {
-			["mr"] = 4000000,
-			["cc"] = 0,
+			["mr"] = 4442500,
+			["H3085"] = 4442500,
 			["id"] = "160053:0:0:0:0",
-			["H3057"] = 4000000,
 			["sc"] = 8,
+			["cc"] = 0,
 		},
 		["Gothic Plate Helmet of the Fireflash"] = {
 			["mr"] = 8999998,

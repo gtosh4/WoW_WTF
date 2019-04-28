@@ -42,13 +42,15 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
+						["class"] = "Priest",
+						["level"] = 120,
 					},
 				},
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369485266"] = "292998|1556343400|0|1",
-					["Battle of Dazar'alor Mythic|367490213"] = "292998|1556343400|0|1",
+					["Crucible of Storms Heroic|369485266"] = "206992|1556429404|0|1",
+					["Battle of Dazar'alor Mythic|367490213"] = "206992|1556429404|0|1",
 				},
-				["lastUpdate"] = 1556344894,
+				["lastUpdate"] = 1556431729,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
