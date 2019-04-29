@@ -23,27 +23,27 @@ AstralKeys = {
 		"WARRIOR", -- [2]
 		252, -- [3]
 		16, -- [4]
-		0, -- [5]
+		14, -- [5]
 		92, -- [6]
-		9, -- [7]
+		451930, -- [7]
 	}, -- [3]
 	{
 		"Litsong-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		245, -- [3]
-		15, -- [4]
-		0, -- [5]
+		247, -- [3]
+		14, -- [4]
+		15, -- [5]
 		92, -- [6]
-		9, -- [7]
+		454790, -- [7]
 	}, -- [4]
 	{
 		"Emosong-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
-		353, -- [3]
+		249, -- [3]
 		18, -- [4]
 		21, -- [5]
 		92, -- [6]
-		376535, -- [7]
+		452784, -- [7]
 	}, -- [5]
 	{
 		"Sherbie-Kil'jaeden", -- [1]
@@ -147,11 +147,11 @@ AstralKeys = {
 	{
 		"Ceesong-Kil'jaeden", -- [1]
 		"MAGE", -- [2]
-		251, -- [3]
-		16, -- [4]
-		0, -- [5]
+		250, -- [3]
+		17, -- [4]
+		16, -- [5]
 		92, -- [6]
-		382312, -- [7]
+		454708, -- [7]
 	}, -- [17]
 	{
 		"Cornhuskers-Kil'jaeden", -- [1]
@@ -176,9 +176,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		248, -- [3]
 		10, -- [4]
-		0, -- [5]
+		10, -- [5]
 		92, -- [6]
-		2, -- [7]
+		4, -- [7]
 	}, -- [20]
 	{
 		"Dawnzo-Kil'jaeden", -- [1]
@@ -187,7 +187,7 @@ AstralKeys = {
 		13, -- [4]
 		16, -- [5]
 		92, -- [6]
-		380348, -- [7]
+		453898, -- [7]
 	}, -- [21]
 	{
 		"Vercetty-Kil'jaeden", -- [1]
@@ -212,9 +212,9 @@ AstralKeys = {
 		"PRIEST", -- [2]
 		250, -- [3]
 		12, -- [4]
-		0, -- [5]
+		16, -- [5]
 		92, -- [6]
-		382419, -- [7]
+		454687, -- [7]
 	}, -- [24]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -223,7 +223,7 @@ AstralKeys = {
 		18, -- [4]
 		17, -- [5]
 		92, -- [6]
-		380844, -- [7]
+		454599, -- [7]
 	}, -- [25]
 	{
 		"Khelikloth-Kil'jaeden", -- [1]
@@ -459,19 +459,28 @@ AstralKeys = {
 		92, -- [6]
 		126017, -- [7]
 	}, -- [51]
+	{
+		"Bit-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
+		248, -- [3]
+		12, -- [4]
+		15, -- [5]
+		92, -- [6]
+		4, -- [7]
+	}, -- [52]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 16,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["unit"] = "Toshmonk-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshmonk-Kil'jaeden",
 	}, -- [2]
 }
 AstralFriends = {
@@ -482,7 +491,7 @@ AstralFriends = {
 		249, -- [4]
 		18, -- [5]
 		92, -- [6]
-		376535, -- [7]
+		452784, -- [7]
 		"1", -- [8]
 		21, -- [9]
 	}, -- [1]
@@ -493,9 +502,9 @@ AstralFriends = {
 		252, -- [4]
 		16, -- [5]
 		92, -- [6]
-		378732, -- [7]
+		451930, -- [7]
 		"1", -- [8]
-		11, -- [9]
+		14, -- [9]
 	}, -- [2]
 	{
 		"Litsong-Kil'jaeden", -- [1]
@@ -504,7 +513,7 @@ AstralFriends = {
 		247, -- [4]
 		14, -- [5]
 		92, -- [6]
-		364566, -- [7]
+		452949, -- [7]
 		"1", -- [8]
 		15, -- [9]
 	}, -- [3]
@@ -515,7 +524,7 @@ AstralFriends = {
 		249, -- [4]
 		16, -- [5]
 		92, -- [6]
-		382324, -- [7]
+		449728, -- [7]
 		"1", -- [8]
 		15, -- [9]
 	}, -- [4]
@@ -526,7 +535,7 @@ AstralFriends = {
 		248, -- [4]
 		16, -- [5]
 		92, -- [6]
-		382084, -- [7]
+		449925, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [5]
@@ -534,12 +543,12 @@ AstralFriends = {
 		"Ceesong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"MAGE", -- [3]
-		251, -- [4]
-		16, -- [5]
+		250, -- [4]
+		17, -- [5]
 		92, -- [6]
-		382312, -- [7]
+		454708, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [6]
 	{
 		"Serasong-Kil'jaeden", -- [1]
@@ -548,7 +557,7 @@ AstralFriends = {
 		353, -- [4]
 		15, -- [5]
 		92, -- [6]
-		364166, -- [7]
+		449640, -- [7]
 		"1", -- [8]
 		15, -- [9]
 	}, -- [7]
@@ -559,7 +568,7 @@ AstralFriends = {
 		247, -- [4]
 		15, -- [5]
 		92, -- [6]
-		363314, -- [7]
+		449688, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [8]
@@ -614,7 +623,7 @@ AstralFriends = {
 		244, -- [4]
 		18, -- [5]
 		92, -- [6]
-		222159, -- [7]
+		380843, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [13]
@@ -625,7 +634,7 @@ AstralFriends = {
 		249, -- [4]
 		13, -- [5]
 		92, -- [6]
-		225284, -- [7]
+		451381, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [14]
@@ -636,7 +645,7 @@ AstralFriends = {
 		244, -- [4]
 		18, -- [5]
 		92, -- [6]
-		374927, -- [7]
+		454575, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [15]
@@ -658,7 +667,7 @@ AstralFriends = {
 		252, -- [4]
 		9, -- [5]
 		92, -- [6]
-		220988, -- [7]
+		452516, -- [7]
 		"1", -- [8]
 		11, -- [9]
 	}, -- [17]
@@ -686,6 +695,14 @@ AstralFriends = {
 	}, -- [19]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -699,7 +716,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -708,11 +727,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -722,10 +738,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = false,
 			["guild"] = false,
+			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -737,14 +753,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
