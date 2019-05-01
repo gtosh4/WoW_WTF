@@ -14,7 +14,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-04-30",
+			["NextWeeklyReset"] = "2019-05-07",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -24,9 +24,11 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshmonk"] = {
 						["note"] = "",
+						["class"] = "Monk",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1556303906,
+				["lastUpdate"] = 1556667145,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -51,11 +53,7 @@ DataStore_AgendaDB = {
 						["level"] = 120,
 					},
 				},
-				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|369485266"] = "153302|1556483097|0|1",
-					["Battle of Dazar'alor Mythic|367490213"] = "153302|1556483097|0|1",
-				},
-				["lastUpdate"] = 1556483626,
+				["lastUpdate"] = 1556669251,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1554050018,

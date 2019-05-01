@@ -4,51 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 244,
-		["splits"] = {
-			1134, -- [1]
-			686, -- [2]
-			164, -- [3]
-			1387, -- [4]
-			993, -- [5]
-			["party1Name"] = "Toshaman",
-			["party1Class"] = "Shaman",
-			["party4Class"] = "Warrior",
-			["party2Name"] = "Drift",
-			["patch"] = "8.1.5",
-			["timeLimit"] = 1800,
-			["level"] = 14,
-			["timeElapsed"] = 1386.731,
-			["party3Role"] = "DAMAGER",
-			["affixes3"] = 3,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Haxpaxy",
-			["affixes2"] = 6,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Baesong",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Druid",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Priest",
-			["mapID"] = 1763,
-			["party2Role"] = "TANK",
-			["date"] = 1556482976,
-			["party2Class"] = "Monk",
-			["party5Name"] = "Friendly",
-		},
 		["playerDeaths"] = {
-			["Drift"] = 2,
-			["Baesong"] = 1,
-			["Friendly"] = 3,
-			["Toshaman"] = 1,
-		},
-		["splitNames"] = {
-			"Priestess Alun'za defeated", -- [1]
-			"Vol'kaal defeated", -- [2]
-			"Rezan defeated", -- [3]
-			"Yazma defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -336,8 +292,8 @@ AngryKeystones_Data = {
 		[131812] = {
 			[6] = 13,
 		},
-		[131847] = {
-			[4] = 29,
+		[141282] = {
+			51, -- [1]
 		},
 		[138254] = {
 			12, -- [1]
@@ -348,8 +304,8 @@ AngryKeystones_Data = {
 		[133345] = {
 			[5] = 14,
 		},
-		[129547] = {
-			[4] = 80,
+		[131847] = {
+			[4] = 29,
 		},
 		[136214] = {
 			[18] = 6,
@@ -395,11 +351,11 @@ AngryKeystones_Data = {
 			[6] = 36,
 			[9] = 1,
 		},
-		[141284] = {
-			[4] = 15,
+		[137969] = {
+			[6] = 12,
 		},
-		[134144] = {
-			[13] = 6,
+		[131849] = {
+			[4] = 6,
 		},
 		[135706] = {
 			[3] = 5,
@@ -416,14 +372,14 @@ AngryKeystones_Data = {
 		[130909] = {
 			[4] = 44,
 		},
-		[127381] = {
-			[3] = 30,
+		[131850] = {
+			[4] = 7,
 		},
 		[131818] = {
 			[4] = 17,
 		},
-		[141285] = {
-			[4] = 24,
+		[127381] = {
+			[3] = 30,
 		},
 		[131819] = {
 			[4] = 12,
@@ -614,8 +570,8 @@ AngryKeystones_Data = {
 		[137516] = {
 			[4] = 16,
 		},
-		[131850] = {
-			[4] = 7,
+		[141285] = {
+			[4] = 24,
 		},
 		[134599] = {
 			[4] = 2,
@@ -629,11 +585,11 @@ AngryKeystones_Data = {
 		[136934] = {
 			[4] = 8,
 		},
-		[131849] = {
-			[4] = 6,
+		[134144] = {
+			[13] = 6,
 		},
-		[137969] = {
-			[6] = 12,
+		[141284] = {
+			[4] = 15,
 		},
 		[127486] = {
 			[7] = 40,
@@ -652,8 +608,8 @@ AngryKeystones_Data = {
 		[129553] = {
 			[10] = 1,
 		},
-		[141282] = {
-			51, -- [1]
+		[129547] = {
+			[4] = 80,
 		},
 		[133963] = {
 			43, -- [1]

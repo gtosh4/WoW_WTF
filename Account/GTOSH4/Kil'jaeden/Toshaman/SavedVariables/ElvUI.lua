@@ -1,118 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/o I'm the only one clicking", -- [1]
-		"/grid2", -- [2]
-		"/o very annoying to die to that", -- [3]
-		"/p thunderz was playing on laptop I think and had like 2 fps", -- [4]
-		"/ert", -- [5]
-		"/dn", -- [6]
-		"man", -- [7]
-		"knocked off boats, frozen, dropping bombard in africa and dying, freaking out in p3, etc", -- [8]
-		"well, it's either SLT for siege 1 or between ray and siege 3", -- [9]
-		"/bw", -- [10]
-		"/cw Qiro-Kil'jaeden hm", -- [11]
-		"why can't we kill it, feel like people keep doing stupid shit", -- [12]
-		"/o too", -- [13]
-		"idk...", -- [14]
-		"/o why is aber dying without calling for externals", -- [15]
-		"/cw Qiro-Kil'jaeden ya", -- [16]
-		"/ak", -- [17]
-		"/p checking", -- [18]
-		"/p |cffa335ee|Hkeystone:158923:252:15:9:6:3:117|h[Keystone: Shrine of the Storm (15)]|h|r on druid", -- [19]
-		" uhm, we still need to get the icon boxes", -- [20]
+		" uhm, we still need to get the icon boxes", -- [1]
+		"/p checking", -- [2]
+		"/o I'm the only one clicking", -- [3]
+		"/dn", -- [4]
+		"/cw Qiro-Kil'jaeden ya", -- [5]
+		"/ert", -- [6]
+		"/bw", -- [7]
+		"/grid2", -- [8]
+		"why can't we kill it, feel like people keep doing stupid shit", -- [9]
+		"/o too", -- [10]
+		"idk...", -- [11]
+		"/p |cffa335ee|Hkeystone:158923:252:15:9:6:3:117|h[Keystone: Shrine of the Storm (15)]|h|r on druid", -- [12]
+		"/ak", -- [13]
+		"/cw Qiro-Kil'jaeden hm", -- [14]
+		"/p thunderz was playing on laptop I think and had like 2 fps", -- [15]
+		"/o very annoying to die to that", -- [16]
+		"/o why is aber dying without calling for externals", -- [17]
+		"uhm, we still need to get the icon boxes", -- [18]
+		"well, it's either SLT for siege 1 or between ray and siege 3", -- [19]
+		"man", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"what are you doing", -- [1]
-			"|Kq49|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6974, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1556429540,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [1]
-		{
-			"we're not having officer talk", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6975, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1556429542,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
-		}, -- [2]
-		{
-			"xD", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6976, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcEnvious|r",
-			[51] = 1556429543,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Envious",
-		}, -- [3]
-		{
-			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
-			"Fodliers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fodliers-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			7014, -- [11]
-			"Player-9-0B624CCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcFodliers|r",
-			[51] = 1556429826,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
 		{
 			"man", -- [1]
 			"|Kq25|k", -- [2]
@@ -135,7 +45,7 @@ ElvCharacterDB = {
 			[51] = 1556429922,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [5]
+		}, -- [1]
 		{
 			"?", -- [1]
 			"|Kq25|k", -- [2]
@@ -158,7 +68,7 @@ ElvCharacterDB = {
 			[51] = 1556429937,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [6]
+		}, -- [2]
 		{
 			"3x|cffffffff|Hitem:153487::::::::120:258::11:1:3524:::|h[Organic Discombobulation Grenade]|h|r", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -180,7 +90,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1556429954,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
+		}, -- [3]
 		{
 			"why can't we kill it, feel like people keep doing stupid shit", -- [1]
 			"|Kq25|k", -- [2]
@@ -203,7 +113,7 @@ ElvCharacterDB = {
 			[51] = 1556429959,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [8]
+		}, -- [4]
 		{
 			"5x|cffffffff|Hitem:154166::::::::120:258::11:1:3524:::|h[Coarse Leather Barding]|h|r", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -225,7 +135,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1556429961,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
+		}, -- [5]
 		{
 			"well", -- [1]
 			"|Kq25|k", -- [2]
@@ -248,7 +158,7 @@ ElvCharacterDB = {
 			[51] = 1556429968,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [10]
+		}, -- [6]
 		{
 			"we had to relearn", -- [1]
 			"|Kq25|k", -- [2]
@@ -271,7 +181,7 @@ ElvCharacterDB = {
 			[51] = 1556429970,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [11]
+		}, -- [7]
 		{
 			"knocked off boats, frozen, dropping bombard in africa and dying, freaking out in p3, etc", -- [1]
 			"|Kq25|k", -- [2]
@@ -294,7 +204,7 @@ ElvCharacterDB = {
 			[51] = 1556429994,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Envious",
-		}, -- [12]
+		}, -- [8]
 		{
 			"knock off boats", -- [1]
 			"|Kq25|k", -- [2]
@@ -317,7 +227,7 @@ ElvCharacterDB = {
 			[51] = 1556430000,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [13]
+		}, -- [9]
 		{
 			"is ONE PERSON", -- [1]
 			"|Kq25|k", -- [2]
@@ -340,7 +250,7 @@ ElvCharacterDB = {
 			[51] = 1556430002,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [14]
+		}, -- [10]
 		{
 			"O N E", -- [1]
 			"|Kq25|k", -- [2]
@@ -363,7 +273,7 @@ ElvCharacterDB = {
 			[51] = 1556430002,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [15]
+		}, -- [11]
 		{
 			"its the faggot", -- [1]
 			"|Kq25|k", -- [2]
@@ -386,7 +296,7 @@ ElvCharacterDB = {
 			[51] = 1556430004,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [16]
+		}, -- [12]
 		{
 			"i mean", -- [1]
 			"|Kq25|k", -- [2]
@@ -409,7 +319,7 @@ ElvCharacterDB = {
 			[51] = 1556430013,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [17]
+		}, -- [13]
 		{
 			"green", -- [1]
 			"|Kq25|k", -- [2]
@@ -432,7 +342,7 @@ ElvCharacterDB = {
 			[51] = 1556430015,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [18]
+		}, -- [14]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -454,7 +364,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556430069,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [15]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -476,7 +386,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556430311,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [16]
 		{
 			"I'm always down for keys, just ping me", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -498,7 +408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1556430524,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
+		}, -- [17]
 		{
 			"what lvl do you typically do?", -- [1]
 			"Bluelement-Kil'jaeden", -- [2]
@@ -520,7 +430,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcBluelement|r",
 			[51] = 1556430546,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [18]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -542,7 +452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556430553,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [19]
 		{
 			"i mean i got this |cffa335ee|Hkeystone:158923:353:7:9:6:3:0|h[Keystone: Siege of Boralus (7)]|h|r", -- [1]
 			"Lel-Kil'jaeden", -- [2]
@@ -564,7 +474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Lel|r",
 			[51] = 1556430744,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
+		}, -- [20]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -586,7 +496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556430796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [21]
 		{
 			"<Disambiguation>  8/9M BoD, CE Uldir, is looking for exceptional healers and DPS as we continue progress on Jaina for Cutting Edge. Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
 			"Alexithymìa-Kil'jaeden", -- [2]
@@ -608,7 +518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexithymìa|r",
 			[51] = 1556430801,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [22]
 		{
 			"I've been hunting for a group to push higher keys but most tend to just do between 10-15 :/", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -630,7 +540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1556430833,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [23]
 		{
 			"im down to start pushing on my rogue", -- [1]
 			"Bluelement-Kil'jaeden", -- [2]
@@ -652,7 +562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcBluelement|r",
 			[51] = 1556430855,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [24]
 		{
 			"lol", -- [1]
 			"|Kq54|k", -- [2]
@@ -675,7 +585,7 @@ ElvCharacterDB = {
 			[51] = 1556431029,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Valhalla4",
-		}, -- [29]
+		}, -- [25]
 		{
 			"https://gyazo.com/212eb1fb67ae984d46ff223b748da26a", -- [1]
 			"|Kq54|k", -- [2]
@@ -698,7 +608,7 @@ ElvCharacterDB = {
 			[51] = 1556431030,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Valhalla4",
-		}, -- [30]
+		}, -- [26]
 		{
 			"oops m", -- [1]
 			"|Kq54|k", -- [2]
@@ -721,7 +631,7 @@ ElvCharacterDB = {
 			[51] = 1556431034,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Valhalla4",
-		}, -- [31]
+		}, -- [27]
 		{
 			"mt", -- [1]
 			"|Kq54|k", -- [2]
@@ -744,7 +654,7 @@ ElvCharacterDB = {
 			[51] = 1556431034,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Valhalla4",
-		}, -- [32]
+		}, -- [28]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -766,7 +676,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556431038,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [29]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12561:Player-9-0AF428EF:1:4:27:19:4294967295:4294967295:4294967295:4294967295|h[Explore Nazmir]|h|r!", -- [1]
 			"Bluelement-Kil'jaeden", -- [2]
@@ -788,7 +698,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcBluelement|r",
 			[51] = 1556431105,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [30]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Fodliers-Kil'jaeden", -- [2]
@@ -810,7 +720,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFodliers|r",
 			[51] = 1556431291,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [31]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:251:14:9:6:3:117|h[Keystone: The Underrot (14)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -832,7 +742,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556481250,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [32]
 		{
 			"im on", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -854,7 +764,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481513,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [33]
 		{
 			":3", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -876,7 +786,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [34]
 		{
 			"LOL", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -898,7 +808,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556481552,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [35]
 		{
 			"i cant breathe", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -920,7 +830,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556481554,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+		}, -- [36]
 		{
 			"im dying", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -942,7 +852,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556481585,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
+		}, -- [37]
 		{
 			"Pursuit on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -964,7 +874,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556481742,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -986,7 +896,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481837,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1008,7 +918,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481868,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1030,7 +940,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481875,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1052,7 +962,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481878,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [42]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1074,7 +984,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481901,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Dazar'ai Confessor!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1096,7 +1006,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481928,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [44]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Dazar'ai Confessor ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1118,7 +1028,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481932,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [45]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1140,7 +1050,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556481936,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r cast on Reanimated Honor Guard!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1162,7 +1072,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481991,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r on Reanimated Honor Guard ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1184,7 +1094,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556481993,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [48]
 		{
 			"<EH> Friendly got hit by |cff71d5ff|Hspell:256959:0|h[Rotting Decay]|h|r |cff71d5ff|Hspell:209862:0|h[Volcanic Plume]|h|r for 109.8k (49%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1206,7 +1116,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482004,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r cast on Reanimated Honor Guard!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1228,7 +1138,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482045,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r on Reanimated Honor Guard ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1250,7 +1160,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482046,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1272,7 +1182,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482081,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [52]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Zanchuli Witch-Doctor ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1294,7 +1204,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1316,7 +1226,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482094,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [54]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1338,7 +1248,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482241,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [55]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1360,7 +1270,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482280,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [56]
 		{
 			"Pummeled Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252781:0|h[Unstable Hex]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1382,7 +1292,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482341,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [57]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1404,7 +1314,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482345,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Zanchuli Witch-Doctor ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1426,7 +1336,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482349,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [59]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1448,7 +1358,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [60]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1470,7 +1380,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [61]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1492,7 +1402,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482397,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [62]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1514,7 +1424,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482405,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [63]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1536,7 +1446,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482439,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [64]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1558,7 +1468,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482461,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1580,7 +1490,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482463,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1602,7 +1512,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482467,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [67]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1624,7 +1534,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482509,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Dazar'ai Augur ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1646,7 +1556,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482509,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [69]
 		{
 			"<EH> Drift got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 237.2k (74%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1668,7 +1578,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482511,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [70]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1690,7 +1600,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482519,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [71]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 119.9k (51%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1712,7 +1622,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482555,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Dazar'ai Augur!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1734,7 +1644,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482564,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Dazar'ai Augur ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1756,7 +1666,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482568,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1778,7 +1688,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482576,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [75]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1800,7 +1710,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482623,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [76]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1822,7 +1732,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482635,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Tormented Soul ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1844,7 +1754,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556482636,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [78]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1866,7 +1776,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482806,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [79]
 		{
 			"<EH> Friendly got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 170.8k (76%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1888,7 +1798,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482808,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [80]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1910,7 +1820,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482824,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [81]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1932,7 +1842,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [82]
 		{
 			"MUDAFKN GOREDAMNNN", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1954,7 +1864,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482868,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [83]
 		{
 			"<EH> Baesong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 170.6k (53%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1976,7 +1886,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482889,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [84]
 		{
 			"Drift interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -1998,7 +1908,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556482900,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"<EH> Baesong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 152.1k (54%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2020,7 +1930,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482905,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"GOREDAMMMMNIT", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2042,7 +1952,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556482930,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [87]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2064,7 +1974,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482940,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [88]
 		{
 			"SIR TRASH AZERITE HERE", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2086,7 +1996,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556482943,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [89]
 		{
 			"<EH> Haxpaxy got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 164.0k (63%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2108,7 +2018,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [90]
 		{
 			"<EH> Friendly got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 171.0k (76%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2130,7 +2040,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482975,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [91]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2152,7 +2062,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"1. Haxpaxy 597.0k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2174,7 +2084,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [93]
 		{
 			"2. Baesong 843.4k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2196,7 +2106,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [94]
 		{
 			"3. Toshaman 911.3k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2218,7 +2128,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [95]
 		{
 			"4. Drift 1089.3k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2240,7 +2150,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [96]
 		{
 			"5. Friendly 1329.7k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2262,7 +2172,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556482976,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [97]
 		{
 			"they need to make Azerite pieces BoA already", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2284,7 +2194,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556483031,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [98]
 		{
 			"This game isnt ALT FRIENDLY ENOUGH", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2306,7 +2216,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556483037,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [99]
 		{
 			"like the tokens you buy", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2328,7 +2238,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556483044,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [100]
 		{
 			"if they were boa", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2350,7 +2260,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556483046,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [101]
 		{
 			"ya kno", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2372,7 +2282,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1556483047,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [102]
 		{
 			"just", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2394,7 +2304,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483053,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [103]
 		{
 			"let", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2416,7 +2326,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483054,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [104]
 		{
 			"him", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2438,7 +2348,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483054,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [105]
 		{
 			"fuck", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2460,7 +2370,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483055,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [106]
 		{
 			"you", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2482,7 +2392,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483056,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [107]
 		{
 			"ron", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2504,7 +2414,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483057,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [108]
 		{
 			"take one for the team", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2526,7 +2436,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483062,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [109]
 		{
 			"whats your keys", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2548,7 +2458,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556483129,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
+		}, -- [110]
 		{
 			"gordy", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2570,7 +2480,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556483130,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
+		}, -- [111]
 		{
 			"on alts", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2592,7 +2502,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556483131,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [116]
+		}, -- [112]
 		{
 			"checking", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2614,7 +2524,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556483138,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [113]
 		{
 			"!keys", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2636,7 +2546,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1556483172,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [118]
+		}, -- [114]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:252:16:9:6:3:117|h[Keystone: Shrine of the Storm (16)]|h|r", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2658,7 +2568,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1556483172,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [115]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:249:13:9:6:3:117|h[Keystone: Kings' Rest (13)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2680,7 +2590,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556483172,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [116]
 		{
 			"|cffa335ee|Hkeystone:158923:249:13:9:6:3:117|h[Keystone: Kings' Rest (13)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2702,7 +2612,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556483172,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [117]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:251:14:9:6:3:117|h[Keystone: The Underrot (14)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2724,7 +2634,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556483172,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [118]
 		{
 			"|cffa335ee|Hkeystone:158923:252:15:9:6:3:117|h[Keystone: Shrine of the Storm (15)]|h|r on druid", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2746,7 +2656,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556483203,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [119]
 		{
 			"how much longer on the code do you think", -- [1]
 			"|Kq49|k", -- [2]
@@ -2768,7 +2678,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556483259,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [124]
+		}, -- [120]
 		{
 			"uhm, we still need to get the icon boxes", -- [1]
 			"|Kq49|k", -- [2]
@@ -2790,7 +2700,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556483284,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [125]
+		}, -- [121]
 		{
 			"like 5-10m left on the matlab code, then idk like 40m for the coordinates?", -- [1]
 			"|Kq49|k", -- [2]
@@ -2812,7 +2722,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556483321,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [126]
+		}, -- [122]
 		{
 			"prolly an hour left?", -- [1]
 			"|Kq49|k", -- [2]
@@ -2834,6 +2744,94 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556483327,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [123]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Weghanamani-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Weghanamani-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-0B6528B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Weghanamani|r",
+			[51] = 1556669034,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Weghanamani-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Weghanamani-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-9-0B6528B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Weghanamani|r",
+			[51] = 1556669093,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Weghanamani-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Weghanamani-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-0B6528B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Weghanamani|r",
+			[51] = 1556669158,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Weghanamani-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Weghanamani-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-9-0B6528B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Weghanamani|r",
+			[51] = 1556669216,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

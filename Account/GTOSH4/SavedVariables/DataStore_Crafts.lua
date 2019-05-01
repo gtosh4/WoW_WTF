@@ -2169,7 +2169,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1556303623,
+				["lastUpdate"] = 1556666979,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
@@ -2180,9 +2180,6 @@ DataStore_CraftsDB = {
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["Professions"] = {
-					["Alchemy"] = {
-						["CurrentLevelName"] = "Legion Alchemy",
-					},
 					["Inscription"] = {
 						["CurrentLevelName"] = "Legion Inscription",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0A7C686A:195115:773|h[Inscription]|h|r",
@@ -2525,11 +2522,29 @@ DataStore_CraftsDB = {
 								11439776, -- [7]
 								11439136, -- [8]
 							},
-							[1276] = {
-								37416995, -- [1]
-								37377571, -- [2]
-								37417251, -- [3]
-								33237155, -- [4]
+							[453] = {
+								31694973, -- [1]
+								24687221, -- [2]
+								24690813, -- [3]
+								24688117, -- [4]
+								24688245, -- [5]
+								24687733, -- [6]
+								24690429, -- [7]
+								24687861, -- [8]
+								24687093, -- [9]
+								24687477, -- [10]
+								24687989, -- [11]
+								24687605, -- [12]
+								30538237, -- [13]
+								24687349, -- [14]
+								24686964, -- [15]
+								24686580, -- [16]
+								29335284, -- [17]
+								29335412, -- [18]
+								24686324, -- [19]
+								29335156, -- [20]
+								24686196, -- [21]
+								24686708, -- [22]
 							},
 							[1126] = {
 								8224032, -- [1]
@@ -2561,13 +2576,11 @@ DataStore_CraftsDB = {
 								7601568, -- [1]
 								6750624, -- [2]
 							},
-							[772] = {
-								36389859, -- [1]
-								32806115, -- [2]
-								32804835, -- [3]
-								32805731, -- [4]
-								32805219, -- [5]
-								32804451, -- [6]
+							[1276] = {
+								37416995, -- [1]
+								37377571, -- [2]
+								37417251, -- [3]
+								33237155, -- [4]
 							},
 							[798] = {
 								7823008, -- [1]
@@ -2590,29 +2603,13 @@ DataStore_CraftsDB = {
 								7612832, -- [8]
 								7496352, -- [9]
 							},
-							[453] = {
-								31694973, -- [1]
-								24687221, -- [2]
-								24690813, -- [3]
-								24688117, -- [4]
-								24688245, -- [5]
-								24687733, -- [6]
-								24690429, -- [7]
-								24687861, -- [8]
-								24687093, -- [9]
-								24687477, -- [10]
-								24687989, -- [11]
-								24687605, -- [12]
-								30538237, -- [13]
-								24687349, -- [14]
-								24686964, -- [15]
-								24686580, -- [16]
-								29335284, -- [17]
-								29335412, -- [18]
-								24686324, -- [19]
-								29335156, -- [20]
-								24686196, -- [21]
-								24686708, -- [22]
+							[772] = {
+								36389859, -- [1]
+								32806115, -- [2]
+								32804835, -- [3]
+								32805731, -- [4]
+								32805219, -- [5]
+								32804451, -- [6]
 							},
 							[454] = {
 								26963616, -- [1]
@@ -2815,6 +2812,9 @@ DataStore_CraftsDB = {
 						},
 						["MaxRank"] = 800,
 						["Rank"] = 795,
+					},
+					["Alchemy"] = {
+						["CurrentLevelName"] = "Legion Alchemy",
 					},
 				},
 				["Prof2"] = "Inscription",
@@ -3535,6 +3535,9 @@ DataStore_CraftsDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Professions"] = {
+					["Inscription"] = {
+						["CurrentLevelName"] = "Zandalari Inscription",
+					},
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 						["FullLink"] = "|cffffd000|Htrade:Player-9-0B58277D:2259:171|h[Alchemy]|h|r",
@@ -4250,12 +4253,9 @@ DataStore_CraftsDB = {
 						},
 						["Rank"] = 169,
 					},
-					["Inscription"] = {
-						["CurrentLevelName"] = "Zandalari Inscription",
-					},
 				},
 				["Prof2"] = "Inscription",
-				["lastUpdate"] = 1556483024,
+				["lastUpdate"] = 1556668817,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -5063,13 +5063,13 @@ DataStore_CraftsRefDB = {
 			[410] = "Draenor Inscription",
 			[626] = "Potions",
 			[913] = "Cloaks",
-			[882] = "Outland Patterns",
+			[627] = "Elixirs",
 			[91] = "Glyphs",
 			[773] = "Cards",
 			[786] = "Glyphs",
 			[103] = "Off-hand",
 			[107] = "Scrolls",
-			[1250] = "Training",
+			[882] = "Outland Patterns",
 			[914] = "Materials",
 			[119] = "Shoulder Inscription",
 			[1244] = "Conversions",
@@ -5096,11 +5096,11 @@ DataStore_CraftsRefDB = {
 			[885] = "Weapons",
 			[332] = "Alchemy of Draenor",
 			[1130] = "Glyphs",
-			[633] = "Potions",
+			[888] = "Embossments",
 			[380] = "Draenor Patterns",
 			[790] = "Weapons & Off-Hands",
 			[412] = "Card",
-			[1262] = "Tool of the Trade",
+			[633] = "Potions",
 			[631] = "Oils",
 			[918] = "Shoulders",
 			[461] = "Leather Armor",
@@ -5117,7 +5117,7 @@ DataStore_CraftsRefDB = {
 			[792] = "Toys",
 			[413] = "Off-hand",
 			[635] = "Flasks",
-			[888] = "Embossments",
+			[1262] = "Tool of the Trade",
 			[920] = "Bracers",
 			[771] = "Books & Scrolls",
 			[247] = "Materials",
@@ -5167,13 +5167,13 @@ DataStore_CraftsRefDB = {
 			[607] = "Flasks",
 			[894] = "Bracers",
 			[926] = "Drums",
-			[895] = "Gloves",
+			[640] = "Flasks",
 			[769] = "Outland Inscription",
 			[257] = "Pants",
 			[799] = "Inks",
-			[640] = "Flasks",
-			[608] = "Transmutation",
 			[1276] = "Blood Contracts",
+			[608] = "Transmutation",
+			[895] = "Gloves",
 			[927] = "Materials",
 			[886] = "Other",
 			[433] = "Alchemy of the Broken Isles",
@@ -5219,7 +5219,7 @@ DataStore_CraftsRefDB = {
 			[250] = "Bags",
 			[260] = "Special",
 			[1123] = "Cures & Tonics",
-			[627] = "Elixirs",
+			[1250] = "Training",
 			[614] = "Transmutation",
 			[901] = "Research",
 			[933] = "Bracers",
@@ -7006,7 +7006,7 @@ DataStore_CraftsRefDB = {
 			[100583] = 17954817,
 			[60665] = 11073281,
 			[78464] = 19225345,
-			[227240] = 36181249,
+			[190385] = 29422337,
 			[17570] = 3444481,
 			[28545] = 5843201,
 			[38962] = 8109057,
@@ -7324,8 +7324,8 @@ DataStore_CraftsRefDB = {
 			[60367] = 11348994,
 			[96252] = 17606401,
 			[223940] = 35985153,
-			[190385] = 29422337,
 			[36351] = 7690241,
+			[227240] = 36181249,
 			[7256] = 1548289,
 			[252362] = 39074305,
 			[28550] = 5843969,
