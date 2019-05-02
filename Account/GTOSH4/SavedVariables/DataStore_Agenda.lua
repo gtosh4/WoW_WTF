@@ -24,11 +24,9 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshmonk"] = {
 						["note"] = "",
-						["class"] = "Monk",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1556667145,
+				["lastUpdate"] = 1556771490,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -49,11 +47,9 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["class"] = "Priest",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1556669251,
+				["lastUpdate"] = 1556771347,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1554050018,

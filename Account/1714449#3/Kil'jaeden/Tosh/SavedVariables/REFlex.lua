@@ -7956,18 +7956,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 617,
 		["StatsNum"] = 0,
-		["Season"] = 27,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 133,
-		["Hidden"] = false,
+		["Season"] = 27,
 		["PlayerNum"] = 1,
 		["PlayerSide"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Time"] = 1551272144,
 		["isRated"] = false,
 		["Version"] = 268,
 		["Winner"] = 0,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Tosh", -- [1]

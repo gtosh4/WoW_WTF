@@ -3,7 +3,7 @@ Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
 X: -196
-Y: -231
+Y: -331
 W: 108
 H: 62
 Frame: ObjectiveTrackerFrame

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 775,
+	["session"] = 783,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2\\modules\\IndicatorTooltip.lua:55: attempt to call method 'GetTooltip' (a nil value)",
@@ -52,12 +52,26 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [6]
 		{
+			["message"] = "...terface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:121: attempt to index field '?' (a nil value)",
+			["time"] = "2019/05/01 22:05:33",
+			["locals"] = "self = <table> {\n BuildView = <function> defined @Interface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:53\n OnEnter = <function> defined @Interface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:148\n Sort = <function> defined @Interface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:143\n view = <table> {\n }\n Update = <function> defined @Interface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:78\n OnClick = <function> defined @Interface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:176\n}\nVisibleLines = 7\nframe = \"AltoholicFrameMail\"\nscrollFrame = AltoholicFrameMailScrollFrame {\n 0 = <userdata>\n rowPrefix = \"Entry\"\n OnMouseWheel = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:140\n GetOffset = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:63\n OnBind = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:14\n Update = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:160\n ScrollChildFrame = <unnamed> {\n }\n OnVerticalScroll = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:150\n offset = 0\n ScrollBar = <unnamed> {\n }\n GetRow = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:219\n OnScrollRangeChanged = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:69\n SetOffset = <function> defined @Interface\\AddOns\\Altoholic\\Templates\\ScrollFrames.lua:66\n}\nentry = \"AltoholicFrameMailEntry\"\nDS = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n ToggleOption = <function> defined @Interface\\AddOns\\DataStore\\Options.lua:153\n DeleteCharacter = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:539\n EnableModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n baseName = \"DataStore\"\n IsCharacterBasedMethod = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:435\n GetModules = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:699\n UnregisterComm = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n DeleteGuild = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:607\n GetCurrentCharacterKey = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:475\n GetCurrentGuildKey = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:479\n Printf = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:69\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n defaultModuleState = true\n GetModuleLastUpdateByKey = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:731\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n DisableModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n RegisterModule = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:366\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n GetArgs = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:144\n IsGuildBasedMethod = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:448\n SetupInfoPanel = <function> defined @Interface\\AddOns\\DataStore\\Options.lua:102\n SendCommMessage = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:87\n GetGuildMemberAlts = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:818\n SetGuildBasedMethod = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:442\n SetGuildCommCallbacks = <function> defined @Interface\\AddOns\\DataStore\\DataStore.lua:463\n UnregisterAllComm = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n SetEnabledState = <function> defined @Interface\\AddOn",
+			["stack"] = "...terface\\AddOns\\Altoholic_Characters\\Frames\\Mails.lua:121: in function `Update'\n...erface\\AddOns\\Altoholic_Characters\\TabCharacters.lua:140: in function `ShowCharInfo'\n...erface\\AddOns\\Altoholic_Characters\\TabCharacters.lua:113: in function `ViewCharInfo'\n...nterface\\AddOns\\Altoholic_Summary\\AccountSummary.lua:1239: in function <...nterface\\AddOns\\Altoholic_Summary\\AccountSummary.lua:1229>",
+			["session"] = 778,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "Couldn't find inherited node: ItemButtonTemplate",
+			["session"] = 778,
+			["time"] = "2019/05/01 22:05:33",
+			["counter"] = 9,
+		}, -- [8]
+		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
 			["time"] = "2019/04/26 14:31:47",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:583: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:410: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
-			["session"] = 771,
-			["counter"] = 2,
-		}, -- [7]
+			["session"] = 782,
+			["counter"] = 3,
+		}, -- [9]
 	},
 }

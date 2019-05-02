@@ -58,7 +58,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1556666979,
+				["lastUpdate"] = 1556771368,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -254,12 +254,12 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1556668817,
+				["lastUpdate"] = 1556771169,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
 					[29] = 60,
-					[157] = 12605,
+					[157] = 12780,
 					[7] = 3100,
 					[14] = 350,
 					[155] = 15955,
@@ -273,7 +273,7 @@ DataStore_ReputationsDB = {
 					[159] = 16595,
 					[6] = 3100,
 					[113] = 3100,
-					[156] = 50725,
+					[156] = 52525,
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {

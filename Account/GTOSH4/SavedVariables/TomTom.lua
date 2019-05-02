@@ -68,6 +68,30 @@ TomTomWaypointsM = {
 		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+			[862] = {
+				["862:671434938.90762:334150731.56357:Pterrible Ingredients"] = {
+					862, -- [1]
+					0.671434938907623, -- [2]
+					0.334150731563568, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["desc"] = "Pterrible Ingredients",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Pterrible Ingredients",
+					["crazy"] = true,
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Tosku - Kil'jaeden"] = {
 		},

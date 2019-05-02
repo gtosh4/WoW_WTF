@@ -115,7 +115,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Yorman",
 		["spec_profile"] = {
 			{
 			}, -- [1]

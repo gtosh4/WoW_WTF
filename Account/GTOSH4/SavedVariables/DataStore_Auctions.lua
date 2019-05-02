@@ -33,8 +33,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2019/04/27 19:34",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1555557295,
-				["lastVisitDate"] = "2019/04/17 23:14",
+				["lastUpdate"] = 1556759827,
+				["lastVisitDate"] = "2019/05/01 21:17",
 			},
 		},
 	},

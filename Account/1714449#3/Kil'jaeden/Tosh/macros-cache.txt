@@ -59,7 +59,6 @@ VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
 #showtooltip Shadowfiend
 /petattack
 /cast Shadowfiend
-/use Ignition Mage's Fuse
 END
 VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
 #showtooltip Silence

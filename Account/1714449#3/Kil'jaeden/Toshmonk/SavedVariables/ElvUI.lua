@@ -24,116 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"2", -- [1]
-			"Smileftl-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smileftl-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			994, -- [11]
-			"Player-57-0AC3D0CB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Smileftl-Illidan|r",
-			[51] = 1555980787,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"1", -- [1]
-			"Smileftl-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smileftl-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			995, -- [11]
-			"Player-57-0AC3D0CB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Smileftl-Illidan|r",
-			[51] = 1555980788,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"3", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1001, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1555980812,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"2", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1002, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1555980812,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"1", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1005, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1555980814,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
 			"3", -- [1]
 			"Smileftl-Illidan", -- [2]
 			"Orcish", -- [3]
@@ -154,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980933,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [1]
 		{
 			"2", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -176,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [2]
 		{
 			"1", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -198,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [3]
 		{
 			"3", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -220,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [4]
 		{
 			"2", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -242,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980949,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [5]
 		{
 			"1", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -264,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980950,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [6]
 		{
 			"3", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -286,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980968,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [7]
 		{
 			"2", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -308,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980969,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [8]
 		{
 			"1", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -330,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980970,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [9]
 		{
 			"3", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -352,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980980,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [10]
 		{
 			"2", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -374,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980981,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [11]
 		{
 			"1", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -396,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1555980982,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [12]
 		{
 			"3", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -418,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980994,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [13]
 		{
 			"2", -- [1]
 			"Smileftl-Illidan", -- [2]
@@ -440,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Smileftl-Illidan|r",
 			[51] = 1555980996,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [14]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13295:Player-9-0B13C972:1:4:22:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jadefire Masters]|h|r!", -- [1]
 			"Yellowysham-Kil'jaeden", -- [2]
@@ -462,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYellowysham|r",
 			[51] = 1555980997,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [20]
+		}, -- [15]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13295:Player-9-0B133310:1:4:22:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jadefire Masters]|h|r!", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -484,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1555980997,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
+		}, -- [16]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13295:Player-9-0B1ACE61:1:4:22:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jadefire Masters]|h|r!", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -506,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1555980997,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [22]
+		}, -- [17]
 		{
 			"i have to go too", -- [1]
 			"Sufery-Illidan", -- [2]
@@ -528,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sufery-Illidan|r",
 			[51] = 1555981105,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [18]
 		{
 			"duty calls", -- [1]
 			"Sufery-Illidan", -- [2]
@@ -550,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sufery-Illidan|r",
 			[51] = 1555981106,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [19]
 		{
 			"cya guys", -- [1]
 			"Sufery-Illidan", -- [2]
@@ -572,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sufery-Illidan|r",
 			[51] = 1555981113,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
+		}, -- [20]
 		{
 			"does anyone not neet staff?", -- [1]
 			"Lantur-Zul'jin", -- [2]
@@ -594,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Lantur-Zul'jin|r",
 			[51] = 1555981118,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
+		}, -- [21]
 		{
 			"tks again cya", -- [1]
 			"Beechy-Mal'Ganis", -- [2]
@@ -616,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBeechy-Mal'Ganis|r",
 			[51] = 1555981158,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [22]
 		{
 			"LF TANK MYTHIC BOD", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -638,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556157349,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [23]
 		{
 			"@Af", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -660,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1556157381,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [24]
 		{
 			"BARBADOS", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -682,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556157551,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [25]
 		{
 			"GET ON UR DRUID", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -704,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556157554,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [26]
 		{
 			"or nvm", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -726,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556157560,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [27]
 		{
 			"my WHO", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -748,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1556157565,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [28]
 		{
 			"lmfao", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -770,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556157573,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [29]
 		{
 			"R E N E W A L", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -792,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1556157573,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [30]
 		{
 			"really?", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -814,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1556157576,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [31]
 		{
 			"iunno", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -836,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556157580,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [32]
 		{
 			"im lost", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -858,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556157581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [33]
 		{
 			"wyd", -- [1]
 			"|Kq23|k", -- [2]
@@ -880,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1556157688,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [39]
+		}, -- [34]
 		{
 			"hit my rocket jump", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -902,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWurzle|r",
 			[51] = 1556158264,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [35]
 		{
 			"pro cat", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -924,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWurzle|r",
 			[51] = 1556158265,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [36]
 		{
 			"do you lust at start or like 30% or whatever", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -946,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWurzle|r",
 			[51] = 1556158807,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [37]
 		{
 			"at the end i think", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -968,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556158824,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [38]
 		{
 			"unless we geared af", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -990,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556158838,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [39]
 		{
 			"you rang?", -- [1]
 			"Af-Kil'jaeden", -- [2]
@@ -1012,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Af|r",
 			[51] = 1556158847,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [40]
 		{
 			"lol", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -1034,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556158854,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [41]
 		{
 			"WELL just call it out and I'll hit it", -- [1]
 			"Wurzle-Kil'jaeden", -- [2]
@@ -1056,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcWurzle|r",
 			[51] = 1556158854,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [42]
 		{
 			"OOOOOF", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1078,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1556159151,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [43]
 		{
 			"OOOF", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -1100,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556159156,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [44]
 		{
 			"is he in a cafe?", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -1122,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556159160,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [45]
 		{
 			"is he cute", -- [1]
 			"Subspacexd-Kil'jaeden", -- [2]
@@ -1144,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Subspacexd|r",
 			[51] = 1556159176,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [46]
 		{
 			"naw but i think your cute -_^", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -1166,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1556159209,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [47]
 		{
 			"lf dps 11 td", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1188,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582656,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [48]
 		{
 			"me", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1210,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556582660,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [49]
 		{
 			"hi", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1232,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556582661,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [50]
 		{
 			"can you tank mb", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1254,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582670,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [51]
 		{
 			"thats not dps", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1276,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556582676,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [52]
 		{
 			":thinking:", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1298,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556582677,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [53]
 		{
 			"um", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1320,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582680,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [54]
 		{
 			"2 of you need it", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1342,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582682,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [55]
 		{
 			"might as well fit both", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1364,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582684,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [56]
 		{
 			"jebaited", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1386,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556582685,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [57]
 		{
 			"xD", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -1408,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556582685,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [58]
 		{
 			"ok", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1430,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556582696,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [59]
 		{
 			"this way", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1452,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583174,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [60]
 		{
 			"xd", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1474,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583175,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [61]
 		{
 			"moon", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1496,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583185,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [62]
 		{
 			"MOON", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1518,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583187,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [63]
 		{
 			"youre not a dh", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1540,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556583201,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [64]
 		{
 			"wat", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1562,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583210,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [65]
 		{
 			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1584,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583219,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [71]
+		}, -- [66]
 		{
 			"saw your name", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1606,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556583228,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [67]
 		{
 			"assumed dh", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1628,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556583230,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [68]
 		{
 			"xd", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -1650,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556583231,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [69]
 		{
 			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1672,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583272,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [75]
+		}, -- [70]
 		{
 			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1694,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583296,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [76]
+		}, -- [71]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6557:Player-9-0A76F241:1:4:29:19:4294967295:4294967295:4294967295:4294967295|h[Master Pet Hunter]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1716,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556583320,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6616:Player-9-0A76F241:1:4:29:19:4294967295:4294967295:4294967295:4294967295|h[Pandaria Tamer]|h|r!", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1738,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1556583320,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [73]
 		{
 			"Interrupted Bilge Rat Seaspeaker's |cff71d5ff|Hspell:258153:0|h[Watery Dome]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1760,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583527,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [79]
+		}, -- [74]
 		{
 			"Interrupted Jes Howlis's |cff71d5ff|Hspell:257791:0|h[Howling Fear]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1782,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583577,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [80]
+		}, -- [75]
 		{
 			"Interrupted Jes Howlis's |cff71d5ff|Hspell:257827:0|h[Motivating Cry]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1804,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583626,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [81]
+		}, -- [76]
 		{
 			"Interrupted Jes Howlis's |cff71d5ff|Hspell:257791:0|h[Howling Fear]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1826,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583649,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [82]
+		}, -- [77]
 		{
 			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1848,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583699,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [83]
+		}, -- [78]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1870,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583792,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [79]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1892,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583802,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [80]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1914,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556583803,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [81]
 		{
 			"Explosive Burst on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1936,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [82]
 		{
 			"3", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1958,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584213,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [83]
 		{
 			"2", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1980,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584214,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [84]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2002,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584215,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [85]
 		{
 			"Explosive Burst on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2024,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [86]
 		{
 			"3", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2046,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [87]
 		{
 			"2", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2068,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [88]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2090,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584222,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [89]
 		{
 			"Explosive Burst on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2112,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584234,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [90]
 		{
 			"3", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2134,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [91]
 		{
 			"2", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2156,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [92]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2178,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584237,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [93]
 		{
 			"Explosive Burst on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2200,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556584264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [94]
 		{
 			"Explosive Burst on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2222,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [95]
 		{
 			"3", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2244,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [96]
 		{
 			"2", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2266,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [97]
 		{
 			"1", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2288,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [98]
 		{
 			"Explosive Burst on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2310,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [99]
 		{
 			"Explosive Burst on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2332,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [100]
 		{
 			"3", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2354,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [101]
 		{
 			"3", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2376,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [102]
 		{
 			"2", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2398,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584281,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [103]
 		{
 			"2", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2420,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584281,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [104]
 		{
 			"1", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2442,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [105]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2464,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [106]
 		{
 			"Explosive Burst on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2486,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584291,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [107]
 		{
 			"3", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2508,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584292,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [108]
 		{
 			"2", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2530,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584293,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [109]
 		{
 			"1", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2552,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584294,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [110]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:251:13:9:6:3:117|h[Keystone: The Underrot (13)]|h|r", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2574,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556584303,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [111]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:245:12:9:6:3:117|h[Keystone: Freehold (12)]|h|r", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2596,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1556584307,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [112]
 		{
 			"ezclap", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2618,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584326,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [113]
 		{
 			"anyone need some", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2640,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556584414,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [114]
 		{
 			"ISLANDS", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2662,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556584416,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [115]
 		{
 			"imagine ", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2684,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584422,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [116]
 		{
 			"needing AP", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2706,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584424,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [117]
 		{
 			"i do it because its fun", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2728,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556584431,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [118]
 		{
 			"xd", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -2750,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1556584434,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [119]
 		{
 			":) same", -- [1]
 			"Nv-Kil'jaeden", -- [2]
@@ -2772,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Nv|r",
 			[51] = 1556584447,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [120]
 		{
 			"you must be senile", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2794,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1556584459,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [121]
 		{
 			"arent we all", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -2816,6 +2706,116 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1556584467,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"ran out of charms", -- [1]
+			"|Kq49|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			140, -- [11]
+			false, -- [12]
+			48, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowy|r",
+			[51] = 1556762838,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [123]
+		{
+			"and they got sent back in the mail", -- [1]
+			"|Kq49|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			141, -- [11]
+			false, -- [12]
+			48, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowy|r",
+			[51] = 1556762839,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [124]
+		{
+			"=-=", -- [1]
+			"|Kq49|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			146, -- [11]
+			false, -- [12]
+			48, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowy|r",
+			[51] = 1556762873,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [125]
+		{
+			"how dare you not be prepared", -- [1]
+			"|Kq49|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			147, -- [11]
+			false, -- [12]
+			48, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowy|r",
+			[51] = 1556762878,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [126]
+		{
+			"i always have extra waiting in my mail", -- [1]
+			"|Kq49|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			false, -- [12]
+			48, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowy|r",
+			[51] = 1556762885,
+			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [127]
 	},
 }
