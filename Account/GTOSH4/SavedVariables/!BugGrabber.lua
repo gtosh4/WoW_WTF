@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 784,
 	["lastSanitation"] = 3,
-	["session"] = 783,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Grid2\\modules\\IndicatorTooltip.lua:55: attempt to call method 'GetTooltip' (a nil value)",
@@ -61,8 +61,8 @@ BugGrabberDB = {
 		}, -- [7]
 		{
 			["message"] = "Couldn't find inherited node: ItemButtonTemplate",
-			["session"] = 778,
 			["time"] = "2019/05/01 22:05:33",
+			["session"] = 778,
 			["counter"] = 9,
 		}, -- [8]
 		{

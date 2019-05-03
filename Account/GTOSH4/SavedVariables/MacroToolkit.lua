@@ -6,12 +6,6 @@ MacroToolkitDB = {
 			},
 		},
 	},
-	["global"] = {
-		["backups"] = {
-		},
-		["ebackups"] = {
-		},
-	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
@@ -21,6 +15,12 @@ MacroToolkitDB = {
 		["Toshtrial - The Forgotten Coast"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
+	},
+	["global"] = {
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
 	},
 	["profiles"] = {
 		["profile"] = {

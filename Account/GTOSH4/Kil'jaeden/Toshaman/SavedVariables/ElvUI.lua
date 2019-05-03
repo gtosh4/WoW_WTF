@@ -1,94 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/plater", -- [1]
-		"/grid2", -- [2]
-		"/wave", -- [3]
-		"/p ready", -- [4]
-		"/o very annoying to die to that", -- [5]
-		"man", -- [6]
-		"/ert", -- [7]
-		"/alto show", -- [8]
-		"about to finish islands", -- [9]
-		"/cw Qiro-Kil'jaeden hm", -- [10]
-		"idk...", -- [11]
-		"/p ya", -- [12]
-		"uhm, we still need to get the icon boxes", -- [13]
-		"/o too", -- [14]
-		"/cw Pass-Kil'jaeden we were like, we have other things we could do so we don't care", -- [15]
-		"chillin", -- [16]
-		"/cw Pass-Kil'jaeden sounded like they were a package deal", -- [17]
-		"/dn", -- [18]
-		"/wa", -- [19]
-		"/ec", -- [20]
+		"/grid2", -- [1]
+		"/wave", -- [2]
+		"/p ready", -- [3]
+		"/o very annoying to die to that", -- [4]
+		"man", -- [5]
+		"/ert", -- [6]
+		"/alto show", -- [7]
+		"about to finish islands", -- [8]
+		"/cw Qiro-Kil'jaeden hm", -- [9]
+		"idk...", -- [10]
+		"/p ya", -- [11]
+		"uhm, we still need to get the icon boxes", -- [12]
+		"/o too", -- [13]
+		"/cw Pass-Kil'jaeden we were like, we have other things we could do so we don't care", -- [14]
+		"chillin", -- [15]
+		"/cw Pass-Kil'jaeden sounded like they were a package deal", -- [16]
+		"/dn", -- [17]
+		"/wa", -- [18]
+		"/ec", -- [19]
+		" what are we doing", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			394, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1556770175,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Blacktooth Knuckleduster ended!", -- [1]
-			"Litsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Litsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			395, -- [11]
-			"Player-9-074DF608", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeLitsong|r",
-			[51] = 1556770176,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			397, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1556770180,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770205,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [4]
+		}, -- [1]
 		{
 			"Taunted Irontide Crusher!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770226,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
+		}, -- [2]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770287,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [3]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770290,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [4]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770290,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Tormented Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770291,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Tormented Soul ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770296,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770304,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770310,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [9]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770359,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Mind Freezed Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770381,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [11]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770392,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [15]
+		}, -- [12]
 		{
 			"Mind Freezed Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770399,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Taunted Irontide Oarsman!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770406,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [14]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770409,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Stormcaller ended!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770413,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [16]
 		{
 			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770415,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [20]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770416,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770422,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770448,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [20]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770458,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [21]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770459,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [22]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770460,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Taunted Harlan Sweete!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770460,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [24]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770461,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [25]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770462,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [26]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770497,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Irontide Grenadier!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770504,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Irontide Grenadier ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770504,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [30]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [31]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:61999:0|h[Raise Ally]|h|r cast on You!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770553,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [36]
+		}, -- [33]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770559,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [34]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [35]
 		{
 			"Cannon Barrage on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Irontide Grenadier!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770563,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Irontide Grenadier!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770563,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Irontide Grenadier ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770568,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Irontide Grenadier ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770568,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [42]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770580,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770587,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [44]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [45]
 		{
 			"Cannon Barrage on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [46]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770603,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [48]
 		{
 			"Cannon Barrage on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [49]
 		{
 			"Cannon Barrage on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [51]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770616,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [52]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Irontide Grenadier!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770617,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Irontide Grenadier!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770617,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [54]
 		{
 			"Taunted Blacktooth Knuckleduster!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770649,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [55]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1557:Player-9-0AE8C06E:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[50 Fish]|h|r!", -- [1]
 			"Verceus-Kil'jaeden", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Verceus|r",
 			[51] = 1556770657,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [59]
+		}, -- [56]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770667,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [57]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770669,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770669,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Blacktooth Knuckleduster ended!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770671,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [60]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Blacktooth Scrapper!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770676,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [61]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [62]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Blacktooth Scrapper ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770681,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Blacktooth Scrapper ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770681,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770686,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770686,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770693,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770694,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [69]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770697,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [70]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770700,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [74]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770710,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [73]
 		{
 			"Taunted Ludwig Von Tortollan!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770743,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [74]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770757,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
+		}, -- [75]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770759,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [76]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Tormented Soul ended!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1556770761,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+		}, -- [77]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [78]
 		{
 			"Mind Freezed Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770764,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770766,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [80]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770766,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [84]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:48707:0|h[Anti-Magic Shell]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770772,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Tormented Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770777,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [84]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Tormented Soul!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770777,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [85]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Tormented Soul ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770782,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [86]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Tormented Soul ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770782,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [87]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770832,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [88]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1556770842,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770850,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [90]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556770860,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [91]
 		{
 			"Taunted Trothak!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770875,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [92]
 		{
 			"Shark Toss on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [93]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770991,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [94]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556770993,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [95]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2200,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556770998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [96]
 		{
 			"|cff71d5ff|Hspell:55233:0|h[Vampiric Blood]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2222,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771004,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [97]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2244,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771005,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [98]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2266,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771014,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [99]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2288,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [100]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2310,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [101]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2332,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [102]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2354,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [103]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2376,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [104]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2398,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [105]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2420,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [106]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Blacktooth Scrapper!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2442,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771065,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [107]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Blacktooth Scrapper!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2464,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771065,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Blacktooth Scrapper ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2486,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771068,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [109]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Blacktooth Scrapper ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2508,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771068,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [110]
 		{
 			"Ricocheting Throw on Elvidnir", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2530,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771070,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [111]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2552,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771073,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [112]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2574,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771076,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [113]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2596,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771076,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [114]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2618,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1556771084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [115]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2640,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [116]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2662,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [117]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2684,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [118]
 		{
 			"1. Elvidnir 489.2k", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2706,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [119]
 		{
 			"2. Keydepleter 522.9k", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2728,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [120]
 		{
 			"3. Andrewzz 544.9k", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2750,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [121]
 		{
 			"4. Litsong 706.0k", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2772,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [125]
+		}, -- [122]
 		{
 			"5. Toshaman 796.5k", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2794,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1556771096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [123]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:249:16:10:5:13:117|h[Keystone: Kings' Rest (16)]|h|r", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -2816,6 +2750,74 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1556771099,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [124]
+		{
+			"what are we doing", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Envious|r",
+			[51] = 1556839609,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [125]
+		{
+			"iono", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Envious|r",
+			[51] = 1556839737,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13041:Player-9-0B13C972:1:5:2:19:4294967295:4294967295:4294967295:4294967295|h[Hungry, Hungry Ranishu]|h|r!", -- [1]
+			"Yellowysham-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowysham-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-0B13C972", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYellowysham|r",
+			[51] = 1556839986,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

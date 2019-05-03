@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 718,
 	["lastSanitation"] = 3,
-	["session"] = 715,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\LFGList.lua:2373: Usage: ApplyToGroup(resultID, tankOK, healerOK, damageOK)",
@@ -11,5 +11,13 @@ BugGrabberDB = {
 			["session"] = 701,
 			["counter"] = 1,
 		}, -- [1]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MacroToolkit' tried to call the protected function 'EditMacro()'.",
+			["time"] = "2019/05/02 21:49:00",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `EditMacro'\n...terface\\AddOns\\Blizzard_MacroUI\\Blizzard_MacroUI.lua:503: in function `MacroFrame_SaveMacro'\n...terface\\AddOns\\Blizzard_MacroUI\\Blizzard_MacroUI.lua:175: in function <...terface\\AddOns\\Blizzard_MacroUI\\Blizzard_MacroUI.lua:173>",
+			["session"] = 717,
+			["counter"] = 1,
+		}, -- [2]
 	},
 }

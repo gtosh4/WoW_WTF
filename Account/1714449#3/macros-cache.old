@@ -53,6 +53,11 @@ END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
 END
+VER 3 000000000000002C "racial" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Arcane Torrent
+/cast Every Man for Himself(Racial)
+END
 VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
 /readycheck
 END
@@ -73,11 +78,16 @@ VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 END
 VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
+/cast Malformed Herald's Legwraps
 /use 13
 END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
+END
+VER 3 000000000000002D "TCD1" "INV_MISC_QUESTIONMARK"
+#showtooltip Rapture
+/cast Rapture
 END
 VER 3 0000000000000022 "TEST" "413591"
 /rotac

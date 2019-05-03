@@ -1,40 +1,40 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/thank", -- [1]
-		"/p wasn't me, I know you can netherwalk to keep it", -- [2]
-		"/p I MC'd frida lol", -- [3]
-		"not sure if I'm going to bed early or not", -- [4]
-		"/o spriest grey parsed every fight", -- [5]
-		"/p 1) when adds cast", -- [6]
-		"/grid2", -- [7]
-		"yeah, that's andrew", -- [8]
-		"/p and walked him out", -- [9]
-		"that's andrew, he's pretty funny, but from alabama and decently stereotypical lol", -- [10]
-		"dunno", -- [11]
-		"/p 2) thunder staff", -- [12]
-		"/tmw", -- [13]
-		"/invite toshaman", -- [14]
-		"/p yeah sec", -- [15]
-		"/p don't queue", -- [16]
-		"/p yet", -- [17]
-		"/p wasn't that 3?", -- [18]
-		"/p ehh", -- [19]
-		"/p I just wanna chill for a bit", -- [20]
+		"/ert", -- [1]
+		"/cw Wraithbrand can you jeeves?", -- [2]
+		"/cw Wraithbrand ty", -- [3]
+		"/cw Wraithbrand  /follow", -- [4]
+		" hi friend", -- [5]
+		"/aa", -- [6]
+		"/ec", -- [7]
+		" the circles", -- [8]
+		" death's doors", -- [9]
+		" yeah, just dip into it", -- [10]
+		" it's the stuff that goes around you", -- [11]
+		"/dn", -- [12]
+		"/m", -- [13]
+		" figure it out?", -- [14]
+		" no, the stacks", -- [15]
+		"/wa", -- [16]
+		"/o this DK", -- [17]
+		"/o just followed me with it", -- [18]
+		"/o he like made a C instead of running straight out", -- [19]
+		"/o so I side stepped and he was like, nope", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"I would do all manor of degrading things for that", -- [1]
+			"Fire on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			197, -- [11]
+			2907, -- [11]
 			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -42,1047 +42,1025 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Zombiemonk|r",
-			[51] = 1556763177,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1556855492,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"yao", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			260, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2910, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763503,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556855516,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"sup", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			269, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2911, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763516,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556855516,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"hatni", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Fire on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			271, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2912, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763519,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556855517,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"chillin", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			276, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2913, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763562,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855524,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"about to finish islands", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Scorching Detonation fading in 3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			277, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2914, -- [11]
+			"Player-9-0B574DC3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763571,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855526,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"gross", -- [1]
-			"|Kq23|k", -- [2]
-			"", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			278, -- [11]
-			false, -- [12]
-			23, -- [13]
+			2918, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Wraithband|r",
-			[51] = 1556763578,
-			[50] = "CHAT_MSG_BN_WHISPER",
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556855542,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"another?", -- [1]
-			"Yellowysham-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Umbrasong", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Yellowysham-Kil'jaeden", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			396, -- [11]
-			"Player-9-0B13C972", -- [12]
+			2919, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYellowysham|r",
-			[51] = 1556764133,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855543,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13124:Player-9-0B60C7FF:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[Metal Detector]|h|r!", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			397, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2920, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556764133,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855543,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"wasn't that 3?", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			400, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2921, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556764146,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855543,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"another set i mean", -- [1]
-			"Yellowysham-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Yellowysham-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			401, -- [11]
-			"Player-9-0B13C972", -- [12]
+			2922, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYellowysham|r",
-			[51] = 1556764155,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556855545,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"ehh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Death's Door on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Vercetty-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			411, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2924, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556764281,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1556855561,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"I just wanna chill for a bit", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			412, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2926, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556764287,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855565,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"ok", -- [1]
-			"Yellowysham-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Scorching Detonation fading in 3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Yellowysham-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			413, -- [11]
-			"Player-9-0B13C972", -- [12]
+			2927, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcYellowysham|r",
-			[51] = 1556764312,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855567,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13295:Player-9-0AD377F5:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jadefire Masters]|h|r!", -- [1]
-			"Aspbringr-Kil'jaeden", -- [2]
+			"'s pickpocket stole 2 gold 54 silver 12 copper from you.", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aspbringr-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			416, -- [11]
-			"Player-9-0AD377F5", -- [12]
+			2928, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Aspbringr|r",
-			[51] = 1556764752,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855571,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [15]
 		{
-			"we have a 5th logging in", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			24, -- [11]
-			"Player-9-099A8185", -- [12]
+			2930, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772143,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556855572,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"we are 1 man short?", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Mahle", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Mahle-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			25, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2932, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772145,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1556855574,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"ok", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Vercetty-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			26, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2933, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772147,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1556855574,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"remember it's explosive", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			30, -- [11]
-			"Player-9-099A8185", -- [12]
+			2934, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772272,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [19]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:257426:0|h[反手猛击]|h|r for 141.2k (56%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			35, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2935, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772307,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-9-099A8185", -- [12]
+			2936, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772307,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			40, -- [11]
-			"Player-9-099A8185", -- [12]
+			2937, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772319,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			61, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2938, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556772443,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:257426:0|h[反手猛击]|h|r |cff71d5ff|Hspell:257274:0|h[污秽油膜]|h|r for 150.0k (60%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Huit", -- [1]
+			"Huit-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Huit-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			72, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2939, -- [11]
+			"Player-9-0A2130B4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772491,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Huit|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			77, -- [11]
-			"Player-9-099A8185", -- [12]
+			2940, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772504,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			78, -- [11]
-			"Player-9-099A8185", -- [12]
+			2941, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772504,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:257426:0|h[反手猛击]|h|r |cff71d5ff|Hspell:257274:0|h[污秽油膜]|h|r for 254.7k (101%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Vercetty-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			80, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2942, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772507,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1556855575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-9-099A8185", -- [12]
+			2943, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772514,
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556855576,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"Removed Irontide Mastiff's |cff71d5ff|Hspell:257476:0|h[Bestial Wrath]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			82, -- [11]
-			"Player-9-099A8185", -- [12]
+			2944, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772514,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855576,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:257426:0|h[反手猛击]|h|r |cff71d5ff|Hspell:257274:0|h[污秽油膜]|h|r for 151.3k (60%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Friendly", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2945, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772523,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Serasong!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Umbrasong", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			98, -- [11]
-			"Player-9-099A8185", -- [12]
+			2946, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772619,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Taunted Vermin Trapper!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			117, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2947, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556772748,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556855577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"<EH> Dachou got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Vercetty-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			118, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2948, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772749,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1556855577,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"<EH> Dachou got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			119, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2949, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772766,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556855578,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Death's Door on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2950, -- [11]
+			"Player-9-044D8D7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772766,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556855589,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"|cff71d5ff|Hspell:20066:0|h[Repentance]|h|r cast on Bilge Rat Buccaneer!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Mahle", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Mahle-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			123, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2952, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556772782,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1556855597,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"|cff71d5ff|Hspell:20066:0|h[Repentance]|h|r on Bilge Rat Buccaneer has ended!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Voidamental", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			124, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2953, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556772782,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1556855598,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			127, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2956, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772788,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855607,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Tosh gripped Orcbum", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			128, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2958, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772788,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855610,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [39]
 		{
-			"<EH> Dachou got hit by |cff71d5ff|Hspell:258779:0|h[海流喷射]|h|r for 180.1k (53%).", -- [1]
-			"Dachou-Illidan", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Phantom of Slaughter!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2959, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772805,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855617,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [40]
 		{
-			"<EH> Renewal-Kil'jaeden got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Rage {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2960, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772805,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855619,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"<EH> Tosh-Kil'jaeden got hit by |cff71d5ff|Hspell:274389:0|h[捕鼠陷阱]|h|r.", -- [1]
-			"Dachou-Illidan", -- [2]
+			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r cast on Phantom of Slaughter!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			134, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2962, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556772805,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855621,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [42]
 		{
-			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Dachou!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Death's Door on Friendly", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			138, -- [11]
-			"Player-9-099A8185", -- [12]
+			2964, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772812,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855636,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"Successfully resurrected You!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r King Rastakhan {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			140, -- [11]
-			"Player-9-099A8185", -- [12]
+			2965, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556772814,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855642,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Plague of Fire CD  0:06", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2966, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556772883,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855642,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [45]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			152, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2967, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556772892,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855642,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Friendly", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			161, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2968, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556772918,
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855650,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773008,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
-		{
-			"Ricocheting Throw on Tosh", -- [1]
+			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -1090,7 +1068,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			166, -- [11]
+			2969, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1098,981 +1076,1003 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773011,
+			[51] = 1556855651,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [48]
+		{
+			"Fire on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Zombiemonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2971, -- [11]
+			"Player-9-0A31676A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1556855651,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Vwyq za Ssaggh", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			168, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2972, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1556855652,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted King Rastakhan!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			170, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2973, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773018,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855652,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [51]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r on Phantom of Slaughter ended!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			171, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2974, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773020,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855664,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [52]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted King Rastakhan!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			178, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			2975, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773045,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855673,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [53]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			179, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2976, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773047,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855674,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Removed Blacktooth Scrapper's |cff71d5ff|Hspell:257741:0|h[Blind Rage]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Phantom of Slaughter has ended!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			183, -- [11]
-			"Player-9-099A8185", -- [12]
+			2977, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773064,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855675,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [55]
 		{
-			"|cff71d5ff|Hspell:20066:0|h[Repentance]|h|r cast on Bilge Rat Buccaneer!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Interrupted Phantom of Retribution's |cff71d5ff|Hspell:285572:0|h[Grave Bolt]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Mahle-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			189, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2978, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773086,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1556855677,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"|cff71d5ff|Hspell:20066:0|h[Repentance]|h|r on Bilge Rat Buccaneer has ended!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Retribution {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			190, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			2980, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773086,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855682,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Removed Blacktooth Scrapper's |cff71d5ff|Hspell:257741:0|h[Blind Rage]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Phantom of Slaughter Grave Bolt!", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			192, -- [11]
-			"Player-9-099A8185", -- [12]
+			2981, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773090,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855684,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"wait lust", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			203, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2982, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773127,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556855690,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			209, -- [11]
-			"Player-9-099A8185", -- [12]
+			2983, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1556855690,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 133.8k (53%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Interrupted Phantom of Slaughter's |cff71d5ff|Hspell:285572:0|h[Grave Bolt]|h|r!", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Mahle-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			210, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2984, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1556855694,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 106.2k (42%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			211, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2985, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855706,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"<EH> Tosh-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 102.7k (44%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Scorching Detonation fading in 3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			224, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2986, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773162,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855708,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Serasong!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"someone figure out what the fuck |cff66bbff|Hjournal:2:19665:16|h[Dread Reaping]|h|r is from", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			232, -- [11]
-			"Player-9-099A8185", -- [12]
+			2993, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773225,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1556855763,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [64]
 		{
-			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r cast on Tosh!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"i blame andrew", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			239, -- [11]
-			"Player-9-099A8185", -- [12]
+			2994, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773276,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1556855771,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [65]
 		{
-			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r on Tosh ended!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			241, -- [11]
-			"Player-9-099A8185", -- [12]
+			2996, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855825,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [66]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 110.9k (44%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Eating Nom Noms!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			253, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2997, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773378,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855838,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Eating Nom Noms!", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			266, -- [11]
-			"Player-9-099A8185", -- [12]
+			2998, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773394,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1556855842,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 128.4k (51%).", -- [1]
-			"Dachou-Illidan", -- [2]
+			"|cff71d5ff|Hspell:111771:0|h[Demonic Gateway]|h|r placed!", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			271, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			2999, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773414,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855855,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [69]
 		{
-			"<EH> Renewal-Kil'jaeden got hit by |cff71d5ff|Hspell:276061:0|h[投掷巨石]|h|r for 123.3k (64%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Done With Nom Noms!", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			274, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3000, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773421,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855858,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Done With Nom Noms!", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			275, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3001, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773433,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1556855862,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:515:Player-9-0B247D8E:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[500 Honorable Kills]|h|r!", -- [1]
-			"Aznbabygirl-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:29893:0|h[Create Soulwell]|h|r!", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aznbabygirl-Kil'jaeden", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			276, -- [11]
-			"Player-9-0B247D8E", -- [12]
+			3002, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Aznbabygirl|r",
-			[51] = 1556773476,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855864,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [72]
 		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"All you can eat buttfet!", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			277, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3003, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773480,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855870,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Gordy can Jess get another corgi?", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			280, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3004, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773502,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556855874,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Ate it like grocery.", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			284, -- [11]
-			"Player-9-099A8185", -- [12]
+			3006, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773511,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556855890,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:257736:0|h[Thundering Squall]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
+			"Not Well Fed (1): Huit", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			287, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3009, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773523,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855892,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [76]
 		{
-			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Dachou for 62825!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
+			"No Augment Rune (18): Dawnzo, Druwqt, Focalaire, Friendly, Huit, Mahle, Ngow, Orcbum, Sherbie, Snify, Tosh, Touchochrist, Trophie, Umbrasong, Vercetty, Voidamental, Wraithbrand, Zombiemonk", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			290, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3010, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773558,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855892,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [77]
 		{
-			"Casting |cff71d5ff|Hspell:50769:0|h[Revive]|h|r on Bluedagger!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"Missing Buffs (1): Intellect", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			294, -- [11]
-			"Player-9-099A8185", -- [12]
+			3011, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773593,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855892,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [78]
 		{
-			"Cannon Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"oRA3> No Augment Rune", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			298, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3012, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773643,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855892,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [79]
 		{
-			"Fixate on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"These patches will spawn and will then move in a spiral pattern. If you touch these you will take high amounts of shadow damage. If they touch a Death Rift they will then go into the living realm.", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Mahle-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			301, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3014, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773660,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1556855904,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [80]
 		{
-			"|cff71d5ff|Hspell:339:0|h[Entangling Roots]|h|r cast on Irontide Grenadier!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"Everyone is Ready", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			302, -- [11]
-			"Player-9-099A8185", -- [12]
+			3016, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773660,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855916,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [81]
 		{
-			"|cff71d5ff|Hspell:339:0|h[Entangling Roots]|h|r on Irontide Grenadier ended!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Siegebreaker Roka {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			307, -- [11]
-			"Player-9-099A8185", -- [12]
+			3018, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773670,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556855931,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"Cannon Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted King Rastakhan!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			313, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3021, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773690,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855946,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [83]
 		{
-			"Cannon Barrage on Serasong", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			318, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3028, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773709,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855957,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"Cannon Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Seal of Purification on Wraithbrand", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			320, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3029, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773709,
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1556855965,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"<EH> Renewal-Kil'jaeden got hit by |cff71d5ff|Hspell:257310:0|h[火炮弹幕]|h|r for 83.9k (44%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			322, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3031, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773720,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855980,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"Fixate on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Scorching Detonation fading in 3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			327, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3033, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773728,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556855982,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"|cff71d5ff|Hspell:339:0|h[Entangling Roots]|h|r cast on Irontide Grenadier!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			328, -- [11]
-			"Player-9-099A8185", -- [12]
+			3038, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773730,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856028,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"|cff71d5ff|Hspell:339:0|h[Entangling Roots]|h|r on Irontide Grenadier ended!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Scorching Detonation fading in 3", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			331, -- [11]
-			"Player-9-099A8185", -- [12]
+			3039, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773738,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856030,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"|cff71d5ff|Hspell:339:0|h[Entangling Roots]|h|r on Irontide Grenadier ended!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			332, -- [11]
-			"Player-9-099A8185", -- [12]
+			3040, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773738,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556856032,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [90]
 		{
-			"Cannon Barrage on Serasong", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Vwyq za Ssaggh", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Druwqt-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			334, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3042, -- [11]
+			"Player-9-0B5E0C47", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773749,
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1556856036,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"Cannon Barrage on Renewal", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			335, -- [11]
-			"Player-9-099A8185", -- [12]
+			3043, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773749,
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556856037,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"Cannon Barrage on Bluedagger", -- [1]
-			"Bluedagger-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Bluedagger-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			336, -- [11]
-			"Player-9-0B1ACE61", -- [12]
+			3045, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Bluedagger|r",
-			[51] = 1556773749,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556856056,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"Cannon Barrage on Tosh", -- [1]
+			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Common", -- [3]
 			"", -- [4]
 			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -2080,7 +2080,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			337, -- [11]
+			3046, -- [11]
 			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2088,734 +2088,735 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
-			[51] = 1556773749,
+			[51] = 1556856057,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12556:Player-9-03CDA6CB:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[Explore Tiragarde Sound]|h|r!", -- [1]
-			"Actraiser-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Actraiser-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			340, -- [11]
-			"Player-9-03CDA6CB", -- [12]
+			3047, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Actraiser|r",
-			[51] = 1556773778,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556856058,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			342, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3049, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773799,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556856061,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"Removed Blacktooth Scrapper's |cff71d5ff|Hspell:257741:0|h[Blind Rage]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Huit", -- [1]
+			"Huit-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Huit-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			354, -- [11]
-			"Player-9-099A8185", -- [12]
+			3050, -- [11]
+			"Player-9-0A2130B4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773843,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Huit|r",
+			[51] = 1556856062,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"Removed Blacktooth Scrapper's |cff71d5ff|Hspell:257741:0|h[Blind Rage]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			355, -- [11]
-			"Player-9-099A8185", -- [12]
+			3051, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773843,
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556856063,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			360, -- [11]
-			"Player-9-099A8185", -- [12]
+			3052, -- [11]
+			"Player-9-044D8D7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773882,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556856063,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			361, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3053, -- [11]
+			"Player-9-044D8D7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773888,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556856063,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [100]
 		{
-			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			362, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3054, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556773904,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1556856064,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"<EH> Tosh-Kil'jaeden got hit by |cff71d5ff|Hspell:276061:0|h[投掷巨石]|h|r for 184.6k (73%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			370, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3056, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773940,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556856064,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 129.9k (52%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Vercetty", -- [1]
+			"Vercetty-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Vercetty-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			371, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3057, -- [11]
+			"Player-9-008E5464", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773945,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcVercetty|r",
+			[51] = 1556856064,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 103.8k (41%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Umbrasong", -- [1]
+			"Umbrasong-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Umbrasong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			372, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3058, -- [11]
+			"Player-9-0B60C70E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556773951,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8686ecUmbrasong|r",
+			[51] = 1556856066,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13414:Player-9-0635011B:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[Crucible of Storms]|h|r!", -- [1]
-			"Toxicsob-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Dawnzo", -- [1]
+			"Dawnzo-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Toxicsob-Kil'jaeden", -- [5]
+			"Dawnzo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			376, -- [11]
-			"Player-9-0635011B", -- [12]
+			3059, -- [11]
+			"Player-9-062E1CCA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeToxicsob|r",
-			[51] = 1556773978,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfff38bb9Dawnzo|r",
+			[51] = 1556856066,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [105]
 		{
-			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r cast on Tosh!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			378, -- [11]
-			"Player-9-099A8185", -- [12]
+			3060, -- [11]
+			"Player-9-044D8D7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556773985,
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556856066,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [106]
 		{
-			"<EH> Bluedagger-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 121.2k (48%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Skarsnik", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Skarsnik-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			383, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3061, -- [11]
+			"Player-9-044D8D7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774012,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1556856066,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"<EH> Tosh-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 139.9k (55%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			386, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3062, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774021,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856069,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [108]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 99.6k (40%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Death's Door on Friendly", -- [1]
+			"Friendly-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Friendly-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			387, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3063, -- [11]
+			"Player-9-09D60980", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774021,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFriendly|r",
+			[51] = 1556856079,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [109]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:257902:0|h[弹跳龟壳]|h|r for 109.4k (44%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			392, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3065, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774088,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1556856087,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Death's Door on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			399, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3067, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556774130,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1556856107,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [111]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Scorching Detonation on Sherbie", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			403, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3070, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556774134,
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856111,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [112]
 		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Snify", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			405, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3072, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556774151,
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556856117,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [113]
 		{
-			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			406, -- [11]
-			"Player-9-0AE87A48", -- [12]
+			3073, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1556774160,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556856119,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [114]
 		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Serasong!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Fire on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			409, -- [11]
-			"Player-9-099A8185", -- [12]
+			3077, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1556774173,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1556856143,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [115]
 		{
-			"Shark Toss on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Focalaire", -- [1]
+			"Focalaire-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Focalaire-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			410, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3078, -- [11]
+			"Player-9-07DFC49A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556774185,
+			[52] = "|cff3ec5e9Focalaire|r",
+			[51] = 1556856144,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [116]
 		{
-			"Shark Toss on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Fire on Dolclemits", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
+			"Dolclemits-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			412, -- [11]
-			"Player-9-0B60C7FF", -- [12]
+			3079, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1556774203,
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1556856145,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [117]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:256546:0|h[狂鲨飓风]|h|r for 120.3k (48%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"Fire on Dolclemits", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Dolclemits-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			413, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3080, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774225,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1556856148,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [118]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:166:Player-9-0B247D8E:1:5:1:19:4294967295:4294967295:4294967295:4294967295|h[Warsong Gulch Victory]|h|r!", -- [1]
-			"Aznbabygirl-Kil'jaeden", -- [2]
+			"Taunted Phantom of Retribution!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aznbabygirl-Kil'jaeden", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			414, -- [11]
-			"Player-9-0B247D8E", -- [12]
+			3083, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Aznbabygirl|r",
-			[51] = 1556774233,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856158,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [119]
 		{
-			"<EH> Serasong-Kil'jaeden got hit by |cff71d5ff|Hspell:258199:0|h[碎地]|h|r for 100.3k (40%).", -- [1]
-			"Dachou-Illidan", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Rage {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Orcbum-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			415, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3085, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774301,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1556856160,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [120]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Dachou-Illidan", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Phantom of Retribution!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			417, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3086, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856160,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [121]
 		{
-			"1. Renewal-Kil'jaeden 335.3k", -- [1]
-			"Dachou-Illidan", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Phantom of Retribution has ended!", -- [1]
+			"Sherbie-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Sherbie-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			418, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3087, -- [11]
+			"Player-9-0B574DC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe95Sherbie|r",
+			[51] = 1556856160,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [122]
 		{
-			"2. Dachou 1011.3k", -- [1]
-			"Dachou-Illidan", -- [2]
+			"good prog", -- [1]
+			"Huit-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Huit-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			419, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3094, -- [11]
+			"Player-9-0A2130B4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Huit|r",
+			[51] = 1556856180,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [123]
 		{
-			"3. Tosh-Kil'jaeden 1026.5k", -- [1]
-			"Dachou-Illidan", -- [2]
+			"i like triangles", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			420, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3095, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1556856188,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [124]
 		{
-			"4. Serasong-Kil'jaeden 1433.3k", -- [1]
-			"Dachou-Illidan", -- [2]
+			"thank you guys", -- [1]
+			"Snify-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"Snify-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			421, -- [11]
-			"Player-57-05DDAD63", -- [12]
+			3108, -- [11]
+			"Player-9-0AEE2549", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1556856219,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [125]
 		{
-			"5. Bluedagger-Kil'jaeden 1540.9k", -- [1]
-			"Dachou-Illidan", -- [2]
+			"xd", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dachou-Illidan", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			422, -- [11]
-			"Player-57-05DDAD63", -- [12]
-			0, -- [13]
+			3138, -- [11]
+			false, -- [12]
+			25, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Dachou-Illidan|r",
-			[51] = 1556774318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Envious|r",
+			[51] = 1556856380,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [126]
 		{
-			"may I have the sword?", -- [1]
-			"Bluedagger-Kil'jaeden", -- [2]
+			"yoooooooooO", -- [1]
+			"|Kq23|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			432, -- [11]
-			"Player-9-0B1ACE61", -- [12]
-			0, -- [13]
+			3143, -- [11]
+			false, -- [12]
+			23, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Bluedagger|r",
-			[51] = 1556774382,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1556856469,
+			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [127]
 	},
 }

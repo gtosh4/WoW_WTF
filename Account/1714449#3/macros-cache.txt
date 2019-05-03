@@ -5,6 +5,10 @@ END
 VER 3 0000000000000010 "bounds" "132319"
 /click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
 END
+VER 3 000000000000002E "cc" "INV_MISC_QUESTIONMARK"
+/target phantom of slaughter
+/cast Shackle Undead
+END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
 END
@@ -78,6 +82,7 @@ VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 END
 VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
+/cast Malformed Herald's Legwraps
 /use 13
 END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
