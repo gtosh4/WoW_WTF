@@ -55,9 +55,9 @@ _detalhes_database = {
 								["Mine Rat"] = 1195861,
 								["Hired Assassin"] = 1917667,
 								["Rixxa Fluxflame"] = 3828138,
+								["Venture Co. Earthshaper"] = 2802988,
 								["Mechanized Peacekeeper"] = 5177809,
 								["Venture Co. Mastermind"] = 40046,
-								["Venture Co. Earthshaper"] = 2802988,
 								["Venture Co. Alchemist"] = 64181,
 								["Crawler Mine"] = 25780,
 								["Refreshment Vendor"] = 4426919,
@@ -247,10 +247,10 @@ _detalhes_database = {
 											["Addled Thug"] = 232693,
 											["Off-Duty Laborer"] = 206877,
 											["Mine Rat"] = 100938,
-											["Mechanized Peacekeeper"] = 201310,
-											["Tormented Soul"] = 229438,
 											["Venture Co. Earthshaper"] = 197400,
+											["Tormented Soul"] = 229438,
 											["Venture Co. Mastermind"] = 5704,
+											["Mechanized Peacekeeper"] = 201310,
 											["Hired Assassin"] = 115380,
 											["Venture Co. Alchemist"] = 2282,
 											["Shalebiter"] = 40775,
@@ -470,15 +470,15 @@ _detalhes_database = {
 											["Risen Soul"] = 26879,
 											["Coin-Operated Crowd Pummeler"] = 40371,
 											["Rixxa Fluxflame"] = 13423,
+											["Venture Co. Earthshaper"] = 34315,
 											["Mogul Razdunk"] = 13455,
-											["Mechanized Peacekeeper"] = 33607,
 											["Venture Co. War Machine"] = 13070,
 											["Hired Assassin"] = 20152,
 											["Refreshment Vendor"] = 33506,
 											["Azerokk"] = 40369,
 											["Wanton Sapper"] = 13458,
 											["Earthrager"] = 6728,
-											["Venture Co. Earthshaper"] = 34315,
+											["Mechanized Peacekeeper"] = 33607,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 208627,
@@ -604,10 +604,10 @@ _detalhes_database = {
 											["Shalebiter"] = 33268,
 											["Off-Duty Laborer"] = 147186,
 											["Mine Rat"] = 75293,
-											["Mechanized Peacekeeper"] = 168385,
-											["Tormented Soul"] = 178618,
 											["Venture Co. Earthshaper"] = 145078,
+											["Tormented Soul"] = 178618,
 											["Venture Co. Mastermind"] = 5603,
+											["Mechanized Peacekeeper"] = 168385,
 											["Addled Thug"] = 182017,
 											["Venture Co. Alchemist"] = 4002,
 											["Hired Assassin"] = 86559,
@@ -1745,13 +1745,13 @@ _detalhes_database = {
 								["[*] Volcanic Plume"] = true,
 								["Tormented Soul"] = true,
 								["Soozpriest-Area52"] = true,
+								["Venture Co. Mastermind"] = true,
 								["Mechanized Peacekeeper"] = true,
-								["Venture Co. Earthshaper"] = true,
 								["[*] Propellant Blast"] = true,
 								["Hired Assassin"] = true,
 								["[*] Azerite Catalyst"] = true,
 								["Refreshment Vendor"] = true,
-								["Venture Co. Mastermind"] = true,
+								["Venture Co. Earthshaper"] = true,
 								["Mech Jockey"] = true,
 								["[*] Gatling Gun"] = true,
 							},
@@ -2735,11 +2735,11 @@ _detalhes_database = {
 											["Mine Rat"] = 96257,
 											["Tormented Soul"] = 481211,
 											["Rixxa Fluxflame"] = 111736,
+											["Venture Co. Earthshaper"] = 321511,
 											["Venture Co. Mastermind"] = 17212,
-											["Mechanized Peacekeeper"] = 438135,
 											["Venture Co. Alchemist"] = 5737,
 											["Hired Assassin"] = 302964,
-											["Venture Co. Earthshaper"] = 321511,
+											["Mechanized Peacekeeper"] = 438135,
 											["Refreshment Vendor"] = 446086,
 											["Wanton Sapper"] = 189446,
 											["Mech Jockey"] = 413164,
@@ -3042,10 +3042,10 @@ _detalhes_database = {
 											["Addled Thug"] = 104207,
 											["Off-Duty Laborer"] = 140682,
 											["Mine Rat"] = 39499,
-											["Mechanized Peacekeeper"] = 69347,
-											["Tormented Soul"] = 24292,
 											["Venture Co. Earthshaper"] = 55981,
+											["Tormented Soul"] = 24292,
 											["Venture Co. Mastermind"] = 3227,
+											["Mechanized Peacekeeper"] = 69347,
 											["Rixxa Fluxflame"] = 29632,
 											["Hired Assassin"] = 52870,
 											["Shalebiter"] = 16342,
@@ -3703,13 +3703,13 @@ _detalhes_database = {
 								["Lost Soul"] = 2013199,
 								["Feckless Assistant"] = 9171,
 								["Shalebiter"] = 443474,
-								["Mechanized Peacekeeper"] = 3398834,
+								["Venture Co. Earthshaper"] = 1938399,
 								["Tormented Soul"] = 2301062,
 								["Mine Rat"] = 954822,
-								["Venture Co. Earthshaper"] = 1938399,
+								["Venture Co. Mastermind"] = 28739,
 								["Rixxa Fluxflame"] = 2081791,
 								["Hired Assassin"] = 1202402,
-								["Venture Co. Mastermind"] = 28739,
+								["Mechanized Peacekeeper"] = 3398834,
 								["Addled Thug"] = 3158615,
 								["Venture Co. Alchemist"] = 18151,
 								["Crawler Mine"] = 25780,
@@ -3728,10 +3728,10 @@ _detalhes_database = {
 								[128] = 2358979,
 							},
 							["total_without_pet"] = 44297085.086966,
-							["on_hold"] = false,
+							["damage_taken"] = 1922200.086966,
 							["fight_component"] = true,
 							["total"] = 44297085.086966,
-							["damage_taken"] = 1922200.086966,
+							["last_dps"] = 0,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
 							["spells"] = {
@@ -3807,10 +3807,10 @@ _detalhes_database = {
 											["Shalebiter"] = 59536,
 											["Tormented Soul"] = 296745,
 											["Mine Rat"] = 165889,
-											["Mechanized Peacekeeper"] = 366128,
-											["Rixxa Fluxflame"] = 131319,
 											["Venture Co. Earthshaper"] = 246641,
+											["Rixxa Fluxflame"] = 131319,
 											["Venture Co. Mastermind"] = 6063,
+											["Mechanized Peacekeeper"] = 366128,
 											["Hired Assassin"] = 161883,
 											["Venture Co. Alchemist"] = 3032,
 											["Crawler Mine"] = 10052,
@@ -3953,10 +3953,10 @@ _detalhes_database = {
 											["Off-Duty Laborer"] = 1342415,
 											["Ordnance Specialist"] = 6776,
 											["Mine Rat"] = 766465,
-											["Mechanized Peacekeeper"] = 1327356,
-											["Tormented Soul"] = 1700427,
 											["Venture Co. Earthshaper"] = 1135180,
+											["Tormented Soul"] = 1700427,
 											["Venture Co. Mastermind"] = 22676,
+											["Mechanized Peacekeeper"] = 1327356,
 											["Shalebiter"] = 383938,
 											["Hired Assassin"] = 816515,
 											["Crawler Mine"] = 15728,
@@ -3993,7 +3993,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556301898,
 							["delay"] = 0,
 							["end_time"] = 1556303509,
@@ -4021,18 +4021,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1735786,
 							},
 							["total_without_pet"] = 12381279.040988,
 							["serial"] = "Creature-0-3021-1594-11693-130488-0003C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 18021069.040988,
 							["nome"] = "Mech Jockey",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4221,10 +4221,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 18021069.040988,
+							["on_hold"] = false,
 							["start_time"] = 1556303286,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [8]
 						{
 							["flag_original"] = 2632,
@@ -4249,16 +4249,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 2461418,
 							},
 							["total_without_pet"] = 5512108.018282,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 18289737.018282,
 							["last_event"] = 0,
@@ -4437,12 +4436,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 5512108.018282,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303370,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -4470,18 +4470,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1546724,
 							},
 							["total_without_pet"] = 5378131.039447,
 							["serial"] = "Creature-0-3021-1594-11693-136470-0003C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 15169378.039447,
 							["nome"] = "Refreshment Vendor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4498,9 +4498,9 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1532645,
-										["g_dmg"] = 0,
+										["MISS"] = 1,
 										["n_min"] = 0,
-										["a_amt"] = 50,
+										["g_dmg"] = 0,
 										["counter"] = 81,
 										["IMMUNE"] = 1,
 										["r_amt"] = 0,
@@ -4517,7 +4517,7 @@ _detalhes_database = {
 										["a_dmg"] = 1260657,
 										["n_amt"] = 58,
 										["total"] = 1532645,
-										["MISS"] = 1,
+										["a_amt"] = 50,
 									}, -- [1]
 									[268129] = {
 										["c_amt"] = 0,
@@ -4614,10 +4614,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 15169378.039447,
+							["on_hold"] = false,
 							["start_time"] = 1556303221,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [10]
 						{
 							["flag_original"] = 68168,
@@ -4639,16 +4639,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-129231-00004346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 3574848,
 							},
 							["total_without_pet"] = 4988102.00592,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 11036910.00592,
 							["last_event"] = 0,
@@ -4680,6 +4679,33 @@ _detalhes_database = {
 										["successful_casted"] = 31,
 										["b_dmg"] = 0,
 										["n_amt"] = 32,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[259856] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 259856,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 16,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -4740,42 +4766,16 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[259856] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 259856,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 16,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 4988102.00592,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303398,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -4802,18 +4802,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 3683025,
 							},
 							["total_without_pet"] = 4778241.03255,
 							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 15563763.03255,
 							["nome"] = "Mechanized Peacekeeper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4829,9 +4829,9 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1887065,
-										["g_dmg"] = 0,
+										["a_amt"] = 51,
 										["n_min"] = 0,
-										["MISS"] = 1,
+										["g_dmg"] = 0,
 										["counter"] = 77,
 										["DODGE"] = 2,
 										["r_amt"] = 0,
@@ -4848,7 +4848,7 @@ _detalhes_database = {
 										["a_dmg"] = 1711420,
 										["n_amt"] = 55,
 										["total"] = 1887065,
-										["a_amt"] = 51,
+										["MISS"] = 1,
 									}, -- [1]
 									[262066] = {
 										["c_amt"] = 0,
@@ -4945,11 +4945,242 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 15563763.03255,
+							["on_hold"] = false,
 							["start_time"] = 1556303280,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [12]
+						{
+							["flag_original"] = -2147483648,
+							["totalabsorbed"] = 0.004077,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Jabzan"] = 12365,
+								["Kaelektra"] = 57458,
+								["Ymdr"] = 14743,
+								["Ukondeath"] = 56908,
+								["Wäifú"] = 73116,
+								["Qiro"] = 72654,
+								["Kaiynn"] = 35693,
+								["Lilyfleur"] = 10087,
+								["Korzak"] = 18329,
+								["Civiumdeleri"] = 63348,
+								["Koichiga"] = 54698,
+								["Jackdaddy-Area52"] = 3183,
+								["Maikaikoa"] = 6309,
+								["Innsureantz"] = 21666,
+								["Screaminmeme"] = 16388,
+								["Grrburger"] = 53519,
+								["Moiratropos"] = 76459,
+								["Sedated"] = 29847,
+								["Otrera"] = 41915,
+								["Saccarage"] = 4010,
+								["Babeorc"] = 70980,
+								["Famousxd"] = 63946,
+								["Vittydot"] = 1350,
+								["Mesaí"] = 40617,
+								["Yorman"] = 69874,
+								["Kittenbuttz"] = 57105,
+								["Coolaed"] = 10746,
+								["Akunda"] = 1347026,
+								["Príde"] = 30930,
+								["Aurohn"] = 55378,
+								["Elfmarciano"] = 43929,
+								["Stupidhippie"] = 62310,
+								["Icemaam"] = 8013,
+								["Kynoshirah"] = 18718,
+								["Farsyte"] = 3458,
+								["Desertdust-Thrall"] = 37212,
+								["Bloodshót"] = 1088,
+								["Sekier-Zul'jin"] = 11514,
+								["Erraticsoulx"] = 10715,
+								["Ghostlóck"] = 14758,
+								["Burnabull"] = 111182,
+								["Serasong"] = 65615,
+								["Cavewar"] = 91261,
+								["Koiadin"] = 64350,
+								["Reduxx"] = 141887,
+								["Azunaø"] = 38260,
+								["Siusie"] = 5520,
+								["Necrothermia"] = 6793,
+								["Meepflay"] = 34624,
+								["Wirligig"] = 57350,
+								["Renewal"] = 50568,
+								["Isine"] = 117567,
+								["Pairatedr"] = 59378,
+								["Yik-KulTiras"] = 28138,
+								["Taranani"] = 77183,
+								["Macksamonk"] = 60505,
+								["Moomundur"] = 33817,
+								["Thunderrz"] = 72326,
+								["Avarina"] = 60961,
+								["Livinrage"] = 20925,
+								["Adinaran"] = 23770,
+								["Gitsumz"] = 17773,
+								["Vyrulence"] = 72585,
+								["Minaarah"] = 27271,
+								["Laax-Kilrogg"] = 63615,
+								["Justthedktip"] = 82431,
+								["Jdog"] = 11346,
+								["Doopy"] = 14441,
+								["Kåmali"] = 47942,
+								["Fraction"] = 3101,
+								["Okuza"] = 20266,
+								["Honkhonk"] = 10373,
+								["Decidious"] = 10488,
+								["Andrewzz"] = 74909,
+								["Useekmehelp"] = 46927,
+								["Sayokosan"] = 74670,
+								["Kanihealu-BleedingHollow"] = 2670,
+								["Furyious"] = 8167,
+								["Whatstheplan"] = 1878,
+								["Tilane"] = 104411,
+								["Shylow"] = 26539,
+								["Mayepaondel"] = 21777,
+								["Feircebeauty"] = 99538,
+								["Dawnzo"] = 21598,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4769058.004077,
+							["damage_taken"] = 0.004077,
+							["dps_started"] = true,
+							["total"] = 4769058.004077,
+							["timeMachine"] = 1,
+							["delay"] = 1556902548,
+							["nome"] = "Environment (Falling)",
+							["spells"] = {
+								["_ActorTable"] = {
+									[3] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 99538,
+										["targets"] = {
+											["Jabzan"] = 12365,
+											["Kaelektra"] = 57458,
+											["Ymdr"] = 14743,
+											["Ukondeath"] = 56908,
+											["Wäifú"] = 73116,
+											["Qiro"] = 72654,
+											["Kaiynn"] = 35693,
+											["Lilyfleur"] = 10087,
+											["Korzak"] = 18329,
+											["Civiumdeleri"] = 63348,
+											["Koichiga"] = 54698,
+											["Jackdaddy-Area52"] = 3183,
+											["Maikaikoa"] = 6309,
+											["Innsureantz"] = 21666,
+											["Screaminmeme"] = 16388,
+											["Grrburger"] = 53519,
+											["Moiratropos"] = 76459,
+											["Sedated"] = 29847,
+											["Otrera"] = 41915,
+											["Saccarage"] = 4010,
+											["Babeorc"] = 70980,
+											["Famousxd"] = 63946,
+											["Vittydot"] = 1350,
+											["Mesaí"] = 40617,
+											["Yorman"] = 69874,
+											["Kittenbuttz"] = 57105,
+											["Coolaed"] = 10746,
+											["Akunda"] = 1347026,
+											["Príde"] = 30930,
+											["Aurohn"] = 55378,
+											["Elfmarciano"] = 43929,
+											["Stupidhippie"] = 62310,
+											["Icemaam"] = 8013,
+											["Kynoshirah"] = 18718,
+											["Farsyte"] = 3458,
+											["Desertdust-Thrall"] = 37212,
+											["Bloodshót"] = 1088,
+											["Sekier-Zul'jin"] = 11514,
+											["Erraticsoulx"] = 10715,
+											["Ghostlóck"] = 14758,
+											["Burnabull"] = 111182,
+											["Serasong"] = 65615,
+											["Cavewar"] = 91261,
+											["Koiadin"] = 64350,
+											["Reduxx"] = 141887,
+											["Azunaø"] = 38260,
+											["Siusie"] = 5520,
+											["Necrothermia"] = 6793,
+											["Meepflay"] = 34624,
+											["Wirligig"] = 57350,
+											["Renewal"] = 50568,
+											["Isine"] = 117567,
+											["Pairatedr"] = 59378,
+											["Yik-KulTiras"] = 28138,
+											["Taranani"] = 77183,
+											["Macksamonk"] = 60505,
+											["Moomundur"] = 33817,
+											["Thunderrz"] = 72326,
+											["Avarina"] = 60961,
+											["Livinrage"] = 20925,
+											["Adinaran"] = 23770,
+											["Gitsumz"] = 17773,
+											["Vyrulence"] = 72585,
+											["Minaarah"] = 27271,
+											["Laax-Kilrogg"] = 63615,
+											["Justthedktip"] = 82431,
+											["Jdog"] = 11346,
+											["Doopy"] = 14441,
+											["Kåmali"] = 47942,
+											["Fraction"] = 3101,
+											["Okuza"] = 20266,
+											["Honkhonk"] = 10373,
+											["Decidious"] = 10488,
+											["Andrewzz"] = 74909,
+											["Useekmehelp"] = 46927,
+											["Sayokosan"] = 74670,
+											["Kanihealu-BleedingHollow"] = 2670,
+											["Furyious"] = 8167,
+											["Whatstheplan"] = 1878,
+											["Tilane"] = 104411,
+											["Shylow"] = 26539,
+											["Mayepaondel"] = 21777,
+											["Feircebeauty"] = 99538,
+											["Dawnzo"] = 21598,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4769058,
+										["n_min"] = 432,
+										["g_dmg"] = 0,
+										["counter"] = 115,
+										["total"] = 4769058,
+										["c_max"] = 0,
+										["id"] = 3,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 115,
+										["a_dmg"] = 0,
+										["spellschool"] = 3,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1556902548,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = true,
+							["start_time"] = 1556902391,
+							["serial"] = "",
+							["classe"] = "UNKNOW",
+						}, -- [13]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 0.010317,
@@ -4973,7 +5204,8 @@ _detalhes_database = {
 							["serial"] = "Vehicle-0-3021-1594-11693-129232-00004346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -4983,7 +5215,7 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["monster"] = true,
 							["end_time"] = 1556303509,
-							["damage_taken"] = 12406751.010317,
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["nome"] = "Mogul Razdunk",
 							["spells"] = {
@@ -5355,17 +5587,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["total"] = 4531815.010317,
-							["on_hold"] = false,
+							["damage_taken"] = 12406751.010317,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1556303413,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [13]
+						}, -- [14]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 56956.023848,
@@ -5387,18 +5618,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 2746941,
 							},
 							["total_without_pet"] = 3997078.023848,
 							["serial"] = "Creature-0-3021-1594-11693-130435-00024346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 12011639.023848,
 							["nome"] = "Addled Thug",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5532,11 +5763,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 12011639.023848,
+							["on_hold"] = false,
 							["start_time"] = 1556303177,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [14]
+							["dps_started"] = false,
+						}, -- [15]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 288068.033048,
@@ -5558,16 +5789,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-148716-0000434A96",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 2824246,
 							},
 							["total_without_pet"] = 3713817.033048,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 26128084.033048,
 							["last_event"] = 0,
@@ -5674,16 +5904,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 3713817.033048,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303307,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [15]
+						}, -- [16]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 54958.02334,
@@ -5703,16 +5934,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-134005-00004346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 511975,
 							},
 							["total_without_pet"] = 3313848.02334,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 1351452.02334,
 							["last_event"] = 0,
@@ -5782,16 +6012,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 3313848.02334,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303296,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [16]
+						}, -- [17]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 291985.05562,
@@ -5812,18 +6043,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1486300,
 							},
 							["total_without_pet"] = 3288555.05562,
 							["serial"] = "Creature-0-3021-1594-11693-134232-0000C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8337079.05562,
 							["nome"] = "Hired Assassin",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5882,6 +6113,38 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[269298] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 37801,
+										["targets"] = {
+											["Yorman"] = 73582,
+											["Paxington-Illidan"] = 75667,
+											["Andruww"] = 63785,
+											["Soozpriest-Area52"] = 60333,
+											["Nv"] = 156367,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 429734,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 37,
+										["total"] = 429734,
+										["c_max"] = 0,
+										["id"] = 269298,
+										["r_dmg"] = 0,
+										["a_dmg"] = 110806,
+										["m_crit"] = 0,
+										["a_amt"] = 7,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 37,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -5946,38 +6209,6 @@ _detalhes_database = {
 										["a_dmg"] = 518186,
 										["r_amt"] = 0,
 									},
-									[269298] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 37801,
-										["targets"] = {
-											["Yorman"] = 73582,
-											["Paxington-Illidan"] = 75667,
-											["Andruww"] = 63785,
-											["Soozpriest-Area52"] = 60333,
-											["Nv"] = 156367,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 429734,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 37,
-										["total"] = 429734,
-										["c_max"] = 0,
-										["id"] = 269298,
-										["r_dmg"] = 0,
-										["a_dmg"] = 110806,
-										["m_crit"] = 0,
-										["a_amt"] = 7,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 37,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
 								},
 								["tipo"] = 2,
 							},
@@ -5987,11 +6218,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8337079.05562,
+							["on_hold"] = false,
 							["start_time"] = 1556303279,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [17]
+							["dps_started"] = false,
+						}, -- [18]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 86574.019716,
@@ -6015,16 +6246,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 1995531,
 							},
 							["total_without_pet"] = 2752200.019716,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 9934989.019716,
 							["last_event"] = 0,
@@ -6188,16 +6418,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 2752200.019716,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303386,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [18]
+						}, -- [19]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 132692.051933,
@@ -6217,18 +6448,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 2145266,
 							},
 							["total_without_pet"] = 2572251.051933,
 							["serial"] = "Creature-0-3021-1594-11693-130436-00074346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 11005241.051933,
 							["nome"] = "Off-Duty Laborer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6306,141 +6537,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 11005241.051933,
+							["on_hold"] = false,
 							["start_time"] = 1556303344,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [19]
-						{
-							["flag_original"] = -2147483648,
-							["totalabsorbed"] = 0.004077,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Ymdr"] = 14743,
-								["Icemaam"] = 8013,
-								["Fraction"] = 3101,
-								["Laax-Kilrogg"] = 63615,
-								["Bloodshót"] = 1088,
-								["Sekier-Zul'jin"] = 11514,
-								["Erraticsoulx"] = 10715,
-								["Burnabull"] = 111182,
-								["Korzak"] = 18329,
-								["Necrothermia"] = 6793,
-								["Grrburger"] = 53519,
-								["Sedated"] = 29847,
-								["Thunderrz"] = 72326,
-								["Renewal"] = 50568,
-								["Saccarage"] = 4010,
-								["Serasong"] = 65615,
-								["Kåmali"] = 47942,
-								["Doopy"] = 14441,
-								["Dawnzo"] = 9774,
-								["Desertdust-Thrall"] = 37212,
-								["Shylow"] = 26539,
-								["Okuza"] = 20266,
-								["Babeorc"] = 70980,
-								["Andrewzz"] = 74909,
-								["Yorman"] = 69874,
-								["Sayokosan"] = 74670,
-								["Kanihealu-BleedingHollow"] = 2670,
-								["Feircebeauty"] = 99538,
-								["Whatstheplan"] = 1878,
-								["Minaarah"] = 27271,
-								["Akunda"] = 1347026,
-								["Jdog"] = 11346,
-								["Furyious"] = 8167,
-								["Lilyfleur"] = 10087,
-							},
-							["pets"] = {
-							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 2479568.004077,
-							["damage_taken"] = 0.004077,
-							["dps_started"] = true,
-							["total"] = 2479568.004077,
-							["timeMachine"] = 1,
-							["delay"] = 1556771483,
-							["nome"] = "Environment (Falling)",
-							["spells"] = {
-								["_ActorTable"] = {
-									[3] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 99538,
-										["targets"] = {
-											["Ymdr"] = 14743,
-											["Icemaam"] = 8013,
-											["Fraction"] = 3101,
-											["Laax-Kilrogg"] = 63615,
-											["Bloodshót"] = 1088,
-											["Sekier-Zul'jin"] = 11514,
-											["Erraticsoulx"] = 10715,
-											["Burnabull"] = 111182,
-											["Korzak"] = 18329,
-											["Necrothermia"] = 6793,
-											["Grrburger"] = 53519,
-											["Sedated"] = 29847,
-											["Thunderrz"] = 72326,
-											["Renewal"] = 50568,
-											["Saccarage"] = 4010,
-											["Serasong"] = 65615,
-											["Kåmali"] = 47942,
-											["Doopy"] = 14441,
-											["Dawnzo"] = 9774,
-											["Desertdust-Thrall"] = 37212,
-											["Shylow"] = 26539,
-											["Okuza"] = 20266,
-											["Babeorc"] = 70980,
-											["Andrewzz"] = 74909,
-											["Yorman"] = 69874,
-											["Sayokosan"] = 74670,
-											["Kanihealu-BleedingHollow"] = 2670,
-											["Feircebeauty"] = 99538,
-											["Whatstheplan"] = 1878,
-											["Minaarah"] = 27271,
-											["Akunda"] = 1347026,
-											["Jdog"] = 11346,
-											["Furyious"] = 8167,
-											["Lilyfleur"] = 10087,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2479568,
-										["n_min"] = 1088,
-										["g_dmg"] = 0,
-										["counter"] = 54,
-										["total"] = 2479568,
-										["c_max"] = 0,
-										["id"] = 3,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_amt"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 54,
-										["a_dmg"] = 0,
-										["spellschool"] = 3,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["friendlyfire"] = {
-							},
-							["last_event"] = 1556771483,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = true,
-							["start_time"] = 1556771370,
-							["serial"] = "",
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 						}, -- [20]
 						{
 							["flag_original"] = 2632,
@@ -6461,16 +6561,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-129802-0001C346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 677776,
 							},
 							["total_without_pet"] = 2274961.010841,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 4504844.010841,
 							["last_event"] = 0,
@@ -6510,6 +6609,33 @@ _detalhes_database = {
 										["a_dmg"] = 78493,
 										["r_amt"] = 0,
 									}, -- [1]
+									[258627] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 258627,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
 									[271526] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -6532,6 +6658,33 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 6,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[257582] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257582,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["m_amt"] = 0,
@@ -6570,69 +6723,16 @@ _detalhes_database = {
 										["a_dmg"] = 809842,
 										["r_amt"] = 0,
 									},
-									[257582] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 257582,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 4,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[258627] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 258627,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 3,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 2274961.010841,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303455,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -6659,16 +6759,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 1517704,
 							},
 							["total_without_pet"] = 2061572.042356,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 9167818.042356,
 							["last_event"] = 0,
@@ -6769,12 +6868,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 2061572.042356,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303395,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -6799,16 +6899,15 @@ _detalhes_database = {
 							["pets"] = {
 								"Earthrager <Azerokk>", -- [1]
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 1759965,
 							},
 							["total_without_pet"] = 1759965.009132,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 9712479.009132,
 							["last_event"] = 0,
@@ -6955,12 +7054,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 2059920.009132,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303354,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -6982,7 +7082,8 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -6993,7 +7094,7 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["monster"] = true,
 							["end_time"] = 1556303509,
-							["damage_taken"] = 0.014476,
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["nome"] = "[*] Homing Missile",
 							["spells"] = {
@@ -7036,13 +7137,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["total"] = 1625318.014476,
-							["on_hold"] = false,
+							["damage_taken"] = 0.014476,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1556303457,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -7068,18 +7168,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 46558,
 							},
 							["total_without_pet"] = 1529272.029344,
 							["serial"] = "Creature-0-3021-1594-11693-148893-0000434A9D",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8446575.029344,
 							["nome"] = "Tormented Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7158,10 +7258,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8446575.029344,
+							["on_hold"] = false,
 							["start_time"] = 1556303412,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [25]
 						{
 							["flag_original"] = 2632,
@@ -7176,7 +7276,8 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -7186,7 +7287,7 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["monster"] = true,
 							["end_time"] = 1556303509,
-							["damage_taken"] = 0.008633,
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["nome"] = "[*] Gatling Gun",
 							["spells"] = {
@@ -7225,13 +7326,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["total"] = 1501503.008633,
-							["on_hold"] = false,
+							["damage_taken"] = 0.008633,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1556303456,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -7256,7 +7356,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-132056-0000434DD8",
 							["pets"] = {
 							},
-							["damage_taken"] = 4167870.01599,
+							["boss_fight_component"] = true,
 							["dps_started"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -7266,9 +7366,10 @@ _detalhes_database = {
 							["monster"] = true,
 							["fight_component"] = true,
 							["total"] = 1468429.01599,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["boss_fight_component"] = true,
+							["nome"] = "Venture Co. Skyscorcher",
 							["spells"] = {
 								["_ActorTable"] = {
 									[260372] = {
@@ -7423,13 +7524,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["end_time"] = 1556303509,
-							["nome"] = "Venture Co. Skyscorcher",
+							["damage_taken"] = 4167870.01599,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["start_time"] = 1556303412,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -7449,16 +7549,15 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 99521,
 							},
 							["total_without_pet"] = 1344136.006707,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.006707,
 							["last_event"] = 0,
@@ -7500,12 +7599,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 1344136.006707,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303473,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -7524,16 +7624,15 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 331198,
 							},
 							["total_without_pet"] = 1172220.047716,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.047716,
 							["last_event"] = 0,
@@ -7574,12 +7673,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 1172220.047716,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303485,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -7598,15 +7698,14 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-129246-0000434969",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 976310.007925,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 62373.007925,
 							["last_event"] = 0,
@@ -7644,12 +7743,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 976310.007925,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303494,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -7673,18 +7773,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 496438,
 							},
 							["total_without_pet"] = 968859.010106,
 							["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1012194.010106,
 							["nome"] = "Venture Co. War Machine",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7842,10 +7942,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1012194.010106,
+							["on_hold"] = false,
 							["start_time"] = 1556303449,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [31]
 						{
 							["flag_original"] = 2632,
@@ -7864,18 +7964,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 605005,
 							},
 							["total_without_pet"] = 830967.007888,
 							["serial"] = "Creature-0-3021-1594-11693-130437-00034346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 4054362.007888,
 							["nome"] = "Mine Rat",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7951,10 +8051,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4054362.007888,
+							["on_hold"] = false,
 							["start_time"] = 1556303452,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [32]
 						{
 							["flag_original"] = 2632,
@@ -7970,15 +8070,14 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 796989.006188,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.006188,
 							["last_event"] = 0,
@@ -8019,12 +8118,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 796989.006188,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303488,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -8043,18 +8143,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 41986,
 							},
 							["total_without_pet"] = 707919.002752,
 							["serial"] = "Creature-0-3021-1594-11693-133963-00074346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 31587.002752,
 							["nome"] = "Test Subject",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8124,10 +8224,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 31587.002752,
+							["on_hold"] = false,
 							["start_time"] = 1556303501,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [34]
 						{
 							["flag_original"] = 8466,
@@ -8154,10 +8254,10 @@ _detalhes_database = {
 								[128] = 73493,
 							},
 							["total_without_pet"] = 630676.050485,
-							["on_hold"] = false,
+							["damage_taken"] = 97631.050485,
 							["fight_component"] = true,
 							["total"] = 630676.050485,
-							["damage_taken"] = 97631.050485,
+							["last_dps"] = 0,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Voidling <Soozpriest-Area52>",
 							["spells"] = {
@@ -8204,7 +8304,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303383,
 							["delay"] = 0,
 							["end_time"] = 1556303509,
@@ -8223,18 +8323,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 147057,
 							},
 							["total_without_pet"] = 624811.003477,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.003477,
 							["nome"] = "[*] Toxic Sludge",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8279,10 +8379,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.003477,
+							["on_hold"] = false,
 							["start_time"] = 1556303493,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [36]
 						{
 							["flag_original"] = 2632,
@@ -8304,16 +8404,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-148894-00004348B2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 370524,
 							},
 							["total_without_pet"] = 541033.028712,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 7207752.028712,
 							["last_event"] = 0,
@@ -8334,9 +8433,9 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 412931,
-										["g_dmg"] = 0,
+										["MISS"] = 1,
 										["n_min"] = 0,
-										["a_amt"] = 57,
+										["g_dmg"] = 0,
 										["counter"] = 128,
 										["IMMUNE"] = 4,
 										["r_amt"] = 0,
@@ -8353,7 +8452,7 @@ _detalhes_database = {
 										["a_dmg"] = 285760,
 										["n_amt"] = 85,
 										["total"] = 412931,
-										["MISS"] = 1,
+										["a_amt"] = 57,
 									}, -- [1]
 									[296142] = {
 										["c_amt"] = 0,
@@ -8388,12 +8487,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 541033.028712,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303377,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -8414,18 +8514,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 164488,
 							},
 							["total_without_pet"] = 507780.00702,
 							["serial"] = "Creature-0-3021-1594-11693-133430-00034346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 60485.00702,
 							["nome"] = "Venture Co. Mastermind",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8496,10 +8596,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 60485.00702,
+							["on_hold"] = false,
 							["start_time"] = 1556303489,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [38]
 						{
 							["flag_original"] = 2632,
@@ -8516,18 +8616,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 71991,
 							},
 							["total_without_pet"] = 495540.0071,
 							["serial"] = "Creature-0-3021-1594-11693-137029-00044346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8230.0071,
 							["nome"] = "Ordnance Specialist",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8627,11 +8727,296 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8230.0071,
+							["on_hold"] = false,
 							["start_time"] = 1556303470,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [39]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00278,
+							["damage_from"] = {
+								["Harbor Saurid"] = true,
+								["Amani Thug"] = true,
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Harbor Saurid"] = 21189,
+								["Amani Thug"] = 333679,
+								["Temple Beetle"] = 2793,
+								["Gurubashi Thug"] = 61346,
+							},
+							["pets"] = {
+								"Hiro <Salektria>", -- [1]
+							},
+							["spec"] = 254,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 404563.00278,
+							["on_hold"] = true,
+							["dps_started"] = true,
+							["total"] = 419007.00278,
+							["classe"] = "HUNTER",
+							["serial"] = "Player-9-09D19390",
+							["timeMachine"] = 2,
+							["spells"] = {
+								["_ActorTable"] = {
+									[120361] = {
+										["c_amt"] = 22,
+										["b_amt"] = 0,
+										["c_dmg"] = 31359,
+										["g_amt"] = 0,
+										["n_max"] = 714,
+										["targets"] = {
+											["Amani Thug"] = 59136,
+											["Gurubashi Thug"] = 24933,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 52710,
+										["n_min"] = 712,
+										["g_dmg"] = 0,
+										["counter"] = 96,
+										["total"] = 84069,
+										["c_max"] = 1426,
+										["id"] = 120361,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1425,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 74,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[257620] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 38237,
+										["g_amt"] = 0,
+										["n_max"] = 2216,
+										["targets"] = {
+											["Harbor Saurid"] = 15508,
+											["Amani Thug"] = 104122,
+											["Temple Beetle"] = 2793,
+											["Gurubashi Thug"] = 8862,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 93048,
+										["n_min"] = 2214,
+										["g_dmg"] = 0,
+										["counter"] = 51,
+										["total"] = 131285,
+										["c_max"] = 4432,
+										["id"] = 257620,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2793,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 42,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[19434] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7337,
+										["targets"] = {
+											["Gurubashi Thug"] = 7337,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7337,
+										["n_min"] = 7337,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7337,
+										["c_max"] = 0,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									},
+									[278565] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 11365,
+										["g_amt"] = 0,
+										["n_max"] = 710,
+										["targets"] = {
+											["Harbor Saurid"] = 5681,
+											["Amani Thug"] = 26268,
+											["Gurubashi Thug"] = 2840,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 23424,
+										["n_min"] = 709,
+										["g_dmg"] = 0,
+										["counter"] = 41,
+										["total"] = 34789,
+										["c_max"] = 1421,
+										["id"] = 278565,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1420,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 33,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[212680] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 88480,
+										["g_amt"] = 0,
+										["n_max"] = 11060,
+										["targets"] = {
+											["Amani Thug"] = 99540,
+											["Gurubashi Thug"] = 11060,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 22120,
+										["n_min"] = 11060,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 110600,
+										["c_max"] = 22120,
+										["id"] = 212680,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 22120,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[280384] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1412,
+										["targets"] = {
+											["Amani Thug"] = 3631,
+											["Gurubashi Thug"] = 1210,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4841,
+										["n_min"] = 1009,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 4841,
+										["c_max"] = 0,
+										["id"] = 280384,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[56641] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3543,
+										["targets"] = {
+											["Amani Thug"] = 3543,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3543,
+										["n_min"] = 3543,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 3543,
+										["c_max"] = 0,
+										["id"] = 56641,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[75] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 10171,
+										["g_amt"] = 0,
+										["n_max"] = 2586,
+										["targets"] = {
+											["Amani Thug"] = 22995,
+											["Gurubashi Thug"] = 5104,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17928,
+										["n_min"] = 2525,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 28099,
+										["c_max"] = 5104,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 5067,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1556899572,
+							["damage_taken"] = 96647.00278,
+							["start_time"] = 1556899532,
+							["delay"] = 1556899572,
+							["nome"] = "Salektria",
+						}, -- [40]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.024324,
@@ -8649,16 +9034,15 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130635-0000C346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 390896,
 							},
 							["total_without_pet"] = 390896.024324,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 3378633.024324,
 							["last_event"] = 0,
@@ -8726,16 +9110,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 390896.024324,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303447,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [40]
+						}, -- [41]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 18459.012839,
@@ -8893,7 +9278,7 @@ _detalhes_database = {
 							["start_time"] = 1556303477,
 							["delay"] = 0,
 							["damage_taken"] = 1126211.012839,
-						}, -- [41]
+						}, -- [42]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.009679,
@@ -8908,18 +9293,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 166113,
 							},
 							["total_without_pet"] = 223370.009679,
 							["serial"] = "Creature-0-3021-1594-11693-133432-0006C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 79058.009679,
 							["nome"] = "Venture Co. Alchemist",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9045,11 +9430,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 79058.009679,
+							["on_hold"] = false,
 							["start_time"] = 1556303488,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [42]
+							["dps_started"] = false,
+						}, -- [43]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 14032.018554,
@@ -9064,17 +9449,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 189631.018554,
 							["serial"] = "Creature-0-3021-1594-11693-133482-00054346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 37967.018554,
 							["nome"] = "Crawler Mine",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9142,11 +9527,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 37967.018554,
+							["on_hold"] = false,
 							["start_time"] = 1556303500,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [43]
+							["dps_started"] = false,
+						}, -- [44]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 519.015176,
@@ -9160,16 +9545,15 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 28476,
 							},
 							["total_without_pet"] = 180783.015176,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.015176,
 							["last_event"] = 0,
@@ -9209,16 +9593,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 180783.015176,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303505,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [44]
+						}, -- [45]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.01412,
@@ -9231,7 +9616,8 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-141303-0000C34D7A",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -9240,7 +9626,7 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["monster"] = true,
 							["end_time"] = 1556303509,
-							["damage_taken"] = 0.01412,
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["nome"] = "B.O.O.M.B.A.",
 							["spells"] = {
@@ -9304,17 +9690,117 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["total"] = 169068.01412,
-							["on_hold"] = false,
+							["damage_taken"] = 0.01412,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1556303504,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [45]
+						}, -- [46]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.007575,
+							["damage_from"] = {
+								["Hiro <Salektria>"] = true,
+								["Salektria"] = true,
+							},
+							["targets"] = {
+								["Hiro <Salektria>"] = 59950,
+								["Salektria"] = 68495,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 128445.007575,
+							["on_hold"] = true,
+							["dps_started"] = true,
+							["total"] = 128445.007575,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3021-1642-9777-120843-0001CBB407",
+							["timeMachine"] = 3,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3178,
+										["targets"] = {
+											["Hiro <Salektria>"] = 36285,
+											["Hiro"] = 0,
+											["Salektria"] = 40366,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 76651,
+										["n_min"] = 1821,
+										["g_dmg"] = 0,
+										["counter"] = 35,
+										["total"] = 76651,
+										["c_max"] = 0,
+										["DODGE"] = 4,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 31,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[269837] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6318,
+										["targets"] = {
+											["Hiro <Salektria>"] = 23665,
+											["Salektria"] = 28129,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 51794,
+										["n_min"] = 4400,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 51794,
+										["c_max"] = 0,
+										["id"] = 269837,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1556898827,
+							["damage_taken"] = 333679.007575,
+							["start_time"] = 1556898802,
+							["delay"] = 1556898827,
+							["nome"] = "Amani Thug",
+						}, -- [47]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.023097,
@@ -9328,15 +9814,14 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 126751.023097,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 55890.023097,
 							["last_event"] = 0,
@@ -9432,16 +9917,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 126751.023097,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303497,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [46]
+						}, -- [48]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 14286.023163,
@@ -9458,18 +9944,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 125854,
 							},
 							["total_without_pet"] = 125854.023163,
 							["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1144821.023163,
 							["nome"] = "Expert Technician",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9567,11 +10053,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1144821.023163,
+							["on_hold"] = false,
 							["start_time"] = 1556303470,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [47]
+							["dps_started"] = false,
+						}, -- [49]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.010929,
@@ -9587,18 +10073,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 54602,
 							},
 							["total_without_pet"] = 95286.010929,
 							["serial"] = "Creature-0-3021-1594-11693-133345-0002C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 25540.010929,
 							["nome"] = "Feckless Assistant",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9695,11 +10181,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 25540.010929,
+							["on_hold"] = false,
 							["start_time"] = 1556303492,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [48]
+							["dps_started"] = false,
+						}, -- [50]
 						{
 							["flag_original"] = 8466,
 							["totalabsorbed"] = 0.019865,
@@ -9719,7 +10205,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-128142-00004346EC",
 							["dps_started"] = false,
 							["end_time"] = 1556303509,
-							["on_hold"] = false,
+							["damage_taken"] = 0.019865,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Unknown <Soozpriest-Area52>",
 							["spells"] = {
@@ -9755,17 +10241,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.019865,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 88517.019865,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303487,
 							["delay"] = 0,
 							["fight_component"] = true,
-						}, -- [49]
+						}, -- [51]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.008532,
@@ -9786,7 +10272,7 @@ _detalhes_database = {
 							["total"] = 70260.008532,
 							["nome"] = "Zco",
 							["delay"] = 1556755673,
-							["timeMachine"] = 2,
+							["timeMachine"] = 4,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -9889,7 +10375,7 @@ _detalhes_database = {
 							["start_time"] = 1556755667,
 							["serial"] = "Player-9-0B49FBA0",
 							["classe"] = "MONK",
-						}, -- [50]
+						}, -- [52]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.004288,
@@ -9910,7 +10396,7 @@ _detalhes_database = {
 							["total"] = 61343.004288,
 							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3022-2070-31933-147440-00014A45F8",
-							["timeMachine"] = 3,
+							["timeMachine"] = 5,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -9958,7 +10444,7 @@ _detalhes_database = {
 							["start_time"] = 1556760546,
 							["delay"] = 1556760546,
 							["nome"] = "Blazing Fireguard",
-						}, -- [51]
+						}, -- [53]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.014092,
@@ -9970,15 +10456,14 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 55890.014092,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.014092,
 							["last_event"] = 0,
@@ -10016,16 +10501,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 55890.014092,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303495,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [52]
+						}, -- [54]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.013661,
@@ -10036,17 +10522,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 43774.013661,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.013661,
 							["nome"] = "[*] Tear Gas",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10089,11 +10575,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.013661,
+							["on_hold"] = false,
 							["start_time"] = 1556303502,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [53]
+							["dps_started"] = false,
+						}, -- [55]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.001285,
@@ -10113,7 +10599,7 @@ _detalhes_database = {
 							["total"] = 43516.001285,
 							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3022-2070-31933-147601-0000CA45F9",
-							["timeMachine"] = 4,
+							["timeMachine"] = 6,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -10160,7 +10646,7 @@ _detalhes_database = {
 							["start_time"] = 1556760137,
 							["delay"] = 1556760137,
 							["nome"] = "Zandalari Warrior",
-						}, -- [54]
+						}, -- [56]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.003935,
@@ -10172,7 +10658,6 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["timeMachine"] = 12,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -10184,7 +10669,6 @@ _detalhes_database = {
 							["serial"] = "Player-9-0A72E9F0",
 							["nome"] = "Kazugaki",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -10207,13 +10691,13 @@ _detalhes_database = {
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									}, -- [1]
 									[188838] = {
 										["c_amt"] = 0,
@@ -10236,13 +10720,13 @@ _detalhes_database = {
 										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -10265,26 +10749,130 @@ _detalhes_database = {
 										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 23561,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 23561,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["friendlyfire"] = {
 							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1556771478,
 							["damage_taken"] = 2993.003935,
 							["start_time"] = 1556771474,
 							["delay"] = 1556771478,
-							["last_event"] = 1556771478,
-						}, -- [55]
+							["timeMachine"] = 7,
+						}, -- [57]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004216,
+							["damage_from"] = {
+								["Salektria"] = true,
+								["Zco"] = true,
+								["Kazugaki"] = true,
+							},
+							["targets"] = {
+								["Salektria"] = 25545,
+								["Zco"] = 4226,
+								["Kazugaki"] = 2993,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 32764.004216,
+							["damage_taken"] = 126057.004216,
+							["dps_started"] = true,
+							["total"] = 32764.004216,
+							["nome"] = "Harbor Saurid",
+							["delay"] = 1556898833,
+							["timeMachine"] = 8,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2707,
+										["g_amt"] = 0,
+										["n_max"] = 1573,
+										["targets"] = {
+											["Salektria"] = 15186,
+											["Zco"] = 4226,
+											["Kazugaki"] = 2993,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 19698,
+										["n_min"] = 943,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 22405,
+										["c_max"] = 2707,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2707,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+									[24331] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2152,
+										["targets"] = {
+											["Salektria"] = 10359,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10359,
+										["n_min"] = 1109,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 10359,
+										["c_max"] = 0,
+										["id"] = 24331,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1556898833,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = true,
+							["start_time"] = 1556898811,
+							["serial"] = "Creature-0-3021-1642-9777-126023-00004A2DCB",
+							["classe"] = "UNKNOW",
+						}, -- [58]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.006736,
@@ -10305,7 +10893,7 @@ _detalhes_database = {
 							["total"] = 25028.006736,
 							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3022-2070-31933-146353-00004A45F8",
-							["timeMachine"] = 5,
+							["timeMachine"] = 9,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -10351,7 +10939,7 @@ _detalhes_database = {
 							["start_time"] = 1556760551,
 							["delay"] = 1556760551,
 							["nome"] = "Zocalo Shopper",
-						}, -- [56]
+						}, -- [59]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.006101,
@@ -10373,7 +10961,7 @@ _detalhes_database = {
 							["total"] = 20820.006101,
 							["delay"] = 1556755432,
 							["nome"] = "Dazarian Stalker",
-							["timeMachine"] = 6,
+							["timeMachine"] = 10,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -10419,7 +11007,300 @@ _detalhes_database = {
 							["start_time"] = 1556755432,
 							["serial"] = "Creature-0-3021-1642-9777-130489-0000492800",
 							["monster"] = true,
-						}, -- [57]
+						}, -- [60]
+						{
+							["flag_original"] = 4648,
+							["totalabsorbed"] = 0.008979,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Sandfury Thug"] = 6798,
+								["Gurubashi Thug"] = 8010,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 14808.008979,
+							["damage_taken"] = 14128.008979,
+							["dps_started"] = true,
+							["total"] = 14808.008979,
+							["last_event"] = 1556899625,
+							["delay"] = 1556899625,
+							["timeMachine"] = 11,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1943,
+										["g_amt"] = 0,
+										["n_max"] = 971,
+										["targets"] = {
+											["Sandfury Thug"] = 6798,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4855,
+										["n_min"] = 971,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 6798,
+										["c_max"] = 1943,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 1943,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+									[17253] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 5339,
+										["g_amt"] = 0,
+										["n_max"] = 2671,
+										["targets"] = {
+											["Gurubashi Thug"] = 8010,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2671,
+										["n_min"] = 2671,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 8010,
+										["c_max"] = 5339,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["c_min"] = 5339,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Hiro",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = true,
+							["start_time"] = 1556899614,
+							["serial"] = "Pet-0-3021-1642-9777-18130-04024D6B44",
+							["classe"] = "PET",
+						}, -- [61]
+						{
+							["flag_original"] = 4376,
+							["totalabsorbed"] = 0.004891,
+							["damage_from"] = {
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+								["Amani Thug"] = 14444,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 14444.004891,
+							["classe"] = "PET",
+							["dps_started"] = true,
+							["total"] = 14444.004891,
+							["serial"] = "Pet-0-3021-1642-9777-18130-01024D6B44",
+							["ownerName"] = "Salektria",
+							["timeMachine"] = 12,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3886,
+										["g_amt"] = 0,
+										["n_max"] = 973,
+										["targets"] = {
+											["Amani Thug"] = 7772,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3886,
+										["n_min"] = 971,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 7772,
+										["c_max"] = 1943,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1943,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[17253] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2669,
+										["targets"] = {
+											["Amani Thug"] = 6672,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6672,
+										["n_min"] = 1334,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 6672,
+										["c_max"] = 0,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1556898812,
+							["damage_taken"] = 59950.004891,
+							["start_time"] = 1556898803,
+							["delay"] = 1556898812,
+							["nome"] = "Hiro <Salektria>",
+						}, -- [62]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.008981,
+							["damage_from"] = {
+								["Salektria"] = true,
+								["Hiro"] = true,
+							},
+							["targets"] = {
+								["Hiro"] = 10816,
+								["Salektria"] = 2607,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 13423.008981,
+							["damage_taken"] = 69356.008981,
+							["dps_started"] = true,
+							["total"] = 13423.008981,
+							["last_event"] = 1556899574,
+							["delay"] = 1556899574,
+							["timeMachine"] = 13,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2607,
+										["targets"] = {
+											["Hiro"] = 10816,
+											["Salektria"] = 2607,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13423,
+										["n_min"] = 1789,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 13423,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
+									}, -- [1]
+									[265754] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Hiro"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 265754,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Gurubashi Thug",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = true,
+							["start_time"] = 1556899560,
+							["serial"] = "Creature-0-3021-1642-9777-125458-00014C6053",
+							["classe"] = "UNKNOW",
+						}, -- [63]
 						{
 							["flag_original"] = 1320,
 							["totalabsorbed"] = 0.007571,
@@ -10484,77 +11365,74 @@ _detalhes_database = {
 							["damage_taken"] = 0.007571,
 							["start_time"] = 1556759766,
 							["delay"] = 1556759767,
-							["timeMachine"] = 7,
-						}, -- [58]
+							["timeMachine"] = 14,
+						}, -- [64]
 						{
 							["flag_original"] = 2600,
-							["totalabsorbed"] = 0.004216,
+							["totalabsorbed"] = 0.006054,
 							["damage_from"] = {
-								["Zco"] = true,
-								["Kazugaki"] = true,
+								["Hiro"] = true,
 							},
 							["targets"] = {
-								["Zco"] = 4226,
-								["Kazugaki"] = 2993,
+								["Hiro"] = 3312,
 							},
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 7219.004216,
-							["damage_taken"] = 104868.004216,
+							["total_without_pet"] = 3312.006054,
+							["damage_taken"] = 6798.006054,
 							["dps_started"] = true,
-							["total"] = 7219.004216,
-							["nome"] = "Harbor Saurid",
-							["delay"] = 1556771478,
-							["timeMachine"] = 8,
+							["total"] = 3312.006054,
+							["last_event"] = 1556899593,
+							["delay"] = 1556899593,
+							["timeMachine"] = 15,
 							["spells"] = {
 								["_ActorTable"] = {
-									{
+									[268800] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1144,
+										["n_max"] = 3312,
 										["targets"] = {
-											["Zco"] = 4226,
-											["Kazugaki"] = 2993,
+											["Hiro"] = 3312,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 7219,
-										["n_min"] = 943,
+										["n_dmg"] = 3312,
+										["n_min"] = 3312,
 										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 7219,
+										["counter"] = 1,
+										["total"] = 3312,
 										["c_max"] = 0,
-										["id"] = 1,
+										["id"] = 268800,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["a_amt"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 7,
+										["n_amt"] = 1,
 										["a_dmg"] = 0,
 										["spellschool"] = 1,
-									}, -- [1]
+									},
 								},
 								["tipo"] = 2,
 							},
+							["nome"] = "Sandfury Thug",
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1556771478,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = true,
-							["start_time"] = 1556771470,
-							["serial"] = "Creature-0-3021-1642-9777-126023-00004A2DCB",
+							["start_time"] = 1556899593,
+							["serial"] = "Creature-0-3021-1642-9777-125460-00004C30D8",
 							["classe"] = "UNKNOW",
-						}, -- [59]
+						}, -- [65]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.006711,
@@ -10574,7 +11452,7 @@ _detalhes_database = {
 							["total"] = 2235.006711,
 							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3022-2070-31933-147368-00004A45F7",
-							["timeMachine"] = 9,
+							["timeMachine"] = 16,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -10619,7 +11497,7 @@ _detalhes_database = {
 							["start_time"] = 1556760137,
 							["delay"] = 1556760137,
 							["nome"] = "General Rakera",
-						}, -- [60]
+						}, -- [66]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006744,
@@ -10683,8 +11561,8 @@ _detalhes_database = {
 							["damage_taken"] = 0.006744,
 							["start_time"] = 1556667030,
 							["delay"] = 1556667030,
-							["timeMachine"] = 10,
-						}, -- [61]
+							["timeMachine"] = 17,
+						}, -- [67]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.008745,
@@ -10705,7 +11583,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 20.008745,
 							["serial"] = "Creature-0-3021-1642-9777-126618-00004A36FB",
-							["timeMachine"] = 11,
+							["timeMachine"] = 18,
 							["nome"] = "Bloodraged Pterrordax",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10751,7 +11629,7 @@ _detalhes_database = {
 							["start_time"] = 1556759950,
 							["delay"] = 1556759972,
 							["classe"] = "UNKNOW",
-						}, -- [62]
+						}, -- [68]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.068855,
@@ -10762,15 +11640,14 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.068855,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.068855,
 							["last_event"] = 0,
@@ -10807,16 +11684,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 0.068855,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303503,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [63]
+						}, -- [69]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.017527,
@@ -10826,17 +11704,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.017527,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.017527,
 							["nome"] = "[*] Mining Charge",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10880,11 +11758,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.017527,
+							["on_hold"] = false,
 							["start_time"] = 1556303506,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [64]
+							["dps_started"] = false,
+						}, -- [70]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.00938,
@@ -10895,15 +11773,14 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-138369-00084346C2",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00938,
+							["dps_started"] = false,
 							["monster"] = true,
-							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["damage_taken"] = 0.00938,
 							["last_event"] = 0,
@@ -10940,16 +11817,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["boss_fight_component"] = true,
 							["total"] = 0.00938,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556303506,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
-						}, -- [65]
+						}, -- [71]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.009145,
@@ -10969,24 +11847,24 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["serial"] = "Creature-0-3021-1594-11693-144409-00064346C2",
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["nome"] = "Junkpile Roach",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 91.009145,
 							["total"] = 0.009145,
 							["friendlyfire"] = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 91.009145,
+							["on_hold"] = false,
 							["start_time"] = 1556303503,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
-						}, -- [66]
+						}, -- [72]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.008995,
@@ -11003,7 +11881,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.008995,
 							["dps_started"] = false,
 							["total"] = 0.008995,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 1878.008995,
 							["nome"] = "Whatstheplan",
 							["spells"] = {
@@ -11012,16 +11890,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-9-08003593",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [67]
+						}, -- [73]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.008768,
@@ -11038,7 +11916,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.008768,
 							["dps_started"] = false,
 							["total"] = 0.008768,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Burnabull",
 							["spells"] = {
@@ -11047,16 +11925,156 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-078DE5B4",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 111182.008768,
-						}, -- [68]
+						}, -- [74]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00866,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00866,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00866,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B5DC31B",
+							["nome"] = "Famousxd",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 63946.00866,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [75]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.008627,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008627,
+							["dps_started"] = false,
+							["total"] = 0.008627,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Stupidhippie",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 62310.008627,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0A9DE680",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [76]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.008607,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008607,
+							["dps_started"] = false,
+							["total"] = 0.008607,
+							["on_hold"] = false,
+							["damage_taken"] = 5520.008607,
+							["nome"] = "Siusie",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0A8CFEF6",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [77]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00817,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00817,
+							["dps_started"] = false,
+							["total"] = 0.00817,
+							["on_hold"] = false,
+							["damage_taken"] = 82431.00817,
+							["nome"] = "Justthedktip",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["start_time"] = 0,
+							["serial"] = "Player-9-07C2615B",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [78]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.008145,
@@ -11073,7 +12091,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.008145,
 							["dps_started"] = false,
 							["total"] = 0.008145,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 20266.008145,
 							["nome"] = "Okuza",
 							["spells"] = {
@@ -11082,16 +12101,50 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B60B542",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [69]
+						}, -- [79]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00812,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00812,
+							["dps_started"] = false,
+							["total"] = 0.00812,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Kaiynn",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 35693.00812,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B64F2B6",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [80]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.008005,
@@ -11108,7 +12161,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.008005,
 							["dps_started"] = false,
 							["total"] = 0.008005,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 1088.008005,
 							["nome"] = "Bloodshót",
 							["spells"] = {
@@ -11117,16 +12171,50 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-087577A3",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [70]
+						}, -- [81]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.007973,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007973,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.007973,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B5C5864",
+							["nome"] = "Maikaikoa",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 6309.007973,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [82]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007918,
@@ -11143,7 +12231,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007918,
 							["dps_started"] = false,
 							["total"] = 0.007918,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 14743.007918,
 							["nome"] = "Ymdr",
 							["spells"] = {
@@ -11152,16 +12241,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B46C88D",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [71]
+						}, -- [83]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.00789,
@@ -11178,7 +12266,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.00789,
 							["dps_started"] = false,
 							["total"] = 0.00789,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 2670.00789,
 							["nome"] = "Kanihealu-BleedingHollow",
 							["spells"] = {
@@ -11187,16 +12275,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-73-0BE49B4C",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [72]
+						}, -- [84]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007873,
@@ -11213,7 +12301,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007873,
 							["dps_started"] = false,
 							["total"] = 0.007873,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 10087.007873,
 							["nome"] = "Lilyfleur",
 							["spells"] = {
@@ -11222,16 +12311,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B6440B0",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [73]
+						}, -- [85]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007763,
@@ -11248,7 +12336,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007763,
 							["dps_started"] = false,
 							["total"] = 0.007763,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 74670.007763,
 							["nome"] = "Sayokosan",
 							["spells"] = {
@@ -11257,16 +12345,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0ACB8160",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [74]
+						}, -- [86]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.007709,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007709,
+							["dps_started"] = false,
+							["total"] = 0.007709,
+							["last_dps"] = 0,
+							["classe"] = "UNGROUPPLAYER",
+							["nome"] = "Vyrulence",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-0B4BD0A0",
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 72585.007709,
+						}, -- [87]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007664,
@@ -11283,7 +12406,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007664,
 							["dps_started"] = false,
 							["total"] = 0.007664,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Icemaam",
 							["spells"] = {
@@ -11292,16 +12415,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0AFDCA5D",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 8013.007664,
-						}, -- [75]
+						}, -- [88]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007622,
@@ -11318,7 +12441,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007622,
 							["dps_started"] = false,
 							["total"] = 0.007622,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Jdog",
 							["spells"] = {
@@ -11327,16 +12450,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0AF40D02",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 11346.007622,
-						}, -- [76]
+						}, -- [89]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007575,
@@ -11353,7 +12476,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007575,
 							["dps_started"] = false,
 							["total"] = 0.007575,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Sedated",
 							["spells"] = {
@@ -11362,16 +12485,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0B4E81A6",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 29847.007575,
-						}, -- [77]
+						}, -- [90]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.007538,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007538,
+							["dps_started"] = false,
+							["total"] = 0.007538,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Jabzan",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 12365.007538,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B5DB9E8",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [91]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007505,
@@ -11386,12 +12544,47 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007505,
-							["on_hold"] = false,
 							["dps_started"] = false,
 							["total"] = 0.007505,
+							["friendlyfire"] = {
+							},
 							["classe"] = "UNGROUPPLAYER",
-							["serial"] = "Player-9-0B581EA5",
 							["nome"] = "Erraticsoulx",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-0B581EA5",
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 10715.007505,
+						}, -- [92]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.007428,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007428,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.007428,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B5A2E05",
+							["nome"] = "Meepflay",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
@@ -11402,11 +12595,11 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 10715.007505,
+							["damage_taken"] = 34624.007428,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["last_event"] = 0,
-						}, -- [78]
+						}, -- [93]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007414,
@@ -11423,7 +12616,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007414,
 							["dps_started"] = false,
 							["total"] = 0.007414,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 1347026.007414,
 							["nome"] = "Akunda",
 							["spells"] = {
@@ -11432,16 +12626,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B3EB82D",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [79]
+						}, -- [94]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.007343,
@@ -11458,7 +12651,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.007343,
 							["dps_started"] = false,
 							["total"] = 0.007343,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 18329.007343,
 							["nome"] = "Korzak",
 							["spells"] = {
@@ -11467,16 +12660,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-9-07D079C0",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [80]
+						}, -- [95]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.007147,
@@ -11486,17 +12679,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007147,
 							["serial"] = "Creature-0-3021-1594-11693-133753-0000434C32",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.007147,
 							["nome"] = "Unknown",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11536,11 +12729,46 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.007147,
+							["on_hold"] = false,
 							["start_time"] = 1556303506,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [81]
+							["dps_started"] = false,
+						}, -- [96]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.007118,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007118,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.007118,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B655B43",
+							["nome"] = "Macksamonk",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 60505.007118,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [97]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.007053,
@@ -11550,17 +12778,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007053,
 							["serial"] = "Creature-0-3021-1594-11693-133753-0000434C34",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556303509,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.007053,
 							["nome"] = "Leech Globule",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11600,11 +12828,11 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.007053,
+							["on_hold"] = false,
 							["start_time"] = 1556303506,
 							["delay"] = 0,
-							["monster"] = true,
-						}, -- [82]
+							["dps_started"] = false,
+						}, -- [98]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006999,
@@ -11621,7 +12849,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.006999,
 							["dps_started"] = false,
 							["total"] = 0.006999,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 27271.006999,
 							["nome"] = "Minaarah",
 							["spells"] = {
@@ -11630,16 +12859,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B5F5DCC",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [83]
+						}, -- [99]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006798,
@@ -11656,7 +12884,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.006798,
 							["dps_started"] = false,
 							["total"] = 0.006798,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Necrothermia",
 							["spells"] = {
@@ -11665,16 +12893,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0AFD9E8C",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 6793.006798,
-						}, -- [84]
+						}, -- [100]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.006739,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006739,
+							["dps_started"] = false,
+							["total"] = 0.006739,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Moiratropos",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 76459.006739,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B3D2BFE",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [101]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.006507,
@@ -11692,8 +12955,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.006507,
 							["dps_started"] = false,
 							["total"] = 0.006507,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["nome"] = "Shadric Crawler",
 							["spells"] = {
@@ -11702,15 +12964,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Creature-0-3777-1642-9115-130448-000C48D994",
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 10221.006507,
-						}, -- [85]
+						}, -- [102]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.006449,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006449,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006449,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0A303B7B",
+							["nome"] = "Decidious",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10488.006449,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [103]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006448,
@@ -11725,12 +13023,47 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006448,
-							["on_hold"] = false,
 							["dps_started"] = false,
 							["total"] = 0.006448,
+							["friendlyfire"] = {
+							},
 							["classe"] = "UNGROUPPLAYER",
-							["serial"] = "Player-9-0AE87A48",
 							["nome"] = "Serasong",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-0AE87A48",
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 65615.006448,
+						}, -- [104]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.006362,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006362,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006362,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B0D52C3",
+							["nome"] = "Koiadin",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
@@ -11741,11 +13074,46 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 65615.006448,
+							["damage_taken"] = 64350.006362,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["last_event"] = 0,
-						}, -- [86]
+						}, -- [105]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.006307,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006307,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006307,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B5DC6E9",
+							["nome"] = "Reduxx",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 141887.006307,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [106]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006261,
@@ -11762,7 +13130,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.006261,
 							["dps_started"] = false,
 							["total"] = 0.006261,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Laax-Kilrogg",
 							["spells"] = {
@@ -11771,16 +13139,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-4-0B63F592",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 63615.006261,
-						}, -- [87]
+						}, -- [107]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.006082,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006082,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.006082,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0A95EB78",
+							["nome"] = "Ukondeath",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 56908.006082,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [108]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.006064,
@@ -11797,7 +13200,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.006064,
 							["dps_started"] = false,
 							["total"] = 0.006064,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 37212.006064,
 							["nome"] = "Desertdust-Thrall",
 							["spells"] = {
@@ -11806,16 +13210,150 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-3678-0B1B5A28",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [88]
+						}, -- [109]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00579,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00579,
+							["dps_started"] = false,
+							["total"] = 0.00579,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Príde",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 30930.00579,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B4E543E",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [110]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.005781,
+							["damage_from"] = {
+								["Salektria"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005781,
+							["dps_started"] = false,
+							["total"] = 0.005781,
+							["last_dps"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Temple Beetle",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Salektria"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Creature-0-3021-1642-9777-130441-00004C4D32",
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1556898818,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 2793.005781,
+						}, -- [111]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005729,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005729,
+							["dps_started"] = false,
+							["total"] = 0.005729,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Aurohn",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 55378.005729,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-07A0FEEC",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [112]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.005702,
@@ -11832,9 +13370,149 @@ _detalhes_database = {
 							["total_without_pet"] = 0.005702,
 							["dps_started"] = false,
 							["total"] = 0.005702,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 12059.005702,
 							["nome"] = "Crested Gekkota",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["last_dps"] = 0,
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Creature-0-3021-1642-9777-130749-00004A323A",
+							["classe"] = "UNKNOW",
+						}, -- [113]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005689,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005689,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.005689,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B61123A",
+							["nome"] = "Cavewar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 91261.005689,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [114]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00564,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00564,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00564,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0A9ADB3F",
+							["nome"] = "Coolaed",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10746.00564,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [115]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005525,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005525,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.005525,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-09DB7353",
+							["nome"] = "Kynoshirah",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 18718.005525,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [116]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005489,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005489,
+							["dps_started"] = false,
+							["total"] = 0.005489,
+							["on_hold"] = false,
+							["damage_taken"] = 57105.005489,
+							["nome"] = "Kittenbuttz",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
@@ -11848,9 +13526,9 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["last_dps"] = 0,
 							["start_time"] = 0,
-							["serial"] = "Creature-0-3021-1642-9777-130749-00004A323A",
-							["classe"] = "UNKNOW",
-						}, -- [89]
+							["serial"] = "Player-9-09E3AED1",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [117]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.005484,
@@ -11865,12 +13543,47 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005484,
-							["on_hold"] = false,
 							["dps_started"] = false,
 							["total"] = 0.005484,
+							["friendlyfire"] = {
+							},
 							["classe"] = "UNGROUPPLAYER",
-							["serial"] = "Player-9-09D91EBB",
 							["nome"] = "Kåmali",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-09D91EBB",
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 47942.005484,
+						}, -- [118]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005273,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005273,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.005273,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0A9350C2",
+							["nome"] = "Livinrage",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
@@ -11881,11 +13594,11 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 47942.005484,
+							["damage_taken"] = 20925.005273,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["last_event"] = 0,
-						}, -- [90]
+						}, -- [119]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.005204,
@@ -11902,7 +13615,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.005204,
 							["dps_started"] = false,
 							["total"] = 0.005204,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Grrburger",
 							["spells"] = {
@@ -11911,16 +13624,191 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0B5C34B8",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 53519.005204,
-						}, -- [91]
+						}, -- [120]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005178,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005178,
+							["dps_started"] = false,
+							["total"] = 0.005178,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Yik-KulTiras",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 28138.005178,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-1147-05306ECE",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [121]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.005121,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005121,
+							["dps_started"] = false,
+							["total"] = 0.005121,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Elfmarciano",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 43929.005121,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0A6042D1",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [122]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004931,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004931,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004931,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B2A0E65",
+							["nome"] = "Mayepaondel",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 21777.004931,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [123]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004892,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004892,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004892,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B45326F",
+							["nome"] = "Innsureantz",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 21666.004892,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [124]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004731,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004731,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004731,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0AFB8616",
+							["nome"] = "Farsyte",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 3458.004731,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [125]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.004606,
@@ -11937,8 +13825,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.004606,
 							["dps_started"] = false,
 							["total"] = 0.004606,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Dawnzo",
 							["spells"] = {
@@ -11947,15 +13834,86 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-062E1CCA",
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 0,
 							["delay"] = 0,
-							["damage_taken"] = 9774.004606,
-						}, -- [92]
+							["damage_taken"] = 21598.004606,
+						}, -- [126]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00455,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00455,
+							["dps_started"] = false,
+							["total"] = 0.00455,
+							["on_hold"] = false,
+							["damage_taken"] = 117567.00455,
+							["nome"] = "Isine",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["start_time"] = 0,
+							["serial"] = "Player-9-09D81427",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [127]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004493,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004493,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004493,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B16AF9D",
+							["nome"] = "Ghostlóck",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 14758.004493,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [128]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.004383,
@@ -11972,7 +13930,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.004383,
 							["dps_started"] = false,
 							["total"] = 0.004383,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Fraction",
 							["spells"] = {
@@ -11981,16 +13939,86 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0B121E78",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 3101.004383,
-						}, -- [93]
+						}, -- [129]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004311,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004311,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004311,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B5E0A9E",
+							["nome"] = "Wirligig",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 57350.004311,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [130]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004236,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004236,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004236,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0AF04B6C",
+							["nome"] = "Screaminmeme",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 16388.004236,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [131]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.004122,
@@ -12007,7 +14035,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.004122,
 							["dps_started"] = false,
 							["total"] = 0.004122,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 8167.004122,
 							["nome"] = "Furyious",
 							["spells"] = {
@@ -12016,16 +14045,120 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-09D7A09A",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [94]
+						}, -- [132]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004084,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004084,
+							["dps_started"] = false,
+							["total"] = 0.004084,
+							["last_dps"] = 0,
+							["classe"] = "UNGROUPPLAYER",
+							["nome"] = "Tilane",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-05AD60F9",
+							["on_hold"] = false,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 104411.004084,
+						}, -- [133]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.004057,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004057,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004057,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0AFE06E5",
+							["nome"] = "Avarina",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 60961.004057,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [134]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.003911,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003911,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003911,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B639CBC",
+							["nome"] = "Honkhonk",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10373.003911,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [135]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.003806,
@@ -12040,27 +14173,62 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003806,
-							["on_hold"] = false,
 							["dps_started"] = false,
 							["total"] = 0.003806,
-							["classe"] = "UNGROUPPLAYER",
-							["serial"] = "Player-9-0B62A9E4",
-							["nome"] = "Saccarage",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
 							["friendlyfire"] = {
 							},
+							["classe"] = "UNGROUPPLAYER",
+							["nome"] = "Saccarage",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-9-0B62A9E4",
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 4010.003806,
+						}, -- [136]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.003493,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003493,
+							["dps_started"] = false,
+							["total"] = 0.003493,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Kaelektra",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 57458.003493,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4010.003806,
+							["on_hold"] = false,
 							["start_time"] = 0,
-							["delay"] = 0,
-							["last_event"] = 0,
-						}, -- [95]
+							["serial"] = "Player-9-0AA69455",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [137]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.00348,
@@ -12078,7 +14246,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.00348,
 							["dps_started"] = false,
 							["total"] = 0.00348,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Doopy",
 							["spells"] = {
@@ -12087,16 +14255,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0B625FE8",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 23124.00348,
-						}, -- [96]
+						}, -- [138]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00348,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00348,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.00348,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-09894287",
+							["nome"] = "Civiumdeleri",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 63348.00348,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [139]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.003437,
@@ -12113,7 +14316,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.003437,
 							["dps_started"] = false,
 							["total"] = 0.003437,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 26539.003437,
 							["nome"] = "Shylow",
 							["spells"] = {
@@ -12122,16 +14326,50 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B35B37B",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [97]
+						}, -- [140]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.00337,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00337,
+							["dps_started"] = false,
+							["total"] = 0.00337,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Koichiga",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 54698.00337,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0735E4CA",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [141]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.003281,
@@ -12148,7 +14386,8 @@ _detalhes_database = {
 							["total_without_pet"] = 0.003281,
 							["dps_started"] = false,
 							["total"] = 0.003281,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_taken"] = 72326.003281,
 							["nome"] = "Thunderrz",
 							["spells"] = {
@@ -12157,16 +14396,225 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 0,
 							["serial"] = "Player-9-0B081794",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [98]
+						}, -- [142]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002986,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002986,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002986,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B28E63F",
+							["nome"] = "Vittydot",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1350.002986,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [143]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002841,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002841,
+							["dps_started"] = false,
+							["total"] = 0.002841,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Adinaran",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 23770.002841,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-062F9A4A",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [144]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002814,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002814,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002814,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0AF04B29",
+							["nome"] = "Moomundur",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 33817.002814,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [145]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002683,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002683,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002683,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B592976",
+							["nome"] = "Azunaø",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 38260.002683,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [146]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002505,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002505,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002505,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B61480F",
+							["nome"] = "Useekmehelp",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 46927.002505,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [147]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002452,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002452,
+							["dps_started"] = false,
+							["total"] = 0.002452,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Qiro",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 72654.002452,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B106DB1",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [148]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.00242,
@@ -12183,7 +14631,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.00242,
 							["dps_started"] = false,
 							["total"] = 0.00242,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 99538.00242,
 							["nome"] = "Feircebeauty",
 							["spells"] = {
@@ -12192,16 +14640,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-9-09CF1088",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [99]
+						}, -- [149]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.002399,
@@ -12218,7 +14666,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.002399,
 							["dps_started"] = false,
 							["total"] = 0.002399,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNGROUPPLAYER",
 							["nome"] = "Babeorc",
 							["spells"] = {
@@ -12227,16 +14675,16 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Player-9-0B5400B2",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 70980.002399,
-						}, -- [100]
+						}, -- [150]
 						{
 							["flag_original"] = 2600,
 							["totalabsorbed"] = 0.002338,
@@ -12254,7 +14702,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.002338,
 							["dps_started"] = false,
 							["total"] = 0.002338,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["nome"] = "Dark Iron Vanguard",
 							["spells"] = {
@@ -12294,16 +14742,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Creature-0-3022-2070-31933-147621-00004A45F7",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1556760546,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["delay"] = 0,
 							["damage_taken"] = 45751.002338,
-						}, -- [101]
+						}, -- [151]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002157,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002157,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002157,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B602683",
+							["nome"] = "Gitsumz",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 17773.002157,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [152]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.002091,
@@ -12318,29 +14801,204 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002091,
-							["serial"] = "Player-9-099A8185",
+							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.002091,
-							["spec"] = 105,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Player-9-099A8185",
+							["damage_taken"] = 50568.002091,
 							["nome"] = "Renewal",
+							["spec"] = 105,
+							["friendlyfire"] = {
+							},
+							["need_refresh"] = true,
+							["last_event"] = 0,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+						}, -- [153]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.002087,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002087,
+							["dps_started"] = false,
+							["total"] = 0.002087,
+							["on_hold"] = false,
+							["damage_taken"] = 73116.002087,
+							["nome"] = "Wäifú",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["start_time"] = 0,
+							["serial"] = "Player-9-0B644A21",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [154]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.001837,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001837,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.001837,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0776CEAE",
+							["nome"] = "Mesaí",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
 							},
-							["on_hold"] = false,
-							["need_refresh"] = true,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 50568.002091,
+							["tipo"] = 1,
+							["damage_taken"] = 40617.001837,
 							["start_time"] = 0,
 							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [155]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.001772,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001772,
+							["dps_started"] = false,
+							["total"] = 0.001772,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["nome"] = "Jackdaddy-Area52",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["delay"] = 0,
+							["damage_taken"] = 3183.001772,
+							["last_dps"] = 0,
+							["custom"] = 0,
 							["tipo"] = 1,
-						}, -- [102]
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-3676-0A0712DC",
+							["classe"] = "UNGROUPPLAYER",
+						}, -- [156]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.001489,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001489,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.001489,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0B610FD4",
+							["nome"] = "Pairatedr",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 59378.001489,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [157]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.001278,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001278,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.001278,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-05D77820",
+							["nome"] = "Otrera",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 41915.001278,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [158]
 						{
 							["flag_original"] = 1304,
 							["totalabsorbed"] = 0.001129,
@@ -12357,7 +15015,7 @@ _detalhes_database = {
 							["total_without_pet"] = 0.001129,
 							["dps_started"] = false,
 							["total"] = 0.001129,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_taken"] = 11514.001129,
 							["nome"] = "Sekier-Zul'jin",
 							["spells"] = {
@@ -12366,16 +15024,51 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 0,
 							["serial"] = "Player-61-0B972BC7",
 							["classe"] = "UNGROUPPLAYER",
-						}, -- [103]
+						}, -- [159]
+						{
+							["flag_original"] = 1304,
+							["totalabsorbed"] = 0.001112,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001112,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.001112,
+							["classe"] = "UNGROUPPLAYER",
+							["serial"] = "Player-9-0613FD22",
+							["nome"] = "Taranani",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 77183.001112,
+							["start_time"] = 0,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [160]
 					},
 				}, -- [1]
 				{
@@ -14122,7 +16815,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 638061.102817,
 							["total_without_pet"] = 3093009.102817,
 							["total"] = 3093009.102817,
@@ -14191,19 +16884,19 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
 							["healing_from"] = {
 								["Paxington-Illidan"] = true,
 								["Yorman"] = true,
 								["Ralph <Paxington-Illidan>"] = true,
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["start_time"] = 1556303165,
 							["totaldenied"] = 0.102817,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [6]
 						{
 							["flag_original"] = 2632,
@@ -14213,39 +16906,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.028009,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.028009,
+							["classe"] = "UNKNOW",
 							["totalover"] = 0.028009,
 							["total_without_pet"] = 0.028009,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.028009,
 							["start_time"] = 1556303500,
 							["fight_component"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 2561562,
 							["total"] = 0.028009,
+							["healing_taken"] = 0.028009,
+							["end_time"] = 1556303509,
 							["nome"] = "Refreshment Vendor",
-							["targets_absorbs"] = {
-							},
-							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["heal_enemy"] = {
-								[268130] = 2561562,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["monster"] = true,
+							["heal_enemy_amt"] = 2561562,
+							["heal_enemy"] = {
+								[268130] = 2561562,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
 							["totaldenied"] = 0.028009,
-							["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
+							["delay"] = 0,
 							["last_event"] = 0,
 						}, -- [7]
 						{
@@ -14255,7 +16948,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.025376,
 							["total_without_pet"] = 0.025376,
 							["total"] = 0.025376,
@@ -14280,16 +16973,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
 							["healing_from"] = {
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["start_time"] = 1556303503,
 							["totaldenied"] = 0.025376,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [8]
 						{
 							["flag_original"] = 68168,
@@ -14299,39 +16992,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.023523,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.023523,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.023523,
+							["heal_enemy_amt"] = 1148259,
 							["totalover"] = 0.023523,
 							["total_without_pet"] = 0.023523,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.023523,
 							["start_time"] = 1556303503,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 1148259,
+							["total"] = 0.023523,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.023523,
 							["nome"] = "Mechanized Peacekeeper",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
-							["heal_enemy"] = {
-								[262412] = 1148259,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[262412] = 1148259,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.023523,
-							["delay"] = 0,
+							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
 							["tipo"] = 2,
 						}, -- [9]
 						{
@@ -14342,38 +17035,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.021644,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.021644,
+							["classe"] = "UNKNOW",
 							["totalover"] = 0.021644,
 							["total_without_pet"] = 0.021644,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.021644,
 							["start_time"] = 1556303500,
 							["fight_component"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 0,
 							["total"] = 0.021644,
+							["healing_taken"] = 0.021644,
+							["end_time"] = 1556303509,
 							["nome"] = "Off-Duty Laborer",
-							["targets_absorbs"] = {
-							},
-							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["monster"] = true,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
 							["totaldenied"] = 0.021644,
-							["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
+							["delay"] = 0,
 							["last_event"] = 0,
 						}, -- [10]
 						{
@@ -14471,38 +17164,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.014523,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.014523,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.014523,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.014523,
 							["total_without_pet"] = 0.014523,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.014523,
 							["start_time"] = 1556303503,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.014523,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.014523,
 							["nome"] = "Wanton Sapper",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.014523,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
 							["tipo"] = 2,
 						}, -- [13]
 						{
@@ -14513,38 +17206,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.012994,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.012994,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.012994,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.012994,
 							["total_without_pet"] = 0.012994,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.012994,
 							["start_time"] = 1556303503,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.012994,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.012994,
 							["nome"] = "Hired Assassin",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.012994,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
 							["tipo"] = 2,
 						}, -- [14]
 						{
@@ -14555,38 +17248,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008928,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008928,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008928,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008928,
 							["total_without_pet"] = 0.008928,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008928,
 							["start_time"] = 1556303503,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.008928,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008928,
 							["nome"] = "Addled Thug",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008928,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
 							["tipo"] = 2,
 						}, -- [15]
 						{
@@ -14597,39 +17290,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008795,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008795,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008795,
+							["heal_enemy_amt"] = 117082,
 							["totalover"] = 0.008795,
 							["total_without_pet"] = 0.008795,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008795,
 							["start_time"] = 1556303506,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 117082,
+							["total"] = 0.008795,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008795,
 							["nome"] = "Expert Technician",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
-							["heal_enemy"] = {
-								[262554] = 117082,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[262554] = 117082,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008795,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
 							["tipo"] = 2,
 						}, -- [16]
 						{
@@ -14640,38 +17333,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008547,
+							["end_time"] = 1556303509,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008547,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008547,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008547,
 							["total_without_pet"] = 0.008547,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008547,
 							["start_time"] = 1556303506,
 							["monster"] = true,
-							["end_time"] = 1556303509,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.008547,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008547,
 							["nome"] = "Venture Co. War Machine",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008547,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
 							["tipo"] = 2,
 						}, -- [17]
 					},
@@ -14715,6 +17408,14 @@ _detalhes_database = {
 										},
 										["counter"] = 61,
 									},
+									[218903] = {
+										["id"] = 218903,
+										["total"] = 660,
+										["targets"] = {
+											["Andruww"] = 660,
+										},
+										["counter"] = 22,
+									},
 									[202719] = {
 										["id"] = 202719,
 										["total"] = 15,
@@ -14722,14 +17423,6 @@ _detalhes_database = {
 											["Andruww"] = 15,
 										},
 										["counter"] = 1,
-									},
-									[258922] = {
-										["id"] = 258922,
-										["total"] = 4046,
-										["targets"] = {
-											["Andruww"] = 4046,
-										},
-										["counter"] = 581,
 									},
 									[278326] = {
 										["id"] = 278326,
@@ -14747,13 +17440,13 @@ _detalhes_database = {
 										},
 										["counter"] = 314,
 									},
-									[218903] = {
-										["id"] = 218903,
-										["total"] = 660,
+									[258922] = {
+										["id"] = 258922,
+										["total"] = 4046,
 										["targets"] = {
-											["Andruww"] = 660,
+											["Andruww"] = 4046,
 										},
-										["counter"] = 22,
+										["counter"] = 581,
 									},
 								},
 								["tipo"] = 7,
@@ -15135,11 +17828,11 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["received"] = 4200.00894,
-							["last_event"] = 1556755692,
-							["total"] = 4200.00894,
 							["tipo"] = 3,
-							["serial"] = "Player-9-0B3EB82D",
+							["total"] = 4200.00894,
 							["classe"] = "SHAMAN",
+							["serial"] = "Player-9-0B3EB82D",
+							["last_event"] = 1556755692,
 						}, -- [8]
 						{
 							["received"] = 4.002384,
@@ -15166,11 +17859,11 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["flag_original"] = 1304,
-							["classe"] = "UNGROUPPLAYER",
-							["alternatepower"] = 0.002384,
 							["tipo"] = 3,
-							["serial"] = "Player-9-0B625FE8",
+							["alternatepower"] = 0.002384,
 							["last_event"] = 1556759766,
+							["serial"] = "Player-9-0B625FE8",
+							["classe"] = "UNGROUPPLAYER",
 						}, -- [9]
 						{
 							["received"] = 5.003274,
@@ -15197,12 +17890,51 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["flag_original"] = 1304,
-							["classe"] = "UNGROUPPLAYER",
-							["alternatepower"] = 0.003274,
 							["tipo"] = 3,
-							["serial"] = "Player-9-062E1CCA",
+							["alternatepower"] = 0.003274,
 							["last_event"] = 1556759844,
+							["serial"] = "Player-9-062E1CCA",
+							["classe"] = "UNGROUPPLAYER",
 						}, -- [10]
+						{
+							["received"] = 21.001039,
+							["total"] = 21.001039,
+							["resource"] = 0.001039,
+							["nome"] = "Salektria",
+							["spells"] = {
+								["_ActorTable"] = {
+									[77443] = {
+										["id"] = 77443,
+										["total"] = 10,
+										["targets"] = {
+											["Salektria"] = 10,
+										},
+										["counter"] = 1,
+									},
+									[263585] = {
+										["id"] = 263585,
+										["total"] = 11,
+										["targets"] = {
+											["Salektria"] = 11,
+										},
+										["counter"] = 11,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["targets"] = {
+								["Salektria"] = 21,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["flag_original"] = 1304,
+							["classe"] = "UNGROUPPLAYER",
+							["alternatepower"] = 0.001039,
+							["tipo"] = 3,
+							["serial"] = "Player-9-09D19390",
+							["last_event"] = 1556899625,
+						}, -- [11]
 					},
 				}, -- [3]
 				{
@@ -15318,13 +18050,13 @@ _detalhes_database = {
 									[31935] = {
 										["id"] = 31935,
 										["interrompeu_oque"] = {
-											[262092] = 2,
+											[263202] = 1,
 											[263215] = 1,
-											[280604] = 13,
+											[262092] = 2,
 											[281621] = 2,
 											[288693] = 6,
 											[268129] = 4,
-											[263202] = 1,
+											[280604] = 13,
 										},
 										["targets"] = {
 											["Venture Co. Earthshaper"] = 1,
@@ -15802,16 +18534,8 @@ _detalhes_database = {
 							["ress_targets"] = {
 								["Yorman"] = 2,
 							},
-							["interrupt_targets"] = {
-								["Addled Thug"] = 3,
-								["Tormented Soul"] = 9,
-								["Venture Co. Earthshaper"] = 2,
-								["Hired Assassin"] = 2,
-								["Stonefury"] = 2,
-								["Refreshment Vendor"] = 20,
-								["Expert Technician"] = 1,
-								["Mech Jockey"] = 1,
-								["Venture Co. Skyscorcher"] = 1,
+							["dispell_targets"] = {
+								["Nv"] = 2,
 							},
 							["buff_uptime"] = 20846,
 							["cc_done_spells"] = {
@@ -15847,7 +18571,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["interrupt"] = 41.051863,
+							["nome"] = "Nv",
 							["cooldowns_defensive_targets"] = {
 								["Soozpriest-Area52"] = 3,
 								["Nv"] = 15,
@@ -15871,58 +18595,22 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["cooldowns_defensive_spells"] = {
-								["_ActorTable"] = {
-									[642] = {
-										["id"] = 642,
-										["targets"] = {
-											["Nv"] = 4,
-										},
-										["counter"] = 4,
-									},
-									[204018] = {
-										["id"] = 204018,
-										["targets"] = {
-											["Nv"] = 2,
-										},
-										["counter"] = 2,
-									},
-									[6940] = {
-										["id"] = 6940,
-										["targets"] = {
-											["Soozpriest-Area52"] = 1,
-										},
-										["counter"] = 1,
-									},
-									[31850] = {
-										["id"] = 31850,
-										["targets"] = {
-											["Nv"] = 8,
-										},
-										["counter"] = 8,
-									},
-									[86659] = {
-										["id"] = 86659,
-										["targets"] = {
-											["Nv"] = 1,
-										},
-										["counter"] = 1,
-									},
-									[633] = {
-										["id"] = 633,
-										["targets"] = {
-											["Soozpriest-Area52"] = 2,
-										},
-										["counter"] = 2,
-									},
-								},
-								["tipo"] = 9,
-							},
+							["boss_fight_component"] = true,
 							["fight_component"] = true,
 							["ress"] = 2.0147,
-							["nome"] = "Nv",
+							["interrupt_targets"] = {
+								["Addled Thug"] = 3,
+								["Tormented Soul"] = 9,
+								["Venture Co. Earthshaper"] = 2,
+								["Hired Assassin"] = 2,
+								["Stonefury"] = 2,
+								["Refreshment Vendor"] = 20,
+								["Expert Technician"] = 1,
+								["Mech Jockey"] = 1,
+								["Venture Co. Skyscorcher"] = 1,
+							},
 							["cc_done"] = 53.069957,
-							["boss_fight_component"] = true,
+							["interrupt"] = 41.051863,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[255996] = 1,
@@ -15971,10 +18659,54 @@ _detalhes_database = {
 							["cc_break_targets"] = {
 								["Wanton Sapper"] = 1,
 							},
-							["dispell_targets"] = {
-								["Nv"] = 2,
-							},
 							["debuff_uptime_targets"] = {
+							},
+							["cooldowns_defensive_spells"] = {
+								["_ActorTable"] = {
+									[642] = {
+										["id"] = 642,
+										["targets"] = {
+											["Nv"] = 4,
+										},
+										["counter"] = 4,
+									},
+									[204018] = {
+										["id"] = 204018,
+										["targets"] = {
+											["Nv"] = 2,
+										},
+										["counter"] = 2,
+									},
+									[6940] = {
+										["id"] = 6940,
+										["targets"] = {
+											["Soozpriest-Area52"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["Nv"] = 8,
+										},
+										["counter"] = 8,
+									},
+									[86659] = {
+										["id"] = 86659,
+										["targets"] = {
+											["Nv"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[633] = {
+										["id"] = 633,
+										["targets"] = {
+											["Soozpriest-Area52"] = 2,
+										},
+										["counter"] = 2,
+									},
+								},
+								["tipo"] = 9,
 							},
 						}, -- [1]
 						{
@@ -16575,7 +19307,7 @@ _detalhes_database = {
 								["Nv"] = 4,
 							},
 							["cc_done"] = 30.050417,
-							["interrupt"] = 10.041303,
+							["nome"] = "Soozpriest-Area52",
 							["grupo"] = true,
 							["spell_cast"] = {
 								[255996] = 3,
@@ -16623,7 +19355,7 @@ _detalhes_database = {
 								["Addled Thug"] = 1,
 								["Hired Assassin"] = 3,
 							},
-							["nome"] = "Soozpriest-Area52",
+							["interrupt"] = 10.041303,
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[15286] = {
@@ -16763,12 +19495,12 @@ _detalhes_database = {
 										["id"] = 183752,
 										["interrompeu_oque"] = {
 											[269302] = 2,
+											[263202] = 4,
 											[262092] = 3,
-											[280604] = 12,
 											[281621] = 3,
 											[288693] = 2,
 											[263215] = 2,
-											[263202] = 4,
+											[280604] = 12,
 										},
 										["targets"] = {
 											["Venture Co. Earthshaper"] = 4,
@@ -17044,12 +19776,12 @@ _detalhes_database = {
 							},
 							["interrompeu_oque"] = {
 								[269302] = 2,
+								[263202] = 4,
 								[262092] = 3,
-								[280604] = 12,
 								[281621] = 3,
 								[288693] = 2,
 								[263215] = 2,
-								[263202] = 4,
+								[280604] = 12,
 							},
 							["debuff_uptime"] = 3739,
 							["debuff_uptime_targets"] = {
@@ -17270,7 +20002,7 @@ _detalhes_database = {
 								["Venture Co. Earthshaper"] = 4,
 							},
 							["cc_done"] = 141.071264,
-							["boss_fight_component"] = true,
+							["nome"] = "Andruww",
 							["grupo"] = true,
 							["spell_cast"] = {
 								[255996] = 4,
@@ -17315,8 +20047,8 @@ _detalhes_database = {
 								["Mech Jockey"] = 2,
 								["Off-Duty Laborer"] = 7,
 							},
-							["nome"] = "Andruww",
 							["interrupt"] = 28.029291,
+							["boss_fight_component"] = true,
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -17612,15 +20344,14 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[288981] = {
-										["appliedamt"] = 28,
+									[90361] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 2,
+										["appliedamt"] = 2,
+										["id"] = 90361,
+										["uptime"] = 20,
 										["targets"] = {
 										},
-										["activedamt"] = 28,
-										["uptime"] = 1710,
-										["id"] = 288981,
-										["refreshamt"] = 1,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[268311] = {
@@ -17653,14 +20384,15 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[291678] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 13,
-										["appliedamt"] = 13,
-										["id"] = 291678,
-										["uptime"] = 1071,
+									[288981] = {
+										["appliedamt"] = 28,
 										["targets"] = {
 										},
+										["activedamt"] = 28,
+										["uptime"] = 1710,
+										["id"] = 288981,
+										["refreshamt"] = 1,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[251836] = {
@@ -17837,12 +20569,12 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[90361] = {
+									[291678] = {
 										["refreshamt"] = 0,
-										["activedamt"] = 2,
-										["appliedamt"] = 2,
-										["id"] = 90361,
-										["uptime"] = 20,
+										["activedamt"] = 13,
+										["appliedamt"] = 13,
+										["id"] = 291678,
+										["uptime"] = 1071,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -18231,12 +20963,12 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[200389] = {
-										["refreshamt"] = 13,
-										["activedamt"] = 15,
-										["appliedamt"] = 15,
-										["id"] = 200389,
-										["uptime"] = 120,
+									[16870] = {
+										["refreshamt"] = 1,
+										["activedamt"] = 49,
+										["appliedamt"] = 49,
+										["id"] = 16870,
+										["uptime"] = 204,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -18262,22 +20994,22 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
+									[200389] = {
+										["refreshamt"] = 13,
+										["activedamt"] = 15,
+										["appliedamt"] = 15,
+										["id"] = 200389,
+										["uptime"] = 120,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
 									[768] = {
 										["refreshamt"] = 0,
 										["activedamt"] = 15,
 										["appliedamt"] = 15,
 										["id"] = 768,
 										["uptime"] = 73,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
-									[16870] = {
-										["refreshamt"] = 1,
-										["activedamt"] = 49,
-										["appliedamt"] = 49,
-										["id"] = 16870,
-										["uptime"] = 204,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -18681,14 +21413,14 @@ _detalhes_database = {
 								[260318] = 35,
 								[260190] = 1,
 							},
-							["nome"] = "Mogul Razdunk",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Mogul Razdunk",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Vehicle-0-3021-1594-11693-129232-00004346C2",
 							["fight_component"] = true,
 						}, -- [7]
@@ -18755,14 +21487,14 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Voidling <Soozpriest-Area52>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[63619] = 1,
 							},
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-128142-0000434D78",
 							["boss_fight_component"] = true,
 						}, -- [9]
@@ -18771,14 +21503,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[276229] = 12,
 							},
-							["nome"] = "B.O.O.M.B.A.",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "B.O.O.M.B.A.",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-141303-0000C34D7A",
 							["fight_component"] = true,
 						}, -- [10]
@@ -18831,14 +21563,14 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Yorman",
 							["boss_fight_component"] = true,
-							["classe"] = "PET",
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[81262] = 33,
 							},
+							["classe"] = "PET",
 							["last_event"] = 0,
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-47649-0000434D8C",
 							["nome"] = "Efflorescence <Yorman>",
 						}, -- [12]
@@ -18849,14 +21581,14 @@ _detalhes_database = {
 								[260372] = 34,
 								[262515] = 12,
 							},
-							["nome"] = "Venture Co. Skyscorcher",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Venture Co. Skyscorcher",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-132056-0000434DD8",
 							["fight_component"] = true,
 						}, -- [13]
@@ -19147,14 +21879,14 @@ _detalhes_database = {
 								[259856] = 16,
 								[260669] = 8,
 							},
-							["nome"] = "Rixxa Fluxflame",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Rixxa Fluxflame",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-129231-00004346C2",
 							["fight_component"] = true,
 						}, -- [24]
@@ -19362,9 +22094,9 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "UNKNOW",
 							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
 							["nome"] = "Wanton Sapper",
 						}, -- [30]
@@ -19520,14 +22252,14 @@ _detalhes_database = {
 						{
 							["monster"] = true,
 							["nome"] = "Unknown",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[262940] = 1,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-133753-0000434C32",
 							["flag_original"] = 2632,
 						}, -- [36]
@@ -19601,14 +22333,14 @@ _detalhes_database = {
 								[257582] = 5,
 								[258627] = 3,
 							},
-							["nome"] = "Earthrager",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Earthrager",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-129802-0001C346C2",
 							["fight_component"] = true,
 						}, -- [39]
@@ -19760,14 +22492,14 @@ _detalhes_database = {
 								[271698] = 3,
 								[258622] = 5,
 							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["nome"] = "Azerokk",
+							["serial"] = "Creature-0-3021-1594-11693-129227-00004346C2",
 							["dispell_targets"] = {
 								["Earthrager"] = 16,
 							},
-							["tipo"] = 4,
-							["fight_component"] = true,
-							["nome"] = "Azerokk",
-							["serial"] = "Creature-0-3021-1594-11693-129227-00004346C2",
-							["last_event"] = 0,
 						}, -- [42]
 						{
 							["fight_component"] = true,
@@ -19780,9 +22512,9 @@ _detalhes_database = {
 								[263583] = 1,
 								[263275] = 13,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
 							["boss_fight_component"] = true,
 						}, -- [43]
@@ -19798,9 +22530,9 @@ _detalhes_database = {
 								[268709] = 9,
 								[263202] = 8,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
 							["boss_fight_component"] = true,
 						}, -- [44]
@@ -19814,9 +22546,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[263262] = 50,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-134005-00034346C2",
 							["boss_fight_component"] = true,
 						}, -- [45]
@@ -19830,9 +22562,9 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[268702] = 25,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-130635-00004346C2",
 							["boss_fight_component"] = true,
 						}, -- [46]
@@ -20146,14 +22878,14 @@ _detalhes_database = {
 								[267551] = 1,
 								[262347] = 6,
 							},
-							["nome"] = "Coin-Operated Crowd Pummeler",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Coin-Operated Crowd Pummeler",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
 							["fight_component"] = true,
 						}, -- [58]
@@ -20221,14 +22953,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[296142] = 22,
 							},
-							["nome"] = "Lost Soul",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Lost Soul",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3021-1594-11693-148894-00004348B2",
 							["fight_component"] = true,
 						}, -- [60]
@@ -20519,11 +23251,11 @@ _detalhes_database = {
 					["n"] = 1,
 				},
 				["totals"] = {
-					329225362.290864, -- [1]
+					332119392.290864, -- [1]
 					63860953.692321, -- [2]
 					{
 						0, -- [1]
-						[0] = 109644.535137441,
+						[0] = 109665.535137441,
 						["alternatepower"] = 0,
 						[3] = 0.009985,
 						[6] = 0,
@@ -20806,19 +23538,19 @@ _detalhes_database = {
 							["pets"] = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
-							["end_time"] = 1556303466,
-							["nome"] = "Paxington-Illidan",
 							["friendlyfire_total"] = 0,
+							["spec"] = 253,
+							["classe"] = "HUNTER",
 							["raid_targets"] = {
 								[128] = 253232,
 							},
 							["total_without_pet"] = 2056232.005524,
-							["spec"] = 253,
+							["nome"] = "Paxington-Illidan",
 							["serial"] = "Player-57-0ACFA287",
 							["dps_started"] = false,
+							["end_time"] = 1556303466,
+							["last_dps"] = 18775.2342601595,
 							["total"] = 4588855.005524,
-							["classe"] = "HUNTER",
-							["damage_taken"] = 945037.005524,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21251,7 +23983,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556303223,
 							["delay"] = 0,
-							["last_dps"] = 18775.2342601595,
+							["damage_taken"] = 945037.005524,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -21267,19 +23999,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1556303466,
-							["nome"] = "Andruww",
 							["friendlyfire_total"] = 0,
+							["spec"] = 577,
+							["classe"] = "DEMONHUNTER",
 							["raid_targets"] = {
 								[128] = 109348,
 							},
 							["total_without_pet"] = 4554024.00223,
-							["spec"] = 577,
+							["nome"] = "Andruww",
 							["serial"] = "Player-9-0B1541E0",
 							["dps_started"] = false,
+							["end_time"] = 1556303466,
+							["last_dps"] = 18632.7237111066,
 							["total"] = 4554024.00223,
-							["classe"] = "DEMONHUNTER",
-							["damage_taken"] = 880938.00223,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21805,7 +24537,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556303222,
 							["delay"] = 0,
-							["last_dps"] = 18632.7237111066,
+							["damage_taken"] = 880938.00223,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -21824,19 +24556,19 @@ _detalhes_database = {
 							["pets"] = {
 								"Voidling <Soozpriest-Area52>", -- [1]
 							},
-							["end_time"] = 1556303466,
-							["nome"] = "Soozpriest-Area52",
 							["friendlyfire_total"] = 115578,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 								[128] = 35496,
 							},
 							["total_without_pet"] = 2785774.001583,
-							["spec"] = 258,
+							["nome"] = "Soozpriest-Area52",
 							["serial"] = "Player-3676-0A3FE244",
 							["dps_started"] = false,
+							["end_time"] = 1556303466,
+							["last_dps"] = 11963.467131394,
 							["total"] = 2923991.001583,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 1101710.001583,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -22246,7 +24978,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556303223,
 							["delay"] = 0,
-							["last_dps"] = 11963.467131394,
+							["damage_taken"] = 1101710.001583,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -22719,18 +25451,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1556303466,
-							["nome"] = "Yorman",
 							["friendlyfire_total"] = 0,
+							["spec"] = 105,
+							["classe"] = "DRUID",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 735274.001798,
-							["spec"] = 105,
+							["nome"] = "Yorman",
 							["serial"] = "Player-9-0A76FA3F",
 							["dps_started"] = false,
+							["end_time"] = 1556303466,
+							["last_dps"] = 3008.36300396159,
 							["total"] = 735274.001798,
-							["classe"] = "DRUID",
-							["damage_taken"] = 593403.001798,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -22950,7 +25682,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556303262,
 							["delay"] = 1556303335,
-							["last_dps"] = 3008.36300396159,
+							["damage_taken"] = 593403.001798,
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -23581,7 +26313,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 369278,
-							["boss_fight_component"] = true,
+							["total"] = 1625318.007335,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -23592,8 +26324,8 @@ _detalhes_database = {
 							["total_without_pet"] = 1625318.007335,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 1625318.007335,
-							["damage_taken"] = 0.007335,
+							["end_time"] = 1556303466,
+							["last_dps"] = 0,
 							["last_event"] = 1556303450,
 							["nome"] = "[*] Homing Missile",
 							["spells"] = {
@@ -23637,10 +26369,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556303466,
+							["damage_taken"] = 0.007335,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -23660,7 +26392,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 249177,
-							["boss_fight_component"] = true,
+							["total"] = 1501503.00425,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -23670,8 +26402,8 @@ _detalhes_database = {
 							["total_without_pet"] = 1501503.00425,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 1501503.00425,
-							["damage_taken"] = 0.00425,
+							["end_time"] = 1556303466,
+							["last_dps"] = 0,
 							["last_event"] = 1556303462,
 							["nome"] = "[*] Gatling Gun",
 							["spells"] = {
@@ -23711,10 +26443,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556303466,
+							["damage_taken"] = 0.00425,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -24194,35 +26926,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[8936] = {
-										["c_amt"] = 56,
+									[33763] = {
+										["c_amt"] = 46,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Paxington-Illidan"] = 58915,
-											["Andruww"] = 14431,
-											["Nv"] = 12201,
+											["Nv"] = 53522,
 										},
-										["n_max"] = 31130,
+										["n_max"] = 2802,
 										["targets"] = {
-											["Paxington-Illidan"] = 71848,
-											["Andruww"] = 98806,
-											["Soozpriest-Area52"] = 1541,
-											["Nv"] = 415679,
+											["Nv"] = 384874,
 										},
-										["n_min"] = 414,
-										["counter"] = 140,
-										["overheal"] = 85547,
-										["total"] = 587874,
-										["c_max"] = 52442,
-										["id"] = 8936,
+										["n_min"] = 0,
+										["counter"] = 188,
+										["overheal"] = 53522,
+										["total"] = 384874,
+										["c_max"] = 5716,
+										["id"] = 33763,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 294930,
+										["c_curado"] = 158642,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 504,
-										["n_curado"] = 292944,
-										["n_amt"] = 84,
+										["c_min"] = 0,
+										["n_curado"] = 226232,
+										["n_amt"] = 142,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -24263,30 +26990,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[33763] = {
-										["c_amt"] = 46,
+									[33778] = {
+										["c_amt"] = 4,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Nv"] = 53522,
+											["Nv"] = 99934,
 										},
-										["n_max"] = 2802,
+										["n_max"] = 14753,
 										["targets"] = {
-											["Nv"] = 384874,
+											["Nv"] = 123764,
 										},
 										["n_min"] = 0,
-										["counter"] = 188,
-										["overheal"] = 53522,
-										["total"] = 384874,
-										["c_max"] = 5716,
-										["id"] = 33763,
+										["counter"] = 9,
+										["overheal"] = 99934,
+										["total"] = 123764,
+										["c_max"] = 39228,
+										["id"] = 33778,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 158642,
+										["c_curado"] = 109011,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 226232,
-										["n_amt"] = 142,
+										["c_min"] = 34946,
+										["n_curado"] = 14753,
+										["n_amt"] = 5,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -24521,30 +27248,35 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[33778] = {
-										["c_amt"] = 4,
+									[8936] = {
+										["c_amt"] = 56,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Nv"] = 99934,
+											["Paxington-Illidan"] = 58915,
+											["Andruww"] = 14431,
+											["Nv"] = 12201,
 										},
-										["n_max"] = 14753,
+										["n_max"] = 31130,
 										["targets"] = {
-											["Nv"] = 123764,
+											["Paxington-Illidan"] = 71848,
+											["Andruww"] = 98806,
+											["Soozpriest-Area52"] = 1541,
+											["Nv"] = 415679,
 										},
-										["n_min"] = 0,
-										["counter"] = 9,
-										["overheal"] = 99934,
-										["total"] = 123764,
-										["c_max"] = 39228,
-										["id"] = 33778,
+										["n_min"] = 414,
+										["counter"] = 140,
+										["overheal"] = 85547,
+										["total"] = 587874,
+										["c_max"] = 52442,
+										["id"] = 8936,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 109011,
+										["c_curado"] = 294930,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 34946,
-										["n_curado"] = 14753,
-										["n_amt"] = 5,
+										["c_min"] = 504,
+										["n_curado"] = 292944,
+										["n_amt"] = 84,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -24660,33 +27392,31 @@ _detalhes_database = {
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
-									[272979] = {
+									[143924] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 184913,
+										["totalabsorb"] = 0,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 13476,
+										["n_max"] = 8753,
 										["targets"] = {
-											["Nv"] = 184913,
+											["Nv"] = 42547,
 										},
-										["n_min"] = 2530,
-										["counter"] = 17,
+										["n_min"] = 1,
+										["counter"] = 163,
 										["overheal"] = 0,
-										["total"] = 184913,
+										["total"] = 42547,
 										["c_max"] = 0,
-										["id"] = 272979,
+										["id"] = 143924,
 										["targets_absorbs"] = {
-											["Nv"] = 184913,
 										},
 										["c_curado"] = 0,
-										["c_min"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 184913,
-										["n_amt"] = 17,
+										["c_min"] = 0,
+										["n_curado"] = 42547,
+										["n_amt"] = 163,
+										["m_healed"] = 0,
 										["totaldenied"] = 0,
-										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 									[270674] = {
@@ -24717,31 +27447,31 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[152261] = {
+									[272979] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 480274,
+										["totalabsorb"] = 184913,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 41185,
+										["n_max"] = 13476,
 										["targets"] = {
-											["Nv"] = 480274,
+											["Nv"] = 184913,
 										},
-										["n_min"] = 2782,
-										["counter"] = 14,
+										["n_min"] = 2530,
+										["counter"] = 17,
 										["overheal"] = 0,
-										["total"] = 480274,
+										["total"] = 184913,
 										["c_max"] = 0,
-										["id"] = 152261,
+										["id"] = 272979,
 										["targets_absorbs"] = {
-											["Nv"] = 480274,
+											["Nv"] = 184913,
 										},
 										["c_curado"] = 0,
 										["c_min"] = 0,
 										["m_crit"] = 0,
 										["m_healed"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 480274,
-										["n_amt"] = 14,
+										["n_curado"] = 184913,
+										["n_amt"] = 17,
 										["totaldenied"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
@@ -24858,31 +27588,33 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[143924] = {
+									[152261] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 0,
+										["totalabsorb"] = 480274,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 8753,
+										["n_max"] = 41185,
 										["targets"] = {
-											["Nv"] = 42547,
+											["Nv"] = 480274,
 										},
-										["n_min"] = 1,
-										["counter"] = 163,
+										["n_min"] = 2782,
+										["counter"] = 14,
 										["overheal"] = 0,
-										["total"] = 42547,
+										["total"] = 480274,
 										["c_max"] = 0,
-										["id"] = 143924,
+										["id"] = 152261,
 										["targets_absorbs"] = {
+											["Nv"] = 480274,
 										},
 										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 42547,
-										["n_amt"] = 163,
+										["m_crit"] = 0,
 										["m_healed"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 480274,
+										["n_amt"] = 14,
 										["totaldenied"] = 0,
+										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 								},
@@ -25376,30 +28108,30 @@ _detalhes_database = {
 							["nome"] = "Andruww",
 							["spells"] = {
 								["_ActorTable"] = {
-									[269238] = {
-										["c_amt"] = 2,
+									[143924] = {
+										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Andruww"] = 52500,
+											["Andruww"] = 15624,
 										},
-										["n_max"] = 0,
+										["n_max"] = 11109,
 										["targets"] = {
-											["Andruww"] = 0,
+											["Andruww"] = 117373,
 										},
-										["n_min"] = 0,
-										["counter"] = 3,
-										["overheal"] = 52500,
-										["total"] = 0,
+										["n_min"] = 1274,
+										["counter"] = 18,
+										["overheal"] = 15624,
+										["total"] = 117373,
 										["c_max"] = 0,
-										["id"] = 269238,
+										["id"] = 143924,
 										["targets_absorbs"] = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
+										["n_curado"] = 117373,
+										["n_amt"] = 18,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -25433,6 +28165,34 @@ _detalhes_database = {
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
+									[269238] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Andruww"] = 52500,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Andruww"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 3,
+										["overheal"] = 52500,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 269238,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
 									[288333] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
@@ -25457,34 +28217,6 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["n_curado"] = 20880,
 										["n_amt"] = 114,
-										["m_healed"] = 0,
-										["totaldenied"] = 0,
-										["absorbed"] = 0,
-									},
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Andruww"] = 15624,
-										},
-										["n_max"] = 11109,
-										["targets"] = {
-											["Andruww"] = 117373,
-										},
-										["n_min"] = 1274,
-										["counter"] = 18,
-										["overheal"] = 15624,
-										["total"] = 117373,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 117373,
-										["n_amt"] = 18,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -26728,6 +29460,17 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[288330] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 24,
+										["id"] = 288330,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[288333] = {
 										["appliedamt"] = 20,
 										["targets"] = {
@@ -26746,17 +29489,6 @@ _detalhes_database = {
 										["activedamt"] = 0,
 										["uptime"] = 244,
 										["id"] = 1490,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[288330] = {
-										["appliedamt"] = 4,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 24,
-										["id"] = 288330,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -27758,7 +30490,7 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[201754] = 31,
 								[16827] = 68,
@@ -27766,8 +30498,8 @@ _detalhes_database = {
 								[90361] = 5,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3021-1594-11693-69943-0602FEBCAB",
 							["pets"] = {
 							},
@@ -27858,13 +30590,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Voidling <Soozpriest-Area52>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[63619] = 1,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-128142-0000434D78",
 							["pets"] = {
 							},
@@ -27933,13 +30665,13 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Yorman",
 							["nome"] = "Efflorescence <Yorman>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[81262] = 4,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-47649-0000434D8C",
 							["pets"] = {
 							},
@@ -28209,7 +30941,7 @@ _detalhes_database = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
 							["classe"] = "HUNTER",
-							["on_hold"] = false,
+							["damage_taken"] = 189631.00256,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -28218,8 +30950,7 @@ _detalhes_database = {
 							["serial"] = "Player-57-0ACFA287",
 							["fight_component"] = true,
 							["end_time"] = 1556303176,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 2820.32260504768,
 							["dps_started"] = false,
 							["nome"] = "Paxington-Illidan",
 							["spec"] = 253,
@@ -28585,10 +31316,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["last_dps"] = 2820.32260504768,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303130,
 							["delay"] = 0,
-							["damage_taken"] = 189631.00256,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -28611,8 +31343,9 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["pets"] = {
 							},
-							["damage_taken"] = 1140361.004897,
-							["last_dps"] = 2514.06327371385,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
 							["classe"] = "PALADIN",
 							["raid_targets"] = {
 							},
@@ -28626,104 +31359,7 @@ _detalhes_database = {
 							["nome"] = "Nv",
 							["spec"] = 66,
 							["grupo"] = true,
-							["avoidance"] = {
-								["[*] Volcanic Plume"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 1,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 74217,
-									["ABSORB"] = 1,
-									["ABSORB_AMT"] = 74217,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-								["Venture Co. War Machine"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 13173,
-									["BLOCKED_AMT"] = 32053,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 1,
-									["ALL"] = 6,
-									["PARTIAL_ABSORBED"] = 4,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 8512,
-									["ABSORB"] = 5,
-									["ABSORB_AMT"] = 21685,
-									["FULL_HIT"] = 1,
-									["HITS"] = 4,
-									["FULL_HIT_AMT"] = 13173,
-								},
-								["Ordnance Specialist"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 2,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 3245,
-									["ABSORB"] = 2,
-									["ABSORB_AMT"] = 3245,
-									["FULL_HIT"] = 0,
-									["HITS"] = 2,
-									["FULL_HIT_AMT"] = 0,
-								},
-								["Expert Technician"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 1,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 1066,
-									["ABSORB"] = 1,
-									["ABSORB_AMT"] = 1066,
-									["FULL_HIT"] = 1,
-									["HITS"] = 2,
-									["FULL_HIT_AMT"] = 28307,
-								},
-								["overall"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 13173,
-									["BLOCKED_AMT"] = 38582,
-									["BLOCKED_HITS"] = 2,
-									["FULL_ABSORBED"] = 1,
-									["ALL"] = 17,
-									["PARTIAL_ABSORBED"] = 10,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 89310,
-									["ABSORB"] = 11,
-									["ABSORB_AMT"] = 102483,
-									["FULL_HIT"] = 6,
-									["HITS"] = 8,
-									["FULL_HIT_AMT"] = 202553,
-								},
-								["Venture Co. Skyscorcher"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 6529,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 6,
-									["PARTIAL_ABSORBED"] = 2,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 2270,
-									["ABSORB"] = 2,
-									["ABSORB_AMT"] = 2270,
-									["FULL_HIT"] = 4,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 161073,
-								},
-							},
+							["damage_taken"] = 1140361.004897,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -29068,11 +31704,107 @@ _detalhes_database = {
 							["colocacao"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1556303166,
-							["on_hold"] = false,
+							["avoidance"] = {
+								["[*] Volcanic Plume"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 1,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 74217,
+									["ABSORB"] = 1,
+									["ABSORB_AMT"] = 74217,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Venture Co. War Machine"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 13173,
+									["BLOCKED_AMT"] = 32053,
+									["BLOCKED_HITS"] = 1,
+									["FULL_ABSORBED"] = 1,
+									["ALL"] = 6,
+									["PARTIAL_ABSORBED"] = 4,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 8512,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 21685,
+									["FULL_HIT"] = 1,
+									["HITS"] = 4,
+									["FULL_HIT_AMT"] = 13173,
+								},
+								["Ordnance Specialist"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 2,
+									["PARTIAL_ABSORBED"] = 2,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 3245,
+									["ABSORB"] = 2,
+									["ABSORB_AMT"] = 3245,
+									["FULL_HIT"] = 0,
+									["HITS"] = 2,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Expert Technician"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 2,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 1066,
+									["ABSORB"] = 1,
+									["ABSORB_AMT"] = 1066,
+									["FULL_HIT"] = 1,
+									["HITS"] = 2,
+									["FULL_HIT_AMT"] = 28307,
+								},
+								["overall"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 13173,
+									["BLOCKED_AMT"] = 38582,
+									["BLOCKED_HITS"] = 2,
+									["FULL_ABSORBED"] = 1,
+									["ALL"] = 17,
+									["PARTIAL_ABSORBED"] = 10,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 89310,
+									["ABSORB"] = 11,
+									["ABSORB_AMT"] = 102483,
+									["FULL_HIT"] = 6,
+									["HITS"] = 8,
+									["FULL_HIT_AMT"] = 202553,
+								},
+								["Venture Co. Skyscorcher"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 6529,
+									["BLOCKED_HITS"] = 1,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 6,
+									["PARTIAL_ABSORBED"] = 2,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 2270,
+									["ABSORB"] = 2,
+									["ABSORB_AMT"] = 2270,
+									["FULL_HIT"] = 4,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 161073,
+								},
+							},
 							["start_time"] = 1556303132,
 							["delay"] = 1556303166,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 2514.06327371385,
 						}, -- [2]
 						{
 							["flag_original"] = 1297,
@@ -29089,19 +31821,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["spec"] = 105,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 147460.01568,
-							["last_dps"] = 0.000207483441960483,
+							["damage_taken"] = 482340.01568,
 							["serial"] = "Player-9-0A76FA3F",
 							["fight_component"] = true,
 							["total"] = 147460.01568,
 							["classe"] = "DRUID",
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Yorman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -29174,7 +31906,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["colocacao"] = 3,
 							["last_event"] = 0,
-							["damage_taken"] = 482340.01568,
+							["last_dps"] = 0.000207483441960483,
 							["start_time"] = 1556303151,
 							["delay"] = 0,
 							["custom"] = 0,
@@ -29194,19 +31926,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["spec"] = 577,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1113645.0112,
-							["last_dps"] = 0.000113227959996494,
+							["damage_taken"] = 421854.0112,
 							["serial"] = "Player-9-0B1541E0",
 							["fight_component"] = true,
 							["total"] = 1113645.0112,
 							["classe"] = "DEMONHUNTER",
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Andruww",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -29274,23 +32006,25 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[199547] = {
-										["c_amt"] = 2,
+									[179057] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 17735,
+										["c_dmg"] = 6370,
 										["g_amt"] = 0,
-										["n_max"] = 5680,
+										["n_max"] = 3185,
 										["targets"] = {
-											["Venture Co. Skyscorcher"] = 49295,
+											["Expert Technician"] = 3185,
+											["Venture Co. War Machine"] = 3185,
+											["Venture Co. Skyscorcher"] = 9555,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 31560,
+										["n_dmg"] = 9555,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 8,
-										["total"] = 49295,
-										["c_max"] = 8890,
-										["id"] = 199547,
+										["counter"] = 4,
+										["total"] = 15925,
+										["c_max"] = 6370,
+										["id"] = 179057,
 										["r_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
@@ -29298,7 +32032,7 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 6,
+										["n_amt"] = 3,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -29390,23 +32124,23 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[288330] = {
-										["c_amt"] = 0,
+									[199547] = {
+										["c_amt"] = 2,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 17735,
 										["g_amt"] = 0,
-										["n_max"] = 1205,
+										["n_max"] = 5680,
 										["targets"] = {
-											["Expert Technician"] = 1205,
+											["Venture Co. Skyscorcher"] = 49295,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 1205,
+										["n_dmg"] = 31560,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1205,
-										["c_max"] = 0,
-										["id"] = 288330,
+										["counter"] = 8,
+										["total"] = 49295,
+										["c_max"] = 8890,
+										["id"] = 199547,
 										["r_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
@@ -29414,7 +32148,7 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 1,
+										["n_amt"] = 6,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -29683,25 +32417,23 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[179057] = {
-										["c_amt"] = 1,
+									[288330] = {
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 6370,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 3185,
+										["n_max"] = 1205,
 										["targets"] = {
-											["Expert Technician"] = 3185,
-											["Venture Co. War Machine"] = 3185,
-											["Venture Co. Skyscorcher"] = 9555,
+											["Expert Technician"] = 1205,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 9555,
+										["n_dmg"] = 1205,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 15925,
-										["c_max"] = 6370,
-										["id"] = 179057,
+										["counter"] = 1,
+										["total"] = 1205,
+										["c_max"] = 0,
+										["id"] = 288330,
 										["r_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
@@ -29709,7 +32441,7 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 3,
+										["n_amt"] = 1,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -29722,7 +32454,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["colocacao"] = 4,
 							["last_event"] = 0,
-							["damage_taken"] = 421854.0112,
+							["last_dps"] = 0.000113227959996494,
 							["start_time"] = 1556303147,
 							["delay"] = 0,
 							["custom"] = 0,
@@ -29741,19 +32473,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["spec"] = 258,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 801750.00987,
-							["last_dps"] = 0.00011233079135518,
+							["damage_taken"] = 256301.00987,
 							["serial"] = "Player-3676-0A3FE244",
 							["fight_component"] = true,
 							["total"] = 801750.00987,
 							["classe"] = "PRIEST",
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Soozpriest-Area52",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -30121,7 +32853,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["colocacao"] = 5,
 							["last_event"] = 0,
-							["damage_taken"] = 256301.00987,
+							["last_dps"] = 0.00011233079135518,
 							["start_time"] = 1556303147,
 							["delay"] = 0,
 							["custom"] = 0,
@@ -30146,8 +32878,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 496438,
@@ -30157,7 +32888,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 968859.008864,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 1012194.008864,
 							["nome"] = "Venture Co. War Machine",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -30174,9 +32905,9 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 439941,
-										["g_dmg"] = 0,
+										["a_amt"] = 9,
 										["n_min"] = 10055,
-										["MISS"] = 1,
+										["g_dmg"] = 0,
 										["counter"] = 18,
 										["IMMUNE"] = 2,
 										["r_amt"] = 0,
@@ -30193,7 +32924,7 @@ _detalhes_database = {
 										["a_dmg"] = 305579,
 										["n_amt"] = 13,
 										["total"] = 544927,
-										["a_amt"] = 9,
+										["MISS"] = 1,
 									}, -- [1]
 									[262383] = {
 										["c_amt"] = 0,
@@ -30316,7 +33047,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1012194.008864,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303119,
 							["delay"] = 1556303138,
 							["friendlyfire_total"] = 0,
@@ -30336,7 +33068,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 495540.002087,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -30344,9 +33076,9 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 495540.002087,
 							["serial"] = "Creature-0-3021-1594-11693-137029-00044346C2",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1556303176,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Ordnance Specialist",
 							["spells"] = {
@@ -30474,8 +33206,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 330050,
@@ -30485,7 +33216,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 867246.008016,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 1915448.008016,
 							["nome"] = "Venture Co. Skyscorcher",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -30647,7 +33378,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1915448.008016,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303116,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -30667,8 +33399,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -30677,7 +33408,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 189631.010029,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 37967.010029,
 							["nome"] = "Crawler Mine",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -30745,7 +33476,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 37967.010029,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303170,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -30760,17 +33492,17 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 237583,
-							["total"] = 116028.00197,
+							["monster"] = true,
 							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 116028,
 							},
 							["total_without_pet"] = 116028.00197,
-							["monster"] = true,
 							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1556303176,
-							["damage_taken"] = 0.00197,
+							["last_dps"] = 0,
 							["last_event"] = 1556303166,
 							["nome"] = "[*] Volcanic Plume",
 							["spells"] = {
@@ -30807,10 +33539,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["total"] = 116028.00197,
 							["friendlyfire"] = {
 							},
-							["dps_started"] = false,
+							["damage_taken"] = 0.00197,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -30836,8 +33568,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 125854,
@@ -30847,7 +33578,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 125854.016466,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 1144821.016466,
 							["nome"] = "Expert Technician",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -30945,7 +33676,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1144821.016466,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303140,
 							["delay"] = 1556303144,
 							["friendlyfire_total"] = 0,
@@ -30976,8 +33708,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3021-1594-11693-69943-0502FEBCAB",
 							["dps_started"] = false,
 							["end_time"] = 1556303176,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 272671.009048,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
 							["spells"] = {
@@ -31141,12 +33872,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 272671.009048,
+							["on_hold"] = false,
 							["total"] = 925343.009048,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556303132,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -32406,39 +35138,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
 							["pets"] = {
 							},
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.004537,
 							["healing_from"] = {
 							},
-							["classe"] = "UNKNOW",
+							["heal_enemy_amt"] = 117082,
 							["totalover"] = 0.004537,
 							["total_without_pet"] = 0.004537,
-							["totalover_without_pet"] = 0.004537,
+							["iniciar_hps"] = false,
 							["start_time"] = 1556303176,
 							["monster"] = true,
-							["end_time"] = 1556303176,
-							["healing_taken"] = 0.004537,
 							["total"] = 0.004537,
+							["classe"] = "UNKNOW",
+							["end_time"] = 1556303176,
 							["nome"] = "Expert Technician",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["heal_enemy_amt"] = 117082,
-							["heal_enemy"] = {
-								[262554] = 117082,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["healing_taken"] = 0.004537,
+							["heal_enemy"] = {
+								[262554] = 117082,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
 							["totaldenied"] = 0.004537,
-							["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
+							["delay"] = 0,
 							["last_event"] = 1556303175,
 						}, -- [7]
 						{
@@ -32449,38 +35181,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
 							["pets"] = {
 							},
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.001341,
 							["healing_from"] = {
 							},
-							["classe"] = "UNKNOW",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.001341,
 							["total_without_pet"] = 0.001341,
-							["totalover_without_pet"] = 0.001341,
+							["iniciar_hps"] = false,
 							["start_time"] = 1556303176,
 							["monster"] = true,
-							["end_time"] = 1556303176,
-							["healing_taken"] = 0.001341,
 							["total"] = 0.001341,
+							["classe"] = "UNKNOW",
+							["end_time"] = 1556303176,
 							["nome"] = "Venture Co. War Machine",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["heal_enemy_amt"] = 0,
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["healing_taken"] = 0.001341,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
 							["totaldenied"] = 0.001341,
-							["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
+							["delay"] = 0,
 							["last_event"] = 0,
 						}, -- [8]
 					},
@@ -32580,16 +35312,16 @@ _detalhes_database = {
 										},
 										["counter"] = 18,
 									},
+									[34914] = {
+										["id"] = 34914,
+										["total"] = 24,
+										["targets"] = {
+											["Soozpriest-Area52"] = 24,
+										},
+										["counter"] = 4,
+									},
 									[205385] = {
 										["id"] = 205385,
-										["total"] = 20,
-										["targets"] = {
-											["Soozpriest-Area52"] = 20,
-										},
-										["counter"] = 1,
-									},
-									[205448] = {
-										["id"] = 205448,
 										["total"] = 20,
 										["targets"] = {
 											["Soozpriest-Area52"] = 20,
@@ -32620,13 +35352,13 @@ _detalhes_database = {
 										},
 										["counter"] = 1,
 									},
-									[34914] = {
-										["id"] = 34914,
-										["total"] = 24,
+									[205448] = {
+										["id"] = 205448,
+										["total"] = 20,
 										["targets"] = {
-											["Soozpriest-Area52"] = 24,
+											["Soozpriest-Area52"] = 20,
 										},
-										["counter"] = 4,
+										["counter"] = 1,
 									},
 								},
 								["tipo"] = 7,
@@ -33076,9 +35808,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["interrupt_targets"] = {
-								["Expert Technician"] = 1,
-							},
+							["spec"] = 66,
 							["interrompeu_oque"] = {
 								[262540] = 1,
 							},
@@ -33125,8 +35855,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["interrupt"] = 1.002947,
-							["spec"] = 66,
+							["nome"] = "Nv",
+							["interrupt_targets"] = {
+								["Expert Technician"] = 1,
+							},
 							["grupo"] = true,
 							["last_event"] = 1556303189,
 							["spell_cast"] = {
@@ -33143,8 +35875,7 @@ _detalhes_database = {
 								[53595] = 8,
 								[275779] = 6,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["interrupt"] = 1.002947,
 							["ress_spells"] = {
 								["_ActorTable"] = {
 									[7328] = {
@@ -33159,7 +35890,8 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["tipo"] = 4,
-							["nome"] = "Nv",
+							["debuff_uptime_targets"] = {
+							},
 							["isTank"] = true,
 							["serial"] = "Player-9-0A7EC3E5",
 							["buff_uptime_targets"] = {
@@ -34719,13 +37451,13 @@ _detalhes_database = {
 							["nome"] = "Efflorescence <Yorman>",
 							["pets"] = {
 							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["last_event"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-47649-0000434E7A",
 							["spell_cast"] = {
 								[81262] = 1,
 							},
-							["tipo"] = 4,
-							["last_event"] = 0,
-							["serial"] = "Creature-0-3021-1594-11693-47649-0000434E7A",
-							["classe"] = "PET",
 						}, -- [17]
 					},
 				}, -- [4]
@@ -35741,18 +38473,18 @@ _detalhes_database = {
 							["pets"] = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
-							["end_time"] = 1556303113,
-							["nome"] = "Paxington-Illidan",
 							["friendlyfire_total"] = 0,
+							["spec"] = 253,
+							["classe"] = "HUNTER",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1746347.008874,
-							["spec"] = 253,
+							["nome"] = "Paxington-Illidan",
 							["serial"] = "Player-57-0ACFA287",
 							["dps_started"] = false,
+							["end_time"] = 1556303113,
+							["last_dps"] = 22982.7096098656,
 							["total"] = 3828138.008874,
-							["classe"] = "HUNTER",
-							["damage_taken"] = 467243.008874,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -36088,7 +38820,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302948,
 							["delay"] = 0,
-							["last_dps"] = 22982.7096098656,
+							["damage_taken"] = 467243.008874,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -36103,18 +38835,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1556303113,
-							["nome"] = "Andruww",
 							["friendlyfire_total"] = 0,
+							["spec"] = 577,
+							["classe"] = "DEMONHUNTER",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3415486.006333,
-							["spec"] = 577,
+							["nome"] = "Andruww",
 							["serial"] = "Player-9-0B1541E0",
 							["dps_started"] = false,
+							["end_time"] = 1556303113,
+							["last_dps"] = 20505.3012399623,
 							["total"] = 3415486.006333,
-							["classe"] = "DEMONHUNTER",
-							["damage_taken"] = 1541741.006333,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -36625,7 +39357,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302947,
 							["delay"] = 0,
-							["last_dps"] = 20505.3012399623,
+							["damage_taken"] = 1541741.006333,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -36641,18 +39373,18 @@ _detalhes_database = {
 							["pets"] = {
 								"Voidling <Soozpriest-Area52>", -- [1]
 							},
-							["end_time"] = 1556303113,
-							["nome"] = "Soozpriest-Area52",
 							["friendlyfire_total"] = 35257,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1867645.008664,
-							["spec"] = 258,
+							["nome"] = "Soozpriest-Area52",
 							["serial"] = "Player-3676-0A3FE244",
 							["dps_started"] = false,
+							["end_time"] = 1556303113,
+							["last_dps"] = 11699.3144379133,
 							["total"] = 1948708.008664,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 694977.008664,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -37024,7 +39756,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302990,
 							["delay"] = 1556303071,
-							["last_dps"] = 11699.3144379133,
+							["damage_taken"] = 694977.008664,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -37422,18 +40154,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1556303113,
-							["nome"] = "Yorman",
 							["friendlyfire_total"] = 0,
+							["spec"] = 105,
+							["classe"] = "DRUID",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 356295.005548,
-							["spec"] = 105,
+							["nome"] = "Yorman",
 							["serial"] = "Player-9-0A76FA3F",
 							["dps_started"] = false,
+							["end_time"] = 1556303113,
+							["last_dps"] = 2139.06202675376,
 							["total"] = 356295.005548,
-							["classe"] = "DRUID",
-							["damage_taken"] = 786154.005548,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -37653,7 +40385,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302993,
 							["delay"] = 1556303008,
-							["last_dps"] = 2139.06202675376,
+							["damage_taken"] = 786154.005548,
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -37718,6 +40450,37 @@ _detalhes_database = {
 										["a_amt"] = 30,
 										["r_amt"] = 0,
 									},
+									[259853] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 55628,
+										["targets"] = {
+											["Paxington-Illidan"] = 48338,
+											["Andruww"] = 1364916,
+											["Nv"] = 219654,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1632908,
+										["n_min"] = 30812,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 1632908,
+										["c_max"] = 0,
+										["id"] = 259853,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 497558,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 36,
+										["a_amt"] = 10,
+										["r_amt"] = 0,
+									},
 									[260669] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -37770,37 +40533,6 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[259853] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 55628,
-										["targets"] = {
-											["Paxington-Illidan"] = 48338,
-											["Andruww"] = 1364916,
-											["Nv"] = 219654,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1632908,
-										["n_min"] = 30812,
-										["g_dmg"] = 0,
-										["counter"] = 36,
-										["total"] = 1632908,
-										["c_max"] = 0,
-										["id"] = 259853,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["a_dmg"] = 497558,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 36,
-										["a_amt"] = 10,
 										["r_amt"] = 0,
 									},
 								},
@@ -37985,7 +40717,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 135789,
-							["boss_fight_component"] = true,
+							["total"] = 1344136.005233,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -37995,8 +40727,8 @@ _detalhes_database = {
 							["total_without_pet"] = 1344136.005233,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 1344136.005233,
-							["damage_taken"] = 0.005233,
+							["end_time"] = 1556303113,
+							["last_dps"] = 0,
 							["last_event"] = 1556303111,
 							["nome"] = "[*] Azerite Catalyst",
 							["spells"] = {
@@ -38037,10 +40769,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556303113,
+							["damage_taken"] = 0.005233,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -38061,7 +40793,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 135833,
-							["boss_fight_component"] = true,
+							["total"] = 796989.003274,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -38070,8 +40802,8 @@ _detalhes_database = {
 							["total_without_pet"] = 796989.003274,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 796989.003274,
-							["damage_taken"] = 0.003274,
+							["end_time"] = 1556303113,
+							["last_dps"] = 0,
 							["last_event"] = 1556303109,
 							["nome"] = "[*] Propellant Blast",
 							["spells"] = {
@@ -38111,10 +40843,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556303113,
+							["damage_taken"] = 0.003274,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -38207,9 +40939,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["monster"] = true,
 							["total"] = 0.008718,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.008718,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -38248,7 +40980,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.008718,
+							["on_hold"] = false,
 							["start_time"] = 1556303113,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -40338,9 +43070,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 163,
+							["boss_fight_component"] = true,
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Nv",
 							["spec"] = 66,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -40361,7 +43093,7 @@ _detalhes_database = {
 							},
 							["isTank"] = true,
 							["serial"] = "Player-9-0A7EC3E5",
-							["boss_fight_component"] = true,
+							["nome"] = "Nv",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -40701,7 +43433,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["nome"] = "Soozpriest-Area52",
+							["boss_fight_component"] = true,
 							["debuff_uptime"] = 579,
 							["dispell_oque"] = {
 								[259853] = 2,
@@ -40725,8 +43457,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Soozpriest-Area52",
 							["spec"] = 258,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -40755,7 +43486,8 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-3676-0A3FE244",
 							["pets"] = {
 							},
@@ -41084,13 +43816,13 @@ _detalhes_database = {
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[288330] = {
-										["appliedamt"] = 3,
+									[288333] = {
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 18,
-										["id"] = 288330,
+										["uptime"] = 35,
+										["id"] = 288333,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -41106,6 +43838,17 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[288330] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 18,
+										["id"] = 288330,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[57723] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -41113,17 +43856,6 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 163,
 										["id"] = 57723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[288333] = {
-										["appliedamt"] = 6,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 35,
-										["id"] = 288333,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -41379,12 +44111,12 @@ _detalhes_database = {
 								[272790] = 27,
 								[781] = 2,
 								[193455] = 51,
-								[131894] = 3,
+								[268314] = 2,
 								[26297] = 1,
 								[53209] = 12,
-								[272679] = 1,
+								[131894] = 3,
 								[19574] = 4,
-								[268314] = 2,
+								[272679] = 1,
 								[34026] = 32,
 								[193530] = 2,
 							},
@@ -41726,7 +44458,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["nome"] = "Yorman",
+							["boss_fight_component"] = true,
 							["debuff_uptime"] = 366,
 							["dispell_oque"] = {
 								[259853] = 8,
@@ -41757,8 +44489,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Yorman",
 							["spec"] = 105,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -41792,7 +44523,8 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-9-0A76FA3F",
 							["pets"] = {
 								"Efflorescence <Yorman>", -- [1]
@@ -41802,15 +44534,15 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[201754] = 27,
 								[16827] = 48,
 								[90361] = 4,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3021-1594-11693-69943-0502FEBCAB",
 							["pets"] = {
 							},
@@ -41895,13 +44627,13 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Yorman",
 							["nome"] = "Efflorescence <Yorman>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[81262] = 3,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-47649-0000434C6E",
 							["pets"] = {
 							},
@@ -42931,19 +45663,19 @@ _detalhes_database = {
 							["pets"] = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["spec"] = 253,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 81629.001964,
-							["last_dps"] = 7356.07187909379,
+							["damage_taken"] = 75418.001964,
 							["serial"] = "Player-57-0ACFA287",
 							["fight_component"] = true,
 							["total"] = 154529.001964,
 							["classe"] = "HUNTER",
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Paxington-Illidan",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43166,7 +45898,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["colocacao"] = 1,
 							["last_event"] = 1556302904,
-							["damage_taken"] = 75418.001964,
+							["last_dps"] = 7356.07187909379,
 							["start_time"] = 1556302894,
 							["delay"] = 0,
 							["custom"] = 0,
@@ -43190,8 +45922,9 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["pets"] = {
 							},
-							["damage_taken"] = 574246.002292,
-							["last_dps"] = 2006.04571295443,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
 							["classe"] = "PALADIN",
 							["raid_targets"] = {
 							},
@@ -43205,6 +45938,134 @@ _detalhes_database = {
 							["nome"] = "Nv",
 							["spec"] = 66,
 							["grupo"] = true,
+							["damage_taken"] = 574246.002292,
+							["spells"] = {
+								["_ActorTable"] = {
+									[157122] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1088,
+										["targets"] = {
+											["Venture Co. Mastermind"] = 3227,
+											["Feckless Assistant"] = 1088,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4315,
+										["n_min"] = 1075,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 4315,
+										["c_max"] = 0,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271685] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6398,
+										["targets"] = {
+											["Venture Co. Alchemist"] = 6398,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6398,
+										["n_min"] = 6398,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6398,
+										["c_max"] = 0,
+										["id"] = 271685,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271686] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2742,
+										["targets"] = {
+											["Venture Co. Alchemist"] = 2742,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2742,
+										["n_min"] = 2742,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2742,
+										["c_max"] = 0,
+										["id"] = 271686,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 11475,
+										["g_amt"] = 0,
+										["n_max"] = 5737,
+										["targets"] = {
+											["Venture Co. Mastermind"] = 17212,
+											["Venture Co. Alchemist"] = 5737,
+											["Feckless Assistant"] = 5737,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17211,
+										["n_min"] = 5737,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 28686,
+										["c_max"] = 11475,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11475,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1556302895,
 							["avoidance"] = {
 								["Venture Co. Mastermind"] = {
 									["DODGE"] = 0,
@@ -43303,138 +46164,9 @@ _detalhes_database = {
 									["FULL_HIT_AMT"] = 211709,
 								},
 							},
-							["spells"] = {
-								["_ActorTable"] = {
-									[271685] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6398,
-										["targets"] = {
-											["Venture Co. Alchemist"] = 6398,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6398,
-										["n_min"] = 6398,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 6398,
-										["c_max"] = 0,
-										["id"] = 271685,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[31935] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 11475,
-										["g_amt"] = 0,
-										["n_max"] = 5737,
-										["targets"] = {
-											["Venture Co. Mastermind"] = 17212,
-											["Venture Co. Alchemist"] = 5737,
-											["Feckless Assistant"] = 5737,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 17211,
-										["n_min"] = 5737,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 28686,
-										["c_max"] = 11475,
-										["id"] = 31935,
-										["r_dmg"] = 0,
-										["spellschool"] = 2,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 11475,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[271686] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 2742,
-										["targets"] = {
-											["Venture Co. Alchemist"] = 2742,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2742,
-										["n_min"] = 2742,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2742,
-										["c_max"] = 0,
-										["id"] = 271686,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[157122] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1088,
-										["targets"] = {
-											["Venture Co. Mastermind"] = 3227,
-											["Feckless Assistant"] = 1088,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4315,
-										["n_min"] = 1075,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 4315,
-										["c_max"] = 0,
-										["id"] = 157122,
-										["r_dmg"] = 0,
-										["spellschool"] = 2,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
-									},
-								},
-								["tipo"] = 2,
-							},
-							["colocacao"] = 2,
-							["custom"] = 0,
-							["last_event"] = 1556302895,
-							["on_hold"] = false,
 							["start_time"] = 1556302890,
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 2006.04571295443,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -43448,7 +46180,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "DEMONHUNTER",
-							["damage_taken"] = 286956.006851,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -43457,7 +46189,8 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B1541E0",
 							["fight_component"] = true,
 							["total"] = 0.006851,
-							["last_dps"] = 0.000329295842342937,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["nome"] = "Andruww",
 							["spec"] = 577,
@@ -43471,11 +46204,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0.000329295842342937,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 286956.006851,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -43490,7 +46222,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "PRIEST",
-							["damage_taken"] = 692887.005646,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -43499,7 +46231,8 @@ _detalhes_database = {
 							["serial"] = "Player-3676-0A3FE244",
 							["fight_component"] = true,
 							["total"] = 0.005646,
-							["last_dps"] = 0.000271377072816847,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["nome"] = "Soozpriest-Area52",
 							["spec"] = 258,
@@ -43513,11 +46246,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0.000271377072816847,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 692887.005646,
 						}, -- [4]
 						{
 							["flag_original"] = 1297,
@@ -43532,7 +46264,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
-							["damage_taken"] = 265534.005072,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -43541,7 +46273,8 @@ _detalhes_database = {
 							["serial"] = "Player-9-0A76FA3F",
 							["fight_component"] = true,
 							["total"] = 0.005072,
-							["last_dps"] = 0.00024378755106749,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
 							["nome"] = "Yorman",
 							["spec"] = 105,
@@ -43555,11 +46288,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0.00024378755106749,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["damage_taken"] = 265534.005072,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -43575,7 +46307,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 707919.001054,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -43583,9 +46315,9 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 707919.001054,
 							["serial"] = "Creature-0-3021-1594-11693-133963-00074346C2",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1556302904,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Test Subject",
 							["spells"] = {
@@ -43676,17 +46408,17 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 2065558,
-							["total"] = 624811.001019,
+							["monster"] = true,
 							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[32] = 147057,
 							},
 							["total_without_pet"] = 624811.001019,
-							["monster"] = true,
 							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1556302904,
-							["damage_taken"] = 0.001019,
+							["last_dps"] = 0,
 							["last_event"] = 1556302901,
 							["nome"] = "[*] Toxic Sludge",
 							["spells"] = {
@@ -43727,10 +46459,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["total"] = 624811.001019,
 							["friendlyfire"] = {
 							},
-							["dps_started"] = false,
+							["damage_taken"] = 0.001019,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -43755,7 +46487,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 507780.005972,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -43763,9 +46495,9 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 507780.005972,
 							["serial"] = "Creature-0-3021-1594-11693-133430-00034346C2",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1556302904,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Venture Co. Mastermind",
 							["spells"] = {
@@ -43856,7 +46588,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 223370.006371,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -43864,9 +46596,9 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 223370.006371,
 							["serial"] = "Creature-0-3021-1594-11693-133432-0006C346C2",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1556302904,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Venture Co. Alchemist",
 							["spells"] = {
@@ -44015,7 +46747,7 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 95286.003773,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
@@ -44023,9 +46755,9 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 95286.003773,
 							["serial"] = "Creature-0-3021-1594-11693-133345-0002C346C2",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1556302904,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Feckless Assistant",
 							["spells"] = {
@@ -44303,7 +47035,8 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -44312,8 +47045,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.008523,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.008523,
 							["nome"] = "Weapons Tester",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -44352,7 +47084,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.008523,
+							["on_hold"] = false,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -44367,7 +47099,8 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -44376,8 +47109,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.002616,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.002616,
 							["nome"] = "Wanton Sapper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -44416,7 +47148,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.002616,
+							["on_hold"] = false,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -44431,7 +47163,8 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -44440,8 +47173,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.002232,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.002232,
 							["nome"] = "Unknown",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -44480,7 +47212,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.002232,
+							["on_hold"] = false,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -44495,7 +47227,8 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -44504,8 +47237,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.00161,
 							["monster"] = true,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.00161,
 							["nome"] = "Leech Globule",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -44544,7 +47276,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.00161,
+							["on_hold"] = false,
 							["start_time"] = 1556302904,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -45625,9 +48357,9 @@ _detalhes_database = {
 							["grupo"] = true,
 							["flag_original"] = 1047,
 							["buff_uptime"] = 125,
-							["classe"] = "PRIEST",
+							["tipo"] = 4,
 							["nome"] = "Soozpriest-Area52",
-							["last_event"] = 1556302904,
+							["classe"] = "PRIEST",
 							["pets"] = {
 							},
 							["buff_uptime_spells"] = {
@@ -45770,7 +48502,7 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0A3FE244",
-							["tipo"] = 4,
+							["last_event"] = 1556302904,
 						}, -- [2]
 						{
 							["fight_component"] = true,
@@ -45780,9 +48512,9 @@ _detalhes_database = {
 							["grupo"] = true,
 							["flag_original"] = 1047,
 							["buff_uptime"] = 71,
-							["classe"] = "DEMONHUNTER",
+							["tipo"] = 4,
 							["nome"] = "Andruww",
-							["last_event"] = 1556302904,
+							["classe"] = "DEMONHUNTER",
 							["pets"] = {
 							},
 							["buff_uptime_spells"] = {
@@ -45858,7 +48590,7 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-9-0B1541E0",
-							["tipo"] = 4,
+							["last_event"] = 1556302904,
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -46047,10 +48779,10 @@ _detalhes_database = {
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[217200] = 1,
-								[2643] = 4,
-								[272790] = 1,
 								[781] = 1,
+								[217200] = 1,
+								[272790] = 1,
+								[2643] = 4,
 							},
 							["debuff_uptime_targets"] = {
 							},
@@ -46240,14 +48972,14 @@ _detalhes_database = {
 						{
 							["flag_original"] = 2632,
 							["nome"] = "Wanton Sapper",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[268362] = 2,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
 							["monster"] = true,
 						}, -- [7]
@@ -46404,15 +49136,15 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[201754] = 1,
 								[90361] = 1,
 								[16827] = 1,
 							},
 							["fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3021-1594-11693-69943-0402FEBCAB",
 							["pets"] = {
 							},
@@ -46420,28 +49152,28 @@ _detalhes_database = {
 						{
 							["flag_original"] = 2632,
 							["nome"] = "Weapons Tester",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[268865] = 1,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["monster"] = true,
 						}, -- [14]
 						{
 							["flag_original"] = 2632,
 							["nome"] = "Unknown",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[262940] = 1,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-133753-0000434C32",
 							["monster"] = true,
 						}, -- [15]
@@ -47630,19 +50362,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 4711156.002763,
-							["nome"] = "Andruww",
 							["friendlyfire_total"] = 2004,
+							["spec"] = 577,
+							["classe"] = "DEMONHUNTER",
 							["raid_targets"] = {
 								[128] = 2262064,
 							},
 							["total_without_pet"] = 4711156.002763,
-							["spec"] = 577,
+							["nome"] = "Andruww",
 							["serial"] = "Player-9-0B1541E0",
 							["dps_started"] = false,
+							["total"] = 4711156.002763,
+							["last_dps"] = 29115.7174105368,
 							["end_time"] = 1556302860,
-							["classe"] = "DEMONHUNTER",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -48215,7 +50947,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302699,
 							["delay"] = 0,
-							["last_dps"] = 29115.7174105368,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -48230,19 +50962,19 @@ _detalhes_database = {
 							["pets"] = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
-							["total"] = 4353212.001337,
-							["nome"] = "Paxington-Illidan",
 							["friendlyfire_total"] = 0,
+							["spec"] = 253,
+							["classe"] = "HUNTER",
 							["raid_targets"] = {
 								[128] = 3176044,
 							},
 							["total_without_pet"] = 1804286.001337,
-							["spec"] = 253,
+							["nome"] = "Paxington-Illidan",
 							["serial"] = "Player-57-0ACFA287",
 							["dps_started"] = false,
+							["total"] = 4353212.001337,
+							["last_dps"] = 26903.5647269483,
 							["end_time"] = 1556302860,
-							["classe"] = "HUNTER",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -48619,7 +51351,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302699,
 							["delay"] = 0,
-							["last_dps"] = 26903.5647269483,
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -48636,19 +51368,19 @@ _detalhes_database = {
 							["pets"] = {
 								"Voidling <Soozpriest-Area52>", -- [1]
 							},
-							["total"] = 3204918.00756,
-							["nome"] = "Soozpriest-Area52",
 							["friendlyfire_total"] = 57529,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 								[128] = 2104791,
 							},
 							["total_without_pet"] = 3131425.00756,
-							["spec"] = 258,
+							["nome"] = "Soozpriest-Area52",
 							["serial"] = "Player-3676-0A3FE244",
 							["dps_started"] = false,
+							["total"] = 3204918.00756,
+							["last_dps"] = 19806.9193585038,
 							["end_time"] = 1556302860,
-							["classe"] = "PRIEST",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -49075,7 +51807,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302701,
 							["delay"] = 0,
-							["last_dps"] = 19806.9193585038,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -49541,19 +52273,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 813495.00124,
-							["nome"] = "Yorman",
 							["friendlyfire_total"] = 0,
+							["spec"] = 105,
+							["classe"] = "DRUID",
 							["raid_targets"] = {
 								[128] = 720015,
 							},
 							["total_without_pet"] = 813495.00124,
-							["spec"] = 105,
+							["nome"] = "Yorman",
 							["serial"] = "Player-9-0A76FA3F",
 							["dps_started"] = false,
+							["total"] = 813495.00124,
+							["last_dps"] = 5027.53263893131,
 							["end_time"] = 1556302860,
-							["classe"] = "DRUID",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -49616,6 +52348,36 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
+									[1822] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 20834,
+										["g_amt"] = 0,
+										["n_max"] = 2918,
+										["targets"] = {
+											["Azerokk"] = 17624,
+											["Earthrager <Azerokk>"] = 14882,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11672,
+										["n_min"] = 2918,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 32506,
+										["c_max"] = 14882,
+										["id"] = 1822,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 5952,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
 									[164812] = {
 										["c_amt"] = 16,
 										["b_amt"] = 0,
@@ -49643,35 +52405,6 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 40,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[5221] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 25242,
-										["g_amt"] = 0,
-										["n_max"] = 6187,
-										["targets"] = {
-											["Azerokk"] = 68550,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 43308,
-										["n_min"] = 6186,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 68550,
-										["c_max"] = 12621,
-										["id"] = 5221,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 12621,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -49794,33 +52527,32 @@ _detalhes_database = {
 										["a_dmg"] = 0,
 										["r_amt"] = 0,
 									},
-									[1822] = {
+									[5221] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
-										["c_dmg"] = 20834,
+										["c_dmg"] = 25242,
 										["g_amt"] = 0,
-										["n_max"] = 2918,
+										["n_max"] = 6187,
 										["targets"] = {
-											["Azerokk"] = 17624,
-											["Earthrager <Azerokk>"] = 14882,
+											["Azerokk"] = 68550,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 11672,
-										["n_min"] = 2918,
+										["n_dmg"] = 43308,
+										["n_min"] = 6186,
 										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 32506,
-										["c_max"] = 14882,
-										["id"] = 1822,
+										["counter"] = 9,
+										["total"] = 68550,
+										["c_max"] = 12621,
+										["id"] = 5221,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 5952,
+										["c_min"] = 12621,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 4,
+										["n_amt"] = 7,
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -49837,7 +52569,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302754,
 							["delay"] = 0,
-							["last_dps"] = 5027.53263893131,
+							["on_hold"] = false,
 						}, -- [5]
 						{
 							["flag_original"] = 4370,
@@ -50098,6 +52830,33 @@ _detalhes_database = {
 										["spellschool"] = 1,
 										["r_amt"] = 0,
 									}, -- [1]
+									[271526] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 271526,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 6,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
 									[258627] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -50120,6 +52879,33 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[257582] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257582,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["m_amt"] = 0,
@@ -50157,60 +52943,6 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["n_amt"] = 54,
 										["spellschool"] = 1,
-										["r_amt"] = 0,
-									},
-									[257582] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 257582,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 4,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[271526] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 271526,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 6,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
 								},
@@ -50584,7 +53316,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 451165,
-							["boss_fight_component"] = true,
+							["total"] = 180783.008028,
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
@@ -50594,8 +53326,8 @@ _detalhes_database = {
 							["total_without_pet"] = 180783.008028,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 180783.008028,
-							["damage_taken"] = 0.008028,
+							["end_time"] = 1556302860,
+							["last_dps"] = 0,
 							["last_event"] = 1556302747,
 							["nome"] = "[*] Resonant Quake",
 							["spells"] = {
@@ -50634,10 +53366,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556302860,
+							["damage_taken"] = 0.008028,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -50731,9 +53463,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["monster"] = true,
 							["total"] = 0.007565,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.007565,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -50772,7 +53504,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.007565,
+							["on_hold"] = false,
 							["start_time"] = 1556302860,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -50795,9 +53527,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130653-0006C346C2",
 							["monster"] = true,
 							["total"] = 0.003489,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.003489,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -50836,7 +53568,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.003489,
+							["on_hold"] = false,
 							["start_time"] = 1556302860,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -53896,14 +56628,13 @@ _detalhes_database = {
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[57723] = {
-										["activedamt"] = -1,
-										["id"] = 57723,
+									[135299] = {
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
-										["actived_at"] = 1556302792,
-										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["activedamt"] = 0,
+										["uptime"] = 21,
+										["id"] = 135299,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -53919,6 +56650,18 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[57723] = {
+										["activedamt"] = -1,
+										["id"] = 57723,
+										["targets"] = {
+										},
+										["actived_at"] = 1556302792,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[288333] = {
 										["appliedamt"] = 13,
 										["targets"] = {
@@ -53926,17 +56669,6 @@ _detalhes_database = {
 										["activedamt"] = 0,
 										["uptime"] = 78,
 										["id"] = 288333,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[135299] = {
-										["appliedamt"] = 6,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 21,
-										["id"] = 135299,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -54594,14 +57326,15 @@ _detalhes_database = {
 						}, -- [7]
 						{
 							["flag_original"] = 4370,
-							["last_event"] = 1556302735,
+							["tipo"] = 4,
 							["cc_done"] = 1.007028,
 							["boss_fight_component"] = true,
 							["nome"] = "Ralph <Paxington-Illidan>",
 							["ownerName"] = "Paxington-Illidan",
-							["pets"] = {
+							["cc_done_targets"] = {
+								["Earthrager"] = 1,
 							},
-							["classe"] = "PET",
+							["last_event"] = 1556302735,
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[24394] = {
@@ -54614,15 +57347,14 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["tipo"] = 4,
+							["classe"] = "PET",
+							["pets"] = {
+							},
+							["serial"] = "Pet-0-3021-1594-11693-69943-0302FEBCAB",
 							["spell_cast"] = {
 								[201754] = 19,
 								[16827] = 46,
 								[90361] = 1,
-							},
-							["serial"] = "Pet-0-3021-1594-11693-69943-0302FEBCAB",
-							["cc_done_targets"] = {
-								["Earthrager"] = 1,
 							},
 						}, -- [8]
 						{
@@ -54800,13 +57532,13 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Yorman",
 							["nome"] = "Efflorescence <Yorman>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[81262] = 2,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-47649-0000434BAA",
 							["pets"] = {
 							},
@@ -54995,8 +57727,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1517704,
@@ -55006,7 +57737,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 2061572.024132,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 8631289.024132,
 							["nome"] = "Wanton Sapper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -55110,7 +57841,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8631289.024132,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302572,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -55150,10 +57882,11 @@ _detalhes_database = {
 								[128] = 694737,
 							},
 							["total_without_pet"] = 4244648.018586,
-							["on_hold"] = false,
+							["damage_taken"] = 392277.018586,
 							["fight_component"] = true,
 							["end_time"] = 1556302683,
-							["damage_taken"] = 392277.018586,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["nome"] = "Paxington-Illidan",
 							["spells"] = {
@@ -55616,8 +58349,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1556302407,
 							["delay"] = 0,
 							["total"] = 15374244.018586,
@@ -55635,8 +58367,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -55645,7 +58376,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 126751.011232,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 39123.011232,
 							["nome"] = "Taskmaster Askari",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -55744,7 +58475,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 39123.011232,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302674,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -55772,8 +58504,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1995531,
@@ -55783,7 +58514,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 2752200.013109,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 9279231.013109,
 							["nome"] = "Venture Co. Earthshaper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -55951,7 +58682,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 9279231.013109,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302563,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -55966,8 +58698,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -55976,7 +58707,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.010559,
 							["monster"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.010559,
 							["nome"] = "[*] Mining Charge",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -56020,7 +58751,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.010559,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302683,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -56061,8 +58793,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3021-1594-11693-69943-0202FEBCAB",
 							["dps_started"] = false,
 							["end_time"] = 1556302683,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 543361.0219,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
 							["spells"] = {
@@ -56256,12 +58987,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 543361.0219,
+							["on_hold"] = false,
 							["total"] = 11129596.0219,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302411,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -56284,18 +59016,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 511975,
 							},
 							["total_without_pet"] = 2121561.019999,
 							["serial"] = "Creature-0-3021-1594-11693-134005-00004346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1351452.019999,
 							["nome"] = "Shalebiter",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -56368,10 +59100,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1351452.019999,
+							["on_hold"] = false,
 							["start_time"] = 1556302728,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [7]
 						{
 							["flag_original"] = 1298,
@@ -56407,14 +59139,31 @@ _detalhes_database = {
 							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["classe"] = "PALADIN",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 162828,
 							},
 							["total_without_pet"] = 7730206.02875,
-							["friendlyfire"] = {
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
 							},
 							["serial"] = "Player-9-0A7EC3E5",
 							["dps_started"] = false,
@@ -56806,24 +59555,7 @@ _detalhes_database = {
 							["grupo"] = true,
 							["last_event"] = 0,
 							["spec"] = 66,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 0,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 7954920.02875,
@@ -56840,17 +59572,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.01865,
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.01865,
 							["nome"] = "Weapons Tester",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -56890,10 +59622,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.01865,
+							["on_hold"] = false,
 							["start_time"] = 1556302857,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [9]
 						{
 							["flag_original"] = 2632,
@@ -56911,18 +59643,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 390896,
 							},
 							["total_without_pet"] = 390896.017132,
 							["serial"] = "Creature-0-3021-1594-11693-130635-0000C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 3378633.017132,
 							["nome"] = "Stonefury",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -56993,10 +59725,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 3378633.017132,
+							["on_hold"] = false,
 							["start_time"] = 1556302801,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [10]
 						{
 							["flag_original"] = 1298,
@@ -57034,10 +59766,11 @@ _detalhes_database = {
 								[128] = 712839,
 							},
 							["total_without_pet"] = 13540255.021606,
-							["on_hold"] = false,
+							["damage_taken"] = 1469836.021606,
 							["fight_component"] = true,
 							["end_time"] = 1556302860,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["nome"] = "Andruww",
 							["spells"] = {
@@ -57721,11 +60454,10 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 1556302581,
 							["delay"] = 0,
-							["damage_taken"] = 1469836.021606,
+							["on_hold"] = false,
 						}, -- [11]
 						{
 							["flag_original"] = 1298,
@@ -57735,9 +60467,9 @@ _detalhes_database = {
 								["Addled Thug"] = true,
 								["Risen Soul"] = true,
 								["Refreshment Vendor"] = true,
+								["Soozpriest-Area52"] = true,
 								["Mech Jockey"] = true,
 								["Tormented Soul"] = true,
-								["Soozpriest-Area52"] = true,
 							},
 							["targets"] = {
 								["Shalebiter"] = 110172,
@@ -57764,10 +60496,17 @@ _detalhes_database = {
 								[128] = 403651,
 							},
 							["total_without_pet"] = 10700969.028183,
-							["on_hold"] = false,
+							["damage_taken"] = 499535.028183,
 							["fight_component"] = true,
 							["end_time"] = 1556302860,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+								["Soozpriest-Area52"] = {
+									["spells"] = {
+										[295176] = 35257,
+									},
+									["total"] = 35257,
+								},
+							},
 							["last_event"] = 0,
 							["nome"] = "Soozpriest-Area52",
 							["spells"] = {
@@ -58238,17 +60977,10 @@ _detalhes_database = {
 							["friendlyfire_total"] = 35257,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-								["Soozpriest-Area52"] = {
-									["spells"] = {
-										[295176] = 35257,
-									},
-									["total"] = 35257,
-								},
-							},
+							["last_dps"] = 0,
 							["start_time"] = 1556302584,
 							["delay"] = 0,
-							["damage_taken"] = 499535.028183,
+							["on_hold"] = false,
 						}, -- [12]
 						{
 							["flag_original"] = 1297,
@@ -58285,10 +61017,11 @@ _detalhes_database = {
 								[128] = 43170,
 							},
 							["total_without_pet"] = 1480153.023194,
-							["on_hold"] = false,
+							["damage_taken"] = 869027.023194,
 							["fight_component"] = true,
 							["end_time"] = 1556302860,
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
 							["nome"] = "Yorman",
 							["spells"] = {
@@ -58372,11 +61105,10 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 1556302639,
 							["delay"] = 0,
-							["damage_taken"] = 869027.023194,
+							["on_hold"] = false,
 						}, -- [13]
 						{
 							["flag_original"] = 2632,
@@ -58398,18 +61130,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 927181,
 							},
 							["total_without_pet"] = 1374157.006183,
 							["serial"] = "Creature-0-3021-1594-11693-148716-0000434A96",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7489298.006183,
 							["nome"] = "Risen Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -58516,10 +61248,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7489298.006183,
+							["on_hold"] = false,
 							["start_time"] = 1556302803,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [14]
 						{
 							["flag_original"] = 2632,
@@ -58538,18 +61270,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 605005,
 							},
 							["total_without_pet"] = 830967.005604,
 							["serial"] = "Creature-0-3021-1594-11693-130437-00034346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 4054362.005604,
 							["nome"] = "Mine Rat",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -58625,10 +61357,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4054362.005604,
+							["on_hold"] = false,
 							["start_time"] = 1556302806,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [15]
 						{
 							["flag_original"] = 2632,
@@ -58650,18 +61382,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 25935,
 							},
 							["total_without_pet"] = 438651.010935,
 							["serial"] = "Creature-0-3021-1594-11693-148893-0000434A9D",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 2815525.010935,
 							["nome"] = "Tormented Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -58736,10 +61468,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 2815525.010935,
+							["on_hold"] = false,
 							["start_time"] = 1556302824,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [16]
 						{
 							["flag_original"] = 2632,
@@ -58752,17 +61484,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 183501.003678,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.003678,
 							["nome"] = "[*] Volcanic Plume",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -58804,10 +61536,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.003678,
+							["on_hold"] = false,
 							["start_time"] = 1556302856,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [17]
 						{
 							["flag_original"] = 8466,
@@ -58829,7 +61561,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-128142-0000434AF2",
 							["dps_started"] = false,
 							["end_time"] = 1556302860,
-							["on_hold"] = false,
+							["damage_taken"] = 71232.012743,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Voidling <Soozpriest-Area52>",
 							["spells"] = {
@@ -58865,13 +61597,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 71232.012743,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 58075.012743,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556302846,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -58886,17 +61618,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 39123.005772,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.005772,
 							["nome"] = "[*] Cover",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -58937,10 +61669,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.005772,
+							["on_hold"] = false,
 							["start_time"] = 1556302850,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [19]
 						{
 							["flag_original"] = 2632,
@@ -58962,18 +61694,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 775233,
 							},
 							["total_without_pet"] = 1546105.016633,
 							["serial"] = "Creature-0-3021-1594-11693-130488-0003C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 4506537.016633,
 							["nome"] = "Mech Jockey",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59104,10 +61836,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4506537.016633,
+							["on_hold"] = false,
 							["start_time"] = 1556302782,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [20]
 						{
 							["flag_original"] = 2632,
@@ -59127,18 +61859,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 233996,
 							},
 							["total_without_pet"] = 338852.005085,
 							["serial"] = "Creature-0-3021-1594-11693-130435-00024346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1464076.005085,
 							["nome"] = "Addled Thug",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59265,10 +61997,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1464076.005085,
+							["on_hold"] = false,
 							["start_time"] = 1556302810,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [21]
 						{
 							["flag_original"] = 2632,
@@ -59286,18 +62018,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 687260,
 							},
 							["total_without_pet"] = 687260.018687,
 							["serial"] = "Creature-0-3021-1594-11693-130436-00074346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 4144452.018687,
 							["nome"] = "Off-Duty Laborer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59369,10 +62101,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4144452.018687,
+							["on_hold"] = false,
 							["start_time"] = 1556302808,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [22]
 						{
 							["flag_original"] = 2632,
@@ -59390,18 +62122,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 100742,
 							},
 							["total_without_pet"] = 100742.013224,
 							["serial"] = "Creature-0-3021-1594-11693-134232-0000C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1126211.013224,
 							["nome"] = "Hired Assassin",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59445,10 +62177,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1126211.013224,
+							["on_hold"] = false,
 							["start_time"] = 1556302831,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [23]
 						{
 							["flag_original"] = 2632,
@@ -59469,18 +62201,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 183462,
 							},
 							["total_without_pet"] = 437043.007322,
 							["serial"] = "Creature-0-3021-1594-11693-136470-0003C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302860,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 2252422.007322,
 							["nome"] = "Refreshment Vendor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59580,10 +62312,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 2252422.007322,
+							["on_hold"] = false,
 							["start_time"] = 1556302819,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [24]
 					},
 				}, -- [1]
@@ -60146,30 +62878,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[33763] = {
-										["c_amt"] = 62,
+									[33778] = {
+										["c_amt"] = 4,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Nv"] = 90052,
+											["Nv"] = 51376,
 										},
-										["n_max"] = 3133,
+										["n_max"] = 21815,
 										["targets"] = {
-											["Nv"] = 568938,
+											["Nv"] = 259911,
 										},
 										["n_min"] = 0,
-										["counter"] = 252,
-										["overheal"] = 90052,
-										["total"] = 568938,
-										["c_max"] = 5761,
-										["id"] = 33763,
+										["counter"] = 13,
+										["overheal"] = 51376,
+										["total"] = 259911,
+										["c_max"] = 41721,
+										["id"] = 33778,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 219007,
+										["c_curado"] = 109329,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 349931,
-										["n_amt"] = 190,
+										["n_curado"] = 150582,
+										["n_amt"] = 9,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -60206,30 +62938,36 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[33778] = {
-										["c_amt"] = 4,
+									[8936] = {
+										["c_amt"] = 65,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Nv"] = 51376,
+											["Yorman"] = 33260,
+											["Andruww"] = 7583,
+											["Soozpriest-Area52"] = 3336,
+											["Nv"] = 67000,
 										},
-										["n_max"] = 21815,
+										["n_max"] = 34807,
 										["targets"] = {
-											["Nv"] = 259911,
+											["Yorman"] = 118398,
+											["Andruww"] = 52067,
+											["Soozpriest-Area52"] = 30376,
+											["Nv"] = 1046937,
 										},
 										["n_min"] = 0,
-										["counter"] = 13,
-										["overheal"] = 51376,
-										["total"] = 259911,
-										["c_max"] = 41721,
-										["id"] = 33778,
+										["counter"] = 188,
+										["overheal"] = 111179,
+										["total"] = 1247778,
+										["c_max"] = 67197,
+										["id"] = 8936,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 109329,
+										["c_curado"] = 797850,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 150582,
-										["n_amt"] = 9,
+										["n_curado"] = 449928,
+										["n_amt"] = 123,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -60454,36 +63192,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[8936] = {
-										["c_amt"] = 65,
+									[33763] = {
+										["c_amt"] = 62,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Yorman"] = 33260,
-											["Andruww"] = 7583,
-											["Soozpriest-Area52"] = 3336,
-											["Nv"] = 67000,
+											["Nv"] = 90052,
 										},
-										["n_max"] = 34807,
+										["n_max"] = 3133,
 										["targets"] = {
-											["Yorman"] = 118398,
-											["Andruww"] = 52067,
-											["Soozpriest-Area52"] = 30376,
-											["Nv"] = 1046937,
+											["Nv"] = 568938,
 										},
 										["n_min"] = 0,
-										["counter"] = 188,
-										["overheal"] = 111179,
-										["total"] = 1247778,
-										["c_max"] = 67197,
-										["id"] = 8936,
+										["counter"] = 252,
+										["overheal"] = 90052,
+										["total"] = 568938,
+										["c_max"] = 5761,
+										["id"] = 33763,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 797850,
+										["c_curado"] = 219007,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 449928,
-										["n_amt"] = 123,
+										["n_curado"] = 349931,
+										["n_amt"] = 190,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -60905,29 +63637,30 @@ _detalhes_database = {
 							["nome"] = "Nv",
 							["spells"] = {
 								["_ActorTable"] = {
-									[250870] = {
+									[152261] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 0,
+										["totalabsorb"] = 384146,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 51136,
+										["n_max"] = 38305,
 										["targets"] = {
-											["Nv"] = 51136,
+											["Nv"] = 384146,
 										},
 										["n_min"] = 0,
-										["counter"] = 1,
+										["counter"] = 20,
 										["overheal"] = 0,
-										["total"] = 51136,
+										["total"] = 384146,
 										["c_max"] = 0,
-										["id"] = 250870,
+										["id"] = 152261,
 										["targets_absorbs"] = {
+											["Nv"] = 384146,
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 51136,
-										["n_amt"] = 1,
+										["n_curado"] = 384146,
+										["n_amt"] = 20,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -60960,30 +63693,29 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[143924] = {
+									[250870] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Nv"] = 18,
 										},
-										["n_max"] = 4173,
+										["n_max"] = 51136,
 										["targets"] = {
-											["Nv"] = 152219,
+											["Nv"] = 51136,
 										},
 										["n_min"] = 0,
-										["counter"] = 203,
-										["overheal"] = 18,
-										["total"] = 152219,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 51136,
 										["c_max"] = 0,
-										["id"] = 143924,
+										["id"] = 250870,
 										["targets_absorbs"] = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 152219,
-										["n_amt"] = 203,
+										["n_curado"] = 51136,
+										["n_amt"] = 1,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -61100,30 +63832,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[152261] = {
+									[143924] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 384146,
+										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Nv"] = 18,
 										},
-										["n_max"] = 38305,
+										["n_max"] = 4173,
 										["targets"] = {
-											["Nv"] = 384146,
+											["Nv"] = 152219,
 										},
 										["n_min"] = 0,
-										["counter"] = 20,
-										["overheal"] = 0,
-										["total"] = 384146,
+										["counter"] = 203,
+										["overheal"] = 18,
+										["total"] = 152219,
 										["c_max"] = 0,
-										["id"] = 152261,
+										["id"] = 143924,
 										["targets_absorbs"] = {
-											["Nv"] = 384146,
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 384146,
-										["n_amt"] = 20,
+										["n_curado"] = 152219,
+										["n_amt"] = 203,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -61149,39 +63881,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.011236,
+							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.011236,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.011236,
+							["heal_enemy_amt"] = 208649,
 							["totalover"] = 0.011236,
 							["total_without_pet"] = 0.011236,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.011236,
 							["start_time"] = 1556302857,
 							["monster"] = true,
-							["end_time"] = 1556302860,
-							["heal_enemy_amt"] = 208649,
+							["total"] = 0.011236,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.011236,
 							["nome"] = "Taskmaster Askari",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
-							["heal_enemy"] = {
-								[263276] = 208649,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[263276] = 208649,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.011236,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
 							["tipo"] = 2,
 						}, -- [7]
 						{
@@ -61192,38 +63924,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.012501,
+							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.012501,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.012501,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.012501,
 							["total_without_pet"] = 0.012501,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.012501,
 							["start_time"] = 1556302857,
 							["monster"] = true,
-							["end_time"] = 1556302860,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.012501,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.012501,
 							["nome"] = "Wanton Sapper",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.012501,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
 							["tipo"] = 2,
 						}, -- [8]
 						{
@@ -61234,38 +63966,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008624,
+							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008624,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008624,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008624,
 							["total_without_pet"] = 0.008624,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008624,
 							["start_time"] = 1556302857,
 							["monster"] = true,
-							["end_time"] = 1556302860,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.008624,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008624,
 							["nome"] = "Venture Co. Earthshaper",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008624,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
 							["tipo"] = 2,
 						}, -- [9]
 						{
@@ -61276,38 +64008,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.009285,
+							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.009285,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.009285,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.009285,
 							["total_without_pet"] = 0.009285,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.009285,
 							["start_time"] = 1556302857,
 							["monster"] = true,
-							["end_time"] = 1556302860,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.009285,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.009285,
 							["nome"] = "Off-Duty Laborer",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.009285,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
 							["tipo"] = 2,
 						}, -- [10]
 						{
@@ -61318,39 +64050,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008765,
+							["end_time"] = 1556302860,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008765,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008765,
+							["heal_enemy_amt"] = 90096,
 							["totalover"] = 0.008765,
 							["total_without_pet"] = 0.008765,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008765,
 							["start_time"] = 1556302857,
 							["monster"] = true,
-							["end_time"] = 1556302860,
-							["heal_enemy_amt"] = 90096,
+							["total"] = 0.008765,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008765,
 							["nome"] = "Refreshment Vendor",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
-							["heal_enemy"] = {
-								[268130] = 90096,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[268130] = 90096,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008765,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
 							["tipo"] = 2,
 						}, -- [11]
 					},
@@ -61396,6 +64128,14 @@ _detalhes_database = {
 										},
 										["counter"] = 13,
 									},
+									[258922] = {
+										["id"] = 258922,
+										["total"] = 665,
+										["targets"] = {
+											["Andruww"] = 665,
+										},
+										["counter"] = 95,
+									},
 									[202719] = {
 										["id"] = 202719,
 										["total"] = 15,
@@ -61403,14 +64143,6 @@ _detalhes_database = {
 											["Andruww"] = 15,
 										},
 										["counter"] = 1,
-									},
-									[218903] = {
-										["id"] = 218903,
-										["total"] = 210,
-										["targets"] = {
-											["Andruww"] = 210,
-										},
-										["counter"] = 7,
 									},
 									[278326] = {
 										["id"] = 278326,
@@ -61428,13 +64160,13 @@ _detalhes_database = {
 										},
 										["counter"] = 39,
 									},
-									[258922] = {
-										["id"] = 258922,
-										["total"] = 665,
+									[218903] = {
+										["id"] = 218903,
+										["total"] = 210,
 										["targets"] = {
-											["Andruww"] = 665,
+											["Andruww"] = 210,
 										},
-										["counter"] = 95,
+										["counter"] = 7,
 									},
 								},
 								["tipo"] = 7,
@@ -62356,7 +65088,12 @@ _detalhes_database = {
 							["debuff_uptime"] = 981,
 							["debuff_uptime_targets"] = {
 							},
-							["spec"] = 258,
+							["interrupt_targets"] = {
+								["Venture Co. Earthshaper"] = 1,
+								["Refreshment Vendor"] = 1,
+								["Hired Assassin"] = 1,
+								["Tormented Soul"] = 1,
+							},
 							["cc_done_targets"] = {
 								["Venture Co. Earthshaper"] = 4,
 								["Stonefury"] = 2,
@@ -62419,7 +65156,7 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["cc_done"] = 16.015804,
-							["interrupt"] = 4.019794,
+							["nome"] = "Soozpriest-Area52",
 							["grupo"] = true,
 							["spell_cast"] = {
 								[586] = 1,
@@ -62446,26 +65183,8 @@ _detalhes_database = {
 								[34914] = 37,
 								[8122] = 4,
 							},
-							["cooldowns_defensive_spells"] = {
-								["_ActorTable"] = {
-									[47585] = {
-										["id"] = 47585,
-										["targets"] = {
-											["Soozpriest-Area52"] = 1,
-										},
-										["counter"] = 1,
-									},
-									[15286] = {
-										["id"] = 15286,
-										["targets"] = {
-											["[*] raid wide cooldown"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["nome"] = "Soozpriest-Area52",
+							["interrupt"] = 4.019794,
+							["spec"] = 258,
 							["last_event"] = 1556302683,
 							["buff_uptime_targets"] = {
 							},
@@ -62672,12 +65391,12 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[65081] = {
+									[268904] = {
 										["refreshamt"] = 0,
-										["activedamt"] = 11,
-										["appliedamt"] = 11,
-										["id"] = 65081,
-										["uptime"] = 30,
+										["activedamt"] = 5,
+										["appliedamt"] = 5,
+										["id"] = 268904,
+										["uptime"] = 50,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -62692,22 +65411,22 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[268904] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 5,
-										["appliedamt"] = 5,
-										["id"] = 268904,
-										["uptime"] = 50,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
 									[290945] = {
 										["refreshamt"] = 0,
 										["activedamt"] = 4,
 										["appliedamt"] = 4,
 										["id"] = 290945,
 										["uptime"] = 299,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[65081] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 11,
+										["appliedamt"] = 11,
+										["id"] = 65081,
+										["uptime"] = 30,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -62737,11 +65456,24 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["tipo"] = 4,
-							["interrupt_targets"] = {
-								["Venture Co. Earthshaper"] = 1,
-								["Refreshment Vendor"] = 1,
-								["Hired Assassin"] = 1,
-								["Tormented Soul"] = 1,
+							["cooldowns_defensive_spells"] = {
+								["_ActorTable"] = {
+									[47585] = {
+										["id"] = 47585,
+										["targets"] = {
+											["Soozpriest-Area52"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[15286] = {
+										["id"] = 15286,
+										["targets"] = {
+											["[*] raid wide cooldown"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
 							},
 						}, -- [2]
 						{
@@ -63686,19 +66418,19 @@ _detalhes_database = {
 								[781] = 3,
 								[217200] = 40,
 								[109304] = 1,
+								[193530] = 6,
 								[193455] = 9,
-								[2643] = 98,
 								[147362] = 3,
-								[19577] = 1,
-								[131894] = 8,
 								[186265] = 1,
+								[131894] = 8,
 								[26297] = 2,
+								[19577] = 1,
 								[53209] = 17,
 								[268314] = 4,
 								[19574] = 8,
 								[272790] = 40,
 								[34026] = 18,
-								[193530] = 6,
+								[2643] = 98,
 							},
 							["cc_break_oque"] = {
 								[8122] = 2,
@@ -64303,14 +67035,14 @@ _detalhes_database = {
 						{
 							["monster"] = true,
 							["nome"] = "Weapons Tester",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[268865] = 10,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["flag_original"] = 2632,
 						}, -- [10]
@@ -64350,13 +67082,13 @@ _detalhes_database = {
 							["nome"] = "Efflorescence <Yorman>",
 							["pets"] = {
 							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["last_event"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-47649-0000434B20",
 							["spell_cast"] = {
 								[81262] = 7,
 							},
-							["tipo"] = 4,
-							["last_event"] = 0,
-							["serial"] = "Creature-0-3021-1594-11693-47649-0000434B20",
-							["classe"] = "PET",
 						}, -- [13]
 						{
 							["monster"] = true,
@@ -64775,18 +67507,18 @@ _detalhes_database = {
 							["pets"] = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
-							["total"] = 6272690.004719,
-							["nome"] = "Paxington-Illidan",
 							["friendlyfire_total"] = 0,
+							["spec"] = 253,
+							["classe"] = "HUNTER",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2539962.004719,
-							["spec"] = 253,
+							["nome"] = "Paxington-Illidan",
 							["serial"] = "Player-57-0ACFA287",
 							["dps_started"] = false,
+							["total"] = 6272690.004719,
+							["last_dps"] = 41976.6049314451,
 							["end_time"] = 1556302321,
-							["classe"] = "HUNTER",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -65192,7 +67924,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302172,
 							["delay"] = 0,
-							["last_dps"] = 41976.6049314451,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -65208,18 +67940,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 5813588.008334,
-							["nome"] = "Andruww",
 							["friendlyfire_total"] = 0,
+							["spec"] = 577,
+							["classe"] = "DEMONHUNTER",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5813588.008334,
-							["spec"] = 577,
+							["nome"] = "Andruww",
 							["serial"] = "Player-9-0B1541E0",
 							["dps_started"] = false,
+							["total"] = 5813588.008334,
+							["last_dps"] = 38904.3116870806,
 							["end_time"] = 1556302321,
-							["classe"] = "DEMONHUNTER",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -65718,7 +68450,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302171,
 							["delay"] = 0,
-							["last_dps"] = 38904.3116870806,
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -65736,18 +68468,18 @@ _detalhes_database = {
 							["pets"] = {
 								"Voidling <Soozpriest-Area52>", -- [1]
 							},
-							["total"] = 3779463.008615,
-							["nome"] = "Soozpriest-Area52",
 							["friendlyfire_total"] = 70514,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3634525.008615,
-							["spec"] = 258,
+							["nome"] = "Soozpriest-Area52",
 							["serial"] = "Player-3676-0A3FE244",
 							["dps_started"] = false,
+							["total"] = 3779463.008615,
+							["last_dps"] = 25292.0239078115,
 							["end_time"] = 1556302321,
-							["classe"] = "PRIEST",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -66157,7 +68889,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302172,
 							["delay"] = 0,
-							["last_dps"] = 25292.0239078115,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -66615,18 +69347,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 688453.004654,
-							["nome"] = "Yorman",
 							["friendlyfire_total"] = 0,
+							["spec"] = 105,
+							["classe"] = "DRUID",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 688453.004654,
-							["spec"] = 105,
+							["nome"] = "Yorman",
 							["serial"] = "Player-9-0A76FA3F",
 							["dps_started"] = false,
+							["total"] = 688453.004654,
+							["last_dps"] = 4607.10154152149,
 							["end_time"] = 1556302321,
-							["classe"] = "DRUID",
-							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -66759,7 +69491,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1556302191,
 							["delay"] = 1556302288,
-							["last_dps"] = 4607.10154152149,
+							["on_hold"] = false,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -67324,9 +70056,9 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 67733,
-										["g_dmg"] = 0,
+										["MISS"] = 1,
 										["n_min"] = 711,
-										["a_amt"] = 31,
+										["g_dmg"] = 0,
 										["counter"] = 59,
 										["DODGE"] = 3,
 										["r_amt"] = 0,
@@ -67343,7 +70075,7 @@ _detalhes_database = {
 										["a_dmg"] = 56900,
 										["n_amt"] = 36,
 										["total"] = 67733,
-										["MISS"] = 1,
+										["a_amt"] = 31,
 									}, -- [1]
 									[288388] = {
 										["c_amt"] = 0,
@@ -67465,7 +70197,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 237583,
-							["boss_fight_component"] = true,
+							["total"] = 91277.003379,
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
@@ -67474,8 +70206,8 @@ _detalhes_database = {
 							["total_without_pet"] = 91277.003379,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 91277.003379,
-							["damage_taken"] = 0.003379,
+							["end_time"] = 1556302321,
+							["last_dps"] = 0,
 							["last_event"] = 1556302201,
 							["nome"] = "[*] Volcanic Plume",
 							["spells"] = {
@@ -67512,10 +70244,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556302321,
+							["damage_taken"] = 0.003379,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -67635,7 +70367,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 132110,
-							["boss_fight_component"] = true,
+							["total"] = 16767.005605,
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
@@ -67644,8 +70376,8 @@ _detalhes_database = {
 							["total_without_pet"] = 16767.005605,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 16767.005605,
-							["damage_taken"] = 0.005605,
+							["end_time"] = 1556302321,
+							["last_dps"] = 0,
 							["last_event"] = 1556302282,
 							["nome"] = "[*] Cover",
 							["spells"] = {
@@ -67682,10 +70414,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1556302321,
+							["damage_taken"] = 0.005605,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -67711,9 +70443,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-138369-00084346C2",
 							["monster"] = true,
 							["total"] = 0.005787,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.005787,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67752,7 +70484,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.005787,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -67775,9 +70507,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["monster"] = true,
 							["total"] = 0.005784,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.005784,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67816,7 +70548,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.005784,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -67839,9 +70571,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130635-00024346C2",
 							["monster"] = true,
 							["total"] = 0.005025,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 0.005025,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67880,7 +70612,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 0.005025,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -67904,9 +70636,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
 							["monster"] = true,
 							["total"] = 0.004942,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 655758.004942,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67945,7 +70677,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 655758.004942,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -67969,9 +70701,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
 							["monster"] = true,
 							["total"] = 0.004189,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 16767.004189,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -68010,7 +70742,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 16767.004189,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -68034,9 +70766,9 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-130653-00054346C2",
 							["monster"] = true,
 							["total"] = 0.002914,
-							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
+							["damage_taken"] = 536529.002914,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -68075,7 +70807,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["damage_taken"] = 536529.002914,
+							["on_hold"] = false,
 							["start_time"] = 1556302321,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -70188,9 +72920,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 277,
+							["boss_fight_component"] = true,
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Nv",
 							["spec"] = 66,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -70212,7 +72944,7 @@ _detalhes_database = {
 							},
 							["isTank"] = true,
 							["serial"] = "Player-9-0A7EC3E5",
-							["boss_fight_component"] = true,
+							["nome"] = "Nv",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -70240,14 +72972,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[589] = {
-										["appliedamt"] = 2,
+									[288371] = {
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 146,
-										["id"] = 589,
-										["refreshamt"] = 4,
+										["activedamt"] = -6,
+										["uptime"] = 149,
+										["id"] = 288371,
+										["refreshamt"] = 15,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -70262,17 +72994,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[288371] = {
-										["appliedamt"] = 5,
-										["targets"] = {
-										},
-										["activedamt"] = -6,
-										["uptime"] = 149,
-										["id"] = 288371,
-										["refreshamt"] = 15,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[6788] = {
 										["appliedamt"] = 14,
 										["targets"] = {
@@ -70281,6 +73002,17 @@ _detalhes_database = {
 										["uptime"] = 75,
 										["id"] = 6788,
 										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[589] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 146,
+										["id"] = 589,
+										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -70918,13 +73650,13 @@ _detalhes_database = {
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[288330] = {
+									[57723] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 2,
-										["id"] = 288330,
+										["activedamt"] = 1,
+										["uptime"] = 129,
+										["id"] = 57723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -70940,6 +73672,17 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[288330] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 2,
+										["id"] = 288330,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[288333] = {
 										["appliedamt"] = 9,
 										["targets"] = {
@@ -70947,17 +73690,6 @@ _detalhes_database = {
 										["activedamt"] = 0,
 										["uptime"] = 54,
 										["id"] = 288333,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[57723] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 129,
-										["id"] = 57723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -71276,14 +74008,14 @@ _detalhes_database = {
 							},
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[268898] = {
+									[289523] = {
 										["appliedamt"] = 3,
 										["targets"] = {
 										},
 										["activedamt"] = 3,
-										["uptime"] = 30,
-										["id"] = 268898,
-										["refreshamt"] = 0,
+										["uptime"] = 148,
+										["id"] = 289523,
+										["refreshamt"] = 18,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -71294,39 +74026,6 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 20,
 										["id"] = 279648,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[289524] = {
-										["appliedamt"] = 8,
-										["targets"] = {
-										},
-										["activedamt"] = 8,
-										["uptime"] = 104,
-										["id"] = 289524,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[197721] = {
-										["appliedamt"] = 2,
-										["targets"] = {
-										},
-										["activedamt"] = 2,
-										["uptime"] = 16,
-										["id"] = 197721,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[225788] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 150,
-										["id"] = 225788,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -71342,24 +74041,57 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[289523] = {
+									[185736] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 150,
+										["id"] = 185736,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[774] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 5,
+										["uptime"] = 130,
+										["id"] = 774,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[16870] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 4,
+										["uptime"] = 23,
+										["id"] = 16870,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268898] = {
 										["appliedamt"] = 3,
 										["targets"] = {
 										},
 										["activedamt"] = 3,
-										["uptime"] = 148,
-										["id"] = 289523,
-										["refreshamt"] = 18,
+										["uptime"] = 30,
+										["id"] = 268898,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[48438] = {
-										["appliedamt"] = 7,
+									[227723] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 7,
-										["uptime"] = 65,
-										["id"] = 48438,
+										["activedamt"] = 1,
+										["uptime"] = 150,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -71386,35 +74118,35 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[16870] = {
-										["appliedamt"] = 4,
+									[289524] = {
+										["appliedamt"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 4,
-										["uptime"] = 23,
-										["id"] = 16870,
+										["activedamt"] = 8,
+										["uptime"] = 104,
+										["id"] = 289524,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[227723] = {
-										["appliedamt"] = 1,
+									[48438] = {
+										["appliedamt"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 150,
-										["id"] = 227723,
+										["activedamt"] = 7,
+										["uptime"] = 65,
+										["id"] = 48438,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[185736] = {
-										["appliedamt"] = 1,
+									[197721] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 150,
-										["id"] = 185736,
+										["activedamt"] = 2,
+										["uptime"] = 16,
+										["id"] = 197721,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -71430,14 +74162,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[774] = {
-										["appliedamt"] = 5,
+									[225788] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 5,
-										["uptime"] = 130,
-										["id"] = 774,
-										["refreshamt"] = 3,
+										["activedamt"] = 1,
+										["uptime"] = 150,
+										["id"] = 225788,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -71460,7 +74192,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["nome"] = "Yorman",
+							["boss_fight_component"] = true,
 							["debuff_uptime"] = 341,
 							["dispell_oque"] = {
 								[288388] = 2,
@@ -71484,8 +74216,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Yorman",
 							["spec"] = 105,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -71510,7 +74241,8 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-9-0A76FA3F",
 							["pets"] = {
 								"Efflorescence <Yorman>", -- [1]
@@ -71520,7 +74252,7 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[201754] = 19,
 								[16827] = 44,
@@ -71528,8 +74260,8 @@ _detalhes_database = {
 								[61684] = 3,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3021-1594-11693-69943-0202FEBCAB",
 							["pets"] = {
 							},
@@ -71767,13 +74499,13 @@ _detalhes_database = {
 							["flag_original"] = 8465,
 							["ownerName"] = "Yorman",
 							["nome"] = "Efflorescence <Yorman>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[81262] = 1,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-47649-00004349A0",
 							["pets"] = {
 							},
@@ -71969,8 +74701,9 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["pets"] = {
 							},
-							["damage_taken"] = 13380125.038497,
-							["last_dps"] = 59126.9403705512,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
 							["classe"] = "PALADIN",
 							["raid_targets"] = {
 								[128] = 134597,
@@ -71985,72 +74718,7 @@ _detalhes_database = {
 							["nome"] = "Nv",
 							["spec"] = 66,
 							["grupo"] = true,
-							["avoidance"] = {
-								["Lost Soul"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 25852,
-									["BLOCKED_AMT"] = 6632,
-									["BLOCKED_HITS"] = 3,
-									["FULL_ABSORBED"] = 8,
-									["ALL"] = 22,
-									["PARTIAL_ABSORBED"] = 6,
-									["PARRY"] = 12,
-									["PARTIAL_ABSORB_AMT"] = 7216,
-									["ABSORB"] = 14,
-									["ABSORB_AMT"] = 33068,
-									["FULL_HIT"] = 8,
-									["HITS"] = 14,
-									["FULL_HIT_AMT"] = 25852,
-								},
-								["Tormented Soul"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 3858,
-									["BLOCKED_AMT"] = 666,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 3,
-									["ALL"] = 7,
-									["PARTIAL_ABSORBED"] = 1,
-									["PARRY"] = 1,
-									["PARTIAL_ABSORB_AMT"] = 272,
-									["ABSORB"] = 4,
-									["ABSORB_AMT"] = 4130,
-									["FULL_HIT"] = 3,
-									["HITS"] = 4,
-									["FULL_HIT_AMT"] = 3858,
-								},
-								["overall"] = {
-									["DODGE"] = 4,
-									["FULL_ABSORB_AMT"] = 136034,
-									["BLOCKED_AMT"] = 14182,
-									["BLOCKED_HITS"] = 14,
-									["FULL_ABSORBED"] = 71,
-									["ALL"] = 180,
-									["PARTIAL_ABSORBED"] = 38,
-									["PARRY"] = 46,
-									["PARTIAL_ABSORB_AMT"] = 262998,
-									["ABSORB"] = 109,
-									["ABSORB_AMT"] = 399032,
-									["FULL_HIT"] = 71,
-									["HITS"] = 102,
-									["FULL_HIT_AMT"] = 136034,
-								},
-								["Risen Soul"] = {
-									["DODGE"] = 4,
-									["FULL_ABSORB_AMT"] = 106324,
-									["BLOCKED_AMT"] = 6884,
-									["BLOCKED_HITS"] = 10,
-									["FULL_ABSORBED"] = 60,
-									["ALL"] = 151,
-									["PARTIAL_ABSORBED"] = 31,
-									["PARRY"] = 33,
-									["PARTIAL_ABSORB_AMT"] = 255510,
-									["ABSORB"] = 91,
-									["ABSORB_AMT"] = 361834,
-									["FULL_HIT"] = 60,
-									["HITS"] = 84,
-									["FULL_HIT_AMT"] = 106324,
-								},
-							},
+							["damage_taken"] = 13380125.038497,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -72482,11 +75150,75 @@ _detalhes_database = {
 							["colocacao"] = 4,
 							["custom"] = 0,
 							["last_event"] = 1556302171,
-							["on_hold"] = false,
+							["avoidance"] = {
+								["Lost Soul"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 25852,
+									["BLOCKED_AMT"] = 6632,
+									["BLOCKED_HITS"] = 3,
+									["FULL_ABSORBED"] = 8,
+									["ALL"] = 22,
+									["PARTIAL_ABSORBED"] = 6,
+									["PARRY"] = 12,
+									["PARTIAL_ABSORB_AMT"] = 7216,
+									["ABSORB"] = 14,
+									["ABSORB_AMT"] = 33068,
+									["FULL_HIT"] = 8,
+									["HITS"] = 14,
+									["FULL_HIT_AMT"] = 25852,
+								},
+								["Tormented Soul"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 3858,
+									["BLOCKED_AMT"] = 666,
+									["BLOCKED_HITS"] = 1,
+									["FULL_ABSORBED"] = 3,
+									["ALL"] = 7,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 1,
+									["PARTIAL_ABSORB_AMT"] = 272,
+									["ABSORB"] = 4,
+									["ABSORB_AMT"] = 4130,
+									["FULL_HIT"] = 3,
+									["HITS"] = 4,
+									["FULL_HIT_AMT"] = 3858,
+								},
+								["overall"] = {
+									["DODGE"] = 4,
+									["FULL_ABSORB_AMT"] = 136034,
+									["BLOCKED_AMT"] = 14182,
+									["BLOCKED_HITS"] = 14,
+									["FULL_ABSORBED"] = 71,
+									["ALL"] = 180,
+									["PARTIAL_ABSORBED"] = 38,
+									["PARRY"] = 46,
+									["PARTIAL_ABSORB_AMT"] = 262998,
+									["ABSORB"] = 109,
+									["ABSORB_AMT"] = 399032,
+									["FULL_HIT"] = 71,
+									["HITS"] = 102,
+									["FULL_HIT_AMT"] = 136034,
+								},
+								["Risen Soul"] = {
+									["DODGE"] = 4,
+									["FULL_ABSORB_AMT"] = 106324,
+									["BLOCKED_AMT"] = 6884,
+									["BLOCKED_HITS"] = 10,
+									["FULL_ABSORBED"] = 60,
+									["ALL"] = 151,
+									["PARTIAL_ABSORBED"] = 31,
+									["PARRY"] = 33,
+									["PARTIAL_ABSORB_AMT"] = 255510,
+									["ABSORB"] = 91,
+									["ABSORB_AMT"] = 361834,
+									["FULL_HIT"] = 60,
+									["HITS"] = 84,
+									["FULL_HIT_AMT"] = 106324,
+								},
+							},
 							["start_time"] = 1556301559,
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 59126.9403705512,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -72509,8 +75241,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1456999,
@@ -72520,7 +75251,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 1899594.016732,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 17357109.016732,
 							["nome"] = "Risen Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -72630,7 +75361,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 17357109.016732,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302053,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -72657,8 +75389,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 20623,
@@ -72668,7 +75399,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 1090621.010541,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 5631050.010541,
 							["nome"] = "Tormented Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -72746,7 +75477,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 5631050.010541,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302113,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -72771,8 +75503,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 323984,
@@ -72782,7 +75513,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 494493.021194,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 6829199.021194,
 							["nome"] = "Lost Soul",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -72860,7 +75591,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6829199.021194,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302059,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -72897,7 +75629,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "DEMONHUNTER",
-							["on_hold"] = false,
+							["damage_taken"] = 3668108.026813,
 							["friendlyfire_total"] = 5743,
 							["raid_targets"] = {
 								[128] = 573003,
@@ -72907,14 +75639,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B1541E0",
 							["fight_component"] = true,
 							["end_time"] = 1556302171,
-							["friendlyfire"] = {
-								["Andruww"] = {
-									["spells"] = {
-										[186439] = 5743,
-									},
-									["total"] = 5743,
-								},
-							},
+							["last_dps"] = 77080.7330436628,
 							["dps_started"] = false,
 							["nome"] = "Andruww",
 							["spec"] = 577,
@@ -73602,10 +76327,17 @@ _detalhes_database = {
 							},
 							["colocacao"] = 2,
 							["tipo"] = 1,
-							["last_dps"] = 77080.7330436628,
+							["friendlyfire"] = {
+								["Andruww"] = {
+									["spells"] = {
+										[186439] = 5743,
+									},
+									["total"] = 5743,
+								},
+							},
 							["start_time"] = 1556301596,
 							["delay"] = 0,
-							["damage_taken"] = 3668108.026813,
+							["on_hold"] = false,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -73617,8 +76349,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -73627,7 +76358,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.0047,
 							["monster"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.0047,
 							["nome"] = "Wanton Sapper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -73666,7 +76397,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.0047,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302171,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -73700,7 +76432,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
-							["on_hold"] = false,
+							["damage_taken"] = 3123283.033002,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 18160,
@@ -73710,8 +76442,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0A76FA3F",
 							["fight_component"] = true,
 							["end_time"] = 1556302171,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 1509.84354862454,
 							["dps_started"] = false,
 							["nome"] = "Yorman",
 							["spec"] = 105,
@@ -73884,10 +76615,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 5,
 							["tipo"] = 1,
-							["last_dps"] = 1509.84354862454,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556301812,
 							["delay"] = 1556302155,
-							["damage_taken"] = 3123283.033002,
+							["on_hold"] = false,
 						}, -- [7]
 						{
 							["flag_original"] = 1298,
@@ -73919,7 +76651,7 @@ _detalhes_database = {
 								"Unknown <Soozpriest-Area52>", -- [2]
 							},
 							["classe"] = "PRIEST",
-							["on_hold"] = false,
+							["damage_taken"] = 2017463.030988,
 							["friendlyfire_total"] = 148823,
 							["raid_targets"] = {
 								[128] = 277716,
@@ -73929,15 +76661,7 @@ _detalhes_database = {
 							["serial"] = "Player-3676-0A3FE244",
 							["fight_component"] = true,
 							["end_time"] = 1556302171,
-							["friendlyfire"] = {
-								["Soozpriest-Area52"] = {
-									["spells"] = {
-										[295176] = 140845,
-										[186439] = 7978,
-									},
-									["total"] = 148823,
-								},
-							},
+							["last_dps"] = 72834.5645999615,
 							["dps_started"] = false,
 							["nome"] = "Soozpriest-Area52",
 							["spec"] = 258,
@@ -74210,41 +76934,6 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[279958] = {
-										["c_amt"] = 17,
-										["b_amt"] = 0,
-										["c_dmg"] = 91810,
-										["g_amt"] = 0,
-										["n_max"] = 2706,
-										["targets"] = {
-											["Mechanized Peacekeeper"] = 29701,
-											["Addled Thug"] = 37818,
-											["Hired Assassin"] = 18879,
-											["Risen Soul"] = 21642,
-											["Refreshment Vendor"] = 24236,
-											["Off-Duty Laborer"] = 26656,
-											["Mech Jockey"] = 10821,
-											["Lost Soul"] = 8116,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 86059,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 49,
-										["total"] = 177869,
-										["c_max"] = 5411,
-										["id"] = 279958,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 32,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
 									[205351] = {
 										["c_amt"] = 25,
 										["b_amt"] = 0,
@@ -74276,6 +76965,43 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 42,
 										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[228361] = {
+										["c_amt"] = 38,
+										["b_amt"] = 0,
+										["c_dmg"] = 603712,
+										["g_amt"] = 0,
+										["n_max"] = 8134,
+										["targets"] = {
+											["Addled Thug"] = 80740,
+											["Risen Soul"] = 222429,
+											["Tormented Soul"] = 79269,
+											["Mechanized Peacekeeper"] = 177771,
+											["Hired Assassin"] = 88353,
+											["Refreshment Vendor"] = 168715,
+											["Off-Duty Laborer"] = 149037,
+											["Mech Jockey"] = 56636,
+											["Lost Soul"] = 64250,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 483488,
+										["n_min"] = 3001,
+										["g_dmg"] = 0,
+										["counter"] = 99,
+										["total"] = 1087200,
+										["c_max"] = 16269,
+										["id"] = 228361,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 9642,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 61,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
 									[148859] = {
@@ -74315,41 +77041,39 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[228361] = {
-										["c_amt"] = 38,
+									[279958] = {
+										["c_amt"] = 17,
 										["b_amt"] = 0,
-										["c_dmg"] = 603712,
+										["c_dmg"] = 91810,
 										["g_amt"] = 0,
-										["n_max"] = 8134,
+										["n_max"] = 2706,
 										["targets"] = {
-											["Addled Thug"] = 80740,
-											["Risen Soul"] = 222429,
-											["Tormented Soul"] = 79269,
-											["Mechanized Peacekeeper"] = 177771,
-											["Hired Assassin"] = 88353,
-											["Refreshment Vendor"] = 168715,
-											["Off-Duty Laborer"] = 149037,
-											["Mech Jockey"] = 56636,
-											["Lost Soul"] = 64250,
+											["Mechanized Peacekeeper"] = 29701,
+											["Addled Thug"] = 37818,
+											["Hired Assassin"] = 18879,
+											["Risen Soul"] = 21642,
+											["Refreshment Vendor"] = 24236,
+											["Off-Duty Laborer"] = 26656,
+											["Mech Jockey"] = 10821,
+											["Lost Soul"] = 8116,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 483488,
-										["n_min"] = 3001,
+										["n_dmg"] = 86059,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 99,
-										["total"] = 1087200,
-										["c_max"] = 16269,
-										["id"] = 228361,
+										["counter"] = 49,
+										["total"] = 177869,
+										["c_max"] = 5411,
+										["id"] = 279958,
 										["r_dmg"] = 0,
-										["spellschool"] = 32,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 9642,
+										["a_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 61,
-										["a_amt"] = 0,
+										["n_amt"] = 32,
+										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
 									[589] = {
@@ -74468,10 +77192,18 @@ _detalhes_database = {
 							},
 							["colocacao"] = 3,
 							["tipo"] = 1,
-							["last_dps"] = 72834.5645999615,
+							["friendlyfire"] = {
+								["Soozpriest-Area52"] = {
+									["spells"] = {
+										[295176] = 140845,
+										[186439] = 7978,
+									},
+									["total"] = 148823,
+								},
+							},
 							["start_time"] = 1556301608,
 							["delay"] = 0,
-							["damage_taken"] = 2017463.030988,
+							["on_hold"] = false,
 						}, -- [8]
 						{
 							["flag_original"] = 1298,
@@ -74499,7 +77231,7 @@ _detalhes_database = {
 								"Ralph <Paxington-Illidan>", -- [1]
 							},
 							["classe"] = "HUNTER",
-							["on_hold"] = false,
+							["damage_taken"] = 2154629.034211,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 122735,
@@ -74509,8 +77241,7 @@ _detalhes_database = {
 							["serial"] = "Player-57-0ACFA287",
 							["fight_component"] = true,
 							["end_time"] = 1556302171,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 101897.204968117,
 							["dps_started"] = false,
 							["nome"] = "Paxington-Illidan",
 							["spec"] = 253,
@@ -75011,10 +77742,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["last_dps"] = 101897.204968117,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556301592,
 							["delay"] = 0,
-							["damage_taken"] = 2154629.034211,
+							["on_hold"] = false,
 						}, -- [9]
 						{
 							["flag_original"] = 4370,
@@ -75051,8 +77783,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3021-1594-11693-69943-0202FEBCAB",
 							["dps_started"] = false,
 							["end_time"] = 1556302171,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 507244.025435,
 							["ownerName"] = "Paxington-Illidan",
 							["nome"] = "Ralph <Paxington-Illidan>",
 							["spells"] = {
@@ -75242,12 +77973,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 507244.025435,
+							["on_hold"] = false,
 							["total"] = 21273178.025435,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556301601,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -75262,8 +77994,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -75272,7 +78003,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.012554,
 							["monster"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.012554,
 							["nome"] = "Weapons Tester",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -75311,7 +78042,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.012554,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1556302171,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -75338,18 +78070,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 3683025,
 							},
 							["total_without_pet"] = 4778241.028519,
 							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 15563763.028519,
 							["nome"] = "Mechanized Peacekeeper",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -75481,10 +78213,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 15563763.028519,
+							["on_hold"] = false,
 							["start_time"] = 1556302095,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [12]
 						{
 							["flag_original"] = 2632,
@@ -75509,18 +78241,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1363262,
 							},
 							["total_without_pet"] = 4941088.02666,
 							["serial"] = "Creature-0-3021-1594-11693-136470-0002C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 12916956.02666,
 							["nome"] = "Refreshment Vendor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -75653,10 +78385,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 12916956.02666,
+							["on_hold"] = false,
 							["start_time"] = 1556302077,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [13]
 						{
 							["flag_original"] = 2632,
@@ -75678,18 +78410,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1385558,
 							},
 							["total_without_pet"] = 3187813.035298,
 							["serial"] = "Creature-0-3021-1594-11693-134232-00034346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7210868.035298,
 							["nome"] = "Hired Assassin",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -75746,6 +78478,33 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[267354] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 267354,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 11,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["m_amt"] = 0,
@@ -75817,33 +78576,6 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[267354] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 267354,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 11,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
 								},
 								["tipo"] = 2,
 							},
@@ -75853,10 +78585,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7210868.035298,
+							["on_hold"] = false,
 							["start_time"] = 1556302123,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [14]
 						{
 							["flag_original"] = 2632,
@@ -75867,17 +78599,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005786,
 							["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.005786,
 							["nome"] = "Coin-Operated Crowd Pummeler",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -75917,10 +78649,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.005786,
+							["on_hold"] = false,
 							["start_time"] = 1556302318,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [15]
 						{
 							["flag_original"] = 2632,
@@ -75945,18 +78677,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 960553,
 							},
 							["total_without_pet"] = 10835174.020489,
 							["serial"] = "Creature-0-3021-1594-11693-130488-0006C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 13514532.020489,
 							["nome"] = "Mech Jockey",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -76143,10 +78875,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 13514532.020489,
+							["on_hold"] = false,
 							["start_time"] = 1556302179,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [16]
 						{
 							["flag_original"] = 2632,
@@ -76169,18 +78901,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 2512945,
 							},
 							["total_without_pet"] = 3658226.017439,
 							["serial"] = "Creature-0-3021-1594-11693-130435-0004C346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 10547563.017439,
 							["nome"] = "Addled Thug",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -76311,10 +79043,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 10547563.017439,
+							["on_hold"] = false,
 							["start_time"] = 1556302042,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [17]
 						{
 							["flag_original"] = 2632,
@@ -76326,17 +79058,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 43774.008935,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.008935,
 							["nome"] = "[*] Tear Gas",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -76379,10 +79111,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.008935,
+							["on_hold"] = false,
 							["start_time"] = 1556302317,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [18]
 						{
 							["flag_original"] = 8466,
@@ -76403,7 +79135,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-128142-00004348A6",
 							["dps_started"] = false,
 							["end_time"] = 1556302321,
-							["on_hold"] = false,
+							["damage_taken"] = 0.009219,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Voidling <Soozpriest-Area52>",
 							["spells"] = {
@@ -76439,13 +79171,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.009219,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 134890.009219,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556302289,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -76463,18 +79195,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 215170,
 							},
 							["total_without_pet"] = 781414.029699,
 							["serial"] = "",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.029699,
 							["nome"] = "[*] Volcanic Plume",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -76518,10 +79250,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.029699,
+							["on_hold"] = false,
 							["start_time"] = 1556302306,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [20]
 						{
 							["flag_original"] = 2632,
@@ -76542,18 +79274,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 								[32] = 1458006,
 							},
 							["total_without_pet"] = 1884991.025331,
 							["serial"] = "Creature-0-3021-1594-11693-130436-00034346C2",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 6860789.025331,
 							["nome"] = "Off-Duty Laborer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -76631,10 +79363,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6860789.025331,
+							["on_hold"] = false,
 							["start_time"] = 1556302211,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [21]
 						{
 							["flag_original"] = 8466,
@@ -76655,7 +79387,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3021-1594-11693-128142-00004346EC",
 							["dps_started"] = false,
 							["end_time"] = 1556302321,
-							["on_hold"] = false,
+							["damage_taken"] = 0.01217,
 							["ownerName"] = "Soozpriest-Area52",
 							["nome"] = "Unknown <Soozpriest-Area52>",
 							["spells"] = {
@@ -76691,13 +79423,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.01217,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 88517.01217,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1556302302,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -76721,20 +79453,20 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["end_time"] = 1556302321,
 							["serial"] = "Creature-0-3021-1594-11693-144409-00064346C2",
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["nome"] = "Junkpile Roach",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 91.007427,
 							["total"] = 0.007427,
 							["friendlyfire"] = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 91.007427,
+							["on_hold"] = false,
 							["start_time"] = 1556302318,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -78378,39 +81110,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["end_time"] = 1556302321,
+							["total"] = 0.016766,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.016766,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.016766,
+							["heal_enemy_amt"] = 1148259,
 							["totalover"] = 0.016766,
 							["total_without_pet"] = 0.016766,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.016766,
 							["start_time"] = 1556302318,
 							["fight_component"] = true,
-							["total"] = 0.016766,
-							["heal_enemy_amt"] = 1148259,
+							["end_time"] = 1556302321,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.016766,
 							["nome"] = "Mechanized Peacekeeper",
-							["targets_absorbs"] = {
-							},
-							["monster"] = true,
-							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
-							["heal_enemy"] = {
-								[262412] = 1148259,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["monster"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[262412] = 1148259,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.016766,
-							["delay"] = 0,
+							["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
 							["tipo"] = 2,
 						}, -- [7]
 						{
@@ -78463,38 +81195,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.009354,
+							["end_time"] = 1556302321,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.009354,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.009354,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.009354,
 							["total_without_pet"] = 0.009354,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.009354,
 							["start_time"] = 1556302318,
 							["monster"] = true,
-							["end_time"] = 1556302321,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.009354,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.009354,
 							["nome"] = "Off-Duty Laborer",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130436-00004346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.009354,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130436-00004346C2",
 							["tipo"] = 2,
 						}, -- [9]
 						{
@@ -78505,39 +81237,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-136470-0001C346C2",
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.011601,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.011601,
+							["classe"] = "UNKNOW",
 							["totalover"] = 0.011601,
 							["total_without_pet"] = 0.011601,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.011601,
 							["start_time"] = 1556302318,
 							["fight_component"] = true,
-							["end_time"] = 1556302321,
-							["heal_enemy_amt"] = 2471466,
 							["total"] = 0.011601,
+							["healing_taken"] = 0.011601,
+							["end_time"] = 1556302321,
 							["nome"] = "Refreshment Vendor",
-							["targets_absorbs"] = {
-							},
-							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["heal_enemy"] = {
-								[268130] = 2471466,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["monster"] = true,
+							["heal_enemy_amt"] = 2471466,
+							["heal_enemy"] = {
+								[268130] = 2471466,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
 							["totaldenied"] = 0.011601,
-							["serial"] = "Creature-0-3021-1594-11693-136470-0001C346C2",
+							["delay"] = 0,
 							["last_event"] = 0,
 						}, -- [10]
 						{
@@ -78548,38 +81280,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.002471,
+							["end_time"] = 1556302321,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.002471,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.002471,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.002471,
 							["total_without_pet"] = 0.002471,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.002471,
 							["start_time"] = 1556302318,
 							["monster"] = true,
-							["end_time"] = 1556302321,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.002471,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.002471,
 							["nome"] = "Addled Thug",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.002471,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
 							["tipo"] = 2,
 						}, -- [11]
 						{
@@ -78590,38 +81322,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.007478,
+							["end_time"] = 1556302321,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.007478,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.007478,
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.007478,
 							["total_without_pet"] = 0.007478,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.007478,
 							["start_time"] = 1556302318,
 							["monster"] = true,
-							["end_time"] = 1556302321,
-							["heal_enemy_amt"] = 0,
+							["total"] = 0.007478,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.007478,
 							["nome"] = "Hired Assassin",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
-							["heal_enemy"] = {
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.007478,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
 							["tipo"] = 2,
 						}, -- [12]
 					},
@@ -80025,6 +82757,17 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
+									[268904] = {
+										["appliedamt"] = 10,
+										["targets"] = {
+										},
+										["activedamt"] = 10,
+										["uptime"] = 97,
+										["id"] = 268904,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[65081] = {
 										["refreshamt"] = 0,
 										["activedamt"] = 17,
@@ -80033,17 +82776,6 @@ _detalhes_database = {
 										["uptime"] = 49,
 										["targets"] = {
 										},
-										["counter"] = 0,
-									},
-									[290945] = {
-										["appliedamt"] = 7,
-										["targets"] = {
-										},
-										["activedamt"] = 7,
-										["uptime"] = 613,
-										["id"] = 290945,
-										["refreshamt"] = 0,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[45242] = {
@@ -80057,13 +82789,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[268904] = {
-										["appliedamt"] = 10,
+									[290945] = {
+										["appliedamt"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 10,
-										["uptime"] = 97,
-										["id"] = 268904,
+										["activedamt"] = 7,
+										["uptime"] = 613,
+										["id"] = 290945,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -80445,9 +83177,14 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["cc_break"] = 17.021857,
-							["pets"] = {
+							["buff_uptime"] = 5365,
+							["interrupt_targets"] = {
+								["Addled Thug"] = 3,
+								["Hired Assassin"] = 2,
+								["Refreshment Vendor"] = 10,
+								["Mech Jockey"] = 1,
+								["Tormented Soul"] = 1,
 							},
-							["spec"] = 577,
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[211881] = {
@@ -80800,19 +83537,14 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 1289,
+							["interrupt"] = 17.018907,
+							["cc_done"] = 84.027226,
 							["debuff_uptime_targets"] = {
 							},
-							["cc_done"] = 84.027226,
-							["nome"] = "Andruww",
-							["interrupt_targets"] = {
-								["Addled Thug"] = 3,
-								["Hired Assassin"] = 2,
-								["Refreshment Vendor"] = 10,
-								["Mech Jockey"] = 1,
-								["Tormented Soul"] = 1,
-							},
+							["spec"] = 577,
 							["grupo"] = true,
-							["buff_uptime"] = 5365,
+							["pets"] = {
+							},
 							["spell_cast"] = {
 								[271107] = 4,
 								[185123] = 4,
@@ -80848,7 +83580,7 @@ _detalhes_database = {
 								["Off-Duty Laborer"] = 3,
 							},
 							["serial"] = "Player-9-0B1541E0",
-							["interrupt"] = 17.018907,
+							["nome"] = "Andruww",
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -81444,7 +84176,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 							["classe"] = "DRUID",
 							["cooldowns_defensive_targets"] = {
@@ -81452,13 +84184,11 @@ _detalhes_database = {
 								["Yorman"] = 1,
 								["Nv"] = 9,
 							},
-							["dispell_targets"] = {
-								["Mechanized Peacekeeper"] = 4,
-								["Addled Thug"] = 8,
-								["Hired Assassin"] = 1,
-								["Refreshment Vendor"] = 2,
-								["Mech Jockey"] = 2,
-								["Nv"] = 9,
+							["dispell_oque"] = {
+								[288388] = 8,
+								[228318] = 12,
+								[269298] = 1,
+								[262092] = 5,
 							},
 							["dispell_spells"] = {
 								["_ActorTable"] = {
@@ -81498,7 +84228,7 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 635,
-							["nome"] = "Yorman",
+							["last_event"] = 1556302171,
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[102342] = {
@@ -81525,40 +84255,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 							["spec"] = 105,
-							["cc_break"] = 1.008786,
-							["dispell_oque"] = {
-								[288388] = 8,
-								[228318] = 12,
-								[269298] = 1,
-								[262092] = 5,
-							},
-							["spell_cast"] = {
-								[287568] = 4,
-								[102342] = 9,
-								[774] = 76,
-								[2908] = 20,
-								[197721] = 3,
-								[8936] = 55,
-								[8921] = 21,
-								[33763] = 26,
-								[22812] = 1,
-								[93402] = 26,
-								[5225] = 2,
-								[783] = 1,
-								[768] = 2,
-								[20549] = 1,
-								[145205] = 15,
-								[88423] = 9,
-								[102793] = 1,
-								[18562] = 12,
-								[48438] = 21,
-							},
-							["cc_break_oque"] = {
-								[105421] = 1,
-							},
+							["grupo"] = true,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[207640] = {
@@ -81806,13 +84506,45 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["last_event"] = 1556302171,
+							["spell_cast"] = {
+								[287568] = 4,
+								[102342] = 9,
+								[774] = 76,
+								[2908] = 20,
+								[197721] = 3,
+								[8936] = 55,
+								[8921] = 21,
+								[33763] = 26,
+								[22812] = 1,
+								[93402] = 26,
+								[5225] = 2,
+								[783] = 1,
+								[768] = 2,
+								[20549] = 1,
+								[145205] = 15,
+								[88423] = 9,
+								[102793] = 1,
+								[18562] = 12,
+								[48438] = 21,
+							},
+							["cc_break_oque"] = {
+								[105421] = 1,
+							},
+							["dispell_targets"] = {
+								["Mechanized Peacekeeper"] = 4,
+								["Addled Thug"] = 8,
+								["Hired Assassin"] = 1,
+								["Refreshment Vendor"] = 2,
+								["Mech Jockey"] = 2,
+								["Nv"] = 9,
+							},
 							["tipo"] = 4,
+							["cc_break"] = 1.008786,
 							["cc_break_targets"] = {
 								["Hired Assassin"] = 1,
 							},
 							["serial"] = "Player-9-0A76FA3F",
-							["grupo"] = true,
+							["nome"] = "Yorman",
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -81884,14 +84616,14 @@ _detalhes_database = {
 						{
 							["flag_original"] = 2632,
 							["nome"] = "Wanton Sapper",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[268362] = 12,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-130653-00044346C2",
 							["monster"] = true,
 						}, -- [8]
@@ -82024,25 +84756,25 @@ _detalhes_database = {
 							["nome"] = "Efflorescence <Yorman>",
 							["pets"] = {
 							},
-							["last_event"] = 0,
-							["classe"] = "PET",
 							["spell_cast"] = {
 								[81262] = 15,
 							},
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["serial"] = "Creature-0-3021-1594-11693-47649-0000434950",
 							["tipo"] = 4,
 						}, -- [12]
 						{
 							["flag_original"] = 2632,
 							["nome"] = "Weapons Tester",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[268865] = 3,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
 							["monster"] = true,
 						}, -- [13]
@@ -82169,14 +84901,14 @@ _detalhes_database = {
 						{
 							["monster"] = true,
 							["nome"] = "Coin-Operated Crowd Pummeler",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[267551] = 1,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
 							["flag_original"] = 2632,
 						}, -- [19]
@@ -82600,376 +85332,7 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["Thunderrz"] = {
-			"Bad Rng", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			107, -- [7]
-		},
-		["nextreset"] = 1556848541,
-		["Daiyzed"] = {
-			"Moon B Lite", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			9, -- [7]
-		},
-		["Illsong"] = {
-			"Ttvneetsong", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			4, -- [7]
-		},
-		["Makiee"] = {
-			"Makiee", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			7, -- [7]
-		},
-		["Andruww"] = {
-			"Andruww", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			52, -- [7]
-		},
-		["Metzinger"] = {
-			"Metzinger", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			5, -- [7]
-		},
-		["Pride"] = {
-			"Yukio", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Lethtendris", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Blizzard", -- [4]
-			{
-				0.068704154, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			6, -- [7]
-		},
-		["Arnbjørn"] = {
-			"Arnbjørn", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			7, -- [7]
-		},
 		["last_version"] = 11,
-		["Moonblight"] = {
-			"Warlockmania", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			16, -- [7]
-		},
-		["Cadaceus"] = {
-			"So Much Fun", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Fridaa"] = {
-			"Rallybot", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			32, -- [7]
-		},
-		["Wildsong"] = {
-			"Pluie", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Sonaris"] = {
-			"Fridaqt", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			15, -- [7]
-		},
-		["Knoss"] = {
-			"Monkas", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			82, -- [7]
-		},
-		["Abernathii"] = {
-			"Deathspersec", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			3, -- [7]
-		},
-		["Nawtyrogue"] = {
-			"The Hard R", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Instructor Malicia", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			62, -- [7]
-		},
 		["Yellowy"] = {
 			"Yellowy", -- [1]
 			"", -- [2]
@@ -82993,52 +85356,7 @@ _detalhes_database = {
 			}, -- [6]
 			3, -- [7]
 		},
-		["Idc"] = {
-			"Idc", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			1, -- [7]
-		},
-		["Tehkz"] = {
-			"Atonement", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
+		["nextreset"] = 1558193669,
 	},
 	["last_instance_id"] = 2070,
 	["announce_interrupts"] = {
@@ -83142,20 +85460,14 @@ _detalhes_database = {
 			["row_texture"] = "ElvUI Norm",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["main_frame_strata"] = "LOW",
-			["enabled"] = true,
-			["arrow_size"] = 10,
-			["use_spark"] = true,
-			["row_spacement"] = 28,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
+			["row_color"] = {
+				0.305882352941177, -- [1]
+				0.305882352941177, -- [2]
+				0.305882352941177, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 200.028366088867,
+			["enabled"] = true,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -83167,15 +85479,21 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 14,
-			["row_color"] = {
-				0.305882352941177, -- [1]
-				0.305882352941177, -- [2]
-				0.305882352941177, -- [3]
+			["row_spacement"] = 28,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
 				0.850000008940697, -- [4]
 			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 14,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 200.028366088867,
+			["author"] = "Details! Team",
 			["point"] = "BOTTOMLEFT",
 			["row_height"] = 28,
 			["scale"] = 1,
@@ -83183,24 +85501,6 @@ _detalhes_database = {
 	},
 	["last_encounter"] = "The Restless Cabal",
 	["cached_talents"] = {
-		["Player-9-0AE87A48"] = {
-			22557, -- [1]
-			22593, -- [2]
-			22180, -- [3]
-			22183, -- [4]
-			22595, -- [5]
-			23086, -- [6]
-			22591, -- [7]
-		},
-		["Player-9-099A8185"] = {
-			22385, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18577, -- [4]
-			21702, -- [5]
-			21712, -- [6]
-			21193, -- [7]
-		},
 		["Player-9-0A76FA3F"] = {
 			18571, -- [1]
 			22367, -- [2]
@@ -83216,13 +85516,13 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "02",
+	["last_day"] = "03",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 132,
+		["logons"] = 136,
 	},
 	["combat_id"] = 993,
 	["savedStyles"] = {
@@ -83335,9 +85635,9 @@ _detalhes_database = {
 						["Mine Rat"] = 0,
 						["Venture Co. Alchemist"] = 0,
 						["Tormented Soul"] = 0,
+						["Venture Co. Mastermind"] = 0,
 						["Venture Co. Earthshaper"] = 0,
 						["Mechanized Peacekeeper"] = 0,
-						["Venture Co. Mastermind"] = 0,
 						["Hired Assassin"] = 0,
 						["Crawler Mine"] = 0,
 						["Refreshment Vendor"] = 0,
@@ -83347,28 +85647,28 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["damage_taken"] = 0.00678,
+					["nome"] = "Paxington-Illidan",
 					["classe"] = "HUNTER",
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00678,
-					["damage_taken"] = 0.00678,
+					["on_hold"] = false,
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1556762801,
+					["friendlyfire_total"] = 0,
 					["last_dps"] = 0,
-					["fight_component"] = true,
 					["boss_fight_component"] = true,
 					["spec"] = 253,
 					["grupo"] = true,
+					["fight_component"] = true,
 					["total"] = 0.00678,
 					["tipo"] = 1,
-					["nome"] = "Paxington-Illidan",
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1556762798,
 					["serial"] = "Player-57-0ACFA287",
 					["spells"] = {
@@ -83411,9 +85711,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 171457,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83456,9 +85756,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288333,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83503,9 +85803,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 217200,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83534,10 +85834,10 @@ _detalhes_database = {
 									["Addled Thug"] = 0,
 									["Venture Co. Skyscorcher"] = 0,
 									["Mine Rat"] = 0,
-									["Venture Co. Earthshaper"] = 0,
-									["Tormented Soul"] = 0,
 									["Venture Co. Mastermind"] = 0,
+									["Tormented Soul"] = 0,
 									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Venture Co. Alchemist"] = 0,
 									["Hired Assassin"] = 0,
 									["Shalebiter"] = 0,
@@ -83555,9 +85855,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 278565,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83601,9 +85901,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 171454,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83630,9 +85930,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 2,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83679,9 +85979,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 75,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83725,9 +86025,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271686,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83746,15 +86046,15 @@ _detalhes_database = {
 									["Risen Soul"] = 0,
 									["Coin-Operated Crowd Pummeler"] = 0,
 									["Rixxa Fluxflame"] = 0,
-									["Hired Assassin"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Mogul Razdunk"] = 0,
-									["Mechanized Peacekeeper"] = 0,
+									["Hired Assassin"] = 0,
 									["Venture Co. War Machine"] = 0,
 									["Azerokk"] = 0,
 									["Refreshment Vendor"] = 0,
 									["Wanton Sapper"] = 0,
 									["Earthrager"] = 0,
-									["Venture Co. Earthshaper"] = 0,
+									["Mechanized Peacekeeper"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -83765,9 +86065,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271685,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83797,10 +86097,10 @@ _detalhes_database = {
 									["Shalebiter"] = 0,
 									["Venture Co. Skyscorcher"] = 0,
 									["Mine Rat"] = 0,
-									["Venture Co. Earthshaper"] = 0,
-									["Tormented Soul"] = 0,
 									["Venture Co. Mastermind"] = 0,
+									["Tormented Soul"] = 0,
 									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Addled Thug"] = 0,
 									["Venture Co. Alchemist"] = 0,
 									["Hired Assassin"] = 0,
@@ -83818,9 +86118,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 2643,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83861,9 +86161,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288330,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83901,9 +86201,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 193455,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83948,9 +86248,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 289386,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -83987,9 +86287,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 131900,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84036,6 +86336,26 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["damage_taken"] = 0.002386,
+					["nome"] = "Andruww",
+					["classe"] = "DEMONHUNTER",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.002386,
+					["on_hold"] = false,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1556762801,
+					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
+					["boss_fight_component"] = true,
+					["spec"] = 577,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 0.002386,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
 					["friendlyfire"] = {
 						["Andruww"] = {
 							["total"] = 0,
@@ -84044,26 +86364,6 @@ _detalhes_database = {
 							},
 						},
 					},
-					["classe"] = "DEMONHUNTER",
-					["friendlyfire_total"] = 0,
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 0.002386,
-					["damage_taken"] = 0.002386,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1556762801,
-					["last_dps"] = 0,
-					["fight_component"] = true,
-					["boss_fight_component"] = true,
-					["spec"] = 577,
-					["grupo"] = true,
-					["total"] = 0.002386,
-					["tipo"] = 1,
-					["nome"] = "Andruww",
-					["custom"] = 0,
-					["last_event"] = 0,
-					["on_hold"] = false,
 					["start_time"] = 1556762798,
 					["serial"] = "Player-9-0B1541E0",
 					["spells"] = {
@@ -84108,9 +86408,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84158,9 +86458,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 198030,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84211,9 +86511,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258922,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84251,9 +86551,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 185123,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84295,9 +86595,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 200166,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84336,9 +86636,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288330,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84369,9 +86669,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 211881,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84415,9 +86715,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 199547,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84466,9 +86766,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 210153,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84509,9 +86809,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 192611,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84550,9 +86850,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271685,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84599,9 +86899,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 199552,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84642,9 +86942,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 179057,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84691,9 +86991,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271686,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84740,9 +87040,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258921,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84790,9 +87090,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258883,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84833,9 +87133,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288333,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84879,9 +87179,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 201428,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84928,9 +87228,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 162243,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -84956,9 +87256,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 201427,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85003,6 +87303,26 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["damage_taken"] = 0.00765,
+					["nome"] = "Soozpriest-Area52",
+					["classe"] = "PRIEST",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.00765,
+					["on_hold"] = false,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1556762801,
+					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
+					["boss_fight_component"] = true,
+					["spec"] = 258,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 0.00765,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
 					["friendlyfire"] = {
 						["Soozpriest-Area52"] = {
 							["total"] = 0,
@@ -85018,26 +87338,6 @@ _detalhes_database = {
 							},
 						},
 					},
-					["classe"] = "PRIEST",
-					["friendlyfire_total"] = 0,
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 0.00765,
-					["damage_taken"] = 0.00765,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1556762801,
-					["last_dps"] = 0,
-					["fight_component"] = true,
-					["boss_fight_component"] = true,
-					["spec"] = 258,
-					["grupo"] = true,
-					["total"] = 0.00765,
-					["tipo"] = 1,
-					["nome"] = "Soozpriest-Area52",
-					["custom"] = 0,
-					["last_event"] = 0,
-					["on_hold"] = false,
 					["start_time"] = 1556762798,
 					["serial"] = "Player-3676-0A3FE244",
 					["spells"] = {
@@ -85080,9 +87380,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 228360,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85120,9 +87420,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 15407,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85171,9 +87471,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 49821,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85212,9 +87512,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 205448,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85247,9 +87547,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288371,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85296,9 +87596,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 34914,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85324,9 +87624,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 8122,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85373,9 +87673,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 205386,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85401,9 +87701,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 5019,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85449,9 +87749,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 228361,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85492,9 +87792,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 205351,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85541,9 +87841,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 148859,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85587,9 +87887,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 279958,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85636,9 +87936,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 589,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85685,9 +87985,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263346,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85713,9 +88013,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 64044,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85763,33 +88063,22 @@ _detalhes_database = {
 						["Mech Jockey"] = 0,
 						["Off-Duty Laborer"] = 0,
 					},
-					["fight_component"] = true,
+					["dps_started"] = false,
 					["pets"] = {
 					},
 					["last_dps"] = 0,
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["nome"] = "Nv",
+					["classe"] = "PALADIN",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008329,
-					["damage_taken"] = 0.008329,
-					["classe"] = "PALADIN",
-					["dps_started"] = false,
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["total"] = 0.008329,
 					["delay"] = 0,
 					["start_time"] = 1556762798,
 					["boss_fight_component"] = true,
-					["spec"] = 66,
-					["grupo"] = true,
-					["end_time"] = 1556762801,
-					["tipo"] = 1,
-					["nome"] = "Nv",
-					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
-					["isTank"] = true,
-					["serial"] = "Player-9-0A7EC3E5",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -85831,9 +88120,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85884,9 +88173,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 81297,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85919,11 +88208,11 @@ _detalhes_database = {
 									["Mine Rat"] = 0,
 									["Rixxa Fluxflame"] = 0,
 									["Tormented Soul"] = 0,
+									["Mechanized Peacekeeper"] = 0,
 									["Venture Co. Earthshaper"] = 0,
-									["Venture Co. Mastermind"] = 0,
 									["Hired Assassin"] = 0,
 									["Venture Co. Alchemist"] = 0,
-									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Mastermind"] = 0,
 									["Refreshment Vendor"] = 0,
 									["Wanton Sapper"] = 0,
 									["Mech Jockey"] = 0,
@@ -85938,9 +88227,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 31935,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -85987,9 +88276,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 53595,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86016,9 +88305,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 105421,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86051,9 +88340,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 204242,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86101,9 +88390,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 275779,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86144,9 +88433,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271685,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86194,9 +88483,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 53600,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86242,9 +88531,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 88263,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86290,9 +88579,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271686,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86320,10 +88609,10 @@ _detalhes_database = {
 									["Addled Thug"] = 0,
 									["Venture Co. Skyscorcher"] = 0,
 									["Mine Rat"] = 0,
-									["Venture Co. Earthshaper"] = 0,
-									["Tormented Soul"] = 0,
 									["Venture Co. Mastermind"] = 0,
+									["Tormented Soul"] = 0,
 									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Rixxa Fluxflame"] = 0,
 									["Hired Assassin"] = 0,
 									["Shalebiter"] = 0,
@@ -86341,9 +88630,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 157122,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86354,6 +88643,17 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
+					["grupo"] = true,
+					["end_time"] = 1556762801,
+					["tipo"] = 1,
+					["spec"] = 66,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["isTank"] = true,
+					["serial"] = "Player-9-0A7EC3E5",
+					["damage_taken"] = 0.008329,
 				}, -- [4]
 				{
 					["flag_original"] = 1297,
@@ -86386,28 +88686,28 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["damage_taken"] = 0.007238,
+					["nome"] = "Yorman",
 					["classe"] = "DRUID",
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007238,
-					["damage_taken"] = 0.007238,
+					["on_hold"] = false,
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1556762801,
+					["friendlyfire_total"] = 0,
 					["last_dps"] = 0,
-					["fight_component"] = true,
 					["boss_fight_component"] = true,
 					["spec"] = 105,
 					["grupo"] = true,
+					["fight_component"] = true,
 					["total"] = 0.007238,
 					["tipo"] = 1,
-					["nome"] = "Yorman",
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1556762798,
 					["serial"] = "Player-9-0A76FA3F",
 					["spells"] = {
@@ -86437,9 +88737,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86468,9 +88768,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 155722,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86497,9 +88797,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 102793,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86526,9 +88826,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 22568,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86575,9 +88875,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 164815,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86606,9 +88906,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1822,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86636,9 +88936,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 5176,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86666,9 +88966,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 5221,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86711,9 +89011,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 164812,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86739,9 +89039,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 93402,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86811,13 +89111,13 @@ _detalhes_database = {
 						["Lost Soul"] = 0,
 						["Feckless Assistant"] = 0,
 						["Shalebiter"] = 0,
-						["Venture Co. Earthshaper"] = 0,
+						["Venture Co. Mastermind"] = 0,
 						["Rixxa Fluxflame"] = 0,
 						["Mine Rat"] = 0,
-						["Venture Co. Mastermind"] = 0,
+						["Mechanized Peacekeeper"] = 0,
 						["Tormented Soul"] = 0,
 						["Venture Co. Alchemist"] = 0,
-						["Mechanized Peacekeeper"] = 0,
+						["Venture Co. Earthshaper"] = 0,
 						["Addled Thug"] = 0,
 						["Hired Assassin"] = 0,
 						["Crawler Mine"] = 0,
@@ -86828,8 +89128,8 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
 					["friendlyfire_total"] = 0,
+					["nome"] = "Ralph <Paxington-Illidan>",
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
@@ -86837,8 +89137,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1556762801,
-					["nome"] = "Ralph <Paxington-Illidan>",
 					["damage_taken"] = 0.007381,
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86881,9 +89181,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86913,10 +89213,10 @@ _detalhes_database = {
 									["Shalebiter"] = 0,
 									["Rixxa Fluxflame"] = 0,
 									["Mine Rat"] = 0,
-									["Venture Co. Earthshaper"] = 0,
-									["Tormented Soul"] = 0,
 									["Venture Co. Mastermind"] = 0,
+									["Tormented Soul"] = 0,
 									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Venture Co. Alchemist"] = 0,
 									["Hired Assassin"] = 0,
 									["Crawler Mine"] = 0,
@@ -86934,9 +89234,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 201754,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -86983,9 +89283,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 16827,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87027,9 +89327,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 83381,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87059,10 +89359,10 @@ _detalhes_database = {
 									["Venture Co. Skyscorcher"] = 0,
 									["Test Subject"] = 0,
 									["Mine Rat"] = 0,
-									["Venture Co. Earthshaper"] = 0,
-									["Tormented Soul"] = 0,
 									["Venture Co. Mastermind"] = 0,
+									["Tormented Soul"] = 0,
 									["Mechanized Peacekeeper"] = 0,
+									["Venture Co. Earthshaper"] = 0,
 									["Shalebiter"] = 0,
 									["Hired Assassin"] = 0,
 									["Crawler Mine"] = 0,
@@ -87080,9 +89380,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 118459,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87099,7 +89399,7 @@ _detalhes_database = {
 					["total"] = 0.007381,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Pet-0-3021-1594-11693-69943-0602FEBCAB",
 					["dps_started"] = false,
@@ -87120,17 +89420,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.005166,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005166,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.005166,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Mech Jockey",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -87152,9 +89453,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87184,9 +89485,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262019,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87211,9 +89512,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 267433,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87239,9 +89540,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 280602,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87267,9 +89568,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262287,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87294,9 +89595,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 281621,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87312,11 +89613,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130488-0003C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [8]
 				{
 					["flag_original"] = 2632,
@@ -87334,17 +89634,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.008334,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008334,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.008334,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Coin-Operated Crowd Pummeler",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -87365,9 +89665,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87392,9 +89692,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257337,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87419,9 +89719,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269493,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87446,9 +89746,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271903,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87473,9 +89773,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 267551,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87505,9 +89805,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262347,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87518,16 +89818,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Coin-Operated Crowd Pummeler",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.008334,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
@@ -87544,17 +89844,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.005994,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005994,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.005994,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Refreshment Vendor",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -87578,9 +89879,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87605,9 +89906,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268129,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87637,9 +89938,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 280604,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87664,9 +89965,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 280605,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87682,11 +89983,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-136470-0003C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [10]
 				{
 					["flag_original"] = 68168,
@@ -87702,17 +90002,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.00568,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00568,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.00568,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Rixxa Fluxflame",
 					["spells"] = {
 						["_ActorTable"] = {
 							[259474] = {
@@ -87733,9 +90033,36 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 259474,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[260669] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 260669,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87760,9 +90087,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 259856,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87790,36 +90117,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 259853,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[260669] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 260669,
-								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87830,16 +90130,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Rixxa Fluxflame",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.00568,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129231-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [11]
 				{
 					["flag_original"] = 2632,
@@ -87855,17 +90155,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.007014,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007014,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.007014,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Mechanized Peacekeeper",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -87888,9 +90189,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87920,9 +90221,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262066,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87947,9 +90248,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262412,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87974,9 +90275,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263628,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -87992,11 +90293,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [12]
 				{
 					["flag_original"] = 68168,
@@ -88015,17 +90315,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001686,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001686,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001686,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Mogul Razdunk",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -88046,9 +90346,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88074,9 +90374,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260323,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88101,9 +90401,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260280,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88129,9 +90429,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262019,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88156,9 +90456,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260811,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88183,9 +90483,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260813,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88210,9 +90510,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271456,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88243,9 +90543,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260202,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88270,9 +90570,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260189,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88297,9 +90597,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260190,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88324,9 +90624,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 276212,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88351,9 +90651,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260318,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88380,9 +90680,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 270277,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88393,16 +90693,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Mogul Razdunk",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001686,
 					["start_time"] = 1556762798,
 					["serial"] = "Vehicle-0-3021-1594-11693-129232-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
@@ -88419,17 +90719,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.001066,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001066,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.001066,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Addled Thug",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -88452,9 +90753,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88479,9 +90780,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263636,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88512,9 +90813,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263637,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88539,9 +90840,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262092,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88557,11 +90858,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130435-00024346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
@@ -88579,17 +90879,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.005238,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005238,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.005238,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Risen Soul",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -88616,9 +90916,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88643,9 +90943,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288844,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88674,9 +90974,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288388,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88687,16 +90987,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Risen Soul",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.005238,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-148716-0000434A96",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [15]
 				{
 					["flag_original"] = 2632,
@@ -88712,17 +91012,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.008045,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008045,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.008045,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Shalebiter",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -88743,9 +91043,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88773,9 +91073,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263262,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88786,16 +91086,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Shalebiter",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.008045,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-134005-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [16]
 				{
 					["flag_original"] = 2632,
@@ -88811,17 +91111,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006407,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006407,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006407,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Hired Assassin",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -88843,9 +91144,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88870,68 +91171,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269302,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[269298] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Yorman"] = 0,
-									["Paxington-Illidan"] = 0,
-									["Andruww"] = 0,
-									["Soozpriest-Area52"] = 0,
-									["Nv"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 269298,
-								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[267354] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 267354,
-								["r_dmg"] = 0,
 								["c_min"] = 0,
-								["m_crit"] = 0,
-								["r_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88961,9 +91203,68 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 267357,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[269298] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Yorman"] = 0,
+									["Paxington-Illidan"] = 0,
+									["Andruww"] = 0,
+									["Soozpriest-Area52"] = 0,
+									["Nv"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 269298,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[267354] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 267354,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -88979,11 +91280,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-134232-0000C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [17]
 				{
 					["flag_original"] = 2632,
@@ -89002,17 +91302,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.006343,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006343,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.006343,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Venture Co. Earthshaper",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -89035,9 +91335,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89062,9 +91362,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271579,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89089,9 +91389,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268709,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89119,9 +91419,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263202,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89151,9 +91451,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268722,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89164,16 +91464,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Venture Co. Earthshaper",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.006343,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [18]
 				{
 					["flag_original"] = 2632,
@@ -89188,17 +91488,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006958,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006958,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006958,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Off-Duty Laborer",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -89223,9 +91524,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89253,9 +91554,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258674,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89271,11 +91572,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130436-00074346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [19]
 				{
 					["flag_original"] = 2632,
@@ -89292,17 +91592,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001658,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001658,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001658,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Earthrager",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -89326,9 +91626,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89336,6 +91636,33 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["a_dmg"] = 0,
 							}, -- [1]
+							[258627] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258627,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
 							[257544] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
@@ -89357,36 +91684,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257544,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[271526] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 271526,
-								["r_dmg"] = 0,
-								["c_min"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89411,9 +91711,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257582,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89421,7 +91721,7 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["a_dmg"] = 0,
 							},
-							[258627] = {
+							[271526] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
@@ -89436,11 +91736,11 @@ _detalhes_database = {
 								["counter"] = 0,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 258627,
+								["id"] = 271526,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89451,16 +91751,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Earthrager",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001658,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129802-0001C346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [20]
 				{
 					["flag_original"] = 2632,
@@ -89477,17 +91777,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.007777,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007777,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.007777,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Wanton Sapper",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -89511,9 +91811,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89538,9 +91838,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268362,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89567,9 +91867,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269313,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89580,16 +91880,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Wanton Sapper",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.007777,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [21]
 				{
 					["flag_original"] = 2632,
@@ -89604,17 +91904,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.007038,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007038,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.007038,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Azerokk",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -89635,9 +91935,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89662,9 +91962,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258622,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89689,9 +91989,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257593,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89716,9 +92016,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 275907,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89743,9 +92043,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271698,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89756,16 +92056,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Azerokk",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.007038,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129227-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [22]
 				{
 					["flag_original"] = 2632,
@@ -89785,17 +92085,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.003909,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003909,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.003909,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Homing Missile",
 					["spells"] = {
 						["_ActorTable"] = {
 							[260838] = {
@@ -89822,9 +92122,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260838,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89835,16 +92135,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Homing Missile",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.003909,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [23]
 				{
 					["flag_original"] = 2632,
@@ -89861,17 +92161,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.00553,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00553,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.00553,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Tormented Soul",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -89897,9 +92198,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89928,9 +92229,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 288693,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -89946,11 +92247,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-148893-0000434A9D",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [24]
 				{
 					["flag_original"] = 2632,
@@ -89966,17 +92266,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.003389,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003389,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.003389,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Gatling Gun",
 					["spells"] = {
 						["_ActorTable"] = {
 							[260279] = {
@@ -89999,9 +92299,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260279,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90012,16 +92312,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Gatling Gun",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.003389,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [25]
 				{
 					["flag_original"] = 2632,
@@ -90038,17 +92338,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.003848,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003848,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.003848,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Venture Co. Skyscorcher",
 					["spells"] = {
 						["_ActorTable"] = {
 							[281621] = {
@@ -90068,9 +92368,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 281621,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90098,9 +92398,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262287,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90128,9 +92428,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260372,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90155,9 +92455,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262515,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90185,9 +92485,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262513,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90198,16 +92498,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Venture Co. Skyscorcher",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.003848,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-132056-0000434DD8",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [26]
 				{
 					["flag_original"] = 2632,
@@ -90225,17 +92525,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.002887,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002887,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.002887,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Azerite Catalyst",
 					["spells"] = {
 						["_ActorTable"] = {
 							[259533] = {
@@ -90260,9 +92560,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 259533,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90273,16 +92573,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Azerite Catalyst",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.002887,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [27]
 				{
 					["flag_original"] = 2632,
@@ -90299,17 +92599,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.005657,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005657,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.005657,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Volcanic Plume",
 					["spells"] = {
 						["_ActorTable"] = {
 							[209862] = {
@@ -90333,9 +92633,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 209862,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90346,16 +92646,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Volcanic Plume",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.005657,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [28]
 				{
 					["flag_original"] = 2632,
@@ -90369,17 +92669,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001625,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001625,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001625,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Azerite Footbomb",
 					["spells"] = {
 						["_ActorTable"] = {
 							[256163] = {
@@ -90400,9 +92700,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 256163,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90413,16 +92713,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Azerite Footbomb",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001625,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129246-0000434969",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [29]
 				{
 					["flag_original"] = 2632,
@@ -90437,17 +92737,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.007049,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007049,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.007049,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Venture Co. War Machine",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -90471,9 +92772,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90500,9 +92801,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269100,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90528,9 +92829,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269429,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90555,9 +92856,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262383,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90582,9 +92883,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269099,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90600,11 +92901,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [30]
 				{
 					["flag_original"] = 2632,
@@ -90617,17 +92917,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.005447,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005447,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.005447,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Mine Rat",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -90649,9 +92950,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90678,9 +92979,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263209,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90696,11 +92997,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130437-00034346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [31]
 				{
 					["flag_original"] = 2632,
@@ -90717,17 +93017,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001589,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001589,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001589,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Propellant Blast",
 					["spells"] = {
 						["_ActorTable"] = {
 							[260103] = {
@@ -90751,9 +93051,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 260103,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90764,16 +93064,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Propellant Blast",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001589,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [32]
 				{
 					["flag_original"] = 2632,
@@ -90787,17 +93087,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.004359,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004359,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.004359,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Test Subject",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -90821,9 +93122,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90848,9 +93149,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268810,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90866,11 +93167,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133963-00074346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [33]
 				{
 					["flag_original"] = 8466,
@@ -90887,8 +93187,8 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
 					["friendlyfire_total"] = 0,
+					["nome"] = "Voidling <Soozpriest-Area52>",
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
@@ -90896,8 +93196,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1556762801,
-					["nome"] = "Voidling <Soozpriest-Area52>",
 					["damage_taken"] = 0.00746,
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -90924,9 +93224,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -90943,7 +93243,7 @@ _detalhes_database = {
 					["total"] = 0.00746,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-128142-0000434D78",
 					["dps_started"] = false,
@@ -90962,17 +93262,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.003944,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003944,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.003944,
+					["friendlyfire"] = {
+					},
 					["nome"] = "[*] Toxic Sludge",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -90998,9 +93299,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269831,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91016,11 +93317,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [35]
 				{
 					["flag_original"] = 2632,
@@ -91037,17 +93337,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.002333,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002333,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.002333,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Lost Soul",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -91071,9 +93371,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91100,9 +93400,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 296142,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91113,16 +93413,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Lost Soul",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.002333,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-148894-00004348B2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [36]
 				{
 					["flag_original"] = 2632,
@@ -91137,17 +93437,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.005507,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005507,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.005507,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Venture Co. Mastermind",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -91172,9 +93473,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262794,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91199,9 +93500,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262804,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91217,11 +93518,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133430-00034346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [37]
 				{
 					["flag_original"] = 2632,
@@ -91236,17 +93536,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.002969,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002969,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.002969,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Ordnance Specialist",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -91271,9 +93572,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91298,9 +93599,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269090,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91327,9 +93628,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 269092,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91345,11 +93646,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-137029-00044346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [38]
 				{
 					["flag_original"] = 2632,
@@ -91363,17 +93663,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.002364,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002364,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.002364,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Stonefury",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -91394,9 +93694,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91421,9 +93721,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268702,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91434,16 +93734,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Stonefury",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.002364,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-130635-0000C346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [39]
 				{
 					["flag_original"] = 2632,
@@ -91457,17 +93757,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.00749,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00749,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.00749,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Earthrager <Azerokk>",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -91488,9 +93788,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91515,9 +93815,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271526,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91542,9 +93842,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257582,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91570,9 +93870,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257544,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91583,16 +93883,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Earthrager <Azerokk>",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.00749,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-129802-0000434BE7",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [40]
 				{
 					["flag_original"] = 2632,
@@ -91605,17 +93905,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006087,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006087,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006087,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Venture Co. Alchemist",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -91638,9 +93939,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91667,9 +93968,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262270,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91694,9 +93995,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262268,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91721,9 +94022,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268797,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91739,11 +94040,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133432-0006C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [41]
 				{
 					["flag_original"] = 2632,
@@ -91755,17 +94055,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.003239,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003239,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.003239,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Crawler Mine",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -91786,9 +94087,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262377,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91814,9 +94115,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262348,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91832,11 +94133,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133482-00054346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [42]
 				{
 					["flag_original"] = 2632,
@@ -91852,17 +94152,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.008062,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008062,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.008062,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Resonant Quake",
 					["spells"] = {
 						["_ActorTable"] = {
 							[258628] = {
@@ -91885,9 +94185,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 258628,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91898,16 +94198,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Resonant Quake",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.008062,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [43]
 				{
 					["flag_original"] = 2632,
@@ -91922,17 +94222,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001644,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001644,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001644,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "B.O.O.M.B.A.",
 					["spells"] = {
 						["_ActorTable"] = {
 							[276229] = {
@@ -91952,9 +94252,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 276229,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91981,9 +94281,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 276234,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -91994,16 +94294,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "B.O.O.M.B.A.",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001644,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-141303-0000C34D7A",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [44]
 				{
 					["flag_original"] = 2632,
@@ -92018,17 +94318,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.001458,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001458,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.001458,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Taskmaster Askari",
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -92049,9 +94349,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92078,9 +94378,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263583,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92105,9 +94405,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263275,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92118,16 +94418,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Taskmaster Askari",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.001458,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [45]
 				{
 					["flag_original"] = 2632,
@@ -92139,17 +94439,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006359,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006359,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006359,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Expert Technician",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92171,9 +94472,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92198,9 +94499,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262540,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92225,9 +94526,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262554,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92243,11 +94544,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [46]
 				{
 					["flag_original"] = 2632,
@@ -92261,17 +94561,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006078,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006078,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006078,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Feckless Assistant",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92293,9 +94594,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92320,9 +94621,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263103,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92349,9 +94650,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263105,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92367,11 +94668,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133345-0002C346C2",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [47]
 				{
 					["flag_original"] = 8466,
@@ -92388,11 +94688,11 @@ _detalhes_database = {
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003203,
-					["last_dps"] = 0,
+					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1556762801,
 					["delay"] = 0,
-					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.003203,
 					["nome"] = "Unknown <Soozpriest-Area52>",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92414,9 +94714,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92427,13 +94727,13 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["damage_taken"] = 0.003203,
+					["on_hold"] = false,
 					["total"] = 0.003203,
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-128142-00004346EC",
 					["dps_started"] = false,
@@ -92450,17 +94750,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.005885,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005885,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.005885,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "[*] Cover",
 					["spells"] = {
 						["_ActorTable"] = {
 							[263278] = {
@@ -92481,9 +94781,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 263278,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92494,16 +94794,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "[*] Cover",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.005885,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [49]
 				{
 					["flag_original"] = 2632,
@@ -92515,17 +94815,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.00118,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00118,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.00118,
+					["friendlyfire"] = {
+					},
 					["nome"] = "[*] Tear Gas",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92548,9 +94849,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 257371,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92566,11 +94867,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [50]
 				{
 					["flag_original"] = 2632,
@@ -92583,17 +94883,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.008956,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008956,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.008956,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Weapons Tester",
 					["spells"] = {
 						["_ActorTable"] = {
 							[268865] = {
@@ -92613,9 +94913,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268865,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92626,16 +94926,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Weapons Tester",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.008956,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-136934-00014346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [51]
 				{
 					["flag_original"] = 2632,
@@ -92646,17 +94946,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006571,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006571,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006571,
+					["friendlyfire"] = {
+					},
 					["nome"] = "[*] Mining Charge",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92679,9 +94980,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 268365,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92697,11 +94998,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [52]
 				{
 					["flag_original"] = 2632,
@@ -92714,17 +95014,17 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["total"] = 0.00261,
-					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00261,
-					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1556762801,
-					["damage_taken"] = 0.00261,
+					["last_dps"] = 0,
 					["tipo"] = 1,
-					["boss_fight_component"] = true,
+					["nome"] = "Footbomb Hooligan",
 					["spells"] = {
 						["_ActorTable"] = {
 							[271784] = {
@@ -92744,9 +95044,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271784,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92757,16 +95057,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["nome"] = "Footbomb Hooligan",
-					["on_hold"] = false,
-					["monster"] = true,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.00261,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-138369-00084346C2",
-					["dps_started"] = false,
+					["monster"] = true,
 				}, -- [53]
 				{
 					["flag_original"] = 2600,
@@ -92782,24 +95082,24 @@ _detalhes_database = {
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007063,
-					["last_dps"] = 0,
+					["friendlyfire_total"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1556762801,
 					["delay"] = 0,
-					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.007063,
 					["nome"] = "Junkpile Roach",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["damage_taken"] = 0.007063,
+					["on_hold"] = false,
 					["total"] = 0.007063,
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["last_event"] = 0,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-144409-00064346C2",
 					["dps_started"] = false,
@@ -92813,17 +95113,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.006082,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006082,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.006082,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Unknown",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92844,9 +95145,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262940,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92862,11 +95163,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133753-0000434C32",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [55]
 				{
 					["flag_original"] = 2632,
@@ -92877,17 +95177,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
+					["damage_taken"] = 0.004789,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004789,
 					["delay"] = 0,
-					["fight_component"] = true,
+					["monster"] = true,
 					["end_time"] = 1556762801,
 					["friendlyfire_total"] = 0,
-					["damage_taken"] = 0.004789,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Leech Globule",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -92908,9 +95209,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 262940,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["m_crit"] = 0,
 								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
@@ -92926,11 +95227,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["start_time"] = 1556762798,
 					["serial"] = "Creature-0-3021-1594-11693-133753-0000434C34",
-					["dps_started"] = false,
+					["fight_component"] = true,
 				}, -- [56]
 			},
 		}, -- [1]
@@ -92948,12 +95248,7 @@ _detalhes_database = {
 					["totalover"] = 0.006314,
 					["total_without_pet"] = 0.006314,
 					["total"] = 0.006314,
-					["targets_absorbs"] = {
-						["Andruww"] = 0,
-						["Yorman"] = 0,
-						["Soozpriest-Area52"] = 0,
-						["Nv"] = 0,
-					},
+					["spec"] = 105,
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
@@ -92981,7 +95276,12 @@ _detalhes_database = {
 						["Soozpriest-Area52"] = 0,
 						["Nv"] = 0,
 					},
-					["last_event"] = 0,
+					["targets_absorbs"] = {
+						["Andruww"] = 0,
+						["Yorman"] = 0,
+						["Soozpriest-Area52"] = 0,
+						["Nv"] = 0,
+					},
 					["nome"] = "Yorman",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -93418,6 +95718,34 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["absorbed"] = 0,
 							},
+							[33778] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Nv"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Nv"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 33778,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["n_curado"] = 0,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
 							[48438] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
@@ -93446,34 +95774,6 @@ _detalhes_database = {
 								["total"] = 0,
 								["c_max"] = 0,
 								["id"] = 48438,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["m_healed"] = 0,
-								["c_min"] = 0,
-								["totaldenied"] = 0,
-								["n_amt"] = 0,
-								["n_curado"] = 0,
-								["m_amt"] = 0,
-								["absorbed"] = 0,
-							},
-							[33778] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Nv"] = 0,
-								},
-								["n_max"] = 0,
-								["targets"] = {
-									["Nv"] = 0,
-								},
-								["n_min"] = 0,
-								["counter"] = 0,
-								["overheal"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 33778,
 								["targets_absorbs"] = {
 								},
 								["c_curado"] = 0,
@@ -93559,7 +95859,7 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 105,
+					["last_event"] = 0,
 					["totaldenied"] = 0.006314,
 					["custom"] = 0,
 					["tipo"] = 2,
@@ -93599,9 +95899,10 @@ _detalhes_database = {
 					["healing_taken"] = 0.006761,
 					["fight_component"] = true,
 					["end_time"] = 1556762801,
-					["nome"] = "Nv",
-					["last_event"] = 0,
 					["boss_fight_component"] = true,
+					["healing_from"] = {
+					},
+					["nome"] = "Nv",
 					["spells"] = {
 						["_ActorTable"] = {
 							[270674] = {
@@ -93915,14 +96216,13 @@ _detalhes_database = {
 					},
 					["grupo"] = true,
 					["totaldenied"] = 0.006761,
-					["classe"] = "PALADIN",
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["spec"] = 66,
 					["start_time"] = 1556762798,
 					["delay"] = 0,
-					["healing_from"] = {
-					},
+					["classe"] = "PALADIN",
 				}, -- [2]
 				{
 					["flag_original"] = 1298,
@@ -93935,9 +96235,7 @@ _detalhes_database = {
 					["totalover"] = 0.002133,
 					["total_without_pet"] = 0.002133,
 					["total"] = 0.002133,
-					["targets_absorbs"] = {
-						["Andruww"] = 0,
-					},
+					["spec"] = 577,
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
@@ -93954,7 +96252,9 @@ _detalhes_database = {
 					["targets_overheal"] = {
 						["Andruww"] = 0,
 					},
-					["last_event"] = 0,
+					["targets_absorbs"] = {
+						["Andruww"] = 0,
+					},
 					["nome"] = "Andruww",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -94157,7 +96457,7 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 577,
+					["last_event"] = 0,
 					["totaldenied"] = 0.002133,
 					["custom"] = 0,
 					["tipo"] = 2,
@@ -94177,13 +96477,7 @@ _detalhes_database = {
 					["totalover"] = 0.007545,
 					["total_without_pet"] = 0.007545,
 					["total"] = 0.007545,
-					["targets_absorbs"] = {
-						["Yorman"] = 0,
-						["Paxington-Illidan"] = 0,
-						["Andruww"] = 0,
-						["Soozpriest-Area52"] = 0,
-						["Nv"] = 0,
-					},
+					["spec"] = 258,
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
@@ -94208,7 +96502,13 @@ _detalhes_database = {
 						["Soozpriest-Area52"] = 0,
 						["Nv"] = 0,
 					},
-					["last_event"] = 0,
+					["targets_absorbs"] = {
+						["Yorman"] = 0,
+						["Paxington-Illidan"] = 0,
+						["Andruww"] = 0,
+						["Soozpriest-Area52"] = 0,
+						["Nv"] = 0,
+					},
 					["nome"] = "Soozpriest-Area52",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -94436,7 +96736,7 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 258,
+					["last_event"] = 0,
 					["totaldenied"] = 0.007545,
 					["custom"] = 0,
 					["tipo"] = 2,
@@ -94456,9 +96756,7 @@ _detalhes_database = {
 					["totalover"] = 0.004227,
 					["total_without_pet"] = 0.004227,
 					["total"] = 0.004227,
-					["targets_absorbs"] = {
-						["Paxington-Illidan"] = 0,
-					},
+					["spec"] = 253,
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
@@ -94481,7 +96779,9 @@ _detalhes_database = {
 						["Paxington-Illidan"] = 0,
 						["Ralph <Paxington-Illidan>"] = 0,
 					},
-					["last_event"] = 0,
+					["targets_absorbs"] = {
+						["Paxington-Illidan"] = 0,
+					},
 					["nome"] = "Paxington-Illidan",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -94629,7 +96929,7 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 253,
+					["last_event"] = 0,
 					["totaldenied"] = 0.004227,
 					["custom"] = 0,
 					["tipo"] = 2,
@@ -94738,39 +97038,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.008515,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.008515,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.008515,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.008515,
 					["total_without_pet"] = 0.008515,
-					["totalover_without_pet"] = 0.008515,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.008515,
 					["fight_component"] = true,
-					["total"] = 0.008515,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.008515,
+					["nome"] = "Refreshment Vendor",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Refreshment Vendor",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-136470-0007C346C2",
 				}, -- [7]
 				{
 					["flag_original"] = 8466,
@@ -94822,39 +97122,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.004876,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.004876,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.004876,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.004876,
 					["total_without_pet"] = 0.004876,
-					["totalover_without_pet"] = 0.004876,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.004876,
 					["fight_component"] = true,
-					["total"] = 0.004876,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.004876,
+					["nome"] = "Mechanized Peacekeeper",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Mechanized Peacekeeper",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
 					["delay"] = 0,
+					["serial"] = "Vehicle-0-3021-1594-11693-136139-0000C346C2",
 				}, -- [9]
 				{
 					["flag_original"] = 68168,
@@ -94864,39 +97164,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.004619,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.004619,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.004619,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.004619,
 					["total_without_pet"] = 0.004619,
-					["totalover_without_pet"] = 0.004619,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.004619,
 					["fight_component"] = true,
-					["total"] = 0.004619,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.004619,
+					["nome"] = "Off-Duty Laborer",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Off-Duty Laborer",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-130436-000AC346C2",
 				}, -- [10]
 				{
 					["flag_original"] = 2632,
@@ -94992,39 +97292,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.003309,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.003309,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.003309,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.003309,
 					["total_without_pet"] = 0.003309,
-					["totalover_without_pet"] = 0.003309,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.003309,
 					["fight_component"] = true,
-					["total"] = 0.003309,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.003309,
+					["nome"] = "Wanton Sapper",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Wanton Sapper",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-130653-0005C346C2",
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
@@ -95034,39 +97334,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.003502,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.003502,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.003502,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.003502,
 					["total_without_pet"] = 0.003502,
-					["totalover_without_pet"] = 0.003502,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.003502,
 					["fight_component"] = true,
-					["total"] = 0.003502,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.003502,
+					["nome"] = "Hired Assassin",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Hired Assassin",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-134232-00004346C2",
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
@@ -95076,39 +97376,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.006598,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.006598,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.006598,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.006598,
 					["total_without_pet"] = 0.006598,
-					["totalover_without_pet"] = 0.006598,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.006598,
 					["fight_component"] = true,
-					["total"] = 0.006598,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.006598,
+					["nome"] = "Addled Thug",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Addled Thug",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-130435-00004346C2",
 				}, -- [15]
 				{
 					["flag_original"] = 2632,
@@ -95118,39 +97418,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.00215,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.00215,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.00215,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.00215,
 					["total_without_pet"] = 0.00215,
-					["totalover_without_pet"] = 0.00215,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.00215,
 					["fight_component"] = true,
-					["total"] = 0.00215,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.00215,
+					["nome"] = "Expert Technician",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Expert Technician",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-133593-0001C346C2",
 				}, -- [16]
 				{
 					["flag_original"] = 2632,
@@ -95160,39 +97460,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1556762801,
+					["total"] = 0.00134,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.00134,
 					["targets_overheal"] = {
 					},
-					["healing_taken"] = 0.00134,
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 0.00134,
 					["total_without_pet"] = 0.00134,
-					["totalover_without_pet"] = 0.00134,
+					["iniciar_hps"] = false,
 					["totaldenied"] = 0.00134,
 					["fight_component"] = true,
-					["total"] = 0.00134,
+					["end_time"] = 1556762801,
 					["classe"] = "UNKNOW",
+					["healing_taken"] = 0.00134,
+					["nome"] = "Venture Co. War Machine",
 					["targets_absorbs"] = {
 					},
-					["nome"] = "Venture Co. War Machine",
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
-					["monster"] = true,
-					["heal_enemy_amt"] = 0,
-					["heal_enemy"] = {
-					},
-					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1556762798,
-					["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
 					["delay"] = 0,
+					["serial"] = "Creature-0-3021-1594-11693-133463-0001C346C2",
 				}, -- [17]
 			},
 		}, -- [2]
@@ -95201,7 +97501,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["received"] = 0.004571,
-					["resource"] = 864.391163,
+					["resource"] = 2593.164347,
 					["targets"] = {
 						["Andruww"] = 0,
 					},
@@ -95237,16 +97537,16 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[218903] = {
-								["id"] = 218903,
+							[258922] = {
+								["id"] = 258922,
 								["total"] = 0,
 								["targets"] = {
 									["Andruww"] = 0,
 								},
 								["counter"] = 0,
 							},
-							[202719] = {
-								["id"] = 202719,
+							[218903] = {
+								["id"] = 218903,
 								["total"] = 0,
 								["targets"] = {
 									["Andruww"] = 0,
@@ -95269,8 +97569,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[258922] = {
-								["id"] = 258922,
+							[202719] = {
+								["id"] = 202719,
 								["total"] = 0,
 								["targets"] = {
 									["Andruww"] = 0,
@@ -95285,7 +97585,7 @@ _detalhes_database = {
 				}, -- [1]
 				{
 					["received"] = 0.007151,
-					["resource"] = 208.367837,
+					["resource"] = 625.089209,
 					["targets"] = {
 						["Soozpriest-Area52"] = 0,
 					},
@@ -95409,7 +97709,7 @@ _detalhes_database = {
 				}, -- [2]
 				{
 					["received"] = 0.003938,
-					["resource"] = 0.188358,
+					["resource"] = 0.557198,
 					["targets"] = {
 						["Soozpriest-Area52"] = 0,
 					},
@@ -95441,7 +97741,7 @@ _detalhes_database = {
 				}, -- [3]
 				{
 					["received"] = 0.005663,
-					["resource"] = 100.387735,
+					["resource"] = 301.151879,
 					["targets"] = {
 						["Ralph <Paxington-Illidan>"] = 0,
 						["Paxington-Illidan"] = 0,
@@ -95511,7 +97811,7 @@ _detalhes_database = {
 				}, -- [4]
 				{
 					["flag_original"] = 4370,
-					["resource"] = 0.362948,
+					["resource"] = 1.084808,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -95535,7 +97835,7 @@ _detalhes_database = {
 				}, -- [5]
 				{
 					["received"] = 0.003803,
-					["resource"] = 0.137185,
+					["resource"] = 0.403949,
 					["targets"] = {
 						["Yorman"] = 0,
 					},
@@ -95965,8 +98265,7 @@ _detalhes_database = {
 					["ress_targets"] = {
 						["Yorman"] = 0,
 					},
-					["dispell_targets"] = {
-						["Nv"] = 0,
+					["debuff_uptime_targets"] = {
 					},
 					["buff_uptime"] = 0,
 					["cc_done_spells"] = {
@@ -96002,17 +98301,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["interrupt_targets"] = {
-						["Stonefury"] = 0,
-						["Tormented Soul"] = 0,
-						["Venture Co. Earthshaper"] = 0,
-						["Hired Assassin"] = 0,
-						["Addled Thug"] = 0,
-						["Refreshment Vendor"] = 0,
-						["Expert Technician"] = 0,
-						["Mech Jockey"] = 0,
-						["Venture Co. Skyscorcher"] = 0,
-					},
+					["last_event"] = 0,
 					["cooldowns_defensive_targets"] = {
 						["Soozpriest-Area52"] = 0,
 						["Nv"] = 0,
@@ -96032,58 +98321,6 @@ _detalhes_database = {
 							},
 						},
 						["tipo"] = 9,
-					},
-					["last_event"] = 0,
-					["fight_component"] = true,
-					["ress"] = 0,
-					["interrupt"] = 0,
-					["cc_done"] = 0,
-					["boss_fight_component"] = true,
-					["grupo"] = true,
-					["spell_cast"] = {
-						[255996] = 0,
-						[190784] = 0,
-						[184092] = 0,
-						[250870] = 0,
-						[250878] = 0,
-						[31850] = 0,
-						[853] = 0,
-						[6940] = 0,
-						[178207] = 0,
-						[31884] = 0,
-						[53600] = 0,
-						[633] = 0,
-						[96231] = 0,
-						[642] = 0,
-						[86659] = 0,
-						[31935] = 0,
-						[213644] = 0,
-						[26573] = 0,
-						[62124] = 0,
-						[53595] = 0,
-						[115750] = 0,
-						[275779] = 0,
-						[279153] = 0,
-						[204018] = 0,
-					},
-					["cc_break_oque"] = {
-					},
-					["ress_spells"] = {
-						["_ActorTable"] = {
-							[7328] = {
-								["id"] = 7328,
-								["targets"] = {
-									["Yorman"] = 0,
-								},
-								["counter"] = 0,
-							},
-						},
-						["tipo"] = 9,
-					},
-					["tipo"] = 4,
-					["nome"] = "Nv",
-					["cc_break_targets"] = {
-						["Wanton Sapper"] = 0,
 					},
 					["cooldowns_defensive_spells"] = {
 						["_ActorTable"] = {
@@ -96132,7 +98369,70 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["debuff_uptime_targets"] = {
+					["fight_component"] = true,
+					["ress"] = 0,
+					["dispell_targets"] = {
+						["Nv"] = 0,
+					},
+					["cc_done"] = 0,
+					["interrupt"] = 0,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[255996] = 0,
+						[190784] = 0,
+						[184092] = 0,
+						[250870] = 0,
+						[250878] = 0,
+						[31850] = 0,
+						[853] = 0,
+						[6940] = 0,
+						[178207] = 0,
+						[31884] = 0,
+						[53600] = 0,
+						[633] = 0,
+						[96231] = 0,
+						[642] = 0,
+						[86659] = 0,
+						[31935] = 0,
+						[213644] = 0,
+						[26573] = 0,
+						[62124] = 0,
+						[53595] = 0,
+						[115750] = 0,
+						[275779] = 0,
+						[279153] = 0,
+						[204018] = 0,
+					},
+					["cc_break_oque"] = {
+					},
+					["ress_spells"] = {
+						["_ActorTable"] = {
+							[7328] = {
+								["id"] = 7328,
+								["targets"] = {
+									["Yorman"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["tipo"] = 4,
+					["boss_fight_component"] = true,
+					["cc_break_targets"] = {
+						["Wanton Sapper"] = 0,
+					},
+					["nome"] = "Nv",
+					["interrupt_targets"] = {
+						["Stonefury"] = 0,
+						["Tormented Soul"] = 0,
+						["Venture Co. Earthshaper"] = 0,
+						["Hired Assassin"] = 0,
+						["Addled Thug"] = 0,
+						["Refreshment Vendor"] = 0,
+						["Expert Technician"] = 0,
+						["Mech Jockey"] = 0,
+						["Venture Co. Skyscorcher"] = 0,
 					},
 				}, -- [1]
 				{
@@ -96471,7 +98771,7 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["buff_uptime"] = 0,
-					["interrupt"] = 0,
+					["spec"] = 258,
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[64044] = {
@@ -96528,10 +98828,10 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["spec"] = 258,
-					["last_event"] = 0,
-					["cc_done"] = 0,
 					["nome"] = "Soozpriest-Area52",
+					["interrupt"] = 0,
+					["cc_done"] = 0,
+					["boss_fight_component"] = true,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[255996] = 0,
@@ -96562,7 +98862,7 @@ _detalhes_database = {
 					},
 					["cc_break_oque"] = {
 					},
-					["boss_fight_component"] = true,
+					["last_event"] = 0,
 					["tipo"] = 4,
 					["cooldowns_defensive_spells"] = {
 						["_ActorTable"] = {
@@ -97010,7 +99310,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["last_event"] = 0,
+					["spec"] = 577,
 					["dispell_oque"] = {
 					},
 					["dispell_spells"] = {
@@ -97037,7 +99337,9 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["spec"] = 577,
+					["dispell_targets"] = {
+						["Venture Co. Earthshaper"] = 0,
+					},
 					["cc_done"] = 0,
 					["nome"] = "Andruww",
 					["grupo"] = true,
@@ -97067,9 +99369,7 @@ _detalhes_database = {
 					},
 					["cc_break_oque"] = {
 					},
-					["dispell_targets"] = {
-						["Venture Co. Earthshaper"] = 0,
-					},
+					["last_event"] = 0,
 					["tipo"] = 4,
 					["boss_fight_component"] = true,
 					["cc_break_targets"] = {
@@ -97209,8 +99509,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[90361] = {
-								["id"] = 90361,
+							[291678] = {
+								["id"] = 291678,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -97233,8 +99533,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[288981] = {
-								["id"] = 288981,
+							[90361] = {
+								["id"] = 90361,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -97341,8 +99641,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[291678] = {
-								["id"] = 291678,
+							[288981] = {
+								["id"] = 288981,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -97410,7 +99710,7 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["buff_uptime"] = 0,
-					["interrupt"] = 0,
+					["spec"] = 253,
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[24394] = {
@@ -97435,10 +99735,10 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["spec"] = 253,
-					["last_event"] = 0,
-					["cc_done"] = 0,
 					["nome"] = "Paxington-Illidan",
+					["interrupt"] = 0,
+					["cc_done"] = 0,
+					["boss_fight_component"] = true,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[26297] = 0,
@@ -97466,7 +99766,7 @@ _detalhes_database = {
 					},
 					["cc_break_oque"] = {
 					},
-					["boss_fight_component"] = true,
+					["last_event"] = 0,
 					["tipo"] = 4,
 					["cooldowns_defensive_spells"] = {
 						["_ActorTable"] = {
@@ -97690,8 +99990,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[16870] = {
-								["id"] = 16870,
+							[768] = {
+								["id"] = 768,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -97708,14 +100008,14 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[200389] = {
-								["id"] = 200389,
+							[16870] = {
+								["id"] = 16870,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[768] = {
-								["id"] = 768,
+							[200389] = {
+								["id"] = 200389,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -97786,7 +100086,7 @@ _detalhes_database = {
 						["Nv"] = 0,
 					},
 					["buff_uptime"] = 0,
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[61391] = {
@@ -97843,7 +100143,7 @@ _detalhes_database = {
 					},
 					["fight_component"] = true,
 					["ress"] = 0,
-					["boss_fight_component"] = true,
+					["last_event"] = 0,
 					["cc_done"] = 0,
 					["nome"] = "Yorman",
 					["grupo"] = true,
@@ -98059,8 +100359,8 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Mogul Razdunk",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 68168,
 					["spell_cast"] = {
 						[260280] = 0,
 						[260811] = 0,
@@ -98072,13 +100372,13 @@ _detalhes_database = {
 						[260190] = 0,
 						[260318] = 0,
 					},
-					["flag_original"] = 68168,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Vehicle-0-3021-1594-11693-129232-00004346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Vehicle-0-3021-1594-11693-129232-00004346C2",
+					["nome"] = "Mogul Razdunk",
 				}, -- [7]
 				{
 					["flag_original"] = 2632,
@@ -98107,12 +100407,12 @@ _detalhes_database = {
 				{
 					["flag_original"] = 8466,
 					["nome"] = "Voidling <Soozpriest-Area52>",
-					["boss_fight_component"] = true,
+					["classe"] = "PET",
 					["pets"] = {
 					},
+					["boss_fight_component"] = true,
 					["last_event"] = 0,
 					["tipo"] = 4,
-					["classe"] = "PET",
 					["serial"] = "Creature-0-3021-1594-11693-128142-0000434D78",
 					["spell_cast"] = {
 						[63619] = 0,
@@ -98121,18 +100421,18 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "B.O.O.M.B.A.",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[276229] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-141303-0000C34D7A",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-141303-0000C34D7A",
+					["nome"] = "B.O.O.M.B.A.",
 				}, -- [10]
 				{
 					["flag_original"] = 2632,
@@ -98161,12 +100461,12 @@ _detalhes_database = {
 				{
 					["flag_original"] = 8465,
 					["nome"] = "Efflorescence <Yorman>",
-					["boss_fight_component"] = true,
+					["classe"] = "PET",
 					["pets"] = {
 					},
+					["boss_fight_component"] = true,
 					["last_event"] = 0,
 					["tipo"] = 4,
-					["classe"] = "PET",
 					["serial"] = "Creature-0-3021-1594-11693-47649-0000434D8C",
 					["spell_cast"] = {
 						[81262] = 0,
@@ -98175,20 +100475,20 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Venture Co. Skyscorcher",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[281621] = 0,
 						[260372] = 0,
 						[262515] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-132056-0000434DD8",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-132056-0000434DD8",
+					["nome"] = "Venture Co. Skyscorcher",
 				}, -- [13]
 				{
 					["flag_original"] = 68168,
@@ -98304,20 +100604,20 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Rixxa Fluxflame",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 68168,
 					["spell_cast"] = {
 						[259474] = 0,
 						[259856] = 0,
 						[260669] = 0,
 					},
-					["flag_original"] = 68168,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-129231-00004346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-129231-00004346C2",
+					["nome"] = "Rixxa Fluxflame",
 				}, -- [20]
 				{
 					["flag_original"] = 2632,
@@ -98424,19 +100724,19 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Wanton Sapper",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[268362] = 0,
 						[269313] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-130653-0004C346C2",
+					["nome"] = "Wanton Sapper",
 				}, -- [26]
 				{
 					["monster"] = true,
@@ -98488,20 +100788,20 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Earthrager",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[271526] = 0,
 						[257582] = 0,
 						[258627] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-129802-0001C346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-129802-0001C346C2",
+					["nome"] = "Earthrager",
 				}, -- [30]
 				{
 					["flag_original"] = 2632,
@@ -98581,81 +100881,81 @@ _detalhes_database = {
 						[275907] = 0,
 						[271698] = 0,
 					},
-					["last_event"] = 0,
-					["tipo"] = 4,
 					["dispell_targets"] = {
 						["Earthrager"] = 0,
 					},
+					["tipo"] = 4,
+					["monster"] = true,
 					["boss_fight_component"] = true,
 					["serial"] = "Creature-0-3021-1594-11693-129227-00004346C2",
-					["monster"] = true,
+					["last_event"] = 0,
 				}, -- [33]
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Taskmaster Askari",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[263583] = 0,
 						[263275] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-134012-00004346C2",
+					["nome"] = "Taskmaster Askari",
 				}, -- [34]
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Venture Co. Earthshaper",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[271579] = 0,
 						[268709] = 0,
 						[263202] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-130661-0005C346C2",
+					["nome"] = "Venture Co. Earthshaper",
 				}, -- [35]
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Shalebiter",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[263262] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-134005-00034346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-134005-00034346C2",
+					["nome"] = "Shalebiter",
 				}, -- [36]
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Stonefury",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[268702] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-130635-00004346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-130635-00004346C2",
+					["nome"] = "Stonefury",
 				}, -- [37]
 				{
 					["monster"] = true,
@@ -98794,8 +101094,8 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Coin-Operated Crowd Pummeler",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 68168,
 					["spell_cast"] = {
 						[257337] = 0,
 						[269493] = 0,
@@ -98803,13 +101103,13 @@ _detalhes_database = {
 						[267551] = 0,
 						[262347] = 0,
 					},
-					["flag_original"] = 68168,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-129214-00004346C2",
+					["nome"] = "Coin-Operated Crowd Pummeler",
 				}, -- [46]
 				{
 					["flag_original"] = 68168,
@@ -98838,18 +101138,18 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["fight_component"] = true,
-					["nome"] = "Lost Soul",
-					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["flag_original"] = 2632,
 					["spell_cast"] = {
 						[296142] = 0,
 					},
-					["flag_original"] = 2632,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-3021-1594-11693-148894-00004348B2",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3021-1594-11693-148894-00004348B2",
+					["nome"] = "Lost Soul",
 				}, -- [48]
 				{
 					["monster"] = true,
@@ -98914,13 +101214,13 @@ _detalhes_database = {
 		},
 		["combat_counter"] = 1304,
 		["totals"] = {
-			-0.211854, -- [1]
+			-1.059594, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
-				[0] = -0.014395,
+				[0] = -0.072891,
 				["alternatepower"] = 0,
-				[3] = -0.007093,
+				[3] = -0.019826,
 				[6] = 0,
 			}, -- [3]
 			{
@@ -98999,7 +101299,7 @@ _detalhes_database = {
 			},
 		},
 	},
-	["combat_counter"] = 1306,
+	["combat_counter"] = 1310,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",

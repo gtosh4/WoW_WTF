@@ -50,6 +50,7 @@ VER 3 000000000000002A "page2" "134154"
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
+/stopcasting
 /use Healthstone
 /use Coastal Healing Potion
 END
@@ -84,4 +85,7 @@ VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000022 "TEST" "413591"
 /rotac
+END
+VER 3 000000000000002D "toggleab" "INV_Belt_44C."
+/run local E=unpack(ElvUI);local AB=E:GetModule("ActionBars");for b=1,5 do local r=AB["handledBars"]["bar"..b];r:EnableMouse(not r:IsMouseEnabled());for i=1, NUM_ACTIONBAR_BUTTONS do local t=r.buttons[i];t:EnableMouse(not t:IsMouseEnabled())end end
 END

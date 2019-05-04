@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 718,
 	["lastSanitation"] = 3,
+	["session"] = 719,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\LFGList.lua:2373: Usage: ApplyToGroup(resultID, tankOK, healerOK, damageOK)",

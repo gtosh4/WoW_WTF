@@ -1,50 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ert", -- [1]
-		"/cw Wraithbrand can you jeeves?", -- [2]
-		"/cw Wraithbrand ty", -- [3]
-		"/cw Wraithbrand  /follow", -- [4]
-		" hi friend", -- [5]
-		"/aa", -- [6]
-		"/ec", -- [7]
-		" the circles", -- [8]
-		" death's doors", -- [9]
-		" yeah, just dip into it", -- [10]
-		" it's the stuff that goes around you", -- [11]
+		" it's the stuff that goes around you", -- [1]
+		" figure it out?", -- [2]
+		" no, the stacks", -- [3]
+		"death's doors", -- [4]
+		"/cw Wraithbrand ty", -- [5]
+		"yeah, just dip into it", -- [6]
+		"/ert", -- [7]
+		"/m", -- [8]
+		"/o just followed me with it", -- [9]
+		"/o he like made a C instead of running straight out", -- [10]
+		"figure it out?", -- [11]
 		"/dn", -- [12]
-		"/m", -- [13]
-		" figure it out?", -- [14]
-		" no, the stacks", -- [15]
-		"/wa", -- [16]
-		"/o this DK", -- [17]
-		"/o just followed me with it", -- [18]
-		"/o he like made a C instead of running straight out", -- [19]
-		"/o so I side stepped and he was like, nope", -- [20]
+		"the circles", -- [13]
+		"/o this DK", -- [14]
+		"/ec", -- [15]
+		"no, the stacks", -- [16]
+		"hi friend", -- [17]
+		"it's the stuff that goes around you", -- [18]
+		"/o so I side stepped and he was like, nope", -- [19]
+		"/wa", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Fire on Zombiemonk", -- [1]
-			"Zombiemonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Zombiemonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2907, -- [11]
-			"Player-9-0A31676A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Zombiemonk|r",
-			[51] = 1556855492,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556855516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556855516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556855517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855524,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Scorching Detonation fading in 3", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855526,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556855542,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Fire on Umbrasong", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556855545,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Death's Door on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1556855561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Scorching Detonation fading in 3", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855567,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"'s pickpocket stole 2 gold 54 silver 12 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855571,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556855572,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [15]
 		{
 			"Fire on Mahle", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1556855574,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"Fire on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1556855574,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [19]
+		}, -- [18]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"Fire on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"Fire on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1556855575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556855576,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"Fire on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855576,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"Fire on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [29]
 		{
 			"Fire on Umbrasong", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [30]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556855577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Fire on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1556855577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556855578,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"Death's Door on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556855589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"Fire on Mahle", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1556855597,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"Fire on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1556855598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855607,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"Tosh gripped Orcbum", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855610,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Phantom of Slaughter!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855617,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [39]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Rage {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r cast on Phantom of Slaughter!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855621,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [41]
 		{
 			"Death's Door on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855636,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r King Rastakhan {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"Plague of Fire CD  0:06", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855642,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [44]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [45]
 		{
 			"Fire on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [46]
 		{
 			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556855651,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [47]
 		{
 			"Fire on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1556855651,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [48]
 		{
 			"Vwyq za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1556855652,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [49]
 		{
 			"Taunted King Rastakhan!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855652,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:9484:0|h[Shackle Undead]|h|r on Phantom of Slaughter ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855664,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [51]
 		{
 			"Taunted King Rastakhan!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855673,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [52]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855674,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Phantom of Slaughter has ended!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855675,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [54]
 		{
 			"Interrupted Phantom of Retribution's |cff71d5ff|Hspell:285572:0|h[Grave Bolt]|h|r!", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1556855677,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Retribution {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855682,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Phantom of Slaughter Grave Bolt!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855684,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556855690,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"Fire on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1556855690,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"Interrupted Phantom of Slaughter's |cff71d5ff|Hspell:285572:0|h[Grave Bolt]|h|r!", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1556855694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"Scorching Detonation fading in 3", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855708,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"someone figure out what the fuck |cff66bbff|Hjournal:2:19665:16|h[Dread Reaping]|h|r is from", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1556855763,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [63]
 		{
 			"i blame andrew", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1556855771,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [64]
 		{
 			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855825,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [65]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855838,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1556855842,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:111771:0|h[Demonic Gateway]|h|r placed!", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855855,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855858,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1556855862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"Casting |cff71d5ff|Hspell:29893:0|h[Create Soulwell]|h|r!", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855864,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [71]
 		{
 			"All you can eat buttfet!", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855870,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"Gordy can Jess get another corgi?", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556855874,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"Ate it like grocery.", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556855890,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"Not Well Fed (1): Huit", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855892,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [76]
+		}, -- [75]
 		{
 			"No Augment Rune (18): Dawnzo, Druwqt, Focalaire, Friendly, Huit, Mahle, Ngow, Orcbum, Sherbie, Snify, Tosh, Touchochrist, Trophie, Umbrasong, Vercetty, Voidamental, Wraithbrand, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855892,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855892,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [78]
+		}, -- [77]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855892,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [79]
+		}, -- [78]
 		{
 			"These patches will spawn and will then move in a spiral pattern. If you touch these you will take high amounts of shadow damage. If they touch a Death Rift they will then go into the living realm.", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1556855904,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [79]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855916,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [81]
+		}, -- [80]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Siegebreaker Roka {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556855931,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Taunted King Rastakhan!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855946,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855957,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [83]
 		{
 			"Seal of Purification on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1556855965,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855980,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [85]
 		{
 			"Scorching Detonation fading in 3", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556855982,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [86]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856028,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [87]
 		{
 			"Scorching Detonation fading in 3", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856030,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [88]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556856032,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [90]
+		}, -- [89]
 		{
 			"Vwyq za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1556856036,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556856037,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [91]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556856056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556856057,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [93]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556856058,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [94]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556856061,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"Fire on Huit", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1556856062,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [96]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556856063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [97]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556856063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [98]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556856063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [99]
 		{
 			"Fire on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1556856064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [100]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556856064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [101]
 		{
 			"Fire on Vercetty", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1556856064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [102]
 		{
 			"Fire on Umbrasong", -- [1]
 			"Umbrasong-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecUmbrasong|r",
 			[51] = 1556856066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [103]
 		{
 			"Fire on Dawnzo", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1556856066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [104]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556856066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [105]
 		{
 			"Fire on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1556856066,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [106]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856069,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [107]
 		{
 			"Death's Door on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1556856079,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [108]
 		{
 			"Fire on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1556856087,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [109]
 		{
 			"Death's Door on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1556856107,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [110]
 		{
 			"Scorching Detonation on Sherbie", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856111,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [111]
 		{
 			"Fire on Snify", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556856117,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [112]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556856119,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [114]
+		}, -- [113]
 		{
 			"Fire on Zombiemonk", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1556856143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [114]
 		{
 			"Fire on Focalaire", -- [1]
 			"Focalaire-Kil'jaeden", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Focalaire|r",
 			[51] = 1556856144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [115]
 		{
 			"Fire on Dolclemits", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDolclemits|r",
 			[51] = 1556856145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [116]
 		{
 			"Fire on Dolclemits", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDolclemits|r",
 			[51] = 1556856148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [117]
 		{
 			"Taunted Phantom of Retribution!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856158,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [118]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Phantom of Rage {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556856160,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [119]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Phantom of Retribution!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856160,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [120]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Phantom of Retribution has ended!", -- [1]
 			"Sherbie-Kil'jaeden", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sherbie|r",
 			[51] = 1556856160,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [121]
 		{
 			"good prog", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1556856180,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [122]
 		{
 			"i like triangles", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1556856188,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [123]
 		{
 			"thank you guys", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1556856219,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [124]
 		{
 			"xd", -- [1]
 			"|Kq25|k", -- [2]
@@ -2795,7 +2773,7 @@ ElvCharacterDB = {
 			[51] = 1556856380,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Envious",
-		}, -- [126]
+		}, -- [125]
 		{
 			"yoooooooooO", -- [1]
 			"|Kq23|k", -- [2]
@@ -2817,6 +2795,28 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1556856469,
 			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6351:Player-9-07CD87E1:1:5:3:19:4294967295:4294967295:4294967295:4294967295|h[Explore Jade Forest]|h|r!", -- [1]
+			"Tinuvel-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tinuvel-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-9-07CD87E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Tinuvel|r",
+			[51] = 1556930244,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }
