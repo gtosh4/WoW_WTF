@@ -2,31 +2,47 @@
 DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1554050599,
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1557709879,
 				["Specializations"] = {
-					[2] = 9979,
-					[3] = 12011,
+					15209, -- [1]
+					7065, -- [2]
 				},
-				["Class"] = "MONK",
+				["Class"] = "PALADIN",
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958087,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1556897680,
+				["lastUpdate"] = 1557620719,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 15085,
 				},
 				["Class"] = "DRUID",
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1556083143,
+				["Specializations"] = {
+					5759, -- [1]
+					11225, -- [2]
+				},
+				["Class"] = "DEMONHUNTER",
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554966021,
@@ -37,42 +53,18 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MAGE",
 			},
-			["Default.The Forgotten Coast.Toshtrial"] = {
-				["lastUpdate"] = 1554958087,
-				["Specializations"] = {
-					0, -- [1]
-				},
-				["Class"] = "PRIEST",
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1556083143,
-				["Specializations"] = {
-					5759, -- [1]
-					11225, -- [2]
-				},
-				["Class"] = "DEMONHUNTER",
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1556156676,
-				["Specializations"] = {
-					5993, -- [1]
-					7065, -- [2]
-				},
-				["Class"] = "PALADIN",
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1556948420,
+				["lastUpdate"] = 1557705599,
 				["Specializations"] = {
 					10678, -- [1]
-					[3] = 8151,
+					[3] = 14014,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1554049957,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430813,
 				["Specializations"] = {
-					5631, -- [1]
-					[3] = 5527,
+					0, -- [1]
 				},
 				["Class"] = "PRIEST",
 			},
@@ -82,15 +74,74 @@ DataStore_TalentsDB = {
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
+		["PALADIN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 65,
+					["talents"] = {
+						17565, -- [1]
+						17567, -- [2]
+						17569, -- [3]
+						22176, -- [4]
+						17575, -- [5]
+						17577, -- [6]
+						22179, -- [7]
+						22180, -- [8]
+						21811, -- [9]
+						22181, -- [10]
+						17591, -- [11]
+						17593, -- [12]
+						17597, -- [13]
+						17599, -- [14]
+						22164, -- [15]
+						23191, -- [16]
+						22190, -- [17]
+						22484, -- [18]
+						21668, -- [19]
+						21671, -- [20]
+						21203, -- [21]
+					},
+				}, -- [1]
+				{
+					["id"] = 66,
+					["talents"] = {
+						22428, -- [1]
+						22558, -- [2]
+						22430, -- [3]
+						22431, -- [4]
+						22604, -- [5]
+						22594, -- [6]
+						22179, -- [7]
+						22180, -- [8]
+						21811, -- [9]
+						22433, -- [10]
+						22434, -- [11]
+						22435, -- [12]
+						22705, -- [13]
+						21795, -- [14]
+						17601, -- [15]
+						22189, -- [16]
+						22438, -- [17]
+						23087, -- [18]
+						21201, -- [19]
+						21202, -- [20]
+						22645, -- [21]
+					},
+				}, -- [2]
+			},
+			["Version"] = 29981,
+		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
@@ -204,64 +255,6 @@ DataStore_TalentsRefDB = {
 						22359, -- [21]
 					},
 				},
-			},
-			["Version"] = 29981,
-		},
-		["PALADIN"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 65,
-					["talents"] = {
-						17565, -- [1]
-						17567, -- [2]
-						17569, -- [3]
-						22176, -- [4]
-						17575, -- [5]
-						17577, -- [6]
-						22179, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22181, -- [10]
-						17591, -- [11]
-						17593, -- [12]
-						17597, -- [13]
-						17599, -- [14]
-						22164, -- [15]
-						23191, -- [16]
-						22190, -- [17]
-						22484, -- [18]
-						21668, -- [19]
-						21671, -- [20]
-						21203, -- [21]
-					},
-				}, -- [1]
-				{
-					["id"] = 66,
-					["talents"] = {
-						22428, -- [1]
-						22558, -- [2]
-						22430, -- [3]
-						22431, -- [4]
-						22604, -- [5]
-						22594, -- [6]
-						22179, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22433, -- [10]
-						22434, -- [11]
-						22435, -- [12]
-						22705, -- [13]
-						21795, -- [14]
-						17601, -- [15]
-						22189, -- [16]
-						22438, -- [17]
-						23087, -- [18]
-						21201, -- [19]
-						21202, -- [20]
-						22645, -- [21]
-					},
-				}, -- [2]
 			},
 			["Version"] = 29981,
 		},
@@ -489,9 +482,6 @@ DataStore_TalentsRefDB = {
 						22161, -- [16]
 						19760, -- [17]
 						19763, -- [18]
-						21183, -- [19]
-						21184, -- [20]
-						22976, -- [21]
 					},
 				}, -- [1]
 				[3] = {

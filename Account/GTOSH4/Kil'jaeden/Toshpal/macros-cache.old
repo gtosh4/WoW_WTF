@@ -1,0 +1,4 @@
+VER 3 0100000000000017 "shock" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help,nodead][] Holy Shock
+END

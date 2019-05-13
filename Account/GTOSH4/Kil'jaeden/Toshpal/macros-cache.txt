@@ -1,74 +1,37 @@
-VER 3 0100000000000013 "13" "INV_MISC_QUESTIONMARK"
-#showtooltip 13
-/use 13
-END
-VER 3 0100000000000015 "Beacon" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000001C "beacon" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover][@player] Beacon of Virtue
+/cast [@mouseover,talent:7/3.noharm] Beacon of Virtue; [@mouseover,noharm] Beacon of Light
 END
-VER 3 0100000000000007 "Cleanse" "INV_MISC_QUESTIONMARK"
-#showtooltip Cleanse
-/cast [@mouseover,help][@target,help] Cleanse
+VER 3 0100000000000018 "cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,noharm,nodead][] Cleanse
 END
-VER 3 0100000000000010 "Crusade" "INV_MISC_QUESTIONMARK"
-#showtooltip Crusade
-/cast Horn of Valor
-/cast Crusade
+VER 3 010000000000001D "faith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,noharm,nodead][] Beacon of Faith
 END
-VER 3 0100000000000004 "Flash of Light" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000001A "fol" "INV_MISC_QUESTIONMARK"
 #showtooltip Flash of Light
-/cast [@mouseover] Flash of Light
+/cast [@mouseover,noharm,nodead][] Flash of Light
 END
-VER 3 010000000000000B "Freedom" "INV_MISC_QUESTIONMARK"
-#showtooltip Blessing of Freedom
-/cast [@mouseover,help][@target,help][@player] Blessing of Freedom
-END
-VER 3 010000000000000C "Holy Light" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000019 "hl" "INV_MISC_QUESTIONMARK"
 #showtooltip Holy Light
-/cast [@mouseover] Holy Light
+/cast [@mouseover,noharm,nodead][] Holy Light
 END
-VER 3 0100000000000005 "Holy Prism" "INV_MISC_QUESTIONMARK"
-#showtooltip Holy Prism
-/cast [@mouseover] Holy Prism
-END
-VER 3 0100000000000001 "Holy Shock" "INV_MISC_QUESTIONMARK"
-#showtooltip Holy Shock
-/cast [@mouseover,help,nodead][@target,exists][@mouseover] Holy Shock
-END
-VER 3 0100000000000009 "Lay on Hands" "INV_MISC_QUESTIONMARK"
-#showtooltip Lay on Hands
-/cast [@mouseover] Lay on Hands
-END
-VER 3 0100000000000008 "Light of Martyr" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000001B "lotm" "INV_MISC_QUESTIONMARK"
 #showtooltip Light of the Martyr
-/cast [@mouseover] Light of the Martyr
+/cast [@mouseover,noharm,nodead][] Light of the Martyr
 END
-VER 3 010000000000000F "LotP" "INV_MISC_QUESTIONMARK"
-#showtooltip [talent:5/3]Hand of the Protector;Light of the Protector
-/cast [@mouseover,help,nodead][@player][talent:5/3]Hand of the Protector;Light of the Protector
-END
-VER 3 0100000000000016 "protBubble" "INV_MISC_QUESTIONMARK"
-#showtooltip Divine Shield
-/cancelaura divine shield
-/cast divine shield
-END
-VER 3 010000000000000A "Sac" "INV_MISC_QUESTIONMARK"
+VER 3 010000000000001F "sac" "INV_MISC_QUESTIONMARK"
 #showtooltip Blessing of Sacrifice
-/cast [@mouseover,help] Blessing of Sacrifice
+/cast [@mouseover,noharm] Blessing of Sacrifice
+/stopspelltarget
 END
-VER 3 0100000000000011 "self14" "INV_MISC_QUESTIONMARK"
-#showtooltip 14
-/use [@player]14
+VER 3 0100000000000017 "shock" "INV_Misc_QuestionMark"
+#showtooltip Holy Shock
+/cast [@mouseover,noharm,nodead][] Holy Shock
 END
-VER 3 0100000000000006 "Talent1" "INV_MISC_QUESTIONMARK"
-#showtooltip [talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
-/cast [talent:1/2,@mouseover] Bestow Faith; [talent:1/3,@cursor] Light's Hammer
-END
-VER 3 0100000000000012 "toxins" "INV_MISC_QUESTIONMARK"
-#showtooltip Cleanse Toxins
-/cast [@mouseover,help][@target,help] Cleanse Toxins
-END
-VER 3 0100000000000014 "virtue" "INV_MISC_QUESTIONMARK"
-#showtooltip [talent:7/3] Beacon of Virtue; [talent:7/2] Beacon of Faith
-/cast [talent:7/3][@mouseover] Beacon of Virtue; [talent:7/2][@mouseover] Beacon of Faith
+VER 3 010000000000001E "tier1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,talent:1/2,help,nodead][talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
 END

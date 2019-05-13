@@ -1435,6 +1435,25 @@ VExRT = {
 				"^2272^16^1556855385^343^0^20^413.07^Orcbum", -- [626]
 				"^2272^16^1556855930^243^0^20^413.35^Orcbum", -- [627]
 				"^2272^16^1556856204^1^0^20^413.33^Zombiemonk", -- [628]
+				"^2265^16^1557538380^11^0^20^415.22^", -- [629]
+				"^2265^16^1557538427^11^0^20^415.25^", -- [630]
+				"^2265^16^1557538548^106^1^20^415.40^Pride", -- [631]
+				"^2263^16^1557538776^11^0^20^370.60^Pride", -- [632]
+				"^2263^16^1557539061^262^0^20^413.98^Smokestacks", -- [633]
+				"^2263^16^1557539392^193^0^20^413.91^Abernathii", -- [634]
+				"^2263^16^1557539656^104^0^20^414.92^Abernathii", -- [635]
+				"^2263^16^1557539860^231^1^20^414.90^", -- [636]
+				"^2266^16^1557540443^10^0^20^415.17^", -- [637]
+				"^2266^16^1557540544^151^0^20^283.48^Pride", -- [638]
+				"^2266^16^1557540792^268^1^20^413.66^Pride", -- [639]
+				"^2271^16^1557541200^3^0^20^415.56^Tehkz", -- [640]
+				"^2271^16^1557541244^3^0^20^415.56^", -- [641]
+				"^2271^16^1557541539^423^1^20^415.68^Arnbjørn", -- [642]
+				"^2101^8^1557621417^153^1^5^415.32^Tosh", -- [643]
+				"^2102^8^1557622106^102^1^5^415.32^", -- [644]
+				"^2103^8^1557622575^122^1^5^415.32^", -- [645]
+				"^2104^8^1557622800^97^0^5^415.32^Tosh", -- [646]
+				"^2104^8^1557622934^181^1^5^415.32^Tosh", -- [647]
 			},
 			["Toshpal"] = {
 			},
@@ -2419,18 +2438,21 @@ VExRT = {
 		["default_userDuration"] = {
 		},
 		["gnGUIDs"] = {
-			["Huit"] = 253,
+			["Slurry"] = 102,
 			["Littleshuai"] = 263,
 			["Aspbringer"] = 70,
 			["Idc"] = 103,
 			["Vercetty"] = 263,
+			["Tehkz"] = 256,
 			["Thunderzmonk"] = 269,
 			["Sherbie"] = 268,
 			["Druwqt"] = 258,
 			["Ceesong"] = 64,
 			["Baesong"] = 72,
+			["Ekhø"] = 265,
+			["Abernathii"] = 66,
 			["Toshmonk"] = 270,
-			["Yellowy"] = 257,
+			["Mewmonk"] = 270,
 			["Wassup-Hyjal"] = 267,
 			["Blueflame"] = 72,
 			["Backstab"] = 260,
@@ -2439,8 +2461,10 @@ VExRT = {
 			["Illsong"] = 577,
 			["Jagerwerks"] = 253,
 			["Zombiemonk"] = 270,
+			["Drift"] = 269,
 			["Pride"] = 73,
 			["Voidamental"] = 262,
+			["Warlockmania"] = 267,
 			["Redek-Ragnaros"] = 72,
 			["Jdog"] = 253,
 			["Hyperr"] = 260,
@@ -2448,46 +2472,60 @@ VExRT = {
 			["Sci-Area52"] = 65,
 			["Rivalry"] = 577,
 			["Skarsnik"] = 264,
+			["Pluie"] = 102,
+			["Sinmon"] = 258,
+			["Smokestacks"] = 102,
 			["Desertdust-Thrall"] = 269,
 			["Sbldz-Mal'Ganis"] = 577,
-			["Nv"] = 65,
-			["Emosong"] = 260,
+			["Nv"] = 70,
+			["Emosong"] = 259,
+			["Huit"] = 253,
+			["Myd-Thrall"] = 73,
+			["Murkya"] = 265,
 			["Paxington-Illidan"] = 254,
-			["Friendly"] = 257,
+			["Daiyzed"] = 102,
+			["Friendly"] = 258,
 			["Toshaman"] = 262,
 			["Moonblight"] = 250,
 			["Sonaris"] = 258,
+			["Cadaceus"] = 265,
+			["Flakeandbake-Crushridge"] = 257,
 			["Celo-Azralon"] = 258,
 			["Arnbjørn"] = 64,
 			["Trophie"] = 258,
+			["Tosh"] = 256,
 			["Fearings"] = 266,
-			["Haxpaxy"] = 102,
-			["Thunderrz"] = 254,
-			["Touchochrist"] = 258,
+			["Toxicsob"] = 258,
+			["Haxpax"] = 258,
 			["Umbrasong"] = 267,
+			["Yuffio"] = 258,
+			["Thunderrz"] = 254,
+			["Andrewzz"] = 259,
+			["Touchochrist"] = 258,
+			["Dolclemits"] = 258,
 			["Khelikloth"] = 260,
 			["Ohtotems-Stormreaver"] = 264,
-			["Bluedagger"] = 259,
+			["Havèx-Area52"] = 66,
 			["Mahle"] = 577,
-			["Dachou-Illidan"] = 268,
-			["Wonengkang-AltarofStorms"] = 102,
-			["Flakeandbake-Crushridge"] = 257,
-			["Dawnzo"] = 70,
-			["Rùnar-Area52"] = 577,
-			["Eau"] = 102,
-			["Orcbum"] = 73,
 			["Serasong"] = 70,
+			["Wonengkang-AltarofStorms"] = 102,
+			["Iko"] = 102,
+			["Dawnzo"] = 70,
+			["Eau"] = 102,
+			["Haxpaxy"] = 102,
+			["Rùnar-Area52"] = 577,
+			["Bluedagger"] = 259,
 			["Voidthirst"] = 577,
-			["Andrewzz"] = 259,
+			["Dachou-Illidan"] = 268,
 			["Snify"] = 252,
 			["Renewal"] = 102,
 			["Ngow"] = 105,
 			["Litsong"] = 258,
-			["Havèx-Area52"] = 66,
+			["Orcbum"] = 73,
 			["Righteousox"] = 70,
-			["Dolclemits"] = 258,
-			["Tosh"] = 256,
-			["Toxicsob"] = 258,
+			["Genj"] = 258,
+			["Yellowy"] = 257,
+			["Yoggs-Thrall"] = 260,
 		},
 		["SplitOpt"] = true,
 		["NoRaid"] = true,
@@ -5554,6 +5592,94 @@ VExRT = {
 				["g"] = 20,
 				["eN"] = "Conclave of the Chosen",
 			}, -- [91]
+			{
+				"BNv", -- [1]
+				"EYellowy", -- [2]
+				"ETosh", -- [3]
+				"EHaxpax", -- [4]
+				"ICadaceus", -- [5]
+				"BAbernathii", -- [6]
+				"APride", -- [7]
+				"CThunderrz", -- [8]
+				"LAndruww", -- [9]
+				"DEmosong", -- [10]
+				"ESonaris", -- [11]
+				"JMewmonk", -- [12]
+				"ETehkz", -- [13]
+				"EYuffio", -- [14]
+				"ESinmon", -- [15]
+				"KSmokestacks", -- [16]
+				"IEkhø", -- [17]
+				"HArnbjørn", -- [18]
+				"IMurkya", -- [19]
+				"KDaiyzed", -- [20]
+				["c"] = "Tosh-Kil'jaeden",
+				["k"] = true,
+				["d"] = 16,
+				["eI"] = 2265,
+				["t"] = 1557538654,
+				["g"] = 20,
+				["eN"] = "Champion of the Light",
+			}, -- [92]
+			{
+				"JDrift", -- [1]
+				"EYellowy", -- [2]
+				"ETosh", -- [3]
+				"EHaxpax", -- [4]
+				"ICadaceus", -- [5]
+				"BAbernathii", -- [6]
+				"APride", -- [7]
+				"CThunderrz", -- [8]
+				"LAndruww", -- [9]
+				"DEmosong", -- [10]
+				"ESonaris", -- [11]
+				"JMewmonk", -- [12]
+				"ETehkz", -- [13]
+				"EYuffio", -- [14]
+				"ESinmon", -- [15]
+				"KSmokestacks", -- [16]
+				"IEkhø", -- [17]
+				"HArnbjørn", -- [18]
+				"IMurkya", -- [19]
+				"KDaiyzed", -- [20]
+				["d"] = 16,
+				["eI"] = 2263,
+				["k"] = true,
+				["t"] = 1557540091,
+				["eN"] = "Grong",
+				[26] = "BNv",
+				["g"] = 20,
+				["c"] = "Tosh-Kil'jaeden",
+			}, -- [93]
+			{
+				"JDrift", -- [1]
+				"EYellowy", -- [2]
+				"ETosh", -- [3]
+				"EHaxpax", -- [4]
+				"ICadaceus", -- [5]
+				"BAbernathii", -- [6]
+				"APride", -- [7]
+				"CThunderrz", -- [8]
+				"LAndruww", -- [9]
+				"DEmosong", -- [10]
+				"ESonaris", -- [11]
+				"JMewmonk", -- [12]
+				"ETehkz", -- [13]
+				"EYuffio", -- [14]
+				"ESinmon", -- [15]
+				"KSmokestacks", -- [16]
+				"IEkhø", -- [17]
+				"HArnbjørn", -- [18]
+				"IMurkya", -- [19]
+				"KDaiyzed", -- [20]
+				["k"] = true,
+				["c"] = "Tosh-Kil'jaeden",
+				["d"] = 16,
+				["eN"] = "Jadefire Masters",
+				["t"] = 1557541060,
+				["g"] = 20,
+				["eI"] = 2266,
+			}, -- [94]
 		},
 		["alts"] = {
 		},
@@ -5567,13 +5693,13 @@ VExRT = {
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["Timer"] = 0.1,
-		["Version"] = 4000,
 		["IconMiniMapHide"] = true,
+		["Version"] = 4000,
 		["Scale"] = 1,
-		["IconMiniMapLeft"] = -78.3197369046974,
-		["IconMiniMapTop"] = -16.3100831137973,
 		["PreVersion"] = 4000,
+		["IconMiniMapLeft"] = -78.3197369046974,
+		["Timer"] = 0.1,
+		["IconMiniMapTop"] = -16.3100831137973,
 	},
 	["Timers"] = {
 		["specTimes"] = {

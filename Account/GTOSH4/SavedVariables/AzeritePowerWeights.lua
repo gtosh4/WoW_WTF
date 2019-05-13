@@ -34,10 +34,10 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
-				["debug"] = false,
+				["onlyOwnClassCustoms"] = false,
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
-				["onlyOwnClassCustoms"] = false,
+				["debug"] = false,
 			},
 		},
 		["Kil'jaeden"] = {
@@ -75,8 +75,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
 				["debug"] = false,
+				["professionPowers"] = false,
 			},
 			["Toshmonk"] = {
 				["specScales"] = {
@@ -108,8 +108,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["debug"] = false,
 				["professionPowers"] = false,
+				["debug"] = false,
 			},
 			["Tosh"] = {
 				["specScales"] = {
@@ -141,8 +141,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["professionPowers"] = false,
 				["debug"] = false,
+				["professionPowers"] = false,
 			},
 			["Toshpal"] = {
 				["specScales"] = {
@@ -174,8 +174,8 @@ AzeritePowerWeightsDB = {
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
 				["showOnlyUpgrades"] = false,
-				["debug"] = false,
 				["professionPowers"] = false,
+				["debug"] = false,
 			},
 			["Toshaman"] = {
 				["specScales"] = {
@@ -206,6 +206,42 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
+				["debug"] = false,
+				["professionPowers"] = false,
+			},
+		},
+		["Frostwolf"] = {
+			["Zallie"] = {
+				["specScales"] = {
+					[257] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/2/Default",
+					},
+					[258] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/3/Default",
+					},
+					[256] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/5/1/Default",
+					},
+				},
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
+				["zonePowers"] = true,
+				["pvpPowers"] = false,
+				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["onlyOwnClassCustoms"] = false,
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
 				["debug"] = false,
@@ -241,10 +277,10 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["scaleByAzeriteEmpowered"] = false,
 				["onlyOwnClassDefaults"] = true,
-				["debug"] = false,
+				["onlyOwnClassCustoms"] = false,
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
-				["onlyOwnClassCustoms"] = false,
+				["debug"] = false,
 			},
 		},
 	},

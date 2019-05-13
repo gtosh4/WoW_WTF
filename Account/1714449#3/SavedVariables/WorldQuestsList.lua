@@ -69,11 +69,10 @@ VWQL = {
 		["FilterType"] = {
 		},
 		["Quests"] = {
-			[50548] = true,
-			[52832] = true,
-			[51455] = true,
-			[55344] = true,
-			[51496] = true,
+			[51113] = true,
+			[51252] = true,
+			[52386] = true,
+			[51629] = true,
 		},
 		["VERSION"] = 87,
 	},

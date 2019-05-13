@@ -11,53 +11,35 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-05-07",
+			["NextWeeklyReset"] = "2019-05-14",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["Contacts"] = {
 					["Yorman"] = {
 						["note"] = "",
-						["class"] = "Druid",
-						["level"] = 120,
 					},
 					["Toshpal"] = {
 						["note"] = "",
+						["class"] = "Paladin",
+						["level"] = 120,
 					},
 					["Toshaman"] = {
 						["note"] = "",
+						["class"] = "Shaman",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1556762883,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|370042799"] = "140298|1557705701|0|1",
 				},
-				["lastUpdate"] = 1554683527,
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1554335375,
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-					["Tosh"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1554681353,
+				["lastUpdate"] = 1557708864,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|369740537"] = "310613|1556930584|0|1",
-					["Crucible of Storms Heroic|369777713"] = "310613|1556930584|0|1",
+					["Battle of Dazar'alor Mythic|370146296"] = "164835|1557681164|0|1",
 				},
-				["lastUpdate"] = 1556930587,
+				["lastUpdate"] = 1557681189,
 			},
 		},
 	},

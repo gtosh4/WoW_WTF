@@ -10,41 +10,17 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1556762837,
+				["lastUpdate"] = 1557706341,
 				["Specializations"] = {
 					[2] = 5849,
 					[3] = 12011,
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1554683448,
-				["Specializations"] = {
-					7165, -- [1]
-					[4] = 15085,
-				},
-				["Class"] = "DRUID",
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1554335366,
-				["Specializations"] = {
-					14169, -- [1]
-					7065, -- [2]
-				},
-				["Class"] = "PALADIN",
-			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1554679517,
-				["Specializations"] = {
-					11614, -- [1]
-					[3] = 8151,
-				},
-				["Class"] = "SHAMAN",
-			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1556930073,
+				["lastUpdate"] = 1557681163,
 				["Specializations"] = {
-					14335, -- [1]
+					5631, -- [1]
 					[3] = 5527,
 				},
 				["Class"] = "PRIEST",

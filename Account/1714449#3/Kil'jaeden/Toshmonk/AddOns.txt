@@ -8,7 +8,7 @@ Blizzard_CompactRaidFrames: enabled
 Blizzard_CUFProfiles: disabled
 oRA3: disabled
 Clique: disabled
-bigdumblootcouncil: disabled
+bigdumblootcouncil: enabled
 BigWigs_BattleOfDazaralor: enabled
 LittleWigs: enabled
 AzeriteForge: disabled

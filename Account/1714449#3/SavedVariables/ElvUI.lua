@@ -1305,33 +1305,33 @@ ElvPrivateDB = {
 			["install_complete"] = "10.87",
 		},
 		["Tosh - Kil'jaeden"] = {
-			["sle"] = {
-				["pvpreadydialogreset"] = true,
-				["install_complete"] = "3.5",
-				["characterGoldsSorting"] = {
-					["Kil'jaeden"] = {
-					},
-				},
-			},
-			["bags"] = {
-				["enable"] = false,
-			},
-			["actionbar"] = {
-				["enable"] = false,
-			},
 			["skins"] = {
 				["parchmentRemover"] = {
 					["enable"] = true,
 				},
 			},
+			["sle"] = {
+				["pvpreadydialogreset"] = true,
+				["characterGoldsSorting"] = {
+					["Kil'jaeden"] = {
+					},
+				},
+				["install_complete"] = "3.5",
+			},
+			["actionbar"] = {
+				["enable"] = false,
+			},
 			["nameplates"] = {
 				["enable"] = false,
 			},
+			["bags"] = {
+				["enable"] = false,
+			},
 			["general"] = {
+				["dmgfont"] = "Friz Quadrata TT",
 				["minimap"] = {
 					["hideClassHallReport"] = true,
 				},
-				["dmgfont"] = "Friz Quadrata TT",
 			},
 			["install_complete"] = "10.85",
 		},
@@ -1339,10 +1339,6 @@ ElvPrivateDB = {
 			["sle"] = {
 				["module"] = {
 					["screensaver"] = true,
-				},
-				["characterGoldsSorting"] = {
-					["Kil'jaeden"] = {
-					},
 				},
 				["pvpreadydialogreset"] = true,
 				["skins"] = {
@@ -1352,10 +1348,13 @@ ElvPrivateDB = {
 					},
 				},
 				["install_complete"] = "3.5",
+				["characterGoldsSorting"] = {
+					["Kil'jaeden"] = {
+					},
+				},
 			},
-			["general"] = {
-				["dmgfont"] = "Friz Quadrata TT",
-				["namefont"] = "Friz Quadrata TT",
+			["bags"] = {
+				["enable"] = false,
 			},
 			["actionbar"] = {
 				["enable"] = false,
@@ -1363,8 +1362,9 @@ ElvPrivateDB = {
 			["nameplates"] = {
 				["enable"] = false,
 			},
-			["bags"] = {
-				["enable"] = false,
+			["general"] = {
+				["dmgfont"] = "Friz Quadrata TT",
+				["namefont"] = "Friz Quadrata TT",
 			},
 			["theme"] = "default",
 			["install_complete"] = "10.85",

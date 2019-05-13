@@ -48,41 +48,41 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"coastal healing potion", -- [1]
-			"Deadly amberblaze", -- [2]
-			"Felwort", -- [3]
-			"Siren's Pollen", -- [4]
-			"Battle-Scarred Augment Rune", -- [5]
-			"Vantus Rune: Battle of Dazar'alor", -- [6]
-			"Pact of Critical", -- [7]
-			"time shifter", -- [8]
-			"time-shifter", -- [9]
-			"Ultramarine", -- [10]
-			"hexweave bag", -- [11]
-			"Battle Shout", -- [12]
-			"Battle flag", -- [13]
-			"Anchor Weed", -- [14]
-			"Winter's Kiss", -- [15]
-			"crafting", -- [16]
-			"Star moss", -- [17]
-			"Riverbud", -- [18]
-			"Sugar Crusted", -- [19]
-			"Sugar-Crusted", -- [20]
-			"Fish", -- [21]
-			"Feast", -- [22]
-			"Fish Feast", -- [23]
-			"Monel-hardened stirrups", -- [24]
-			"Great sea catfish", -- [25]
-			"Drums", -- [26]
-			"Drums of maelstrom", -- [27]
-			"Kraken's Eye of intellect", -- [28]
-			"coarse leather", -- [29]
-			"Alchemist stone", -- [30]
-			"Darkmoon deck: tides", -- [31]
-			"tides", -- [32]
-			"Goblin glider", -- [33]
-			"Pact of versatility", -- [34]
-			"Akunda's bite", -- [35]
+			"Anchor Weed", -- [1]
+			"Winter's Kiss", -- [2]
+			"Akunda's Bite", -- [3]
+			"coastal healing potion", -- [4]
+			"Deadly amberblaze", -- [5]
+			"Felwort", -- [6]
+			"Siren's Pollen", -- [7]
+			"Battle-Scarred Augment Rune", -- [8]
+			"Vantus Rune: Battle of Dazar'alor", -- [9]
+			"Pact of Critical", -- [10]
+			"time shifter", -- [11]
+			"time-shifter", -- [12]
+			"Ultramarine", -- [13]
+			"hexweave bag", -- [14]
+			"Battle Shout", -- [15]
+			"Battle flag", -- [16]
+			"crafting", -- [17]
+			"Star moss", -- [18]
+			"Riverbud", -- [19]
+			"Sugar Crusted", -- [20]
+			"Sugar-Crusted", -- [21]
+			"Fish", -- [22]
+			"Feast", -- [23]
+			"Fish Feast", -- [24]
+			"Monel-hardened stirrups", -- [25]
+			"Great sea catfish", -- [26]
+			"Drums", -- [27]
+			"Drums of maelstrom", -- [28]
+			"Kraken's Eye of intellect", -- [29]
+			"coarse leather", -- [30]
+			"Alchemist stone", -- [31]
+			"Darkmoon deck: tides", -- [32]
+			"tides", -- [33]
+			"Goblin glider", -- [34]
+			"Pact of versatility", -- [35]
 			"Versatile navigation", -- [36]
 			"Viridescent Ink", -- [37]
 			"quick navigation", -- [38]
@@ -560,11 +560,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
 			["mr"] = 8489999,
-			["H3056"] = 4989925,
+			["sc"] = 9,
 			["id"] = "165692:0:0:0:0",
 			["H3091"] = 8489999,
 			["cc"] = 0,
-			["sc"] = 9,
 		},
 		["Pygmy Suckerfish"] = {
 			["mr"] = 54863,
@@ -672,11 +671,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3016"] = 20620529,
 		},
 		["Winter's Kiss"] = {
-			["mr"] = 114000,
+			["H3098"] = 64500,
+			["mr"] = 64500,
 			["cc"] = 7,
 			["id"] = "152508:0:0:0:0",
 			["sc"] = 9,
-			["H3018"] = 114000,
 		},
 		["Tidespray Linen Mittens of the Quickblade"] = {
 			["mr"] = 32509987,
@@ -950,10 +949,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 		},
 		["Akunda's Bite"] = {
-			["mr"] = 179499,
+			["H3098"] = 74500,
+			["mr"] = 74500,
 			["cc"] = 7,
 			["id"] = "152507:0:0:0:0",
-			["H3004"] = 179499,
 			["sc"] = 9,
 		},
 		["Deep Sea Bandage"] = {
@@ -1091,7 +1090,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["id"] = "160053:0:0:0:0",
 			["H3091"] = 4125000,
-			["H3078"] = 4450000,
 			["cc"] = 0,
 		},
 		["Gothic Plate Helmet of the Fireflash"] = {
@@ -2005,11 +2003,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3016"] = 44479880,
 		},
 		["Anchor Weed"] = {
-			["mr"] = 567000,
+			["H3098"] = 276000,
+			["mr"] = 276000,
 			["cc"] = 7,
 			["id"] = "152510:0:0:0:0",
 			["sc"] = 9,
-			["H3018"] = 567000,
 		},
 		["Hexweave Bag"] = {
 			["mr"] = 9249999,

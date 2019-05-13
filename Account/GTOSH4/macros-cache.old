@@ -50,6 +50,7 @@ VER 3 000000000000002A "page2" "134154"
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
+/stopcasting
 /use Healthstone
 /use Coastal Healing Potion
 END
@@ -81,6 +82,9 @@ END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
+END
+VER 3 000000000000002E "TB" "Icon_PetFamily_Mechanical."
+/script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
 END
 VER 3 0000000000000022 "TEST" "413591"
 /rotac

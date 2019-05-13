@@ -5,13 +5,13 @@ BigWigs3DB = {
 			[-1358] = true,
 			[875] = true,
 			[-1345] = true,
+			[-367] = true,
+			[-1004] = true,
 			[876] = true,
+			[-557] = true,
 			[-1352] = {
 				[2] = true,
 			},
-			[-557] = true,
-			[-1004] = true,
-			[-367] = true,
 		},
 	},
 	["discord"] = 15,
@@ -56,17 +56,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285003] = 1032439,
-					[288449] = 2015479,
-					[287333] = 1032439,
-					[285213] = 1036535,
-					[284831] = 1032439,
-					[285346] = 1032439,
-				},
-			},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -90,12 +80,12 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_y"] = 257.60125702105,
 					["BigWigsAnchor_x"] = 675.743157964433,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
 					["growup"] = false,
@@ -104,33 +94,12 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.9999809265137,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["emphasizeTime"] = 12,
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
 			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 402.655939044766,
-					["posy"] = 517.864880098772,
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
-				},
-			},
-		},
-		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
@@ -145,6 +114,37 @@ BigWigs3DB = {
 							[287333] = "English: Overwatch: Reaper",
 						},
 					},
+				},
+			},
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 402.655939044766,
+					["posy"] = 517.864880098772,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285003] = 1032439,
+					[288449] = 2015479,
+					[287333] = 1032439,
+					[285213] = 1036535,
+					[284831] = 1032439,
+					[285346] = 1032439,
 				},
 			},
 		},
@@ -204,8 +204,8 @@ BigWigsStatsDB = {
 				["kills"] = 5,
 			},
 			["mythic"] = {
-				["kills"] = 16,
-				["wipes"] = 76,
+				["kills"] = 17,
+				["wipes"] = 77,
 				["best"] = 251.736999999965,
 			},
 			["heroic"] = {
@@ -251,9 +251,9 @@ BigWigsStatsDB = {
 				["best"] = 368.693999999901,
 			},
 			["mythic"] = {
-				["kills"] = 10,
+				["kills"] = 11,
 				["wipes"] = 214,
-				["best"] = 450.55299999984,
+				["best"] = 423.008999999962,
 			},
 			["LFR"] = {
 				["best"] = 485.402999999933,
@@ -346,9 +346,9 @@ BigWigsStatsDB = {
 				["best"] = 194.273999999976,
 			},
 			["mythic"] = {
-				["kills"] = 17,
-				["wipes"] = 121,
-				["best"] = 265.092999999994,
+				["kills"] = 18,
+				["wipes"] = 124,
+				["best"] = 230.54800000001,
 			},
 			["LFR"] = {
 				["kills"] = 1,
@@ -363,7 +363,7 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["mythic"] = {
-				["kills"] = 22,
+				["kills"] = 23,
 				["wipes"] = 32,
 				["best"] = 97.1759999999777,
 			},
