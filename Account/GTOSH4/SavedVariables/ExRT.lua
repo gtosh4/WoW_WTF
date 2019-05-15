@@ -334,6 +334,10 @@ VExRT = {
 				"^2132^8^1557619472^215^1^5^414.90^Andruww", -- [242]
 				"^2133^8^1557619891^166^0^5^414.20^Friendly", -- [243]
 				"^2133^8^1557620172^202^1^5^415.31^", -- [244]
+				"^2268^16^1557893307^304^0^20^413.75^Keydepleter", -- [245]
+				"^2268^16^1557893719^141^0^20^413.75^Voidthirst", -- [246]
+				"^2268^16^1557893935^305^0^20^413.75^Touchochrist", -- [247]
+				"^2268^16^1557894361^405^1^20^413.75^Zombiemonk", -- [248]
 			},
 			["Tosku"] = {
 			},
@@ -2666,49 +2670,66 @@ VExRT = {
 		["default_userDuration"] = {
 		},
 		["gnGUIDs"] = {
-			["Huit"] = 253,
+			["Wraithbrand"] = 63,
+			["Slurry"] = 102,
+			["Skarsnik"] = 264,
 			["Pluie"] = 102,
+			["Tosh"] = 256,
 			["Sinmon"] = 258,
 			["Smokestacks"] = 102,
 			["Yoggs-Thrall"] = 260,
 			["Tehkz"] = 256,
+			["Orcbum"] = 73,
 			["Qiro"] = 264,
 			["Nv"] = 70,
 			["Emosong"] = 259,
+			["Yellowy"] = 257,
 			["Haxpax"] = 258,
+			["Ngow"] = 105,
 			["Paxington-Illidan"] = 253,
-			["Keydepleter"] = 250,
+			["Hetril"] = 70,
+			["Friendly"] = 258,
 			["Toshaman"] = 264,
-			["Ekhø"] = 267,
+			["Thunderrz"] = 254,
+			["Sonaris"] = 258,
 			["Mookylock"] = 267,
 			["Abernathii"] = 66,
 			["Thunderpally"] = 70,
-			["Mewmonk"] = 270,
+			["Arnbjørn"] = 63,
+			["Khelikloth"] = 260,
+			["Litsong"] = 258,
+			["Fearings"] = 267,
+			["Ekhø"] = 267,
+			["Druwqt"] = 258,
 			["Backstab"] = 260,
 			["Yuffio"] = 258,
-			["Thunderrz"] = 254,
-			["Murkya"] = 265,
-			["Toshpal"] = 65,
+			["Eau"] = 102,
+			["Focalaire"] = 64,
+			["Touchochrist"] = 258,
+			["Dawnzo"] = 70,
+			["Huit"] = 253,
 			["Daiyzed"] = 102,
-			["Arnbjørn"] = 63,
 			["Myd-Thrall"] = 73,
+			["Eman"] = 577,
+			["Keydepleter"] = 250,
 			["Yukio"] = 64,
-			["Friendly"] = 258,
+			["Zombiemonk"] = 270,
 			["Erydox"] = 260,
-			["Haxpaxy"] = 102,
+			["Mewmonk"] = 270,
 			["Pride"] = 73,
-			["Yellowy"] = 257,
-			["Knoss"] = 254,
+			["Toshpal"] = 65,
+			["Haxpaxy"] = 102,
+			["Voidthirst"] = 577,
 			["Warlockmania"] = 265,
-			["Cadaceus"] = 265,
+			["Snify"] = 252,
 			["Zallie"] = 256,
 			["Yorman"] = 105,
 			["Cadiro"] = 258,
-			["Sonaris"] = 258,
-			["Andruww"] = 577,
+			["Cadaceus"] = 265,
+			["Murkya"] = 265,
 			["Voidzeal"] = 70,
-			["Tosh"] = 256,
-			["Eau"] = 102,
+			["Knoss"] = 254,
+			["Andruww"] = 577,
 		},
 		["userDB"] = {
 			{
@@ -4576,14 +4597,14 @@ VExRT = {
 				"GToshaman", -- [17]
 				"LKalindalivar-Stormreaver", -- [18]
 				"AMenegrot-Ragnaros", -- [19]
-				["k"] = true,
+				[21] = "EZech-Thrall",
 				["eN"] = "Mekkatorque",
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 14,
 				["eI"] = 2276,
 				["t"] = 1551033864,
 				["g"] = 20,
-				[21] = "EZech-Thrall",
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [52]
 			{
 				"BBeefyypally-Illidan", -- [1]
@@ -5783,6 +5804,36 @@ VExRT = {
 				["c"] = "Toshaman-Kil'jaeden",
 				["t"] = 1557638448,
 			}, -- [91]
+			{
+				"AOrcbum", -- [1]
+				"FKeydepleter", -- [2]
+				"FSnify", -- [3]
+				"BDawnzo", -- [4]
+				"BHetril", -- [5]
+				"LVoidthirst", -- [6]
+				"LEman", -- [7]
+				"DKhelikloth", -- [8]
+				"KYorman", -- [9]
+				"KSlurry", -- [10]
+				"HWraithbrand", -- [11]
+				"HFocalaire", -- [12]
+				"ELitsong", -- [13]
+				"EDruwqt", -- [14]
+				"ETouchochrist", -- [15]
+				"EYellowy", -- [16]
+				"KNgow", -- [17]
+				"GSkarsnik", -- [18]
+				"JZombiemonk", -- [19]
+				"IFearings", -- [20]
+				[36] = "ETosh",
+				["k"] = true,
+				["c"] = "Yorman-Kil'jaeden",
+				["d"] = 16,
+				["eN"] = "Conclave of the Chosen",
+				["t"] = 1557894766,
+				["g"] = 20,
+				["eI"] = 2268,
+			}, -- [92]
 		},
 		["alts"] = {
 		},
@@ -5796,13 +5847,13 @@ VExRT = {
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["IconMiniMapTop"] = -16.3100831137973,
-		["Version"] = 4000,
-		["Timer"] = 0.1,
 		["IconMiniMapHide"] = true,
-		["IconMiniMapLeft"] = -78.3197369046974,
-		["PreVersion"] = 4000,
+		["Version"] = 4000,
 		["Scale"] = 1,
+		["PreVersion"] = 4000,
+		["IconMiniMapLeft"] = -78.3197369046974,
+		["Timer"] = 0.1,
+		["IconMiniMapTop"] = -16.3100831137973,
 	},
 	["InviteTool"] = {
 		["Words"] = "инв inv byd штм 123",

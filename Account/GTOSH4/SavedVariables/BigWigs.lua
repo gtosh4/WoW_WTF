@@ -18,8 +18,6 @@ BigWigs3DB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_Dazar, The First King"] = {
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -31,31 +29,6 @@ BigWigs3DB = {
 			},
 		},
 		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
-					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-				},
-			},
-		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					["stages"] = 1032439,
-					[288449] = 2015479,
-					[285003] = 1032439,
-					[287333] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Mchimba the Embalmer"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -92,11 +65,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					["stages"] = 1032439,
+					[288449] = 2015479,
+					[285003] = 1032439,
+					[287333] = 1032439,
+				},
+			},
 		},
-		["BigWigs_Bosses_King's Rest Trash"] = {
-		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Bosses_The Restless Cabal"] = {
 			["profiles"] = {
@@ -114,7 +93,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -124,31 +103,35 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Bars"] = {
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
-					["BigWigsAnchor_width"] = 200.251571655273,
-					["BigWigsAnchor_x"] = 1392.54322316818,
-					["fill"] = false,
-					["BigWigsEmphasizeAnchor_height"] = 21.9999942779541,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 19.9999809265137,
-					["fontSize"] = 14,
-					["visibleBarLimit"] = 20,
-					["BigWigsAnchor_y"] = 67.7356962641752,
-					["emphasizeGrowup"] = true,
-					["spacing"] = 4,
-					["texture"] = "ElvUI Norm",
-					["barStyle"] = "ElvUI",
-					["BigWigsEmphasizeAnchor_width"] = 218.000045776367,
-					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
-					["outline"] = "OUTLINE",
-					["emphasizeTime"] = 10,
-					["emphasizeMultiplier"] = 1,
-					["fontSizeEmph"] = 14,
+					[288345] = 1000183,
+					[288374] = 999671,
 				},
 			},
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
+					["fontName"] = "Friz Quadrata TT",
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
@@ -172,24 +155,31 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Council of Tribes"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
+		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285118] = 1032439,
+					["outline"] = "OUTLINE",
+					["BigWigsAnchor_width"] = 200.251571655273,
+					["BigWigsAnchor_x"] = 1392.54322316818,
+					["fill"] = false,
+					["BigWigsEmphasizeAnchor_height"] = 21.9999942779541,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 19.9999809265137,
+					["fontSize"] = 14,
+					["visibleBarLimit"] = 20,
+					["BigWigsAnchor_y"] = 67.7356962641752,
+					["emphasizeGrowup"] = true,
+					["spacing"] = 4,
+					["emphasizeTime"] = 10,
+					["barStyle"] = "ElvUI",
+					["BigWigsEmphasizeAnchor_width"] = 218.000045776367,
+					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
+					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
+					["fontSizeEmph"] = 14,
+					["emphasizeMultiplier"] = 1,
+					["texture"] = "ElvUI Norm",
 				},
 			},
-		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-			["profiles"] = {
-				["Default"] = {
-					[288345] = 1000183,
-					[288374] = 999671,
-				},
-			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -208,7 +198,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Golden Serpent"] = {
+		["BigWigs_Plugins_Pull"] = {
 		},
 		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
@@ -367,8 +357,8 @@ BigWigsStatsDB = {
 				["best"] = 223.981000000029,
 			},
 			["mythic"] = {
-				["kills"] = 6,
-				["wipes"] = 87,
+				["kills"] = 7,
+				["wipes"] = 90,
 				["best"] = 300.358999999997,
 			},
 			["heroic"] = {

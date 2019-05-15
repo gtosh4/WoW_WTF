@@ -15,15 +15,11 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-05-14",
+			["NextWeeklyReset"] = "2019-05-21",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Looking For Raid|358025642"] = "136118|1557709881|0|1",
-					["Crucible of Storms Looking For Raid|358077645"] = "136118|1557709881|0|1",
-				},
-				["lastUpdate"] = 1557709884,
+				["lastUpdate"] = 1557879526,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
@@ -34,7 +30,10 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1557621095,
+				["lastUpdate"] = 1557895258,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|370312989"] = "555908|1557894890|0|1",
+				},
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556091490,
@@ -53,10 +52,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370146296"] = "140364|1557705634|0|1",
-				},
-				["lastUpdate"] = 1557706149,
+				["lastUpdate"] = 1557879850,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

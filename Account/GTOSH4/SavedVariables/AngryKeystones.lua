@@ -4,52 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 249,
-		["splits"] = {
-			502, -- [1]
-			1087, -- [2]
-			1852, -- [3]
-			2104, -- [4]
-			1619, -- [5]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Paladin",
-			["party2Name"] = "Nv",
-			["patch"] = "8.1.5",
-			["timeLimit"] = 2520,
-			["level"] = 10,
-			["timeElapsed"] = 2104.754,
-			["party3Role"] = "TANK",
-			["affixes3"] = 12,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Keydepleter",
-			["affixes2"] = 7,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Voidzeal",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Death Knight",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Hunter",
-			["mapID"] = 1762,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1557709809,
-			["party2Class"] = "Paladin",
-			["party5Name"] = "Paxington",
-		},
 		["playerDeaths"] = {
-			["Toshpal"] = 3,
-			["Paxington-Illidan"] = 3,
-			["Voidzeal"] = 3,
-			["Keydepleter"] = 4,
-			["Nv"] = 3,
-		},
-		["splitNames"] = {
-			"The Golden Serpent defeated", -- [1]
-			"Mchimba the Embalmer defeated", -- [2]
-			"The Council of Tribes defeated", -- [3]
-			"Dazar, The First King defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -340,11 +295,11 @@ AngryKeystones_Data = {
 		[134739] = {
 			[8] = 6,
 		},
-		[141282] = {
-			60, -- [1]
-		},
 		[129547] = {
 			[4] = 88,
+		},
+		[131847] = {
+			[4] = 29,
 		},
 		[135365] = {
 			[6] = 1,
@@ -356,8 +311,8 @@ AngryKeystones_Data = {
 		[133345] = {
 			[5] = 14,
 		},
-		[131847] = {
-			[4] = 29,
+		[141282] = {
+			60, -- [1]
 		},
 		[136214] = {
 			[18] = 7,
@@ -430,8 +385,8 @@ AngryKeystones_Data = {
 		[131818] = {
 			[4] = 17,
 		},
-		[127381] = {
-			[3] = 30,
+		[131850] = {
+			[4] = 7,
 		},
 		[127799] = {
 			[4] = 113,
@@ -620,11 +575,11 @@ AngryKeystones_Data = {
 		[122970] = {
 			[4] = 91,
 		},
-		[131850] = {
-			[4] = 7,
-		},
 		[141285] = {
 			[4] = 27,
+		},
+		[127381] = {
+			[3] = 30,
 		},
 		[134599] = {
 			[4] = 2,

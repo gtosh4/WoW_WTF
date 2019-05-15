@@ -77,6 +77,13 @@ AngryAssign_Pages = {
 		["CategoryId"] = 2963104968,
 		["Contents"] = "gonky > kimby > paky > akundy\n\nCry 1    ||cshamanJamie.HT||r    ||cpriestTehkz.ramp||r        \nWrath 1    ||cshamanJamie.SLT||r    ||cdemonhunterAndr.dark||r    ||cpaladinMakies.AC||r    ||cpaladinMakies.AM||r\nWrath 2    ||cpriestTehkz.barrier||r    ||cpriestBarb.hymn||r        \nCry 2    ||cmonkBails.rev||r    ||cpriestTehkz.ramp||r        \nWrath 3    ||cpaladinMakies.AC||r    ||cpriestBarb.salv||r        \nWrath 4    ||cshamanJamie.HT||r    ||cdemonhunterAndr.dark||r        \nCry 3    ||cshamanJamie.SLT||r    ||cpriestTehkz.ramp||r    ||cpaladinMakies.AM||r    \nWrath 5    ||cpaladinMakies.AC||r    ||cpriestTehkz.barrier||r    ||cmonkBails.rev||r    ||cpriestBarb.hymn||r",
 	},
+	[3243117585] = {
+		["Updated"] = 1556073817,
+		["Name"] = "Conclave",
+		["Id"] = 3243117585,
+		["UpdateId"] = 1806013514,
+		["Contents"] = "Cry 1    ||cdruidBoo.tranq||r    ||cpriestGord.ramp||r        \nWrath 1    ||cshamanIlya.SLT||r    ||cshamanIlya.HT||r\nWrath 2    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r    \nCry 2    ||cmonkAlex.rev||r (w/ mindwipe)            \nWrath 3    ||cdruidBoo.tranq||r            \nWrath 4    ||cshamanIlya.SLT||r    ||cpriestGord.ramp||r        \nCry 3    ||cshamanIlya.HT||r            \nWrath 5    ||cdruidBoo.tranq||r    ||cmonkAlex.rev||r    ||cpriestGord.barrier||r",
+	},
 	[150766317] = {
 		["Updated"] = 1553310779,
 		["Name"] = "M Rasta",

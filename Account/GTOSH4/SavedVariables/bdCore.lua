@@ -129,7 +129,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshpal",
+		["name"] = "Yorman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -162,11 +162,11 @@ BD_persistent = {
 				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
-				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["RIP Toshmonk"] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
-				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Heroic Crucible thurs @ 6pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["main raid tonight slay stormwall :)"] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -181,7 +181,7 @@ BD_persistent = {
 				["slay mekka friday and blockade saturday "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
-				["RIP Toshmonk"] = true,
+				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,

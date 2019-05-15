@@ -18,11 +18,11 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1557706812,
-				["lastVisitDate"] = "2019/05/12 20:20",
+				["lastUpdate"] = 1557879496,
+				["lastVisitDate"] = "2019/05/14 20:18",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1557703489,
+				["lastUpdate"] = 1557879752,
 				["Mails"] = {
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -31,8 +31,8 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1557703489,
-						["daysLeft"] = 20.6509952545166,
+						["lastCheck"] = 1557879752,
+						["daysLeft"] = 18.6115741729736,
 					}, -- [1]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -41,8 +41,8 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1557703489,
-						["daysLeft"] = 20.6509952545166,
+						["lastCheck"] = 1557879752,
+						["daysLeft"] = 18.6115741729736,
 					}, -- [2]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -51,8 +51,8 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1557703489,
-						["daysLeft"] = 20.6509952545166,
+						["lastCheck"] = 1557879752,
+						["daysLeft"] = 18.6115741729736,
 					}, -- [3]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -61,8 +61,8 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1557703489,
-						["daysLeft"] = 20.6509952545166,
+						["lastCheck"] = 1557879752,
+						["daysLeft"] = 18.6115741729736,
 					}, -- [4]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
@@ -71,15 +71,15 @@ DataStore_MailsDB = {
 						["returned"] = true,
 						["icon"] = 1509634,
 						["count"] = 5,
-						["lastCheck"] = 1557703489,
-						["daysLeft"] = 20.6509952545166,
+						["lastCheck"] = 1557879752,
+						["daysLeft"] = 18.6115741729736,
 					}, -- [5]
 				},
-				["lastVisitDate"] = "2019/05/12 19:24",
+				["lastVisitDate"] = "2019/05/14 20:22",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1557620491,
-				["lastVisitDate"] = "2019/05/11 20:21",
+				["lastUpdate"] = 1557895179,
+				["lastVisitDate"] = "2019/05/15 00:39",
 			},
 		},
 	},

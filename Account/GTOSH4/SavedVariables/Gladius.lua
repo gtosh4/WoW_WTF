@@ -13,14 +13,14 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
-			["tagsVersion"] = 4,
-			["locked"] = true,
 			["y"] = {
 				["arena1"] = 518.31341379309,
 			},
 			["x"] = {
 				["arena1"] = 1439.19991254411,
 			},
+			["locked"] = true,
+			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
 		},
 		["Toshtrial - Blood Furnace"] = {
@@ -151,6 +151,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 			["classIconShowSpec"] = true,
+			["aurasBuffsHeight"] = 22,
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -163,14 +171,6 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["castBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",

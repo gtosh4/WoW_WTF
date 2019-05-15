@@ -2,16 +2,16 @@
 BigWigs3DB = {
 	["global"] = {
 		["watchedMovies"] = {
-			[-1358] = true,
-			[875] = true,
 			[-1345] = true,
+			[-557] = true,
+			[875] = true,
+			[-1358] = true,
 			[-367] = true,
 			[-1004] = true,
-			[876] = true,
-			[-557] = true,
 			[-1352] = {
 				[2] = true,
 			},
+			[876] = true,
 		},
 	},
 	["discord"] = 15,
@@ -22,8 +22,8 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["posx"] = 401.594123936691,
-					["posy"] = 420.801483970972,
 					["fontName"] = "Friz Quadrata TT",
+					["posy"] = 420.801483970972,
 					["lock"] = true,
 				},
 			},
@@ -81,27 +81,35 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["outline"] = "OUTLINE",
-					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.251571655273,
-					["BigWigsAnchor_y"] = 257.60125702105,
 					["BigWigsAnchor_x"] = 675.743157964433,
-					["emphasizeTime"] = 12,
-					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
 					["growup"] = false,
-					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.9999809265137,
-					["fontSizeEmph"] = 11,
+					["emphasizeMove"] = false,
+					["visibleBarLimit"] = 15,
+					["BigWigsAnchor_y"] = 257.60125702105,
+					["emphasizeTime"] = 12,
+					["barStyle"] = "AddOnSkins",
+					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
 					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
-					["emphasizeMove"] = false,
+					["fontSizeEmph"] = 11,
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+					["posy"] = 517.864880098772,
+					["posx"] = 402.655939044766,
+				},
+			},
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -113,17 +121,10 @@ BigWigs3DB = {
 							[285213] = "English: Overwatch: DVa",
 							[287333] = "English: Overwatch: Reaper",
 						},
+						["BigWigs_Bosses_Conclave of the Chosen"] = {
+							[285879] = "English: Overwatch: Tracer",
+						},
 					},
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 402.655939044766,
-					["posy"] = 517.864880098772,
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
 				},
 			},
 		},
@@ -148,16 +149,18 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
 					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
 					["BWMessageAnchor_y"] = 655.466431210996,
 					["BWMessageAnchor_x"] = 869.869754919746,
 					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
 				},
 			},
 		},
@@ -204,7 +207,7 @@ BigWigsStatsDB = {
 				["kills"] = 5,
 			},
 			["mythic"] = {
-				["kills"] = 17,
+				["kills"] = 18,
 				["wipes"] = 77,
 				["best"] = 251.736999999965,
 			},
@@ -251,8 +254,8 @@ BigWigsStatsDB = {
 				["best"] = 368.693999999901,
 			},
 			["mythic"] = {
-				["kills"] = 11,
-				["wipes"] = 214,
+				["kills"] = 12,
+				["wipes"] = 221,
 				["best"] = 423.008999999962,
 			},
 			["LFR"] = {
@@ -321,7 +324,7 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["kills"] = 8,
-				["wipes"] = 94,
+				["wipes"] = 99,
 				["best"] = 301.307999999961,
 			},
 			["heroic"] = {
@@ -346,7 +349,7 @@ BigWigsStatsDB = {
 				["best"] = 194.273999999976,
 			},
 			["mythic"] = {
-				["kills"] = 18,
+				["kills"] = 19,
 				["wipes"] = 124,
 				["best"] = 230.54800000001,
 			},
@@ -363,7 +366,7 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["mythic"] = {
-				["kills"] = 23,
+				["kills"] = 24,
 				["wipes"] = 32,
 				["best"] = 97.1759999999777,
 			},
