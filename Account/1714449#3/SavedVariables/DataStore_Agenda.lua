@@ -26,17 +26,18 @@ DataStore_AgendaDB = {
 					},
 					["Toshaman"] = {
 						["note"] = "",
-						["class"] = "Shaman",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1557708864,
+				["lastUpdate"] = 1557976381,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|370350495"] = "476934|1557973864|0|1",
+				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370312989"] = "557654|1557893145|0|1",
+					["Battle of Dazar'alor Mythic|370312989"] = "495156|1557955641|0|1",
 				},
-				["lastUpdate"] = 1557894963,
+				["lastUpdate"] = 1557957156,
 			},
 		},
 	},

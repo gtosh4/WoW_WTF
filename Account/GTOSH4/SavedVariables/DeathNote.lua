@@ -14,6 +14,13 @@ DeathNoteDB = {
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
 			["searchbox_text"] = "",
+			["display"] = {
+				["w"] = 899.245422363281,
+				["y"] = -103.144744873047,
+				["x"] = 99.6228332519531,
+				["h"] = 706.289245605469,
+				["namelist"] = 2,
+			},
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
@@ -22,11 +29,11 @@ DeathNoteDB = {
 		["Yorman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 830.0078125,
 				["y"] = 125.308685302734,
-				["namelist"] = 2,
 				["h"] = 639.008972167969,
 				["x"] = 764.9560546875,
+				["w"] = 830.0078125,
+				["namelist"] = 2,
 			},
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -47,10 +54,10 @@ DeathNoteDB = {
 			["searchbox_text"] = "",
 			["display"] = {
 				["y"] = 72.5132141113281,
-				["namelist"] = 2,
-				["h"] = 969.937377929688,
-				["w"] = 729.182006835938,
 				["x"] = 1034.13250732422,
+				["namelist"] = 2,
+				["w"] = 729.182006835938,
+				["h"] = 969.937377929688,
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {

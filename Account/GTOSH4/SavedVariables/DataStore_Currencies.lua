@@ -80,12 +80,12 @@ DataStore_CurrenciesDB = {
 				["Seafarer's Dubloon"] = 3,
 				["Curious Coin"] = 12,
 				["Timeworn Artifact"] = 17,
+				["Wakening Essence"] = 19,
 				["Miscellaneous"] = 27,
-				["Warlords of Draenor"] = 20,
 				["Apexis Crystal"] = 21,
 				["Legion"] = 9,
 				["Darkmoon Prize Ticket"] = 28,
-				["Wakening Essence"] = 19,
+				["Warlords of Draenor"] = 20,
 				["Seal of Tempered Fate"] = 23,
 				["Garrison Resources"] = 22,
 				["Champion's Seal"] = 25,
@@ -99,7 +99,7 @@ DataStore_CurrenciesDB = {
 					136982, -- [2]
 					1924, -- [3]
 					10630, -- [4]
-					520, -- [5]
+					136, -- [5]
 					80010, -- [6]
 					11020, -- [7]
 					15, -- [8]
@@ -138,7 +138,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1557879513,
+				["lastUpdate"] = 1557971865,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -153,7 +153,7 @@ DataStore_CurrenciesDB = {
 					[1560] = "86-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "133-0-0-1000",
-					[1580] = "4-0-0-5",
+					[1580] = "1-0-0-5",
 				},
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
@@ -230,7 +230,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1557894888,
+				["lastUpdate"] = 1557951491,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "2558-0-0-0",
@@ -365,7 +365,7 @@ DataStore_CurrenciesDB = {
 					24710, -- [3]
 					392, -- [4]
 					887562, -- [5]
-					10380, -- [6]
+					5260, -- [6]
 					15, -- [7]
 					72336, -- [8]
 					19, -- [9]
@@ -393,7 +393,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1557879800,
+				["lastUpdate"] = 1557957306,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -405,7 +405,7 @@ DataStore_CurrenciesDB = {
 					[1710] = "193-0-0-0",
 					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "81-0-0-0",
+					[1560] = "41-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
 					[1580] = "3-0-0-5",

@@ -24,886 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"|cffa335ee|Hkeystone:158923:246:19:9:7:12:117|h[Keystone: Tol Dagor (19)]|h|r", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			28, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703499,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"|cffa335ee|Hkeystone:158923:246:18:9:7:12:117|h[Keystone: Tol Dagor (18)]|h|r", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			29, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1557703499,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"Astral Keys: |cffa335ee|Hkeystone:158923:353:14:9:7:12:117|h[Keystone: Siege of Boralus (14)]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1557703499,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"14 kr", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703526,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"on my dk", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			32, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703527,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"Taunted Kul Tiran Halberd!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			59, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703834,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"Pummeled Kul Tiran Wavetender's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			61, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703866,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			64, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703870,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703899,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			71, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703907,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			75, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703934,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"Pummeled Kul Tiran Wavetender's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			90, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557703963,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			93, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704001,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			94, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704001,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			100, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704011,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			101, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704011,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Pummeled Kul Tiran Wavetender's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			115, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704047,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Pummeled Kul Tiran Wavetender's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704047,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			119, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704061,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			123, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704073,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"Taunted Kul Tiran Marksman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			135, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704152,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"Taunted Kul Tiran Vanguard!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			140, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704160,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"Taunted Irontide Marauder!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			157, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704228,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"Pummeled Irontide Waveshaper's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704242,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"Pummeled Irontide Waveshaper's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			167, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704265,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"Taunted Irontide Powdershot!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			178, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704297,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"Pummeled Irontide Waveshaper's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			189, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704341,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"Taunted Lost Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			203, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704379,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			206, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704387,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
-		{
-			"Taunted Risen Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			209, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704394,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"Taunted Ashvane Spotter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			211, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704402,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"Taunted Ashvane Spotter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			213, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704421,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			216, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704450,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Taunted Scrimshaw Gutter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704450,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"Pummeled Irontide Waveshaper's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			218, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Pummeled Irontide Waveshaper's |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			219, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704455,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			220, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704459,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Taunted Kul Tiran Footman!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			221, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704459,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"Taunted Ashvane Spotter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704497,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"Taunted Ashvane Spotter!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1557704497,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -924,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [1]
 		{
 			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -946,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704515,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [2]
 		{
 			"Taunted Irontide Marauder!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -968,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704517,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [3]
 		{
 			"Taunted Ashvane Spotter!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -990,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [4]
 		{
 			"Taunted Ashvane Spotter!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1012,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1034,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704640,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1056,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704640,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1078,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704652,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1100,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704652,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [9]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12727:Player-9-0A185FCF:1:5:12:19:4294967295:4294967295:4294967295:4294967295|h[Stand by Me]|h|r!", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1122,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1557704673,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
+		}, -- [10]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1144,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704689,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [11]
 		{
 			"Taunted Lost Soul!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1166,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704731,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [12]
 		{
 			"Taunted Lost Soul!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1188,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704731,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [13]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1210,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704735,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [14]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1232,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704735,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [15]
 		{
 			"Pummeled Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1254,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704762,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [16]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1276,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704763,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1298,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1320,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704773,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [19]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1342,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704773,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1364,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704773,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [21]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1386,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704793,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [22]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1408,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704793,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [23]
 		{
 			"Pummeled Bilge Rat Tempest's |cff71d5ff|Hspell:272571:0|h[Choking Waters]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1430,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704803,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [24]
 		{
 			"Taunted Bilge Rat Tempest!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1452,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704805,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [25]
 		{
 			"Taunted Bilge Rat Pillager!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1474,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704814,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [26]
 		{
 			"Taunted Bilge Rat Buccaneer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1496,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704837,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1518,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704860,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1540,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704872,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1562,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704872,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [30]
 		{
 			"Pummeled Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1584,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704894,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1606,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704922,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1628,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704922,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [33]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1650,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704932,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1672,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704932,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [35]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1694,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704937,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1716,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704940,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [37]
 		{
 			"Taunted Hadal Darkfathom!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1738,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557704986,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [38]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1760,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705062,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [39]
 		{
 			"Taunted Risen Soul!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1782,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705062,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1804,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1826,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705064,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1848,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705065,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [43]
 		{
 			"byebye", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1870,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705087,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [44]
 		{
 			"wait", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1892,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705093,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [45]
 		{
 			"das my friend", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1914,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705095,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [46]
 		{
 			"kids a fucking", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1936,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1557705097,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [47]
 		{
 			"retard.", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1958,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1557705098,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [48]
 		{
 			"LMFAO", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1980,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705100,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [49]
 		{
 			"Dude", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2002,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705105,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [50]
 		{
 			"he plays like my heroic raider friends", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2024,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705114,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [51]
 		{
 			"wait wut", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2046,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557705115,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [52]
 		{
 			"yo i heard that guy didnt have a mic", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2068,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557705125,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [53]
 		{
 			"Taunted Ashvane Commander!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2090,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705127,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [54]
 		{
 			"who only just killed heroic stormwall", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2112,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705128,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [55]
 		{
 			"yeah", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2134,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705147,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2156,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705253,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2178,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705253,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2200,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705265,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2222,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705265,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [60]
 		{
 			"i haven't even killed heroic stormwall D:", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2244,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705270,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
+		}, -- [61]
 		{
 			"yeah but like you haven't played since last expac though", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2266,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705289,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [62]
 		{
 			"lmfao", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2288,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705296,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [63]
 		{
 			"like they got ghuun the week before the patch", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2310,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557705327,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [64]
 		{
 			"Putrid Waters on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2332,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1557705349,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2354,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705394,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [66]
 		{
 			"yikes", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2376,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705396,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [67]
 		{
 			"i m a g i n e", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2398,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557705405,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2420,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705409,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [69]
 		{
 			"Putrid Waters on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -2442,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1557705410,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [70]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2464,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705423,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [71]
 		{
 			"Putrid Waters on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2486,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1557705434,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [72]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2508,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705449,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [73]
 		{
 			"Putrid Waters on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2530,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1557705454,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [74]
 		{
 			"Taunted Demolishing Terror!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2552,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705473,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [75]
 		{
 			"Putrid Waters on Yuffio", -- [1]
 			"Yuffio-Kil'jaeden", -- [2]
@@ -2574,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYuffio|r",
 			[51] = 1557705473,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [76]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2596,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705475,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [77]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2618,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705475,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [78]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2640,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705477,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2662,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705485,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [80]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2684,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705487,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [81]
 		{
 			"Putrid Waters on Eau", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2706,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1557705497,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12847:Player-9-0A185FCF:1:5:12:19:4294967295:4294967295:4294967295:4294967295|h[Siege of Boralus]|h|r!", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2728,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1557705513,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [123]
+		}, -- [83]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:247:12:9:7:12:117|h[Keystone: The MOTHERLODE!! (12)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2750,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1557705516,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [84]
 		{
 			"ok", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2772,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705732,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [85]
 		{
 			"i c", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2794,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557705733,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8961:Player-9-0B363945:1:5:14:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tectus]|h|r!", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2816,6 +1936,886 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1557879799,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [87]
+		{
+			"does anyone know that /macro that releases you", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1557957974,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"its like /nopopup or some shit", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1557957980,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [89]
+		{
+			"alt f4", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1557958009,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			".", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1557958011,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			" /run RepopMe()", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1557958032,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"xd", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1557958035,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"yeah", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1557958036,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"thanks", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1557958038,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6723:Player-9-0A76F241:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Elegon]|h|r!", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1557958883,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6724:Player-9-0A76F241:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Will of the Emperor]|h|r!", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1557959564,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"oreo", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960240,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"you wnana tank 19td", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960243,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"fuck", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960264,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			"no", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960264,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			":)", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960267,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"pussy", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960270,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"lol", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1557960274,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"just had a fun experience in td", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960277,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [105]
+		{
+			"just", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960284,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"be", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960284,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"good", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			74, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960285,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"idk", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			75, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960286,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"can you druid", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960304,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"heal 19td?", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557960307,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"i dont really heal PVE,. my outlaw is my PVE toon /:", -- [1]
+			"Astrál-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			78, -- [11]
+			"Player-9-0B0E392E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Astrál|r",
+			[51] = 1557960333,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6731:Player-9-0A76F241:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Protectors of the Endless]|h|r!", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			79, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1557960465,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [113]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6732:Player-9-0A76F241:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tsulong]|h|r!", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			80, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1557960520,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [114]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6733:Player-9-0A76F241:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Lei Shi]|h|r!", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			82, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1557960656,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [115]
+		{
+			"I dont heal", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			85, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960762,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			":)", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			86, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1557960764,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"hey", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1557960955,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"share a stack of pots", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			91, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1557960958,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"for me", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1557960959,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"andrew", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1557960959,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13441:Player-9-0B1ACE61:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Pushing the Payload]|h|r!", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			99, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1557961521,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"ty", -- [1]
+			"Necrophobiá-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			"Player-9-0B675789", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Necrophobiá|r",
+			[51] = 1557961799,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"see no one listen", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557963288,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"andrew said lust 3rd boss", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557963292,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"yikes", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1557963293,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"frick listening", -- [1]
+			"Milferal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			128, -- [11]
+			"Player-9-0ADCC0D2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Milferal|r",
+			[51] = 1557963316,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

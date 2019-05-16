@@ -13,14 +13,14 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 518.31341379309,
 			},
 			["x"] = {
 				["arena1"] = 1439.19991254411,
 			},
-			["locked"] = true,
-			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
 		},
 		["Toshtrial - Blood Furnace"] = {
@@ -46,11 +46,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 483.732411763853,
-			},
 			["x"] = {
 				["arena1"] = 1438.93566484931,
+			},
+			["y"] = {
+				["arena1"] = 483.732411763853,
 			},
 		},
 		["Default"] = {
@@ -150,15 +150,16 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
-			["classIconShowSpec"] = true,
-			["aurasBuffsHeight"] = 22,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["classIconShowSpec"] = true,
 			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsHeight"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -171,10 +172,9 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["aurasBuffsWidth"] = 22,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",

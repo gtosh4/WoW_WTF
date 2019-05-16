@@ -222,6 +222,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "raid",
 					["tt"] = "talents",
 				}, -- [1]
+				{
+					1, -- [1]
+					2, -- [2]
+					2, -- [3]
+					1, -- [4]
+					3, -- [5]
+					2, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = "interface\\icons\\inv_misc_questionmark",
+				}, -- [2]
 			}, -- [1]
 			{
 			}, -- [2]

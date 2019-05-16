@@ -18,8 +18,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1557879496,
-				["lastVisitDate"] = "2019/05/14 20:18",
+				["lastUpdate"] = 1557970740,
+				["lastVisitDate"] = "2019/05/15 21:39",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1557879752,
@@ -78,8 +78,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/05/14 20:22",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1557895179,
-				["lastVisitDate"] = "2019/05/15 00:39",
+				["lastUpdate"] = 1557948699,
+				["lastVisitDate"] = "2019/05/15 15:31",
 			},
 		},
 	},

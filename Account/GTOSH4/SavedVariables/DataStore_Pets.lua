@@ -95,7 +95,7 @@ DataStore_PetsDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1557879345,
+				["lastUpdate"] = 1557971865,
 				["CRITTER"] = {
 					69452, -- [1]
 					259758, -- [2]
@@ -114,7 +114,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1554958087,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1557894888,
+				["lastUpdate"] = 1557951491,
 				["CRITTER"] = {
 					62746, -- [1]
 					10714, -- [2]
@@ -171,7 +171,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1554961330,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1557879683,
+				["lastUpdate"] = 1557957199,
 				["CRITTER"] = {
 					280337, -- [1]
 					229099, -- [2]
