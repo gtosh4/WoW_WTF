@@ -14,8 +14,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/05/15 21:43",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1557957143,
-				["lastVisitDate"] = "2019/05/15 17:52",
+				["lastUpdate"] = 1558059889,
+				["lastVisitDate"] = "2019/05/16 22:24",
 			},
 		},
 	},

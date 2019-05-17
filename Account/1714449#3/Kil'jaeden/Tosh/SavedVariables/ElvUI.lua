@@ -1,512 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" my frames drop to like 2", -- [1]
-		" for a good 2 sec", -- [2]
-		" I mean... same", -- [3]
-		" yeah]", -- [4]
-		"kk", -- [5]
-		"/aa", -- [6]
-		"do you lag when the adds on opul spawn?", -- [7]
-		"void crystals in my chest", -- [8]
-		"maybe", -- [9]
+		" yeah]", -- [1]
+		"void crystals in my chest", -- [2]
+		"get corey in for jamie?", -- [3]
+		"I don't trust :||", -- [4]
+		"I'm at the bottom lol", -- [5]
+		"maybe", -- [6]
+		"kk", -- [7]
+		"for a good 2 sec", -- [8]
+		"yeah]", -- [9]
 		"/bw", -- [10]
-		"for a good 2 sec", -- [11]
-		"yeah]", -- [12]
-		"I'm at the bottom lol", -- [13]
-		"get corey in for jamie?", -- [14]
-		"/raid 1", -- [15]
-		"I mean... same", -- [16]
-		"/dn", -- [17]
-		"my frames drop to like 2", -- [18]
-		"yeah, I know he does", -- [19]
-		"I don't trust :||", -- [20]
+		"do you lag when the adds on opul spawn?", -- [11]
+		"/raid 1", -- [12]
+		"I mean... same", -- [13]
+		"/dn", -- [14]
+		"my frames drop to like 2", -- [15]
+		"yeah, I know he does", -- [16]
+		"/aa", -- [17]
+		"/cw Orcbum-Kil'jaeden inv", -- [18]
+		"/tmw", -- [19]
+		" lol", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"boo and jess prob for wis", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3494, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1557893229,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"The following players are Away: Dawnzo", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3495, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1557893249,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [2]
-		{
-			"The following players are Not Ready: Yorman", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3496, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1557893249,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [3]
-		{
-			"Taunted Pa'ku's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3498, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893308,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3501, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893340,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3502, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893345,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3503, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893345,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3504, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893353,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"Taunted Kimbul's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3505, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893370,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3506, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893400,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3507, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893403,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"Taunted Pa'ku's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3509, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893413,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3512, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1557893459,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [13]
-		{
-			"Taunted Pa'ku's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3513, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893461,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3514, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893464,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3515, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893469,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"Taunted Akunda's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3516, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893475,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"Taunted Pa'ku's Aspect!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3517, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893513,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3519, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893518,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3520, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893526,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3533, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893586,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
-			"Keydepleter-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Keydepleter-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3534, -- [11]
-			"Player-9-0B42AEF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Keydepleter|r",
-			[51] = 1557893591,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
 		{
 			"Not Well Fed (4): Hetril, Ngow, Skarsnik, Snify", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -528,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893663,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [23]
+		}, -- [1]
 		{
 			"No Augment Rune (19): Dawnzo, Druwqt, Eman, Fearings, Focalaire, Hetril, Keydepleter, Khelikloth, Litsong, Ngow, Skarsnik, Slurry, Snify, Touchochrist, Voidthirst, Wraithbrand, Yellowy, Yorman, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -550,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893663,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [24]
+		}, -- [2]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -572,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893663,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [25]
+		}, -- [3]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -594,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893679,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [26]
+		}, -- [4]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -616,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893720,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -638,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893759,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -660,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893764,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -682,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893770,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -704,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893778,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [9]
 		{
 			"Taunted Kimbul's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -726,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893780,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [10]
 		{
 			"Not Well Fed (3): Druwqt, Fearings, Skarsnik", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -748,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893905,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [33]
+		}, -- [11]
 		{
 			"No Augment Rune (19): Dawnzo, Druwqt, Eman, Fearings, Focalaire, Hetril, Keydepleter, Khelikloth, Litsong, Ngow, Skarsnik, Slurry, Snify, Touchochrist, Voidthirst, Wraithbrand, Yellowy, Yorman, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -770,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893905,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [34]
+		}, -- [12]
 		{
 			"Missing Buffs (1): Attack Power", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -792,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893905,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [35]
+		}, -- [13]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -814,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557893915,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [36]
+		}, -- [14]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -836,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893936,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -858,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893970,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -880,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893975,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -902,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893984,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -924,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557893992,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [19]
 		{
 			"Taunted Kimbul's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -946,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894002,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -968,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894030,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [21]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -990,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894035,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [22]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1012,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894044,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [45]
+		}, -- [23]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1034,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894046,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1056,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894092,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [25]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1078,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894097,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1100,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894097,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [27]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1122,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894133,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1144,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894154,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1166,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894159,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [30]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1188,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894161,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [53]
+		}, -- [31]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1210,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894166,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [54]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1232,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894169,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [33]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1254,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894177,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [34]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1276,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894188,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [57]
+		}, -- [35]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13295:Player-9-0B247D8E:1:5:14:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jadefire Masters]|h|r!", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1298,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1557894203,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
+		}, -- [36]
 		{
 			"Details!: Health Potion & Stone (custom) for Conclave of the Chosen [5:03 EF]", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1320,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894311,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [37]
 		{
 			"1. Keydepleter . 113K (14.6%)", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1342,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894311,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [38]
 		{
 			"2. Wraithbrand  81.8K (10.5%)", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1364,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894311,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [39]
 		{
 			"3. Voidthirst .... 78.6K (10.1%)", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1386,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894311,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [40]
 		{
 			"4. Skarsnik ....... 78.5K (10.1%)", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1408,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894312,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [41]
 		{
 			"5. Druwqt ........... 75.8K (9.8%)", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1430,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894312,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [42]
 		{
 			"No Augment Rune (20): Dawnzo, Druwqt, Eman, Fearings, Focalaire, Hetril, Keydepleter, Khelikloth, Litsong, Ngow, Orcbum, Skarsnik, Slurry, Snify, Touchochrist, Voidthirst, Wraithbrand, Yellowy, Yorman, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1452,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894326,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [65]
+		}, -- [43]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1474,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894326,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [66]
+		}, -- [44]
 		{
 			"whats that showing..?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1496,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1557894345,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [67]
+		}, -- [45]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1518,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894347,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [68]
+		}, -- [46]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1540,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894362,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1562,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894395,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1584,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894398,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1606,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894409,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1628,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894417,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [51]
 		{
 			"Taunted Kimbul's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1650,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894427,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [52]
 		{
 			"Ravenous Stalker is immune to my |cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1672,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894455,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [53]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1694,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894471,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [54]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1716,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894516,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [55]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1738,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894521,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [56]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1760,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894531,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [57]
 		{
 			"Taunted Pa'ku's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1782,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894567,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [58]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1804,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894580,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [81]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1826,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894581,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [60]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1848,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894586,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [61]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1870,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894590,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [84]
+		}, -- [62]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1892,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894593,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [85]
+		}, -- [63]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1914,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894642,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r cast on Ravenous Stalker!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1936,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894650,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:221562:0|h[Asphyxiate]|h|r on Ravenous Stalker ended!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -1958,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894655,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [66]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1980,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894659,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [89]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r activated!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2002,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894666,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:48792:0|h[Icebound Fortitude]|h|r faded!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2024,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894674,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [69]
 		{
 			"Taunted Akunda's Aspect!", -- [1]
 			"Keydepleter-Kil'jaeden", -- [2]
@@ -2046,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Keydepleter|r",
 			[51] = 1557894700,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [70]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2068,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894719,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [93]
+		}, -- [71]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2090,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1557894754,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [94]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-0A6AE9C3:1:5:14:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Eman-Kil'jaeden", -- [2]
@@ -2112,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Eman|r",
 			[51] = 1557894766,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [73]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-082951D4:1:5:14:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -2134,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1557894766,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [74]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13300:Player-9-07CD89ED:1:5:14:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Conclave of the Chosen]|h|r!", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -2156,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hetril|r",
 			[51] = 1557894766,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [75]
 		{
 			"socket whew", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -2178,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1557894807,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [76]
 		{
 			"I need Crest if available please", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -2200,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1557894810,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [77]
 		{
 			"|cffa335ee|Hitem:165512::::::::120:258::6:3:4800:1537:4786:::|h[Loa Exultant's Shroud]|h|r", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -2222,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894817,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [100]
+		}, -- [78]
 		{
 			"im out. thanks guys!", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2244,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1557894852,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [79]
 		{
 			"|cffa335ee|Hitem:165833::::::::120:258::6:4:4824:1537:4786:5419:::|h[Vestments of Indomitable Will]|h|r", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -2266,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1557894953,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [102]
+		}, -- [80]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Sewer Vicejaw!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2288,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Sewer Vicejaw!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2310,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952502,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Sewer Vicejaw has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2332,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952502,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Sewer Vicejaw has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2354,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952562,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [84]
 		{
 			"Upheaval on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2376,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1557952608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [85]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Dx!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2398,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952614,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [86]
 		{
 			"<EH> Shadowgren-Hyjal got hit by |cff71d5ff|Hspell:257119:0|h[Sand Trap]|h|r.", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2420,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952616,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [87]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:257119:0|h[Sand Trap]|h|r.", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2442,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952617,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [88]
 		{
 			"<EH> Emosong got hit by |cff71d5ff|Hspell:257119:0|h[Sand Trap]|h|r.", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2464,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952645,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [89]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:257119:0|h[Sand Trap]|h|r.", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2486,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [90]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:257119:0|h[Sand Trap]|h|r.", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2508,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952677,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [91]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Sewer Vicejaw!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2530,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952745,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [114]
+		}, -- [92]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Sewer Vicejaw has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2552,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952804,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [93]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r cast on Sewer Vicejaw!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2574,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952859,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [94]
 		{
 			"|cff71d5ff|Hspell:6770:0|h[Sap]|h|r on Sewer Vicejaw has ended!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2596,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952936,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [95]
 		{
 			"<EH> Tosh got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 111.2k (44%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2618,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952955,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [96]
 		{
 			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2640,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557952962,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [97]
 		{
 			"<EH> Tosh got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 111.2k (44%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2662,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953068,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [98]
 		{
 			"Interrupted Bilge Rat Seaspeaker's |cff71d5ff|Hspell:258153:0|h[Watery Dome]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2684,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953091,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [99]
 		{
 			"<EH> Haxpaxy got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 149.9k (58%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2706,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [100]
 		{
 			"<EH> Shadowgren-Hyjal got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 90.7k (40%).", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2728,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953118,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [101]
 		{
 			"Interrupted Bilge Rat Seaspeaker's |cff71d5ff|Hspell:258153:0|h[Watery Dome]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2750,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953187,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [102]
 		{
 			"Interrupted Bilge Rat Seaspeaker's |cff71d5ff|Hspell:258150:0|h[Salt Blast]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2772,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953202,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [125]
+		}, -- [103]
 		{
 			"Interrupted Bilge Rat Seaspeaker's |cff71d5ff|Hspell:258150:0|h[Salt Blast]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2794,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557953226,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [104]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13441:Player-9-0724C237:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Pushing the Payload]|h|r!", -- [1]
 			"Gondi-Kil'jaeden", -- [2]
@@ -2815,6 +2331,490 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cfff38bb9Gondi|r",
 			[51] = 1557956783,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [105]
+		{
+			"LFM MAIN RAID PST \"invite\" or \"inv\"", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1558057944,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"inv", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1558057948,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [107]
+		{
+			"LFM MAIN RAID PST \"invite\" or \"inv\"", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1558058237,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"brb water", -- [1]
+			"Fearings-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fearings-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-9-082951D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecFearings|r",
+			[51] = 1558058640,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [109]
+		{
+			"Anyone have any potion stacks I can buy from you tonight? :)", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Touchochrist-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1558058781,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [110]
+		{
+			"weeeeell", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059061,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [111]
+		{
+			"looks like", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			74, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059063,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [112]
+		{
+			"we got some time", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059070,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [113]
+		{
+			"to cheill", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059074,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [114]
+		{
+			"lol", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			78, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059076,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [115]
+		{
+			"breb", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Snify-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			79, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1558059077,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [116]
+		{
+			"full day rhasta too and now..", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			80, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059100,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [117]
+		{
+			"back", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Snify-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1558059192,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [118]
+		{
+			"<oRA3> Disbanding group.", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			83, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1558059272,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [119]
+		{
+			"I still need a 10", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			96, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1558059291,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"I hate u all that didnt show", -- [1]
+			"Slurry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-9-0646F0B8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Slurry|r",
+			[51] = 1558059293,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"Same", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1558059300,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"what we doin", -- [1]
+			"|Kq23|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			false, -- [12]
+			24, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithband|r",
+			[51] = 1558059411,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [123]
+		{
+			"Any groups running their 10's", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1558059431,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6109:Player-9-074DF608:1:5:16:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Morchok]|h|r!", -- [1]
+			"Litsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Litsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-9-074DF608", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeLitsong|r",
+			[51] = 1558059972,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6109:Player-9-0AE87A48:1:5:16:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Morchok]|h|r!", -- [1]
+			"Serasong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Serasong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			115, -- [11]
+			"Player-9-0AE87A48", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Serasong|r",
+			[51] = 1558059972,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6174:Player-9-0AE87A48:1:5:16:19:4294967295:4294967295:4294967295:4294967295|h[Don't Stand So Close to Me]|h|r!", -- [1]
+			"Serasong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Serasong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-9-0AE87A48", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Serasong|r",
+			[51] = 1558059972,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
