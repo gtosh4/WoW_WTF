@@ -1,7 +1,7 @@
 AAP-Core: disabled
 oRA3: disabled
 Clique: disabled
-bigdumblootcouncil: disabled
+bigdumblootcouncil: enabled
 AzeriteForge: disabled
 AdiBags: enabled
 AzeritePowerWeights: disabled

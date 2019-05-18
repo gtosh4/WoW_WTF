@@ -34,7 +34,7 @@ AstralKeys = {
 		10, -- [4]
 		11, -- [5]
 		95, -- [6]
-		127680, -- [7]
+		305339, -- [7]
 	}, -- [4]
 	{
 		"Astrál-Kil'jaeden", -- [1]
@@ -57,11 +57,11 @@ AstralKeys = {
 	{
 		"Verceus-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
-		246, -- [3]
-		9, -- [4]
-		0, -- [5]
+		250, -- [3]
+		11, -- [4]
+		9, -- [5]
 		95, -- [6]
-		122511, -- [7]
+		310076, -- [7]
 	}, -- [7]
 	{
 		"Stormlash-Kil'jaeden", -- [1]
@@ -102,11 +102,11 @@ AstralKeys = {
 	{
 		"Emosong-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
-		249, -- [3]
+		245, -- [3]
 		18, -- [4]
-		0, -- [5]
+		19, -- [5]
 		95, -- [6]
-		117089, -- [7]
+		312877, -- [7]
 	}, -- [12]
 	{
 		"Umbrasong-Kil'jaeden", -- [1]
@@ -129,20 +129,20 @@ AstralKeys = {
 	{
 		"Illsong-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
-		246, -- [3]
-		18, -- [4]
-		0, -- [5]
+		247, -- [3]
+		17, -- [4]
+		18, -- [5]
 		95, -- [6]
-		127660, -- [7]
+		294936, -- [7]
 	}, -- [15]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
 		250, -- [3]
 		13, -- [4]
-		0, -- [5]
+		18, -- [5]
 		95, -- [6]
-		1, -- [7]
+		310507, -- [7]
 	}, -- [16]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -169,7 +169,7 @@ AstralKeys = {
 		12, -- [4]
 		0, -- [5]
 		95, -- [6]
-		115606, -- [7]
+		307579, -- [7]
 	}, -- [19]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		95, -- [6]
-		116705, -- [7]
+		293745, -- [7]
 	}, -- [20]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -196,7 +196,7 @@ AstralKeys = {
 		13, -- [4]
 		0, -- [5]
 		95, -- [6]
-		111259, -- [7]
+		312197, -- [7]
 	}, -- [22]
 	{
 		"Pride-Kil'jaeden", -- [1]
@@ -241,36 +241,63 @@ AstralKeys = {
 		19, -- [4]
 		19, -- [5]
 		95, -- [6]
-		120517, -- [7]
+		303465, -- [7]
 	}, -- [27]
 	{
 		"Druwqt-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		251, -- [3]
+		353, -- [3]
+		14, -- [4]
+		13, -- [5]
+		95, -- [6]
+		2, -- [7]
+	}, -- [28]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"HUNTER", -- [2]
+		246, -- [3]
 		13, -- [4]
+		13, -- [5]
+		95, -- [6]
+		294752, -- [7]
+	}, -- [29]
+	{
+		"Røllinlolol-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		245, -- [3]
+		2, -- [4]
 		0, -- [5]
 		95, -- [6]
-		1, -- [7]
-	}, -- [28]
+		2, -- [7]
+	}, -- [30]
+	{
+		"Ruesong-Kil'jaeden", -- [1]
+		"WARLOCK", -- [2]
+		250, -- [3]
+		17, -- [4]
+		18, -- [5]
+		95, -- [6]
+		295132, -- [7]
+	}, -- [31]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Toshpal-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 16,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [3]
 }
 AstralFriends = {
@@ -281,7 +308,7 @@ AstralFriends = {
 		248, -- [4]
 		16, -- [5]
 		95, -- [6]
-		105824, -- [7]
+		295094, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [1]
@@ -289,45 +316,45 @@ AstralFriends = {
 		"Wildsong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"DRUID", -- [3]
-		353, -- [4]
-		18, -- [5]
+		249, -- [4]
+		17, -- [5]
 		95, -- [6]
-		112962, -- [7]
+		286364, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [2]
 	{
 		"Litsong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"PRIEST", -- [3]
-		249, -- [4]
-		18, -- [5]
+		252, -- [4]
+		17, -- [5]
 		95, -- [6]
-		111188, -- [7]
+		291626, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [3]
 	{
 		"Emosong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"ROGUE", -- [3]
-		249, -- [4]
+		245, -- [4]
 		18, -- [5]
 		95, -- [6]
-		114995, -- [7]
+		310199, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		19, -- [9]
 	}, -- [4]
 	{
 		"Illsong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"DEMONHUNTER", -- [3]
-		246, -- [4]
-		18, -- [5]
+		247, -- [4]
+		17, -- [5]
 		95, -- [6]
-		121927, -- [7]
+		294935, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [5]
 	{
 		"Ceesong-Kil'jaeden", -- [1]
@@ -336,20 +363,20 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		95, -- [6]
-		107942, -- [7]
+		303685, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [6]
 	{
 		"Serasong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"PALADIN", -- [3]
-		353, -- [4]
-		17, -- [5]
+		248, -- [4]
+		16, -- [5]
 		95, -- [6]
-		107300, -- [7]
+		293798, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [7]
 	{
 		"Umbrasong-Kil'jaeden", -- [1]
@@ -435,10 +462,43 @@ AstralFriends = {
 		248, -- [4]
 		17, -- [5]
 		95, -- [6]
-		45206, -- [7]
+		310464, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [15]
+	{
+		"Ruesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARLOCK", -- [3]
+		250, -- [4]
+		17, -- [5]
+		95, -- [6]
+		295132, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [16]
+	{
+		"Kiyora-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"PALADIN", -- [3]
+		353, -- [4]
+		10, -- [5]
+		95, -- [6]
+		293734, -- [7]
+		"1", -- [8]
+		13, -- [9]
+	}, -- [17]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"HUNTER", -- [3]
+		246, -- [4]
+		13, -- [5]
+		95, -- [6]
+		222425, -- [7]
+		"1", -- [8]
+		13, -- [9]
+	}, -- [18]
 }
 AstralKeysSettings = {
 	["friendOptions"] = {
@@ -462,9 +522,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -473,7 +531,9 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
 	["general"] = {
 		["show_minimap_button"] = {
@@ -484,10 +544,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
-			["guild"] = false,
 			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
