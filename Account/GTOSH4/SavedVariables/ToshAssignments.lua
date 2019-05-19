@@ -24,13 +24,13 @@ ToshAssignmentsDB = {
 								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Ramp",
 								["trigger"] = {
+									["time"] = {
+									},
+									["type"] = "spell",
+									["eventNumber"] = "*",
 									["spell"] = {
 										["spellId"] = 282082,
 									},
-									["type"] = "spell",
-									["time"] = {
-									},
-									["eventNumber"] = "*",
 								},
 								["actions"] = {
 									{
@@ -56,8 +56,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",
-						["enabled"] = true,
 						["showOthers"] = false,
+						["enabled"] = true,
 					},
 				},
 			},
