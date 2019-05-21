@@ -1,1084 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/raid 1", -- [1]
-		"/roll 20000", -- [2]
-		"/p lol", -- [3]
-		"/cw Tehkz-Kil'jaeden yup", -- [4]
-		" shoulda human form WC xd", -- [5]
-		"/o aber died to pitch", -- [6]
-		"/o yeah, all of em", -- [7]
-		"/m", -- [8]
-		"/tmw", -- [9]
-		"/o nah, just have a picture", -- [10]
-		"/o with a tornado on the left", -- [11]
-		"/o with do you go left or right", -- [12]
-		"/o didn't we break nathanos too early?", -- [13]
-		"/o don't you do it after the big guy dies?", -- [14]
-		"/cw Pluie-Kil'jaeden haven't said", -- [15]
-		"/cw Pluie-Kil'jaeden anything", -- [16]
-		"/o how do you get left behind as a warrior", -- [17]
-		"/o double leap, charge, intervene", -- [18]
-		"/o man, idk how anyone complains about mechanics that isn't be & thunderz", -- [19]
-		"/o me & thunderz*", -- [20]
+		"/o don't you do it after the big guy dies?", -- [1]
+		"/p lol", -- [2]
+		"/cw Pluie-Kil'jaeden haven't said", -- [3]
+		"/o how do you get left behind as a warrior", -- [4]
+		"/raid 1", -- [5]
+		"/o didn't we break nathanos too early?", -- [6]
+		"/cw Tehkz-Kil'jaeden yup", -- [7]
+		"shoulda human form WC xd", -- [8]
+		"/o nah, just have a picture", -- [9]
+		"/o aber died to pitch", -- [10]
+		"/cw Mewmonk Hey, is everything alright? we missed you at raid this last week", -- [11]
+		"/cw Mewmonk-Kil'jaeden Oh, I'm sorry to hear that", -- [12]
+		"/cw Mewmonk-Kil'jaeden were you interested in continuing to play? I don't mean to be crass, but if not I'd like some time to try and fill the slot", -- [13]
+		"/cw Mewmonk-Kil'jaeden I would understand either way, some people need time and others want to keep busy", -- [14]
+		"/cw Mewmonk-Kil'jaeden I should clarify, did you want us to look for a replacement or do you wish to continue to trial. I didn't mean to imply that we'd look to fill the slot unless either you decide you don't want to play or until the trial period is over", -- [15]
+		"/cw Mewmonk-Kil'jaeden jamie was concerned you'd decided to quit bceause she didn't see you on her friends list anymore", -- [16]
+		"/cw Mewmonk-Kil'jaeden Well, thanks for talking with me. I've got a work meeting to run to. Take care, I know it isn't easy to lose people that are close to you. Feel free to DM me if there's anything else", -- [17]
+		"/pawn", -- [18]
+		" yikes lol", -- [19]
+		"/dn", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Done With Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4662, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558242218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4664, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242236,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4665, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242248,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Avalanche (2{rt2}) on Hyperr", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4676, -- [11]
-			"Player-9-0AFE3075", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1558242287,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Avalanche (3{rt3}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4677, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1558242287,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4681, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1558242311,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Freezing in 3", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4682, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1558242312,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"did you tell this druid", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4683, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242314,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [8]
-		{
-			"to stop", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4684, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242315,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [9]
-		{
-			"dying", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4685, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242316,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [10]
-		{
-			"to", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4686, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242316,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [11]
-		{
-			"barrel", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4687, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242317,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [12]
-		{
-			"haven't said", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4688, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242331,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [13]
-		{
-			"anything", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4689, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242332,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [14]
-		{
-			"i need you to", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4692, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242336,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [15]
-		{
-			"loud noise at him", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4693, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242338,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [16]
-		{
-			"Avalanche (2{rt2}) on Thunderrz", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4696, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242341,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Avalanche 1 on {rt1}Aberrnathi{rt1}", -- [1]
-			"Aberrnathi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Aberrnathi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4697, -- [11]
-			"Player-9-0B551B3C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAberrnathi|r",
-			[51] = 1558242341,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Freezing in 4", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4699, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242347,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Freezing in 3", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4702, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242348,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Freezing in 2", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4705, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242349,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"Avalanche (2{rt2}) on Pluie", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4711, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1558242393,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"Avalanche (3{rt3}) on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4712, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1558242393,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4728, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1558242460,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [24]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4735, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1558242468,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
-		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Knoss!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4758, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558242513,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"RSC > Knoss has set up a Repair Bot!", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4760, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242515,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			"RSC > Pluie has set up a Feast! > Sanguinated Feast", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4761, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242516,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4762, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242517,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4765, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242520,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4767, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242522,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"|cff71d5ff|Hspell:200205:0|h[Auto-Hammer Mode]|h|r cast by Reaves!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4768, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558242525,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4770, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558242531,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4771, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242533,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4772, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242538,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"RSC > Murkya is casting a Soul Well!", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4775, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242545,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4777, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558242549,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4778, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242552,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"imagine holding a poop for 4 hours", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4782, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242576,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
-		{
-			"Avalanche (2{rt2}) on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4790, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242600,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Avalanche 1 on {rt1}Aberrnathi{rt1}", -- [1]
-			"Aberrnathi-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Aberrnathi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4791, -- [11]
-			"Player-9-0B551B3C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAberrnathi|r",
-			[51] = 1558242600,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Avalanche (3{rt3}) on Arnbjørn", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4792, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1558242600,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Freezing in 4", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4797, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242638,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Avalanche (3{rt3}) on Arnbjørn", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4799, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1558242646,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4811, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1558242665,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Avalanche (2{rt2}) on Thunderrz", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4826, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1558242692,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"RSC > Pluie has set up a Feast! > Sanguinated Feast", -- [1]
-			"Smokestacks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Smokestacks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4830, -- [11]
-			"Player-9-09CBC9A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Smokestacks|r",
-			[51] = 1558242704,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4831, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1558242706,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1100,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558242715,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [1]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1122,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1558242726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [2]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1144,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558242735,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [3]
 		{
 			"i dont have to ask mommy for wow time", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1166,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1558242755,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [4]
 		{
 			"Avalanche (3{rt3}) on Murkya", -- [1]
 			"Murkya-Kil'jaeden", -- [2]
@@ -1188,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMurkya|r",
 			[51] = 1558242774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [5]
 		{
 			"Avalanche (2{rt2}) on Pluie", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1210,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1558242774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [6]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1232,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1558242819,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [7]
 		{
 			"RSC > Pluie has set up a Feast! > Sanguinated Feast", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -1254,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558242821,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [8]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1276,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558242827,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [9]
 		{
 			"can i go to bed?", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1298,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1558242830,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [10]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1320,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1558242839,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [11]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1342,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558242844,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [12]
 		{
 			"ugh no cd", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1364,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558242874,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [13]
 		{
 			"Avalanche (3{rt3}) on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1386,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1558242883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [14]
 		{
 			"Gul'kafh zz I", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -1408,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558242888,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [15]
 		{
 			"Gul'kafh zz I", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -1430,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558242892,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [16]
 		{
 			"Avalanche (3{rt3}) on Murkya", -- [1]
 			"Murkya-Kil'jaeden", -- [2]
@@ -1452,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMurkya|r",
 			[51] = 1558242928,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [17]
 		{
 			"Avalanche (2{rt2}) on Daiyzed", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -1474,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1558242928,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [18]
 		{
 			"Freezing in 4", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -1496,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243003,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [19]
 		{
 			"Avalanche (3{rt3}) on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1518,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1558243024,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [20]
 		{
 			"Ga'halahs I shN za Yeh'glu", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -1540,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558243024,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [21]
 		{
 			"Avalanche 1 on {rt1}Necrophobiá{rt1}", -- [1]
 			"Necrophobiá-Kil'jaeden", -- [2]
@@ -1562,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrophobiá|r",
 			[51] = 1558243024,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [22]
 		{
 			"Freezing in 4", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -1584,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243035,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [23]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1606,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1558243060,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [72]
+		}, -- [24]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1628,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1558243067,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [25]
 		{
 			"Broadside 1 on {rt1}Bailey{rt1}", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1650,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [26]
 		{
 			"3", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1672,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1558243087,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [27]
 		{
 			"{rt1}3", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1694,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243087,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1716,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1558243088,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [29]
 		{
 			"{rt1}2", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -1738,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243088,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [30]
 		{
 			"1", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1760,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1558243089,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [31]
 		{
 			"Avalanche 4 on {rt4}Aberrnathi{rt4}", -- [1]
 			"Aberrnathi-Kil'jaeden", -- [2]
@@ -1782,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cAberrnathi|r",
 			[51] = 1558243097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [32]
 		{
 			"Hand of Frost on Necrophobiá", -- [1]
 			"Necrophobiá-Kil'jaeden", -- [2]
@@ -1804,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrophobiá|r",
 			[51] = 1558243105,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [33]
 		{
 			"Hand of Frost on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1826,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1558243106,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [34]
 		{
 			"Hand of Frost on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1848,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558243108,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [35]
 		{
 			"Broadside (1{rt1}) on Hyperr", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1870,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558243115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [36]
 		{
 			"Broadside 2 on {rt2}Knoss{rt2}", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1892,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1558243115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [37]
 		{
 			"Gul'kafh zz I", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -1914,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558243115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [38]
 		{
 			"3", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1936,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558243118,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [39]
 		{
 			"{rt2}3", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1958,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1558243119,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [40]
 		{
 			"{rt2}2", -- [1]
 			"Knoss-Kil'jaeden", -- [2]
@@ -1980,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Knoss|r",
 			[51] = 1558243119,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [41]
 		{
 			"1 min", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2002,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558243152,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [42]
 		{
 			"RSC > Pluie has set up a Feast! > Sanguinated Feast", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2024,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243162,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [43]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2046,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1558243162,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [44]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2068,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558243163,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [45]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2090,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1558243169,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [46]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -2112,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1558243178,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [47]
 		{
 			"30 sec", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2134,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558243179,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [48]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2156,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558243183,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [49]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2178,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1558243184,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [50]
 		{
 			"10 sec", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2200,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1558243199,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [51]
 		{
 			"Avalanche (2{rt2}) on Murkya", -- [1]
 			"Murkya-Kil'jaeden", -- [2]
@@ -2222,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMurkya|r",
 			[51] = 1558243225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [52]
 		{
 			"Avalanche (3{rt3}) on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2244,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1558243225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [53]
 		{
 			"Avalanche (2{rt2}) on Smokestacks", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2266,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243272,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [54]
 		{
 			"Freezing in 4", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -2288,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558243276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [55]
 		{
 			"Freezing in 3", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -2310,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558243277,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [56]
 		{
 			"Freezing in 1", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2332,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243281,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [57]
 		{
 			"Avalanche 3 on {rt3}Sinmon{rt3}", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -2354,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558243319,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [58]
 		{
 			"Avalanche (2{rt2}) on Sonaris", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2376,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558243319,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [59]
 		{
 			"Freezing in 4", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -2398,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1558243328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [60]
 		{
 			"Avalanche 3 on {rt3}Emosong{rt3}", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2420,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558243369,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [61]
 		{
 			"Avalanche (2{rt2}) on Murkya", -- [1]
 			"Murkya-Kil'jaeden", -- [2]
@@ -2442,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMurkya|r",
 			[51] = 1558243369,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [62]
 		{
 			"Avalanche 1 on {rt1}Aberrnathi{rt1}", -- [1]
 			"Aberrnathi-Kil'jaeden", -- [2]
@@ -2464,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cAberrnathi|r",
 			[51] = 1558243369,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [63]
 		{
 			"Freezing in 4", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2486,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243386,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [64]
 		{
 			"Freezing in 3", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2508,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [65]
 		{
 			"anyone have a spare spirit flask?", -- [1]
 			"Necrophobiá-Kil'jaeden", -- [2]
@@ -2530,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Necrophobiá|r",
 			[51] = 1558243441,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [114]
+		}, -- [66]
 		{
 			"thank you for the raid, sorry for my mistakes", -- [1]
 			"Smokestacks-Kil'jaeden", -- [2]
@@ -2552,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smokestacks|r",
 			[51] = 1558243474,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [67]
 		{
 			"|cffffffff|Hitem:162518::::::::120:267::::::|h[Mystical Flask]|h|r|cffffffff|Hitem:162518::::::::120:267::::::|h[Mystical Flask]|h|r|cffffffff|Hitem:162518::::::::120:267::::::|h[Mystical Flask]|h|r", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2574,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1558243504,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [68]
 		{
 			"any1", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2596,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1558243505,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [69]
 		{
 			"necks 41 already lol ", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -2618,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1558243612,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [70]
 		{
 			"dude youre gonna beat me", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2640,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243629,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [71]
 		{
 			"lol what are you at?", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -2662,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1558243659,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [72]
 		{
 			"We wont talk about it", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2684,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243667,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [73]
 		{
 			":))))", -- [1]
 			"Bailey-Kil'jaeden", -- [2]
@@ -2706,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bailey|r",
 			[51] = 1558243670,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [74]
 		{
 			":))))))", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -2728,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1558243696,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [75]
 		{
 			"POG", -- [1]
 			"Ruesong-Kil'jaeden", -- [2]
@@ -2750,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRuesong|r",
 			[51] = 1558245151,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [76]
 		{
 			"|cffa335ee|Hitem:166467::::::::120:267::11::::|h[Island Thunderscale]|h|r", -- [1]
 			"Ruesong-Kil'jaeden", -- [2]
@@ -2772,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRuesong|r",
 			[51] = 1558245153,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [77]
 		{
 			"islands xd", -- [1]
 			"Ruesong-Kil'jaeden", -- [2]
@@ -2794,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRuesong|r",
 			[51] = 1558245161,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [78]
 		{
 			"i got that too this week!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2816,6 +1760,1064 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1558245173,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [79]
+		{
+			"Hey, is everything alright? we missed you at raid this last week", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390149,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [80]
+		{
+			"yeah ive had a rough month, 2 family members passed away and its been hitting me hard lately. so i just stayed in bed all weekend pretty much", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390242,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [81]
+		{
+			"i was debating on stopping raid for awhile but i dunno", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390257,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [82]
+		{
+			"Oh, I'm sorry to hear that", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390261,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [83]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13389:Player-9-0B1F2145:1:5:20:19:4294967295:4294967295:4294967295:4294967295|h[Jorundall]|h|r!", -- [1]
+			"Thunderpally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderpally-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-9-0B1F2145", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Thunderpally|r",
+			[51] = 1558390289,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [84]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13394:Player-9-0B1F2145:1:5:20:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Jorundall]|h|r!", -- [1]
+			"Thunderpally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderpally-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-9-0B1F2145", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Thunderpally|r",
+			[51] = 1558390289,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [85]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13395:Player-9-0B1F2145:1:5:20:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Jorundall]|h|r!", -- [1]
+			"Thunderpally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderpally-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-0B1F2145", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Thunderpally|r",
+			[51] = 1558390289,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [86]
+		{
+			"its alright, sorry about last week though", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390451,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [87]
+		{
+			"were you interested in continuing to play? I don't mean to be crass, but if not I'd like some time to try and fill the slot", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390510,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [88]
+		{
+			"I would understand either way, some people need time and others want to keep busy", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390612,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [89]
+		{
+			"yeah i can continue until the spot is filled. i dont mind doing that", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558390827,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [90]
+		{
+			"anyone for m0 ml", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1558390849,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"I should clarify, did you want us to look for a replacement or do you wish to continue to trial. I didn't mean to imply that we'd look to fill the slot unless either you decide you don't want to play or until the trial period is over", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558391093,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [92]
+		{
+			"jamie was concerned you'd decided to quit bceause she didn't see you on her friends list anymore", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558391217,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [93]
+		{
+			"yeah i wasnt in the place to discuss it then, so i removed. i was going to message her later but i got removed from the disc. for now i dont mind finishing trial until you get another person to replace me. i cant confidently say ill be good in a couple ", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558391330,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [94]
+		{
+			"weeks and be ready again ", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558391330,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [95]
+		{
+			"Well, thanks for talking with me. I've got a work meeting to run to. Take care, I know it isn't easy to lose people that are close to you. Feel free to DM me if there's anything else", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mewmonk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558391842,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12559:Player-9-0B1F2145:1:5:20:19:4294967295:4294967295:4294967295:4294967295|h[Explore Zuldazar]|h|r!", -- [1]
+			"Thunderpally-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderpally-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-9-0B1F2145", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Thunderpally|r",
+			[51] = 1558392244,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"!keys", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"Keystone: |cffa335ee|Hkeystone:158923:251:14:10:8:4:117|h[Keystone: The Underrot (14)]|h|r", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"|cffa335ee|Hkeystone:158923:248:19:10:8:4:117|h[Keystone: Waycrest Manor (19)]|h|r", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:250:13:10:8:4:117|h[Keystone: Temple of Sethraliss (13)]|h|r", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:246:8:10:8:4:0|h[Keystone: Tol Dagor (8)]|h|r", -- [1]
+			"Trêesus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0B0E392E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Trêesus|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"|cffa335ee|Hkeystone:158923:252:12:10:8:4:117|h[Keystone: Shrine of the Storm (12)]|h|r", -- [1]
+			"Daiyzed-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0B363945", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Daiyzed|r",
+			[51] = 1558393496,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"want to heal a key", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			74, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1558393836,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [104]
+		{
+			"I might have tom join", -- [1]
+			"Dirtyxo-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dirtyxo-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			96, -- [11]
+			"Player-3684-0A18DDB3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Dirtyxo-Mal'Ganis|r",
+			[51] = 1558394176,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [105]
+		{
+			"!keys", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			102, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558394314,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"Keystone: |cffa335ee|Hkeystone:158923:251:14:10:8:4:117|h[Keystone: The Underrot (14)]|h|r", -- [1]
+			"Mewmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			103, -- [11]
+			"Player-9-0B666909", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Mewmonk|r",
+			[51] = 1558394314,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"|cffa335ee|Hkeystone:158923:252:12:10:8:4:117|h[Keystone: Shrine of the Storm (12)]|h|r", -- [1]
+			"Daiyzed-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-9-0B363945", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Daiyzed|r",
+			[51] = 1558394314,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:246:8:10:8:4:0|h[Keystone: Tol Dagor (8)]|h|r", -- [1]
+			"Trêesus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-9-0B0E392E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Trêesus|r",
+			[51] = 1558394314,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"|cffa335ee|Hkeystone:158923:248:18:10:8:4:117|h[Keystone: Waycrest Manor (18)]|h|r", -- [1]
+			"Goredamm-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			106, -- [11]
+			"Player-9-0B53C813", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cGoredamm|r",
+			[51] = 1558394314,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:250:13:10:8:4:117|h[Keystone: Temple of Sethraliss (13)]|h|r", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1558394315,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"siege", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558394484,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [112]
+		{
+			"i love incarn", -- [1]
+			"Daiyzed-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daiyzed-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-9-0B363945", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Daiyzed|r",
+			[51] = 1558394695,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [113]
+		{
+			"Backstab interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558394901,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Backstab interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558395396,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
+		{
+			"Sk'yahf Phgwa'cul za Ssaggh", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558395589,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [116]
+		{
+			"Backstab interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			276, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558395819,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [117]
+		{
+			"Backstab interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1558396064,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [118]
+		{
+			"Sk'yahf Phgwa'cul za Ssaggh", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558396142,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [119]
+		{
+			"Sk'yahf Phgwa'cul za Ssaggh", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Shath'Yar", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			302, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558396155,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"yikes lol", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1558396216,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [121]
+		{
+			"Sighted Artillery on Druwqt", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			317, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558396388,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [122]
+		{
+			"Putrid Waters on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1558396830,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"Putrid Waters on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			374, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1558396940,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"Putrid Waters on Druwqt", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			375, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558396941,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [125]
+		{
+			"Putrid Waters on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			379, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1558396962,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [126]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:245:13:10:8:4:117|h[Keystone: Freehold (13)]|h|r", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1558396971,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

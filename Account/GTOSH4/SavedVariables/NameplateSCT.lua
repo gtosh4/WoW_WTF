@@ -13,9 +13,9 @@ NameplateSCTDB = {
 	},
 	["global"] = {
 		["animations"] = {
-			["normal"] = "verticalUp",
-			["crit"] = "fountain",
 			["miss"] = "fountain",
+			["crit"] = "fountain",
+			["normal"] = "verticalUp",
 		},
 		["yOffset"] = 15,
 		["font"] = "Expressway",

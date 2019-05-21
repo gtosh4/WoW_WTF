@@ -10,6 +10,12 @@ MacroToolkitDB = {
 			},
 		},
 	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
+		},
+	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "profile",
 		["Toshtrial - Blood Furnace"] = "profile",
@@ -21,24 +27,18 @@ MacroToolkitDB = {
 		["Toshaman - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
 	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
-	},
 	["profiles"] = {
 		["profile"] = {
 			["y"] = 610.615478515625,
 			["x"] = 1767.63049316406,
 			["height"] = 431.000427246094,
+			["visbind"] = false,
 			["fonts"] = {
-				["edfont"] = "Ubuntu Condensed",
-				["mifont"] = "Ubuntu Condensed",
 				["mfont"] = "Ubuntu Condensed",
+				["mifont"] = "Ubuntu Condensed",
+				["edfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
-			["visbind"] = false,
 		},
 	},
 }
