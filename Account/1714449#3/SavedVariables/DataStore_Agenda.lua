@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-05-21",
+			["NextWeeklyReset"] = "2019-05-28",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -28,16 +28,13 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370350495"] = "476934|1557973864|0|1",
-				},
 				["lastUpdate"] = 1557976381,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1558501820,
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370312989"] = "392874|1558057925|0|1",
+					["Battle of Dazar'alor Mythic|370608216"] = "554321|1558501277|0|1",
 				},
-				["lastUpdate"] = 1558059979,
 			},
 		},
 	},

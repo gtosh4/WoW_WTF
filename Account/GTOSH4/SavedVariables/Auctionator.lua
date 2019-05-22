@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
 	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
-	["_5000000"] = 10000,
+	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["LOG_DE_DATA_X"] = true,
+	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -43,15 +43,15 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "167539:0:0:0:0",
 		["5656126"] = "29930000:1",
 	},
+	["Bloodstained Message"] = {
+		["is"] = "158879:0:0:0:0",
+		["5552851"] = "7420000:1",
+	},
 	["Veiled Crystal"] = {
 		["5521304"] = "4867500:4",
 		["5521828"] = "4847500:4",
 		["5631147"] = "2045000:4",
 		["is"] = "152877:0:0:0:0",
-	},
-	["Bloodstained Message"] = {
-		["is"] = "158879:0:0:0:0",
-		["5552851"] = "7420000:1",
 	},
 }
 AUCTIONATOR_SHOPPING_LISTS = {

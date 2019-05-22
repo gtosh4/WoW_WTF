@@ -15,13 +15,10 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-05-21",
+			["NextWeeklyReset"] = "2019-05-28",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370350495"] = "478931|1557971866|0|1",
-				},
 				["lastUpdate"] = 1557973683,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
@@ -45,10 +42,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370429535"] = "53739|1558397059|0|1",
-				},
-				["lastUpdate"] = 1558397070,
+				["lastUpdate"] = 1558469058,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -56,10 +50,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370312989"] = "499223|1557951574|0|1",
-				},
-				["lastUpdate"] = 1557952222,
+				["lastUpdate"] = 1558469329,
 			},
 		},
 	},

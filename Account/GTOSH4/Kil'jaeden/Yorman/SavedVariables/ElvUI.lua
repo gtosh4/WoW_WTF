@@ -1,94 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/grid2", -- [1]
-		"crit > vers > haste > mastery... ish", -- [2]
-		"hi", -- [3]
-		"/bw", -- [4]
-		"/plater", -- [5]
-		"johnny, should I bring monk or druid tonight", -- [6]
-		"/wa", -- [7]
-		"didn't andrew bring priest to kt?", -- [8]
-		"so", -- [9]
-		"/m", -- [10]
-		"/script for k,v in pairs(ElvUI_Bar1) do print(k) end", -- [11]
-		"what I predicted", -- [12]
-		"if boo's not here, I'll come on druid for dispels, otherwise prolly monk", -- [13]
-		"exactly", -- [14]
-		"I could bring priest, but I wanted to try and help rivalry spriests get gear", -- [15]
-		"/cw Friendly-Kil'jaeden np", -- [16]
-		"/ak", -- [17]
-		"/ec", -- [18]
-		"/dn", -- [19]
-		"/plh", -- [20]
+		"hi", -- [1]
+		"/bw", -- [2]
+		"/plater", -- [3]
+		"johnny, should I bring monk or druid tonight", -- [4]
+		"/wa", -- [5]
+		"didn't andrew bring priest to kt?", -- [6]
+		"so", -- [7]
+		"/m", -- [8]
+		"/script for k,v in pairs(ElvUI_Bar1) do print(k) end", -- [9]
+		"what I predicted", -- [10]
+		"if boo's not here, I'll come on druid for dispels, otherwise prolly monk", -- [11]
+		"exactly", -- [12]
+		"I could bring priest, but I wanted to try and help rivalry spriests get gear", -- [13]
+		"/cw Friendly-Kil'jaeden np", -- [14]
+		"/ak", -- [15]
+		"/ec", -- [16]
+		"/dn", -- [17]
+		"/plh", -- [18]
+		"/g |cffa335ee|Hitem:159620::::::::120:105::35:3:5010:1582:4783:::|h[Conch of Dark Whispers]|h|r", -- [19]
+		"/g why on druid tho :(", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"click", -- [1]
-			"Grenbrew-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Grenbrew-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			26, -- [11]
-			"Player-3661-07D6C599", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Grenbrew-Hyjal|r",
-			[51] = 1557949390,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Huit!", -- [1]
-			"Baesong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Baesong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-9-04467765", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cBaesong|r",
-			[51] = 1557949608,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Baesong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Baesong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			42, -- [11]
-			"Player-9-04467765", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cBaesong|r",
-			[51] = 1557949616,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949624,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
+		}, -- [1]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949671,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
+		}, -- [2]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 135.3k (58%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949685,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
+		}, -- [3]
 		{
 			"Taunted Reanimated Raptor!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949728,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
+		}, -- [4]
 		{
 			"Taunted Reanimated Raptor!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949738,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
+		}, -- [5]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-9-0B670799:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1557949758,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [9]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0B670799:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1557949758,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [10]
+		}, -- [7]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-9-0B670799:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1557949758,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [11]
+		}, -- [8]
 		{
 			"Taunted Reanimated Raptor!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557949872,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [9]
 		{
 			"Pursuit on Yorman", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1557949885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"i wish i could be a female blood elf druid", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [11]
 		{
 			"u don't even need to have matching colors on your transmog because everything is so fucking tiny", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950013,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [12]
 		{
 			"my GIANT tauren shoulders and i can't get away with shit", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950021,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950085,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [14]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950090,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950098,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [16]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950102,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
+		}, -- [17]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 135.3k (58%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950104,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [18]
 		{
 			"shoot.. I probably transmog my rogue 3x per day", -- [1]
 			"Kada-Kil'jaeden", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kada|r",
 			[51] = 1557950115,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950129,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950154,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
+		}, -- [21]
 		{
 			"and they look way better than the tauren model in most gear", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950162,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [22]
 		{
 			"like 90% of the leather sets at least", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950169,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950171,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+		}, -- [24]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950175,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [25]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950182,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [26]
 		{
 			"yeah, now plate on the other hand..", -- [1]
 			"Kada-Kil'jaeden", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kada|r",
 			[51] = 1557950185,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [27]
 		{
 			"Taunted Shadowblade Stalker!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950197,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [28]
 		{
 			"the mythic trial of valor plate set on belfs", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950212,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [29]
 		{
 			"is beautiful", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950216,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [30]
 		{
 			"Taunted Shieldbearer of Zul!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950222,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [31]
 		{
 			"i would only use that if i had a belf warr/paly", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950228,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [32]
 		{
 			"Taunted Shieldbearer of Zul!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950237,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [33]
 		{
 			"wait, the gold one?", -- [1]
 			"Kada-Kil'jaeden", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kada|r",
 			[51] = 1557950241,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [34]
 		{
 			"Taunted Shieldbearer of Zul!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950245,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [35]
 		{
 			"yeah", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950278,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [36]
 		{
 			"Taunted Shadowblade Stalker!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950296,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+		}, -- [37]
 		{
 			"it looks great on every race actually", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950303,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950304,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950312,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [40]
 		{
 			"probably my favorite plate set", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950319,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [41]
 		{
 			"My |cff71d5ff|Hspell:355:0|h[Taunt]|h|r was evaded by Reanimated Honor Guard!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950370,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [42]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r |cff71d5ff|Hspell:256959:0|h[Rotting Decay]|h|r for 125.9k (54%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950383,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [43]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950437,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
+		}, -- [44]
 		{
 			"Taunted Tormented Soul!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950446,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Huit!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950502,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
+		}, -- [46]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557950503,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950515,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [48]
 		{
 			"Pummeled Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950518,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950523,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Unstable Hex on Haxpax", -- [1]
 			"Haxpax-Illidan", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecHaxpax-Illidan|r",
 			[51] = 1557950533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [51]
 		{
 			"3", -- [1]
 			"Haxpax-Illidan", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecHaxpax-Illidan|r",
 			[51] = 1557950535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [52]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557950536,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"Pummeled Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950540,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [54]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5180:Player-9-0B53C813:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Breaking the Sound Barrier]|h|r!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557950564,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
+		}, -- [55]
 		{
 			"i dont wanna talk about it", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557950571,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [56]
 		{
 			"he's FAST NOW", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [57]
 		{
 			".... zoom zoom", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1557950587,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [58]
 		{
 			"is that 280?", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950602,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [59]
 		{
 			"or 310", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950604,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [60]
 		{
 			"?", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950605,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [61]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950612,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [62]
 		{
 			"lol 310", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557950619,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [63]
 		{
 			"I haven't had it apparently", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557950624,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [64]
 		{
 			"all the time i spend flying ya kno", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557950636,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [65]
 		{
 			"<EH> Huit got hit by |cff71d5ff|Hspell:250259:0|h[Toxic Leap]|h|r for 123.7k (49%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950636,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [66]
 		{
 			"lmfao", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950647,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [67]
 		{
 			"don't even think i have 310", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950654,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [68]
 		{
 			"nvm", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950662,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [69]
 		{
 			"i do", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950663,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [70]
 		{
 			"2 years ago", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950669,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [71]
 		{
 			"and im 12 cmonBrother", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557950679,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [72]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950694,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+		}, -- [73]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:250585:0|h[Toxic Pool]|h|r for 168.7k (72%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950698,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+		}, -- [74]
 		{
 			"Pummeled Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950714,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
+		}, -- [75]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950749,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+		}, -- [76]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557950767,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [77]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950784,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [81]
+		}, -- [78]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557950808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [79]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950835,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [80]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 101.4k (43%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950865,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
+		}, -- [81]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950878,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [82]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950896,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950900,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [84]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950908,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [85]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13441:Player-9-0B66E232:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Pushing the Payload]|h|r!", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1557950930,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
+		}, -- [86]
 		{
 			"Pummeled Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950943,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
+		}, -- [87]
 		{
 			"<EH> Grenbrew-Hyjal got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 94.9k (42%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557950952,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [88]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557950953,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557951014,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [90]
 		{
 			"Pummeled Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951022,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [91]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557951038,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [92]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951040,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [93]
 		{
 			"<EH> Baesong got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 383.9k (105%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951063,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [94]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Huit!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951118,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [95]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2200,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951124,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [99]
+		}, -- [96]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2222,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557951129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [97]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2244,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951132,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [101]
+		}, -- [98]
 		{
 			"Pummeled Dazar'ai Juggernaut's |cff71d5ff|Hspell:255824:0|h[Fanatic's Rage]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2266,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951162,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
+		}, -- [99]
 		{
 			"Taunted Priestess Alun'za!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2288,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951177,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [103]
+		}, -- [100]
 		{
 			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2310,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951207,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [104]
+		}, -- [101]
 		{
 			"Huit interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Huit-Kil'jaeden", -- [2]
@@ -2332,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Huit|r",
 			[51] = 1557951209,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [102]
 		{
 			"<EH> Grenbrew-Hyjal got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 350.1k (155%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2354,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951279,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
+		}, -- [103]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Huit!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2376,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951346,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [107]
+		}, -- [104]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2398,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951349,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [108]
+		}, -- [105]
 		{
 			"<EH> Haxpax-Illidan got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 135.1k (51%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2420,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951375,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [109]
+		}, -- [106]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2442,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [110]
+		}, -- [107]
 		{
 			"<EH> Grenbrew-Hyjal got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 167.4k (74%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2464,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951414,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [111]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Baesong!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2486,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951422,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [112]
+		}, -- [109]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2508,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [113]
+		}, -- [110]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Yorman!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2530,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951425,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
+		}, -- [111]
 		{
 			"Pummeled Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2552,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951442,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
+		}, -- [112]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 170.3k (73%).", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2574,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [116]
+		}, -- [113]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2596,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [117]
+		}, -- [114]
 		{
 			"1. Haxpax-Illidan 898.4k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2618,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [118]
+		}, -- [115]
 		{
 			"2. Baesong 1107.3k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2640,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [119]
+		}, -- [116]
 		{
 			"3. Huit 1129.2k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2662,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [120]
+		}, -- [117]
 		{
 			"4. Grenbrew-Hyjal 1701.4k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2684,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [121]
+		}, -- [118]
 		{
 			"5. Yorman 1732.2k", -- [1]
 			"Baesong-Kil'jaeden", -- [2]
@@ -2706,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBaesong|r",
 			[51] = 1557951453,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [122]
+		}, -- [119]
 		{
 			"man healing is so much fun", -- [1]
 			"Thunderpally-Kil'jaeden", -- [2]
@@ -2728,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thunderpally|r",
 			[51] = 1557951454,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [120]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:248:15:10:8:4:117|h[Keystone: Waycrest Manor (15)]|h|r", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -2750,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1557951456,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [121]
 		{
 			"Kapp?", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2772,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1557951476,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [122]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13441:Player-9-0B670799:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Pushing the Payload]|h|r!", -- [1]
 			"Stealchi-Kil'jaeden", -- [2]
@@ -2794,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Stealchi|r",
 			[51] = 1557952001,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [123]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13126:Player-9-0B53C813:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Give Me The Energy]|h|r!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2816,6 +2750,72 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557952169,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"|cffa335ee|Hitem:159620::::::::120:105::35:3:5010:1582:4783:::|h[Conch of Dark Whispers]|h|r", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1558469201,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"jealous", -- [1]
+			"Metzinger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-0B513C7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Metzinger|r",
+			[51] = 1558469225,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"why on druid tho :(", -- [1]
+			"Yorman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0A76FA3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Yorman|r",
+			[51] = 1558469234,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

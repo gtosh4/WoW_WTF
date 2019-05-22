@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -13,6 +6,13 @@ X: -188
 Y: 280
 W: 108
 H: 62
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: LEFT
@@ -97,3 +97,10 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: -37
+Y: -235
+W: 562
+H: 336
