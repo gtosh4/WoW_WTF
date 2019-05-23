@@ -40,9 +40,11 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
+						["class"] = "Priest",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1558469058,
+				["lastUpdate"] = 1558546232,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {

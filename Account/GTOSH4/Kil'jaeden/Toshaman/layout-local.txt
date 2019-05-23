@@ -2,9 +2,9 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: -188
+X: -138
 Y: 280
-W: 108
+W: 208
 H: 62
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1

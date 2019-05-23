@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 855,
+	["session"] = 857,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: attempt to get length of field 'tabs' (a nil value)",
@@ -104,26 +104,33 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [13]
 		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: attempt to index field 'voteFrame' (a nil value)",
-			["time"] = "2019/05/17 21:49:10",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: in function `drawLooters'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:684: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 854,
-			["counter"] = 24,
-		}, -- [14]
-		{
-			["message"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: attempt to index field 'CompactUnitFrameProfilesNewProfileDialog' (a nil value)",
-			["time"] = "2019/05/17 20:27:56",
-			["stack"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: in function <...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:37>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1346: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1327>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1387: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1386>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1626: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1944: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:213: in function <Interface\\AddOns\\ElvUI\\init.lua:212>",
-			["session"] = 855,
-			["counter"] = 14,
-		}, -- [15]
-		{
 			["message"] = "attempt to index a nil value",
 			["time"] = "2019/05/21 16:06:41",
 			["locals"] = "(*temporary) = \"attempt to index a nil value\"\n",
 			["stack"] = "[C]: in function `GetMessagesBefore'\n...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:209: in function `BackfillMessages'\n...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:57: in function <...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:45>",
 			["session"] = 855,
 			["counter"] = 1,
+		}, -- [14]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/17 21:49:10",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: in function `drawLooters'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:684: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 856,
+			["counter"] = 41,
+		}, -- [15]
+		{
+			["message"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: attempt to index field 'CompactUnitFrameProfilesNewProfileDialog' (a nil value)",
+			["time"] = "2019/05/17 20:27:56",
+			["stack"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: in function <...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:37>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1346: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1327>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1387: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1386>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1626: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1944: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:213: in function <Interface\\AddOns\\ElvUI\\init.lua:212>",
+			["session"] = 857,
+			["counter"] = 16,
 		}, -- [16]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'WorldQuestsList' tried to call the protected function 'UseQuestLogSpecialItem()'.",
+			["time"] = "2019/05/22 13:17:23",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `UseQuestLogSpecialItem'\n...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>",
+			["session"] = 857,
+			["counter"] = 1,
+		}, -- [17]
 	},
 }
