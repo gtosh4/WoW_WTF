@@ -30,38 +30,6 @@ TomTomWaypointsM = {
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
-			[862] = {
-				["862:732158541.67938:282924711.70425:Wrath of Rezan"] = {
-					862, -- [1]
-					0.732158541679382, -- [2]
-					0.282924711704254, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["persistent"] = true,
-					["desc"] = "Wrath of Rezan",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Wrath of Rezan",
-					["crazy"] = true,
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -73,9 +41,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,

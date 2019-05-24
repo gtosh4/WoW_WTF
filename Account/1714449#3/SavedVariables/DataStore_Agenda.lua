@@ -21,8 +21,8 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["class"] = "Paladin",
 						["level"] = 120,
+						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -32,9 +32,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370608216"] = "509400|1558546197|0|1",
+					["Battle of Dazar'alor Mythic|370608216"] = "386602|1558668996|0|1",
+					["Crucible of Storms Heroic|370690302"] = "386602|1558668996|0|1",
 				},
-				["lastUpdate"] = 1558546225,
+				["lastUpdate"] = 1558668989,
 			},
 		},
 	},
