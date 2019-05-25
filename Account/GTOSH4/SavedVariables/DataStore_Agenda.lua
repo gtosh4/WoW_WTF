@@ -40,11 +40,12 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["class"] = "Priest",
-						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1558546232,
+				["lastUpdate"] = 1558763379,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|370429535"] = "293071|1558762527|0|1",
+				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {

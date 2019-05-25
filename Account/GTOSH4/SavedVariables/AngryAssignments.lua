@@ -40,12 +40,12 @@ AngryAssign_Pages = {
 		["Backup"] = "LEFT        \nCorner    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r\nFlames 2    ||cmonkAlex.rev||r    \n        \nRIGHT        \nCorner    ||cdruidBoo.tranq||r    ||cshamanIlya.HT||r\nFlames 2    ||cshamanIlya.SLT||r    \n        \nCENTER        \nCoin Shower 1    ||cmonkAlex.rev||r    \nCoin Shower 2    ||cshamanIlya.SLT||r    \nWail of Greed 1    ||cshamanIlya.HT||r\nCoin Shower 3    ||cpriestGord.barrier||r    \nCoin Shower 4    ||cpaladinDon.BoP||r\nWail of Greed 2    ||cpriestGord.ramp||r        ||cdruidBoo.tranq||r\nCoin Shower 5    ||cpaladinMason.BoP||r\n\n||credRUBY||r: ||crogueandrew||r, ||cshamandevan||r, ||chuntercj||r, ||cpaladindon||r\n||cpurpleAMETHYST||r: ||cpriestgordon||r, ||cshamanilya||r",
 	},
 	[121094719] = {
-		["Updated"] = 1558228827,
+		["Updated"] = 1558754321,
 		["Name"] = "09 M Jaina",
-		["Contents"] = "TANKS - 4 6 9 8 6\n\nAvalanche 2    ||cpriestTehkz.evang||r    ||cdruidJamie.tranq||r        \nAvalanche 3                \nRing of Ice 2    ||cmonkBails.rev||r            \nIntermission    ||cpriestTehkz.rapt||r            \nP2 start    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.evang||r    \nBroad 1    ||cdruidJamie.tranq||r            \nSiege 1    ||cpriestTehkz.barrier||r    ||cshamanGordy.HT||r        ||cred3-min pers||r\nSiege 2    ||cpriestVamp Embrace||r    ||cpriestTehkz.ramp||r    ||cgreenhealthstones||r    ||cred2min pers||r\nPhase 3                \nInterrupt boss                \nOrb 1    ||cpriestTehkz.ramp||r            \nRay    ||cmonkBails.rev||r    ||cshamanGordy.HT||r        \nPre Siege 3    ||cpriestVamp Embrace||r            \nSiege 3    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.barrier||r    ||credall pers||r\nAfter Siege 3    ||cdruidJamie.tranq||r            \nOn CD    ||cpriestTehkz.ramp||r                    \n\n\nFAST LEFT: G1 & G2\nSLOW RIGHT: G3 & G4",
+		["Contents"] = "TANKS - 4 6 9 8 6\n  \nIntermission    ||cpriestTehkz.rapt||r            \nP2 start    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.evang||r    ||cpriestVEs||r\nBroad 1    ||cpriestJess.hymn||r    ||cdruidJamie.tranq||r        \nSiege 1    ||cpriestTehkz.barrier||r    ||cshamanGordy.HT||r    ||cwarriorBarba.rally||r    ||cred3-min pers||r\nSiege 2    ||cpriestVEs||r    ||cpriestTehkz.ramp||r    ||cgreenhealthstones||r    ||cred2min pers||r\nPhase 3                \nInterrupt boss                \nOrb 1    ||cpriestTehkz.ramp||r            \nRay    ||cshamanGordy.HT||r            \nAfter Ray    ||cpriestVEs||r    ||cwarriorBarba.rally||r    ||cdruidJamie.tranq||r    \nSiege 3    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.barrier||r    ||credall pers||r\nAfter Siege 3    ||cpriestJess.salv||r    ||cpriestJess.hymn||r        \nOn CD    ||cpriestTehkz.ramp||r            \n\n\nFAST LEFT: G1 & G2\nSLOW RIGHT: G3 & G4",
 		["Id"] = 121094719,
-		["UpdateId"] = 3314342860,
-		["Backup"] = "TANKS - 4 6 9 8 6\n\nAvalanche 2    ||cpriestJess.salv||r    ||cpriestTehkz.evang||r            \nAvalanche 3    ||cwarriorBarba.rally||r                \nRing of Ice 2    ||cmonkMew.rev||r                \nIntermission                    \nP2 start    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.ramp||r        \nBroad 1    ||cpriestJess.hymn||r                \nSiege 1    ||cpriestTehkz.grip||r    ||cpriestTehkz.barrier||r    ||cshamanGordy.HT||r    ||cred3-mins||r    \nSiege 2    ||cpriestJess.grip||r    ||cwarriorBarba.rally||r    ||cpriestTehkz.ramp||r    ||cgreenhealthstone||r    ||cred2-mins||r\nPhase 3                    \nInterrupt boss    ||cpriestTehkz.grip||r                \nOrb 1    ||cpriestTehkz.ramp||r                \nRay    ||cmonkMew.rev||r    ||cshamanGordy.HT||r            \nPre Siege 3    ||cpriestVEs||r                \nSiege 3    ||cpriestJess.grip||r    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.barrier||r    ||credpersonals||r\nAfter Siege 3    ||cpriestJess.salv||r    ||cpriestJess.hymn||r            \nOn CD    ||cwarriorBarba.rally||r    ||cpriestTehkz.ramp||r            \n\n\nFAST LEFT: G1 & G2\nSLOW RIGHT: G3 & G4",
+		["UpdateId"] = 303272572,
+		["Backup"] = "TANKS - 4 6 9 8 6\n  \nIntermission    ||cpriestTehkz.rapt||r            \nP2 start    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.evang||r    ||cpriestVEs||r\nBroad 1    ||cpriestJess.hymn||r    ||cdruidJamie.tranq||r        \nSiege 1    ||cpriestTehkz.barrier||r    ||cshamanGordy.HT||r    ||cwarriorBarba.rally||r    ||cred3-min pers||r\nSiege 2    ||cpriestVEs||r    ||cpriestTehkz.ramp||r    ||cgreenhealthstones||r    ||cred2min pers||r\nPhase 3                \nInterrupt boss                \nOrb 1    ||cpriestTehkz.ramp||r            \nRay    ||cshamanGordy.HT||r            \nAfter Ray    ||cpriestVEs||r    ||cwarriorBarba.rally||r    ||cdruidJamie.tranq||r    \nSiege 3    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpriestTehkz.barrier||r    ||credall pers||r\nAfter Siege 3    ||cpriestJess.salv||r    ||cpriestJess.hymn||r        \nOn CD    ||cpriestTehkz.ramp||r            \n\n\nFAST LEFT: G1 & G2\nSLOW RIGHT: G3 & G4",
 		["CategoryId"] = 2963104968,
 	},
 	[1434323691] = {
@@ -153,13 +153,6 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
-	["window"] = {
-		["height"] = 639.87451171875,
-		["top"] = 1414.93469238281,
-		["left"] = 2221.17919921875,
-		["width"] = 1046.16333007813,
-	},
-	["locked"] = true,
 	["directionUp"] = false,
 	["tree"] = {
 		["groups"] = {
@@ -172,8 +165,8 @@ AngryAssign_State = {
 			["1801712002"] = true,
 		},
 		["scrollvalue"] = 0,
-		["selected"] = "-2963104968121094719",
 		["treesizable"] = true,
+		["selected"] = "-2963104968121094719",
 		["treewidth"] = 175,
 		["fullwidth"] = 1012.16339111328,
 	},
@@ -185,6 +178,13 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 441.008666992188,
 	},
+	["window"] = {
+		["height"] = 639.87451171875,
+		["top"] = 1414.93469238281,
+		["left"] = 2221.17919921875,
+		["width"] = 1046.16333007813,
+	},
+	["locked"] = true,
 }
 AngryAssign_Config = {
 	["backdropShow"] = true,
