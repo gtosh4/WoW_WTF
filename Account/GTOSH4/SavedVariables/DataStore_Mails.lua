@@ -22,7 +22,7 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/05/15 21:39",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1558763021,
+				["lastUpdate"] = 1558851038,
 				["Mails"] = {
 					{
 						["returned"] = true,
@@ -30,9 +30,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1558763021,
+						["lastCheck"] = 1558851038,
 						["icon"] = 1509634,
-						["daysLeft"] = 8.38819408416748,
+						["daysLeft"] = 7.36915493011475,
 					}, -- [1]
 					{
 						["returned"] = true,
@@ -40,9 +40,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1558763021,
+						["lastCheck"] = 1558851038,
 						["icon"] = 1509634,
-						["daysLeft"] = 8.38819408416748,
+						["daysLeft"] = 7.36915493011475,
 					}, -- [2]
 					{
 						["returned"] = true,
@@ -50,9 +50,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1558763021,
+						["lastCheck"] = 1558851038,
 						["icon"] = 1509634,
-						["daysLeft"] = 8.38819408416748,
+						["daysLeft"] = 7.36915493011475,
 					}, -- [3]
 					{
 						["returned"] = true,
@@ -60,9 +60,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1558763021,
+						["lastCheck"] = 1558851038,
 						["icon"] = 1509634,
-						["daysLeft"] = 8.38819408416748,
+						["daysLeft"] = 7.36915493011475,
 					}, -- [4]
 					{
 						["returned"] = true,
@@ -70,16 +70,16 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1558763021,
+						["lastCheck"] = 1558851038,
 						["icon"] = 1509634,
-						["daysLeft"] = 8.38819408416748,
+						["daysLeft"] = 7.36915493011475,
 					}, -- [5]
 				},
-				["lastVisitDate"] = "2019/05/25 01:43",
+				["lastVisitDate"] = "2019/05/26 02:10",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1558469329,
-				["lastVisitDate"] = "2019/05/21 16:08",
+				["lastUpdate"] = 1558833891,
+				["lastVisitDate"] = "2019/05/25 21:24",
 			},
 		},
 	},
