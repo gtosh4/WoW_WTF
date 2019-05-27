@@ -1,182 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Druwqt gettin it from both sides lately eh", -- [1]
-		"/o I thought I could finish my radiance", -- [2]
-		"/dn", -- [3]
-		"man, why is mori always falling asleep in raid", -- [4]
-		"/cw Dawnzo what's bop's cd, 3m or more", -- [5]
-		"/cw Druwqt least the abortion stuff was new for a bit lol", -- [6]
-		"/cw Orcbum-Kil'jaeden inv", -- [7]
-		"/raid what's up?", -- [8]
-		"/ert", -- [9]
+		" you gonna play boom to tank the add on cabal?", -- [1]
+		" yeah, I think we'll use that lockout", -- [2]
+		" no lock", -- [3]
+		"/cw Druwqt gettin it from both sides lately eh", -- [4]
+		"/cw Sonaris-Kil'jaeden yeah, I pulled right before that came out", -- [5]
+		"/who rivalry", -- [6]
+		"/cw Sonaris-Kil'jaeden to get in barbados's circle", -- [7]
+		"/ert", -- [8]
+		"/wa", -- [9]
 		"/wave", -- [10]
-		" you gonna play boom to tank the add on cabal?", -- [11]
-		" yeah, I think we'll use that lockout", -- [12]
-		"/inv thunderz", -- [13]
-		"/who rivalry", -- [14]
-		" no lock", -- [15]
-		"/wa", -- [16]
-		"/bw", -- [17]
-		"/cw Sonaris-Kil'jaeden to get in barbados's circle", -- [18]
-		"/cw Sonaris-Kil'jaeden he needed 1 more w/ sliver", -- [19]
-		"/cw Sonaris-Kil'jaeden yeah, I pulled right before that came out", -- [20]
+		"yeah, I think we'll use that lockout", -- [11]
+		"/dn", -- [12]
+		"/cw Sonaris-Kil'jaeden he needed 1 more w/ sliver", -- [13]
+		"/bw", -- [14]
+		"/cw Orcbum-Kil'jaeden inv", -- [15]
+		"no lock", -- [16]
+		"/cw Dawnzo what's bop's cd, 3m or more", -- [17]
+		"you gonna play boom to tank the add on cabal?", -- [18]
+		"/inv thunderz", -- [19]
+		"/cw Druwqt least the abortion stuff was new for a bit lol", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			738, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1558666788,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"Interrupted Tentacled Voidpriest's |cff71d5ff|Hspell:294063:0|h[Void Bolt]|h|r!", -- [1]
-			"Aspbringr-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aspbringr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			745, -- [11]
-			"Player-9-0AD377F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Aspbringr|r",
-			[51] = 1558666822,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"Interrupted Shadowy Appendage's |cff71d5ff|Hspell:294009:0|h[Mind Sear]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			751, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1558666852,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"Interrupted Tentacled Voidpriest's |cff71d5ff|Hspell:294063:0|h[Void Bolt]|h|r!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			758, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558666908,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"Interrupted Shadowy Appendage's |cff71d5ff|Hspell:294009:0|h[Mind Sear]|h|r!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			760, -- [11]
-			"Player-9-0361ED90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1558666940,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Interrupted Tentacled Voidpriest's |cff71d5ff|Hspell:294063:0|h[Void Bolt]|h|r!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			763, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1558666960,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"Interrupted Tentacled Voidpriest's |cff71d5ff|Hspell:294063:0|h[Void Bolt]|h|r!", -- [1]
-			"Hetril-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hetril-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			765, -- [11]
-			"Player-9-07CD89ED", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Hetril|r",
-			[51] = 1558666974,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
 		{
 			"Interrupted Shadowy Appendage's |cff71d5ff|Hspell:294009:0|h[Mind Sear]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -198,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558666976,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
+		}, -- [1]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -220,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558666988,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Orcbum!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -242,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667041,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Orcbum!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -264,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667041,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
+		}, -- [4]
 		{
 			"Not Well Fed (6): Dawnzo, Drift, Dualyzm, Khelikloth, Ngow, Tosh", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -286,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667250,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
+		}, -- [5]
 		{
 			"No Flask (8): Dawnzo, Drift, Dualyzm, Emosong, Ngow, Sonaris, Tosh, Voidamental", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -308,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
+		}, -- [6]
 		{
 			"No Augment Rune (17): Aspbringr, Aznbabygirl, Dawnzo, Dolclemits, Drift, Dualyzm, Emosong, Hetril, Khelikloth, Ngow, Orcbum, Renewal, Sonaris, Thunderzmonk, Tosh, Voidamental, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -330,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [7]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -352,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
+		}, -- [8]
 		{
 			"oRA3> Not Well Fed, No Flask, No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -374,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667251,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [16]
+		}, -- [9]
 		{
 			"summon stone", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -396,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667264,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [10]
 		{
 			"The following players are Not Ready: Sonaris", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -418,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667265,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [11]
 		{
 			"that druid is a dummy", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -440,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667268,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [12]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8980:Player-9-0B3A2372:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Stamp Stamp Revolution]|h|r!", -- [1]
 			"Hrothypoo-Kil'jaeden", -- [2]
@@ -462,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hrothypoo|r",
 			[51] = 1558667288,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [20]
+		}, -- [13]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8980:Player-9-07FA200B:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Stamp Stamp Revolution]|h|r!", -- [1]
 			"Kegbutt-Kil'jaeden", -- [2]
@@ -484,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Kegbutt|r",
 			[51] = 1558667288,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
+		}, -- [14]
 		{
 			"Aspbringr placing a |cff71d5ff|Hspell:276972:0|h[Mystical Cauldron]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -506,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667294,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [15]
 		{
 			"Aspbringr placing a |cff71d5ff|Hspell:276972:0|h[Mystical Cauldron]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -528,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667294,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [16]
 		{
 			"Aspbringr placing a |cff71d5ff|Hspell:276972:0|h[Mystical Cauldron]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -550,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667312,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [17]
 		{
 			"Aspbringr placing a |cff71d5ff|Hspell:276972:0|h[Mystical Cauldron]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -572,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667312,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
+		}, -- [18]
 		{
 			"No Flask (1): Emosong", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -594,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667332,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
+		}, -- [19]
 		{
 			"No Augment Rune (17): Aspbringr, Aznbabygirl, Dawnzo, Dolclemits, Drift, Dualyzm, Emosong, Hetril, Khelikloth, Ngow, Orcbum, Renewal, Sonaris, Thunderzmonk, Tosh, Voidamental, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -616,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667332,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [20]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -638,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667332,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
+		}, -- [21]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -660,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667332,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [29]
+		}, -- [22]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -682,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667357,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [23]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -704,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667426,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -726,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [25]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:638:Player-9-0B47F8CC:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Uldaman]|h|r!", -- [1]
 			"Quinone-Kil'jaeden", -- [2]
@@ -748,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeQuinone|r",
 			[51] = 1558667467,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [33]
+		}, -- [26]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10:Player-9-0B47F8CC:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Level 50]|h|r!", -- [1]
 			"Quinone-Kil'jaeden", -- [2]
@@ -770,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeQuinone|r",
 			[51] = 1558667467,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [27]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -792,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667496,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [28]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -814,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667512,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [29]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -836,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667512,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [30]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -858,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667517,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [31]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -880,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667534,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [32]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -902,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667558,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [33]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -924,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [34]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -946,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667575,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [35]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -968,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558667589,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [36]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -990,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667605,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [37]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1012,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667652,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [38]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1034,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558667657,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [39]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1056,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667661,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [40]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1078,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667682,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [41]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1100,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667694,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [42]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1122,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558667701,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [43]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1144,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667707,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [44]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1166,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558667709,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [45]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1188,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558667710,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [46]
 		{
 			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Hetril!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1210,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667714,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [47]
 		{
 			"Successfully resurrected You!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1232,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667715,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [48]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1254,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558667716,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r cast on Tosh!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1276,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667719,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r on Tosh ended!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1298,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667731,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [51]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1320,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667786,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [52]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1342,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667826,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1364,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667826,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [54]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1386,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667832,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [55]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1408,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558667838,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [56]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1430,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667839,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [57]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1452,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558667870,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [58]
 		{
 			"Not Well Fed (2): Dolclemits, Ngow", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1474,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [59]
 		{
 			"No Augment Rune (16): Aspbringr, Aznbabygirl, Dawnzo, Dolclemits, Drift, Dualyzm, Hetril, Khelikloth, Ngow, Orcbum, Renewal, Sonaris, Thunderzmonk, Tosh, Voidamental, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1496,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [60]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1518,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [61]
 		{
 			"oRA3> No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1540,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668028,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [69]
+		}, -- [62]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1562,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668044,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [63]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1584,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668057,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [64]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1606,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668111,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [65]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10561:Player-9-0B68E20F:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Honorable Medallion]|h|r!", -- [1]
 			"Melnarth-Kil'jaeden", -- [2]
@@ -1628,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Melnarth|r",
 			[51] = 1558668182,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [66]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1650,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668193,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [67]
 		{
 			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Hetril!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1672,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668208,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [68]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1694,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558668209,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [69]
 		{
 			"Successfully resurrected You!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1716,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668209,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [70]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1738,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [71]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1760,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558668264,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [72]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1782,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558668271,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [73]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1804,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558668276,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [74]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1826,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558668279,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [75]
 		{
 			"Click this to help me summon!", -- [1]
 			"Dualyzm-Area52", -- [2]
@@ -1848,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDualyzm-Area52|r",
 			[51] = 1558668356,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [76]
 		{
 			"Lockstones here!", -- [1]
 			"Dualyzm-Area52", -- [2]
@@ -1870,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDualyzm-Area52|r",
 			[51] = 1558668384,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [77]
 		{
 			"Not Well Fed (15): Aspbringr, Dawnzo, Dolclemits, Drift, Dualyzm, Emosong, Hetril, Khelikloth, Ngow, Orcbum, Renewal, Thunderzmonk, Tosh, Voidamental, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1892,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668441,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [78]
 		{
 			"No Augment Rune (19): Aspbringr, Aznbabygirl, Circé, Dawnzo, Dolclemits, Drift, Dualyzm, Emosong, Hetril, Khelikloth, Merkyaa, Ngow, Orcbum, Renewal, Sonaris, Thunderzmonk, Tosh, Voidamental, Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1914,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668441,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [79]
 		{
 			"Missing Buffs (1): Intellect", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1936,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668441,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [80]
 		{
 			"oRA3> Not Well Fed, No Augment Rune", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1958,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668441,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [88]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Orcbum!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1980,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668443,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Orcbum!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -2002,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558668443,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [83]
 		{
 			"The following players are Away: Zombiemonk", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2024,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668477,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [84]
 		{
 			"The following players are Not Ready: Khelikloth", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2046,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668477,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [85]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2068,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668496,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [86]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2090,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [87]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2112,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668563,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [88]
 		{
 			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Primordial Mindbender Consume Essence!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2134,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668630,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [89]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2156,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558668639,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [90]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2178,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668643,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [91]
 		{
 			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r cast on Tosh!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2200,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [92]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2222,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668647,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [93]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:4980:Player-9-0B68E20F:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Stonetalon Mountains Quests]|h|r!", -- [1]
 			"Melnarth-Kil'jaeden", -- [2]
@@ -2244,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Melnarth|r",
 			[51] = 1558668649,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [101]
+		}, -- [94]
 		{
 			"|cff71d5ff|Hspell:29166:0|h[Innervate]|h|r on Tosh ended!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2266,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [95]
 		{
 			"Interrupted Primordial Mindbender's |cff71d5ff|Hspell:285427:0|h[Consume Essence]|h|r!", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2288,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1558668692,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [96]
 		{
 			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Primordial Mindbender Consume Essence!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2310,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668695,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [97]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2332,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668699,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [98]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2354,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [99]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10027:Player-9-0B3A2372:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Hellfire Assault]|h|r!", -- [1]
 			"Hrothypoo-Kil'jaeden", -- [2]
@@ -2376,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hrothypoo|r",
 			[51] = 1558668824,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [107]
+		}, -- [100]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10027:Player-9-07FA200B:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Hellfire Assault]|h|r!", -- [1]
 			"Kegbutt-Kil'jaeden", -- [2]
@@ -2398,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Kegbutt|r",
 			[51] = 1558668824,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [108]
+		}, -- [101]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10026:Player-9-07FA200B:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Nearly Indestructible]|h|r!", -- [1]
 			"Kegbutt-Kil'jaeden", -- [2]
@@ -2420,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Kegbutt|r",
 			[51] = 1558668824,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [109]
+		}, -- [102]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10026:Player-9-0B3A2372:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Nearly Indestructible]|h|r!", -- [1]
 			"Hrothypoo-Kil'jaeden", -- [2]
@@ -2442,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hrothypoo|r",
 			[51] = 1558668824,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [110]
+		}, -- [103]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2464,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [104]
 		{
 			"Leech on Circé", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2486,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1558668872,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [105]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10032:Player-9-0B3A2372:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Iron Reaver]|h|r!", -- [1]
 			"Hrothypoo-Kil'jaeden", -- [2]
@@ -2508,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hrothypoo|r",
 			[51] = 1558668884,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [113]
+		}, -- [106]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10032:Player-9-07FA200B:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Iron Reaver]|h|r!", -- [1]
 			"Kegbutt-Kil'jaeden", -- [2]
@@ -2530,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Kegbutt|r",
 			[51] = 1558668884,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [114]
+		}, -- [107]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Uu'nat {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2552,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1558668900,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [108]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13418:Player-9-026CC87F:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r!", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2574,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [116]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13418:Player-9-099A8185:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2596,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [117]
+		}, -- [110]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13414:Player-9-0B247D8E:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Crucible of Storms]|h|r!", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2618,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [118]
+		}, -- [111]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13418:Player-9-0B247D8E:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r!", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2640,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [119]
+		}, -- [112]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13418:Player-9-0AD377F5:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r!", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -2662,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [120]
+		}, -- [113]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13418:Player-9-07CD89ED:1:5:23:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r!", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -2684,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hetril|r",
 			[51] = 1558668905,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [114]
 		{
 			"what was that grip for >.>", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2706,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558668930,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [122]
+		}, -- [115]
 		{
 			"to get in barbados's circle", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2728,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558668943,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [123]
+		}, -- [116]
 		{
 			"I thought i was gonna heal the boss yikes", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2750,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558668957,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [124]
+		}, -- [117]
 		{
 			"he needed 1 more w/ sliver", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2772,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558668962,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [125]
+		}, -- [118]
 		{
 			"yeah, I pulled right before that came out", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -2794,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1558668966,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [126]
+		}, -- [119]
 		{
 			"Thanks guys was fun", -- [1]
 			"Dualyzm-Area52", -- [2]
@@ -2816,6 +2662,165 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDualyzm-Area52|r",
 			[51] = 1558668993,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [120]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12559:Player-9-0B60C7FF:1:5:26:19:4294967295:4294967295:4294967295:4294967295|h[Explore Zuldazar]|h|r!", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			49, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1558904517,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [121]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558905639,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"I told jess Cada said something cringe to the new girl", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			false, -- [12]
+			27, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1558918361,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [123]
+		{
+			"and she literally", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			false, -- [12]
+			27, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1558918365,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [124]
+		{
+			"RAN", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			false, -- [12]
+			27, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1558918366,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [125]
+		{
+			"to her computer", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5, -- [11]
+			false, -- [12]
+			27, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1558918368,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [126]
+		{
+			"ROFL", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			false, -- [12]
+			27, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Envious|r",
+			[51] = 1558918393,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [127]
 	},
 }

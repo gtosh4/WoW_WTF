@@ -24,2030 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"we griefed his trinket too much so he left", -- [1]
-			"Andrewzz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andrewzz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-9-0B1A3B9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Andrewzz|r",
-			[51] = 1557972610,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"actually true", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fridaa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557972616,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"^", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-9-0B268E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1557972619,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"so true", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Goredamm-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557972619,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"sounds about right", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557972622,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"I was there getting mine griefed", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-9-0B268E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1557972627,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"can confirm", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-9-0B268E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1557972637,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"Shroud Active", -- [1]
-			"Andrewzz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andrewzz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-9-0B1A3B9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Andrewzz|r",
-			[51] = 1557972651,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Anguskhán-Thrall", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Anguskhán-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			276, -- [11]
-			"Player-3678-0ACFD632", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAnguskhán-Thrall|r",
-			[51] = 1557972785,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Anguskhán-Thrall", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Anguskhán-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			277, -- [11]
-			"Player-3678-0ACFD632", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAnguskhán-Thrall|r",
-			[51] = 1557972786,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"Hi friends. Can't wait for classic ", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			290, -- [11]
-			"Player-9-0AF1840D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1557973012,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"Coin Shower on Toshmonk", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1557973020,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [12]
-		{
-			"3", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			299, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1557973027,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [13]
-		{
-			"2", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			303, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1557973028,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [14]
-		{
-			"1", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			305, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1557973029,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [15]
-		{
-			"I was wonderin if you were lost :P", -- [1]
-			"Kada-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			314, -- [11]
-			"Player-9-0ACAF6F2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kada|r",
-			[51] = 1557973046,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
-		{
-			"Uh", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			317, -- [11]
-			"Player-9-0AF1840D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1557973051,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
-		{
-			"I need a token so I can buy anduin on HoTs", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			322, -- [11]
-			"Player-9-0AF1840D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1557973057,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
-		{
-			"Liquid Gold on Toshmonk", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1557973062,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"brb", -- [1]
-			"Spriestess-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Spriestess-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			342, -- [11]
-			"Player-57-0B4CA3D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSpriestess-Illidan|r",
-			[51] = 1557973084,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"hi bailey", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			343, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973087,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
-		{
-			"rayne and nwk", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			344, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973087,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
-		{
-			"both right next to boss", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			345, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973092,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
-		{
-			"lol", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			346, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973092,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
-		{
-			"wut", -- [1]
-			"Voidzeal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			348, -- [11]
-			"Player-9-0B63FD6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Voidzeal|r",
-			[51] = 1557973101,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
-		{
-			":/", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			349, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973101,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			350, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557973101,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"All you can eat buttfet!", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			351, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973107,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"how does he not know both sides", -- [1]
-			"Voidzeal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			352, -- [11]
-			"Player-9-0B63FD6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Voidzeal|r",
-			[51] = 1557973109,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
-		{
-			"I spawned into a volatile charge and flames", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			353, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973111,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"remember when hail was pumping", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			354, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973112,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
-		{
-			"to the STAIRS", -- [1]
-			"Raynecaller-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Raynecaller-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			355, -- [11]
-			"Player-61-0BB6C95C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRaynecaller-Zul'jin|r",
-			[51] = 1557973114,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
-			"moved and instantly died", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			356, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973119,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			357, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557973121,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Mmk me go play hots. ily all, wreck bosses... Cya this weekend", -- [1]
-			"Bailey-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			358, -- [11]
-			"Player-9-0AF1840D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bailey|r",
-			[51] = 1557973121,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
-		{
-			"don't move", -- [1]
-			"Raynecaller-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Raynecaller-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			360, -- [11]
-			"Player-61-0BB6C95C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRaynecaller-Zul'jin|r",
-			[51] = 1557973124,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
-		{
-			"Ate it like grocery.", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			361, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973127,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"when you get swapped dont' move", -- [1]
-			"Raynecaller-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Raynecaller-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-61-0BB6C95C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRaynecaller-Zul'jin|r",
-			[51] = 1557973131,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
-		{
-			"had to", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			363, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973132,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
-		{
-			"no you don't", -- [1]
-			"Raynecaller-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Raynecaller-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			364, -- [11]
-			"Player-61-0BB6C95C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRaynecaller-Zul'jin|r",
-			[51] = 1557973137,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
-		{
-			"you take zero dmg", -- [1]
-			"Raynecaller-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Raynecaller-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			365, -- [11]
-			"Player-61-0BB6C95C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRaynecaller-Zul'jin|r",
-			[51] = 1557973139,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
-		{
-			"2 seconds left on immunity", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973141,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
-		{
-			"standing in charge", -- [1]
-			"Andreea-Silvermoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andreea-Silvermoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			367, -- [11]
-			"Player-86-084C9CCD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeAndreea-Silvermoon|r",
-			[51] = 1557973146,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
-		{
-			"maybe", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			369, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973216,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
-		{
-			"Shroud Active", -- [1]
-			"Andrewzz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andrewzz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-9-0B1A3B9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Andrewzz|r",
-			[51] = 1557973217,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
-		{
-			"sprist on wrong side", -- [1]
-			"Kerbsgates-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kerbsgates-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-3684-0A295BD7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecKerbsgates-Mal'Ganis|r",
-			[51] = 1557973217,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
-		{
-			"if this pally cant do a circle", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			372, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973221,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9207:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Goren Invasion]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			376, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [48]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9162:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Bronze Defender]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			377, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9164:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Silver Defender]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			378, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9165:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Golden Defender]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			379, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [51]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9826:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Platinum Defender]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			380, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [52]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9152:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[It's an Invasion!]|h|r!", -- [1]
-			"Daiyzed-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzed-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			381, -- [11]
-			"Player-9-0B363945", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Daiyzed|r",
-			[51] = 1557973265,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [53]
-		{
-			"??", -- [1]
-			"Kerbsgates-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kerbsgates-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			382, -- [11]
-			"Player-3684-0A295BD7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecKerbsgates-Mal'Ganis|r",
-			[51] = 1557973287,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
-		{
-			"yikes", -- [1]
-			"Nwk-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nwk-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			384, -- [11]
-			"Player-11-0AA19EAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Nwk-Tichondrius|r",
-			[51] = 1557973323,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
-		{
-			"maybe swap this pally back", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			385, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973325,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
-		{
-			"to the other sidfe", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			386, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973327,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
-		{
-			"idk", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			387, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973328,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
-		{
-			"he was PUMPIN on that side", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			392, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973338,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
-		{
-			"this guy smh", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			397, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973345,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
-		{
-			"that weakaura is sick", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			398, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973353,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
-		{
-			"how am I supposed to know whats going in if nobody is streaming thissss", -- [1]
-			"Kada-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			399, -- [11]
-			"Player-9-0ACAF6F2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kada|r",
-			[51] = 1557973353,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
-		{
-			"just autoreleases me", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			400, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973357,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
-		{
-			"xD", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			401, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973358,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
-		{
-			"i can start i suppose", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			402, -- [11]
-			"Player-9-0B268E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1557973365,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
-		{
-			"its so good cada", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			403, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973373,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			405, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557973379,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"All you can eat buttfet!", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			406, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973380,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"the same guy dies to flames every time", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			407, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973381,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			408, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557973398,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"Ate it like grocery.", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			409, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"it's up cada", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			411, -- [11]
-			"Player-9-0B268E56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1557973421,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
-		{
-			"Shroud Active", -- [1]
-			"Andrewzz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andrewzz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			412, -- [11]
-			"Player-9-0B1A3B9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Andrewzz|r",
-			[51] = 1557973424,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
-		{
-			"Opulence is da goat ", -- [1]
-			"Nwk-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nwk-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			421, -- [11]
-			"Player-11-0AA19EAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Nwk-Tichondrius|r",
-			[51] = 1557973553,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
-		{
-			"wtf", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			422, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973554,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
-		{
-			"happen", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			423, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973555,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
-		{
-			"how much longer are we doi this", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			424, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973556,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
-		{
-			"you think", -- [1]
-			"Goredamm-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			425, -- [11]
-			"Player-9-0B53C813", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cGoredamm|r",
-			[51] = 1557973558,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
-		{
-			"Jamie Jihaded ", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			427, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1557973565,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
-		{
-			"literally", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			428, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973569,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
-		{
-			"dashe", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			429, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973570,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
-		{
-			"youre stuck, oreo", -- [1]
-			"Kada-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-9-0ACAF6F2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kada|r",
-			[51] = 1557973570,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
-		{
-			"bc i saw noone there", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			431, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973573,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
-		{
-			"xD", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			432, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1557973573,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
-		{
-			"welcome back", -- [1]
-			"Kada-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			433, -- [11]
-			"Player-9-0ACAF6F2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kada|r",
-			[51] = 1557973573,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
-		{
-			"johnny was that you with the beam in last room?", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			434, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973574,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
-		{
-			"God bless. ", -- [1]
-			"Spriestess-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Spriestess-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			436, -- [11]
-			"Player-57-0B4CA3D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSpriestess-Illidan|r",
-			[51] = 1557973577,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
-		{
-			"was a sick fel rush", -- [1]
-			"Fridaa-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			437, -- [11]
-			"Player-9-0B4D41A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFridaa|r",
-			[51] = 1557973580,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
-		{
-			"yea", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			438, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1557973586,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
-		{
-			"was wheelchairing over", -- [1]
-			"Voidzeal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			439, -- [11]
-			"Player-9-0B63FD6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Voidzeal|r",
-			[51] = 1557973586,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
-		{
-			"and made a friend", -- [1]
-			"Voidzeal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			440, -- [11]
-			"Player-9-0B63FD6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Voidzeal|r",
-			[51] = 1557973590,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
-		{
-			"[WeakAuras: Kerbsgates-Mal'Ganis - Opulence Releaser]", -- [1]
-			"Kerbsgates-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kerbsgates-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			441, -- [11]
-			"Player-3684-0A295BD7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecKerbsgates-Mal'Ganis|r",
-			[51] = 1557973590,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
-		{
 			"i fel rush to get behind the flames", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -2068,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1557973591,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [1]
 		{
 			"EnRT: I am ready now!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2090,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1557973594,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [2]
 		{
 			"???", -- [1]
 			"Spriestess-Illidan", -- [2]
@@ -2112,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpriestess-Illidan|r",
 			[51] = 1557973594,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [3]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2134,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1557973600,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [4]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Voidzeal-Kil'jaeden", -- [2]
@@ -2156,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Voidzeal|r",
 			[51] = 1557973602,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [5]
 		{
 			"All you can eat buttfet!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2178,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1557973606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [6]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2200,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1557973613,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [7]
 		{
 			"I'm ready to duel. ", -- [1]
 			"Spriestess-Illidan", -- [2]
@@ -2222,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpriestess-Illidan|r",
 			[51] = 1557973626,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [8]
 		{
 			"I'll banish you to the shadow realm ", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2244,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1557973645,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [9]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2266,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1557973652,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [10]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:10082:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Grimrail Depot]|h|r!", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2288,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1557973757,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [103]
+		}, -- [11]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9043:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Grimrail Depot]|h|r!", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2310,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1557973758,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [104]
+		}, -- [12]
 		{
 			"Hex of Lethargy on Hailthelight", -- [1]
 			"Hailthelight-MoonGuard", -- [2]
@@ -2332,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hailthelight-MoonGuard|r",
 			[51] = 1557973795,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [13]
 		{
 			"Yeah...", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2354,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1557973830,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [14]
 		{
 			"same", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2376,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557973843,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [15]
 		{
 			"lmao", -- [1]
 			"Spriestess-Illidan", -- [2]
@@ -2398,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSpriestess-Illidan|r",
 			[51] = 1557973847,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [16]
 		{
 			"HI BARBIE", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2420,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1557973985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [17]
 		{
 			"o hi", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2442,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557974000,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [18]
 		{
 			"just came back", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2464,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557974001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [19]
 		{
 			"LFM HEROIC COS", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2486,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1557974033,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [20]
 		{
 			"LAST BOSS ONLY", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2508,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1557974035,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [21]
 		{
 			"innvvv", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2530,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1557974063,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [22]
 		{
 			"they updated Outland map..", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2552,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557974378,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [23]
 		{
 			"has anyone noticed?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2574,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557974382,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [24]
 		{
 			"tf", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2596,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557974384,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [25]
 		{
 			"omg i was really looking to that", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2618,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1557974417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [26]
 		{
 			"looking forward even", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2640,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1557974423,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [27]
 		{
 			"its totally updated right?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2662,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557974436,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [28]
 		{
 			"im not crazy?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2684,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1557974439,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [29]
 		{
 			"holy shit", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2706,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557974789,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [30]
 		{
 			"that guys voice", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2728,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557974790,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [31]
 		{
 			"literally thunderz's dad", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -2750,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1557974795,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [32]
 		{
 			"LOL", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2772,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557974796,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [33]
 		{
 			"thunderz great grandpapi", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2794,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1557974805,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [34]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9099:Player-9-0B363945:1:5:15:19:4294967295:4294967295:4294967295:4294967295|h[Time for an Upgrade]|h|r!", -- [1]
 			"Daiyzed-Kil'jaeden", -- [2]
@@ -2816,6 +792,2030 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Daiyzed|r",
 			[51] = 1557975625,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [35]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			151, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558924789,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			225, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558924911,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558924971,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			278, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558924995,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925092,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925153,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			401, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558925175,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			460, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925274,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			497, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925334,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			514, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558925360,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			571, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			609, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925516,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"Selling Mythic+10 Carry for Gold PST for more Info!", -- [1]
+			"Rokaska-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rokaska-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			618, -- [11]
+			"Player-9-0B44576D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cRokaska|r",
+			[51] = 1558925531,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			625, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558925540,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"Selling Mythic+10 Carry for Gold PST for more Info!", -- [1]
+			"Rokaska-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rokaska-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			641, -- [11]
+			"Player-9-0B44576D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cRokaska|r",
+			[51] = 1558925557,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [50]
+		{
+			"Selling Mythic+10 Carry for Gold PST for more Info!", -- [1]
+			"Rokaska-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Rokaska-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			677, -- [11]
+			"Player-9-0B44576D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cRokaska|r",
+			[51] = 1558925617,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [51]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			690, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925637,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [52]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			726, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925698,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			744, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558925724,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
+		{
+			"Temporary Insanity (6/9 M) is looking for Core Raiders to fill out the roster. All roles will be considered, with a high need on Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekophiliac-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekophiliac-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			795, -- [11]
+			"Player-9-0B1E8BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nekophiliac|r",
+			[51] = 1558925809,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			803, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925819,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			840, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558925880,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			855, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558925904,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"Temporary Insanity (6/9 M) is looking for Core Raiders to fill out the roster. All roles will be considered, with a high need on Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekophiliac-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekophiliac-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			905, -- [11]
+			"Player-9-0B1E8BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nekophiliac|r",
+			[51] = 1558925985,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			915, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926001,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			954, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926061,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			970, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926089,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"Temporary Insanity (6/9 M) is looking for Core Raiders to fill out the roster. All roles will be considered, with a high need on Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekophiliac-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekophiliac-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			977, -- [11]
+			"Player-9-0B1E8BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nekophiliac|r",
+			[51] = 1558926098,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1028, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926182,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1052, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926243,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1055, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926269,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1057, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926364,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1058, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926424,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"|cffa335ee|Hitem:159325::::::::120:269::35:3:5010:1597:4784:::|h[Bloodfeaster Belt]|h|r|cffa335ee|Hitem:159300::::::::120:269::16:4:5010:40:1592:4784:::|h[Kula's Butchering Wristwraps]|h|r last 2 days lol", -- [1]
+			"Stealchi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1059, -- [11]
+			"Player-9-0B670799", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Stealchi|r",
+			[51] = 1558926438,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [69]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1060, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926453,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1061, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926546,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"Temporary Insanity (6/9 M) is looking for Core Raiders to fill out the roster. All roles will be considered, with a high need on Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekophiliac-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekophiliac-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1063, -- [11]
+			"Player-9-0B1E8BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nekophiliac|r",
+			[51] = 1558926567,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1066, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926606,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1068, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926633,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1073, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926728,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1076, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926789,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"Temporary Insanity (6/9 M) is looking for Core Raiders to fill out the roster. All roles will be considered, with a high need on Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekophiliac-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekophiliac-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1077, -- [11]
+			"Player-9-0B1E8BA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nekophiliac|r",
+			[51] = 1558926805,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1078, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926818,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1080, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926910,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1082, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558926971,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1091, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558926998,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1133, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927093,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"Free 10+ Carries - follow and watch at www.twitch.tv/kingcole0102 - wait for the raffle to begin. Small stream channels o far so chances are high youll win the raffle. IL 412 Pally tank 1.2k IO. ", -- [1]
+			"Dopeishflo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Dopeishflo-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1139, -- [11]
+			"Player-9-0AD61F8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Dopeishflo|r",
+			[51] = 1558927178,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"<Intent> 9/9M BoD Fri/Sat 9pm-1am PST is currently recruiting 1 tank, healers, and all exceptional DPS with 5/9m and 410 ilvl minimum. PST for more info!", -- [1]
+			"Mynamekorn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Mynamekorn-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1141, -- [11]
+			"Player-9-0B5D0E33", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Mynamekorn|r",
+			[51] = 1558927230,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"Free 10+ Carries - follow and watch at www.twitch.tv/kingcole0102 - wait for the raffle to begin. Small stream channels o far so chances are high youll win the raffle. IL 412 Pally tank 1.2k IO. ", -- [1]
+			"Dopeishflo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Dopeishflo-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1142, -- [11]
+			"Player-9-0AD61F8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Dopeishflo|r",
+			[51] = 1558927273,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"Free 10+ Carries - follow and watch at www.twitch.tv/kingcole0102 - wait for the raffle to begin. Small stream channels o far so chances are high youll win the raffle. IL 412 Pally tank 1.2k IO. ", -- [1]
+			"Dopeishflo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Dopeishflo-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1145, -- [11]
+			"Player-9-0AD61F8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Dopeishflo|r",
+			[51] = 1558927319,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1148, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927336,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"Free 10+ Carries - follow and watch at www.twitch.tv/kingcole0102 - wait for the raffle to begin. Small stream channels o far so chances are high youll win the raffle. IL 412 Pally tank 1.2k IO. ", -- [1]
+			"Dopeishflo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Dopeishflo-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1152, -- [11]
+			"Player-9-0AD61F8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Dopeishflo|r",
+			[51] = 1558927436,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1154, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927458,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"WTTTF", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1155, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1558927495,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"nice", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1156, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1558927499,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1157, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927518,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1158, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558927547,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTS |cffa335ee|Hitem:90655::::::::120:70::::::|h[Reins of the Thundering Ruby Cloud Serpent]|h|r", -- [1]
+			"Morrir-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Morrir-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1159, -- [11]
+			"Player-9-0AC4D2FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Morrir|r",
+			[51] = 1558927572,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1164, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927640,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1167, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927701,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1169, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558927727,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"Skada: Healing for Lady Jaina Proudmoore: 20:18 (10 Min 33 Sec):", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1173, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927770,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			" 1. Sinmon   16.76M (26.6K, 27.9%)", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1174, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927771,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			" 3. Gâinsborough   9.34M (14.8K, 15.5%)", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1175, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927771,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			" 2. Ânûbís   10.14M (16.1K, 16.9%)", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1176, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927771,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			"I still got it O.O", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1177, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927780,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"yooo nice", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1178, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1558927794,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"mythic?", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1179, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1558927797,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1183, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927823,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"next week :P", -- [1]
+			"Sinmon-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1184, -- [11]
+			"Player-9-0B3174F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSinmon|r",
+			[51] = 1558927829,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1186, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558927883,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1187, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558927911,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1190, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928005,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1193, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928066,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1195, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558928091,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1197, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928187,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1198, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928248,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1199, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558928276,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1201, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928370,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1202, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928430,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1717:Player-9-0AE8C06E:1:5:26:19:4294967295:4294967295:4294967295:4294967295|h[Wintergrasp Victory]|h|r!", -- [1]
+			"Verceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Verceus-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1203, -- [11]
+			"Player-9-0AE8C06E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Verceus|r",
+			[51] = 1558928445,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [117]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1755:Player-9-0AE8C06E:1:5:26:19:4294967295:4294967295:4294967295:4294967295|h[Within Our Grasp]|h|r!", -- [1]
+			"Verceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Verceus-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1204, -- [11]
+			"Player-9-0AE8C06E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Verceus|r",
+			[51] = 1558928445,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [118]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1205, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558928456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1206, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928552,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1207, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928612,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1208, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558928640,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1214, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928734,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"<Disambiguation>  9/9M BoD, CE Uldir, is looking for exceptional healers and DPS as we look toward 8.2 mythic raiding. Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
+			"Alexithymìa-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Alexithymìa-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1216, -- [11]
+			"Player-9-0A35DEB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Alexithymìa|r",
+			[51] = 1558928779,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1217, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928794,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Ncherynd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Ncherynd-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1218, -- [11]
+			"Player-9-0B6978D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcNcherynd|r",
+			[51] = 1558928820,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
+			"Arterai-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Arterai-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1222, -- [11]
+			"Player-9-0B677A74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Arterai|r",
+			[51] = 1558928916,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

@@ -10,12 +10,12 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1557971017,
-				["lastVisitDate"] = "2019/05/15 21:43",
+				["lastUpdate"] = 1558924683,
+				["lastVisitDate"] = "2019/05/26 22:38",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1558668998,
-				["lastVisitDate"] = "2019/05/23 23:36",
+				["lastUpdate"] = 1558918475,
+				["lastVisitDate"] = "2019/05/26 20:54",
 			},
 		},
 	},
