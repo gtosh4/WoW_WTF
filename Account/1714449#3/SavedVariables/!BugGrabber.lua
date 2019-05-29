@@ -1,28 +1,57 @@
 
 BugGrabberDB = {
-	["session"] = 746,
 	["lastSanitation"] = 3,
+	["session"] = 753,
 	["errors"] = {
 		{
-			["message"] = "...ace\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:451: attempt to index global 'reverseCleanupBags' (a nil value)",
-			["time"] = "2019/05/26 16:53:07",
-			["locals"] = "addonName = \"AdvancedInterfaceOptions\"\naddon = <table> {\n SetCVar = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:157\n combatProtected = <table> {\n }\n DontRecordCVar = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:138\n CreateListFrame = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\semlib\\widgets.lua:192\n CreateString = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\semlib\\widgets.lua:3\n CreateDropdown = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\semlib\\widgets.lua:483\n Eve = <table> {\n }\n CreateInput = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\semlib\\widgets.lua:403\n hiddenOptions = <table> {\n }\n RecordCVar = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:110\n}\nE = <table> {\n VARIABLES_LOADED = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:45\n ADDON_LOADED = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:53\n Init = <function> defined @Interface\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:75\n}\n_G = <table> {\n UpdateOnBarHighlightMarksBySpell = <function> defined @Interface\\FrameXML\\ActionButton.lua:74\n ERR_OUT_OF_CHI = \"Not enough chi\"\n DH_HAVOC_CORE_ABILITY_2 = \"Strong melee attack that consumes Fury. If it critical strikes, some Fury is refunded.\"\n MultiCastActionButton6Cooldown = MultiCastActionButton6Cooldown {\n }\n MerchantItem9ItemButtonStock = MerchantItem9ItemButtonStock {\n }\n GetTrainerServiceTypeFilter = <function> defined =[C]:-1\n UNIT_NAMES_COMBATLOG_TOOLTIP = \"Color unit names.\"\n SetTrainerServiceTypeFilter = <function> defined =[C]:-1\n LE_GAME_ERR_CHAT_RAID_RESTRICTED_TRIAL = 740\n SPELL_FAILED_CUSTOM_ERROR_71 = \"This partygoer wants to dance with you.\"\n LE_GAME_ERR_PET_SPELL_TARGETS_DEAD = 398\n ERROR_CLUB_TICKET_COUNT_AT_MAX_COMMUNITY = \"Can't create any more invite links for this community.\"\n RecruitAFriendFrame = RecruitAFriendFrame {\n }\n TutorialFrameLeft19 = TutorialFrameLeft19 {\n }\n MultiCastActionButton2Cooldown = MultiCastActionButton2Cooldown {\n }\n ERR_TRADE_EQUIPPED_BAG = \"You can't trade equipped bags.\"\n PVP_RANK_6_1 = \"Corporal\"\n BOOKTYPE_PROFESSION = \"professions\"\n AudioOptionsVoicePanelOutputDeviceDropdownButtonHighlightTexture = AudioOptionsVoicePanelOutputDeviceDropdownButtonHighlightTexture {\n }\n VideoOptionsFrameCategoryFrameButton17ToggleHighlightTexture = VideoOptionsFrameCategoryFrameButton17ToggleHighlightTexture {\n }\n MerchantItem1AltCurrencyFrameItem1Text = MerchantItem1AltCurrencyFrameItem1Text {\n }\n OPTION_TOOLTIP_ACTION_BUTTON_USE_KEY_DOWN = \"Action button keybinds will respond on key down, rather than on key up.\"\n BINDING_NAME_NAMEPLATES = \"Show Enemy Name Plates\"\n INSTANCE_UNAVAILABLE_OTHER_TEMPORARILY_DISABLED = \"%s cannot enter. This instance is temporarily disabled.\"\n MultiBarBottomRightButton8Shine5 = MultiBarBottomRightButton8Shine5 {\n }\n IsReferAFriendLinked = <function> defined =[C]:-1\n MAIL_LETTER_TOOLTIP = \"Click to make a permanent\ncopy of this letter.\"\n UnitFrameManaBar_UnregisterDefaultEvents = <function> defined @Interface\\FrameXML\\UnitFrame.lua:794\n PaperDollTitlesPaneButton10BgTop = PaperDollTitlesPaneButton10BgTop {\n }\n ERR_NOAMMO_S = \"%s\"\n CHAT_CONFIG_OTHER_COMBAT = <table> {\n }\n FCFDockOverflowButton_OnClick = <function> defined @Interface\\FrameXML\\FloatingChatFrame.lua:2372\n TutorialFrameRight19 = TutorialFrameRight19 {\n }\n ChatFrame6EditBoxFocusMid = ChatFrame6EditBoxFocusMid {\n }\n BN_UNABLE_TO_RESOLVE_NAME = \"Unable to whisper '%s'. Blizzard services may be unavailable.\"\n LE_GAME_ERR_RECRUIT_A_FRIEND_FAILED = 950\n CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight = CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight {\n }\n LFGTeleport = <function> defined =[C]:-1\n LE_GAME_ERR_ONLY_ONE_QUIVER = 32\n SpellButton6Cooldown = SpellButton6Cooldown {\n }\n ToggleEncounterJournal = <function> defined @Interface\\FrameXML\\UIParent.lua:910\n AdiBagsItemButton4IconQuestTexture = AdiBagsItemButton4IconQuestTexture {\n }\n LOSS_",
-			["stack"] = "...ace\\AddOns\\AdvancedInterfaceOptions\\basicOptions.lua:451: in main chunk",
-			["session"] = 746,
-			["counter"] = 3,
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:937: attempt to get length of field 'tabs' (a nil value)",
+			["time"] = "2019/05/28 23:07:49",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:937: in function `endEntry'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:337: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 751,
+			["counter"] = 20,
 		}, -- [1]
 		{
-			["message"] = "(null)",
-			["time"] = "2019/05/26 16:53:23",
-			["session"] = 746,
-			["counter"] = 9,
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/28 23:07:30",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: in function `startLooterList'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:917: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:781>",
+			["session"] = 752,
+			["counter"] = 2,
 		}, -- [2]
 		{
-			["message"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: attempt to index field 'CompactUnitFrameProfilesNewProfileDialog' (a nil value)",
-			["time"] = "2019/05/15 19:57:52",
-			["stack"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: in function <...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:37>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1346: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1327>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1387: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1386>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1626: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1944: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:213: in function <Interface\\AddOns\\ElvUI\\init.lua:212>",
-			["session"] = 746,
-			["counter"] = 11,
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/28 23:07:35",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: in function `createVoteWindow'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:53: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 752,
+			["counter"] = 3,
 		}, -- [3]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: attempt to get length of field 'tabs' (a nil value)",
+			["time"] = "2019/05/28 23:07:35",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: in function `getEntry'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:297: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 752,
+			["counter"] = 25,
+		}, -- [4]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: attempt to get length of field 'tabs' (a nil value)",
+			["time"] = "2019/05/29 00:08:28",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: in function `endTab'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:71: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 752,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/28 23:07:32",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: in function `drawLooters'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:684: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 752,
+			["counter"] = 107,
+		}, -- [6]
+		{
+			["message"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: attempt to index field 'CompactUnitFrameProfilesNewProfileDialog' (a nil value)",
+			["time"] = "2019/05/28 22:50:35",
+			["stack"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: in function <...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:37>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1346: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1327>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1387: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1386>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1626: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1944: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:213: in function <Interface\\AddOns\\ElvUI\\init.lua:212>",
+			["session"] = 753,
+			["counter"] = 3,
+		}, -- [7]
 	},
 }

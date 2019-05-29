@@ -14,9 +14,9 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1558923703,
+				["lastUpdate"] = 1559092326,
 				["Specializations"] = {
-					15209, -- [1]
+					5993, -- [1]
 					7065, -- [2]
 				},
 				["Class"] = "PALADIN",
@@ -28,12 +28,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PRIEST",
 			},
-			["Default.Frostwolf.Zallie"] = {
-				["lastUpdate"] = 1557430813,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1559087653,
 				["Specializations"] = {
-					0, -- [1]
+					7165, -- [1]
+					[4] = 6893,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556083143,
@@ -53,20 +54,19 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1558924761,
+				["lastUpdate"] = 1559084532,
 				["Specializations"] = {
 					10677, -- [1]
-					[3] = 8087,
+					[3] = 14014,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1558921078,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430813,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 6893,
+					0, -- [1]
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 		},
 	},

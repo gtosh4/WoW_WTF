@@ -2,7 +2,7 @@
 PawnOptions = {
 	["LastVersion"] = 2.0241,
 	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
-	["AutoSelectScales"] = true,
+	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
 	["LastKeybindingsSet"] = 1,
 }

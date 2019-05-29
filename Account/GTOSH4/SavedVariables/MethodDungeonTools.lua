@@ -64,7 +64,6 @@ MethodDungeonToolsDB = {
 					["objects"] = {
 					},
 					["week"] = 9,
-					["text"] = "Preset 6",
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -317,8 +316,7 @@ MethodDungeonToolsDB = {
 									15, -- [40]
 									1, -- [41]
 								},
-								[27] = {
-								},
+								["color"] = "228b22",
 								[23] = {
 									5, -- [1]
 									1, -- [2]
@@ -353,16 +351,17 @@ MethodDungeonToolsDB = {
 									29, -- [31]
 									31, -- [32]
 								},
-								["color"] = "228b22",
+								[27] = {
+								},
 							}, -- [1]
 						},
 					},
+					["text"] = "Preset 6",
 				}, -- [2]
 				{
 					["objects"] = {
 					},
 					["week"] = 3,
-					["text"] = "Preset 13",
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -616,6 +615,7 @@ MethodDungeonToolsDB = {
 							}, -- [1]
 						},
 					},
+					["text"] = "Preset 13",
 				}, -- [3]
 				{
 					["value"] = 0,

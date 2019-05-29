@@ -1,6 +1,5 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -8,16 +7,9 @@ BigWigs3DB = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Bosses_Grong Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
-				},
-			},
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -59,53 +51,16 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
-					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					[286988] = 1032951,
 				},
 			},
 		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Countdown"] = {
-						["BigWigs_Bosses_King Rastakhan"] = {
-							[285003] = "English: Overwatch: Zenyatta",
-							[287333] = "English: Overwatch: Reaper",
-						},
-						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-							[288374] = "English: Overwatch: WreckingBall",
-							[288345] = "English: Overwatch: Zenyatta",
-						},
-						["BigWigs_Bosses_High Tinker Mekkatorque"] = {
-							[282153] = "English: Overwatch: Torbjorn",
-							[282205] = "English: Overwatch: Ana",
-						},
-						["BigWigs_Bosses_The Restless Cabal"] = {
-							[282432] = "English: Overwatch: Ana",
-						},
-					},
-				},
-			},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Bosses_King Rastakhan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285003] = 1032439,
-					[287333] = 1032439,
-					["stages"] = 1032439,
-					[288449] = 2015479,
-				},
-			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Bosses_The Restless Cabal"] = {
 			["profiles"] = {
@@ -134,27 +89,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-			["profiles"] = {
-				["Default"] = {
-					[288345] = 1000183,
-					[288374] = 999671,
-				},
-			},
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
 					["fontSize"] = 14,
 					["visibleBarLimit"] = 20,
 					["BigWigsAnchor_width"] = 200.251571655273,
@@ -170,14 +108,12 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.9999809265137,
 					["fontSizeEmph"] = 14,
 					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
-					["emphasizeTime"] = 10,
-					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
-					["emphasizeMultiplier"] = 1,
 					["texture"] = "ElvUI Norm",
+					["outline"] = "OUTLINE",
+					["emphasizeMultiplier"] = 1,
+					["emphasizeTime"] = 10,
 				},
 			},
-		},
-		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -186,6 +122,69 @@ BigWigs3DB = {
 					["posy"] = 396.797916202297,
 					["fontName"] = "Friz Quadrata TT",
 					["width"] = 140.000152587891,
+				},
+			},
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+			["profiles"] = {
+				["Default"] = {
+					["Countdown"] = {
+						["BigWigs_Bosses_King Rastakhan"] = {
+							[285003] = "English: Overwatch: Zenyatta",
+							[287333] = "English: Overwatch: Reaper",
+						},
+						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+							[288374] = "English: Overwatch: WreckingBall",
+							[288345] = "English: Overwatch: Zenyatta",
+						},
+						["BigWigs_Bosses_High Tinker Mekkatorque"] = {
+							[282153] = "English: Overwatch: Torbjorn",
+							[282205] = "English: Overwatch: Ana",
+						},
+						["BigWigs_Bosses_The Restless Cabal"] = {
+							[282432] = "English: Overwatch: Ana",
+						},
+					},
+				},
+			},
+		},
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+			["profiles"] = {
+				["Default"] = {
+					[288345] = 1000183,
+					[288374] = 999671,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_King Rastakhan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[288449] = 2015479,
+					[287333] = 1032439,
+					[285003] = 1032439,
+					["stages"] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
+					["fontName"] = "Friz Quadrata TT",
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
 				},
 			},
 		},
@@ -198,10 +197,11 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					[282082] = 1032439,
+					[289401] = 1032439,
 				},
 			},
 		},
@@ -212,11 +212,11 @@ BigWigs3DB = {
 			[-1358] = true,
 			[875] = true,
 			[-1345] = true,
-			[876] = true,
 			[-1352] = {
 				[2] = true,
 			},
 			[-557] = true,
+			[876] = true,
 			[-1004] = true,
 			[-367] = true,
 		},
@@ -322,15 +322,15 @@ BigWigsStatsDB = {
 				["wipes"] = 4,
 				["best"] = 608.823999999993,
 			},
-			["heroic"] = {
-				["kills"] = 8,
-				["wipes"] = 41,
-				["best"] = 449.687000000035,
-			},
 			["mythic"] = {
 				["kills"] = 2,
 				["wipes"] = 486,
 				["best"] = 476.934000000008,
+			},
+			["heroic"] = {
+				["kills"] = 8,
+				["wipes"] = 41,
+				["best"] = 449.687000000035,
 			},
 		},
 		[2337] = {

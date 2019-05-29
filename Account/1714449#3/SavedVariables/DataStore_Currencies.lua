@@ -50,18 +50,18 @@ DataStore_CurrenciesDB = {
 				["War Resources"] = 6,
 				["Dalaran Jewelcrafter's Token"] = 26,
 				["Titan Residuum"] = 5,
-				["Curious Coin"] = 12,
-				["Order Resources"] = 15,
-				["Timewarped Badge"] = 8,
-				["Timeworn Artifact"] = 17,
-				["Battle for Azeroth"] = 1,
-				["Warlords of Draenor"] = 20,
-				["Legion"] = 9,
-				["Apexis Crystal"] = 21,
-				["Wakening Essence"] = 19,
-				["Garrison Resources"] = 22,
-				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,
+				["Seal of Tempered Fate"] = 23,
+				["Garrison Resources"] = 22,
+				["Timeworn Artifact"] = 17,
+				["Warlords of Draenor"] = 20,
+				["Wakening Essence"] = 19,
+				["Apexis Crystal"] = 21,
+				["Legion"] = 9,
+				["Battle for Azeroth"] = 1,
+				["Timewarped Badge"] = 8,
+				["Order Resources"] = 15,
+				["Curious Coin"] = 12,
 				["Champion's Seal"] = 25,
 				["Legionfall War Supplies"] = 13,
 			},
@@ -109,22 +109,22 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1558924598,
+				["lastUpdate"] = 1559091052,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "14331-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-6",
 					[1191] = "0-0-0-0",
-					[1580] = "3-0-0-5",
-					[1342] = "32-0-0-1000",
-					[1560] = "1163-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "83-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "766-0-0-0",
-					[1710] = "83-0-0-0",
+					[1560] = "1163-0-0-0",
 					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1565] = "0-0-0-0",
+					[1342] = "32-0-0-1000",
+					[1580] = "3-0-0-5",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -132,7 +132,7 @@ DataStore_CurrenciesDB = {
 					3, -- [1]
 					20868, -- [2]
 					9606, -- [3]
-					264, -- [4]
+					136, -- [4]
 					1070602, -- [5]
 					52492, -- [6]
 					15, -- [7]
@@ -162,22 +162,22 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1558918356,
+				["lastUpdate"] = 1559105507,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "75-0-0-0",
+					[1580] = "1-0-0-5",
 					[823] = "0-0-0-0",
-					[1226] = "0-0-0-0",
 					[1560] = "410-0-0-0",
-					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1226] = "0-0-0-0",
+					[1710] = "75-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
 				},
 			},
 		},
