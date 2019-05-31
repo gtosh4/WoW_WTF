@@ -191,6 +191,7 @@ BD_persistent = {
 				["Heroic Crucible thurs @ 6pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,

@@ -24,72 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"WTS Battle of Dazar'Alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 9:00", -- [1]
-			"Ncherynd-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ncherynd-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			604, -- [11]
-			"Player-9-0B6978D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcNcherynd|r",
-			[51] = 1558916183,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
-			"Arterai-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Arterai-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			605, -- [11]
-			"Player-9-0B677A74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Arterai|r",
-			[51] = 1558916191,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13188:Player-9-0AE8C06E:1:5:26:19:4294967295:4294967295:4294967295:4294967295|h[You Are Not Your $#*@! Legplates]|h|r!", -- [1]
-			"Verceus-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Verceus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1553, -- [11]
-			"Player-9-0AE8C06E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Verceus|r",
-			[51] = 1558924472,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [3]
-		{
 			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Arterai-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Arterai|r",
 			[51] = 1558924729,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [1]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Arterai-Kil'jaeden", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Arterai|r",
 			[51] = 1558924789,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [2]
 		{
 			"[WTS] CoS and BoD guild runs with loot sharing. We help you to GEAR UP! 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Arterai-Kil'jaeden", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Arterai|r",
 			[51] = 1558924911,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [3]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Arterai-Kil'jaeden", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Arterai|r",
 			[51] = 1558924971,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [4]
 		{
 			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1558924995,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [5]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11652:Player-9-0B58277D:1:5:28:19:4294967295:4294967295:4294967295:4294967295|h[The Reputable]|h|r!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559082488,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [9]
+		}, -- [6]
 		{
 			"Protect an ally for 12 sec, reducing damage they take by 30% and allowing you to use Taunt with no cooldown.", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559082567,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
+		}, -- [7]
 		{
 			"HEHEHEHGE", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559082570,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Dazar'ai Augur!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082739,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [9]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Dazar'ai Augur ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082743,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559082757,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [14]
+		}, -- [11]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559082787,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [15]
+		}, -- [12]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082795,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082799,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [14]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559082802,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [15]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559082892,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [16]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559082903,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [17]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082920,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559082924,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559082930,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559082942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [21]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559082964,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [22]
 		{
 			"Pursuit on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559083063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Pursuit on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083146,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [24]
 		{
 			"'s pickpocket stole 3 gold 64 silver 1 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083215,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [28]
+		}, -- [25]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083256,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [29]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Zanchuli Witch-Doctor!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083262,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Zanchuli Witch-Doctor ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083266,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [28]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252781:0|h[Unstable Hex]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083267,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [29]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083424,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [30]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083438,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [31]
 		{
 			"'s pickpocket stole 5 gold 45 silver 1 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083457,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [35]
+		}, -- [32]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083459,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [33]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083469,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [34]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083470,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [35]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083471,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [36]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083472,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083473,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [38]
 		{
 			"Casting |cff71d5ff|Hspell:2006:0|h[Resurrection]|h|r on Serasong!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083486,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [39]
 		{
 			"Successfully resurrected You!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083494,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [40]
 		{
 			"stop", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083496,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [41]
 		{
 			"andrew.", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083497,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [42]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083503,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [43]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083565,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [44]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083584,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [48]
+		}, -- [45]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083604,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [49]
+		}, -- [46]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:250585:0|h[Toxic Pool]|h|r for 168.4k (66%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083622,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [47]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083623,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [48]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083662,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Zanchuli Witch-Doctor ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083667,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [50]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083678,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [54]
+		}, -- [51]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083680,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [52]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083685,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [53]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083695,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [54]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083701,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [58]
+		}, -- [55]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083728,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [59]
+		}, -- [56]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083744,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083745,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083748,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [59]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083770,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [63]
+		}, -- [60]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083785,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [61]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083790,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [62]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083824,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [66]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083836,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [64]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083837,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Feasting Skyscreamer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083840,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083842,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [67]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083854,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [71]
+		}, -- [68]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083857,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [69]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083874,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [73]
+		}, -- [70]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083876,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [71]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083927,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [75]
+		}, -- [72]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083939,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [73]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559083944,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [77]
+		}, -- [74]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Dazar'ai Augur!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083946,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [75]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Dazar'ai Augur ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559083949,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [76]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559083973,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [77]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559083994,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [78]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084000,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [79]
 		{
 			"Dx interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559084016,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [80]
 		{
 			"Interrupted Dazar'ai Confessor's |cff71d5ff|Hspell:253544:0|h[Bwonsamdi's Mantle]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084018,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [84]
+		}, -- [81]
 		{
 			"<EH> Andrewzz got hit by |cff71d5ff|Hspell:253666:0|h[Fiery Bolt]|h|r for 151.3k (58%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084028,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [82]
 		{
 			"<EH> Friendly got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 195.6k (77%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084160,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [83]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 185.6k (72%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084165,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [84]
 		{
 			"<EH> Andrewzz got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 167.8k (65%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084191,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [85]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 154.6k (40%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084193,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [86]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084206,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [90]
+		}, -- [87]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084225,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [91]
+		}, -- [88]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084277,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [89]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 171.5k (44%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084317,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [90]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084322,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [94]
+		}, -- [91]
 		{
 			"<EH> Dx got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 202.9k (52%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [92]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 169.9k (67%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084360,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [93]
 		{
 			"Frenzied Charge on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559084380,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [94]
 		{
 			"Interrupted Dinomancer Kish'o's |cff71d5ff|Hspell:256849:0|h[Dino Might]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084391,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [95]
 		{
 			"Frenzied Charge on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2200,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559084392,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [96]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2222,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [97]
 		{
 			"1. Serasong 1007.0k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2244,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [98]
 		{
 			"2. Andrewzz 1033.1k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2266,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [102]
+		}, -- [99]
 		{
 			"3. Toshaman 1060.6k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2288,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [100]
 		{
 			"4. Friendly 1096.2k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2310,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [101]
 		{
 			"5. Dx 1197.1k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2332,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084393,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [102]
 		{
 			"!keys", -- [1]
 			"Dx-Kil'jaeden", -- [2]
@@ -2354,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDx|r",
 			[51] = 1559084462,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
+		}, -- [103]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:250:17:10:5:14:117|h[Keystone: Temple of Sethraliss (17)]|h|r", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2376,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084462,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [104]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:247:16:10:5:14:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2398,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084462,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [105]
 		{
 			"|cffa335ee|Hkeystone:158923:247:16:10:5:14:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2420,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084462,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [106]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:248:12:10:5:14:117|h[Keystone: Waycrest Manor (12)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2442,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559084462,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [107]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:249:17:10:5:14:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2464,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084465,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [108]
 		{
 			"Friendly |cffa335ee|Hkeystone:158923:247:16:10:5:14:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2486,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084470,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [109]
 		{
 			"Keydepleter |cffa335ee|Hkeystone:158923:250:15:10:5:14:117|h[Keystone: Temple of Sethraliss (15)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2508,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084470,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [110]
 		{
 			"Pride |cffa335ee|Hkeystone:158923:247:18:10:5:14:117|h[Keystone: The MOTHERLODE!! (18)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2530,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084470,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [114]
+		}, -- [111]
 		{
 			"Renewal |cffa335ee|Hkeystone:158923:244:12:10:5:14:117|h[Keystone: Atal'Dazar (12)]|h|r", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2552,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559084470,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [112]
 		{
 			"Serasong |cffa335ee|Hkeystone:158923:250:17:10:5:14:117|h[Keystone: Temple of Sethraliss (17)]|h|r", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2574,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084474,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [113]
 		{
 			"Ceesong |cffa335ee|Hkeystone:158923:251:16:10:5:14:117|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2596,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084474,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [114]
 		{
 			"Illsong |cffa335ee|Hkeystone:158923:248:16:10:5:14:117|h[Keystone: Waycrest Manor (16)]|h|r", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2618,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084474,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [115]
 		{
 			"Ruesong |cffa335ee|Hkeystone:158923:247:16:10:5:14:117|h[Keystone: The MOTHERLODE!! (16)]|h|r", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2640,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1559084474,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [116]
 		{
 			"Toshaman |cffa335ee|Hkeystone:158923:248:12:10:5:14:117|h[Keystone: Waycrest Manor (12)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2662,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559084476,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [120]
+		}, -- [117]
 		{
 			"Toshpal |cffa335ee|Hkeystone:158923:251:10:10:5:14:117|h[Keystone: The Underrot (10)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2684,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1559084476,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [118]
 		{
 			"Andrewzz |cffa335ee|Hkeystone:158923:249:17:10:5:14:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2706,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [119]
 		{
 			"Andruww |cffa335ee|Hkeystone:158923:251:19:10:5:14:117|h[Keystone: The Underrot (19)]|h|r", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2728,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [120]
 		{
 			"Druwqt |cffa335ee|Hkeystone:158923:353:16:10:5:14:117|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2750,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559084506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [121]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-9-0B66E232:1:5:28:19:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -2772,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559084510,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [122]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-9-0B66E232:1:5:28:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -2794,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559084510,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [123]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-9-0B66E232:1:5:28:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -2815,6 +2749,72 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559084510,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13099:Player-9-0B58277D:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Molten Cay]|h|r!", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			352, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1559255747,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13100:Player-9-0B58277D:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Molten Cay]|h|r!", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1559255747,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13101:Player-9-0B58277D:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Molten Cay]|h|r!", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1559255747,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},

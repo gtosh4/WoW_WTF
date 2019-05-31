@@ -11,17 +11,25 @@ BigWigs3DB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
+		["BigWigs_Bosses_Atal'Dazar Trash"] = {
+		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
 					["posx"] = 401.594123936691,
-					["posy"] = 420.801483970972,
 					["fontName"] = "Friz Quadrata TT",
+					["posy"] = 420.801483970972,
 					["lock"] = true,
 				},
 			},
 		},
 		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Priestess Alun'za"] = {
+		},
+		["BigWigs_Bosses_Vol'kaal"] = {
+		},
+		["BigWigs_Bosses_Yazma"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -50,6 +58,8 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Rezan"] = {
 		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
@@ -92,36 +102,36 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
-					["fontSize"] = 14,
-					["visibleBarLimit"] = 20,
+					["outline"] = "OUTLINE",
 					["BigWigsAnchor_width"] = 200.251571655273,
-					["BigWigsAnchor_y"] = 67.7356962641752,
-					["emphasizeGrowup"] = true,
 					["BigWigsAnchor_x"] = 1392.54322316818,
-					["spacing"] = 4,
 					["fill"] = false,
-					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_height"] = 21.9999942779541,
-					["BigWigsEmphasizeAnchor_width"] = 218.000045776367,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.9999809265137,
-					["fontSizeEmph"] = 14,
-					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
+					["fontSize"] = 14,
+					["visibleBarLimit"] = 20,
+					["BigWigsAnchor_y"] = 67.7356962641752,
+					["emphasizeGrowup"] = true,
+					["spacing"] = 4,
 					["texture"] = "ElvUI Norm",
-					["outline"] = "OUTLINE",
-					["emphasizeMultiplier"] = 1,
+					["barStyle"] = "ElvUI",
+					["BigWigsEmphasizeAnchor_width"] = 218.000045776367,
+					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
+					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
 					["emphasizeTime"] = 10,
+					["emphasizeMultiplier"] = 1,
+					["fontSizeEmph"] = 14,
 				},
 			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 704.523035699211,
-					["posy"] = 396.797916202297,
 					["fontName"] = "Friz Quadrata TT",
 					["width"] = 140.000152587891,
+					["posy"] = 396.797916202297,
+					["posx"] = 704.523035699211,
 				},
 			},
 		},
@@ -178,13 +188,13 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
 					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
 					["BWMessageAnchor_y"] = 655.466431210996,
 					["BWMessageAnchor_x"] = 869.869754919746,
 					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
 				},
 			},
 		},
@@ -209,16 +219,16 @@ BigWigs3DB = {
 	["wipe80"] = true,
 	["global"] = {
 		["watchedMovies"] = {
-			[-1358] = true,
-			[875] = true,
 			[-1345] = true,
+			[-557] = true,
+			[875] = true,
+			[-1358] = true,
+			[-367] = true,
+			[-1004] = true,
 			[-1352] = {
 				[2] = true,
 			},
-			[-557] = true,
 			[876] = true,
-			[-1004] = true,
-			[-367] = true,
 		},
 	},
 	["profiles"] = {

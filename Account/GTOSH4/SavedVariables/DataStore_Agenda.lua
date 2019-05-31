@@ -19,7 +19,7 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1559093649,
+				["lastUpdate"] = 1559260361,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
@@ -45,9 +45,11 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
+						["level"] = 120,
+						["class"] = "Priest",
 					},
 				},
-				["lastUpdate"] = 1559084537,
+				["lastUpdate"] = 1559256822,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 882,
+	["session"] = 886,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -34,69 +34,69 @@ BugGrabberDB = {
 			["counter"] = 15,
 		}, -- [4]
 		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: attempt to index field 'voteFrame' (a nil value)",
-			["time"] = "2019/05/28 18:39:12",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: in function `startLooterList'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:917: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:781>",
-			["session"] = 877,
-			["counter"] = 4,
-		}, -- [5]
-		{
 			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:937: attempt to get length of field 'tabs' (a nil value)",
 			["time"] = "2019/05/26 21:37:10",
 			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:937: in function `endEntry'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:337: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
 			["session"] = 877,
 			["counter"] = 9,
-		}, -- [6]
-		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: attempt to index field 'voteFrame' (a nil value)",
-			["time"] = "2019/05/26 21:37:07",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: in function `drawLooters'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:684: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 877,
-			["counter"] = 5,
-		}, -- [7]
-		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: attempt to index field 'voteFrame' (a nil value)",
-			["time"] = "2019/05/26 21:37:08",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: in function `createVoteWindow'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:53: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 877,
-			["counter"] = 5,
-		}, -- [8]
-		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: attempt to get length of field 'tabs' (a nil value)",
-			["time"] = "2019/05/26 21:37:08",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: in function `getEntry'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:297: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 877,
-			["counter"] = 12,
-		}, -- [9]
-		{
-			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: attempt to get length of field 'tabs' (a nil value)",
-			["time"] = "2019/05/28 19:00:22",
-			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: in function `endTab'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:71: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
-			["session"] = 877,
-			["counter"] = 4,
-		}, -- [10]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
-			["time"] = "2019/05/26 22:19:57",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
-			["session"] = 879,
-			["counter"] = 3,
-		}, -- [11]
+		}, -- [5]
 		{
 			["message"] = "[string \"--[[ Error in 'Tosh HealerMana bar' ]] retu...\"]:6: attempt to index field 'inspectLib' (a nil value)",
 			["time"] = "2019/05/28 19:02:36",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:524: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:518>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:666: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:828: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1920: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1779: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1667>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1871: in function `ReloadAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1556: in function `ScanAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1501: in function `Resume'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.3.lua:1357: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1324>",
 			["session"] = 881,
 			["counter"] = 22,
-		}, -- [12]
+		}, -- [6]
 		{
 			["message"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: attempt to index field 'CompactUnitFrameProfilesNewProfileDialog' (a nil value)",
 			["time"] = "2019/05/26 21:40:19",
 			["stack"] = "...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:322: in function <...Ons\\ElvUI\\Modules\\skins\\Blizzard\\BlizzardOptions.lua:37>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1346: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1327>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `Initialize'\nInterface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1387: in function <Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:1386>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:129: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1626: in function `InitializeModules'\nInterface\\AddOns\\ElvUI\\Core\\Core.lua:1944: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:213: in function <Interface\\AddOns\\ElvUI\\init.lua:212>",
-			["session"] = 882,
-			["counter"] = 12,
+			["session"] = 886,
+			["counter"] = 16,
+		}, -- [7]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/28 18:39:12",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:689: in function `startLooterList'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:917: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:781>",
+			["session"] = 886,
+			["counter"] = 8,
+		}, -- [8]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
+			["time"] = "2019/05/26 22:19:57",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
+			["session"] = 886,
+			["counter"] = 4,
+		}, -- [9]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/26 21:37:08",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:156: in function `createVoteWindow'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:53: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 886,
+			["counter"] = 6,
+		}, -- [10]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: attempt to get length of field 'tabs' (a nil value)",
+			["time"] = "2019/05/26 21:37:08",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:874: in function `getEntry'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:297: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 886,
+			["counter"] = 13,
+		}, -- [11]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: attempt to get length of field 'tabs' (a nil value)",
+			["time"] = "2019/05/28 19:00:22",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:906: in function `endTab'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:71: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 886,
+			["counter"] = 5,
+		}, -- [12]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: attempt to index field 'voteFrame' (a nil value)",
+			["time"] = "2019/05/26 21:37:07",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:708: in function `drawLooters'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:684: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 886,
+			["counter"] = 9,
 		}, -- [13]
 	},
 }

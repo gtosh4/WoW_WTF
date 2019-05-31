@@ -71,8 +71,8 @@ Postal3DB = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Yellowysham|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Yellowysham|Kil'jaeden|Horde", -- [3]
 					"Yukio|Kil'jaeden|Horde", -- [4]
 					"Toshpal|Kil'jaeden|Horde", -- [5]
 					"Wraithbrand|Kil'jaeden|Horde", -- [6]

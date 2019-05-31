@@ -4,7 +4,52 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
+		["mapID"] = 244,
+		["splits"] = {
+			1420, -- [1]
+			967, -- [2]
+			378, -- [3]
+			1590, -- [4]
+			1306, -- [5]
+			["party1Name"] = "Toshpal",
+			["party1Class"] = "Paladin",
+			["party4Class"] = "Priest",
+			["party2Name"] = "Crippled",
+			["patch"] = "8.1.5",
+			["timeLimit"] = 1800,
+			["level"] = 12,
+			["timeElapsed"] = 1590.253,
+			["party3Role"] = "DAMAGER",
+			["affixes3"] = 14,
+			["party5Role"] = "DAMAGER",
+			["party3Name"] = "Renewal",
+			["affixes2"] = 5,
+			["party1Role"] = "HEALER",
+			["party4Name"] = "Yuffio",
+			["party4Role"] = "DAMAGER",
+			["party3Class"] = "Druid",
+			["wasEnergized"] = true,
+			["affixes1"] = 10,
+			["party5Class"] = "Paladin",
+			["mapID"] = 1763,
+			["party2Role"] = "TANK",
+			["date"] = 1559260259,
+			["party2Class"] = "Death Knight",
+			["party5Name"] = "Serasong",
+		},
 		["playerDeaths"] = {
+			["Crippled"] = 2,
+			["Serasong"] = 2,
+			["Yuffio"] = 1,
+			["Toshpal"] = 4,
+			["Renewal"] = 4,
+		},
+		["splitNames"] = {
+			"Priestess Alun'za defeated", -- [1]
+			"Vol'kaal defeated", -- [2]
+			"Rezan defeated", -- [3]
+			"Yazma defeated", -- [4]
+			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -17,7 +62,7 @@ AngryKeystones_Data = {
 			[2] = 72,
 		},
 		[122972] = {
-			[4] = 74,
+			[4] = 78,
 		},
 		[134284] = {
 			[4] = 28,
@@ -50,7 +95,7 @@ AngryKeystones_Data = {
 			[9] = 62,
 		},
 		[122973] = {
-			[4] = 11,
+			[4] = 14,
 		},
 		[130400] = {
 			[6] = 57,
@@ -119,7 +164,7 @@ AngryKeystones_Data = {
 			63, -- [1]
 		},
 		[127757] = {
-			[4] = 57,
+			[4] = 61,
 		},
 		[137989] = {
 			112, -- [1]
@@ -155,7 +200,7 @@ AngryKeystones_Data = {
 			[4] = 55,
 		},
 		[132126] = {
-			[4] = 62,
+			[4] = 66,
 		},
 		[130404] = {
 			[4] = 24,
@@ -281,7 +326,7 @@ AngryKeystones_Data = {
 			36, -- [1]
 		},
 		[122971] = {
-			[4] = 50,
+			[4] = 53,
 		},
 		[134364] = {
 			[4] = 6,
@@ -295,11 +340,11 @@ AngryKeystones_Data = {
 		[134739] = {
 			[8] = 6,
 		},
-		[131847] = {
-			[4] = 29,
-		},
 		[141282] = {
 			81, -- [1]
+		},
+		[129547] = {
+			[4] = 94,
 		},
 		[135365] = {
 			[6] = 1,
@@ -311,8 +356,8 @@ AngryKeystones_Data = {
 		[133345] = {
 			[5] = 14,
 		},
-		[129547] = {
-			[4] = 94,
+		[131847] = {
+			[4] = 29,
 		},
 		[136214] = {
 			[18] = 7,
@@ -385,11 +430,11 @@ AngryKeystones_Data = {
 		[131818] = {
 			[4] = 17,
 		},
-		[141285] = {
-			[4] = 37,
+		[127381] = {
+			[3] = 35,
 		},
 		[127799] = {
-			[4] = 126,
+			[4] = 132,
 		},
 		[136249] = {
 			[18] = 6,
@@ -441,7 +486,7 @@ AngryKeystones_Data = {
 			93, -- [1]
 		},
 		[128434] = {
-			[4] = 159,
+			[4] = 169,
 		},
 		[135263] = {
 			[4] = 14,
@@ -493,7 +538,7 @@ AngryKeystones_Data = {
 			[13] = 1,
 		},
 		[128435] = {
-			664, -- [1]
+			697, -- [1]
 		},
 		[129601] = {
 			[4] = 107,
@@ -523,7 +568,7 @@ AngryKeystones_Data = {
 			[3] = 6,
 		},
 		[122969] = {
-			[4] = 75,
+			[4] = 79,
 		},
 		[130635] = {
 			[4] = 15,
@@ -573,19 +618,19 @@ AngryKeystones_Data = {
 			[4] = 25,
 		},
 		[122970] = {
-			[4] = 103,
-		},
-		[127381] = {
-			[3] = 35,
+			[4] = 109,
 		},
 		[131850] = {
 			[4] = 7,
+		},
+		[141285] = {
+			[4] = 37,
 		},
 		[134599] = {
 			[4] = 2,
 		},
 		[127879] = {
-			[4] = 129,
+			[4] = 134,
 		},
 		[131858] = {
 			[4] = 9,

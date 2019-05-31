@@ -150,8 +150,8 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
-			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
+			["aurasBuffsHeight"] = 22,
 			["y"] = {
 				["arena1"] = 263.99849693316,
 			},
@@ -171,7 +171,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["aurasBuffsHeight"] = 22,
+			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",

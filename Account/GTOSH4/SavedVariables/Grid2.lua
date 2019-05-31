@@ -18,9 +18,14 @@ Grid2DB = {
 							["mouseoverTexture"] = "bdSmooth",
 							["frameBorderDistance"] = 1,
 							["frameHeight"] = 54,
-							["frameBorderTexture"] = "Grid2 Flat",
+							["mouseoverColor"] = {
+								["a"] = 0.200000047683716,
+								["b"] = 1,
+								["g"] = 1,
+								["r"] = 1,
+							},
 							["barTexture"] = "ElvUI Norm",
-							["frameTexture"] = "ElvUI Norm",
+							["frameBorderTexture"] = "Grid2 Flat",
 							["frameWidths"] = {
 							},
 							["frameContentColor"] = {
@@ -36,12 +41,7 @@ Grid2DB = {
 							["orientation"] = "VERTICAL",
 							["mouseoverHighlight"] = true,
 							["frameWidth"] = 100,
-							["mouseoverColor"] = {
-								["a"] = 0.200000047683716,
-								["b"] = 1,
-								["g"] = 1,
-								["r"] = 1,
-							},
+							["frameTexture"] = "ElvUI Norm",
 						}, -- [1]
 					},
 					["mouseoverTexture"] = "bdSmooth",
@@ -52,15 +52,15 @@ Grid2DB = {
 					},
 					["font"] = "Expressway",
 					["menuDisabled"] = true,
+					["frameTexture"] = "ElvUI Norm",
+					["mouseoverHighlight"] = true,
+					["orientation"] = "HORIZONTAL",
+					["frameWidth"] = 100,
 					["frameContentColor"] = {
 						["b"] = 0.101960784313725,
 						["g"] = 0.101960784313725,
 						["r"] = 0.101960784313725,
 					},
-					["mouseoverHighlight"] = true,
-					["orientation"] = "HORIZONTAL",
-					["frameWidth"] = 100,
-					["frameTexture"] = "ElvUI Norm",
 				},
 				["Toshmonk - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -179,10 +179,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "None",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["arena"] = "By Group w/Pets",
-								["raid"] = "By Group",
-								["solo"] = "By Group w/Pets",
 								["party"] = "By Group",
+								["arena"] = "By Group w/Pets",
+								["solo"] = "By Group w/Pets",
+								["raid"] = "By Group",
 							},
 							["BackgroundR"] = 0,
 							["ScaleSize"] = 1,
@@ -270,10 +270,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "bdSmooth",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["raid"] = "By Group",
-								["party"] = "By Group",
-								["solo"] = "By Group",
 								["arena"] = "By Group",
+								["raid"] = "By Group",
+								["solo"] = "By Group",
+								["party"] = "By Group",
 							},
 							["BackgroundR"] = 0.101960784313725,
 							["ScaleSize"] = 1,
@@ -1399,16 +1399,16 @@ Grid2DB = {
 					["fontJustifyV"] = "BOTTOM",
 					["maxIcons"] = 2,
 					["borderSize"] = 1,
-					["iconSize"] = 14,
+					["useStatusColor"] = true,
 					["maxIconsPerRow"] = 2,
+					["iconSize"] = 14,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "LEFT",
 						["point"] = "LEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
-					["useStatusColor"] = true,
 					["type"] = "icons",
 				},
 				["buffs"] = {
@@ -2332,9 +2332,9 @@ Grid2DB = {
 				},
 				["ind-second"] = {
 					["buff-EarthShield-mine"] = 50,
+					["buff-PowerWord:Shield-mine"] = 53,
 					["buff-EssenceFont-mine"] = 54,
 					["buff-Regrowth-mine"] = 52,
-					["buff-PowerWord:Shield-mine"] = 53,
 				},
 				["text-up-color"] = {
 				},
@@ -2354,9 +2354,9 @@ Grid2DB = {
 				["health-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["heals-incoming"] = 2,
 					["my-heals-incoming"] = 3,
 					["health-current"] = 1,
-					["heals-incoming"] = 2,
 				},
 				["tanking"] = {
 					["threat"] = 51,
@@ -3414,16 +3414,26 @@ Grid2DB = {
 					["mine"] = 1,
 					["spellName"] = 61295,
 				},
-				["buff-HealingStreamTotem-mine"] = {
-					["color1"] = {
+				["buff-Renew-mine"] = {
+					["color2"] = {
 						["a"] = 1,
-						["b"] = 0.603921568627451,
-						["g"] = 0.752941176470588,
-						["r"] = 0,
+						["r"] = 0.211764705882353,
+						["g"] = 0.36078431372549,
+						["b"] = 0.180392156862745,
 					},
 					["type"] = "buff",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.588235294117647,
+						["g"] = 1,
+						["b"] = 0.498039215686275,
+					},
+					["colorThreshold"] = {
+						4, -- [1]
+					},
+					["spellName"] = 139,
 					["mine"] = 1,
-					["spellName"] = 5394,
+					["colorCount"] = 2,
 				},
 				["buff-Regrowth-mine"] = {
 					["color2"] = {
@@ -4462,22 +4472,16 @@ Grid2DB = {
 						},
 					},
 				},
-				["health-current"] = {
-					["color2"] = {
-						["b"] = 0.36078431372549,
-						["g"] = 0.654901960784314,
-						["r"] = 0.654901960784314,
-					},
-					["color3"] = {
-						["b"] = 0.168627450980392,
-						["g"] = 0.168627450980392,
-						["r"] = 0.411764705882353,
-					},
+				["buff-HealingStreamTotem-mine"] = {
 					["color1"] = {
-						["b"] = 0.270588235294118,
-						["g"] = 0.270588235294118,
-						["r"] = 0.270588235294118,
+						["a"] = 1,
+						["b"] = 0.603921568627451,
+						["g"] = 0.752941176470588,
+						["r"] = 0,
 					},
+					["type"] = "buff",
+					["mine"] = 1,
+					["spellName"] = 5394,
 				},
 				["aoe-aoe"] = {
 					["type"] = "aoe-heals",
@@ -4601,16 +4605,16 @@ Grid2DB = {
 						["b"] = 0.423529411764706,
 					},
 				},
-				["buff-Bloodlust"] = {
-					["spellName"] = "Bloodlust",
-					["type"] = "buff",
-					["mine"] = false,
+				["debuff-Priest>WeakenedSoul-mine"] = {
 					["color1"] = {
 						["a"] = 1,
+						["b"] = 0.2,
+						["g"] = 0.2,
 						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
 					},
+					["type"] = "debuff",
+					["mine"] = 1,
+					["spellName"] = 6788,
 				},
 				["buffs-DefensiveCooldowns"] = {
 					["type"] = "buffs",
@@ -4646,17 +4650,6 @@ Grid2DB = {
 						["r"] = 1,
 					},
 				},
-				["debuff-Priest>WeakenedSoul-mine"] = {
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.2,
-						["g"] = 0.2,
-						["r"] = 1,
-					},
-					["type"] = "debuff",
-					["mine"] = 1,
-					["spellName"] = 6788,
-				},
 				["buff-SoothingMist-mine"] = {
 					["type"] = "buff",
 					["spellName"] = 198533,
@@ -4667,6 +4660,17 @@ Grid2DB = {
 						["r"] = 0.00392156862745098,
 						["g"] = 0.701960784313726,
 						["b"] = 0.423529411764706,
+					},
+				},
+				["buff-Bloodlust"] = {
+					["spellName"] = "Bloodlust",
+					["type"] = "buff",
+					["mine"] = false,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
 					},
 				},
 				["buff-Rejuvenation-mine"] = {
@@ -4695,26 +4699,22 @@ Grid2DB = {
 						["a"] = 0.550000011920929,
 					},
 				},
-				["buff-Renew-mine"] = {
+				["health-current"] = {
 					["color2"] = {
-						["a"] = 1,
-						["r"] = 0.211764705882353,
-						["g"] = 0.36078431372549,
-						["b"] = 0.180392156862745,
+						["b"] = 0.36078431372549,
+						["g"] = 0.654901960784314,
+						["r"] = 0.654901960784314,
 					},
-					["type"] = "buff",
+					["color3"] = {
+						["b"] = 0.168627450980392,
+						["g"] = 0.168627450980392,
+						["r"] = 0.411764705882353,
+					},
 					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.588235294117647,
-						["g"] = 1,
-						["b"] = 0.498039215686275,
+						["b"] = 0.270588235294118,
+						["g"] = 0.270588235294118,
+						["r"] = 0.270588235294118,
 					},
-					["colorThreshold"] = {
-						4, -- [1]
-					},
-					["spellName"] = 139,
-					["mine"] = 1,
-					["colorCount"] = 2,
 				},
 				["debuff-GrievousWound"] = {
 					["type"] = "debuff",
@@ -4856,9 +4856,9 @@ Grid2DB = {
 				["heals-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["my-heals-incoming"] = 3,
 					["health-current"] = 1,
 					["heals-incoming"] = 2,
-					["my-heals-incoming"] = 3,
 				},
 			},
 			["themes"] = {
@@ -5057,15 +5057,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["type"] = "icons",
 					["borderSize"] = 1,
+					["useStatusColor"] = true,
 					["iconSize"] = 16,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
-					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["b"] = 0,
@@ -6253,9 +6253,9 @@ Grid2DB = {
 					["classcolor"] = 50,
 				},
 				["heals"] = {
+					["my-heals-incoming"] = 100,
 					["heals-incoming"] = 99,
 					["shields"] = 101,
-					["my-heals-incoming"] = 100,
 				},
 				["icons-bottomleft"] = {
 					["debuff-Disease"] = 51,
@@ -7413,15 +7413,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["borderSize"] = 1,
 					["type"] = "icons",
-					["useStatusColor"] = true,
-					["iconSize"] = 16,
-					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
+					["useStatusColor"] = true,
+					["level"] = 8,
+					["iconSize"] = 16,
 					["color1"] = {
 						["a"] = 0,
 						["r"] = 0,
@@ -8761,9 +8761,9 @@ Grid2DB = {
 					["offline"] = 97,
 				},
 				["heals"] = {
+					["heals-incoming"] = 99,
 					["my-heals-incoming"] = 100,
 					["shields"] = 101,
-					["heals-incoming"] = 99,
 				},
 				["health"] = {
 					["health-current"] = 99,
