@@ -14,6 +14,10 @@ VER 3 010000000000000A "Eye" "INV_MISC_QUESTIONMARK"
 #showtooltip Eye of the Storm
 /cast Eye of the Storm
 END
+VER 3 010000000000000B "jump" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rocket Jump(Racial)
+END
 VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
 #showtooltip Wind Shear
 /cast [@focus,exists,harm,nodead][] Wind Shear

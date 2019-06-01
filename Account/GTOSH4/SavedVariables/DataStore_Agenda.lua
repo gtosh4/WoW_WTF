@@ -19,7 +19,10 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1559260361,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|371041217"] = "305627|1559354770|0|1",
+				},
+				["lastUpdate"] = 1559354774,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
@@ -45,11 +48,14 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["level"] = 120,
 						["class"] = "Priest",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1559256822,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|371041217"] = "288560|1559371837|0|1",
+				},
+				["lastUpdate"] = 1559371866,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

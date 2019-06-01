@@ -5,11 +5,11 @@ BigWigs3DB = {
 			[-1358] = true,
 			[875] = true,
 			[-1345] = true,
-			[876] = true,
 			[-1352] = {
 				[2] = true,
 			},
 			[-557] = true,
+			[876] = true,
 			[-1004] = true,
 			[-367] = true,
 		},
@@ -30,14 +30,6 @@ BigWigs3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Bosses_Uu'nat, Harbinger of the Void"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -50,7 +42,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_Sounds"] = {
 		},
 		["BigWigs_Bosses_Conclave of the Chosen"] = {
 			["profiles"] = {
@@ -66,26 +58,26 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Plugins_Sounds"] = {
-		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 402.655939044766,
-					["posy"] = 517.864880098772,
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
+					[285014] = 1032439,
 				},
 			},
 		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
+		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
@@ -123,6 +115,23 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 402.655939044766,
+					["posy"] = 517.864880098772,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+				},
+			},
+		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -157,16 +166,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Opulence"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285014] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {

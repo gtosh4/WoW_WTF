@@ -1,138 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"riiip", -- [1]
-		"/who rivalry", -- [2]
+		"/aa", -- [1]
+		"/g \"bigdumblootcouncil\"", -- [2]
 		"no lock", -- [3]
-		"/dn", -- [4]
-		"/wave", -- [5]
-		"/ert", -- [6]
+		"/p |cffa335ee|Hitem:165571::::::::120:256::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r", -- [4]
+		"/ec", -- [5]
+		"I don't have that on my sham", -- [6]
 		"/cw Sonaris-Kil'jaeden he needed 1 more w/ sliver", -- [7]
-		"I don't have that on my sham", -- [8]
-		"/cw Dawnzo what's bop's cd, 3m or more", -- [9]
+		"/bdlc config", -- [8]
+		"/raid I wanna raid tonight pls", -- [9]
 		"/wa", -- [10]
-		"/g \"bigdumblootcouncil\"", -- [11]
-		"/aa", -- [12]
-		"/cw Yellowysham-Kil'jaeden k", -- [13]
-		"/o it's not feelin so good mr stark", -- [14]
-		"/p |cffa335ee|Hitem:165571::::::::120:256::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r", -- [15]
-		"/ec", -- [16]
-		"/cw Orcbum-Kil'jaeden inv", -- [17]
-		"/raid I wanna raid tonight pls", -- [18]
-		" brb, taking ginjer out", -- [19]
-		" back", -- [20]
+		"/dn", -- [11]
+		"riiip", -- [12]
+		"/cw Dawnzo what's bop's cd, 3m or more", -- [13]
+		"/cw Yellowysham-Kil'jaeden k", -- [14]
+		"/cw Orcbum-Kil'jaeden inv", -- [15]
+		"back", -- [16]
+		"brb, taking ginjer out", -- [17]
+		"/o it's not feelin so good mr stark", -- [18]
+		"/script print(\"test\")", -- [19]
+		"/bdlc show", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			754, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559263719,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"3", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			757, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1559263723,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"2", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			758, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1559263725,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			759, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559263731,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			760, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559263731,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
 		{
 			"Virulent Pathogen on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -154,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559263740,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [1]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -176,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559263742,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [2]
 		{
 			"Taunted Lady Waycrest!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -198,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263742,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [3]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -220,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559263743,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [4]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -242,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559263744,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [5]
 		{
 			"Pummeled Lady Waycrest's |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -264,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263745,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [6]
 		{
 			"Virulent Pathogen on Yukio", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -286,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1559263755,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [7]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -308,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1559263757,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [8]
 		{
 			"2", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -330,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1559263758,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [9]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -352,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263758,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [10]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -374,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263758,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [11]
 		{
 			"Interrupted Lady Waycrest's |cff71d5ff|Hspell:268278:0|h[Wracking Chord]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -396,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559263762,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [12]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -418,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -440,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263773,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [14]
 		{
 			"Pummeled Gorak Tul's |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -462,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263838,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [15]
 		{
 			"Pummeled Gorak Tul's |cff71d5ff|Hspell:266225:0|h[Darkened Lightning]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -484,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263854,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -506,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263871,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -528,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -550,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [19]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -572,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263879,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [20]
 		{
 			"Taunted Deathtouched Slaver!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -594,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263879,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12484:Player-9-074DF608:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Waycrest Manor]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -616,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559263907,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [27]
+		}, -- [22]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12488:Player-9-074DF608:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Waycrest Manor]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -638,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559263907,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
+		}, -- [23]
 		{
 			"Taunted Gloom Horror!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -660,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263928,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -682,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263950,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -704,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263957,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -726,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263959,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -748,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263962,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -770,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559263962,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [29]
 		{
 			"Pummeled Matron Alma's |cff71d5ff|Hspell:265876:0|h[Ruinous Volley]|h|r!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -792,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264046,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [30]
 		{
 			"Taunted Bewitched Captain!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -814,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264055,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [31]
 		{
 			"Interrupted Bewitched Captain's |cff71d5ff|Hspell:265368:0|h[Spirited Defense]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -836,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264056,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bewitched Captain ended!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -858,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264060,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [33]
 		{
 			"Taunted Bewitched Captain!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -880,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264075,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [34]
 		{
 			"Taunted Bewitched Captain!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -902,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264075,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [35]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -924,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -946,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [37]
 		{
 			"My |cff71d5ff|Hspell:355:0|h[Taunt]|h|r was evaded by Marked Sister!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -968,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264089,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -990,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264092,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1012,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264092,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [40]
 		{
 			"3", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -1034,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1559264093,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [41]
 		{
 			"2", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -1056,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1559264094,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1078,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264101,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1100,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264101,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [44]
 		{
 			"Interrupted Marked Sister's |cff71d5ff|Hspell:264105:0|h[Runic Mark]|h|r!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1122,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264127,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Marked Sister ended!", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1144,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264131,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1166,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -1188,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559264135,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [48]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1210,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [49]
 		{
 			"1. Yukio 22.5k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1232,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [50]
 		{
 			"2. Litsong 432.9k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1254,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [51]
 		{
 			"3. Pride 528.9k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1276,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [52]
 		{
 			"4. Qiro 632.5k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1298,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [53]
 		{
 			"5. Tosh 742.3k", -- [1]
 			"Litsong-Kil'jaeden", -- [2]
@@ -1320,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLitsong|r",
 			[51] = 1559264139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [54]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:248:16:10:5:14:117|h[Keystone: Waycrest Manor (16)]|h|r", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1342,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559264160,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [55]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9038:Player-9-0AC75D25:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Iron Docks]|h|r!", -- [1]
 			"Foxeryfloof-Kil'jaeden", -- [2]
@@ -1364,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFoxeryfloof|r",
 			[51] = 1559266048,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [61]
+		}, -- [56]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9047:Player-9-0AC75D25:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Iron Docks]|h|r!", -- [1]
 			"Foxeryfloof-Kil'jaeden", -- [2]
@@ -1386,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFoxeryfloof|r",
 			[51] = 1559266048,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [62]
+		}, -- [57]
 		{
 			"|cffffff00Grand Bazaar is under attack!|r", -- [1]
 			"", -- [2]
@@ -1408,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1559267021,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [58]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9205:Player-9-0B1A3B9E:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Iron Horde Invasion]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1430,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559267027,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [64]
+		}, -- [59]
 		{
 			"LFM MAIN RAID PST \"invite\" or \"inv\"", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1452,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559267126,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [60]
 		{
 			"inv", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1474,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559267205,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [66]
+		}, -- [61]
 		{
 			"\\o/", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1496,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1559267217,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [62]
 		{
 			"I wanna raid tonight pls", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1518,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1559267604,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [63]
 		{
 			"same", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1540,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267609,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [64]
 		{
 			"i can atank", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1562,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [65]
 		{
 			"tank*", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1584,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267612,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [66]
 		{
 			"ooh you're tanking?", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -1606,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hetril|r",
 			[51] = 1559267739,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [67]
 		{
 			"yeye", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1628,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267743,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [68]
 		{
 			"i have 413", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1650,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267745,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [69]
 		{
 			"err", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1672,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267747,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [70]
 		{
 			"i'm 413", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1694,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267748,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [71]
 		{
 			"ilevel", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1716,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559267750,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [72]
 		{
 			"kk", -- [1]
 			"Hetril-Kil'jaeden", -- [2]
@@ -1738,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hetril|r",
 			[51] = 1559267751,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [73]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -1760,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268312,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [74]
 		{
 			"the group getting together?", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -1782,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1559268329,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [75]
 		{
 			"whisper thac for inv", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1804,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1559268347,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [76]
 		{
 			"slowly but surely ", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1826,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1559268348,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [77]
 		{
 			"<Continuity> 6/9 M is recruiting for the Core Mythic Raid Team. Need any DPS Classes. Core Raids are Wed/Sun 7-10 ST. Also need backup raiders that can expect to raid once per week on average depending on vacancies or comp needs.", -- [1]
 			"Smartshift-Kil'jaeden", -- [2]
@@ -1848,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smartshift|r",
 			[51] = 1559268348,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [78]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -1870,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268376,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [79]
 		{
 			"need 3 more", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -1892,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1559268389,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [80]
 		{
 			"thac has an addon", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1914,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1559268391,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [81]
 		{
 			"you just need to whisper orcbum inv", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1936,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1559268401,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [82]
 		{
 			"and he'll auto inv u", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1958,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1559268409,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [83]
 		{
 			"you can kick my pally", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1980,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1559268444,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [84]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2002,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268494,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [85]
 		{
 			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2024,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559268513,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [86]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2046,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268558,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [87]
 		{
 			"<Send It> PVP emphasis Guild recruiting for  RBGS, Arenas, and Mythic + for end of week chest. Kil' Jaeden Server!  SEND IT! ", -- [1]
 			"Xciss-Kil'jaeden", -- [2]
@@ -2068,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Xciss|r",
 			[51] = 1559268563,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [88]
 		{
 			"brb", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2090,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1559268655,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [89]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2112,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268675,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [90]
 		{
 			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2134,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559268696,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [91]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2156,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268739,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [92]
 		{
 			"<Send It> PVP emphasis Guild recruiting for  RBGS, Arenas, and Mythic + for end of week chest. Kil' Jaeden Server!  SEND IT! ", -- [1]
 			"Xciss-Kil'jaeden", -- [2]
@@ -2178,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Xciss|r",
 			[51] = 1559268826,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [93]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2200,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [94]
 		{
 			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2222,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559268877,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [95]
 		{
 			"still need 3 more for main raid", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2244,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1559268901,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
+		}, -- [96]
 		{
 			"yeah", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2266,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559268910,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [97]
 		{
 			"chop cho", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2288,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559268912,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [98]
 		{
 			"p", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2310,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559268913,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [99]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2332,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559268921,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [100]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8956:Player-9-09033034:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Beastlord Darmac]|h|r!", -- [1]
 			"Torpex-Kil'jaeden", -- [2]
@@ -2354,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Torpex|r",
 			[51] = 1559268943,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [106]
+		}, -- [101]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2376,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269039,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [102]
 		{
 			"WTS Battle of Dazar'alor Heroic Run. Get your 400+ ilvl equipment today. Easy and Smooth! » Starting at 10:20", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2398,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559269061,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [103]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2420,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [104]
 		{
 			"brb, taking ginjer out", -- [1]
 			"|Kq33|k", -- [2]
@@ -2442,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCeesong|r",
 			[51] = 1559269108,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [110]
+		}, -- [105]
 		{
 			"kk", -- [1]
 			"|Kq33|k", -- [2]
@@ -2464,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCeesong|r",
 			[51] = 1559269132,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [111]
+		}, -- [106]
 		{
 			"two moreee", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2486,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559269204,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [107]
 		{
 			"i believee", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2508,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559269207,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [108]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2530,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269220,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8969:Player-9-09033034:1:5:30:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Operator Thogar]|h|r!", -- [1]
 			"Torpex-Kil'jaeden", -- [2]
@@ -2552,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Torpex|r",
 			[51] = 1559269231,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [115]
+		}, -- [110]
 		{
 			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2574,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559269241,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [111]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2596,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269284,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [112]
 		{
 			"back", -- [1]
 			"|Kq33|k", -- [2]
@@ -2618,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCeesong|r",
 			[51] = 1559269389,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [118]
+		}, -- [113]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2640,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269402,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [114]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2662,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269466,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [115]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Ramaghr-Kil'jaeden", -- [2]
@@ -2684,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ramaghr|r",
 			[51] = 1559269583,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [116]
 		{
 			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
 			"Ncherynd-Kil'jaeden", -- [2]
@@ -2706,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNcherynd|r",
 			[51] = 1559269606,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [117]
 		{
 			"SEE YOU GUYS NEXT WEEK!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2728,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559269609,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [123]
+		}, -- [118]
 		{
 			"<oRA3> Disbanding group.", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2750,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559269612,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [124]
+		}, -- [119]
 		{
 			": (", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -2772,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1559269616,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [120]
 		{
 			"but", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2794,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559269623,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [121]
 		{
 			"my bear", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2816,6 +2706,116 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1559269624,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:478:Player-9-0B69C336:1:5:31:19:4294967295:4294967295:4294967295:4294967295|h[The Nexus]|h|r!", -- [1]
+			"Wooper-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wooper-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-9-0B69C336", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeWooper|r",
+			[51] = 1559368992,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [123]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12:Player-9-0B69C336:1:5:31:19:4294967295:4294967295:4294967295:4294967295|h[Level 70]|h|r!", -- [1]
+			"Wooper-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wooper-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"Player-9-0B69C336", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeWooper|r",
+			[51] = 1559368992,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9033:Player-9-0AAC982F:1:5:31:19:4294967295:4294967295:4294967295:4294967295|h[Ready for Raiding IV]|h|r!", -- [1]
+			"Odynsglory-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odynsglory-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-9-0AAC982F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Odynsglory|r",
+			[51] = 1559371015,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:8843:Player-9-0AAC982F:1:5:31:19:4294967295:4294967295:4294967295:4294967295|h[Skyreach]|h|r!", -- [1]
+			"Odynsglory-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odynsglory-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			"Player-9-0AAC982F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Odynsglory|r",
+			[51] = 1559371786,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:8844:Player-9-0AAC982F:1:5:31:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: Skyreach]|h|r!", -- [1]
+			"Odynsglory-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odynsglory-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-9-0AAC982F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Odynsglory|r",
+			[51] = 1559371786,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

@@ -77,24 +77,32 @@ DataStore_GarrisonsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1559265268,
+				["lastUpdate"] = 1559370315,
 				["AvailableWarCampaignMissions"] = {
-					1929, -- [1]
-					1959, -- [2]
-					2116, -- [3]
-					1931, -- [4]
-					1939, -- [5]
+					2077, -- [1]
+					2116, -- [2]
+					1932, -- [3]
+					1933, -- [4]
 				},
 				["ActiveWarCampaignMissions"] = {
-					1952, -- [1]
+					1925, -- [1]
+					1950, -- [2]
 				},
 				["MissionsInfo"] = {
-					[1952] = {
-						["successChance"] = 180,
+					[1950] = {
+						["successChance"] = 200,
 						["followers"] = {
 							1065, -- [1]
-							1068, -- [2]
+							1071, -- [2]
 							1066, -- [3]
+						},
+					},
+					[1925] = {
+						["successChance"] = 190,
+						["followers"] = {
+							1072, -- [1]
+							1068, -- [2]
+							1067, -- [3]
 						},
 					},
 				},
@@ -106,7 +114,6 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 86400,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 200,
-					["level"] = 110,
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -116,34 +123,67 @@ DataStore_GarrisonsDB = {
 							["name"] = "+3,000 XP",
 						}, -- [1]
 					},
+					["level"] = 110,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 760,
+				},
+				[1925] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 274,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[1059] = {
 					["durationSeconds"] = 72000,
 					["type"] = "7.0 Class Hall - Treasure Missions",
 					["cost"] = 100,
-					["level"] = 108,
 					["rewards"] = {
 						{
 							["itemID"] = 147348,
 							["quantity"] = 1,
 						}, -- [1]
 					},
+					["level"] = 108,
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["iLevel"] = 760,
+				},
+				[1933] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 75,
+							["icon"] = 2032601,
+							["currencyID"] = 1597,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
 				},
 				[1682] = {
 					["durationSeconds"] = 115200,
 					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
 					["cost"] = 1000,
-					["level"] = 110,
 					["rewards"] = {
 						{
 							["itemID"] = 147505,
 							["quantity"] = 1,
 						}, -- [1]
 					},
+					["level"] = 110,
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["iLevel"] = 900,
 				},
@@ -151,7 +191,6 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 14400,
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 100,
-					["level"] = 105,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
@@ -160,6 +199,7 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
+					["level"] = 105,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 760,
 				},
@@ -177,64 +217,30 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-Treasure",
 					["iLevel"] = 800,
 				},
-				[1952] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 80,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 333,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1931] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 267,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1929] = {
-					["durationSeconds"] = 86400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Money Reward",
-							["quantity"] = 1156700,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1939] = {
-					["durationSeconds"] = 28800,
+				[2077] = {
+					["durationSeconds"] = 43200,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 225,
-							["icon"] = 2032599,
-							["currencyID"] = 1596,
+							["quantity"] = 350,
+							["icon"] = 2032592,
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1950] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 100,
+					["rewards"] = {
+						{
+							["itemID"] = 160053,
+							["quantity"] = 3,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -245,26 +251,26 @@ DataStore_GarrisonsDB = {
 					["durationSeconds"] = 25200,
 					["type"] = "7.0 Class Hall - Treasure Missions",
 					["cost"] = 150,
-					["level"] = 109,
 					["rewards"] = {
 						{
 							["itemID"] = 147348,
 							["quantity"] = 1,
 						}, -- [1]
 					},
+					["level"] = 109,
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["iLevel"] = 760,
 				},
-				[1959] = {
+				[1932] = {
 					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
+					["cost"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 125,
-							["icon"] = 2032593,
-							["currencyID"] = 1600,
+							["quantity"] = 260,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -318,15 +324,15 @@ DataStore_GarrisonsDB = {
 				["Lantresor of the Blade"] = 157,
 				["Bruto"] = 176,
 				["Justicar Julia Celeste"] = 755,
-				["Chen Stormstout"] = 596,
 				["Squad of Squires"] = 674,
+				["Chen Stormstout"] = 596,
 				["Dagg"] = 32,
 				["Vivianne"] = 216,
 				["Zen'tika"] = 263,
 				["Arator the Redeemer"] = 758,
-				["Fen Tao"] = 467,
-				["Tormmok"] = 193,
 				["Lothraxion"] = 759,
+				["Tormmok"] = 193,
+				["Fen Tao"] = 467,
 				["Angus Ironfist"] = 605,
 				["Karg Bloodfury"] = 459,
 				["Benjamin Gibb"] = 204,

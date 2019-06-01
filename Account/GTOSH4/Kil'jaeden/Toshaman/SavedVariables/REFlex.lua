@@ -2638,16 +2638,16 @@ REFlexDatabase = {
 		},
 		["PlayersNum"] = 4,
 		["Duration"] = 84,
-		["Season"] = 27,
-		["isArena"] = true,
-		["Time"] = 1550743625,
+		["Hidden"] = false,
 		["isBrawl"] = false,
+		["Time"] = 1550743625,
+		["isArena"] = true,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 268,
 		["Winner"] = 1,
 		["PlayerNum"] = 3,
-		["Hidden"] = false,
+		["Season"] = 27,
 	}, -- [24]
 	{
 		["Map"] = 1911,
@@ -4633,9 +4633,9 @@ REFlexDatabase = {
 REFlexHonorDatabase = {
 	[1550570400] = 12,
 	[1550052000] = 27,
-	[1550484000] = 90,
-	[1550743200] = 1930,
-	[1555488000] = 2,
 	[1550656800] = 380,
 	[1549879200] = 1810,
+	[1555488000] = 2,
+	[1550484000] = 90,
+	[1550743200] = 1930,
 }

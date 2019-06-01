@@ -18,24 +18,12 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1559258301,
-				["lastVisitDate"] = "2019/05/30 19:18",
+				["lastUpdate"] = 1559352019,
+				["lastVisitDate"] = "2019/05/31 21:20",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1559256255,
-				["Mails"] = {
-					{
-						["icon"] = 134327,
-						["sender"] = "Yellowysham",
-						["subject"] = "$$$",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "For those flask the other day",
-						["lastCheck"] = 1559256255,
-						["daysLeft"] = 30.9137496948242,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2019/05/30 18:44",
+				["lastUpdate"] = 1559371466,
+				["lastVisitDate"] = "2019/06/01 02:44",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1559087739,
