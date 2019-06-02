@@ -56,9 +56,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshtrial"] = {
+		["Toshpal"] = {
 			["profile"] = "default",
-			["name"] = "Toshtrial",
+			["name"] = "Toshpal",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -98,9 +98,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshpal"] = {
+		["Toshtrial"] = {
 			["profile"] = "default",
-			["name"] = "Toshpal",
+			["name"] = "Toshtrial",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -150,7 +150,7 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["interrupt"] = false,
 			["gmotd"] = {
 				[""] = true,
@@ -177,37 +177,37 @@ BD_persistent = {
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["slay mekka friday and blockade saturday "] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["slay mekka friday and blockade saturday "] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

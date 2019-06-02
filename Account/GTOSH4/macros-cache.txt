@@ -53,9 +53,6 @@ END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
 END
-VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
-/readycheck
-END
 VER 3 0000000000000017 "RL" "Ability_Hunter_BeastCall02."
 /reload ui
 END

@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
-	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
+	["LOG_DE_DATA_X"] = true,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
 	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,55 +48,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Anchor Weed", -- [1]
-			"Winter's Kiss", -- [2]
-			"Akunda's Bite", -- [3]
-			"coastal healing potion", -- [4]
-			"Deadly amberblaze", -- [5]
-			"Felwort", -- [6]
-			"Siren's Pollen", -- [7]
-			"Battle-Scarred Augment Rune", -- [8]
-			"Vantus Rune: Battle of Dazar'alor", -- [9]
-			"Pact of Critical", -- [10]
-			"time shifter", -- [11]
-			"time-shifter", -- [12]
-			"Ultramarine", -- [13]
-			"hexweave bag", -- [14]
-			"Battle Shout", -- [15]
-			"Battle flag", -- [16]
-			"crafting", -- [17]
-			"Star moss", -- [18]
-			"Riverbud", -- [19]
-			"Sugar Crusted", -- [20]
-			"Sugar-Crusted", -- [21]
-			"Fish", -- [22]
-			"Feast", -- [23]
-			"Fish Feast", -- [24]
-			"Monel-hardened stirrups", -- [25]
-			"Great sea catfish", -- [26]
-			"Drums", -- [27]
-			"Drums of maelstrom", -- [28]
-			"Kraken's Eye of intellect", -- [29]
-			"coarse leather", -- [30]
-			"Alchemist stone", -- [31]
-			"Darkmoon deck: tides", -- [32]
-			"tides", -- [33]
-			"Goblin glider", -- [34]
-			"Pact of versatility", -- [35]
-			"Versatile navigation", -- [36]
-			"Viridescent Ink", -- [37]
-			"quick navigation", -- [38]
-			"Pact of haste", -- [39]
-			"quick owlseye", -- [40]
-			"helmet", -- [41]
-			"Deep sea", -- [42]
-			"Diver's", -- [43]
-			"Diver", -- [44]
-			"Deep sea satin", -- [45]
-			"Deadly Navigation", -- [46]
-			"Kraken's Eye", -- [47]
-			"bread", -- [48]
-			"Mount motivator", -- [49]
+			"Vantus Rune", -- [1]
+			"Anchor Weed", -- [2]
+			"Winter's Kiss", -- [3]
+			"Akunda's Bite", -- [4]
+			"coastal healing potion", -- [5]
+			"Deadly amberblaze", -- [6]
+			"Felwort", -- [7]
+			"Siren's Pollen", -- [8]
+			"Battle-Scarred Augment Rune", -- [9]
+			"Vantus Rune: Battle of Dazar'alor", -- [10]
+			"Pact of Critical", -- [11]
+			"time shifter", -- [12]
+			"time-shifter", -- [13]
+			"Ultramarine", -- [14]
+			"hexweave bag", -- [15]
+			"Battle Shout", -- [16]
+			"Battle flag", -- [17]
+			"crafting", -- [18]
+			"Star moss", -- [19]
+			"Riverbud", -- [20]
+			"Sugar Crusted", -- [21]
+			"Sugar-Crusted", -- [22]
+			"Fish", -- [23]
+			"Feast", -- [24]
+			"Fish Feast", -- [25]
+			"Monel-hardened stirrups", -- [26]
+			"Great sea catfish", -- [27]
+			"Drums", -- [28]
+			"Drums of maelstrom", -- [29]
+			"Kraken's Eye of intellect", -- [30]
+			"coarse leather", -- [31]
+			"Alchemist stone", -- [32]
+			"Darkmoon deck: tides", -- [33]
+			"tides", -- [34]
+			"Goblin glider", -- [35]
+			"Pact of versatility", -- [36]
+			"Versatile navigation", -- [37]
+			"Viridescent Ink", -- [38]
+			"quick navigation", -- [39]
+			"Pact of haste", -- [40]
+			"quick owlseye", -- [41]
+			"helmet", -- [42]
+			"Deep sea", -- [43]
+			"Diver's", -- [44]
+			"Diver", -- [45]
+			"Deep sea satin", -- [46]
+			"Deadly Navigation", -- [47]
+			"Kraken's Eye", -- [48]
+			"bread", -- [49]
+			"Mount motivator", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -559,11 +560,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
-			["mr"] = 8489999,
+			["mr"] = 6500000,
+			["cc"] = 0,
+			["H3120"] = 6500000,
 			["sc"] = 9,
 			["id"] = "165692:0:0:0:0",
-			["H3091"] = 8489999,
-			["cc"] = 0,
 		},
 		["Pygmy Suckerfish"] = {
 			["mr"] = 54863,
@@ -592,6 +593,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "53066:0:0:0:0",
 			["sc"] = 8,
 			["H3017"] = 307179,
+		},
+		["Vantus Rune: Uldir"] = {
+			["mr"] = 16633692,
+			["sc"] = 9,
+			["H3120"] = 16633692,
+			["id"] = "153673:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Drums of the Maelstrom"] = {
 			["mr"] = 1499999,
@@ -1384,6 +1392,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 61056234,
 			["sc"] = 3,
 		},
+		["Vantus Rune: Crucible of Storms"] = {
+			["mr"] = 299998899,
+			["sc"] = 9,
+			["H3120"] = 299998899,
+			["id"] = "165733:0:0:0:0",
+			["cc"] = 0,
+		},
 		["Quick Owlseye"] = {
 			["mr"] = 7399999,
 			["cc"] = 3,
@@ -1490,6 +1505,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154809:0:0:0:4796",
 			["H2999"] = 990000,
 			["sc"] = 4,
+		},
+		["Vantus Rune: Antorus, the Burning Throne"] = {
+			["mr"] = 19899996,
+			["sc"] = 9,
+			["H3120"] = 19899996,
+			["id"] = "151610:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Drums of Rage"] = {
 			["mr"] = 8670128,

@@ -14,10 +14,11 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1559354769,
+				["lastUpdate"] = 1559436498,
 				["Specializations"] = {
 					5993, -- [1]
 					7065, -- [2]
+					16025, -- [3]
 				},
 				["Class"] = "PALADIN",
 			},
@@ -28,13 +29,12 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PRIEST",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1559087653,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430813,
 				["Specializations"] = {
-					7165, -- [1]
-					[4] = 6893,
+					0, -- [1]
 				},
-				["Class"] = "DRUID",
+				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556083143,
@@ -54,19 +54,20 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1559370449,
+				["lastUpdate"] = 1559450198,
 				["Specializations"] = {
 					11614, -- [1]
-					[3] = 7831,
+					[3] = 8087,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Frostwolf.Zallie"] = {
-				["lastUpdate"] = 1557430813,
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1559087653,
 				["Specializations"] = {
-					0, -- [1]
+					7165, -- [1]
+					[4] = 6893,
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "DRUID",
 			},
 		},
 	},
@@ -198,7 +199,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 30477,
+			["Version"] = 29981,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -255,8 +256,34 @@ DataStore_TalentsRefDB = {
 						22645, -- [21]
 					},
 				}, -- [2]
+				{
+					["id"] = 70,
+					["talents"] = {
+						22590, -- [1]
+						22557, -- [2]
+						22175, -- [3]
+						22319, -- [4]
+						22592, -- [5]
+						22593, -- [6]
+						22896, -- [7]
+						22180, -- [8]
+						21811, -- [9]
+						22375, -- [10]
+						22182, -- [11]
+						22183, -- [12]
+						22595, -- [13]
+						22185, -- [14]
+						22186, -- [15]
+						23167, -- [16]
+						22483, -- [17]
+						23086, -- [18]
+						22591, -- [19]
+						22215, -- [20]
+						22634, -- [21]
+					},
+				}, -- [3]
 			},
-			["Version"] = 30477,
+			["Version"] = 29981,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",

@@ -30,9 +30,9 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|370928841"] = "290081|1559370316|0|1",
+					["Battle of Dazar'alor Mythic|370928841"] = "206024|1559454375|0|1",
 				},
-				["lastUpdate"] = 1559371876,
+				["lastUpdate"] = 1559455022,
 			},
 		},
 	},

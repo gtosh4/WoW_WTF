@@ -266,6 +266,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Stormsong",
 		},
+		[282437] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
 		[264526] = {
 			["school"] = 48,
 			["type"] = "DEBUFF",
@@ -691,6 +697,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Andruww",
 		},
+		[475] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Arnbjørn",
+		},
 		[287585] = {
 			["school"] = 16,
 			["token"] = {
@@ -1061,6 +1074,14 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Ngow",
+		},
+		[27827] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Yellowy",
 		},
 		[192231] = {
 			["school"] = 4,
@@ -1998,6 +2019,8 @@ EncounterDetailsDB = {
 			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "鲁尔纳尔",
 		},
@@ -2194,6 +2217,22 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Spirit of Xuen",
+		},
+		[288193] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Necrophobiá",
+		},
+		[288194] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Necrophobiá",
 		},
 		[108447] = {
 			["school"] = 32,
@@ -2528,7 +2567,9 @@ EncounterDetailsDB = {
 		},
 		[228354] = {
 			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Aimx-Mal'Ganis",
@@ -2693,6 +2734,17 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Grong",
+		},
+		[285154] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Zaxasj the Speaker",
 		},
 		[283619] = {
 			["school"] = 2,
@@ -3114,6 +3166,15 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Fa'thuul the Feared",
+		},
+		[66] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Arnbjørn",
 		},
 		[256005] = {
 			["school"] = 1,
@@ -4303,6 +4364,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zombiemonk",
 		},
+		[288841] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Yellowy",
+		},
 		[288330] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -4480,6 +4549,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Stormsong",
 		},
+		[16870] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Pluie",
+		},
 		[288343] = {
 			["school"] = 32,
 			["type"] = "BUFF",
@@ -4593,6 +4670,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Rylaiz",
+		},
+		[52212] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Necrophobiá",
 		},
 		[268905] = {
 			["school"] = 1,
@@ -5461,6 +5545,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thunderzmonk",
 		},
+		[288189] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Necrophobiá",
+		},
 		[113746] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -5476,6 +5567,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
+		[281517] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Necrophobiá",
+		},
 		[288410] = {
 			["school"] = 1,
 			["token"] = {
@@ -5484,12 +5583,80 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
+		[1022] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Aspbringer",
+		},
+		[17962] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Warlockmania",
+		},
 		[255575] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Priestess Alun'za",
+		},
+		[117828] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Warlockmania",
+		},
+		[168657] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Pluie",
+		},
+		[292463] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Daiyzed",
+		},
+		[8936] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Pluie",
+		},
+		[282630] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Eldritch Abomination",
+		},
+		[250870] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Arnbjørn",
 		},
 		[285342] = {
 			["school"] = 1,
@@ -5500,6 +5667,21 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Energized Storm",
+		},
+		[235219] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Arnbjørn",
+		},
+		[205473] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Arnbjørn",
 		},
 		[284831] = {
 			["school"] = 4,
@@ -5512,6 +5694,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "King Rastakhan",
 		},
+		[102383] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Daiyzed",
+		},
+		[278310] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Arnbjørn",
+		},
 		[286367] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -5520,6 +5717,20 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Living Bomb",
+		},
+		[8921] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Daiyzed",
+		},
+		[93402] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Daiyzed",
 		},
 		[255577] = {
 			["school"] = 1,
@@ -5577,6 +5788,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Living Bomb",
 		},
+		[255445] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Rezan",
+		},
 		[266923] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -5600,6 +5818,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
+		[288693] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Tormented Soul",
+		},
 		[285347] = {
 			["school"] = 1,
 			["token"] = {
@@ -5615,6 +5842,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sister Malady",
+		},
+		[284316] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Brother Joseph",
 		},
 		[272554] = {
 			["school"] = 1,
@@ -5676,6 +5911,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sister Briar",
+		},
+		[32612] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Arnbjørn",
 		},
 		[264368] = {
 			["school"] = 1,
@@ -5769,7 +6012,10 @@ EncounterDetailsDB = {
 		},
 		[774] = {
 			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Ngow",
@@ -6162,8 +6408,11 @@ EncounterDetailsDB = {
 		},
 		[164812] = {
 			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Slurry",
 		},
@@ -6601,6 +6850,7 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Dragonsdeath",
 		},
@@ -6613,12 +6863,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Huit",
 		},
-		[255445] = {
-			["school"] = 1,
+		[84714] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Rezan",
+			["source"] = "Arnbjørn",
 		},
 		[157644] = {
 			["school"] = 1,
@@ -6664,14 +6914,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cannons",
 		},
-		[1022] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[258921] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aspbringer",
+			["source"] = "Andruww",
 		},
 		[124503] = {
 			["school"] = 1,
@@ -7280,14 +7528,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aimx-Mal'Ganis",
 		},
-		[288693] = {
-			["school"] = 32,
+		[190356] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tormented Soul",
+			["source"] = "Arnbjørn",
 		},
 		[288981] = {
 			["school"] = 1,
@@ -7663,13 +7909,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sneakydrag-Zul'jin",
 		},
-		[284316] = {
-			["school"] = 16,
+		[295134] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Brother Joseph",
+			["source"] = "Arnbjørn",
 		},
 		[264481] = {
 			["school"] = 1,
@@ -8778,6 +9024,8 @@ EncounterDetailsDB = {
 			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Ocean Rune",
 		},
@@ -9596,8 +9844,11 @@ EncounterDetailsDB = {
 		},
 		[164815] = {
 			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Slurry",
 		},
@@ -10300,13 +10551,247 @@ EncounterDetailsDB = {
 	},
 	["emotes"] = {
 		{
-			["boss"] = "Gorak Tul",
+			{
+				4.87900000018999, -- [1]
+				"Cower before his might!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				68.6920000000391, -- [1]
+				"Your pathetic existence will be washed away!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				71.7320000000764, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				74.7639999999665, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				74.7639999999665, -- [1]
+				"Your screams will echo through his halls!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				108.808000000194, -- [1]
+				"You will drown in your terror!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				111.798000000184, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				1, -- [4]
+			}, -- [7]
+			{
+				115.266999999993, -- [1]
+				"Behold the end of your pitiful defiance!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				122.935999999987, -- [1]
+				"For the master!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				126.969000000041, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				145.066000000108, -- [1]
+				"The fish shall feast...", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				4, -- [4]
+			}, -- [11]
+			["boss"] = "The Restless Cabal",
 		}, -- [1]
 		{
-			["boss"] = "Lord and Lady Waycrest",
+			{
+				4.79099999996834, -- [1]
+				"Kneel in the shadow of his glory!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				65.4969999999739, -- [1]
+				"Your pathetic existence will be washed away!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				68.5109999999404, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				71.4429999999702, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				71.4429999999702, -- [1]
+				"Your screams will echo through his halls!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				112.504999999888, -- [1]
+				"You will drown in your terror!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				115.496999999974, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				1, -- [4]
+			}, -- [7]
+			{
+				118.564000000013, -- [1]
+				"Behold the end of your pitiful defiance!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				127.30299999984, -- [1]
+				"The fish shall feast...", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				4, -- [4]
+			}, -- [9]
+			["boss"] = "The Restless Cabal",
 		}, -- [2]
 		{
-			["boss"] = "Heartsbane Triad",
+			{
+				4.94499999983236, -- [1]
+				"Cower before his might!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				67.935999999987, -- [1]
+				"Your pathetic existence will be washed away!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [2]
+			{
+				70.9420000000391, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				1, -- [4]
+			}, -- [3]
+			{
+				73.9399999999441, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [4]
+			{
+				73.9399999999441, -- [1]
+				"Your screams will echo through his halls!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				112.853999999817, -- [1]
+				"You will drown in your terror!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				115.863999999827, -- [1]
+				"|TInterface\\Icons\\Spell_winston_bubble:20|t|cFFFF0000%s|r activates the power of the Trident of Deep Ocean!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				1, -- [4]
+			}, -- [7]
+			{
+				118.947999999858, -- [1]
+				"Behold the end of your pitiful defiance!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				128.260000000009, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [9]
+			{
+				176.871000000043, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [10]
+			{
+				189.466000000015, -- [1]
+				"All will be consumed!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				192.304000000004, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast:20|t|cFFFF0000%s|r activates the power of the Void Stone!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				1, -- [4]
+			}, -- [12]
+			{
+				195.43200000003, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [13]
+			{
+				195.467999999877, -- [1]
+				"Your screams will echo through his halls!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				198.369999999879, -- [1]
+				"Unworthy!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				212.598999999929, -- [1]
+				"Your flesh is forfeit!", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				216.518999999855, -- [1]
+				"Unworthy!", -- [2]
+				"Fa'thuul the Feared", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				217.02099999995, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_POSSESSION:20|t|cFFFF0000%s|r begins to cast |cFFFF0000|Hspell:282517|h[Terrifying Echo]|h|r!", -- [2]
+				"Visage from Beyond", -- [3]
+				1, -- [4]
+			}, -- [18]
+			{
+				220.899999999907, -- [1]
+				"The fish shall feast...", -- [2]
+				"Zaxasj the Speaker", -- [3]
+				4, -- [4]
+			}, -- [19]
+			["boss"] = "The Restless Cabal",
 		}, -- [3]
 	},
 }

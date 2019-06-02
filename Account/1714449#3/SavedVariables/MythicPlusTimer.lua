@@ -7,6 +7,72 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["objectiveTimePerLevel"] = true,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
+		["deathCounter"] = false,
+		["hideDefaultObjectiveTracker"] = true,
+		["insertKeystone"] = true,
+		["show_affixes_as_icons"] = false,
+		["progressTooltip"] = true,
+		["objectiveTimeInChat"] = true,
+		["show_affixes_as_text"] = true,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["objective_time_inchat"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l17",
+			["quantity_number"] = 346,
+			["cm_level"] = 17,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Waycrest Manor",
+			["elapsed_time"] = 3418,
+			["time_left"] = 0,
+			["deathcount_visible"] = true,
+			["steps"] = 6,
+			["death_names"] = {
+				["Pride"] = 18,
+				["Yukio"] = 11,
+				["Tosh"] = 10,
+				["Qiro"] = 11,
+				["Litsong"] = 14,
+			},
+			["deathcount"] = 64,
+			["is_reaping"] = true,
+			["current_zone_id"] = 1862,
+			["max_time"] = 2340,
+			["current_map_id"] = 248,
+			["times"] = {
+				2650, -- [1]
+				1487, -- [2]
+				1074, -- [3]
+				3065, -- [4]
+				3187, -- [5]
+				3418, -- [6]
+				["5last_best_time_zone"] = 1662,
+				["4last_best_time_zone"] = 1487,
+				["3last_best_time_zone"] = 477,
+				["2last_best_time_zone"] = 801,
+				["1last_best_time_zone"] = 233,
+			},
+			["affixes"] = {
+				10, -- [1]
+				5, -- [2]
+				14, -- [3]
+				117, -- [4]
+			},
+			["affixes_key"] = "affixes-5-10-14-117",
+			["final_quantity_number"] = 346,
+			["time_left_2"] = 0,
+		},
+		["show_absolute_numbers"] = false,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -415,72 +481,6 @@ MythicPlusTimerDB = {
 				[5] = 1206,
 			},
 		},
-		["deathCounter"] = false,
-		["hideDefaultObjectiveTracker"] = true,
-		["insertKeystone"] = true,
-		["show_affixes_as_icons"] = false,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
-		["objectiveTimeInChat"] = true,
-		["show_affixes_as_text"] = true,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["objective_time_inchat"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l17",
-			["quantity_number"] = 346,
-			["cm_level"] = 17,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Waycrest Manor",
-			["elapsed_time"] = 3418,
-			["time_left"] = 0,
-			["deathcount_visible"] = true,
-			["steps"] = 6,
-			["death_names"] = {
-				["Pride"] = 18,
-				["Yukio"] = 11,
-				["Tosh"] = 10,
-				["Qiro"] = 11,
-				["Litsong"] = 14,
-			},
-			["deathcount"] = 64,
-			["is_reaping"] = true,
-			["current_zone_id"] = 1862,
-			["max_time"] = 2340,
-			["current_map_id"] = 248,
-			["times"] = {
-				2650, -- [1]
-				1487, -- [2]
-				1074, -- [3]
-				3065, -- [4]
-				3187, -- [5]
-				3418, -- [6]
-				["5last_best_time_zone"] = 1662,
-				["4last_best_time_zone"] = 1487,
-				["3last_best_time_zone"] = 477,
-				["2last_best_time_zone"] = 801,
-				["1last_best_time_zone"] = 233,
-			},
-			["affixes"] = {
-				10, -- [1]
-				5, -- [2]
-				14, -- [3]
-				117, -- [4]
-			},
-			["affixes_key"] = "affixes-5-10-14-117",
-			["final_quantity_number"] = 346,
-			["time_left_2"] = 0,
-		},
-		["show_absolute_numbers"] = false,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["showAffixesAsText"] = true,
-		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1110,8 +1110,8 @@ MythicPlusTimerDB = {
 			[96657] = {
 				[12] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[131677] = {
+				[6] = 9,
 			},
 			[133912] = {
 				[6] = 22,
@@ -1119,8 +1119,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[134232] = {
-				[4] = 25,
+			[98926] = {
+				[4] = 1,
 			},
 			[133593] = {
 				[5] = 3,
@@ -1128,8 +1128,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[131677] = {
-				[6] = 9,
+			[135254] = {
+				[4] = 2,
 			},
 			[135245] = {
 				[8] = 13,
@@ -1273,13 +1273,13 @@ MythicPlusTimerDB = {
 			[134174] = {
 				[5] = 22,
 			},
-			[100526] = {
+			[92350] = {
 				[4] = 1,
 			},
 			[114802] = {
 				[4] = 1,
 			},
-			[105636] = {
+			[100526] = {
 				[4] = 1,
 			},
 			[131402] = {
@@ -1351,8 +1351,8 @@ MythicPlusTimerDB = {
 			[129367] = {
 				[4] = 8,
 			},
-			[129559] = {
-				[4] = 15,
+			[131112] = {
+				[6] = 35,
 			},
 			[118700] = {
 				[2] = 1,
@@ -1367,8 +1367,8 @@ MythicPlusTimerDB = {
 			[129527] = {
 				[4] = 38,
 			},
-			[139799] = {
-				[9] = 51,
+			[129559] = {
+				[4] = 15,
 			},
 			[114804] = {
 				[4] = 1,
@@ -1455,14 +1455,14 @@ MythicPlusTimerDB = {
 			[101839] = {
 				[4] = 1,
 			},
-			[127485] = {
-				[3] = 18,
+			[129529] = {
+				[4] = 45,
 			},
 			[95771] = {
 				[4] = 1,
 			},
-			[134629] = {
-				[6] = 4,
+			[127485] = {
+				[3] = 18,
 			},
 			[135204] = {
 				[4] = 26,
@@ -1488,8 +1488,8 @@ MythicPlusTimerDB = {
 			[97081] = {
 				[5] = 1,
 			},
-			[129529] = {
-				[4] = 45,
+			[134629] = {
+				[6] = 4,
 			},
 			[100527] = {
 				[3] = 1,
@@ -1536,8 +1536,8 @@ MythicPlusTimerDB = {
 			[97173] = {
 				[4] = 1,
 			},
-			[131112] = {
-				[6] = 35,
+			[139799] = {
+				[9] = 51,
 			},
 			[104300] = {
 				[4] = 1,
@@ -1560,7 +1560,7 @@ MythicPlusTimerDB = {
 			[116550] = {
 				[4] = 1,
 			},
-			[92350] = {
+			[105636] = {
 				[4] = 1,
 			},
 			[91781] = {
@@ -1622,8 +1622,8 @@ MythicPlusTimerDB = {
 				0.0281474976710656, -- [1]
 				[4] = 18.4,
 			},
-			[98926] = {
-				[4] = 1,
+			[134232] = {
+				[4] = 25,
 			},
 			[134423] = {
 				84, -- [1]
