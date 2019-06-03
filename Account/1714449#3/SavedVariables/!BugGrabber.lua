@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 772,
 	["lastSanitation"] = 3,
-	["session"] = 767,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:937: attempt to get length of field 'tabs' (a nil value)",
@@ -57,8 +57,8 @@ BugGrabberDB = {
 		}, -- [7]
 		{
 			["message"] = "(null)",
-			["session"] = 762,
 			["time"] = "2019/06/01 02:24:18",
+			["session"] = 762,
 			["counter"] = 3,
 		}, -- [8]
 		{

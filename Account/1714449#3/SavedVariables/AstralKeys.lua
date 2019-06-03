@@ -293,9 +293,9 @@ AstralKeys = {
 		"DEMONHUNTER", -- [2]
 		252, -- [3]
 		14, -- [4]
-		15, -- [5]
+		0, -- [5]
 		97, -- [6]
-		5, -- [7]
+		474204, -- [7]
 	}, -- [33]
 	{
 		"Trophie-Kil'jaeden", -- [1]
@@ -318,11 +318,11 @@ AstralKeys = {
 	{
 		"Andrewzz-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
-		249, -- [3]
-		17, -- [4]
+		246, -- [3]
+		14, -- [4]
 		16, -- [5]
 		97, -- [6]
-		210134, -- [7]
+		477894, -- [7]
 	}, -- [36]
 	{
 		"Khalitzburg-Kil'jaeden", -- [1]
@@ -376,7 +376,7 @@ AstralKeys = {
 		17, -- [4]
 		17, -- [5]
 		97, -- [6]
-		2, -- [7]
+		453593, -- [7]
 	}, -- [42]
 	{
 		"Khelikloth-Kil'jaeden", -- [1]
@@ -394,7 +394,7 @@ AstralKeys = {
 		9, -- [4]
 		0, -- [5]
 		97, -- [6]
-		212030, -- [7]
+		474360, -- [7]
 	}, -- [44]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -403,7 +403,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		97, -- [6]
-		399145, -- [7]
+		475677, -- [7]
 	}, -- [45]
 	{
 		"Fearings-Kil'jaeden", -- [1]
@@ -412,7 +412,7 @@ AstralKeys = {
 		12, -- [4]
 		13, -- [5]
 		97, -- [6]
-		2, -- [7]
+		4, -- [7]
 	}, -- [46]
 	{
 		"Skarsnik-Kil'jaeden", -- [1]
@@ -432,19 +432,28 @@ AstralKeys = {
 		97, -- [6]
 		2, -- [7]
 	}, -- [48]
+	{
+		"Wraithbrand-Kil'jaeden", -- [1]
+		"MAGE", -- [2]
+		245, -- [3]
+		16, -- [4]
+		0, -- [5]
+		97, -- [6]
+		3, -- [7]
+	}, -- [49]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 16,
 		["class"] = "MONK",
-		["faction"] = 1,
 		["unit"] = "Toshmonk-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 17,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [2]
 }
 AstralFriends = {
@@ -774,7 +783,7 @@ AstralFriends = {
 		247, -- [4]
 		16, -- [5]
 		97, -- [6]
-		389762, -- [7]
+		471866, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [30]
@@ -785,7 +794,7 @@ AstralFriends = {
 		250, -- [4]
 		15, -- [5]
 		97, -- [6]
-		324127, -- [7]
+		471957, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [31]
@@ -796,7 +805,7 @@ AstralFriends = {
 		247, -- [4]
 		18, -- [5]
 		97, -- [6]
-		388736, -- [7]
+		476760, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [32]
@@ -807,12 +816,45 @@ AstralFriends = {
 		247, -- [4]
 		12, -- [5]
 		97, -- [6]
-		322443, -- [7]
+		410021, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [33]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1559660400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -826,7 +868,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -835,42 +879,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = true,
-		},
-		["init_time"] = 1559660400,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
-			["no_key"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
 }
 AstralMinimap = {

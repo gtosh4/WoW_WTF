@@ -20,17 +20,22 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|371041217"] = "223899|1559436500|0|1",
-					["Crucible of Storms Heroic|371076968"] = "223899|1559436500|0|1",
-					["Battle of Dazar'alor Heroic|371071596"] = "223899|1559436500|0|1",
+					["Battle of Dazar'alor Mythic|371041217"] = "116655|1559543742|0|1",
+					["Crucible of Storms Heroic|371076968"] = "116655|1559543742|0|1",
+					["Battle of Dazar'alor Heroic|371071596"] = "116655|1559543742|0|1",
 				},
-				["lastUpdate"] = 1559436922,
+				["lastUpdate"] = 1559544116,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
 			},
-			["Default.Frostwolf.Zallie"] = {
-				["lastUpdate"] = 1557430951,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1559087733,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556091490,
@@ -45,22 +50,15 @@ DataStore_AgendaDB = {
 					},
 					["Tosh"] = {
 						["note"] = "",
-						["class"] = "Priest",
-						["level"] = 120,
 					},
 				},
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|371041217"] = "210761|1559449638|0|1",
+					["Battle of Dazar'alor Mythic|371041217"] = "116247|1559544151|0|1",
 				},
-				["lastUpdate"] = 1559453126,
+				["lastUpdate"] = 1559546040,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1559087733,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430951,
 			},
 		},
 	},

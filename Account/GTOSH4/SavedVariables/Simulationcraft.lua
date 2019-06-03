@@ -13,6 +13,10 @@ SimulationCraftDB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["minimap"] = {
+				["minimapPos"] = 157.421376076648,
+				["hide"] = true,
+			},
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
