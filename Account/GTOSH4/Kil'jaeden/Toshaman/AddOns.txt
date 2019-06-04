@@ -21,3 +21,4 @@ BigWigs_Uldir: enabled
 Dominos: disabled
 AAP-Vanilla: enabled
 AAP-TBC-WotLK: enabled
+BigWigs_Classic: enabled

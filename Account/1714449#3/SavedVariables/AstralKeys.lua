@@ -318,11 +318,11 @@ AstralKeys = {
 	{
 		"Andrewzz-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
-		246, -- [3]
-		14, -- [4]
+		250, -- [3]
+		12, -- [4]
 		16, -- [5]
 		97, -- [6]
-		477894, -- [7]
+		559086, -- [7]
 	}, -- [36]
 	{
 		"Khalitzburg-Kil'jaeden", -- [1]
@@ -340,16 +340,16 @@ AstralKeys = {
 		17, -- [4]
 		18, -- [5]
 		97, -- [6]
-		2, -- [7]
+		5, -- [7]
 	}, -- [38]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
 		"WARRIOR", -- [2]
 		246, -- [3]
 		17, -- [4]
-		0, -- [5]
+		16, -- [5]
 		97, -- [6]
-		205946, -- [7]
+		559081, -- [7]
 	}, -- [39]
 	{
 		"Voidamental-Kil'jaeden", -- [1]
@@ -403,7 +403,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		97, -- [6]
-		475677, -- [7]
+		559611, -- [7]
 	}, -- [45]
 	{
 		"Fearings-Kil'jaeden", -- [1]
@@ -412,7 +412,7 @@ AstralKeys = {
 		12, -- [4]
 		13, -- [5]
 		97, -- [6]
-		4, -- [7]
+		5, -- [7]
 	}, -- [46]
 	{
 		"Skarsnik-Kil'jaeden", -- [1]
@@ -437,23 +437,23 @@ AstralKeys = {
 		"MAGE", -- [2]
 		245, -- [3]
 		16, -- [4]
-		0, -- [5]
+		16, -- [5]
 		97, -- [6]
-		3, -- [7]
+		4, -- [7]
 	}, -- [49]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 16,
 		["class"] = "MONK",
-		["unit"] = "Toshmonk-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshmonk-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 17,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -706,9 +706,9 @@ AstralFriends = {
 		246, -- [4]
 		17, -- [5]
 		97, -- [6]
-		205946, -- [7]
+		558880, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [23]
 	{
 		"Khelikloth-Kil'jaeden", -- [1]
@@ -783,7 +783,7 @@ AstralFriends = {
 		247, -- [4]
 		16, -- [5]
 		97, -- [6]
-		471866, -- [7]
+		542760, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [30]
@@ -794,7 +794,7 @@ AstralFriends = {
 		250, -- [4]
 		15, -- [5]
 		97, -- [6]
-		471957, -- [7]
+		555538, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [31]
@@ -805,7 +805,7 @@ AstralFriends = {
 		247, -- [4]
 		18, -- [5]
 		97, -- [6]
-		476760, -- [7]
+		554121, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [32]
@@ -816,43 +816,29 @@ AstralFriends = {
 		247, -- [4]
 		12, -- [5]
 		97, -- [6]
-		410021, -- [7]
+		553620, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [33]
+	{
+		"Funkotron-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"MONK", -- [3]
+		249, -- [4]
+		9, -- [5]
+		97, -- [6]
+		556732, -- [7]
+		"1", -- [8]
+		10, -- [9]
+	}, -- [34]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
-		},
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = true,
-		},
-		["init_time"] = 1559660400,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
-			["guild"] = false,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -868,9 +854,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -879,8 +863,35 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1559660400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

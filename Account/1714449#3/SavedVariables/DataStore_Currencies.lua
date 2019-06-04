@@ -50,18 +50,18 @@ DataStore_CurrenciesDB = {
 				["War Resources"] = 6,
 				["Dalaran Jewelcrafter's Token"] = 26,
 				["Titan Residuum"] = 5,
-				["Curious Coin"] = 12,
-				["Order Resources"] = 15,
-				["Timewarped Badge"] = 8,
-				["Timeworn Artifact"] = 17,
-				["Battle for Azeroth"] = 1,
-				["Wakening Essence"] = 19,
-				["Legion"] = 9,
-				["Apexis Crystal"] = 21,
-				["Warlords of Draenor"] = 20,
-				["Garrison Resources"] = 22,
-				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,
+				["Seal of Tempered Fate"] = 23,
+				["Garrison Resources"] = 22,
+				["Timeworn Artifact"] = 17,
+				["Wakening Essence"] = 19,
+				["Warlords of Draenor"] = 20,
+				["Apexis Crystal"] = 21,
+				["Legion"] = 9,
+				["Battle for Azeroth"] = 1,
+				["Timewarped Badge"] = 8,
+				["Order Resources"] = 15,
+				["Curious Coin"] = 12,
 				["Champion's Seal"] = 25,
 				["Legionfall War Supplies"] = 13,
 			},
@@ -116,25 +116,25 @@ DataStore_CurrenciesDB = {
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-6",
 					[1191] = "0-0-0-0",
-					[1580] = "3-0-0-5",
-					[823] = "0-0-0-0",
-					[1560] = "1163-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "83-0-0-0",
 					[1342] = "32-0-0-1000",
 					[1226] = "766-0-0-0",
-					[1710] = "83-0-0-0",
+					[1560] = "1163-0-0-0",
 					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1565] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "3-0-0-5",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["Currencies"] = {
 					3, -- [1]
-					20868, -- [2]
+					21508, -- [2]
 					14982, -- [3]
 					264, -- [4]
 					1070602, -- [5]
-					15372, -- [6]
+					50572, -- [6]
 					15, -- [7]
 					25616, -- [8]
 					19, -- [9]
@@ -162,22 +162,22 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1559531248,
+				["lastUpdate"] = 1559615224,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "117-0-0-0",
-					[1342] = "0-0-0-0",
-					[1226] = "0-0-0-0",
-					[1560] = "120-0-0-0",
-					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
 					[1580] = "2-0-0-5",
+					[1342] = "0-0-0-0",
+					[1560] = "395-0-0-0",
+					[823] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1710] = "117-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
 				},
 			},
 		},

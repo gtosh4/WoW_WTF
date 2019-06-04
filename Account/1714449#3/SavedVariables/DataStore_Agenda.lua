@@ -30,10 +30,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|371118326"] = "128571|1559531828|0|1",
-					["Battle of Dazar'alor Mythic|370928841"] = "128571|1559531828|0|1",
+					["Crucible of Storms Heroic|371118326"] = "46788|1559613609|0|1",
+					["Battle of Dazar'alor Mythic|370928841"] = "46788|1559613609|0|1",
 				},
-				["lastUpdate"] = 1559534249,
+				["lastUpdate"] = 1559615365,
 			},
 		},
 	},

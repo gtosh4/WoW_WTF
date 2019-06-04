@@ -3,8 +3,8 @@ VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
 /cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
-#showtooltip Angelic Feather; [spec:3] Power Word: Sheidl
-/cast [@player] Angelic Feather
+#showtooltip [spec:3] Power Word: Shield; Angelic Feather
+/cast [@player,spec:3] Power Word: Shield; [@player] Angelic Feather
 /stopspelltarget
 END
 VER 3 0100000000000015 "fort" "INV_MISC_QUESTIONMARK"
