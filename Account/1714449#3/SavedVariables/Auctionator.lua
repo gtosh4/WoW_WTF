@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_500"] = 5,
-	["STARTING_DISCOUNT"] = 5,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
+	["_500"] = 5,
+	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["STARTING_DISCOUNT"] = 5,
 	["_5000000"] = 10000,
+	["_10000"] = 200,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -1633,19 +1633,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154697:0:0:0:1706",
 			["sc"] = 1,
 		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 12900000,
-			["sc"] = 8,
-			["id"] = "152813:0:0:0:0",
-			["cc"] = 0,
-			["H3017"] = 12900000,
-		},
 		["Kraken's Eye of Intellect"] = {
 			["mr"] = 63479985,
 			["cc"] = 3,
 			["id"] = "153709:0:0:0:0",
 			["sc"] = 0,
 			["H3016"] = 63479985,
+		},
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 12900000,
+			["sc"] = 8,
+			["id"] = "152813:0:0:0:0",
+			["cc"] = 0,
+			["H3017"] = 12900000,
 		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 758499,

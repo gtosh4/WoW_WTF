@@ -16,3 +16,4 @@ AzeriteTooltip: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_CrucibleOfStorms: enabled
+WeakAurasCompanion: enabled

@@ -34,6 +34,13 @@ X: 0
 Y: 199
 W: 80
 H: 80
+Frame: AltoholicFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -524
+Y: 115
+W: 832
+H: 447
 Frame: AstralKeyFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -62,13 +69,6 @@ X: 600
 Y: 0
 W: 520
 H: 1
-Frame: BDLC Config
-FrameLevel: 9
-Anchor: CENTER
-X: 0
-Y: 0
-W: 320
-H: 550
 Frame: PawnUIFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -90,10 +90,3 @@ X: 0
 Y: 0
 W: 700
 H: 450
-Frame: AltoholicFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -524
-Y: 115
-W: 832
-H: 447

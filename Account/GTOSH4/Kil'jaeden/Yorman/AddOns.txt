@@ -18,3 +18,4 @@ BigWigs_CrucibleOfStorms: enabled
 Dominos: disabled
 AAP-Vanilla: enabled
 AAP-TBC-WotLK: enabled
+WeakAurasCompanion: enabled

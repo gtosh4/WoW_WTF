@@ -17,3 +17,4 @@ BigWigs_Cataclysm: enabled
 BigWigs_MistsOfPandaria: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
+WeakAurasCompanion: enabled

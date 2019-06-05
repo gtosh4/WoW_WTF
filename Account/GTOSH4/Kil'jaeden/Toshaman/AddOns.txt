@@ -22,3 +22,4 @@ Dominos: disabled
 AAP-Vanilla: enabled
 AAP-TBC-WotLK: enabled
 BigWigs_Classic: enabled
+WeakAurasCompanion: enabled

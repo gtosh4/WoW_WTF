@@ -1,2821 +1,2821 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ak", -- [1]
-		"/p sec, talking to jess", -- [2]
-		"/p I'm just doing this for gear", -- [3]
-		"/p done w/ all toons", -- [4]
-		"/p sure", -- [5]
-		"/p actually, I should call my parents", -- [6]
-		"/p been a while", -- [7]
-		"/p can you replace for 1 round?", -- [8]
-		"/g inv", -- [9]
-		"/g I have a katy", -- [10]
-		"/cw Andruww I'm done mailing, are we completing or leaving", -- [11]
-		"/i I've collected more than you", -- [12]
-		"/p ez", -- [13]
-		"/p na, I got all mine", -- [14]
-		"/p not 350 but enough to last a while", -- [15]
-		"/g [WeakAuras: Toshpal-Kil'jaeden - Island Expedition Scoreboard]", -- [16]
-		"/p |cffa335ee|Hkeystone:158923:250:12:10:5:14:117|h[Keystone: Temple of Sethraliss (12)]|h|r", -- [17]
-		"/p is mine", -- [18]
-		"/m", -- [19]
-		"/bw", -- [20]
+		"/cw Fearings-Kil'jaeden ty man", -- [1]
+		" you get one?", -- [2]
+		"/g lol", -- [3]
+		"/g that was throw glaive", -- [4]
+		"/g big boy", -- [5]
+		"/g 92 parse", -- [6]
+		"/aa", -- [7]
+		" why lol", -- [8]
+		" tell me how I'm beating people with 407 gear lol", -- [9]
+		" |cffa335ee|Hitem:167865::::::::120:65::4:3:4801:1502:4786:::|h[Void Stone]|h|r lololol", -- [10]
+		" |cffa335ee|Hitem:160216:5965:::::::120:65::35:4:5010:41:1552:4783:::|h[Crackling Jade Kilij]|h|r", -- [11]
+		" yea", -- [12]
+		" why was thac mad", -- [13]
+		" just 'cuz of the attendance lately?", -- [14]
+		"/raid need 60s", -- [15]
+		"/raid t", -- [16]
+		" hm?", -- [17]
+		" for rivalrY/", -- [18]
+		" gotta ask johnny", -- [19]
+		"/tmw", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Pummeled Scaled Krolusk Rider's |cff71d5ff|Hspell:272659:0|h[Electrified Scales]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620221,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"Taunted Crazed Incubator!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620287,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Stalking on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			255, -- [11]
-			"Player-9-08462094", -- [12]
+			1239, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620293,
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1559705267,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [1]
+		{
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1241, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705273,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [2]
+		{
+			"2", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1242, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705274,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			256, -- [11]
-			"Player-9-08462094", -- [12]
+			1243, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620293,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705275,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"same idk what that was", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Dolclemits-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			257, -- [11]
-			"Player-9-08462094", -- [12]
+			1245, -- [11]
+			"Player-9-0B37B4E4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620294,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1559705277,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			258, -- [11]
-			"Player-9-08462094", -- [12]
+			1246, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620294,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705278,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [6]
 		{
-			"Taunted Faithless Tender!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620295,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620304,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			262, -- [11]
-			"Player-9-08462094", -- [12]
+			1247, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620304,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705278,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [7]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1253, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705280,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [8]
+		{
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1256, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705294,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Pride!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620315,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			264, -- [11]
-			"Player-9-08462094", -- [12]
+			1257, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620316,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705295,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [10]
+		{
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1259, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705295,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620316,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"Taunted Crazed Incubator!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620432,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"Pummeled Faithless Tender's |cff71d5ff|Hspell:272700:0|h[Greater Healing Potion]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620440,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			271, -- [11]
-			"Player-9-08462094", -- [12]
+			1260, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620447,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705297,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [12]
+		{
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1261, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705305,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [13]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1262, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705305,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [14]
+		{
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1263, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705308,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"I see me rotating and pointing right at them - none of them are counting", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Touchochrist-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			272, -- [11]
-			"Player-9-08462094", -- [12]
+			1265, -- [11]
+			"Player-9-0B486875", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620447,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1559705311,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [16]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			274, -- [11]
-			"Player-9-08462094", -- [12]
+			1266, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620455,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705320,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620455,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			277, -- [11]
-			"Player-9-08462094", -- [12]
+			1267, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620462,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705326,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [18]
+		{
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1268, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705327,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			278, -- [11]
-			"Player-9-08462094", -- [12]
+			1269, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620462,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705327,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Stalking on Bluedagger", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			279, -- [11]
-			"Player-9-08462094", -- [12]
+			1271, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620463,
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1559705331,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			280, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620463,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
-		{
-			"Pummeled Faithless Tender's |cff71d5ff|Hspell:272700:0|h[Greater Healing Potion]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			281, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620472,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"Pummeled Faithless Tender's |cff71d5ff|Hspell:272700:0|h[Greater Healing Potion]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			282, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620492,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"Taunted Merektha!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			287, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620523,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
-		{
-			"Taunted Sand-crusted Striker!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620593,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Stalking on Zombiemonk", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Zombiemonk-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			309, -- [11]
-			"Player-9-08462094", -- [12]
+			1272, -- [11]
+			"Player-9-0A31676A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620632,
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1559705331,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1278, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705337,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
+		{
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1279, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705338,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1282, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705339,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [25]
+		{
+			"Stalking on Orcbum", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1287, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705351,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [26]
+		{
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1291, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705357,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			310, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620632,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620632,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			312, -- [11]
-			"Player-9-08462094", -- [12]
+			1292, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620632,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705358,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1293, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705359,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1304, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705450,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"A Knot of Snakes on Peestain", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Peestain-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			315, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			1305, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1559620644,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705450,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Taunted Imbued Stormcaller!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			320, -- [11]
-			"Player-9-08462094", -- [12]
+			1308, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620657,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705452,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			323, -- [11]
-			"Player-9-08462094", -- [12]
+			1309, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620664,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705452,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			324, -- [11]
-			"Player-9-08462094", -- [12]
+			1310, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620664,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705452,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620671,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Yuffio!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			327, -- [11]
-			"Player-9-08462094", -- [12]
+			1322, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620671,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705483,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [35]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Eating Nom Noms!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			328, -- [11]
-			"Player-9-08462094", -- [12]
+			1324, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620679,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705485,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
+		{
+			"Eating Nom Noms!", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yuffio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1325, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1559705487,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620679,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
-		{
-			"Pummeled Imbued Stormcaller's |cff71d5ff|Hspell:272820:0|h[Shock]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			331, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620683,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Eating Nom Noms!", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			332, -- [11]
-			"Player-9-08462094", -- [12]
+			1326, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620694,
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1559705492,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
+		{
+			"Done With Nom Noms!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1328, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705498,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [39]
+		{
+			"Done With Nom Noms!", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Yuffio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1329, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1559705503,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Done With Nom Noms!", -- [1]
+			"Voidamental-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Voidamental-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			333, -- [11]
-			"Player-9-08462094", -- [12]
+			1330, -- [11]
+			"Player-9-09423122", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620694,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcVoidamental|r",
+			[51] = 1559705510,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Pummeled Agitated Nimbus's |cff71d5ff|Hspell:265912:0|h[Accumulate Charge]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Not Well Fed (6): Aznbabygirl, Dolclemits, Focalaire, Khelikloth, Litsong, Touchochrist", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			335, -- [11]
-			"Player-9-08462094", -- [12]
+			1332, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620698,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705511,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [42]
 		{
-			"Taunted Agitated Nimbus!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"No Augment Rune (20): Aznbabygirl, Bluedagger, Dolclemits, Druwqt, Fearings, Focalaire, Khelikloth, Litsong, Orcbum, Renewal, Skarsnik, Slurry, Snify, Toshpal, Touchochrist, Ultima, Voidamental, Wraithbrand, Yuffio, Zombiemonk", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			338, -- [11]
-			"Player-9-08462094", -- [12]
+			1333, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620730,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705511,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [43]
 		{
-			"Pummeled Agitated Nimbus's |cff71d5ff|Hspell:265912:0|h[Accumulate Charge]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Missing Buffs (1): Attack Power", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			340, -- [11]
-			"Player-9-08462094", -- [12]
+			1334, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620739,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705511,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [44]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"oRA3> No Augment Rune", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			341, -- [11]
-			"Player-9-08462094", -- [12]
+			1335, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620745,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705511,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [45]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Eating Nom Noms!", -- [1]
+			"Litsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Litsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			342, -- [11]
-			"Player-9-08462094", -- [12]
+			1336, -- [11]
+			"Player-9-074DF608", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620745,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeLitsong|r",
+			[51] = 1559705517,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"Taunted Static-charged Dervish!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Done With Nom Noms!", -- [1]
+			"Litsong-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Litsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			350, -- [11]
-			"Player-9-08462094", -- [12]
+			1337, -- [11]
+			"Player-9-074DF608", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620781,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffefefeLitsong|r",
+			[51] = 1559705528,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"Pummeled Agitated Nimbus's |cff71d5ff|Hspell:265912:0|h[Accumulate Charge]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Everyone is Ready", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			352, -- [11]
-			"Player-9-08462094", -- [12]
+			1338, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620794,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705528,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [48]
 		{
-			"Pummeled Agitated Nimbus's |cff71d5ff|Hspell:265912:0|h[Accumulate Charge]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			353, -- [11]
-			"Player-9-08462094", -- [12]
+			1339, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620794,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705543,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			354, -- [11]
-			"Player-9-08462094", -- [12]
+			1341, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620797,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705545,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [50]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			355, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620797,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620812,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			364, -- [11]
-			"Player-9-08462094", -- [12]
+			1342, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620828,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705545,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [51]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1343, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705546,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [52]
+		{
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1347, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705550,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			365, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620828,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			366, -- [11]
-			"Player-9-08462094", -- [12]
+			1348, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620836,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705551,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [54]
+		{
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1354, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705562,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			367, -- [11]
-			"Player-9-08462094", -- [12]
+			1356, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620836,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705569,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"Taunted Lost Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			371, -- [11]
-			"Player-9-08462094", -- [12]
+			1357, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620851,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705570,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"Taunted Imbued Stormcaller!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			373, -- [11]
-			"Player-9-08462094", -- [12]
+			1358, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620862,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705570,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [58]
 		{
-			"Taunted Static-charged Dervish!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Manceroy Flamefist Pyroblast!", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			374, -- [11]
-			"Player-9-08462094", -- [12]
+			1359, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620898,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705575,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"Taunted Static-charged Dervish!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			375, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559620898,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			378, -- [11]
-			"Player-9-08462094", -- [12]
+			1368, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621010,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705586,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [60]
+		{
+			"Stalking on Fearings", -- [1]
+			"Fearings-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Fearings-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1370, -- [11]
+			"Player-9-082951D4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecFearings|r",
+			[51] = 1559705597,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Orcbum!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			379, -- [11]
-			"Player-9-08462094", -- [12]
+			1371, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621010,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705597,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [62]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Orcbum!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			380, -- [11]
-			"Player-9-08462094", -- [12]
+			1372, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621018,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705597,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Successfully resurrected You!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			381, -- [11]
-			"Player-9-08462094", -- [12]
+			1373, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621018,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705597,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [64]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Successfully resurrected You!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			382, -- [11]
-			"Player-9-08462094", -- [12]
+			1374, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621019,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705597,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			383, -- [11]
-			"Player-9-08462094", -- [12]
+			1376, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621019,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705602,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			384, -- [11]
-			"Player-9-08462094", -- [12]
+			1382, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621031,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705624,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [67]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
-			"Player-9-08462094", -- [12]
+			1383, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621031,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705624,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"Taunted Spark Channeler!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			392, -- [11]
-			"Player-9-08462094", -- [12]
+			1387, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621116,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705635,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"Pummeled Spark Channeler's |cff71d5ff|Hspell:272820:0|h[Shock]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			394, -- [11]
-			"Player-9-08462094", -- [12]
+			1388, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621120,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705637,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Pummeled Spark Channeler's |cff71d5ff|Hspell:272820:0|h[Shock]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			395, -- [11]
-			"Player-9-08462094", -- [12]
+			1395, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621156,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705656,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			404, -- [11]
-			"Player-9-08462094", -- [12]
+			1396, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621217,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705658,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			405, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621217,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			410, -- [11]
-			"Player-9-08462094", -- [12]
+			1397, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621225,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705658,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [73]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			411, -- [11]
-			"Player-9-08462094", -- [12]
+			1399, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621225,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705661,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1405, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705668,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"Taunted Tormented Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			418, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621271,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"Taunted Orb Guardian!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			423, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621280,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621311,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			431, -- [11]
-			"Player-9-08462094", -- [12]
+			1406, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621311,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705669,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1407, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705670,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"Stalking on Bluedagger", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1411, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1559705676,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [78]
+		{
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1414, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705685,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"Taunted Faithless Conscript!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			433, -- [11]
-			"Player-9-08462094", -- [12]
+			1415, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621323,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705685,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [80]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			434, -- [11]
-			"Player-9-08462094", -- [12]
+			1417, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621326,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705687,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			435, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621326,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			437, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621332,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
-		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			438, -- [11]
-			"Player-9-08462094", -- [12]
+			1418, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621332,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705688,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1419, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705688,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1420, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705689,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-9-08462094", -- [12]
+			1424, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621335,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705730,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			441, -- [11]
-			"Player-9-08462094", -- [12]
+			1425, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621335,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705730,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [86]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			442, -- [11]
-			"Player-9-08462094", -- [12]
+			1426, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621336,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705730,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			443, -- [11]
-			"Player-9-08462094", -- [12]
+			1434, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621336,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705752,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [88]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			444, -- [11]
-			"Player-9-08462094", -- [12]
+			1435, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621340,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705755,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			445, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621340,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			448, -- [11]
-			"Player-9-08462094", -- [12]
+			1440, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621358,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705764,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1441, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705765,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			449, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621358,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			451, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621361,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
-		{
-			"Taunted Tormented Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			464, -- [11]
-			"Player-9-08462094", -- [12]
+			1442, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621477,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705766,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [92]
+		{
+			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Manceroy Flamefist Pyroblast!", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1443, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705766,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [93]
+		{
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1444, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705767,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"Taunted Tormented Soul!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			465, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621477,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
-		{
-			"Pummeled Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			467, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621478,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
-		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			468, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621532,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			470, -- [11]
-			"Player-9-08462094", -- [12]
+			1446, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621540,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705778,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1447, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705778,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [96]
+		{
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Mestrah {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1453, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705779,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [97]
+		{
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1457, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705790,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			471, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621540,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [99]
-		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			472, -- [11]
-			"Player-9-08462094", -- [12]
+			1458, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621555,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705791,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [99]
+		{
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1459, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705792,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [100]
 		{
-			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			473, -- [11]
-			"Player-9-08462094", -- [12]
+			1461, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621555,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705794,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13105:Player-9-0B663D8A:1:6:4:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Rotting Mire]|h|r!", -- [1]
+			"Felsteall-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Felsteall-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			482, -- [11]
-			"Player-9-08462094", -- [12]
+			1463, -- [11]
+			"Player-9-0B663D8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621567,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffa22fc8Felsteall|r",
+			[51] = 1559705796,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [102]
 		{
-			"Taunted Hoodoo Hexer!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			522, -- [11]
-			"Player-9-08462094", -- [12]
+			1464, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621603,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705796,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Mestrah!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			525, -- [11]
-			"Player-9-08462094", -- [12]
+			1465, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621604,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705796,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [104]
 		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			526, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621604,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [105]
-		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621622,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
-		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			528, -- [11]
-			"Player-9-08462094", -- [12]
+			1467, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621622,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705807,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1468, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705808,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [106]
+		{
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1469, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705809,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"Taunted Hoodoo Hexer!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			530, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621637,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [108]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			532, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621643,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [109]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			533, -- [11]
-			"Player-9-08462094", -- [12]
+			1470, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621643,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705814,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1471, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705814,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [109]
+		{
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1480, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705823,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			534, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621656,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [111]
-		{
-			"Pummeled Hoodoo Hexer's |cff71d5ff|Hspell:274642:0|h[Lava Burst]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			535, -- [11]
-			"Player-9-08462094", -- [12]
+			1481, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621656,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705824,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [111]
+		{
+			"1", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1482, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705825,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [112]
 		{
-			"Taunted Heart Guardian!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			538, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621689,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [113]
-		{
-			"Pummeled Plague Doctor's |cff71d5ff|Hspell:268061:0|h[Chain Lightning]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			543, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621706,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			545, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621714,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
-		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Manceroy Flamefist {cross}{cross}{cross}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			546, -- [11]
-			"Player-9-08462094", -- [12]
+			1483, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621714,
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705829,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1486, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705837,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [114]
+		{
+			"3", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1487, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705837,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
+		{
+			"2", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1488, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705838,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [116]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			547, -- [11]
-			"Player-9-08462094", -- [12]
+			1489, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621715,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705839,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [117]
 		{
-			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			548, -- [11]
-			"Player-9-08462094", -- [12]
+			1496, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621715,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705845,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [118]
 		{
-			"Pummeled Plague Doctor's |cff71d5ff|Hspell:268061:0|h[Chain Lightning]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Taunted Manceroy Flamefist!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			553, -- [11]
-			"Player-9-08462094", -- [12]
+			1497, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621785,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705845,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [119]
 		{
-			"Pummeled Plague Doctor's |cff71d5ff|Hspell:268061:0|h[Chain Lightning]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			554, -- [11]
-			"Player-9-08462094", -- [12]
+			1498, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621785,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705849,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [120]
 		{
-			"Pummeled Plague Doctor's |cff71d5ff|Hspell:268061:0|h[Chain Lightning]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			560, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621855,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [121]
-		{
-			"Pummeled Plague Doctor's |cff71d5ff|Hspell:268061:0|h[Chain Lightning]|h|r!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			561, -- [11]
-			"Player-9-08462094", -- [12]
+			1500, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559621855,
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705849,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [121]
+		{
+			"3", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1503, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705853,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [122]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12504:Player-9-0AF721B2:1:6:3:19:4294967295:4294967295:4294967295:4294967295|h[The Temple of Sethraliss]|h|r!", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"BDLC: Please loot the boss to start any potential sessions.", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Peestain-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			563, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			1506, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1559621872,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705854,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [123]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12505:Player-9-0AF721B2:1:6:3:19:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Temple of Sethraliss]|h|r!", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r faded!", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Peestain-Kil'jaeden", -- [5]
+			"Renewal-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			564, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			1510, -- [11]
+			"Player-9-099A8185", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1559621872,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1559705855,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [124]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12506:Player-9-0AF721B2:1:6:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Temple of Sethraliss]|h|r!", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Peestain-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			565, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			1546, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1559621872,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705967,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [125]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12506:Player-9-0B66E232:1:6:3:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Temple of Sethraliss]|h|r!", -- [1]
-			"Moonrite-Kil'jaeden", -- [2]
+			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Moonrite-Kil'jaeden", -- [5]
-			"", -- [6]
+			"Orcbum-Kil'jaeden", -- [5]
+			"AFK", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			566, -- [11]
-			"Player-9-0B66E232", -- [12]
+			1547, -- [11]
+			"Player-9-00051AAE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcMoonrite|r",
-			[51] = 1559621872,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1559705967,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [126]
 		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:244:11:10:5:14:117|h[Keystone: Atal'Dazar (11)]|h|r", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
+			"color am i getting?", -- [1]
+			"Slurry-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
+			"Slurry-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			568, -- [11]
-			"Player-9-0B60C80F", -- [12]
+			1550, -- [11]
+			"Player-9-0646F0B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1559621876,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Slurry|r",
+			[51] = 1559706042,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [127]
 	},
 }
