@@ -34,7 +34,7 @@ AstralKeys = {
 		11, -- [4]
 		0, -- [5]
 		98, -- [6]
-		45545, -- [7]
+		126210, -- [7]
 	}, -- [4]
 	{
 		"Peestain-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		11, -- [4]
 		0, -- [5]
 		98, -- [6]
-		50796, -- [7]
+		127211, -- [7]
 	}, -- [5]
 	{
 		"Lel-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		13, -- [4]
 		0, -- [5]
 		98, -- [6]
-		45520, -- [7]
+		128464, -- [7]
 	}, -- [12]
 	{
 		"Keydepleter-Kil'jaeden", -- [1]
@@ -124,7 +124,7 @@ AstralKeys = {
 		8, -- [4]
 		0, -- [5]
 		98, -- [6]
-		6, -- [7]
+		126313, -- [7]
 	}, -- [14]
 	{
 		"Friendly-Kil'jaeden", -- [1]
@@ -142,25 +142,25 @@ AstralKeys = {
 		19, -- [4]
 		0, -- [5]
 		98, -- [6]
-		44325, -- [7]
+		127414, -- [7]
 	}, -- [16]
 	{
 		"Pride-Kil'jaeden", -- [1]
 		"WARRIOR", -- [2]
-		244, -- [3]
+		246, -- [3]
 		19, -- [4]
-		16, -- [5]
+		20, -- [5]
 		98, -- [6]
-		25853, -- [7]
+		126489, -- [7]
 	}, -- [17]
 	{
 		"Wildsong-Kil'jaeden", -- [1]
 		"DRUID", -- [2]
 		252, -- [3]
 		15, -- [4]
-		0, -- [5]
+		16, -- [5]
 		98, -- [6]
-		19192, -- [7]
+		123337, -- [7]
 	}, -- [18]
 	{
 		"Emosong-Kil'jaeden", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		98, -- [6]
-		21643, -- [7]
+		122468, -- [7]
 	}, -- [20]
 	{
 		"Thunderzmonk-Kil'jaeden", -- [1]
@@ -187,7 +187,7 @@ AstralKeys = {
 		16, -- [4]
 		0, -- [5]
 		98, -- [6]
-		21740, -- [7]
+		124642, -- [7]
 	}, -- [21]
 	{
 		"Thunderpally-Kil'jaeden", -- [1]
@@ -214,27 +214,54 @@ AstralKeys = {
 		10, -- [4]
 		0, -- [5]
 		98, -- [6]
-		42938, -- [7]
+		126704, -- [7]
 	}, -- [24]
+	{
+		"Bluedagger-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
+		252, -- [3]
+		17, -- [4]
+		18, -- [5]
+		98, -- [6]
+		5, -- [7]
+	}, -- [25]
+	{
+		"Lul-Kil'jaeden", -- [1]
+		"HUNTER", -- [2]
+		246, -- [3]
+		12, -- [4]
+		0, -- [5]
+		98, -- [6]
+		8, -- [7]
+	}, -- [26]
+	{
+		"Ruesong-Kil'jaeden", -- [1]
+		"WARLOCK", -- [2]
+		251, -- [3]
+		16, -- [4]
+		15, -- [5]
+		98, -- [6]
+		127786, -- [7]
+	}, -- [27]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 16,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["unit"] = "Yorman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yorman-Kil'jaeden",
 	}, -- [3]
 }
 AstralFriends = {
@@ -300,7 +327,7 @@ AstralFriends = {
 		245, -- [4]
 		17, -- [5]
 		98, -- [6]
-		21980, -- [7]
+		125967, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [6]
@@ -311,9 +338,9 @@ AstralFriends = {
 		246, -- [4]
 		15, -- [5]
 		98, -- [6]
-		14342, -- [7]
+		127615, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [7]
 	{
 		"Serasong-Kil'jaeden", -- [1]
@@ -322,7 +349,7 @@ AstralFriends = {
 		248, -- [4]
 		17, -- [5]
 		98, -- [6]
-		25319, -- [7]
+		96327, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [8]
@@ -333,9 +360,9 @@ AstralFriends = {
 		252, -- [4]
 		15, -- [5]
 		98, -- [6]
-		19193, -- [7]
+		123337, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [9]
 	{
 		"Emosong-Kil'jaeden", -- [1]
@@ -344,7 +371,7 @@ AstralFriends = {
 		251, -- [4]
 		18, -- [5]
 		98, -- [6]
-		32733, -- [7]
+		98584, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [10]
@@ -352,12 +379,12 @@ AstralFriends = {
 		"Illsong-Kil'jaeden", -- [1]
 		"Ceesong#1985", -- [2]
 		"DEMONHUNTER", -- [3]
-		246, -- [4]
-		18, -- [5]
+		244, -- [4]
+		17, -- [5]
 		98, -- [6]
-		22700, -- [7]
+		98486, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [11]
 	{
 		"Litsong-Kil'jaeden", -- [1]
@@ -366,9 +393,9 @@ AstralFriends = {
 		248, -- [4]
 		16, -- [5]
 		98, -- [6]
-		51872, -- [7]
+		108749, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [12]
 	{
 		"Pride-Kil'jaeden", -- [1]
@@ -377,7 +404,7 @@ AstralFriends = {
 		246, -- [4]
 		19, -- [5]
 		98, -- [6]
-		31176, -- [7]
+		118630, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [13]
@@ -388,7 +415,7 @@ AstralFriends = {
 		247, -- [4]
 		15, -- [5]
 		98, -- [6]
-		18548, -- [7]
+		121978, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [14]
@@ -399,7 +426,7 @@ AstralFriends = {
 		252, -- [4]
 		8, -- [5]
 		98, -- [6]
-		6601, -- [7]
+		126313, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [15]
@@ -418,12 +445,12 @@ AstralFriends = {
 		"Renewal-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"DRUID", -- [3]
-		353, -- [4]
-		15, -- [5]
+		244, -- [4]
+		14, -- [5]
 		98, -- [6]
-		51872, -- [7]
+		111319, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		18, -- [9]
 	}, -- [17]
 	{
 		"Khelikloth-Kil'jaeden", -- [1]
@@ -451,15 +478,34 @@ AstralFriends = {
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		244, -- [4]
+		247, -- [4]
+		17, -- [5]
+		98, -- [6]
+		118288, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [20]
+	{
+		"Ruesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARLOCK", -- [3]
+		251, -- [4]
 		16, -- [5]
 		98, -- [6]
-		51872, -- [7]
+		108945, -- [7]
 		"1", -- [8]
-		0, -- [9]
-	}, -- [20]
+		15, -- [9]
+	}, -- [21]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -473,9 +519,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -484,9 +528,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -496,10 +541,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -511,14 +556,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
