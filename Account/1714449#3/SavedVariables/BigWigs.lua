@@ -44,11 +44,11 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[285638] = 1032439,
-					[285685] = 1032439,
-					[285453] = 1032439,
 					[285416] = 0,
-					[285820] = 0,
+					[285453] = 1032439,
 					[285562] = 0,
+					[285685] = 1032439,
+					[285820] = 0,
 				},
 			},
 		},
@@ -70,7 +70,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Bosses_Battle of Dazar'alor Trash"] = {
 		},
 		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
@@ -80,7 +80,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Restless Cabal"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
@@ -104,7 +104,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["outline"] = "OUTLINE",
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_x"] = 675.743157964433,
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
@@ -114,12 +114,12 @@ BigWigs3DB = {
 					["emphasizeMove"] = false,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_y"] = 257.60125702105,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_width"] = 200.251571655273,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["outline"] = "OUTLINE",
-					["emphasizeTime"] = 12,
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
 					["fontSizeEmph"] = 11,
 				},
@@ -342,8 +342,8 @@ BigWigsStatsDB = {
 				["best"] = 223.981000000029,
 			},
 			["mythic"] = {
-				["kills"] = 10,
-				["wipes"] = 107,
+				["kills"] = 11,
+				["wipes"] = 114,
 				["best"] = 301.307999999961,
 			},
 			["heroic"] = {
@@ -427,15 +427,20 @@ BigWigsStatsDB = {
 				["wipes"] = 6,
 				["best"] = 403.808999999892,
 			},
+			["LFR"] = {
+			},
 		},
 		[2328] = {
+			["mythic"] = {
+				["wipes"] = 25,
+			},
 			["heroic"] = {
 				["kills"] = 2,
 				["wipes"] = 6,
 				["best"] = 397.207999999868,
 			},
-			["mythic"] = {
-				["wipes"] = 25,
+			["LFR"] = {
+				["wipes"] = 1,
 			},
 		},
 	},

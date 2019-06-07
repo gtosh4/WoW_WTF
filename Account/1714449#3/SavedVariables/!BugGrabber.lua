@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 807,
+	["session"] = 811,
 	["errors"] = {
 		{
 			["message"] = "...e\\AddOns\\ElvUI\\Modules\\unitframes\\Elements\\Auras-Auras.lua:406: bad argument #2 to 'strsplit' (string expected, got nil)",
@@ -66,5 +66,21 @@ BugGrabberDB = {
 			["session"] = 807,
 			["counter"] = 3,
 		}, -- [8]
+		{
+			["message"] = "Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua:9: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
+			["time"] = "2019/06/06 19:25:34",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua:9: in function <Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua:7>\n(tail call): ?\n[string \"--[[ Error in 'RivalryCrushingDoubt' ]] ret...\"]:23: in function `Crushing'\n[string \"--[[ Error in 'RivalryCrushingDoubt' ]] ret...\"]:25: in function <[string \"--[[ Error in 'RivalryCrushingDoubt' ]] ret...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:630: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:719: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
+			["session"] = 809,
+			["counter"] = 3,
+		}, -- [9]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Favorites' tried to call the protected function 'RaidFrame:Hide()'.",
+			["time"] = "2019/06/06 23:29:40",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Hide'\nInterface\\FrameXML\\FriendsFrame.lua:86: in function `FriendsFrame_ShowSubFrame'\nInterface\\FrameXML\\FriendsFrame.lua:331: in function <Interface\\FrameXML\\FriendsFrame.lua:316>\n[C]: in function `FriendsFrame_Update'\nInterface\\FrameXML\\FriendsFrame.lua:308: in function <Interface\\FrameXML\\FriendsFrame.lua:306>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2632: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2477: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2345: in function <Interface\\FrameXML\\UIParent.lua:2341>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3173: in function `ShowUIPanel'\nInterface\\FrameXML\\FriendsFrame.lua:1067: in function `ToggleFriendsFrame'\n[string \"TOGGLESOCIAL\"]:1: in function <[string \"TOGGLESOCIAL\"]:1>",
+			["session"] = 811,
+			["counter"] = 1,
+		}, -- [10]
 	},
 }

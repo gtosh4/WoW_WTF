@@ -27,13 +27,13 @@ AngryAssign_Pages = {
 		["Contents"] = "Det 1    ||cshamanIlya.SLT||r    ||cdemonhunterZach.dark||r    ||cpriestGord.ramp||r    \nDet 2    ||cshamanIlya.HT||r    \nDet 3    ||cdruidBoo.tranq||r               \nDet 4    ||cmonkAlex.rev||r     \nDet 5    ||cdruidBarb.tranq||r               \nDet 6    ||cpriestGord.ramp||r            \nPHASE 2                \nDet 7    ||cdruidBoo.tranq||r            \nDet 8    ||cmonkAlex.rev||r        \nPHASE 3                \nDet 9    ||cpriestGord.ramp||r            \nDet 10    ||cdruidBarb.tranq||r               \nDet 11    none            \nDet 12    ||cpriestGord.ramp||r    ||cmonkAlex.rev||r    ||cdruidBoo.tranq||r    \nDet 13    ||cshamanIlya.SLT||r    ||cdemonhunterZach.dark||r    ||cshamanIlya.HT||r",
 	},
 	[3243117585] = {
-		["Updated"] = 1559709750,
+		["Updated"] = 1559874673,
 		["Name"] = "Conclave",
 		["CategoryId"] = 873453286,
 		["Id"] = 3243117585,
-		["UpdateId"] = 1806013514,
-		["Backup"] = "Cry 1    ||cdruidBoo.tranq||r    ||cpriestGord.ramp||r        \nWrath 1    ||cshamanIlya.SLT||r    ||cshamanIlya.HT||r\nWrath 2    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r    \nCry 2    ||cmonkAlex.rev||r (w/ mindwipe)            \nWrath 3    ||cdruidBoo.tranq||r            \nWrath 4    ||cshamanIlya.SLT||r    ||cpriestGord.ramp||r        \nCry 3    ||cshamanIlya.HT||r            \nWrath 5    ||cdruidBoo.tranq||r    ||cmonkAlex.rev||r    ||cpriestGord.barrier||r",
-		["Contents"] = "Cry 1    ||cdruidBoo.tranq||r    ||cpriestGord.ramp||r        \nWrath 1    ||cshamanIlya.SLT||r    ||cshamanIlya.HT||r\nWrath 2    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r    \nCry 2    ||cmonkAlex.rev||r (w/ mindwipe)            \nWrath 3    ||cdruidBoo.tranq||r            \nWrath 4    ||cshamanIlya.SLT||r    ||cpriestGord.ramp||r        \nCry 3    ||cshamanIlya.HT||r            \nWrath 5    ||cdruidBoo.tranq||r    ||cmonkAlex.rev||r    ||cpriestGord.barrier||r",
+		["UpdateId"] = 1733481623,
+		["Backup"] = "Cry 1    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r        \nWrath 1    ||cshamanIlya.SLT||r    ||cshamanIlya.HT||r\nWrath 2    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r    \nCry 2    ||cmonkAlex.rev||r (w/ mindwipe)            \nWrath 3    ||cdruidCraig.tranq||r            \nWrath 4    ||cshamanIlya.SLT||r    ||cpriestGord.ramp||r        \nCry 3    ||cshamanIlya.HT||r            \nWrath 5    ||cdruidCraig.tranq||r    ||cmonkAlex.rev||r    ||cpriestGord.barrier||r",
+		["Contents"] = "Cry 1    ||cdruidCraig.tranq||r    ||cpriestGord.ramp||r        \nWrath 1    ||cshamanIlya.SLT||r    ||cshamanIlya.HT||r\nWrath 2    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r    \nCry 2    ||cmonkAlex.rev||r (w/ mindwipe)            \nWrath 3    ||cdruidCraig.tranq||r            \nWrath 4    ||cshamanIlya.SLT||r    ||cpriestGord.ramp||r        \nCry 3    ||cshamanIlya.HT||r            \nWrath 5    ||cdruidCraig.tranq||r    ||cmonkAlex.rev||r    ||cpriestGord.barrier||r",
 	},
 	[653022546] = {
 		["Updated"] = 1548900289,
