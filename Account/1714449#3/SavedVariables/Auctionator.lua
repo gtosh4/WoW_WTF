@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
-	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
+	["LOG_DE_DATA_X"] = true,
+	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_500"] = 5,
 	["_10000"] = 200,
+	["_200000"] = 1000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,56 +48,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Vantus Rune", -- [1]
-			"Anchor Weed", -- [2]
-			"Winter's Kiss", -- [3]
-			"Akunda's Bite", -- [4]
-			"coastal healing potion", -- [5]
-			"Deadly amberblaze", -- [6]
-			"Felwort", -- [7]
-			"Siren's Pollen", -- [8]
-			"Battle-Scarred Augment Rune", -- [9]
-			"Vantus Rune: Battle of Dazar'alor", -- [10]
-			"Pact of Critical", -- [11]
-			"time shifter", -- [12]
-			"time-shifter", -- [13]
-			"Ultramarine", -- [14]
-			"hexweave bag", -- [15]
-			"Battle Shout", -- [16]
-			"Battle flag", -- [17]
-			"crafting", -- [18]
-			"Star moss", -- [19]
-			"Riverbud", -- [20]
-			"Sugar Crusted", -- [21]
-			"Sugar-Crusted", -- [22]
-			"Fish", -- [23]
-			"Feast", -- [24]
-			"Fish Feast", -- [25]
-			"Monel-hardened stirrups", -- [26]
-			"Great sea catfish", -- [27]
-			"Drums", -- [28]
-			"Drums of maelstrom", -- [29]
-			"Kraken's Eye of intellect", -- [30]
-			"coarse leather", -- [31]
-			"Alchemist stone", -- [32]
-			"Darkmoon deck: tides", -- [33]
-			"tides", -- [34]
-			"Goblin glider", -- [35]
-			"Pact of versatility", -- [36]
-			"Versatile navigation", -- [37]
-			"Viridescent Ink", -- [38]
-			"quick navigation", -- [39]
-			"Pact of haste", -- [40]
-			"quick owlseye", -- [41]
-			"helmet", -- [42]
-			"Deep sea", -- [43]
-			"Diver's", -- [44]
-			"Diver", -- [45]
-			"Deep sea satin", -- [46]
-			"Deadly Navigation", -- [47]
-			"Kraken's Eye", -- [48]
-			"bread", -- [49]
-			"Mount motivator", -- [50]
+			"Potion of Replenishment", -- [1]
+			"Vantus Rune", -- [2]
+			"Anchor Weed", -- [3]
+			"Winter's Kiss", -- [4]
+			"Akunda's Bite", -- [5]
+			"coastal healing potion", -- [6]
+			"Deadly amberblaze", -- [7]
+			"Felwort", -- [8]
+			"Siren's Pollen", -- [9]
+			"Battle-Scarred Augment Rune", -- [10]
+			"Vantus Rune: Battle of Dazar'alor", -- [11]
+			"Pact of Critical", -- [12]
+			"time shifter", -- [13]
+			"time-shifter", -- [14]
+			"Ultramarine", -- [15]
+			"hexweave bag", -- [16]
+			"Battle Shout", -- [17]
+			"Battle flag", -- [18]
+			"crafting", -- [19]
+			"Star moss", -- [20]
+			"Riverbud", -- [21]
+			"Sugar Crusted", -- [22]
+			"Sugar-Crusted", -- [23]
+			"Fish", -- [24]
+			"Feast", -- [25]
+			"Fish Feast", -- [26]
+			"Monel-hardened stirrups", -- [27]
+			"Great sea catfish", -- [28]
+			"Drums", -- [29]
+			"Drums of maelstrom", -- [30]
+			"Kraken's Eye of intellect", -- [31]
+			"coarse leather", -- [32]
+			"Alchemist stone", -- [33]
+			"Darkmoon deck: tides", -- [34]
+			"tides", -- [35]
+			"Goblin glider", -- [36]
+			"Pact of versatility", -- [37]
+			"Versatile navigation", -- [38]
+			"Viridescent Ink", -- [39]
+			"quick navigation", -- [40]
+			"Pact of haste", -- [41]
+			"quick owlseye", -- [42]
+			"helmet", -- [43]
+			"Deep sea", -- [44]
+			"Diver's", -- [45]
+			"Diver", -- [46]
+			"Deep sea satin", -- [47]
+			"Deadly Navigation", -- [48]
+			"Kraken's Eye", -- [49]
+			"bread", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -999,6 +999,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["L2998"] = 4850000,
 			["H2998"] = 4870000,
 			["cc"] = 7,
+		},
+		["Potion of Replenishment"] = {
+			["mr"] = 1362500,
+			["cc"] = 0,
+			["id"] = "152561:0:0:0:0",
+			["H3126"] = 1362500,
+			["sc"] = 1,
 		},
 		["Khan'aish Helmet of the Fireflash"] = {
 			["mr"] = 28917289,

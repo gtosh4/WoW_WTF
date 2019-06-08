@@ -7,7 +7,7 @@ AstralKeys = {
 		16, -- [4]
 		15, -- [5]
 		98, -- [6]
-		218594, -- [7]
+		296787, -- [7]
 	}, -- [1]
 	{
 		"Yorman-Kil'jaeden", -- [1]
@@ -365,7 +365,7 @@ AstralFriends = {
 		244, -- [4]
 		14, -- [5]
 		98, -- [6]
-		211677, -- [7]
+		223694, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [1]
@@ -376,7 +376,7 @@ AstralFriends = {
 		247, -- [4]
 		15, -- [5]
 		98, -- [6]
-		185503, -- [7]
+		296936, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [2]
@@ -387,7 +387,7 @@ AstralFriends = {
 		252, -- [4]
 		8, -- [5]
 		98, -- [6]
-		146693, -- [7]
+		263566, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [3]
@@ -409,7 +409,7 @@ AstralFriends = {
 		246, -- [4]
 		19, -- [5]
 		98, -- [6]
-		212175, -- [7]
+		272624, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [5]
@@ -536,15 +536,33 @@ AstralFriends = {
 	}, -- [16]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
+	["frame"] = {
+		["rank_filter"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			true, -- [9]
+			true, -- [10]
 		},
-		["show_other_faction"] = {
+		["current_list"] = "FRIENDS",
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["show_offline"] = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -569,29 +587,11 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["frame"] = {
-		["rank_filter"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			true, -- [5]
-			true, -- [6]
-			true, -- [7]
-			true, -- [8]
-			true, -- [9]
-			true, -- [10]
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
 		},
-		["current_list"] = "FRIENDS",
-		["isCollapsed"] = {
-			["isEnabled"] = false,
-		},
-		["orientation"] = 1,
-		["mingle_offline"] = {
-			["isEnabled"] = false,
-		},
-		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},

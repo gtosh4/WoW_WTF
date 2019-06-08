@@ -55,7 +55,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1559878986,
+				["lastUpdate"] = 1559957135,
 				["Factions"] = {
 					[78] = 3100,
 					[7] = 500,
