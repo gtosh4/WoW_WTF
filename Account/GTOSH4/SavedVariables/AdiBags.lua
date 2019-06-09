@@ -30,29 +30,7 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Timewarped Badge"] = false,
-						["Seal of Broken Fate"] = false,
-						["Nethershard"] = false,
-						["Timeworn Artifact"] = false,
-						["Apexis Crystal"] = false,
-						["Wakening Essence"] = false,
-						["Garrison Resources"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Curious Coin"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Champion's Seal"] = false,
-						["Legionfall War Supplies"] = false,
-					},
-				},
-			},
+		["WoD"] = {
 		},
 		["NewItem"] = {
 		},
@@ -75,7 +53,29 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["WoD"] = {
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Legionfall War Supplies"] = false,
+						["Timeworn Artifact"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Wakening Essence"] = false,
+						["Garrison Resources"] = false,
+						["Apexis Crystal"] = false,
+						["Veiled Argunite"] = false,
+						["Curious Coin"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Order Resources"] = false,
+						["Champion's Seal"] = false,
+						["Timewarped Badge"] = false,
+					},
+				},
+			},
 		},
 		["Hearthstones"] = {
 		},
@@ -93,7 +93,10 @@ AdiBagsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Bank"] = 10,
+				["Backpack"] = 10,
+			},
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
@@ -103,10 +106,7 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["columnWidth"] = {
-				["Backpack"] = 10,
-				["Bank"] = 10,
-			},
+			["scale"] = 0.9,
 			["autoDeposit"] = true,
 		},
 	},

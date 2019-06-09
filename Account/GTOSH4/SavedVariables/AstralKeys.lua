@@ -7,7 +7,7 @@ AstralKeys = {
 		15, -- [4]
 		16, -- [5]
 		98, -- [6]
-		52143, -- [7]
+		398215, -- [7]
 	}, -- [1]
 	{
 		"Yorman-Kil'jaeden", -- [1]
@@ -77,9 +77,9 @@ AstralKeys = {
 		"WARLOCK", -- [2]
 		251, -- [3]
 		12, -- [4]
-		0, -- [5]
+		12, -- [5]
 		98, -- [6]
-		42261, -- [7]
+		398219, -- [7]
 	}, -- [9]
 	{
 		"Andruww-Kil'jaeden", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		18, -- [4]
 		20, -- [5]
 		98, -- [6]
-		44149, -- [7]
+		383665, -- [7]
 	}, -- [10]
 	{
 		"Druwqt-Kil'jaeden", -- [1]
@@ -131,9 +131,9 @@ AstralKeys = {
 		"PRIEST", -- [2]
 		247, -- [3]
 		15, -- [4]
-		0, -- [5]
+		16, -- [5]
 		98, -- [6]
-		11931, -- [7]
+		389647, -- [7]
 	}, -- [15]
 	{
 		"Mfs-Kil'jaeden", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		19, -- [4]
 		20, -- [5]
 		98, -- [6]
-		126489, -- [7]
+		398221, -- [7]
 	}, -- [17]
 	{
 		"Wildsong-Kil'jaeden", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		98, -- [6]
-		122468, -- [7]
+		389765, -- [7]
 	}, -- [20]
 	{
 		"Thunderzmonk-Kil'jaeden", -- [1]
@@ -223,7 +223,7 @@ AstralKeys = {
 		17, -- [4]
 		18, -- [5]
 		98, -- [6]
-		5, -- [7]
+		389653, -- [7]
 	}, -- [25]
 	{
 		"Lul-Kil'jaeden", -- [1]
@@ -248,20 +248,20 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 16,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Toshpal-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Kil'jaeden",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [3]
 }
 AstralFriends = {
@@ -404,7 +404,7 @@ AstralFriends = {
 		246, -- [4]
 		19, -- [5]
 		98, -- [6]
-		118630, -- [7]
+		315859, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [13]
@@ -415,7 +415,7 @@ AstralFriends = {
 		247, -- [4]
 		15, -- [5]
 		98, -- [6]
-		121978, -- [7]
+		389648, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [14]
@@ -426,7 +426,7 @@ AstralFriends = {
 		252, -- [4]
 		8, -- [5]
 		98, -- [6]
-		126313, -- [7]
+		263566, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [15]
@@ -448,7 +448,7 @@ AstralFriends = {
 		244, -- [4]
 		14, -- [5]
 		98, -- [6]
-		111319, -- [7]
+		223694, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [17]
@@ -470,9 +470,9 @@ AstralFriends = {
 		248, -- [4]
 		15, -- [5]
 		98, -- [6]
-		35381, -- [7]
+		213095, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		0, -- [9]
 	}, -- [19]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
@@ -498,12 +498,37 @@ AstralFriends = {
 	}, -- [21]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1560265200,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -519,7 +544,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -528,35 +555,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = true,
-		},
-		["init_time"] = 1560265200,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
-			["no_key"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
