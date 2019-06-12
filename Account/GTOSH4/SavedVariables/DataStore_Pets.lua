@@ -95,7 +95,7 @@ DataStore_PetsDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1559786591,
+				["lastUpdate"] = 1560315947,
 				["CRITTER"] = {
 					69452, -- [1]
 					259758, -- [2]
@@ -171,7 +171,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1554961330,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1560058608,
+				["lastUpdate"] = 1560319222,
 				["CRITTER"] = {
 					280337, -- [1]
 					229099, -- [2]

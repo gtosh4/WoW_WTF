@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["STARTING_DISCOUNT"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["_1000000"] = 2500,
-	["_5000000"] = 10000,
 	["_500"] = 5,
-	["_10000"] = 200,
+	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["STARTING_DISCOUNT"] = 5,
+	["_5000000"] = 10000,
+	["_10000"] = 200,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -48,47 +48,47 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Potion of Replenishment", -- [1]
-			"Vantus Rune", -- [2]
-			"Anchor Weed", -- [3]
-			"Winter's Kiss", -- [4]
-			"Akunda's Bite", -- [5]
-			"coastal healing potion", -- [6]
-			"Deadly amberblaze", -- [7]
-			"Felwort", -- [8]
-			"Siren's Pollen", -- [9]
-			"Battle-Scarred Augment Rune", -- [10]
-			"Vantus Rune: Battle of Dazar'alor", -- [11]
-			"Pact of Critical", -- [12]
-			"time shifter", -- [13]
-			"time-shifter", -- [14]
-			"Ultramarine", -- [15]
-			"hexweave bag", -- [16]
-			"Battle Shout", -- [17]
-			"Battle flag", -- [18]
-			"crafting", -- [19]
-			"Star moss", -- [20]
-			"Riverbud", -- [21]
-			"Sugar Crusted", -- [22]
-			"Sugar-Crusted", -- [23]
-			"Fish", -- [24]
-			"Feast", -- [25]
-			"Fish Feast", -- [26]
-			"Monel-hardened stirrups", -- [27]
-			"Great sea catfish", -- [28]
-			"Drums", -- [29]
-			"Drums of maelstrom", -- [30]
-			"Kraken's Eye of intellect", -- [31]
-			"coarse leather", -- [32]
-			"Alchemist stone", -- [33]
-			"Darkmoon deck: tides", -- [34]
-			"tides", -- [35]
-			"Goblin glider", -- [36]
-			"Pact of versatility", -- [37]
-			"Versatile navigation", -- [38]
-			"Viridescent Ink", -- [39]
-			"quick navigation", -- [40]
-			"Pact of haste", -- [41]
+			"Pact of haste", -- [1]
+			"Potion of Replenishment", -- [2]
+			"Vantus Rune", -- [3]
+			"Anchor Weed", -- [4]
+			"Winter's Kiss", -- [5]
+			"Akunda's Bite", -- [6]
+			"coastal healing potion", -- [7]
+			"Deadly amberblaze", -- [8]
+			"Felwort", -- [9]
+			"Siren's Pollen", -- [10]
+			"Battle-Scarred Augment Rune", -- [11]
+			"Vantus Rune: Battle of Dazar'alor", -- [12]
+			"Pact of Critical", -- [13]
+			"time shifter", -- [14]
+			"time-shifter", -- [15]
+			"Ultramarine", -- [16]
+			"hexweave bag", -- [17]
+			"Battle Shout", -- [18]
+			"Battle flag", -- [19]
+			"crafting", -- [20]
+			"Star moss", -- [21]
+			"Riverbud", -- [22]
+			"Sugar Crusted", -- [23]
+			"Sugar-Crusted", -- [24]
+			"Fish", -- [25]
+			"Feast", -- [26]
+			"Fish Feast", -- [27]
+			"Monel-hardened stirrups", -- [28]
+			"Great sea catfish", -- [29]
+			"Drums", -- [30]
+			"Drums of maelstrom", -- [31]
+			"Kraken's Eye of intellect", -- [32]
+			"coarse leather", -- [33]
+			"Alchemist stone", -- [34]
+			"Darkmoon deck: tides", -- [35]
+			"tides", -- [36]
+			"Goblin glider", -- [37]
+			"Pact of versatility", -- [38]
+			"Versatile navigation", -- [39]
+			"Viridescent Ink", -- [40]
+			"quick navigation", -- [41]
 			"quick owlseye", -- [42]
 			"helmet", -- [43]
 			"Deep sea", -- [44]
@@ -906,11 +906,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 		},
 		["Enchant Ring - Pact of Haste"] = {
-			["mr"] = 47999999,
+			["mr"] = 11989999,
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
+			["H3130"] = 11989999,
 			["sc"] = 10,
-			["H3011"] = 47999999,
 		},
 		["Golem Helmet of the Aurora"] = {
 			["mr"] = 5715703,
@@ -1640,19 +1640,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154697:0:0:0:1706",
 			["sc"] = 1,
 		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 12900000,
-			["sc"] = 8,
-			["id"] = "152813:0:0:0:0",
-			["cc"] = 0,
-			["H3017"] = 12900000,
-		},
 		["Kraken's Eye of Intellect"] = {
 			["mr"] = 63479985,
 			["cc"] = 3,
 			["id"] = "153709:0:0:0:0",
 			["sc"] = 0,
 			["H3016"] = 63479985,
+		},
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 12900000,
+			["sc"] = 8,
+			["id"] = "152813:0:0:0:0",
+			["cc"] = 0,
+			["H3017"] = 12900000,
 		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 758499,

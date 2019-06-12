@@ -15,15 +15,11 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-06-11",
+			["NextWeeklyReset"] = "2019-06-18",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Heroic|371251160"] = "477686|1559787512|0|1",
-					["Battle of Dazar'alor Mythic|371213168"] = "477686|1559787512|0|1",
-				},
-				["lastUpdate"] = 1559789628,
+				["lastUpdate"] = 1560316083,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
@@ -51,10 +47,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1560058611,
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|371343192"] = "206588|1560058609|0|1",
-				},
+				["lastUpdate"] = 1560319268,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

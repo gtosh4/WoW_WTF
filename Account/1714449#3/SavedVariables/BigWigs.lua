@@ -5,13 +5,13 @@ BigWigs3DB = {
 			[-1358] = true,
 			[875] = true,
 			[-1345] = true,
-			[-367] = true,
-			[-1004] = true,
 			[876] = true,
-			[-557] = true,
 			[-1352] = {
 				[2] = true,
 			},
+			[-557] = true,
+			[-1004] = true,
+			[-367] = true,
 		},
 	},
 	["discord"] = 15,
@@ -75,6 +75,7 @@ BigWigs3DB = {
 				["Default"] = {
 					[282082] = 1032439,
 					[289401] = 1032439,
+					[285994] = 1032439,
 				},
 			},
 		},
@@ -102,12 +103,12 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
 					["visibleBarLimit"] = 15,
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_y"] = 257.60125702105,
 					["BigWigsAnchor_x"] = 675.743157964433,
-					["emphasizeTime"] = 12,
+					["texture"] = "ElvUI Norm",
 					["barStyle"] = "AddOnSkins",
 					["BigWigsEmphasizeAnchor_height"] = 19.9999809265137,
 					["growup"] = false,
@@ -116,12 +117,35 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.9999809265137,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 12,
+					["outline"] = "OUTLINE",
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
 				},
 			},
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 402.655939044766,
+					["posy"] = 517.864880098772,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -141,32 +165,12 @@ BigWigs3DB = {
 							[285638] = "English: Overwatch: Zenyatta",
 							[285453] = "English: Overwatch: Zenyatta",
 						},
+						["BigWigs_Bosses_Grong Horde"] = {
+							[285994] = "English: Overwatch: Winston",
+						},
 					},
 				},
 			},
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 402.655939044766,
-					["posy"] = 517.864880098772,
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
-				},
-			},
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -224,8 +228,8 @@ BigWigsStatsDB = {
 				["kills"] = 5,
 			},
 			["mythic"] = {
-				["kills"] = 20,
-				["wipes"] = 82,
+				["kills"] = 21,
+				["wipes"] = 85,
 				["best"] = 251.736999999965,
 			},
 			["heroic"] = {
@@ -272,7 +276,7 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["kills"] = 15,
-				["wipes"] = 239,
+				["wipes"] = 248,
 				["best"] = 423.008999999962,
 			},
 			["LFR"] = {
@@ -366,8 +370,8 @@ BigWigsStatsDB = {
 				["best"] = 194.273999999976,
 			},
 			["mythic"] = {
-				["kills"] = 21,
-				["wipes"] = 125,
+				["kills"] = 22,
+				["wipes"] = 129,
 				["best"] = 230.54800000001,
 			},
 			["LFR"] = {
@@ -383,7 +387,7 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 			["mythic"] = {
-				["kills"] = 26,
+				["kills"] = 27,
 				["wipes"] = 32,
 				["best"] = 97.1759999999777,
 			},

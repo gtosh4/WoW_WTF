@@ -1,116 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" gotta ask johnny", -- [1]
-		"/g lol", -- [2]
-		"|cffa335ee|Hitem:160216:5965:::::::120:65::35:4:5010:41:1552:4783:::|h[Crackling Jade Kilij]|h|r", -- [3]
-		"why was thac mad", -- [4]
-		"tell me how I'm beating people with 407 gear lol", -- [5]
-		"yea", -- [6]
-		"/raid need 60s", -- [7]
-		"hm?", -- [8]
-		"gotta ask johnny", -- [9]
-		"/tmw", -- [10]
-		"/aa", -- [11]
-		"/cw Fearings-Kil'jaeden ty man", -- [12]
-		"for rivalrY/", -- [13]
-		"/g big boy", -- [14]
-		"just 'cuz of the attendance lately?", -- [15]
-		"|cffa335ee|Hitem:167865::::::::120:65::4:3:4801:1502:4786:::|h[Void Stone]|h|r lololol", -- [16]
-		"/raid t", -- [17]
-		"/cw Fridakahlo-Kil'jaeden ikr", -- [18]
-		"/cw Fridakahlo-Kil'jaeden glimmer is really fun", -- [19]
-		"/cw Fridakahlo-Kil'jaeden it's like a way more fun resto druid", -- [20]
+		"tell me how I'm beating people with 407 gear lol", -- [1]
+		"/tmw", -- [2]
+		"/raid need 60s", -- [3]
+		"/cw Fridakahlo-Kil'jaeden ikr", -- [4]
+		"/g lol", -- [5]
+		"/g big boy", -- [6]
+		"|cffa335ee|Hitem:167865::::::::120:65::4:3:4801:1502:4786:::|h[Void Stone]|h|r lololol", -- [7]
+		"for rivalrY/", -- [8]
+		"/cw Fridakahlo-Kil'jaeden it's like a way more fun resto druid", -- [9]
+		"|cffa335ee|Hitem:160216:5965:::::::120:65::35:4:5010:41:1552:4783:::|h[Crackling Jade Kilij]|h|r", -- [10]
+		"/cw Fearings-Kil'jaeden ty man", -- [11]
+		"/aa", -- [12]
+		"just 'cuz of the attendance lately?", -- [13]
+		"/cw Fridakahlo-Kil'jaeden glimmer is really fun", -- [14]
+		"why was thac mad", -- [15]
+		"yea", -- [16]
+		"gotta ask johnny", -- [17]
+		"/raid t", -- [18]
+		"hm?", -- [19]
+		" yeah same", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Volatile Charge on Voidamental", -- [1]
-			"Voidamental-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidamental-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			600, -- [11]
-			"Player-9-09423122", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcVoidamental|r",
-			[51] = 1559785626,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Volatile Charge on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			601, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1559785626,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Volatile Charge on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			602, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1559785626,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"3", -- [1]
-			"Voidamental-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidamental-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			603, -- [11]
-			"Player-9-09423122", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcVoidamental|r",
-			[51] = 1559785631,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
 		{
 			"3", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -132,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [1]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -154,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [2]
 		{
 			"2", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -176,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1559785632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [3]
 		{
 			"2", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -198,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [4]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -220,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [5]
 		{
 			"stop", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -242,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559785645,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [10]
+		}, -- [6]
 		{
 			"dps.", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -264,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559785646,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [11]
+		}, -- [7]
 		{
 			"Volatile Charge on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -286,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [8]
 		{
 			"Volatile Charge on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -308,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559785648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [9]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -330,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [10]
 		{
 			"3", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -352,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559785653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [11]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -374,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [12]
 		{
 			"2", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -396,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559785654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [13]
 		{
 			"1", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -418,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559785655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [14]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -440,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [15]
 		{
 			"Volatile Charge on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -462,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785660,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [16]
 		{
 			"Volatile Charge on Aspbringr", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -484,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785660,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [17]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -506,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [18]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -528,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785666,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [19]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -550,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785667,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [20]
 		{
 			"Volatile Charge on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -572,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785672,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Volatile Charge on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -594,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785672,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [22]
 		{
 			"Volatile Charge on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -616,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785672,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [23]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -638,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785677,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [24]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -660,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785678,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [25]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -682,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [26]
 		{
 			"Volatile Charge on Aspbringr", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -704,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [27]
 		{
 			"Volatile Charge on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -726,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785687,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [28]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -748,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785692,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [29]
 		{
 			"3", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -770,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785692,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [30]
 		{
 			"2", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -792,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785693,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [31]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -814,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785693,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [32]
 		{
 			"1", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -836,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [33]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -858,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [34]
 		{
 			"Volatile Charge on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -880,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [35]
 		{
 			"Volatile Charge on Rivalry", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -902,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559785703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [36]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -924,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785708,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [37]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -946,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785709,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [38]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -968,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785710,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Liquid Gold on Trashtalk", -- [1]
 			"Trashtalk-Bloodscalp", -- [2]
@@ -990,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trashtalk-Bloodscalp|r",
 			[51] = 1559785788,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Coin Shower on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1012,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785793,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1034,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559785797,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [42]
 		{
 			"2", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1056,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559785798,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [43]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1078,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785800,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [48]
+		}, -- [44]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1100,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785801,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [49]
+		}, -- [45]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1122,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785802,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Liquid Gold on Zerkwa", -- [1]
 			"Zerkwa-Kil'jaeden", -- [2]
@@ -1144,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Zerkwa|r",
 			[51] = 1559785804,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"Liquid Gold on Trashtalk", -- [1]
 			"Trashtalk-Bloodscalp", -- [2]
@@ -1166,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trashtalk-Bloodscalp|r",
 			[51] = 1559785820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [48]
 		{
 			"Liquid Gold on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1188,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1210,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1232,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785830,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1254,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559785831,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [52]
 		{
 			"3", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1276,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785845,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"Liquid Gold on Trashtalk", -- [1]
 			"Trashtalk-Bloodscalp", -- [2]
@@ -1298,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trashtalk-Bloodscalp|r",
 			[51] = 1559785863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [54]
 		{
 			"Liquid Gold on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1320,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [55]
 		{
 			"Liquid Gold on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1342,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559785863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [56]
 		{
 			"Kimbuls gonna proc for 425", -- [1]
 			"Aspbringr-Kil'jaeden", -- [2]
@@ -1364,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aspbringr|r",
 			[51] = 1559785945,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [57]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1386,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559786049,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [58]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1408,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559786049,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [59]
 		{
 			"JAMIE MY SALV", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1430,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559786123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [60]
 		{
 			"tag boss", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1452,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559786141,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [65]
+		}, -- [61]
 		{
 			"kimbul pls", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -1474,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786141,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [62]
 		{
 			"reset", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1496,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559786142,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [67]
+		}, -- [63]
 		{
 			"Mark of Prey on Trashtalk", -- [1]
 			"Trashtalk-Bloodscalp", -- [2]
@@ -1518,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trashtalk-Bloodscalp|r",
 			[51] = 1559786286,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [64]
 		{
 			"Mark of Prey on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1540,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1559786286,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Mark of Prey on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1562,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786354,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [66]
 		{
 			"Mark of Prey on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -1584,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1559786406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [67]
 		{
 			"Mark of Prey on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1606,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [68]
 		{
 			"Mark of Prey on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1628,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1559786406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [69]
 		{
 			"Mark of Prey on Milferal", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1650,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [70]
 		{
 			"Mark of Prey on Funkotron", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -1672,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786417,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [71]
 		{
 			"3", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1694,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786427,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"2", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1716,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786428,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"1", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1738,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786429,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"Leap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1760,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1559786435,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [75]
 		{
 			"Leap on Clea", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -1782,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1559786435,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [76]
 		{
 			"Mark of Prey on Funkotron", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -1804,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786466,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1826,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559786466,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [78]
 		{
 			"Mark of Prey on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1848,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559786466,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [79]
 		{
 			"Mark of Prey on Andruww", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1870,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1559786466,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [80]
 		{
 			"Mark of Prey on Milferal", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1892,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786466,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [81]
 		{
 			"Mark of Prey on Voidamental", -- [1]
 			"Voidamental-Kil'jaeden", -- [2]
@@ -1914,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVoidamental|r",
 			[51] = 1559786476,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [82]
 		{
 			"Akunda's Wrath on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -1936,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786484,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [83]
 		{
 			"Akunda's Wrath on Milferal", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1958,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786484,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [84]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1980,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559786486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"Mark of Prey on Orcbum", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2002,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1559786486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"Mark of Prey on Funkotron", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2024,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [87]
 		{
 			"Mark of Prey on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2046,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [88]
 		{
 			"3", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2068,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786487,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [89]
 		{
 			"3", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2090,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786487,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [90]
 		{
 			"2", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2112,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786488,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [91]
 		{
 			"2", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2134,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786488,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"1", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2156,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786489,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [93]
 		{
 			"1", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -2178,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1559786489,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [94]
 		{
 			"Leap on Peestain", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2200,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1559786495,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [95]
 		{
 			"we're done", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2222,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559786547,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [100]
+		}, -- [96]
 		{
 			"thanks!", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2244,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559786548,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [101]
+		}, -- [97]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12546:Player-9-09B16B50:1:6:5:19:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2266,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786554,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [102]
+		}, -- [98]
 		{
 			"yesss", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2288,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786557,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [99]
 		{
 			"superior", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2310,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786558,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [100]
 		{
 			"did anyone get the boots off orc?", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2332,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559786568,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [101]
 		{
 			"did you need?", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2354,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1559786581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [102]
 		{
 			"it", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2376,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1559786581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [103]
 		{
 			"1 trinket", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2398,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786585,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [104]
 		{
 			"and gloves", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2420,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786586,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [105]
 		{
 			"yee", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2442,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559786590,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [106]
 		{
 			"i need 1 trinekts and gloves", -- [1]
 			"Funkotron-Kil'jaeden", -- [2]
@@ -2464,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkotron|r",
 			[51] = 1559786594,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [107]
 		{
 			"you want the ring still?", -- [1]
 			"Verceus-Kil'jaeden", -- [2]
@@ -2486,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Verceus|r",
 			[51] = 1559786616,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [108]
 		{
 			"from jadefire?", -- [1]
 			"Verceus-Kil'jaeden", -- [2]
@@ -2508,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Verceus|r",
 			[51] = 1559786619,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [109]
 		{
 			"glimmer is so  fun wtf", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2530,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559786715,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [114]
+		}, -- [110]
 		{
 			"i quit hpal because it was boring af, and now this >.>", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2552,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559786729,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [115]
+		}, -- [111]
 		{
 			"!keys", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -2574,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1559787051,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [112]
 		{
 			"|cffa335ee|Hkeystone:158923:353:10:9:6:4:117|h[Keystone: Siege of Boralus (10)]|h|r", -- [1]
 			"Undying-Kil'jaeden", -- [2]
@@ -2596,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeUndying|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [113]
 		{
 			"|cffa335ee|Hkeystone:158923:245:10:9:6:4:117|h[Keystone: Freehold (10)]|h|r", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -2618,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [114]
 		{
 			"|cffa335ee|Hkeystone:158923:246:9:9:6:4:0|h[Keystone: Tol Dagor (9)]|h|r", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2640,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [115]
 		{
 			"|cffa335ee|Hkeystone:158923:246:9:9:6:4:0|h[Keystone: Tol Dagor (9)]|h|r", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2662,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [116]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:251:16:9:6:4:117|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2684,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [117]
 		{
 			"|cffa335ee|Hkeystone:158923:251:16:9:6:4:117|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2706,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1559787052,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [118]
 		{
 			"ikr", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2728,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559787464,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [123]
+		}, -- [119]
 		{
 			"glimmer is really fun", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2750,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559787469,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [124]
+		}, -- [120]
 		{
 			"it's like a way more fun resto druid", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2772,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559787484,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [125]
+		}, -- [121]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13292:Player-9-0B513C6C:1:6:5:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Champion of the Light]|h|r!", -- [1]
 			"Fridakahlo-Kil'jaeden", -- [2]
@@ -2794,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Fridakahlo|r",
 			[51] = 1559788401,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [122]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13299:Player-9-0B53C813:1:6:5:19:4294967295:4294967295:4294967295:4294967295|h[Mythic: Opulence]|h|r!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2816,6 +2728,98 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1559788741,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [123]
+		{
+			"yikes", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1560316074,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [124]
+		{
+			":(", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1560316077,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [125]
+		{
+			"yeah same", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1560316081,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Envious",
+		}, -- [126]
+		{
+			"lolol ", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Envious",
+			[51] = 1560316085,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
 		}, -- [127]
 	},
 }

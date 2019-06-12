@@ -21,17 +21,25 @@ BigWigs3DB = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[288449] = 2015479,
 					[287333] = 1032439,
-					[285003] = 1032439,
+					[288449] = 2015479,
 					["stages"] = 1032439,
+					[285003] = 1032439,
 				},
 			},
+		},
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[286988] = 1032951,
+				},
+			},
+		},
+		["BigWigs_Bosses_Council o' Captains"] = {
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -45,12 +53,19 @@ BigWigs3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 140.000152587891,
+					["posy"] = 396.797916202297,
+					["posx"] = 704.523035699211,
 				},
 			},
+		},
+		["BigWigs_Bosses_Skycap'n Kragg"] = {
+		},
+		["BigWigs_Bosses_Freehold Trash"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -80,6 +95,8 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
+		["BigWigs_Bosses_Harlan Sweete"] = {
+		},
 		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -87,17 +104,9 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.000152587891,
-					["posy"] = 396.797916202297,
-					["posx"] = 704.523035699211,
-				},
-			},
-		},
 		["BigWigs_Plugins_Wipe"] = {
+		},
+		["BigWigs_Bosses_Ring of Booty"] = {
 		},
 		["BigWigs_Bosses_The Restless Cabal"] = {
 			["profiles"] = {
@@ -137,7 +146,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
+					["outline"] = "OUTLINE",
 					["BigWigsAnchor_width"] = 200.251571655273,
 					["BigWigsAnchor_x"] = 1392.54322316818,
 					["fill"] = false,
@@ -149,14 +158,14 @@ BigWigs3DB = {
 					["BigWigsAnchor_y"] = 67.7356962641752,
 					["emphasizeGrowup"] = true,
 					["spacing"] = 4,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 10,
 					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_width"] = 218.000045776367,
 					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
-					["outline"] = "OUTLINE",
-					["emphasizeTime"] = 10,
-					["emphasizeMultiplier"] = 1,
+					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
 					["fontSizeEmph"] = 14,
+					["emphasizeMultiplier"] = 1,
+					["texture"] = "ElvUI Norm",
 				},
 			},
 		},
@@ -231,6 +240,7 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,

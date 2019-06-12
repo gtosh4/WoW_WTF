@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_5000000"] = 10000,
 	["_200000"] = 1000,
-	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
+	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["STARTING_DISCOUNT"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -24,11 +24,9 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["5568059"] = "3200000000:1",
 		["5554063"] = "3000000000:1",
 	},
-	["Veiled Crystal"] = {
-		["5521304"] = "4867500:4",
-		["5521828"] = "4847500:4",
-		["is"] = "152877:0:0:0:0",
-		["5631147"] = "2045000:4",
+	["Bloodstained Message"] = {
+		["is"] = "158879:0:0:0:0",
+		["5552851"] = "7420000:1",
 	},
 	["City Crusher Sabatons"] = {
 		["5568059"] = "540000000:1",
@@ -41,9 +39,11 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "160612:0:0:0:4801",
 		["5522491"] = "48750000:1",
 	},
-	["Bloodstained Message"] = {
-		["is"] = "158879:0:0:0:0",
-		["5552851"] = "7420000:1",
+	["Veiled Crystal"] = {
+		["5521304"] = "4867500:4",
+		["5521828"] = "4847500:4",
+		["is"] = "152877:0:0:0:0",
+		["5631147"] = "2045000:4",
 	},
 	["Glyph of Dalaran Brilliance"] = {
 		["is"] = "167539:0:0:0:0",
@@ -1149,11 +1149,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Battle-Scarred Augment Rune"] = {
 			["mr"] = 2695099,
-			["cc"] = 0,
+			["sc"] = 8,
 			["id"] = "160053:0:0:0:0",
 			["H3127"] = 2695099,
-			["H3105"] = 3992500,
-			["sc"] = 8,
+			["cc"] = 0,
 		},
 		["Gothic Plate Helmet of the Fireflash"] = {
 			["mr"] = 8999998,
@@ -1568,12 +1567,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 990000,
 			["sc"] = 4,
 		},
-		["Tidespray Linen Mittens of the Peerless"] = {
-			["mr"] = 32509988,
-			["cc"] = 4,
-			["H3012"] = 32509988,
-			["id"] = "154687:0:0:0:1685",
-			["sc"] = 1,
+		["Lane Snapper"] = {
+			["H3099"] = 185736,
+			["cc"] = 7,
+			["id"] = "152546:0:0:0:0",
+			["sc"] = 8,
+			["mr"] = 185736,
 		},
 		["Drums of Rage"] = {
 			["mr"] = 8670128,
@@ -1589,12 +1588,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 11591686,
 		},
-		["Lane Snapper"] = {
-			["H3099"] = 185736,
-			["cc"] = 7,
-			["id"] = "152546:0:0:0:0",
-			["sc"] = 8,
-			["mr"] = 185736,
+		["Tidespray Linen Mittens of the Peerless"] = {
+			["mr"] = 32509988,
+			["cc"] = 4,
+			["H3012"] = 32509988,
+			["id"] = "154687:0:0:0:1685",
+			["sc"] = 1,
 		},
 		["Darkmoon Deck: Tides"] = {
 			["mr"] = 69969987,

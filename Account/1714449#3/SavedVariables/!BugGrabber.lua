@@ -1,15 +1,15 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 815,
+	["session"] = 817,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:60: attempt to index global 'aura_env' (a nil value)",
 			["time"] = "2019/06/07 14:24:04",
 			["locals"] = "frame = Grid2LayoutHeader1UnitButton2 {\n 0 = <userdata>\n raid-debuff = <unnamed> {\n }\n text-down = <unnamed> {\n }\n PixelSnapDisabled = true\n leader = <unnamed> {\n }\n CreateIndicators = <function> defined @Interface\\AddOns\\Grid2\\GridFrame.lua:174\n role = <unnamed> {\n }\n container = <unnamed> {\n }\n ind-main = <unnamed> {\n }\n heals = <unnamed> {\n }\n UpdateIndicators = <function> defined @Interface\\AddOns\\Grid2\\GridFrame.lua:164\n Layout = <function> defined @Interface\\AddOns\\Grid2\\GridFrame.lua:125\n currentBackdrop = <table> {\n }\n _PixelGlowAtonement Missing = <unnamed> {\n }\n tanking = <unnamed> {\n }\n health = <unnamed> {\n }\n ind-second = <unnamed> {\n }\n health-multi = <unnamed> {\n }\n buffs = <unnamed> {\n }\n bad = <unnamed> {\n }\n ind-third = <unnamed> {\n }\n}\nshow = false\nid = \"Atonement Missing\"\nglowType = \"Pixel\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'aura_env' (a nil value)\"\nglowTypes = <table> {\n 1 = \"Standard\"\n 2 = \"Pixel\"\n 3 = \"AutoCast\"\n}\nLCG = <table> {\n ButtonGlowPool = <table> {\n }\n PixelGlow_Stop = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:293\n GlowFramePool = <table> {\n }\n startList = <table> {\n }\n ButtonGlow_Stop = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:675\n ButtonGlow_Start = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:592\n AutoCastGlow_Stop = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:387\n glowList = <table> {\n }\n GlowTexPool = <table> {\n }\n PixelGlow_Start = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:207\n GlowMaskPool = <table> {\n }\n stopList = <table> {\n }\n AutoCastGlow_Start = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:344\n RegisterTextures = <function> defined @Interface\\AddOns\\WeakAuras\\Libs\\LibCustomGlow-1.0\\LibCustomGlow-1.0.lua:14\n}\n",
 			["stack"] = "[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:60: in function <[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:25>\n[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:80: in function <[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:76>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `OpenOptions'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.12.4.1.lua:109: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4721: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4382: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4418: in function <Interface\\FrameXML\\ChatFrame.lua:4414>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
-			["session"] = 813,
-			["counter"] = 3,
+			["session"] = 816,
+			["counter"] = 7,
 		}, -- [1]
 	},
 }

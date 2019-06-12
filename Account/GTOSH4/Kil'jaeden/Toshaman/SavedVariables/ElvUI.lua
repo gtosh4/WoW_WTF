@@ -1,470 +1,360 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p so we don't have like 20 stacks going into the wall", -- [1]
-		"/roll 15000", -- [2]
-		"/roll 30000", -- [3]
-		"/dn", -- [4]
-		"/o jaina timings got changed", -- [5]
-		"/o it's not it's just 'cuz we keep trying to do it like our first one", -- [6]
-		"/o we did not", -- [7]
-		"/o only aber and necro got hit by it", -- [8]
-		"/o idk how", -- [9]
-		"/o animation went right through us", -- [10]
-		" wait why wouldn't cada let them fall off", -- [11]
-		" zzz", -- [12]
-		"/cw Yellowy-Kil'jaeden yup", -- [13]
-		"/cw Yellowy-Kil'jaeden after last night", -- [14]
-		"/cw Yellowy-Kil'jaeden I said \"nm\"", -- [15]
-		"/o he death strike", -- [16]
-		"/o twice in the 8s leading up to being frozen", -- [17]
-		"/o 1 more I guess", -- [18]
-		"/o everyone's still here", -- [19]
-		"/o no one's hearthed", -- [20]
+		"/o no one's hearthed", -- [1]
+		"/p so we don't have like 20 stacks going into the wall", -- [2]
+		"zzz", -- [3]
+		"/cw Yellowy-Kil'jaeden I said \"nm\"", -- [4]
+		"/o we did not", -- [5]
+		"/cw Yellowy-Kil'jaeden yup", -- [6]
+		"/o jaina timings got changed", -- [7]
+		"/o twice in the 8s leading up to being frozen", -- [8]
+		"/o 1 more I guess", -- [9]
+		"wait why wouldn't cada let them fall off", -- [10]
+		"/o everyone's still here", -- [11]
+		"/dn", -- [12]
+		" \"I think it's you\"", -- [13]
+		" \"I think it's me\"", -- [14]
+		" lol", -- [15]
+		"/ak", -- [16]
+		" would you be able to make rivalry times?", -- [17]
+		" if KT dies, I still wanna raid w/ you but I'd like to do other stuff during the week", -- [18]
+		" 6:30 - 10:30", -- [19]
+		" fri sat", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"2", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Risen Soul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6105, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			154, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1560058108,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317894,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"1", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Skycap'n Kragg!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6106, -- [11]
-			"Player-9-0B106DB1", -- [12]
+			158, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcQiro|r",
-			[51] = 1560058109,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317904,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"{rt1}1", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6107, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			161, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058109,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317910,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"1", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6108, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			162, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1560058109,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317910,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Broadside 1 on {rt1}Warlockmania{rt1}", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6112, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			163, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058138,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560317914,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"Broadside (2{rt2}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6113, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			164, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058138,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317918,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"Broadside (3{rt3}) on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6114, -- [11]
-			"Player-9-0B58277D", -- [12]
+			165, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058138,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560317918,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"Siegebreaker Blast on Thunderrz", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:272046:0|h[Dive Bomb]|h|r for 156.2k (65%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6118, -- [11]
-			"Player-9-0B081794", -- [12]
+			170, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1560058139,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560317947,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"Avalanche 4 on {rt4}Necrophobiá{rt4}", -- [1]
-			"Necrophobiá-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r on Skycap'n Kragg", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Necrophobiá-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6121, -- [11]
-			"Player-9-0B675789", -- [12]
+			172, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Necrophobiá|r",
-			[51] = 1560058140,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560317953,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"3", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:272046:0|h[Dive Bomb]|h|r for 150.0k (65%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6122, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			176, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560317981,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"{rt1}3", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Casting |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r on Bluedagger!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6123, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			177, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560317985,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"3", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Successfully resurrected You!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6124, -- [11]
-			"Player-9-0B58277D", -- [12]
+			178, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058141,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560317987,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"{rt1}2", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"I ran to wrong side D=", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6125, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			179, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058142,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560317992,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"2", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r on Skycap'n Kragg", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6126, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			180, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058142,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560317996,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"2", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Taunted Irontide Enforcer!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6127, -- [11]
-			"Player-9-0B58277D", -- [12]
+			185, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058142,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318035,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"1", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6128, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"{rt1}1", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6129, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"1", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6130, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"3", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6131, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1560058144,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"2", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6132, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1560058145,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Taunted Irontide Enforcer!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -474,7 +364,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6133, -- [11]
+			186, -- [11]
 			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -482,109 +372,263 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058146,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1560318035,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [16]
+		{
+			"drinking", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluedagger-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			187, -- [11]
+			"Player-9-0B1ACE61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560318058,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [17]
+		{
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			191, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318087,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [18]
+		{
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			192, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318087,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [19]
+		{
+			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			193, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318087,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [20]
+		{
+			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			196, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318102,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:274516:0|h[Slippery Suds]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6134, -- [11]
-			"Player-9-08462094", -- [12]
+			197, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058146,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318102,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"Hand of Frost on Necrophobiá", -- [1]
-			"Necrophobiá-Kil'jaeden", -- [2]
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Necrophobiá-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6136, -- [11]
-			"Player-9-0B675789", -- [12]
+			198, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Necrophobiá|r",
-			[51] = 1560058152,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318107,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"Hand of Frost on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6137, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1560058152,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6138, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058156,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			199, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318109,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [24]
+		{
+			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			200, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318109,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [25]
+		{
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			201, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318109,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [26]
+		{
+			"<EH> Wildsong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			202, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318109,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [27]
+		{
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
 			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6139, -- [11]
+			204, -- [11]
 			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -592,253 +636,209 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058156,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"Broadside 1 on {rt1}Knoss{rt1}", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6140, -- [11]
-			"Player-9-0B24697B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058176,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Broadside (2{rt2}) on Haxpaxy", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6141, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058176,
+			[51] = 1560318120,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"3", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6143, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			205, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058179,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318120,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [29]
 		{
-			"{rt1}3", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6144, -- [11]
-			"Player-9-0B24697B", -- [12]
+			206, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058179,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318128,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [30]
 		{
-			"2", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6147, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			207, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058180,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318128,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"{rt1}2", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6148, -- [11]
-			"Player-9-0B24697B", -- [12]
+			208, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058180,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318129,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"{rt1}1", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6150, -- [11]
-			"Player-9-0B24697B", -- [12]
+			209, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058181,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318129,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"1", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wildsong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6151, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
+			210, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058181,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318129,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Cancel lust", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wildsong got hit by |cff71d5ff|Hspell:274516:0|h[Slippery Suds]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6156, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			211, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058206,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318131,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Cancel lust", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6159, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			212, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058210,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318136,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [36]
 		{
-			"L E T ' S  K I L L  T H I S", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6166, -- [11]
-			"Player-9-0A76F241", -- [12]
+			213, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058217,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318136,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [37]
 		{
-			"HoF: Toshaman", -- [1]
+			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -848,7 +848,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6169, -- [11]
+			214, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -856,33 +856,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058220,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1560318148,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"HoF Off", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6170, -- [11]
-			"Player-9-0B4BF011", -- [12]
+			215, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1560058220,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318151,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"Yellowy gripped Thunderrz", -- [1]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -892,7 +892,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6171, -- [11]
+			216, -- [11]
 			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -900,1221 +900,1221 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058221,
+			[51] = 1560318151,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [40]
 		{
-			"Yellowy gripped Thunderrz", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6172, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058221,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6173, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058221,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [42]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6175, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058223,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [43]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6176, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058224,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [44]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6177, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058226,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6179, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058227,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [46]
-		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6181, -- [11]
-			"Player-9-0B58277D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058229,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [47]
-		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6182, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			217, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1560058230,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318151,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [41]
+		{
+			"Interrupted |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r on Bilge Rat Brinescale", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wraithbrand-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"Player-9-0A6CF05A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560318191,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [42]
+		{
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			222, -- [11]
+			"Player-9-0B58277D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318207,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [43]
+		{
+			"Pummeled Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			224, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318215,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			233, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318247,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [45]
+		{
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318247,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [46]
+		{
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			235, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318253,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [47]
+		{
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			236, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318253,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [48]
 		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Lost Soul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6184, -- [11]
-			"Player-9-0B58277D", -- [12]
+			238, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058230,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318259,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [49]
 		{
-			"HoF Off", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6186, -- [11]
-			"Player-9-0B58277D", -- [12]
+			239, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058232,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318259,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [50]
 		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6190, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			242, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058234,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318268,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [51]
 		{
-			"Broadside (2{rt2}) on Yukio", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6192, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			243, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058235,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318274,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"Broadside 1 on {rt1}Yellowy{rt1}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6193, -- [11]
-			"Player-9-0A76F241", -- [12]
+			244, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058235,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318276,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Broadside (1{rt1}) on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6194, -- [11]
-			"Player-9-0A76F241", -- [12]
+			245, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058235,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318276,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [54]
 		{
-			"Broadside (3{rt3}) on Notsci", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6195, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			246, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058235,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318284,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Gul'kafh zz I", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6200, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			247, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318284,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"3", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Casting |cff71d5ff|Hspell:50769:0|h[Revive]|h|r on Wraithbrand!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6201, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			248, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318321,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"3", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Captain Raoul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6202, -- [11]
-			"Player-9-0A76F241", -- [12]
+			271, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318420,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"{rt1}3", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6203, -- [11]
-			"Player-9-0A76F241", -- [12]
+			277, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058238,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318440,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"3", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6204, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			278, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318440,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [60]
 		{
-			"2", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6207, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			280, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058239,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318443,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [61]
 		{
-			"2", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r on Irontide Oarsman", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6208, -- [11]
-			"Player-9-0A76F241", -- [12]
+			281, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058239,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560318446,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"{rt1}2", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6209, -- [11]
-			"Player-9-0A76F241", -- [12]
+			285, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058239,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318454,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"2", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6210, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			297, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058239,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318548,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [64]
 		{
-			"1", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6212, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			298, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058240,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318548,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"Gul'kafh zz I", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6213, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			299, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058240,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318551,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [66]
 		{
-			"1", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6214, -- [11]
-			"Player-9-0A76F241", -- [12]
+			300, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058240,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318551,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [67]
 		{
-			"{rt1}1", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6215, -- [11]
-			"Player-9-0A76F241", -- [12]
+			301, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058240,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318559,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [68]
 		{
-			"1", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6216, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			302, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058240,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318559,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [69]
 		{
-			"Freezing in 4", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6217, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			303, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058241,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318560,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"HoF Off", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6227, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			304, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1560058247,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318560,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [71]
 		{
-			"Heart of Frost on Knoss", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Cutwater Harpooner!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6231, -- [11]
-			"Player-9-0B24697B", -- [12]
+			311, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058250,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318585,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r on Blacktooth Knuckleduster", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6236, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			313, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1560058253,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560318595,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"HoF Off", -- [1]
-			"Haxpaxy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Haxpaxy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6241, -- [11]
-			"Player-9-0B2D7AFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Haxpaxy|r",
-			[51] = 1560058256,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"Iiyoq ez Yyqzz za Kaaxth", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6243, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058258,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6247, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058263,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"Freezing in 3", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6248, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058263,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Freezing in 2", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6251, -- [11]
-			"Player-9-0B3174F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058264,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Siegebreaker Blast on Qiro", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6263, -- [11]
-			"Player-9-0B106DB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcQiro|r",
-			[51] = 1560058275,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Heart of Frost on Zerkwa", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6267, -- [11]
-			"Player-9-0B6ADA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058277,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6273, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			314, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1560058280,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318599,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [74]
+		{
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			317, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318605,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [75]
+		{
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318606,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [76]
+		{
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:276061:0|h[Boulder Throw]|h|r for 125.1k (52%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318669,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
+		{
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 135.2k (59%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318674,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"<EH> Toshaman got hit by |cff71d5ff|Hspell:276061:0|h[Boulder Throw]|h|r for 129.3k (53%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318681,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
+		{
+			"<EH> Bluedagger got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 139.6k (61%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			325, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318706,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [80]
+		{
+			"Taunted Freehold Shipmate!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pride-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-9-08462094", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318716,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [81]
 		{
-			"3", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Ludwig Von Tortollan!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6277, -- [11]
-			"Player-9-0B106DB1", -- [12]
+			330, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcQiro|r",
-			[51] = 1560058281,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318737,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"HoF Off", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6282, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			331, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecCadaceus|r",
-			[51] = 1560058282,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318740,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"Freezing in 3", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6286, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			332, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058284,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318740,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [84]
 		{
-			"Iiyoq ez Yyqzz za Kaaxth", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"Taunted Lost Soul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6287, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			333, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058284,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318746,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [85]
 		{
-			"Qiro interrupted |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
+			"Taunted Lost Soul!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6289, -- [11]
-			"Player-9-0B106DB1", -- [12]
+			334, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcQiro|r",
-			[51] = 1560058288,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318746,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"HoF Off", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6295, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			335, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058291,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318748,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"HoF Off", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6296, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			336, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058291,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318748,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [88]
 		{
-			"Heart of Frost on Warlockmania", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 99.9k (42%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6297, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			337, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058292,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318774,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"Broadside 3 on {rt3}Zerkwa{rt3}", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 205.7k (86%).", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6301, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			339, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058292,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560318813,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"3", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6306, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			342, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058295,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318841,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"2", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6307, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			345, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058296,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318856,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"1", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6314, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			346, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058297,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318856,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [93]
 		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6324, -- [11]
-			"Player-9-0B58277D", -- [12]
+			347, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058302,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318857,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"HoF: Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:5246:0|h[Intimidating Shout]|h|r ended!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6325, -- [11]
-			"Player-9-0B58277D", -- [12]
+			348, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058303,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318857,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"HoF: Toshaman", -- [1]
+			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2124,7 +2124,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6326, -- [11]
+			349, -- [11]
 			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2132,99 +2132,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1560058305,
-			[50] = "CHAT_MSG_YELL",
+			[51] = 1560318857,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"L E T ' S  K I L L  T H I S", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6338, -- [11]
-			"Player-9-0A76F241", -- [12]
+			350, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058358,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318861,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6339, -- [11]
-			"Player-9-08462094", -- [12]
+			351, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058360,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318866,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
+			"Ricocheting Throw on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6340, -- [11]
-			"Player-9-0B081794", -- [12]
+			352, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1560058360,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560318870,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Trothak!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6343, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			353, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058374,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318890,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [100]
 		{
-			"Done With Nom Noms!", -- [1]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -2234,7 +2234,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6344, -- [11]
+			356, -- [11]
 			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2242,580 +2242,580 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cPride|r",
-			[51] = 1560058380,
+			[51] = 1560318930,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6345, -- [11]
-			"Player-9-0B081794", -- [12]
+			357, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1560058380,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318930,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [102]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6346, -- [11]
-			"Player-9-0AFB89C2", -- [12]
+			359, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1560058387,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318942,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [103]
 		{
-			"Avalanche (2{rt2}) on Tehkz", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6356, -- [11]
-			"Player-9-0B4BF011", -- [12]
+			360, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1560058419,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560318942,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"Avalanche 3 on {rt3}Warlockmania{rt3}", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Pummeled Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6357, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			363, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1560058419,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319013,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [105]
 		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Taunted Harlan Sweete!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6364, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			365, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058440,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319041,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [106]
 		{
-			"L E T ' S  K I L L  T H I S", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Cannon Barrage on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6367, -- [11]
-			"Player-9-0A76F241", -- [12]
+			372, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058445,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560319093,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"Freezing in 4", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
+			"Cannon Barrage on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6368, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			376, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058448,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560319118,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [108]
 		{
-			"Freezing in 3", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
+			"Cannon Barrage on Wildsong", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6369, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			378, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058449,
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319139,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [109]
 		{
-			"** Congélation sur Qiro **", -- [1]
-			"Qiro-Kil'jaeden", -- [2]
+			"Cannon Barrage on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Qiro-Kil'jaeden", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6373, -- [11]
-			"Player-9-0B106DB1", -- [12]
+			379, -- [11]
+			"Player-9-0B58277D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcQiro|r",
-			[51] = 1560058474,
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1560319139,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"Avalanche (2{rt2}) on Cadaceus", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Pummeled Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6375, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			384, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecCadaceus|r",
-			[51] = 1560058475,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319156,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [111]
 		{
-			"Avalanche 3 on {rt3}Yellowy{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6379, -- [11]
-			"Player-9-0A76F241", -- [12]
+			385, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058475,
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319159,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [112]
 		{
-			"Avalanche (3{rt3}) on Yellowy", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r activated!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6380, -- [11]
-			"Player-9-0A76F241", -- [12]
+			386, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1560058475,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319159,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [113]
 		{
-			"Avalanche 1 on {rt1}Abernathii{rt1}", -- [1]
-			"Abernathii-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r faded!", -- [1]
+			"Pride-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Abernathii-Kil'jaeden", -- [5]
+			"Pride-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6381, -- [11]
-			"Player-9-0B46FEC9", -- [12]
+			387, -- [11]
+			"Player-9-08462094", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Abernathii|r",
-			[51] = 1560058475,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cPride|r",
+			[51] = 1560319167,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [114]
 		{
-			"Freezing in 4", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6392, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			393, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058489,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [115]
 		{
-			"Freezing in 3", -- [1]
-			"Zerkwa-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"1. Pride 528.3k", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zerkwa-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6393, -- [11]
-			"Player-9-0B6ADA35", -- [12]
+			394, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Zerkwa|r",
-			[51] = 1560058490,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [116]
 		{
-			"Gul'kafh zz I", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
+			"2. Toshaman 531.7k", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6394, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			395, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058504,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [117]
 		{
-			"Freezing in 3", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"3. Wildsong 552.7k", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6395, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			396, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058505,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [118]
 		{
-			"Avalanche (3{rt3}) on Cadaceus", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"4. Wraithbrand 690.7k", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6401, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
+			397, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecCadaceus|r",
-			[51] = 1560058521,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [119]
 		{
-			"Freezing in 4", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"5. Bluedagger 1178.1k", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Wildsong-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6402, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			398, -- [11]
+			"Player-9-0A418A98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058524,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560319171,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"Freezing in 3", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"This cloak", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6403, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			405, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058526,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319191,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"Freezing in 4", -- [1]
-			"Notsci-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:248:14:10:7:2:117|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
+			"Wraithbrand-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Notsci-Kil'jaeden", -- [5]
+			"Wraithbrand-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6410, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			408, -- [11]
+			"Player-9-0A6CF05A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Notsci|r",
-			[51] = 1560058537,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Wraithbrand|r",
+			[51] = 1560319196,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"Freezing in 4", -- [1]
-			"Mfs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Is all I get from here kek", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfs-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6412, -- [11]
-			"Player-9-0B68F23D", -- [12]
+			410, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mfs|r",
-			[51] = 1560058544,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319201,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"Avalanche 3 on {rt3}Knoss{rt3}", -- [1]
-			"Knoss-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"but my set bonus", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Knoss-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6420, -- [11]
-			"Player-9-0B24697B", -- [12]
+			412, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Knoss|r",
-			[51] = 1560058567,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319218,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"Avalanche 1 on {rt1}Necrophobiá{rt1}", -- [1]
-			"Necrophobiá-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"REEEEE", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Necrophobiá-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6422, -- [11]
-			"Player-9-0B675789", -- [12]
+			416, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Necrophobiá|r",
-			[51] = 1560058567,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319228,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"Avalanche (2{rt2}) on Arnbjørn", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"lets dooo |cffa335ee|Hkeystone:158923:251:16:10:7:2:117|h[Keystone: The Underrot (16)]|h|r sometime too", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6423, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			418, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1560058567,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319265,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"Freezing in 4", -- [1]
-			"Sinmon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"I wanna get ride of my 11", -- [1]
+			"Bluedagger-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sinmon-Kil'jaeden", -- [5]
+			"Bluedagger-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			6433, -- [11]
-			"Player-9-0B3174F0", -- [12]
+			420, -- [11]
+			"Player-9-0B1ACE61", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSinmon|r",
-			[51] = 1560058576,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Bluedagger|r",
+			[51] = 1560319273,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }
