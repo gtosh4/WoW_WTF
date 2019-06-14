@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshmonk",
+		["name"] = "Tosh",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -108,61 +108,61 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["topViewport"] = 0,
 			["interrupt"] = true,
-			["gmotd"] = {
-				[""] = true,
-				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["kill boss this friday thankz."] = true,
-				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
-				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
-				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["RIP Toshmonk"] = true,
-				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
-				["heroic bod wed @ 7pm cst. "] = true,
-				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
-				["main raid tonight slay stormwall :)"] = true,
-				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["slay mekka friday and blockade saturday "] = true,
-				["heroic bod @ 7pm cst wed "] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
-				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["kill jaina saturday heroic wed @ 7pm cst"] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Main Raid Fri/Sat @ 830pm cst "] = true,
-				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
-				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
-			},
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
 			["skingmotd"] = true,
-			["bottomViewport"] = 0,
+			["skinwas"] = false,
 			["font"] = "Friz Quadrata TT",
 			["changefonts"] = false,
+			["forcescale"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
-			["topViewport"] = 0,
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["gmotd"] = {
+				[""] = true,
+				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["kill boss this friday thankz."] = true,
+				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
+				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["heroic bod wed @ 7pm cst. "] = true,
+				["RIP Toshmonk"] = true,
+				["Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["kill jaina saturday heroic wed @ 7pm cst"] = true,
+				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["slay mekka friday and blockade saturday "] = true,
+				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
+				["heroic bod @ 7pm cst wed "] = true,
+				["main raid tonight slay stormwall :)"] = true,
+				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
+				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+			},
 		},
 	},
 	["profiles"] = {

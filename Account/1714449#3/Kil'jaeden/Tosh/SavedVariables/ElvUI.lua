@@ -1,1150 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"/dump GetSpellInfo(295271)", -- [2]
-		"/dump GetSpellInfo(102342))", -- [3]
-		"/dump GetSpellInfo(102342)", -- [4]
-		"/raid corey home in ~5-10", -- [5]
-		"/raid yeah", -- [6]
-		"/raid was only like a day or two", -- [7]
-		"/raid it started earlier that day", -- [8]
-		"/aa", -- [9]
-		"/dn", -- [10]
-		"/raid hymn for tantrum 1 & 4", -- [11]
-		"/raid salv also for $4", -- [12]
-		"/raid #4", -- [13]
-		"/bw", -- [14]
-		"/o touch dies to the first multisided 100% of pulls", -- [15]
-		"/m", -- [16]
-		"/g I think he means heroic", -- [17]
-		"/cw Aznbabygirl make sure you tag the other side if you cna", -- [18]
-		"/cw Aznbabygirl ty", -- [19]
-		" hAvIng FuN?", -- [20]
+		"/dump GetSpellInfo(102342))", -- [1]
+		"/raid #4", -- [2]
+		"/bw", -- [3]
+		"/dn", -- [4]
+		"/raid salv also for $4", -- [5]
+		"/ec", -- [6]
+		"/raid yeah", -- [7]
+		"/raid hymn for tantrum 1 & 4", -- [8]
+		"/raid was only like a day or two", -- [9]
+		"/dump GetSpellInfo(102342)", -- [10]
+		"/cw Aznbabygirl make sure you tag the other side if you cna", -- [11]
+		"hAvIng FuN?", -- [12]
+		"/dump GetSpellInfo(295271)", -- [13]
+		"/g I think he means heroic", -- [14]
+		" corey said he's hung up at work, didn't give me an eta tho", -- [15]
+		" that was ~10m ago", -- [16]
+		"/cw Ceesong inv", -- [17]
+		"/tmw", -- [18]
+		"/o ya", -- [19]
+		"/cw Ceesong-Kil'jaeden no response yet, could be driving", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Zuq'nish Yu'gaz za Ssaggh", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3662, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315320,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3663, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315325,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3664, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315325,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3665, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315326,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Zuq'nish Yu'gaz qvsakf zz I", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3666, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315326,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3667, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315327,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3668, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315327,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Volatile Charge on Fearings", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3669, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315332,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Volatile Charge on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3670, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315332,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Volatile Charge on Mumbly", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3671, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315332,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3672, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315337,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3673, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315337,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3674, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315338,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3675, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315338,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3676, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315339,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3677, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315339,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Volatile Charge on Fearings", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3678, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315347,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Volatile Charge on Mumbly", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3679, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315347,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Volatile Charge on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3680, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315347,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3681, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315352,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3682, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315352,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"3", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3683, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315352,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3684, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315353,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"2", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3685, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315353,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3686, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315354,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"1", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3687, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315354,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Volatile Charge on Khelikloth", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3688, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315363,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Volatile Charge on Mumbly", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3689, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315363,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Volatile Charge on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3690, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315363,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3691, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315368,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3692, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315368,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3693, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315369,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3694, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315369,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3695, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315370,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3696, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315370,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Volatile Charge on Wildsong", -- [1]
-			"Wildsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wildsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3697, -- [11]
-			"Player-9-0A418A98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Wildsong|r",
-			[51] = 1560315378,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Volatile Charge on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3698, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315378,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Volatile Charge on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3699, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315378,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Wildsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wildsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3700, -- [11]
-			"Player-9-0A418A98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Wildsong|r",
-			[51] = 1560315383,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"3", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3701, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315383,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Wildsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wildsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3702, -- [11]
-			"Player-9-0A418A98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Wildsong|r",
-			[51] = 1560315384,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"2", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3703, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315384,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Wildsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wildsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3704, -- [11]
-			"Player-9-0A418A98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Wildsong|r",
-			[51] = 1560315385,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"1", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3705, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315385,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Volatile Charge on Khelikloth", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3706, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Volatile Charge on Metzinger", -- [1]
-			"Metzinger-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Metzinger-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3707, -- [11]
-			"Player-9-0B513C7F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Metzinger|r",
-			[51] = 1560315394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"Volatile Charge on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3708, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315394,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3709, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"3", -- [1]
-			"Metzinger-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Metzinger-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3710, -- [11]
-			"Player-9-0B513C7F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Metzinger|r",
-			[51] = 1560315399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3711, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315399,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3712, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315400,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1166,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315400,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [1]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1188,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560315401,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [2]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1210,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315401,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [3]
 		{
 			"Diamond down! Taunt!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1232,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315407,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [4]
 		{
 			"Volatile Charge on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1254,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315410,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [5]
 		{
 			"Volatile Charge on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1276,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315410,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [6]
 		{
 			"Volatile Charge on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1298,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315410,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [7]
 		{
 			"3", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1320,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315415,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [8]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1342,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315415,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [9]
 		{
 			"Volatile Charge fading in 1", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1364,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315417,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [10]
 		{
 			"Volatile Charge on Fearings", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -1386,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315426,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [11]
 		{
 			"Volatile Charge on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1408,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315426,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [12]
 		{
 			"Volatile Charge on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1430,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315426,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1452,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315430,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [14]
 		{
 			"Volatile Charge fading in 3", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -1474,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315431,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [15]
 		{
 			"Volatile Charge fading in 2", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -1496,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315432,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [16]
 		{
 			"Liquid Gold on Morepheous", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1518,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1560315453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [17]
 		{
 			"Liquid Gold on Mumbly", -- [1]
 			"Mumbly-Illidan", -- [2]
@@ -1540,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumbly-Illidan|r",
 			[51] = 1560315453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [18]
 		{
 			"Liquid Gold on Wildsong", -- [1]
 			"Wildsong-Kil'jaeden", -- [2]
@@ -1562,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Wildsong|r",
 			[51] = 1560315458,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [19]
 		{
 			"Liquid Gold on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1584,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315458,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [20]
 		{
 			"Liquid Gold on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1606,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560315463,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [21]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1628,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315463,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [22]
 		{
 			"Liquid Gold on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1650,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315473,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [23]
 		{
 			"Liquid Gold on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1672,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560315479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [24]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1694,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [25]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1716,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315479,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [26]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1738,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [27]
 		{
 			"Qualar Ifis za Ph'magg", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -1760,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1560315483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [28]
 		{
 			"Qualar Ifis za Ph'magg", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -1782,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1560315483,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [29]
 		{
 			"Qualar Ifis za ", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -1804,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1560315490,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [30]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1826,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315490,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [31]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1848,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315492,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [32]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1870,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315493,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [33]
 		{
 			"Liquid Gold on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1892,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315495,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [34]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1914,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315500,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [35]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1936,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315501,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [36]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1958,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315502,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [37]
 		{
 			"Liquid Gold on Metzinger", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -1980,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1560315512,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [38]
 		{
 			"Qualar Ifis za Ph'magg", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -2002,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1560315512,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [39]
 		{
 			"Qualar Ifis za Ph'magg", -- [1]
 			"Trophie-Kil'jaeden", -- [2]
@@ -2024,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTrophie|r",
 			[51] = 1560315512,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [40]
 		{
 			"Taunted Opulence!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2046,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315513,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [41]
 		{
 			"Taunted Opulence!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2068,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315513,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [42]
 		{
 			"Liquid Gold on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2090,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [43]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2112,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [44]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2134,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [45]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2156,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [46]
 		{
 			"3", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2178,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315526,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [47]
 		{
 			"Liquid Gold on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -2200,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [48]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2222,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2244,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [50]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2266,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315532,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [51]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2288,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [52]
 		{
 			"Liquid Gold on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2310,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560315539,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [53]
 		{
 			"Liquid Gold on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -2332,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315539,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [54]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2354,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [55]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2376,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315541,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:102793:0|h[Ursol's Vortex]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -2398,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315542,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [57]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2420,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315542,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [58]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2442,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [59]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2464,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [60]
 		{
 			"Liquid Gold on Headstomp", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -2486,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [61]
 		{
 			"Liquid Gold on Morepheous", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -2508,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1560315550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [62]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2530,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [63]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2552,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315555,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [64]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2574,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315559,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [65]
 		{
 			"Liquid Gold on Metzinger", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -2596,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1560315560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [66]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2618,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [67]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2640,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [68]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2662,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315564,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [69]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2684,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [70]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2706,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [71]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2728,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315566,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [123]
+		}, -- [72]
 		{
 			"Liquid Gold fading in 2", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -2750,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560315575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [73]
 		{
 			"headstomper, you gotta run out with your gold, even if it means you die", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -2772,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1560315610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [74]
 		{
 			"REEEEEEEEE", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -2794,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315642,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [75]
 		{
 			"night", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -2815,6 +1693,1128 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315645,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [76]
+		{
+			"what time is raid", -- [1]
+			"Headspriest-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Headspriest-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B6C9ED1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHeadspriest|r",
+			[51] = 1560476244,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [77]
+		{
+			"who do we msg?", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1560477501,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [78]
+		{
+			"johnny and thac getting on", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1560477536,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [79]
+		{
+			"corey said he's hung up at work, didn't give me an eta tho", -- [1]
+			"|Kq33|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560477645,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [80]
+		{
+			"that was ~10m ago", -- [1]
+			"|Kq33|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560477654,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [81]
+		{
+			"yikes", -- [1]
+			"|Kq33|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560477660,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [82]
+		{
+			"pst inv for main raid", -- [1]
+			"Ceesong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-9-0AE8930C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560477695,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [83]
+		{
+			"inv", -- [1]
+			"Ceesong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceesong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-0AE8930C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560477702,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [84]
+		{
+			"I might actually bring my pally for opulence so I can get the trinket ", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			85, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1560477741,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"so did you get the flu or something dolly?", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560477858,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [86]
+		{
+			"Do you happen to have any spare |cffffffff|Hitem:152875::::::::120:258::::::|h[Gloom Dust]|h|r I could buy from you?", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Touchochrist-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			94, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1560477864,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [87]
+		{
+			"I don't think I did, but who knows", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dolclemits-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			96, -- [11]
+			"Player-9-0B37B4E4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1560477887,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [88]
+		{
+			"brb gonna bring my pall for op", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mahle-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1560477898,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [89]
+		{
+			"i'm here, but i need to change", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1560478015,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"am i healing or dps today?", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560478051,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [91]
+		{
+			"probably healing", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560478058,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [92]
+		{
+			"ok", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560478064,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [93]
+		{
+			"alex hasn't been on since monday", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Skarsnik-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1560478077,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [94]
+		{
+			"that timing lol", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aznbabygirl-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			121, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560478099,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [95]
+		{
+			"lol", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Skarsnik-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1560478112,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [96]
+		{
+			"np", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dolclemits-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			144, -- [11]
+			"Player-9-0B37B4E4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1560478373,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [97]
+		{
+			"wtf", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			151, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560478563,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [98]
+		{
+			"anyone have a shrine 15 they want to run after raid?", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560479172,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"Drop a healing rain and we can circle around it :)", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Touchochrist-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1560479331,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [100]
+		{
+			"so, corey not coming either?", -- [1]
+			"Skarsnik-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Skarsnik-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			240, -- [11]
+			"Player-9-044D8D7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcSkarsnik|r",
+			[51] = 1560479388,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [101]
+		{
+			"he's running late from work", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560479398,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [102]
+		{
+			"and yuki stuck in traffic", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560479407,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [103]
+		{
+			"if people dont fail, we can easily kill opulence with 19", -- [1]
+			"Mumbly-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mumbly-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-57-082B956D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcMumbly-Illidan|r",
+			[51] = 1560479435,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [104]
+		{
+			"HAHAHA", -- [1]
+			"Druwqt-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Druwqt-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"Player-9-0B5E0C47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDruwqt|r",
+			[51] = 1560479470,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [105]
+		{
+			"can u stay in doggy form on a mount?", -- [1]
+			"Headstomp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Headstomp-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-9-0B66DE7C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cHeadstomp|r",
+			[51] = 1560479589,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [106]
+		{
+			"!keys", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560479596,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:244:14:10:7:2:117|h[Keystone: Atal'Dazar (14)]|h|r", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			251, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560479597,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"|cffa335ee|Hkeystone:158923:249:17:10:7:2:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			252, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560479597,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"sadly no", -- [1]
+			"Dolclemits-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dolclemits-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			"Player-9-0B37B4E4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeDolclemits|r",
+			[51] = 1560479599,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [110]
+		{
+			"lol you wish", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			254, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560479606,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [111]
+		{
+			"ya", -- [1]
+			"Headstomp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Headstomp-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			255, -- [11]
+			"Player-9-0B66DE7C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cHeadstomp|r",
+			[51] = 1560479609,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [112]
+		{
+			"):", -- [1]
+			"Headstomp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Headstomp-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			256, -- [11]
+			"Player-9-0B66DE7C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cHeadstomp|r",
+			[51] = 1560479611,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [113]
+		{
+			"what did he saY", -- [1]
+			"Ceesong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceesong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			289, -- [11]
+			"Player-9-0AE8930C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560479952,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [114]
+		{
+			"no response yet, could be driving", -- [1]
+			"Ceesong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ceesong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			293, -- [11]
+			"Player-9-0AE8930C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Ceesong|r",
+			[51] = 1560480156,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [115]
+		{
+			"So - are we waiting for a pug or something?", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Touchochrist-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1560480206,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [116]
+		{
+			"waiting on someone to get on, either corey or yuffio", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560480344,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [117]
+		{
+			"hmmmm", -- [1]
+			"Snify-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Snify-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-9-0AEE2549", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Snify|r",
+			[51] = 1560480391,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [118]
+		{
+			"Invite me back if you get the last person", -- [1]
+			"Touchochrist-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Touchochrist-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-9-0B486875", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTouchochrist|r",
+			[51] = 1560480958,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [119]
+		{
+			"you guys want to do some casual M+ im down for any keys. ill try to get a tank", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			349, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560481558,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"i'm down for whatever", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560481615,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"ok let hit up my friends. think theyre playing poe new season", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560481643,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"i hit up all my tank friends and theyll be on later i guess lol how long you gonna be on for liz?", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			360, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560481867,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"til 10ish", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			361, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560481884,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"then i'm going ot the gym", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560481886,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"ok ill hit you up if we run before then. ", -- [1]
+			"Aznbabygirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			367, -- [11]
+			"Player-9-0B247D8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Aznbabygirl|r",
+			[51] = 1560481906,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"i'll be back maybe, gonna go walk the dog", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			395, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560483488,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
