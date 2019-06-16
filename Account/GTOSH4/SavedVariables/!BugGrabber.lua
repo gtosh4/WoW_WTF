@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 970,
 	["lastSanitation"] = 3,
+	["session"] = 971,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Molinari' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",

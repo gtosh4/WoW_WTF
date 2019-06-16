@@ -20,20 +20,16 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Crucible of Storms Heroic|371599386"] = "481579|1560388418|0|1",
+					["Battle of Dazar'alor Mythic|371746738"] = "228144|1560641854|0|1",
+					["Crucible of Storms Heroic|371599386"] = "228144|1560641854|0|1",
 				},
-				["lastUpdate"] = 1560388436,
+				["lastUpdate"] = 1560641853,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-					},
-				},
-				["lastUpdate"] = 1559673182,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430951,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556091490,
@@ -50,14 +46,19 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1560575827,
 				["DungeonIDs"] = {
 					["Battle of Dazar'alor Mythic|371698960"] = "294178|1560575818|0|1",
 					["Uldir Mythic|371711481"] = "294178|1560575818|0|1",
 				},
+				["lastUpdate"] = 1560575827,
 			},
-			["Default.Frostwolf.Zallie"] = {
-				["lastUpdate"] = 1557430951,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1559673182,
 			},
 		},
 	},
