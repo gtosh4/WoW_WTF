@@ -13,14 +13,14 @@ AltoholicDB = {
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Clients"] = {
-				"Tosh|1", -- [1]
-			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
-					["lastUpdatedWith"] = "Tosh",
 					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
 				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {

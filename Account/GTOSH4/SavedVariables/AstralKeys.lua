@@ -7,7 +7,7 @@ AstralKeys = {
 		15, -- [4]
 		15, -- [5]
 		99, -- [6]
-		310633, -- [7]
+		557391, -- [7]
 	}, -- [1]
 	{
 		"Pride-Kil'jaeden", -- [1]
@@ -115,7 +115,7 @@ AstralKeys = {
 		19, -- [4]
 		19, -- [5]
 		99, -- [6]
-		370767, -- [7]
+		557334, -- [7]
 	}, -- [13]
 	{
 		"Druwqt-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		99, -- [6]
-		5, -- [7]
+		557277, -- [7]
 	}, -- [16]
 	{
 		"Ruesong-Kil'jaeden", -- [1]
@@ -194,15 +194,21 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 15,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
+	}, -- [3]
 }
 AstralFriends = {
 	{
@@ -396,7 +402,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -405,9 +413,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
 	["new_settings_config"] = true,
 	["general"] = {
@@ -419,10 +425,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
 			["guild"] = false,
+			["raid"] = false,
 			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,

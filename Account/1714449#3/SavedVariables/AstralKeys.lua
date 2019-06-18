@@ -7,7 +7,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		99, -- [6]
-		215054, -- [7]
+		557368, -- [7]
 	}, -- [1]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -104,9 +104,9 @@ AstralKeys = {
 		"WARRIOR", -- [2]
 		252, -- [3]
 		4, -- [4]
-		3, -- [5]
+		7, -- [5]
 		99, -- [6]
-		3, -- [7]
+		5, -- [7]
 	}, -- [12]
 	{
 		"Renewal-Kil'jaeden", -- [1]
@@ -124,7 +124,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		99, -- [6]
-		50653, -- [7]
+		557270, -- [7]
 	}, -- [14]
 	{
 		"Khalitzburg-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		99, -- [6]
-		2, -- [7]
+		5, -- [7]
 	}, -- [16]
 	{
 		"Aspbringer-Kil'jaeden", -- [1]
@@ -198,6 +198,15 @@ AstralKeys = {
 		99, -- [6]
 		1, -- [7]
 	}, -- [22]
+	{
+		"Andruww-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		249, -- [3]
+		19, -- [4]
+		19, -- [5]
+		99, -- [6]
+		557271, -- [7]
+	}, -- [23]
 }
 AstralCharacters = {
 	{
@@ -381,6 +390,39 @@ AstralFriends = {
 	}, -- [15]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1560870000,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -406,39 +448,6 @@ AstralKeysSettings = {
 		},
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = true,
-		},
-		["init_time"] = 1560870000,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
-			["party"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
 	},
 }
 AstralMinimap = {

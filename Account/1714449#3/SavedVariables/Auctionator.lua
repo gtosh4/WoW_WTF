@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
 	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
+	["_500"] = 5,
 	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
-	["_500"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -1647,12 +1647,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 14661070,
 			["sc"] = 4,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 63479985,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3016"] = 63479985,
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 12900000,
+			["cc"] = 0,
+			["id"] = "152813:0:0:0:0",
+			["sc"] = 8,
+			["H3017"] = 12900000,
 		},
 		["Deadly Amberblaze"] = {
 			["mr"] = 758499,
@@ -1987,12 +1987,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 9,
 			["H3057"] = 15000000,
 		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 12900000,
-			["cc"] = 0,
-			["id"] = "152813:0:0:0:0",
-			["sc"] = 8,
-			["H3017"] = 12900000,
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 63479985,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3016"] = 63479985,
 		},
 		["Ebonhold Helmet"] = {
 			["mr"] = 19959998,

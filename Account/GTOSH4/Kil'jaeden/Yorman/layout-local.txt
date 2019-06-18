@@ -69,6 +69,13 @@ X: 600
 Y: 0
 W: 520
 H: 1
+Frame: BDLC Config
+FrameLevel: 9
+Anchor: CENTER
+X: 0
+Y: 0
+W: 320
+H: 550
 Frame: PawnUIFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -90,3 +97,10 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 549
+Y: -239
+W: 629
+H: 352
