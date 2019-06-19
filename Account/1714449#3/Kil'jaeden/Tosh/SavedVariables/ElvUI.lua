@@ -1,952 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" corey said he's hung up at work, didn't give me an eta tho", -- [1]
-		" that was ~10m ago", -- [2]
+		"/dump GetSpellInfo(102342)", -- [1]
+		"/raid was only like a day or two", -- [2]
 		"/o ya", -- [3]
-		"/cw Aznbabygirl make sure you tag the other side if you cna", -- [4]
-		"/cw Ceesong-Kil'jaeden no response yet, could be driving", -- [5]
-		"/g I think he means heroic", -- [6]
-		"/dump GetSpellInfo(102342)", -- [7]
-		"/dump GetSpellInfo(102342))", -- [8]
-		"/raid hymn for tantrum 1 & 4", -- [9]
-		"/dump GetSpellInfo(295271)", -- [10]
-		"that was ~10m ago", -- [11]
+		"/bw", -- [4]
+		"/g I think he means heroic", -- [5]
+		"/cw Ceesong inv", -- [6]
+		"that was ~10m ago", -- [7]
+		"/raid yeah", -- [8]
+		"/cw Aznbabygirl make sure you tag the other side if you cna", -- [9]
+		"hAvIng FuN?", -- [10]
+		"/raid hymn for tantrum 1 & 4", -- [11]
 		"/raid salv also for $4", -- [12]
-		"/bw", -- [13]
-		"hAvIng FuN?", -- [14]
-		"/raid was only like a day or two", -- [15]
+		"/dump GetSpellInfo(295271)", -- [13]
+		"corey said he's hung up at work, didn't give me an eta tho", -- [14]
+		"/tmw", -- [15]
 		"/dn", -- [16]
-		"/tmw", -- [17]
-		"corey said he's hung up at work, didn't give me an eta tho", -- [18]
-		"/cw Ceesong inv", -- [19]
-		"/raid yeah", -- [20]
+		" inv", -- [17]
+		" when corey started working again after his foot surgery, he gets off at 7 and it's a 5m drive home", -- [18]
+		" that's why he's always late", -- [19]
+		"/o touch is always dead too, if we're talking about the bottom of our roster", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3713, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315400,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3714, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315401,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3715, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315401,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Diamond down! Taunt!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3716, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1560315407,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Volatile Charge on Voidthirst", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3717, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1560315410,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Volatile Charge on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3718, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315410,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Volatile Charge on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3719, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315410,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"3", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3720, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1560315415,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3721, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315415,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Volatile Charge fading in 1", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3722, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315417,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"Volatile Charge on Fearings", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3723, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315426,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Volatile Charge on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3724, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315426,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Volatile Charge on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3725, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315426,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"|cff71d5ff|Hspell:77761:0|h[Stampeding Roar]|h|r activated!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3726, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1560315430,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Volatile Charge fading in 3", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3727, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315431,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Volatile Charge fading in 2", -- [1]
-			"Fearings-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Fearings-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3728, -- [11]
-			"Player-9-082951D4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecFearings|r",
-			[51] = 1560315432,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Liquid Gold on Morepheous", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3730, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1560315453,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Liquid Gold on Mumbly", -- [1]
-			"Mumbly-Illidan", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mumbly-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3731, -- [11]
-			"Player-57-082B956D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMumbly-Illidan|r",
-			[51] = 1560315453,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Liquid Gold on Wildsong", -- [1]
-			"Wildsong-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wildsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3734, -- [11]
-			"Player-9-0A418A98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Wildsong|r",
-			[51] = 1560315458,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Liquid Gold on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3735, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315458,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Liquid Gold on Skarsnik", -- [1]
-			"Skarsnik-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Skarsnik-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3737, -- [11]
-			"Player-9-044D8D7F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcSkarsnik|r",
-			[51] = 1560315463,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"Qualar Ifis za Ssaggh", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3738, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315463,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"Liquid Gold on Wraithbrand", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3741, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1560315473,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Liquid Gold on Khelikloth", -- [1]
-			"Khelikloth-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Khelikloth-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3743, -- [11]
-			"Player-9-026CC87F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Khelikloth|r",
-			[51] = 1560315479,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Liquid Gold on Aznbabygirl", -- [1]
-			"Aznbabygirl-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Aznbabygirl-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3744, -- [11]
-			"Player-9-0B247D8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Aznbabygirl|r",
-			[51] = 1560315479,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Liquid Gold on Aznbabygirl", -- [1]
-			"Aznbabygirl-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Aznbabygirl-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3745, -- [11]
-			"Player-9-0B247D8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Aznbabygirl|r",
-			[51] = 1560315479,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Qualar Ifis za Ssaggh", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3748, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315483,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Qualar Ifis za Ph'magg", -- [1]
-			"Trophie-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Trophie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3749, -- [11]
-			"Player-9-08D734A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTrophie|r",
-			[51] = 1560315483,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Qualar Ifis za Ph'magg", -- [1]
-			"Trophie-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Trophie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3750, -- [11]
-			"Player-9-08D734A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTrophie|r",
-			[51] = 1560315483,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Qualar Ifis za ", -- [1]
-			"Touchochrist-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Touchochrist-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3754, -- [11]
-			"Player-9-0B486875", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTouchochrist|r",
-			[51] = 1560315490,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Liquid Gold on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3755, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315490,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"Qualar Ifis qvsakf zz I", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3756, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315492,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Qualar Ifis qvsakf zz I", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3757, -- [11]
-			"Player-9-0B5E0C47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1560315493,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Liquid Gold on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3759, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1560315495,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"3", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3763, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315500,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"2", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3764, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315501,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"1", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3765, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1560315502,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Liquid Gold on Metzinger", -- [1]
-			"Metzinger-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Metzinger-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3770, -- [11]
-			"Player-9-0B513C7F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Metzinger|r",
-			[51] = 1560315512,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Qualar Ifis za Ph'magg", -- [1]
-			"Trophie-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Trophie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3771, -- [11]
-			"Player-9-08D734A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTrophie|r",
-			[51] = 1560315512,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"Qualar Ifis za Ph'magg", -- [1]
-			"Trophie-Kil'jaeden", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Trophie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3772, -- [11]
-			"Player-9-08D734A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTrophie|r",
-			[51] = 1560315512,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Taunted Opulence!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3773, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1560315513,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Taunted Opulence!", -- [1]
-			"Renewal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Renewal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3774, -- [11]
-			"Player-9-099A8185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Renewal|r",
-			[51] = 1560315513,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
 		{
 			"Liquid Gold on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -968,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [1]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -990,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [2]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1012,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [3]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1034,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [4]
 		{
 			"3", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1056,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1560315526,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [5]
 		{
 			"Liquid Gold on Ngow", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -1078,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [6]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1100,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:22812:0|h[Barkskin]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1122,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [8]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1144,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315532,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [9]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1166,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315533,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [10]
 		{
 			"Liquid Gold on Skarsnik", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1188,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560315539,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [11]
 		{
 			"Liquid Gold on Wraithbrand", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
@@ -1210,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1560315539,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [12]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1232,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [13]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1254,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315541,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [14]
 		{
 			"|cff71d5ff|Hspell:102793:0|h[Ursol's Vortex]|h|r activated!", -- [1]
 			"Renewal-Kil'jaeden", -- [2]
@@ -1276,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Renewal|r",
 			[51] = 1560315542,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [15]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1298,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315542,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [16]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1320,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [17]
 		{
 			"Liquid Gold on Aznbabygirl", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1342,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [18]
 		{
 			"Liquid Gold on Headstomp", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -1364,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560315544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [19]
 		{
 			"Liquid Gold on Morepheous", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1386,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1560315550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [20]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1408,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [21]
 		{
 			"Qualar Ifis za Ssaggh", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1430,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315555,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [22]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1452,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315559,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [23]
 		{
 			"Liquid Gold on Metzinger", -- [1]
 			"Metzinger-Kil'jaeden", -- [2]
@@ -1474,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Metzinger|r",
 			[51] = 1560315560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [24]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1496,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [25]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1518,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315561,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [26]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1540,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315564,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [27]
 		{
 			"Liquid Gold on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1562,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1560315565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [28]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1584,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [29]
 		{
 			"Qualar Ifis qvsakf zz I", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -1606,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560315566,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [30]
 		{
 			"Liquid Gold fading in 2", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -1628,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560315575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [31]
 		{
 			"headstomper, you gotta run out with your gold, even if it means you die", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1650,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1560315610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [32]
 		{
 			"REEEEEEEEE", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -1672,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315642,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [33]
 		{
 			"night", -- [1]
 			"Fearings-Kil'jaeden", -- [2]
@@ -1694,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFearings|r",
 			[51] = 1560315645,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [34]
 		{
 			"what time is raid", -- [1]
 			"Headspriest-Kil'jaeden", -- [2]
@@ -1716,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHeadspriest|r",
 			[51] = 1560476244,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [77]
+		}, -- [35]
 		{
 			"who do we msg?", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -1738,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1560477501,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [36]
 		{
 			"johnny and thac getting on", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -1760,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560477536,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [37]
 		{
 			"corey said he's hung up at work, didn't give me an eta tho", -- [1]
 			"|Kq33|k", -- [2]
@@ -1782,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560477645,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [80]
+		}, -- [38]
 		{
 			"that was ~10m ago", -- [1]
 			"|Kq33|k", -- [2]
@@ -1804,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560477654,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [81]
+		}, -- [39]
 		{
 			"yikes", -- [1]
 			"|Kq33|k", -- [2]
@@ -1826,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560477660,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [82]
+		}, -- [40]
 		{
 			"pst inv for main raid", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1848,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560477695,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [41]
 		{
 			"inv", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -1870,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560477702,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [84]
+		}, -- [42]
 		{
 			"I might actually bring my pally for opulence so I can get the trinket ", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1892,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1560477741,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [43]
 		{
 			"so did you get the flu or something dolly?", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1914,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560477858,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [44]
 		{
 			"Do you happen to have any spare |cffffffff|Hitem:152875::::::::120:258::::::|h[Gloom Dust]|h|r I could buy from you?", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -1936,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1560477864,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [45]
 		{
 			"I don't think I did, but who knows", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -1958,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDolclemits|r",
 			[51] = 1560477887,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [46]
 		{
 			"brb gonna bring my pall for op", -- [1]
 			"Mahle-Kil'jaeden", -- [2]
@@ -1980,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mahle|r",
 			[51] = 1560477898,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [47]
 		{
 			"i'm here, but i need to change", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2002,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1560478015,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [48]
 		{
 			"am i healing or dps today?", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2024,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560478051,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [49]
 		{
 			"probably healing", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2046,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560478058,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [50]
 		{
 			"ok", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2068,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560478064,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [51]
 		{
 			"alex hasn't been on since monday", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2090,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560478077,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [52]
 		{
 			"that timing lol", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2112,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560478099,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [53]
 		{
 			"lol", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2134,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560478112,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [54]
 		{
 			"np", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -2156,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDolclemits|r",
 			[51] = 1560478373,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [55]
 		{
 			"wtf", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2178,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560478563,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [56]
 		{
 			"anyone have a shrine 15 they want to run after raid?", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2200,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560479172,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [57]
 		{
 			"Drop a healing rain and we can circle around it :)", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -2222,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1560479331,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [58]
 		{
 			"so, corey not coming either?", -- [1]
 			"Skarsnik-Kil'jaeden", -- [2]
@@ -2244,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkarsnik|r",
 			[51] = 1560479388,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [59]
 		{
 			"he's running late from work", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2266,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560479398,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [60]
 		{
 			"and yuki stuck in traffic", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2288,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560479407,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [61]
 		{
 			"if people dont fail, we can easily kill opulence with 19", -- [1]
 			"Mumbly-Illidan", -- [2]
@@ -2310,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumbly-Illidan|r",
 			[51] = 1560479435,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [62]
 		{
 			"HAHAHA", -- [1]
 			"Druwqt-Kil'jaeden", -- [2]
@@ -2332,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDruwqt|r",
 			[51] = 1560479470,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [63]
 		{
 			"can u stay in doggy form on a mount?", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -2354,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560479589,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [64]
 		{
 			"!keys", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2376,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560479596,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [65]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:244:14:10:7:2:117|h[Keystone: Atal'Dazar (14)]|h|r", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2398,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560479597,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [66]
 		{
 			"|cffa335ee|Hkeystone:158923:249:17:10:7:2:117|h[Keystone: Kings' Rest (17)]|h|r", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2420,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560479597,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [67]
 		{
 			"sadly no", -- [1]
 			"Dolclemits-Kil'jaeden", -- [2]
@@ -2442,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDolclemits|r",
 			[51] = 1560479599,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [68]
 		{
 			"lol you wish", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2464,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560479606,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [69]
 		{
 			"ya", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -2486,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560479609,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [112]
+		}, -- [70]
 		{
 			"):", -- [1]
 			"Headstomp-Kil'jaeden", -- [2]
@@ -2508,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHeadstomp|r",
 			[51] = 1560479611,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [71]
 		{
 			"what did he saY", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -2530,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560479952,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [114]
+		}, -- [72]
 		{
 			"no response yet, could be driving", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -2552,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1560480156,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [115]
+		}, -- [73]
 		{
 			"So - are we waiting for a pug or something?", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -2574,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1560480206,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
+		}, -- [74]
 		{
 			"waiting on someone to get on, either corey or yuffio", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2596,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560480344,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [75]
 		{
 			"hmmmm", -- [1]
 			"Snify-Kil'jaeden", -- [2]
@@ -2618,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Snify|r",
 			[51] = 1560480391,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [76]
 		{
 			"Invite me back if you get the last person", -- [1]
 			"Touchochrist-Kil'jaeden", -- [2]
@@ -2640,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTouchochrist|r",
 			[51] = 1560480958,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [77]
 		{
 			"you guys want to do some casual M+ im down for any keys. ill try to get a tank", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2662,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560481558,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [78]
 		{
 			"i'm down for whatever", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2684,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560481615,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [79]
 		{
 			"ok let hit up my friends. think theyre playing poe new season", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2706,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560481643,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [80]
 		{
 			"i hit up all my tank friends and theyll be on later i guess lol how long you gonna be on for liz?", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2728,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560481867,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [81]
 		{
 			"til 10ish", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2750,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560481884,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [82]
 		{
 			"then i'm going ot the gym", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2772,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560481886,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [83]
 		{
 			"ok ill hit you up if we run before then. ", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -2794,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1560481906,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [84]
 		{
 			"i'll be back maybe, gonna go walk the dog", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -2816,6 +1892,932 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1560483488,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"inv", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			false, -- [12]
+			16, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cbum|r",
+			[51] = 1560910032,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "bum",
+		}, -- [86]
+		{
+			"when corey started working again after his foot surgery, he gets off at 7 and it's a 5m drive home", -- [1]
+			"|Kq33|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Ceesong|r",
+			[51] = 1560910125,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [87]
+		{
+			"that's why he's always late", -- [1]
+			"|Kq33|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			false, -- [12]
+			33, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Ceesong|r",
+			[51] = 1560910129,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [88]
+		{
+			"where's corey, drew, and yuffyio?", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560910185,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [89]
+		{
+			"i think yuki's at work, drew idk", -- [1]
+			"Renewal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Renewal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-9-099A8185", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Renewal|r",
+			[51] = 1560910215,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [90]
+		{
+			"corey 5min", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560910221,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [91]
+		{
+			"yuki cant raid anymore", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			59, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560910230,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [92]
+		{
+			"rivalry started doing splits", -- [1]
+			"Wildsong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildsong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0A418A98", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Wildsong|r",
+			[51] = 1560910234,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [93]
+		{
+			"ahh k", -- [1]
+			"Khelikloth-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Khelikloth-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-9-026CC87F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Khelikloth|r",
+			[51] = 1560910250,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [94]
+		{
+			"Selling Freehold boosting get from 110-120 in 2-3 hours. Also legion boosting as well as M+ keys. Whisper for prices.", -- [1]
+			"Adrona-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Adrona-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-9-0B5B0C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Adrona|r",
+			[51] = 1560910285,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS |cffa335ee|Hitem:163573::::::::120:252::::::|h[Goldenmane's Reins]|h|r Cheap tahn AH", -- [1]
+			"Kellice-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Kellice-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0B5DC659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kellice|r",
+			[51] = 1560910295,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Yes", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1560910339,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [97]
+		{
+			"im doing all 3 of my toons this week", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1560910349,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [98]
+		{
+			"the last ones", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1560910353,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [99]
+		{
+			"Professional Guild runs - Heroic BoD, Crucible of Storms, Glory Achievements runs. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560910485,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"|cffffff00The Sliver is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			142, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1560910526,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"|cffffff00The Sliver is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			186, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1560910638,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560910667,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"Selling Freehold boosting get from 110-120 in 2-3 hours. Also legion boosting as well as M+ keys. Whisper for prices.", -- [1]
+			"Adrona-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Adrona-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			200, -- [11]
+			"Player-9-0B5B0C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Adrona|r",
+			[51] = 1560910672,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"no", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			208, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1560910718,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [105]
+		{
+			"Temporary Insanity (7/9 M) is looking for Core Raiders to fill out the roster. We are currently LF a MW Monk, Resto/Ele Shaman, and other solid Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekokitty-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekokitty-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			209, -- [11]
+			"Player-9-0B4A3B54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nekokitty|r",
+			[51] = 1560910747,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"WTS |cffa335ee|Hitem:163573::::::::120:252::::::|h[Goldenmane's Reins]|h|r Cheap tahn AH", -- [1]
+			"Kellice-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Kellice-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-9-0B5DC659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Kellice|r",
+			[51] = 1560910752,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"THANKS FOR COMING!", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1560910847,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [108]
+		{
+			"Professional Guild runs - Heroic BoD, Crucible of Storms, Glory Achievements runs. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			217, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560910848,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"<oRA3> Disbanding group.", -- [1]
+			"Orcbum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Orcbum-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"Player-9-00051AAE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cOrcbum|r",
+			[51] = 1560910852,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [110]
+		{
+			"rip : (", -- [1]
+			"Mahle-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-0A6CBDFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Mahle|r",
+			[51] = 1560910863,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"you want to heal keys", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1560910922,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Envious",
+		}, -- [112]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			252, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560911030,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"Selling Freehold boosting get from 110-120 in 2-3 hours. Also legion boosting as well as M+ keys. Whisper for prices.", -- [1]
+			"Adrona-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Adrona-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			257, -- [11]
+			"Player-9-0B5B0C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Adrona|r",
+			[51] = 1560911050,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"Professional Guild runs - Heroic BoD, Crucible of Storms, Glory Achievements runs. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			280, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560911212,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"Temporary Insanity (7/9 M) is looking for Core Raiders to fill out the roster. We are currently LF a MW Monk, Resto/Ele Shaman, and other solid Ranged DPS. We raid Weds/Thurs/Mon 7-10 Server, and will be pushing for CE Azshara. PST for more info!", -- [1]
+			"Nekokitty-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Nekokitty-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			291, -- [11]
+			"Player-9-0B4A3B54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nekokitty|r",
+			[51] = 1560911348,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			293, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560911393,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"Patch is next week everyone will show up", -- [1]
+			"Slurry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-9-0646F0B8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Slurry|r",
+			[51] = 1560911419,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"WTS |cff0070dd|Hbattlepet:2417:25:3:1278:349:260:0000000000000000|h[Ranishu Runt]|h|r", -- [1]
+			"Yalodde-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Yalodde-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-9-0B63C118", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Yalodde|r",
+			[51] = 1560911497,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTS |cff0070dd|Hbattlepet:2417:25:3:1278:349:260:0000000000000000|h[Ranishu Runt]|h|r", -- [1]
+			"Yalodde-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Yalodde-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			339, -- [11]
+			"Player-9-0B63C118", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Yalodde|r",
+			[51] = 1560911605,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS +10 Keys done by 1800io 415+ Mythic raiders. Gear matching and specific keys available all gear included!   Also selling 9/9H, AOTC (jaina) BoD or 2/2H CoS! ", -- [1]
+			"Bootywerx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Bootywerx-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"Player-9-0B548C6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Bootywerx|r",
+			[51] = 1560911761,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"Roadrunners 8/9m, CE Uldir - LFM  One of the oldest guilds on the server is  recruiting a swing healer, ele shaman, lock, mage, DH & shadow priest!  Come join a fun established community. Raid is  8-11server t/w/t, with alt run monday at 8. ", -- [1]
+			"Bootywerx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Bootywerx-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			347, -- [11]
+			"Player-9-0B548C6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Bootywerx|r",
+			[51] = 1560911762,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"<Disambiguation>  9/9M BoD, CE Uldir, is looking for exceptional healers and DPS as we look toward 8.2 mythic raiding. Also looking to build up our M+ community. Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
+			"Niysola-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Niysola-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			349, -- [11]
+			"Player-9-0B3C75FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Niysola|r",
+			[51] = 1560911834,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"|cffa335ee|Hkeystone:158923:252:17:9:5:3:117|h[Keystone: Shrine of the Storm (17)]|h|r", -- [1]
+			"Zombiemonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			351, -- [11]
+			"Player-9-0A31676A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Zombiemonk|r",
+			[51] = 1560911901,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"Professional Guild runs - Heroic BoD, Crucible of Storms, Glory Achievements runs. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			352, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560911939,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS +10 Keys done by 1800io 415+ Mythic raiders. Gear matching and specific keys available all gear included!   Also selling 9/9H, AOTC (jaina) BoD or 2/2H CoS! ", -- [1]
+			"Bootywerx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Bootywerx-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-0B548C6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Bootywerx|r",
+			[51] = 1560911993,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS Professional Mythic +10 boost with armor match. Choose any dungeon you like. /w for info", -- [1]
+			"Lyaviaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lyaviaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			358, -- [11]
+			"Player-9-0B6FFBAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcLyaviaki|r",
+			[51] = 1560912120,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

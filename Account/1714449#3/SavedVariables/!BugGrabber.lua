@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 820,
 	["lastSanitation"] = 3,
+	["session"] = 821,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:60: attempt to index global 'aura_env' (a nil value)",
