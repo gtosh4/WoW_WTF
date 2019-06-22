@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 974,
+	["session"] = 976,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -122,8 +122,8 @@ BugGrabberDB = {
 			["time"] = "2019/06/14 23:24:25",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v149.3.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:456: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:422>",
-			["session"] = 970,
-			["counter"] = 11,
+			["session"] = 976,
+			["counter"] = 28,
 		}, -- [16]
 	},
 }

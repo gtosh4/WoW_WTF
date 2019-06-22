@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
 	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
+	["_500"] = 5,
 	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
-	["_500"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -24,9 +24,11 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["5568059"] = "3200000000:1",
 		["5554063"] = "3000000000:1",
 	},
-	["Bloodstained Message"] = {
-		["is"] = "158879:0:0:0:0",
-		["5552851"] = "7420000:1",
+	["Veiled Crystal"] = {
+		["5521304"] = "4867500:4",
+		["5521828"] = "4847500:4",
+		["is"] = "152877:0:0:0:0",
+		["5631147"] = "2045000:4",
 	},
 	["City Crusher Sabatons"] = {
 		["5568059"] = "540000000:1",
@@ -39,11 +41,9 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "160612:0:0:0:4801",
 		["5522491"] = "48750000:1",
 	},
-	["Veiled Crystal"] = {
-		["5521304"] = "4867500:4",
-		["5521828"] = "4847500:4",
-		["is"] = "152877:0:0:0:0",
-		["5631147"] = "2045000:4",
+	["Bloodstained Message"] = {
+		["is"] = "158879:0:0:0:0",
+		["5552851"] = "7420000:1",
 	},
 	["Glyph of Dalaran Brilliance"] = {
 		["is"] = "167539:0:0:0:0",
@@ -57,27 +57,27 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Battle-Scarred Augment Rune", -- [1]
-			"Flask of Endless Fathoms", -- [2]
-			"War-scroll of battle shout", -- [3]
-			"Scroll of attack power", -- [4]
-			"Coastal Healing Potion", -- [5]
-			"quick owlseye", -- [6]
-			"quick navigation", -- [7]
-			"Pact of Critical", -- [8]
-			"Pact of haste", -- [9]
-			"Potion of Replenishment", -- [10]
-			"Stringy Loins", -- [11]
-			"Lane Snapper", -- [12]
-			"Aromatic Fish Oil", -- [13]
-			"Deadly Navigation", -- [14]
-			"Masterful navigation", -- [15]
-			"Black cat", -- [16]
-			"Roseate pigment", -- [17]
-			"Deadly amberblaze", -- [18]
-			"Felwort", -- [19]
-			"Siren's Pollen", -- [20]
-			"Vantus Rune: Battle of Dazar'alor", -- [21]
+			"Vantus Rune: Battle of Dazar'alor", -- [1]
+			"Battle-Scarred Augment Rune", -- [2]
+			"Flask of Endless Fathoms", -- [3]
+			"War-scroll of battle shout", -- [4]
+			"Scroll of attack power", -- [5]
+			"Coastal Healing Potion", -- [6]
+			"quick owlseye", -- [7]
+			"quick navigation", -- [8]
+			"Pact of Critical", -- [9]
+			"Pact of haste", -- [10]
+			"Potion of Replenishment", -- [11]
+			"Stringy Loins", -- [12]
+			"Lane Snapper", -- [13]
+			"Aromatic Fish Oil", -- [14]
+			"Deadly Navigation", -- [15]
+			"Masterful navigation", -- [16]
+			"Black cat", -- [17]
+			"Roseate pigment", -- [18]
+			"Deadly amberblaze", -- [19]
+			"Felwort", -- [20]
+			"Siren's Pollen", -- [21]
 			"time shifter", -- [22]
 			"time-shifter", -- [23]
 			"Ultramarine", -- [24]
@@ -573,9 +573,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
-			["mr"] = 4989925,
+			["mr"] = 6990000,
 			["H3056"] = 4989925,
 			["id"] = "165692:0:0:0:0",
+			["H3140"] = 6990000,
 			["sc"] = 9,
 			["cc"] = 0,
 		},
@@ -1567,12 +1568,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H2999"] = 990000,
 			["sc"] = 4,
 		},
-		["Lane Snapper"] = {
-			["H3099"] = 185736,
-			["cc"] = 7,
-			["id"] = "152546:0:0:0:0",
-			["sc"] = 8,
-			["mr"] = 185736,
+		["Tidespray Linen Mittens of the Peerless"] = {
+			["mr"] = 32509988,
+			["cc"] = 4,
+			["H3012"] = 32509988,
+			["id"] = "154687:0:0:0:1685",
+			["sc"] = 1,
 		},
 		["Drums of Rage"] = {
 			["mr"] = 8670128,
@@ -1588,12 +1589,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 11591686,
 		},
-		["Tidespray Linen Mittens of the Peerless"] = {
-			["mr"] = 32509988,
-			["cc"] = 4,
-			["H3012"] = 32509988,
-			["id"] = "154687:0:0:0:1685",
-			["sc"] = 1,
+		["Lane Snapper"] = {
+			["H3099"] = 185736,
+			["cc"] = 7,
+			["id"] = "152546:0:0:0:0",
+			["sc"] = 8,
+			["mr"] = 185736,
 		},
 		["Darkmoon Deck: Tides"] = {
 			["mr"] = 69969987,

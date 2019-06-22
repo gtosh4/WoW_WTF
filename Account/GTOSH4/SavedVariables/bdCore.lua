@@ -152,26 +152,6 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -208,6 +188,26 @@ BD_persistent = {
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {
