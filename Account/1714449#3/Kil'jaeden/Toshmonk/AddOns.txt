@@ -1,7 +1,7 @@
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
-AAP-Core: disabled
+AAP-Core: enabled
 ElvUI_EverySecondCounts: disabled
 BigWigs_Voice: enabled
 Blizzard_CompactRaidFrames: enabled

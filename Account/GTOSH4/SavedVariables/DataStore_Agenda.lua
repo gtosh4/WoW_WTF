@@ -15,11 +15,11 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-06-25",
+			["NextWeeklyReset"] = "2019-07-02",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1561166950,
+				["lastUpdate"] = 1561535634,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
@@ -41,9 +41,6 @@ DataStore_AgendaDB = {
 					["Tosh"] = {
 						["note"] = "",
 					},
-				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|372062446"] = "216190|1561258609|0|1",
 				},
 				["lastUpdate"] = 1561258612,
 			},

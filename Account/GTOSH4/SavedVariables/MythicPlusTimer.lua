@@ -7,11 +7,6 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["deathCounter"] = false,
-		["progressTooltip"] = true,
-		["objectiveTimePerLevel"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["insertKeystone"] = true,
-		["show_affixes_as_icons"] = false,
 		["best_times"] = {
 			[1771] = {
 				178, -- [1]
@@ -541,6 +536,15 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["objectiveTimePerLevel"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["insertKeystone"] = true,
+		["show_affixes_as_icons"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
 		["objectiveTimeInChat"] = true,
 		["show_affixes_as_text"] = true,
 		["objectiveTime"] = true,
@@ -601,11 +605,7 @@ MythicPlusTimerDB = {
 		["show_reapingtimer"] = true,
 		["objective_time"] = true,
 		["showAffixesAsText"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
+		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1740,7 +1740,7 @@ MythicPlusTimerDB = {
 			},
 			[130522] = {
 				[2] = 71.8,
-				[4] = 3.213876088518010e-07,
+				[4] = 3.21387608851801e-07,
 			},
 			[127488] = {
 				[7] = 23,

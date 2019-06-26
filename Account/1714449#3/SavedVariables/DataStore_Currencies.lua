@@ -36,6 +36,7 @@ DataStore_CurrenciesDB = {
 				"Wrath of the Lich King|", -- [24]
 				"Champion's Seal|236246", -- [25]
 				"Dalaran Jewelcrafter's Token|134138", -- [26]
+				"Prismatic Manapearl|463858", -- [27]
 			},
 			["CurrencyTextRev"] = {
 				["Ancient Mana"] = 10,
@@ -47,21 +48,22 @@ DataStore_CurrenciesDB = {
 				["Seal of Wartorn Fate"] = 4,
 				["Veiled Argunite"] = 18,
 				["Honorbound Service Medal"] = 2,
+				["Prismatic Manapearl"] = 27,
 				["War Resources"] = 6,
 				["Dalaran Jewelcrafter's Token"] = 26,
 				["Titan Residuum"] = 5,
-				["Curious Coin"] = 12,
-				["Order Resources"] = 15,
-				["Timewarped Badge"] = 8,
-				["Timeworn Artifact"] = 17,
-				["Battle for Azeroth"] = 1,
-				["Warlords of Draenor"] = 20,
-				["Legion"] = 9,
-				["Apexis Crystal"] = 21,
-				["Wakening Essence"] = 19,
-				["Garrison Resources"] = 22,
-				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,
+				["Seal of Tempered Fate"] = 23,
+				["Garrison Resources"] = 22,
+				["Timeworn Artifact"] = 17,
+				["Wakening Essence"] = 19,
+				["Warlords of Draenor"] = 20,
+				["Apexis Crystal"] = 21,
+				["Legion"] = 9,
+				["Battle for Azeroth"] = 1,
+				["Timewarped Badge"] = 8,
+				["Order Resources"] = 15,
+				["Curious Coin"] = 12,
 				["Champion's Seal"] = 25,
 				["Legionfall War Supplies"] = 13,
 			},
@@ -116,29 +118,30 @@ DataStore_CurrenciesDB = {
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-6",
 					[1191] = "0-0-0-0",
-					[1580] = "5-0-0-5",
-					[1342] = "32-0-0-1000",
-					[1560] = "1143-0-0-0",
-					[823] = "0-0-0-0",
-					[1226] = "766-0-0-0",
-					[1710] = "83-0-0-0",
-					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "83-0-0-0",
+					[1342] = "32-0-0-1000",
+					[1226] = "766-0-0-0",
+					[1560] = "1143-0-0-0",
+					[994] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "5-0-0-5",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["Currencies"] = {
 					3, -- [1]
 					21508, -- [2]
-					14982, -- [3]
-					264, -- [4]
-					1292298, -- [5]
-					48012, -- [6]
-					15, -- [7]
-					25616, -- [8]
-					19, -- [9]
-					32020, -- [10]
+					694, -- [3]
+					14982, -- [4]
+					264, -- [5]
+					1292298, -- [6]
+					52876, -- [7]
+					15, -- [8]
+					25616, -- [9]
+					19, -- [10]
+					32020, -- [11]
 				},
 				["Archeology"] = {
 					0, -- [1]
@@ -162,22 +165,22 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1561267256,
+				["lastUpdate"] = 1561535334,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "117-0-0-0",
+					[1580] = "2-0-0-5",
+					[1342] = "0-0-0-0",
+					[1560] = "413-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "375-0-0-0",
+					[1710] = "117-0-0-0",
 					[994] = "0-0-0-0",
-					[1342] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
 				},
 			},
 		},

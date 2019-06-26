@@ -2,7 +2,7 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "8.1.5",
+	["_GameVersion"] = "8.2.0",
 	["_OPieVersion"] = "Walnut 3 (3.100)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -13,10 +13,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["Mounts"] = "ALT-1",
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["OPieTracking"] = false,
+				["Mounts"] = "ALT-1",
 			},
 		},
 	},

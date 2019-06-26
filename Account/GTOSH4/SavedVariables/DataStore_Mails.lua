@@ -18,8 +18,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1560822378,
-				["lastVisitDate"] = "2019/06/17 21:46",
+				["lastUpdate"] = 1561530416,
+				["lastVisitDate"] = "2019/06/26 02:26",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1561253274,
@@ -29,8 +29,8 @@ DataStore_MailsDB = {
 						["sender"] = "Toshpal",
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
 						["lastCheck"] = 1561253274,
+						["count"] = 5,
 						["icon"] = 1509634,
 						["daysLeft"] = 11.7973260879517,
 					}, -- [1]
@@ -39,8 +39,8 @@ DataStore_MailsDB = {
 						["sender"] = "Toshpal",
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
 						["lastCheck"] = 1561253274,
+						["count"] = 5,
 						["icon"] = 1509634,
 						["daysLeft"] = 11.7974424362183,
 					}, -- [2]
@@ -49,8 +49,8 @@ DataStore_MailsDB = {
 						["sender"] = "Toshpal",
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
 						["lastCheck"] = 1561253274,
+						["count"] = 5,
 						["icon"] = 1509634,
 						["daysLeft"] = 11.802882194519,
 					}, -- [3]
@@ -59,8 +59,8 @@ DataStore_MailsDB = {
 						["sender"] = "Toshpal",
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
 						["lastCheck"] = 1561253274,
+						["count"] = 5,
 						["icon"] = 1509634,
 						["daysLeft"] = 11.8030090332031,
 					}, -- [4]

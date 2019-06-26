@@ -129,7 +129,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Toshpal",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -173,20 +173,21 @@ BD_persistent = {
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
-				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["slay mekka friday and blockade saturday "] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]

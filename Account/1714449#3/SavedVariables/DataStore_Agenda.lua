@@ -11,20 +11,20 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-06-25",
+			["NextWeeklyReset"] = "2019-07-02",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["Contacts"] = {
 					["Yorman"] = {
 						["note"] = "",
-						["level"] = 120,
 						["class"] = "Druid",
+						["level"] = 120,
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["level"] = 120,
 						["class"] = "Paladin",
+						["level"] = 120,
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -33,10 +33,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1560822466,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1561267335,
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|372127157"] = "207542|1561267257|0|1",
-				},
+				["lastUpdate"] = 1561535643,
 			},
 		},
 	},

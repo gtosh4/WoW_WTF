@@ -51,6 +51,7 @@ DataStore_CurrenciesDB = {
 				"Tol Barad Commendation|409548", -- [35]
 				"Cataclysm|", -- [36]
 				"Mark of the World Tree|513195", -- [37]
+				"Prismatic Manapearl|463858", -- [38]
 			},
 			["CurrencyTextRev"] = {
 				["Ancient Mana"] = 10,
@@ -64,6 +65,7 @@ DataStore_CurrenciesDB = {
 				["Honorbound Service Medal"] = 2,
 				["War Resources"] = 6,
 				["Sightless Eye"] = 30,
+				["Prismatic Manapearl"] = 38,
 				["Cataclysm"] = 36,
 				["Lingering Soul Fragment"] = 29,
 				["Battle for Azeroth"] = 1,
@@ -80,12 +82,12 @@ DataStore_CurrenciesDB = {
 				["Garrison Resources"] = 22,
 				["Seal of Tempered Fate"] = 23,
 				["Timeworn Artifact"] = 17,
+				["Wakening Essence"] = 19,
 				["Miscellaneous"] = 27,
-				["Warlords of Draenor"] = 20,
 				["Legion"] = 9,
 				["Apexis Crystal"] = 21,
 				["Darkmoon Prize Ticket"] = 28,
-				["Wakening Essence"] = 19,
+				["Warlords of Draenor"] = 20,
 				["Curious Coin"] = 12,
 				["Seafarer's Dubloon"] = 3,
 				["Champion's Seal"] = 25,
@@ -98,23 +100,24 @@ DataStore_CurrenciesDB = {
 					3, -- [1]
 					136982, -- [2]
 					3844, -- [3]
-					11910, -- [4]
-					264, -- [5]
-					40714, -- [6]
-					2060, -- [7]
-					15, -- [8]
-					419216, -- [9]
-					19, -- [10]
-					83988, -- [11]
-					7960, -- [12]
-					17050, -- [13]
-					619676, -- [14]
-					87454, -- [15]
-					160, -- [16]
-					108452, -- [17]
-					103334, -- [18]
-					41, -- [19]
-					102444, -- [20]
+					332, -- [4]
+					12038, -- [5]
+					264, -- [6]
+					40714, -- [7]
+					8972, -- [8]
+					15, -- [9]
+					419216, -- [10]
+					19, -- [11]
+					83988, -- [12]
+					7960, -- [13]
+					17050, -- [14]
+					619676, -- [15]
+					87454, -- [16]
+					160, -- [17]
+					108452, -- [18]
+					103334, -- [19]
+					41, -- [20]
+					102444, -- [21]
 				},
 				["Archeology"] = {
 					0, -- [1]
@@ -138,7 +141,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1561166947,
+				["lastUpdate"] = 1561535541,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -147,10 +150,10 @@ DataStore_CurrenciesDB = {
 					[1191] = "0-0-0-0",
 					[1580] = "2-0-0-5",
 					[1342] = "133-0-0-1000",
-					[1560] = "16-0-0-0",
+					[1560] = "70-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "4841-0-0-0",
-					[1710] = "93-0-0-0",
+					[1710] = "94-0-0-0",
 					[994] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",

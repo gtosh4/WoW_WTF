@@ -95,7 +95,7 @@ DataStore_PetsDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1561166947,
+				["lastUpdate"] = 1561533356,
 				["CRITTER"] = {
 					69452, -- [1]
 					259758, -- [2]
