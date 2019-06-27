@@ -18,22 +18,20 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Yorman"] = {
 						["note"] = "",
-						["class"] = "Druid",
-						["level"] = 120,
 					},
 					["Toshpal"] = {
-						["note"] = "",
-						["class"] = "Paladin",
+						["note"] = "<Away>",
 						["level"] = 120,
+						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1560822466,
+				["lastUpdate"] = 1561608557,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1561535643,
+				["lastUpdate"] = 1561615224,
 			},
 		},
 	},

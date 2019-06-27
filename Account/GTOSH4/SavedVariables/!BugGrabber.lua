@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 986,
 	["lastSanitation"] = 3,
-	["session"] = 981,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Molinari' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
@@ -110,21 +110,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [14]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
-			["time"] = "2019/06/02 14:54:12",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
-			["session"] = 966,
-			["counter"] = 5,
-		}, -- [15]
-		{
 			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v149.3.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
 			["time"] = "2019/06/14 23:24:25",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v149.3.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:456: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:422>",
 			["session"] = 976,
 			["counter"] = 28,
-		}, -- [16]
+		}, -- [15]
 		{
 			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\slider.lua:816: Details! Framework: OnSwitch() -NONAME- error: Interface\\AddOns\\Plater\\Plater-1.nil.lua:7997: attempt to index field '?' (a nil value)",
 			["time"] = "2019/06/26 02:28:18",
@@ -132,7 +124,7 @@ BugGrabberDB = {
 			["stack"] = "[C]: in function `error'\nInterface\\AddOns\\Details\\Libs\\DF\\slider.lua:816: in function <Interface\\AddOns\\Details\\Libs\\DF\\slider.lua:763>",
 			["session"] = 980,
 			["counter"] = 2,
-		}, -- [17]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1286: table index is nil",
 			["time"] = "2019/06/26 02:19:15",
@@ -140,13 +132,13 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1286: in main chunk",
 			["session"] = 981,
 			["counter"] = 4,
-		}, -- [18]
+		}, -- [17]
 		{
 			["message"] = "(null)",
-			["session"] = 981,
 			["time"] = "2019/06/26 02:19:29",
+			["session"] = 981,
 			["counter"] = 20,
-		}, -- [19]
+		}, -- [18]
 		{
 			["message"] = "...ace\\AddOns\\Details\\classes\\container_combatentes.lua:420: attempt to index upvalue 'line2' (a nil value)",
 			["time"] = "2019/06/26 02:36:34",
@@ -154,7 +146,7 @@ BugGrabberDB = {
 			["stack"] = "...ace\\AddOns\\Details\\classes\\container_combatentes.lua:420: in function <...ace\\AddOns\\Details\\classes\\container_combatentes.lua:401>\n...ace\\AddOns\\Details\\classes\\container_combatentes.lua:505: in function `PegarCombatente'\nInterface\\AddOns\\Details\\core\\parser.lua:601: in function <Interface\\AddOns\\Details\\core\\parser.lua:419>\n(tail call): ?",
 			["session"] = 981,
 			["counter"] = 50,
-		}, -- [20]
+		}, -- [19]
 		{
 			["message"] = "Interface\\AddOns\\Plater\\Plater-1.nil.lua:7997: attempt to index field '?' (a nil value)",
 			["time"] = "2019/06/26 02:19:52",
@@ -162,6 +154,60 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\Plater\\Plater-1.nil.lua:7997: in function `IsQuestObjective'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:6550: in function `UpdatePlateFrame'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:2732: in function `func'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:2862: in function <Interface\\AddOns\\Plater\\Plater.lua:2859>",
 			["session"] = 981,
 			["counter"] = 126,
+		}, -- [20]
+		{
+			["message"] = "Interface\\FrameXML\\QuestInfo.lua:73: Usage: local isCampaignQuest = C_CampaignInfo.IsCampaignQuest(questID)",
+			["time"] = "2019/06/26 20:32:05",
+			["locals"] = "(*temporary) = nil\n",
+			["stack"] = "[C]: in function `IsCampaignQuest'\nInterface\\FrameXML\\QuestInfo.lua:73: in function <Interface\\FrameXML\\QuestInfo.lua:51>\n[C]: ?\n[C]: in function `QuestInfo_Display'\nInterface\\FrameXML\\QuestMapFrame.lua:301: in function `QuestMapFrame_ShowQuestDetails'\nInterface\\FrameXML\\QuestMapFrame.lua:266: in function `QuestMapFrame_UpdateAll'\nInterface\\FrameXML\\QuestMapFrame.lua:170: in function <Interface\\FrameXML\\QuestMapFrame.lua:92>",
+			["session"] = 982,
+			["counter"] = 1,
 		}, -- [21]
+		{
+			["message"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:246: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate10",
+			["time"] = "2019/06/26 21:13:10",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:246: in function `addLineToNameplate'\n[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:79: in function <[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:721: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
+			["session"] = 984,
+			["counter"] = 2,
+		}, -- [22]
+		{
+			["message"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:246: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate11",
+			["time"] = "2019/06/26 21:20:51",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:246: in function `addLineToNameplate'\n[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:79: in function <[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:721: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
+			["session"] = 984,
+			["counter"] = 2,
+		}, -- [23]
+		{
+			["message"] = "Interface\\AddOns\\BigWigs_Voice\\Core.lua:19: PlaySoundFile Error - Invalid fileDataID for sound.",
+			["time"] = "2019/06/26 21:15:18",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: in function `PlaySoundFile'\nInterface\\AddOns\\BigWigs_Voice\\Core.lua:19: in function `v'\nInterface\\AddOns\\BigWigs\\Loader.lua:937: in function `SendMessage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:2325: in function `PlaySound'\nInterface\\AddOns\\LittleWigs\\BfA\\AtalDazar\\Rezan.lua:53: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
+			["session"] = 984,
+			["counter"] = 6,
+		}, -- [24]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
+			["time"] = "2019/06/02 14:54:12",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
+			["session"] = 984,
+			["counter"] = 6,
+		}, -- [25]
+		{
+			["message"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: <unnamed>:SetPoint.",
+			["time"] = "2019/06/26 18:28:49",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: in function `addFontToNameplate'\n[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:138: in function <[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:721: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
+			["session"] = 985,
+			["counter"] = 272,
+		}, -- [26]
+		{
+			["message"] = "Error loading Interface\\AddOns\\bdCore\\lib\\oUF\\elements\\pvpclassificationindicator.lua",
+			["session"] = 986,
+			["time"] = "2019/06/26 22:39:50",
+			["counter"] = 10,
+		}, -- [27]
 	},
 }

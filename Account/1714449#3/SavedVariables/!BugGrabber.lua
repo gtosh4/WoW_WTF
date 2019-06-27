@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 827,
+	["session"] = 829,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Atonement Missing' ]] return...\"]:60: attempt to index global 'aura_env' (a nil value)",
@@ -49,37 +49,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [6]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar1:SetWidth()'.",
-			["time"] = "2019/06/26 03:43:41",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetWidth'\nInterface\\AddOns\\ElvUI\\Core\\Toolkit.lua:179: in function `Width'\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:144: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 827,
-			["counter"] = 1,
-		}, -- [7]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
-			["time"] = "2019/06/26 03:43:41",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:243: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 827,
-			["counter"] = 1,
-		}, -- [8]
-		{
-			["message"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: <unnamed>:SetPoint.",
-			["time"] = "2019/06/26 03:02:56",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: in function `addFontToNameplate'\n[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:138: in function <[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:721: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
-			["session"] = 827,
-			["counter"] = 24,
-		}, -- [9]
-		{
 			["message"] = "...ace\\AddOns\\Details\\classes\\container_combatentes.lua:420: attempt to index upvalue 'line2' (a nil value)",
 			["time"] = "2019/06/25 21:55:53",
 			["locals"] = "serial = \"Pet-0-3780-1642-6863-26125-030158F6AC\"\nnome = \"Marrowtaker\"\nflag = 4376\nself = <table> {\n _NameIndexTable = <table> {\n }\n shadow = <table> {\n }\n __index = <table> {\n }\n tipo = 2\n combatId = 2204\n funcao_de_criacao = <function> defined @Interface\\AddOns\\Details\\classes\\classe_damage.lua:366\n _ActorTable = <table> {\n }\n need_refresh = true\n}\ntext1 = \"Ereßus's Minion\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"Drift\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"Ereßus's Minion\"\n(*temporary) = \"Drift\"\n(*temporary) = nil\n(*temporary) = \"Drift\"\n(*temporary) = 0\n(*temporary) = nil\n(*temporary) = \"attempt to index upvalue 'line2' (a nil value)\"\n_detalhes = <table> {\n SetBarSpecIconSettings = <function> defined @Interface\\AddOns\\Details\\gumps\\janela_principal.lua:4283\n APITopics = <table> {\n }\n InitializeRunCodeWindow = <function> defined @Interface\\AddOns\\Details\\core\\windows.lua:4495\n EntrarEmCombate = <function> defined @Interface\\AddOns\\Details\\core\\control.lua:313\n hex = <function> defined @Interface\\AddOns\\Details\\core\\util.lua:687\n BuildSpellList = <function> defined @Interface\\AddOns\\Details\\functions\\spellcache.lua:308\n opened_windows = 2\n RefreshAttributeTextSize = <function> defined @Interface\\AddOns\\Details\\gumps\\janela_principal.lua:7366\n PotionList = <table> {\n }\n EndRefresh = <function> defined @Interface\\AddOns\\Details\\core\\control.lua:1691\n FechaJanelaInfo = <function> defined @Interface\\AddOns\\Details\\gumps\\janela_info.lua:380\n GetMode = <function> defined @Interface\\AddOns\\Details\\classes\\classe_instancia.lua:148\n SetMode = <function> defined @Interface\\AddOns\\Details\\classes\\classe_instancia.lua:2706\n RestoreState_CurrentMythicDungeonRun = <function> defined @Interface\\AddOns\\Details\\functions\\profiles.lua:1478\n APIVersion = 140\n IsPluginEnabled = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:58\n ImportProfile = <function> defined @Interface\\AddOns\\Details\\functions\\profiles.lua:1629\n SetNickname = <function> defined @Interface\\AddOns\\Details\\Libs\\NickTag-1.0\\NickTag-1.0.lua:495\n color_by_arena_team = true\n SortKeyGroupHeal = <function> defined @Interface\\AddOns\\Details\\classes\\classe_heal.lua:125\n SortKeyGroup = <function> defined @Interface\\AddOns\\Details\\classes\\classe_damage.lua:133\n IsInEncounter = <function> defined @Interface\\AddOns\\Details\\core\\parser.lua:5314\n Check_ZONE_CHANGED_NEW_AREA = <function> defined @Interface\\AddOns\\Details\\core\\parser.lua:4072\n plugin_window_pos = <table> {\n }\n gump = <table> {\n }\n CaptureRefresh = <function> defined @Interface\\AddOns\\Details\\core\\parser.lua:3726\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InstancesToStoreData = <table> {\n }\n name_space_info = <function> defined @Interface\\AddOns\\Details\\core\\util.lua:1385\n ShowDelayMsg = <function> defined @Interface\\AddOns\\Details\\boot.lua:659\n Resize = <function> defined @Interface\\AddOns\\Details\\classes\\classe_instancia.lua:1867\n GetEncounterActorsName = <function> defined @Interface\\AddOns\\Details\\functions\\boss.lua:306\n RequestCloudData = <function> defined @Interface\\AddOns\\Details\\core\\network.lua:721\n RestauraJanela = <function> defined @Interface\\AddOns\\Details\\classes\\classe_instancia.lua:1429\n default_skin_to_use = \"Minimalistic\"\n GetOpenedWindowsAmount = <function> defined @Interface\\AddOns\\Details\\classes\\classe_instancia.lua:256\n GetInstanceGroup = <function> defined @Interface\\AddOns\\Details\\gumps\\janela_principal.lua:7827\n deadlog_events = 32\n Dump = <function> defined @Interface\\AddOns\\Details\\core\\windows.lua:7131\n OpenNewsWindow = <function> defined @Interface\\AddOns\\Details\\gumps\\janela_news.lua:9\n last_instance_id = 2070\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n atributo_energy = <table> {\n }\n UnitDamageOnUnit = <function> defined @Interface\\AddOns\\Details\\functions\\api2.lua:1123\n name_space_generic = <function> defined @Interface\\AddOns\\Details\\core\\util.lua:1395\n storage = <table> {\n }\n ",
 			["stack"] = "...ace\\AddOns\\Details\\classes\\container_combatentes.lua:420: in function <...ace\\AddOns\\Details\\classes\\container_combatentes.lua:401>\n...ace\\AddOns\\Details\\classes\\container_combatentes.lua:505: in function `PegarCombatente'\nInterface\\AddOns\\Details\\core\\parser.lua:601: in function <Interface\\AddOns\\Details\\core\\parser.lua:419>\n(tail call): ?\n(tail call): ?",
 			["session"] = 827,
 			["counter"] = 55,
-		}, -- [10]
+		}, -- [7]
 		{
 			["message"] = "Interface\\AddOns\\Plater\\Plater-1.nil.lua:7997: attempt to index field '?' (a nil value)",
 			["time"] = "2019/06/25 21:48:43",
@@ -87,6 +63,37 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\Plater\\Plater-1.nil.lua:7997: in function `IsQuestObjective'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:6550: in function `UpdatePlateFrame'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:2732: in function `func'\nInterface\\AddOns\\Plater\\Plater-1.nil.lua:2862: in function <Interface\\AddOns\\Plater\\Plater.lua:2859>",
 			["session"] = 827,
 			["counter"] = 595,
+		}, -- [8]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar1:SetWidth()'.",
+			["time"] = "2019/06/26 03:43:41",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetWidth'\nInterface\\AddOns\\ElvUI\\Core\\Toolkit.lua:179: in function `Width'\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:144: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
+			["session"] = 829,
+			["counter"] = 2,
+		}, -- [9]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
+			["time"] = "2019/06/26 03:43:41",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:243: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
+			["session"] = 829,
+			["counter"] = 2,
+		}, -- [10]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'WorldQuestsList' tried to call the protected function 'UseQuestLogSpecialItem()'.",
+			["time"] = "2019/06/27 01:06:36",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `UseQuestLogSpecialItem'\n...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>",
+			["session"] = 829,
+			["counter"] = 1,
 		}, -- [11]
+		{
+			["message"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: <unnamed>:SetPoint.",
+			["time"] = "2019/06/26 03:02:56",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:197: in function `addFontToNameplate'\n[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:138: in function <[string \"--[[ Error in 'Targeted Spells' ]] return f...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:525: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:721: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:712>",
+			["session"] = 829,
+			["counter"] = 72,
+		}, -- [12]
 	},
 }

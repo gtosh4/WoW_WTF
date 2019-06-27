@@ -19,13 +19,20 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1561535634,
+				["lastUpdate"] = 1561615228,
 			},
 			["Default.The Forgotten Coast.Toshtrial"] = {
 				["lastUpdate"] = 1554958119,
 			},
-			["Default.Frostwolf.Zallie"] = {
-				["lastUpdate"] = 1557430951,
+			["Default.Kil'jaeden.Yorman"] = {
+				["Contacts"] = {
+					["Toshmonk"] = {
+						["note"] = "",
+						["level"] = 120,
+						["class"] = "Monk",
+					},
+				},
+				["lastUpdate"] = 1560822520,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556091490,
@@ -42,17 +49,10 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1561258612,
+				["lastUpdate"] = 1561608144,
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["Contacts"] = {
-					["Toshmonk"] = {
-						["note"] = "",
-						["class"] = "Monk",
-						["level"] = 120,
-					},
-				},
-				["lastUpdate"] = 1560822520,
+			["Default.Frostwolf.Zallie"] = {
+				["lastUpdate"] = 1557430951,
 			},
 		},
 	},

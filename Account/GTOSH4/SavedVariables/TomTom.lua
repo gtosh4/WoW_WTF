@@ -48,30 +48,6 @@ TomTomWaypointsM = {
 		["Zallie - Frostwolf"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
-			[942] = {
-				["942:707713723.18268:853348076.34354:Azerite Wounds"] = {
-					942, -- [1]
-					0.707713723182678, -- [2]
-					0.853348076343536, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["persistent"] = true,
-					["desc"] = "Azerite Wounds",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Azerite Wounds",
-					["crazy"] = true,
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -83,9 +59,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,

@@ -8,8 +8,8 @@ BigWigs3DB = {
 			[-1352] = {
 				[2] = true,
 			},
-			[876] = true,
 			[-557] = true,
+			[876] = true,
 			[-1004] = true,
 			[-367] = true,
 		},

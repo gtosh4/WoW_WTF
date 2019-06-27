@@ -10,7 +10,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1560822385,
+				["lastUpdate"] = 1561608553,
 				["Specializations"] = {
 					[2] = 5849,
 					[3] = 12011,
@@ -18,7 +18,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1561533352,
+				["lastUpdate"] = 1561614286,
 				["Specializations"] = {
 					13823, -- [1]
 					[3] = 5527,
@@ -267,7 +267,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 30706,
+			["Version"] = 30920,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",

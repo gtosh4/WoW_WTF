@@ -76,6 +76,13 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: LEFT
+X: 570
+Y: -60
+W: 269
+H: 284
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: TOP
@@ -83,10 +90,3 @@ X: -17
 Y: -304
 W: 56
 H: 42
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: LEFT
-X: 570
-Y: -60
-W: 267
-H: 115

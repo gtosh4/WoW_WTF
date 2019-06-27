@@ -48,17 +48,17 @@ DataStore_CurrenciesDB = {
 				["Seal of Wartorn Fate"] = 4,
 				["Veiled Argunite"] = 18,
 				["Honorbound Service Medal"] = 2,
-				["Prismatic Manapearl"] = 27,
-				["War Resources"] = 6,
 				["Dalaran Jewelcrafter's Token"] = 26,
+				["War Resources"] = 6,
 				["Titan Residuum"] = 5,
 				["Wrath of the Lich King"] = 24,
 				["Seal of Tempered Fate"] = 23,
 				["Garrison Resources"] = 22,
-				["Timeworn Artifact"] = 17,
 				["Wakening Essence"] = 19,
-				["Warlords of Draenor"] = 20,
+				["Timeworn Artifact"] = 17,
 				["Apexis Crystal"] = 21,
+				["Prismatic Manapearl"] = 27,
+				["Warlords of Draenor"] = 20,
 				["Legion"] = 9,
 				["Battle for Azeroth"] = 1,
 				["Timewarped Badge"] = 8,
@@ -111,7 +111,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1560822449,
+				["lastUpdate"] = 1561608553,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "14331-0-0-0",
@@ -121,11 +121,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "83-0-0-0",
-					[1342] = "32-0-0-1000",
+					[823] = "0-0-0-0",
 					[1226] = "766-0-0-0",
 					[1560] = "1143-0-0-0",
 					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "32-0-0-1000",
 					[1580] = "5-0-0-5",
 				},
 			},
@@ -133,11 +133,11 @@ DataStore_CurrenciesDB = {
 				["Currencies"] = {
 					3, -- [1]
 					21508, -- [2]
-					694, -- [3]
+					9142, -- [3]
 					14982, -- [4]
 					264, -- [5]
 					1292298, -- [6]
-					52876, -- [7]
+					70156, -- [7]
 					15, -- [8]
 					25616, -- [9]
 					19, -- [10]
@@ -165,7 +165,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1561535334,
+				["lastUpdate"] = 1561614286,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -173,9 +173,9 @@ DataStore_CurrenciesDB = {
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
 					[1580] = "2-0-0-5",
-					[1342] = "0-0-0-0",
-					[1560] = "413-0-0-0",
 					[823] = "0-0-0-0",
+					[1560] = "548-0-0-0",
+					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1710] = "117-0-0-0",
 					[994] = "0-0-0-0",

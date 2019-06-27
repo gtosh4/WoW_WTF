@@ -13,14 +13,14 @@ AltoholicDB = {
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Clients"] = {
-				"Tosh|1", -- [1]
-			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
-					["lastUpdatedWith"] = "Tosh",
 					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
 				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {
@@ -36,7 +36,7 @@ AltoholicDB = {
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",
 			["UI.Tabs.Summary.CurrentLevels"] = 10,
-			["UI.Mail.LastExpiryWarning"] = 1561529980,
+			["UI.Mail.LastExpiryWarning"] = 1561587777,
 			["UI.Minimap.ShowIcon"] = false,
 			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshaman",
