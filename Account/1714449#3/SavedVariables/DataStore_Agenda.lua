@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-07-02",
+			["NextWeeklyReset"] = "2019-07-16",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -20,18 +20,21 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 					["Toshpal"] = {
-						["note"] = "<Away>",
-						["level"] = 120,
-						["class"] = "Paladin",
+						["note"] = "",
 					},
 					["Toshaman"] = {
 						["note"] = "",
+						["class"] = "Shaman",
+						["level"] = 120,
 					},
 				},
-				["lastUpdate"] = 1561608557,
+				["lastUpdate"] = 1562523092,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1561615224,
+				["lastUpdate"] = 1562811345,
+				["DungeonIDs"] = {
+					["The Eternal Palace Heroic|373073179"] = "478183|1562811013|0|1",
+				},
 			},
 		},
 	},

@@ -13,10 +13,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-S",
-				["OPieTracking"] = false,
 				["Mounts"] = "ALT-1",
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["PaladinAuras"] = false,
 			},
 		},
 	},
@@ -47,10 +47,10 @@ OneRing_Config = {
 					407, -- [2]
 					["sliceToken"] = "ABuefXkFMje",
 				}, -- [5]
-				["quarantineBind"] = "ALT-1",
+				["offset"] = 0,
 				["name"] = "Mounts",
 				["save"] = true,
-				["offset"] = 0,
+				["quarantineBind"] = "ALT-1",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

@@ -1,50 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/m", -- [1]
-		"/wave", -- [2]
-		"/s nice", -- [3]
-		"/s I want the red one", -- [4]
-		"/s :\\", -- [5]
-		"/s lame", -- [6]
-		"/s over the artifact? lul", -- [7]
-		"/s oh, ok", -- [8]
-		"/s time for raid", -- [9]
-		"/cw Iko-Kil'jaeden ye", -- [10]
-		"/cw Iko-Kil'jaeden ty, :D", -- [11]
-		"/cw Iko-Kil'jaeden just here to have fun w/ my friends", -- [12]
-		"/cw Iko-Kil'jaeden on rasta", -- [13]
-		"/cw Iko-Kil'jaeden well, reclearing conclave, but decent amount of pulls on rasta so far, prolly get him tonight", -- [14]
-		"/cw Iko-Kil'jaeden not looking forward to mekka prog in koopa tho xd", -- [15]
-		"/plater", -- [16]
-		"/dn", -- [17]
-		"/wa", -- [18]
-		"/ec", -- [19]
-		"/ak", -- [20]
+		"/wave", -- [1]
+		"/s nice", -- [2]
+		"/s I want the red one", -- [3]
+		"/s :\\", -- [4]
+		"/s lame", -- [5]
+		"/s over the artifact? lul", -- [6]
+		"/s oh, ok", -- [7]
+		"/s time for raid", -- [8]
+		"/cw Iko-Kil'jaeden ye", -- [9]
+		"/cw Iko-Kil'jaeden ty, :D", -- [10]
+		"/cw Iko-Kil'jaeden just here to have fun w/ my friends", -- [11]
+		"/cw Iko-Kil'jaeden on rasta", -- [12]
+		"/cw Iko-Kil'jaeden well, reclearing conclave, but decent amount of pulls on rasta so far, prolly get him tonight", -- [13]
+		"/cw Iko-Kil'jaeden not looking forward to mekka prog in koopa tho xd", -- [14]
+		"/plater", -- [15]
+		"/dn", -- [16]
+		"/wa", -- [17]
+		"/ec", -- [18]
+		"/ak", -- [19]
+		"/alto show", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Taunted Blood Visage!", -- [1]
-			"Pride-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pride-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			553, -- [11]
-			"Player-9-08462094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cPride|r",
-			[51] = 1559090953,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
 		{
 			"|cff71d5ff|Hspell:80353:0|h[Time Warp]|h|r faded!", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559090963,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"finally done", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559090972,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Taunted Blood Visage!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559090979,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Toshmonk!", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559090987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Toshmonk!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559090987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Pride!", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559090987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Pride!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559090987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Cleansing Light on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559090994,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"With what", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1559090997,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
+		}, -- [9]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559091005,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r activated!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559091005,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"making |cffa335ee|Hitem:162461::::::::120:64::13:1:3524:::|h[Sanguicell]|h|r ", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559091008,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Taunted Blood Visage!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559091012,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"1.1k ", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559091016,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [14]
 		{
 			"one at a time", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559091018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559091020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r faded!", -- [1]
 			"Pride-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPride|r",
 			[51] = 1559091020,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"1. Genj 123.1k", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"2. Pride 165.7k", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"3. Ceesong 231.6k", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"4. Toshmonk 385.4k", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"5. Andrewzz 431.9k", -- [1]
 			"Ceesong-Kil'jaeden", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ceesong|r",
 			[51] = 1559091021,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:353:15:10:5:14:117|h[Keystone: Siege of Boralus (15)]|h|r", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559091027,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"you're still making them?", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559091043,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [25]
 		{
 			"no i just finished them", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559091058,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [26]
 		{
 			"nice", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1559091064,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [27]
 		{
 			"yeah 1.4k bloods now though", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1559091094,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [28]
 		{
 			"oh moon", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663699,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [29]
 		{
 			"yo", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663704,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [30]
 		{
 			"my alliance druid got a 410 dagger", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663706,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [31]
 		{
 			">:(", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663714,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [32]
 		{
 			"I BELIEVE IN YOU GETTING YOUR WEAP SOON", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663718,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [33]
 		{
 			"THROUGH STRONG WILL", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663733,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [34]
 		{
 			"420 BIG dagger inc", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663742,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [35]
 		{
 			"if you have the means, the engineering helm is pretty good for ele", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [36]
 		{
 			"|cffa335ee|Hitem:165897::::::::120:262::13::::|h[Charged SP1-R1-73D Bionic Bifocals]|h|r", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663853,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [37]
 		{
 			"i need to get 4 more tidals for trinket ", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663910,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [38]
 		{
 			"I thought about doing that too tbh", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663968,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [39]
 		{
 			"but I have |cffa335ee|Hitem:159615::::::::120:262::35:3:5010:1587:4784:::|h[Ignition Mage's Fuse]|h|r|cffa335ee|Hitem:165571::::::::120:262::3:4:4798:40:1507:4786:::|h[Incandescent Sliver]|h|r atm", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663974,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [40]
 		{
 			"|cffa335ee|Hitem:158155::153709::::::120:262::27:4:4803:4802:1567:4783:::|h[Dinobone Charm]|h|r is too low but i also have |cffa335ee|Hitem:159620::::::::120:262::35:4:5010:40:1582:4783:::|h[Conch of Dark Whispers]|h|r", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664004,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [41]
 		{
 			"that trink is good though", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559664016,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [42]
 		{
 			"dinobone", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559664018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [43]
 		{
 			"yeah just lwo ilvl", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664025,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [44]
 		{
 			"you should check the difference between that dinobone and the alch trink", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664065,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [45]
 		{
 			"250 dps higher for stone", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664167,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [46]
 		{
 			"wonder if you could use your tidals better elsewhere", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664181,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [47]
 		{
 			"250 difference for a 385, 400, or 415 version of alch", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664218,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [48]
 		{
 			"|cffffff00Nazmir is under attack!|r", -- [1]
 			"", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1559664343,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [49]
 		{
 			"yeah i mean the helm is 418", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664724,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [50]
 		{
 			"dps", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664727,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [51]
 		{
 			"|cffa335ee|Hkeystone:158923:353:16:9:6:4:117|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676177,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [52]
 		{
 			"do you play fighting games", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"gosu", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"actually nvm", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676666,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"your'e from canada", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676669,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"so you're not the same", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676670,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"i forgot", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676695,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"ready", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676858,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"yea", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676881,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Interrupted Kul Tiran Wavetender's |cff71d5ff|Hspell:256957:0|h[Watertight Shell]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559676940,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [62]
+		}, -- [61]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Kul Tiran Wavetender!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676943,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Kul Tiran Wavetender ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676947,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Kul Tiran Halberd!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676998,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Kul Tiran Halberd ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677002,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677026,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677131,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [68]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677169,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Iron Gaze on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"Zaix Zaix za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Irontide Waveshaper!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677351,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677355,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677392,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Irontide Waveshaper!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677413,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677417,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677425,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [77]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677471,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [78]
 		{
 			"Interrupted Irontide Waveshaper's |cff71d5ff|Hspell:256957:0|h[Watertight Shell]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677503,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677623,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677630,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Tempest!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677864,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677864,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [85]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Tempest ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677868,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [86]
 		{
 			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:274569:0|h[Revitalizing Mist]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677878,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [88]
+		}, -- [87]
 		{
 			"we can", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559677941,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [88]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677945,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [89]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677955,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677956,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [91]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677957,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677957,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [93]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677959,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [94]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677982,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678031,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [96]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [97]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678080,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [98]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Tormented Soul ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [99]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678096,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [100]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678121,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [101]
 		{
 			"'s pickpocket stole 3 gold 19 silver 85 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678122,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [103]
+		}, -- [102]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678160,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [103]
 		{
 			"Sk'yahf Phgwa'cul za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678192,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [104]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Buccaneer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678231,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [105]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Buccaneer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678235,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [106]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [107]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [108]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [109]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [110]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678639,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [111]
 		{
 			"Putrid Waters on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678663,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [112]
 		{
 			"Putrid Waters on Rivalry", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559678664,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [113]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [114]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [115]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678699,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [116]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [117]
 		{
 			"Halahs Ka'kar za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [118]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678725,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [119]
 		{
 			"Putrid Waters on Rivalry", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559678726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [120]
 		{
 			"lol", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678759,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [121]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Tempest!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678784,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [122]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Tempest ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678788,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [123]
 		{
 			"|cffa335ee|Hkeystone:158923:245:17:9:6:4:117|h[Keystone: Freehold (17)]|h|r", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678805,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [125]
+		}, -- [124]
 		{
 			"doesnt matter", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2794,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678902,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [125]
 		{
 			"ok", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2816,6 +2794,28 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678924,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13568:Player-9-0B32A56C:1:7:7:19:4294967295:4294967295:4294967295:4294967295|h[For Nazjatar!]|h|r!", -- [1]
+			"Drift-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Drift-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-9-0B32A56C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Drift|r",
+			[51] = 1562522876,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

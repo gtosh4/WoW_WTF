@@ -9,7 +9,7 @@ AddOnSkinsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["ChangeLogVersion"] = 4.16,
+			["ChangeLogVersion"] = 4.21,
 			["Dominos"] = false,
 			["Azeroth Auto Pilot"] = false,
 			["Clique"] = false,

@@ -17,3 +17,5 @@ AAP-Vanilla: enabled
 AAP-TBC-WotLK: enabled
 BigWigs_CrucibleOfStorms: enabled
 WeakAurasCompanion: enabled
+SharedMedia_Causese: enabled
+ElvUI: enabled

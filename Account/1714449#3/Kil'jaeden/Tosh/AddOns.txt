@@ -17,3 +17,4 @@ AdiBags: enabled
 AzeritePowerWeights: disabled
 BigWigs_CrucibleOfStorms: enabled
 WeakAurasCompanion: enabled
+BigWigs_EternalPalace: enabled

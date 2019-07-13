@@ -23,3 +23,6 @@ AAP-Vanilla: enabled
 AAP-TBC-WotLK: enabled
 BigWigs_Classic: enabled
 WeakAurasCompanion: enabled
+BigWigs_EternalPalace: enabled
+SharedMedia_Causese: enabled
+ElvUI: enabled

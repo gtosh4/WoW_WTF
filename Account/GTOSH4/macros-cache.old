@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Hearthstone
+/click ExtraActionButton1
 END
 VER 3 0000000000000010 "bounds" "132319"
 /click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
@@ -52,9 +52,6 @@ VER 3 0000000000000028 "POT" "132847"
 END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
-END
-VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
-/readycheck
 END
 VER 3 0000000000000017 "RL" "Ability_Hunter_BeastCall02."
 /reload ui

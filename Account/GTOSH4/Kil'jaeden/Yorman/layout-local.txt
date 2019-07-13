@@ -1,11 +1,4 @@
 Version: 1
-Frame: Grid2LayoutFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: -188
-Y: 280
-W: 108
-H: 62
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -13,6 +6,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: -188
+Y: 280
+W: 108
+H: 62
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: LEFT
@@ -55,20 +55,6 @@ X: -20
 Y: 0
 W: 750
 H: 480
-Frame: BDLC
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 600
-H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: CENTER
-X: 600
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -100,7 +86,21 @@ H: 450
 Frame: SavedInstancesDetachHeader
 FrameLevel: 100
 Anchor: TOP
-X: 549
+X: 522
 Y: -239
-W: 629
-H: 352
+W: 574
+H: 367
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: CENTER
+X: 600
+Y: 0
+W: 520
+H: 1
+Frame: BDLC
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 600
+H: 400

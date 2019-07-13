@@ -14,34 +14,6 @@ BD_persistent = {
 		},
 	},
 	["users"] = {
-		["Zallie"] = {
-			["profile"] = "default",
-			["name"] = "Zallie",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Yorman"] = {
-			["profile"] = "default",
-			["name"] = "Yorman",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Tosku"] = {
 			["profile"] = "default",
 			["name"] = "Tosku",
@@ -56,9 +28,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshtrial"] = {
+		["Daggny"] = {
 			["profile"] = "default",
-			["name"] = "Toshtrial",
+			["name"] = "Daggny",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -70,23 +42,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
+		["Koutetsu"] = {
 			["profile"] = "default",
-			["name"] = "Toshmonk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Tosh"] = {
-			["profile"] = "default",
-			["name"] = "Tosh",
+			["name"] = "Koutetsu",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -126,10 +84,80 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Zallie"] = {
+			["profile"] = "default",
+			["name"] = "Zallie",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Yorman"] = {
+			["profile"] = "default",
+			["name"] = "Yorman",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshmonk"] = {
+			["profile"] = "default",
+			["name"] = "Toshmonk",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Tosh"] = {
+			["profile"] = "default",
+			["name"] = "Tosh",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshtrial"] = {
+			["profile"] = "default",
+			["name"] = "Toshtrial",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshpal",
+		["name"] = "Toshaman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -150,28 +178,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
-			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -183,6 +189,7 @@ BD_persistent = {
 				["heroic bod wed @ 7pm cst. "] = true,
 				["RIP Toshmonk"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
+				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["main raid tonight slay stormwall :)"] = true,
 				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -190,25 +197,50 @@ BD_persistent = {
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic Crucible thurs @ 6pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["(ALT)H EP WED @ 7pm CST. Make sure youre ready for new raid.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["Normal EP thurs @ 7pm cst.. Make sure youre ready for new raid.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["slay mekka friday and blockade saturday "] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["slay mekka friday and blockade saturday "] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
+				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
+			["interrupt"] = false,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

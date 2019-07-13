@@ -16,6 +16,9 @@ dbBFA = {
 		["Toshaman - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
+		["Tosku - Kil'jaeden"] = {
+			["firstun"] = false,
+		},
 	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
@@ -23,6 +26,7 @@ dbBFA = {
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
 	},
 	["global"] = {
 		["warn01_seen"] = 0,
