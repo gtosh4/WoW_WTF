@@ -18,11 +18,18 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["settings"] = {
+				["hideMinimap"] = true,
+			},
 			["pluginOrders"] = {
 				"Rematch", -- [1]
 				"Base", -- [2]
 				"FirstEnemy", -- [3]
 				"AllInOne", -- [4]
+			},
+			["minimap"] = {
+				["minimapPos"] = 154.455994848558,
+				["hide"] = true,
 			},
 		},
 	},

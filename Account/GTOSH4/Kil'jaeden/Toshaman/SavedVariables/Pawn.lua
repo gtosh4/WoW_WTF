@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 165820,
@@ -27,9 +24,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165532::::::::120:264::6:5:4824:1537:4786:5419:4775:::|h[Gonk's Scale Robes]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 159377,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:159377::::::::120:264::35:3:5010:1582:4783:::|h[Chain of Consummate Power]|h|r",
+			["ID"] = 165538,
+			["Level"] = 415,
+			["Link"] = "|cffa335ee|Hitem:165538::::::::120:264::6:4:4800:41:1537:4786:::|h[Goldenscale Girdle]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 168974,
@@ -52,28 +49,28 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165546::::::::120:264::6:3:4800:1542:4783:::|h[Slimy Kelpweavers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 165565,
-			["Level"] = 415,
+			["ID"] = 168891,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:165565:5942:::::::120:264::6:3:4800:1537:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168891::::::::120:264::5:3:4799:1502:4786:::|h[Cursed Lover's Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 165565,
-			["Level"] = 415,
+			["ID"] = 168891,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:165565:5942:::::::120:262::6:3:4800:1537:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168891:6108:::::::120:264::5:3:4799:1502:4786:::|h[Cursed Lover's Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 165928,
-			["Level"] = 415,
+			["ID"] = 169314,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:165928::::::::120:264::13::::|h[Eternal Alchemist Stone]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169314::::::::120:264::5:4:4799:1808:1502:4786:::|h[Azshara's Font of Power]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 165581,
-			["Level"] = 415,
+			["ID"] = 169314,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:165581::154126::::::120:264::6:4:4800:1808:1537:4786:::|h[Crest of Pa'ku]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169314::168638::::::120:264::5:4:4799:1808:1502:4786:::|h[Azshara's Font of Power]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 165924,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168397::::::::120:262::5:3:4799:1502:4786:::|h[Fang of the Behemoth]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

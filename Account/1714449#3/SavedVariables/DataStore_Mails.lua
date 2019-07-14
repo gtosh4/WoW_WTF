@@ -14,20 +14,20 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/07/07 14:11",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1562804203,
+				["lastUpdate"] = 1563060936,
 				["Mails"] = {
 					{
-						["returned"] = false,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Toshaman",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 1,
-						["lastCheck"] = 1562804203,
+						["returned"] = false,
 						["icon"] = 1509634,
-						["daysLeft"] = 17.059814453125,
+						["count"] = 1,
+						["lastCheck"] = 1563060936,
+						["daysLeft"] = 14.08840274810791,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2019/07/10 20:16",
+				["lastVisitDate"] = "2019/07/13 19:35",
 			},
 		},
 	},

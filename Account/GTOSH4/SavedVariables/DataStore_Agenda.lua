@@ -6,12 +6,12 @@ DataStore_AgendaDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -37,6 +37,15 @@ DataStore_AgendaDB = {
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
 			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1562530200,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1562529857,
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958119,
+			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
 					["Toshmonk"] = {
@@ -47,20 +56,12 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|372983762"] = "284253|1563004943|0|0",
-					["The Eternal Palace Heroic|373231194"] = "284253|1563004943|0|1",
-					["The Eternal Palace Normal|373149295"] = "284253|1563004943|0|1",
+					["Battle of Dazar'alor Mythic|373330543"] = "206785|1563082414|0|1",
+					["The Eternal Palace Normal|373149295"] = "206785|1563082414|0|1",
+					["The Eternal Palace Heroic|373231194"] = "206785|1563082414|0|1",
+					["Operation: Mechagon Mythic|372983762"] = "206785|1563082414|0|0",
 				},
-				["lastUpdate"] = 1563004942,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1562529857,
-			},
-			["Default.The Forgotten Coast.Toshtrial"] = {
-				["lastUpdate"] = 1554958119,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1562530200,
+				["lastUpdate"] = 1563082496,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

@@ -3,4 +3,18 @@ NRSLastAnnounce = {
 	["Name"] = "Sandclaw Stoneshell",
 	["Time"] = 1562638822,
 }
-NRSSound = false
+NRSConfig = {
+	["Armories"] = false,
+	["Sound"] = {
+		["Rares"] = true,
+		["Master"] = true,
+		["Drills"] = true,
+		["Duplicates"] = true,
+	},
+	["TomTom"] = {
+		["Rares"] = true,
+		["Master"] = true,
+		["Drills"] = true,
+		["Duplicates"] = true,
+	},
+}

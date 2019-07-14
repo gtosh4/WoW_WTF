@@ -31,10 +31,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1562523092,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1562811345,
 				["DungeonIDs"] = {
-					["The Eternal Palace Heroic|373073179"] = "478183|1562811013|0|1",
+					["The Eternal Palace Heroic|373073179"] = "226431|1563062768|0|1",
 				},
+				["lastUpdate"] = 1563062768,
 			},
 		},
 	},
