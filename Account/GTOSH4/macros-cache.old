@@ -48,6 +48,7 @@ VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
 /stopcasting
 /use Healthstone
+/use Abyssal Healing Potion
 /use Coastal Healing Potion
 END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."

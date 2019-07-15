@@ -6,12 +6,12 @@ Postal3DB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["BlackBook"] = {
@@ -61,8 +61,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -73,24 +71,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
-		["Zallie - Frostwolf"] = {
-		},
-		["Toshaman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Backstab|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
-					"Yellowysham|Kil'jaeden|Horde", -- [4]
-					"Yukio|Kil'jaeden|Horde", -- [5]
-					"Toshpal|Kil'jaeden|Horde", -- [6]
-					"Wraithbrand|Kil'jaeden|Horde", -- [7]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [8]
-					"Toshmonk|Kil'jaeden|Horde", -- [9]
-				},
-			},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -102,6 +83,26 @@ Postal3DB = {
 					"Qiro|Kil'jaeden|Horde", -- [5]
 				},
 			},
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Yellowy|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Backstab|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Yellowysham|Kil'jaeden|Horde", -- [5]
+					"Yukio|Kil'jaeden|Horde", -- [6]
+					"Toshpal|Kil'jaeden|Horde", -- [7]
+					"Wraithbrand|Kil'jaeden|Horde", -- [8]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [9]
+					"Toshmonk|Kil'jaeden|Horde", -- [10]
+				},
+			},
+		},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 	},
 }

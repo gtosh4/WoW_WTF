@@ -6,12 +6,12 @@ DeathNoteDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -40,8 +40,6 @@ DeathNoteDB = {
 				["x"] = 764.9560546875,
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
@@ -52,7 +50,17 @@ DeathNoteDB = {
 				["x"] = 1047.78375244141,
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["searchbox_text"] = "",
+			["display"] = {
+				["y"] = 122.507843017578,
+				["h"] = 825.020568847656,
+				["namelist"] = 2,
+				["w"] = 941.015380859375,
+				["x"] = 858.55322265625,
+			},
 		},
 		["Zallie - Frostwolf"] = {
 		},
@@ -66,15 +74,7 @@ DeathNoteDB = {
 				["x"] = 1196.145690917969,
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
-			["searchbox_text"] = "",
-			["display"] = {
-				["y"] = 122.507843017578,
-				["h"] = 825.020568847656,
-				["namelist"] = 2,
-				["w"] = 941.015380859375,
-				["x"] = 858.55322265625,
-			},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 	},
 }

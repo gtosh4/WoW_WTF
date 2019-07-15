@@ -16,12 +16,12 @@ MacroToolkitDB = {
 		["Daggny - Frostwolf"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
-		["Koutetsu - Frostwolf"] = "profile",
 		["Tosh - Kil'jaeden"] = "profile",
-		["Toshtrial - The Forgotten Coast"] = "profile",
+		["Koutetsu - Frostwolf"] = "profile",
+		["Toshmonk - Kil'jaeden"] = "profile",
 		["Zallie - Frostwolf"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
-		["Toshmonk - Kil'jaeden"] = "profile",
+		["Toshtrial - The Forgotten Coast"] = "profile",
 	},
 	["global"] = {
 		["ebackups"] = {
