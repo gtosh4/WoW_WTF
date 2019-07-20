@@ -27,12 +27,15 @@ RematchSettings = {
 	["QueueSortOrder"] = 1,
 	["XPos"] = 1445.817626953125,
 	["DialogYPos"] = 723.5220947265625,
-	["JournalUsed"] = true,
-	["HidePetToast"] = true,
-	["LevelingQueue"] = {
-	},
-	["DialogXPos"] = 1732.83056640625,
 	["AllowHiddenPetsDefaulted"] = true,
+	["HidePetToast"] = true,
+	["FavoriteFilters"] = {
+	},
+	["Sort"] = {
+		["Order"] = 2,
+		["FavoritesFirst"] = true,
+	},
+	["JournalPanel"] = 1,
 	["BackupCount"] = 0,
 	["TeamGroups"] = {
 		{
@@ -40,10 +43,7 @@ RematchSettings = {
 			"Interface\\Icons\\PetJournalPortrait", -- [2]
 		}, -- [1]
 	},
-	["Sort"] = {
-		["Order"] = 2,
-		["FavoritesFirst"] = true,
-	},
+	["JournalUsed"] = true,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -55,9 +55,9 @@ RematchSettings = {
 		},
 		["Level"] = {
 		},
-		["Sources"] = {
-		},
 		["Similar"] = {
+		},
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
@@ -86,9 +86,9 @@ RematchSettings = {
 	},
 	["ElvUIToastDefaulted"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
-	["JournalPanel"] = 1,
-	["FavoriteFilters"] = {
+	["LevelingQueue"] = {
 	},
+	["DialogXPos"] = 1732.83056640625,
 	["UseTypeBar"] = false,
 	["CustomScaleValue"] = 100,
 	["PetNotes"] = {

@@ -1,7 +1,8 @@
 
 NRSLastAnnounce = {
+	["ID"] = 152794,
+	["Time"] = 1563595063,
 	["Name"] = "Sandclaw Stoneshell",
-	["Time"] = 1562638204,
 }
 NRSConfig = {
 	["Armories"] = false,

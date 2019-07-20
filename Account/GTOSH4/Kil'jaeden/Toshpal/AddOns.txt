@@ -19,3 +19,4 @@ BigWigs_CrucibleOfStorms: enabled
 WeakAurasCompanion: enabled
 SharedMedia_Causese: enabled
 ElvUI: enabled
+BigWigs_EternalPalace: enabled

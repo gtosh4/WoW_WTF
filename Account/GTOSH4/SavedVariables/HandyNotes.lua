@@ -1,6 +1,7 @@
 
 HandyNotesDB = {
 	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
@@ -8,6 +9,8 @@ HandyNotesDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["profiles"] = {
+		["Toshpal - Kil'jaeden"] = {
+		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
@@ -24,6 +27,7 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
@@ -31,6 +35,8 @@ HandyNotes_HandyNotesDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
 	["profiles"] = {
+		["Toshpal - Kil'jaeden"] = {
+		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Koutetsu - Frostwolf"] = {

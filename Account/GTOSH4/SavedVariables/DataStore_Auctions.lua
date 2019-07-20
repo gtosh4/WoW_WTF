@@ -6,18 +6,18 @@ DataStore_AuctionsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1560385386,
-				["lastVisitDate"] = "2019/06/12 20:23",
+				["lastUpdate"] = 1563601053,
+				["lastVisitDate"] = "2019/07/20 01:37",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1554949726,

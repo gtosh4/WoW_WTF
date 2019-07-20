@@ -1,6 +1,7 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Daggny - Frostwolf"] = "Default",

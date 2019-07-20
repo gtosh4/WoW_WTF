@@ -6,12 +6,12 @@ DataStore_TalentsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -31,9 +31,9 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1562453614,
+				["lastUpdate"] = 1563601199,
 				["Specializations"] = {
-					14185, -- [1]
+					5993, -- [1]
 					7065, -- [2]
 					16025, -- [3]
 				},
@@ -71,7 +71,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1563159272,
+				["lastUpdate"] = 1563600036,
 				["Specializations"] = {
 					9566, -- [1]
 					[3] = 8151,
@@ -95,12 +95,12 @@ DataStore_TalentsRefDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["PALADIN"] = {

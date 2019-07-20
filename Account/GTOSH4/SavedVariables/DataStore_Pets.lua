@@ -6,12 +6,12 @@ DataStore_PetsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["Reference"] = {
@@ -156,7 +156,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1562453545,
+				["lastUpdate"] = 1563601199,
 				["CRITTER"] = {
 					69452, -- [1]
 					259758, -- [2]
@@ -219,7 +219,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1554958087,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1563159212,
+				["lastUpdate"] = 1563600036,
 				["CRITTER"] = {
 					301136, -- [1]
 					286483, -- [2]
