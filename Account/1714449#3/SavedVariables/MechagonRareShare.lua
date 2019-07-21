@@ -7,19 +7,19 @@ MRSConfig = {
 	["TomTom"] = {
 		["Rares"] = true,
 		["Master"] = true,
-		["Duplicates"] = true,
 		["Drills"] = true,
+		["Duplicates"] = true,
 	},
 	["Armories"] = false,
 	["OnDeath"] = true,
 	["Sound"] = {
 		["Rares"] = true,
 		["Master"] = true,
-		["Duplicates"] = true,
 		["Drills"] = true,
+		["Duplicates"] = true,
 	},
 	["CChannel"] = {
-		["CName"] = "nil",
 		["CID"] = 0,
+		["CName"] = "nil",
 	},
 }

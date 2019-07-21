@@ -6,6 +6,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: -554
+Y: 140
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 22
 Anchor: CENTER
@@ -48,6 +55,13 @@ X: -227
 Y: -241
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: CENTER
+X: 599
+Y: 56
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -69,24 +83,3 @@ X: -17
 Y: -304
 W: 56
 H: 42
-Frame: PLH_LootedItemsFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -652
-Y: 16
-W: 393
-H: 248
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: CENTER
-X: 599
-Y: 56
-W: 520
-H: 1
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: LEFT
-X: 570
-Y: -60
-W: 267
-H: 284

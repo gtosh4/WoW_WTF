@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 165500,
@@ -9,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 433,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1570:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 435,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1572:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 165922,
@@ -49,16 +52,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165503::::::::120:256::6:3:4800:1537:4786:::|h[Manceroy's Flamefists]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 158318,
-			["Level"] = 415,
+			["ID"] = 159461,
+			["Level"] = 450,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:158318:5943:::::::120:256::35:3:5010:1587:4784:::|h[Murky Cerulean Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159461::::::::120:256::35:4:5007:1602:5865:4784:::|h[Band of the Ancient Dredger]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158314,
-			["Level"] = 410,
+			["ID"] = 158318,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158314:5943:::::::120:256::35:3:5010:1582:4783:::|h[Seal of Questionable Loyalties]|h|r",
+			["Link"] = "|cffa335ee|Hitem:158318:5943:::::::120:256::35:3:5010:1587:4784:::|h[Murky Cerulean Signet]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 159620,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168477::::::::120:256::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

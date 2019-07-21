@@ -24,9 +24,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165532::::::::120:264::6:5:4824:1537:4786:5419:4775:::|h[Gonk's Scale Robes]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 165538,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165538::::::::120:264::6:4:4800:41:1537:4786:::|h[Goldenscale Girdle]|h|r",
+			["ID"] = 159361,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:159361::::::::120:264::35:4:5010:41:1612:4783:::|h[Shalebiter Interlinked Chain]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 168974,

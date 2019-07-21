@@ -26,16 +26,17 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1562636927,
+				["lastUpdate"] = 1563679339,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1562529987,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1563601373,
 				["DungeonIDs"] = {
-					["The Eternal Palace Heroic|373837378"] = "292799|1563601200|0|1",
+					["The Eternal Palace Heroic|373837378"] = "205644|1563688354|0|1",
+					["The Eternal Palace Normal|373919200"] = "205644|1563688354|0|1",
 				},
+				["lastUpdate"] = 1563690062,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -59,10 +60,11 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["The Eternal Palace Mythic|373816221"] = "293962|1563600037|0|1",
-					["The Eternal Palace Heroic|373837378"] = "293962|1563600037|0|1",
+					["Battle of Dazar'alor Mythic|373330543"] = "203910|1563690088|0|1",
+					["The Eternal Palace Heroic|373837378"] = "203910|1563690088|0|1",
+					["The Eternal Palace Mythic|373816221"] = "203910|1563690088|0|1",
 				},
-				["lastUpdate"] = 1563600036,
+				["lastUpdate"] = 1563690176,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

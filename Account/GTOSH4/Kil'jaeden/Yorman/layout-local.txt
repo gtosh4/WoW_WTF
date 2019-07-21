@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -13,6 +6,13 @@ X: -188
 Y: 280
 W: 108
 H: 62
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: LEFT
@@ -55,6 +55,20 @@ X: -20
 Y: 0
 W: 750
 H: 480
+Frame: BDLC
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 600
+H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: CENTER
+X: 600
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -69,13 +83,6 @@ X: -506
 Y: 202
 W: 800
 H: 525
-Frame: PLH_LootedItemsFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -502
-Y: -224
-W: 509
-H: 144
 Frame: SimcCopyFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -86,21 +93,7 @@ H: 450
 Frame: SavedInstancesDetachHeader
 FrameLevel: 100
 Anchor: TOP
-X: 522
-Y: -239
-W: 574
-H: 367
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: CENTER
-X: 600
-Y: 0
-W: 520
-H: 1
-Frame: BDLC
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 600
-H: 400
+X: 530
+Y: -241
+W: 576
+H: 412

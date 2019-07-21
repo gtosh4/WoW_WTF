@@ -1,7 +1,7 @@
 
 MRSLastAnnounce = {
-	["ID"] = 151627,
-	["Time"] = 1563143105,
+	["ID"] = 151933,
+	["Time"] = 1563657348,
 }
 MRSConfig = {
 	["TomTom"] = {

@@ -1,7 +1,7 @@
 
 NRSLastAnnounce = {
-	["ID"] = 152794,
-	["Time"] = 1563595063,
+	["ID"] = 152548,
+	["Time"] = 1563655877,
 	["Name"] = "Sandclaw Stoneshell",
 }
 NRSConfig = {

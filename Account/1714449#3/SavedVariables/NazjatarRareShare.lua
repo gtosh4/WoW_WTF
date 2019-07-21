@@ -8,13 +8,13 @@ NRSConfig = {
 	["Sound"] = {
 		["Rares"] = true,
 		["Master"] = true,
-		["Drills"] = true,
 		["Duplicates"] = true,
+		["Drills"] = true,
 	},
 	["TomTom"] = {
 		["Rares"] = true,
 		["Master"] = true,
-		["Drills"] = true,
 		["Duplicates"] = true,
+		["Drills"] = true,
 	},
 }

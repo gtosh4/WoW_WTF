@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 165548,
@@ -9,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 425,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1562:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 433,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1570:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 157900,
@@ -20,28 +23,28 @@ PawnOptions = {
 		nil, -- [4]
 		{
 			["ID"] = 165550,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165550::::::::120:65::6:4:4824:1537:4786:5419:::|h[Breastplate of Divine Purification]|h|r",
+			["Level"] = 420,
+			["Link"] = "|cffa335ee|Hitem:165550::::::::120:65::6:5:4824:1537:4786:5419:4775:::|h[Breastplate of Divine Purification]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 165552,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165552::::::::120:65::6:3:4800:1542:4783:::|h[Embersear Waistguard]|h|r",
+			["ID"] = 168388,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168388::::::::120:65::5:4:4799:42:1502:4786:::|h[Storm-Tempered Girdle]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 168389,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168389::::::::120:65::5:3:4799:1502:4786:::|h[Fleetwrecker's Greaves]|h|r",
+			["ID"] = 158361,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:158361::::::::120:65::16:5:5010:41:1602:5850:4783:::|h[Sharkwater Waders]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 165561,
-			["Level"] = 405,
-			["Link"] = "|cffa335ee|Hitem:165561::::::::120:65::5:3:4799:1527:4783:::|h[Coinage Stampers]|h|r",
+			["ID"] = 170143,
+			["Level"] = 410,
+			["Link"] = "|cffa335ee|Hitem:170143::::::::120:65:::5:6300:4802:6291:1497:4786:::|h[Akana's Reefstrider Boots]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 159433,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:159433::153709::::::120:65::35:5:5010:4802:42:1582:4783:::|h[Phosphorescent Armplates]|h|r",
+			["ID"] = 168881,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168881::::::::120:65::5:4:4799:1502:5850:4783:::|h[Naga Executor's Armguards]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 165549,
@@ -49,16 +52,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165549::::::::120:65::6:4:4800:40:1537:4786:::|h[Crusade Pummelers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 165565,
-			["Level"] = 415,
+			["ID"] = 159461,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:165565:5943:::::::120:65::6:4:4800:40:1537:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159461:6109:::::::120:65::16:3:5010:1602:4786:::|h[Band of the Ancient Dredger]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 159460,
-			["Level"] = 400,
+			["ID"] = 158314,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:159460:5942:154127::::::120:65::16:4:5010:4802:1572:4786:::|h[Overseer's Lost Seal]|h|r",
+			["Link"] = "|cffa335ee|Hitem:158314:6109:::::::120:65::16:3:5010:1602:4786:::|h[Seal of Questionable Loyalties]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 169312,
@@ -73,15 +76,15 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169312::168638::::::120:65::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 165513,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165513::::::::120:65::6:4:4800:41:1537:4786:::|h[Silverback Cloak]|h|r",
+			["ID"] = 168604,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168604::::::::120:65::5:4:4799:1502:5850:4783:::|h[Drape of the Hatcher]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 165592,
-			["Level"] = 405,
+			["ID"] = 168903,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:165592::::::::120:65::5:3:4799:1527:4783:::|h[Goblet of Glittering Favor]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168903::::::::120:65::3:3:4798:1487:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 165584,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

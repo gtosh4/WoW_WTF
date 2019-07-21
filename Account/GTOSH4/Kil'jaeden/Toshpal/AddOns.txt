@@ -20,3 +20,5 @@ WeakAurasCompanion: enabled
 SharedMedia_Causese: enabled
 ElvUI: enabled
 BigWigs_EternalPalace: enabled
+BigWigs_Azeroth: enabled
+PersonalLootHelper: disabled

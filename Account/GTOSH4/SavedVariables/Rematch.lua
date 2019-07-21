@@ -29,7 +29,7 @@ RematchSettings = {
 	["DialogYPos"] = 723.5220947265625,
 	["AllowHiddenPetsDefaulted"] = true,
 	["HidePetToast"] = true,
-	["FavoriteFilters"] = {
+	["QueueSanctuary"] = {
 	},
 	["Sort"] = {
 		["Order"] = 2,
@@ -74,7 +74,7 @@ RematchSettings = {
 	},
 	["SelectedTab"] = 1,
 	["YPos"] = 422.5283813476563,
-	["QueueSanctuary"] = {
+	["LevelingQueue"] = {
 	},
 	["CollapsedOptHeaders"] = {
 	},
@@ -86,7 +86,7 @@ RematchSettings = {
 	},
 	["ElvUIToastDefaulted"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
-	["LevelingQueue"] = {
+	["FavoriteFilters"] = {
 	},
 	["DialogXPos"] = 1732.83056640625,
 	["UseTypeBar"] = false,

@@ -21,3 +21,4 @@ AAP-TBC-WotLK: enabled
 WeakAurasCompanion: enabled
 SharedMedia_Causese: enabled
 ElvUI: enabled
+PersonalLootHelper: disabled
