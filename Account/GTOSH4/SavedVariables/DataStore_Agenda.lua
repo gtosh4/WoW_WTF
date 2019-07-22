@@ -6,12 +6,12 @@ DataStore_AgendaDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -33,22 +33,14 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["The Eternal Palace Heroic|373837378"] = "205644|1563688354|0|1",
-					["The Eternal Palace Normal|373919200"] = "205644|1563688354|0|1",
+					["Operation: Mechagon Mythic|373983165"] = "123375|1563770622|0|0",
+					["The Eternal Palace Heroic|373837378"] = "123375|1563770622|0|1",
+					["The Eternal Palace Normal|373919200"] = "123375|1563770622|0|1",
 				},
-				["lastUpdate"] = 1563690062,
+				["lastUpdate"] = 1563774022,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1562530200,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1562529857,
-			},
-			["Default.The Forgotten Coast.Toshtrial"] = {
-				["lastUpdate"] = 1554958119,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -60,11 +52,20 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|373330543"] = "203910|1563690088|0|1",
-					["The Eternal Palace Heroic|373837378"] = "203910|1563690088|0|1",
-					["The Eternal Palace Mythic|373816221"] = "203910|1563690088|0|1",
+					["Battle of Dazar'alor Mythic|373330543"] = "125509|1563768489|0|1",
+					["The Eternal Palace Heroic|373837378"] = "125509|1563768489|0|1",
+					["The Eternal Palace Mythic|373816221"] = "125509|1563768489|0|1",
 				},
-				["lastUpdate"] = 1563690176,
+				["lastUpdate"] = 1563768519,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1562529857,
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958119,
+			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1562530200,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

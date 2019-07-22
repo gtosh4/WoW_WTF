@@ -1,19 +1,5 @@
 
 BigWigs3DB = {
-	["global"] = {
-		["watchedMovies"] = {
-			[-1358] = true,
-			[875] = true,
-			[-1345] = true,
-			[-367] = true,
-			[-1004] = true,
-			[876] = true,
-			[-557] = true,
-			[-1352] = {
-				[2] = true,
-			},
-		},
-	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -21,14 +7,28 @@ BigWigs3DB = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 	},
+	["global"] = {
+		["watchedMovies"] = {
+			[-1358] = true,
+			[875] = true,
+			[-1345] = true,
+			[-367] = true,
+			[-1004] = true,
+			[-557] = true,
+			[876] = true,
+			[-1352] = {
+				[2] = true,
+			},
+		},
+	},
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					["stages"] = 1032439,
-					[288449] = 2015479,
-					[285003] = 1032439,
 					[287333] = 1032439,
+					[288449] = 2015479,
+					["stages"] = 1032439,
+					[285003] = 1032439,
 				},
 			},
 		},
@@ -99,6 +99,13 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Tussle Tonks"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285388] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -161,12 +168,14 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Bosses_Radiance of Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					[296894] = 1032439,
 				},
 			},
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Bosses_Skycap'n Kragg"] = {
 			["profiles"] = {
@@ -184,7 +193,12 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Bosses_King Gobbamak"] = {
+			["profiles"] = {
+				["Default"] = {
+					[297254] = 1032439,
+				},
+			},
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -197,7 +211,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
+					["outline"] = "OUTLINE",
 					["fontSize"] = 14,
 					["visibleBarLimit"] = 20,
 					["BigWigsAnchor_width"] = 200.2515716552734,
@@ -211,16 +225,16 @@ BigWigs3DB = {
 					["BigWigsEmphasizeAnchor_width"] = 218.0000457763672,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.99998092651367,
-					["emphasizeTime"] = 10,
-					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
-					["outline"] = "OUTLINE",
 					["texture"] = "ElvUI Norm",
+					["BigWigsEmphasizeAnchor_x"] = 668.806006377272,
+					["BigWigsEmphasizeAnchor_y"] = 197.876851195739,
+					["emphasizeTime"] = 10,
 					["emphasizeMultiplier"] = 1,
 					["fontSizeEmph"] = 14,
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -229,9 +243,6 @@ BigWigs3DB = {
 						["BigWigs_Bosses_King Rastakhan"] = {
 							[285003] = "English: Overwatch: Zenyatta",
 							[287333] = "English: Overwatch: Reaper",
-						},
-						["BigWigs_Bosses_Skycap'n Kragg"] = {
-							[256106] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Adderis and Aspix"] = {
 							[263309] = "English: Overwatch: McCree",
@@ -242,9 +253,28 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Abyssal Commander Sivara"] = {
 							[296551] = "English: Overwatch: Reaper",
 						},
+						["BigWigs_Bosses_Lady Ashvane"] = {
+							[296662] = "English: Overwatch: Reaper",
+						},
 						["BigWigs_Bosses_High Tinker Mekkatorque"] = {
 							[282153] = "English: Overwatch: Torbjorn",
 							[282205] = "English: Overwatch: Ana",
+						},
+						["BigWigs_Bosses_Harlan Sweete"] = {
+							[257305] = "English: Overwatch: Reaper",
+						},
+						["BigWigs_Bosses_The Queen's Court"] = {
+							[301947] = "English: Overwatch: DVa",
+						},
+						["BigWigs_Bosses_The Restless Cabal"] = {
+							[282432] = "English: Overwatch: Ana",
+						},
+						["BigWigs_Bosses_King Gobbamak"] = {
+							[297254] = "English: Overwatch: Orisa",
+						},
+						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+							[288374] = "English: Overwatch: WreckingBall",
+							[288345] = "English: Overwatch: Zenyatta",
 						},
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
@@ -254,24 +284,14 @@ BigWigs3DB = {
 							[292963] = "English: Overwatch: Reaper",
 							[296018] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Lady Ashvane"] = {
-							[296662] = "English: Overwatch: Reaper",
-						},
 						["BigWigs_Bosses_Orgozoa"] = {
 							[298465] = "English: Overwatch: DVa",
 						},
-						["BigWigs_Bosses_The Restless Cabal"] = {
-							[282432] = "English: Overwatch: Ana",
+						["BigWigs_Bosses_Tussle Tonks"] = {
+							[285388] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Harlan Sweete"] = {
-							[257305] = "English: Overwatch: Reaper",
-						},
-						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-							[288374] = "English: Overwatch: WreckingBall",
-							[288345] = "English: Overwatch: Zenyatta",
-						},
-						["BigWigs_Bosses_The Queen's Court"] = {
-							[301947] = "English: Overwatch: DVa",
+						["BigWigs_Bosses_Skycap'n Kragg"] = {
+							[256106] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Radiance of Azshara"] = {
 							[296894] = "English: Overwatch: DVa",
@@ -288,11 +308,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Queen Azshara"] = {
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
 			["profiles"] = {
 				["Default"] = {
-					[300519] = 1032439,
-					[301078] = 1032439,
+					[288345] = 1000183,
+					[288374] = 999671,
 				},
 			},
 		},
@@ -303,11 +323,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+		["BigWigs_Bosses_Queen Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
-					[288345] = 1000183,
-					[288374] = 999671,
+					[300519] = 1032439,
+					[301078] = 1032439,
 				},
 			},
 		},
@@ -321,14 +341,14 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Radiance of Azshara"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[296894] = 1032439,
+					[286988] = 1032951,
 				},
 			},
 		},
@@ -436,15 +456,15 @@ BigWigsStatsDB = {
 				["wipes"] = 4,
 				["best"] = 608.823999999993,
 			},
-			["mythic"] = {
-				["kills"] = 7,
-				["wipes"] = 552,
-				["best"] = 367.4920000000275,
-			},
 			["heroic"] = {
 				["kills"] = 9,
 				["wipes"] = 41,
 				["best"] = 449.687000000035,
+			},
+			["mythic"] = {
+				["kills"] = 7,
+				["wipes"] = 552,
+				["best"] = 367.4920000000275,
 			},
 		},
 		[2337] = {
@@ -603,14 +623,16 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2354] = {
+		[2361] = {
 			["normal"] = {
-				["best"] = 202.4150000000373,
 				["kills"] = 2,
+				["wipes"] = 8,
+				["best"] = 385.6120000000228,
 			},
 			["heroic"] = {
-				["best"] = 244.5190000000293,
 				["kills"] = 2,
+				["wipes"] = 27,
+				["best"] = 433.9519999999902,
 			},
 		},
 		[2351] = {
@@ -628,14 +650,14 @@ BigWigsStatsDB = {
 				["best"] = 177.9900000000489,
 				["kills"] = 2,
 			},
+			["normal"] = {
+				["best"] = 144.8159999999916,
+				["kills"] = 2,
+			},
 			["mythic"] = {
 				["kills"] = 1,
 				["wipes"] = 9,
 				["best"] = 365.6290000000154,
-			},
-			["normal"] = {
-				["best"] = 144.8159999999916,
-				["kills"] = 2,
 			},
 		},
 		[2353] = {
@@ -648,16 +670,14 @@ BigWigsStatsDB = {
 				["kills"] = 2,
 			},
 		},
-		[2361] = {
+		[2347] = {
 			["normal"] = {
+				["best"] = 192.179999999993,
 				["kills"] = 2,
-				["wipes"] = 8,
-				["best"] = 385.6120000000228,
 			},
 			["heroic"] = {
+				["best"] = 223.7519999999786,
 				["kills"] = 2,
-				["wipes"] = 27,
-				["best"] = 433.9519999999902,
 			},
 		},
 		[2359] = {
@@ -683,13 +703,13 @@ BigWigsStatsDB = {
 				["best"] = 293.2689999999711,
 			},
 		},
-		[2347] = {
+		[2354] = {
 			["normal"] = {
-				["best"] = 192.179999999993,
+				["best"] = 202.4150000000373,
 				["kills"] = 2,
 			},
 			["heroic"] = {
-				["best"] = 223.7519999999786,
+				["best"] = 244.5190000000293,
 				["kills"] = 2,
 			},
 		},
