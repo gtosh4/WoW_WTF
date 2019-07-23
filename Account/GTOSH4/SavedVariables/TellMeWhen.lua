@@ -6,12 +6,12 @@ TellMeWhenDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["global"] = {
 		["TextLayouts"] = {
@@ -24,8 +24,8 @@ TellMeWhenDB = {
 			["TMW:textlayout:1Ss4xdhJbKiz"] = {
 				{
 					["Name"] = "Expressway",
-					["ConstrainWidth"] = false,
 					["StringName"] = "Number",
+					["ConstrainWidth"] = false,
 					["Size"] = 24,
 				}, -- [1]
 				["GUID"] = "TMW:textlayout:1Ss4xdhJbKiz",
@@ -39,7 +39,7 @@ TellMeWhenDB = {
 			},
 			["TMW:textlayout:1SK83QGCIAmV"] = {
 				{
-					["SkinAs"] = "HotKey",
+					["Justify"] = "LEFT",
 					["Anchors"] = {
 						{
 							["y"] = 2,
@@ -48,30 +48,31 @@ TellMeWhenDB = {
 							["relativePoint"] = "TOPLEFT",
 						}, -- [1]
 					},
+					["JustifyV"] = "TOP",
+					["SkinAs"] = "HotKey",
 					["Name"] = "Expressway",
 					["StringName"] = "Binding/Label",
+					["DefaultText"] = "[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"\"\nend]",
 				}, -- [1]
 				{
-					["Outline"] = "OUTLINE",
+					["DefaultText"] = "[Stacks:Hide(0, 1)]",
 					["SkinAs"] = "Count",
-					["Anchors"] = {
-						{
-							["point"] = "BOTTOMRIGHT",
-							["relativePoint"] = "BOTTOMRIGHT",
-						}, -- [1]
-					},
 					["Name"] = "Expressway",
 					["StringName"] = "Stacks",
+					["Outline"] = "OUTLINE",
+					["Size"] = 18,
 				}, -- [2]
 				{
-					["DefaultText"] = "[\"%d\":Format(Duration(gcd=false)):Hide(\"0\"):Color(0.56, 0.88, 1)]",
+					["Outline"] = "OUTLINE",
+					["Justify"] = "RIGHT",
 					["Anchors"] = {
 						{
 							["point"] = "BOTTOMRIGHT",
 							["relativePoint"] = "BOTTOMRIGHT",
 						}, -- [1]
 					},
-					["Outline"] = "OUTLINE",
+					["JustifyV"] = "BOTTOM",
+					["DefaultText"] = "[Duration(gcd=false):Hide(0):Floor:Color(0.56, 0.82, 1)]",
 					["Name"] = "Expressway",
 					["StringName"] = "CD",
 				}, -- [3]
@@ -79,6 +80,67 @@ TellMeWhenDB = {
 				["Name"] = "Icon Layout 2",
 				["n"] = 3,
 			},
+		},
+		["AuraCache"] = {
+			[294966] = 2,
+			[285721] = 2,
+			[2823] = 2,
+			[248473] = 2,
+			[269279] = 2,
+			[251836] = 2,
+			[227723] = 2,
+			[2383] = 2,
+			[2580] = 2,
+			[295842] = 2,
+			[8679] = 2,
+			[40120] = 2,
+			[210320] = 2,
+			[245686] = 2,
+			[298703] = 2,
+			[299664] = 2,
+			[297034] = 2,
+			[3408] = 2,
+			[268905] = 2,
+			[165961] = 2,
+			[251838] = 2,
+			[290121] = 2,
+			[108366] = 2,
+			[289277] = 2,
+			[72968] = 2,
+			[243138] = 2,
+			[285979] = 2,
+			[201223] = 2,
+			[224001] = 2,
+			[281240] = 2,
+			[203975] = 2,
+			[257408] = 2,
+			[263648] = 2,
+			[6673] = 2,
+			[156064] = 2,
+			[292361] = 2,
+			[297039] = 2,
+			[288024] = 2,
+			[256455] = 2,
+			[8221] = 2,
+			[24858] = 2,
+			[298700] = 2,
+			[298836] = 2,
+			[297941] = 2,
+			[167898] = 2,
+			[272276] = 2,
+			[298837] = 2,
+			[164547] = 2,
+			[267558] = 2,
+			[270661] = 2,
+			[304056] = 2,
+			[298512] = 2,
+			[300971] = 2,
+			[232698] = 2,
+			[285976] = 2,
+			[43308] = 2,
+			[57724] = 2,
+			[21562] = 2,
+			[285978] = 2,
 		},
 		["ReceiveComm"] = false,
 		["HelpSettings"] = {
@@ -92,6 +154,11 @@ TellMeWhenDB = {
 	["Version"] = 86501,
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["Version"] = 86501,
+			["NumGroups"] = 5,
+			["TextureName"] = "ElvUI Norm",
+			["ForceNoBlizzCC"] = true,
+			["Locked"] = true,
 			["Groups"] = {
 				{
 					["Strata"] = "LOW",
@@ -112,46 +179,63 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[262] = false,
 						[263] = false,
+						[262] = false,
 					},
-					["Columns"] = 7,
+					["Columns"] = 8,
 					["Icons"] = {
 						{
-							["Type"] = "meta",
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
 							["Icons"] = {
-								"TMW:icon:1TC=KRnkEdqw", -- [1]
-								"TMW:icon:1TC=KRniV3CO", -- [2]
-								"TMW:icon:1TC=KRnglOKY", -- [3]
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
 							},
+							["Name"] = "Holy Shock",
 							["Enabled"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Sound",
+									["OnlyShown"] = true,
+									["Sound"] = "Sonar",
+									["Event"] = "OnCondition",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Name"] = "Holy Shock",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"E\"\nend]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["GUID"] = "TMW:icon:1TC=KRnbXlCG",
 						}, -- [1]
-						{
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1TC=KRnZoGqF", -- [1]
-								"TMW:icon:1TC=KRnbXlCG", -- [2]
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
@@ -178,7 +262,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"SE", -- [1]
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"SE\"\nend]", -- [1]
 									},
 								},
 							},
@@ -194,6 +278,49 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["StackMinEnabled"] = true,
+							["Type"] = "cooldown",
+							["StackMin"] = 2,
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["GUID"] = "TMW:icon:1TC=KRnkEdqw",
+							["Name"] = "Crusader Strike",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"T\"\nend]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[101] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["StackMax"] = 1,
 						}, -- [3]
 						{
 							["ShowTimer"] = true,
@@ -210,14 +337,18 @@ TellMeWhenDB = {
 									["Name"] = "Avenging Crusader",
 									["AndOr"] = "OR",
 								}, -- [2]
-								["n"] = 2,
+								{
+									["Type"] = "PVPFLAG",
+									["AndOr"] = "OR",
+								}, -- [3]
+								["n"] = 3,
 							},
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"ST", -- [1]
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"ST\"\nend]", -- [1]
 									},
 								},
 							},
@@ -252,7 +383,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"2", -- [1]
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"2\"\nend]", -- [1]
 									},
 								},
 							},
@@ -271,21 +402,14 @@ TellMeWhenDB = {
 						}, -- [5]
 						{
 							["ShowTimer"] = true,
-							["Type"] = "item",
-							["Name"] = "13",
-							["Conditions"] = {
-								{
-									["Type"] = "ITEMSPELL",
-									["Name"] = "13",
-								}, -- [1]
-								["n"] = 1,
-							},
+							["Type"] = "cooldown",
+							["Name"] = "Bestow Faith",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"4", -- [1]
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"2\"\nend]", -- [1]
 									},
 								},
 							},
@@ -302,6 +426,39 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [6]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "13",
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMSPELL",
+									["Name"] = "13",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"[if Duration(gcd=false) > 0 then\n    \"\"\nelse\n    \"4\"\nend]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
@@ -330,17 +487,6 @@ TellMeWhenDB = {
 									["Color"] = "ffffffffd",
 									["Alpha"] = 1,
 								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
 								{
 								}, -- [3]
 								{
@@ -797,94 +943,11 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[263] = false,
 						[262] = false,
+						[263] = false,
 					},
 					["Icons"] = {
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["Name"] = "Holy Shock",
-							["Enabled"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"", -- [1]
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1TC=KRnZoGqF",
-						}, -- [1]
-						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["Name"] = "Holy Shock",
-							["Enabled"] = true,
-							["Events"] = {
-								{
-									["Type"] = "Sound",
-									["OnlyShown"] = true,
-									["Sound"] = "Sonar",
-									["Event"] = "OnShow",
-								}, -- [1]
-								{
-									["Type"] = "Sound",
-									["OnlyShown"] = true,
-									["Sound"] = "Sonar",
-									["Event"] = "OnCondition",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "BUFFDUR",
-											["Operator"] = ">",
-											["Name"] = "Divine Purpose",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [2]
-								["n"] = 2,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"E", -- [1]
-										[3] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -894,8 +957,17 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1TC=KRnbXlCG",
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 						}, -- [2]
 						{
 							["States"] = {
@@ -920,109 +992,6 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["Name"] = "Crusader Strike",
-							["Enabled"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"", -- [1]
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Color"] = "ffffffffd",
-								}, -- [1]
-								{
-									["Color"] = "ff808080d",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1TC=KRnglOKY",
-						}, -- [5]
-						{
-							["ShowTimer"] = true,
-							["StackMinEnabled"] = true,
-							["Type"] = "cooldown",
-							["StackMin"] = 1,
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["StackMax"] = 1,
-							["GUID"] = "TMW:icon:1TC=KRniV3CO",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Color"] = "ff808080",
-								}, -- [1]
-								{
-									["Color"] = "ff808080",
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["FakeHidden"] = true,
-							["Name"] = "Crusader Strike",
-							["Enabled"] = true,
-							["StackMaxEnabled"] = true,
-						}, -- [6]
-						{
-							["ShowTimer"] = true,
-							["StackMinEnabled"] = true,
-							["Type"] = "cooldown",
-							["StackMin"] = 2,
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["GUID"] = "TMW:icon:1TC=KRnkEdqw",
-							["Name"] = "Crusader Strike",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"T", -- [1]
-										[3] = "",
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -1032,8 +1001,28 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
-							["Enabled"] = true,
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 						}, -- [7]
 						{
 							["States"] = {
@@ -1637,10 +1626,10 @@ TellMeWhenDB = {
 				{
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
-						["x"] = 10,
+						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
 					},
 					["Scale"] = 1,
 					["Locked"] = true,
@@ -1652,8 +1641,8 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[262] = false,
 						[263] = false,
+						[262] = false,
 					},
 					["Icons"] = {
 						{
@@ -1665,7 +1654,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"S1", -- [1]
+										"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S1\"\nend]", -- [1]
 									},
 								},
 							},
@@ -2402,10 +2391,10 @@ TellMeWhenDB = {
 				{
 					["Strata"] = "LOW",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
-						["x"] = 10,
+						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
 					},
 					["Scale"] = 1,
 					["Locked"] = true,
@@ -2417,8 +2406,8 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[263] = false,
 						[262] = false,
+						[263] = false,
 					},
 					["Columns"] = 7,
 					["Icons"] = {
@@ -2457,7 +2446,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"SF", -- [1]
+										"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SF\"\nend]", -- [1]
 									},
 								},
 							},
@@ -2483,7 +2472,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 									["Texts"] = {
-										"CF", -- [1]
+										"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"CF\"\nend]", -- [1]
 									},
 								},
 							},
@@ -3357,15 +3346,15 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[263] = false,
 						[262] = false,
+						[263] = false,
 					},
-					["Columns"] = 7,
+					["Columns"] = 9,
 					["Icons"] = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Avenging Wrath",
+							["Name"] = "31884",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -3452,10 +3441,26 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Gladiator's Medallion",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
+									["Alpha"] = 0,
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
@@ -3463,10 +3468,23 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Hammer of Justice",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
 							["States"] = {
 								{
+									["Alpha"] = 0,
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
@@ -4496,11 +4514,6 @@ TellMeWhenDB = {
 					},
 				}, -- [7]
 			},
-			["NumGroups"] = 5,
-			["TextureName"] = "ElvUI Norm",
-			["ForceNoBlizzCC"] = true,
-			["Locked"] = true,
-			["Version"] = 86501,
 			["SoundChannel"] = "Master",
 		},
 		["Toshtrial - Blood Furnace"] = {
@@ -4674,32 +4687,13 @@ TellMeWhenDB = {
 				}, -- [1]
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
-			["Version"] = 86006,
+		["Koutetsu - Frostwolf"] = {
+			["Locked"] = true,
+			["Version"] = 86301,
 			["Groups"] = {
 				{
-					["GUID"] = "TMW:group:1RdxyvcF5MR3",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 1,
-						["relativeTo"] = "Quartz3CastBarPlayer",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
 					["Icons"] = {
 						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1Rf6gXciptdm", -- [1]
-								"TMW:icon:1Rf6gTWgLyL=", -- [2]
-								"TMW:icon:1Rf6gVPFXV=B", -- [3]
-								"TMW:icon:1Rf6gRLbprDw", -- [4]
-								"TMW:icon:1RfgeMLHYXwV", -- [5]
-								"TMW:icon:1Rf6gZfqyvGa", -- [6]
-								"TMW:icon:1Rf6enWy03NI", -- [7]
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -4711,38 +4705,10 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
-							["Enabled"] = true,
-							["CLEUEvents"] = {
-								["SPELL_CAST_SUCCESS"] = true,
-							},
-							["Events"] = {
-								{
-									["Infinite"] = true,
-									["Type"] = "Animations",
-									["Period"] = 0,
-									["Animation"] = "ICONFLASH",
-									["AnimColor"] = "40ff0000",
-									["Duration"] = 0.6,
-									["Event"] = "OnEventsRestored",
-									["Fade"] = false,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CLEUDur"] = 15,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cleu",
-							["SourceUnit"] = "player",
 							["States"] = {
 								{
-									["Alpha"] = 0.5,
 								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
@@ -4750,42 +4716,6 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
-							["ManaCheck"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Rushing Jade Wind",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"5", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rushing Jade Wind",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Name"] = "Rushing Jade Wind",
-											["Type"] = "BUFFDUR",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -4807,10513 +4737,10 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
 					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Enabled"] = false,
-					["Locked"] = true,
-					["Name"] = "WW Info",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Level"] = 11,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[270] = false,
-						[66] = false,
-						[268] = false,
-					},
-					["Columns"] = 6,
+					["GUID"] = "TMW:group:1T8b25XWdVaH",
 				}, -- [1]
-				{
-					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["Icons"] = {
-						{
-							["StackMin"] = 1,
-							["Type"] = "reactive",
-							["FakeHidden"] = true,
-							["Name"] = "Whirling Dragon Punch",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"SQ", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Whirling Dragon Punch",
-									["Type"] = "SPELLCD",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1Rf6gXciptdm",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-									["Alpha"] = 0,
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:icon:1Rf6gVPFXV=B",
-							["Type"] = "cooldown",
-							["Name"] = "Fists of Fury",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"SE", -- [1]
-									},
-								},
-							},
-							["ManaCheck"] = true,
-							["Enabled"] = true,
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-									["Alpha"] = 0,
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:icon:1Rf6gTWgLyL=",
-							["Type"] = "cooldown",
-							["Name"] = "Rising Sun Kick",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"1", -- [1]
-									},
-								},
-							},
-							["ManaCheck"] = true,
-							["Enabled"] = true,
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-									["Alpha"] = 0,
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["GUID"] = "TMW:icon:1Rf6gRLbprDw",
-							["Type"] = "cooldown",
-							["Name"] = "Chi Burst",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"G", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "CHI",
-									["Level"] = 6,
-									["Operator"] = "<",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["GUID"] = "TMW:icon:1Rf6gZfqyvGa",
-							["Type"] = "cooldown",
-							["FakeHidden"] = true,
-							["Name"] = "Blackout Kick",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"Q", -- [1]
-									},
-								},
-							},
-							["ManaCheck"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LASTCAST",
-									["Name"] = "Blackout Kick",
-									["Level"] = 1,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-									["Alpha"] = 0,
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:icon:1Rf6enWy03NI",
-							["Type"] = "cooldown",
-							["Name"] = "Tiger Palm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"E", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "LASTCAST",
-									["Name"] = "Tiger Palm",
-									["Level"] = 1,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:icon:1RfgeMLHYXwV",
-							["Type"] = "cooldown",
-							["Name"] = "Fist of the White Tiger",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Fist of the White Tiger",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["GUID"] = "TMW:icon:1RfgeMLIuZz5",
-							["Type"] = "cooldown",
-							["Name"] = "Tiger Palm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"E", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "CHI",
-									["Level"] = 3,
-									["Operator"] = "<",
-								}, -- [1]
-								{
-									["Type"] = "ENERGY",
-									["Level"] = 80,
-									["Operator"] = ">=",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 3,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[270] = false,
-						[66] = false,
-						[268] = false,
-					},
-					["Name"] = "WW Meta",
-				}, -- [2]
-				{
-					["GUID"] = "TMW:group:1Rdy4shSvHOv",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 80,
-						["relativeTo"] = "Hekili_Primary_B1",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"S1", -- [1]
-										"[Stacks:Hide(0)]", -- [2]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Touch of Death",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"S2", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Storm, Earth, and Fire",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"SV", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Touch of Karma",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Energizing Elixir",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"S3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Energizing Elixir",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Invoke Xuen, the White Tiger",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"S3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Invoke Xuen, the White Tiger",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "WW CDs",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 5,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[270] = false,
-						[66] = false,
-						[268] = false,
-					},
-					["Locked"] = true,
-				}, -- [3]
-				{
-					["GUID"] = "TMW:group:1Re9GhuLUhA_",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 10,
-						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Arcane Torrent",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "MANA",
-											["Level"] = 96,
-											["Operator"] = "<=",
-										}, -- [1]
-										{
-											["Name"] = "Arcane Torrent",
-											["Type"] = "SPELLCD",
-										}, -- [2]
-										["n"] = 2,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-								[102] = {
-									["Alpha"] = 0.5,
-								},
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Spear Hand Strike",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Roll",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"Z", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Leg Sweep",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Paralysis",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Transcendence: Transfer",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "WW Util",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 6,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[270] = false,
-						[66] = false,
-						[268] = false,
-					},
-					["Locked"] = true,
-				}, -- [4]
-				{
-					["GUID"] = "TMW:group:1ReGzyv8L=59",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 4,
-						["relativeTo"] = "Hekili_Primary_B1",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "buff",
-							["Name"] = "Blackout Kick",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Control the Mists",
-							["BuffOrDebuff"] = "HARMFUL",
-							["Conditions"] = {
-								{
-									["Name"] = "Control the Mists",
-									["Type"] = "PVPTALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "buff",
-							["States"] = {
-								{
-									["Alpha"] = 0.5,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Gladiator's Medallion",
-							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.6,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "WW Procs/Trinkets",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-							["SpacingY"] = -2,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[270] = false,
-						[66] = false,
-						[268] = false,
-					},
-					["Locked"] = true,
-				}, -- [5]
-				{
-					["GUID"] = "TMW:group:1ReJ4bUVz6P1",
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Keg Smash",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"Q", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1RgwERJ7WbaF",
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Breath of Fire",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"SQ", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1RgwEMe0BgUi",
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:icon:1RgwEA2CyiPm",
-							["Type"] = "cooldown",
-							["Name"] = "Rushing Jade Wind",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Rushing Jade Wind",
-									["Type"] = "BUFFDUR",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["GUID"] = "TMW:icon:1RgwEA2IbKNs",
-							["Type"] = "cooldown",
-							["Name"] = "Chi Burst",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"2", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Chi Burst",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Blackout Strike",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"SE", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1RgwEOS4O9PB",
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:icon:1RgwJFUJXSMN",
-							["Type"] = "cooldown",
-							["Name"] = "Tiger Palm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"E", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "BUFFDUR",
-									["Name"] = "Blackout Combo",
-									["Operator"] = ">",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:icon:1RgwEA2knDC5",
-							["Type"] = "cooldown",
-							["Name"] = "Tiger Palm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"E", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "ENERGY_ABS",
-									["Level"] = 55,
-									["Operator"] = ">",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Rushing Jade Wind",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1RgwEA2thQNX",
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 3,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[65] = false,
-						[270] = false,
-						[269] = false,
-					},
-					["Name"] = "BrM Meta",
-				}, -- [6]
-				{
-					["GUID"] = "TMW:group:1ReJ4BggC4Pv",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 25,
-						["relativeTo"] = "ElvUF_Raid",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1RgwERJ7WbaF", -- [1]
-								"TMW:icon:1RgwEMe0BgUi", -- [2]
-								"TMW:icon:1RgwEA2CyiPm", -- [3]
-								"TMW:icon:1RgwEA2IbKNs", -- [4]
-								"TMW:icon:1RgwEOS4O9PB", -- [5]
-								"TMW:icon:1RgwJFUJXSMN", -- [6]
-								"TMW:icon:1RgwEA2knDC5", -- [7]
-								"TMW:icon:1RgwEA2thQNX", -- [8]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Ironskin Brew",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										[2] = "[Stacks]",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										{
-											["Name"] = "Ironskin Brew",
-											["Type"] = "BUFFDUR",
-										}, -- [2]
-										["n"] = 2,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Icons"] = {
-								"TMW:icon:1RgwEIoFTn0H", -- [1]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "BrM Info",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 6,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[65] = false,
-						[270] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [7]
-				{
-					["GUID"] = "TMW:group:1ReJ4hHBr0=Z",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 9.9998779296875,
-						["relativeTo"] = "TMW:group:1ReJ4BggC4Pv",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"S1", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Fortifying Brew",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"S2", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Zen Meditation",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Expel Harm",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"S3", -- [1]
-										"[Stacks:Hide(0, 1)]", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "BrM CDs",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 6,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[65] = false,
-						[270] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [8]
-				{
-					["GUID"] = "TMW:group:1ReJ4q5Ns1t4",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 10.000244140625,
-						["relativeTo"] = "TMW:group:1ReJ4hHBr0=Z",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Arcane Torrent",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Leg Sweep",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"C3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Paralysis",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Detox",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Transcendence: Transfer",
-							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Provoke",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Ring of Peace",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"3", -- [1]
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Name"] = "Ring of Peace",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "BrM Util",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 8,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[65] = false,
-						[270] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [9]
-				{
-					["GUID"] = "TMW:group:1ReJ4xijvGUU",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 0.999969482421875,
-						["relativeTo"] = "TMW:group:1ReJ4BggC4Pv",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "BrM Procs/Trinkets",
-					["ShrinkGroup"] = true,
-					["Columns"] = 5,
-					["EnabledSpecs"] = {
-						[70] = false,
-						[65] = false,
-						[270] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [10]
-				{
-					["GUID"] = "TMW:group:1RhL2wHccDIk",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 1,
-						["relativeTo"] = "Quartz3CastBarPlayer",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"1", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Renewing Mist",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["AnimColor"] = "ccffffff",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "SPELLCHARGES",
-											["Name"] = "Renewing Mist",
-											["Level"] = 2,
-										}, -- [1]
-										{
-											["Type"] = "COMBAT",
-										}, -- [2]
-										["n"] = 2,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"SQ", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Essence Font",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"2", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Thunder Focus Tea",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["AnimColor"] = "ccffffff",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										{
-											["Name"] = "Thunder Focus Tea",
-											["Type"] = "SPELLCD",
-										}, -- [2]
-										["n"] = 2,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rising Sun Kick",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Rising Mist",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-									["Alpha"] = 0.5,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Conditions"] = {
-								{
-									["Name"] = "Mana Tea",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Icons"] = {
-								"TMW:icon:1RrdxR3z9ge7", -- [1]
-								"TMW:icon:1RrdxR3xacNL", -- [2]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Columns"] = 7,
-					["Name"] = "MW Info",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-						},
-					},
-					["Locked"] = true,
-					["Alpha"] = 0.98,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["ShrinkGroup"] = true,
-				}, -- [11]
-				{
-					["GUID"] = "TMW:group:1RhL4Z8DYdjg",
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 4,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "totem",
-							["FakeHidden"] = true,
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"S4", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1RhZ7TBBusVN",
-							["Conditions"] = {
-								{
-									["Name"] = "Summon Jade Serpent Statue",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "115313",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["GUID"] = "TMW:icon:1RhZ7TBDPpx2",
-							["Type"] = "totem",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "OnEventsRestored",
-									["Infinite"] = true,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"E", -- [1]
-									},
-								},
-							},
-							["FakeHidden"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Summon Jade Serpent Statue",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								{
-									["Checked"] = true,
-									["Type"] = "BUFFNUMBER",
-									["Name"] = "198533",
-									["Unit"] = "group 1-40",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["CustomTex"] = "115313",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "totem",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-									["Texts"] = {
-										"", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1SK8bmSveIqd",
-							["Conditions"] = {
-								{
-									["Name"] = "Summon Jade Serpent Statue",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "115313",
-							["States"] = {
-								{
-									["Alpha"] = 0.5,
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["GUID"] = "TMW:icon:1RmchN8BStZV",
-							["Type"] = "buff",
-							["FakeHidden"] = true,
-							["Name"] = "Lifecycles (Enveloping Mist)",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"SE", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Lifecycles",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["AnimColor"] = "ccffffff",
-									["Event"] = "OnEventsRestored",
-									["Infinite"] = true,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["GUID"] = "TMW:icon:1RmchN8CgCm7",
-							["Type"] = "buff",
-							["FakeHidden"] = true,
-							["Name"] = "Lifecycles (Vivify)",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"Q", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Lifecycles",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["AnimColor"] = "ccffffff",
-									["Event"] = "OnEventsRestored",
-									["Infinite"] = true,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["GUID"] = "TMW:icon:1RrdxR3xacNL",
-							["ShowTimer"] = true,
-							["FakeHidden"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Mana Tea",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"4", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Mana Tea",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["AnimColor"] = "ccffffff",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										{
-											["Name"] = "Mana Tea",
-											["Type"] = "SPELLCD",
-										}, -- [2]
-										["n"] = 2,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["GUID"] = "TMW:icon:1RrdxR3z9ge7",
-							["ShowTimer"] = true,
-							["FakeHidden"] = true,
-							["Type"] = "buff",
-							["Name"] = "Mana Tea",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"4", -- [1]
-										"[\"%d\":Format(Duration)]", -- [2]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Mana Tea",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "BUFFDUR",
-											["Name"] = "Mana Tea",
-											["Operator"] = ">",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [61]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [62]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [63]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [64]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [65]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [66]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [67]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [68]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [69]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [70]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [71]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [72]
-					},
-					["Name"] = "MW Meta",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Columns"] = 5,
-				}, -- [12]
-				{
-					["GUID"] = "TMW:group:1RhL54c5er4G",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 10,
-						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"S1", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Revival",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"S2", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Life Cocoon",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Invoke Chi-Ji, the Red Crane",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"S3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Invoke Chi-Ji, the Red Crane",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.4,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Way of the Crane",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"S3", -- [1]
-									},
-								},
-							},
-							["ShowTimerText"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "Way of the Crane",
-									["Type"] = "PVPTALENTLEARNED",
-								}, -- [1]
-								{
-									["Type"] = "PVPFLAG",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "BUFFDUR",
-											["Name"] = "Way of the Crane",
-											["Operator"] = ">",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.4,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"G", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Chi Burst",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "MW CDs",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 6,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [13]
-				{
-					["GUID"] = "TMW:group:1RhL5dMXPRYQ",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["x"] = 10,
-						["relativeTo"] = "TMW:group:1RhL54c5er4G",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"SG", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Arcane Torrent",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["AnimColor"] = "ccffffff",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "MANA",
-											["Level"] = 92,
-											["Operator"] = "<=",
-										}, -- [1]
-										{
-											["Type"] = "COMBAT",
-										}, -- [2]
-										{
-											["Name"] = "Arcane Torrent",
-											["Type"] = "SPELLCD",
-										}, -- [3]
-										["n"] = 3,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Detox",
-							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Leg Sweep",
-							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Tiger's Lust",
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Tiger's Lust",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Roll",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"", -- [1]
-										"[Stacks]", -- [2]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Ring of Peace",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Name"] = "Ring of Peace",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"A3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Transcendence: Transfer",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"C3", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Paralysis",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"V", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Fortifying Brew",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"SV", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Diffuse Magic; Healing Elixir; Dampen Harm",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "MW Util",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Columns"] = 12,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [14]
-				{
-					["GUID"] = "TMW:group:1RhL79JRNa=d",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 2,
-						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1RhZ7TBBusVN", -- [1]
-								"TMW:icon:1RhZ7TBDPpx2", -- [2]
-								"TMW:icon:1SK8bmSveIqd", -- [3]
-							},
-							["CustomTex"] = "115313",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"[Stacks:Hide(0, 1)]", -- [1]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["Name"] = "Thunder Focus Tea",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Period"] = 0.6,
-									["Animation"] = "ICONFLASH",
-									["OnlyShown"] = true,
-									["AnimColor"] = "ccffffff",
-									["Event"] = "OnEventsRestored",
-									["Infinite"] = true,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1RmchN8BStZV", -- [1]
-								"TMW:icon:1RmchN8CgCm7", -- [2]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rising Sun Kick",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"T", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Conditions"] = {
-								{
-									["Type"] = "TALENTLEARNED",
-									["Name"] = "Rising Mist",
-									["Level"] = 1,
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"ST", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Blackout Kick",
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "14",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"5", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["Conditions"] = {
-								{
-									["Name"] = "14",
-									["Type"] = "ITEMSPELL",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "13",
-							["Type"] = "item",
-							["Conditions"] = {
-								{
-									["Name"] = "13",
-									["Type"] = "ITEMSPELL",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Surging Mist",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"5", -- [1]
-									},
-								},
-							},
-							["Conditions"] = {
-								{
-									["Name"] = "Surging Mist",
-									["Type"] = "PVPTALENTLEARNED",
-								}, -- [1]
-								{
-									["Type"] = "PVPFLAG",
-								}, -- [2]
-								["n"] = 2,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"`", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["Name"] = "Gladiator's Medallion",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 0.4,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Teachings of the Monastery",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"[Stacks:Hide(0)]", -- [1]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "BUFFSTACKS",
-											["Level"] = 3,
-											["Name"] = "Teachings of the Monastery",
-											["Operator"] = ">=",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-									["Animation"] = "ACTVTNGLOW",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "100784",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "MW Procs/Trinkets",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Columns"] = 11,
-				}, -- [15]
-				{
-					["GUID"] = "TMW:group:1Rhb7GAGEkd7",
-					["Strata"] = "LOW",
-					["Point"] = {
-						["y"] = 1,
-						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
-						["point"] = "BOTTOMRIGHT",
-						["relativePoint"] = "BOTTOMLEFT",
-						["x"] = -0.9998779296875,
-					},
-					["Rows"] = 3,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"2", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1Rhb7GAIuwR7",
-							["Conditions"] = {
-								{
-									["Name"] = "[actionbar:3]",
-									["Type"] = "MACRO",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "100780",
-							["States"] = {
-								{
-									["Alpha"] = 0.5,
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "conditionicon",
-							["FakeHidden"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-									["Texts"] = {
-										"1", -- [1]
-									},
-								},
-							},
-							["GUID"] = "TMW:icon:1Rhb7GAMqz0W",
-							["Conditions"] = {
-								{
-									["Name"] = "[actionbar:1]",
-									["Type"] = "MACRO",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["CustomTex"] = "115151",
-							["States"] = {
-								{
-									["Alpha"] = 0.5,
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1Rhb7GAMqz0W", -- [1]
-								"TMW:icon:1Rhb7GAIuwR7", -- [2]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-					},
-					["Name"] = "ActionBar Page",
-					["ShrinkGroup"] = true,
-					["Columns"] = 1,
-					["EnabledSpecs"] = {
-						[268] = false,
-						[269] = false,
-					},
-					["Locked"] = true,
-				}, -- [16]
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-					},
-				}, -- [17]
 			},
-			["Locked"] = true,
-			["NumGroups"] = 16,
-			["SoundChannel"] = "Master",
-			["TextureName"] = "Minimalist",
 		},
 		["Yorman - Kil'jaeden"] = {
 			["Version"] = 86501,
@@ -15944,7 +5371,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["ShrinkGroup"] = true,
+					["Columns"] = 6,
 					["Name"] = "Resto Info",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -15960,25 +5387,10 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 6,
+					["ShrinkGroup"] = true,
 				}, -- [1]
 				{
 					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["Name"] = "Resto Rotation",
-					["Point"] = {
-						["y"] = -171.126803687818,
-						["x"] = 396.212554931641,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 4,
 					["Icons"] = {
 						{
 							["States"] = {
@@ -16085,9 +5497,9 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["DurationMin"] = 4,
-							["DurationMinEnabled"] = true,
 							["Enabled"] = true,
+							["DurationMinEnabled"] = true,
+							["DurationMin"] = 4,
 							["States"] = {
 								{
 									["Alpha"] = 0.5,
@@ -16103,11 +5515,6 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1Rp1m3NFV6Uz",
 							["ShowTimer"] = true,
 							["DurationMaxEnabled"] = true,
-							["DurationMax"] = 4,
-							["Unit"] = "player; party 1-4; raid 1-40",
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["Name"] = "Lifebloom",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
@@ -16116,8 +5523,11 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Enabled"] = true,
-							["Type"] = "buff",
+							["Unit"] = "player; party 1-4; raid 1-40",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["Name"] = "Lifebloom",
+							["DurationMax"] = 4,
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -16134,6 +5544,8 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["Type"] = "buff",
+							["Enabled"] = true,
 							["States"] = {
 								{
 									["Alpha"] = 0.5,
@@ -16743,6 +6155,20 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
+					["Point"] = {
+						["y"] = -171.126803687818,
+						["x"] = 396.212554931641,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 4,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -16750,13 +6176,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
+					["Name"] = "Resto Rotation",
 				}, -- [2]
 				{
 					["GUID"] = "TMW:group:1Rdy4shSvHOv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
 						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -16856,6 +6283,14 @@ TellMeWhenDB = {
 									},
 								},
 							},
+							["Name"] = "Incarnation: Tree of Life",
+							["Conditions"] = {
+								{
+									["Name"] = "Incarnation: Tree of Life",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -16875,14 +6310,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Conditions"] = {
-								{
-									["Name"] = "Incarnation: Tree of Life",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Name"] = "Incarnation: Tree of Life",
 							["States"] = {
 								{
 								}, -- [1]
@@ -16907,6 +6334,7 @@ TellMeWhenDB = {
 								},
 							},
 							["Type"] = "cooldown",
+							["Name"] = "Innervate",
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -16933,7 +6361,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "Innervate",
 							["States"] = {
 								{
 								}, -- [1]
@@ -17573,7 +7000,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 6,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -17581,14 +7008,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 6,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1Re9GhuLUhA_",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
 						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -18554,7 +7981,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 11,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -18562,7 +7989,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 11,
+					["ShrinkGroup"] = true,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1ReGzyv8L=59",
@@ -18659,8 +8086,8 @@ TellMeWhenDB = {
 									["OnlyShown"] = true,
 									["OnConditionConditions"] = {
 										{
-											["Level"] = 2.5,
 											["Type"] = "BUFFDUR",
+											["Level"] = 2.5,
 											["Name"] = "Innervate",
 											["Operator"] = "<=",
 										}, -- [1]
@@ -19634,7 +9061,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 12,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -19642,7 +9069,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[104] = false,
 					},
-					["Columns"] = 12,
+					["ShrinkGroup"] = true,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1RmjXRSgY=Dt",
@@ -20171,7 +9598,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["ShrinkGroup"] = true,
+					["Columns"] = 6,
 					["Name"] = "Guarian Info",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -20188,26 +9615,10 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 6,
+					["ShrinkGroup"] = true,
 				}, -- [6]
 				{
 					["GUID"] = "TMW:group:1RmjXbUwZ7=8",
-					["Name"] = "Guarian Rotation",
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 3,
 					["Icons"] = {
 						{
 							["GUID"] = "TMW:icon:1RmjZQgW7YD0",
@@ -20920,6 +10331,21 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 3,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -20927,13 +10353,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
+					["Name"] = "Guarian Rotation",
 				}, -- [7]
 				{
 					["GUID"] = "TMW:group:1RmjXh0hzbMv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 9.9998779296875,
 						["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
+						["x"] = 9.9998779296875,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -21651,7 +11078,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 5,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -21659,14 +11086,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 5,
+					["Locked"] = true,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1RmjXmImbWxE",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10.000244140625,
 						["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
+						["x"] = 10.000244140625,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -22561,7 +11988,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 11,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -22569,7 +11996,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 11,
+					["Locked"] = true,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1RmjXtBcHfpO",
@@ -23429,7 +12856,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 7,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
@@ -23437,7 +12864,7 @@ TellMeWhenDB = {
 						[102] = false,
 						[105] = false,
 					},
-					["Columns"] = 7,
+					["Locked"] = true,
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1SRYTdGwTTqM",
@@ -23448,12 +12875,6 @@ TellMeWhenDB = {
 						},
 					},
 					["Scale"] = 1.39175975322723,
-					["Point"] = {
-						["x"] = 36,
-						["relativeTo"] = "HekiliDisplayPrimary",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
 					["Icons"] = {
 						{
 							["Enabled"] = true,
@@ -24508,6 +13929,12 @@ TellMeWhenDB = {
 						[103] = false,
 						[104] = false,
 						[105] = false,
+					},
+					["Point"] = {
+						["relativeTo"] = "HekiliDisplayPrimary",
+						["x"] = 36,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
 					},
 				}, -- [11]
 				{
@@ -25685,4186 +15112,12 @@ TellMeWhenDB = {
 				}, -- [26]
 			},
 			["Locked"] = true,
-			["SoundChannel"] = "Master",
 			["NumGroups"] = 11,
+			["SoundChannel"] = "Master",
 			["TextureName"] = "Minimalist",
 		},
-		["Base"] = {
-			["Version"] = 86006,
-			["ForceNoBlizzCC"] = true,
-			["Groups"] = {
-				{
-					["GUID"] = "TMW:group:1RdxyvcF5MR3",
-					["Strata"] = "LOW",
-					["Columns"] = 10,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["Icons"] = {
-								"TMW:icon:1S5rMOrbx2W6", -- [1]
-								"TMW:icon:1S5rMRlNU6DL", -- [2]
-								"TMW:icon:1S5rMWv1TVbh", -- [3]
-								"TMW:icon:1S5rMUxYFXPO", -- [4]
-								"TMW:icon:1S5rMN7drbw1", -- [5]
-								"TMW:icon:1S5rKA3M0608", -- [6]
-								"TMW:icon:1S5rKA3Mkp9X", -- [7]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Locked"] = true,
-					["Name"] = "Holy Info",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["ShrinkGroup"] = true,
-					["Level"] = 7,
-					["EnabledSpecs"] = {
-						[103] = false,
-						[66] = false,
-						[70] = false,
-						[104] = false,
-						[102] = false,
-						[257] = false,
-						[258] = false,
-						[263] = false,
-						[262] = false,
-					},
-					["Point"] = {
-						["y"] = 1,
-						["relativeTo"] = "Quartz3CastBarPlayer",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [1]
-				{
-					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["EnabledSpecs"] = {
-						[103] = false,
-						[66] = false,
-						[70] = false,
-						[104] = false,
-						[102] = false,
-						[257] = false,
-						[258] = false,
-						[262] = false,
-						[263] = false,
-					},
-					["Name"] = "Holy Rotation",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = 1,
-						},
-					},
-					["Scale"] = 1.63042783737183,
-					["Rows"] = 5,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["Point"] = {
-						["y"] = 98.8250937751799,
-						["x"] = 343.263977050781,
-						["point"] = "LEFT",
-						["relativePoint"] = "LEFT",
-					},
-				}, -- [2]
-				{
-					["GUID"] = "TMW:group:1Rdy4shSvHOv",
-					["Strata"] = "LOW",
-					["Columns"] = 8,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "Holy CDs",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[103] = false,
-						[66] = false,
-						[70] = false,
-						[104] = false,
-						[102] = false,
-						[257] = false,
-						[258] = false,
-						[263] = false,
-						[262] = false,
-					},
-					["Point"] = {
-						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-						["x"] = 10,
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-				}, -- [3]
-				{
-					["GUID"] = "TMW:group:1Re9GhuLUhA_",
-					["Strata"] = "LOW",
-					["Columns"] = 8,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [61]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [62]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [63]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [64]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [65]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [66]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [67]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [68]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [69]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [70]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [71]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [72]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [73]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [74]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [75]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "Holy Util",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-						},
-					},
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[103] = false,
-						[66] = false,
-						[70] = false,
-						[104] = false,
-						[102] = false,
-						[257] = false,
-						[258] = false,
-						[262] = false,
-						[263] = false,
-					},
-					["Point"] = {
-						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
-						["x"] = 10,
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-				}, -- [4]
-				{
-					["GUID"] = "TMW:group:1ReGzyv8L=59",
-					["Strata"] = "LOW",
-					["Columns"] = 12,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [37]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [38]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [39]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [40]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [41]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [42]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [43]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [44]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [45]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [46]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [47]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [48]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [49]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [50]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [51]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [52]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [53]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [54]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [55]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [56]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [57]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [58]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [59]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [60]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [61]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [62]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [63]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [64]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [65]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [66]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [67]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [68]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [69]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [70]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [71]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [72]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [73]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [74]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [75]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "Holy Procs/Trinkets",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["SpacingX"] = 1,
-							["SpacingY"] = -4,
-						},
-					},
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[103] = false,
-						[66] = false,
-						[70] = false,
-						[104] = false,
-						[102] = false,
-						[257] = false,
-						[258] = false,
-						[262] = false,
-						[263] = false,
-					},
-					["Point"] = {
-						["y"] = 4,
-						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
-				}, -- [5]
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-				}, -- [6]
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-					},
-				}, -- [7]
-			},
-			["NumGroups"] = 5,
-			["TextureName"] = "ElvUI Norm",
-		},
-		["Koutetsu - Frostwolf"] = {
-			["Locked"] = true,
-			["Version"] = 86301,
-			["Groups"] = {
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-					},
-					["GUID"] = "TMW:group:1T8b25XWdVaH",
-				}, -- [1]
-			},
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-			["Locked"] = true,
-			["Version"] = 86006,
-			["Groups"] = {
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-					},
-					["GUID"] = "TMW:group:1ShiS89oHVeV",
-				}, -- [1]
-			},
-		},
-		["Zallie - Frostwolf"] = {
-			["Locked"] = true,
-			["Version"] = 86006,
-			["Groups"] = {
-				{
-					["GUID"] = "TMW:group:1Sr88VVOnrqd",
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-					},
-					["Point"] = {
-						["y"] = 145.000137329102,
-						["x"] = 205.282958984375,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
-				}, -- [1]
-			},
-		},
 		["Toshaman - Kil'jaeden"] = {
-			["ForceNoBlizzCC"] = true,
 			["Version"] = 86501,
-			["Locked"] = true,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1SOQwfYksHy4",
@@ -29876,7 +15129,6 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPRIGHT",
 					},
 					["Scale"] = 1.20003592967987,
-					["Name"] = "Ele Main",
 					["EnabledSpecs"] = {
 						[263] = false,
 						[264] = false,
@@ -29925,7 +15177,7 @@ TellMeWhenDB = {
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "Thunderstorm",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SP6fEfacpmV",
@@ -29935,7 +15187,7 @@ TellMeWhenDB = {
 								},
 							},
 							["Type"] = "cooldown",
-							["Name"] = "Thunderstorm",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -30001,7 +15253,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "Earth Elemental",
+							["ShowTimerText"] = true,
 							["ShowTimerTextnoOCC"] = true,
 							["Type"] = "cooldown",
 							["SettingsPerView"] = {
@@ -30012,7 +15264,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "Earth Elemental",
 							["States"] = {
 								{
 									["Alpha"] = 0,
@@ -30248,6 +15500,7 @@ TellMeWhenDB = {
 							},
 						}, -- [15]
 					},
+					["Name"] = "Ele Main",
 				}, -- [1]
 				{
 					["GUID"] = "TMW:group:1RdxyvcF5MR3",
@@ -30935,14 +16188,14 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Name"] = "Resto Info",
 					["SettingsPerView"] = {
 						["icon"] = {
 							["SpacingX"] = 1,
 						},
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["Level"] = 7,
 					["EnabledSpecs"] = {
 						[103] = false,
@@ -30952,19 +16205,14 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[263] = false,
 						[262] = false,
+						[263] = false,
 					},
 					["Columns"] = 10,
 				}, -- [2]
 				{
 					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["Point"] = {
-						["y"] = 98.8250937751799,
-						["x"] = 343.263977050781,
-						["point"] = "LEFT",
-						["relativePoint"] = "LEFT",
-					},
+					["Columns"] = 6,
 					["Scale"] = 1.63042783737183,
 					["Rows"] = 6,
 					["Icons"] = {
@@ -31057,10 +16305,10 @@ TellMeWhenDB = {
 											["Operator"] = ">",
 										}, -- [1]
 										{
-											["Level"] = 1,
 											["Type"] = "TALENTLEARNED",
-											["PrtsAfter"] = 1,
+											["Level"] = 1,
 											["Name"] = "Cloudburst Totem",
+											["PrtsAfter"] = 1,
 										}, -- [2]
 										{
 											["Type"] = "SPELLCHARGES",
@@ -32152,10 +17400,15 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[262] = false,
 						[263] = false,
+						[262] = false,
 					},
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = 98.8250937751799,
+						["x"] = 343.263977050781,
+						["point"] = "LEFT",
+						["relativePoint"] = "LEFT",
+					},
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1Rdy4shSvHOv",
@@ -32908,8 +18161,8 @@ TellMeWhenDB = {
 							["SpacingX"] = 1,
 						},
 					},
-					["Locked"] = true,
 					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[103] = false,
 						[66] = false,
@@ -32918,8 +18171,8 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[263] = false,
 						[262] = false,
+						[263] = false,
 					},
 					["Columns"] = 8,
 				}, -- [4]
@@ -33892,8 +19145,8 @@ TellMeWhenDB = {
 							["SpacingX"] = 1,
 						},
 					},
-					["Locked"] = true,
 					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[103] = false,
 						[66] = false,
@@ -33902,8 +19155,8 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[262] = false,
 						[263] = false,
+						[262] = false,
 					},
 					["Columns"] = 8,
 				}, -- [5]
@@ -34919,7 +20172,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["Name"] = "Resto Procs/Trinkets",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -34927,7 +20180,7 @@ TellMeWhenDB = {
 							["SpacingY"] = -4,
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Level"] = 7,
 					["EnabledSpecs"] = {
 						[103] = false,
@@ -34937,14 +20190,13 @@ TellMeWhenDB = {
 						[102] = false,
 						[257] = false,
 						[258] = false,
-						[262] = false,
 						[263] = false,
+						[262] = false,
 					},
 					["Columns"] = 10,
 				}, -- [6]
 				{
 					["GUID"] = "TMW:group:1SS2XNs0SPmx",
-					["Name"] = "Ele procs",
 					["Point"] = {
 						["y"] = 10.0000875731592,
 						["relativeTo"] = "TMW:group:1SOQwfYksHy4",
@@ -34952,6 +20204,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPLEFT",
 						["x"] = -0.00024628015176888,
 					},
+					["Name"] = "Ele procs",
 					["Icons"] = {
 						{
 							["ShowTimer"] = true,
@@ -35119,13 +20372,13 @@ TellMeWhenDB = {
 							},
 						}, -- [10]
 					},
-					["Scale"] = 1.2,
+					["ShrinkGroup"] = true,
 					["Columns"] = 9,
 					["EnabledSpecs"] = {
 						[263] = false,
 						[264] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Scale"] = 1.2,
 				}, -- [7]
 				{
 					["GUID"] = "TMW:group:1Sjkh_6p41Ck",
@@ -35266,6 +20519,8 @@ TellMeWhenDB = {
 					},
 				}, -- [8]
 			},
+			["Locked"] = true,
+			["ForceNoBlizzCC"] = true,
 			["NumGroups"] = 8,
 			["TextureName"] = "ElvUI Norm",
 		},
@@ -35297,10 +20552,8 @@ TellMeWhenDB = {
 								},
 							},
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Events"] = {
 								{
-									["Type"] = "Animations",
 									["OnConditionConditions"] = {
 										{
 											["Name"] = "Power Word: Radiance",
@@ -35311,11 +20564,13 @@ TellMeWhenDB = {
 										}, -- [2]
 										["n"] = 2,
 									},
+									["Type"] = "Animations",
 									["Event"] = "WCSP",
 									["Animation"] = "ACTVTNGLOW",
 								}, -- [1]
 								["n"] = 1,
 							},
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -35374,7 +20629,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Name"] = "Schism",
+							["Enabled"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Schism",
@@ -35382,7 +20637,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Enabled"] = true,
+							["Name"] = "Schism",
 							["States"] = {
 								{
 								}, -- [1]
@@ -35399,25 +20654,8 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1S5rMWv1TVbh",
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
 							["Name"] = "Power Word: Solace",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["OnConditionConditions"] = {
-										{
-											["Name"] = "Power Word: Solace",
-											["Type"] = "SPELLCD",
-										}, -- [1]
-										{
-											["Type"] = "COMBAT",
-										}, -- [2]
-										["n"] = 2,
-									},
-									["Event"] = "WCSP",
-									["Animation"] = "ACTVTNGLOW",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -35434,7 +20672,24 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Events"] = {
+								{
+									["OnConditionConditions"] = {
+										{
+											["Name"] = "Power Word: Solace",
+											["Type"] = "SPELLCD",
+										}, -- [1]
+										{
+											["Type"] = "COMBAT",
+										}, -- [2]
+										["n"] = 2,
+									},
+									["Type"] = "Animations",
+									["Event"] = "WCSP",
+									["Animation"] = "ACTVTNGLOW",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -35460,7 +20715,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Name"] = "Divine Star",
+							["Enabled"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Divine Star",
@@ -35468,7 +20723,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Enabled"] = true,
+							["Name"] = "Divine Star",
 							["States"] = {
 								{
 								}, -- [1]
@@ -35494,7 +20749,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Name"] = "Halo",
+							["Enabled"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Halo",
@@ -35502,7 +20757,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Enabled"] = true,
+							["Name"] = "Halo",
 							["States"] = {
 								{
 								}, -- [1]
@@ -35528,10 +20783,9 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Name"] = "Penance",
+							["Type"] = "cooldown",
 							["Events"] = {
 								{
-									["Type"] = "Animations",
 									["OnConditionConditions"] = {
 										{
 											["Name"] = "Penan",
@@ -35542,12 +20796,13 @@ TellMeWhenDB = {
 										}, -- [2]
 										["n"] = 2,
 									},
+									["Type"] = "Animations",
 									["Event"] = "WCSP",
 									["Animation"] = "ACTVTNGLOW",
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Type"] = "cooldown",
+							["Name"] = "Penance",
 							["States"] = {
 								{
 								}, -- [1]
@@ -36001,38 +21256,35 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["Columns"] = 10,
+					["ShrinkGroup"] = true,
 					["Name"] = "Disc Info",
 					["SettingsPerView"] = {
 						["icon"] = {
 							["SpacingX"] = 1,
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Level"] = 7,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[70] = false,
-						[103] = false,
+						[258] = false,
 						[102] = false,
 						[104] = false,
-						[258] = false,
+						[103] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 10,
 				}, -- [1]
 				{
 					["GUID"] = "TMW:group:1Rdx_DW=cLka",
-					["EnabledSpecs"] = {
-						[66] = false,
-						[257] = false,
-						[70] = false,
-						[103] = false,
-						[102] = false,
-						[104] = false,
-						[258] = false,
-					},
 					["Name"] = "Disc Rotation",
+					["Point"] = {
+						["y"] = -174.193698219068,
+						["x"] = 375.357879638672,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
 					["SettingsPerView"] = {
 						["icon"] = {
 							["SpacingX"] = 1,
@@ -36059,7 +21311,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["HideIfNoUnits"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -36068,13 +21319,14 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["HideIfNoUnits"] = true,
 							["UnitConditions"] = {
 								{
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -36097,6 +21349,11 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1SBfujtGFPEu",
 							["BuffOrDebuff"] = "HARMFUL",
 							["DurationMaxEnabled"] = true,
+							["DurationMax"] = 5,
+							["Unit"] = "target",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["Name"] = "Shadow Word: Pain",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
@@ -36106,11 +21363,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Unit"] = "target",
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["Name"] = "Shadow Word: Pain",
-							["DurationMax"] = 5,
+							["HideIfNoUnits"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -36119,14 +21372,13 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["HideIfNoUnits"] = true,
 							["UnitConditions"] = {
 								{
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -36179,7 +21431,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["HideIfNoUnits"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Purge the Wicked",
@@ -36187,13 +21438,14 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["HideIfNoUnits"] = true,
 							["UnitConditions"] = {
 								{
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -36216,6 +21468,11 @@ TellMeWhenDB = {
 							["GUID"] = "TMW:icon:1SBfujtLeeje",
 							["BuffOrDebuff"] = "HARMFUL",
 							["DurationMaxEnabled"] = true,
+							["DurationMax"] = 5,
+							["Unit"] = "target",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["Name"] = "Purge the Wicked",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
@@ -36224,11 +21481,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Unit"] = "target",
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["Name"] = "Purge the Wicked",
-							["DurationMax"] = 5,
+							["HideIfNoUnits"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Purge the Wicked",
@@ -36236,14 +21489,13 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["HideIfNoUnits"] = true,
 							["UnitConditions"] = {
 								{
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -36852,19 +22104,22 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
-					["Point"] = {
-						["y"] = -174.193698219068,
-						["x"] = 375.357879638672,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
+					["EnabledSpecs"] = {
+						[66] = false,
+						[257] = false,
+						[70] = false,
+						[258] = false,
+						[102] = false,
+						[104] = false,
+						[103] = false,
 					},
 				}, -- [2]
 				{
 					["GUID"] = "TMW:group:1Rdy4shSvHOv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
 						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -37714,24 +22969,24 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 8,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[70] = false,
-						[103] = false,
+						[258] = false,
 						[102] = false,
 						[104] = false,
-						[258] = false,
+						[103] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 8,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1Re9GhuLUhA_",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10,
 						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["x"] = 10,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -38698,17 +23953,17 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 8,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[70] = false,
-						[103] = false,
+						[258] = false,
 						[102] = false,
 						[104] = false,
-						[258] = false,
+						[103] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 8,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1ReGzyv8L=59",
@@ -38759,7 +24014,15 @@ TellMeWhenDB = {
 									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 								},
 							},
-							["Unit"] = "group 1-40",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -38767,8 +24030,8 @@ TellMeWhenDB = {
 									["Animation"] = "ICONFLASH",
 									["OnConditionConditions"] = {
 										{
-											["Type"] = "COMBAT",
 											["Level"] = 1,
+											["Type"] = "COMBAT",
 										}, -- [1]
 										["n"] = 1,
 									},
@@ -38790,15 +24053,7 @@ TellMeWhenDB = {
 								}, -- [3]
 								["n"] = 3,
 							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
+							["Unit"] = "group 1-40",
 						}, -- [2]
 						{
 							["Enabled"] = true,
@@ -38909,9 +24164,9 @@ TellMeWhenDB = {
 							},
 							["Events"] = {
 								{
-									["Event"] = "OnEventsRestored",
-									["Type"] = "Animations",
 									["Infinite"] = true,
+									["Type"] = "Animations",
+									["Event"] = "OnEventsRestored",
 									["Animation"] = "ACTVTNGLOW",
 								}, -- [1]
 								["n"] = 1,
@@ -39729,17 +24984,17 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 10,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[70] = false,
-						[103] = false,
+						[258] = false,
 						[102] = false,
 						[104] = false,
-						[258] = false,
+						[103] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 10,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1RmjXRSgY=Dt",
@@ -39872,7 +25127,7 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["Name"] = "Halo",
+							["Enabled"] = true,
 							["Conditions"] = {
 								{
 									["Name"] = "Halo",
@@ -39880,7 +25135,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Enabled"] = true,
+							["Name"] = "Halo",
 							["States"] = {
 								{
 								}, -- [1]
@@ -40347,7 +25602,7 @@ TellMeWhenDB = {
 							["Order"] = 1,
 						}, -- [3]
 					},
-					["Columns"] = 6,
+					["ShrinkGroup"] = true,
 					["Name"] = "Holy Info",
 					["SettingsPerView"] = {
 						["icon"] = {
@@ -40355,31 +25610,28 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Level"] = 7,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
 						[70] = false,
-						[105] = false,
+						[258] = false,
 						[102] = false,
 						[256] = false,
-						[258] = false,
+						[105] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 6,
 				}, -- [6]
 				{
 					["GUID"] = "TMW:group:1RmjXbUwZ7=8",
-					["EnabledSpecs"] = {
-						[66] = false,
-						[103] = false,
-						[70] = false,
-						[105] = false,
-						[102] = false,
-						[256] = false,
-						[258] = false,
-					},
 					["Name"] = "Holy Rotation",
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
 					["SettingsPerView"] = {
 						["icon"] = {
 							["SpacingX"] = 1,
@@ -41051,19 +26303,22 @@ TellMeWhenDB = {
 							},
 						}, -- [60]
 					},
-					["Point"] = {
-						["y"] = -80.9607869688506,
-						["x"] = 435.468536376953,
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPLEFT",
+					["EnabledSpecs"] = {
+						[66] = false,
+						[103] = false,
+						[70] = false,
+						[258] = false,
+						[102] = false,
+						[256] = false,
+						[105] = false,
 					},
 				}, -- [7]
 				{
 					["GUID"] = "TMW:group:1RmjXh0hzbMv",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 9.9998779296875,
 						["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
+						["x"] = 9.9998779296875,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -41860,24 +27115,24 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 5,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
 						[70] = false,
-						[105] = false,
+						[258] = false,
 						[102] = false,
 						[256] = false,
-						[258] = false,
+						[105] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 5,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1RmjXmImbWxE",
 					["Strata"] = "LOW",
 					["Point"] = {
-						["x"] = 10.000244140625,
 						["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
+						["x"] = 10.000244140625,
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -42806,17 +28061,17 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 8,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
 						[70] = false,
-						[105] = false,
+						[258] = false,
 						[102] = false,
 						[256] = false,
-						[258] = false,
+						[105] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 8,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1RmjXtBcHfpO",
@@ -42901,7 +28156,15 @@ TellMeWhenDB = {
 									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 								},
 							},
-							["Unit"] = "group 1-40",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -42909,8 +28172,8 @@ TellMeWhenDB = {
 									["Animation"] = "ICONFLASH",
 									["OnConditionConditions"] = {
 										{
-											["Type"] = "COMBAT",
 											["Level"] = 1,
+											["Type"] = "COMBAT",
 										}, -- [1]
 										["n"] = 1,
 									},
@@ -42932,15 +28195,7 @@ TellMeWhenDB = {
 								}, -- [3]
 								["n"] = 3,
 							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
+							["Unit"] = "group 1-40",
 						}, -- [4]
 						{
 							["Enabled"] = true,
@@ -43755,32 +29010,31 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 7,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[103] = false,
 						[70] = false,
-						[105] = false,
+						[258] = false,
 						[102] = false,
 						[256] = false,
-						[258] = false,
+						[105] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 7,
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1SMaYKnDlBS=",
+					["Point"] = {
+						["y"] = -121.046818198855,
+						["x"] = -21.3822437199841,
+					},
 					["Columns"] = 6,
-					["Name"] = "Shadow CDs",
 					["SettingsPerView"] = {
 						["icon"] = {
 							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 						},
 					},
 					["Scale"] = 1.12223184108734,
-					["EnabledSpecs"] = {
-						[256] = false,
-						[257] = false,
-					},
 					["Icons"] = {
 						{
 							["Enabled"] = true,
@@ -44272,10 +29526,11 @@ TellMeWhenDB = {
 							},
 						}, -- [40]
 					},
-					["Point"] = {
-						["y"] = -121.046818198855,
-						["x"] = -21.3822437199841,
+					["EnabledSpecs"] = {
+						[256] = false,
+						[257] = false,
 					},
+					["Name"] = "Shadow CDs",
 				}, -- [11]
 				{
 					["Icons"] = {
@@ -45320,8 +30575,14766 @@ TellMeWhenDB = {
 				},
 			},
 			["Locked"] = true,
-			["NumGroups"] = 11,
 			["SoundChannel"] = "Master",
+			["NumGroups"] = 11,
+			["TextureName"] = "Minimalist",
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+			["Locked"] = true,
+			["Version"] = 86006,
+			["Groups"] = {
+				{
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["GUID"] = "TMW:group:1ShiS89oHVeV",
+				}, -- [1]
+			},
+		},
+		["Zallie - Frostwolf"] = {
+			["Locked"] = true,
+			["Version"] = 86006,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1Sr88VVOnrqd",
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["Point"] = {
+						["y"] = 145.000137329102,
+						["x"] = 205.282958984375,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
+				}, -- [1]
+			},
+		},
+		["Base"] = {
+			["Version"] = 86006,
+			["ForceNoBlizzCC"] = true,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1RdxyvcF5MR3",
+					["Strata"] = "LOW",
+					["Columns"] = 10,
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["Icons"] = {
+								"TMW:icon:1S5rMOrbx2W6", -- [1]
+								"TMW:icon:1S5rMRlNU6DL", -- [2]
+								"TMW:icon:1S5rMWv1TVbh", -- [3]
+								"TMW:icon:1S5rMUxYFXPO", -- [4]
+								"TMW:icon:1S5rMN7drbw1", -- [5]
+								"TMW:icon:1S5rKA3M0608", -- [6]
+								"TMW:icon:1S5rKA3Mkp9X", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Point"] = {
+						["y"] = 1,
+						["relativeTo"] = "Quartz3CastBarPlayer",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Name"] = "Holy Info",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Level"] = 7,
+					["EnabledSpecs"] = {
+						[103] = false,
+						[66] = false,
+						[70] = false,
+						[104] = false,
+						[102] = false,
+						[257] = false,
+						[258] = false,
+						[262] = false,
+						[263] = false,
+					},
+					["Locked"] = true,
+				}, -- [1]
+				{
+					["GUID"] = "TMW:group:1Rdx_DW=cLka",
+					["Name"] = "Holy Rotation",
+					["Point"] = {
+						["y"] = 98.8250937751799,
+						["x"] = 343.263977050781,
+						["point"] = "LEFT",
+						["relativePoint"] = "LEFT",
+					},
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 5,
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["EnabledSpecs"] = {
+						[103] = false,
+						[66] = false,
+						[70] = false,
+						[104] = false,
+						[102] = false,
+						[257] = false,
+						[258] = false,
+						[263] = false,
+						[262] = false,
+					},
+				}, -- [2]
+				{
+					["GUID"] = "TMW:group:1Rdy4shSvHOv",
+					["Strata"] = "LOW",
+					["Columns"] = 8,
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "Holy CDs",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["Locked"] = true,
+					["Point"] = {
+						["x"] = 10,
+						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["EnabledSpecs"] = {
+						[103] = false,
+						[66] = false,
+						[70] = false,
+						[104] = false,
+						[102] = false,
+						[257] = false,
+						[258] = false,
+						[262] = false,
+						[263] = false,
+					},
+					["ShrinkGroup"] = true,
+				}, -- [3]
+				{
+					["GUID"] = "TMW:group:1Re9GhuLUhA_",
+					["Strata"] = "LOW",
+					["Columns"] = 8,
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [61]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [62]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [63]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [64]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [65]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [66]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [67]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [68]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [69]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [70]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [71]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [72]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [73]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [74]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [75]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "Holy Util",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["Locked"] = true,
+					["Point"] = {
+						["x"] = 10,
+						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["EnabledSpecs"] = {
+						[103] = false,
+						[66] = false,
+						[70] = false,
+						[104] = false,
+						[102] = false,
+						[257] = false,
+						[258] = false,
+						[263] = false,
+						[262] = false,
+					},
+					["ShrinkGroup"] = true,
+				}, -- [4]
+				{
+					["GUID"] = "TMW:group:1ReGzyv8L=59",
+					["Strata"] = "LOW",
+					["Columns"] = 12,
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [61]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [62]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [63]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [64]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [65]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [66]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [67]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [68]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [69]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [70]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [71]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [72]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [73]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [74]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [75]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "Holy Procs/Trinkets",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = -4,
+						},
+					},
+					["Locked"] = true,
+					["Point"] = {
+						["y"] = 4,
+						["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["EnabledSpecs"] = {
+						[103] = false,
+						[66] = false,
+						[70] = false,
+						[104] = false,
+						[102] = false,
+						[257] = false,
+						[258] = false,
+						[263] = false,
+						[262] = false,
+					},
+					["ShrinkGroup"] = true,
+				}, -- [5]
+				{
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+					},
+				}, -- [6]
+				{
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+					},
+				}, -- [7]
+			},
+			["NumGroups"] = 5,
+			["TextureName"] = "ElvUI Norm",
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["Version"] = 86006,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1RdxyvcF5MR3",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 1,
+						["relativeTo"] = "Quartz3CastBarPlayer",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1Rf6gXciptdm", -- [1]
+								"TMW:icon:1Rf6gTWgLyL=", -- [2]
+								"TMW:icon:1Rf6gVPFXV=B", -- [3]
+								"TMW:icon:1Rf6gRLbprDw", -- [4]
+								"TMW:icon:1RfgeMLHYXwV", -- [5]
+								"TMW:icon:1Rf6gZfqyvGa", -- [6]
+								"TMW:icon:1Rf6enWy03NI", -- [7]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["CLEUEvents"] = {
+								["SPELL_CAST_SUCCESS"] = true,
+							},
+							["Events"] = {
+								{
+									["Period"] = 0,
+									["Type"] = "Animations",
+									["Infinite"] = true,
+									["Animation"] = "ICONFLASH",
+									["Duration"] = 0.6,
+									["AnimColor"] = "40ff0000",
+									["Event"] = "OnEventsRestored",
+									["Fade"] = false,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CLEUDur"] = 15,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cleu",
+							["SourceUnit"] = "player",
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["ManaCheck"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rushing Jade Wind",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"5", -- [1]
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Rushing Jade Wind",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Name"] = "Rushing Jade Wind",
+											["Type"] = "BUFFDUR",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Columns"] = 6,
+					["ShrinkGroup"] = true,
+					["Name"] = "WW Info",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["Locked"] = true,
+					["Level"] = 11,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[270] = false,
+						[66] = false,
+						[268] = false,
+					},
+					["Enabled"] = false,
+				}, -- [1]
+				{
+					["GUID"] = "TMW:group:1Rdx_DW=cLka",
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Name"] = "WW Meta",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 3,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[270] = false,
+						[66] = false,
+						[268] = false,
+					},
+					["Icons"] = {
+						{
+							["StackMin"] = 1,
+							["Type"] = "reactive",
+							["FakeHidden"] = true,
+							["Name"] = "Whirling Dragon Punch",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"SQ", -- [1]
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Whirling Dragon Punch",
+									["Type"] = "SPELLCD",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Rf6gXciptdm",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+									["Alpha"] = 0,
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:icon:1Rf6gVPFXV=B",
+							["Type"] = "cooldown",
+							["Name"] = "Fists of Fury",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"SE", -- [1]
+									},
+								},
+							},
+							["ManaCheck"] = true,
+							["FakeHidden"] = true,
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+									["Alpha"] = 0,
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:icon:1Rf6gTWgLyL=",
+							["Type"] = "cooldown",
+							["Name"] = "Rising Sun Kick",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"1", -- [1]
+									},
+								},
+							},
+							["ManaCheck"] = true,
+							["FakeHidden"] = true,
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+									["Alpha"] = 0,
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:icon:1Rf6gRLbprDw",
+							["Type"] = "cooldown",
+							["Name"] = "Chi Burst",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"G", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "CHI",
+									["Level"] = 6,
+									["Operator"] = "<",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["GUID"] = "TMW:icon:1Rf6gZfqyvGa",
+							["Type"] = "cooldown",
+							["FakeHidden"] = true,
+							["Name"] = "Blackout Kick",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"Q", -- [1]
+									},
+								},
+							},
+							["ManaCheck"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LASTCAST",
+									["Name"] = "Blackout Kick",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+									["Alpha"] = 0,
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:icon:1Rf6enWy03NI",
+							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"E", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "LASTCAST",
+									["Name"] = "Tiger Palm",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:icon:1RfgeMLHYXwV",
+							["Type"] = "cooldown",
+							["Name"] = "Fist of the White Tiger",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"T", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Fist of the White Tiger",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["GUID"] = "TMW:icon:1RfgeMLIuZz5",
+							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"E", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "CHI",
+									["Level"] = 3,
+									["Operator"] = "<",
+								}, -- [1]
+								{
+									["Type"] = "ENERGY",
+									["Level"] = 80,
+									["Operator"] = ">=",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+				}, -- [2]
+				{
+					["GUID"] = "TMW:group:1Rdy4shSvHOv",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "Hekili_Primary_B1",
+						["x"] = 80,
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"S1", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Touch of Death",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"S2", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Storm, Earth, and Fire",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"SV", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Touch of Karma",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Energizing Elixir",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"S3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Energizing Elixir",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Invoke Xuen, the White Tiger",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"S3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Invoke Xuen, the White Tiger",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "WW CDs",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[270] = false,
+						[66] = false,
+						[268] = false,
+					},
+					["Columns"] = 5,
+				}, -- [3]
+				{
+					["GUID"] = "TMW:group:1Re9GhuLUhA_",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+						["x"] = 10,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cooldown",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "MANA",
+											["Level"] = 96,
+											["Operator"] = "<=",
+										}, -- [1]
+										{
+											["Name"] = "Arcane Torrent",
+											["Type"] = "SPELLCD",
+										}, -- [2]
+										["n"] = 2,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Name"] = "Arcane Torrent",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Alpha"] = 0.5,
+								},
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Spear Hand Strike",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Roll",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"Z", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Leg Sweep",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Paralysis",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Transcendence: Transfer",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "WW Util",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[270] = false,
+						[66] = false,
+						[268] = false,
+					},
+					["Columns"] = 6,
+				}, -- [4]
+				{
+					["GUID"] = "TMW:group:1ReGzyv8L=59",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 4,
+						["relativeTo"] = "Hekili_Primary_B1",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "buff",
+							["Name"] = "Blackout Kick",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Control the Mists",
+							["BuffOrDebuff"] = "HARMFUL",
+							["Conditions"] = {
+								{
+									["Name"] = "Control the Mists",
+									["Type"] = "PVPTALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Type"] = "buff",
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Gladiator's Medallion",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "WW Procs/Trinkets",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+							["SpacingY"] = -2,
+						},
+					},
+					["ShrinkGroup"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[270] = false,
+						[66] = false,
+						[268] = false,
+					},
+					["Locked"] = true,
+				}, -- [5]
+				{
+					["GUID"] = "TMW:group:1ReJ4bUVz6P1",
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Name"] = "BrM Meta",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["SpacingY"] = 1,
+						},
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 3,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+						[269] = false,
+						[270] = false,
+					},
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Keg Smash",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"Q", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1RgwERJ7WbaF",
+							["FakeHidden"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Breath of Fire",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"SQ", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1RgwEMe0BgUi",
+							["FakeHidden"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["GUID"] = "TMW:icon:1RgwEA2CyiPm",
+							["Type"] = "cooldown",
+							["Name"] = "Rushing Jade Wind",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"T", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Rushing Jade Wind",
+									["Type"] = "BUFFDUR",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:icon:1RgwEA2IbKNs",
+							["Type"] = "cooldown",
+							["Name"] = "Chi Burst",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"2", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Chi Burst",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Blackout Strike",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"SE", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1RgwEOS4O9PB",
+							["FakeHidden"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:icon:1RgwJFUJXSMN",
+							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"E", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "BUFFDUR",
+									["Name"] = "Blackout Combo",
+									["Operator"] = ">",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:icon:1RgwEA2knDC5",
+							["Type"] = "cooldown",
+							["Name"] = "Tiger Palm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"E", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "ENERGY_ABS",
+									["Level"] = 55,
+									["Operator"] = ">",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rushing Jade Wind",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"T", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1RgwEA2thQNX",
+							["FakeHidden"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+				}, -- [6]
+				{
+					["GUID"] = "TMW:group:1ReJ4BggC4Pv",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 25,
+						["relativeTo"] = "ElvUF_Raid",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1RgwERJ7WbaF", -- [1]
+								"TMW:icon:1RgwEMe0BgUi", -- [2]
+								"TMW:icon:1RgwEA2CyiPm", -- [3]
+								"TMW:icon:1RgwEA2IbKNs", -- [4]
+								"TMW:icon:1RgwEOS4O9PB", -- [5]
+								"TMW:icon:1RgwJFUJXSMN", -- [6]
+								"TMW:icon:1RgwEA2knDC5", -- [7]
+								"TMW:icon:1RgwEA2thQNX", -- [8]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Ironskin Brew",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										[2] = "[Stacks]",
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										{
+											["Name"] = "Ironskin Brew",
+											["Type"] = "BUFFDUR",
+										}, -- [2]
+										["n"] = 2,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Icons"] = {
+								"TMW:icon:1RgwEIoFTn0H", -- [1]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "BrM Info",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+						[269] = false,
+						[270] = false,
+					},
+					["Columns"] = 6,
+				}, -- [7]
+				{
+					["GUID"] = "TMW:group:1ReJ4hHBr0=Z",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1ReJ4BggC4Pv",
+						["x"] = 9.9998779296875,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"S1", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Fortifying Brew",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"S2", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Zen Meditation",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Expel Harm",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"S3", -- [1]
+										"[Stacks:Hide(0, 1)]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "BrM CDs",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+						[269] = false,
+						[270] = false,
+					},
+					["Columns"] = 6,
+				}, -- [8]
+				{
+					["GUID"] = "TMW:group:1ReJ4q5Ns1t4",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1ReJ4hHBr0=Z",
+						["x"] = 10.000244140625,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Arcane Torrent",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Leg Sweep",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"C3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Paralysis",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Detox",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Transcendence: Transfer",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Provoke",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Ring of Peace",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"3", -- [1]
+									},
+								},
+							},
+							["Conditions"] = {
+								{
+									["Name"] = "Ring of Peace",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "BrM Util",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+						[269] = false,
+						[270] = false,
+					},
+					["Columns"] = 8,
+				}, -- [9]
+				{
+					["GUID"] = "TMW:group:1ReJ4xijvGUU",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 0.999969482421875,
+						["relativeTo"] = "TMW:group:1ReJ4BggC4Pv",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "BrM Procs/Trinkets",
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+						[269] = false,
+						[270] = false,
+					},
+					["Columns"] = 5,
+				}, -- [10]
+				{
+					["GUID"] = "TMW:group:1RhL2wHccDIk",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 1,
+						["relativeTo"] = "Quartz3CastBarPlayer",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"1", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["AnimColor"] = "ccffffff",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCHARGES",
+											["Name"] = "Renewing Mist",
+											["Level"] = 2,
+										}, -- [1]
+										{
+											["Type"] = "COMBAT",
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Name"] = "Renewing Mist",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"SQ", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Essence Font",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"2", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["AnimColor"] = "ccffffff",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										{
+											["Name"] = "Thunder Focus Tea",
+											["Type"] = "SPELLCD",
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Name"] = "Thunder Focus Tea",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Rising Sun Kick",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"T", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Rising Mist",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["Conditions"] = {
+								{
+									["Name"] = "Mana Tea",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Icons"] = {
+								"TMW:icon:1RrdxR3z9ge7", -- [1]
+								"TMW:icon:1RrdxR3xacNL", -- [2]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Locked"] = true,
+					["Name"] = "MW Info",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Alpha"] = 0.98,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 7,
+				}, -- [11]
+				{
+					["GUID"] = "TMW:group:1RhL4Z8DYdjg",
+					["Point"] = {
+						["y"] = -80.9607869688506,
+						["x"] = 435.468536376953,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1.63042783737183,
+					["Rows"] = 4,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "totem",
+							["FakeHidden"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"S4", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1RhZ7TBBusVN",
+							["Conditions"] = {
+								{
+									["Name"] = "Summon Jade Serpent Statue",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CustomTex"] = "115313",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:icon:1RhZ7TBDPpx2",
+							["Type"] = "totem",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"E", -- [1]
+									},
+								},
+							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Summon Jade Serpent Statue",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								{
+									["Name"] = "198533",
+									["Type"] = "BUFFNUMBER",
+									["Checked"] = true,
+									["Unit"] = "group 1-40",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["CustomTex"] = "115313",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Type"] = "totem",
+							["FakeHidden"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+									["Texts"] = {
+										"", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1SK8bmSveIqd",
+							["Conditions"] = {
+								{
+									["Name"] = "Summon Jade Serpent Statue",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CustomTex"] = "115313",
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["GUID"] = "TMW:icon:1RmchN8BStZV",
+							["Type"] = "buff",
+							["FakeHidden"] = true,
+							["Name"] = "Lifecycles (Enveloping Mist)",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"SE", -- [1]
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Lifecycles",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["AnimColor"] = "ccffffff",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["GUID"] = "TMW:icon:1RmchN8CgCm7",
+							["Type"] = "buff",
+							["FakeHidden"] = true,
+							["Name"] = "Lifecycles (Vivify)",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"Q", -- [1]
+									},
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "Lifecycles",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["AnimColor"] = "ccffffff",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["GUID"] = "TMW:icon:1RrdxR3xacNL",
+							["ShowTimer"] = true,
+							["FakeHidden"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Mana Tea",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"4", -- [1]
+									},
+								},
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["AnimColor"] = "ccffffff",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										{
+											["Name"] = "Mana Tea",
+											["Type"] = "SPELLCD",
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Conditions"] = {
+								{
+									["Name"] = "Mana Tea",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["GUID"] = "TMW:icon:1RrdxR3z9ge7",
+							["ShowTimer"] = true,
+							["FakeHidden"] = true,
+							["Type"] = "buff",
+							["Name"] = "Mana Tea",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"4", -- [1]
+										"[\"%d\":Format(Duration)]", -- [2]
+									},
+								},
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFDUR",
+											["Name"] = "Mana Tea",
+											["Operator"] = ">",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Conditions"] = {
+								{
+									["Name"] = "Mana Tea",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [61]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [62]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [63]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [64]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [65]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [66]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [67]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [68]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [69]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [70]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [71]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [72]
+					},
+					["Name"] = "MW Meta",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+						},
+					},
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 5,
+				}, -- [12]
+				{
+					["GUID"] = "TMW:group:1RhL54c5er4G",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
+						["x"] = 10,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"S1", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Revival",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"S2", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Life Cocoon",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Invoke Chi-Ji, the Red Crane",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"S3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Invoke Chi-Ji, the Red Crane",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Way of the Crane",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"S3", -- [1]
+									},
+								},
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["OnlyShown"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFDUR",
+											["Name"] = "Way of the Crane",
+											["Operator"] = ">",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Event"] = "WCSP",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Conditions"] = {
+								{
+									["Name"] = "Way of the Crane",
+									["Type"] = "PVPTALENTLEARNED",
+								}, -- [1]
+								{
+									["Type"] = "PVPFLAG",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"G", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Chi Burst",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "MW CDs",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 6,
+				}, -- [13]
+				{
+					["GUID"] = "TMW:group:1RhL5dMXPRYQ",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1RhL54c5er4G",
+						["x"] = 10,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"SG", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["AnimColor"] = "ccffffff",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "MANA",
+											["Level"] = 92,
+											["Operator"] = "<=",
+										}, -- [1]
+										{
+											["Type"] = "COMBAT",
+										}, -- [2]
+										{
+											["Name"] = "Arcane Torrent",
+											["Type"] = "SPELLCD",
+										}, -- [3]
+										["n"] = 3,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Name"] = "Arcane Torrent",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Detox",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Leg Sweep",
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Tiger's Lust",
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Tiger's Lust",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Roll",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks]", -- [2]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Ring of Peace",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Name"] = "Ring of Peace",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"A3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Transcendence: Transfer",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"C3", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Paralysis",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"V", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Fortifying Brew",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"SV", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Diffuse Magic; Healing Elixir; Dampen Harm",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "MW Util",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+						},
+					},
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 12,
+				}, -- [14]
+				{
+					["GUID"] = "TMW:group:1RhL79JRNa=d",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 2,
+						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
+					["Scale"] = 1,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["CustomTex"] = "115313",
+							["Icons"] = {
+								"TMW:icon:1RhZ7TBBusVN", -- [1]
+								"TMW:icon:1RhZ7TBDPpx2", -- [2]
+								"TMW:icon:1SK8bmSveIqd", -- [3]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks:Hide(0, 1)]", -- [1]
+									},
+								},
+							},
+							["Type"] = "buff",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Period"] = 0.6,
+									["Animation"] = "ICONFLASH",
+									["OnlyShown"] = true,
+									["AnimColor"] = "ccffffff",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Name"] = "Thunder Focus Tea",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1RmchN8BStZV", -- [1]
+								"TMW:icon:1RmchN8CgCm7", -- [2]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Rising Sun Kick",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"T", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Conditions"] = {
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "Rising Mist",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"ST", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Blackout Kick",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "14",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"5", -- [1]
+									},
+								},
+							},
+							["Type"] = "item",
+							["Conditions"] = {
+								{
+									["Name"] = "14",
+									["Type"] = "ITEMSPELL",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "13",
+							["Type"] = "item",
+							["Conditions"] = {
+								{
+									["Name"] = "13",
+									["Type"] = "ITEMSPELL",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ShowTimerText"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["Enabled"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Surging Mist",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"5", -- [1]
+									},
+								},
+							},
+							["Conditions"] = {
+								{
+									["Name"] = "Surging Mist",
+									["Type"] = "PVPTALENTLEARNED",
+								}, -- [1]
+								{
+									["Type"] = "PVPFLAG",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"`", -- [1]
+									},
+								},
+							},
+							["Type"] = "cooldown",
+							["Name"] = "Gladiator's Medallion",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["Enabled"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "Teachings of the Monastery",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks:Hide(0)]", -- [1]
+									},
+								},
+							},
+							["Type"] = "buff",
+							["Events"] = {
+								{
+									["OnConditionConditions"] = {
+										{
+											["Level"] = 3,
+											["Type"] = "BUFFSTACKS",
+											["Name"] = "Teachings of the Monastery",
+											["Operator"] = ">=",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "Animations",
+									["Event"] = "WCSP",
+									["Animation"] = "ACTVTNGLOW",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CustomTex"] = "100784",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "MW Procs/Trinkets",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 1,
+							["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+						},
+					},
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 11,
+				}, -- [15]
+				{
+					["GUID"] = "TMW:group:1Rhb7GAGEkd7",
+					["Strata"] = "LOW",
+					["Point"] = {
+						["y"] = 1,
+						["relativeTo"] = "TMW:group:1RhL2wHccDIk",
+						["point"] = "BOTTOMRIGHT",
+						["relativePoint"] = "BOTTOMLEFT",
+						["x"] = -0.9998779296875,
+					},
+					["Rows"] = 3,
+					["Icons"] = {
+						{
+							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"2", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1Rhb7GAIuwR7",
+							["Conditions"] = {
+								{
+									["Name"] = "[actionbar:3]",
+									["Type"] = "MACRO",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CustomTex"] = "100780",
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["Enabled"] = true,
+							["Type"] = "conditionicon",
+							["FakeHidden"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["Texts"] = {
+										"1", -- [1]
+									},
+								},
+							},
+							["GUID"] = "TMW:icon:1Rhb7GAMqz0W",
+							["Conditions"] = {
+								{
+									["Name"] = "[actionbar:1]",
+									["Type"] = "MACRO",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["CustomTex"] = "115151",
+							["States"] = {
+								{
+									["Alpha"] = 0.5,
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["Enabled"] = true,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1Rhb7GAMqz0W", -- [1]
+								"TMW:icon:1Rhb7GAIuwR7", -- [2]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+					},
+					["Name"] = "ActionBar Page",
+					["ShrinkGroup"] = true,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[268] = false,
+						[269] = false,
+					},
+					["Columns"] = 1,
+				}, -- [16]
+				{
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+					},
+				}, -- [17]
+			},
+			["Locked"] = true,
+			["SoundChannel"] = "Master",
+			["NumGroups"] = 16,
 			["TextureName"] = "Minimalist",
 		},
 	},

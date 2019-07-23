@@ -12,13 +12,13 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 435,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1572:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 437,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1574:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 157900,
-			["Level"] = 405,
-			["Link"] = "|cffa335ee|Hitem:157900::::::::120:65::28:4:1592:4786:5418:4775:::|h[Bone-Fetished Shoulderplates]|h|r",
+			["ID"] = 157932,
+			["Level"] = 420,
+			["Link"] = "|cffa335ee|Hitem:157932::::::::120:65::28:4:1607:4786:6265:4775:::|h[Pauldrons of Rezan's Bladeguard]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
