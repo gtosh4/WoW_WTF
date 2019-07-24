@@ -6,90 +6,18 @@ DataStore_MailsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1563862319,
-				["Mails"] = {
-					{
-						["returned"] = true,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [1]
-					{
-						["returned"] = true,
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [2]
-					{
-						["returned"] = true,
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [3]
-					{
-						["returned"] = true,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [4]
-					{
-						["returned"] = true,
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [5]
-					{
-						["returned"] = true,
-						["sender"] = "Toshaman",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [6]
-					{
-						["returned"] = true,
-						["sender"] = "Tosh",
-						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
-						["count"] = 5,
-						["lastCheck"] = 1563862319,
-						["icon"] = 1509634,
-						["daysLeft"] = 13.36826419830322,
-					}, -- [7]
-				},
-				["lastVisitDate"] = "2019/07/23 02:11",
+				["lastUpdate"] = 1563936606,
+				["lastVisitDate"] = "2019/07/23 22:50",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
@@ -154,7 +82,7 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
-						["count"] = 4,
+						["count"] = 5,
 						["lastCheck"] = 1563848983,
 						["daysLeft"] = 8.522615432739258,
 					}, -- [6]
@@ -174,7 +102,7 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
-						["count"] = 5,
+						["count"] = 4,
 						["lastCheck"] = 1563848983,
 						["daysLeft"] = 8.522615432739258,
 					}, -- [8]
@@ -190,7 +118,7 @@ DataStore_MailsDB = {
 					}, -- [9]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -210,7 +138,7 @@ DataStore_MailsDB = {
 					}, -- [11]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
+						["sender"] = "Tosh",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -230,7 +158,7 @@ DataStore_MailsDB = {
 					}, -- [13]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -240,7 +168,7 @@ DataStore_MailsDB = {
 					}, -- [14]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -260,7 +188,7 @@ DataStore_MailsDB = {
 					}, -- [16]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
+						["sender"] = "Tosh",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -290,7 +218,7 @@ DataStore_MailsDB = {
 					}, -- [19]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
+						["sender"] = "Tosh",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -300,7 +228,7 @@ DataStore_MailsDB = {
 					}, -- [20]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Yorman",
+						["sender"] = "Tosh",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -310,7 +238,7 @@ DataStore_MailsDB = {
 					}, -- [21]
 					{
 						["link"] = "|cffffffff|Hitem:163759::::::::120:264::::::|h[Rabbit's Charm]|h|r",
-						["sender"] = "Tosh",
+						["sender"] = "Yorman",
 						["itemID"] = 163759,
 						["returned"] = true,
 						["icon"] = 1509634,
@@ -318,6 +246,69 @@ DataStore_MailsDB = {
 						["lastCheck"] = 1563848983,
 						["daysLeft"] = 9.522696495056152,
 					}, -- [22]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908155,
+						["daysLeft"] = 30,
+					}, -- [23]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908150,
+						["daysLeft"] = 30,
+					}, -- [24]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908165,
+						["daysLeft"] = 30,
+					}, -- [25]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908171,
+						["daysLeft"] = 30,
+					}, -- [26]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908177,
+						["daysLeft"] = 30,
+					}, -- [27]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908160,
+						["daysLeft"] = 30,
+					}, -- [28]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 163759,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:65::::::|h[Rabbit's Charm]|h|r",
+						["count"] = 5,
+						["icon"] = 1509634,
+						["lastCheck"] = 1563908182,
+						["daysLeft"] = 30,
+					}, -- [29]
 				},
 				["lastVisitDate"] = "2019/07/22 22:29",
 			},

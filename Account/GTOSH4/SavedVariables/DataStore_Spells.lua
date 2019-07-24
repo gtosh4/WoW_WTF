@@ -6,12 +6,12 @@ DataStore_SpellsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -359,7 +359,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1563860428,
+				["lastUpdate"] = 1563936094,
 				["Spells"] = {
 					["Protection"] = {
 						8153600, -- [1]
@@ -395,31 +395,30 @@ DataStore_SpellsDB = {
 						8146176, -- [2]
 						8162304, -- [3]
 						13712128, -- [4]
-						57166336, -- [5]
-						267264, -- [6]
-						261632, -- [7]
-						1776640, -- [8]
-						1276672, -- [9]
-						6802688, -- [10]
-						31022848, -- [11]
-						9061120, -- [12]
-						127488, -- [13]
-						164352, -- [14]
-						48840704, -- [15]
-						5056000, -- [16]
-						218368, -- [17]
-						15903744, -- [18]
-						27087104, -- [19]
-						21075456, -- [20]
-						5241088, -- [21]
-						70597888, -- [22]
-						162048, -- [23]
-						21816832, -- [24]
-						47103488, -- [25]
-						1875968, -- [26]
-						8249088, -- [27]
-						13715456, -- [28]
-						47103232, -- [29]
+						267264, -- [5]
+						261632, -- [6]
+						1776640, -- [7]
+						1276672, -- [8]
+						6802688, -- [9]
+						31022848, -- [10]
+						9061120, -- [11]
+						127488, -- [12]
+						164352, -- [13]
+						48840704, -- [14]
+						5056000, -- [15]
+						218368, -- [16]
+						15903744, -- [17]
+						27087104, -- [18]
+						21075456, -- [19]
+						5241088, -- [20]
+						70597888, -- [21]
+						162048, -- [22]
+						21816832, -- [23]
+						47103488, -- [24]
+						1875968, -- [25]
+						8249088, -- [26]
+						13715456, -- [27]
+						47103232, -- [28]
 					},
 					["General"] = {
 						39717120, -- [1]

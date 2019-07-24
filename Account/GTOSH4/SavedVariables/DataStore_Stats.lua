@@ -6,12 +6,12 @@ DataStore_StatsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -42,16 +42,16 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1563861820,
+				["lastUpdate"] = 1563936546,
 				["Stats"] = {
-					["Ranged"] = "4621-4622|0|0|0|21.013889312744",
-					["HealthMax"] = 250940,
-					["Melee"] = "4904-4987|2.0450000762939|1464|0|21.013889312744|0",
+					["Ranged"] = "4218-4219|0|0|0|21.041667938232",
+					["HealthMax"] = 251160,
+					["Melee"] = "4500-4583|2.0170001983643|1464|0|21.041667938232|0",
 					["MaxPower"] = "0|100000",
 					["Defense"] = "0|0|3|6.2351169586182|10|0",
 					["PVP"] = "291|0",
-					["Base"] = "1464|514|12547|10132|0",
-					["Spell"] = "10132|10132|0|21.013889312744|1845|4000",
+					["Base"] = "1464|514|12558|10120|0",
+					["Spell"] = "10120|10120|0|21.041667938232|1965|4000",
 				},
 			},
 			["Default.Blood Furnace.Toshtrial"] = {

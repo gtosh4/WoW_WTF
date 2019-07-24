@@ -27,12 +27,6 @@ REFlexSettings = {
 REFlexDatabase = {
 	{
 		["Map"] = 1672,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 0,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Exsixtenz-Azralon", -- [1]
@@ -111,13 +105,19 @@ REFlexDatabase = {
 				21, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 0,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563872999,
 		["isRated"] = true,
 		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -137,12 +137,6 @@ REFlexDatabase = {
 	}, -- [1]
 	{
 		["Map"] = 572,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 166,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Toshpal", -- [1]
@@ -221,13 +215,19 @@ REFlexDatabase = {
 				21, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 166,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563873290,
 		["isRated"] = true,
 		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -247,12 +247,6 @@ REFlexDatabase = {
 	}, -- [2]
 	{
 		["Map"] = 1505,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 92,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Wraithbrand", -- [1]
@@ -331,13 +325,19 @@ REFlexDatabase = {
 				13, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 92,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563873531,
 		["isRated"] = true,
 		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -357,12 +357,6 @@ REFlexDatabase = {
 	}, -- [3]
 	{
 		["Map"] = 2167,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 67,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Wraithbrand", -- [1]
@@ -441,13 +435,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 67,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563873748,
 		["isRated"] = true,
 		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -467,12 +467,6 @@ REFlexDatabase = {
 	}, -- [4]
 	{
 		["Map"] = 1134,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 176,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Starboye-Illidan", -- [1]
@@ -551,13 +545,19 @@ REFlexDatabase = {
 				108, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 176,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563874015,
 		["isRated"] = true,
 		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -577,12 +577,6 @@ REFlexDatabase = {
 	}, -- [5]
 	{
 		["Map"] = 1505,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 122,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Apisto-Tichondrius", -- [1]
@@ -661,13 +655,19 @@ REFlexDatabase = {
 				8, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 122,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563874224,
 		["isRated"] = true,
 		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -687,12 +687,6 @@ REFlexDatabase = {
 	}, -- [6]
 	{
 		["Map"] = 1911,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 255,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Wraithbrand", -- [1]
@@ -771,13 +765,19 @@ REFlexDatabase = {
 				110, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 255,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563874570,
 		["isRated"] = true,
 		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -797,12 +797,6 @@ REFlexDatabase = {
 	}, -- [7]
 	{
 		["Map"] = 617,
-		["Season"] = 28,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 163,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Vicdh-Illidan", -- [1]
@@ -881,13 +875,19 @@ REFlexDatabase = {
 				74, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 28,
+		["PlayersNum"] = 4,
+		["Duration"] = 163,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
 		["Version"] = 270,
 		["isArena"] = true,
 		["Time"] = 1563874816,
 		["isRated"] = true,
 		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
