@@ -1,14 +1,5 @@
 
 AstralKeys = {
-	{
-		"Tosh-Kil'jaeden", -- [1]
-		"PRIEST", -- [2]
-		251, -- [3]
-		8, -- [4]
-		0, -- [5]
-		104, -- [6]
-		390083, -- [7]
-	}, -- [1]
 }
 AstralCharacters = {
 	{
@@ -20,62 +11,62 @@ AstralCharacters = {
 }
 AstralFriends = {
 	{
-		"Peace-Kil'jaeden", -- [1]
-		"Johnnymsw#1452", -- [2]
-		"MONK", -- [3]
-		249, -- [4]
-		13, -- [5]
-		104, -- [6]
-		389996, -- [7]
+		"Orcbum-Kil'jaeden", -- [1]
+		"bum#1748", -- [2]
+		"WARRIOR", -- [3]
+		248, -- [4]
+		14, -- [5]
+		105, -- [6]
+		120498, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		0, -- [9]
 	}, -- [1]
 	{
-		"Pride-Kil'jaeden", -- [1]
-		"Johnnymsw#1452", -- [2]
+		"Baesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
 		"WARRIOR", -- [3]
-		251, -- [4]
-		16, -- [5]
-		104, -- [6]
-		361577, -- [7]
+		248, -- [4]
+		12, -- [5]
+		105, -- [6]
+		115721, -- [7]
 		"1", -- [8]
-		13, -- [9]
+		0, -- [9]
 	}, -- [2]
+	{
+		"Wildsong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"DRUID", -- [3]
+		246, -- [4]
+		11, -- [5]
+		105, -- [6]
+		117743, -- [7]
+		"0", -- [8]
+		10, -- [9]
+	}, -- [3]
+	{
+		"Litsong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"PRIEST", -- [3]
+		249, -- [4]
+		10, -- [5]
+		105, -- [6]
+		115578, -- [7]
+		"0", -- [8]
+		10, -- [9]
+	}, -- [4]
+	{
+		"Emosong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"ROGUE", -- [3]
+		244, -- [4]
+		14, -- [5]
+		105, -- [6]
+		127521, -- [7]
+		"0", -- [8]
+		15, -- [9]
+	}, -- [5]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = true,
-		},
-		["init_time"] = 1563894000,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
-			["no_key"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -89,7 +80,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -98,7 +91,38 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["current_list"] = "FRIENDS",
+	},
+	["new_settings_config"] = true,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = true,
+		},
+		["init_time"] = 1564498800,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},

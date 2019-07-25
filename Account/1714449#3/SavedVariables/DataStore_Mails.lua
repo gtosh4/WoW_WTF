@@ -17,13 +17,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1563060936,
 				["Mails"] = {
 					{
-						["returned"] = false,
+						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["sender"] = "Toshaman",
 						["itemID"] = 163759,
-						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
-						["lastCheck"] = 1563060936,
-						["count"] = 1,
+						["returned"] = false,
 						["icon"] = 1509634,
+						["count"] = 1,
+						["lastCheck"] = 1563060936,
 						["daysLeft"] = 14.08840274810791,
 					}, -- [1]
 				},

@@ -6,23 +6,23 @@ AltoholicDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Domains"] = {
-				["Tosh.Kil'jaeden"] = {
-					["lastSharingTimestamp"] = 1556407707,
-					["lastUpdatedWith"] = "Tosh",
-				},
-			},
 			["Clients"] = {
 				"Tosh|1", -- [1]
+			},
+			["Domains"] = {
+				["Tosh.Kil'jaeden"] = {
+					["lastUpdatedWith"] = "Tosh",
+					["lastSharingTimestamp"] = 1556407707,
+				},
 			},
 		},
 		["options"] = {
@@ -38,7 +38,7 @@ AltoholicDB = {
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",
 			["UI.Tabs.Summary.CurrentLevels"] = 10,
-			["UI.Mail.LastExpiryWarning"] = 1563908121,
+			["UI.Mail.LastExpiryWarning"] = 1564020498,
 			["UI.Minimap.ShowIcon"] = false,
 			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshaman",

@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-07-23",
+			["NextWeeklyReset"] = "2019-07-30",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -24,14 +24,14 @@ DataStore_AgendaDB = {
 					},
 					["Toshaman"] = {
 						["note"] = "",
-						["level"] = 120,
 						["class"] = "Shaman",
+						["level"] = 120,
 					},
 				},
 				["lastUpdate"] = 1562523092,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1563679274,
+				["lastUpdate"] = 1564022177,
 			},
 		},
 	},

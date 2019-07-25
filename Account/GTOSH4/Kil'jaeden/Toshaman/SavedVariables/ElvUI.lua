@@ -1,50 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"than last night", -- [1]
-		"/aa window", -- [2]
-		"/cw Yellowy-Kil'jaeden yeah", -- [3]
-		"in seal", -- [4]
-		"/o next*", -- [5]
-		"/tmw", -- [6]
-		"/p yeah, I keep forgetting", -- [7]
-		"you want this first one?", -- [8]
-		"yeah, but you want it more", -- [9]
-		"/opie", -- [10]
-		"meet me", -- [11]
-		"/wa", -- [12]
-		"/g I did it", -- [13]
-		"/raid 1", -- [14]
-		"/cw Wraithbrand go down = stand in circle thingy", -- [15]
-		" stages kinda murky on this boss", -- [16]
-		" they're glowing orange-ish circles", -- [17]
-		"/dn", -- [18]
-		" you hide your extra action bar?", -- [19]
-		" I see you top 5", -- [20]
+		" they're glowing orange-ish circles", -- [1]
+		" you hide your extra action bar?", -- [2]
+		" I see you top 5", -- [3]
+		"/g I did it", -- [4]
+		"meet me", -- [5]
+		"/wa", -- [6]
+		"yeah, but you want it more", -- [7]
+		"/o next*", -- [8]
+		"stages kinda murky on this boss", -- [9]
+		"/cw Wraithbrand go down = stand in circle thingy", -- [10]
+		"you hide your extra action bar?", -- [11]
+		"/raid 1", -- [12]
+		"/tmw", -- [13]
+		"than last night", -- [14]
+		"/p yeah, I keep forgetting", -- [15]
+		"I see you top 5", -- [16]
+		"/cw Yellowy-Kil'jaeden yeah", -- [17]
+		"they're glowing orange-ish circles", -- [18]
+		"/opie", -- [19]
+		"/dn", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1277, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1563848720,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
 		{
 			"3", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563848722,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Manic Dread 2 on {rt2}Morepheous{rt2}", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563848773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563848780,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
+		}, -- [3]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13559:Player-9-09B16B50:1:7:22:19:4294967295:4294967295:4294967295:4294967295|h[The Unshackled]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563848806,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [5]
+		}, -- [4]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563848822,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
+		}, -- [5]
 		{
 			"few dead and also was not able to get out of add phase fast enough", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563848875,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
+		}, -- [6]
 		{
 			"cuz was still finishing necromancer", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563848879,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
+		}, -- [7]
 		{
 			"gordo", -- [1]
 			"|Kq23|k", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563848890,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [9]
+		}, -- [8]
 		{
 			"i have normal action buttons disabled", -- [1]
 			"|Kq23|k", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563848896,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [10]
+		}, -- [9]
 		{
 			"guys i g2g, thx alot for invite very smooth run", -- [1]
 			"Krazay-BleedingHollow", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Krazay-BleedingHollow|r",
 			[51] = 1563848898,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
+		}, -- [10]
 		{
 			"can i make a macro for one?", -- [1]
 			"|Kq23|k", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563848899,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [12]
+		}, -- [11]
 		{
 			"bye <3", -- [1]
 			"Krazay-BleedingHollow", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Krazay-BleedingHollow|r",
 			[51] = 1563848901,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
+		}, -- [12]
 		{
 			"need like all melee to go down during that shield", -- [1]
 			"Castíèl-BleedingHollow", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Castíèl-BleedingHollow|r",
 			[51] = 1563848959,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [13]
 		{
 			"I need to stay down after summoners are dead? Honestly, i went up and spaced it- IM sorry", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1563848993,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849024,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
+		}, -- [15]
 		{
 			"got time for bio rq?", -- [1]
 			"Fibel-Area52", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563849075,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [16]
 		{
 			":)", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1563849093,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [17]
 		{
 			"Im going to head out, thanks guys", -- [1]
 			"Moonblight-Kil'jaeden", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moonblight|r",
 			[51] = 1563849119,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [18]
 		{
 			"kk back", -- [1]
 			"Fibel-Area52", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563849188,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
+		}, -- [19]
 		{
 			"1", -- [1]
 			"Tøxthîcc-Area52", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTøxthîcc-Area52|r",
 			[51] = 1563849235,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [20]
 		{
 			"Tøxthîcc has received summon from Emosong-Kil'jaeden", -- [1]
 			"Tøxthîcc-Area52", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTøxthîcc-Area52|r",
 			[51] = 1563849251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [21]
 		{
 			"yo", -- [1]
 			"Holyshifft-Crushridge", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHolyshifft-Crushridge|r",
 			[51] = 1563849370,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [22]
 		{
 			"sorry i clicked something wrong, please summon agaiun", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563849385,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [23]
 		{
 			"eats.", -- [1]
 			"Shadyladyy-EmeraldDream", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cShadyladyy-EmeraldDream|r",
 			[51] = 1563849386,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [25]
+		}, -- [24]
 		{
 			"sup", -- [1]
 			"Heallen-Mal'Ganis", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Heallen-Mal'Ganis|r",
 			[51] = 1563849424,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
+		}, -- [25]
 		{
 			"summon pls", -- [1]
 			"Holyshifft-Crushridge", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHolyshifft-Crushridge|r",
 			[51] = 1563849442,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [26]
 		{
 			"1", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563849502,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
+		}, -- [27]
 		{
 			"https://discord.gg/PSessQ", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1563849520,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [29]
+		}, -- [28]
 		{
 			"The following players are Away: Muffinss", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849626,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [29]
 		{
 			"muffinss you ready", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1563849679,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [31]
+		}, -- [30]
 		{
 			"yea", -- [1]
 			"Muffinss-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Muffinss|r",
 			[51] = 1563849712,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849730,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [32]
 		{
 			"wisdom fool", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1563849730,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [33]
 		{
 			"pls and thank you  <3", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1563849736,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849787,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849788,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849800,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849817,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Manifest Nightmares on Evojaiz", -- [1]
 			"Evojaiz-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEvojaiz|r",
 			[51] = 1563849830,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Evojaiz-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEvojaiz|r",
 			[51] = 1563849833,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"2", -- [1]
 			"Evojaiz-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEvojaiz|r",
 			[51] = 1563849834,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"Dread 3 on {rt3}Fibel{rt3}", -- [1]
 			"Fibel-Area52", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563849836,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849840,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [45]
 		{
 			"Manifest Nightmares on Morepheous", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563849865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [46]
 		{
 			"Manifest Nightmares on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1563849865,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [48]
 		{
 			"3", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563849868,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [49]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1563849868,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [50]
 		{
 			"2", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563849869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [51]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1563849870,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [52]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1563849870,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849898,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849908,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563849980,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [56]
 		{
 			"Manic Dread 1 on {rt1}Emosong{rt1}", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1563849995,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"3 heals are dead", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563850012,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [58]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850016,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Castíèl!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850017,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850030,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"ppl not know how shield works?", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1563850043,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [62]
 		{
 			"think we might have lost someone going in delierium", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563850059,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [63]
 		{
 			"kid id going cray", -- [1]
 			"Muffinss-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Muffinss|r",
 			[51] = 1563850121,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [64]
 		{
 			"cant seeem to action bar", -- [1]
 			"|Kq23|k", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850124,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [66]
+		}, -- [65]
 		{
 			"gl", -- [1]
 			"Muffinss-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Muffinss|r",
 			[51] = 1563850124,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [66]
 		{
 			"you too", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1563850133,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [67]
 		{
 			"you hide your extra action bar?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850136,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [69]
+		}, -- [68]
 		{
 			"uhh, think so", -- [1]
 			"|Kq23|k", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850143,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [70]
+		}, -- [69]
 		{
 			"maybe we were focusing on cleaving more instead of bursting shield?", -- [1]
 			"Fibel-Area52", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563850146,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [70]
 		{
 			"kill the summoners then port back up", -- [1]
 			"Castíèl-BleedingHollow", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Castíèl-BleedingHollow|r",
 			[51] = 1563850157,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [71]
 		{
 			"any1 have a tome?", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1563850157,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [72]
 		{
 			"then go to delirium", -- [1]
 			"Castíèl-BleedingHollow", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Castíèl-BleedingHollow|r",
 			[51] = 1563850160,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [73]
 		{
 			"im good", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1563850173,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [74]
 		{
 			"ty", -- [1]
 			"Milferal-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Milferal|r",
 			[51] = 1563850173,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [75]
 		{
 			"eating nam nam", -- [1]
 			"Tøxthîcc-Area52", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTøxthîcc-Area52|r",
 			[51] = 1563850210,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [76]
 		{
 			"nam nam done :)", -- [1]
 			"Tøxthîcc-Area52", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTøxthîcc-Area52|r",
 			[51] = 1563850210,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [77]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850233,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [78]
 		{
 			"we killing the set of adds after shield or burning?", -- [1]
 			"Spookydeath-Rexxar", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Spookydeath-Rexxar|r",
 			[51] = 1563850257,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [79]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850266,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [80]
 		{
 			"Dread 2 on {rt2}Morepheous{rt2}", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1563850308,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [81]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850331,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850335,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [83]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850339,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [85]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850355,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [86]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850368,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [87]
 		{
 			"Manifest Nightmares on Circé", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1563850377,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [88]
 		{
 			"{skull} Dropping pools", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1563850377,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [89]
 		{
 			"3", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1563850380,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"2", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1563850381,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [91]
 		{
 			"1", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1563850382,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"Dread 3 on {rt3}Fibel{rt3}", -- [1]
 			"Fibel-Area52", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563850383,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [93]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850385,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [94]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850391,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"Manifest Nightmares on Shadyladyy", -- [1]
 			"Shadyladyy-EmeraldDream", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cShadyladyy-EmeraldDream|r",
 			[51] = 1563850412,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [96]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850412,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [97]
 		{
 			"3", -- [1]
 			"Shadyladyy-EmeraldDream", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cShadyladyy-EmeraldDream|r",
 			[51] = 1563850415,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [98]
 		{
 			"2", -- [1]
 			"Shadyladyy-EmeraldDream", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cShadyladyy-EmeraldDream|r",
 			[51] = 1563850416,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [99]
 		{
 			"1", -- [1]
 			"Shadyladyy-EmeraldDream", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cShadyladyy-EmeraldDream|r",
 			[51] = 1563850417,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [100]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850420,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [101]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850427,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [102]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850440,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [103]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [104]
 		{
 			"brez me if you can", -- [1]
 			"Fibel-Area52", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563850531,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [105]
 		{
 			"have incarn", -- [1]
 			"Fibel-Area52", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563850533,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [106]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850539,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [107]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850544,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [109]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850579,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [110]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [111]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [112]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850606,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [113]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850618,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [114]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850621,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [115]
 		{
 			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Horrific Vision {cross}{cross}{cross}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850639,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [116]
 		{
 			"|cff71d5ff|Hspell:198758:0|h[Intercept]|h|r Thunderzmonk!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1563850656,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [117]
 		{
 			"Lol ofc the one time I die is the kill.... fml", -- [1]
 			"Fibel-Area52", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fibel-Area52|r",
 			[51] = 1563850660,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [118]
 		{
 			"thx for the inv", -- [1]
 			"Evojaiz-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEvojaiz|r",
 			[51] = 1563850679,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [119]
 		{
 			"can't trade", -- [1]
 			"Sinmon-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSinmon|r",
 			[51] = 1563850681,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [120]
 		{
 			"anyone not need trinket?", -- [1]
 			"Tøxthîcc-Area52", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTøxthîcc-Area52|r",
 			[51] = 1563850689,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [121]
 		{
 			"I see you top 5", -- [1]
 			"|Kq23|k", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850705,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [123]
+		}, -- [122]
 		{
 			">:D", -- [1]
 			"|Kq23|k", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850711,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [124]
+		}, -- [123]
 		{
 			"and i fucked uop", -- [1]
 			"|Kq23|k", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850716,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [125]
+		}, -- [124]
 		{
 			"2 rops", -- [1]
 			"|Kq23|k", -- [2]
@@ -2794,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850718,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [126]
+		}, -- [125]
 		{
 			"too", -- [1]
 			"|Kq23|k", -- [2]
@@ -2816,6 +2794,28 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1563850719,
 			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13635:Player-9-0B1241C1:1:7:24:19:4294967295:4294967295:4294967295:4294967295|h[Tour of the Depths]|h|r!", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			305, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1563987829,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

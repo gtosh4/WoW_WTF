@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1074,
 	["lastSanitation"] = 3,
+	["session"] = 1079,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:100: bad argument #1 to 'match' (string expected, got nil)",
@@ -18,5 +18,13 @@ BugGrabberDB = {
 			["session"] = 1074,
 			["counter"] = 10,
 		}, -- [2]
+		{
+			["message"] = "Interface\\FrameXML\\QuestInfo.lua:73: Usage: local isCampaignQuest = C_CampaignInfo.IsCampaignQuest(questID)",
+			["time"] = "2019/07/24 09:50:30",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: in function `IsCampaignQuest'\nInterface\\FrameXML\\QuestInfo.lua:73: in function <Interface\\FrameXML\\QuestInfo.lua:51>\n[C]: ?\n[C]: in function `QuestInfo_Display'\nInterface\\FrameXML\\QuestMapFrame.lua:301: in function `QuestMapFrame_ShowQuestDetails'\nInterface\\FrameXML\\QuestMapFrame.lua:266: in function `QuestMapFrame_UpdateAll'\nInterface\\FrameXML\\QuestMapFrame.lua:151: in function <Interface\\FrameXML\\QuestMapFrame.lua:92>",
+			["session"] = 1075,
+			["counter"] = 1,
+		}, -- [3]
 	},
 }
