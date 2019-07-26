@@ -10,17 +10,17 @@ SunnArt3DB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["artwork"] = false,
 			["bar"] = {
 				{
 					["resize"] = true,
-					["enabled"] = false,
+					["size"] = 10,
 				}, -- [1]
 				{
 					["resize"] = true,
 					["enabled"] = false,
 				}, -- [2]
 			},
-			["artwork"] = false,
 		},
 	},
 }

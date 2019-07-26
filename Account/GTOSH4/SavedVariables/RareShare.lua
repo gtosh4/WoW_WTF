@@ -9,8 +9,8 @@ RareShareDB = {
 			["Duplicates"] = true,
 		},
 		["CChannel"] = {
-			["CName"] = "General - Mechagon",
 			["CID"] = 1,
+			["CName"] = "General - Mechagon",
 		},
 		["OnDeath"] = true,
 		["Sound"] = {
@@ -21,7 +21,7 @@ RareShareDB = {
 		["ChatAnnounce"] = true,
 	},
 	["LastAnnounce"] = {
-		["Time"] = 1563931378,
-		["ID"] = 152681,
+		["Time"] = 1564125963,
+		["ID"] = 151627,
 	},
 }

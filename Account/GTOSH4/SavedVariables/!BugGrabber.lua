@@ -1,30 +1,22 @@
 
 BugGrabberDB = {
+	["session"] = 1088,
 	["lastSanitation"] = 3,
-	["session"] = 1079,
 	["errors"] = {
 		{
-			["message"] = "[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:100: bad argument #1 to 'match' (string expected, got nil)",
-			["time"] = "2019/07/23 21:37:28",
-			["stack"] = "[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:100: in function `GetNPCID'\n[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:4: in function <[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:554: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:519>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:672: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:632: in function `ScanEvents'\n[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:6: in function <[string \"--[[ Error in 'Mrrl's trade game' ]] return...\"]:5>",
-			["session"] = 1073,
+			["message"] = "[string \"*:OnHide\"]:3: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
+			["time"] = "2019/07/26 02:55:57",
+			["locals"] = "(*temporary) = \"UChatScrollButton\"\n",
+			["stack"] = "[C]: in function `PlaySound'\n[string \"*:OnHide\"]:3: in function <[string \"*:OnHide\"]:1>\n[C]: in function `Hide'\nInterface\\FrameXML\\UIParent.lua:3225: in function `HideUIPanel'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 1084,
 			["counter"] = 1,
 		}, -- [1]
 		{
-			["message"] = "...rface\\AddOns\\RareShareMechagon\\RareShareMechagon-v1.lua:161: attempt to index global 'RareShareDB_Mechagon' (a nil value)",
-			["time"] = "2019/07/23 21:29:35",
-			["locals"] = "self = <table> {\n Colour = \"|cffffd700\"\n InitUI = <function> defined @Interface\\AddOns\\RareShareMechagon\\RareShareMechagon.lua:146\n Title = \"Mechagon\"\n Events = <table> {\n }\n ID = 1462\n Rares = <table> {\n }\n Config = <function> defined @Interface\\AddOns\\RareShareMechagon\\RareShareMechagon.lua:108\n Duplicates = <function> defined @Interface\\AddOns\\RareShareMechagon\\RareShareMechagon.lua:125\n}\nConfigFrame = <unnamed> {\n 0 = <userdata>\n name = \"Mechagon\"\n parent = \"Rare Share\"\n}\nX = 20\nY = -20\nCheckBoxes = <table> {\n OnDeath = RareShare_CheckBox_4_ {\n }\n Announcement = RareShare_CheckBox_1_ {\n }\n Sound = RareShare_CheckBox_2_ {\n }\n TomTom = RareShare_CheckBox_3_ {\n }\n}\n(*temporary) = <function> defined @Interface\\AddOns\\RareShare\\UI.lua:8\n(*temporary) = <table> {\n UnloadModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:53\n AnnounceRare = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:144\n SoundID = 12867\n GetModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:58\n GetReadablePlayerPosition = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:110\n GetNPCID = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:93\n EventFrame = <unnamed> {\n }\n __Events__ = <table> {\n }\n InitUI = <function> defined @Interface\\AddOns\\RareShare\\UI.lua:3\n Events = <table> {\n }\n UnregisterModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:47\n GetHealthPercent = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:102\n InitModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:5\n Log = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:35\n CheckZone = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:53\n Modules = <table> {\n }\n LastMap = 1355\n Status = true\n FullPlayerName = \"Toshpal-Kil'jaeden\"\n InitConfig = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:6\n Round = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:106\n UnregisterEventTable = <function> defined @Interface\\AddOns\\RareShare\\Events.lua:26\n CheckBoxes = <table> {\n }\n CreateCheckBox = <function> defined @Interface\\AddOns\\RareShare\\UI.lua:8\n LoadModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:34\n CreateTomTomWaypoint = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:163\n TomTom = true\n RegisterEvent = <function> defined @Interface\\AddOns\\RareShare\\Events.lua:10\n RegisterModule = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:41\n GetChannelText = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:85\n InitModuleConfig = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:28\n GetMapID = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:73\n GetChannelID = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:81\n InitModuleUI = <function> defined @Interface\\AddOns\\RareShare\\Modules.lua:22\n RegisterEventTable = <function> defined @Interface\\AddOns\\RareShare\\Events.lua:20\n InitChat = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:64\n PlaySound = <function> defined @Interface\\AddOns\\RareShare\\RareShare.lua:49\n UnregisterEvent = <function> defined @Interface\\AddOns\\RareShare\\Events.lua:15\n Cooldown = 210\n}\n(*temporary) = <table> {\n Parent = <unnamed> {\n }\n DisplayText = \"Enable Armory Announcements\"\n Y = -20\n X = 20\n Default = true\n Tooltip = \"Enables/Disables announcing armories to general chat\"\n}\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'RareShareDB_Mechagon' (a nil value)\"\nAddon = <table> {\n Loc = <table> {\n }\n}\n",
-			["stack"] = "...rface\\AddOns\\RareShareMechagon\\RareShareMechagon-v1.lua:161: in function `InitUI'\nInterface\\AddOns\\RareShare\\Modules.lua:24: in function `InitModuleUI'\nInterface\\AddOns\\RareShare\\Events.lua:47: in function `?'\nInterface\\AddOns\\RareShare\\Events.lua:61: in function <Interface\\AddOns\\RareShare\\Events.lua:60>",
-			["session"] = 1074,
-			["counter"] = 10,
-		}, -- [2]
-		{
-			["message"] = "Interface\\FrameXML\\QuestInfo.lua:73: Usage: local isCampaignQuest = C_CampaignInfo.IsCampaignQuest(questID)",
-			["time"] = "2019/07/24 09:50:30",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: in function `IsCampaignQuest'\nInterface\\FrameXML\\QuestInfo.lua:73: in function <Interface\\FrameXML\\QuestInfo.lua:51>\n[C]: ?\n[C]: in function `QuestInfo_Display'\nInterface\\FrameXML\\QuestMapFrame.lua:301: in function `QuestMapFrame_ShowQuestDetails'\nInterface\\FrameXML\\QuestMapFrame.lua:266: in function `QuestMapFrame_UpdateAll'\nInterface\\FrameXML\\QuestMapFrame.lua:151: in function <Interface\\FrameXML\\QuestMapFrame.lua:92>",
-			["session"] = 1075,
+			["message"] = "[string \"--[[ Error in 'Viewport' ]] return function...\"]:4: attempt to call method 'GetNumPoint' (a nil value)",
+			["time"] = "2019/07/26 03:04:35",
+			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:174: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:928: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1939: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1798: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1685>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1890: in function `ReloadAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1574: in function `ScanAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1519: in function `Resume'\n...dOns\\WeakAurasOptions\\OptionsFrames\\OptionsFrame.lua:191: in function <...dOns\\WeakAurasOptions\\OptionsFrames\\OptionsFrame.lua:166>\n[C]: in function `Hide'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-2.13.4.lua:1444: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1442>",
+			["session"] = 1085,
 			["counter"] = 1,
-		}, -- [3]
+		}, -- [2]
 	},
 }

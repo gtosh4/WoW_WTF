@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 165548,
@@ -12,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 439,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1576:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 441,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1578:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 157932,
@@ -92,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

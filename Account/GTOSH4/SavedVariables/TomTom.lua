@@ -6,12 +6,12 @@ TomTomDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -29,23 +29,20 @@ TomTomWaypointsM = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
-			[1355] = {
-				["1355:512574613.09433:749538421.63086:Elderspawn of Nalaada"] = {
-					1355, -- [1]
-					0.5125746130943298, -- [2]
-					0.7495384216308594, -- [3]
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Elderspawn of Nalaada",
+			[942] = {
+				["942:716697156.42929:830352485.1799:Azerite Madness"] = {
+					942, -- [1]
+					0.7166971564292908, -- [2]
+					0.8303524851799011, -- [3]
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
@@ -63,8 +60,13 @@ TomTomWaypointsM = {
 							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
-					["crazy"] = true,
 					["persistent"] = true,
+					["desc"] = "Azerite Madness",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Azerite Madness",
+					["crazy"] = true,
+					["minimap"] = true,
 					["world"] = true,
 				},
 			},
@@ -77,9 +79,15 @@ TomTomWaypointsM = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -91,9 +99,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -106,12 +114,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Zallie - Frostwolf"] = {
-		},
-		["Toshaman - Kil'jaeden"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
 		},
 	},
 }
