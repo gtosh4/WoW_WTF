@@ -6,12 +6,12 @@ Details_StreamerDB = {
 		["Daggny - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {

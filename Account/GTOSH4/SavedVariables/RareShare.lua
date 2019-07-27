@@ -8,20 +8,20 @@ RareShareDB = {
 			["Master"] = true,
 			["Duplicates"] = true,
 		},
-		["CChannel"] = {
-			["CID"] = 1,
-			["CName"] = "General - Mechagon",
-		},
-		["OnDeath"] = true,
 		["Sound"] = {
 			["Rares"] = true,
 			["Master"] = true,
 			["Duplicates"] = true,
 		},
+		["OnDeath"] = true,
 		["ChatAnnounce"] = true,
+		["CChannel"] = {
+			["CName"] = "General - Nazjatar",
+			["CID"] = 1,
+		},
 	},
 	["LastAnnounce"] = {
-		["Time"] = 1564125963,
-		["ID"] = 151627,
+		["Time"] = 1564165187,
+		["ID"] = 153658,
 	},
 }

@@ -27,3 +27,9 @@ BigWigs_EternalPalace: enabled
 SharedMedia_Causese: enabled
 ElvUI: enabled
 PersonalLootHelper: disabled
+TomCats: disabled
+TomCats-Nazjatar: disabled
+TomCats-Mechagon: disabled
+RareShareMechagon: enabled
+RareShare: disabled
+RareShareNazjatar: enabled

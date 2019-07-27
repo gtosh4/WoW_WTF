@@ -1,21 +1,24 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 165548,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165548::::::::120:65::6:5:4824:1537:4786:5420:4775:::|h[Helm of Tempered Jade]|h|r",
+			["ID"] = 168360,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168360::::::::120:65::5:4:4823:1502:4786:6267:::|h[Warhelm of Dread Waters]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 441,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1578:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 443,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1580:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 157932,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:157932::::::::120:65::28:4:1607:4786:6265:4775:::|h[Pauldrons of Rezan's Bladeguard]|h|r",
+			["ID"] = 168364,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168364::::::::120:65::5:4:4823:1502:4786:6268:::|h[Pauldrons of Fanatical Might]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -35,8 +38,8 @@ PawnOptions = {
 		}, -- [7]
 		{
 			["ID"] = 170143,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:170143::::::::120:65:::5:6300:4802:6291:1497:4786:::|h[Akana's Reefstrider Boots]|h|r",
+			["Level"] = 415,
+			["Link"] = "|cffa335ee|Hitem:170143::168641::::::120:65:::5:6300:4802:6292:1502:4786:::|h[Akana's Reefstrider Boots]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 168881,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
