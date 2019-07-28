@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
@@ -38,8 +35,8 @@ PawnOptions = {
 		}, -- [7]
 		{
 			["ID"] = 170143,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:170143::168641::::::120:65:::5:6300:4802:6292:1502:4786:::|h[Akana's Reefstrider Boots]|h|r",
+			["Level"] = 420,
+			["Link"] = "|cffa335ee|Hitem:170143::168641::::::120:65:::5:6300:4802:6293:1507:4786:::|h[Akana's Reefstrider Boots]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 168881,
@@ -92,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

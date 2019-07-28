@@ -22,9 +22,9 @@ AdiBagsDB = {
 		},
 		["Mechagon Tinkering"] = {
 		},
-		["WoD"] = {
-		},
 		["BfA"] = {
+		},
+		["WoD"] = {
 		},
 		["MoneyFrame"] = {
 		},
@@ -42,14 +42,14 @@ AdiBagsDB = {
 						["Timeworn Artifact"] = false,
 						["Nethershard"] = false,
 						["Seal of Broken Fate"] = false,
-						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
 						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
+						["Wakening Essence"] = false,
+						["Garrison Resources"] = false,
+						["Apexis Crystal"] = false,
 						["Veiled Argunite"] = false,
 						["Curious Coin"] = false,
 						["Seal of Tempered Fate"] = false,
-						["Apexis Crystal"] = false,
+						["Order Resources"] = false,
 						["Champion's Seal"] = false,
 						["Timewarped Badge"] = false,
 					},
@@ -88,12 +88,12 @@ AdiBagsDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -7,8 +7,8 @@ BigWigs3DB = {
 			[-1345] = true,
 			[-367] = true,
 			[-1004] = true,
-			[-557] = true,
 			[876] = true,
+			[-557] = true,
 			[-1352] = {
 				[2] = true,
 			},
@@ -25,10 +25,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285003] = 1032439,
-					[287333] = 1032439,
 					["stages"] = 1032439,
 					[288449] = 2015479,
+					[285003] = 1032439,
+					[287333] = 1032439,
 				},
 			},
 		},
@@ -216,7 +216,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 249.0767764104021,
 					["fontSize"] = 14,
 					["visibleBarLimit"] = 20,
 					["BigWigsAnchor_width"] = 200.2515716552734,
@@ -227,16 +227,16 @@ BigWigs3DB = {
 					["fill"] = false,
 					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_height"] = 27.03151512145996,
-					["fontSizeEmph"] = 14,
+					["BigWigsEmphasizeAnchor_width"] = 367.9370727539063,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.99998092651367,
 					["emphasizeTime"] = 10,
 					["visibleBarLimitEmph"] = 10,
 					["BigWigsEmphasizeAnchor_x"] = 802.1389764746709,
-					["BigWigsEmphasizeAnchor_y"] = 249.0767764104021,
-					["BigWigsEmphasizeAnchor_width"] = 367.9370727539063,
-					["emphasizeMultiplier"] = 1,
+					["outline"] = "OUTLINE",
 					["texture"] = "ElvUI Norm",
+					["emphasizeMultiplier"] = 1,
+					["fontSizeEmph"] = 14,
 				},
 			},
 		},
@@ -697,7 +697,7 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 			["mythic"] = {
-				["wipes"] = 7,
+				["wipes"] = 41,
 			},
 			["normal"] = {
 				["best"] = 202.4150000000373,
