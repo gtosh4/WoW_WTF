@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1108,
+	["session"] = 1110,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -57,5 +57,13 @@ BugGrabberDB = {
 			["session"] = 1106,
 			["counter"] = 1,
 		}, -- [7]
+		{
+			["message"] = "Invalid quest item in SetQuestLogItem(\"type\", index [, questID])",
+			["time"] = "2019/07/28 18:17:55",
+			["locals"] = "(*temporary) = GameTooltip {\n 0 = <userdata>\n SetExistingSocketGem = <function> defined =[C]:-1\n ItemTooltip = <unnamed> {\n }\n SetCurrencyToken = <function> defined @Interface\\AddOns\\Altoholic\\Tooltip.lua:700\n SetGuildBankItem = <function> defined =[C]:-1\n hasMoney = 1\n SetBackdropBorderColor = <function> defined =[C]:-1\n SetVoidDepositItem = <function> defined =[C]:-1\n Hide = <function> defined =[C]:-1\n template = \"Transparent\"\n comparing = false\n SetSocketGem = <function> defined =[C]:-1\n TopOverlay = <unnamed> {\n }\n SetUnitDebuff = <function> defined =[C]:-1\n SetHeirloomByItemID = <function> defined =[C]:-1\n SetLootItem = <function> defined =[C]:-1\n SetQuestItem = <function> defined =[C]:-1\n SetHyperlink = <function> defined =[C]:-1\n SetVoidItem = <function> defined =[C]:-1\n SetTrainerService = <function> defined =[C]:-1\n numMoneyFrames = 2\n SetVoidWithdrawalItem = <function> defined =[C]:-1\n PixelSnapDisabled = true\n SetRecipeReagentItem = <function> defined @Interface\\AddOns\\Altoholic\\Tooltip.lua:700\n SetBuybackItem = <function> defined =[C]:-1\n TMW_SetSpellByIDWithClassIcon = <function> defined @Interface\\AddOns\\TellMeWhen\\Components\\Core\\Spells\\ClassSpellCache.lua:212\n SetItemByID = <function> defined =[C]:-1\n SetMerchantItem = <function> defined =[C]:-1\n SetQuestLogItem = <function> defined =[C]:-1\n SetInboxItem = <function> defined =[C]:-1\n BottomOverlay = <unnamed> {\n }\n shoppingTooltips = <table> {\n }\n SetTradePlayerItem = <function> defined =[C]:-1\n SetUnitBuff = <function> defined =[C]:-1\n SetSendMailItem = <function> defined =[C]:-1\n textLeft = <table> {\n }\n updateTooltip = 0.016000\n SetInventoryItem = <function> defined =[C]:-1\n SetRecipeResultItem = <function> defined =[C]:-1\n SetTradeTargetItem = <function> defined =[C]:-1\n SetLootRollItem = <function> defined =[C]:-1\n SetUnitAura = <function> defined =[C]:-1\n ignoreUpdates = true\n SetAuctionSellItem = <function> defined =[C]:-1\n SetBagItem = <function> defined =[C]:-1\n needsReset = true\n StatusBar = GameTooltipStatusBar {\n }\n SetBackdropColor = <function> defined =[C]:-1\n pixelBorders = <table> {\n }\n SetAuctionItem = <function> defined =[C]:-1\n}\n(*temporary) = \"reward\"\n(*temporary) = 1\n",
+			["stack"] = "[C]: ?\n[C]: ?\nInterface\\AddOns\\Altoholic\\Tooltip.lua:702: in function <Interface\\AddOns\\Altoholic\\Tooltip.lua:700>\n[C]: in function `SetQuestLogItem'\nInterface\\FrameXML\\QuestInfo.lua:987: in function <Interface\\FrameXML\\QuestInfo.lua:983>",
+			["session"] = 1109,
+			["counter"] = 1,
+		}, -- [8]
 	},
 }
