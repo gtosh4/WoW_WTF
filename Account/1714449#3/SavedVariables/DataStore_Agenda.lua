@@ -24,14 +24,14 @@ DataStore_AgendaDB = {
 					},
 					["Toshaman"] = {
 						["note"] = "",
-						["class"] = "Shaman",
 						["level"] = 120,
+						["class"] = "Shaman",
 					},
 				},
 				["lastUpdate"] = 1562523092,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1564022177,
+				["lastUpdate"] = 1564420603,
 			},
 		},
 	},

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 848,
 	["lastSanitation"] = 3,
+	["session"] = 849,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",

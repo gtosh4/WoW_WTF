@@ -1,2 +1,2 @@
 
-RARE_SHARE_CONFIG_NAZJATAR = nil
+RareShareDB_Nazjatar = nil

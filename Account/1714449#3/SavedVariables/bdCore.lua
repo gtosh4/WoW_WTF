@@ -108,7 +108,7 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["interrupt"] = true,
 			["gmotd"] = {
 				[""] = true,
@@ -134,38 +134,38 @@ BD_persistent = {
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
-				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["slay mekka friday and blockade saturday "] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
-				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["main raid tonight slay stormwall :)"] = true,
-				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
-				["RIP Toshmonk"] = true,
-				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
-				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
+				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["RIP Toshmonk"] = true,
+				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
+				["main raid tonight slay stormwall :)"] = true,
+				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["slay mekka friday and blockade saturday "] = true,
+				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
 				0.13, -- [3]
 				1, -- [4]
 			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

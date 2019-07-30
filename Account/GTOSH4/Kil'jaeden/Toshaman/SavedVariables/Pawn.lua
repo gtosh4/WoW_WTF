@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 165820,
@@ -76,9 +73,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169314::168638::::::120:264::5:4:4799:1808:1502:4786:::|h[Azshara's Font of Power]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 165924,
-			["Level"] = 425,
-			["Link"] = "|cffa335ee|Hitem:165924::::::::120:264::6:3:4800:1547:4783:::|h[High Tinker's Cape]|h|r",
+			["ID"] = 155884,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:155884::::::::120:264::16:3:5010:1602:4786:::|h[Parrotfeather Cloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 168397,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168397::::::::120:262::5:3:4799:1502:4786:::|h[Fang of the Behemoth]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

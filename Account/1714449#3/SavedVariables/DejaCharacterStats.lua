@@ -4,17 +4,17 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowAverageRepairChecked"] = {
 			["ShowAverageRepairSetChecked"] = false,
 		},
-		["dejacharacterstatsScrollbarChecked"] = {
-			["ScrollbarSetChecked"] = false,
+		["dejacharacterstatsExpandButtonChecked"] = {
+			["ExpandButtonSetChecked"] = true,
 		},
-		["dejacharacterstatsShowDuraTextureChecked"] = {
-			["ShowDuraTextureSetChecked"] = false,
+		["dejacharacterstatsHideMasteryChecked"] = {
+			["SetChecked"] = true,
 		},
 		["dejacharacterstatsItemLevelChecked"] = {
 			["ItemLevelTwoDecimalsSetChecked"] = false,
 			["ItemLevelEQ_AV_SetChecked"] = true,
-			["ItemLevelDecimalsSetChecked"] = true,
 			["ItemLevelClassColorSetChecked"] = true,
+			["ItemLevelDecimalsSetChecked"] = true,
 		},
 		["dejacharacterstatsHideAtZeroChecked"] = {
 			["SetChecked"] = false,
@@ -25,18 +25,18 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowDecimalsChecked"] = {
 			["SetChecked"] = true,
 		},
-		["dejacharacterstatsDCSZeroChecked"] = {
-			["SetChecked"] = false,
+		["dejacharacterstatsShowItemLevelChecked"] = {
+			["ShowItemLevelSetChecked"] = true,
 		},
 		["dejacharacterstatsSimpleItemColorChecked"] = {
 			["SimpleItemColorChecked"] = false,
 			["DarkerItemColorChecked"] = true,
 		},
-		["dejacharacterstatsHideMasteryChecked"] = {
-			["SetChecked"] = true,
+		["dejacharacterstatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = false,
 		},
-		["dejacharacterstatsShowItemLevelChecked"] = {
-			["ShowItemLevelSetChecked"] = true,
+		["dejacharacterstatsDCSZeroChecked"] = {
+			["SetChecked"] = false,
 		},
 		["dejacharacterstatsClassBackgroundChecked"] = {
 			["ClassBackgroundChecked"] = true,
@@ -50,8 +50,8 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsAlternateInfoPlacement"] = {
 			["AlternateInfoPlacementChecked"] = false,
 		},
-		["dejacharacterstatsExpandButtonChecked"] = {
-			["ExpandButtonSetChecked"] = true,
+		["dejacharacterstatsScrollbarChecked"] = {
+			["ScrollbarSetChecked"] = false,
 		},
 	},
 }
@@ -245,11 +245,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
-			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Toshaman:Kil'jaeden:1",
 	},
@@ -447,12 +447,15 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
-			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
+		{
+			["statKey"] = "DCS_MOVESPEED",
+		}, -- [50]
 		["uniqueKey"] = "Tosh:Kil'jaeden:1",
 	},
 	["Toshmonk:Kil'jaeden:2"] = {
@@ -644,11 +647,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Toshmonk:Kil'jaeden:2",
 	},
@@ -841,11 +844,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
-			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:1",
 	},
@@ -977,11 +980,11 @@ DCS_ClassSpecDB = {
 		}, -- [37]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = false,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = false,
 		}, -- [38]
 		{
 			["statKey"] = "RatingCategory",
@@ -1233,11 +1236,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Toshaman:Kil'jaeden:3",
 	},
@@ -1430,11 +1433,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Toshpal:Kil'jaeden:1",
 	},
@@ -1627,11 +1630,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:4",
 	},
@@ -1824,204 +1827,13 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Tosh:Kil'jaeden:3",
-	},
-	["Toshmonk:Kil'jaeden:1"] = {
-		{
-			["statKey"] = "ItemLevelFrame",
-		}, -- [1]
-		{
-			["statKey"] = "GeneralCategory",
-		}, -- [2]
-		{
-			["statKey"] = "HEALTH",
-		}, -- [3]
-		{
-			["statKey"] = "DCS_POWER",
-		}, -- [4]
-		{
-			["statKey"] = "DCS_ALTERNATEMANA",
-		}, -- [5]
-		{
-			["statKey"] = "ITEMLEVEL",
-			["hidden"] = true,
-		}, -- [6]
-		{
-			["statKey"] = "MOVESPEED",
-		}, -- [7]
-		{
-			["statKey"] = "DURABILITY_STAT",
-		}, -- [8]
-		{
-			["statKey"] = "REPAIR_COST",
-		}, -- [9]
-		{
-			["statKey"] = "AttributesCategory",
-		}, -- [10]
-		{
-			["statKey"] = "STRENGTH",
-			["hidden"] = true,
-		}, -- [11]
-		{
-			["statKey"] = "AGILITY",
-		}, -- [12]
-		{
-			["statKey"] = "INTELLECT",
-			["hidden"] = true,
-		}, -- [13]
-		{
-			["statKey"] = "STAMINA",
-		}, -- [14]
-		{
-			["statKey"] = "OffenseCategory",
-		}, -- [15]
-		{
-			["statKey"] = "ATTACK_DAMAGE",
-		}, -- [16]
-		{
-			["statKey"] = "ATTACK_AP",
-		}, -- [17]
-		{
-			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
-		}, -- [18]
-		{
-			["statKey"] = "WEAPON_DPS",
-		}, -- [19]
-		{
-			["statKey"] = "SPELLPOWER",
-			["hidden"] = true,
-		}, -- [20]
-		{
-			["statKey"] = "MANAREGEN",
-			["hidden"] = true,
-		}, -- [21]
-		{
-			["statKey"] = "ENERGY_REGEN",
-		}, -- [22]
-		{
-			["statKey"] = "DCS_RUNEREGEN",
-			["hidden"] = true,
-		}, -- [23]
-		{
-			["statKey"] = "FOCUS_REGEN",
-		}, -- [24]
-		{
-			["statKey"] = "GCD",
-		}, -- [25]
-		{
-			["statKey"] = "EnhancementsCategory",
-		}, -- [26]
-		{
-			["statKey"] = "CRITCHANCE",
-			["hideAt"] = 0,
-		}, -- [27]
-		{
-			["statKey"] = "HASTE",
-			["hideAt"] = 0,
-		}, -- [28]
-		{
-			["statKey"] = "VERSATILITY",
-			["hideAt"] = 0,
-		}, -- [29]
-		{
-			["statKey"] = "MASTERY",
-			["hideAt"] = 0,
-		}, -- [30]
-		{
-			["statKey"] = "LIFESTEAL",
-			["hideAt"] = 0,
-		}, -- [31]
-		{
-			["statKey"] = "AVOIDANCE",
-			["hideAt"] = 0,
-		}, -- [32]
-		{
-			["statKey"] = "DefenseCategory",
-		}, -- [33]
-		{
-			["statKey"] = "ARMOR",
-		}, -- [34]
-		{
-			["statKey"] = "DODGE",
-			["hideAt"] = 0,
-		}, -- [35]
-		{
-			["statKey"] = "PARRY",
-			["hideAt"] = 0,
-		}, -- [36]
-		{
-			["statKey"] = "BLOCK",
-			["hideAt"] = 0,
-		}, -- [37]
-		{
-			["statKey"] = "STAGGER",
-			["hidden"] = false,
-			["hideAt"] = 0,
-			["roles"] = {
-				"TANK", -- [1]
-			},
-		}, -- [38]
-		{
-			["statKey"] = "RatingCategory",
-			["hidden"] = true,
-		}, -- [39]
-		{
-			["statKey"] = "CRITCHANCE_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [40]
-		{
-			["statKey"] = "HASTE_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [41]
-		{
-			["statKey"] = "VERSATILITY_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [42]
-		{
-			["statKey"] = "MASTERY_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [43]
-		{
-			["statKey"] = "LIFESTEAL_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [44]
-		{
-			["statKey"] = "AVOIDANCE_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [45]
-		{
-			["statKey"] = "DODGE_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [46]
-		{
-			["statKey"] = "PARRY_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [47]
-		{
-			["statKey"] = "SPEED_RATING",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [48]
-		{
-			["statKey"] = "SPEED",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [49]
-		["uniqueKey"] = "Toshmonk:Kil'jaeden:1",
 	},
 	["Tosh:Kil'jaeden:2"] = {
 		{
@@ -2212,13 +2024,204 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Tosh:Kil'jaeden:2",
+	},
+	["Toshmonk:Kil'jaeden:1"] = {
+		{
+			["statKey"] = "ItemLevelFrame",
+		}, -- [1]
+		{
+			["statKey"] = "GeneralCategory",
+		}, -- [2]
+		{
+			["statKey"] = "HEALTH",
+		}, -- [3]
+		{
+			["statKey"] = "DCS_POWER",
+		}, -- [4]
+		{
+			["statKey"] = "DCS_ALTERNATEMANA",
+		}, -- [5]
+		{
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
+		}, -- [6]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [7]
+		{
+			["statKey"] = "DURABILITY_STAT",
+		}, -- [8]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [9]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [10]
+		{
+			["statKey"] = "STRENGTH",
+			["hidden"] = true,
+		}, -- [11]
+		{
+			["statKey"] = "AGILITY",
+		}, -- [12]
+		{
+			["statKey"] = "INTELLECT",
+			["hidden"] = true,
+		}, -- [13]
+		{
+			["statKey"] = "STAMINA",
+		}, -- [14]
+		{
+			["statKey"] = "OffenseCategory",
+		}, -- [15]
+		{
+			["statKey"] = "ATTACK_DAMAGE",
+		}, -- [16]
+		{
+			["statKey"] = "ATTACK_AP",
+		}, -- [17]
+		{
+			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
+		}, -- [18]
+		{
+			["statKey"] = "WEAPON_DPS",
+		}, -- [19]
+		{
+			["statKey"] = "SPELLPOWER",
+			["hidden"] = true,
+		}, -- [20]
+		{
+			["statKey"] = "MANAREGEN",
+			["hidden"] = true,
+		}, -- [21]
+		{
+			["statKey"] = "ENERGY_REGEN",
+		}, -- [22]
+		{
+			["statKey"] = "DCS_RUNEREGEN",
+			["hidden"] = true,
+		}, -- [23]
+		{
+			["statKey"] = "FOCUS_REGEN",
+		}, -- [24]
+		{
+			["statKey"] = "GCD",
+		}, -- [25]
+		{
+			["statKey"] = "EnhancementsCategory",
+		}, -- [26]
+		{
+			["statKey"] = "CRITCHANCE",
+			["hideAt"] = 0,
+		}, -- [27]
+		{
+			["statKey"] = "HASTE",
+			["hideAt"] = 0,
+		}, -- [28]
+		{
+			["statKey"] = "VERSATILITY",
+			["hideAt"] = 0,
+		}, -- [29]
+		{
+			["statKey"] = "MASTERY",
+			["hideAt"] = 0,
+		}, -- [30]
+		{
+			["statKey"] = "LIFESTEAL",
+			["hideAt"] = 0,
+		}, -- [31]
+		{
+			["statKey"] = "AVOIDANCE",
+			["hideAt"] = 0,
+		}, -- [32]
+		{
+			["statKey"] = "DefenseCategory",
+		}, -- [33]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [34]
+		{
+			["statKey"] = "DODGE",
+			["hideAt"] = 0,
+		}, -- [35]
+		{
+			["statKey"] = "PARRY",
+			["hideAt"] = 0,
+		}, -- [36]
+		{
+			["statKey"] = "BLOCK",
+			["hideAt"] = 0,
+		}, -- [37]
+		{
+			["statKey"] = "STAGGER",
+			["roles"] = {
+				"TANK", -- [1]
+			},
+			["hidden"] = false,
+			["hideAt"] = 0,
+		}, -- [38]
+		{
+			["statKey"] = "RatingCategory",
+			["hidden"] = true,
+		}, -- [39]
+		{
+			["statKey"] = "CRITCHANCE_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [40]
+		{
+			["statKey"] = "HASTE_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [41]
+		{
+			["statKey"] = "VERSATILITY_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [42]
+		{
+			["statKey"] = "MASTERY_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [43]
+		{
+			["statKey"] = "LIFESTEAL_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [44]
+		{
+			["statKey"] = "AVOIDANCE_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [45]
+		{
+			["statKey"] = "DODGE_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [46]
+		{
+			["statKey"] = "PARRY_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [47]
+		{
+			["statKey"] = "SPEED_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [48]
+		{
+			["statKey"] = "SPEED",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [49]
+		["uniqueKey"] = "Toshmonk:Kil'jaeden:1",
 	},
 	["Toshmonk:Kil'jaeden:3"] = {
 		{
@@ -2407,11 +2410,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Toshmonk:Kil'jaeden:3",
 	},

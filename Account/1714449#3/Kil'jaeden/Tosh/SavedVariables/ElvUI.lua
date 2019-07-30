@@ -5,68 +5,24 @@ ElvCharacterDB = {
 		" yeah, shit's def. not happy", -- [2]
 		" whatchu mean", -- [3]
 		" hash rate's 0 too", -- [4]
-		"I haven't either", -- [5]
-		"run out, get dispelled, run away", -- [6]
-		"I mean, can't without vpn", -- [7]
-		"I haven't yet", -- [8]
+		"I haven't yet", -- [5]
+		"something about a safe zone", -- [6]
+		"/wa", -- [7]
+		"I lost vpn", -- [8]
 		"oh, it's back", -- [9]
-		"for wep / trinket", -- [10]
-		"whatchu mean", -- [11]
-		"want in?", -- [12]
-		"I lost vpn", -- [13]
-		"something about a safe zone", -- [14]
-		"yeah, shit's def. not happy", -- [15]
-		"gotta unlock it", -- [16]
+		"I haven't either", -- [10]
+		"yeah, shit's def. not happy", -- [11]
+		"hash rate's 0 too", -- [12]
+		"want in?", -- [13]
+		"I mean, can't without vpn", -- [14]
+		"gotta unlock it", -- [15]
+		"whatchu mean", -- [16]
 		"ima toss a few", -- [17]
-		"this one's like the last boss in eye", -- [18]
-		"hash rate's 0 too", -- [19]
-		"/wa", -- [20]
+		"for wep / trinket", -- [18]
+		"this one's like the last boss in eye", -- [19]
+		"run out, get dispelled, run away", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Casting |cff71d5ff|Hspell:212036:0|h[Mass Resurrection]|h|r!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2662, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1562810654,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:286050:0|h[Sanguinated Feast]|h|r placed by Qiro!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2664, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1562810660,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
 		{
 			"Lockstones here!", -- [1]
 			"Dualyzm-Area52", -- [2]
@@ -88,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDualyzm-Area52|r",
 			[51] = 1562810662,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [1]
 		{
 			"3", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -110,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1562810793,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [2]
 		{
 			"2", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -132,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1562810794,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [3]
 		{
 			"Innervate buffed on you.", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -154,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Iko|r",
 			[51] = 1562810808,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [6]
+		}, -- [4]
 		{
 			"{rt4}{rt4}", -- [1]
 			"Anguskhán-Thrall", -- [2]
@@ -176,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cAnguskhán-Thrall|r",
 			[51] = 1562810885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [5]
 		{
 			"Jumping Leaderboard:", -- [1]
 			"Xannîe-Illidan", -- [2]
@@ -198,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Xannîe-Illidan|r",
 			[51] = 1562810965,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
+		}, -- [6]
 		{
 			"Xannîe: 0", -- [1]
 			"Xannîe-Illidan", -- [2]
@@ -220,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Xannîe-Illidan|r",
 			[51] = 1562810965,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
+		}, -- [7]
 		{
 			"ggs", -- [1]
 			"Scizilla-Area52", -- [2]
@@ -242,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla-Area52|r",
 			[51] = 1562810979,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
+		}, -- [8]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -264,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061193,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [9]
 		{
 			"<SavedInstances> Siege of Boralus has been reset.", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -286,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061193,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [10]
 		{
 			"thit kho", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -308,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563061263,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"simmered", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -330,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563061264,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [12]
 		{
 			"pork", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -352,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563061265,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [13]
 		{
 			".", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -374,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563061265,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [14]
 		{
 			"Interrupted Dazar'ai Confessor's |cff71d5ff|Hspell:253517:0|h[Mending Word]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -396,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061311,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [15]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -418,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061319,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [16]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -440,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061371,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [17]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -462,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061378,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061387,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [19]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -506,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061395,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -528,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061404,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061405,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
+		}, -- [22]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Feasting Skyscreamer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -572,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [23]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -594,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061423,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+		}, -- [24]
 		{
 			"Taunted Rezan!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -616,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061474,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+		}, -- [25]
 		{
 			"Taunted Reanimated Raptor!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -638,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061487,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [26]
 		{
 			"Taunted Rezan!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -660,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061535,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Taunted Rezan!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -682,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Taunted Shadowblade Stalker!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -704,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061562,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [29]
 		{
 			"Taunted Shieldbearer of Zul!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -726,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061577,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Reanimated Honor Guard!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061631,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [31]
 		{
 			"Taunted Shieldbearer of Zul!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -770,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061632,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Reanimated Honor Guard has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061633,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
+		}, -- [33]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -814,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061638,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"Taunted Zanchuli Witch-Doctor!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061640,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
+		}, -- [35]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061648,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [36]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -880,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061652,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+		}, -- [38]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -924,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061657,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Reanimated Honor Guard!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061678,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Reanimated Honor Guard has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061678,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [41]
 		{
 			"Taunted Vol'kaal!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -990,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061777,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [42]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1012,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061784,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [43]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1034,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061825,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [44]
 		{
 			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1056,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061844,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [45]
 		{
 			"Unstable Hex on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1078,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1563061880,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252781:0|h[Unstable Hex]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1100,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061951,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [47]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1122,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061951,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
+		}, -- [48]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1144,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061951,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061967,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1188,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061967,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [51]
 		{
 			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1210,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563061970,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061990,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061990,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [54]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061992,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [55]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1298,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563061992,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Feasting Skyscreamer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1320,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062014,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Feasting Skyscreamer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1342,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062014,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [58]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1364,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062016,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [59]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1386,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062017,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"Taunted Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062017,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [61]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1430,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062033,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [62]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062033,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [63]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1474,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [64]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1496,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062044,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
+		}, -- [65]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1518,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062057,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062096,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Feasting Skyscreamer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1562,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062096,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [68]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [69]
 		{
 			"Taunted Toxic Saurid!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1606,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062097,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Feasting Skyscreamer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062099,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Feasting Skyscreamer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1650,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062099,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [72]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1672,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062121,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [73]
 		{
 			"Qiro interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -1694,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563062121,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [74]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1716,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062139,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [75]
 		{
 			"Qiro interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Qiro-Kil'jaeden", -- [2]
@@ -1738,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcQiro|r",
 			[51] = 1563062139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [76]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1760,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062159,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [77]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1782,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062159,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+		}, -- [78]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1804,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062208,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [79]
 		{
 			"<EH> Haxpaxy got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 114.8k (46%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1826,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062211,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [80]
 		{
 			"<EH> Tosh got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 141.5k (59%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1848,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062211,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [81]
 		{
 			"Taunted Dazar'ai Augur!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1870,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062220,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
+		}, -- [82]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1892,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062240,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [83]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1914,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [84]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1936,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062241,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [85]
 		{
 			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253583:0|h[Fiery Enchant]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1958,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062246,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [86]
 		{
 			"Taunted Priestess Alun'za!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1980,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062301,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [87]
 		{
 			"Priestess Alun'za is immune to my |cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2002,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062312,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
+		}, -- [88]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062331,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [89]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2046,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062346,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [90]
 		{
 			"Interrupted Dazar'ai Juggernaut's |cff71d5ff|Hspell:255824:0|h[Fanatic's Rage]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2068,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062371,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Taunted Dazar'ai Juggernaut!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2090,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062376,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [92]
 		{
 			"<EH> Peace got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 217.7k (61%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2112,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062385,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [93]
 		{
 			"<EH> Tosh got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 282.9k (95%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2134,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062391,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"Taunted Yazma!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062436,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [95]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2178,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062439,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [96]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2200,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062459,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [97]
 		{
 			"<EH> Qiro got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 108.7k (44%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2222,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062476,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [98]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2244,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062477,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [99]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2266,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1563062496,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
+		}, -- [100]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2288,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [101]
 		{
 			"1. Qiro 213.2k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2310,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [102]
 		{
 			"2. Illsong 339.8k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2332,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [103]
 		{
 			"3. Haxpaxy 570.7k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2354,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [104]
 		{
 			"4. Peace 637.0k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2376,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [105]
 		{
 			"5. Tosh 1031.0k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2398,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1563062514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [106]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13769:Player-9-0B60C7FF:1:7:13:19:4294967295:4294967295:4294967295:4294967295|h[Power Up]|h|r!", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2420,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1563062738,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [109]
+		}, -- [107]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2442,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1564021602,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [108]
 		{
 			"[WeakAuras: Vercetty-Kil'jaeden - T24: 08: Azshara's Decrees]", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2464,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1564021644,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [109]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - T25: Mythic Queen Azshara Revamp]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2486,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1564021678,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [112]
+		}, -- [110]
 		{
 			"Everyone is Ready", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2508,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1564021717,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [111]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - T25: Queen's Court Decrees]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2530,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1564021735,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [114]
+		}, -- [112]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2552,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1564021858,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [113]
 		{
 			"Beckon on Scizilla", -- [1]
 			"Scizilla-Area52", -- [2]
@@ -2574,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla-Area52|r",
 			[51] = 1564021867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [114]
 		{
 			"fuck all this orange ", -- [1]
 			"Tlvik-Kil'jaeden", -- [2]
@@ -2596,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTlvik|r",
 			[51] = 1564021876,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [115]
 		{
 			"Stand Together! on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2618,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1564021876,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [118]
+		}, -- [116]
 		{
 			"Beckon on Scizilla", -- [1]
 			"Scizilla-Area52", -- [2]
@@ -2640,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla-Area52|r",
 			[51] = 1564021921,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [117]
 		{
 			"Beckon on Dualyzm", -- [1]
 			"Dualyzm-Area52", -- [2]
@@ -2662,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDualyzm-Area52|r",
 			[51] = 1564021921,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [118]
 		{
 			"My Life for The Queen!", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2684,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1564021925,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [119]
 		{
 			"My Life for The Queen!", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2706,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1564022010,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [120]
 		{
 			"wtf i cant heal", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -2728,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1564022060,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [121]
 		{
 			"here's some positivity", -- [1]
 			"Variatte-Thrall", -- [2]
@@ -2750,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Variatte-Thrall|r",
 			[51] = 1564022123,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [122]
 		{
 			"GREAT RUN FOR 7/8 GUYS", -- [1]
 			"Variatte-Thrall", -- [2]
@@ -2772,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Variatte-Thrall|r",
 			[51] = 1564022128,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [123]
 		{
 			"STELLAR STUFF", -- [1]
 			"Variatte-Thrall", -- [2]
@@ -2794,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Variatte-Thrall|r",
 			[51] = 1564022130,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [124]
 		{
 			"ty ", -- [1]
 			"Tlvik-Kil'jaeden", -- [2]
@@ -2816,6 +2772,50 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTlvik|r",
 			[51] = 1564022150,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [125]
+		{
+			"LOOOOOOOOOL", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			false, -- [12]
+			34, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "",
+			[51] = 1564420542,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [126]
+		{
+			"i cant breathe", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			false, -- [12]
+			34, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "",
+			[51] = 1564420544,
+			[50] = "CHAT_MSG_BN_WHISPER",
 		}, -- [127]
 	},
 }

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1110,
 	["lastSanitation"] = 3,
+	["session"] = 1117,
 	["errors"] = {
 		{
 			["message"] = "[string \"*:OnHide\"]:3: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
@@ -65,5 +65,49 @@ BugGrabberDB = {
 			["session"] = 1109,
 			["counter"] = 1,
 		}, -- [8]
+		{
+			["message"] = "Error loading Interface\\AddOns\\ElvUI\\Core\\API.lua",
+			["session"] = 1112,
+			["time"] = "2019/07/29 13:20:29",
+			["counter"] = 4,
+		}, -- [9]
+		{
+			["message"] = "Interface\\AddOns\\ElvUI\\Core\\Core.lua:1459: attempt to call method 'LoadAPI' (a nil value)",
+			["time"] = "2019/07/29 13:20:32",
+			["locals"] = "self = <table> {\n GetTimeInfo = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Math.lua:314\n mylevel = 120\n Bags = <table> {\n }\n Minimap = <table> {\n }\n modules = <table> {\n }\n GetBackdropColor = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Toolkit.lua:58\n FormatMoney = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Math.lua:368\n HelloKittyToggle = <function> defined @Interface\\AddOns\\ElvUI\\Core\\AprilFools.lua:353\n UpdateUnitFrames = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:867\n CopyTable = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:510\n DispelClasses = <table> {\n }\n SetMoversPositions = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Movers.lua:480\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n PriestColors = <table> {\n }\n UpdateDB = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:834\n SetupTheme = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Install.lua:166\n media = <table> {\n }\n SetUpAnimGroup = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Animation.lua:22\n data = <table> {\n }\n EnableBlizzardAddOns = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Commands.lua:215\n UIScale = <function> defined @Interface\\AddOns\\ElvUI\\Core\\PixelPerfect.lua:27\n db = <table> {\n }\n FramesOverlap = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Math.lua:111\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n Options = <table> {\n }\n UpdateLayout = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:885\n Layout = <table> {\n }\n PluginInstaller = <table> {\n }\n PixelBestSize = <function> defined @Interface\\AddOns\\ElvUI\\Core\\PixelPerfect.lua:69\n UnregisterEventForObject = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:1147\n Distributor = <table> {\n }\n HiddenFrame = <unnamed> {\n }\n Media = <table> {\n }\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n ScanTooltipTextures = <function> defined @Interface\\AddOns\\ElvUI\\init.lua:115\n SafeGetPoint = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Toolkit.lua:20\n UIFrameFade = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Animation.lua:212\n MinimapWidth = 180\n StaticPopup_IsLastDisplayedFrame = <function> defined @Interface\\AddOns\\ElvUI\\Core\\StaticPopups.lua:588\n StaticPopup_CreateSecureButton = <function> defined @Interface\\AddOns\\ElvUI\\Core\\StaticPopups.lua:1150\n Truncate = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Math.lua:92\n UpdateBackdropColors = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:439\n TimeThreshold = 3\n ToggleMoveMode = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Config.lua:58\n RemoveTableDuplicates = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:547\n name = \"ElvUI\"\n WorldMap = <table> {\n }\n MinimapHeight = 180\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n DF = <table> {\n }\n SlideOut = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Animation.lua:147\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Core.lua:194\n Install = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Install.lua:719\n StaticPopup_GetAllSecureButtons = <function> defined @Interface\\AddOns\\ElvUI\\Core\\StaticPopups.lua:1174\n LockedCVars = <table> {\n }\n TogglePixelBorders = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Toolkit.lua:96\n TimeFormats = <table> {\n }\n RGBToHex = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Math.lua:97\n InversePoints = <table> {\n }\n Cooldown_StopTimer = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Cooldowns.lua:93\n loadedtime = 1241247.364000\n Tutorials = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Tutorials.lua:110\n UpdateNudgeFrame = <function> defined @Interface\\AddOns\\ElvUI\\Core\\Config.lua:212\n ShortPrefixStyles = <table> {\n }\n GetCPUImpact = <f",
+			["stack"] = "Interface\\AddOns\\ElvUI\\Core\\Core.lua:1459: in function `Initialize'\nInterface\\AddOns\\ElvUI\\init.lua:231: in function <Interface\\AddOns\\ElvUI\\init.lua:230>",
+			["session"] = 1112,
+			["counter"] = 1,
+		}, -- [10]
+		{
+			["message"] = "...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:104: attempt to index field 'db' (a nil value)",
+			["time"] = "2019/07/29 13:20:33",
+			["stack"] = "[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:29: in function <[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:174: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:928: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1939: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1798: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1685>\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1890: in function `ReloadAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1574: in function `ScanAll'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1519: in function `Resume'\nInterface\\AddOns\\WeakAuras\\WeakAuras-2.13.4.lua:1375: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1342>",
+			["session"] = 1112,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:14: attempt to index field 'tex' (a nil value)",
+			["time"] = "2019/07/29 13:20:37",
+			["stack"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:14: in function `FULL'\nInterface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:57: in function `?'\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1112,
+			["counter"] = 3,
+		}, -- [12]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
+			["time"] = "2019/07/29 20:57:09",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
+			["session"] = 1115,
+			["counter"] = 3,
+		}, -- [13]
+		{
+			["message"] = "Interface\\FrameXML\\ContainerFrame.lua:1183: attempt to index a nil value",
+			["time"] = "2019/07/29 23:31:09",
+			["locals"] = "itemButton = AdiBagsItemButton126 {\n timeSinceUpgradeCheck = 0\n PostOnLoad = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:169\n BattlepayItemTexture = <unnamed> {\n }\n IconOverlay = <unnamed> {\n }\n BagStaticTop = <unnamed> {\n }\n IconBorder = <unnamed> {\n }\n newitemglowAnim = <unnamed> {\n }\n icon = AdiBagsItemButton126IconTexture {\n }\n UpdateTooltip = <function> defined @Interface\\FrameXML\\ContainerFrame.lua:1376\n ExtendedOverlay = <unnamed> {\n }\n RegisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:175\n UnregisterCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:182\n UpdateItemContextMatching = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:211\n NewItemTexture = <unnamed> {\n }\n Cooldown = AdiBagsItemButton126Cooldown {\n }\n itemContextMatchResult = 3\n count = 1\n BagStaticBottom = <unnamed> {\n }\n filterName = \"Track new items\"\n ItemContextOverlay = <unnamed> {\n }\n PostOnShow = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:189\n flash = <unnamed> {\n }\n ExtendedSlot = <unnamed> {\n }\n ExtendedOverlay2 = <unnamed> {\n }\n IconTexture = AdiBagsItemButton126IconTexture {\n }\n JunkIcon = <unnamed> {\n }\n SetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:202\n UpdateItemContextOverlay = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:222\n slot = 7\n bag = 0\n NormalTexture = AdiBagsItemButton126NormalTexture {\n }\n Stock = AdiBagsItemButton126Stock {\n }\n IconQuestTexture = AdiBagsItemButton126IconQuestTexture {\n }\n itemContextChangedCallback = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:170\n 0 = <userdata>\n Count = AdiBagsItemButton126Count {\n }\n PostOnHide = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:198\n flashAnim = <unnamed> {\n }\n GetMatchesSearch = <function> defined @Interface\\FrameXML\\ItemButtonTemplate.lua:207\n UpgradeIcon = <unnamed> {\n }\n searchOverlay = AdiBagsItemButton126SearchOverlay {\n }\n}\nisEquipped = nil\nquantity = 1\nslot = 7\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index a nil value\"\n",
+			["stack"] = "Interface\\FrameXML\\ContainerFrame.lua:1183: in function `ContainerFrame_GetExtendedPriceString'\n[string \"*:OnMouseUp\"]:2: in function <[string \"*:OnMouseUp\"]:1>",
+			["session"] = 1115,
+			["counter"] = 1,
+		}, -- [14]
 	},
 }
