@@ -6,16 +6,22 @@ BattleGroundEnemiesDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["Enemies"] = {
+				["40"] = {
+					["Position_Y"] = 767.999904708864,
+					["HealthBar_Texture"] = "ElvUI Norm",
+					["Name_Fontsize"] = 11,
+					["Position_X"] = 1571.734027369006,
+				},
 				["15"] = {
 					["NumericTargetindicator_Fontsize"] = 12,
 					["Position_Y"] = 292.26669268608,
