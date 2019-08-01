@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1120,
 	["lastSanitation"] = 3,
+	["session"] = 1129,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\SocialQueue.lua:222: attempt to index local 'rhs' (a nil value)",
@@ -46,5 +46,27 @@ BugGrabberDB = {
 			["session"] = 1120,
 			["counter"] = 1,
 		}, -- [6]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:161: attempt to index local 'currenttab' (a nil value)",
+			["time"] = "2019/07/31 21:10:14",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:161: in function `createVoteWindow'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:53: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 1126,
+			["counter"] = 2,
+		}, -- [7]
+		{
+			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:499: attempt to index local 'tab' (a nil value)",
+			["time"] = "2019/07/31 21:10:20",
+			["stack"] = "Interface\\AddOns\\bigdumblootcouncil\\core.lua:499: in function `updateVotesRemaining'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:352: in function `?'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:666: in function `mainCallback'\nInterface\\AddOns\\bigdumblootcouncil\\core.lua:789: in function <Interface\\AddOns\\bigdumblootcouncil\\core.lua:789>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua:64: in function `Fire'\n...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0-12.lua:264: in function <...Ons\\ElvUI\\Libraries\\Ace3\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 1126,
+			["counter"] = 4,
+		}, -- [8]
+		{
+			["message"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v161.lua:240: attempt to perform arithmetic on local 'length' (a nil value)",
+			["time"] = "2019/07/31 22:57:00",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\ToshAssignments\\bigwigs-v161.lua:240: in function `?'\n...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua:90: in function `Bar'\n...ace\\AddOns\\BigWigs_BattleOfDazaralor\\Mekkatorque.lua:319: in function `?'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:456: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:422>",
+			["session"] = 1127,
+			["counter"] = 5,
+		}, -- [9]
 	},
 }
