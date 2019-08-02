@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1140,
 	["lastSanitation"] = 3,
-	["session"] = 1129,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\SocialQueue.lua:222: attempt to index local 'rhs' (a nil value)",
@@ -68,5 +68,35 @@ BugGrabberDB = {
 			["session"] = 1127,
 			["counter"] = 5,
 		}, -- [9]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'ElvUI_SLE' tried to call the protected function 'RunBinding()'.",
+			["time"] = "2019/08/01 12:47:04",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `RunBinding'\nInterface\\FrameXML\\StackSplitFrame.lua:196: in function <Interface\\FrameXML\\StackSplitFrame.lua:193>\n[C]: ?\n[C]: in function `Hide'\nInterface\\FrameXML\\StackSplitFrame.lua:235: in function `StackSplitOkayButton_OnClick'\nInterface\\FrameXML\\StackSplitFrame.lua:165: in function <Interface\\FrameXML\\StackSplitFrame.lua:141>",
+			["session"] = 1130,
+			["counter"] = 1,
+		}, -- [10]
+		{
+			["message"] = "...ts\\GroupModules\\GroupModule_GroupPosition\\Config.lua:67: Action[FrameMeasurement] failed because[Can't measure restricted regions]: attempted from: NamePlate13DFrameControlFrameZoomInButton:GetPoint().",
+			["time"] = "2019/08/01 18:25:16",
+			["locals"] = "(*temporary) = NamePlate13DFrameControlFrameZoomInButton {\n 0 = <userdata>\n OnEnter = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:46\n Init = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:21\n tooltip = \"Zoom In\"\n bg = NamePlate13DFrameControlFrameZoomInButtonBg {\n }\n OnMouseUp = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:36\n model = NamePlate13DFrame {\n }\n icon = NamePlate13DFrameControlFrameZoomInButtonIcon {\n }\n tooltipText = \"Mouse Wheel Up\"\n zoomIn = true\n OnMouseDown = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:30\n OnLeave = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:58\n OnClick = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:77\n OnLoad = <function> defined @Interface\\SharedXML\\ModelControlButtonMixin.lua:68\n}\n",
+			["stack"] = "[C]: in function `GetPoint'\n...ts\\GroupModules\\GroupModule_GroupPosition\\Config.lua:67: in function `OnSuggest'\n...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:383: in function `NameOnCursor'\n...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:499: in function <...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:480>",
+			["session"] = 1131,
+			["counter"] = 14,
+		}, -- [11]
+		{
+			["message"] = "TellMeWhen: TellMeWhen_Group8:SetPoint(): trying to anchor to itself",
+			["time"] = "2019/08/01 18:26:46",
+			["stack"] = "...ts\\GroupModules\\GroupModule_GroupPosition\\module.lua:305: in function `SetPos'\n...ts\\GroupModules\\GroupModule_GroupPosition\\module.lua:242: in function `UpdatePositionAfterMovement'\n[string \"*:OnLoad\"]:47: in function <[string \"*:OnLoad\"]:43>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...ace\\AddOns\\TellMeWhen\\Options\\TellMeWhen_Options.lua:1130: in function `CScriptCall'\n...ace\\AddOns\\TellMeWhen\\Options\\TellMeWhen_Options.lua:1469: in function `OnSettingSaved'\n...ace\\AddOns\\TellMeWhen\\Options\\TellMeWhen_Options.lua:2040: in function `SaveSetting'\n...ace\\AddOns\\TellMeWhen\\Options\\TellMeWhen_Options.lua:2012: in function <...ace\\AddOns\\TellMeWhen\\Options\\TellMeWhen_Options.lua:2009>\n[C]: ?\n[C]: in function `ClearFocus'\n...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:988: in function `Entry_Insert'\n...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:981: in function `Entry_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 1132,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
+			["time"] = "2019/08/02 01:14:45",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
+			["session"] = 1140,
+			["counter"] = 1,
+		}, -- [13]
 	},
 }

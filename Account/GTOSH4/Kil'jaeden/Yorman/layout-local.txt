@@ -83,6 +83,13 @@ X: -506
 Y: 202
 W: 800
 H: 525
+Frame: scanner_button
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 128
+W: 200
+H: 50
 Frame: SimcCopyFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -90,10 +97,3 @@ X: 0
 Y: 0
 W: 700
 H: 450
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: TOP
-X: 530
-Y: -241
-W: 576
-H: 412

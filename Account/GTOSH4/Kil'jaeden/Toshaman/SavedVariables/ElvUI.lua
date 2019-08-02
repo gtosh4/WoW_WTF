@@ -8,13 +8,13 @@ ElvCharacterDB = {
 		"/raid 1", -- [5]
 		"/wa", -- [6]
 		"/g I did it", -- [7]
-		"/o next*", -- [8]
+		"/tmw", -- [8]
 		"stages kinda murky on this boss", -- [9]
 		"/cw Wraithbrand go down = stand in circle thingy", -- [10]
 		"you hide your extra action bar?", -- [11]
 		"meet me", -- [12]
-		"/tmw", -- [13]
-		"than last night", -- [14]
+		"than last night", -- [13]
+		"/o next*", -- [14]
 		"/p yeah, I keep forgetting", -- [15]
 		"I see you top 5", -- [16]
 		"/cw Yellowy-Kil'jaeden yeah", -- [17]
@@ -23,182 +23,6 @@ ElvCharacterDB = {
 		"/dn", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Taunted Irontide Crackshot!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2233, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449723,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"Taunted Irontide Crackshot!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2236, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449738,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Irontide Crackshot!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2245, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449794,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Irontide Crackshot has ended!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2246, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449798,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
-			"Serasong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Serasong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2248, -- [11]
-			"Player-9-0AE87A48", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Serasong|r",
-			[51] = 1564449807,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"Removed Peace's |cff71d5ff|Hspell:257437:0|h[Poisoning Strike]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2252, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449812,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Taunted Irontide Crackshot!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2255, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449825,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"Taunted Irontide Crackshot!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2256, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1564449825,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
 		{
 			"Interrupted Irontide Bonesaw's |cff71d5ff|Hspell:257397:0|h[Healing Balm]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -220,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449829,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [1]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -242,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449842,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
+		}, -- [2]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -264,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449842,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [3]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -286,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449875,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [4]
 		{
 			"Taunted Irontide Enforcer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -308,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449883,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
+		}, -- [5]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -330,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449920,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [6]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -352,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449920,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:129597:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -374,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449958,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [8]
 		{
 			"Taunted Skycap'n Kragg!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -396,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449961,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [9]
 		{
 			"rip", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -418,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449973,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [10]
 		{
 			"meteor", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -440,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449974,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [11]
 		{
 			":(", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -462,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449975,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
+		}, -- [12]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449982,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -506,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564449983,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
+		}, -- [14]
 		{
 			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -528,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564449989,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [15]
 		{
 			"Taunted Irontide Enforcer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450038,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
+		}, -- [16]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -572,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450075,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [17]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -594,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450075,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [18]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 98.5k (40%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -616,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450095,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [19]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 149.6k (52%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -638,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [20]
 		{
 			"<EH> Arnbjørn got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -660,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [21]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -682,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450096,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [22]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -704,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450114,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [23]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -726,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450114,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450115,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Peace for 273520!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -770,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450120,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [26]
 		{
 			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -792,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450128,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -814,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [28]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -836,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450132,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [29]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -858,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450165,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [30]
 		{
 			"<EH> Arnbjørn got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -880,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450166,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [31]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:226512:0|h[Sanguine Ichor]|h|r for 175.7k (61%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -902,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450171,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [32]
 		{
 			"<EH> Arnbjørn got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -924,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450173,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [33]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -946,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450187,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [34]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -968,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450187,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [35]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -990,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450205,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
+		}, -- [36]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:274389:0|h[Rat Traps]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1012,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450205,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [37]
 		{
 			"Taunted Emissary of the Tides!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1034,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450215,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Bilge Rat Brinescale!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450216,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
+		}, -- [39]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1078,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450217,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Bilge Rat Brinescale has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450231,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
+		}, -- [41]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1122,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450232,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [42]
 		{
 			"<EH> Voidthirst got hit by |cff71d5ff|Hspell:274516:0|h[Slippery Suds]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1144,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450233,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [43]
 		{
 			"Taunted Bilge Rat Brinescale!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450235,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [44]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:274516:0|h[Slippery Suds]|h|r.", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1188,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450244,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [45]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1210,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450252,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [46]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450262,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+		}, -- [47]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450262,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Blacktooth Scrapper!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450266,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Blacktooth Scrapper has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1298,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450266,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [50]
 		{
 			"Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1320,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450300,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [51]
 		{
 			"Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1342,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450308,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [52]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:258199:0|h[Ground Shatter]|h|r for 115.1k (46%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -1364,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450320,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:129597:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1386,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450366,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [54]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450369,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [55]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1430,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450369,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [56]
 		{
 			"Taunted Captain Jolly!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450413,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [57]
 		{
 			"Taunted Cutwater Harpooner!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1474,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450431,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1496,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450437,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1518,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [60]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450467,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [61]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1562,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450471,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [62]
 		{
 			"Taunted Emissary of the Tides!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450499,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [63]
 		{
 			"Taunted Emissary of the Tides!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1606,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450499,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
+		}, -- [64]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1628,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450499,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [65]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1650,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450499,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Cutwater Harpooner!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1672,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450500,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
+		}, -- [67]
 		{
 			"Taunted Cutwater Knife Juggler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1694,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450507,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+		}, -- [68]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1716,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450507,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [69]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1738,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450510,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [70]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1760,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [71]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1782,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [72]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1804,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450524,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Cutwater Harpooner has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1826,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [74]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1848,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [75]
 		{
 			"Ricocheting Throw on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1870,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450551,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [76]
 		{
 			"Ricocheting Throw on Voidthirst", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1892,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1564450568,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [77]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1914,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [78]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1936,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [79]
 		{
 			"Taunted Cutwater Knife Juggler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1958,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [80]
 		{
 			"Taunted Cutwater Knife Juggler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1980,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450589,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [81]
 		{
 			"Ricocheting Throw on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2002,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564450591,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [82]
 		{
 			"Taunted Freehold Shipmate!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450613,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [83]
 		{
 			"Taunted Ludwig Von Tortollan!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2046,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450659,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [84]
 		{
 			"<EH> Toshaman got hit by |cff71d5ff|Hspell:257902:0|h[Shell Bounce]|h|r for 103.0k (42%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2068,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450698,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [85]
 		{
 			"Role Playing  0:33", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2090,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450708,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [86]
 		{
 			"Role Playing  0:32", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450708,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [87]
 		{
 			"Role Playing  0:07", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2134,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450733,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [88]
 		{
 			"Taunted Trothak!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450742,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [89]
 		{
 			"Shark Toss on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2178,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450758,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [90]
 		{
 			"<EH> Serasong got hit by |cff71d5ff|Hspell:256546:0|h[Shark Tornado]|h|r for 118.0k (43%).", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2200,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450796,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [91]
 		{
 			"invis", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2222,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450821,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [100]
+		}, -- [92]
 		{
 			"Taunted Harlan Sweete!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2244,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450857,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [101]
+		}, -- [93]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2266,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450894,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [94]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2288,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450911,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [95]
 		{
 			"Taunted Harlan Sweete!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2310,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450921,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [104]
+		}, -- [96]
 		{
 			"Fixate on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2332,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450928,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [97]
 		{
 			"Cannon Barrage on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2354,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [98]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2376,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [99]
 		{
 			"1. Peace 559.7k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2398,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [100]
 		{
 			"2. Arnbjørn 780.3k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2420,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [101]
 		{
 			"3. Serasong 1110.4k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2442,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [102]
 		{
 			"4. Toshaman 1384.5k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2464,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [103]
 		{
 			"5. Voidthirst 1625.0k", -- [1]
 			"Serasong-Kil'jaeden", -- [2]
@@ -2486,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Serasong|r",
 			[51] = 1564450953,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [104]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:252:9:10:5:13:119|h[Keystone: Shrine of the Storm (9)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2508,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1564450963,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [105]
 		{
 			"mom's calling", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2530,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450965,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
+		}, -- [106]
 		{
 			"gotta brbbbb", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2552,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450967,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
+		}, -- [107]
 		{
 			"thanks for th ekey", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2574,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1564450970,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [116]
+		}, -- [108]
 		{
 			"<Continuity> 2/8M is recruiting trials for Core spots.(boomkin, mage, spriest) Raids are Wed/Sun 7-10 ST. Optional heroic run for core and geared casuals Tues 7-10pm ST. Also need players interested in running M+", -- [1]
 			"Smartshift-Kil'jaeden", -- [2]
@@ -2596,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Smartshift|r",
 			[51] = 1564450990,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [109]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2618,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564451439,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [110]
 		{
 			"WTS +10  Keys done by 1800io players!  Gear matching and specific keys available all tradeable gear included!   Ready to summon ~*", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -2640,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1564451469,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [111]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2662,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564451484,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [112]
 		{
 			"WTS +10  Keys done by 1800io players!  Gear matching and specific keys available all tradeable gear included!   Ready to summon ~*", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -2684,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1564451496,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [113]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2706,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564451555,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [114]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2728,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564451650,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [115]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2750,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564452126,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [116]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:66::13::::|h[Mecha-Mogul Mk2]|h|r 95k and |cffa335ee|Hitem:153594::::::::120:66::13::::|h[Xiwyllag ATV]|h|r PST", -- [1]
 			"Ægøn-Kil'jaeden", -- [2]
@@ -2772,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ægøn|r",
 			[51] = 1564452211,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [117]
 		{
 			"WTS |cffffffff|Hitem:168487::::::::120:250::::::|h[Zin'anthid]|h|r !!", -- [1]
 			"Kellice-Kil'jaeden", -- [2]
@@ -2794,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Kellice|r",
 			[51] = 1564452234,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [118]
 		{
 			"Dead of Summer 8/8H is looking for exceptional DPS for our core Mythic Raid Team.  Raid Times Tuesdays/Thursdays 8:30 - 11:30 EST", -- [1]
 			"Phillysound-Kil'jaeden", -- [2]
@@ -2816,6 +2640,182 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Phillysound|r",
 			[51] = 1564452272,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTB |cff0070dd|Hitem:168449::::::::120:269::::::|h[Enchant Ring - Accord of Versatility]|h|r ", -- [1]
+			"Poonjabz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Poonjabz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			610, -- [11]
+			"Player-9-0B78A3FE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Poonjabz|r",
+			[51] = 1564699097,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"GOLD ONLY! The Gallywix Community || WTS >> Azshara's Eternal Palace Heroic << with top guilds such as <Limit> get Ahead of the Curve and chance at 430 gear! Also, selling M+ boost || FH || Island Carry || PVP carry || Rare Mounts (Void Talon & TLPD)!", -- [1]
+			"Immvp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Immvp-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			611, -- [11]
+			"Player-9-0B2CE086", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Immvp|r",
+			[51] = 1564699157,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
+			"Keduleyn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Keduleyn-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-9-0B7C6739", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKeduleyn|r",
+			[51] = 1564699219,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTB |cff0070dd|Hitem:168449::::::::120:269::::::|h[Enchant Ring - Accord of Versatility]|h|r ", -- [1]
+			"Poonjabz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Poonjabz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			614, -- [11]
+			"Player-9-0B78A3FE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Poonjabz|r",
+			[51] = 1564699224,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
+			"Keduleyn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Keduleyn-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			620, -- [11]
+			"Player-9-0B7C6739", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKeduleyn|r",
+			[51] = 1564699401,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13757:Player-9-0B673F4F:1:8:1:19:4294967295:4294967295:4294967295:4294967295|h[Battle-Scarred: Vim Brineheart]|h|r!", -- [1]
+			"Notsci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Notsci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			623, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Notsci|r",
+			[51] = 1564699478,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
+			"Keduleyn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Keduleyn-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			626, -- [11]
+			"Player-9-0B7C6739", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKeduleyn|r",
+			[51] = 1564699584,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6608:Player-9-0B6C8972:1:8:1:19:4294967295:4294967295:4294967295:4294967295|h[Family Reunion]|h|r!", -- [1]
+			"Quivna-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Quivna-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			237, -- [11]
+			"Player-9-0B6C8972", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeQuivna|r",
+			[51] = 1564712932,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

@@ -44,9 +44,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168881::::::::120:65::5:4:4799:1502:5850:4783:::|h[Naga Executor's Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 165549,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165549::::::::120:65::6:4:4800:40:1537:4786:::|h[Crusade Pummelers]|h|r",
+			["ID"] = 155890,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:155890::168641::::::120:65::16:4:5010:4802:1602:4786:::|h[Sharktooth-Knuckled Grips]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 159461,
