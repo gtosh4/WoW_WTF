@@ -33,13 +33,14 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["The Eternal Palace Normal|350073074"] = "380592|1564723006|0|1",
-					["Operation: Mechagon Mythic|374918914"] = "380592|1564723006|0|0",
-					["The Eternal Palace Looking For Raid|411937304"] = "380592|1564723006|0|1",
-					["Battle of Dazar'alor Mythic|374842628"] = "380592|1564723006|0|1",
-					["The Eternal Palace Heroic|374834664"] = "380592|1564723006|0|1",
+					["The Eternal Palace Normal|350073074"] = "291631|1564811968|0|1",
+					["The Eternal Palace Mythic|374995067"] = "291631|1564811968|0|1",
+					["Operation: Mechagon Mythic|374918914"] = "291631|1564811968|0|0",
+					["The Eternal Palace Looking For Raid|411937304"] = "291631|1564811968|0|1",
+					["Battle of Dazar'alor Mythic|374842628"] = "291631|1564811968|0|1",
+					["The Eternal Palace Heroic|374834664"] = "291631|1564811968|0|1",
 				},
-				["lastUpdate"] = 1564723614,
+				["lastUpdate"] = 1564813841,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,

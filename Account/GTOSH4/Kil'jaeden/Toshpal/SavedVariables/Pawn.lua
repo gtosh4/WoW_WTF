@@ -4,13 +4,13 @@ PawnOptions = {
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168360::::::::120:65::5:4:4823:1502:4786:6267:::|h[Warhelm of Dread Waters]|h|r",
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168360::::::::120:65::6:4:4824:1517:4786:6270:::|h[Warhelm of Dread Waters]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 447,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:70::11:4:6316:4932:4933:1584:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 449,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:70::11:4:6316:4932:4933:1586:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 168364,
@@ -19,9 +19,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 165550,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165550::::::::120:65::6:5:4824:1537:4786:5419:4775:::|h[Breastplate of Divine Purification]|h|r",
+			["ID"] = 168361,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168361::::::::120:65::6:4:4824:1517:4786:6269:::|h[Naga Centaur's Shellplate]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 168388,
@@ -39,9 +39,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:170143::168641::::::120:65:::5:6300:4802:6293:1507:4786:::|h[Akana's Reefstrider Boots]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 168881,
-			["Level"] = 435,
-			["Link"] = "|cffa335ee|Hitem:168881::::::::120:65::5:4:4799:1502:5850:4783:::|h[Naga Executor's Armguards]|h|r",
+			["ID"] = 159409,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:159409::::::::120:65::35:3:5010:1612:4783:::|h[Embalmer's Steadying Bracers]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 155890,

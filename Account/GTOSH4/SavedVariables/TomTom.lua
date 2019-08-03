@@ -15,6 +15,15 @@ TomTomDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					16.10066223144531, -- [4]
+					351.1950073242188, -- [5]
+				},
+			},
 			["block"] = {
 				["enable"] = false,
 			},
