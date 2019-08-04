@@ -1,6 +1,12 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-1358] = true,
@@ -19,10 +25,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					["stages"] = 1032439,
 					[288449] = 2015479,
-					[285003] = 1032439,
 					[287333] = 1032439,
+					[285003] = 1032439,
+					["stages"] = 1032439,
 				},
 			},
 		},
@@ -168,10 +174,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
+		["BigWigs_Bosses_Radiance of Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
-					[286988] = 1032951,
+					[296894] = 1032439,
 				},
 			},
 		},
@@ -222,10 +228,10 @@ BigWigs3DB = {
 					["fill"] = false,
 					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_height"] = 27.03151512145996,
-					["fontSizeEmph"] = 14,
+					["BigWigsEmphasizeAnchor_width"] = 367.9370727539063,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.99998092651367,
-					["BigWigsEmphasizeAnchor_width"] = 367.9370727539063,
+					["fontSizeEmph"] = 14,
 					["visibleBarLimitEmph"] = 10,
 					["BigWigsEmphasizeAnchor_x"] = 802.1389764746709,
 					["texture"] = "ElvUI Norm",
@@ -235,13 +241,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-			["profiles"] = {
-				["Default"] = {
-					[288345] = 1000183,
-					[288374] = 999671,
-				},
-			},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -310,11 +310,10 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
+					[263309] = 1032439,
 				},
 			},
 		},
@@ -326,10 +325,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_Grong Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263309] = 1032439,
+					[282082] = 1032439,
+					[289401] = 1032439,
 				},
 			},
 		},
@@ -343,26 +343,26 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+			["profiles"] = {
+				["Default"] = {
+					[288345] = 1000183,
+					[288374] = 999671,
+				},
+			},
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Bosses_Radiance of Azshara"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[296894] = 1032439,
+					[286988] = 1032951,
 				},
 			},
 		},
 	},
 	["wipe80"] = true,
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-	},
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,
@@ -464,15 +464,15 @@ BigWigsStatsDB = {
 				["wipes"] = 4,
 				["best"] = 608.823999999993,
 			},
-			["mythic"] = {
-				["kills"] = 7,
-				["wipes"] = 552,
-				["best"] = 367.4920000000275,
-			},
 			["heroic"] = {
 				["kills"] = 9,
 				["wipes"] = 41,
 				["best"] = 449.687000000035,
+			},
+			["mythic"] = {
+				["kills"] = 7,
+				["wipes"] = 552,
+				["best"] = 367.4920000000275,
 			},
 		},
 		[2337] = {
@@ -648,12 +648,12 @@ BigWigsStatsDB = {
 				["best"] = 225.2900000000373,
 				["kills"] = 4,
 			},
-			["mythic"] = {
-				["wipes"] = 23,
-			},
 			["normal"] = {
 				["best"] = 250.7430000002496,
 				["kills"] = 2,
+			},
+			["mythic"] = {
+				["wipes"] = 58,
 			},
 		},
 		[2352] = {
@@ -742,14 +742,14 @@ BigWigsStatsDB = {
 				["best"] = 210.9220000000205,
 				["kills"] = 4,
 			},
+			["normal"] = {
+				["best"] = 202.4150000000373,
+				["kills"] = 2,
+			},
 			["mythic"] = {
 				["kills"] = 1,
 				["wipes"] = 45,
 				["best"] = 489.3000000000466,
-			},
-			["normal"] = {
-				["best"] = 202.4150000000373,
-				["kills"] = 2,
 			},
 		},
 	},

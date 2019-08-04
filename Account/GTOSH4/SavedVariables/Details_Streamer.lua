@@ -6,12 +6,12 @@ Details_StreamerDB = {
 		["Daggny - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
@@ -39,17 +39,17 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "ElvUI Norm",
-			["scale"] = 1,
-			["row_height"] = 28,
-			["point"] = "BOTTOMLEFT",
-			["enabled"] = true,
-			["arrow_size"] = 10,
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = true,
 			["row_color"] = {
 				0.305882352941177, -- [1]
 				0.305882352941177, -- [2]
 				0.305882352941177, -- [3]
 				0.850000008940697, -- [4]
 			},
+			["enabled"] = true,
+			["arrow_size"] = 10,
+			["font_size"] = 14,
 			["row_spacement"] = 28,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,7 +63,6 @@ Details_StreamerDB = {
 			["y"] = 200.0283660888672,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 14,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -71,13 +70,14 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 0.000274658203125,
 				["x"] = 0.00048828125,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
 			["author"] = "Details! Team",
-			["main_frame_locked"] = true,
-			["arrow_anchor_y"] = 0,
+			["point"] = "BOTTOMLEFT",
+			["row_height"] = 28,
+			["scale"] = 1,
 		},
 	},
 }

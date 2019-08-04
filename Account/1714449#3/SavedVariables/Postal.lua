@@ -43,8 +43,8 @@ Postal3DB = {
 		["Toshmonk - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Toshpal|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
 					"Tosh|Kil'jaeden|Horde", -- [3]
 					"Yellowy|Kil'jaeden|Horde", -- [4]
 					"Yorman|Kil'jaeden|Horde", -- [5]

@@ -5,11 +5,11 @@ BigWigs3DB = {
 			[-1358] = true,
 			[875] = true,
 			[-1345] = true,
-			[876] = true,
 			[-1352] = {
 				[2] = true,
 			},
 			[-557] = true,
+			[876] = true,
 			[-1004] = true,
 			[-367] = true,
 		},
@@ -81,8 +81,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
 		["BigWigs_Bosses_Opulence"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -92,7 +90,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -126,6 +124,15 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -137,13 +144,6 @@ BigWigs3DB = {
 			},
 		},
 		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
 		},
 		["BigWigs_Plugins_Victory"] = {
 		},
