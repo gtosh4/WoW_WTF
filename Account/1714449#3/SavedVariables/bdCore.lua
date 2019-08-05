@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshmonk",
+		["name"] = "Tosh",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -108,6 +108,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["interrupt"] = true,
 			["gmotd"] = {
 				[""] = true,
 				["kill boss this friday thankz."] = true,
@@ -144,8 +146,6 @@ BD_persistent = {
 				["slay mekka friday and blockade saturday "] = true,
 				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
-			["interrupt"] = true,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -154,8 +154,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -163,8 +163,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
 			["topViewport"] = 0,
 		},
 	},

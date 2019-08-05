@@ -54,7 +54,7 @@ PawnCommon = {
 				["IsPolearm"] = -1000000,
 				["IsGun"] = -1000000,
 				["IsFrill"] = -1000000,
-				["Avoidance"] = 0.01,
+				["Is2HSword"] = -1000000,
 				["IsOffHand"] = -1000000,
 				["IsBow"] = -1000000,
 				["Intellect"] = 1,
@@ -63,8 +63,8 @@ PawnCommon = {
 				["Leech"] = 2.17,
 				["IsCrossbow"] = -1000000,
 				["IsPlate"] = -1000000,
-				["Is2HSword"] = -1000000,
 				["Stamina"] = 0.01,
+				["Avoidance"] = 0.01,
 			},
 			["UpgradesFollowSpecialization"] = true,
 			["SpecID"] = 3,
@@ -336,9 +336,6 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN3"] = {
 			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
-				["Toshpal-Kil'jaeden"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "f48cba",
 			["ClassID"] = 2,
@@ -384,13 +381,13 @@ PawnCommon = {
 		["Jadefire Masters(3)"] = {
 			["IconTexturePath"] = 608952,
 			["Values"] = {
-				["Intellect"] = 1,
 				["IsWand"] = -1000000,
+				["IsOffHand"] = -1000000,
 				["Is2HMace"] = -1000000,
 				["Leech"] = 1.29,
 				["CritRating"] = 0.9,
 				["Versatility"] = 0.85,
-				["IsOffHand"] = -1000000,
+				["Intellect"] = 1,
 				["HasteRating"] = 0.15,
 				["IsDagger"] = -1000000,
 				["IsCrossbow"] = -1000000,
@@ -415,21 +412,6 @@ PawnCommon = {
 				},
 			},
 		},
-		["\"MrRobot\":DEMONHUNTER2"] = {
-			["IconTexturePath"] = 1247265,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "a330c9",
-			["ClassID"] = 12,
-			["LocalizedName"] = "Demon Hunter: Vengeance",
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["SpecID"] = 2,
-			["UnenchantedColor"] = "7a2496",
-		},
 		["\"MrRobot\":MAGE1"] = {
 			["IconTexturePath"] = 135932,
 			["PerCharacterOptions"] = {
@@ -444,6 +426,24 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["SpecID"] = 1,
 			["UnenchantedColor"] = "2f94af",
+		},
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
+			["PerCharacterOptions"] = {
+				["Koutetsu-Frostwolf"] = {
+					["Visible"] = true,
+				},
+			},
+			["Color"] = "0070dd",
+			["ClassID"] = 7,
+			["LocalizedName"] = "Shaman: Restoration",
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["SpecID"] = 3,
+			["UnenchantedColor"] = "0054a5",
 		},
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
@@ -580,23 +580,20 @@ PawnCommon = {
 			["SpecID"] = 2,
 			["UnenchantedColor"] = "b7698b",
 		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
+		["\"MrRobot\":DEMONHUNTER2"] = {
+			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
-				["Koutetsu-Frostwolf"] = {
-					["Visible"] = true,
-				},
 			},
-			["Color"] = "0070dd",
-			["ClassID"] = 7,
-			["LocalizedName"] = "Shaman: Restoration",
+			["Color"] = "a330c9",
+			["ClassID"] = 12,
+			["LocalizedName"] = "Demon Hunter: Vengeance",
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["SpecID"] = 3,
-			["UnenchantedColor"] = "0054a5",
+			["SpecID"] = 2,
+			["UnenchantedColor"] = "7a2496",
 		},
 		["\"MrRobot\":ROGUE1"] = {
 			["IconTexturePath"] = 236270,
@@ -631,6 +628,9 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN1"] = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "f48cba",
 			["ClassID"] = 2,

@@ -58,10 +58,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159461::::::::120:256::35:4:5007:1602:5865:4784:::|h[Band of the Ancient Dredger]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158318,
-			["Level"] = 415,
+			["ID"] = 159461,
+			["Level"] = 450,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158318:5943:::::::120:256::35:3:5010:1587:4784:::|h[Murky Cerulean Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159461::::::::120:258::35:4:5007:1602:5865:4784:::|h[Band of the Ancient Dredger]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 159620,

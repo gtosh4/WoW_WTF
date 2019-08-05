@@ -24,7 +24,7 @@ DataStoreDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["faction"] = "Horde",
-				["guildName"] = "Koopa Troopa",
+				["guildName"] = "Rivalry",
 			},
 		},
 		["ShortToLongRealmNames"] = {

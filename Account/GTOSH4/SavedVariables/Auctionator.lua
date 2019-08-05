@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["STARTING_DISCOUNT"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["_1000000"] = 2500,
-	["_5000000"] = 10000,
 	["_500"] = 5,
-	["_10000"] = 200,
+	["_1000000"] = 2500,
 	["_200000"] = 1000,
+	["STARTING_DISCOUNT"] = 5,
+	["_5000000"] = 10000,
+	["_10000"] = 200,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -17587,11 +17587,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3169"] = 28692999,
 		},
 		["Akunda's Bite"] = {
-			["mr"] = 140580,
-			["cc"] = 7,
-			["id"] = "152507:0:0:0:0",
+			["mr"] = 71000,
 			["H3179"] = 140580,
+			["H3184"] = 71000,
+			["id"] = "152507:0:0:0:0",
 			["sc"] = 9,
+			["cc"] = 7,
 		},
 		["Spiderlord Bracers of the Quickblade"] = {
 			["mr"] = 686699,

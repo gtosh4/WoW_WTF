@@ -3,11 +3,11 @@ AstralKeys = {
 	{
 		"Tehkz-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		244, -- [3]
-		11, -- [4]
-		0, -- [5]
+		247, -- [3]
+		12, -- [4]
+		11, -- [5]
 		106, -- [6]
-		309713, -- [7]
+		449214, -- [7]
 	}, -- [1]
 	{
 		"Adezero-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		10, -- [4]
 		11, -- [5]
 		106, -- [6]
-		390794, -- [7]
+		453111, -- [7]
 	}, -- [2]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		10, -- [4]
 		15, -- [5]
 		106, -- [6]
-		406767, -- [7]
+		448597, -- [7]
 	}, -- [3]
 	{
 		"Andruww-Kil'jaeden", -- [1]
@@ -34,7 +34,7 @@ AstralKeys = {
 		19, -- [4]
 		0, -- [5]
 		106, -- [6]
-		391214, -- [7]
+		446658, -- [7]
 	}, -- [4]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		10, -- [4]
 		0, -- [5]
 		106, -- [6]
-		401053, -- [7]
+		452104, -- [7]
 	}, -- [5]
 	{
 		"Druwqt-Kil'jaeden", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		11, -- [4]
 		0, -- [5]
 		106, -- [6]
-		195169, -- [7]
+		453094, -- [7]
 	}, -- [8]
 	{
 		"Ruesong-Kil'jaeden", -- [1]
@@ -169,7 +169,7 @@ AstralKeys = {
 		8, -- [4]
 		0, -- [5]
 		106, -- [6]
-		214142, -- [7]
+		453335, -- [7]
 	}, -- [19]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -332,33 +332,15 @@ AstralFriends = {
 	}, -- [12]
 }
 AstralKeysSettings = {
-	["frame"] = {
-		["rank_filter"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			true, -- [5]
-			true, -- [6]
-			true, -- [7]
-			true, -- [8]
-			true, -- [9]
-			true, -- [10]
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
 		},
-		["current_list"] = "FRIENDS",
-		["isCollapsed"] = {
-			["isEnabled"] = false,
-		},
-		["orientation"] = 1,
-		["mingle_offline"] = {
-			["isEnabled"] = false,
-		},
-		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -383,11 +365,29 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
+	["frame"] = {
+		["rank_filter"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			true, -- [9]
+			true, -- [10]
 		},
-		["show_other_faction"] = {
+		["current_list"] = "FRIENDS",
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["show_offline"] = {
 			["isEnabled"] = true,
 		},
 	},

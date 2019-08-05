@@ -2240,6 +2240,11 @@ VExRT = {
 				"^2094^8^1564450367^52^1^5^424.94^", -- [1818]
 				"^2095^8^1564450742^67^1^5^429.15^", -- [1819]
 				"^2096^8^1564450857^96^1^5^429.15^", -- [1820]
+				"^2113^8^1564951050^98^1^5^401.64^", -- [1821]
+				"^2114^8^1564951320^76^1^5^403.18^", -- [1822]
+				"^2115^8^1564951519^75^1^5^394.47^", -- [1823]
+				"^2116^8^1564951810^91^1^5^394.47^", -- [1824]
+				"^2117^8^1564951949^63^1^5^403.18^", -- [1825]
 			},
 			["Zallie"] = {
 			},
@@ -3645,32 +3650,48 @@ VExRT = {
 		},
 		["gnGUIDs"] = {
 			["Hyperr"] = 259,
-			["Haxpaxy"] = 102,
-			["Andruww"] = 577,
+			["Zapruk-Dalaran"] = 72,
+			["Dippyr-Sargeras"] = 262,
+			["Rivalry"] = 577,
 			["Pluie"] = 102,
 			["Worfdruid-Zul'jin"] = 102,
-			["Goredamm"] = 73,
 			["Sinmon"] = 258,
 			["Tehkz"] = 256,
-			["Rivalry"] = 577,
-			["Trapharder"] = 253,
-			["Arnbjørn"] = 63,
 			["Qiro"] = 262,
 			["Barahîr-Mal'Ganis"] = 253,
-			["Abernathii"] = 66,
-			["Peace"] = 268,
-			["Voidamental"] = 262,
+			["Toshpal"] = 65,
+			["Toshaman"] = 262,
 			["Sonaris"] = 258,
-			["Toshpal"] = 70,
-			["Notsci"] = 65,
-			["Quivna"] = 258,
+			["Nèf-Alexstrasza"] = 262,
+			["Abernathii"] = 66,
+			["Arnbjørn"] = 63,
+			["Haxpaxy"] = 102,
+			["Thunderrz"] = 254,
 			["Snareiat"] = 260,
+			["Dyrone-Spirestone"] = 102,
+			["Goredamm"] = 73,
+			["Peace"] = 268,
+			["Blued-Zul'jin"] = 64,
+			["Reolwen"] = 253,
+			["Yellowy"] = 257,
+			["Trapharder"] = 253,
+			["Belegurth-Sentinels"] = 66,
+			["Hemmit-Zul'jin"] = 265,
+			["Aithabuof-Area52"] = 73,
+			["Nahray-Ysera"] = 253,
+			["Voidamental"] = 262,
+			["Zarendline-Tichondrius"] = 250,
+			["Quivna"] = 258,
 			["Cadaceus"] = 265,
+			["Notsci"] = 65,
+			["Yavene-Zul'jin"] = 256,
+			["Yorman"] = 102,
+			["Andruww"] = 577,
 			["Aédan"] = 72,
 			["Nawtyrogue"] = 260,
-			["Yellowy"] = 257,
+			["Moosypoo-Frostwolf"] = 70,
 			["Maotzetung-Ragnaros"] = 253,
-			["Thunderrz"] = 254,
+			["Andoris-Eredar"] = 259,
 		},
 		["SplitOpt"] = true,
 		["NoRaid"] = true,
@@ -5538,14 +5559,14 @@ VExRT = {
 				"GToshaman", -- [17]
 				"LKalindalivar-Stormreaver", -- [18]
 				"AMenegrot-Ragnaros", -- [19]
-				[21] = "EZech-Thrall",
-				["eI"] = 2276,
 				["k"] = true,
+				["eI"] = 2276,
+				["c"] = "Toshaman-Kil'jaeden",
 				["t"] = 1551033864,
 				["eN"] = "Mekkatorque",
 				["d"] = 14,
 				["g"] = 20,
-				["c"] = "Toshaman-Kil'jaeden",
+				[21] = "EZech-Thrall",
 			}, -- [52]
 			{
 				"BBeefyypally-Illidan", -- [1]
@@ -8226,13 +8247,13 @@ VExRT = {
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["IconMiniMapHide"] = true,
-		["Version"] = 4030,
-		["Scale"] = 1,
-		["PreVersion"] = 4030,
-		["IconMiniMapLeft"] = -78.3197369046974,
 		["Timer"] = 0.1,
+		["Version"] = 4030,
+		["IconMiniMapHide"] = true,
+		["Scale"] = 1,
+		["IconMiniMapLeft"] = -78.3197369046974,
 		["IconMiniMapTop"] = -16.3100831137973,
+		["PreVersion"] = 4030,
 	},
 	["Timers"] = {
 		["specTimes"] = {
