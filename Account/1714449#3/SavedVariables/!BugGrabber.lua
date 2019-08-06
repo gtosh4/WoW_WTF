@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 854,
 	["lastSanitation"] = 3,
-	["session"] = 853,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar2:SetWidth()'.",

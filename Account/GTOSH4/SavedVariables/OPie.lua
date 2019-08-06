@@ -13,10 +13,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-S",
-				["OPieTracking"] = false,
 				["Mounts"] = "ALT-1",
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["PaladinAuras"] = false,
 			},
 		},
 	},
@@ -98,8 +98,8 @@ OneRing_Config = {
 					["rotationMode"] = "shuffle",
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCTAa",
 					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
 				}, -- [9]
 				{
 					"item", -- [1]

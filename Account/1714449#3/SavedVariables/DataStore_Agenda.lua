@@ -21,8 +21,8 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["class"] = "Paladin",
 						["level"] = 120,
+						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -31,7 +31,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1564888575,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1564954122,
+				["lastUpdate"] = 1565048381,
+				["DungeonIDs"] = {
+					["Operation: Mechagon Mythic|375231890"] = "55215|1565048384|0|0",
+				},
 			},
 		},
 	},

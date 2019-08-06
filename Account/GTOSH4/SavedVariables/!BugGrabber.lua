@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1160,
 	["lastSanitation"] = 3,
-	["session"] = 1159,
 	["errors"] = {
 		{
 			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",

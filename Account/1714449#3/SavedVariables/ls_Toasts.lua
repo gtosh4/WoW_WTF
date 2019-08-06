@@ -16,8 +16,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -99,
 						["x"] = -3,
+						["y"] = -99,
 					},
 				}, -- [1]
 			},
@@ -40,26 +40,26 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["world"] = {
-					["anchor"] = 1,
+				["transmog"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
 				},
-				["loot_gold"] = {
-					["enabled"] = true,
-					["dnd"] = false,
-					["sfx"] = true,
+				["garrison_7_0"] = {
 					["anchor"] = 1,
-					["threshold"] = 1,
+					["enabled"] = true,
+					["dnd"] = true,
+					["sfx"] = true,
 				},
 				["loot_special"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["threshold"] = 1,
 					["ilvl"] = true,
+					["threshold"] = 1,
 				},
 				["achievement"] = {
 					["enabled"] = true,
@@ -78,11 +78,14 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["recipe"] = {
-					["anchor"] = 1,
+				["loot_common"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["ilvl"] = true,
+					["quest"] = true,
+					["threshold"] = 3,
 				},
 				["collection"] = {
 					["enabled"] = true,
@@ -91,27 +94,24 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["loot_common"] = {
+				["recipe"] = {
+					["anchor"] = 1,
+					["enabled"] = true,
+					["dnd"] = false,
+					["sfx"] = true,
+				},
+				["loot_gold"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["threshold"] = 3,
-					["quest"] = true,
-					["ilvl"] = true,
+					["threshold"] = 1,
 				},
-				["garrison_7_0"] = {
+				["world"] = {
 					["anchor"] = 1,
-					["enabled"] = true,
-					["dnd"] = true,
-					["sfx"] = true,
-				},
-				["transmog"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["left_click"] = false,
 				},
 			},
 		},

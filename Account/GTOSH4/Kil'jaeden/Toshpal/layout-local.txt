@@ -27,13 +27,6 @@ X: 1
 Y: -235
 W: 235
 H: 480
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: CENTER
-X: 545
-Y: 250
-W: 128
-H: 64
 Frame: ColorPickerFrame
 FrameLevel: 22
 Anchor: CENTER
@@ -111,3 +104,10 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 545
+Y: 250
+W: 289
+H: 110
