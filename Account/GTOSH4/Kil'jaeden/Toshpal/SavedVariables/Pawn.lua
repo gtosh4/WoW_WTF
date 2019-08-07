@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
@@ -13,9 +16,9 @@ PawnOptions = {
 			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:70::11:4:6316:4932:4933:1586:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 168364,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168364::::::::120:65::5:4:4823:1502:4786:6268:::|h[Pauldrons of Fanatical Might]|h|r",
+			["ID"] = 159407,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:159407::::::::120:65::35:4:5448:1617:4786:6271:::|h[Lockjaw Shoulderplate]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -73,9 +76,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169312::168638::::::120:65::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 168604,
-			["Level"] = 435,
-			["Link"] = "|cffa335ee|Hitem:168604::::::::120:65::5:4:4799:1502:5850:4783:::|h[Drape of the Hatcher]|h|r",
+			["ID"] = 159287,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:159287::::::::120:65::35:4:5010:4802:1612:4783:::|h[Cloak of Questionable Intent]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 168903,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

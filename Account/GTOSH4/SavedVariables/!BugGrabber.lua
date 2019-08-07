@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1160,
 	["lastSanitation"] = 3,
+	["session"] = 1163,
 	["errors"] = {
 		{
 			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",
@@ -24,8 +24,8 @@ BugGrabberDB = {
 			["time"] = "2019/08/04 16:53:32",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
-			["session"] = 1159,
-			["counter"] = 1,
+			["session"] = 1163,
+			["counter"] = 2,
 		}, -- [3]
 	},
 }
