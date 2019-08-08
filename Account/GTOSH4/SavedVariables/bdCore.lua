@@ -178,6 +178,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["interrupt"] = false,
 			["gmotd"] = {
 				[""] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -200,16 +202,17 @@ BD_persistent = {
 				["Heroic Crucible thurs @ 6pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["(ALT)H EP WED @ 7pm CST. Make sure youre ready for new raid.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["HEROIC TODAY(WED) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["If you have viper fish please send them to me for feasts thanks! Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["ALT H EP @7pm CST(wed). Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Normal EP thurs @ 7pm cst.. Make sure youre ready for new raid.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
@@ -218,13 +221,11 @@ BD_persistent = {
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["slay mekka friday and blockade saturday "] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
 				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
-			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -233,8 +234,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -242,8 +243,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
 			["topViewport"] = 0,
 		},
 	},

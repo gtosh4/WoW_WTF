@@ -27,9 +27,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168361::::::::120:65::6:4:4824:1517:4786:6269:::|h[Naga Centaur's Shellplate]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 168388,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168388::::::::120:65::5:4:4799:42:1502:4786:::|h[Storm-Tempered Girdle]|h|r",
+			["ID"] = 168688,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:168688::::::::120:65::13:2:1700:5804:::|h[Banded Osmenite Girdle of the Feverflare]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 158361,
@@ -87,9 +87,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168903::::::::120:65::3:3:4798:1487:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 165584,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165584::::::::120:65::6:3:4800:1537:4786:::|h[Sunburst Crest]|h|r",
+			["ID"] = 168896,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168896::::::::120:65::5:4:4799:1808:1502:4786:::|h[Stormtamer's Orb]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
