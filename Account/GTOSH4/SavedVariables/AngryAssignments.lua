@@ -1,7 +1,7 @@
 
 AngryAssign_Pages = {
 	[2996981258] = {
-		["Updated"] = 1564791886,
+		["Updated"] = 1565402807,
 		["Name"] = "03 Behemoth",
 		["Contents"] = "Pulse 1    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}        \nPulse 2    ||cpriestJess||r{icon 64843}            \nPulse 3    ||cdruidZerk||r{icon 740}    ||cpriestSPriest||r{icon 15286}        \nINTERMISSION                \nPulse 4    ||cpriestTehkz||r{icon 47536}    ||cwarriorAedan||r{icon 97462}        \nPulse 5    ||cpaladinGordy||r{icon 31821}    ||cwarriorOreo||r{icon 97462}    ||cpriestTehkz||r{icon 81782}    ||cpriestJess||r{icon 265202}\nPulse 6    ||cpaladinGordy||r{icon 31884}    ||cpriestSPriest||r{icon 15286}        \nINTERMISSION                \nPulse 7    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}        \nPulse 8    ||cpriestJess||r{icon 64843}    ||cwarriorAedan||r{icon 97462}        \nPulse 9    ||cdruidZerk||r{icon 740}    ||cwarriorOreo||r{icon 97462}        \nPulse 10    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    ||cpriestSPriest||r{icon 15286}",
 		["Id"] = 2996981258,
@@ -36,7 +36,7 @@ AngryAssign_Pages = {
 		["Contents"] = "Left Side        \nVoltaic L    ||cdruidTehkz.tranq||r    ||cpaladinSci.AM||r\nStorm L2    ||cpaladinSci.wings||r    \n        \nRight Side        \nStorm R2    ||cpriestJess.hymn||r    \nVoltaic R    ||cshamanZerk.SLT||r    ||cpriestJess.salv||r\n        \nPlatform        \nVoltaic Plat1    ||cshamanZerk.HT||r    \nVoltaic Plat2    ||cdruidTehkz.tranq||r    ||cpaladinSci.wings||r\nVoltaic Plat3    ||cshamanZerk.SLT||r    ||cpriestJess.hymn||r\nVoltaic Plat4    ||cpaladinSci.wings||r    ||cpaladinSci.AM||r",
 	},
 	[4038414028] = {
-		["Updated"] = 1564883614,
+		["Updated"] = 1565409944,
 		["Name"] = "05 Orgo",
 		["Contents"] = "~0:30    Adds 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31821}    ||cwarriorOreo||r{icon 97462}        \n~0:45    Arcing 1    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 246287}    ||cwarriorAedan||r{icon 97462}        \n~1:15    Arcing 2    ||cpriestSin||r{icon 15286}                \n~1:45    Arcing 3    ||cpriestTehkz||r{icon 47536}    ||cpriestFrida||r{icon 15286}    ||cpriestQuiv||r{icon 15286}        \n~2:15    Arcing 4    ||cpaladinSci||r{icon 31884}    ||cpriestTehkz||r{icon 246287}            \n~2:45    Arcing 5    ||cpaladinGordy||r{icon 31884}    ||cdemonhunterAndrew||r{icon 196718}    ||cpaladinSci||r{icon 31821}        \n~3:15    Arcing 6    ||cpriestJess||r{icon 265202}    ||cpriestTehkz||r{icon 81782}            \n~3:30    Dribbling 3    ||cpriestTehkz||r{icon 47536}    ||cpaladinGordy||r{icon 31821}    ||cwarriorOreo||r{icon 97462}    ||cpriestSin||r{icon 15286}    \n~3:45    Arcing 7    ||cpriestJess||r{icon 64843}    ||cdruidZerk||r{icon 740}    ||cwarriorAedan||r{icon 97462}        \n        ||cpriestFrida||r{icon 15286}    ||cpriestQuiv||r{icon 15286}    ||cpaladinSci||r{icon 31884}        \n                        \n                        \n    INTERMISSION                    \n~5:40    Arcing 9    ||cpaladinSci||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    ||cpriestSin||r{icon 15286}        \n~6:15    Arcing 10    ||cpriestTehkz||r{icon 246287}    ||cpaladinGordy||r{icon 31884}    ||cdemonhunterAndrew||r{icon 196718}    ||cpriestTehkz||r{icon 81782}    \n~6:45    Arcing 11    ||cpriestJess||r{icon 64843}    ||cdruidZerk||r{icon 740}    ||cwarriorOreo||r{icon 97462}    ||cpriestFrida||r{icon 15286}    ||cpaladinSci||r{icon 31821}\n~7:15    Arcing 12    ||cpaladinSci||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    ||cwarriorAedan||r{icon 97462}    ||cpriestQuiv||r{icon 15286}    ||cpaladinGordy||r{icon 31821}\n~7:45    Arcing 13    ||cpriestJess||r{icon 265202}    ||cpriestTehkz||r{icon 246287}    ||cpaladinGordy||r{icon 31884}    ||cpriestSin||r{icon 15286}",
 		["Id"] = 4038414028,
@@ -86,7 +86,7 @@ AngryAssign_Pages = {
 		["CategoryId"] = 2963104968,
 	},
 	[921751535] = {
-		["Updated"] = 1564791884,
+		["Updated"] = 1565402811,
 		["Name"] = "02 Radiance",
 		["CategoryId"] = 606800642,
 		["Id"] = 921751535,
@@ -163,12 +163,12 @@ AngryAssign_Pages = {
 		["Contents"] = "",
 	},
 	[2046205792] = {
-		["Updated"] = 1564791878,
+		["Updated"] = 1565401025,
 		["Name"] = "01 Sivara",
-		["Contents"] = "Barrage 1    ||cpaladinSci||r{icon 31884}        \nBarrage 2    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cpriestTehkz||r{icon 47536}\nBarrage 3    ||cdruidZerk||r{icon 740}    ||cpaladinSci||r{icon 31821}    \nBarrage 4    ||cpaladinSci||r{icon 31884}        \nBarrage 5    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    \nBarrage 6    ||cpaladinGordy||r{icon 31821}    ||cpriestJess||r{icon 265202}    \nBarrage 7    ||cpaladinSci||r{icon 31884}    ||cpriestJess||r{icon 64843}    \nBarrage 8    ||cpaladinGordy||r{icon 31884}    ||cdruidZerk||r{icon 740}    ||cpriestTehkz||r{icon 47536}",
+		["Contents"] = "Barrage 1    ||cpaladinSci||r{icon 31884}        \nBarrage 2    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cpriestTehkz||r{icon 47536}\nBarrage 3    ||cpriestSin||r{icon 64843}    ||cpaladinSci||r{icon 31821}    \nBarrage 4    ||cpaladinSci||r{icon 31884}    ||cpriestSin||r{icon 265202}    \nBarrage 5    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    \nBarrage 6    ||cpaladinGordy||r{icon 31821}    ||cpriestJess||r{icon 265202}    ||cwarriorOreo||r{icon 97462}\nBarrage 7    ||cpaladinSci||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cwarriorAedan||r{icon 97462}\nBarrage 8    ||cpaladinGordy||r{icon 31884}    ||cpriestSin||r{icon 64843}    ||cpriestTehkz||r{icon 47536}",
 		["Id"] = 2046205792,
-		["UpdateId"] = 1402270703,
-		["Backup"] = "Barrage 1    ||cpaladinSci||r{icon 31884}        \nBarrage 2    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cpriestTehkz||r{icon 47536}\nBarrage 3    ||cdruidZerk||r{icon 740}    ||cpaladinSci||r{icon 31821}    \nBarrage 4    ||cpaladinSci||r{icon 31884}        \nBarrage 5    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    \nBarrage 6    ||cpaladinGordy||r{icon 31821}    ||cpriestJess||r{icon 265202}    \nBarrage 7    ||cpaladinSci||r{icon 31884}    ||cpriestJess||r{icon 64843}    \nBarrage 8    ||cpaladinGordy||r{icon 31884}    ||cdruidZerk||r{icon 740}    ||cpriestTehkz||r{icon 47536}",
+		["UpdateId"] = 2935609760,
+		["Backup"] = "Barrage 1    ||cpaladinSci||r{icon 31884}        \nBarrage 2    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cpriestTehkz||r{icon 47536}\nBarrage 3    ||cpriestSin||r{icon 64843}    ||cpaladinSci||r{icon 31821}    \nBarrage 4    ||cpaladinSci||r{icon 31884}    ||cpriestSin||r{icon 265202}    \nBarrage 5    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}    \nBarrage 6    ||cpaladinGordy||r{icon 31821}    ||cpriestJess||r{icon 265202}    ||cwarriorOreo||r{icon 97462}\nBarrage 7    ||cpaladinSci||r{icon 31884}    ||cpriestJess||r{icon 64843}    ||cwarriorAedan||r{icon 97462}\nBarrage 8    ||cpaladinGordy||r{icon 31884}    ||cpriestSin||r{icon 64843}    ||cpriestTehkz||r{icon 47536}",
 		["CategoryId"] = 606800642,
 	},
 	[3254967952] = {
@@ -198,7 +198,7 @@ AngryAssign_Pages = {
 		["CategoryId"] = 2377436366,
 	},
 	[2928123566] = {
-		["Updated"] = 1564791889,
+		["Updated"] = 1565403681,
 		["Name"] = "04 Ashvane",
 		["Contents"] = "1    ||cpriestTehkz||r{icon 246287}    ||cpaladinSci||r{icon 31884}        \n2    ||cpriestTehkz||r{icon 47536}    ||cpaladinGordy||r{icon 31884}    ||cwarriorOreo||r{icon 97462}    ||cpriestSPriest||r{icon 15286}\n                \n3    ||cpriestTehkz||r{icon 47536}    ||cpaladinSci||r{icon 31884}    ||cdemonhunterAndrew||r{icon 196718}    \n4    ||cpaladinGordy||r{icon 31884}    ||cpaladinSci||r{icon 31821}    ||cpriestSPriest||r{icon 15286}    \n5    ||cpriestTehkz||r{icon 246287}    ||cpaladinGordy||r{icon 31821}    ||cpriestTehkz||r{icon 81782}    ||cwarriorAedan||r{icon 97462}\n                \nArcing 2    ||cpriestTehkz||r{icon 47536}    ||cpaladinSci||r{icon 31884}        \n        ||cpriestTehkz||r{icon 246287}    ||cpaladinGordy||r{icon 31884}        \n                \n6    ||cpaladinSci||r{icon 31884}    ||cwarriorOreo||r{icon 97462}    ||cpriestSPriest||r{icon 15286}    \n7    ||cpaladinGordy||r{icon 31884}    ||cpaladinSci||r{icon 31821}    ||cdemonhunterAndrew||r{icon 196718}    \n8    ||cpriestTehkz||r{icon 47536}    ||cpriestTehkz||r{icon 246287}    ||cpaladinGordy||r{icon 31821}    \n9    ||cpaladinSci||r{icon 31884}    ||cpriestTehkz||r{icon 81782}        \n10    ||cpaladinGordy||r{icon 31884}    ||cpriestSPriest||r{icon 15286}        \n                \nArcing 3    ||cpaladinSci||r{icon 31821}    ||cwarriorAedan||r{icon 97462}",
 		["Id"] = 2928123566,
@@ -222,13 +222,6 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
-	["window"] = {
-		["height"] = 628.8056030273438,
-		["top"] = 1301.224609375,
-		["left"] = 445.0790100097656,
-		["width"] = 969.6854858398438,
-	},
-	["locked"] = true,
 	["tree"] = {
 		["groups"] = {
 			["-6068006422996981258"] = true,
@@ -266,9 +259,16 @@ AngryAssign_State = {
 		["selected"] = "-6068006424038414028",
 		["treesizable"] = true,
 		["treewidth"] = 174.999908447266,
-		["fullwidth"] = 935.6854248046875,
+		["fullwidth"] = 935.685791015625,
 	},
+	["locked"] = true,
 	["directionUp"] = true,
+	["window"] = {
+		["height"] = 628.8054809570313,
+		["top"] = 1095.94140625,
+		["left"] = 2448.600341796875,
+		["width"] = 969.6856689453125,
+	},
 	["display"] = {
 		["y"] = 180.4068298339844,
 		["x"] = -736.6687316894531,

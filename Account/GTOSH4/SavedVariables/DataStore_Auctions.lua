@@ -16,8 +16,8 @@ DataStore_AuctionsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1565105926,
-				["lastVisitDate"] = "2019/08/06 11:38",
+				["lastUpdate"] = 1565415677,
+				["lastVisitDate"] = "2019/08/10 01:41",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1554949726,
@@ -28,8 +28,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2019/07/14 16:55",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1557556224,
-				["lastVisitDate"] = "2019/05/11 02:30",
+				["lastUpdate"] = 1565388862,
+				["lastVisitDate"] = "2019/08/09 18:14",
 			},
 		},
 	},

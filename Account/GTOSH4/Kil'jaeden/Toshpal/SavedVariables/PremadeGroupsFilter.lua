@@ -124,11 +124,11 @@ PremadeGroupsFilterState = {
 		},
 	},
 	["t1c3f1"] = {
-		["enabled"] = true,
+		["enabled"] = false,
 		["tanks"] = {
 			["max"] = "",
 			["min"] = "2",
-			["act"] = true,
+			["act"] = false,
 		},
 		["ilvl"] = {
 			["max"] = "",

@@ -33,8 +33,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["AutoShareQ"] = 0,
-				["ShowArrow"] = 1,
 				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["QuestButtons"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 1146.6666015625,
@@ -44,7 +44,7 @@ AAP1 = {
 				["QuestButtonDetatch"] = 0,
 				["AutoVendor"] = 0,
 				["alpha"] = 1,
-				["ShowMapBlobs"] = 1,
+				["ShowArrow"] = 1,
 				["ShowQList"] = 1,
 				["Greetings2"] = 1,
 			},
@@ -92,8 +92,8 @@ AAP1 = {
 				["arrowleft"] = 1398.373904344512,
 				["ArrowScale"] = 0.64,
 				["QuestButtons"] = 1,
-				["ShowMapBlobs"] = 1,
 				["Hcamptop"] = -239.9999755859375,
+				["ShowArrow"] = 1,
 				["Scale"] = 0.64,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 1146.6666015625,
@@ -102,7 +102,7 @@ AAP1 = {
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["alpha"] = 1,
-				["ShowArrow"] = 1,
+				["ShowMapBlobs"] = 1,
 				["AutoShareQ"] = 0,
 				["ShowQList"] = 1,
 				["AutoVendor"] = 0,
@@ -125,7 +125,7 @@ AAP1 = {
 			},
 			["525-90-100"] = 60,
 			["AAP_DoWarCampaign"] = 0,
-			["BonusSkips"] = {
+			["WantedQuestList"] = {
 			},
 			["Settings"] = {
 				["LockArrow"] = 0,
@@ -157,8 +157,8 @@ AAP1 = {
 				["ShowQList"] = 1,
 				["ArrowScale"] = 0.64,
 				["Scale"] = 0.64,
-				["ShowArrow"] = 1,
 				["ShowMapBlobs"] = 1,
+				["Hcamptop"] = -239.9999755859375,
 				["AutoShareQ"] = 0,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -167,16 +167,16 @@ AAP1 = {
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["Partyleft"] = 1146.6666015625,
-				["Hcamptop"] = -239.9999755859375,
+				["ShowArrow"] = 1,
 				["AutoVendor"] = 0,
 				["arrowleft"] = 1398.373904344512,
 				["Greetings2"] = 1,
 			},
-			["WantedQuestList"] = {
-			},
 			["CountedZoneSteps"] = {
 				["543-90-100"] = 101,
 				["525-90-100"] = 90,
+			},
+			["BonusSkips"] = {
 			},
 			["LoaPick"] = 0,
 			["543-90-100"] = 6,
@@ -187,13 +187,13 @@ AAP1 = {
 	["GliderName"] = "Goblin Glider Kit",
 	["BloodFurnace"] = {
 		["Toshtrial"] = {
-			["LoaPick"] = 0,
+			["AAP_DoWarCampaign"] = 0,
 			["CountedZoneSteps"] = {
 				["543-90-100"] = 101,
 				["1-100to110"] = 3,
 			},
 			["SavedVer"] = 8.1048,
-			[110] = 1,
+			["LoaPick"] = 0,
 			["543-90-100"] = 1,
 			["WantedQuestList"] = {
 			},
@@ -227,8 +227,8 @@ AAP1 = {
 				["ShowQList"] = 1,
 				["ArrowScale"] = 0.64,
 				["AutoVendor"] = 0,
-				["ShowMapBlobs"] = 1,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["Partyleft"] = 1146.6666015625,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -238,14 +238,14 @@ AAP1 = {
 				["QuestButtonDetatch"] = 0,
 				["QuestButtons"] = 1,
 				["AutoShareQ"] = 0,
-				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["DisableHeirloomWarning"] = 0,
 				["Greetings2"] = 1,
 			},
 			["BonusSkips"] = {
 			},
 			[572] = 1,
-			["AAP_DoWarCampaign"] = 0,
+			[110] = 1,
 			["SkippedBonusObj"] = {
 			},
 			["QlineSkip"] = {
@@ -262,7 +262,8 @@ AAP1 = {
 			[875] = 1,
 			["862-99"] = 1,
 			["AAP_DoWarCampaign"] = 0,
-			[525] = 1,
+			["BonusSkips"] = {
+			},
 			["Settings"] = {
 				["LockArrow"] = 0,
 				["ShowQuestListOrder"] = 0,
@@ -293,8 +294,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["QuestButtons"] = 1,
-				["ShowMapBlobs"] = 1,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["Scale"] = 0.64,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -303,32 +304,32 @@ AAP1 = {
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["Partyleft"] = 1146.6666015625,
-				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["ShowQList"] = 1,
 				["Greetings2"] = 1,
 				["AutoVendor"] = 0,
 			},
-			["BonusSkips"] = {
-			},
 			["WantedQuestList"] = {
 			},
+			[525] = 1,
 			["LoaPick"] = 0,
 			[194] = 1,
 			["QlineSkip"] = {
 			},
 		},
 		["Tosku"] = {
-			["627-110"] = 1,
-			["1-110"] = 5,
+			["BonusSkips"] = {
+			},
+			["WantedQuestList"] = {
+			},
 			[85] = 1,
 			["LoaPick"] = 0,
 			["SavedVer"] = 8.1052,
-			["BonusSkips"] = {
-			},
 			["CountedZoneSteps"] = {
 				["1-110"] = 22,
 				["627-110"] = 1,
 			},
+			["627-110"] = 1,
 			["SkippedBonusObj"] = {
 			},
 			["AAP_DoWarCampaign"] = 0,
@@ -362,8 +363,8 @@ AAP1 = {
 				["ShowQList"] = 1,
 				["ArrowScale"] = 1.41,
 				["AutoVendor"] = 0,
-				["ShowMapBlobs"] = 1,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["alpha"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 2851.32177734375,
@@ -372,14 +373,13 @@ AAP1 = {
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["QuestButtons"] = 1,
-				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["AutoShareQ"] = 0,
 				["DisableHeirloomWarning"] = 0,
 				["Scale"] = 0.64,
 			},
+			["1-110"] = 5,
 			[720] = 1,
-			["WantedQuestList"] = {
-			},
 			[619] = 1,
 			[12] = 1,
 			["QlineSkip"] = {
@@ -391,8 +391,7 @@ AAP1 = {
 			["SkippedBonusObj"] = {
 			},
 			["862-110-120-3"] = 237,
-			["CountedZoneSteps"] = {
-				["862-110-120-3"] = 502,
+			["WantedQuestList"] = {
 			},
 			["Settings"] = {
 				["LockArrow"] = 0,
@@ -423,8 +422,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["AutoShareQ"] = 0,
-				["ShowArrow"] = 1,
 				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["QuestButtons"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -434,15 +433,16 @@ AAP1 = {
 				["QuestButtonDetatch"] = 0,
 				["AutoVendor"] = 0,
 				["Partyleft"] = 2747.76733398438,
-				["ShowMapBlobs"] = 1,
+				["ShowArrow"] = 1,
 				["ShowQList"] = 1,
 				["Greetings2"] = 1,
 			},
-			["WantedQuestList"] = {
+			["BonusSkips"] = {
 			},
 			["AAP_DoWarCampaign"] = 0,
 			["LoaPick"] = 1,
-			["BonusSkips"] = {
+			["CountedZoneSteps"] = {
+				["862-110-120-3"] = 502,
 			},
 			["QlineSkip"] = {
 			},
@@ -483,8 +483,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["ShowQList"] = 1,
-				["ShowMapBlobs"] = 1,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["alpha"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 1146.6666015625,
@@ -494,7 +494,7 @@ AAP1 = {
 				["QuestButtonDetatch"] = 0,
 				["Scale"] = 0.64,
 				["QuestButtons"] = 1,
-				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["AutoShareQ"] = 0,
 				["DisableHeirloomWarning"] = 0,
 			},
@@ -570,8 +570,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["ShowQList"] = 1,
-				["ShowMapBlobs"] = 1,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["Partyleft"] = 2870.7236328125,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -580,7 +580,7 @@ AAP1 = {
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["Scale"] = 0.64,
-				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["QuestButtons"] = 1,
 				["AutoShareQ"] = 0,
 				["DisableHeirloomWarning"] = 0,
@@ -747,8 +747,8 @@ AAP1 = {
 				["ShowQList"] = 1,
 				["ArrowScale"] = 1.02,
 				["Scale"] = 0.64,
-				["Hcamptop"] = -239.999975585938,
 				["ShowMapBlobs"] = 1,
+				["ShowArrow"] = 1,
 				["Partyleft"] = 1146.6666015625,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -756,7 +756,7 @@ AAP1 = {
 				["top"] = -398.009521484375,
 				["Legion"] = 0,
 				["QuestButtonDetatch"] = 0,
-				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.999975585938,
 				["QuestButtons"] = 1,
 				["AutoShareQ"] = 0,
 				["DisableHeirloomWarning"] = 0,
@@ -911,8 +911,8 @@ AAP1 = {
 				["arrowleft"] = 1398.37390434451,
 				["ArrowScale"] = 0.64,
 				["ShowQList"] = 1,
-				["ShowArrow"] = 1,
 				["Hcamptop"] = -239.999975585938,
+				["ShowMapBlobs"] = 1,
 				["alpha"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 1146.6666015625,
@@ -923,20 +923,20 @@ AAP1 = {
 				["Scale"] = 0.64,
 				["QuestButtons"] = 1,
 				["AutoShareQ"] = 0,
-				["ShowMapBlobs"] = 1,
+				["ShowArrow"] = 1,
 				["DisableHeirloomWarning"] = 0,
 			},
-			["BonusSkips"] = {
+			["WantedQuestList"] = {
 			},
 			["LoaPick"] = 0,
 			["543-90-100"] = 1,
-			["WantedQuestList"] = {
+			["CountedZoneSteps"] = {
+				["543-90-100"] = 101,
 			},
 			["SkippedBonusObj"] = {
 			},
 			["AAP_DoWarCampaign"] = 0,
-			["CountedZoneSteps"] = {
-				["543-90-100"] = 101,
+			["BonusSkips"] = {
 			},
 			["QlineSkip"] = {
 			},
@@ -1909,10 +1909,10 @@ AAPQuestNames = {
 	[53950] = "Explosive Relief",
 	[55211] = "Recharging Rustbolt",
 	[51984] = "Return to Zuldazar",
-	[55426] = "What Will It Grow?",
-	[55298] = "Fishing For Something Bigger",
-	[49285] = "Tiny Treasures",
 	[51332] = "A Trip Across the Ocean",
+	[55298] = "Fishing For Something Bigger",
+	[55426] = "What Will It Grow?",
+	[49285] = "Tiny Treasures",
 	[55490] = "We'll Poke Their Eye Out",
 	[49413] = "Scamps With Scrolls",
 	[55618] = "The Heart Forge",

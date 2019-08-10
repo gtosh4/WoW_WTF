@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["LOG_DE_DATA_X"] = true,
 	["_500"] = 5,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
-	["_5000000"] = 10000,
+	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["LOG_DE_DATA_X"] = true,
+	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -53,56 +53,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"quick sand spinel", -- [1]
-			"osmenite Ore", -- [2]
-			"Storm Silver Ore", -- [3]
-			"Stormsilver ore", -- [4]
-			"Ink", -- [5]
-			"Monelite Ore", -- [6]
-			"Vantus Rune", -- [7]
-			"Baked port tato", -- [8]
-			"quick navigation", -- [9]
-			"Shimmerscale", -- [10]
-			"Phalanx", -- [11]
-			"Rustbolt", -- [12]
-			"Greater flask ", -- [13]
-			"Greater flask of the currents", -- [14]
-			"Akunda's Bite", -- [15]
-			"Anchor Weed", -- [16]
-			"Lightfoot potion", -- [17]
-			"Mistscale", -- [18]
-			"quick", -- [19]
-			"of haste", -- [20]
-			"Pact of haste", -- [21]
-			"tempest hide", -- [22]
-			"calcified", -- [23]
-			"crimson ink", -- [24]
-			"Seal of mastery", -- [25]
-			"Machinist's brilliance", -- [26]
-			"Accord of critical", -- [27]
-			"Leviathan's eye", -- [28]
-			"Big mech", -- [29]
-			"Deadly", -- [30]
-			"critical strike", -- [31]
-			"Kraken's Eye of intellect", -- [32]
-			"Abyssal", -- [33]
-			"Maroon ink", -- [34]
-			"Embroidered Deep Sea Bag", -- [35]
-			"Contract", -- [36]
-			"Vantus Rune: Battle of Dazar'alor", -- [37]
-			"Battle-Scarred Augment Rune", -- [38]
-			"Flask of Endless Fathoms", -- [39]
-			"War-scroll of battle shout", -- [40]
-			"Scroll of attack power", -- [41]
-			"Coastal Healing Potion", -- [42]
-			"quick owlseye", -- [43]
-			"Pact of Critical", -- [44]
-			"Potion of Replenishment", -- [45]
-			"Stringy Loins", -- [46]
-			"Lane Snapper", -- [47]
-			"Aromatic Fish Oil", -- [48]
-			"Deadly Navigation", -- [49]
-			"Masterful navigation", -- [50]
+			"Blood-Stained Bone", -- [1]
+			"quick sand spinel", -- [2]
+			"osmenite Ore", -- [3]
+			"Storm Silver Ore", -- [4]
+			"Stormsilver ore", -- [5]
+			"Ink", -- [6]
+			"Monelite Ore", -- [7]
+			"Vantus Rune", -- [8]
+			"Baked port tato", -- [9]
+			"quick navigation", -- [10]
+			"Shimmerscale", -- [11]
+			"Phalanx", -- [12]
+			"Rustbolt", -- [13]
+			"Greater flask ", -- [14]
+			"Greater flask of the currents", -- [15]
+			"Akunda's Bite", -- [16]
+			"Anchor Weed", -- [17]
+			"Lightfoot potion", -- [18]
+			"Mistscale", -- [19]
+			"quick", -- [20]
+			"of haste", -- [21]
+			"Pact of haste", -- [22]
+			"tempest hide", -- [23]
+			"calcified", -- [24]
+			"crimson ink", -- [25]
+			"Seal of mastery", -- [26]
+			"Machinist's brilliance", -- [27]
+			"Accord of critical", -- [28]
+			"Leviathan's eye", -- [29]
+			"Big mech", -- [30]
+			"Deadly", -- [31]
+			"critical strike", -- [32]
+			"Kraken's Eye of intellect", -- [33]
+			"Abyssal", -- [34]
+			"Maroon ink", -- [35]
+			"Embroidered Deep Sea Bag", -- [36]
+			"Contract", -- [37]
+			"Vantus Rune: Battle of Dazar'alor", -- [38]
+			"Battle-Scarred Augment Rune", -- [39]
+			"Flask of Endless Fathoms", -- [40]
+			"War-scroll of battle shout", -- [41]
+			"Scroll of attack power", -- [42]
+			"Coastal Healing Potion", -- [43]
+			"quick owlseye", -- [44]
+			"Pact of Critical", -- [45]
+			"Potion of Replenishment", -- [46]
+			"Stringy Loins", -- [47]
+			"Lane Snapper", -- [48]
+			"Aromatic Fish Oil", -- [49]
+			"Deadly Navigation", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -9141,6 +9141,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 19446355,
 		},
+		["Storm Silver Ore"] = {
+			["H3189"] = 197499,
+			["cc"] = 7,
+			["id"] = "152579:0:0:0:0",
+			["sc"] = 7,
+			["mr"] = 197499,
+		},
 		["Jadefire Pants of the Quickblade"] = {
 			["mr"] = 47284842,
 			["cc"] = 4,
@@ -9162,13 +9169,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 519288,
 		},
-		["Storm Silver Ore"] = {
-			["mr"] = 298000,
-			["cc"] = 7,
-			["id"] = "152579:0:0:0:0",
-			["sc"] = 7,
-			["H3179"] = 298000,
-		},
 		["Marauder's Shoulder Pads of the Quickblade"] = {
 			["mr"] = 2278576,
 			["cc"] = 4,
@@ -9183,13 +9183,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3178"] = 557487,
 		},
-		["High Councillor's Gloves of the Quickblade"] = {
-			["mr"] = 4591416,
-			["cc"] = 4,
-			["id"] = "10140:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 4591416,
-		},
 		["Silver-Linked Footguards"] = {
 			["mr"] = 109949998,
 			["cc"] = 4,
@@ -9197,12 +9190,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 109949998,
 		},
+		["High Councillor's Gloves of the Quickblade"] = {
+			["mr"] = 4591416,
+			["cc"] = 4,
+			["id"] = "10140:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 4591416,
+		},
 		["Royal Ink"] = {
 			["mr"] = 500000,
 			["cc"] = 7,
 			["id"] = "43119:0:0:0:0",
 			["sc"] = 16,
 			["H3178"] = 500000,
+		},
+		["Dreadroot Linked Greaves of the Peerless"] = {
+			["mr"] = 109596593,
+			["cc"] = 4,
+			["id"] = "121208:0:0:0:1812",
+			["sc"] = 3,
+			["H3178"] = 109596593,
 		},
 		["Shadeback Shoulders of the Quickblade"] = {
 			["mr"] = 1531644,
@@ -9219,12 +9226,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 2834913,
 		},
-		["Dreadroot Linked Greaves of the Peerless"] = {
-			["mr"] = 109596593,
-			["cc"] = 4,
-			["id"] = "121208:0:0:0:1812",
-			["sc"] = 3,
-			["H3178"] = 109596593,
+		["Virtuoso Inking Set"] = {
+			["mr"] = 86133879,
+			["cc"] = 7,
+			["id"] = "39505:0:0:0:0",
+			["sc"] = 16,
+			["H3178"] = 86133879,
 		},
 		["Enchant Ring - Seal of Haste"] = {
 			["mr"] = 922000,
@@ -9254,12 +9261,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 10354500,
 		},
-		["Jade Deflector of the Quickblade"] = {
-			["mr"] = 70499957,
-			["cc"] = 4,
-			["id"] = "14916:0:0:0:1681",
+		["Blood-Stained Bone"] = {
+			["mr"] = 17800,
 			["sc"] = 6,
-			["H3169"] = 70499957,
+			["id"] = "154164:0:0:0:0",
+			["H3189"] = 17800,
+			["cc"] = 7,
 		},
 		["Ace of the Tides"] = {
 			["mr"] = 6769998,
@@ -9268,12 +9275,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153603:0:0:0:0",
 			["sc"] = 0,
 		},
-		["Virtuoso Inking Set"] = {
-			["mr"] = 86133879,
+		["Tinker's Kit"] = {
+			["mr"] = 499000,
 			["cc"] = 7,
-			["id"] = "39505:0:0:0:0",
-			["sc"] = 16,
-			["H3178"] = 86133879,
+			["id"] = "90146:0:0:0:0",
+			["sc"] = 1,
+			["H3178"] = 499000,
 		},
 		["Forlorn Loa-Binder Cage of the Quickblade"] = {
 			["mr"] = 10010000,
@@ -9297,13 +9304,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 53591133,
 		},
-		["Tinker's Kit"] = {
-			["mr"] = 499000,
-			["cc"] = 7,
-			["id"] = "90146:0:0:0:0",
-			["sc"] = 1,
-			["H3178"] = 499000,
-		},
 		["Incised Knuckles of the Quickblade"] = {
 			["mr"] = 57122577,
 			["cc"] = 2,
@@ -9324,6 +9324,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15280:0:0:0:1678",
 			["sc"] = 19,
 			["H3169"] = 248739,
+		},
+		["Shimmerscale Pauldrons of the Aurora"] = {
+			["mr"] = 4999996,
+			["cc"] = 4,
+			["id"] = "154151:0:0:0:1704",
+			["sc"] = 3,
+			["H3174"] = 4999996,
 		},
 		["Mistyreed Torch of the Quickblade"] = {
 			["mr"] = 25000000,
@@ -9353,19 +9360,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 10555570,
 		},
-		["Headshrinker's Wristguards"] = {
-			["mr"] = 162055775,
-			["cc"] = 4,
-			["id"] = "164492:0:0:0:0",
-			["sc"] = 3,
-			["H3178"] = 162055775,
-		},
 		["Headshrinker's Vestments"] = {
 			["mr"] = 370265621,
 			["cc"] = 4,
 			["id"] = "164498:0:0:0:0",
 			["sc"] = 3,
 			["H3178"] = 370265621,
+		},
+		["Zem'lan Longsword of the Quickblade"] = {
+			["mr"] = 3329308,
+			["cc"] = 2,
+			["id"] = "159601:0:0:0:4796",
+			["sc"] = 8,
+			["H3169"] = 3329308,
 		},
 		["Wolf Rider's Cloak of the Quickblade"] = {
 			["mr"] = 41513750,
@@ -9395,13 +9402,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 1168488,
 		},
-		["Bonelink Gauntlets of the Aurora"] = {
-			["mr"] = 105791983,
-			["cc"] = 4,
-			["id"] = "15612:0:0:0:1707",
-			["sc"] = 3,
-			["H3178"] = 105791983,
-		},
 		["Ink of the Sea"] = {
 			["mr"] = 167819,
 			["cc"] = 7,
@@ -9409,12 +9409,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 16,
 			["H3178"] = 167819,
 		},
-		["Granite Necklace of the Quickblade"] = {
-			["mr"] = 13219823,
+		["Phalanx Spaulders of the Aurora"] = {
+			["mr"] = 11201929,
 			["cc"] = 4,
-			["id"] = "12036:0:0:0:1679",
-			["sc"] = 0,
-			["H3169"] = 13219823,
+			["id"] = "7424:0:0:0:4278",
+			["sc"] = 3,
+			["H3174"] = 11201929,
 		},
 		["Lion's Ink"] = {
 			["mr"] = 493747,
@@ -9430,6 +9430,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 24358216,
 		},
+		["Tranquility Mace of the Quickblade"] = {
+			["mr"] = 3096115,
+			["cc"] = 2,
+			["id"] = "25319:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 3096115,
+		},
 		["Revenant Boots of the Quickblade"] = {
 			["mr"] = 56171274,
 			["cc"] = 4,
@@ -9437,12 +9444,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 56171274,
 		},
-		["Tranquility Mace of the Quickblade"] = {
-			["mr"] = 3096115,
-			["cc"] = 2,
-			["id"] = "25319:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 3096115,
+		["Pink Sapphire Necklace of the Fireflash"] = {
+			["mr"] = 3492504,
+			["cc"] = 4,
+			["id"] = "25066:0:0:0:1694",
+			["sc"] = 0,
+			["H3178"] = 3492504,
 		},
 		["Ancestral Scepter of the Quickblade"] = {
 			["mr"] = 11250333,
@@ -9465,19 +9472,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 3984998,
 			["cc"] = 0,
 		},
-		["Pink Sapphire Necklace of the Fireflash"] = {
-			["mr"] = 3492504,
-			["cc"] = 4,
-			["id"] = "25066:0:0:0:1694",
-			["sc"] = 0,
-			["H3178"] = 3492504,
-		},
 		["Shimmering Bracers of the Quickblade"] = {
 			["mr"] = 4287483,
 			["cc"] = 4,
 			["id"] = "6563:0:0:0:1678",
 			["sc"] = 1,
 			["H3169"] = 4287483,
+		},
+		["Greater Flask of the Undertow"] = {
+			["mr"] = 15000000,
+			["sc"] = 3,
+			["H3174"] = 15000000,
+			["cc"] = 0,
+			["id"] = "168654:0:0:0:0",
 		},
 		["Tidespray Linen Robe of the Aurora"] = {
 			["mr"] = 13705835,
@@ -9486,12 +9493,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154685:0:0:0:1706",
 			["sc"] = 1,
 		},
-		["Shimmering Ink"] = {
-			["mr"] = 499998,
-			["cc"] = 7,
-			["id"] = "43122:0:0:0:0",
-			["sc"] = 16,
-			["H3178"] = 499998,
+		["Dreadroot Linked Gauntlets of the Fireflash"] = {
+			["mr"] = 9334302,
+			["cc"] = 4,
+			["id"] = "121207:0:0:0:1812",
+			["sc"] = 3,
+			["H3178"] = 9334302,
 		},
 		["Inlaid Staff of the Quickblade"] = {
 			["mr"] = 19049666,
@@ -9499,13 +9506,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "82223:0:0:0:1678",
 			["sc"] = 10,
 			["H3169"] = 19049666,
-		},
-		["Dreadroot Linked Gauntlets of the Fireflash"] = {
-			["mr"] = 9334302,
-			["cc"] = 4,
-			["id"] = "121207:0:0:0:1812",
-			["sc"] = 3,
-			["H3178"] = 9334302,
 		},
 		["Lunar Cloak of the Quickblade"] = {
 			["mr"] = 13367422,
@@ -9515,6 +9515,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 16283472,
 		},
+		["Chain Links of Fraying Awe"] = {
+			["mr"] = 5000000,
+			["cc"] = 4,
+			["id"] = "163931:0:0:0:1472",
+			["sc"] = 3,
+			["H3178"] = 5000000,
+		},
 		["Bonelink Bracers of the Aurora"] = {
 			["mr"] = 26123996,
 			["cc"] = 4,
@@ -9523,12 +9530,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 26123997,
 		},
-		["Soulkeeper Scepter of the Quickblade"] = {
-			["mr"] = 3104604,
-			["cc"] = 2,
-			["id"] = "116551:0:0:0:3875",
-			["sc"] = 4,
-			["H3169"] = 3104604,
+		["Adventurer's Boots of the Quickblade"] = {
+			["mr"] = 1032422,
+			["cc"] = 4,
+			["id"] = "10257:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 1032422,
 		},
 		["Sha'tari Longsword of the Quickblade"] = {
 			["mr"] = 8973546,
@@ -9537,19 +9544,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 8973546,
 		},
-		["Adventurer's Boots of the Quickblade"] = {
-			["mr"] = 1032422,
-			["cc"] = 4,
-			["id"] = "10257:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 1032422,
-		},
 		["Stinkrot"] = {
 			["mr"] = 39989999,
 			["cc"] = 17,
 			["id"] = "1629:1",
 			["sc"] = 0,
 			["H3178"] = 39989999,
+		},
+		["Viscous Ink"] = {
+			["mr"] = 598210000,
+			["cc"] = 15,
+			["id"] = "155636:0:0:0:0",
+			["sc"] = 0,
+			["H3178"] = 598210000,
 		},
 		["Eternal Crown of the Quickblade"] = {
 			["mr"] = 13000540,
@@ -9558,12 +9565,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 13000540,
 		},
-		["Viscous Ink"] = {
-			["mr"] = 598210000,
-			["cc"] = 15,
-			["id"] = "155636:0:0:0:0",
-			["sc"] = 0,
-			["H3178"] = 598210000,
+		["Abyssal Plate Greaves of the Fireflash"] = {
+			["mr"] = 2816466613,
+			["cc"] = 4,
+			["id"] = "20662:0:0:0:1695",
+			["sc"] = 4,
+			["H3162"] = 2816466613,
 		},
 		["Shimmering Sash of the Quickblade"] = {
 			["mr"] = 5549945,
@@ -9580,12 +9587,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 11545333,
 		},
-		["Abyssal Plate Greaves of the Fireflash"] = {
-			["mr"] = 2816466613,
-			["cc"] = 4,
-			["id"] = "20662:0:0:0:1695",
-			["sc"] = 4,
-			["H3162"] = 2816466613,
+		["Pattern: Pink Mageweave Shirt"] = {
+			["mr"] = 21460306,
+			["cc"] = 9,
+			["id"] = "10317:0:0:0:0",
+			["sc"] = 2,
+			["H3178"] = 21460306,
 		},
 		["Infiltrator Gloves of the Quickblade"] = {
 			["mr"] = 1603564,
@@ -9615,19 +9622,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1966454,
 		},
-		["Bonelink Wall Shield of the Fireflash"] = {
-			["mr"] = 25621941,
-			["cc"] = 4,
-			["id"] = "15618:0:0:0:1691",
-			["sc"] = 6,
-			["H3178"] = 25621941,
-		},
 		["Dreadroot Linked Spaulders of the Aurora"] = {
 			["mr"] = 13052313,
 			["cc"] = 4,
 			["id"] = "121211:0:0:0:1812",
 			["sc"] = 3,
 			["H3178"] = 13052313,
+		},
+		["Dragonhawk Belt of the Quickblade"] = {
+			["mr"] = 3829343,
+			["cc"] = 4,
+			["L3169"] = 3829343,
+			["id"] = "24798:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 4341297,
 		},
 		["Unhallowed Voidlink Boots"] = {
 			["mr"] = 475407980,
@@ -9657,13 +9665,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 16,
 			["H3178"] = 999996,
 		},
-		["Dragonhawk Belt of the Quickblade"] = {
-			["mr"] = 3829343,
+		["Elegant Gloves of the Quickblade"] = {
+			["mr"] = 6620000,
 			["cc"] = 4,
-			["L3169"] = 3829343,
-			["id"] = "24798:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 4341297,
+			["id"] = "10214:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 6620000,
 		},
 		["Celestial Pauldrons of the Quickblade"] = {
 			["mr"] = 10416892,
@@ -9679,13 +9686,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 18301297,
 		},
-		["Steadfast Shoulders of the Quickblade"] = {
-			["mr"] = 9989898,
-			["cc"] = 4,
-			["id"] = "15597:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 9989898,
-		},
 		["Field Plate Helmet of the Quickblade"] = {
 			["mr"] = 14008419,
 			["cc"] = 4,
@@ -9693,12 +9693,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 14008419,
 		},
-		["Shimmerscale Waistguard of the Aurora"] = {
-			["mr"] = 4999962,
+		["Steadfast Shoulders of the Quickblade"] = {
+			["mr"] = 9989898,
 			["cc"] = 4,
-			["id"] = "154152:0:0:0:1707",
+			["id"] = "15597:0:0:0:1677",
 			["sc"] = 3,
-			["H3174"] = 4999962,
+			["H3169"] = 9989898,
+		},
+		["Pink Turnip"] = {
+			["mr"] = 122256,
+			["cc"] = 7,
+			["id"] = "74849:0:0:0:0",
+			["sc"] = 8,
+			["H3178"] = 122256,
 		},
 		["Steelspark Axe of the Quickblade"] = {
 			["mr"] = 353530264,
@@ -9714,12 +9721,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 7190000,
 		},
-		["Pink Turnip"] = {
-			["mr"] = 122256,
-			["cc"] = 7,
-			["id"] = "74849:0:0:0:0",
-			["sc"] = 8,
-			["H3178"] = 122256,
+		["Fireheart Gloves of the Quickblade"] = {
+			["mr"] = 2921756,
+			["cc"] = 4,
+			["id"] = "24592:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 2921756,
 		},
 		["Brigade Pauldrons of the Quickblade"] = {
 			["mr"] = 33340647,
@@ -9756,13 +9763,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3169"] = 43373897,
 		},
-		["Fireheart Gloves of the Quickblade"] = {
-			["mr"] = 2921756,
-			["cc"] = 4,
-			["id"] = "24592:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 2921756,
-		},
 		["Thunder Spike of the Quickblade"] = {
 			["mr"] = 2002808,
 			["cc"] = 2,
@@ -9770,20 +9770,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 2002808,
 		},
+		["Shimmerscale"] = {
+			["mr"] = 722000,
+			["cc"] = 7,
+			["id"] = "153050:0:0:0:0",
+			["sc"] = 6,
+			["H3174"] = 722000,
+		},
 		["Vizier Hood of the Quickblade"] = {
 			["mr"] = 835100,
 			["cc"] = 4,
 			["id"] = "36055:0:0:0:1679",
 			["sc"] = 1,
 			["H3169"] = 835100,
-		},
-		["Divine Warblade of the Quickblade"] = {
-			["mr"] = 9450132,
-			["cc"] = 2,
-			["L3169"] = 9450132,
-			["id"] = "15258:0:0:0:1677",
-			["sc"] = 8,
-			["H3169"] = 9450135,
 		},
 		["Sinister Combatant's Satin Bracers of the Quickblade"] = {
 			["mr"] = 53075392,
@@ -9806,12 +9805,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 435512566,
 		},
-		["Lunar Raiment of the Quickblade"] = {
-			["mr"] = 22435872,
+		["Haal'eshi Hat of the Quickblade"] = {
+			["mr"] = 28116129,
 			["cc"] = 4,
-			["id"] = "14254:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 22435872,
+			["id"] = "24705:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 28116129,
 		},
 		["Shimmerscale Waistguard of the Feverflare"] = {
 			["mr"] = 4999964,
@@ -9820,13 +9819,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 4999964,
 		},
-		["Sundown Bracers of the Quickblade"] = {
-			["mr"] = 16801566,
-			["cc"] = 4,
-			["id"] = "55562:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 16801566,
-		},
 		["Fishy"] = {
 			["mr"] = 50000000,
 			["sc"] = 0,
@@ -9834,12 +9826,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 50000000,
 			["cc"] = 17,
 		},
-		["Elder's Pants of the Quickblade"] = {
-			["mr"] = 6821847,
+		["Sundown Bracers of the Quickblade"] = {
+			["mr"] = 16801566,
 			["cc"] = 4,
-			["id"] = "7368:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 6821847,
+			["id"] = "55562:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 16801566,
 		},
 		["Bloodfist Legplates of the Quickblade"] = {
 			["mr"] = 7501608,
@@ -9848,12 +9840,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 7501608,
 		},
+		["Elder's Pants of the Quickblade"] = {
+			["mr"] = 6821847,
+			["cc"] = 4,
+			["id"] = "7368:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 6821847,
+		},
 		["Boulderfist Greaves of the Quickblade"] = {
 			["mr"] = 69575692,
 			["cc"] = 4,
 			["id"] = "24983:0:0:0:1679",
 			["sc"] = 4,
 			["H3169"] = 69575692,
+		},
+		["Shimmerscale Gauntlets of the Feverflare"] = {
+			["mr"] = 3999962,
+			["cc"] = 4,
+			["id"] = "154148:0:0:0:1703",
+			["sc"] = 3,
+			["H3174"] = 3999962,
 		},
 		["Mystical Boots of the Quickblade"] = {
 			["mr"] = 829211,
@@ -9862,12 +9868,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 829211,
 		},
-		["Shimmerscale Gauntlets of the Feverflare"] = {
-			["mr"] = 3999962,
-			["cc"] = 4,
-			["id"] = "154148:0:0:0:1703",
-			["sc"] = 3,
-			["H3174"] = 3999962,
+		["Cascading Water Staff of the Quickblade"] = {
+			["mr"] = 14632044,
+			["cc"] = 2,
+			["id"] = "36707:0:0:0:3872",
+			["sc"] = 10,
+			["H3169"] = 14632044,
 		},
 		["Discarded Swampstalker Gloves of the Quickblade"] = {
 			["mr"] = 3976992,
@@ -9906,20 +9912,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 31607689,
 		},
-		["Angerfang Hammer of the Quickblade"] = {
-			["mr"] = 71358252,
-			["cc"] = 2,
-			["L3169"] = 71358252,
-			["id"] = "55391:0:0:0:1677",
-			["sc"] = 5,
-			["H3169"] = 484426217,
-		},
 		["Phalanx Shield of the Aurora"] = {
 			["mr"] = 24592440,
 			["cc"] = 4,
 			["id"] = "7331:0:0:0:1707",
 			["sc"] = 6,
 			["H3174"] = 24592440,
+		},
+		["Wavecaller Mace of the Quickblade"] = {
+			["mr"] = 6500000,
+			["cc"] = 2,
+			["id"] = "159535:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 6500000,
 		},
 		["Ranger Wristguards of the Quickblade"] = {
 			["mr"] = 6800487,
@@ -9935,13 +9940,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3162"] = 27277480,
 		},
-		["Immaculate Cloak of the Quickblade"] = {
-			["mr"] = 1173552,
-			["cc"] = 4,
-			["id"] = "82281:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 1173552,
-		},
 		["Patched Cape of the Quickblade"] = {
 			["mr"] = 19028291,
 			["cc"] = 4,
@@ -9956,6 +9954,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3162"] = 49999,
 		},
+		["Mistscale Knuckles of the Feverflare"] = {
+			["mr"] = 63581719,
+			["cc"] = 2,
+			["id"] = "154162:0:0:0:1697",
+			["sc"] = 13,
+			["H3170"] = 63581719,
+		},
 		["Obsidian Pendant of the Quickblade"] = {
 			["mr"] = 1875231,
 			["cc"] = 4,
@@ -9969,13 +9974,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24714:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 1403644,
-		},
-		["Mistscale Knuckles of the Feverflare"] = {
-			["mr"] = 63581719,
-			["cc"] = 2,
-			["id"] = "154162:0:0:0:1697",
-			["sc"] = 13,
-			["H3170"] = 63581719,
 		},
 		["Ornate Shield of the Quickblade"] = {
 			["mr"] = 1816314,
@@ -9997,6 +9995,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "121206:0:0:0:1812",
 			["sc"] = 3,
 			["H3178"] = 1005400,
+		},
+		["Overlord's Legplates of the Quickblade"] = {
+			["mr"] = 36876650,
+			["cc"] = 4,
+			["id"] = "10208:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 36876650,
 		},
 		["Vital Sash of the Quickblade"] = {
 			["mr"] = 10508309,
@@ -10020,12 +10025,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1383300,
 		},
-		["Overlord's Legplates of the Quickblade"] = {
-			["mr"] = 36876650,
-			["cc"] = 4,
-			["id"] = "10208:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 36876650,
+		["Mereldar Spellblade of the Quickblade"] = {
+			["mr"] = 1732644,
+			["cc"] = 2,
+			["id"] = "55439:0:0:0:1677",
+			["sc"] = 15,
+			["H3169"] = 1732644,
 		},
 		["Ivory Wand of the Quickblade"] = {
 			["mr"] = 949998,
@@ -10035,12 +10040,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 19,
 			["H3169"] = 1255103,
 		},
-		["Mereldar Spellblade of the Quickblade"] = {
-			["mr"] = 1732644,
-			["cc"] = 2,
-			["id"] = "55439:0:0:0:1677",
-			["sc"] = 15,
-			["H3169"] = 1732644,
+		["Scheelite Ring of the Quickblade"] = {
+			["mr"] = 3126318,
+			["cc"] = 4,
+			["id"] = "25049:0:0:0:3851",
+			["sc"] = 0,
+			["H3169"] = 3126318,
 		},
 		["Imposing Bracers of the Quickblade"] = {
 			["mr"] = 990000,
@@ -10049,12 +10054,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 990000,
 		},
-		["Scheelite Ring of the Quickblade"] = {
-			["mr"] = 3126318,
+		["Carved Rod of the Quickblade"] = {
+			["mr"] = 20292015,
 			["cc"] = 4,
-			["id"] = "25049:0:0:0:3851",
+			["id"] = "36472:0:0:0:1679",
 			["sc"] = 0,
-			["H3169"] = 3126318,
+			["H3169"] = 20292015,
 		},
 		["Backbreaker of the Quickblade"] = {
 			["mr"] = 5665894,
@@ -10063,12 +10068,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3169"] = 5665894,
 		},
-		["Carved Rod of the Quickblade"] = {
-			["mr"] = 20292015,
-			["cc"] = 4,
-			["id"] = "36472:0:0:0:1679",
-			["sc"] = 0,
-			["H3169"] = 20292015,
+		["Sinister Combatant's Bow of the Quickblade"] = {
+			["mr"] = 58068236,
+			["cc"] = 2,
+			["id"] = "164670:0:0:0:1678",
+			["sc"] = 2,
+			["H3169"] = 58068236,
 		},
 		["Geomancer's Trousers of the Quickblade"] = {
 			["mr"] = 37952616,
@@ -10084,26 +10089,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 4803489,
 		},
-		["Bonelink Armor of the Fireflash"] = {
-			["mr"] = 25599369,
-			["cc"] = 4,
-			["id"] = "15609:0:0:0:1691",
-			["sc"] = 3,
-			["H3178"] = 25599369,
-		},
 		["Haal'eshi Bindings of the Quickblade"] = {
 			["mr"] = 2246330,
 			["cc"] = 4,
 			["id"] = "24708:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 2246330,
-		},
-		["Umbrafen Boots of the Quickblade"] = {
-			["mr"] = 8939878,
-			["cc"] = 4,
-			["id"] = "24758:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 8939878,
 		},
 		["Bonecaster's Spaulders of the Quickblade"] = {
 			["mr"] = 75705508,
@@ -10112,6 +10103,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 75705508,
 		},
+		["Umbrafen Boots of the Quickblade"] = {
+			["mr"] = 8939878,
+			["cc"] = 4,
+			["id"] = "24758:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 8939878,
+		},
 		["Huntsman's Cap of the Quickblade"] = {
 			["mr"] = 13130088,
 			["cc"] = 4,
@@ -10119,12 +10117,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 13130088,
 		},
-		["Violet Abyssal Eel"] = {
-			["mr"] = 21960000,
-			["cc"] = 17,
-			["id"] = "2569:1",
-			["sc"] = 0,
-			["H3162"] = 21960000,
+		["Direbone Frill Stompers of the Quickblade"] = {
+			["mr"] = 3000000,
+			["cc"] = 4,
+			["id"] = "160125:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 3000000,
 		},
 		["Wendigo Legguards of the Quickblade"] = {
 			["mr"] = 3443153,
@@ -10140,19 +10138,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 31687414,
 		},
-		["Conqueror's Epaulets of the Quickblade"] = {
-			["mr"] = 3189971,
-			["cc"] = 4,
-			["id"] = "25012:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 3189971,
-		},
 		["Crafted Dreadful Gladiator's Links of Cruelty"] = {
 			["mr"] = 52239997,
 			["cc"] = 4,
 			["id"] = "93488:0:0:0:0",
 			["sc"] = 3,
 			["H3178"] = 52239997,
+		},
+		["Conqueror's Epaulets of the Quickblade"] = {
+			["mr"] = 3189971,
+			["cc"] = 4,
+			["id"] = "25012:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 3189971,
 		},
 		["Lesser Sledgemace of the Quickblade"] = {
 			["mr"] = 10728078,
@@ -10161,19 +10159,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 10728078,
 		},
+		["Sunroc Chestpiece of the Quickblade"] = {
+			["mr"] = 12532949,
+			["cc"] = 4,
+			["id"] = "24735:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 12532949,
+		},
 		["Lunar Sphere of the Quickblade"] = {
 			["mr"] = 40363399,
 			["cc"] = 4,
 			["id"] = "15981:0:0:0:1678",
 			["sc"] = 0,
 			["H3169"] = 40363399,
-		},
-		["Lightfoot Potion"] = {
-			["mr"] = 397000,
-			["sc"] = 1,
-			["id"] = "152497:0:0:0:0",
-			["cc"] = 0,
-			["H3171"] = 397000,
 		},
 		["Huntsman's Leggings of the Quickblade"] = {
 			["mr"] = 1075281,
@@ -10182,19 +10180,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 1075281,
 		},
+		["Enchant Ring - Gift of Haste"] = {
+			["mr"] = 8740599,
+			["cc"] = 8,
+			["id"] = "110639:0:0:0:0",
+			["sc"] = 10,
+			["H3169"] = 8740599,
+		},
 		["Felstone Greaves of the Quickblade"] = {
 			["mr"] = 16989254,
 			["cc"] = 4,
 			["id"] = "24815:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 16989254,
-		},
-		["Ivycloth Sash of the Quickblade"] = {
-			["mr"] = 4599329,
-			["cc"] = 4,
-			["id"] = "9799:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 4599329,
 		},
 		["Impenetrable Breastplate of the Quickblade"] = {
 			["mr"] = 6707100,
@@ -10225,13 +10223,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 5020884,
 		},
-		["Peridot Circle of the Quickblade"] = {
-			["mr"] = 150000,
+		["Vine Hood of the Quickblade"] = {
+			["mr"] = 1149500,
 			["cc"] = 4,
-			["L3169"] = 150000,
-			["id"] = "11979:0:0:0:1679",
-			["sc"] = 0,
-			["H3169"] = 1788131,
+			["id"] = "82261:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 1149500,
 		},
 		["Thondroril Wand of the Quickblade"] = {
 			["mr"] = 4528005,
@@ -10261,6 +10258,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154688:0:0:0:1712",
 			["sc"] = 1,
 		},
+		["Commander's Boots of the Quickblade"] = {
+			["mr"] = 3325665,
+			["cc"] = 4,
+			["id"] = "10376:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 3325665,
+		},
 		["Netherstorm Greaves of the Quickblade"] = {
 			["mr"] = 1716123,
 			["cc"] = 4,
@@ -10289,13 +10293,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "167990:0:0:0:1680",
 			["sc"] = 6,
 			["H3169"] = 97845039,
-		},
-		["Bonecaster's Belt of the Quickblade"] = {
-			["mr"] = 9386164,
-			["cc"] = 4,
-			["id"] = "14304:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 9386164,
 		},
 		["Haldarr Bindings of the Quickblade"] = {
 			["mr"] = 4149998,
@@ -10327,6 +10324,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 4109544,
 		},
+		["Festerroot Helm of the Quickblade"] = {
+			["mr"] = 53738041,
+			["cc"] = 4,
+			["id"] = "154819:0:0:0:4796",
+			["sc"] = 2,
+			["H3169"] = 53738041,
+		},
 		["Shardback Gauntlets of the Quickblade"] = {
 			["mr"] = 1873981,
 			["cc"] = 4,
@@ -10348,12 +10352,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 6103920,
 		},
-		["Supreme Crown of the Quickblade"] = {
-			["mr"] = 13108146,
-			["cc"] = 4,
-			["id"] = "15439:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 13108146,
+		["Blackwolf Wand of the Quickblade"] = {
+			["mr"] = 3486720,
+			["cc"] = 2,
+			["id"] = "55486:0:0:0:1680",
+			["sc"] = 19,
+			["H3169"] = 3486720,
 		},
 		["Splitting Hatchet of the Quickblade"] = {
 			["mr"] = 1638362,
@@ -10362,12 +10366,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 1638362,
 		},
-		["Blackwolf Wand of the Quickblade"] = {
-			["mr"] = 3486720,
-			["cc"] = 2,
-			["id"] = "55486:0:0:0:1680",
-			["sc"] = 19,
-			["H3169"] = 3486720,
+		["Freehold Jerkin of the Quickblade"] = {
+			["mr"] = 4000000,
+			["cc"] = 4,
+			["id"] = "159172:0:0:0:4796",
+			["sc"] = 2,
+			["H3169"] = 4000000,
 		},
 		["Veiled Crystal"] = {
 			["mr"] = 2047500,
@@ -10390,13 +10394,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 25210779,
 		},
-		["Gryphon Mail Belt of the Quickblade"] = {
-			["mr"] = 1830532,
+		["Mighty Gauntlets of the Quickblade"] = {
+			["mr"] = 539626,
 			["cc"] = 4,
-			["L3169"] = 1830532,
-			["id"] = "15619:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 7646778,
+			["L3169"] = 539626,
+			["id"] = "10149:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 586345,
 		},
 		["Ravascale Belt of the Quickblade"] = {
 			["mr"] = 42091744,
@@ -10413,14 +10417,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 			["H3169"] = 7865056,
 		},
-		["Mighty Gauntlets of the Quickblade"] = {
-			["mr"] = 539626,
-			["cc"] = 4,
-			["L3169"] = 539626,
-			["id"] = "10149:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 586345,
-		},
 		["Blackwolf Amulet of the Quickblade"] = {
 			["mr"] = 4012351,
 			["cc"] = 4,
@@ -10429,13 +10425,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 4012352,
 		},
-		["Bonelink Sabatons of the Quickblade"] = {
-			["mr"] = 16686634,
+		["Foxhollow Handwraps of the Quickblade"] = {
+			["mr"] = 2629683,
 			["cc"] = 4,
-			["L3178"] = 16686634,
-			["id"] = "15614:0:0:0:1678",
-			["sc"] = 3,
-			["H3178"] = 23265731,
+			["id"] = "159185:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 2629683,
 		},
 		["Thondroril Crystal of the Quickblade"] = {
 			["mr"] = 16700219,
@@ -10444,13 +10439,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 16700219,
 		},
-		["Brutish Belt of the Quickblade"] = {
-			["mr"] = 3889150,
-			["cc"] = 4,
-			["id"] = "14906:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 3889150,
-		},
 		["Temporal Scholar's Wristwraps of the Quickblade"] = {
 			["mr"] = 993176260,
 			["cc"] = 4,
@@ -10458,12 +10446,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 993176260,
 		},
-		["Wavecrash Headguard of the Quickblade"] = {
-			["mr"] = 49999999,
+		["Brutish Belt of the Quickblade"] = {
+			["mr"] = 3889150,
 			["cc"] = 4,
-			["id"] = "169424:0:0:0:4796",
+			["id"] = "14906:0:0:0:1678",
 			["sc"] = 4,
-			["H3169"] = 49999999,
+			["H3169"] = 3889150,
+		},
+		["Commander's Gauntlets of the Quickblade"] = {
+			["mr"] = 1811928,
+			["cc"] = 4,
+			["id"] = "10380:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 1811928,
 		},
 		["Coarse Leather Cestus of the Feverflare"] = {
 			["mr"] = 19806480,
@@ -10472,6 +10467,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154161:0:0:0:1703",
 			["sc"] = 13,
 			["H3016"] = 19806480,
+		},
+		["Crusader's Gauntlets of the Quickblade"] = {
+			["mr"] = 8394079,
+			["cc"] = 4,
+			["id"] = "10196:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 8394079,
 		},
 		["Clefthoof Bracers of the Quickblade"] = {
 			["mr"] = 9794512,
@@ -10487,12 +10489,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 23409398,
 		},
-		["Crusader's Gauntlets of the Quickblade"] = {
-			["mr"] = 8394079,
-			["cc"] = 4,
-			["id"] = "10196:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 8394079,
+		["Wolvar Handaxe of the Quickblade"] = {
+			["mr"] = 11313429,
+			["cc"] = 2,
+			["id"] = "36581:0:0:0:1681",
+			["sc"] = 0,
+			["H3169"] = 11313429,
 		},
 		["Wildevar Belt of the Quickblade"] = {
 			["mr"] = 4473816,
@@ -10500,13 +10502,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36091:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 4473816,
-		},
-		["Splinterspear Dagger of the Quickblade"] = {
-			["mr"] = 24424279,
-			["cc"] = 2,
-			["id"] = "55330:0:0:0:1678",
-			["sc"] = 15,
-			["H3169"] = 24424279,
 		},
 		["Glorious War-Axe of the Quickblade"] = {
 			["mr"] = 45816658,
@@ -10521,6 +10516,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24858:0:0:0:1680",
 			["sc"] = 3,
 			["H3169"] = 7751699,
+		},
+		["Soldier's Shield of the Quickblade"] = {
+			["mr"] = 2420817,
+			["cc"] = 4,
+			["id"] = "6560:0:0:0:1678",
+			["sc"] = 6,
+			["H3169"] = 2420817,
 		},
 		["Blinkstrike"] = {
 			["mr"] = 55000000,
@@ -10544,13 +10546,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 25167515,
 		},
-		["Deathweb Bracers of the Quickblade"] = {
-			["mr"] = 28399067,
-			["cc"] = 4,
-			["id"] = "106581:0:0:0:3854",
-			["sc"] = 3,
-			["H3169"] = 28399067,
-		},
 		["Draenei Crystal Rod of the Quickblade"] = {
 			["mr"] = 1499997,
 			["cc"] = 4,
@@ -10564,6 +10559,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36649:0:0:0:1677",
 			["sc"] = 3,
 			["H3169"] = 1074247250,
+		},
+		["Marauder's Circlet of the Quickblade"] = {
+			["mr"] = 2401093,
+			["cc"] = 4,
+			["L3169"] = 2401093,
+			["id"] = "15572:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 24229586,
 		},
 		["Baradin Wristwraps of the Quickblade"] = {
 			["mr"] = 10271031,
@@ -10600,20 +10603,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1116720,
 		},
-		["Marauder's Circlet of the Quickblade"] = {
-			["mr"] = 2401093,
+		["Caribou Britches of the Quickblade"] = {
+			["mr"] = 28364577,
 			["cc"] = 4,
-			["L3169"] = 2401093,
-			["id"] = "15572:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 24229586,
-		},
-		["Slithershell Cloak of the Quickblade"] = {
-			["mr"] = 4884748,
-			["cc"] = 4,
-			["id"] = "169434:0:0:0:4796",
-			["sc"] = 1,
-			["H3169"] = 4884748,
+			["id"] = "36104:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 28364577,
 		},
 		["Starfire Vest of the Quickblade"] = {
 			["mr"] = 2666577,
@@ -10621,6 +10616,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24599:0:0:0:1678",
 			["sc"] = 1,
 			["H3169"] = 2666577,
+		},
+		["Selenium Chain of the Quickblade"] = {
+			["mr"] = 4494016,
+			["cc"] = 4,
+			["id"] = "12025:0:0:0:1677",
+			["sc"] = 0,
+			["H3169"] = 4494016,
 		},
 		["Lofty Gauntlets of the Quickblade"] = {
 			["mr"] = 75910425,
@@ -10644,12 +10646,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 9635730,
 		},
-		["Crescent Saberfish"] = {
-			["mr"] = 90000,
-			["sc"] = 8,
-			["id"] = "111595:0:0:0:0",
-			["H3017"] = 90000,
-			["cc"] = 7,
+		["Gossamer Bracers of the Quickblade"] = {
+			["mr"] = 1596070,
+			["cc"] = 4,
+			["id"] = "7525:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 1596070,
 		},
 		["Windswept Cowl of the Quickblade"] = {
 			["mr"] = 10000000,
@@ -10665,26 +10667,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 22541952,
 		},
-		["Gossamer Bracers of the Quickblade"] = {
-			["mr"] = 1596070,
-			["cc"] = 4,
-			["id"] = "7525:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 1596070,
-		},
 		["Spiked Chain Cloak of the Quickblade"] = {
 			["mr"] = 46751682,
 			["cc"] = 4,
 			["id"] = "15519:0:0:0:1679",
 			["sc"] = 1,
 			["H3169"] = 46751682,
-		},
-		["Celestial Belt of the Quickblade"] = {
-			["mr"] = 80861853,
-			["cc"] = 4,
-			["id"] = "14309:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 80861853,
 		},
 		["Morass Prowler's Cloak of the Quickblade"] = {
 			["mr"] = 38765342,
@@ -10693,12 +10681,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 38765342,
 		},
-		["Sinister Combatant's Deckpounder of the Quickblade"] = {
-			["mr"] = 65000000,
-			["cc"] = 2,
-			["id"] = "164650:0:0:0:1681",
-			["sc"] = 5,
-			["H3169"] = 65000000,
+		["Celestial Belt of the Quickblade"] = {
+			["mr"] = 80861853,
+			["cc"] = 4,
+			["id"] = "14309:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 80861853,
 		},
 		["Sishir Wand of the Quickblade"] = {
 			["mr"] = 60108526,
@@ -10706,6 +10694,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "55481:0:0:0:1681",
 			["sc"] = 19,
 			["H3169"] = 60108526,
+		},
+		["Sinister Combatant's Deckpounder of the Quickblade"] = {
+			["mr"] = 65000000,
+			["cc"] = 2,
+			["id"] = "164650:0:0:0:1681",
+			["sc"] = 5,
+			["H3169"] = 65000000,
 		},
 		["Coarse Leather Gauntlets of the Harmonious"] = {
 			["mr"] = 44314603,
@@ -10729,6 +10724,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3162"] = 400000099,
 		},
+		["Notorious Combatant's Leather Waistguard of the Quickblade"] = {
+			["mr"] = 43112263,
+			["cc"] = 4,
+			["id"] = "167952:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 43112263,
+		},
 		["Heavy Lamellar Boots of the Quickblade"] = {
 			["mr"] = 25251083,
 			["cc"] = 4,
@@ -10737,12 +10739,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 25251336,
 		},
-		["Notorious Combatant's Leather Waistguard of the Quickblade"] = {
-			["mr"] = 43112263,
+		["Elder's Mantle of the Quickblade"] = {
+			["mr"] = 40064892,
 			["cc"] = 4,
-			["id"] = "167952:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 43112263,
+			["id"] = "7367:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 40064892,
 		},
 		["Expedition Boots of the Quickblade"] = {
 			["mr"] = 2789875,
@@ -10751,12 +10753,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 2789875,
 		},
-		["Elder's Mantle of the Quickblade"] = {
-			["mr"] = 40064892,
+		["Reefwalker Trousers of the Quickblade"] = {
+			["mr"] = 12466966,
 			["cc"] = 4,
-			["id"] = "7367:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 40064892,
+			["id"] = "169417:0:0:0:4796",
+			["sc"] = 3,
+			["H3169"] = 12466966,
 		},
 		["Expedition Hood of the Quickblade"] = {
 			["mr"] = 4653870,
@@ -10765,12 +10767,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 4653870,
 		},
-		["Reefwalker Trousers of the Quickblade"] = {
-			["mr"] = 12466966,
+		["Shadow Council Cowl of the Quickblade"] = {
+			["mr"] = 449995,
 			["cc"] = 4,
-			["id"] = "169417:0:0:0:4796",
-			["sc"] = 3,
-			["H3169"] = 12466966,
+			["L3169"] = 449995,
+			["id"] = "24665:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 1500795,
 		},
 		["Darkened Broadsword of the Quickblade"] = {
 			["mr"] = 71404461,
@@ -10787,20 +10790,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 20691540,
 		},
-		["Shadow Council Cowl of the Quickblade"] = {
-			["mr"] = 449995,
-			["cc"] = 4,
-			["L3169"] = 449995,
-			["id"] = "24665:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 1500795,
-		},
-		["Vital Boots of the Quickblade"] = {
-			["mr"] = 12029756,
-			["cc"] = 4,
-			["id"] = "14214:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 12029756,
+		["Sequoia Hammer of the Quickblade"] = {
+			["mr"] = 3350733,
+			["cc"] = 2,
+			["id"] = "15225:0:0:0:1680",
+			["sc"] = 4,
+			["H3169"] = 3350733,
 		},
 		["Ornate Pauldrons of the Quickblade"] = {
 			["mr"] = 14746198,
@@ -10808,6 +10803,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10125:0:0:0:1678",
 			["sc"] = 3,
 			["H3169"] = 14746198,
+		},
+		["Golden Fleet Buckler of the Quickblade"] = {
+			["mr"] = 143984457,
+			["cc"] = 4,
+			["id"] = "159811:0:0:0:4796",
+			["sc"] = 6,
+			["H3169"] = 143984457,
 		},
 		["Direforge Breastplate of the Quickblade"] = {
 			["mr"] = 14045627,
@@ -10830,13 +10832,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1866519,
 		},
-		["Golden Fleet Buckler of the Quickblade"] = {
-			["mr"] = 143984457,
-			["cc"] = 4,
-			["id"] = "159811:0:0:0:4796",
-			["sc"] = 6,
-			["H3169"] = 143984457,
-		},
 		["Plated Bulwark of the Quickblade"] = {
 			["mr"] = 975808,
 			["cc"] = 4,
@@ -10853,6 +10848,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 4333993,
 		},
+		["Infiltrator Cap of the Quickblade"] = {
+			["mr"] = 73657806,
+			["cc"] = 4,
+			["L3169"] = 73657806,
+			["id"] = "7413:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 73657807,
+		},
 		["Ravascale Striders of the Quickblade"] = {
 			["mr"] = 32004734,
 			["cc"] = 4,
@@ -10860,19 +10863,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 32004734,
 		},
-		["Pygmy Boots of the Quickblade"] = {
-			["mr"] = 5636997,
-			["cc"] = 4,
-			["id"] = "36148:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 5636997,
-		},
 		["Collapsible Crossbow of the Quickblade"] = {
 			["mr"] = 8430084190,
 			["cc"] = 2,
 			["id"] = "25259:0:0:0:1677",
 			["sc"] = 18,
 			["H3169"] = 8430084190,
+		},
+		["Recipe: Bristle Whisker Catfish"] = {
+			["mr"] = 440000,
+			["sc"] = 5,
+			["id"] = "6330:0:0:0:0",
+			["H3017"] = 440000,
+			["cc"] = 9,
 		},
 		["Embroidered Deep Sea Bag"] = {
 			["mr"] = 163000000,
@@ -10888,12 +10891,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["id"] = "168959:0:0:0:0",
 		},
-		["Recipe: Bristle Whisker Catfish"] = {
-			["mr"] = 440000,
-			["sc"] = 5,
-			["id"] = "6330:0:0:0:0",
-			["H3017"] = 440000,
-			["cc"] = 9,
+		["Steamscar Waistband of the Quickblade"] = {
+			["mr"] = 2242174,
+			["cc"] = 4,
+			["id"] = "106505:0:0:0:3854",
+			["sc"] = 2,
+			["H3169"] = 2242174,
 		},
 		["Watcher's Jerkin of the Quickblade"] = {
 			["mr"] = 42967542,
@@ -10910,12 +10913,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 3699911,
 		},
-		["Meadowstomper Gloves of the Quickblade"] = {
-			["mr"] = 16148630,
+		["Demonsteel Helm of the Quickblade"] = {
+			["mr"] = 64720000,
 			["cc"] = 4,
-			["id"] = "106732:0:0:0:3854",
-			["sc"] = 2,
-			["H3169"] = 16148630,
+			["id"] = "123913:0:0:0:669",
+			["sc"] = 4,
+			["H3169"] = 64720000,
 		},
 		["Bard's Trousers of the Quickblade"] = {
 			["mr"] = 4649189,
@@ -10932,12 +10935,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 756372,
 		},
-		["Demonsteel Helm of the Quickblade"] = {
-			["mr"] = 64720000,
+		["Fargodeep Girdle of the Quickblade"] = {
+			["mr"] = 12352500,
 			["cc"] = 4,
-			["id"] = "123913:0:0:0:669",
+			["id"] = "55555:0:0:0:4763",
 			["sc"] = 4,
-			["H3169"] = 64720000,
+			["H3169"] = 12352500,
 		},
 		["Thick Scale Shoulder Pads of the Quickblade"] = {
 			["mr"] = 19837211,
@@ -10954,19 +10957,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 2000625,
 		},
-		["Brutish Breastplate of the Quickblade"] = {
-			["mr"] = 67319185,
-			["cc"] = 4,
-			["id"] = "14904:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 67319185,
-		},
 		["Sinuous Keris of the Quickblade"] = {
 			["mr"] = 2333800,
 			["cc"] = 2,
 			["id"] = "36485:0:0:0:1678",
 			["sc"] = 15,
 			["H3169"] = 2333800,
+		},
+		["Netherstalker Legguards of the Quickblade"] = {
+			["mr"] = 1303787,
+			["cc"] = 4,
+			["id"] = "24827:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 1303787,
 		},
 		["Buccaneer's Cape of the Quickblade"] = {
 			["mr"] = 1981507,
@@ -10982,13 +10985,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 16650359,
 		},
-		["Desecrated Staff of the Quickblade"] = {
-			["mr"] = 79176141,
-			["cc"] = 2,
-			["id"] = "36553:0:0:0:1681",
-			["sc"] = 10,
-			["H3169"] = 79176141,
-		},
 		["Praetorian Wristbands of the Quickblade"] = {
 			["mr"] = 16419270,
 			["cc"] = 4,
@@ -11002,6 +10998,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25041:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 3667418,
+		},
+		["Ashvane Company Spaulders of the Quickblade"] = {
+			["mr"] = 60376762,
+			["cc"] = 4,
+			["id"] = "159163:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 60376762,
 		},
 		["Battle Flag: Rallying Swiftness"] = {
 			["mr"] = 2667839,
@@ -11017,12 +11020,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 2821741,
 		},
-		["Ashvane Company Spaulders of the Quickblade"] = {
-			["mr"] = 60376762,
+		["Discarded Swampstalker Leggings of the Quickblade"] = {
+			["mr"] = 54499098,
 			["cc"] = 4,
-			["id"] = "159163:0:0:0:4796",
-			["sc"] = 4,
-			["H3169"] = 60376762,
+			["id"] = "94047:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 54499098,
 		},
 		["Dreghood Gloves of the Quickblade"] = {
 			["mr"] = 30354374,
@@ -11082,12 +11085,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 5291046,
 		},
-		["Crystal-Etched Warstaff of the Quickblade"] = {
-			["mr"] = 9465472,
-			["cc"] = 2,
-			["id"] = "25182:0:0:0:1679",
-			["sc"] = 10,
-			["H3169"] = 9465472,
+		["Sandscout Creeches of the Quickblade"] = {
+			["mr"] = 1200000,
+			["cc"] = 4,
+			["id"] = "160164:0:0:0:4796",
+			["sc"] = 2,
+			["H3169"] = 1200000,
 		},
 		["Ravencrest Legplates of the Quickblade"] = {
 			["mr"] = 4283082,
@@ -11096,12 +11099,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 4283082,
 		},
-		["Sandscout Creeches of the Quickblade"] = {
-			["mr"] = 1200000,
+		["Vileprey Hood of the Quickblade"] = {
+			["mr"] = 29677459,
 			["cc"] = 4,
-			["id"] = "160164:0:0:0:4796",
+			["id"] = "36111:0:0:0:1679",
 			["sc"] = 2,
-			["H3169"] = 1200000,
+			["H3169"] = 29677459,
 		},
 		["Vantus Rune: Crucible of Storms"] = {
 			["mr"] = 4889999,
@@ -11109,13 +11112,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "165733:0:0:0:0",
 			["H3176"] = 4889999,
 			["cc"] = 0,
-		},
-		["Vileprey Hood of the Quickblade"] = {
-			["mr"] = 29677459,
-			["cc"] = 4,
-			["id"] = "36111:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 29677459,
 		},
 		["Mandragoran Robe of the Quickblade"] = {
 			["mr"] = 2100156,
@@ -11131,12 +11127,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 246734092,
 		},
-		["Pagan Britches of the Quickblade"] = {
-			["mr"] = 165107105,
+		["Champion's Cape of the Quickblade"] = {
+			["mr"] = 28565759,
 			["cc"] = 4,
-			["id"] = "14165:0:0:0:1677",
+			["id"] = "7544:0:0:0:1677",
 			["sc"] = 1,
-			["H3169"] = 165107105,
+			["H3169"] = 28565759,
 		},
 		["Mistyreed Boots of the Quickblade"] = {
 			["mr"] = 2519999,
@@ -11151,6 +11147,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25081:0:0:0:1679",
 			["sc"] = 6,
 			["H3169"] = 1839027,
+		},
+		["Darkmoon Deck: Tides"] = {
+			["mr"] = 69969987,
+			["cc"] = 4,
+			["H3012"] = 69990000,
+			["id"] = "159127:0:0:0:0",
+			["sc"] = 0,
+			["L3012"] = 69969987,
 		},
 		["Sardonyx Knuckle of the Quickblade"] = {
 			["mr"] = 7261537,
@@ -11175,13 +11179,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3178"] = 162483259,
 		},
-		["Darkmoon Deck: Tides"] = {
-			["mr"] = 69969987,
-			["cc"] = 4,
-			["H3012"] = 69990000,
-			["id"] = "159127:0:0:0:0",
+		["Zem'lan Chopper of the Quickblade"] = {
+			["mr"] = 11354327,
+			["cc"] = 2,
+			["id"] = "159479:0:0:0:4796",
 			["sc"] = 0,
-			["L3012"] = 69969987,
+			["H3169"] = 11354327,
 		},
 		["Vine Boots of the Quickblade"] = {
 			["mr"] = 895291,
@@ -11204,13 +11207,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 6086506,
 		},
-		["Zem'lan Chopper of the Quickblade"] = {
-			["mr"] = 11354327,
-			["cc"] = 2,
-			["id"] = "159479:0:0:0:4796",
-			["sc"] = 0,
-			["H3169"] = 11354327,
-		},
 		["Axefish Lure"] = {
 			["mr"] = 19990000,
 			["sc"] = 8,
@@ -11218,13 +11214,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 19990000,
 			["cc"] = 0,
 		},
-		["Karaborian Battle Axe of the Quickblade"] = {
-			["mr"] = 345228853,
+		["Fiendish Shoulderguards of the Quickblade"] = {
+			["mr"] = 15535925,
+			["cc"] = 4,
+			["id"] = "151577:0:0:0:3598",
+			["sc"] = 2,
+			["H3169"] = 15535925,
+		},
+		["Royal Mallet of the Quickblade"] = {
+			["mr"] = 1108982,
 			["cc"] = 2,
-			["L3169"] = 345228853,
-			["id"] = "25198:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 345228854,
+			["id"] = "15263:0:0:0:1681",
+			["sc"] = 5,
+			["H3169"] = 1108982,
 		},
 		["Tidespray Linen Robe of the Peerless"] = {
 			["mr"] = 13705834,
@@ -11233,12 +11235,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154685:0:0:0:1685",
 			["sc"] = 1,
 		},
-		["Royal Mallet of the Quickblade"] = {
-			["mr"] = 1108982,
-			["cc"] = 2,
-			["id"] = "15263:0:0:0:1681",
-			["sc"] = 5,
-			["H3169"] = 1108982,
+		["Ichor-Stained Wraps of the Quickblade"] = {
+			["mr"] = 5321280,
+			["cc"] = 4,
+			["id"] = "44674:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 5321280,
 		},
 		["Trellised Wristwraps of the Quickblade"] = {
 			["mr"] = 4280000,
@@ -11276,19 +11278,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 21088524,
 		},
-		["Engraved Mace of the Quickblade"] = {
-			["mr"] = 2500000,
-			["cc"] = 2,
-			["id"] = "82275:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 2500000,
-		},
 		["Bloodwoven Boots of the Quickblade"] = {
 			["mr"] = 8821697,
 			["cc"] = 4,
 			["id"] = "14259:0:0:0:1679",
 			["sc"] = 1,
 			["H3169"] = 8821697,
+		},
+		["Swashbuckler's Breastplate of the Quickblade"] = {
+			["mr"] = 6442944,
+			["cc"] = 4,
+			["id"] = "10182:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 6442944,
 		},
 		["Brick Breastplate of the Quickblade"] = {
 			["mr"] = 2277643,
@@ -11318,12 +11320,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 13531853,
 		},
-		["Darrowmere Sandals of the Quickblade"] = {
-			["mr"] = 20126291,
+		["Rigid Leggings of the Quickblade"] = {
+			["mr"] = 24136174,
 			["cc"] = 4,
-			["id"] = "55725:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 20126291,
+			["L3169"] = 24136174,
+			["id"] = "15117:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 24755048,
 		},
 		["Ghostwalker Boots of the Quickblade"] = {
 			["mr"] = 43630839,
@@ -11360,13 +11363,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 5005147,
 		},
-		["Rigid Leggings of the Quickblade"] = {
-			["mr"] = 24136174,
+		["Coarse Leather Waistguard of the Aurora"] = {
+			["mr"] = 5002208,
 			["cc"] = 4,
-			["L3169"] = 24136174,
-			["id"] = "15117:0:0:0:1681",
+			["id"] = "154144:0:0:0:1704",
 			["sc"] = 2,
-			["H3169"] = 24755048,
+			["H3016"] = 5002208,
 		},
 		["Amplifying Blade of the Quickblade"] = {
 			["mr"] = 5579423,
@@ -11375,12 +11377,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 5579423,
 		},
-		["Coarse Leather Waistguard of the Aurora"] = {
-			["mr"] = 5002208,
+		["Desert Ring of the Quickblade"] = {
+			["mr"] = 8843062,
 			["cc"] = 4,
-			["id"] = "154144:0:0:0:1704",
-			["sc"] = 2,
-			["H3016"] = 5002208,
+			["id"] = "12013:0:0:0:1681",
+			["sc"] = 0,
+			["H3169"] = 8843062,
 		},
 		["Battle Flag: Spirit of Freedom"] = {
 			["mr"] = 2749999,
@@ -11403,12 +11405,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 12515784,
 		},
-		["Desert Ring of the Quickblade"] = {
-			["mr"] = 8843062,
+		["Swamp Ring of the Quickblade"] = {
+			["mr"] = 23293881,
 			["cc"] = 4,
-			["id"] = "12013:0:0:0:1681",
+			["id"] = "12015:0:0:0:1677",
 			["sc"] = 0,
-			["H3169"] = 8843062,
+			["H3169"] = 23293881,
 		},
 		["Resplendent Boots of the Quickblade"] = {
 			["mr"] = 12636992,
@@ -11417,12 +11419,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 12636992,
 		},
-		["Nightshade Leggings of the Quickblade"] = {
-			["mr"] = 2062185,
+		["Coarse Leather Pauldrons of the Aurora"] = {
+			["mr"] = 1000000,
 			["cc"] = 4,
-			["id"] = "10227:0:0:0:1680",
+			["id"] = "154143:0:0:0:1708",
 			["sc"] = 2,
-			["H3169"] = 2062185,
+			["H3016"] = 1000000,
 		},
 		["Rivermarsh Waraxe of the Quickblade"] = {
 			["mr"] = 13586970,
@@ -11439,19 +11441,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 5189129,
 		},
-		["Coarse Leather Pauldrons of the Aurora"] = {
-			["mr"] = 1000000,
-			["cc"] = 4,
-			["id"] = "154143:0:0:0:1708",
-			["sc"] = 2,
-			["H3016"] = 1000000,
-		},
 		["Der'izu Legguards of the Quickblade"] = {
 			["mr"] = 18094659,
 			["cc"] = 4,
 			["id"] = "24883:0:0:0:1679",
 			["sc"] = 3,
 			["H3169"] = 18094659,
+		},
+		["Tenacious Vine Staff of the Quickblade"] = {
+			["mr"] = 35777975,
+			["cc"] = 2,
+			["id"] = "36706:0:0:0:1677",
+			["sc"] = 10,
+			["H3169"] = 35777975,
 		},
 		["Champion's Gauntlets of the Quickblade"] = {
 			["mr"] = 29796629,
@@ -11461,19 +11463,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 42859885,
 		},
-		["Tenacious Vine Staff of the Quickblade"] = {
-			["mr"] = 35777975,
-			["cc"] = 2,
-			["id"] = "36706:0:0:0:1677",
-			["sc"] = 10,
-			["H3169"] = 35777975,
-		},
 		["Ironcrest Knife of the Quickblade"] = {
 			["mr"] = 28868973,
 			["cc"] = 2,
 			["id"] = "159519:0:0:0:4796",
 			["sc"] = 15,
 			["H3169"] = 28868973,
+		},
+		["Marauder's Leggings of the Quickblade"] = {
+			["mr"] = 5660595,
+			["cc"] = 4,
+			["id"] = "15573:0:0:0:1679",
+			["sc"] = 3,
+			["H3169"] = 5660595,
 		},
 		["Shipwrecker Crescents of the Quickblade"] = {
 			["mr"] = 15559998,
@@ -11489,12 +11491,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 15946620,
 		},
-		["Marauder's Leggings of the Quickblade"] = {
-			["mr"] = 5660595,
+		["Rubellite Ring of the Quickblade"] = {
+			["mr"] = 2284437,
 			["cc"] = 4,
-			["id"] = "15573:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 5660595,
+			["id"] = "25044:0:0:0:1678",
+			["sc"] = 0,
+			["H3169"] = 2284437,
 		},
 		["Rocslayer Longbow of the Quickblade"] = {
 			["mr"] = 6375999,
@@ -11503,12 +11505,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 6375999,
 		},
-		["Rubellite Ring of the Quickblade"] = {
-			["mr"] = 2284437,
-			["cc"] = 4,
-			["id"] = "25044:0:0:0:1678",
-			["sc"] = 0,
-			["H3169"] = 2284437,
+		["Lavish Suramar Feast"] = {
+			["mr"] = 549998,
+			["sc"] = 5,
+			["id"] = "133579:0:0:0:0",
+			["H3017"] = 549998,
+			["cc"] = 0,
 		},
 		["Dandred Bindings of the Quickblade"] = {
 			["mr"] = 1435851,
@@ -11516,13 +11518,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "55637:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 1435851,
-		},
-		["Lavish Suramar Feast"] = {
-			["mr"] = 549998,
-			["sc"] = 5,
-			["id"] = "133579:0:0:0:0",
-			["H3017"] = 549998,
-			["cc"] = 0,
 		},
 		["Bramblescar Bracers of the Quickblade"] = {
 			["mr"] = 1562719,
@@ -11538,6 +11533,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 12717718,
 		},
+		["Waterfall Leggings of the Quickblade"] = {
+			["mr"] = 1507188,
+			["cc"] = 4,
+			["id"] = "82252:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 1507188,
+		},
 		["Headshrinker's Shoulders"] = {
 			["mr"] = 394893265,
 			["cc"] = 4,
@@ -11552,12 +11554,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 11,
 			["H3178"] = 100037,
 		},
-		["Tracker's Shoulderpads of the Quickblade"] = {
-			["mr"] = 1610590,
+		["Wicked Chain Helmet of the Quickblade"] = {
+			["mr"] = 11355416,
 			["cc"] = 4,
-			["id"] = "9923:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 1610590,
+			["id"] = "15540:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 11355416,
 		},
 		["Trapper Bracers of the Quickblade"] = {
 			["mr"] = 23214683,
@@ -11566,19 +11568,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 23214683,
 		},
-		["Wicked Chain Helmet of the Quickblade"] = {
-			["mr"] = 11355416,
+		["Tracker's Shoulderpads of the Quickblade"] = {
+			["mr"] = 1610590,
 			["cc"] = 4,
-			["id"] = "15540:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 11355416,
-		},
-		["Vital Handwraps of the Quickblade"] = {
-			["mr"] = 4990000,
-			["cc"] = 4,
-			["id"] = "14211:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 4990000,
+			["id"] = "9923:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 1610590,
 		},
 		["Cutthroat's Vest of the Quickblade"] = {
 			["mr"] = 55163254,
@@ -11593,6 +11588,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "1613:0:0:0:1678",
 			["sc"] = 10,
 			["H3169"] = 2507239,
+		},
+		["Temple Girdle of the Quickblade"] = {
+			["mr"] = 868688,
+			["cc"] = 4,
+			["id"] = "82289:0:0:0:1679",
+			["sc"] = 4,
+			["H3169"] = 868688,
 		},
 		["Wrathfin Legguards of the Quickblade"] = {
 			["mr"] = 17835244,
@@ -11623,12 +11625,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 35993246,
 		},
-		["Masterwork Breastplate of the Quickblade"] = {
-			["mr"] = 2999928,
+		["Direbone Frill Legplates of the Quickblade"] = {
+			["mr"] = 864682543,
 			["cc"] = 4,
-			["id"] = "10266:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 2999928,
+			["id"] = "160123:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 864682543,
 		},
 		["Golem Pauldrons of the Quickblade"] = {
 			["mr"] = 4931803,
@@ -11637,12 +11639,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 4931803,
 		},
-		["Direbone Frill Legplates of the Quickblade"] = {
-			["mr"] = 864682543,
+		["Pygmy Pants of the Quickblade"] = {
+			["mr"] = 4063213,
 			["cc"] = 4,
-			["id"] = "160123:0:0:0:4796",
-			["sc"] = 4,
-			["H3169"] = 864682543,
+			["id"] = "36152:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 4063213,
 		},
 		["Quicksilver Ring of the Quickblade"] = {
 			["mr"] = 12777041,
@@ -11665,12 +11667,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 16795245,
 		},
-		["Pygmy Pants of the Quickblade"] = {
-			["mr"] = 4063213,
-			["cc"] = 4,
-			["id"] = "36152:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 4063213,
+		["Nethersteel Claymore of the Quickblade"] = {
+			["mr"] = 4502312,
+			["cc"] = 2,
+			["id"] = "25167:0:0:0:1680",
+			["sc"] = 8,
+			["H3169"] = 4502312,
 		},
 		["Corpse Harvester of the Quickblade"] = {
 			["mr"] = 2966165,
@@ -11694,26 +11696,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 37953899,
 		},
-		["Eternal Sarong of the Quickblade"] = {
-			["mr"] = 50054104,
-			["cc"] = 4,
-			["id"] = "14334:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 50054104,
-		},
 		["Ironhide Helmet of the Quickblade"] = {
 			["mr"] = 32498211,
 			["cc"] = 4,
 			["id"] = "15645:0:0:0:1679",
 			["sc"] = 3,
 			["H3169"] = 32498211,
-		},
-		["Trapper's Rifle of the Quickblade"] = {
-			["mr"] = 2654110562,
-			["cc"] = 2,
-			["id"] = "36648:0:0:0:1680",
-			["sc"] = 3,
-			["H3169"] = 2654110562,
 		},
 		["Blood Knight Bracers of the Quickblade"] = {
 			["mr"] = 10634548,
@@ -11722,12 +11710,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 10634548,
 		},
-		["Sabermaw Hood of the Quickblade"] = {
-			["mr"] = 14650100,
+		["Trapper's Rifle of the Quickblade"] = {
+			["mr"] = 2654110562,
+			["cc"] = 2,
+			["id"] = "36648:0:0:0:1680",
+			["sc"] = 3,
+			["H3169"] = 2654110562,
+		},
+		["Gothic Plate Gauntlets of the Quickblade"] = {
+			["mr"] = 10198227,
 			["cc"] = 4,
-			["id"] = "106700:0:0:0:3854",
-			["sc"] = 2,
-			["H3169"] = 14650100,
+			["id"] = "10087:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 10198227,
 		},
 		["Hauyne Ring of the Quickblade"] = {
 			["mr"] = 150000,
@@ -11750,12 +11745,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 			["H3169"] = 2446793,
 		},
-		["Stout Battlehammer of the Quickblade"] = {
-			["mr"] = 3084669,
-			["cc"] = 2,
-			["id"] = "789:0:0:0:1679",
-			["sc"] = 4,
-			["H3169"] = 3084669,
+		["Thick Scale Sabatons of the Quickblade"] = {
+			["mr"] = 3401135,
+			["cc"] = 4,
+			["id"] = "15544:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 3401135,
+		},
+		["Mystical Mantle of the Quickblade"] = {
+			["mr"] = 201285,
+			["cc"] = 4,
+			["L3169"] = 201283,
+			["id"] = "10172:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 4968275,
 		},
 		["Cormorant Helm of the Quickblade"] = {
 			["mr"] = 7494300,
@@ -11778,13 +11781,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 5879700,
 		},
-		["Mystical Mantle of the Quickblade"] = {
-			["mr"] = 201285,
-			["cc"] = 4,
-			["L3169"] = 201283,
-			["id"] = "10172:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 4968275,
+		["Great Sea Catfish"] = {
+			["mr"] = 106999,
+			["sc"] = 8,
+			["id"] = "152547:0:0:0:0",
+			["H3017"] = 106999,
+			["cc"] = 7,
 		},
 		["Feralfen Hood of the Quickblade"] = {
 			["mr"] = 6681120,
@@ -11801,19 +11803,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 14918879,
 		},
-		["Great Sea Catfish"] = {
-			["mr"] = 106999,
-			["sc"] = 8,
-			["id"] = "152547:0:0:0:0",
-			["H3017"] = 106999,
-			["cc"] = 7,
-		},
-		["Oshu'gun Cloak of the Quickblade"] = {
-			["mr"] = 9353688,
+		["Coarse Leather Armguards of the Harmonious"] = {
+			["mr"] = 11591686,
 			["cc"] = 4,
-			["id"] = "116723:0:0:0:3854",
-			["sc"] = 1,
-			["H3169"] = 9353688,
+			["id"] = "154145:0:0:0:1717",
+			["sc"] = 2,
+			["H3016"] = 11591686,
 		},
 		["Eldr'naan Gloves of the Quickblade"] = {
 			["mr"] = 842130,
@@ -11830,26 +11825,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 7172261,
 		},
+		["Foxhollow Robes of the Quickblade"] = {
+			["mr"] = 2500000,
+			["cc"] = 4,
+			["id"] = "159187:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 2500000,
+		},
 		["Triumphant Skullcap of the Quickblade"] = {
 			["mr"] = 5893042,
 			["cc"] = 4,
 			["id"] = "15684:0:0:0:1678",
 			["sc"] = 3,
 			["H3169"] = 5893042,
-		},
-		["Rhut'van Breastplate of the Quickblade"] = {
-			["mr"] = 9013853,
-			["cc"] = 4,
-			["id"] = "121001:0:0:0:1812",
-			["sc"] = 4,
-			["H3169"] = 9013853,
-		},
-		["Magnificent Bracers of the Quickblade"] = {
-			["mr"] = 42510846,
-			["cc"] = 4,
-			["id"] = "15668:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 42510846,
 		},
 		["Stonewrought Breastplate of the Quickblade"] = {
 			["mr"] = 6633437,
@@ -11858,12 +11846,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6633437,
 		},
-		["Lord's Boots of the Quickblade"] = {
-			["mr"] = 678951,
+		["Magnificent Bracers of the Quickblade"] = {
+			["mr"] = 42510846,
 			["cc"] = 4,
-			["id"] = "10082:0:0:0:1678",
+			["id"] = "15668:0:0:0:1679",
 			["sc"] = 3,
-			["H3169"] = 678951,
+			["H3169"] = 42510846,
 		},
 		["Quick Azsunite"] = {
 			["mr"] = 2016266,
@@ -11872,12 +11860,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 			["H3169"] = 2016266,
 		},
+		["Lord's Boots of the Quickblade"] = {
+			["mr"] = 678951,
+			["cc"] = 4,
+			["id"] = "10082:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 678951,
+		},
 		["Darkcrest Breastplate of the Quickblade"] = {
 			["mr"] = 7188528,
 			["cc"] = 4,
 			["id"] = "24936:0:0:0:1677",
 			["sc"] = 4,
 			["H3169"] = 7188528,
+		},
+		["Zocali Greatsword of the Quickblade"] = {
+			["mr"] = 4999999,
+			["cc"] = 2,
+			["id"] = "159599:0:0:0:4796",
+			["sc"] = 8,
+			["H3169"] = 4999999,
 		},
 		["Sundered Chestpiece of the Quickblade"] = {
 			["mr"] = 5087756,
@@ -11887,20 +11889,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 6255175,
 		},
-		["Abjurer's Sash of the Quickblade"] = {
-			["mr"] = 7386311,
-			["cc"] = 4,
-			["L3169"] = 4703673,
-			["id"] = "9945:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 7386311,
-		},
 		["Grim Scythe of the Quickblade"] = {
 			["mr"] = 15883085,
 			["cc"] = 2,
 			["id"] = "25236:0:0:0:1680",
 			["sc"] = 6,
 			["H3169"] = 15883085,
+		},
+		["Battered Saurscale Leggings of the Quickblade"] = {
+			["mr"] = 144185339,
+			["cc"] = 4,
+			["id"] = "94053:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 144185339,
 		},
 		["Everstill Leggings of the Quickblade"] = {
 			["mr"] = 3682632,
@@ -11958,13 +11959,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 26227850,
 		},
-		["Golem Breastplate of the Quickblade"] = {
-			["mr"] = 4909996,
-			["cc"] = 4,
-			["id"] = "36381:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 4909996,
-		},
 		["Skettis Knuckles of the Quickblade"] = {
 			["mr"] = 3037632,
 			["cc"] = 2,
@@ -11978,6 +11972,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15687:0:0:0:1680",
 			["sc"] = 6,
 			["H3169"] = 8736281,
+		},
+		["Vital Shoulders of the Quickblade"] = {
+			["mr"] = 128637494,
+			["cc"] = 4,
+			["id"] = "14212:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 128637494,
 		},
 		["Sundered Footwraps of the Quickblade"] = {
 			["mr"] = 720670,
@@ -12007,13 +12008,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 36867261,
 		},
-		["Elementalist Cloak of the Quickblade"] = {
-			["mr"] = 12808307,
-			["cc"] = 4,
-			["id"] = "25034:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 12808307,
-		},
 		["Knight's Legguards of the Quickblade"] = {
 			["mr"] = 10504565,
 			["cc"] = 4,
@@ -12027,6 +12021,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14193:0:0:0:1678",
 			["sc"] = 1,
 			["H3169"] = 11252208,
+		},
+		["Spiderlord Bracers of the Quickblade"] = {
+			["mr"] = 686699,
+			["cc"] = 4,
+			["id"] = "36282:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 686699,
 		},
 		["Bleached Bone Longbow of the Quickblade"] = {
 			["mr"] = 6000000,
@@ -12050,13 +12051,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 3119219,
 		},
-		["Rageclaw Boots of the Quickblade"] = {
-			["mr"] = 1319986,
+		["Shadow Council Chain of the Quickblade"] = {
+			["mr"] = 1716653,
 			["cc"] = 4,
-			["L3169"] = 1319986,
-			["id"] = "15379:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 5774424,
+			["id"] = "24661:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 1716653,
 		},
 		["Sunscryer Sandals of the Quickblade"] = {
 			["mr"] = 4619272,
@@ -12072,26 +12072,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 15284165,
 		},
-		["Shadow Council Chain of the Quickblade"] = {
-			["mr"] = 1716653,
-			["cc"] = 4,
-			["id"] = "24661:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 1716653,
-		},
 		["Warhide Shoulderguard of the Quickblade"] = {
 			["mr"] = 9342953,
 			["cc"] = 4,
 			["id"] = "128881:0:0:0:1679",
 			["sc"] = 2,
 			["H3169"] = 9342953,
-		},
-		["Abyssal Cloth Handwraps of the Aurora"] = {
-			["mr"] = 7992332710,
-			["cc"] = 4,
-			["id"] = "20655:0:0:0:1706",
-			["sc"] = 1,
-			["H3162"] = 7992332710,
 		},
 		["Magnificent Helmet of the Quickblade"] = {
 			["mr"] = 5131499,
@@ -12100,6 +12086,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 5131499,
 		},
+		["Abyssal Cloth Handwraps of the Aurora"] = {
+			["mr"] = 7992332710,
+			["cc"] = 4,
+			["id"] = "20655:0:0:0:1706",
+			["sc"] = 1,
+			["H3162"] = 7992332710,
+		},
+		["Sorcerer Pants of the Quickblade"] = {
+			["mr"] = 490000,
+			["cc"] = 4,
+			["id"] = "9883:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 490000,
+		},
 		["Potent Helmet of the Quickblade"] = {
 			["mr"] = 21257741,
 			["cc"] = 4,
@@ -12107,12 +12107,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 21257741,
 		},
-		["Sabermaw Waistband of the Quickblade"] = {
-			["mr"] = 7848769,
+		["Orunai Wristwraps of the Quickblade"] = {
+			["mr"] = 5472167,
 			["cc"] = 4,
-			["id"] = "106703:0:0:0:3854",
-			["sc"] = 2,
-			["H3169"] = 7848769,
+			["id"] = "106546:0:0:0:3854",
+			["sc"] = 1,
+			["H3169"] = 5472167,
 		},
 		["Enchant Bracer - Greater Critical Strike"] = {
 			["mr"] = 89096836,
@@ -12120,13 +12120,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "52778:0:0:0:0",
 			["sc"] = 5,
 			["H3162"] = 89096836,
-		},
-		["Orunai Wristwraps of the Quickblade"] = {
-			["mr"] = 5472167,
-			["cc"] = 4,
-			["id"] = "106546:0:0:0:3854",
-			["sc"] = 1,
-			["H3169"] = 5472167,
 		},
 		["Geomancer's Rod of the Quickblade"] = {
 			["mr"] = 9990000,
@@ -12136,12 +12129,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 23068440,
 		},
-		["Engraved Helm of the Quickblade"] = {
-			["mr"] = 2729500,
-			["cc"] = 4,
-			["id"] = "10235:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 2729500,
+		["Irontree Dagger of the Quickblade"] = {
+			["mr"] = 40244661,
+			["cc"] = 2,
+			["id"] = "55333:0:0:0:1678",
+			["sc"] = 15,
+			["H3169"] = 40244661,
 		},
 		["Baradin Sandals of the Quickblade"] = {
 			["mr"] = 11204729,
@@ -12151,19 +12144,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 11204730,
 		},
-		["Traveling Helm of the Quickblade"] = {
-			["mr"] = 6995980,
-			["cc"] = 4,
-			["id"] = "116167:0:0:0:106",
-			["sc"] = 3,
-			["H3169"] = 6995980,
-		},
 		["Mighty Helmet of the Quickblade"] = {
 			["mr"] = 8715884,
 			["cc"] = 4,
 			["id"] = "10150:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 8715884,
+		},
+		["Traveling Helm of the Quickblade"] = {
+			["mr"] = 6995980,
+			["cc"] = 4,
+			["id"] = "116167:0:0:0:106",
+			["sc"] = 3,
+			["H3169"] = 6995980,
 		},
 		["Trollish Slicer of the Quickblade"] = {
 			["mr"] = 835127655,
@@ -12178,6 +12171,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "9915:0:0:0:1679",
 			["sc"] = 1,
 			["H3169"] = 1159199,
+		},
+		["Battleforge Legguards of the Quickblade"] = {
+			["mr"] = 24089043,
+			["cc"] = 4,
+			["id"] = "6596:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 24089043,
 		},
 		["Adventurer's Bandana of the Quickblade"] = {
 			["mr"] = 5409681,
@@ -12200,12 +12200,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 8435084,
 		},
-		["Bejeweled Spellblade of the Quickblade"] = {
-			["mr"] = 1000000,
-			["cc"] = 2,
-			["id"] = "82230:0:0:0:1681",
-			["sc"] = 15,
-			["H3169"] = 1000000,
+		["Bloodscale Pauldrons of the Quickblade"] = {
+			["mr"] = 1698610,
+			["cc"] = 4,
+			["id"] = "24948:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 1698610,
 		},
 		["Big Fountain Goldfish"] = {
 			["mr"] = 39199,
@@ -12221,19 +12221,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 10356503,
 		},
-		["Bloodscale Pauldrons of the Quickblade"] = {
-			["mr"] = 1698610,
-			["cc"] = 4,
-			["id"] = "24948:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 1698610,
-		},
 		["Imposing Shoulders of the Quickblade"] = {
 			["mr"] = 47994213,
 			["cc"] = 4,
 			["id"] = "15169:0:0:0:1678",
 			["sc"] = 2,
 			["H3169"] = 47994213,
+		},
+		["Trickster's Cloak of the Quickblade"] = {
+			["mr"] = 2027295,
+			["cc"] = 4,
+			["id"] = "15364:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 2027295,
 		},
 		["Enchant Cloak - Gift of Haste"] = {
 			["mr"] = 11588097,
@@ -12256,12 +12256,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 15535835,
 		},
-		["Rivermarsh Defender of the Quickblade"] = {
-			["mr"] = 775280000,
+		["Formidable Crest of the Quickblade"] = {
+			["mr"] = 70295158,
 			["cc"] = 4,
-			["id"] = "159809:0:0:0:4796",
+			["id"] = "15633:0:0:0:4281",
 			["sc"] = 6,
-			["H3169"] = 775280000,
+			["H3169"] = 70295158,
 		},
 		["Warpscale Gauntlets of the Quickblade"] = {
 			["mr"] = 1808442,
@@ -12277,12 +12277,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 5985345,
 		},
-		["Formidable Crest of the Quickblade"] = {
-			["mr"] = 70295158,
-			["cc"] = 4,
-			["id"] = "15633:0:0:0:4281",
-			["sc"] = 6,
-			["H3169"] = 70295158,
+		["Coldscale Dagger of the Quickblade"] = {
+			["mr"] = 49999997,
+			["cc"] = 2,
+			["id"] = "159525:0:0:0:4796",
+			["sc"] = 15,
+			["H3169"] = 49999997,
 		},
 		["Jadefire Belt of the Quickblade"] = {
 			["mr"] = 27017513,
@@ -12291,13 +12291,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15388:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 27017784,
-		},
-		["Coldscale Dagger of the Quickblade"] = {
-			["mr"] = 49999997,
-			["cc"] = 2,
-			["id"] = "159525:0:0:0:4796",
-			["sc"] = 15,
-			["H3169"] = 49999997,
 		},
 		["Engraved Crossbow of the Quickblade"] = {
 			["mr"] = 12906820,
@@ -12329,6 +12322,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 451008,
 		},
+		["Sentry's Surcoat of the Quickblade"] = {
+			["mr"] = 12717398,
+			["cc"] = 4,
+			["id"] = "15524:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 12717398,
+		},
 		["Formidable Gauntlets of the Quickblade"] = {
 			["mr"] = 15383992,
 			["cc"] = 4,
@@ -12357,13 +12357,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 4,
 			["H3169"] = 2668155,
 		},
-		["Kraken's Eye of Intellect"] = {
-			["mr"] = 4499988,
-			["cc"] = 3,
-			["id"] = "153709:0:0:0:0",
-			["sc"] = 0,
-			["H3162"] = 4499988,
-		},
 		["Leystone Armguards of the Quickblade"] = {
 			["mr"] = 9544600,
 			["cc"] = 4,
@@ -12379,12 +12372,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 33721394,
 		},
-		["Bonelink Helmet of the Quickblade"] = {
-			["mr"] = 20805336,
+		["Stonebreaker Vambraces of the Quickblade"] = {
+			["mr"] = 1809135,
 			["cc"] = 4,
-			["id"] = "15615:0:0:0:1677",
-			["sc"] = 3,
-			["H3178"] = 20805336,
+			["id"] = "106563:0:0:0:3855",
+			["sc"] = 4,
+			["H3169"] = 1809135,
+		},
+		["Headhunter's Armor of the Quickblade"] = {
+			["mr"] = 35508949,
+			["cc"] = 4,
+			["id"] = "15356:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 35508949,
 		},
 		["Fishsticker Crossbow"] = {
 			["mr"] = 44055323,
@@ -12393,12 +12393,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 44055323,
 			["cc"] = 2,
 		},
-		["Headhunter's Armor of the Quickblade"] = {
-			["mr"] = 35508949,
+		["Bonecaster's Shroud of the Quickblade"] = {
+			["mr"] = 5882943,
 			["cc"] = 4,
-			["id"] = "15356:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 35508949,
+			["id"] = "14303:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 5882943,
 		},
 		["Necropolis Girdle of the Quickblade"] = {
 			["mr"] = 1955375,
@@ -12422,19 +12422,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 12968361,
 		},
-		["Bonecaster's Shroud of the Quickblade"] = {
-			["mr"] = 5882943,
-			["cc"] = 4,
-			["id"] = "14303:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 5882943,
-		},
 		["Mystral Robe of the Quickblade"] = {
 			["mr"] = 5442295,
 			["cc"] = 4,
 			["id"] = "55719:0:0:0:1677",
 			["sc"] = 1,
 			["H3169"] = 5442295,
+		},
+		["Sharptusk Vambraces of the Quickblade"] = {
+			["mr"] = 1382892,
+			["cc"] = 4,
+			["id"] = "106596:0:0:0:4503",
+			["sc"] = 4,
+			["H3169"] = 1382892,
 		},
 		["Righteous Bracers of the Quickblade"] = {
 			["mr"] = 11456603,
@@ -12493,12 +12493,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 569988,
 		},
-		["Slavehandler Belt of the Quickblade"] = {
-			["mr"] = 8003962,
+		["Embersilk Mantle of the Quickblade"] = {
+			["mr"] = 26952677,
 			["cc"] = 4,
-			["id"] = "24621:0:0:0:1679",
+			["id"] = "14232:0:0:0:1677",
 			["sc"] = 1,
-			["H3169"] = 8003962,
+			["H3169"] = 26952677,
 		},
 		["Shattered Hand Legplates of the Quickblade"] = {
 			["mr"] = 1084149,
@@ -12531,19 +12531,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 15786330,
 		},
-		["Embersilk Mantle of the Quickblade"] = {
-			["mr"] = 26952677,
-			["cc"] = 4,
-			["id"] = "14232:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 26952677,
-		},
 		["Gaea's Scepter of the Quickblade"] = {
 			["mr"] = 66564898,
 			["cc"] = 4,
 			["id"] = "15983:0:0:0:1678",
 			["sc"] = 0,
 			["H3169"] = 66564898,
+		},
+		["Slavehandler Belt of the Quickblade"] = {
+			["mr"] = 8003962,
+			["cc"] = 4,
+			["id"] = "24621:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 8003962,
 		},
 		["Wolverine Armguards of the Quickblade"] = {
 			["mr"] = 215759100,
@@ -12552,12 +12552,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 215759100,
 		},
-		["Ulduar Helm of the Quickblade"] = {
-			["mr"] = 1620000,
+		["Fenclaw Helm of the Quickblade"] = {
+			["mr"] = 14359222,
 			["cc"] = 4,
-			["id"] = "36271:0:0:0:1680",
+			["id"] = "24850:0:0:0:1678",
 			["sc"] = 3,
-			["H3169"] = 1620000,
+			["H3169"] = 14359222,
 		},
 		["Skettis Sword of the Quickblade"] = {
 			["mr"] = 3126324,
@@ -12566,12 +12566,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 			["H3169"] = 3126324,
 		},
-		["Fenclaw Helm of the Quickblade"] = {
-			["mr"] = 14359222,
-			["cc"] = 4,
-			["id"] = "24850:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 14359222,
+		["Gorian Hammer of the Quickblade"] = {
+			["mr"] = 3726144,
+			["cc"] = 2,
+			["id"] = "116620:0:0:0:3875",
+			["sc"] = 5,
+			["H3169"] = 3726144,
 		},
 		["Tidespray Linen Pants of the Peerless"] = {
 			["mr"] = 11068400,
@@ -12581,13 +12581,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["L3012"] = 11068400,
 		},
-		["Archer's Belt of the Quickblade"] = {
-			["mr"] = 34981550,
-			["cc"] = 4,
-			["id"] = "9855:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 34981550,
-		},
 		["Moonwhisper Spellblade of the Quickblade"] = {
 			["mr"] = 2892828,
 			["cc"] = 2,
@@ -12595,12 +12588,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 2892828,
 		},
-		["Glyph of Hawk Feast"] = {
-			["mr"] = 7519860,
+		["Gronn-Bone Club of the Quickblade"] = {
+			["mr"] = 7063008,
+			["cc"] = 2,
+			["id"] = "25130:0:0:0:1679",
+			["sc"] = 5,
+			["H3169"] = 7063008,
+		},
+		["Condor Pants of the Quickblade"] = {
+			["mr"] = 7193993,
+			["cc"] = 4,
+			["L3169"] = 7193993,
+			["id"] = "36040:0:0:0:1678",
 			["sc"] = 1,
-			["id"] = "80587:0:0:0:0",
-			["H3017"] = 7519860,
-			["cc"] = 16,
+			["H3169"] = 8155263,
 		},
 		["Coarse Leather Leggings of the Quickblade"] = {
 			["mr"] = 8009086,
@@ -12623,20 +12624,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 1996482,
 		},
-		["Condor Pants of the Quickblade"] = {
-			["mr"] = 7193993,
-			["cc"] = 4,
-			["L3169"] = 7193993,
-			["id"] = "36040:0:0:0:1678",
+		["Glyph of Hawk Feast"] = {
+			["mr"] = 7519860,
 			["sc"] = 1,
-			["H3169"] = 8155263,
-		},
-		["Saurifeather Garments of the Quickblade"] = {
-			["mr"] = 177744856,
-			["cc"] = 4,
-			["id"] = "160149:0:0:0:4796",
-			["sc"] = 1,
-			["H3169"] = 177744856,
+			["id"] = "80587:0:0:0:0",
+			["H3017"] = 7519860,
+			["cc"] = 16,
 		},
 		["Vermilion Necklace of the Quickblade"] = {
 			["mr"] = 20835738,
@@ -12651,6 +12644,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "164657:0:0:0:1677",
 			["sc"] = 4,
 			["H3169"] = 15000000,
+		},
+		["Soul-Drain Dagger of the Quickblade"] = {
+			["mr"] = 14947292,
+			["cc"] = 2,
+			["id"] = "25302:0:0:0:3871",
+			["sc"] = 15,
+			["H3169"] = 14947292,
 		},
 		["Monstrous War Axe of the Quickblade"] = {
 			["mr"] = 2858461,
@@ -12674,19 +12674,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 16449733,
 		},
-		["Smolderhide Bindings of the Quickblade"] = {
-			["mr"] = 78572069,
-			["cc"] = 4,
-			["id"] = "121182:0:0:0:1812",
-			["sc"] = 2,
-			["H3169"] = 78572069,
-		},
 		["Rusty Queenfish Brooch"] = {
 			["mr"] = 72686603,
 			["sc"] = 8,
 			["id"] = "133704:0:0:0:0",
 			["H3017"] = 72686603,
 			["cc"] = 0,
+		},
+		["Bramblescar Vest of the Quickblade"] = {
+			["mr"] = 15197675,
+			["cc"] = 4,
+			["id"] = "55572:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 15197675,
 		},
 		["Hiri'watha Gauntlets of the Quickblade"] = {
 			["mr"] = 17988589,
@@ -12702,12 +12702,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1708665,
 		},
-		["Bramblescar Vest of the Quickblade"] = {
-			["mr"] = 15197675,
+		["Heroic Legplates of the Quickblade"] = {
+			["mr"] = 3441488,
 			["cc"] = 4,
-			["id"] = "55572:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 15197675,
+			["id"] = "14936:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 3441488,
 		},
 		["Webspinner Hood of the Quickblade"] = {
 			["mr"] = 2042716,
@@ -12716,12 +12716,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 2042716,
 		},
-		["Heroic Legplates of the Quickblade"] = {
-			["mr"] = 3441488,
-			["cc"] = 4,
-			["id"] = "14936:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 3441488,
+		["Brutal War Axe of the Quickblade"] = {
+			["mr"] = 2325942,
+			["cc"] = 2,
+			["L3169"] = 2325942,
+			["id"] = "3210:0:0:0:3862",
+			["sc"] = 1,
+			["H3169"] = 2521293,
 		},
 		["Shimmerscale Vest of the Quickblade"] = {
 			["mr"] = 5000000,
@@ -12758,14 +12759,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 150000000,
 		},
-		["Flamecloth Stave of the Quickblade"] = {
-			["mr"] = 8455225,
-			["cc"] = 4,
-			["L3169"] = 8455225,
-			["id"] = "15979:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 8455226,
-		},
 		["Highpeak Vambraces of the Quickblade"] = {
 			["mr"] = 6094288,
 			["cc"] = 4,
@@ -12773,19 +12766,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6094288,
 		},
-		["Titanium Brain-Gear of the Quickblade"] = {
-			["mr"] = 2175657,
+		["Ivory Shield of the Quickblade"] = {
+			["mr"] = 8499690,
 			["cc"] = 4,
-			["id"] = "44681:0:0:0:1679",
-			["sc"] = 0,
-			["H3169"] = 2175657,
-		},
-		["Tidespray Linen Bracers of the Harmonious"] = {
-			["mr"] = 4992500,
-			["cc"] = 4,
-			["H3012"] = 4992500,
-			["id"] = "154692:0:0:0:1717",
-			["sc"] = 1,
+			["id"] = "36457:0:0:0:1677",
+			["sc"] = 6,
+			["H3169"] = 8499690,
 		},
 		["Murkblood Cover of the Quickblade"] = {
 			["mr"] = 281766,
@@ -12794,6 +12780,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24786:0:0:0:1679",
 			["sc"] = 2,
 			["H3169"] = 2765984,
+		},
+		["Tidespray Linen Bracers of the Harmonious"] = {
+			["mr"] = 4992500,
+			["cc"] = 4,
+			["H3012"] = 4992500,
+			["id"] = "154692:0:0:0:1717",
+			["sc"] = 1,
+		},
+		["Consortium Robe of the Quickblade"] = {
+			["mr"] = 5957105,
+			["cc"] = 4,
+			["id"] = "24655:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 5957105,
 		},
 		["Tidespray Linen Sandals of the Quickblade"] = {
 			["mr"] = 15899984,
@@ -12837,12 +12837,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3169"] = 26199999,
 		},
-		["Consortium Robe of the Quickblade"] = {
-			["mr"] = 5957105,
-			["cc"] = 4,
-			["id"] = "24655:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 5957105,
+		["Blood Groove Blade of the Quickblade"] = {
+			["mr"] = 12120777,
+			["cc"] = 2,
+			["id"] = "25154:0:0:0:1677",
+			["sc"] = 7,
+			["H3169"] = 12120777,
 		},
 		["Lofty Belt of the Quickblade"] = {
 			["mr"] = 156524075,
@@ -12865,12 +12865,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 11110000,
 		},
-		["Blood Groove Blade of the Quickblade"] = {
-			["mr"] = 12120777,
-			["cc"] = 2,
-			["id"] = "25154:0:0:0:1677",
-			["sc"] = 7,
-			["H3169"] = 12120777,
+		["Sinister Combatant's Plate Waistguard of the Quickblade"] = {
+			["mr"] = 31000000,
+			["cc"] = 4,
+			["L3169"] = 31000000,
+			["id"] = "164656:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 35000000,
 		},
 		["Phalanx Gauntlets of the Fireflash"] = {
 			["mr"] = 3725219,
@@ -12893,12 +12894,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 32202330,
 		},
-		["Loa-Blessed Fang of the Quickblade"] = {
-			["mr"] = 28889999,
-			["cc"] = 2,
-			["id"] = "159527:0:0:0:4796",
-			["sc"] = 15,
-			["H3169"] = 28889999,
+		["Coarse Leather Treads of the Peerless"] = {
+			["mr"] = 37017526,
+			["cc"] = 4,
+			["id"] = "154139:0:0:0:1689",
+			["sc"] = 2,
+			["H3016"] = 37017526,
 		},
 		["Archmage Robe of the Quickblade"] = {
 			["mr"] = 468367,
@@ -12908,26 +12909,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 468368,
 		},
-		["Coarse Leather Treads of the Peerless"] = {
-			["mr"] = 37017526,
+		["Elder's Robe of the Quickblade"] = {
+			["mr"] = 6000098,
 			["cc"] = 4,
-			["id"] = "154139:0:0:0:1689",
-			["sc"] = 2,
-			["H3016"] = 37017526,
-		},
-		["Spoke Shield of the Quickblade"] = {
-			["mr"] = 6923752,
-			["cc"] = 4,
-			["id"] = "36452:0:0:0:1680",
-			["sc"] = 6,
-			["H3169"] = 6923752,
-		},
-		["Deadly Vermilion Onyx"] = {
-			["mr"] = 17580526,
-			["cc"] = 3,
-			["id"] = "76658:0:0:0:0",
-			["sc"] = 10,
-			["H3162"] = 17580526,
+			["id"] = "7369:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 6000098,
 		},
 		["Kingly Axe of the Quickblade"] = {
 			["mr"] = 20578682,
@@ -12936,6 +12923,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 20578682,
 		},
+		["Deadly Vermilion Onyx"] = {
+			["mr"] = 17580526,
+			["cc"] = 3,
+			["id"] = "76658:0:0:0:0",
+			["sc"] = 10,
+			["H3162"] = 17580526,
+		},
 		["Skeletal Hacker of the Quickblade"] = {
 			["mr"] = 13261466,
 			["cc"] = 2,
@@ -12943,19 +12937,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 13261466,
 		},
+		["Mirkfallon Amulet of the Quickblade"] = {
+			["mr"] = 7485514,
+			["cc"] = 4,
+			["id"] = "55401:0:0:0:4763",
+			["sc"] = 0,
+			["H3169"] = 7485514,
+		},
 		["Crystalvein Pauldrons of the Quickblade"] = {
 			["mr"] = 7529782,
 			["cc"] = 4,
 			["id"] = "55549:0:0:0:1681",
 			["sc"] = 4,
 			["H3169"] = 7529782,
-		},
-		["Peerless Leggings of the Quickblade"] = {
-			["mr"] = 73029725,
-			["cc"] = 4,
-			["id"] = "15431:0:0:0:1678",
-			["sc"] = 2,
-			["H3169"] = 73029725,
 		},
 		["Marshcreeper Gloves of the Quickblade"] = {
 			["mr"] = 4190142,
@@ -12965,6 +12959,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 13665886,
 		},
+		["Bloodforged Sabatons of the Quickblade"] = {
+			["mr"] = 32571764,
+			["cc"] = 4,
+			["id"] = "14951:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 32571764,
+		},
 		["Shimmerscale Vest of the Fireflash"] = {
 			["mr"] = 4999990,
 			["cc"] = 4,
@@ -12972,12 +12973,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 4999990,
 		},
-		["Tanjo Staff of the Quickblade"] = {
-			["mr"] = 84095318,
-			["cc"] = 2,
-			["id"] = "25177:0:0:0:1679",
-			["sc"] = 10,
-			["H3169"] = 84095318,
+		["Phalanx Headguard of the Quickblade"] = {
+			["mr"] = 62106740,
+			["sc"] = 3,
+			["H3174"] = 62106740,
+			["id"] = "7420:0:0:0:1678",
+			["cc"] = 4,
 		},
 		["Crafted Malevolent Gladiator's Linked Leggings"] = {
 			["mr"] = 49999999,
@@ -12993,12 +12994,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6205670,
 		},
-		["Phalanx Headguard of the Quickblade"] = {
-			["mr"] = 62106740,
+		["Sporting Rifle of the Quickblade"] = {
+			["mr"] = 3016156239,
+			["cc"] = 2,
+			["id"] = "25277:0:0:0:1677",
 			["sc"] = 3,
-			["H3174"] = 62106740,
-			["id"] = "7420:0:0:0:1678",
-			["cc"] = 4,
+			["H3169"] = 3016156239,
 		},
 		["Gothic Plate Spaulders of the Quickblade"] = {
 			["mr"] = 7579029,
@@ -13035,13 +13036,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15938:0:0:0:1677",
 			["sc"] = 0,
 			["H3169"] = 16785367,
-		},
-		["Shimmerscale Waistguard of the Quickblade"] = {
-			["mr"] = 4999964,
-			["sc"] = 3,
-			["H3174"] = 4999964,
-			["id"] = "154152:0:0:0:1680",
-			["cc"] = 4,
 		},
 		["Spirestrider Legguards of the Quickblade"] = {
 			["mr"] = 43476392,
@@ -13086,13 +13080,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 3026019,
 		},
-		["Shimmerscale Helm of the Peerless"] = {
-			["mr"] = 7499978,
-			["cc"] = 4,
-			["id"] = "154149:0:0:0:1687",
-			["sc"] = 3,
-			["H3174"] = 7499978,
-		},
 		["Slithershell Leggings of the Quickblade"] = {
 			["mr"] = 130055832,
 			["cc"] = 4,
@@ -13100,12 +13087,27 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 130055832,
 		},
-		["Vindicator Bracers of the Quickblade"] = {
-			["mr"] = 9768706,
+		["Shimmerscale Helm of the Peerless"] = {
+			["mr"] = 7499978,
 			["cc"] = 4,
-			["id"] = "24620:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 9768706,
+			["id"] = "154149:0:0:0:1687",
+			["sc"] = 3,
+			["H3174"] = 7499978,
+		},
+		["Exalted Gauntlets of the Quickblade"] = {
+			["mr"] = 5929941,
+			["cc"] = 4,
+			["L3169"] = 5929941,
+			["id"] = "14976:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 5938677,
+		},
+		["Blackwolf Crystal of the Quickblade"] = {
+			["mr"] = 1014614,
+			["cc"] = 4,
+			["id"] = "55378:0:0:0:1681",
+			["sc"] = 0,
+			["H3169"] = 1014614,
 		},
 		["Chipped Woodchopper of the Quickblade"] = {
 			["mr"] = 23762603,
@@ -13121,12 +13123,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3162"] = 14349992,
 		},
-		["Blackwolf Crystal of the Quickblade"] = {
-			["mr"] = 1014614,
+		["Warbringer's Chestguard of the Quickblade"] = {
+			["mr"] = 22052235,
 			["cc"] = 4,
-			["id"] = "55378:0:0:0:1681",
-			["sc"] = 0,
-			["H3169"] = 1014614,
+			["id"] = "14939:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 22052235,
 		},
 		["Huntsman's Shoulders of the Quickblade"] = {
 			["mr"] = 8722512,
@@ -13135,19 +13137,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 8722512,
 		},
-		["Warbringer's Chestguard of the Quickblade"] = {
-			["mr"] = 22052235,
-			["cc"] = 4,
-			["id"] = "14939:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 22052235,
-		},
 		["Templar Gauntlets of the Quickblade"] = {
 			["mr"] = 20914235,
 			["cc"] = 4,
 			["id"] = "10165:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 20914235,
+		},
+		["Anchor Weed"] = {
+			["mr"] = 2005000,
+			["sc"] = 9,
+			["id"] = "152510:0:0:0:0",
+			["cc"] = 7,
+			["H3171"] = 2005000,
 		},
 		["Superior Bracers of the Quickblade"] = {
 			["mr"] = 5942055,
@@ -13156,13 +13158,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 5942055,
 		},
-		["Tidespray Linen Bracers of the Quickblade"] = {
-			["mr"] = 13720937,
+		["Archer's Gloves of the Quickblade"] = {
+			["mr"] = 37042005,
 			["cc"] = 4,
-			["L3169"] = 1000000,
-			["id"] = "154692:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 21876450,
+			["id"] = "9861:0:0:0:1678",
+			["sc"] = 2,
+			["H3169"] = 37042005,
 		},
 		["Impenetrable Wall of the Quickblade"] = {
 			["mr"] = 15726125,
@@ -13171,12 +13172,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 15726125,
 		},
-		["Archer's Gloves of the Quickblade"] = {
-			["mr"] = 37042005,
+		["Cormorant Leggings of the Quickblade"] = {
+			["mr"] = 3155930,
 			["cc"] = 4,
-			["id"] = "9861:0:0:0:1678",
-			["sc"] = 2,
-			["H3169"] = 37042005,
+			["id"] = "36264:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 3155930,
 		},
 		["Rocktusk Gloves of the Quickblade"] = {
 			["mr"] = 11689452,
@@ -13184,13 +13185,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "55663:0:0:0:1678",
 			["sc"] = 2,
 			["H3169"] = 11689452,
-		},
-		["Cormorant Leggings of the Quickblade"] = {
-			["mr"] = 3155930,
-			["cc"] = 4,
-			["id"] = "36264:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 3155930,
 		},
 		["Crystalsong Leggings of the Quickblade"] = {
 			["mr"] = 1599858,
@@ -13200,13 +13194,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1640880,
 		},
-		["Exalted Epaulets of the Quickblade"] = {
-			["mr"] = 45611073,
-			["cc"] = 4,
-			["id"] = "14981:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 45611073,
-		},
 		["Umbra Shard"] = {
 			["mr"] = 856999,
 			["cc"] = 7,
@@ -13214,12 +13201,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3074"] = 856999,
 			["sc"] = 12,
 		},
+		["Exalted Epaulets of the Quickblade"] = {
+			["mr"] = 45611073,
+			["cc"] = 4,
+			["id"] = "14981:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 45611073,
+		},
 		["Shimmerscale Armguards of the Aurora"] = {
 			["mr"] = 9503503,
 			["cc"] = 4,
 			["id"] = "154153:0:0:0:1708",
 			["sc"] = 3,
 			["H3174"] = 9503503,
+		},
+		["Cleft-Edged Hammer of the Quickblade"] = {
+			["mr"] = 267059348,
+			["cc"] = 2,
+			["id"] = "36504:0:0:0:1678",
+			["sc"] = 5,
+			["H3169"] = 267059348,
 		},
 		["Crusader's Armguards of the Quickblade"] = {
 			["mr"] = 4713937,
@@ -13235,12 +13236,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3169"] = 43182975,
 		},
-		["Cleft-Edged Hammer of the Quickblade"] = {
-			["mr"] = 267059348,
-			["cc"] = 2,
-			["id"] = "36504:0:0:0:1678",
-			["sc"] = 5,
-			["H3169"] = 267059348,
+		["Contract: Voldunai"] = {
+			["mr"] = 1300000,
+			["sc"] = 8,
+			["H3153"] = 1300000,
+			["cc"] = 0,
+			["id"] = "153666:0:0:0:0",
 		},
 		["Dragonhawk Hat of the Quickblade"] = {
 			["mr"] = 20217936,
@@ -13249,12 +13250,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 20217936,
 		},
-		["High Chief's Shield of the Quickblade"] = {
-			["mr"] = 999990,
-			["cc"] = 4,
-			["id"] = "14964:0:0:0:1677",
-			["sc"] = 6,
-			["H3169"] = 999990,
+		["Deadly Ember Topaz"] = {
+			["mr"] = 9077965,
+			["cc"] = 3,
+			["id"] = "52209:0:0:0:0",
+			["sc"] = 10,
+			["H3162"] = 9077965,
 		},
 		["Highpeak Girdle of the Quickblade"] = {
 			["mr"] = 17209876,
@@ -13263,12 +13264,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 17209876,
 		},
-		["Deadly Ember Topaz"] = {
-			["mr"] = 9077965,
-			["cc"] = 3,
-			["id"] = "52209:0:0:0:0",
-			["sc"] = 10,
-			["H3162"] = 9077965,
+		["Opulent Gloves of the Quickblade"] = {
+			["mr"] = 10354767,
+			["cc"] = 4,
+			["L3169"] = 10354767,
+			["id"] = "14282:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 10354872,
 		},
 		["Captain's Boots of the Quickblade"] = {
 			["mr"] = 4500054,
@@ -13306,19 +13308,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 10781053,
 		},
-		["Ulduar Legguards of the Quickblade"] = {
-			["mr"] = 968475,
-			["cc"] = 4,
-			["id"] = "36272:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 968475,
-		},
 		["Boneshredder Belt of the Quickblade"] = {
 			["mr"] = 8217016,
 			["cc"] = 4,
 			["id"] = "24773:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 8217016,
+		},
+		["Darkcrest Legguards of the Quickblade"] = {
+			["mr"] = 23244066,
+			["cc"] = 4,
+			["L3169"] = 23244066,
+			["id"] = "24939:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 26284182,
 		},
 		["Bogslayer Breastplate of the Quickblade"] = {
 			["mr"] = 14955719,
@@ -13327,12 +13330,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 14955719,
 		},
-		["Cobra Shortblade of the Quickblade"] = {
-			["mr"] = 23651970,
-			["cc"] = 2,
-			["id"] = "25106:0:0:0:1677",
-			["sc"] = 15,
-			["H3169"] = 23651970,
+		["Honorable Combatant's Leather Gauntlets of the Quickblade"] = {
+			["mr"] = 151831852,
+			["cc"] = 4,
+			["id"] = "159885:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 151831852,
 		},
 		["Shardback Helm of the Quickblade"] = {
 			["mr"] = 1596144,
@@ -13340,13 +13343,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "106492:0:0:0:3854",
 			["sc"] = 4,
 			["H3169"] = 1596144,
-		},
-		["Honorable Combatant's Leather Gauntlets of the Quickblade"] = {
-			["mr"] = 151831852,
-			["cc"] = 4,
-			["id"] = "159885:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 151831852,
 		},
 		["Merciless Cloak of the Quickblade"] = {
 			["mr"] = 16241861,
@@ -13379,6 +13375,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 121208499,
 		},
+		["Dreadroot Linked Vest of the Harmonious"] = {
+			["mr"] = 20127261,
+			["cc"] = 4,
+			["id"] = "121212:0:0:0:1812",
+			["sc"] = 3,
+			["H3178"] = 20127261,
+		},
 		["Enchant Ring - Seal of Critical Strike"] = {
 			["mr"] = 8900,
 			["cc"] = 8,
@@ -13393,19 +13396,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1413504,
 		},
-		["Dreadroot Linked Vest of the Harmonious"] = {
-			["mr"] = 20127261,
-			["cc"] = 4,
-			["id"] = "121212:0:0:0:1812",
-			["sc"] = 3,
-			["H3178"] = 20127261,
-		},
 		["Grimscale Belt of the Quickblade"] = {
 			["mr"] = 57110471,
 			["cc"] = 4,
 			["id"] = "24918:0:0:0:1677",
 			["sc"] = 4,
 			["H3169"] = 57110471,
+		},
+		["Eldr'naan Jerkin of the Quickblade"] = {
+			["mr"] = 1097284,
+			["cc"] = 4,
+			["id"] = "24671:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 1097284,
 		},
 		["Champion's Leggings of the Quickblade"] = {
 			["mr"] = 11527023,
@@ -13421,12 +13424,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 2155196,
 		},
-		["Eldr'naan Jerkin of the Quickblade"] = {
-			["mr"] = 1097284,
+		["Trickster's Headdress of the Quickblade"] = {
+			["mr"] = 2265330,
 			["cc"] = 4,
-			["id"] = "24671:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 1097284,
+			["id"] = "15363:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 2265330,
 		},
 		["Tideguard Handaxe of the Quickblade"] = {
 			["mr"] = 9330000,
@@ -13442,12 +13445,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 3088090,
 		},
-		["Sorcerer Hat of the Quickblade"] = {
-			["mr"] = 15000000,
-			["cc"] = 4,
-			["id"] = "9878:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 15000000,
+		["Tidespray Linen"] = {
+			["mr"] = 47198,
+			["cc"] = 7,
+			["H3012"] = 47198,
+			["id"] = "152576:0:0:0:0",
+			["sc"] = 5,
 		},
 		["Tempest Hide"] = {
 			["mr"] = 42500,
@@ -13463,12 +13466,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 1499996,
 		},
-		["Tidespray Linen"] = {
-			["mr"] = 47198,
-			["cc"] = 7,
-			["H3012"] = 47198,
-			["id"] = "152576:0:0:0:0",
-			["sc"] = 5,
+		["Raider's Belt of the Quickblade"] = {
+			["mr"] = 4167864,
+			["cc"] = 4,
+			["id"] = "9788:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 4167864,
 		},
 		["Abyssal-Fried Rissole"] = {
 			["mr"] = 587998,
@@ -13477,19 +13480,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3162"] = 587998,
 		},
-		["Shardback Breastplate of the Quickblade"] = {
-			["mr"] = 2022228,
-			["cc"] = 4,
-			["id"] = "106489:0:0:0:3854",
-			["sc"] = 4,
-			["H3169"] = 2022228,
-		},
 		["Willow Robe of the Quickblade"] = {
 			["mr"] = 10692010,
 			["cc"] = 4,
 			["id"] = "6538:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 10692010,
+		},
+		["Mechano-Wand of the Quickblade"] = {
+			["mr"] = 2500000,
+			["cc"] = 2,
+			["id"] = "25292:0:0:0:1678",
+			["sc"] = 19,
+			["H3169"] = 2500000,
 		},
 		["Webspinner Bindings of the Quickblade"] = {
 			["mr"] = 4002407,
@@ -13499,12 +13502,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 4002408,
 		},
-		["Intimidating Greatstaff of the Quickblade"] = {
-			["mr"] = 12564049,
-			["cc"] = 2,
-			["id"] = "25334:0:0:0:1681",
-			["sc"] = 10,
-			["H3169"] = 12564049,
+		["Bonelink Armor of the Quickblade"] = {
+			["mr"] = 25599372,
+			["cc"] = 4,
+			["L3178"] = 25599366,
+			["id"] = "15609:0:0:0:1681",
+			["sc"] = 3,
+			["H3178"] = 25599372,
 		},
 		["Gossamer Headpiece of the Quickblade"] = {
 			["mr"] = 19424801,
@@ -13514,20 +13518,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 35000000,
 		},
-		["Bonelink Armor of the Quickblade"] = {
-			["mr"] = 25599372,
-			["cc"] = 4,
-			["L3178"] = 25599366,
-			["id"] = "15609:0:0:0:1681",
-			["sc"] = 3,
-			["H3178"] = 25599372,
+		["Intimidating Greatstaff of the Quickblade"] = {
+			["mr"] = 12564049,
+			["cc"] = 2,
+			["id"] = "25334:0:0:0:1681",
+			["sc"] = 10,
+			["H3169"] = 12564049,
 		},
-		["Twilight Cowl of the Quickblade"] = {
-			["mr"] = 19002102,
+		["Webspinner Gloves of the Quickblade"] = {
+			["mr"] = 2891163,
 			["cc"] = 4,
-			["id"] = "7432:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 19002102,
+			["id"] = "36166:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 2891163,
 		},
 		["Direbone Frill Greatbelt of the Quickblade"] = {
 			["mr"] = 53918709,
@@ -13536,12 +13539,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 53918709,
 		},
-		["Webspinner Gloves of the Quickblade"] = {
-			["mr"] = 2891163,
+		["Yak Helm of the Quickblade"] = {
+			["mr"] = 1050000,
 			["cc"] = 4,
-			["id"] = "36166:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 2891163,
+			["id"] = "82245:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 1050000,
 		},
 		["Mistyreed Hood of the Quickblade"] = {
 			["mr"] = 3055803,
@@ -13557,13 +13560,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 7499987,
 		},
-		["Talonguard Legplates of the Quickblade"] = {
-			["mr"] = 36794680,
+		["Hyperion Legplates of the Quickblade"] = {
+			["mr"] = 15435564,
 			["cc"] = 4,
-			["L3169"] = 19957064,
-			["id"] = "24971:0:0:0:3850",
+			["L3169"] = 6000000,
+			["id"] = "10389:0:0:0:1678",
 			["sc"] = 4,
-			["H3169"] = 36794680,
+			["H3169"] = 15435564,
 		},
 		["Swamp Fish 'n Chips"] = {
 			["mr"] = 262997,
@@ -13586,13 +13589,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2519612,
 		},
-		["Hyperion Legplates of the Quickblade"] = {
-			["mr"] = 15435564,
+		["Talonguard Legplates of the Quickblade"] = {
+			["mr"] = 36794680,
 			["cc"] = 4,
-			["L3169"] = 6000000,
-			["id"] = "10389:0:0:0:1678",
+			["L3169"] = 19957064,
+			["id"] = "24971:0:0:0:3850",
 			["sc"] = 4,
-			["H3169"] = 15435564,
+			["H3169"] = 36794680,
 		},
 		["Durable Pants of the Quickblade"] = {
 			["mr"] = 12266160,
@@ -13617,12 +13620,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 2050733,
 		},
-		["Mountain Belt of the Quickblade"] = {
-			["mr"] = 10907774,
+		["Ghrino Vest of the Quickblade"] = {
+			["mr"] = 25942588,
 			["cc"] = 4,
-			["id"] = "82186:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 10907774,
+			["id"] = "36141:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 25942588,
 		},
 		["Slavehandler Jerkin of the Quickblade"] = {
 			["mr"] = 877327,
@@ -13632,19 +13635,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 877327,
 		},
-		["Ghrino Vest of the Quickblade"] = {
-			["mr"] = 25942588,
-			["cc"] = 4,
-			["id"] = "36141:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 25942588,
-		},
 		["Bladefist Broadaxe of the Quickblade"] = {
 			["mr"] = 17138302,
 			["cc"] = 2,
 			["id"] = "55296:0:0:0:1677",
 			["sc"] = 1,
 			["H3169"] = 17138302,
+		},
+		["Webspinner Cord of the Quickblade"] = {
+			["mr"] = 788160,
+			["cc"] = 4,
+			["L3169"] = 788160,
+			["id"] = "36163:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 10000000,
 		},
 		["Abyssal Gulper Eel Bait"] = {
 			["mr"] = 1469999,
@@ -13692,12 +13696,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 10001733,
 		},
-		["Truesteel Pauldrons of the Quickblade"] = {
-			["mr"] = 99990000,
+		["Clay Ring of the Quickblade"] = {
+			["mr"] = 20954244,
 			["cc"] = 4,
-			["id"] = "114231:0:1:0:99",
-			["sc"] = 4,
-			["H3169"] = 99990000,
+			["id"] = "11993:0:0:0:1678",
+			["sc"] = 0,
+			["H3169"] = 20954244,
 		},
 		["Forgotten Peacekeeper Gauntlets of the Quickblade"] = {
 			["mr"] = 61377803,
@@ -13714,12 +13718,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 9415657,
 		},
-		["Clay Ring of the Quickblade"] = {
-			["mr"] = 20954244,
+		["Vital Cape of the Quickblade"] = {
+			["mr"] = 25848385,
 			["cc"] = 4,
-			["id"] = "11993:0:0:0:1678",
-			["sc"] = 0,
-			["H3169"] = 20954244,
+			["id"] = "14210:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 25848385,
 		},
 		["Talonguard Gloves of the Quickblade"] = {
 			["mr"] = 191557475,
@@ -13772,20 +13776,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1250000,
 		},
-		["Warlord's Iron-Epaulets of the Quickblade"] = {
-			["mr"] = 8661385,
-			["cc"] = 4,
-			["id"] = "25028:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 8661385,
-		},
-		["Supreme Sash of the Quickblade"] = {
-			["mr"] = 5712288,
-			["cc"] = 4,
-			["id"] = "15434:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 5712288,
-		},
 		["Potent Armor of the Quickblade"] = {
 			["mr"] = 27407668,
 			["cc"] = 4,
@@ -13793,6 +13783,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15170:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 36202869,
+		},
+		["Supreme Sash of the Quickblade"] = {
+			["mr"] = 5712288,
+			["cc"] = 4,
+			["id"] = "15434:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 5712288,
 		},
 		["Royal Blouse of the Quickblade"] = {
 			["mr"] = 53008892,
@@ -13829,13 +13826,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154688:0:0:0:1696",
 			["sc"] = 1,
 		},
-		["Crafted Malevolent Gladiator's Linked Gauntlets"] = {
-			["mr"] = 53108719,
-			["cc"] = 4,
-			["id"] = "98900:0:0:0:0",
-			["sc"] = 3,
-			["H3178"] = 53108719,
-		},
 		["Sparkleshell Sabatons of the Quickblade"] = {
 			["mr"] = 65172597,
 			["cc"] = 4,
@@ -13843,12 +13833,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 65172597,
 		},
-		["Grilled Catfish"] = {
-			["mr"] = 15000,
-			["sc"] = 5,
-			["id"] = "154889:0:0:0:0",
-			["H3017"] = 15000,
-			["cc"] = 0,
+		["Crafted Malevolent Gladiator's Linked Gauntlets"] = {
+			["mr"] = 53108719,
+			["cc"] = 4,
+			["id"] = "98900:0:0:0:0",
+			["sc"] = 3,
+			["H3178"] = 53108719,
+		},
+		["Netherstorm Gauntlets of the Quickblade"] = {
+			["mr"] = 2883134,
+			["cc"] = 4,
+			["L3169"] = 2883134,
+			["id"] = "24913:0:0:0:1679",
+			["sc"] = 3,
+			["H3169"] = 5000000,
 		},
 		["Glorious Bindings of the Quickblade"] = {
 			["mr"] = 46592351,
@@ -13856,6 +13854,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14974:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 46592351,
+		},
+		["Grilled Catfish"] = {
+			["mr"] = 15000,
+			["sc"] = 5,
+			["id"] = "154889:0:0:0:0",
+			["H3017"] = 15000,
+			["cc"] = 0,
 		},
 		["Laughing Skull Shoulderpads of the Quickblade"] = {
 			["mr"] = 11672859,
@@ -13886,13 +13891,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 3495355,
 		},
-		["Wolvar Fists of the Quickblade"] = {
-			["mr"] = 91148104,
-			["cc"] = 4,
-			["id"] = "36254:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 91148104,
-		},
 		["Ravencrest Breastplate of the Quickblade"] = {
 			["mr"] = 5281883,
 			["cc"] = 4,
@@ -13907,13 +13905,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 103110996,
 		},
-		["Golem Legplates of the Quickblade"] = {
-			["mr"] = 2486220,
-			["cc"] = 4,
-			["id"] = "36384:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 2486220,
-		},
 		["Ironhide Gauntlets of the Quickblade"] = {
 			["mr"] = 10526216,
 			["cc"] = 4,
@@ -13921,13 +13912,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 10526216,
 		},
-		["Commander's Vambraces of the Quickblade"] = {
-			["mr"] = 7122396,
+		["Golem Legplates of the Quickblade"] = {
+			["mr"] = 2486220,
 			["cc"] = 4,
-			["L3169"] = 7122396,
-			["id"] = "10377:0:0:0:1679",
+			["id"] = "36384:0:0:0:1681",
 			["sc"] = 4,
-			["H3169"] = 15704269,
+			["H3169"] = 2486220,
+		},
+		["Masterwork Girdle of the Quickblade"] = {
+			["mr"] = 3958827,
+			["cc"] = 4,
+			["id"] = "10269:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 3958827,
 		},
 		["Incised Staff of the Quickblade"] = {
 			["mr"] = 3586620,
@@ -13935,6 +13932,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "116537:0:0:0:3875",
 			["sc"] = 10,
 			["H3169"] = 3586620,
+		},
+		["Willow Pants of the Quickblade"] = {
+			["mr"] = 40000,
+			["cc"] = 4,
+			["id"] = "6540:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 40000,
 		},
 		["Rhut'van Pauldrons of the Quickblade"] = {
 			["mr"] = 166481162,
@@ -13957,12 +13961,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 49729618,
 		},
-		["Willow Pants of the Quickblade"] = {
-			["mr"] = 40000,
+		["Sinister Combatant's Plate Greaves of the Quickblade"] = {
+			["mr"] = 69999999,
 			["cc"] = 4,
-			["id"] = "6540:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 40000,
+			["id"] = "164655:0:0:0:1676",
+			["sc"] = 4,
+			["H3169"] = 69999999,
 		},
 		["Wyrmskull Legplates of the Quickblade"] = {
 			["mr"] = 49406478,
@@ -13985,12 +13989,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 51798270,
 		},
-		["Sinister Combatant's Plate Greaves of the Quickblade"] = {
-			["mr"] = 69999999,
+		["Honorable Combatant's Plate Greaves of the Quickblade"] = {
+			["mr"] = 50000000,
 			["cc"] = 4,
-			["id"] = "164655:0:0:0:1676",
+			["id"] = "159863:0:0:0:1682",
 			["sc"] = 4,
-			["H3169"] = 69999999,
+			["H3169"] = 50000000,
 		},
 		["Bejeweled Cloak of the Quickblade"] = {
 			["mr"] = 8763377,
@@ -14034,12 +14038,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6000047,
 		},
-		["Honorable Combatant's Plate Greaves of the Quickblade"] = {
-			["mr"] = 50000000,
+		["Bonelink Belt of the Quickblade"] = {
+			["mr"] = 19446356,
 			["cc"] = 4,
-			["id"] = "159863:0:0:0:1682",
-			["sc"] = 4,
-			["H3169"] = 50000000,
+			["id"] = "15613:0:0:0:1681",
+			["sc"] = 3,
+			["H3178"] = 19446356,
 		},
 		["Bonecaster's Sarong of the Quickblade"] = {
 			["mr"] = 6152061,
@@ -14047,13 +14051,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14305:0:0:0:1681",
 			["sc"] = 1,
 			["H3169"] = 6152061,
-		},
-		["Bonelink Belt of the Quickblade"] = {
-			["mr"] = 19446356,
-			["cc"] = 4,
-			["id"] = "15613:0:0:0:1681",
-			["sc"] = 3,
-			["H3178"] = 19446356,
 		},
 		["Willow Legguards of the Quickblade"] = {
 			["mr"] = 81201138,
@@ -14070,19 +14067,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 19747102,
 		},
+		["Bloodfist Epaulets of the Quickblade"] = {
+			["mr"] = 2662925,
+			["cc"] = 4,
+			["id"] = "25004:0:0:0:3850",
+			["sc"] = 4,
+			["H3169"] = 2662925,
+		},
 		["Soldier's Boots of the Quickblade"] = {
 			["mr"] = 4628790,
 			["cc"] = 4,
 			["id"] = "6551:0:0:0:1680",
 			["sc"] = 3,
 			["H3169"] = 4628790,
-		},
-		["Resplendent Tunic of the Quickblade"] = {
-			["mr"] = 41969252,
-			["cc"] = 4,
-			["id"] = "14318:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 41969252,
 		},
 		["Marshcreeper Sludgeboots of the Quickblade"] = {
 			["mr"] = 8001386,
@@ -14105,6 +14102,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 2115979,
 		},
+		["Brutehammer of the Quickblade"] = {
+			["mr"] = 4370061,
+			["cc"] = 2,
+			["id"] = "15267:0:0:0:1680",
+			["sc"] = 5,
+			["H3169"] = 4370061,
+		},
 		["Fireheart Girdle of the Quickblade"] = {
 			["mr"] = 24718661,
 			["cc"] = 4,
@@ -14126,13 +14130,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 60882415,
 		},
-		["Bladefist Spear of the Quickblade"] = {
-			["mr"] = 23104219,
-			["cc"] = 2,
-			["id"] = "55413:0:0:0:1680",
-			["sc"] = 6,
-			["H3169"] = 23104219,
-		},
 		["Azurewing Pendant of the Quickblade"] = {
 			["mr"] = 25453052,
 			["cc"] = 4,
@@ -14147,6 +14144,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 8951323,
 		},
+		["Champion's Wall Shield of the Quickblade"] = {
+			["mr"] = 2928028,
+			["cc"] = 4,
+			["id"] = "7536:0:0:0:1681",
+			["sc"] = 6,
+			["H3169"] = 2928028,
+		},
 		["Zangari Shield of the Quickblade"] = {
 			["mr"] = 18958991,
 			["cc"] = 4,
@@ -14154,13 +14158,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 18958991,
 		},
-		["Celestial Kilt of the Quickblade"] = {
-			["mr"] = 7119721,
+		["Exalted Girdle of the Quickblade"] = {
+			["mr"] = 4819305,
 			["cc"] = 4,
-			["L3169"] = 7119721,
-			["id"] = "14315:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 8107227,
+			["id"] = "14977:0:0:0:1677",
+			["sc"] = 4,
+			["H3169"] = 4819305,
 		},
 		["Recipe: Golden Fish Sticks"] = {
 			["mr"] = 550000,
@@ -14169,12 +14172,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 550000,
 			["cc"] = 9,
 		},
-		["Exalted Girdle of the Quickblade"] = {
-			["mr"] = 4819305,
+		["Opulent Boots of the Quickblade"] = {
+			["mr"] = 8025459,
 			["cc"] = 4,
-			["id"] = "14977:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 4819305,
+			["id"] = "14285:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 8025459,
 		},
 		["Lord's Breastplate of the Quickblade"] = {
 			["mr"] = 5926400,
@@ -14205,20 +14208,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 31422208,
 		},
-		["Opulent Boots of the Quickblade"] = {
-			["mr"] = 8025459,
-			["cc"] = 4,
-			["id"] = "14285:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 8025459,
-		},
-		["Creeperclaw Hammer of the Quickblade"] = {
-			["mr"] = 3600948,
-			["cc"] = 2,
-			["id"] = "116518:0:0:0:3875",
-			["sc"] = 5,
-			["H3169"] = 3600948,
-		},
 		["Tidespray Linen Belt of the Peerless"] = {
 			["mr"] = 19838454,
 			["cc"] = 4,
@@ -14227,12 +14216,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["L3012"] = 19838454,
 		},
-		["Wolverine Gloves of the Quickblade"] = {
-			["mr"] = 6452921,
-			["cc"] = 4,
-			["id"] = "36134:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 6452921,
+		["Creeperclaw Hammer of the Quickblade"] = {
+			["mr"] = 3600948,
+			["cc"] = 2,
+			["id"] = "116518:0:0:0:3875",
+			["sc"] = 5,
+			["H3169"] = 3600948,
 		},
 		["Frostlink Greaves of the Peerless"] = {
 			["mr"] = 499739279,
@@ -14241,6 +14230,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 499739279,
 		},
+		["Wolverine Gloves of the Quickblade"] = {
+			["mr"] = 6452921,
+			["cc"] = 4,
+			["id"] = "36134:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 6452921,
+		},
+		["Darkcrest Belt of the Quickblade"] = {
+			["mr"] = 18928037,
+			["cc"] = 4,
+			["id"] = "24934:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 18928037,
+		},
 		["Impenetrable Bindings of the Quickblade"] = {
 			["mr"] = 15265038,
 			["cc"] = 4,
@@ -14248,12 +14251,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 15265038,
 		},
-		["Felwort"] = {
-			["mr"] = 3414938,
-			["cc"] = 7,
-			["id"] = "124106:0:0:0:0",
-			["sc"] = 9,
-			["H3068"] = 3414938,
+		["Darkbrand Chestguard of the Quickblade"] = {
+			["mr"] = 34191145,
+			["cc"] = 4,
+			["id"] = "56509:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 34191145,
 		},
 		["Mystical Belt of the Quickblade"] = {
 			["mr"] = 8023134,
@@ -14261,13 +14264,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10180:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 8023134,
-		},
-		["Screaming Shield of the Quickblade"] = {
-			["mr"] = 11563087,
-			["cc"] = 4,
-			["id"] = "25076:0:0:0:1677",
-			["sc"] = 6,
-			["H3169"] = 11563087,
 		},
 		["Engraved Staff of the Quickblade"] = {
 			["mr"] = 2812955,
@@ -14284,19 +14280,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3162"] = 12459999,
 		},
-		["Ranger Helm of the Quickblade"] = {
-			["mr"] = 13384647,
+		["Screaming Shield of the Quickblade"] = {
+			["mr"] = 11563087,
 			["cc"] = 4,
-			["id"] = "7479:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 13384647,
-		},
-		["Quick Lionseye"] = {
-			["mr"] = 8010000,
-			["cc"] = 3,
-			["id"] = "35761:0:0:0:0",
-			["sc"] = 7,
-			["H3169"] = 8010000,
+			["id"] = "25076:0:0:0:1677",
+			["sc"] = 6,
+			["H3169"] = 11563087,
 		},
 		["Dreghood Cowl of the Quickblade"] = {
 			["mr"] = 10541191,
@@ -14305,12 +14294,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 10541191,
 		},
-		["Evermorn Wand of the Quickblade"] = {
-			["mr"] = 3684288,
-			["cc"] = 2,
-			["id"] = "116524:0:0:0:3875",
-			["sc"] = 19,
-			["H3169"] = 3684288,
+		["Quick Lionseye"] = {
+			["mr"] = 8010000,
+			["cc"] = 3,
+			["id"] = "35761:0:0:0:0",
+			["sc"] = 7,
+			["H3169"] = 8010000,
 		},
 		["Enormous Abyssal Gulper Eel"] = {
 			["mr"] = 179949,
@@ -14319,6 +14308,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3162"] = 179949,
 		},
+		["Evermorn Wand of the Quickblade"] = {
+			["mr"] = 3684288,
+			["cc"] = 2,
+			["id"] = "116524:0:0:0:3875",
+			["sc"] = 19,
+			["H3169"] = 3684288,
+		},
 		["Elegant Boots of the Quickblade"] = {
 			["mr"] = 3000000,
 			["cc"] = 4,
@@ -14326,6 +14322,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10211:0:0:0:1681",
 			["sc"] = 1,
 			["H3169"] = 6326425,
+		},
+		["Deepforge Broadaxe of the Quickblade"] = {
+			["mr"] = 11125421,
+			["cc"] = 2,
+			["L3169"] = 11125421,
+			["id"] = "25225:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 11125422,
 		},
 		["Nocturnal Shoulder Pads of the Quickblade"] = {
 			["mr"] = 36042773,
@@ -14341,13 +14345,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 7789606,
 		},
-		["Deepforge Broadaxe of the Quickblade"] = {
-			["mr"] = 11125421,
+		["Nobles Brand of the Quickblade"] = {
+			["mr"] = 1474920,
 			["cc"] = 2,
-			["L3169"] = 11125421,
-			["id"] = "25225:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 11125422,
+			["id"] = "15214:0:0:0:1679",
+			["sc"] = 7,
+			["H3169"] = 1474920,
 		},
 		["Mistmantle Wristwraps of the Quickblade"] = {
 			["mr"] = 90745385,
@@ -14356,12 +14359,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 90745385,
 		},
-		["Nobles Brand of the Quickblade"] = {
-			["mr"] = 1474920,
-			["cc"] = 2,
-			["id"] = "15214:0:0:0:1679",
-			["sc"] = 7,
-			["H3169"] = 1474920,
+		["Enchant Ring - Binding of Critical Strike"] = {
+			["mr"] = 11980000,
+			["cc"] = 8,
+			["id"] = "128541:0:0:0:0",
+			["sc"] = 10,
+			["H3162"] = 11980000,
 		},
 		["Opulent Bracers of the Quickblade"] = {
 			["mr"] = 1520000,
@@ -14370,19 +14373,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1520000,
 		},
-		["Enchant Ring - Binding of Critical Strike"] = {
-			["mr"] = 11980000,
-			["cc"] = 8,
-			["id"] = "128541:0:0:0:0",
-			["sc"] = 10,
-			["H3162"] = 11980000,
-		},
 		["Caribou Vest of the Quickblade"] = {
 			["mr"] = 100000000,
 			["cc"] = 4,
 			["id"] = "36101:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 100000000,
+		},
+		["Praetorian Cloak of the Quickblade"] = {
+			["mr"] = 11062559,
+			["cc"] = 4,
+			["id"] = "15183:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 11062559,
 		},
 		["Direforge Pauldrons of the Quickblade"] = {
 			["mr"] = 17883640,
@@ -14421,12 +14424,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2804406,
 		},
-		["Ironcrest Baton of the Quickblade"] = {
-			["mr"] = 4409999,
-			["cc"] = 2,
-			["id"] = "159605:0:0:0:4796",
-			["sc"] = 19,
-			["H3169"] = 4409999,
+		["Gul'rok Pauldrons of the Quickblade"] = {
+			["mr"] = 2066868,
+			["cc"] = 4,
+			["id"] = "106527:0:0:0:3855",
+			["sc"] = 4,
+			["H3169"] = 2066868,
 		},
 		["Beaded Wraps of the Quickblade"] = {
 			["mr"] = 221746861,
@@ -14435,19 +14438,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 221746861,
 		},
-		["Gul'rok Pauldrons of the Quickblade"] = {
-			["mr"] = 2066868,
-			["cc"] = 4,
-			["id"] = "106527:0:0:0:3855",
-			["sc"] = 4,
-			["H3169"] = 2066868,
-		},
 		["Corlain Spaulders of the Quickblade"] = {
 			["mr"] = 31816758,
 			["cc"] = 4,
 			["id"] = "154845:0:0:0:4796",
 			["sc"] = 4,
 			["H3169"] = 31816758,
+		},
+		["Tidespray Linen Net"] = {
+			["mr"] = 1763112,
+			["cc"] = 0,
+			["H3012"] = 1763112,
+			["id"] = "159791:0:0:0:0",
+			["sc"] = 8,
 		},
 		["Regal Robe of the Quickblade"] = {
 			["mr"] = 21277595,
@@ -14478,13 +14481,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 9199790,
 		},
-		["Tidespray Linen Net"] = {
-			["mr"] = 1763112,
-			["cc"] = 0,
-			["H3012"] = 1763112,
-			["id"] = "159791:0:0:0:0",
-			["sc"] = 8,
-		},
 		["Kraken Gauntlets of the Quickblade"] = {
 			["mr"] = 6913300,
 			["cc"] = 4,
@@ -14493,13 +14489,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6983132,
 		},
-		["Ironspine Belt of the Quickblade"] = {
-			["mr"] = 8380022,
-			["cc"] = 4,
-			["id"] = "24870:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 8380022,
-		},
 		["Planate Broadaxe of the Quickblade"] = {
 			["mr"] = 16087962,
 			["cc"] = 2,
@@ -14507,12 +14496,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 16087962,
 		},
-		["Coldscale Rod of the Quickblade"] = {
-			["mr"] = 4792898,
+		["Ironspine Belt of the Quickblade"] = {
+			["mr"] = 8380022,
+			["cc"] = 4,
+			["id"] = "24870:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 8380022,
+		},
+		["Inscribed Vessel of Mysticism of the Quickblade"] = {
+			["mr"] = 350112642,
+			["cc"] = 4,
+			["id"] = "153643:0:0:0:1677",
+			["sc"] = 0,
+			["H3169"] = 350112642,
+		},
+		["Hateful Bludgeon of the Quickblade"] = {
+			["mr"] = 23972705,
 			["cc"] = 2,
-			["id"] = "159604:0:0:0:4796",
-			["sc"] = 19,
-			["H3169"] = 4792898,
+			["id"] = "25131:0:0:0:1680",
+			["sc"] = 5,
+			["H3169"] = 23972705,
 		},
 		["Sinister Combatant's Mail Armguards of the Quickblade"] = {
 			["mr"] = 35427715,
@@ -14521,12 +14524,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 35427715,
 		},
-		["Hateful Bludgeon of the Quickblade"] = {
-			["mr"] = 23972705,
-			["cc"] = 2,
-			["id"] = "25131:0:0:0:1680",
-			["sc"] = 5,
-			["H3169"] = 23972705,
+		["Coarse Leather Waistguard of the Harmonious"] = {
+			["mr"] = 2000000,
+			["cc"] = 4,
+			["L3016"] = 2000000,
+			["id"] = "154144:0:0:0:1712",
+			["sc"] = 2,
+			["H3016"] = 2004194,
 		},
 		["Ebon Scimitar of the Quickblade"] = {
 			["mr"] = 3133428,
@@ -14550,13 +14554,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 9173799,
 		},
-		["Coarse Leather Waistguard of the Harmonious"] = {
-			["mr"] = 2000000,
+		["Shadow Council Orb of the Quickblade"] = {
+			["mr"] = 2691955,
 			["cc"] = 4,
-			["L3016"] = 2000000,
-			["id"] = "154144:0:0:0:1712",
-			["sc"] = 2,
-			["H3016"] = 2004194,
+			["id"] = "25093:0:0:0:1677",
+			["sc"] = 0,
+			["H3169"] = 2691955,
 		},
 		["Sparkleshell Bracers of the Quickblade"] = {
 			["mr"] = 28700086,
@@ -14614,13 +14617,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["id"] = "168652:0:0:0:0",
 		},
-		["Netherstorm Shoulderguards of the Quickblade"] = {
-			["mr"] = 2232267,
-			["cc"] = 4,
-			["id"] = "24916:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 2232267,
-		},
 		["Skeletal Broadsword of the Quickblade"] = {
 			["mr"] = 52000017,
 			["cc"] = 2,
@@ -14628,19 +14624,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 52000017,
 		},
-		["Master's Leggings of the Quickblade"] = {
-			["mr"] = 274639,
-			["cc"] = 4,
-			["id"] = "10252:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 274639,
-		},
 		["Greater Scythe of the Quickblade"] = {
 			["mr"] = 3898446,
 			["cc"] = 2,
 			["id"] = "15234:0:0:0:1677",
 			["sc"] = 0,
 			["H3169"] = 3898446,
+		},
+		["Master's Leggings of the Quickblade"] = {
+			["mr"] = 274639,
+			["cc"] = 4,
+			["id"] = "10252:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 274639,
 		},
 		["Vindicator Gloves of the Quickblade"] = {
 			["mr"] = 10760490,
@@ -14650,6 +14646,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 12342530,
 		},
+		["Ashvane Company Cloak of the Quickblade"] = {
+			["mr"] = 3497500,
+			["cc"] = 4,
+			["id"] = "159230:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 3497500,
+		},
 		["Embossed Plate Armor of the Quickblade"] = {
 			["mr"] = 15679439,
 			["cc"] = 4,
@@ -14657,12 +14660,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 15679439,
 		},
-		["Felwort Seed"] = {
-			["mr"] = 11000000,
-			["sc"] = 9,
-			["id"] = "129289:0:0:0:0",
-			["cc"] = 7,
-			["H3068"] = 11000000,
+		["Enchant Cloak - Superior Critical Strike"] = {
+			["mr"] = 7029998,
+			["cc"] = 8,
+			["id"] = "74713:0:0:0:0",
+			["sc"] = 3,
+			["H3162"] = 7029998,
 		},
 		["Magnificent Leggings of the Quickblade"] = {
 			["mr"] = 10751615,
@@ -14678,13 +14681,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1171785,
 		},
-		["Enchant Cloak - Superior Critical Strike"] = {
-			["mr"] = 7029998,
-			["cc"] = 8,
-			["id"] = "74713:0:0:0:0",
-			["sc"] = 3,
-			["H3162"] = 7029998,
-		},
 		["Scouting Bracers of the Quickblade"] = {
 			["mr"] = 2219437,
 			["cc"] = 4,
@@ -14698,6 +14694,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10391:0:0:0:1679",
 			["sc"] = 4,
 			["H3169"] = 1694755,
+		},
+		["Talonguard Epaulets of the Quickblade"] = {
+			["mr"] = 26361384,
+			["cc"] = 4,
+			["id"] = "24972:0:0:0:3850",
+			["sc"] = 4,
+			["H3169"] = 26361384,
 		},
 		["Golden Fleet Mojo Charm of the Quickblade"] = {
 			["mr"] = 5010000,
@@ -14713,12 +14716,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 75320316,
 		},
-		["Talonguard Epaulets of the Quickblade"] = {
-			["mr"] = 26361384,
+		["Reefwalker Handlers of the Quickblade"] = {
+			["mr"] = 29220000,
 			["cc"] = 4,
-			["id"] = "24972:0:0:0:3850",
-			["sc"] = 4,
-			["H3169"] = 26361384,
+			["id"] = "169415:0:0:0:4796",
+			["sc"] = 3,
+			["H3169"] = 29220000,
 		},
 		["Disciple's Stein of the Quickblade"] = {
 			["mr"] = 4877592,
@@ -14727,12 +14730,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 4877592,
 		},
-		["Darkmist Boots of the Quickblade"] = {
-			["mr"] = 1532538,
+		["Celestial Slippers of the Quickblade"] = {
+			["mr"] = 4789830,
 			["cc"] = 4,
-			["id"] = "14238:0:0:0:1680",
+			["L3169"] = 4789830,
+			["id"] = "14310:0:0:0:1678",
 			["sc"] = 1,
-			["H3169"] = 1532538,
+			["H3169"] = 4789831,
 		},
 		["Warpscale Bracers of the Quickblade"] = {
 			["mr"] = 4305874,
@@ -14756,13 +14760,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 6142672,
 		},
-		["Celestial Slippers of the Quickblade"] = {
-			["mr"] = 4789830,
+		["Impenetrable Sabatons of the Quickblade"] = {
+			["mr"] = 26020997,
 			["cc"] = 4,
-			["L3169"] = 4789830,
-			["id"] = "14310:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 4789831,
+			["id"] = "15658:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 26020997,
 		},
 		["Magnificent Greaves of the Quickblade"] = {
 			["mr"] = 1211900,
@@ -14793,12 +14796,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 27997828,
 		},
-		["Nightshade Armguards of the Quickblade"] = {
-			["mr"] = 6702827,
+		["Quicksilver Ring of the Aurora"] = {
+			["mr"] = 12777039,
 			["cc"] = 4,
-			["id"] = "10223:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 6702827,
+			["L3169"] = 12777038,
+			["id"] = "11991:0:0:0:1705",
+			["sc"] = 0,
+			["H3169"] = 12777039,
 		},
 		["Heroic Armor of the Quickblade"] = {
 			["mr"] = 11143745,
@@ -14807,13 +14811,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 11143745,
 		},
-		["Quicksilver Ring of the Aurora"] = {
-			["mr"] = 12777039,
+		["Talondeep Legguards of the Quickblade"] = {
+			["mr"] = 6226903,
 			["cc"] = 4,
-			["L3169"] = 12777038,
-			["id"] = "11991:0:0:0:1705",
-			["sc"] = 0,
-			["H3169"] = 12777039,
+			["id"] = "55612:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 6226903,
 		},
 		["Soulkeeper Amulet of the Quickblade"] = {
 			["mr"] = 1206228,
@@ -14829,12 +14832,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 31905681,
 		},
-		["Ancestral Spellblade of the Quickblade"] = {
-			["mr"] = 15459599,
-			["cc"] = 2,
-			["id"] = "116615:0:0:0:3875",
-			["sc"] = 15,
-			["H3169"] = 15459599,
+		["Coarse Leather Pauldrons of the Fireflash"] = {
+			["mr"] = 1000000,
+			["cc"] = 4,
+			["id"] = "154143:0:0:0:1693",
+			["sc"] = 2,
+			["H3016"] = 1000000,
 		},
 		["Knight's Headguard of the Quickblade"] = {
 			["mr"] = 18230558,
@@ -14850,12 +14853,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 6037129,
 		},
-		["Coarse Leather Pauldrons of the Fireflash"] = {
-			["mr"] = 1000000,
-			["cc"] = 4,
-			["id"] = "154143:0:0:0:1693",
-			["sc"] = 2,
-			["H3016"] = 1000000,
+		["Ancestral Spellblade of the Quickblade"] = {
+			["mr"] = 15459599,
+			["cc"] = 2,
+			["id"] = "116615:0:0:0:3875",
+			["sc"] = 15,
+			["H3169"] = 15459599,
 		},
 		["Netherstorm Chestpiece of the Quickblade"] = {
 			["mr"] = 2227230,
@@ -14865,12 +14868,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2520750,
 		},
-		["Infantry Tunic of the Quickblade"] = {
-			["mr"] = 7873300,
-			["cc"] = 4,
-			["id"] = "6336:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 7873300,
+		["Rune Sword of the Quickblade"] = {
+			["mr"] = 7276650,
+			["cc"] = 2,
+			["id"] = "15216:0:0:0:1680",
+			["sc"] = 7,
+			["H3169"] = 7276650,
 		},
 		["Ulduar Gauntlets of the Quickblade"] = {
 			["mr"] = 3214188,
@@ -14879,19 +14882,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 3214188,
 		},
-		["Rune Sword of the Quickblade"] = {
-			["mr"] = 7276650,
-			["cc"] = 2,
-			["id"] = "15216:0:0:0:1680",
-			["sc"] = 7,
-			["H3169"] = 7276650,
-		},
-		["Deeptide Gloves of the Quickblade"] = {
-			["mr"] = 2269575,
+		["Bonepicker Handguards of the Quickblade"] = {
+			["mr"] = 169219306,
 			["cc"] = 4,
-			["id"] = "169399:0:0:0:4796",
-			["sc"] = 1,
-			["H3169"] = 2269575,
+			["id"] = "160173:0:0:0:4796",
+			["sc"] = 3,
+			["H3169"] = 169219306,
+		},
+		["Howling Greatsword of the Quickblade"] = {
+			["mr"] = 33537532,
+			["cc"] = 2,
+			["id"] = "116642:0:0:0:94",
+			["sc"] = 8,
+			["H3169"] = 33537532,
 		},
 		["Harpy Needler of the Quickblade"] = {
 			["mr"] = 368796,
@@ -14908,12 +14911,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 9093368,
 		},
-		["Howling Greatsword of the Quickblade"] = {
-			["mr"] = 33537532,
-			["cc"] = 2,
-			["id"] = "116642:0:0:0:94",
-			["sc"] = 8,
-			["H3169"] = 33537532,
+		["Ghost-Forged Bracers of the Quickblade"] = {
+			["mr"] = 18774604,
+			["cc"] = 4,
+			["id"] = "82908:0:0:0:1679",
+			["sc"] = 4,
+			["H3169"] = 18774604,
 		},
 		["Abyssal Mail Greaves of the Fireflash"] = {
 			["mr"] = 105755266,
@@ -14964,12 +14967,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1289993,
 		},
-		["Tidespray Linen Mittens of the Feverflare"] = {
-			["mr"] = 32509987,
+		["Masterwork Circlet of the Quickblade"] = {
+			["mr"] = 5625297,
 			["cc"] = 4,
-			["H3012"] = 32509987,
-			["id"] = "154687:0:0:0:1699",
-			["sc"] = 1,
+			["id"] = "10272:0:0:0:1679",
+			["sc"] = 3,
+			["H3169"] = 5625297,
 		},
 		["Shimmerscale Pauldrons of the Fireflash"] = {
 			["mr"] = 4999996,
@@ -14978,12 +14981,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 4999996,
 		},
-		["Masterwork Circlet of the Quickblade"] = {
-			["mr"] = 5625297,
+		["Baradin Handwraps of the Quickblade"] = {
+			["mr"] = 7978079,
 			["cc"] = 4,
-			["id"] = "10272:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 5625297,
+			["id"] = "55733:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 7978079,
 		},
 		["Geist Legguards of the Quickblade"] = {
 			["mr"] = 7500000,
@@ -14999,20 +15002,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 3073212,
 		},
-		["Baradin Handwraps of the Quickblade"] = {
-			["mr"] = 7978079,
-			["cc"] = 4,
-			["id"] = "55733:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 7978079,
-		},
-		["Irontree Mace of the Quickblade"] = {
-			["mr"] = 3006930,
+		["Voulge Blade of the Quickblade"] = {
+			["mr"] = 290543019,
 			["cc"] = 2,
-			["L3169"] = 3006930,
-			["id"] = "55387:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 3006931,
+			["id"] = "25230:0:0:0:1677",
+			["sc"] = 6,
+			["H3169"] = 290543019,
 		},
 		["Ironhide Legguards of the Quickblade"] = {
 			["mr"] = 178678714,
@@ -15020,6 +15015,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15646:0:0:0:1678",
 			["sc"] = 3,
 			["H3169"] = 178678714,
+		},
+		["Gigantic War Axe of the Quickblade"] = {
+			["mr"] = 2221755,
+			["cc"] = 2,
+			["id"] = "15270:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 2221755,
 		},
 		["Supreme Gloves of the Quickblade"] = {
 			["mr"] = 11013748,
@@ -15035,26 +15037,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 34517808,
 		},
-		["Gigantic War Axe of the Quickblade"] = {
-			["mr"] = 2221755,
-			["cc"] = 2,
-			["id"] = "15270:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 2221755,
-		},
 		["Leystone Waistguard of the Quickblade"] = {
 			["mr"] = 14999998,
 			["cc"] = 4,
 			["id"] = "123897:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 14999998,
-		},
-		["Shardback Vambraces of the Quickblade"] = {
-			["mr"] = 1581580,
-			["cc"] = 4,
-			["id"] = "106497:0:0:0:3854",
-			["sc"] = 4,
-			["H3169"] = 1581580,
 		},
 		["Sodalite Band of the Quickblade"] = {
 			["mr"] = 1057614,
@@ -15063,6 +15051,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25054:0:0:0:3850",
 			["sc"] = 0,
 			["H3169"] = 1057614,
+		},
+		["Shardback Vambraces of the Quickblade"] = {
+			["mr"] = 1581580,
+			["cc"] = 4,
+			["id"] = "106497:0:0:0:3854",
+			["sc"] = 4,
+			["H3169"] = 1581580,
+		},
+		["Bloated Bloodfeaster"] = {
+			["mr"] = 620009998,
+			["sc"] = 0,
+			["id"] = "2476:1",
+			["H3017"] = 620009998,
+			["cc"] = 17,
 		},
 		["Royal Crusader Sword of the Quickblade"] = {
 			["mr"] = 150000000,
@@ -15085,12 +15087,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 19520833,
 		},
-		["Bloated Bloodfeaster"] = {
-			["mr"] = 620009998,
-			["sc"] = 0,
-			["id"] = "2476:1",
-			["H3017"] = 620009998,
-			["cc"] = 17,
+		["Hrydshal Shoulderpads of the Quickblade"] = {
+			["mr"] = 13131837,
+			["cc"] = 4,
+			["id"] = "121164:0:0:0:1812",
+			["sc"] = 1,
+			["H3169"] = 13131837,
 		},
 		["Hyperion Shield of the Quickblade"] = {
 			["mr"] = 24944385,
@@ -15099,12 +15101,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 24944385,
 		},
-		["Hrydshal Shoulderpads of the Quickblade"] = {
-			["mr"] = 13131837,
+		["Lunar Slippers of the Quickblade"] = {
+			["mr"] = 999999,
 			["cc"] = 4,
-			["id"] = "121164:0:0:0:1812",
+			["L3169"] = 999988,
+			["id"] = "14250:0:0:0:4277",
 			["sc"] = 1,
-			["H3169"] = 13131837,
+			["H3169"] = 14358607,
 		},
 		["Monel-Hardened Stirrups"] = {
 			["mr"] = 12900000,
@@ -15129,20 +15132,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 17855372,
 		},
-		["Lunar Slippers of the Quickblade"] = {
-			["mr"] = 999999,
-			["cc"] = 4,
-			["L3169"] = 999988,
-			["id"] = "14250:0:0:0:4277",
-			["sc"] = 1,
-			["H3169"] = 14358607,
-		},
 		["Netherstalker Armor of the Quickblade"] = {
 			["mr"] = 8857701,
 			["cc"] = 4,
 			["id"] = "24824:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 8857701,
+		},
+		["Wavecrash Wristguards of the Quickblade"] = {
+			["mr"] = 7000000,
+			["cc"] = 4,
+			["id"] = "169429:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 7000000,
 		},
 		["Dream Catcher Bow of the Quickblade"] = {
 			["mr"] = 91380209,
@@ -15187,12 +15189,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 9739315,
 		},
-		["High Chief's Bindings of the Quickblade"] = {
-			["mr"] = 2341862,
+		["Mercurial Legguards of the Quickblade"] = {
+			["mr"] = 8252006,
 			["cc"] = 4,
-			["id"] = "14965:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 2341862,
+			["id"] = "10162:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 8252006,
 		},
 		["Waterfall Handwraps of the Quickblade"] = {
 			["mr"] = 770130,
@@ -15200,13 +15202,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "82251:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 770130,
-		},
-		["Mercurial Legguards of the Quickblade"] = {
-			["mr"] = 8252006,
-			["cc"] = 4,
-			["id"] = "10162:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 8252006,
 		},
 		["Tidespray Linen Pants of the Aurora"] = {
 			["mr"] = 11068400,
@@ -15216,6 +15211,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["L3012"] = 11068400,
 		},
+		["Formidable Legguards of the Quickblade"] = {
+			["mr"] = 48578581,
+			["cc"] = 4,
+			["id"] = "15637:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 48578581,
+		},
 		["Cavalier Two-Hander of the Quickblade"] = {
 			["mr"] = 7292877,
 			["cc"] = 2,
@@ -15223,12 +15225,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 7292877,
 		},
-		["Formidable Legguards of the Quickblade"] = {
-			["mr"] = 48578581,
+		["Voldrune Robe of the Quickblade"] = {
+			["mr"] = 19767168,
 			["cc"] = 4,
-			["id"] = "15637:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 48578581,
+			["id"] = "35997:0:0:0:3849",
+			["sc"] = 1,
+			["H3169"] = 19767168,
 		},
 		["Ornate Drinking Stein"] = {
 			["mr"] = 89442492,
@@ -15237,13 +15239,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3178"] = 89442492,
 		},
-		["Algaz Battle Hammer of the Quickblade"] = {
-			["mr"] = 4241244,
-			["cc"] = 2,
-			["id"] = "25139:0:0:0:1679",
-			["sc"] = 5,
-			["H3169"] = 4241244,
-		},
 		["Direbone Frill Helmet of the Quickblade"] = {
 			["mr"] = 33901117,
 			["cc"] = 4,
@@ -15251,12 +15246,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 33901117,
 		},
-		["Ulduar Breastplate of the Quickblade"] = {
-			["mr"] = 1095462,
+		["Coarse Leather Helm of the Feverflare"] = {
+			["mr"] = 21729527,
 			["cc"] = 4,
-			["id"] = "36269:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 1095462,
+			["id"] = "154141:0:0:0:1701",
+			["sc"] = 2,
+			["H3016"] = 21729527,
 		},
 		["Golem Vambraces of the Quickblade"] = {
 			["mr"] = 8609360,
@@ -15265,13 +15260,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 8609360,
 		},
-		["Ripfang Britches of the Quickblade"] = {
-			["mr"] = 2780928,
-			["cc"] = 4,
-			["id"] = "106599:0:0:0:3855",
-			["sc"] = 2,
-			["H3169"] = 2780928,
-		},
 		["Sparkleshell Shoulder Pads of the Quickblade"] = {
 			["mr"] = 24315492,
 			["cc"] = 4,
@@ -15279,12 +15267,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 24315492,
 		},
+		["Ripfang Britches of the Quickblade"] = {
+			["mr"] = 2780928,
+			["cc"] = 4,
+			["id"] = "106599:0:0:0:3855",
+			["sc"] = 2,
+			["H3169"] = 2780928,
+		},
 		["Scaled Leather Leggings of the Quickblade"] = {
 			["mr"] = 7074170,
 			["cc"] = 4,
 			["id"] = "9833:0:0:0:4277",
 			["sc"] = 2,
 			["H3169"] = 7074170,
+		},
+		["Coarse Leather Helm of the Fireflash"] = {
+			["mr"] = 44479879,
+			["cc"] = 4,
+			["id"] = "154141:0:0:0:1690",
+			["sc"] = 2,
+			["H3016"] = 44479879,
 		},
 		["Ivycloth Robe of the Quickblade"] = {
 			["mr"] = 13299271,
@@ -15329,13 +15331,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 10049649,
 		},
-		["Coarse Leather Helm of the Fireflash"] = {
-			["mr"] = 44479879,
-			["cc"] = 4,
-			["id"] = "154141:0:0:0:1690",
-			["sc"] = 2,
-			["H3016"] = 44479879,
-		},
 		["High Chief's Pauldrons of the Quickblade"] = {
 			["mr"] = 19236363,
 			["cc"] = 4,
@@ -15350,13 +15345,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 7609697,
 		},
-		["Fel-Touched Axe of the Quickblade"] = {
-			["mr"] = 35052908,
-			["cc"] = 2,
-			["id"] = "25213:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 35052908,
-		},
 		["Sunroc Gloves of the Quickblade"] = {
 			["mr"] = 8647296,
 			["cc"] = 4,
@@ -15364,12 +15352,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 8647296,
 		},
-		["Demon-Forged Hauberk of the Quickblade"] = {
-			["mr"] = 25593501,
+		["Fel-Touched Axe of the Quickblade"] = {
+			["mr"] = 35052908,
+			["cc"] = 2,
+			["id"] = "25213:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 35052908,
+		},
+		["Bloodscale Bracers of the Quickblade"] = {
+			["mr"] = 16582920,
 			["cc"] = 4,
-			["id"] = "31170:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 25593501,
+			["id"] = "24949:0:0:0:1679",
+			["sc"] = 4,
+			["H3169"] = 16582920,
+		},
+		["Haldarr Britches of the Quickblade"] = {
+			["mr"] = 16999998,
+			["cc"] = 4,
+			["id"] = "55683:0:0:0:1678",
+			["sc"] = 2,
+			["H3169"] = 16999998,
 		},
 		["Lightning Dagger of the Quickblade"] = {
 			["mr"] = 1194745,
@@ -15385,13 +15387,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 35177019,
 		},
-		["Haldarr Britches of the Quickblade"] = {
-			["mr"] = 16999998,
-			["cc"] = 4,
-			["id"] = "55683:0:0:0:1678",
-			["sc"] = 2,
-			["H3169"] = 16999998,
-		},
 		["Fenclaw Mantle of the Quickblade"] = {
 			["mr"] = 8274410,
 			["cc"] = 4,
@@ -15399,12 +15394,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 8274410,
 		},
-		["Glorious Breastplate of the Quickblade"] = {
-			["mr"] = 54469158,
+		["Siphoning Dagger of the Quickblade"] = {
+			["mr"] = 3476534,
+			["cc"] = 2,
+			["id"] = "25299:0:0:0:1679",
+			["sc"] = 15,
+			["H3169"] = 3476534,
+		},
+		["Nightshade Tunic of the Quickblade"] = {
+			["mr"] = 11085515,
 			["cc"] = 4,
-			["id"] = "14966:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 54469158,
+			["id"] = "10220:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 11085515,
 		},
 		["Ferrous Hammer of the Quickblade"] = {
 			["mr"] = 103012058,
@@ -15413,12 +15415,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 103012058,
 		},
-		["Nightshade Tunic of the Quickblade"] = {
-			["mr"] = 11085515,
-			["cc"] = 4,
-			["id"] = "10220:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 11085515,
+		["Ironcrest Sword of the Quickblade"] = {
+			["mr"] = 15550000,
+			["cc"] = 2,
+			["id"] = "159585:0:0:0:4796",
+			["sc"] = 7,
+			["H3169"] = 15550000,
 		},
 		["Resplendent Bracelets of the Quickblade"] = {
 			["mr"] = 7587815,
@@ -15442,13 +15444,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154687:0:0:0:1690",
 			["sc"] = 1,
 		},
-		["Trapper Knife of the Quickblade"] = {
-			["mr"] = 104437603,
-			["cc"] = 2,
-			["id"] = "36481:0:0:0:1680",
-			["sc"] = 15,
-			["H3169"] = 104437603,
-		},
 		["Monel-Hardened Shanker of the Quickblade"] = {
 			["mr"] = 29989995,
 			["cc"] = 2,
@@ -15463,6 +15458,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3162"] = 1174155,
 		},
+		["Elementalist Gloves of the Quickblade"] = {
+			["mr"] = 2499997,
+			["cc"] = 4,
+			["id"] = "24688:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 2499997,
+		},
 		["Bloodforged Shoulder Pads of the Quickblade"] = {
 			["mr"] = 9989999,
 			["cc"] = 4,
@@ -15470,13 +15472,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14955:0:0:0:1681",
 			["sc"] = 4,
 			["H3169"] = 15507440,
-		},
-		["Elementalist Gloves of the Quickblade"] = {
-			["mr"] = 2499997,
-			["cc"] = 4,
-			["id"] = "24688:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 2499997,
 		},
 		["Majestic Wand of the Quickblade"] = {
 			["mr"] = 4114658,
@@ -15492,6 +15487,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 29637293,
 		},
+		["Coldsnout Hood of the Quickblade"] = {
+			["mr"] = 27689153,
+			["cc"] = 4,
+			["id"] = "106403:0:0:0:3853",
+			["sc"] = 2,
+			["H3169"] = 27689153,
+		},
 		["Sentinel Cap of the Quickblade"] = {
 			["mr"] = 4446431,
 			["cc"] = 4,
@@ -15506,19 +15508,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 10821340,
 		},
-		["Coldsnout Hood of the Quickblade"] = {
-			["mr"] = 27689153,
+		["Pioneer Tunic of the Quickblade"] = {
+			["mr"] = 3431474,
 			["cc"] = 4,
-			["id"] = "106403:0:0:0:3853",
+			["id"] = "6268:0:0:0:1679",
 			["sc"] = 2,
-			["H3169"] = 27689153,
-		},
-		["Phalanx Breastplate of the Fireflash"] = {
-			["mr"] = 12229073,
-			["cc"] = 4,
-			["id"] = "7418:0:0:0:1693",
-			["sc"] = 3,
-			["H3174"] = 12229073,
+			["H3169"] = 3431474,
 		},
 		["Brutish Shoulders of the Quickblade"] = {
 			["mr"] = 34999999,
@@ -15526,6 +15521,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14909:0:0:0:1679",
 			["sc"] = 4,
 			["H3169"] = 34999999,
+		},
+		["Gossamer Cape of the Quickblade"] = {
+			["mr"] = 4381710,
+			["cc"] = 4,
+			["id"] = "7524:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 4381710,
 		},
 		["Thick Scale Legguards of the Quickblade"] = {
 			["mr"] = 2786318,
@@ -15542,12 +15544,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 7850192,
 		},
-		["Hacking Cleaver of the Quickblade"] = {
-			["mr"] = 2116407,
-			["cc"] = 2,
-			["id"] = "15232:0:0:0:1680",
-			["sc"] = 0,
-			["H3169"] = 2116407,
+		["Primal Leggings of the Quickblade"] = {
+			["mr"] = 46093607,
+			["cc"] = 4,
+			["L3169"] = 46093607,
+			["id"] = "15009:0:0:0:3830",
+			["sc"] = 2,
+			["H3169"] = 46093608,
 		},
 		["Barrowknoll Cinch of the Quickblade"] = {
 			["mr"] = 35054015045,
@@ -15556,13 +15559,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 35054015045,
 		},
-		["Primal Leggings of the Quickblade"] = {
-			["mr"] = 46093607,
+		["Bonelink Wall Shield of the Quickblade"] = {
+			["mr"] = 2366017,
 			["cc"] = 4,
-			["L3169"] = 46093607,
-			["id"] = "15009:0:0:0:3830",
-			["sc"] = 2,
-			["H3169"] = 46093608,
+			["id"] = "15618:0:0:0:1681",
+			["sc"] = 6,
+			["H3178"] = 2366017,
 		},
 		["Deviate Fish"] = {
 			["mr"] = 490000,
@@ -15585,12 +15587,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 14149911,
 		},
-		["Bleached Bone Glaive of the Quickblade"] = {
-			["mr"] = 9584288,
-			["cc"] = 2,
-			["id"] = "159508:0:0:0:4796",
-			["sc"] = 9,
-			["H3169"] = 9584288,
+		["Shimmerscale Treads of the Harmonious"] = {
+			["mr"] = 7562267,
+			["cc"] = 4,
+			["id"] = "154147:0:0:0:1711",
+			["sc"] = 3,
+			["H3174"] = 7562267,
 		},
 		["Coldwraith Pants of the Quickblade"] = {
 			["mr"] = 2916033,
@@ -15606,13 +15608,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 22815920,
 		},
-		["Shimmerscale Treads of the Harmonious"] = {
-			["mr"] = 7562267,
-			["cc"] = 4,
-			["id"] = "154147:0:0:0:1711",
-			["sc"] = 3,
-			["H3174"] = 7562267,
-		},
 		["Anvilmar Hammer of the Quickblade"] = {
 			["mr"] = 6599999,
 			["cc"] = 2,
@@ -15620,6 +15615,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25126:0:0:0:1678",
 			["sc"] = 4,
 			["H3169"] = 6600000,
+		},
+		["Packrunner Gauntlets of the Quickblade"] = {
+			["mr"] = 28428606,
+			["cc"] = 4,
+			["id"] = "106747:0:0:0:3854",
+			["sc"] = 3,
+			["H3169"] = 28428606,
 		},
 		["Stonebreaker Shield of the Quickblade"] = {
 			["mr"] = 470389011,
@@ -15635,13 +15637,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 2060338,
 		},
-		["Triumphant Chestpiece of the Quickblade"] = {
-			["mr"] = 72955864,
-			["cc"] = 4,
-			["id"] = "15680:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 72955864,
-		},
 		["Vindicator Cap of the Quickblade"] = {
 			["mr"] = 6212614,
 			["cc"] = 4,
@@ -15655,6 +15650,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154138:0:0:0:1699",
 			["sc"] = 2,
 			["H3016"] = 35336853,
+		},
+		["Pillager's Leggings of the Quickblade"] = {
+			["mr"] = 4636991,
+			["cc"] = 4,
+			["id"] = "15561:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 4636991,
 		},
 		["Talondeep Gauntlets of the Quickblade"] = {
 			["mr"] = 1112401,
@@ -15678,13 +15680,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3016"] = 66898,
 		},
-		["Watcher's Cape of the Quickblade"] = {
-			["mr"] = 82500634,
-			["cc"] = 4,
-			["id"] = "14179:0:0:0:3831",
-			["sc"] = 1,
-			["H3169"] = 82500634,
-		},
 		["Rending Claw of the Quickblade"] = {
 			["mr"] = 21393396,
 			["cc"] = 2,
@@ -15692,6 +15687,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25219:0:0:0:1678",
 			["sc"] = 1,
 			["H3169"] = 22953387,
+		},
+		["Watcher's Cape of the Quickblade"] = {
+			["mr"] = 82500634,
+			["cc"] = 4,
+			["id"] = "14179:0:0:0:3831",
+			["sc"] = 1,
+			["H3169"] = 82500634,
 		},
 		["Battle Star of the Quickblade"] = {
 			["mr"] = 40426313,
@@ -15707,19 +15709,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 987030,
 		},
-		["Pillager's Leggings of the Quickblade"] = {
-			["mr"] = 4636991,
-			["cc"] = 4,
-			["id"] = "15561:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 4636991,
-		},
 		["Reaver Legplates of the Quickblade"] = {
 			["mr"] = 14289995,
 			["cc"] = 4,
 			["id"] = "24979:0:0:0:1678",
 			["sc"] = 4,
 			["H3169"] = 14289995,
+		},
+		["Triumphant Chestpiece of the Quickblade"] = {
+			["mr"] = 72955864,
+			["cc"] = 4,
+			["id"] = "15680:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 72955864,
 		},
 		["Honorable Combatant's Sorcerous Scepter of the Quickblade"] = {
 			["mr"] = 10757075,
@@ -15742,19 +15744,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 9850000,
 		},
-		["Packrunner Gauntlets of the Quickblade"] = {
-			["mr"] = 28428606,
-			["cc"] = 4,
-			["id"] = "106747:0:0:0:3854",
-			["sc"] = 3,
-			["H3169"] = 28428606,
-		},
 		["Simple Britches of the Quickblade"] = {
 			["mr"] = 1702494,
 			["cc"] = 4,
 			["id"] = "9747:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 1702494,
+		},
+		["Bleached Bone Glaive of the Quickblade"] = {
+			["mr"] = 9584288,
+			["cc"] = 2,
+			["id"] = "159508:0:0:0:4796",
+			["sc"] = 9,
+			["H3169"] = 9584288,
 		},
 		["Twilight Belt of the Quickblade"] = {
 			["mr"] = 5287464,
@@ -15777,12 +15779,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154685:0:0:0:1714",
 			["sc"] = 1,
 		},
-		["Bonelink Wall Shield of the Quickblade"] = {
-			["mr"] = 2366017,
-			["cc"] = 4,
-			["id"] = "15618:0:0:0:1681",
-			["sc"] = 6,
-			["H3178"] = 2366017,
+		["Hacking Cleaver of the Quickblade"] = {
+			["mr"] = 2116407,
+			["cc"] = 2,
+			["id"] = "15232:0:0:0:1680",
+			["sc"] = 0,
+			["H3169"] = 2116407,
 		},
 		["Auchenai Hammer of the Quickblade"] = {
 			["mr"] = 3894336,
@@ -15791,12 +15793,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H3169"] = 3894336,
 		},
-		["Gossamer Cape of the Quickblade"] = {
-			["mr"] = 4381710,
+		["Phalanx Breastplate of the Fireflash"] = {
+			["mr"] = 12229073,
 			["cc"] = 4,
-			["id"] = "7524:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 4381710,
+			["id"] = "7418:0:0:0:1693",
+			["sc"] = 3,
+			["H3174"] = 12229073,
 		},
 		["Masterwork Gauntlets of the Quickblade"] = {
 			["mr"] = 4464878,
@@ -15806,13 +15808,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 4464880,
 		},
-		["Pioneer Tunic of the Quickblade"] = {
-			["mr"] = 3431474,
-			["cc"] = 4,
-			["id"] = "6268:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 3431474,
-		},
 		["Tracker's Boots of the Quickblade"] = {
 			["mr"] = 3502938,
 			["cc"] = 4,
@@ -15820,19 +15815,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 3502938,
 		},
-		["Marauder's Cloak of the Quickblade"] = {
-			["mr"] = 22349448,
-			["cc"] = 4,
-			["id"] = "15568:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 22349448,
-		},
 		["Deepwarden Flintlock of the Quickblade"] = {
 			["mr"] = 29768604,
 			["cc"] = 2,
 			["id"] = "159497:0:0:0:4796",
 			["sc"] = 3,
 			["H3169"] = 29768604,
+		},
+		["Marauder's Cloak of the Quickblade"] = {
+			["mr"] = 22349448,
+			["cc"] = 4,
+			["id"] = "15568:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 22349448,
 		},
 		["Banded Leggings of the Quickblade"] = {
 			["mr"] = 15411239,
@@ -15848,19 +15843,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 33002335,
 		},
+		["Trapper Knife of the Quickblade"] = {
+			["mr"] = 104437603,
+			["cc"] = 2,
+			["id"] = "36481:0:0:0:1680",
+			["sc"] = 15,
+			["H3169"] = 104437603,
+		},
 		["Bonecaster's Gloves of the Quickblade"] = {
 			["mr"] = 11463438,
 			["cc"] = 4,
 			["id"] = "14302:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 11463438,
-		},
-		["Ironcrest Sword of the Quickblade"] = {
-			["mr"] = 15550000,
-			["cc"] = 2,
-			["id"] = "159585:0:0:0:4796",
-			["sc"] = 7,
-			["H3169"] = 15550000,
 		},
 		["Regal Armor of the Quickblade"] = {
 			["mr"] = 2323629,
@@ -15869,19 +15864,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 2323629,
 		},
+		["Glorious Breastplate of the Quickblade"] = {
+			["mr"] = 54469158,
+			["cc"] = 4,
+			["id"] = "14966:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 54469158,
+		},
 		["Willow Gauntlets of the Quickblade"] = {
 			["mr"] = 5861341,
 			["cc"] = 4,
 			["id"] = "82133:0:0:0:1678",
 			["sc"] = 3,
 			["H3169"] = 5861341,
-		},
-		["Siphoning Dagger of the Quickblade"] = {
-			["mr"] = 3476534,
-			["cc"] = 2,
-			["id"] = "25299:0:0:0:1679",
-			["sc"] = 15,
-			["H3169"] = 3476534,
 		},
 		["Fargodeep Breastplate of the Quickblade"] = {
 			["mr"] = 10184121,
@@ -15891,6 +15886,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 10184729,
 		},
+		["Demon-Forged Hauberk of the Quickblade"] = {
+			["mr"] = 25593501,
+			["cc"] = 4,
+			["id"] = "31170:0:0:0:1679",
+			["sc"] = 3,
+			["H3169"] = 25593501,
+		},
 		["Raider's Chestpiece of the Quickblade"] = {
 			["mr"] = 2611996,
 			["cc"] = 4,
@@ -15899,26 +15901,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2611997,
 		},
-		["Bloodscale Bracers of the Quickblade"] = {
-			["mr"] = 16582920,
-			["cc"] = 4,
-			["id"] = "24949:0:0:0:1679",
-			["sc"] = 4,
-			["H3169"] = 16582920,
-		},
 		["Reefwalker Coif of the Quickblade"] = {
 			["mr"] = 58956303,
 			["cc"] = 4,
 			["id"] = "169416:0:0:0:4796",
 			["sc"] = 3,
 			["H3169"] = 58956303,
-		},
-		["Cerulean Ring of the Quickblade"] = {
-			["mr"] = 1000000,
-			["cc"] = 4,
-			["id"] = "11985:0:0:0:1681",
-			["sc"] = 0,
-			["H3169"] = 1000000,
 		},
 		["Outlander's Facewrap of the Quickblade"] = {
 			["mr"] = 29349663,
@@ -15927,12 +15915,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 29349663,
 		},
-		["Rivermarsh Juju of the Quickblade"] = {
-			["mr"] = 10446897,
+		["Cerulean Ring of the Quickblade"] = {
+			["mr"] = 1000000,
 			["cc"] = 4,
-			["id"] = "159821:0:0:0:4796",
+			["id"] = "11985:0:0:0:1681",
 			["sc"] = 0,
-			["H3169"] = 10446897,
+			["H3169"] = 1000000,
 		},
 		["Vine Gloves of the Quickblade"] = {
 			["mr"] = 2282557,
@@ -15940,6 +15928,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "82260:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 2282557,
+		},
+		["Rivermarsh Juju of the Quickblade"] = {
+			["mr"] = 10446897,
+			["cc"] = 4,
+			["id"] = "159821:0:0:0:4796",
+			["sc"] = 0,
+			["H3169"] = 10446897,
+		},
+		["Ulduar Breastplate of the Quickblade"] = {
+			["mr"] = 1095462,
+			["cc"] = 4,
+			["id"] = "36269:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 1095462,
 		},
 		["Splicing Axe of the Quickblade"] = {
 			["mr"] = 247461840,
@@ -15955,12 +15957,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1726363,
 		},
-		["Coarse Leather Helm of the Feverflare"] = {
-			["mr"] = 21729527,
-			["cc"] = 4,
-			["id"] = "154141:0:0:0:1701",
-			["sc"] = 2,
-			["H3016"] = 21729527,
+		["Algaz Battle Hammer of the Quickblade"] = {
+			["mr"] = 4241244,
+			["cc"] = 2,
+			["id"] = "25139:0:0:0:1679",
+			["sc"] = 5,
+			["H3169"] = 4241244,
 		},
 		["Imposing Pants of the Quickblade"] = {
 			["mr"] = 18699511,
@@ -15977,19 +15979,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 18601674,
 		},
-		["Voldrune Robe of the Quickblade"] = {
-			["mr"] = 19767168,
-			["cc"] = 4,
-			["id"] = "35997:0:0:0:3849",
-			["sc"] = 1,
-			["H3169"] = 19767168,
-		},
 		["Peerless Cloak of the Quickblade"] = {
 			["mr"] = 22233717,
 			["cc"] = 4,
 			["id"] = "15427:0:0:0:1681",
 			["sc"] = 1,
 			["H3169"] = 22233717,
+		},
+		["High Chief's Bindings of the Quickblade"] = {
+			["mr"] = 2341862,
+			["cc"] = 4,
+			["id"] = "14965:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 2341862,
 		},
 		["Hearty Feast"] = {
 			["mr"] = 2827820,
@@ -16006,12 +16008,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 92403519,
 		},
-		["Wavecrash Wristguards of the Quickblade"] = {
-			["mr"] = 7000000,
-			["cc"] = 4,
-			["id"] = "169429:0:0:0:4796",
-			["sc"] = 4,
-			["H3169"] = 7000000,
+		["Calcified Bone"] = {
+			["mr"] = 49998,
+			["cc"] = 7,
+			["id"] = "154165:0:0:0:0",
+			["H3163"] = 49998,
+			["sc"] = 6,
 		},
 		["Singing Dagger of the Quickblade"] = {
 			["mr"] = 22504282,
@@ -16019,13 +16021,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36679:0:0:0:1681",
 			["sc"] = 15,
 			["H3169"] = 22504282,
-		},
-		["Calcified Bone"] = {
-			["mr"] = 49998,
-			["cc"] = 7,
-			["id"] = "154165:0:0:0:0",
-			["H3163"] = 49998,
-			["sc"] = 6,
 		},
 		["Fenclaw Waistband of the Quickblade"] = {
 			["mr"] = 10215387,
@@ -16042,13 +16037,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 5000000,
 		},
-		["Ornate Circlet of the Quickblade"] = {
-			["mr"] = 11751558,
-			["cc"] = 4,
-			["id"] = "10123:0:0:0:1680",
-			["sc"] = 3,
-			["H3169"] = 11751558,
-		},
 		["Coarse Leather Armguards of the Fireflash"] = {
 			["mr"] = 10997285,
 			["cc"] = 4,
@@ -16057,12 +16045,27 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 11325631,
 		},
+		["Ornate Circlet of the Quickblade"] = {
+			["mr"] = 11751558,
+			["cc"] = 4,
+			["id"] = "10123:0:0:0:1680",
+			["sc"] = 3,
+			["H3169"] = 11751558,
+		},
 		["Sparkleshell Belt of the Quickblade"] = {
 			["mr"] = 3830940,
 			["cc"] = 4,
 			["id"] = "15575:0:0:0:1677",
 			["sc"] = 3,
 			["H3169"] = 3830940,
+		},
+		["Irontree Mace of the Quickblade"] = {
+			["mr"] = 3006930,
+			["cc"] = 2,
+			["L3169"] = 3006930,
+			["id"] = "55387:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 3006931,
 		},
 		["Astralaan Robe of the Quickblade"] = {
 			["mr"] = 23082262,
@@ -16071,19 +16074,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 23082262,
 		},
-		["Voulge Blade of the Quickblade"] = {
-			["mr"] = 290543019,
-			["cc"] = 2,
-			["id"] = "25230:0:0:0:1677",
-			["sc"] = 6,
-			["H3169"] = 290543019,
-		},
 		["Fighter Broadsword of the Quickblade"] = {
 			["mr"] = 3310035,
 			["cc"] = 2,
 			["id"] = "15212:0:0:0:1680",
 			["sc"] = 7,
 			["H3169"] = 3310035,
+		},
+		["Tidespray Linen Mittens of the Feverflare"] = {
+			["mr"] = 32509987,
+			["cc"] = 4,
+			["H3012"] = 32509987,
+			["id"] = "154687:0:0:0:1699",
+			["sc"] = 1,
 		},
 		["Loa-Binder Disc of the Quickblade"] = {
 			["mr"] = 83510638,
@@ -16100,13 +16103,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2863296,
 		},
-		["Ghost-Forged Bracers of the Quickblade"] = {
-			["mr"] = 18774604,
-			["cc"] = 4,
-			["id"] = "82908:0:0:0:1679",
-			["sc"] = 4,
-			["H3169"] = 18774604,
-		},
 		["Cormorant Gloves of the Quickblade"] = {
 			["mr"] = 2000000,
 			["cc"] = 4,
@@ -16115,6 +16111,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 7270788,
 		},
+		["Deeptide Gloves of the Quickblade"] = {
+			["mr"] = 2269575,
+			["cc"] = 4,
+			["id"] = "169399:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 2269575,
+		},
 		["Geomancer's Wraps of the Quickblade"] = {
 			["mr"] = 12922224,
 			["cc"] = 4,
@@ -16122,12 +16125,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 12922224,
 		},
-		["Bonepicker Handguards of the Quickblade"] = {
-			["mr"] = 169219306,
+		["Infantry Tunic of the Quickblade"] = {
+			["mr"] = 7873300,
 			["cc"] = 4,
-			["id"] = "160173:0:0:0:4796",
+			["id"] = "6336:0:0:0:1681",
 			["sc"] = 3,
-			["H3169"] = 169219306,
+			["H3169"] = 7873300,
 		},
 		["Crusader Bow of the Quickblade"] = {
 			["mr"] = 1020366,
@@ -16152,11 +16155,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3169"] = 65087615,
 		},
 		["Osmenite Ore"] = {
-			["mr"] = 448000,
+			["H3189"] = 257000,
 			["cc"] = 7,
 			["id"] = "168185:0:0:0:0",
 			["sc"] = 7,
-			["H3179"] = 448000,
+			["mr"] = 257000,
 		},
 		["Vizier Leggings of the Quickblade"] = {
 			["mr"] = 864976,
@@ -16165,12 +16168,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 864976,
 		},
-		["Talondeep Legguards of the Quickblade"] = {
-			["mr"] = 6226903,
+		["Nightshade Armguards of the Quickblade"] = {
+			["mr"] = 6702827,
 			["cc"] = 4,
-			["id"] = "55612:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 6226903,
+			["id"] = "10223:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 6702827,
 		},
 		["Scavenger's Cloak of the Quickblade"] = {
 			["mr"] = 11829814,
@@ -16179,12 +16182,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 11829814,
 		},
-		["Impenetrable Sabatons of the Quickblade"] = {
-			["mr"] = 26020997,
+		["Darkmist Boots of the Quickblade"] = {
+			["mr"] = 1532538,
 			["cc"] = 4,
-			["id"] = "15658:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 26020997,
+			["id"] = "14238:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 1532538,
 		},
 		["Reefwalker Hauberk of the Quickblade"] = {
 			["mr"] = 19880000,
@@ -16192,13 +16195,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "169413:0:0:0:4796",
 			["sc"] = 3,
 			["H3169"] = 19880000,
-		},
-		["Reefwalker Handlers of the Quickblade"] = {
-			["mr"] = 29220000,
-			["cc"] = 4,
-			["id"] = "169415:0:0:0:4796",
-			["sc"] = 3,
-			["H3169"] = 29220000,
 		},
 		["Raider's Shield of the Quickblade"] = {
 			["mr"] = 14853515,
@@ -16208,13 +16204,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 14853664,
 		},
-		["Der'izu Belt of the Quickblade"] = {
-			["mr"] = 11980442,
-			["cc"] = 4,
-			["id"] = "24878:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 11980442,
-		},
 		["Emerald Pauldrons of the Quickblade"] = {
 			["mr"] = 3655690,
 			["cc"] = 4,
@@ -16222,6 +16211,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10281:0:0:0:4277",
 			["sc"] = 4,
 			["H3169"] = 3655691,
+		},
+		["Der'izu Belt of the Quickblade"] = {
+			["mr"] = 11980442,
+			["cc"] = 4,
+			["id"] = "24878:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 11980442,
+		},
+		["Felwort Seed"] = {
+			["mr"] = 11000000,
+			["sc"] = 9,
+			["id"] = "129289:0:0:0:0",
+			["cc"] = 7,
+			["H3068"] = 11000000,
 		},
 		["Monel-Hardened Greaves of the Quickblade"] = {
 			["mr"] = 33247776,
@@ -16244,19 +16247,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 8138447,
 		},
-		["Ashvane Company Cloak of the Quickblade"] = {
-			["mr"] = 3497500,
-			["cc"] = 4,
-			["id"] = "159230:0:0:0:4796",
-			["sc"] = 1,
-			["H3169"] = 3497500,
-		},
 		["Astral Orb of the Quickblade"] = {
 			["mr"] = 22757044,
 			["cc"] = 4,
 			["id"] = "15987:0:0:0:1681",
 			["sc"] = 0,
 			["H3169"] = 22757044,
+		},
+		["Netherstorm Shoulderguards of the Quickblade"] = {
+			["mr"] = 2232267,
+			["cc"] = 4,
+			["id"] = "24916:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 2232267,
 		},
 		["Kunzite Necklace of the Quickblade"] = {
 			["mr"] = 667143,
@@ -16273,12 +16276,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 13,
 			["H3016"] = 10149287,
 		},
-		["Shadow Council Orb of the Quickblade"] = {
-			["mr"] = 2691955,
-			["cc"] = 4,
-			["id"] = "25093:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 2691955,
+		["Coldscale Rod of the Quickblade"] = {
+			["mr"] = 4792898,
+			["cc"] = 2,
+			["id"] = "159604:0:0:0:4796",
+			["sc"] = 19,
+			["H3169"] = 4792898,
 		},
 		["Polar Wand of the Quickblade"] = {
 			["mr"] = 5000000,
@@ -16294,20 +16297,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3169"] = 14399999,
 		},
-		["Inscribed Vessel of Mysticism of the Quickblade"] = {
-			["mr"] = 350112642,
-			["cc"] = 4,
-			["id"] = "153643:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 350112642,
-		},
-		["Khan'aish Helmet of the Quickblade"] = {
-			["mr"] = 24993712,
-			["cc"] = 4,
-			["id"] = "24962:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 24993712,
-		},
 		["Elemental Dagger of the Quickblade"] = {
 			["mr"] = 1870503,
 			["cc"] = 2,
@@ -16316,12 +16305,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 1870503,
 		},
-		["Supple Helm of the Quickblade"] = {
-			["mr"] = 160235876,
+		["Khan'aish Helmet of the Quickblade"] = {
+			["mr"] = 24993712,
 			["cc"] = 4,
-			["id"] = "116177:0:1:0:107",
-			["sc"] = 2,
-			["H3169"] = 160235876,
+			["id"] = "24962:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 24993712,
 		},
 		["Magnataur Girdle of the Quickblade"] = {
 			["mr"] = 33385770,
@@ -16329,6 +16318,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36363:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 33385770,
+		},
+		["Supple Helm of the Quickblade"] = {
+			["mr"] = 160235876,
+			["cc"] = 4,
+			["id"] = "116177:0:1:0:107",
+			["sc"] = 2,
+			["H3169"] = 160235876,
+		},
+		["Ironcrest Baton of the Quickblade"] = {
+			["mr"] = 4409999,
+			["cc"] = 2,
+			["id"] = "159605:0:0:0:4796",
+			["sc"] = 19,
+			["H3169"] = 4409999,
 		},
 		["Gryphon Mail Bracelets of the Quickblade"] = {
 			["mr"] = 4000001,
@@ -16343,13 +16346,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36549:0:0:0:1677",
 			["sc"] = 10,
 			["H3169"] = 2245068262,
-		},
-		["Praetorian Cloak of the Quickblade"] = {
-			["mr"] = 11062559,
-			["cc"] = 4,
-			["id"] = "15183:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 11062559,
 		},
 		["Ironhide Cloak of the Quickblade"] = {
 			["mr"] = 7992693,
@@ -16379,6 +16375,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 2396325,
 		},
+		["Ranger Helm of the Quickblade"] = {
+			["mr"] = 13384647,
+			["cc"] = 4,
+			["id"] = "7479:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 13384647,
+		},
 		["Warmonger's Gauntlets of the Quickblade"] = {
 			["mr"] = 7499266,
 			["cc"] = 4,
@@ -16407,12 +16410,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 			["H3169"] = 5645056,
 		},
-		["Darkbrand Chestguard of the Quickblade"] = {
-			["mr"] = 34191145,
-			["cc"] = 4,
-			["id"] = "56509:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 34191145,
+		["Felwort"] = {
+			["mr"] = 3414938,
+			["cc"] = 7,
+			["id"] = "124106:0:0:0:0",
+			["sc"] = 9,
+			["H3068"] = 3414938,
 		},
 		["Skystone Pendant of the Quickblade"] = {
 			["mr"] = 12000000,
@@ -16428,12 +16431,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 7468207,
 		},
-		["Darkcrest Belt of the Quickblade"] = {
-			["mr"] = 18928037,
+		["Anglesite Choker of the Quickblade"] = {
+			["mr"] = 3173569,
 			["cc"] = 4,
-			["id"] = "24934:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 18928037,
+			["id"] = "25058:0:0:0:1680",
+			["sc"] = 0,
+			["H3169"] = 3173569,
 		},
 		["Drakescale Breastplate of the Quickblade"] = {
 			["mr"] = 199999999,
@@ -16442,12 +16445,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 199999999,
 		},
-		["Anglesite Choker of the Quickblade"] = {
-			["mr"] = 3173569,
+		["Celestial Kilt of the Quickblade"] = {
+			["mr"] = 7119721,
 			["cc"] = 4,
-			["id"] = "25058:0:0:0:1680",
-			["sc"] = 0,
-			["H3169"] = 3173569,
+			["L3169"] = 7119721,
+			["id"] = "14315:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 8107227,
 		},
 		["Skullcrusher Mace of the Quickblade"] = {
 			["mr"] = 2233623,
@@ -16456,19 +16460,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 2233623,
 		},
-		["Champion's Wall Shield of the Quickblade"] = {
-			["mr"] = 2928028,
-			["cc"] = 4,
-			["id"] = "7536:0:0:0:1681",
-			["sc"] = 6,
-			["H3169"] = 2928028,
-		},
 		["Runed Talon of the Quickblade"] = {
 			["mr"] = 15946313,
 			["cc"] = 2,
 			["id"] = "36678:0:0:0:1677",
 			["sc"] = 15,
 			["H3169"] = 15946313,
+		},
+		["Bladefist Spear of the Quickblade"] = {
+			["mr"] = 23104219,
+			["cc"] = 2,
+			["id"] = "55413:0:0:0:1680",
+			["sc"] = 6,
+			["H3169"] = 23104219,
 		},
 		["Tidespray Linen Hood of the Feverflare"] = {
 			["mr"] = 23331664,
@@ -16485,13 +16489,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 16813133,
 		},
-		["Brutehammer of the Quickblade"] = {
-			["mr"] = 4370061,
-			["cc"] = 2,
-			["id"] = "15267:0:0:0:1680",
-			["sc"] = 5,
-			["H3169"] = 4370061,
-		},
 		["Crusader's Boots of the Quickblade"] = {
 			["mr"] = 1436701,
 			["cc"] = 4,
@@ -16506,19 +16503,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 952650,
 		},
+		["Resplendent Tunic of the Quickblade"] = {
+			["mr"] = 41969252,
+			["cc"] = 4,
+			["id"] = "14318:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 41969252,
+		},
 		["Darkmist Armor of the Quickblade"] = {
 			["mr"] = 3968692,
 			["cc"] = 4,
 			["id"] = "14237:0:0:0:1678",
 			["sc"] = 1,
 			["H3169"] = 3968692,
-		},
-		["Bloodfist Epaulets of the Quickblade"] = {
-			["mr"] = 2662925,
-			["cc"] = 4,
-			["id"] = "25004:0:0:0:3850",
-			["sc"] = 4,
-			["H3169"] = 2662925,
 		},
 		["Trickster's Boots of the Quickblade"] = {
 			["mr"] = 31761800,
@@ -16564,6 +16561,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 2266440,
 		},
+		["Commander's Vambraces of the Quickblade"] = {
+			["mr"] = 7122396,
+			["cc"] = 4,
+			["L3169"] = 7122396,
+			["id"] = "10377:0:0:0:1679",
+			["sc"] = 4,
+			["H3169"] = 15704269,
+		},
 		["Mammoth Fur Cloak of the Quickblade"] = {
 			["mr"] = 9841906,
 			["cc"] = 4,
@@ -16571,13 +16576,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36414:0:0:0:1677",
 			["sc"] = 1,
 			["H3169"] = 9841907,
-		},
-		["Masterwork Girdle of the Quickblade"] = {
-			["mr"] = 3958827,
-			["cc"] = 4,
-			["id"] = "10269:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 3958827,
 		},
 		["Sundered Gauntlets of the Quickblade"] = {
 			["mr"] = 3100000,
@@ -16593,6 +16591,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "120257:0:0:0:0",
 			["H3017"] = 399897,
 			["cc"] = 0,
+		},
+		["Wolvar Fists of the Quickblade"] = {
+			["mr"] = 91148104,
+			["cc"] = 4,
+			["id"] = "36254:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 91148104,
 		},
 		["Templar Girdle of the Quickblade"] = {
 			["mr"] = 25739371,
@@ -16615,14 +16620,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3162"] = 3009889,
 		},
-		["Netherstorm Gauntlets of the Quickblade"] = {
-			["mr"] = 2883134,
-			["cc"] = 4,
-			["L3169"] = 2883134,
-			["id"] = "24913:0:0:0:1679",
-			["sc"] = 3,
-			["H3169"] = 5000000,
-		},
 		["Desert Choker of the Quickblade"] = {
 			["mr"] = 8917874,
 			["cc"] = 4,
@@ -16637,6 +16634,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 43043781,
 		},
+		["Great Feast"] = {
+			["mr"] = 500000,
+			["sc"] = 5,
+			["id"] = "34753:0:0:0:0",
+			["H3017"] = 500000,
+			["cc"] = 0,
+		},
 		["Necropolis Sabatons of the Quickblade"] = {
 			["mr"] = 21861273,
 			["cc"] = 4,
@@ -16644,12 +16648,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 21861273,
 		},
-		["Great Feast"] = {
-			["mr"] = 500000,
-			["sc"] = 5,
-			["id"] = "34753:0:0:0:0",
-			["H3017"] = 500000,
-			["cc"] = 0,
+		["Captain's Buckler of the Quickblade"] = {
+			["mr"] = 73697505,
+			["cc"] = 4,
+			["id"] = "7495:0:0:0:1680",
+			["sc"] = 6,
+			["H3169"] = 73697505,
 		},
 		["Notorious Combatant's Plate Greaves of the Quickblade"] = {
 			["mr"] = 99964998,
@@ -16658,12 +16662,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 99964998,
 		},
-		["Captain's Buckler of the Quickblade"] = {
-			["mr"] = 73697505,
+		["Warlord's Iron-Epaulets of the Quickblade"] = {
+			["mr"] = 8661385,
 			["cc"] = 4,
-			["id"] = "7495:0:0:0:1680",
-			["sc"] = 6,
-			["H3169"] = 73697505,
+			["id"] = "25028:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 8661385,
 		},
 		["Blackwolf Spellblade of the Quickblade"] = {
 			["mr"] = 1535462,
@@ -16680,12 +16684,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 13774999,
 			["cc"] = 2,
 		},
-		["Vital Cape of the Quickblade"] = {
-			["mr"] = 25848385,
+		["Truesteel Pauldrons of the Quickblade"] = {
+			["mr"] = 99990000,
 			["cc"] = 4,
-			["id"] = "14210:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 25848385,
+			["id"] = "114231:0:1:0:99",
+			["sc"] = 4,
+			["H3169"] = 99990000,
 		},
 		["Phalanx Girdle of the Fireflash"] = {
 			["mr"] = 2755145,
@@ -16701,20 +16705,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 2425447,
 		},
-		["Webspinner Cord of the Quickblade"] = {
-			["mr"] = 788160,
-			["cc"] = 4,
-			["L3169"] = 788160,
-			["id"] = "36163:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 10000000,
-		},
 		["Darrowmere Robe of the Quickblade"] = {
 			["mr"] = 9482215,
 			["cc"] = 4,
 			["id"] = "55716:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 9482215,
+		},
+		["Mountain Belt of the Quickblade"] = {
+			["mr"] = 10907774,
+			["cc"] = 4,
+			["id"] = "82186:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 10907774,
 		},
 		["Demon Guard of the Quickblade"] = {
 			["mr"] = 2502019,
@@ -16738,12 +16741,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 4874999,
 		},
-		["Yak Helm of the Quickblade"] = {
-			["mr"] = 1050000,
+		["Twilight Cowl of the Quickblade"] = {
+			["mr"] = 19002102,
 			["cc"] = 4,
-			["id"] = "82245:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 1050000,
+			["id"] = "7432:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 19002102,
 		},
 		["Ghost-Forged Gauntlets of the Quickblade"] = {
 			["mr"] = 7635141,
@@ -16774,12 +16777,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1367553,
 		},
-		["Mechano-Wand of the Quickblade"] = {
-			["mr"] = 2500000,
-			["cc"] = 2,
-			["id"] = "25292:0:0:0:1678",
-			["sc"] = 19,
-			["H3169"] = 2500000,
+		["Shardback Breastplate of the Quickblade"] = {
+			["mr"] = 2022228,
+			["cc"] = 4,
+			["id"] = "106489:0:0:0:3854",
+			["sc"] = 4,
+			["H3169"] = 2022228,
 		},
 		["Tailthrasher Boots of the Quickblade"] = {
 			["mr"] = 19330725,
@@ -16788,12 +16791,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 19330725,
 		},
-		["Raider's Belt of the Quickblade"] = {
-			["mr"] = 4167864,
+		["Sorcerer Hat of the Quickblade"] = {
+			["mr"] = 15000000,
 			["cc"] = 4,
-			["id"] = "9788:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 4167864,
+			["id"] = "9878:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 15000000,
 		},
 		["Emperor Shield of the Quickblade"] = {
 			["mr"] = 2975191,
@@ -16824,13 +16827,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 1092243,
 			["cc"] = 0,
 		},
-		["Trickster's Headdress of the Quickblade"] = {
-			["mr"] = 2265330,
-			["cc"] = 4,
-			["id"] = "15363:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 2265330,
-		},
 		["Coarse Leather Gauntlets of the Fireflash"] = {
 			["mr"] = 30519203,
 			["cc"] = 4,
@@ -16860,6 +16856,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 10,
 			["H3169"] = 25093116,
 		},
+		["Cobra Shortblade of the Quickblade"] = {
+			["mr"] = 23651970,
+			["cc"] = 2,
+			["id"] = "25106:0:0:0:1677",
+			["sc"] = 15,
+			["H3169"] = 23651970,
+		},
 		["Mistfall Greatcloak of the Quickblade"] = {
 			["mr"] = 4912716,
 			["cc"] = 4,
@@ -16867,13 +16870,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 4912716,
 		},
-		["Darkcrest Legguards of the Quickblade"] = {
-			["mr"] = 23244066,
+		["Ulduar Legguards of the Quickblade"] = {
+			["mr"] = 968475,
 			["cc"] = 4,
-			["L3169"] = 23244066,
-			["id"] = "24939:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 26284182,
+			["id"] = "36272:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 968475,
 		},
 		["Spiderlord Spaulders of the Quickblade"] = {
 			["mr"] = 2046155,
@@ -16889,13 +16891,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 49128136,
 		},
-		["Opulent Gloves of the Quickblade"] = {
-			["mr"] = 10354767,
+		["High Chief's Shield of the Quickblade"] = {
+			["mr"] = 999990,
 			["cc"] = 4,
-			["L3169"] = 10354767,
-			["id"] = "14282:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 10354872,
+			["id"] = "14964:0:0:0:1677",
+			["sc"] = 6,
+			["H3169"] = 999990,
 		},
 		["Nethander Ring of the Quickblade"] = {
 			["mr"] = 3482563,
@@ -16904,19 +16905,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 3482563,
 		},
-		["Contract: Voldunai"] = {
-			["mr"] = 1300000,
-			["sc"] = 8,
-			["H3153"] = 1300000,
-			["cc"] = 0,
-			["id"] = "153666:0:0:0:0",
-		},
 		["Duskwoven Branch of the Quickblade"] = {
 			["mr"] = 18728496,
 			["cc"] = 4,
 			["id"] = "15936:0:0:0:1681",
 			["sc"] = 0,
 			["H3169"] = 18728496,
+		},
+		["Bloodforged Chestpiece of the Quickblade"] = {
+			["mr"] = 92773431,
+			["cc"] = 4,
+			["id"] = "14948:0:0:0:1680",
+			["sc"] = 4,
+			["H3169"] = 92773431,
 		},
 		["Howling Sword of the Quickblade"] = {
 			["mr"] = 12329710,
@@ -16925,13 +16926,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25152:0:0:0:1680",
 			["sc"] = 7,
 			["H3169"] = 19601433,
-		},
-		["Bloodforged Chestpiece of the Quickblade"] = {
-			["mr"] = 92773431,
-			["cc"] = 4,
-			["id"] = "14948:0:0:0:1680",
-			["sc"] = 4,
-			["H3169"] = 92773431,
 		},
 		["Boulderfist Bracers of the Quickblade"] = {
 			["mr"] = 27884084,
@@ -16947,19 +16941,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 3308033,
 		},
+		["Tidespray Linen Bracers of the Quickblade"] = {
+			["mr"] = 13720937,
+			["cc"] = 4,
+			["L3169"] = 1000000,
+			["id"] = "154692:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 21876450,
+		},
 		["Engraved Breastplate of the Quickblade"] = {
 			["mr"] = 9963957,
 			["cc"] = 4,
 			["id"] = "10230:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 9963957,
-		},
-		["Anchor Weed"] = {
-			["mr"] = 2005000,
-			["sc"] = 9,
-			["id"] = "152510:0:0:0:0",
-			["cc"] = 7,
-			["H3171"] = 2005000,
 		},
 		["Exalted Legplates of the Quickblade"] = {
 			["mr"] = 28816842,
@@ -16975,6 +16970,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 36168659,
 		},
+		["Vindicator Bracers of the Quickblade"] = {
+			["mr"] = 9768706,
+			["cc"] = 4,
+			["id"] = "24620:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 9768706,
+		},
 		["Teroclaw Shoulders of the Quickblade"] = {
 			["mr"] = 32228925,
 			["cc"] = 4,
@@ -16988,14 +16990,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36698:0:0:0:1681",
 			["sc"] = 10,
 			["H3169"] = 246390369,
-		},
-		["Exalted Gauntlets of the Quickblade"] = {
-			["mr"] = 5929941,
-			["cc"] = 4,
-			["L3169"] = 5929941,
-			["id"] = "14976:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 5938677,
 		},
 		["Ranger Jerkin of the Quickblade"] = {
 			["mr"] = 33594249,
@@ -17011,19 +17005,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 41892143,
 		},
-		["Coarse Leather Helm of the Quickblade"] = {
-			["mr"] = 21690716,
-			["cc"] = 4,
-			["id"] = "154141:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 21690716,
-		},
 		["Defender Girdle of the Quickblade"] = {
 			["mr"] = 6373138,
 			["cc"] = 4,
 			["id"] = "6576:0:0:0:1680",
 			["sc"] = 3,
 			["H3169"] = 6373138,
+		},
+		["Coarse Leather Helm of the Quickblade"] = {
+			["mr"] = 21690716,
+			["cc"] = 4,
+			["id"] = "154141:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 21690716,
 		},
 		["Coarse Leather Waistguard of the Peerless"] = {
 			["mr"] = 2009156,
@@ -17032,6 +17026,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154144:0:0:0:1687",
 			["sc"] = 2,
 			["H3016"] = 16352949,
+		},
+		["Shimmerscale Waistguard of the Quickblade"] = {
+			["mr"] = 4999964,
+			["sc"] = 3,
+			["H3174"] = 4999964,
+			["id"] = "154152:0:0:0:1680",
+			["cc"] = 4,
 		},
 		["Reefwalker Striders of the Quickblade"] = {
 			["mr"] = 21730499,
@@ -17047,12 +17048,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 34455657,
 		},
-		["Sporting Rifle of the Quickblade"] = {
-			["mr"] = 3016156239,
+		["Tanjo Staff of the Quickblade"] = {
+			["mr"] = 84095318,
 			["cc"] = 2,
-			["id"] = "25277:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 3016156239,
+			["id"] = "25177:0:0:0:1679",
+			["sc"] = 10,
+			["H3169"] = 84095318,
 		},
 		["Blood Knight Gauntlets of the Quickblade"] = {
 			["mr"] = 18872769,
@@ -17061,12 +17062,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 18872769,
 		},
-		["Bloodforged Sabatons of the Quickblade"] = {
-			["mr"] = 32571764,
+		["Peerless Leggings of the Quickblade"] = {
+			["mr"] = 73029725,
 			["cc"] = 4,
-			["id"] = "14951:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 32571764,
+			["id"] = "15431:0:0:0:1678",
+			["sc"] = 2,
+			["H3169"] = 73029725,
 		},
 		["Zalamar Spaulders of the Quickblade"] = {
 			["mr"] = 28744014,
@@ -17075,19 +17076,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 28744014,
 		},
-		["Mirkfallon Amulet of the Quickblade"] = {
-			["mr"] = 7485514,
-			["cc"] = 4,
-			["id"] = "55401:0:0:0:4763",
-			["sc"] = 0,
-			["H3169"] = 7485514,
-		},
 		["Design: Deadly Noble Topaz"] = {
 			["mr"] = 4120005,
 			["cc"] = 9,
 			["id"] = "31879:0:0:0:0",
 			["sc"] = 10,
 			["H3162"] = 4120005,
+		},
+		["Spoke Shield of the Quickblade"] = {
+			["mr"] = 6923752,
+			["cc"] = 4,
+			["id"] = "36452:0:0:0:1680",
+			["sc"] = 6,
+			["H3169"] = 6923752,
 		},
 		["Khan'aish Greaves of the Quickblade"] = {
 			["mr"] = 10386794,
@@ -17096,12 +17097,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 10386794,
 		},
-		["Elder's Robe of the Quickblade"] = {
-			["mr"] = 6000098,
-			["cc"] = 4,
-			["id"] = "7369:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 6000098,
+		["Loa-Blessed Fang of the Quickblade"] = {
+			["mr"] = 28889999,
+			["cc"] = 2,
+			["id"] = "159527:0:0:0:4796",
+			["sc"] = 15,
+			["H3169"] = 28889999,
 		},
 		["Wanderer's Armor of the Quickblade"] = {
 			["mr"] = 3717415,
@@ -17109,14 +17110,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10105:0:0:0:1678",
 			["sc"] = 2,
 			["H3169"] = 3717415,
-		},
-		["Sinister Combatant's Plate Waistguard of the Quickblade"] = {
-			["mr"] = 31000000,
-			["cc"] = 4,
-			["L3169"] = 31000000,
-			["id"] = "164656:0:0:0:1677",
-			["sc"] = 4,
-			["H3169"] = 35000000,
 		},
 		["Councillor's Gloves of the Quickblade"] = {
 			["mr"] = 6953823,
@@ -17132,6 +17125,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 12187452,
 		},
+		["Titanium Brain-Gear of the Quickblade"] = {
+			["mr"] = 2175657,
+			["cc"] = 4,
+			["id"] = "44681:0:0:0:1679",
+			["sc"] = 0,
+			["H3169"] = 2175657,
+		},
 		["Shadow Council Mantle of the Quickblade"] = {
 			["mr"] = 1832771,
 			["cc"] = 4,
@@ -17139,12 +17139,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1832771,
 		},
-		["Ivory Shield of the Quickblade"] = {
-			["mr"] = 8499690,
+		["Flamecloth Stave of the Quickblade"] = {
+			["mr"] = 8455225,
 			["cc"] = 4,
-			["id"] = "36457:0:0:0:1677",
-			["sc"] = 6,
-			["H3169"] = 8499690,
+			["L3169"] = 8455225,
+			["id"] = "15979:0:0:0:1677",
+			["sc"] = 0,
+			["H3169"] = 8455226,
 		},
 		["Bloodscale Breastplate of the Quickblade"] = {
 			["mr"] = 21522411,
@@ -17160,13 +17161,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 470472,
 		},
-		["Brutal War Axe of the Quickblade"] = {
-			["mr"] = 2325942,
-			["cc"] = 2,
-			["L3169"] = 2325942,
-			["id"] = "3210:0:0:0:3862",
-			["sc"] = 1,
-			["H3169"] = 2521293,
+		["Warmaul Belt of the Quickblade"] = {
+			["mr"] = 8933635,
+			["cc"] = 4,
+			["id"] = "24990:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 8933635,
 		},
 		["Bramblescar Belt of the Quickblade"] = {
 			["mr"] = 8999999,
@@ -17175,12 +17175,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 8999999,
 		},
-		["Warmaul Belt of the Quickblade"] = {
-			["mr"] = 8933635,
+		["Smolderhide Bindings of the Quickblade"] = {
+			["mr"] = 78572069,
 			["cc"] = 4,
-			["id"] = "24990:0:0:0:1678",
-			["sc"] = 4,
-			["H3169"] = 8933635,
+			["id"] = "121182:0:0:0:1812",
+			["sc"] = 2,
+			["H3169"] = 78572069,
 		},
 		["Master's Cloak of the Quickblade"] = {
 			["mr"] = 4955319,
@@ -17204,12 +17204,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 4571887,
 		},
-		["Soul-Drain Dagger of the Quickblade"] = {
-			["mr"] = 14947292,
-			["cc"] = 2,
-			["id"] = "25302:0:0:0:3871",
-			["sc"] = 15,
-			["H3169"] = 14947292,
+		["Saurifeather Garments of the Quickblade"] = {
+			["mr"] = 177744856,
+			["cc"] = 4,
+			["id"] = "160149:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 177744856,
 		},
 		["Barrowknoll Pauldrons of the Quickblade"] = {
 			["mr"] = 48216950,
@@ -17232,12 +17232,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 6300054,
 		},
-		["Gronn-Bone Club of the Quickblade"] = {
-			["mr"] = 7063008,
-			["cc"] = 2,
-			["id"] = "25130:0:0:0:1679",
-			["sc"] = 5,
-			["H3169"] = 7063008,
+		["Archer's Belt of the Quickblade"] = {
+			["mr"] = 34981550,
+			["cc"] = 4,
+			["id"] = "9855:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 34981550,
 		},
 		["Sinister Combatant's Plate Gauntlets of the Quickblade"] = {
 			["mr"] = 12219999,
@@ -17246,12 +17246,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 12219999,
 		},
-		["Gorian Hammer of the Quickblade"] = {
-			["mr"] = 3726144,
-			["cc"] = 2,
-			["id"] = "116620:0:0:0:3875",
-			["sc"] = 5,
-			["H3169"] = 3726144,
+		["Ulduar Helm of the Quickblade"] = {
+			["mr"] = 1620000,
+			["cc"] = 4,
+			["id"] = "36271:0:0:0:1680",
+			["sc"] = 3,
+			["H3169"] = 1620000,
 		},
 		["Golden Fleet Fists of the Quickblade"] = {
 			["mr"] = 46812157,
@@ -17339,19 +17339,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 2582005,
 		},
-		["Sharptusk Vambraces of the Quickblade"] = {
-			["mr"] = 1382892,
-			["cc"] = 4,
-			["id"] = "106596:0:0:0:4503",
-			["sc"] = 4,
-			["H3169"] = 1382892,
-		},
 		["Arachnid Dagger of the Quickblade"] = {
 			["mr"] = 16769633,
 			["cc"] = 2,
 			["id"] = "25105:0:0:0:1679",
 			["sc"] = 15,
 			["H3169"] = 16769633,
+		},
+		["Bonelink Helmet of the Quickblade"] = {
+			["mr"] = 20805336,
+			["cc"] = 4,
+			["id"] = "15615:0:0:0:1677",
+			["sc"] = 3,
+			["H3178"] = 20805336,
 		},
 		["Resplendent Sarong of the Quickblade"] = {
 			["mr"] = 4249492,
@@ -17360,19 +17360,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 4249492,
 		},
-		["Stonebreaker Vambraces of the Quickblade"] = {
-			["mr"] = 1809135,
-			["cc"] = 4,
-			["id"] = "106563:0:0:0:3855",
-			["sc"] = 4,
-			["H3169"] = 1809135,
-		},
 		["Stonebreaker Pauldrons of the Quickblade"] = {
 			["mr"] = 25008000,
 			["cc"] = 4,
 			["id"] = "106560:0:0:0:3853",
 			["sc"] = 4,
 			["H3169"] = 25008000,
+		},
+		["Kraken's Eye of Intellect"] = {
+			["mr"] = 4499988,
+			["cc"] = 3,
+			["id"] = "153709:0:0:0:0",
+			["sc"] = 0,
+			["H3162"] = 4499988,
 		},
 		["Flanged Mace of the Quickblade"] = {
 			["mr"] = 3297570,
@@ -17395,13 +17395,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 1862246,
 		},
-		["Sentry's Surcoat of the Quickblade"] = {
-			["mr"] = 12717398,
-			["cc"] = 4,
-			["id"] = "15524:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 12717398,
-		},
 		["Darkened Slicer of the Quickblade"] = {
 			["mr"] = 3843826,
 			["cc"] = 2,
@@ -17409,19 +17402,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 3843826,
 		},
-		["Brightwood Cord of the Quickblade"] = {
-			["mr"] = 8965932,
-			["cc"] = 4,
-			["id"] = "55771:0:0:0:1678",
-			["sc"] = 1,
-			["H3169"] = 8965932,
-		},
 		["Dandred Gloves of the Quickblade"] = {
 			["mr"] = 6442949,
 			["cc"] = 4,
 			["id"] = "55664:0:0:0:1681",
 			["sc"] = 2,
 			["H3169"] = 6442949,
+		},
+		["Brightwood Cord of the Quickblade"] = {
+			["mr"] = 8965932,
+			["cc"] = 4,
+			["id"] = "55771:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 8965932,
 		},
 		["Elegant Cloak of the Quickblade"] = {
 			["mr"] = 8448429,
@@ -17437,6 +17430,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154689:0:0:0:1712",
 			["sc"] = 1,
 		},
+		["Rivermarsh Defender of the Quickblade"] = {
+			["mr"] = 775280000,
+			["cc"] = 4,
+			["id"] = "159809:0:0:0:4796",
+			["sc"] = 6,
+			["H3169"] = 775280000,
+		},
 		["Auchenai Spear of the Quickblade"] = {
 			["mr"] = 3908280,
 			["cc"] = 2,
@@ -17451,13 +17451,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3017"] = 9049094,
 			["cc"] = 0,
 		},
-		["Trickster's Cloak of the Quickblade"] = {
-			["mr"] = 2027295,
-			["cc"] = 4,
-			["id"] = "15364:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 2027295,
-		},
 		["Mystical Headwrap of the Quickblade"] = {
 			["mr"] = 4643140,
 			["cc"] = 4,
@@ -17465,6 +17458,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10175:0:0:0:1680",
 			["sc"] = 1,
 			["H3169"] = 10856103,
+		},
+		["Bejeweled Spellblade of the Quickblade"] = {
+			["mr"] = 1000000,
+			["cc"] = 2,
+			["id"] = "82230:0:0:0:1681",
+			["sc"] = 15,
+			["H3169"] = 1000000,
 		},
 		["Archer's Jerkin of the Quickblade"] = {
 			["mr"] = 18495486,
@@ -17487,19 +17487,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 32994869,
 		},
-		["Battleforge Legguards of the Quickblade"] = {
-			["mr"] = 24089043,
-			["cc"] = 4,
-			["id"] = "6596:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 24089043,
-		},
 		["Immaculate Scepter of the Quickblade"] = {
 			["mr"] = 1285000,
 			["cc"] = 2,
 			["id"] = "82284:0:0:0:1679",
 			["sc"] = 4,
 			["H3169"] = 1285000,
+		},
+		["Engraved Helm of the Quickblade"] = {
+			["mr"] = 2729500,
+			["cc"] = 4,
+			["id"] = "10235:0:0:0:1681",
+			["sc"] = 3,
+			["H3169"] = 2729500,
 		},
 		["Enchant Cloak - Breath of Haste"] = {
 			["mr"] = 7810147,
@@ -17522,19 +17522,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 19,
 			["H3169"] = 50025100,
 		},
-		["Irontree Dagger of the Quickblade"] = {
-			["mr"] = 40244661,
-			["cc"] = 2,
-			["id"] = "55333:0:0:0:1678",
-			["sc"] = 15,
-			["H3169"] = 40244661,
-		},
 		["Durable Rod of the Quickblade"] = {
 			["mr"] = 133579442,
 			["cc"] = 4,
 			["id"] = "15935:0:0:0:1678",
 			["sc"] = 0,
 			["H3169"] = 133579442,
+		},
+		["Sabermaw Waistband of the Quickblade"] = {
+			["mr"] = 7848769,
+			["cc"] = 4,
+			["id"] = "106703:0:0:0:3854",
+			["sc"] = 2,
+			["H3169"] = 7848769,
 		},
 		["Ancient Crown of the Quickblade"] = {
 			["mr"] = 42280302,
@@ -17550,13 +17550,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 9509600,
 		},
-		["Sorcerer Pants of the Quickblade"] = {
-			["mr"] = 490000,
-			["cc"] = 4,
-			["id"] = "9883:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 490000,
-		},
 		["Boulderfist Armor of the Quickblade"] = {
 			["mr"] = 37936335,
 			["cc"] = 4,
@@ -17571,6 +17564,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "152837:0:0:0:1678",
 			["sc"] = 4,
 			["H3169"] = 37323761,
+		},
+		["Rageclaw Boots of the Quickblade"] = {
+			["mr"] = 1319986,
+			["cc"] = 4,
+			["L3169"] = 1319986,
+			["id"] = "15379:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 5774424,
 		},
 		["Coarse Leather Vest of the Quickblade"] = {
 			["mr"] = 11130729,
@@ -17593,12 +17594,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "152507:0:0:0:0",
 			["sc"] = 9,
 		},
-		["Spiderlord Bracers of the Quickblade"] = {
-			["mr"] = 686699,
+		["Elementalist Cloak of the Quickblade"] = {
+			["mr"] = 12808307,
 			["cc"] = 4,
-			["id"] = "36282:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 686699,
+			["id"] = "25034:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 12808307,
 		},
 		["Jadefire Ink"] = {
 			["mr"] = 999997,
@@ -17628,12 +17629,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 37489629,
 		},
-		["Vital Shoulders of the Quickblade"] = {
-			["mr"] = 128637494,
+		["Golem Breastplate of the Quickblade"] = {
+			["mr"] = 4909996,
 			["cc"] = 4,
-			["id"] = "14212:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 128637494,
+			["id"] = "36381:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 4909996,
 		},
 		["Magnataur Legplates of the Quickblade"] = {
 			["mr"] = 43663632,
@@ -17663,12 +17664,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 850090,
 		},
-		["Battered Saurscale Leggings of the Quickblade"] = {
-			["mr"] = 144185339,
+		["Abjurer's Sash of the Quickblade"] = {
+			["mr"] = 7386311,
 			["cc"] = 4,
-			["id"] = "94053:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 144185339,
+			["L3169"] = 4703673,
+			["id"] = "9945:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 7386311,
 		},
 		["Fenclaw Armor of the Quickblade"] = {
 			["mr"] = 12387586,
@@ -17676,13 +17678,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24848:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 12387586,
-		},
-		["Zocali Greatsword of the Quickblade"] = {
-			["mr"] = 4999999,
-			["cc"] = 2,
-			["id"] = "159599:0:0:0:4796",
-			["sc"] = 8,
-			["H3169"] = 4999999,
 		},
 		["Facetted Orb of the Quickblade"] = {
 			["mr"] = 110623031,
@@ -17699,6 +17694,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 24994461,
 		},
+		["Rhut'van Breastplate of the Quickblade"] = {
+			["mr"] = 9013853,
+			["cc"] = 4,
+			["id"] = "121001:0:0:0:1812",
+			["sc"] = 4,
+			["H3169"] = 9013853,
+		},
 		["Necropolis Gloves of the Quickblade"] = {
 			["mr"] = 26836458,
 			["cc"] = 4,
@@ -17713,12 +17715,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1576992,
 		},
-		["Foxhollow Robes of the Quickblade"] = {
-			["mr"] = 2500000,
+		["Oshu'gun Cloak of the Quickblade"] = {
+			["mr"] = 9353688,
 			["cc"] = 4,
-			["id"] = "159187:0:0:0:4796",
+			["id"] = "116723:0:0:0:3854",
 			["sc"] = 1,
-			["H3169"] = 2500000,
+			["H3169"] = 9353688,
 		},
 		["Praetorian Gloves of the Quickblade"] = {
 			["mr"] = 4605054,
@@ -17742,12 +17744,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 1064808,
 		},
-		["Coarse Leather Armguards of the Harmonious"] = {
-			["mr"] = 11591686,
-			["cc"] = 4,
-			["id"] = "154145:0:0:0:1717",
-			["sc"] = 2,
-			["H3016"] = 11591686,
+		["Stout Battlehammer of the Quickblade"] = {
+			["mr"] = 3084669,
+			["cc"] = 2,
+			["id"] = "789:0:0:0:1679",
+			["sc"] = 4,
+			["H3169"] = 3084669,
 		},
 		["Praetorian Leggings of the Quickblade"] = {
 			["mr"] = 80368892,
@@ -17755,13 +17757,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15186:0:0:0:1681",
 			["sc"] = 2,
 			["H3169"] = 80368892,
-		},
-		["Thick Scale Sabatons of the Quickblade"] = {
-			["mr"] = 3401135,
-			["cc"] = 4,
-			["id"] = "15544:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 3401135,
 		},
 		["Sentinel Gloves of the Quickblade"] = {
 			["mr"] = 10868008,
@@ -17777,6 +17772,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 19,
 			["H3169"] = 26879182,
 		},
+		["Sabermaw Hood of the Quickblade"] = {
+			["mr"] = 14650100,
+			["cc"] = 4,
+			["id"] = "106700:0:0:0:3854",
+			["sc"] = 2,
+			["H3169"] = 14650100,
+		},
 		["Star Moss"] = {
 			["mr"] = 81498,
 			["sc"] = 9,
@@ -17791,12 +17793,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 9,
 			["H3161"] = 28334261,
 		},
-		["Gothic Plate Gauntlets of the Quickblade"] = {
-			["mr"] = 10198227,
+		["Eternal Sarong of the Quickblade"] = {
+			["mr"] = 50054104,
 			["cc"] = 4,
-			["id"] = "10087:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 10198227,
+			["id"] = "14334:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 50054104,
 		},
 		["Dragonhawk Boots of the Quickblade"] = {
 			["mr"] = 6550434,
@@ -17813,19 +17815,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 40307699,
 		},
-		["Nethersteel Claymore of the Quickblade"] = {
-			["mr"] = 4502312,
-			["cc"] = 2,
-			["id"] = "25167:0:0:0:1680",
-			["sc"] = 8,
-			["H3169"] = 4502312,
-		},
 		["Monel-Hardened Waistguard of the Quickblade"] = {
 			["mr"] = 2000000,
 			["cc"] = 4,
 			["id"] = "152808:0:0:0:1677",
 			["sc"] = 4,
 			["H3169"] = 2000000,
+		},
+		["Masterwork Breastplate of the Quickblade"] = {
+			["mr"] = 2999928,
+			["cc"] = 4,
+			["id"] = "10266:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 2999928,
 		},
 		["Scouting Trousers of the Quickblade"] = {
 			["mr"] = 7378283,
@@ -17855,12 +17857,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 5792467,
 		},
-		["Temple Girdle of the Quickblade"] = {
-			["mr"] = 868688,
+		["Vital Handwraps of the Quickblade"] = {
+			["mr"] = 4990000,
 			["cc"] = 4,
-			["id"] = "82289:0:0:0:1679",
-			["sc"] = 4,
-			["H3169"] = 868688,
+			["id"] = "14211:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 4990000,
 		},
 		["Battle-Scarred Augment Rune"] = {
 			["mr"] = 2695099,
@@ -17883,19 +17885,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 9026522,
 		},
-		["Waterfall Leggings of the Quickblade"] = {
-			["mr"] = 1507188,
-			["cc"] = 4,
-			["id"] = "82252:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 1507188,
-		},
 		["Winterfin Shoulderguards of the Quickblade"] = {
 			["mr"] = 31207091,
 			["cc"] = 4,
 			["id"] = "36081:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 31207091,
+		},
+		["Crusader's Cloak of the Quickblade"] = {
+			["mr"] = 20184929,
+			["cc"] = 4,
+			["id"] = "10194:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 20184929,
 		},
 		["Exalted Sabatons of the Quickblade"] = {
 			["mr"] = 19121047,
@@ -17919,13 +17921,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 1987499,
 		},
-		["Crusader's Cloak of the Quickblade"] = {
-			["mr"] = 20184929,
-			["cc"] = 4,
-			["id"] = "10194:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 20184929,
-		},
 		["Angerfang Staff of the Quickblade"] = {
 			["mr"] = 23644530,
 			["cc"] = 2,
@@ -17947,6 +17942,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 15,
 			["H3169"] = 9828192,
 		},
+		["Nightshade Leggings of the Quickblade"] = {
+			["mr"] = 2062185,
+			["cc"] = 4,
+			["id"] = "10227:0:0:0:1680",
+			["sc"] = 2,
+			["H3169"] = 2062185,
+		},
 		["Wanderer's Belt of the Quickblade"] = {
 			["mr"] = 3692181,
 			["cc"] = 4,
@@ -17954,12 +17956,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 3692181,
 		},
-		["Swamp Ring of the Quickblade"] = {
-			["mr"] = 23293881,
+		["Dandred Hood of the Quickblade"] = {
+			["mr"] = 621290,
 			["cc"] = 4,
-			["id"] = "12015:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 23293881,
+			["id"] = "55673:0:0:0:1679",
+			["sc"] = 2,
+			["H3169"] = 621290,
 		},
 		["Bogslayer Legplates of the Quickblade"] = {
 			["mr"] = 17005205,
@@ -17968,12 +17970,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 17005205,
 		},
-		["Dandred Hood of the Quickblade"] = {
-			["mr"] = 621290,
+		["Darrowmere Sandals of the Quickblade"] = {
+			["mr"] = 20126291,
 			["cc"] = 4,
-			["id"] = "55673:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 621290,
+			["id"] = "55725:0:0:0:1678",
+			["sc"] = 1,
+			["H3169"] = 20126291,
 		},
 		["Rusted-Link Spiked Gauntlets"] = {
 			["mr"] = 75411418,
@@ -17996,12 +17998,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 15861026,
 		},
-		["Swashbuckler's Breastplate of the Quickblade"] = {
-			["mr"] = 6442944,
-			["cc"] = 4,
-			["id"] = "10182:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 6442944,
+		["Engraved Mace of the Quickblade"] = {
+			["mr"] = 2500000,
+			["cc"] = 2,
+			["id"] = "82275:0:0:0:1681",
+			["sc"] = 4,
+			["H3169"] = 2500000,
 		},
 		["Bonelink Legplates of the Quickblade"] = {
 			["mr"] = 30341459,
@@ -18017,12 +18019,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 23578859,
 		},
-		["Ichor-Stained Wraps of the Quickblade"] = {
-			["mr"] = 5321280,
-			["cc"] = 4,
-			["id"] = "44674:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 5321280,
+		["Karaborian Battle Axe of the Quickblade"] = {
+			["mr"] = 345228853,
+			["cc"] = 2,
+			["L3169"] = 345228853,
+			["id"] = "25198:0:0:0:1677",
+			["sc"] = 0,
+			["H3169"] = 345228854,
 		},
 		["Talonguard Helmet of the Quickblade"] = {
 			["mr"] = 31186774,
@@ -18030,13 +18033,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24970:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 31186774,
-		},
-		["Fiendish Shoulderguards of the Quickblade"] = {
-			["mr"] = 15535925,
-			["cc"] = 4,
-			["id"] = "151577:0:0:0:3598",
-			["sc"] = 2,
-			["H3169"] = 15535925,
 		},
 		["Murkblood Shoulderguards of the Quickblade"] = {
 			["mr"] = 1487967,
@@ -18067,6 +18063,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 7025672,
 		},
+		["Pagan Britches of the Quickblade"] = {
+			["mr"] = 165107105,
+			["cc"] = 4,
+			["id"] = "14165:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 165107105,
+		},
 		["Enchanter's Umbral Wand of the Quickblade"] = {
 			["mr"] = 5552341,
 			["cc"] = 2,
@@ -18081,19 +18084,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 12585521,
 		},
-		["Champion's Cape of the Quickblade"] = {
-			["mr"] = 28565759,
-			["cc"] = 4,
-			["id"] = "7544:0:0:0:1677",
-			["sc"] = 1,
-			["H3169"] = 28565759,
-		},
 		["Wrathfin Greaves of the Quickblade"] = {
 			["mr"] = 14733387,
 			["cc"] = 4,
 			["id"] = "24839:0:0:0:1678",
 			["sc"] = 3,
 			["H3169"] = 14733387,
+		},
+		["Crystal-Etched Warstaff of the Quickblade"] = {
+			["mr"] = 9465472,
+			["cc"] = 2,
+			["id"] = "25182:0:0:0:1679",
+			["sc"] = 10,
+			["H3169"] = 9465472,
 		},
 		["Watcher's Cinch of the Quickblade"] = {
 			["mr"] = 10535030,
@@ -18123,13 +18126,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1398805,
 		},
-		["Discarded Swampstalker Leggings of the Quickblade"] = {
-			["mr"] = 54499098,
-			["cc"] = 4,
-			["id"] = "94047:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 54499098,
-		},
 		["Clefthoof Shoulderguards of the Quickblade"] = {
 			["mr"] = 1601144,
 			["cc"] = 4,
@@ -18143,6 +18139,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "6548:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 4120801,
+		},
+		["Desecrated Staff of the Quickblade"] = {
+			["mr"] = 79176141,
+			["cc"] = 2,
+			["id"] = "36553:0:0:0:1681",
+			["sc"] = 10,
+			["H3169"] = 79176141,
 		},
 		["Scaled Shield of the Quickblade"] = {
 			["mr"] = 191046634,
@@ -18158,12 +18161,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1452500,
 		},
-		["Netherstalker Legguards of the Quickblade"] = {
-			["mr"] = 1303787,
+		["Brutish Breastplate of the Quickblade"] = {
+			["mr"] = 67319185,
 			["cc"] = 4,
-			["id"] = "24827:0:0:0:1681",
-			["sc"] = 3,
-			["H3169"] = 1303787,
+			["id"] = "14904:0:0:0:1678",
+			["sc"] = 4,
+			["H3169"] = 67319185,
 		},
 		["Greenweave Bracers of the Quickblade"] = {
 			["mr"] = 2123544,
@@ -18186,12 +18189,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 9419459,
 		},
-		["Fargodeep Girdle of the Quickblade"] = {
-			["mr"] = 12352500,
+		["Meadowstomper Gloves of the Quickblade"] = {
+			["mr"] = 16148630,
 			["cc"] = 4,
-			["id"] = "55555:0:0:0:4763",
-			["sc"] = 4,
-			["H3169"] = 12352500,
+			["id"] = "106732:0:0:0:3854",
+			["sc"] = 2,
+			["H3169"] = 16148630,
 		},
 		["Thinking Cap"] = {
 			["mr"] = 2486139944,
@@ -18208,13 +18211,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 5979792,
 		},
-		["Steamscar Waistband of the Quickblade"] = {
-			["mr"] = 2242174,
-			["cc"] = 4,
-			["id"] = "106505:0:0:0:3854",
-			["sc"] = 2,
-			["H3169"] = 2242174,
-		},
 		["Dreadroot Linked Helm of the Harmonious"] = {
 			["mr"] = 62780616,
 			["cc"] = 4,
@@ -18222,20 +18218,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3178"] = 62780616,
 		},
+		["Pygmy Boots of the Quickblade"] = {
+			["mr"] = 5636997,
+			["cc"] = 4,
+			["id"] = "36148:0:0:0:1677",
+			["sc"] = 2,
+			["H3169"] = 5636997,
+		},
 		["Triumphant Girdle of the Quickblade"] = {
 			["mr"] = 4778863,
 			["cc"] = 4,
 			["id"] = "15683:0:0:0:1680",
 			["sc"] = 3,
 			["H3169"] = 4778863,
-		},
-		["Infiltrator Cap of the Quickblade"] = {
-			["mr"] = 73657806,
-			["cc"] = 4,
-			["L3169"] = 73657806,
-			["id"] = "7413:0:0:0:1679",
-			["sc"] = 2,
-			["H3169"] = 73657807,
 		},
 		["Steadfast Bracelets of the Quickblade"] = {
 			["mr"] = 43088473,
@@ -18260,19 +18255,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 11554252,
 		},
+		["Vital Boots of the Quickblade"] = {
+			["mr"] = 12029756,
+			["cc"] = 4,
+			["id"] = "14214:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 12029756,
+		},
 		["Miner Girdle of the Quickblade"] = {
 			["mr"] = 20026524,
 			["cc"] = 4,
 			["id"] = "82124:0:0:0:4764",
 			["sc"] = 4,
 			["H3169"] = 20026524,
-		},
-		["Sequoia Hammer of the Quickblade"] = {
-			["mr"] = 3350733,
-			["cc"] = 2,
-			["id"] = "15225:0:0:0:1680",
-			["sc"] = 4,
-			["H3169"] = 3350733,
 		},
 		["Reins of a Tamed Bloodfeaster"] = {
 			["mr"] = 999990000,
@@ -18288,19 +18283,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 1738438,
 		},
-		["Razor Axe of the Quickblade"] = {
-			["mr"] = 1695016,
-			["cc"] = 2,
-			["id"] = "15272:0:0:0:1680",
-			["sc"] = 1,
-			["H3169"] = 1695016,
-		},
 		["Drums of Restoration"] = {
 			["mr"] = 1765524100,
 			["sc"] = 8,
 			["id"] = "29531:0:0:0:0",
 			["H3017"] = 1765524100,
 			["cc"] = 0,
+		},
+		["Razor Axe of the Quickblade"] = {
+			["mr"] = 1695016,
+			["cc"] = 2,
+			["id"] = "15272:0:0:0:1680",
+			["sc"] = 1,
+			["H3169"] = 1695016,
 		},
 		["Robust Boots of the Quickblade"] = {
 			["mr"] = 209107004,
@@ -18309,19 +18304,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 209107004,
 		},
-		["Potent Gloves of the Quickblade"] = {
-			["mr"] = 12915069,
-			["cc"] = 4,
-			["id"] = "15174:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 12915069,
-		},
 		["Glowstar Rod of the Quickblade"] = {
 			["mr"] = 7352395,
 			["cc"] = 2,
 			["id"] = "15281:0:0:0:1681",
 			["sc"] = 19,
 			["H3169"] = 7352395,
+		},
+		["Potent Gloves of the Quickblade"] = {
+			["mr"] = 12915069,
+			["cc"] = 4,
+			["id"] = "15174:0:0:0:1681",
+			["sc"] = 2,
+			["H3169"] = 12915069,
 		},
 		["Snake Vest of the Quickblade"] = {
 			["mr"] = 50901487,
@@ -18345,6 +18340,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 13,
 			["H3169"] = 3456321,
 		},
+		["Crescent Saberfish"] = {
+			["mr"] = 90000,
+			["sc"] = 8,
+			["id"] = "111595:0:0:0:0",
+			["H3017"] = 90000,
+			["cc"] = 7,
+		},
 		["Crusader's Pauldrons of the Quickblade"] = {
 			["mr"] = 14888064,
 			["cc"] = 4,
@@ -18359,12 +18361,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 104330626,
 		},
-		["Selenium Chain of the Quickblade"] = {
-			["mr"] = 4494016,
+		["Slithershell Cloak of the Quickblade"] = {
+			["mr"] = 4884748,
 			["cc"] = 4,
-			["id"] = "12025:0:0:0:1677",
-			["sc"] = 0,
-			["H3169"] = 4494016,
+			["id"] = "169434:0:0:0:4796",
+			["sc"] = 1,
+			["H3169"] = 4884748,
 		},
 		["Ghost-Forged Shoulders of the Quickblade"] = {
 			["mr"] = 6301938,
@@ -18372,13 +18374,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "82904:0:0:0:1679",
 			["sc"] = 4,
 			["H3169"] = 6301938,
-		},
-		["Caribou Britches of the Quickblade"] = {
-			["mr"] = 28364577,
-			["cc"] = 4,
-			["id"] = "36104:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 28364577,
 		},
 		["Warport Dirk of the Quickblade"] = {
 			["mr"] = 65000000,
@@ -18394,19 +18389,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "168641:0:0:0:0",
 			["sc"] = 7,
 		},
+		["Deathweb Bracers of the Quickblade"] = {
+			["mr"] = 28399067,
+			["cc"] = 4,
+			["id"] = "106581:0:0:0:3854",
+			["sc"] = 3,
+			["H3169"] = 28399067,
+		},
 		["Champion's Greaves of the Quickblade"] = {
 			["mr"] = 8963836,
 			["cc"] = 4,
 			["id"] = "7542:0:0:0:1681",
 			["sc"] = 3,
 			["H3169"] = 8963836,
-		},
-		["Soldier's Shield of the Quickblade"] = {
-			["mr"] = 2420817,
-			["cc"] = 4,
-			["id"] = "6560:0:0:0:1678",
-			["sc"] = 6,
-			["H3169"] = 2420817,
 		},
 		["Knight's Pauldrons of the Quickblade"] = {
 			["mr"] = 20843704,
@@ -18415,19 +18410,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 20843704,
 		},
+		["Splinterspear Dagger of the Quickblade"] = {
+			["mr"] = 24424279,
+			["cc"] = 2,
+			["id"] = "55330:0:0:0:1678",
+			["sc"] = 15,
+			["H3169"] = 24424279,
+		},
 		["Jade Legplates of the Quickblade"] = {
 			["mr"] = 492672876,
 			["cc"] = 4,
 			["id"] = "14920:0:0:0:4277",
 			["sc"] = 4,
 			["H3169"] = 492672876,
-		},
-		["Wolvar Handaxe of the Quickblade"] = {
-			["mr"] = 11313429,
-			["cc"] = 2,
-			["id"] = "36581:0:0:0:1681",
-			["sc"] = 0,
-			["H3169"] = 11313429,
 		},
 		["Well-Balanced Crossbow of the Quickblade"] = {
 			["mr"] = 18122341,
@@ -18436,19 +18431,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 18,
 			["H3169"] = 18122341,
 		},
+		["Wavecrash Headguard of the Quickblade"] = {
+			["mr"] = 49999999,
+			["cc"] = 4,
+			["id"] = "169424:0:0:0:4796",
+			["sc"] = 4,
+			["H3169"] = 49999999,
+		},
 		["Wintersail Staff of the Quickblade"] = {
 			["mr"] = 55170000,
 			["cc"] = 2,
 			["id"] = "159568:0:0:0:4796",
 			["sc"] = 10,
 			["H3169"] = 55170000,
-		},
-		["Commander's Gauntlets of the Quickblade"] = {
-			["mr"] = 1811928,
-			["cc"] = 4,
-			["id"] = "10380:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 1811928,
 		},
 		["Stinkrot Smasher"] = {
 			["mr"] = 349989999,
@@ -18457,19 +18452,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3178"] = 349989999,
 		},
+		["Bonelink Sabatons of the Quickblade"] = {
+			["mr"] = 16686634,
+			["cc"] = 4,
+			["L3178"] = 16686634,
+			["id"] = "15614:0:0:0:1678",
+			["sc"] = 3,
+			["H3178"] = 23265731,
+		},
 		["Praetorian Boots of the Quickblade"] = {
 			["mr"] = 45830654,
 			["cc"] = 4,
 			["id"] = "15181:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 45830654,
-		},
-		["Foxhollow Handwraps of the Quickblade"] = {
-			["mr"] = 2629683,
-			["cc"] = 4,
-			["id"] = "159185:0:0:0:4796",
-			["sc"] = 1,
-			["H3169"] = 2629683,
 		},
 		["Tidespray Linen Mittens of the Quickblade"] = {
 			["mr"] = 32509987,
@@ -18478,6 +18474,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154687:0:0:0:1676",
 			["sc"] = 1,
 		},
+		["Gryphon Mail Belt of the Quickblade"] = {
+			["mr"] = 1830532,
+			["cc"] = 4,
+			["L3169"] = 1830532,
+			["id"] = "15619:0:0:0:1679",
+			["sc"] = 3,
+			["H3169"] = 7646778,
+		},
 		["Wolf Rider's Headgear of the Quickblade"] = {
 			["mr"] = 5341474,
 			["cc"] = 4,
@@ -18485,12 +18489,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 5341474,
 		},
-		["Freehold Jerkin of the Quickblade"] = {
-			["mr"] = 4000000,
+		["Supreme Crown of the Quickblade"] = {
+			["mr"] = 13108146,
 			["cc"] = 4,
-			["id"] = "159172:0:0:0:4796",
+			["id"] = "15439:0:0:0:1677",
 			["sc"] = 2,
-			["H3169"] = 4000000,
+			["H3169"] = 13108146,
 		},
 		["Spirestrider Vest of the Quickblade"] = {
 			["mr"] = 6843677542,
@@ -18498,13 +18502,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "106653:0:0:0:3854",
 			["sc"] = 3,
 			["H3169"] = 6843677542,
-		},
-		["Festerroot Helm of the Quickblade"] = {
-			["mr"] = 53738041,
-			["cc"] = 4,
-			["id"] = "154819:0:0:0:4796",
-			["sc"] = 2,
-			["H3169"] = 53738041,
 		},
 		["Raider's Cloak of the Quickblade"] = {
 			["mr"] = 3103568,
@@ -18527,6 +18524,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H3169"] = 3641437,
 		},
+		["Bonecaster's Belt of the Quickblade"] = {
+			["mr"] = 9386164,
+			["cc"] = 4,
+			["id"] = "14304:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 9386164,
+		},
 		["Notorious Combatant's Bow of the Quickblade"] = {
 			["mr"] = 36562499,
 			["cc"] = 2,
@@ -18548,13 +18552,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 28613623,
 		},
-		["Commander's Boots of the Quickblade"] = {
-			["mr"] = 3325665,
-			["cc"] = 4,
-			["id"] = "10376:0:0:0:1681",
-			["sc"] = 4,
-			["H3169"] = 3325665,
-		},
 		["Impenetrable Legguards of the Quickblade"] = {
 			["mr"] = 17917586,
 			["cc"] = 4,
@@ -18569,19 +18566,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1439747,
 		},
+		["Peridot Circle of the Quickblade"] = {
+			["mr"] = 150000,
+			["cc"] = 4,
+			["L3169"] = 150000,
+			["id"] = "11979:0:0:0:1679",
+			["sc"] = 0,
+			["H3169"] = 1788131,
+		},
 		["Murphstar of the Quickblade"] = {
 			["mr"] = 2603446,
 			["cc"] = 2,
 			["id"] = "1207:0:0:0:1680",
 			["sc"] = 4,
 			["H3169"] = 2603446,
-		},
-		["Vine Hood of the Quickblade"] = {
-			["mr"] = 1149500,
-			["cc"] = 4,
-			["id"] = "82261:0:0:0:1680",
-			["sc"] = 2,
-			["H3169"] = 1149500,
 		},
 		["Headshrinker's Grips"] = {
 			["mr"] = 1834843792,
@@ -18596,6 +18594,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14900:0:0:0:1678",
 			["sc"] = 4,
 			["H3169"] = 505764808,
+		},
+		["Ivycloth Sash of the Quickblade"] = {
+			["mr"] = 4599329,
+			["cc"] = 4,
+			["id"] = "9799:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 4599329,
 		},
 		["Ango'rosh Breastplate of the Quickblade"] = {
 			["mr"] = 18716060,
@@ -18619,12 +18624,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 31006708,
 		},
-		["Enchant Ring - Gift of Haste"] = {
-			["mr"] = 8740599,
-			["cc"] = 8,
-			["id"] = "110639:0:0:0:0",
-			["sc"] = 10,
-			["H3169"] = 8740599,
+		["Lightfoot Potion"] = {
+			["mr"] = 397000,
+			["sc"] = 1,
+			["id"] = "152497:0:0:0:0",
+			["cc"] = 0,
+			["H3171"] = 397000,
 		},
 		["Drums of Rage"] = {
 			["mr"] = 8670128,
@@ -18640,12 +18645,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 11335952,
 		},
-		["Sunroc Chestpiece of the Quickblade"] = {
-			["mr"] = 12532949,
-			["cc"] = 4,
-			["id"] = "24735:0:0:0:1677",
-			["sc"] = 2,
-			["H3169"] = 12532949,
+		["Monelite Ore"] = {
+			["H3190"] = 219998,
+			["sc"] = 7,
+			["id"] = "152512:0:0:0:0",
+			["cc"] = 7,
+			["H3189"] = 236998,
+			["mr"] = 219998,
 		},
 		["Watcher's Cap of the Quickblade"] = {
 			["mr"] = 99955050,
@@ -18661,12 +18667,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 4055800,
 		},
-		["Monelite Ore"] = {
-			["mr"] = 198000,
-			["sc"] = 7,
-			["id"] = "152512:0:0:0:0",
-			["cc"] = 7,
-			["H3179"] = 198000,
+		["Violet Abyssal Eel"] = {
+			["mr"] = 21960000,
+			["cc"] = 17,
+			["id"] = "2569:1",
+			["sc"] = 0,
+			["H3162"] = 21960000,
 		},
 		["Ranger Hat of the Quickblade"] = {
 			["mr"] = 85984264,
@@ -18689,12 +18695,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 1619824,
 		},
-		["Direbone Frill Stompers of the Quickblade"] = {
-			["mr"] = 3000000,
+		["Bonelink Armor of the Fireflash"] = {
+			["mr"] = 25599369,
 			["cc"] = 4,
-			["id"] = "160125:0:0:0:4796",
-			["sc"] = 4,
-			["H3169"] = 3000000,
+			["id"] = "15609:0:0:0:1691",
+			["sc"] = 3,
+			["H3178"] = 25599369,
 		},
 		["Beheading Blade of the Quickblade"] = {
 			["mr"] = 940005,
@@ -18704,12 +18710,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 5025619,
 		},
-		["Sinister Combatant's Bow of the Quickblade"] = {
-			["mr"] = 58068236,
-			["cc"] = 2,
-			["id"] = "164670:0:0:0:1678",
-			["sc"] = 2,
-			["H3169"] = 58068236,
+		["Fortified Chain of the Quickblade"] = {
+			["mr"] = 8072064,
+			["cc"] = 4,
+			["id"] = "9818:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 8072064,
 		},
 		["Impenetrable Belt of the Quickblade"] = {
 			["mr"] = 79178657,
@@ -18718,13 +18724,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "15663:0:0:0:1677",
 			["sc"] = 3,
 			["H3169"] = 79179449,
-		},
-		["Fortified Chain of the Quickblade"] = {
-			["mr"] = 8072064,
-			["cc"] = 4,
-			["id"] = "9818:0:0:0:1677",
-			["sc"] = 3,
-			["H3169"] = 8072064,
 		},
 		["Clefthoof Britches of the Quickblade"] = {
 			["mr"] = 15281502,
@@ -18740,19 +18739,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 18109410,
 		},
-		["Elder's Bracers of the Quickblade"] = {
-			["mr"] = 4624140,
-			["cc"] = 4,
-			["id"] = "7355:0:0:0:1679",
-			["sc"] = 1,
-			["H3169"] = 4624140,
-		},
 		["Bleached Bone Skullcracker of the Quickblade"] = {
 			["mr"] = 2500000,
 			["cc"] = 2,
 			["id"] = "159558:0:0:0:4796",
 			["sc"] = 5,
 			["H3169"] = 2500000,
+		},
+		["Elder's Bracers of the Quickblade"] = {
+			["mr"] = 4624140,
+			["cc"] = 4,
+			["id"] = "7355:0:0:0:1679",
+			["sc"] = 1,
+			["H3169"] = 4624140,
 		},
 		["Glimmering Flamberge of the Quickblade"] = {
 			["mr"] = 6976335,
@@ -18761,6 +18760,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3169"] = 6976335,
 		},
+		["Ironspine Greaves of the Quickblade"] = {
+			["mr"] = 16600773,
+			["cc"] = 4,
+			["id"] = "24871:0:0:0:1678",
+			["sc"] = 3,
+			["H3169"] = 16600773,
+		},
 		["Elegant Tunic of the Quickblade"] = {
 			["mr"] = 39919998,
 			["cc"] = 4,
@@ -18768,12 +18774,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 39919998,
 		},
-		["Ironspine Greaves of the Quickblade"] = {
-			["mr"] = 16600773,
+		["Immaculate Cloak of the Quickblade"] = {
+			["mr"] = 1173552,
 			["cc"] = 4,
-			["id"] = "24871:0:0:0:1678",
-			["sc"] = 3,
-			["H3169"] = 16600773,
+			["id"] = "82281:0:0:0:1681",
+			["sc"] = 1,
+			["H3169"] = 1173552,
 		},
 		["Snowfall Ink"] = {
 			["mr"] = 999995,
@@ -18789,12 +18795,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 13272861,
 		},
-		["Wavecaller Mace of the Quickblade"] = {
-			["mr"] = 6500000,
+		["Angerfang Hammer of the Quickblade"] = {
+			["mr"] = 71358252,
 			["cc"] = 2,
-			["id"] = "159535:0:0:0:4796",
-			["sc"] = 4,
-			["H3169"] = 6500000,
+			["L3169"] = 71358252,
+			["id"] = "55391:0:0:0:1677",
+			["sc"] = 5,
+			["H3169"] = 484426217,
 		},
 		["Conqueror's Helmet of the Quickblade"] = {
 			["mr"] = 252065,
@@ -18803,13 +18810,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "25010:0:0:0:1677",
 			["sc"] = 4,
 			["H3169"] = 252069,
-		},
-		["Cascading Water Staff of the Quickblade"] = {
-			["mr"] = 14632044,
-			["cc"] = 2,
-			["id"] = "36707:0:0:0:3872",
-			["sc"] = 10,
-			["H3169"] = 14632044,
 		},
 		["Gryphon Mail Gauntlets of the Quickblade"] = {
 			["mr"] = 9696115,
@@ -18839,6 +18839,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 485645,
 		},
+		["Lunar Raiment of the Quickblade"] = {
+			["mr"] = 22435872,
+			["cc"] = 4,
+			["id"] = "14254:0:0:0:1677",
+			["sc"] = 1,
+			["H3169"] = 22435872,
+		},
 		["Brutohide Gloves of the Quickblade"] = {
 			["mr"] = 259028368,
 			["cc"] = 4,
@@ -18853,19 +18860,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 4999991,
 		},
-		["Haal'eshi Hat of the Quickblade"] = {
-			["mr"] = 28116129,
-			["cc"] = 4,
-			["id"] = "24705:0:0:0:1681",
-			["sc"] = 2,
-			["H3169"] = 28116129,
-		},
 		["Mammoth Helm of the Quickblade"] = {
 			["mr"] = 322761344,
 			["cc"] = 4,
 			["id"] = "36247:0:0:0:1677",
 			["sc"] = 3,
 			["H3169"] = 322761344,
+		},
+		["Divine Warblade of the Quickblade"] = {
+			["mr"] = 9450132,
+			["cc"] = 2,
+			["L3169"] = 9450132,
+			["id"] = "15258:0:0:0:1677",
+			["sc"] = 8,
+			["H3169"] = 9450135,
 		},
 		["Crimsonwood Breeches of the Quickblade"] = {
 			["mr"] = 12000000,
@@ -18874,12 +18882,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 12000000,
 		},
-		["Shimmerscale"] = {
-			["mr"] = 722000,
-			["cc"] = 7,
-			["id"] = "153050:0:0:0:0",
-			["sc"] = 6,
-			["H3174"] = 722000,
+		["Talhide Lined-Leggings of the Quickblade"] = {
+			["mr"] = 9550585,
+			["cc"] = 4,
+			["id"] = "24907:0:0:0:1677",
+			["sc"] = 3,
+			["H3169"] = 9550585,
 		},
 		["Freehold Shoulderpads of the Quickblade"] = {
 			["mr"] = 2485000,
@@ -18888,12 +18896,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 2485000,
 		},
-		["Talhide Lined-Leggings of the Quickblade"] = {
-			["mr"] = 9550585,
+		["Shimmerscale Waistguard of the Aurora"] = {
+			["mr"] = 4999962,
 			["cc"] = 4,
-			["id"] = "24907:0:0:0:1677",
+			["id"] = "154152:0:0:0:1707",
 			["sc"] = 3,
-			["H3169"] = 9550585,
+			["H3174"] = 4999962,
 		},
 		["Foothold Shoulderpads of the Quickblade"] = {
 			["mr"] = 8938392,
@@ -18932,12 +18940,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 4,
 			["H3169"] = 80010072,
 		},
-		["Elegant Gloves of the Quickblade"] = {
-			["mr"] = 6620000,
+		["Bonelink Wall Shield of the Fireflash"] = {
+			["mr"] = 25621941,
 			["cc"] = 4,
-			["id"] = "10214:0:0:0:1681",
-			["sc"] = 1,
-			["H3169"] = 6620000,
+			["id"] = "15618:0:0:0:1691",
+			["sc"] = 6,
+			["H3178"] = 25621941,
 		},
 		["Bluefen Sandals of the Quickblade"] = {
 			["mr"] = 4635993,
@@ -18954,13 +18962,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 			["H3169"] = 91658507,
 		},
-		["Pattern: Pink Mageweave Shirt"] = {
-			["mr"] = 21460306,
-			["cc"] = 9,
-			["id"] = "10317:0:0:0:0",
-			["sc"] = 2,
-			["H3178"] = 21460306,
-		},
 		["Unstable Temporal Time Shifter"] = {
 			["mr"] = 14590000,
 			["cc"] = 0,
@@ -18974,6 +18975,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "36169:0:0:0:1677",
 			["sc"] = 2,
 			["H3169"] = 4508985,
+		},
+		["Soulkeeper Scepter of the Quickblade"] = {
+			["mr"] = 3104604,
+			["cc"] = 2,
+			["id"] = "116551:0:0:0:3875",
+			["sc"] = 4,
+			["H3169"] = 3104604,
 		},
 		["Durable Boots of the Quickblade"] = {
 			["mr"] = 9309945,
@@ -19003,12 +19011,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["H3169"] = 4092026,
 		},
-		["Chain Links of Fraying Awe"] = {
-			["mr"] = 5000000,
-			["cc"] = 4,
-			["id"] = "163931:0:0:0:1472",
-			["sc"] = 3,
-			["H3178"] = 5000000,
+		["Shimmering Ink"] = {
+			["mr"] = 499998,
+			["cc"] = 7,
+			["id"] = "43122:0:0:0:0",
+			["sc"] = 16,
+			["H3178"] = 499998,
 		},
 		["Revenant Leggings of the Quickblade"] = {
 			["mr"] = 10999889,
@@ -19023,13 +19031,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "24778:0:0:0:1680",
 			["sc"] = 2,
 			["H3169"] = 10055803,
-		},
-		["Greater Flask of the Undertow"] = {
-			["mr"] = 15000000,
-			["sc"] = 3,
-			["H3174"] = 15000000,
-			["cc"] = 0,
-			["id"] = "168654:0:0:0:0",
 		},
 		["Phalanx Girdle of the Aurora"] = {
 			["mr"] = 40013867,
@@ -19052,6 +19053,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3174"] = 64783527,
 		},
+		["Granite Necklace of the Quickblade"] = {
+			["mr"] = 13219823,
+			["cc"] = 4,
+			["id"] = "12036:0:0:0:1679",
+			["sc"] = 0,
+			["H3169"] = 13219823,
+		},
 		["Discarded Swampstalker Boots of the Quickblade"] = {
 			["mr"] = 175602061,
 			["cc"] = 4,
@@ -19059,12 +19067,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3169"] = 175602061,
 		},
-		["Phalanx Spaulders of the Aurora"] = {
-			["mr"] = 11201929,
+		["Bonelink Gauntlets of the Aurora"] = {
+			["mr"] = 105791983,
 			["cc"] = 4,
-			["id"] = "7424:0:0:0:4278",
+			["id"] = "15612:0:0:0:1707",
 			["sc"] = 3,
-			["H3174"] = 11201929,
+			["H3178"] = 105791983,
 		},
 		["Golden Fleet Mace of the Quickblade"] = {
 			["mr"] = 1200000,
@@ -19080,12 +19088,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H3169"] = 11249617,
 		},
-		["Zem'lan Longsword of the Quickblade"] = {
-			["mr"] = 3329308,
-			["cc"] = 2,
-			["id"] = "159601:0:0:0:4796",
-			["sc"] = 8,
-			["H3169"] = 3329308,
+		["Headshrinker's Wristguards"] = {
+			["mr"] = 162055775,
+			["cc"] = 4,
+			["id"] = "164492:0:0:0:0",
+			["sc"] = 3,
+			["H3178"] = 162055775,
 		},
 		["Warmonger's Buckler of the Quickblade"] = {
 			["mr"] = 2783056,
@@ -19108,13 +19116,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 13,
 			["H3174"] = 169354590,
 		},
-		["Shimmerscale Pauldrons of the Aurora"] = {
-			["mr"] = 4999996,
-			["cc"] = 4,
-			["id"] = "154151:0:0:0:1704",
-			["sc"] = 3,
-			["H3174"] = 4999996,
-		},
 		["Shimmerscale Gauntlets of the Harmonious"] = {
 			["mr"] = 3999962,
 			["cc"] = 4,
@@ -19135,6 +19136,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "1990:0:0:0:1680",
 			["sc"] = 5,
 			["H3169"] = 499998,
+		},
+		["Jade Deflector of the Quickblade"] = {
+			["mr"] = 70499957,
+			["cc"] = 4,
+			["id"] = "14916:0:0:0:1681",
+			["sc"] = 6,
+			["H3169"] = 70499957,
 		},
 		["Hyperion Pauldrons of the Quickblade"] = {
 			["mr"] = 5988885,

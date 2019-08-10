@@ -26,17 +26,19 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1564950365,
+				["lastUpdate"] = 1565389137,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1562529987,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|375396899"] = "476917|1565231481|0|1",
-					["The Eternal Palace Heroic|375389215"] = "476917|1565231481|0|1",
+					["Operation: Mechagon Mythic|375529519"] = "290685|1565417713|0|0",
+					["Battle of Dazar'alor Mythic|375396899"] = "290685|1565417713|0|1",
+					["The Eternal Palace Mythic|375535793"] = "290685|1565417713|0|1",
+					["The Eternal Palace Heroic|375389215"] = "290685|1565417713|0|1",
 				},
-				["lastUpdate"] = 1565231475,
+				["lastUpdate"] = 1565420258,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
@@ -50,7 +52,7 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1564952131,
+				["lastUpdate"] = 1565387232,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1562529857,
