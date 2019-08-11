@@ -6,22 +6,22 @@ DeathNoteDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
 				["w"] = 899.2450561523438,
-				["y"] = 135.345458984375,
-				["x"] = -645.0312805175781,
+				["y"] = 176.6034240722656,
+				["x"] = 881.5099792480469,
 				["namelist"] = 2,
-				["h"] = 706.2892456054688,
+				["h"] = 706.2893676757813,
 			},
 		},
 		["Toshtrial - Blood Furnace"] = {
@@ -40,6 +40,18 @@ DeathNoteDB = {
 				["namelist"] = 2,
 			},
 		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+			["searchbox_text"] = "",
+			["display"] = {
+				["y"] = 302.193634033203,
+				["namelist"] = 2,
+				["x"] = 1047.78375244141,
+				["w"] = 699.999633789063,
+				["h"] = 500.000183105469,
+			},
+		},
 		["Toshmonk - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
@@ -49,10 +61,6 @@ DeathNoteDB = {
 				["w"] = 941.015380859375,
 				["namelist"] = 2,
 			},
-		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
@@ -66,15 +74,7 @@ DeathNoteDB = {
 				["x"] = 1196.145690917969,
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
-			["searchbox_text"] = "",
-			["display"] = {
-				["y"] = 302.193634033203,
-				["namelist"] = 2,
-				["x"] = 1047.78375244141,
-				["w"] = 699.999633789063,
-				["h"] = 500.000183105469,
-			},
+		["Koutetsu - Frostwolf"] = {
 		},
 	},
 }

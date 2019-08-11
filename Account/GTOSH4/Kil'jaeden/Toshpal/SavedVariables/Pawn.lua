@@ -12,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 449,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:70::11:4:6316:4932:4933:1586:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 451,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1588:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159407,
@@ -32,9 +32,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168688::::::::120:65::13:2:1700:5804:::|h[Banded Osmenite Girdle of the Feverflare]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 158361,
-			["Level"] = 435,
-			["Link"] = "|cffa335ee|Hitem:158361::::::::120:65::16:5:5010:41:1602:5850:4783:::|h[Sharkwater Waders]|h|r",
+			["ID"] = 168685,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:168685::168641::::::120:65::13:2:1706:5804:::|h[Banded Osmenite Legguards of the Aurora]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 170143,

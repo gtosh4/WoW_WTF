@@ -6,12 +6,12 @@ DataStore_AgendaDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["global"] = {
 		["Options"] = {
@@ -33,12 +33,12 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|375529519"] = "290685|1565417713|0|0",
-					["Battle of Dazar'alor Mythic|375396899"] = "290685|1565417713|0|1",
-					["The Eternal Palace Mythic|375535793"] = "290685|1565417713|0|1",
-					["The Eternal Palace Heroic|375389215"] = "290685|1565417713|0|1",
+					["Operation: Mechagon Mythic|375529519"] = "203678|1565504720|0|0",
+					["Battle of Dazar'alor Mythic|375396899"] = "203678|1565504720|0|1",
+					["The Eternal Palace Mythic|375535793"] = "203678|1565504720|0|1",
+					["The Eternal Palace Heroic|375389215"] = "203678|1565504720|0|1",
 				},
-				["lastUpdate"] = 1565420258,
+				["lastUpdate"] = 1565505515,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,

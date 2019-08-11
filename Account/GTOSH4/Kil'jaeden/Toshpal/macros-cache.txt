@@ -2,6 +2,7 @@ VER 3 0100000000000020 "AW" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Avenging Wrath
 /cast Rule of Law
+/use Azerite Firework Launcher
 END
 VER 3 010000000000001C "beacon" "INV_MISC_QUESTIONMARK"
 #showtooltip
