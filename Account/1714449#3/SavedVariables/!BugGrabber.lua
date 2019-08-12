@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 854,
+	["session"] = 858,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -27,5 +27,13 @@ BugGrabberDB = {
 			["session"] = 853,
 			["counter"] = 2,
 		}, -- [3]
+		{
+			["message"] = "Interface\\FrameXML\\QuestInfo.lua:73: Usage: local isCampaignQuest = C_CampaignInfo.IsCampaignQuest(questID)",
+			["time"] = "2019/08/11 19:42:57",
+			["locals"] = "(*temporary) = nil\n",
+			["stack"] = "[C]: in function `IsCampaignQuest'\nInterface\\FrameXML\\QuestInfo.lua:73: in function <Interface\\FrameXML\\QuestInfo.lua:51>\n[C]: ?\n[C]: in function `QuestInfo_Display'\nInterface\\FrameXML\\QuestMapFrame.lua:301: in function <Interface\\FrameXML\\QuestMapFrame.lua:296>\n[C]: in function `QuestMapFrame_ShowQuestDetails'\nInterface\\FrameXML\\QuestMapFrame.lua:266: in function `QuestMapFrame_UpdateAll'\nInterface\\FrameXML\\QuestMapFrame.lua:170: in function <Interface\\FrameXML\\QuestMapFrame.lua:92>",
+			["session"] = 856,
+			["counter"] = 1,
+		}, -- [4]
 	},
 }

@@ -8,20 +8,20 @@ RareShareDB = {
 			["Master"] = true,
 			["Duplicates"] = true,
 		},
+		["ChatAnnounce"] = true,
+		["OnDeath"] = true,
 		["CChannel"] = {
 			["CID"] = 0,
 			["CName"] = "nil",
 		},
-		["OnDeath"] = true,
 		["Sound"] = {
 			["Rares"] = true,
 			["Master"] = true,
 			["Duplicates"] = true,
 		},
-		["ChatAnnounce"] = true,
 	},
 	["LastAnnounce"] = {
-		["Time"] = 0,
-		["ID"] = 0,
+		["Time"] = 1565590814,
+		["ID"] = 154153,
 	},
 }

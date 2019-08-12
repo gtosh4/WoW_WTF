@@ -20,6 +20,8 @@ VER 3 010000000000001A "fol" "INV_MISC_QUESTIONMARK"
 #showtooltip Flash of Light
 /cast [@mouseover,noharm,nodead][] Flash of Light
 END
+VER 3 0100000000000021 "FREEDOM" "INV_MISC_QUESTIONMARK"
+END
 VER 3 0100000000000019 "hl" "INV_MISC_QUESTIONMARK"
 #showtooltip Holy Light
 /cast [@mouseover,noharm,nodead][] Holy Light

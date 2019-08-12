@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
-	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
-	["LOG_DE_DATA_X"] = true,
+	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
 	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
+	["LOG_DE_DATA_X"] = true,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -39,56 +39,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Baked port tato", -- [1]
-			"Unbridled", -- [2]
-			"Monel-hardened stirrups", -- [3]
-			"Monelite ore", -- [4]
-			"contract", -- [5]
-			"Pact of haste", -- [6]
-			"Potion of Replenishment", -- [7]
-			"Vantus Rune", -- [8]
-			"Anchor Weed", -- [9]
-			"Winter's Kiss", -- [10]
-			"Akunda's Bite", -- [11]
-			"coastal healing potion", -- [12]
-			"Deadly amberblaze", -- [13]
-			"Felwort", -- [14]
-			"Siren's Pollen", -- [15]
-			"Battle-Scarred Augment Rune", -- [16]
-			"Vantus Rune: Battle of Dazar'alor", -- [17]
-			"Pact of Critical", -- [18]
-			"time shifter", -- [19]
-			"time-shifter", -- [20]
-			"Ultramarine", -- [21]
-			"hexweave bag", -- [22]
-			"Battle Shout", -- [23]
-			"Battle flag", -- [24]
-			"crafting", -- [25]
-			"Star moss", -- [26]
-			"Riverbud", -- [27]
-			"Sugar Crusted", -- [28]
-			"Sugar-Crusted", -- [29]
-			"Fish", -- [30]
-			"Feast", -- [31]
-			"Fish Feast", -- [32]
-			"Great sea catfish", -- [33]
-			"Drums", -- [34]
-			"Drums of maelstrom", -- [35]
-			"Kraken's Eye of intellect", -- [36]
-			"coarse leather", -- [37]
-			"Alchemist stone", -- [38]
-			"Darkmoon deck: tides", -- [39]
-			"tides", -- [40]
-			"Goblin glider", -- [41]
-			"Pact of versatility", -- [42]
-			"Versatile navigation", -- [43]
-			"Viridescent Ink", -- [44]
-			"quick navigation", -- [45]
-			"quick owlseye", -- [46]
-			"helmet", -- [47]
-			"Deep sea", -- [48]
-			"Diver's", -- [49]
-			"Diver", -- [50]
+			"of haste", -- [1]
+			"Baked port tato", -- [2]
+			"Unbridled", -- [3]
+			"Monel-hardened stirrups", -- [4]
+			"Monelite ore", -- [5]
+			"contract", -- [6]
+			"Pact of haste", -- [7]
+			"Potion of Replenishment", -- [8]
+			"Vantus Rune", -- [9]
+			"Anchor Weed", -- [10]
+			"Winter's Kiss", -- [11]
+			"Akunda's Bite", -- [12]
+			"coastal healing potion", -- [13]
+			"Deadly amberblaze", -- [14]
+			"Felwort", -- [15]
+			"Siren's Pollen", -- [16]
+			"Battle-Scarred Augment Rune", -- [17]
+			"Vantus Rune: Battle of Dazar'alor", -- [18]
+			"Pact of Critical", -- [19]
+			"time shifter", -- [20]
+			"time-shifter", -- [21]
+			"Ultramarine", -- [22]
+			"hexweave bag", -- [23]
+			"Battle Shout", -- [24]
+			"Battle flag", -- [25]
+			"crafting", -- [26]
+			"Star moss", -- [27]
+			"Riverbud", -- [28]
+			"Sugar Crusted", -- [29]
+			"Sugar-Crusted", -- [30]
+			"Fish", -- [31]
+			"Feast", -- [32]
+			"Fish Feast", -- [33]
+			"Great sea catfish", -- [34]
+			"Drums", -- [35]
+			"Drums of maelstrom", -- [36]
+			"Kraken's Eye of intellect", -- [37]
+			"coarse leather", -- [38]
+			"Alchemist stone", -- [39]
+			"Darkmoon deck: tides", -- [40]
+			"tides", -- [41]
+			"Goblin glider", -- [42]
+			"Pact of versatility", -- [43]
+			"Versatile navigation", -- [44]
+			"Viridescent Ink", -- [45]
+			"quick navigation", -- [46]
+			"quick owlseye", -- [47]
+			"helmet", -- [48]
+			"Deep sea", -- [49]
+			"Diver's", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -187,11 +187,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 		},
 		["Enchant Ring - Pact of Haste"] = {
-			["mr"] = 11989999,
+			["mr"] = 10510000,
+			["sc"] = 10,
+			["H3191"] = 10510000,
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
-			["H3130"] = 11989999,
-			["sc"] = 10,
 		},
 		["Tidespray Linen Belt of the Feverflare"] = {
 			["mr"] = 19838453,
@@ -265,6 +265,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "138967:0:0:0:0",
 			["cc"] = 7,
 			["H3017"] = 39199,
+		},
+		["Enchant Cloak - Gift of Haste"] = {
+			["mr"] = 9496424,
+			["cc"] = 8,
+			["id"] = "110653:0:0:0:0",
+			["sc"] = 3,
+			["H3191"] = 9496424,
 		},
 		["Recipe: Mightfish Steak"] = {
 			["mr"] = 3609909,
@@ -446,13 +453,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 23578859,
 		},
-		["Enchant Ring - Pact of Versatility"] = {
-			["mr"] = 45999979,
-			["cc"] = 8,
-			["id"] = "153445:0:0:0:0",
-			["sc"] = 10,
-			["H3011"] = 45999979,
-		},
 		["Axefish Lure"] = {
 			["mr"] = 19990000,
 			["sc"] = 8,
@@ -567,6 +567,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 2000049,
 		},
+		["Potion of Replenishment"] = {
+			["mr"] = 1362500,
+			["cc"] = 0,
+			["id"] = "152561:0:0:0:0",
+			["H3126"] = 1362500,
+			["sc"] = 1,
+		},
 		["Glyph of the Tideskipper"] = {
 			["mr"] = 219990000,
 			["cc"] = 16,
@@ -602,12 +609,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154686:0:0:0:1683",
 			["sc"] = 1,
 		},
+		["Great Sea Catfish"] = {
+			["mr"] = 106999,
+			["sc"] = 8,
+			["id"] = "152547:0:0:0:0",
+			["cc"] = 7,
+			["H3017"] = 106999,
+		},
 		["Tidespray Linen Bracers of the Harmonious"] = {
 			["mr"] = 4992500,
 			["cc"] = 4,
 			["H3012"] = 4992500,
 			["id"] = "154692:0:0:0:1717",
 			["sc"] = 1,
+		},
+		["Enchant Ring - Gift of Haste"] = {
+			["mr"] = 8677888,
+			["cc"] = 8,
+			["id"] = "110639:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 8677888,
 		},
 		["Tidespray Linen Sandals of the Quickblade"] = {
 			["mr"] = 14534383,
@@ -616,6 +637,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154686:0:0:0:1678",
 			["sc"] = 1,
 			["L3012"] = 14534383,
+		},
+		["Battle Flag: Rallying Swiftness"] = {
+			["mr"] = 2667839,
+			["cc"] = 0,
+			["id"] = "154705:0:0:0:0",
+			["sc"] = 8,
+			["H3018"] = 2667839,
 		},
 		["Seed-Battered Fish Plate"] = {
 			["mr"] = 25000,
@@ -639,12 +667,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153666:0:0:0:0",
 			["sc"] = 8,
 		},
-		["Battle Flag: Rallying Swiftness"] = {
-			["mr"] = 2667839,
-			["cc"] = 0,
-			["id"] = "154705:0:0:0:0",
-			["sc"] = 8,
-			["H3018"] = 2667839,
+		["Enchant Ring - Accord of Haste"] = {
+			["mr"] = 12930000,
+			["cc"] = 8,
+			["id"] = "168447:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 12930000,
 		},
 		["Formula: Enchant Gloves - Fishing"] = {
 			["mr"] = 6129425194,
@@ -652,6 +680,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "11152:0:0:0:0",
 			["cc"] = 9,
 			["H3017"] = 6129425194,
+		},
+		["Tidespray Linen Bracers of the Fireflash"] = {
+			["mr"] = 4990001,
+			["cc"] = 4,
+			["H3012"] = 4990001,
+			["id"] = "154692:0:0:0:1696",
+			["sc"] = 1,
 		},
 		["Coarse Leather Waistguard of the Harmonious"] = {
 			["mr"] = 2000000,
@@ -661,12 +696,33 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 2004194,
 		},
+		["Coarse Leather Waistguard of the Aurora"] = {
+			["mr"] = 5002208,
+			["cc"] = 4,
+			["id"] = "154144:0:0:0:1704",
+			["sc"] = 2,
+			["H3016"] = 5002208,
+		},
 		["Tidespray Linen"] = {
 			["mr"] = 47198,
 			["cc"] = 7,
 			["H3012"] = 47198,
 			["id"] = "152576:0:0:0:0",
 			["sc"] = 5,
+		},
+		["Contract: Tortollan Seekers"] = {
+			["mr"] = 5439995,
+			["cc"] = 0,
+			["H3156"] = 5439995,
+			["id"] = "153667:0:0:0:0",
+			["sc"] = 8,
+		},
+		["Enchant Ring - Seal of Haste"] = {
+			["mr"] = 217999,
+			["cc"] = 8,
+			["id"] = "153439:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 217999,
 		},
 		["Twin Fish Platter"] = {
 			["mr"] = 362904,
@@ -690,6 +746,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 13,
 			["H3016"] = 17917691,
 		},
+		["Astral Alchemist Stone"] = {
+			["mr"] = 206761115,
+			["cc"] = 4,
+			["H3012"] = 206761115,
+			["id"] = "151607:0:0:0:601",
+			["sc"] = 0,
+		},
 		["Ace of the Tides"] = {
 			["mr"] = 6769998,
 			["cc"] = 12,
@@ -711,33 +774,35 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 9,
 			["H3120"] = 299998899,
 		},
-		["Potion of Replenishment"] = {
-			["mr"] = 1362500,
-			["cc"] = 0,
-			["id"] = "152561:0:0:0:0",
-			["H3126"] = 1362500,
-			["sc"] = 1,
+		["Recipe: Golden Fish Sticks"] = {
+			["mr"] = 550000,
+			["sc"] = 5,
+			["id"] = "27699:0:0:0:0",
+			["cc"] = 9,
+			["H3017"] = 550000,
 		},
-		["Great Sea Catfish"] = {
-			["mr"] = 106999,
-			["sc"] = 8,
-			["id"] = "152547:0:0:0:0",
-			["cc"] = 7,
-			["H3017"] = 106999,
-		},
-		["Coastal Healing Potion"] = {
-			["mr"] = 109919,
-			["sc"] = 1,
-			["id"] = "152494:0:0:0:0",
-			["cc"] = 0,
-			["H3085"] = 109919,
-		},
-		["Tidespray Linen Hood of the Fireflash"] = {
-			["mr"] = 23331659,
+		["Tidespray Linen Spaulders of the Harmonious"] = {
+			["mr"] = 10838289,
 			["cc"] = 4,
-			["H3012"] = 23331659,
-			["id"] = "154688:0:0:0:1696",
+			["H3012"] = 10838290,
+			["id"] = "154690:0:0:0:1715",
 			["sc"] = 1,
+			["L3012"] = 10838289,
+		},
+		["Goblin Glider Kit"] = {
+			["mr"] = 119498,
+			["cc"] = 0,
+			["H3012"] = 119498,
+			["id"] = "109076:0:0:0:0",
+			["sc"] = 8,
+		},
+		["Coarse Leather Waistguard of the Feverflare"] = {
+			["mr"] = 1987469,
+			["cc"] = 4,
+			["L3016"] = 1987469,
+			["id"] = "154144:0:0:0:1699",
+			["sc"] = 2,
+			["H3016"] = 20691540,
 		},
 		["Coarse Leather Waistguard of the Fireflash"] = {
 			["mr"] = 2002231,
@@ -775,12 +840,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154688:0:0:0:1704",
 			["sc"] = 1,
 		},
-		["Tidespray Linen Bracers of the Fireflash"] = {
-			["mr"] = 4990001,
-			["cc"] = 4,
-			["H3012"] = 4990001,
-			["id"] = "154692:0:0:0:1696",
-			["sc"] = 1,
+		["Anchor Weed"] = {
+			["H3098"] = 276000,
+			["mr"] = 276000,
+			["cc"] = 7,
+			["id"] = "152510:0:0:0:0",
+			["sc"] = 9,
 		},
 		["Strong Fishing Pole"] = {
 			["mr"] = 13774999,
@@ -796,19 +861,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "168960:0:0:0:0",
 			["sc"] = 8,
 		},
-		["Coarse Leather Waistguard of the Aurora"] = {
-			["mr"] = 5002208,
-			["cc"] = 4,
-			["id"] = "154144:0:0:0:1704",
-			["sc"] = 2,
-			["H3016"] = 5002208,
+		["Recipe: Bristle Whisker Catfish"] = {
+			["mr"] = 440000,
+			["sc"] = 5,
+			["id"] = "6330:0:0:0:0",
+			["cc"] = 9,
+			["H3017"] = 440000,
 		},
-		["Contract: Tortollan Seekers"] = {
-			["mr"] = 5439995,
-			["cc"] = 0,
-			["H3156"] = 5439995,
-			["id"] = "153667:0:0:0:0",
-			["sc"] = 8,
+		["Enchant Neck - Gift of Haste"] = {
+			["mr"] = 7013000,
+			["cc"] = 8,
+			["id"] = "110646:0:0:0:0",
+			["sc"] = 1,
+			["H3191"] = 7013000,
 		},
 		["19 Pound Catfish"] = {
 			["mr"] = 999998,
@@ -838,12 +903,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3052"] = 12479999,
 			["sc"] = 10,
 		},
-		["Astral Alchemist Stone"] = {
-			["mr"] = 206761115,
+		["Darkmoon Deck: Tides"] = {
+			["mr"] = 69969987,
 			["cc"] = 4,
-			["H3012"] = 206761115,
-			["id"] = "151607:0:0:0:601",
+			["H3012"] = 69990000,
+			["id"] = "159127:0:0:0:0",
 			["sc"] = 0,
+			["L3012"] = 69969987,
 		},
 		["Vantus Rune: Uldir"] = {
 			["mr"] = 16633692,
@@ -859,19 +925,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 1499999,
 		},
+		["Fishsticker Crossbow"] = {
+			["mr"] = 44055323,
+			["sc"] = 18,
+			["id"] = "87650:0:0:0:4210",
+			["cc"] = 2,
+			["H3017"] = 44055323,
+		},
 		["Sugar-Crusted Fish Feast"] = {
 			["mr"] = 3250000,
 			["sc"] = 5,
 			["id"] = "126936:0:0:0:0",
 			["cc"] = 0,
 			["H3018"] = 3250000,
-		},
-		["Tidespray Linen Cloak of the Fireflash"] = {
-			["mr"] = 14360669,
-			["cc"] = 4,
-			["H3012"] = 14360669,
-			["id"] = "154697:0:0:0:1694",
-			["sc"] = 1,
 		},
 		["Baked Port Tato"] = {
 			["H3183"] = 490000,
@@ -901,13 +967,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 21729527,
 		},
-		["Tidespray Linen Spaulders of the Harmonious"] = {
-			["mr"] = 10838289,
+		["Coarse Leather Gauntlets of the Harmonious"] = {
+			["mr"] = 44314603,
 			["cc"] = 4,
-			["H3012"] = 10838290,
-			["id"] = "154690:0:0:0:1715",
-			["sc"] = 1,
-			["L3012"] = 10838289,
+			["id"] = "154140:0:0:0:1712",
+			["sc"] = 2,
+			["H3016"] = 44314603,
 		},
 		["Tidespray Linen Robe of the Aurora"] = {
 			["mr"] = 13705835,
@@ -951,19 +1016,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 8,
 			["H3018"] = 1332665,
 		},
-		["Goblin Glider Kit"] = {
-			["mr"] = 119498,
-			["cc"] = 0,
-			["H3012"] = 119498,
-			["id"] = "109076:0:0:0:0",
-			["sc"] = 8,
+		["Tidespray Linen Hood of the Feverflare"] = {
+			["mr"] = 23331664,
+			["cc"] = 4,
+			["H3012"] = 23331664,
+			["id"] = "154688:0:0:0:1702",
+			["sc"] = 1,
 		},
-		["Enchant Gloves - Zandalari Crafting"] = {
-			["mr"] = 493999,
-			["sc"] = 6,
-			["id"] = "159471:0:0:0:0",
-			["cc"] = 8,
-			["H3017"] = 493999,
+		["Tidespray Linen Mittens of the Peerless"] = {
+			["mr"] = 32509988,
+			["cc"] = 4,
+			["H3012"] = 32509988,
+			["id"] = "154687:0:0:0:1685",
+			["sc"] = 1,
 		},
 		["Contract: Talanji's Expedition"] = {
 			["mr"] = 2669974,
@@ -972,12 +1037,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153665:0:0:0:0",
 			["sc"] = 8,
 		},
-		["Recipe: Bristle Whisker Catfish"] = {
-			["mr"] = 440000,
-			["sc"] = 5,
-			["id"] = "6330:0:0:0:0",
-			["cc"] = 9,
-			["H3017"] = 440000,
+		["Tidespray Linen Mittens of the Quickblade"] = {
+			["mr"] = 32509987,
+			["cc"] = 4,
+			["H3012"] = 32509987,
+			["id"] = "154687:0:0:0:1676",
+			["sc"] = 1,
 		},
 		["Battle Flag: Spirit of Freedom"] = {
 			["mr"] = 2749999,
@@ -993,12 +1058,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153611:0:0:0:0",
 			["sc"] = 0,
 		},
-		["Anchor Weed"] = {
-			["H3098"] = 276000,
-			["mr"] = 276000,
-			["cc"] = 7,
-			["id"] = "152510:0:0:0:0",
-			["sc"] = 9,
+		["Tidespray Linen Robe of the Fireflash"] = {
+			["mr"] = 13705834,
+			["cc"] = 4,
+			["H3012"] = 13705834,
+			["id"] = "154685:0:0:0:1694",
+			["sc"] = 1,
 		},
 		["Recipe: Smoked Sagefish"] = {
 			["mr"] = 760488,
@@ -1021,12 +1086,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 13,
 			["H3016"] = 20620529,
 		},
-		["Drums of Restoration"] = {
-			["mr"] = 1765524100,
-			["sc"] = 8,
-			["id"] = "29531:0:0:0:0",
-			["cc"] = 0,
-			["H3017"] = 1765524100,
+		["Tidespray Linen Mittens of the Feverflare"] = {
+			["mr"] = 32509987,
+			["cc"] = 4,
+			["H3012"] = 32509987,
+			["id"] = "154687:0:0:0:1699",
+			["sc"] = 1,
 		},
 		["Winter's Kiss"] = {
 			["H3098"] = 64500,
@@ -1056,12 +1121,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3060"] = 758499,
 			["sc"] = 5,
 		},
-		["Tidespray Linen Mittens of the Quickblade"] = {
-			["mr"] = 32509987,
-			["cc"] = 4,
-			["H3012"] = 32509987,
-			["id"] = "154687:0:0:0:1676",
-			["sc"] = 1,
+		["Bloodstained Message"] = {
+			["mr"] = 7434996,
+			["cc"] = 15,
+			["id"] = "158879:0:0:0:0",
+			["H3020"] = 7434996,
+			["sc"] = 0,
 		},
 		["Aquadynamic Fish Attractor"] = {
 			["mr"] = 210525,
@@ -1070,13 +1135,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 210525,
 		},
-		["Darkmoon Deck: Tides"] = {
-			["mr"] = 69969987,
-			["cc"] = 4,
-			["H3012"] = 69990000,
-			["id"] = "159127:0:0:0:0",
-			["sc"] = 0,
-			["L3012"] = 69969987,
+		["War-Scroll of Battle Shout"] = {
+			["mr"] = 2882500,
+			["cc"] = 0,
+			["id"] = "158202:0:0:0:0",
+			["sc"] = 8,
+			["H3018"] = 2882500,
 		},
 		["Drums of Fury"] = {
 			["mr"] = 399897,
@@ -1085,18 +1149,18 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 399897,
 		},
-		["Fishsticker Crossbow"] = {
-			["mr"] = 44055323,
-			["sc"] = 18,
-			["id"] = "87650:0:0:0:4210",
-			["cc"] = 2,
-			["H3017"] = 44055323,
+		["Riverbud"] = {
+			["mr"] = 350000,
+			["sc"] = 9,
+			["id"] = "152505:0:0:0:0",
+			["cc"] = 7,
+			["H3018"] = 350000,
 		},
-		["Tidespray Linen Robe of the Quickblade"] = {
-			["mr"] = 13705835,
+		["Tidespray Linen Hood of the Harmonious"] = {
+			["mr"] = 23331659,
 			["cc"] = 4,
-			["H3012"] = 13705835,
-			["id"] = "154685:0:0:0:1679",
+			["H3012"] = 23331659,
+			["id"] = "154688:0:0:0:1712",
 			["sc"] = 1,
 		},
 		["Coarse Leather Armguards of the Feverflare"] = {
@@ -1106,12 +1170,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 12978237,
 		},
-		["Coarse Leather Armguards of the Harmonious"] = {
-			["mr"] = 11591686,
+		["Tidespray Linen Cloak of the Aurora"] = {
+			["mr"] = 14360670,
 			["cc"] = 4,
-			["id"] = "154145:0:0:0:1717",
-			["sc"] = 2,
-			["H3016"] = 11591686,
+			["H3012"] = 14360670,
+			["id"] = "154697:0:0:0:1706",
+			["sc"] = 1,
 		},
 		["Coarse Leather Helm of the Quickblade"] = {
 			["mr"] = 1000000,
@@ -1134,84 +1198,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "165017:0:0:0:0",
 			["sc"] = 8,
 		},
-		["Tidespray Linen Mittens of the Peerless"] = {
-			["mr"] = 32509988,
-			["cc"] = 4,
-			["H3012"] = 32509988,
-			["id"] = "154687:0:0:0:1685",
-			["sc"] = 1,
-		},
-		["Bloodstained Message"] = {
-			["mr"] = 7434996,
-			["cc"] = 15,
-			["id"] = "158879:0:0:0:0",
-			["H3020"] = 7434996,
-			["sc"] = 0,
-		},
-		["City Crusher Sabatons"] = {
-			["H3044"] = 1599999991,
-			["mr"] = 1599999991,
-			["sc"] = 3,
-			["L3044"] = 214450000,
-			["cc"] = 4,
-			["id"] = "165547:0:0:0:4800",
-		},
-		["Tidespray Linen Mittens of the Feverflare"] = {
-			["mr"] = 32509987,
-			["cc"] = 4,
-			["H3012"] = 32509987,
-			["id"] = "154687:0:0:0:1699",
-			["sc"] = 1,
-		},
-		["Siren's Alchemist Stone"] = {
-			["mr"] = 41650000,
-			["cc"] = 4,
-			["H3012"] = 41650000,
-			["id"] = "152637:0:0:0:4927",
-			["sc"] = 0,
-		},
-		["Tidespray Linen Robe of the Fireflash"] = {
-			["mr"] = 13705834,
-			["cc"] = 4,
-			["H3012"] = 13705834,
-			["id"] = "154685:0:0:0:1694",
-			["sc"] = 1,
-		},
-		["Coarse Leather Pauldrons of the Peerless"] = {
-			["mr"] = 1000000,
-			["cc"] = 4,
-			["id"] = "154143:0:0:0:1686",
-			["sc"] = 2,
-			["H3016"] = 1000000,
-		},
-		["Tiny Goldfish"] = {
-			["mr"] = 22563467,
-			["sc"] = 0,
-			["id"] = "652:1",
-			["cc"] = 17,
-			["H3017"] = 22563467,
-		},
-		["Riverbud"] = {
-			["mr"] = 350000,
-			["sc"] = 9,
-			["id"] = "152505:0:0:0:0",
-			["cc"] = 7,
-			["H3018"] = 350000,
-		},
-		["Tidespray Linen Hood of the Harmonious"] = {
-			["mr"] = 23331659,
-			["cc"] = 4,
-			["H3012"] = 23331659,
-			["id"] = "154688:0:0:0:1712",
-			["sc"] = 1,
-		},
-		["Tidespray Linen Cloak of the Aurora"] = {
-			["mr"] = 14360670,
-			["cc"] = 4,
-			["H3012"] = 14360670,
-			["id"] = "154697:0:0:0:1706",
-			["sc"] = 1,
-		},
 		["Monel-Hardened Stirrups"] = {
 			["mr"] = 7499895,
 			["cc"] = 0,
@@ -1226,6 +1212,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "159791:0:0:0:0",
 			["sc"] = 8,
 		},
+		["City Crusher Sabatons"] = {
+			["H3044"] = 1599999991,
+			["mr"] = 1599999991,
+			["sc"] = 3,
+			["L3044"] = 214450000,
+			["cc"] = 4,
+			["id"] = "165547:0:0:0:4800",
+		},
 		["Tidespray Linen Bracers of the Peerless"] = {
 			["mr"] = 4990000,
 			["cc"] = 4,
@@ -1233,12 +1227,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154692:0:0:0:1685",
 			["sc"] = 1,
 		},
+		["Siren's Alchemist Stone"] = {
+			["mr"] = 41650000,
+			["cc"] = 4,
+			["H3012"] = 41650000,
+			["id"] = "152637:0:0:0:4927",
+			["sc"] = 0,
+		},
 		["Sharpened Fish Hook"] = {
 			["mr"] = 877951,
 			["sc"] = 8,
 			["id"] = "34861:0:0:0:0",
 			["cc"] = 0,
 			["H3017"] = 877951,
+		},
+		["Coarse Leather Pauldrons of the Peerless"] = {
+			["mr"] = 1000000,
+			["cc"] = 4,
+			["id"] = "154143:0:0:0:1686",
+			["sc"] = 2,
+			["H3016"] = 1000000,
 		},
 		["Coarse Leather Pauldrons of the Aurora"] = {
 			["mr"] = 1000000,
@@ -1282,12 +1290,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 500000,
 		},
-		["Tidespray Linen Hood of the Quickblade"] = {
-			["mr"] = 23331660,
-			["cc"] = 4,
-			["H3012"] = 23331660,
-			["id"] = "154688:0:0:0:1681",
-			["sc"] = 1,
+		["Tiny Goldfish"] = {
+			["mr"] = 22563467,
+			["sc"] = 0,
+			["id"] = "652:1",
+			["cc"] = 17,
+			["H3017"] = 22563467,
 		},
 		["Crescent Saberfish"] = {
 			["mr"] = 90000,
@@ -1296,12 +1304,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 7,
 			["H3017"] = 90000,
 		},
-		["Tidespray Linen Cloak of the Harmonious"] = {
-			["mr"] = 14360670,
-			["cc"] = 4,
-			["H3012"] = 14360670,
-			["id"] = "154697:0:0:0:1715",
-			["sc"] = 1,
+		["Drums of Restoration"] = {
+			["mr"] = 1765524100,
+			["sc"] = 8,
+			["id"] = "29531:0:0:0:0",
+			["cc"] = 0,
+			["H3017"] = 1765524100,
 		},
 		["Coarse Leather Gauntlets of the Aurora"] = {
 			["mr"] = 19115368,
@@ -1325,6 +1333,62 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 1,
 			["L3012"] = 11068400,
 		},
+		["Coarse Leather Armguards of the Harmonious"] = {
+			["mr"] = 11591686,
+			["cc"] = 4,
+			["id"] = "154145:0:0:0:1717",
+			["sc"] = 2,
+			["H3016"] = 11591686,
+		},
+		["Tidespray Linen Robe of the Quickblade"] = {
+			["mr"] = 13705835,
+			["cc"] = 4,
+			["H3012"] = 13705835,
+			["id"] = "154685:0:0:0:1679",
+			["sc"] = 1,
+		},
+		["Tidespray Linen Hood of the Quickblade"] = {
+			["mr"] = 23331660,
+			["cc"] = 4,
+			["H3012"] = 23331660,
+			["id"] = "154688:0:0:0:1681",
+			["sc"] = 1,
+		},
+		["Coarse Leather Leggings of the Quickblade"] = {
+			["mr"] = 23668112,
+			["cc"] = 4,
+			["id"] = "154142:0:0:0:1680",
+			["sc"] = 2,
+			["H3016"] = 23668112,
+		},
+		["Tidespray Linen Cloak of the Harmonious"] = {
+			["mr"] = 14360670,
+			["cc"] = 4,
+			["H3012"] = 14360670,
+			["id"] = "154697:0:0:0:1715",
+			["sc"] = 1,
+		},
+		["Tidespray Linen Robe of the Peerless"] = {
+			["mr"] = 13705834,
+			["cc"] = 4,
+			["H3012"] = 13705834,
+			["id"] = "154685:0:0:0:1685",
+			["sc"] = 1,
+		},
+		["Tidespray Linen Spaulders of the Peerless"] = {
+			["mr"] = 10838289,
+			["cc"] = 4,
+			["H3012"] = 10838289,
+			["id"] = "154690:0:0:0:1687",
+			["sc"] = 1,
+		},
+		["Enchant Gloves - Zandalari Crafting"] = {
+			["mr"] = 493999,
+			["sc"] = 6,
+			["id"] = "159471:0:0:0:0",
+			["cc"] = 8,
+			["H3017"] = 493999,
+		},
 		["Glyph of Hawk Feast"] = {
 			["mr"] = 7519860,
 			["sc"] = 1,
@@ -1339,19 +1403,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 0,
 			["H3017"] = 262997,
 		},
-		["War-Scroll of Battle Shout"] = {
-			["mr"] = 2882500,
-			["cc"] = 0,
-			["id"] = "158202:0:0:0:0",
-			["sc"] = 8,
-			["H3018"] = 2882500,
+		["Fishing Pole"] = {
+			["mr"] = 60622535,
+			["sc"] = 20,
+			["id"] = "6256:0:0:0:0",
+			["cc"] = 2,
+			["H3017"] = 60622535,
 		},
-		["Coarse Leather Leggings of the Quickblade"] = {
-			["mr"] = 23668112,
+		["Tidespray Linen Cloak of the Fireflash"] = {
+			["mr"] = 14360669,
 			["cc"] = 4,
-			["id"] = "154142:0:0:0:1680",
-			["sc"] = 2,
-			["H3016"] = 23668112,
+			["H3012"] = 14360669,
+			["id"] = "154697:0:0:0:1694",
+			["sc"] = 1,
 		},
 		["Aromatic Fish Oil"] = {
 			["mr"] = 107999,
@@ -1360,12 +1424,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 7,
 			["H3017"] = 107999,
 		},
-		["Tidespray Linen Robe of the Peerless"] = {
-			["mr"] = 13705834,
-			["cc"] = 4,
-			["H3012"] = 13705834,
-			["id"] = "154685:0:0:0:1685",
+		["Enchant Neck - Breath of Haste"] = {
+			["L3191"] = 250000,
+			["mr"] = 250000,
 			["sc"] = 1,
+			["H3191"] = 26663131,
+			["cc"] = 8,
+			["id"] = "110625:0:0:0:0",
 		},
 		["Tidespray Linen Mittens of the Fireflash"] = {
 			["mr"] = 32509991,
@@ -1381,26 +1446,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 9,
 			["H3057"] = 15000000,
 		},
-		["Tidespray Linen Hood of the Feverflare"] = {
-			["mr"] = 23331664,
+		["Tidespray Linen Hood of the Fireflash"] = {
+			["mr"] = 23331659,
 			["cc"] = 4,
-			["H3012"] = 23331664,
-			["id"] = "154688:0:0:0:1702",
+			["H3012"] = 23331659,
+			["id"] = "154688:0:0:0:1696",
 			["sc"] = 1,
 		},
-		["Coarse Leather Gauntlets of the Harmonious"] = {
-			["mr"] = 44314603,
-			["cc"] = 4,
-			["id"] = "154140:0:0:0:1712",
-			["sc"] = 2,
-			["H3016"] = 44314603,
+		["Coastal Healing Potion"] = {
+			["mr"] = 109919,
+			["sc"] = 1,
+			["id"] = "152494:0:0:0:0",
+			["cc"] = 0,
+			["H3085"] = 109919,
 		},
-		["Fishing Pole"] = {
-			["mr"] = 60622535,
-			["sc"] = 20,
-			["id"] = "6256:0:0:0:0",
-			["cc"] = 2,
-			["H3017"] = 60622535,
+		["Vantus Rune: Antorus, the Burning Throne"] = {
+			["mr"] = 19899996,
+			["cc"] = 0,
+			["id"] = "151610:0:0:0:0",
+			["sc"] = 9,
+			["H3120"] = 19899996,
 		},
 		["Tidespray Linen Belt of the Peerless"] = {
 			["mr"] = 19838454,
@@ -1425,20 +1490,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 44479880,
 		},
-		["Tidespray Linen Spaulders of the Peerless"] = {
-			["mr"] = 10838289,
-			["cc"] = 4,
-			["H3012"] = 10838289,
-			["id"] = "154690:0:0:0:1687",
-			["sc"] = 1,
+		["Enchant Ring - Word of Haste"] = {
+			["mr"] = 1004967,
+			["cc"] = 8,
+			["id"] = "128538:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 1004967,
 		},
-		["Coarse Leather Waistguard of the Feverflare"] = {
-			["mr"] = 1987469,
-			["cc"] = 4,
-			["L3016"] = 1987469,
-			["id"] = "154144:0:0:0:1699",
-			["sc"] = 2,
-			["H3016"] = 20691540,
+		["Enchant Cloak - Breath of Haste"] = {
+			["mr"] = 7429251,
+			["cc"] = 8,
+			["id"] = "110632:0:0:0:0",
+			["sc"] = 3,
+			["H3191"] = 7429251,
 		},
 		["Grilled Catfish"] = {
 			["mr"] = 15000,
@@ -1454,19 +1518,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "169299:0:0:0:0",
 			["cc"] = 0,
 		},
-		["Vantus Rune: Antorus, the Burning Throne"] = {
-			["mr"] = 19899996,
-			["cc"] = 0,
-			["id"] = "151610:0:0:0:0",
-			["sc"] = 9,
-			["H3120"] = 19899996,
+		["Enchant Ring - Breath of Haste"] = {
+			["mr"] = 2481682,
+			["cc"] = 8,
+			["id"] = "110618:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 2481682,
 		},
-		["Recipe: Golden Fish Sticks"] = {
-			["mr"] = 550000,
-			["sc"] = 5,
-			["id"] = "27699:0:0:0:0",
-			["cc"] = 9,
-			["H3017"] = 550000,
+		["Enchant Ring - Binding of Haste"] = {
+			["mr"] = 1499999,
+			["cc"] = 8,
+			["id"] = "128542:0:0:0:0",
+			["sc"] = 10,
+			["H3191"] = 1499999,
 		},
 	},
 }

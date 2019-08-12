@@ -67,10 +67,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159620::::::::120:256::35:4:5010:1582:5855:4784:::|h[Conch of Dark Whispers]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 165581,
-			["Level"] = 415,
+			["ID"] = 159620,
+			["Level"] = 420,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:165581::::::::120:256::6:3:4800:1537:4786:::|h[Crest of Pa'ku]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159620::::::::120:258::35:4:5010:1582:5855:4784:::|h[Conch of Dark Whispers]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 165513,

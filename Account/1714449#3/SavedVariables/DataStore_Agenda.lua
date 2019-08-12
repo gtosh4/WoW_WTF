@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-08-06",
+			["NextWeeklyReset"] = "2019-08-13",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -31,10 +31,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1564888575,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1565048381,
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|375231890"] = "55215|1565048384|0|0",
+					["Operation: Mechagon Mythic|375687881"] = "117679|1565590719|0|0",
 				},
+				["lastUpdate"] = 1565591138,
 			},
 		},
 	},
