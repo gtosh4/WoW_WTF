@@ -6,12 +6,12 @@ DataStore_AgendaDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -33,24 +33,15 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|375529519"] = "141964|1565566435|0|0",
-					["The Eternal Palace Heroic|375389215"] = "141964|1565566435|0|1",
-					["The Eternal Palace Mythic|375535793"] = "141964|1565566435|0|1",
-					["Battle of Dazar'alor Mythic|375396899"] = "141964|1565566435|0|1",
+					["Operation: Mechagon Mythic|375529519"] = "51982|1565656415|0|0",
+					["Battle of Dazar'alor Mythic|375396899"] = "51982|1565656415|0|1",
+					["The Eternal Palace Mythic|375535793"] = "51982|1565656415|0|1",
+					["The Eternal Palace Heroic|375389215"] = "51982|1565656415|0|1",
 				},
-				["lastUpdate"] = 1565566779,
+				["lastUpdate"] = 1565657299,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1562530200,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1562529857,
-			},
-			["Default.The Forgotten Coast.Toshtrial"] = {
-				["lastUpdate"] = 1554958119,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -62,6 +53,15 @@ DataStore_AgendaDB = {
 					},
 				},
 				["lastUpdate"] = 1565387232,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1562529857,
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958119,
+			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1562530200,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

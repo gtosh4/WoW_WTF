@@ -32,9 +32,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|375687881"] = "117679|1565590719|0|0",
+					["Operation: Mechagon Mythic|375687881"] = "41171|1565667226|0|0",
+					["The Eternal Palace Mythic|375763350"] = "41171|1565667226|0|1",
 				},
-				["lastUpdate"] = 1565591138,
+				["lastUpdate"] = 1565667388,
 			},
 		},
 	},

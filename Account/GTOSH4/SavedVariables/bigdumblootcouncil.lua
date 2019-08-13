@@ -6,13 +6,7 @@ bdlc_config = {
 		["positions"] = {
 		},
 	},
-	["profiles"] = {
-		["default"] = {
-			["Big Dumb Loot Council"] = {
-			},
-			["positions"] = {
-			},
-		},
+	["custom_council"] = {
 	},
 	["users"] = {
 		["Yorman"] = {
@@ -72,20 +66,26 @@ bdlc_config = {
 			}, -- [4]
 		},
 	},
+	["council_min_rank"] = 2,
 	["custom_qn"] = {
 		["2p"] = true,
 		["BiS"] = true,
 		["4p"] = true,
 	},
-	["council_min_rank"] = 2,
 	["persistent"] = {
 		["Big Dumb Loot Council"] = {
+			["text"] = "Welcome to BDLC",
 			["lc_rank"] = {
 			},
-			["text"] = "Welcome to BDLC",
 		},
 	},
-	["custom_council"] = {
+	["profiles"] = {
+		["default"] = {
+			["Big Dumb Loot Council"] = {
+			},
+			["positions"] = {
+			},
+		},
 	},
 }
 bdlc_history = {

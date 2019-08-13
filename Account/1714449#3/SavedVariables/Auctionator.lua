@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_200000"] = 1000,
-	["_10000"] = 200,
-	["_1000000"] = 2500,
 	["_5000000"] = 10000,
-	["STARTING_DISCOUNT"] = 5,
+	["_200000"] = 1000,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
 	["_500"] = 5,
 	["LOG_DE_DATA_X"] = true,
+	["STARTING_DISCOUNT"] = 5,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -1037,11 +1037,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153665:0:0:0:0",
 			["sc"] = 8,
 		},
-		["Tidespray Linen Mittens of the Quickblade"] = {
-			["mr"] = 32509987,
+		["Tidespray Linen Robe of the Fireflash"] = {
+			["mr"] = 13705834,
 			["cc"] = 4,
-			["H3012"] = 32509987,
-			["id"] = "154687:0:0:0:1676",
+			["H3012"] = 13705834,
+			["id"] = "154685:0:0:0:1694",
 			["sc"] = 1,
 		},
 		["Battle Flag: Spirit of Freedom"] = {
@@ -1058,11 +1058,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "153611:0:0:0:0",
 			["sc"] = 0,
 		},
-		["Tidespray Linen Robe of the Fireflash"] = {
-			["mr"] = 13705834,
+		["Tidespray Linen Mittens of the Quickblade"] = {
+			["mr"] = 32509987,
 			["cc"] = 4,
-			["H3012"] = 13705834,
-			["id"] = "154685:0:0:0:1694",
+			["H3012"] = 32509987,
+			["id"] = "154687:0:0:0:1676",
 			["sc"] = 1,
 		},
 		["Recipe: Smoked Sagefish"] = {

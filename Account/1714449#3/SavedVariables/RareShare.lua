@@ -3,6 +3,11 @@ RareShareDB = {
 	["Modules"] = {
 	},
 	["Config"] = {
+		["Sound"] = {
+			["Rares"] = true,
+			["Master"] = true,
+			["Duplicates"] = true,
+		},
 		["TomTom"] = {
 			["Rares"] = true,
 			["Master"] = true,
@@ -14,11 +19,7 @@ RareShareDB = {
 			["CID"] = 0,
 			["CName"] = "nil",
 		},
-		["Sound"] = {
-			["Rares"] = true,
-			["Master"] = true,
-			["Duplicates"] = true,
-		},
+		["Duplicates"] = true,
 	},
 	["LastAnnounce"] = {
 		["Time"] = 1565590814,

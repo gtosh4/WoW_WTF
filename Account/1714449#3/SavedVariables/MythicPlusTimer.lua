@@ -7,54 +7,6 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["scale"] = 1,
-		["progressTooltip"] = true,
-		["objectiveTimeInChat"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l5",
-			["quantity_number"] = 286,
-			["cm_level"] = 5,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "The Underrot",
-			["elapsed_time"] = 1559,
-			["time_left"] = 421,
-			["deathcount_visible"] = true,
-			["steps"] = 5,
-			["death_names"] = {
-				["Zapruk-Dalaran"] = 2,
-				["Dippyr-Sargeras"] = 6,
-				["Zarendline-Tichondrius"] = 2,
-				["Yellowy"] = 2,
-				["Tosh"] = 1,
-			},
-			["deathcount"] = 13,
-			["is_reaping"] = false,
-			["max_time"] = 1980,
-			["current_zone_id"] = 1841,
-			["times"] = {
-				261, -- [1]
-				814, -- [2]
-				1125, -- [3]
-				1559, -- [4]
-				1288, -- [5]
-				["5last_best_time_zone"] = 1404,
-				["4last_best_time_zone"] = 1764,
-				["3last_best_time_zone"] = 1101,
-				["2last_best_time_zone"] = 886,
-				["1last_best_time_zone"] = 181,
-			},
-			["current_map_id"] = 251,
-			["affixes"] = {
-				9, -- [1]
-				5, -- [2]
-			},
-			["affixes_key"] = "affixes-5-9",
-			["final_quantity_number"] = 286,
-			["time_left_2"] = 25,
-		},
-		["show_affixes_as_icons"] = false,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -522,6 +474,58 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["objectiveTimeInChat"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l5",
+			["quantity_number"] = 286,
+			["cm_level"] = 5,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "The Underrot",
+			["elapsed_time"] = 1559,
+			["time_left"] = 421,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Zapruk-Dalaran"] = 2,
+				["Dippyr-Sargeras"] = 6,
+				["Zarendline-Tichondrius"] = 2,
+				["Yellowy"] = 2,
+				["Tosh"] = 1,
+			},
+			["deathcount"] = 13,
+			["is_reaping"] = false,
+			["max_time"] = 1980,
+			["current_zone_id"] = 1841,
+			["times"] = {
+				261, -- [1]
+				814, -- [2]
+				1125, -- [3]
+				1559, -- [4]
+				1288, -- [5]
+				["5last_best_time_zone"] = 1404,
+				["4last_best_time_zone"] = 1764,
+				["3last_best_time_zone"] = 1101,
+				["2last_best_time_zone"] = 886,
+				["1last_best_time_zone"] = 181,
+			},
+			["current_map_id"] = 251,
+			["affixes"] = {
+				9, -- [1]
+				5, -- [2]
+			},
+			["affixes_key"] = "affixes-5-9",
+			["final_quantity_number"] = 286,
+			["time_left_2"] = 25,
+		},
+		["show_affixes_as_icons"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
 		["deathCounter"] = false,
 		["show_affixes_as_text"] = true,
 		["show_reapingtimer"] = true,
@@ -532,11 +536,7 @@ MythicPlusTimerDB = {
 		["objectiveTime"] = true,
 		["hide_default_objectivetracker"] = true,
 		["showAffixesAsText"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
+		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1193,8 +1193,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[131677] = {
-				[6] = 9,
+			[134232] = {
+				[4] = 25,
 			},
 			[98425] = {
 				[4] = 1,
@@ -1522,14 +1522,14 @@ MythicPlusTimerDB = {
 			[101839] = {
 				[4] = 1,
 			},
-			[127485] = {
-				[3] = 18,
+			[129529] = {
+				[4] = 50,
 			},
 			[95771] = {
 				[4] = 1,
 			},
-			[134629] = {
-				[6] = 4,
+			[127485] = {
+				[3] = 18,
 			},
 			[135204] = {
 				[4] = 26,
@@ -1549,8 +1549,8 @@ MythicPlusTimerDB = {
 			[131436] = {
 				[6] = 22,
 			},
-			[129529] = {
-				[4] = 50,
+			[134629] = {
+				[6] = 4,
 			},
 			[97081] = {
 				[5] = 1,
@@ -1685,11 +1685,11 @@ MythicPlusTimerDB = {
 			[115831] = {
 				[4] = 1,
 			},
-			[134232] = {
-				[4] = 25,
-			},
 			[135254] = {
 				[4] = 2,
+			},
+			[131677] = {
+				[6] = 9,
 			},
 			[135245] = {
 				[8] = 14,

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1180,
 	["lastSanitation"] = 3,
+	["session"] = 1181,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AAP-Core' tried to call the protected function 'EditMacro()'.",

@@ -1,5 +1,18 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
+	["global"] = {
+		["version"] = 80100.01,
+		["scripts"] = {
+			["AllInOne"] = {
+			},
+			["FirstEnemy"] = {
+			},
+			["Base"] = {
+			},
+			["Rematch"] = {
+			},
+		},
+	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -7,19 +20,6 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Daggny - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
-	},
-	["global"] = {
-		["version"] = 80100.01,
-		["scripts"] = {
-			["Rematch"] = {
-			},
-			["Base"] = {
-			},
-			["FirstEnemy"] = {
-			},
-			["AllInOne"] = {
-			},
-		},
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -77,9 +77,13 @@ DataStore_GarrisonsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1565589087,
+				["lastUpdate"] = 1565667225,
 				["AvailableWarCampaignMissions"] = {
 					2126, -- [1]
+					1927, -- [2]
+					1921, -- [3]
+					1950, -- [4]
+					2155, -- [5]
 				},
 				["ActiveWarCampaignMissions"] = {
 					1919, -- [1]
@@ -93,9 +97,6 @@ DataStore_GarrisonsDB = {
 							1067, -- [3]
 						},
 					},
-				},
-				["MissionsStartTimes"] = {
-					[1919] = 1565588150,
 				},
 			},
 		},
@@ -118,16 +119,32 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1929] = {
-					["durationSeconds"] = 43200,
+				[1921] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "Currency Reward",
+							["quantity"] = 258,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["level"] = 120,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[2155] = {
+					["durationSeconds"] = 64800,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 80,
 					["rewards"] = {
 						{
-							["title"] = "Money Reward",
-							["quantity"] = 1218000,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
+							["title"] = "Currency Reward",
+							["quantity"] = 367,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -208,46 +225,30 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1926] = {
+				[1927] = {
 					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Stealth",
+					["type"] = "8.0 - Generic Missions",
 					["cost"] = 20,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 456,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Stealth",
-					["iLevel"] = 800,
-				},
-				[1956] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 80,
-					["rewards"] = {
-						{
-							["itemID"] = 163036,
-							["quantity"] = 13,
+							["quantity"] = 225,
+							["icon"] = 2032592,
+							["currencyID"] = 1579,
 						}, -- [1]
 					},
 					["level"] = 120,
 					["typeAtlas"] = "BfAMission-Icon-Normal",
 					["iLevel"] = 800,
 				},
-				[1938] = {
-					["durationSeconds"] = 57600,
+				[1950] = {
+					["durationSeconds"] = 43200,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
+					["cost"] = 200,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 200,
-							["icon"] = 2032593,
-							["currencyID"] = 1600,
+							["itemID"] = 160053,
+							["quantity"] = 3,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -269,22 +270,6 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
-				},
-				[2150] = {
-					["durationSeconds"] = 86400,
-					["type"] = "8.2 - Deep Sea",
-					["cost"] = 80,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 6,
-							["icon"] = 463858,
-							["currencyID"] = 1721,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-DeepSea",
-					["iLevel"] = 800,
 				},
 			},
 			["FollowerNamesToID"] = {
@@ -347,12 +332,12 @@ DataStore_GarrisonsDB = {
 				["Benjamin Gibb"] = 204,
 				["Weaponsmith Na'Shra"] = 179,
 				["Croman"] = 177,
-				["Meatball"] = 986,
+				["Leeroy Jenkins"] = 178,
 				["Choluna"] = 217,
 				["Mulverick"] = 182,
 				["Brightwing"] = 645,
 				["Lady Liadrin"] = 478,
-				["Morketh Bladehowl"] = 155,
+				["Meatball"] = 986,
 				["Gronnstalker Rokash"] = 183,
 				["Zen'tabra"] = 640,
 				["Spirit of Bony Xuk"] = 212,
@@ -370,7 +355,7 @@ DataStore_GarrisonsDB = {
 				["Professor Felblast"] = 460,
 				["Blook"] = 189,
 				["Aponi Brightmane"] = 757,
-				["Leeroy Jenkins"] = 178,
+				["Morketh Bladehowl"] = 155,
 				["Karg Bloodfury"] = 459,
 				["Lothraxion"] = 759,
 				["Taran Zhu"] = 603,
