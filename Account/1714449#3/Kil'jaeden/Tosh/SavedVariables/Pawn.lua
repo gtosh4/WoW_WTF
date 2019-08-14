@@ -9,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 437,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1574:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 439,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1576:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 165922,
@@ -29,9 +29,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165504::::::::120:256::6:3:4800:1537:4786:::|h[Waistcord of Flowing Silk]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 167835,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:167835::::::::120:256::5:3:4799:1537:4783:::|h[Malformed Herald's Legwraps]|h|r",
+			["ID"] = 159269,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:159269::::::::120:256::35:3:5007:1602:4783:::|h[Darklight Legwarmers]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 165502,

@@ -58,10 +58,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168889:6109:::::::120:65::6:5:4800:41:1517:5850:4783:::|h[Boralus Noble's Seal]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158314,
-			["Level"] = 430,
+			["ID"] = 168889,
+			["Level"] = 450,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158314:6109:::::::120:65::16:3:5010:1602:4786:::|h[Seal of Questionable Loyalties]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168889:6109:::::::120:70::6:5:4800:41:1517:5850:4783:::|h[Boralus Noble's Seal]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 169312,

@@ -1,2759 +1,2759 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/raid [WeakAuras: Tosh-Kil'jaeden - T25: Sivara Marks]", -- [1]
-		"I haven't either", -- [2]
-		"/cw Skarsnik SLT where it shows my AM", -- [3]
-		"/cw Ngow-Kil'jaeden 'unshackled power' is the raid dmg", -- [4]
-		"we get you in", -- [5]
-		"/cw Skarsnik HT where is shows hymn", -- [6]
-		"/cw Ngow-Kil'jaeden intermission just follow the crowd", -- [7]
-		"oh, it's back", -- [8]
-		"/bw", -- [9]
-		"afk to take ginjer out", -- [10]
-		"/cw Voidthirst-Kil'jaeden lol", -- [11]
-		"once anthony's place gets set", -- [12]
-		"/aa window", -- [13]
-		"/DN", -- [14]
-		" ayy", -- [15]
-		"/cw Thunderzmonk after that fish, all the ranged go to the left side of the chasm to dot the next fish", -- [16]
-		"/cw Thunderzmonk and healers are out of range of the right side of boss", -- [17]
-		"/cw Thunderzmonk just tank on the left side of the boss", -- [18]
-		"/cw Thunderzmonk and it'd be good", -- [19]
-		"/range 5", -- [20]
+		"/bw", -- [1]
+		"we get you in", -- [2]
+		"afk to take ginjer out", -- [3]
+		"/range 5", -- [4]
+		"/aa window", -- [5]
+		"once anthony's place gets set", -- [6]
+		"/cw Thunderzmonk after that fish, all the ranged go to the left side of the chasm to dot the next fish", -- [7]
+		"/DN", -- [8]
+		"/raid [WeakAuras: Tosh-Kil'jaeden - T25: Sivara Marks]", -- [9]
+		"oh, it's back", -- [10]
+		"/cw Ngow-Kil'jaeden intermission just follow the crowd", -- [11]
+		"/cw Skarsnik SLT where it shows my AM", -- [12]
+		"/cw Skarsnik HT where is shows hymn", -- [13]
+		"/cw Voidthirst-Kil'jaeden lol", -- [14]
+		"ayy", -- [15]
+		"/cw Ngow-Kil'jaeden 'unshackled power' is the raid dmg", -- [16]
+		"/cw Thunderzmonk just tank on the left side of the boss", -- [17]
+		"/wa", -- [18]
+		"/p 2h", -- [19]
+		"/p rip", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"|cff71d5ff|Hspell:286050:0|h[Sanguinated Feast]|h|r placed by Orcbum!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
+			"lol", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3010, -- [11]
-			"Player-9-09D60980", -- [12]
+			75, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1565665833,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700858,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"it would be bad", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3011, -- [11]
-			"Player-9-0361ED90", -- [12]
+			76, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665841,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700859,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"we rdy?", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3012, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			77, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565665849,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700868,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"actual fucking down syndrome", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"buff lets go", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3014, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			79, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565665851,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565700872,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"after that fish, all the ranged go to the left side of the chasm to dot the next fish", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"ok 5", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3015, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			80, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665851,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700898,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [5]
 		{
-			"running on top of people", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"4", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3017, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			81, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565665855,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700899,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"LOL", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"do /dbm pull plz", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3018, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			82, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565665859,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700900,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"you have 0 patience in pugs lol", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3019, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			83, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1565665860,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700900,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
 		{
-			"I guess I can just stay further back", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3020, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			84, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665862,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700903,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"and healers are out of range of the right side of boss", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"dragonball?", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3021, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			85, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665863,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565700906,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"yeah", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3022, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			86, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565665867,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700908,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [11]
 		{
-			"lol", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"pass me lead i can do it", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3023, -- [11]
-			"Player-9-0B390464", -- [12]
+			87, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565665869,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565700908,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"just tank on the left side of the boss", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"OH GOD", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3024, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			88, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665872,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565700917,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"like our third pull", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"everyone spongebob?", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3025, -- [11]
-			"Player-9-0B390464", -- [12]
+			90, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565665874,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565700930,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"because theyve said it how many times", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"r", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3026, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			91, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565665874,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700934,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"tbh i don't blame", -- [1]
-			"Circé-Kil'jaeden", -- [2]
+			"r", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3027, -- [11]
-			"Player-9-0B268E56", -- [12]
+			92, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565665876,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565700936,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [16]
 		{
-			"and it'd be good", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"go", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3028, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			93, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665876,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565700937,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [17]
 		{
-			"CAN YOU GUYS FUCKIN NOT", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"lol", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3029, -- [11]
-			"Player-9-0B390464", -- [12]
+			94, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565665876,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565700938,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [18]
 		{
-			"you guys go into it with like", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"or not ", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3030, -- [11]
-			"Player-9-0361ED90", -- [12]
+			96, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665877,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700945,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"I was around the middle of the platform", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"lol", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3031, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			97, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565665877,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700947,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"you guys killed it", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"thought DH might meta", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3032, -- [11]
-			"Player-9-0361ED90", -- [12]
+			99, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665880,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565700953,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"they havent", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"i was gonna..... :)", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3033, -- [11]
-			"Player-9-0361ED90", -- [12]
+			101, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665881,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565700961,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"these people got like aotc", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"lust", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3034, -- [11]
-			"Player-9-0361ED90", -- [12]
+			103, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665886,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701015,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [23]
 		{
-			"thats it", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"duri", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3035, -- [11]
-			"Player-9-0361ED90", -- [12]
+			105, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665888,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701021,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [24]
 		{
-			"no mythic", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"ocm", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3036, -- [11]
-			"Player-9-0361ED90", -- [12]
+			106, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565665890,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701022,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [25]
 		{
-			"^^^", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"druiud", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3037, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			107, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565665890,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701031,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [26]
 		{
-			"just kill it 4HEad", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Upheaval on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3038, -- [11]
-			"Player-9-0B268E56", -- [12]
+			109, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565665910,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565701035,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [27]
 		{
-			"same", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"wtf", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3039, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			110, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565665914,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565701077,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"just gotta be more aggresive with the CALLOUTS", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"wth happened", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3040, -- [11]
-			"Player-9-0B390464", -- [12]
+			111, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565665914,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565701081,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"druid", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3043, -- [11]
-			"Player-9-00051AAE", -- [12]
+			112, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565665924,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701083,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [30]
 		{
-			"you guys could assign 1 ranged to go nuts on it", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"agroed", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3045, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			113, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1565665929,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701084,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [31]
 		{
-			"everyone is tunnel visioning ", -- [1]
-			"Circé-Kil'jaeden", -- [2]
+			"boss had 2 stacks", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3047, -- [11]
-			"Player-9-0B268E56", -- [12]
+			114, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565665932,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701088,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [32]
 		{
-			"since you dont have 3 spriest 2 moonkins, lock and mage hitting it", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
+			"sorry ill stay over here", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3049, -- [11]
-			"Player-9-0AF721B2", -- [12]
+			115, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1565665943,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701089,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"stay here", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3059, -- [11]
-			"Player-9-00051AAE", -- [12]
+			116, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565665995,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701096,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [34]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"rip 35k ", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3060, -- [11]
-			"Player-9-00051AAE", -- [12]
+			117, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666009,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565701102,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Piercing Barb on Aveon", -- [1]
-			"Aveon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"anyone key?", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Aveon-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3062, -- [11]
-			"Player-9-0A6BD5EA", -- [12]
+			123, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Aveon|r",
-			[51] = 1565666010,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701223,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"MISSED DEBUFF CAUSE SHOCK SRY", -- [1]
-			"Aveon-Kil'jaeden", -- [2]
+			"sorry bout first round", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aveon-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3065, -- [11]
-			"Player-9-0A6BD5EA", -- [12]
+			124, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Aveon|r",
-			[51] = 1565666026,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701227,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"caps", -- [1]
-			"Aveon-Kil'jaeden", -- [2]
+			"nope", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Aveon-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3066, -- [11]
-			"Player-9-0A6BD5EA", -- [12]
+			125, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Aveon|r",
-			[51] = 1565666028,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565701229,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"Interrupted Blackwater Behemoth's |cff71d5ff|Hspell:292083:0|h[Cavitation]|h|r!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"lag", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3067, -- [11]
-			"Player-9-0361ED90", -- [12]
+			126, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666080,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701287,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:45438:0|h[Ice Block]|h|r used on Yoshimittsu!", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3072, -- [11]
-			"Player-9-00051AAE", -- [12]
+			127, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666118,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565701290,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"Piercing Barb on Ngow", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"same thing happen to me", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3074, -- [11]
-			"Player-9-07D05E4B", -- [12]
+			136, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1565666123,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701381,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wierd", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3086, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			138, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666178,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701384,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"sorry dced", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3088, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			140, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565666184,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701404,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [43]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"pats", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3089, -- [11]
-			"Player-9-0361ED90", -- [12]
+			154, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666184,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565701525,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"open doors?", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3090, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			158, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666191,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701564,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"bois im tryin", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3093, -- [11]
-			"Player-9-0361ED90", -- [12]
+			172, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666200,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565701621,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"  /range 5", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"idk how u guys are pulling", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3100, -- [11]
-			"Player-9-0B390464", -- [12]
+			173, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565666252,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701622,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [47]
 		{
-			"Gordy can Jess get another corgi?", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"lol", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3102, -- [11]
-			"Player-9-09D60980", -- [12]
+			174, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1565666262,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565701681,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"dispoel", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3104, -- [11]
-			"Player-9-00051AAE", -- [12]
+			192, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666271,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701844,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [49]
 		{
-			"3", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"dont inerupt bosws", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3106, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			207, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666313,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565701980,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [50]
 		{
-			"2", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"shoulda opened", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3107, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			209, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666314,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565701995,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"1", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"how", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3108, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			210, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666315,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702007,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"Piercing Barb on Emosong", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:45438:0|h[Ice Block]|h|r used on Yoshimittsu!", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3111, -- [11]
-			"Player-9-0361ED90", -- [12]
+			212, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666340,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702033,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"3", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wut", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3112, -- [11]
-			"Player-9-0361ED90", -- [12]
+			219, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666343,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565702089,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"2", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"rel;ease", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3113, -- [11]
-			"Player-9-0361ED90", -- [12]
+			223, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666344,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702107,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [55]
 		{
-			"1", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"its here", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3114, -- [11]
-			"Player-9-0361ED90", -- [12]
+			224, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666344,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702108,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"Piercing Barb on Voidthirst", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"i will when i can", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3117, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			226, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666369,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565702114,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"Piercing Barb on Circé", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"lol", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3126, -- [11]
-			"Player-9-0B268E56", -- [12]
+			228, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565666480,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702124,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"3", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"later", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3127, -- [11]
-			"Player-9-0B268E56", -- [12]
+			233, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565666483,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702373,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [59]
 		{
-			"1", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"get on cannon", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3128, -- [11]
-			"Player-9-0B268E56", -- [12]
+			234, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565666485,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702375,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [60]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"when i grab two packs", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3130, -- [11]
-			"Player-9-00051AAE", -- [12]
+			235, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666494,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702378,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [61]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"no", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3140, -- [11]
-			"Player-9-00051AAE", -- [12]
+			236, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666523,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702387,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [62]
 		{
-			"Interrupted Blackwater Behemoth's |cff71d5ff|Hspell:292083:0|h[Cavitation]|h|r!", -- [1]
-			"Druwqt-Kil'jaeden", -- [2]
+			"no", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Druwqt-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3144, -- [11]
-			"Player-9-0B5E0C47", -- [12]
+			237, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDruwqt|r",
-			[51] = 1565666580,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702387,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [63]
 		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Blackwater Behemoth {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wait", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3146, -- [11]
-			"Player-9-00051AAE", -- [12]
+			238, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666584,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702388,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [64]
 		{
-			"Piercing Barb on Emosong", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wait", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3148, -- [11]
-			"Player-9-0361ED90", -- [12]
+			239, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666593,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702389,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [65]
 		{
-			"3", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"forgot we get 4 now sry", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3149, -- [11]
-			"Player-9-0361ED90", -- [12]
+			240, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666596,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702434,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"any1 for hardmode after this?", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"great heals my guy no kap", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3154, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			241, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666621,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565702488,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [67]
 		{
-			"Piercing Barb on Evojaiz", -- [1]
-			"Evojaiz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Evojaiz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3156, -- [11]
-			"Player-9-0A1819A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcEvojaiz|r",
-			[51] = 1565666623,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			":)", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"go", -- [1]
+			"Timrah-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Timrah-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3157, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			242, -- [11]
+			"Player-3723-0AA16198", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666623,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702509,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
+		{
+			"inerutpe", -- [1]
+			"Timrah-Barthilas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timrah-Barthilas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			259, -- [11]
+			"Player-3723-0AA16198", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Timrah-Barthilas|r",
+			[51] = 1565702749,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [69]
 		{
-			"3", -- [1]
-			"Evojaiz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"fuck me dude", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Evojaiz-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3158, -- [11]
-			"Player-9-0A1819A1", -- [12]
+			260, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEvojaiz|r",
-			[51] = 1565666626,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565702780,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"2", -- [1]
-			"Evojaiz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:13771:Player-9-0B6D0576:1:8:13:19:4294967295:4294967295:4294967295:4294967295|h[Power Is Beautiful]|h|r!", -- [1]
+			"Aédan-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Evojaiz-Kil'jaeden", -- [5]
+			"Aédan-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3159, -- [11]
-			"Player-9-0A1819A1", -- [12]
+			261, -- [11]
+			"Player-9-0B6D0576", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEvojaiz|r",
-			[51] = 1565666627,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cAédan|r",
+			[51] = 1565702854,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [71]
 		{
-			"1", -- [1]
-			"Evojaiz-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Evojaiz-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3160, -- [11]
-			"Player-9-0A1819A1", -- [12]
+			265, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcEvojaiz|r",
-			[51] = 1565666628,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702870,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"my rogue needs a key after this", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3165, -- [11]
-			"Player-9-0AF721B2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1565666651,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
-		{
-			"i need a key", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3168, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666659,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
-		{
-			"on my hunt", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3169, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666662,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
-		{
-			"as well", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3171, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666665,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
-		{
-			"|cff71d5ff|Hspell:286050:0|h[Sanguinated Feast]|h|r placed by Orcbum!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3173, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1565666677,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3174, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			266, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666681,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702871,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [73]
+		{
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702872,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [74]
+		{
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702873,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			273, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702886,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			274, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702887,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			275, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702888,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3175, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			276, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565666682,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702889,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3176, -- [11]
-			"Player-9-0361ED90", -- [12]
+			278, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666683,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702893,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3177, -- [11]
-			"Player-9-0361ED90", -- [12]
+			279, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666696,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702894,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3178, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			280, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666701,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702895,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"why do I get stuck with your hunter every time? :P", -- [1]
-			"Peestain-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3179, -- [11]
-			"Player-9-0AF721B2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Peestain|r",
-			[51] = 1565666701,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3180, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			281, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565666702,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702896,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			284, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702908,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"we got this.", -- [1]
-			"Edaras-Kil'jaeden", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Edaras-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3181, -- [11]
-			"Player-9-0B70B4E7", -- [12]
+			285, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Edaras|r",
-			[51] = 1565666726,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702909,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Emosong!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3182, -- [11]
-			"Player-9-09D60980", -- [12]
+			286, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1565666734,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702910,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3186, -- [11]
-			"Player-9-00051AAE", -- [12]
+			288, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666779,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702911,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3189, -- [11]
-			"Player-9-00051AAE", -- [12]
+			290, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666815,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702915,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
 			"3", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3191, -- [11]
-			"Player-9-0B390464", -- [12]
+			291, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565666836,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702916,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
 			"2", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3192, -- [11]
-			"Player-9-0B390464", -- [12]
+			292, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565666837,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702917,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
 			"1", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Iko-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3193, -- [11]
-			"Player-9-0B390464", -- [12]
+			293, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565666838,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702918,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"Piercing Barb on Emosong", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"Explosive Burst on Yoshimittsu", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3197, -- [11]
-			"Player-9-0361ED90", -- [12]
+			298, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666863,
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"3", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3198, -- [11]
-			"Player-9-0361ED90", -- [12]
+			299, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666866,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702938,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Blackwater Behemoth {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3199, -- [11]
-			"Player-9-00051AAE", -- [12]
+			300, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565666872,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702939,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"3", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3204, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			301, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666896,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702940,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"2", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3205, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			302, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666897,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702941,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"1", -- [1]
-			"Milferal-Kil'jaeden", -- [2]
+			"Explosive Burst on Yoshimittsu", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Milferal-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3206, -- [11]
-			"Player-9-0ADCC0D2", -- [12]
+			304, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Milferal|r",
-			[51] = 1565666898,
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702953,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3217, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			305, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565666973,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702953,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3218, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			306, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666973,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702954,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"|cff71d5ff|Hspell:286050:0|h[Sanguinated Feast]|h|r placed by Orcbum!", -- [1]
-			"Friendly-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Friendly-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3220, -- [11]
-			"Player-9-09D60980", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeFriendly|r",
-			[51] = 1565666973,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3222, -- [11]
-			"Player-9-0361ED90", -- [12]
+			307, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666976,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702955,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [100]
+		{
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			309, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702956,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"Explosive Burst on Yoshimittsu", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3224, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			310, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565666985,
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702960,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3225, -- [11]
-			"Player-9-0361ED90", -- [12]
+			311, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565666987,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702960,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzmonk-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Thunderzmonk-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3226, -- [11]
-			"Player-9-0B1EF2DA", -- [12]
+			312, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Thunderzmonk|r",
-			[51] = 1565666993,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702961,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"Everyone is Ready", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3229, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565667044,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
-		{
-			"Piercing Barb on Drogon", -- [1]
-			"Drogon-Kil'jaeden", -- [2]
+			"2", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drogon-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3231, -- [11]
-			"Player-9-0AD6A0D7", -- [12]
+			313, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDrogon|r",
-			[51] = 1565667068,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702962,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"1", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702963,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [106]
 		{
-			"3", -- [1]
-			"Drogon-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:45438:0|h[Ice Block]|h|r used on Yoshimittsu!", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drogon-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3232, -- [11]
-			"Player-9-0AD6A0D7", -- [12]
+			319, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDrogon|r",
-			[51] = 1565667071,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702973,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [107]
 		{
-			"2", -- [1]
-			"Drogon-Kil'jaeden", -- [2]
+			"Explosive Burst on Yoshimittsu", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drogon-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3233, -- [11]
-			"Player-9-0AD6A0D7", -- [12]
+			320, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDrogon|r",
-			[51] = 1565667072,
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702976,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [108]
 		{
-			"1", -- [1]
-			"Drogon-Kil'jaeden", -- [2]
+			"Explosive Burst on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Drogon-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3234, -- [11]
-			"Player-9-0AD6A0D7", -- [12]
+			322, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeDrogon|r",
-			[51] = 1565667073,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702976,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [109]
 		{
-			"Piercing Barb on Circé", -- [1]
-			"Circé-Kil'jaeden", -- [2]
+			"3", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3239, -- [11]
-			"Player-9-0B268E56", -- [12]
+			323, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565667098,
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565702977,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"3", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"les go", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3240, -- [11]
-			"Player-9-0B268E56", -- [12]
+			325, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565667101,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565702990,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [111]
 		{
-			"2", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"missing 2", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3241, -- [11]
-			"Player-9-0B268E56", -- [12]
+			326, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565667102,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565702991,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [112]
 		{
-			"1", -- [1]
-			"Circé-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"wtf", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Circé-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3242, -- [11]
-			"Player-9-0B268E56", -- [12]
+			327, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Circé|r",
-			[51] = 1565667103,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565702992,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [113]
 		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Blackwater Behemoth {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"rip", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3245, -- [11]
-			"Player-9-00051AAE", -- [12]
+			329, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1565667128,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565703012,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [114]
 		{
-			"3", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:258634:0|h[Fuselighter]|h|r interrupted!", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3247, -- [11]
-			"Player-9-07D05E4B", -- [12]
+			330, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1565667131,
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565703043,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [115]
 		{
-			"2", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"nice", -- [1]
+			"Jubaleeka-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
+			"Jubaleeka-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3248, -- [11]
-			"Player-9-07D05E4B", -- [12]
+			332, -- [11]
+			"Player-9-0B60E3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1565667132,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Jubaleeka|r",
+			[51] = 1565703057,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [116]
 		{
-			"1", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"lol 8 here", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3249, -- [11]
-			"Player-9-07D05E4B", -- [12]
+			333, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1565667133,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565703078,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [117]
 		{
-			"okay gonna call it here we'll try again next week", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"pog nothing", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3261, -- [11]
-			"Player-9-0361ED90", -- [12]
+			335, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565667198,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565703100,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [118]
 		{
-			"thanks for coming", -- [1]
-			"Emosong-Kil'jaeden", -- [2]
+			"nice staff", -- [1]
+			"Miiftothemax-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Emosong-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3263, -- [11]
-			"Player-9-0361ED90", -- [12]
+			341, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Emosong|r",
-			[51] = 1565667202,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565703109,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [119]
 		{
-			"Eating Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"aight bois ty", -- [1]
+			"Miiftothemax-Area52", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Miiftothemax-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3278, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			343, -- [11]
+			"Player-3676-0A5256CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565667208,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Miiftothemax-Area52|r",
+			[51] = 1565703111,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"anyone for islands?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"damn u need staff", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3282, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			345, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1565667240,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565703123,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"sure, i have charms", -- [1]
-			"Sonaris-Kil'jaeden", -- [2]
+			"2h", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3283, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			349, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1565667252,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565703139,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"well", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"rip", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tosh-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3284, -- [11]
-			"Player-9-0B390464", -- [12]
+			350, -- [11]
+			"Player-9-0B60C7FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565667252,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1565703142,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"we do blackwater first next time", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"yer", -- [1]
+			"Yoshimittsu-Barthilas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Yoshimittsu-Barthilas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3286, -- [11]
-			"Player-9-0B390464", -- [12]
+			351, -- [11]
+			"Player-3723-09AE579C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565667257,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Yoshimittsu-Barthilas|r",
+			[51] = 1565703149,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [124]
 		{
-			"IMO", -- [1]
-			"Iko-Kil'jaeden", -- [2]
+			"i got", -- [1]
+			"Snareiat-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2762,20 +2762,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3287, -- [11]
-			"Player-9-0B390464", -- [12]
+			10, -- [11]
+			"Player-9-0B7483EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Iko|r",
-			[51] = 1565667257,
+			[52] = "|cfffef367Snareiat|r",
+			[51] = 1565711161,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [125]
 		{
-			"anyone else for islands", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"so much ridiculous box loot this week lol", -- [1]
+			"Snareiat-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2784,20 +2784,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3289, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			11, -- [11]
+			"Player-9-0B7483EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1565667282,
+			[52] = "|cfffef367Snareiat|r",
+			[51] = 1565711169,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [126]
 		{
-			"|cffa335ee|Hitem:167743::::::::120:577::13::::|h[Silas' Potion of Prosperity]|h|r 5m left", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"thats a HEFTY ring", -- [1]
+			"Moonblight-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2806,15 +2806,15 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3291, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			12, -- [11]
+			"Player-9-0B1322AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1565667293,
+			[52] = "|cffc31d39Moonblight|r",
+			[51] = 1565711203,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},

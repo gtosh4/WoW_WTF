@@ -55,9 +55,9 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1565667225,
+				["lastUpdate"] = 1565711043,
 				["guildName"] = "Rivalry",
-				["guildRep"] = 27993,
+				["guildRep"] = 28243,
 				["Factions"] = {
 					[8] = 500,
 					[151] = 17487,
@@ -74,8 +74,8 @@ DataStore_ReputationsDB = {
 					[7] = 500,
 					[106] = 2800,
 					[9] = 3100,
-					[158] = 18866,
 					[29] = 150,
+					[158] = 18866,
 				},
 			},
 		},
