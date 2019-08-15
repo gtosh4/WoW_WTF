@@ -1,16 +1,16 @@
 
 RareShareDB_Mechagon = {
-	["LastAnnounce"] = {
-		["Armory"] = 1,
-	},
 	["Config"] = {
 		["Armories"] = false,
-		["TomTom"] = {
-			["Drills"] = true,
-		},
+		["Drills"] = true,
 		["Sound"] = {
 			["Drills"] = true,
 		},
-		["Drills"] = true,
+		["TomTom"] = {
+			["Drills"] = true,
+		},
+	},
+	["LastAnnounce"] = {
+		["Armory"] = 1,
 	},
 }

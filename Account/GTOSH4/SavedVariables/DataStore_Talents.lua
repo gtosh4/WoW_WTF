@@ -6,12 +6,12 @@ DataStore_TalentsDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -31,7 +31,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1565710965,
+				["lastUpdate"] = 1565835796,
 				["Specializations"] = {
 					5997, -- [1]
 					7065, -- [2]
@@ -48,13 +48,12 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MAGE",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1565387229,
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1562530045,
 				["Specializations"] = {
-					9566, -- [1]
-					[3] = 14014,
+					[3] = 0,
 				},
-				["Class"] = "SHAMAN",
+				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1562529827,
@@ -71,12 +70,13 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PRIEST",
 			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1562530045,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1565387229,
 				["Specializations"] = {
-					[3] = 0,
+					9566, -- [1]
+					[3] = 14014,
 				},
-				["Class"] = "MONK",
+				["Class"] = "SHAMAN",
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430813,
@@ -95,12 +95,12 @@ DataStore_TalentsRefDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["PALADIN"] = {

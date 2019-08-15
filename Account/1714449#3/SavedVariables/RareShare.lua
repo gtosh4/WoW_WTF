@@ -3,22 +3,22 @@ RareShareDB = {
 	["Modules"] = {
 	},
 	["Config"] = {
-		["CChannel"] = {
-			["CID"] = 0,
-			["CName"] = "nil",
+		["Sound"] = {
+			["Rares"] = true,
+			["Master"] = true,
+			["Duplicates"] = true,
 		},
 		["TomTom"] = {
 			["Rares"] = true,
 			["Master"] = true,
 			["Duplicates"] = true,
 		},
-		["Sound"] = {
-			["Rares"] = true,
-			["Master"] = true,
-			["Duplicates"] = true,
-		},
-		["OnDeath"] = true,
 		["ChatAnnounce"] = true,
+		["OnDeath"] = true,
+		["CChannel"] = {
+			["CName"] = "nil",
+			["CID"] = 0,
+		},
 		["Duplicates"] = true,
 	},
 	["LastAnnounce"] = {

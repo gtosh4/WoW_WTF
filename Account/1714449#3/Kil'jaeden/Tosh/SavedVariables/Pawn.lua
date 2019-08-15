@@ -3,14 +3,14 @@ PawnOptions = {
 	["LastVersion"] = 2.0246,
 	["ItemLevels"] = {
 		{
-			["ID"] = 165500,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165500::::::::120:256::6:5:4824:1537:4786:5420:4775:::|h[Blazewing Hood]|h|r",
+			["ID"] = 168336,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168336::::::::120:256::5:4:4823:1502:4786:6267:::|h[Handmaiden's Cowl of Sacrifice]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 439,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1576:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 443,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1580:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 165922,
@@ -34,9 +34,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159269::::::::120:256::35:3:5007:1602:4783:::|h[Darklight Legwarmers]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 165502,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165502::::::::120:256::6:4:4800:43:1537:4786:::|h[Lightfeather Footpads]|h|r",
+			["ID"] = 168373,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168373::::::::120:256::5:4:4799:1502:5850:4783:::|h[Eelskin Flippers]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 165501,
@@ -44,9 +44,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165501::::::::120:256::6:3:4800:1537:4786:::|h[Bracers of Zealous Calling]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 165503,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165503::::::::120:256::6:3:4800:1537:4786:::|h[Manceroy's Flamefists]|h|r",
+			["ID"] = 168375,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168375::::::::120:256::5:4:4799:42:1502:4786:::|h[Gloves of Unshackled Arcana]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 159461,
@@ -73,15 +73,15 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159620::::::::120:258::35:4:5010:1582:5855:4784:::|h[Conch of Dark Whispers]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 165513,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165513::::::::120:256::6:3:4800:1537:4786:::|h[Silverback Cloak]|h|r",
+			["ID"] = 168391,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168391::::::::120:256::5:4:4799:1502:5850:4783:::|h[Cloak of Ill Tidings]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 165919,
-			["Level"] = 415,
+			["ID"] = 168397,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:165919:5963:153709::::::120:256::6:4:4800:1808:1537:4786:::|h[Desecrated Blade of the Disciples]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168397::::::::120:256::5:3:4799:1502:4786:::|h[Fang of the Behemoth]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 168477,

@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_200000"] = 1000,
 	["_10000"] = 200,
-	["_1000000"] = 2500,
 	["_5000000"] = 10000,
+	["_1000000"] = 2500,
+	["_200000"] = 1000,
+	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
-	["LOG_DE_DATA_X"] = true,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 	["Slippers of the Encroaching Tide"] = {
@@ -883,13 +883,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 2,
 			["H3016"] = 5002208,
 		},
-		["Contract: Tortollan Seekers"] = {
-			["mr"] = 5439995,
-			["cc"] = 0,
-			["H3156"] = 5439995,
-			["id"] = "153667:0:0:0:0",
-			["sc"] = 8,
-		},
 		["Coarse Leather Waistguard of the Feverflare"] = {
 			["mr"] = 1987469,
 			["cc"] = 4,
@@ -897,6 +890,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "154144:0:0:0:1699",
 			["sc"] = 2,
 			["H3016"] = 20691540,
+		},
+		["Contract: Tortollan Seekers"] = {
+			["mr"] = 5439995,
+			["cc"] = 0,
+			["H3156"] = 5439995,
+			["id"] = "153667:0:0:0:0",
+			["sc"] = 8,
 		},
 		["Coarse Leather Armguards of the Harmonious"] = {
 			["mr"] = 11591686,

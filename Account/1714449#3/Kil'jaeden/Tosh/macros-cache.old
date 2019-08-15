@@ -58,7 +58,7 @@ VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
 #showtooltip Silence
-/cast [@focus]Silence
+/cast [@focus,exists,harm][@target]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend
