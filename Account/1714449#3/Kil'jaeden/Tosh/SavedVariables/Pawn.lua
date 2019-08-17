@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168477::::::::120:256::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

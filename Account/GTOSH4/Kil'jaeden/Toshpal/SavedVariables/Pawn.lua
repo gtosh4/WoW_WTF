@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
@@ -9,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 451,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1588:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 453,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:70::11:4:6316:4932:4933:1590:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159407,
@@ -89,9 +92,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168896::::::::120:65::5:4:4799:1808:1502:4786:::|h[Stormtamer's Orb]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
