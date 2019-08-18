@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
@@ -64,10 +61,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168889:6109:::::::120:70::6:5:4800:41:1517:5850:4783:::|h[Boralus Noble's Seal]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 169312,
-			["Level"] = 430,
+			["ID"] = 169316,
+			["Level"] = 445,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:169312::::::::120:65::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169316::::::::120:65::6:3:4800:1517:4786:::|h[Deferred Sentence]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 169312,
@@ -92,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168896::::::::120:65::5:4:4799:1808:1502:4786:::|h[Stormtamer's Orb]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshpal-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
