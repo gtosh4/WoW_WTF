@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -12,24 +9,24 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 443,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1580:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 445,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1582:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 165922,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165922::::::::120:256::6:5:4824:1537:4786:5421:4775:::|h[Bristling Fur-Lined Amice]|h|r",
+			["ID"] = 168342,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168342::::::::120:256::5:4:4823:1502:4786:6268:::|h[Fathom-Feeder's Mantle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 158301,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:158301::::::::120:256::35:5:5448:1587:4786:5419:4775:::|h[Ruffled Poet Blouse]|h|r",
+			["ID"] = 168335,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168335::::::::120:256::5:4:4823:1502:4786:6266:::|h[Robes of Sunken Nobility]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 165504,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165504::::::::120:256::6:3:4800:1537:4786:::|h[Waistcord of Flowing Silk]|h|r",
+			["ID"] = 168872,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168872::::::::120:256::5:4:4799:1502:5850:4783:::|h[Cephalopod's Sash]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 159269,
@@ -92,6 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168477::::::::120:256::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

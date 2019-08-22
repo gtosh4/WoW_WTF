@@ -14,15 +14,15 @@ LS_TOASTS_GLOBAL_CONFIG = {
 			["font"] = {
 				["size"] = 14,
 			},
-			["version"] = 8020003,
+			["version"] = 8020004,
 			["skin"] = "elv",
 			["anchors"] = {
 				{
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -380,
 						["x"] = -14,
+						["y"] = -380,
 					},
 				}, -- [1]
 			},
@@ -34,10 +34,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["sfx"] = true,
 				},
 				["loot_currency"] = {
-					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["track_loss"] = false,
 				},
 				["instance"] = {
 					["anchor"] = 1,
@@ -45,26 +46,27 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["transmog"] = {
-					["enabled"] = false,
+				["world"] = {
+					["anchor"] = 1,
+					["enabled"] = true,
+					["dnd"] = false,
+					["sfx"] = true,
+				},
+				["loot_gold"] = {
+					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["left_click"] = false,
-				},
-				["garrison_7_0"] = {
-					["anchor"] = 1,
-					["enabled"] = true,
-					["dnd"] = true,
-					["sfx"] = true,
+					["track_loss"] = false,
+					["threshold"] = 50000,
 				},
 				["loot_special"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
 					["threshold"] = 1,
+					["ilvl"] = true,
 				},
 				["achievement"] = {
 					["enabled"] = true,
@@ -83,14 +85,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["loot_common"] = {
+				["recipe"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = true,
-					["threshold"] = 3,
 				},
 				["collection"] = {
 					["enabled"] = true,
@@ -99,25 +98,27 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["recipe"] = {
-					["anchor"] = 1,
+				["loot_common"] = {
 					["enabled"] = true,
 					["dnd"] = false,
+					["sfx"] = true,
+					["anchor"] = 1,
+					["threshold"] = 3,
+					["quest"] = true,
+					["ilvl"] = true,
+				},
+				["garrison_7_0"] = {
+					["anchor"] = 1,
+					["enabled"] = true,
+					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["loot_gold"] = {
-					["enabled"] = true,
+				["transmog"] = {
+					["enabled"] = false,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["track_loss"] = false,
-					["threshold"] = 50000,
-				},
-				["world"] = {
-					["anchor"] = 1,
-					["enabled"] = true,
-					["dnd"] = false,
-					["sfx"] = true,
+					["left_click"] = false,
 				},
 			},
 		},

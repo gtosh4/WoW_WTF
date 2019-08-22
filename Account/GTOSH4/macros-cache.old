@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Firestick
+/click ExtraActionButton1
 END
 VER 3 0000000000000010 "bounds" "132319"
 /click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5

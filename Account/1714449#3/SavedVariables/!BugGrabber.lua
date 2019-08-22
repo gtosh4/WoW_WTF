@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 868,
 	["lastSanitation"] = 3,
-	["session"] = 867,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
@@ -59,5 +59,13 @@ BugGrabberDB = {
 			["session"] = 861,
 			["counter"] = 2,
 		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'BigWigs_Plugins' tried to call the protected function 'SetParent()'.",
+			["time"] = "2019/08/21 20:07:07",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\BigWigs_Plugins\\BossBlock.lua:200: in function `?'\nInterface\\AddOns\\BigWigs\\Loader.lua:940: in function `SendMessage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:858: in function `Engage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:658: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
+			["session"] = 868,
+			["counter"] = 1,
+		}, -- [8]
 	},
 }
