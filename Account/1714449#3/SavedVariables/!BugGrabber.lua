@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 868,
 	["lastSanitation"] = 3,
+	["session"] = 869,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
@@ -67,5 +67,13 @@ BugGrabberDB = {
 			["session"] = 868,
 			["counter"] = 1,
 		}, -- [8]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
+			["time"] = "2019/08/22 22:20:44",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: in function `SetPoint'\nInterface\\AddOns\\AAP-Core\\QuestList.lua:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
+			["session"] = 869,
+			["counter"] = 1,
+		}, -- [9]
 	},
 }
