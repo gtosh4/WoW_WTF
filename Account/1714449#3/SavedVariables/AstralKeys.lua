@@ -52,7 +52,7 @@ AstralKeys = {
 		9, -- [4]
 		0, -- [5]
 		109, -- [6]
-		9, -- [7]
+		287256, -- [7]
 	}, -- [6]
 	{
 		"Andrewzz-Kil'jaeden", -- [1]
@@ -149,9 +149,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		246, -- [3]
 		11, -- [4]
-		0, -- [5]
+		13, -- [5]
 		109, -- [6]
-		1, -- [7]
+		2, -- [7]
 	}, -- [17]
 	{
 		"Blueflame-Kil'jaeden", -- [1]
@@ -196,7 +196,7 @@ AstralKeys = {
 		5, -- [4]
 		0, -- [5]
 		109, -- [6]
-		216305, -- [7]
+		287278, -- [7]
 	}, -- [22]
 	{
 		"Pride-Kil'jaeden", -- [1]
@@ -212,8 +212,8 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [1]
 }
 AstralFriends = {
@@ -351,6 +351,14 @@ AstralFriends = {
 	}, -- [12]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -364,7 +372,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -373,11 +383,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
@@ -387,10 +394,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = false,
 			["guild"] = false,
+			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -402,14 +409,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
