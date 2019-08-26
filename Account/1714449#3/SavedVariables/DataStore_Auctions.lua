@@ -14,8 +14,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2019/08/03 23:16",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1565834817,
-				["lastVisitDate"] = "2019/08/14 22:06",
+				["lastUpdate"] = 1566783116,
+				["lastVisitDate"] = "2019/08/25 21:31",
 			},
 		},
 	},

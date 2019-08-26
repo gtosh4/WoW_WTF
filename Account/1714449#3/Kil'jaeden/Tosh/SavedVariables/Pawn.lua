@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -78,20 +81,18 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168391::::::::120:256::5:4:4799:1502:5850:4783:::|h[Cloak of Ill Tidings]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 168397,
-			["Level"] = 430,
+			["ID"] = 168903,
+			["Level"] = 445,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:168397::::::::120:256::5:3:4799:1502:4786:::|h[Fang of the Behemoth]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168903::::::::120:256::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 168477,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168477::::::::120:256::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
+			["ID"] = 168903,
+			["Level"] = 445,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:168903:6112:::::::120:256::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

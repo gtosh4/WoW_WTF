@@ -2,8 +2,7 @@
 VWQL = {
 	["ShellGameLocked"] = true,
 	["Toshmonk-Kil'jaeden"] = {
-		["FilterType"] = {
-		},
+		["VERSION"] = 89,
 		["Filter"] = 63,
 		["Quests"] = {
 			[50744] = true,
@@ -16,33 +15,34 @@ VWQL = {
 			[51103] = true,
 			[55343] = true,
 		},
-		["VERSION"] = 89,
+		["FilterType"] = {
+		},
 	},
 	["Scale"] = 0.8,
 	["DisableIconsGeneralMap947"] = true,
 	["DisableLFG_Popup"] = true,
 	["Toshpal-Kil'jaeden"] = {
-		["Filter"] = 63,
+		["VERSION"] = 85,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 			[50877] = true,
 			[52937] = true,
 			[50874] = true,
-			[50524] = true,
 			[52923] = true,
+			[50524] = true,
 		},
-		["VERSION"] = 85,
+		["Filter"] = 63,
 	},
 	["Sort"] = 5,
 	["VERSION"] = 89,
 	["Anchor"] = 1,
-	["HideLegion"] = true,
-	["OppositeContinent"] = false,
+	["ArrowStyle"] = 2,
+	["AnchorQCBTop"] = 872.035278320313,
 	["DisableArrow"] = false,
 	["AzeriteFormat"] = 20,
 	["Yorman-Kil'jaeden"] = {
-		["VERSION"] = 87,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -52,36 +52,35 @@ VWQL = {
 			[50875] = true,
 			[50846] = true,
 			[50547] = true,
-			[50850] = true,
 			[50871] = true,
 			[50571] = true,
+			[50850] = true,
 		},
-		["Filter"] = 63,
-	},
-	["EnableRibbonGeneralMaps"] = false,
-	["Tosh-Kil'jaeden"] = {
-		["VERSION"] = 89,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[51180] = true,
-			[52456] = true,
-			[50529] = true,
-			[54896] = true,
-			[51496] = true,
-			[50845] = true,
-			[50859] = true,
-			[51635] = true,
-			[52163] = true,
-			[51632] = true,
-		},
-		["Filter"] = 63,
+		["VERSION"] = 87,
 	},
 	["Ignore"] = {
 	},
+	["Tosh-Kil'jaeden"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[50744] = true,
+			[51045] = true,
+			[52163] = true,
+			[54896] = true,
+			[49800] = true,
+			[51635] = true,
+			[50633] = true,
+		},
+		["VERSION"] = 89,
+	},
+	["EnableRibbonGeneralMaps"] = false,
 	["ShellGameCenter"] = 48.0010375976563,
 	["Toshaman-Kil'jaeden"] = {
-		["VERSION"] = 87,
+		["FilterType"] = {
+			["pet"] = true,
+		},
 		["Filter"] = 63,
 		["Quests"] = {
 			[51496] = true,
@@ -89,14 +88,12 @@ VWQL = {
 			[52395] = true,
 			[50578] = true,
 		},
-		["FilterType"] = {
-			["pet"] = true,
-		},
+		["VERSION"] = 87,
 	},
-	["ShellGameSize"] = 383.011840820313,
-	["RewardIcons_DisableBountyColors"] = false,
 	["DisableRibbon"] = true,
+	["RewardIcons_DisableBountyColors"] = false,
+	["ShellGameSize"] = 383.011840820313,
 	["AnchorQCBLeft"] = 1838.12561035156,
-	["AnchorQCBTop"] = 872.035278320313,
-	["ArrowStyle"] = 2,
+	["OppositeContinent"] = false,
+	["HideLegion"] = true,
 }

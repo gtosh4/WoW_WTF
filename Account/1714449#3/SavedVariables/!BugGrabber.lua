@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 870,
 	["lastSanitation"] = 3,
+	["session"] = 873,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
@@ -52,21 +52,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [6]
 		{
-			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",
-			["time"] = "2019/08/12 22:40:19",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: ?\n[C]: in function `SetPoint'\nInterface\\FrameXML\\StaticPopup.lua:5175: in function `StaticPopup_SetUpAnchor'\nInterface\\FrameXML\\StaticPopup.lua:5165: in function <Interface\\FrameXML\\StaticPopup.lua:5163>\n[C]: ?\n[C]: in function `StaticPopup_SetUpPosition'\nInterface\\FrameXML\\StaticPopup.lua:4798: in function <Interface\\FrameXML\\StaticPopup.lua:4391>\n[C]: ?\n[C]: in function `StaticPopup_Show'\nInterface\\FrameXML\\UIParent.lua:1218: in function <Interface\\FrameXML\\UIParent.lua:1108>",
-			["session"] = 861,
-			["counter"] = 2,
-		}, -- [7]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'BigWigs_Plugins' tried to call the protected function 'SetParent()'.",
 			["time"] = "2019/08/21 20:07:07",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\BigWigs_Plugins\\BossBlock.lua:200: in function `?'\nInterface\\AddOns\\BigWigs\\Loader.lua:940: in function `SendMessage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:858: in function `Engage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:658: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
 			["session"] = 868,
 			["counter"] = 1,
-		}, -- [8]
+		}, -- [7]
 		{
 			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
 			["time"] = "2019/08/22 22:20:44",
@@ -74,6 +66,14 @@ BugGrabberDB = {
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\AddOns\\AAP-Core\\QuestList.lua:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
 			["session"] = 869,
 			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",
+			["time"] = "2019/08/12 22:40:19",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: ?\n[C]: in function `SetPoint'\nInterface\\FrameXML\\StaticPopup.lua:5175: in function `StaticPopup_SetUpAnchor'\nInterface\\FrameXML\\StaticPopup.lua:5165: in function <Interface\\FrameXML\\StaticPopup.lua:5163>\n[C]: ?\n[C]: in function `StaticPopup_SetUpPosition'\nInterface\\FrameXML\\StaticPopup.lua:4798: in function <Interface\\FrameXML\\StaticPopup.lua:4391>\n[C]: ?\n[C]: in function `StaticPopup_Show'\nInterface\\FrameXML\\UIParent.lua:1218: in function <Interface\\FrameXML\\UIParent.lua:1108>",
+			["session"] = 871,
+			["counter"] = 3,
 		}, -- [9]
 	},
 }

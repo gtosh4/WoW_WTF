@@ -21,8 +21,8 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["level"] = 120,
 						["class"] = "Paladin",
+						["level"] = 120,
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -32,10 +32,11 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Operation: Mechagon Mythic|376307036"] = "317561|1566600437|0|0",
-					["The Eternal Palace Heroic|376244348"] = "317561|1566600437|0|1",
+					["Operation: Mechagon Mythic|376307036"] = "131624|1566786374|0|0",
+					["The Eternal Palace Heroic|376244348"] = "131624|1566786374|0|1",
+					["The Eternal Palace Mythic|376444821"] = "131624|1566786374|0|1",
 				},
-				["lastUpdate"] = 1566600465,
+				["lastUpdate"] = 1566786401,
 			},
 		},
 	},

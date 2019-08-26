@@ -62,7 +62,7 @@ VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend
-/cast [spec:1,@mouseover,noharm] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal; [spec:3,@mouseover,noharm] Shadow Mend
+/cast [spec:1,@mouseover,noharm,nochanneling:Penance] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal; [spec:3,@mouseover,noharm] Shadow Mend
 END
 VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
 #showtooltip Smite

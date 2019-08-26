@@ -2,15 +2,22 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_200000"] = 1000,
-	["_10000"] = 200,
-	["_1000000"] = 2500,
-	["_5000000"] = 10000,
-	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
 	["LOG_DE_DATA_X"] = true,
+	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
+	["City Crusher Sabatons"] = {
+		["5568059"] = "540000000:1",
+		["is"] = "165547:0:0:0:4799",
+		["5562788"] = "569000000:1",
+		["5567201"] = "540000000:1",
+		["5588126"] = "600000000:1",
+	},
 	["Slippers of the Encroaching Tide"] = {
 		["5567200"] = "3200000000:1",
 		["5556353"] = "2950000000:1",
@@ -21,70 +28,63 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["5552854"] = "3200000000:1",
 		["5588125"] = "2300000000:1",
 		["5544060:hd"] = "349990000:1",
-		["5568059"] = "3200000000:1",
 		["5554063"] = "3000000000:1",
-	},
-	["City Crusher Sabatons"] = {
-		["5568059"] = "540000000:1",
-		["is"] = "165547:0:0:0:4799",
-		["5562788"] = "569000000:1",
-		["5567201"] = "540000000:1",
-		["5588126"] = "600000000:1",
+		["5568059"] = "3200000000:1",
 	},
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"of haste", -- [1]
-			"Baked port tato", -- [2]
-			"Unbridled", -- [3]
-			"Monel-hardened stirrups", -- [4]
-			"Monelite ore", -- [5]
-			"contract", -- [6]
-			"Pact of haste", -- [7]
-			"Potion of Replenishment", -- [8]
-			"Vantus Rune", -- [9]
-			"Anchor Weed", -- [10]
-			"Winter's Kiss", -- [11]
-			"Akunda's Bite", -- [12]
-			"coastal healing potion", -- [13]
-			"Deadly amberblaze", -- [14]
-			"Felwort", -- [15]
-			"Siren's Pollen", -- [16]
-			"Battle-Scarred Augment Rune", -- [17]
-			"Vantus Rune: Battle of Dazar'alor", -- [18]
-			"Pact of Critical", -- [19]
-			"time shifter", -- [20]
-			"time-shifter", -- [21]
-			"Ultramarine", -- [22]
-			"hexweave bag", -- [23]
-			"Battle Shout", -- [24]
-			"Battle flag", -- [25]
-			"crafting", -- [26]
-			"Star moss", -- [27]
-			"Riverbud", -- [28]
-			"Sugar Crusted", -- [29]
-			"Sugar-Crusted", -- [30]
-			"Fish", -- [31]
-			"Feast", -- [32]
-			"Fish Feast", -- [33]
-			"Great sea catfish", -- [34]
-			"Drums", -- [35]
-			"Drums of maelstrom", -- [36]
-			"Kraken's Eye of intellect", -- [37]
-			"coarse leather", -- [38]
-			"Alchemist stone", -- [39]
-			"Darkmoon deck: tides", -- [40]
-			"tides", -- [41]
-			"Goblin glider", -- [42]
-			"Pact of versatility", -- [43]
-			"Versatile navigation", -- [44]
-			"Viridescent Ink", -- [45]
-			"quick navigation", -- [46]
-			"quick owlseye", -- [47]
-			"helmet", -- [48]
-			"Deep sea", -- [49]
-			"Diver's", -- [50]
+			"quick sand spinel", -- [1]
+			"Machinist's", -- [2]
+			"Accord of haste", -- [3]
+			"of haste", -- [4]
+			"Baked port tato", -- [5]
+			"Unbridled", -- [6]
+			"Monel-hardened stirrups", -- [7]
+			"Monelite ore", -- [8]
+			"contract", -- [9]
+			"Pact of haste", -- [10]
+			"Potion of Replenishment", -- [11]
+			"Vantus Rune", -- [12]
+			"Anchor Weed", -- [13]
+			"Winter's Kiss", -- [14]
+			"Akunda's Bite", -- [15]
+			"coastal healing potion", -- [16]
+			"Deadly amberblaze", -- [17]
+			"Felwort", -- [18]
+			"Siren's Pollen", -- [19]
+			"Battle-Scarred Augment Rune", -- [20]
+			"Vantus Rune: Battle of Dazar'alor", -- [21]
+			"Pact of Critical", -- [22]
+			"time shifter", -- [23]
+			"time-shifter", -- [24]
+			"Ultramarine", -- [25]
+			"hexweave bag", -- [26]
+			"Battle Shout", -- [27]
+			"Battle flag", -- [28]
+			"crafting", -- [29]
+			"Star moss", -- [30]
+			"Riverbud", -- [31]
+			"Sugar Crusted", -- [32]
+			"Sugar-Crusted", -- [33]
+			"Fish", -- [34]
+			"Feast", -- [35]
+			"Fish Feast", -- [36]
+			"Great sea catfish", -- [37]
+			"Drums", -- [38]
+			"Drums of maelstrom", -- [39]
+			"Kraken's Eye of intellect", -- [40]
+			"coarse leather", -- [41]
+			"Alchemist stone", -- [42]
+			"Darkmoon deck: tides", -- [43]
+			"tides", -- [44]
+			"Goblin glider", -- [45]
+			"Pact of versatility", -- [46]
+			"Versatile navigation", -- [47]
+			"Viridescent Ink", -- [48]
+			"quick navigation", -- [49]
+			"quick owlseye", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -109,8 +109,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["mr"] = 329990000,
 			["cc"] = 4,
 			["L3044"] = 150000000,
-			["sc"] = 1,
 			["id"] = "165509:0:0:0:4799",
+			["sc"] = 1,
 		},
 		["Winter's Kiss"] = {
 			["H3098"] = 64500,
@@ -128,10 +128,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Enchant Ring - Gift of Haste"] = {
 			["mr"] = 8677888,
-			["cc"] = 8,
-			["id"] = "110639:0:0:0:0",
 			["sc"] = 10,
 			["H3191"] = 8677888,
+			["id"] = "110639:0:0:0:0",
+			["cc"] = 8,
 		},
 		["Contract: Voldunai"] = {
 			["mr"] = 974993,
@@ -149,10 +149,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Enchant Ring - Seal of Haste"] = {
 			["mr"] = 217999,
-			["cc"] = 8,
-			["id"] = "153439:0:0:0:0",
 			["sc"] = 10,
 			["H3191"] = 217999,
+			["id"] = "153439:0:0:0:0",
+			["cc"] = 8,
 		},
 		["Contract: The Honorbound"] = {
 			["mr"] = 180000,
@@ -163,39 +163,39 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Enchant Ring - Word of Haste"] = {
 			["mr"] = 1004967,
-			["cc"] = 8,
-			["id"] = "128538:0:0:0:0",
 			["sc"] = 10,
 			["H3191"] = 1004967,
+			["id"] = "128538:0:0:0:0",
+			["cc"] = 8,
 		},
 		["Vantus Rune: Battle of Dazar'alor"] = {
 			["mr"] = 6500000,
+			["cc"] = 0,
+			["H3120"] = 6500000,
 			["sc"] = 9,
 			["id"] = "165692:0:0:0:0",
-			["H3120"] = 6500000,
-			["cc"] = 0,
 		},
 		["Enchant Ring - Breath of Haste"] = {
 			["mr"] = 2481682,
-			["cc"] = 8,
-			["id"] = "110618:0:0:0:0",
 			["sc"] = 10,
 			["H3191"] = 2481682,
+			["id"] = "110618:0:0:0:0",
+			["cc"] = 8,
 		},
 		["Enchant Ring - Pact of Haste"] = {
 			["mr"] = 10510000,
-			["sc"] = 10,
-			["H3191"] = 10510000,
 			["cc"] = 8,
 			["id"] = "153443:0:0:0:0",
+			["H3191"] = 10510000,
+			["sc"] = 10,
 		},
 		["Enchant Neck - Breath of Haste"] = {
 			["L3191"] = 250000,
 			["mr"] = 250000,
 			["sc"] = 1,
 			["H3191"] = 26663131,
-			["cc"] = 8,
 			["id"] = "110625:0:0:0:0",
+			["cc"] = 8,
 		},
 		["Contract: Champions of Azeroth"] = {
 			["mr"] = 2879999,
@@ -218,6 +218,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "168960:0:0:0:0",
 			["sc"] = 8,
 		},
+		["Enchant Weapon - Machinist's Brilliance"] = {
+			["mr"] = 31199887,
+			["cc"] = 8,
+			["id"] = "168593:0:0:0:0",
+			["sc"] = 11,
+			["H3205"] = 31199887,
+		},
 		["Monelite Ore"] = {
 			["mr"] = 221325,
 			["cc"] = 7,
@@ -226,38 +233,45 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 7,
 		},
 		["Enchant Ring - Pact of Critical Strike"] = {
-			["mr"] = 12479999,
-			["cc"] = 8,
-			["id"] = "153442:0:0:0:0",
 			["H3052"] = 12479999,
 			["sc"] = 10,
+			["id"] = "153442:0:0:0:0",
+			["cc"] = 8,
+			["mr"] = 12479999,
 		},
 		["Vantus Rune: Uldir"] = {
 			["mr"] = 16633692,
-			["cc"] = 0,
-			["id"] = "153673:0:0:0:0",
 			["sc"] = 9,
 			["H3120"] = 16633692,
+			["id"] = "153673:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Enchant Ring - Binding of Haste"] = {
 			["mr"] = 1499999,
-			["cc"] = 8,
-			["id"] = "128542:0:0:0:0",
 			["sc"] = 10,
 			["H3191"] = 1499999,
+			["id"] = "128542:0:0:0:0",
+			["cc"] = 8,
 		},
-		["Anchor Weed"] = {
-			["H3098"] = 276000,
-			["mr"] = 276000,
-			["cc"] = 7,
-			["id"] = "152510:0:0:0:0",
+		["Quick Sand Spinel"] = {
+			["mr"] = 1072491,
+			["cc"] = 3,
+			["id"] = "168641:0:0:0:0",
+			["sc"] = 7,
+			["H3205"] = 1072491,
+		},
+		["Vantus Rune: Crucible of Storms"] = {
+			["mr"] = 299998899,
 			["sc"] = 9,
+			["H3120"] = 299998899,
+			["id"] = "165733:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Siren's Pollen"] = {
 			["mr"] = 124000,
-			["cc"] = 7,
-			["id"] = "152509:0:0:0:0",
 			["H3050"] = 124000,
+			["id"] = "152509:0:0:0:0",
+			["cc"] = 7,
 			["sc"] = 9,
 		},
 		["Baked Port Tato"] = {
@@ -267,12 +281,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "168313:0:0:0:0",
 			["cc"] = 0,
 		},
-		["Enchant Ring - Accord of Haste"] = {
-			["mr"] = 12930000,
-			["cc"] = 8,
-			["id"] = "168447:0:0:0:0",
-			["sc"] = 10,
-			["H3191"] = 12930000,
+		["Vantus Rune: Antorus, the Burning Throne"] = {
+			["mr"] = 19899996,
+			["sc"] = 9,
+			["H3120"] = 19899996,
+			["id"] = "151610:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Potion of Replenishment"] = {
 			["mr"] = 1362500,
@@ -283,10 +297,81 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Coastal Healing Potion"] = {
 			["mr"] = 109919,
-			["sc"] = 1,
-			["id"] = "152494:0:0:0:0",
 			["cc"] = 0,
+			["id"] = "152494:0:0:0:0",
+			["sc"] = 1,
 			["H3085"] = 109919,
+		},
+		["Monel-Hardened Stirrups"] = {
+			["mr"] = 7499895,
+			["cc"] = 0,
+			["H3156"] = 7499895,
+			["id"] = "152813:0:0:0:0",
+			["sc"] = 8,
+		},
+		["Felwort Seed"] = {
+			["mr"] = 15000000,
+			["sc"] = 9,
+			["id"] = "129289:0:0:0:0",
+			["cc"] = 7,
+			["H3057"] = 15000000,
+		},
+		["Enchant Cloak - Gift of Haste"] = {
+			["mr"] = 9496424,
+			["sc"] = 3,
+			["H3191"] = 9496424,
+			["id"] = "110653:0:0:0:0",
+			["cc"] = 8,
+		},
+		["Enchant Neck - Gift of Haste"] = {
+			["mr"] = 7013000,
+			["sc"] = 1,
+			["H3191"] = 7013000,
+			["id"] = "110646:0:0:0:0",
+			["cc"] = 8,
+		},
+		["Contract: Unshackled"] = {
+			["mr"] = 49999999,
+			["cc"] = 0,
+			["H3156"] = 49999999,
+			["id"] = "168959:0:0:0:0",
+			["sc"] = 8,
+		},
+		["Enchant Cloak - Breath of Haste"] = {
+			["mr"] = 7429251,
+			["sc"] = 3,
+			["H3191"] = 7429251,
+			["id"] = "110632:0:0:0:0",
+			["cc"] = 8,
+		},
+		["Contract: Tortollan Seekers"] = {
+			["mr"] = 5439995,
+			["cc"] = 0,
+			["H3156"] = 5439995,
+			["id"] = "153667:0:0:0:0",
+			["sc"] = 8,
+		},
+		["City Crusher Sabatons"] = {
+			["H3044"] = 1599999991,
+			["mr"] = 1599999991,
+			["sc"] = 3,
+			["L3044"] = 214450000,
+			["id"] = "165547:0:0:0:4800",
+			["cc"] = 4,
+		},
+		["Contract: Talanji's Expedition"] = {
+			["mr"] = 2669974,
+			["cc"] = 0,
+			["H3156"] = 2669974,
+			["id"] = "153665:0:0:0:0",
+			["sc"] = 8,
+		},
+		["Star Moss"] = {
+			["mr"] = 81498,
+			["H3050"] = 81498,
+			["id"] = "152506:0:0:0:0",
+			["sc"] = 9,
+			["cc"] = 7,
 		},
 		["Unbridled Leggings"] = {
 			["H3183"] = 621962761,
@@ -302,77 +387,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3060"] = 758499,
 			["sc"] = 5,
 		},
-		["Felwort Seed"] = {
-			["mr"] = 15000000,
-			["cc"] = 7,
-			["id"] = "129289:0:0:0:0",
-			["sc"] = 9,
-			["H3057"] = 15000000,
-		},
-		["Enchant Neck - Gift of Haste"] = {
-			["mr"] = 7013000,
-			["cc"] = 8,
-			["id"] = "110646:0:0:0:0",
-			["sc"] = 1,
-			["H3191"] = 7013000,
-		},
-		["Contract: Unshackled"] = {
-			["mr"] = 49999999,
-			["cc"] = 0,
-			["H3156"] = 49999999,
-			["id"] = "168959:0:0:0:0",
-			["sc"] = 8,
-		},
-		["Enchant Cloak - Breath of Haste"] = {
-			["mr"] = 7429251,
-			["cc"] = 8,
-			["id"] = "110632:0:0:0:0",
-			["sc"] = 3,
-			["H3191"] = 7429251,
-		},
-		["Contract: Talanji's Expedition"] = {
-			["mr"] = 2669974,
-			["cc"] = 0,
-			["H3156"] = 2669974,
-			["id"] = "153665:0:0:0:0",
-			["sc"] = 8,
-		},
-		["City Crusher Sabatons"] = {
-			["H3044"] = 1599999991,
-			["mr"] = 1599999991,
-			["sc"] = 3,
-			["L3044"] = 214450000,
-			["cc"] = 4,
-			["id"] = "165547:0:0:0:4800",
-		},
-		["Contract: Tortollan Seekers"] = {
-			["mr"] = 5439995,
-			["cc"] = 0,
-			["H3156"] = 5439995,
-			["id"] = "153667:0:0:0:0",
-			["sc"] = 8,
-		},
-		["Star Moss"] = {
-			["mr"] = 81498,
-			["sc"] = 9,
-			["id"] = "152506:0:0:0:0",
-			["H3050"] = 81498,
-			["cc"] = 7,
-		},
-		["Enchant Cloak - Gift of Haste"] = {
-			["mr"] = 9496424,
-			["cc"] = 8,
-			["id"] = "110653:0:0:0:0",
-			["sc"] = 3,
-			["H3191"] = 9496424,
-		},
-		["Monel-Hardened Stirrups"] = {
-			["mr"] = 7499895,
-			["cc"] = 0,
-			["H3156"] = 7499895,
-			["id"] = "152813:0:0:0:0",
-			["sc"] = 8,
-		},
 		["Potion of Unbridled Fury"] = {
 			["H3183"] = 3447500,
 			["mr"] = 3447500,
@@ -380,19 +394,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "169299:0:0:0:0",
 			["cc"] = 0,
 		},
-		["Vantus Rune: Antorus, the Burning Throne"] = {
-			["mr"] = 19899996,
-			["cc"] = 0,
-			["id"] = "151610:0:0:0:0",
-			["sc"] = 9,
-			["H3120"] = 19899996,
+		["Enchant Ring - Accord of Haste"] = {
+			["mr"] = 14310000,
+			["sc"] = 10,
+			["H3191"] = 12930000,
+			["cc"] = 8,
+			["id"] = "168447:0:0:0:0",
+			["H3205"] = 14310000,
 		},
-		["Vantus Rune: Crucible of Storms"] = {
-			["mr"] = 299998899,
-			["cc"] = 0,
-			["id"] = "165733:0:0:0:0",
+		["Anchor Weed"] = {
+			["H3098"] = 276000,
+			["mr"] = 276000,
+			["cc"] = 7,
+			["id"] = "152510:0:0:0:0",
 			["sc"] = 9,
-			["H3120"] = 299998899,
 		},
 	},
 }
@@ -400,34 +415,34 @@ AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
 	["Yorman"] = {
 		["firstSeen"] = 1549140261,
-		["guid"] = "Player-9-0A76FA3F",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0A76FA3F",
 	},
 	["Toshmonk"] = {
 		["firstSeen"] = 1548723464,
-		["guid"] = "Player-9-0B608E72",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B608E72",
 	},
 	["Tosh"] = {
 		["firstSeen"] = 1548795568,
-		["guid"] = "Player-9-0B60C7FF",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B60C7FF",
 	},
 	["Toshpal"] = {
 		["firstSeen"] = 1554248062,
-		["guid"] = "Player-9-0B60C80F",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B60C80F",
 	},
 	["Toshaman"] = {
 		["firstSeen"] = 1549905563,
-		["guid"] = "Player-9-0B58277D",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-9-0B58277D",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
 	["veiled crystal"] = {
-		["stacksize"] = 4,
 		["numstacks"] = 0,
+		["stacksize"] = 4,
 	},
 }
 AUCTIONATOR_SCAN_MINLEVEL = 1
