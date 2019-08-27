@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168903:6112:::::::120:256::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

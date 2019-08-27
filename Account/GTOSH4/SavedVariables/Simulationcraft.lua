@@ -6,12 +6,12 @@ SimulationCraftDB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -32,14 +32,18 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 171.609243367346,
+				["minimapPos"] = 170.156807812235,
+				["hide"] = true,
 			},
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Toshmonk - Kil'jaeden"] = {
+			["minimap"] = {
+				["minimapPos"] = 171.609243367346,
+			},
 		},
 		["Zallie - Frostwolf"] = {
 		},
@@ -48,11 +52,7 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
-			["minimap"] = {
-				["minimapPos"] = 170.156807812235,
-				["hide"] = true,
-			},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 	},
 }

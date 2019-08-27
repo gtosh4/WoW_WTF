@@ -14,7 +14,7 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/08/03 23:16",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1566786373,
+				["lastUpdate"] = 1566877131,
 				["Mails"] = {
 					{
 						["returned"] = true,
@@ -22,9 +22,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 2.525023221969605,
+						["daysLeft"] = 1.474594950675964,
 					}, -- [1]
 					{
 						["returned"] = true,
@@ -32,9 +32,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 2.525023221969605,
+						["daysLeft"] = 1.474594950675964,
 					}, -- [2]
 					{
 						["returned"] = false,
@@ -42,9 +42,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946527719497681,
+						["daysLeft"] = 2.89609956741333,
 					}, -- [3]
 					{
 						["returned"] = false,
@@ -52,9 +52,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946585655212402,
+						["daysLeft"] = 2.896157503128052,
 					}, -- [4]
 					{
 						["returned"] = false,
@@ -62,9 +62,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946643590927124,
+						["daysLeft"] = 2.896215200424194,
 					}, -- [5]
 					{
 						["returned"] = false,
@@ -72,9 +72,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946805477142334,
+						["daysLeft"] = 2.896377325057983,
 					}, -- [6]
 					{
 						["returned"] = false,
@@ -82,9 +82,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946851968765259,
+						["daysLeft"] = 2.896423578262329,
 					}, -- [7]
 					{
 						["returned"] = false,
@@ -92,9 +92,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946909666061401,
+						["daysLeft"] = 2.896481513977051,
 					}, -- [8]
 					{
 						["returned"] = false,
@@ -102,9 +102,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.946955919265747,
+						["daysLeft"] = 2.896527767181397,
 					}, -- [9]
 					{
 						["returned"] = false,
@@ -112,9 +112,9 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.947060108184815,
+						["daysLeft"] = 2.896631956100464,
 					}, -- [10]
 					{
 						["returned"] = false,
@@ -122,12 +122,12 @@ DataStore_MailsDB = {
 						["itemID"] = 163759,
 						["link"] = "|cffffffff|Hitem:163759::::::::120:256::::::|h[Rabbit's Charm]|h|r",
 						["count"] = 5,
-						["lastCheck"] = 1566786373,
+						["lastCheck"] = 1566877131,
 						["icon"] = 1509634,
-						["daysLeft"] = 3.947118043899536,
+						["daysLeft"] = 2.896689891815186,
 					}, -- [11]
 				},
-				["lastVisitDate"] = "2019/08/25 22:26",
+				["lastVisitDate"] = "2019/08/26 23:38",
 			},
 		},
 	},
