@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1206,
 	["lastSanitation"] = 3,
+	["session"] = 1209,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Holy Power':'custom text' ]]...\"]:43: attempt to index field 'border' (a nil value)",
