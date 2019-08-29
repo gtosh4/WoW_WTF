@@ -21,8 +21,8 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["class"] = "Paladin",
 						["level"] = 120,
+						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
@@ -31,7 +31,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1564888575,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1566919153,
+				["lastUpdate"] = 1567044318,
+				["DungeonIDs"] = {
+					["The Eternal Palace Heroic|376561426"] = "478505|1567044294|0|1",
+				},
 			},
 		},
 	},

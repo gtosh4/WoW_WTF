@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -42,9 +39,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168373::::::::120:256::5:4:4799:1502:5850:4783:::|h[Eelskin Flippers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 165501,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165501::::::::120:256::6:3:4800:1537:4786:::|h[Bracers of Zealous Calling]|h|r",
+			["ID"] = 158348,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:158348::::::::120:256::16:3:5010:1602:4786:::|h[Wraps of Everliving Fealty]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 168375,
@@ -64,16 +61,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159461::::::::120:258::35:4:5007:1602:5865:4784:::|h[Band of the Ancient Dredger]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 159620,
-			["Level"] = 420,
+			["ID"] = 169306,
+			["Level"] = 435,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159620::::::::120:256::35:4:5010:1582:5855:4784:::|h[Conch of Dark Whispers]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169306::::::::120:256::5:4:4799:1502:5850:4783:::|h[Za'qul's Portal Key]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159620,
-			["Level"] = 420,
+			["ID"] = 169306,
+			["Level"] = 435,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159620::::::::120:258::35:4:5010:1582:5855:4784:::|h[Conch of Dark Whispers]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169306::::::::120:258::5:4:4799:1502:5850:4783:::|h[Za'qul's Portal Key]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 155884,
@@ -93,6 +90,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168903:6112:::::::120:256::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
