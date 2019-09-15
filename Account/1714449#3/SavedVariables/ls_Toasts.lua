@@ -9,7 +9,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 			["font"] = {
 				["size"] = 14,
 			},
-			["version"] = 8020005,
+			["version"] = 8020006,
 			["skin"] = "elv",
 			["anchors"] = {
 				{

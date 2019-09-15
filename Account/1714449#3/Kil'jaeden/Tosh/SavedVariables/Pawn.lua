@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 168336,
@@ -9,19 +12,19 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 449,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1586:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 453,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:256::11:4:6316:4932:4933:1590:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 168342,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168342::::::::120:256::5:4:4823:1502:4786:6268:::|h[Fathom-Feeder's Mantle]|h|r",
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168342::::::::120:256::5:5:4823:1502:4786:6268:4775:::|h[Fathom-Feeder's Mantle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 168335,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168335::::::::120:256::5:4:4823:1502:4786:6266:::|h[Robes of Sunken Nobility]|h|r",
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168335::::::::120:256::5:5:4823:1502:4786:6266:4775:::|h[Robes of Sunken Nobility]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 168872,
@@ -29,9 +32,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168872::::::::120:256::5:4:4799:1502:5850:4783:::|h[Cephalopod's Sash]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 159269,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:159269::::::::120:256::35:3:5007:1602:4783:::|h[Darklight Legwarmers]|h|r",
+			["ID"] = 168876,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168876::::::::120:256::5:6:4799:1808:42:1502:5850:4783:::|h[Priscilla's Fishnets]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 168373,
@@ -45,8 +48,8 @@ PawnOptions = {
 		}, -- [9]
 		{
 			["ID"] = 168375,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168375::::::::120:256::5:4:4799:42:1502:4786:::|h[Gloves of Unshackled Arcana]|h|r",
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:168375::::::::120:256::5:5:4799:43:1502:5855:4783:::|h[Gloves of Unshackled Arcana]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 159461,
@@ -90,9 +93,6 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:168903:6112:::::::120:256::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

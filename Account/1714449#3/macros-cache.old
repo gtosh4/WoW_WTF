@@ -51,6 +51,6 @@ VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
 END
-VER 3 000000000000002F "TB" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2."
+VER 3 0000000000000030 "TB" "618979"
 /script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
 END

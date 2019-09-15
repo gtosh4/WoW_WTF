@@ -24,28 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"THROUGH STRONG WILL", -- [1]
-			"Moonrite-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			29, -- [11]
-			"Player-9-0B66E232", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMoonrite|r",
-			[51] = 1559663733,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
 			"420 BIG dagger inc", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663742,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
+		}, -- [1]
 		{
 			"if you have the means, the engineering helm is pretty good for ele", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
+		}, -- [2]
 		{
 			"|cffa335ee|Hitem:165897::::::::120:262::13::::|h[Charged SP1-R1-73D Bionic Bifocals]|h|r", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663853,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
+		}, -- [3]
 		{
 			"i need to get 4 more tidals for trinket ", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559663910,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
+		}, -- [4]
 		{
 			"I thought about doing that too tbh", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663968,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
+		}, -- [5]
 		{
 			"but I have |cffa335ee|Hitem:159615::::::::120:262::35:3:5010:1587:4784:::|h[Ignition Mage's Fuse]|h|r|cffa335ee|Hitem:165571::::::::120:262::3:4:4798:40:1507:4786:::|h[Incandescent Sliver]|h|r atm", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559663974,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
+		}, -- [6]
 		{
 			"|cffa335ee|Hitem:158155::153709::::::120:262::27:4:4803:4802:1567:4783:::|h[Dinobone Charm]|h|r is too low but i also have |cffa335ee|Hitem:159620::::::::120:262::35:4:5010:40:1582:4783:::|h[Conch of Dark Whispers]|h|r", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664004,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
+		}, -- [7]
 		{
 			"that trink is good though", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559664016,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
+		}, -- [8]
 		{
 			"dinobone", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559664018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
+		}, -- [9]
 		{
 			"yeah just lwo ilvl", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664025,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
+		}, -- [10]
 		{
 			"you should check the difference between that dinobone and the alch trink", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664065,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
+		}, -- [11]
 		{
 			"250 dps higher for stone", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664167,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [12]
 		{
 			"wonder if you could use your tidals better elsewhere", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664181,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [13]
 		{
 			"250 difference for a 385, 400, or 415 version of alch", -- [1]
 			"Stormlash-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcStormlash|r",
 			[51] = 1559664218,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [14]
 		{
 			"|cffffff00Nazmir is under attack!|r", -- [1]
 			"", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1559664343,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [15]
 		{
 			"yeah i mean the helm is 418", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664724,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
+		}, -- [16]
 		{
 			"dps", -- [1]
 			"Moonrite-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMoonrite|r",
 			[51] = 1559664727,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
+		}, -- [17]
 		{
 			"|cffa335ee|Hkeystone:158923:353:16:9:6:4:117|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676177,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"do you play fighting games", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"gosu", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"actually nvm", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676666,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"your'e from canada", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676669,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"so you're not the same", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676670,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"i forgot", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676695,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"ready", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676858,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"yea", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559676881,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"Interrupted Kul Tiran Wavetender's |cff71d5ff|Hspell:256957:0|h[Watertight Shell]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559676940,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [28]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Kul Tiran Wavetender!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676943,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Kul Tiran Wavetender ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676947,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Kul Tiran Halberd!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559676998,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Kul Tiran Halberd ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677002,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677026,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677131,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [34]
+		}, -- [33]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677169,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"Iron Gaze on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"Zaix Zaix za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Irontide Waveshaper!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677351,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677355,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677392,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Irontide Waveshaper!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677413,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677417,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:257063:0|h[Brackish Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677425,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"Rivalry interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559677471,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"Interrupted Irontide Waveshaper's |cff71d5ff|Hspell:256957:0|h[Watertight Shell]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Irontide Waveshaper ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677503,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [46]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677623,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [48]
+		}, -- [47]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677630,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [48]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Tempest!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677864,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677864,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [51]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Tempest ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677868,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [52]
 		{
 			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:274569:0|h[Revitalizing Mist]|h|r!", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677878,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [54]
+		}, -- [53]
 		{
 			"we can", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559677941,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"Shroud Active", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677945,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"5", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677955,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"4", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677956,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"3", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677957,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"2", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677957,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"1", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559677959,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559677982,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678031,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"Interrupted Tormented Soul's |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678080,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Tormented Soul ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678084,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678096,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"Sighted Artillery on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678121,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"'s pickpocket stole 3 gold 19 silver 85 copper from you.", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678122,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Sighted Artillery on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678160,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"Sk'yahf Phgwa'cul za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678192,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Buccaneer!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678231,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Buccaneer ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678235,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [76]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678639,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [77]
 		{
 			"Putrid Waters on Friendly", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678663,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [78]
 		{
 			"Putrid Waters on Rivalry", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559678664,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [79]
 		{
 			"Putrid Waters on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1559678683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678699,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Putrid Waters on Gosudk", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [83]
 		{
 			"Halahs Ka'kar za Halsheth", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678703,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"Putrid Waters on Andrewzz", -- [1]
 			"Andrewzz-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Andrewzz|r",
 			[51] = 1559678725,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [85]
 		{
 			"Putrid Waters on Rivalry", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1559678726,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [86]
 		{
 			"lol", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678759,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [87]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r cast on Bilge Rat Tempest!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678784,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [88]
 		{
 			"|cff71d5ff|Hspell:15487:0|h[Silence]|h|r on Bilge Rat Tempest ended!", -- [1]
 			"Friendly-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeFriendly|r",
 			[51] = 1559678788,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [89]
 		{
 			"|cffa335ee|Hkeystone:158923:245:17:9:6:4:117|h[Keystone: Freehold (17)]|h|r", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678805,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"doesnt matter", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678902,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [91]
 		{
 			"ok", -- [1]
 			"Gosudk-Archimonde", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Gosudk-Archimonde|r",
 			[51] = 1559678924,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [92]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13568:Player-9-0B32A56C:1:7:7:19:4294967295:4294967295:4294967295:4294967295|h[For Nazjatar!]|h|r!", -- [1]
 			"Drift-Kil'jaeden", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Drift|r",
 			[51] = 1562522876,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [93]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [94]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564885077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [95]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885126,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [96]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885226,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [97]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564885259,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [98]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885326,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [99]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885426,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [100]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564885441,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [101]
 		{
 			"WTS +10 key. Quick and easy runs. PST FOR INFO :) :D :3 (>*-*)> <(*-*<) <(^_^)>    ", -- [1]
 			"Doopy-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Doopy|r",
 			[51] = 1564885497,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [102]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564885527,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [103]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887227,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [104]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564887263,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [105]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887327,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [106]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887427,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [107]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564887445,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [108]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887527,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12848:Player-9-0AD98136:1:8:3:19:4294967295:4294967295:4294967295:4294967295|h[Kings' Rest]|h|r!", -- [1]
 			"Monkwi-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Monkwi|r",
 			[51] = 1564887605,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [111]
+		}, -- [110]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564887627,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [111]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887628,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [112]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887729,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [113]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564887810,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [114]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887827,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [115]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564887927,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [116]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564887992,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [117]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888027,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [118]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888127,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [119]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564888174,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [120]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888227,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [121]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888327,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [122]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564888356,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [123]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888427,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [124]
 		{
 			"  █ WTS Mythic+(6-13) Carry for the 430+loots and 440+ week reward and Heroic Eternal Palace8/8 PL and guaranteed 430+.also the [Operation Mechagon]Normal/hard mode 8/8 and unlock all glory Ach,|cffffff00|Hachievement:13687:Player-9-0B7CF395:0:0:0:-1:0:0:0:0|h[Glory of the Eternal Raider]|h|r,starting now PST", -- [1]
 			"Larlzak-Kil'jaeden", -- [2]
@@ -2794,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLarlzak|r",
 			[51] = 1564888527,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [125]
 		{
 			"WTS Get geared 430+ tonight! The Eternal Palace Heroic, Operation Mechagon, Mythic+ Keystones. /w for info.", -- [1]
 			"Keduleyn-Kil'jaeden", -- [2]
@@ -2816,6 +2794,28 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKeduleyn|r",
 			[51] = 1564888538,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"anyone want to dps a trap 11 key?", -- [1]
+			"Sonaris-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0B59DAFF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1568525630,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

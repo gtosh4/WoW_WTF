@@ -4,13 +4,13 @@ PawnOptions = {
 	["ItemLevels"] = {
 		{
 			["ID"] = 168360,
-			["Level"] = 445,
-			["Link"] = "|cffa335ee|Hitem:168360::::::::120:65::6:4:4824:1517:4786:6270:::|h[Warhelm of Dread Waters]|h|r",
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:168360::::::::120:65::6:5:4824:1517:4786:6270:4775:::|h[Warhelm of Dread Waters]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 455,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1592:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 459,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1596:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159407,
@@ -39,14 +39,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:170143::168641::::::120:65:::5:6300:4802:6293:1507:4786:::|h[Akana's Reefstrider Boots]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 159409,
-			["Level"] = 440,
-			["Link"] = "|cffa335ee|Hitem:159409::::::::120:65::35:3:5010:1612:4783:::|h[Embalmer's Steadying Bracers]|h|r",
+			["ID"] = 168377,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168377::::::::120:65::6:3:4800:1517:4786:::|h[Tideblood Bracers]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 155890,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:155890::168641::::::120:65::16:4:5010:4802:1602:4786:::|h[Sharktooth-Knuckled Grips]|h|r",
+			["ID"] = 168386,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168386::::::::120:65::6:3:4800:1517:4786:::|h[Gauntlets of Overflowing Chill]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 168889,
@@ -67,10 +67,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169316::::::::120:65::6:3:4800:1517:4786:::|h[Deferred Sentence]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 169312,
-			["Level"] = 430,
+			["ID"] = 169309,
+			["Level"] = 445,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:169312::168638::::::120:65::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169309::::::::120:65::6:3:4800:1517:4786:::|h[Zoatroid Egg Sac]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 159287,
@@ -79,14 +79,15 @@ PawnOptions = {
 		}, -- [15]
 		{
 			["ID"] = 168903,
-			["Level"] = 415,
+			["Level"] = 445,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:168903::::::::120:65::3:3:4798:1487:4786:::|h[Scepter of the Azsh'ari]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168903::::::::120:65::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 168896,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168896::::::::120:65::5:4:4799:1808:1502:4786:::|h[Stormtamer's Orb]|h|r",
+			["ID"] = 168903,
+			["Level"] = 445,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:168903:5963:::::::120:65::6:3:4800:1517:4786:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [17]
 	},
 	["AutoSelectScales"] = true,

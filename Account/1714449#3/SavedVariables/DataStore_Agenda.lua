@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-09-03",
+			["NextWeeklyReset"] = "2019-09-17",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -21,20 +21,20 @@ DataStore_AgendaDB = {
 					},
 					["Toshpal"] = {
 						["note"] = "",
-						["level"] = 120,
-						["class"] = "Paladin",
 					},
 					["Toshaman"] = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1564888575,
+				["lastUpdate"] = 1568525647,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1567044318,
 				["DungeonIDs"] = {
-					["The Eternal Palace Heroic|376561426"] = "478505|1567044294|0|1",
+					["Battle of Dazar'alor Mythic|352437159"] = "300573|1568431824|0|1",
+					["The Eternal Palace Heroic|376927845"] = "300573|1568431824|0|1",
+					["Operation: Mechagon Mythic|376949560"] = "300573|1568431824|0|0",
 				},
+				["lastUpdate"] = 1568431880,
 			},
 		},
 	},

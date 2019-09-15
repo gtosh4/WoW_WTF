@@ -6,12 +6,12 @@ Postal3DB = {
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 	},
 	["global"] = {
 		["BlackBook"] = {
@@ -34,12 +34,13 @@ Postal3DB = {
 		["Toshpal - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [2]
-					"Peace|Kil'jaeden|Horde", -- [3]
-					"Cadaceus-Kil'jaeden|Kil'jaeden|Horde", -- [4]
-					"Toshaman|Kil'jaeden|Horde", -- [5]
-					"Yorman|Kil'jaeden|Horde", -- [6]
+					"Pluie|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [3]
+					"Peace|Kil'jaeden|Horde", -- [4]
+					"Cadaceus-Kil'jaeden|Kil'jaeden|Horde", -- [5]
+					"Toshaman|Kil'jaeden|Horde", -- [6]
+					"Yorman|Kil'jaeden|Horde", -- [7]
 				},
 			},
 		},
@@ -65,8 +66,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -77,7 +76,18 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Qiro|Kil'jaeden|Horde", -- [5]
+				},
+			},
 		},
 		["Zallie - Frostwolf"] = {
 		},
@@ -98,16 +108,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Yellowy|Kil'jaeden|Horde", -- [3]
-					"Yorman|Kil'jaeden|Horde", -- [4]
-					"Qiro|Kil'jaeden|Horde", -- [5]
-				},
-			},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 	},
 }

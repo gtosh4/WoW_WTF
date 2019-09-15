@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 878,
+	["session"] = 884,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -28,29 +28,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [3]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar2:SetWidth()'.",
-			["time"] = "2019/08/04 17:14:33",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetWidth'\nInterface\\AddOns\\ElvUI\\Core\\Toolkit.lua:192: in function `Width'\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:144: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 860,
-			["counter"] = 2,
-		}, -- [4]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
-			["time"] = "2019/08/04 17:14:33",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:243: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 860,
-			["counter"] = 2,
-		}, -- [5]
-		{
 			["message"] = "...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:209: Attempt to Release Widget that is already released",
 			["time"] = "2019/08/12 20:43:30",
 			["locals"] = "(*temporary) = \"Attempt to Release Widget that is already released\"\n",
 			["stack"] = "[C]: ?\n...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:126: in function <...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:121>\n...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:209: in function `Release'\n...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:225: in function <...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:223>",
 			["session"] = 860,
 			["counter"] = 1,
-		}, -- [6]
+		}, -- [4]
 		{
 			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",
 			["time"] = "2019/08/12 22:40:19",
@@ -58,7 +42,7 @@ BugGrabberDB = {
 			["stack"] = "[C]: ?\n[C]: in function `SetPoint'\nInterface\\FrameXML\\StaticPopup.lua:5175: in function `StaticPopup_SetUpAnchor'\nInterface\\FrameXML\\StaticPopup.lua:5165: in function <Interface\\FrameXML\\StaticPopup.lua:5163>\n[C]: ?\n[C]: in function `StaticPopup_SetUpPosition'\nInterface\\FrameXML\\StaticPopup.lua:4798: in function <Interface\\FrameXML\\StaticPopup.lua:4391>\n[C]: ?\n[C]: in function `StaticPopup_Show'\nInterface\\FrameXML\\UIParent.lua:1218: in function <Interface\\FrameXML\\UIParent.lua:1108>",
 			["session"] = 871,
 			["counter"] = 3,
-		}, -- [7]
+		}, -- [5]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'BigWigs_Plugins' tried to call the protected function 'SetParent()'.",
 			["time"] = "2019/08/21 20:07:07",
@@ -66,14 +50,86 @@ BugGrabberDB = {
 			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\BigWigs_Plugins\\BossBlock.lua:200: in function `?'\nInterface\\AddOns\\BigWigs\\Loader.lua:940: in function `SendMessage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:858: in function `Engage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:658: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
 			["session"] = 878,
 			["counter"] = 2,
+		}, -- [6]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate8",
+			["time"] = "2019/09/11 20:43:45",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate1",
+			["time"] = "2019/09/11 20:48:25",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 3,
 		}, -- [8]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate13",
+			["time"] = "2019/09/11 20:59:24",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 1,
+		}, -- [9]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate5",
+			["time"] = "2019/09/11 20:48:17",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 2,
+		}, -- [10]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate9",
+			["time"] = "2019/09/11 20:59:35",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate4",
+			["time"] = "2019/09/11 21:03:04",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate2",
+			["time"] = "2019/09/11 20:43:42",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
+			["session"] = 880,
+			["counter"] = 2,
+		}, -- [13]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar2:SetWidth()'.",
+			["time"] = "2019/08/04 17:14:33",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetWidth'\nInterface\\AddOns\\ElvUI\\Core\\Toolkit.lua:192: in function `Width'\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:144: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
+			["session"] = 882,
+			["counter"] = 3,
+		}, -- [14]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
+			["time"] = "2019/08/04 17:14:33",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:243: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
+			["session"] = 882,
+			["counter"] = 3,
+		}, -- [15]
 		{
 			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
 			["time"] = "2019/08/22 22:20:44",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\AddOns\\AAP-Core\\QuestList.lua:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
-			["session"] = 878,
-			["counter"] = 2,
-		}, -- [9]
+			["session"] = 882,
+			["counter"] = 3,
+		}, -- [16]
 	},
 }
