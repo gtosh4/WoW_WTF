@@ -57,8 +57,8 @@ VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
 /cast Shadowfiend
 END
 VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
-#showtooltip Silence
-/cast [@focus,exists,harm][@target]Silence
+#showtooltip [spec:2]Greater Heal; [spec:3]Silence
+/cast [spec:2,@mouseover,noharm]Greater Heal; [spec:3,@focus,exists,harm][@target]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
 #showtooltip

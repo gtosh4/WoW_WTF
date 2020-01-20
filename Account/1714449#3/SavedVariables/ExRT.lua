@@ -3305,7 +3305,7 @@ VExRT = {
 			["Indikkah-Illidan"] = 102,
 			["Xrniosm-Tichondrius"] = 262,
 			["Acchiles-Azralon"] = 252,
-			["Toshpal"] = 70,
+			["Toshpal"] = 65,
 			["Snareiat"] = 260,
 			["Dalaranxp-Illidan"] = 260,
 			["Discreet"] = 259,
@@ -3339,11 +3339,12 @@ VExRT = {
 			["Sonaris"] = 258,
 			["Indikkahh-Illidan"] = 63,
 			["Lyuneria"] = 577,
-			["Arnbjørn"] = 63,
-			["Pedrõ-Azralon"] = 254,
 			["Tosh"] = 256,
-			["Átok-Ragnaros"] = 577,
+			["Pedrõ-Azralon"] = 254,
+			["Arnbjørn"] = 63,
 			["Scitama-Area52"] = 269,
+			["Átok-Ragnaros"] = 577,
+			["Scíence-Area52"] = 267,
 			["Strixecute-Mal'Ganis"] = 72,
 			["Aartrich-Nazgrel"] = 64,
 			["Sci"] = 65,
@@ -5240,14 +5241,14 @@ VExRT = {
 				"GToshaman", -- [17]
 				"LKalindalivar-Stormreaver", -- [18]
 				"AMenegrot-Ragnaros", -- [19]
-				["k"] = true,
+				[21] = "EZech-Thrall",
 				["eN"] = "Mekkatorque",
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["d"] = 14,
 				["eI"] = 2276,
 				["t"] = 1551033864,
 				["g"] = 20,
-				[21] = "EZech-Thrall",
+				["c"] = "Toshaman-Kil'jaeden",
 			}, -- [52]
 			{
 				"BBeefyypally-Illidan", -- [1]
@@ -8183,13 +8184,13 @@ VExRT = {
 	["WhoPulled"] = {
 	},
 	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 4120,
-		["PreVersion"] = 4120,
 		["IconMiniMapTop"] = -16.3100831137973,
-		["IconMiniMapLeft"] = -78.3197369046974,
-		["IconMiniMapHide"] = true,
+		["Version"] = 4120,
 		["Timer"] = 0.1,
+		["IconMiniMapHide"] = true,
+		["IconMiniMapLeft"] = -78.3197369046974,
+		["PreVersion"] = 4120,
+		["Scale"] = 1,
 	},
 	["InviteTool"] = {
 		["Words"] = "инв inv byd штм 123",

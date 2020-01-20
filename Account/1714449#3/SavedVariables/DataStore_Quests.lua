@@ -32,24 +32,7 @@ DataStore_QuestsDB = {
 				},
 				["HistoryBuild"] = "33062",
 				["HistorySize"] = 1477,
-				["Rewards"] = {
-					"r|157827|1|1", -- [1]
-					nil, -- [2]
-					"r|169610|1|1", -- [3]
-					"r|168850|1|1", -- [4]
-					nil, -- [5]
-					nil, -- [6]
-					"r|157824|1|1", -- [7]
-					nil, -- [8]
-					"r|157822|1|1", -- [9]
-					"r|165871|1|1", -- [10]
-					nil, -- [11]
-					"r|169765|1|1,r|166883|1|1", -- [12]
-					nil, -- [13]
-					"c|168442|1|1,c|168920|1|1,c|168578|1|1", -- [14]
-					nil, -- [15]
-					"c|167246|1|1,c|167310|1|1,c|167249|1|1,c|167313|1|1,r|171198|2|1", -- [16]
-				},
+				["lastUpdate"] = 1579037260,
 				["QuestTags"] = {
 					128, -- [1]
 					nil, -- [2]
@@ -450,6 +433,24 @@ DataStore_QuestsDB = {
 					[1768] = 134283264,
 					[1258] = 20480,
 				},
+				["Rewards"] = {
+					"r|157827|1|1", -- [1]
+					nil, -- [2]
+					"r|169610|1|1", -- [3]
+					"r|168850|1|1", -- [4]
+					nil, -- [5]
+					nil, -- [6]
+					"r|157824|1|1", -- [7]
+					nil, -- [8]
+					"r|157822|1|1", -- [9]
+					"r|165871|1|1", -- [10]
+					nil, -- [11]
+					"r|169765|1|1,r|166883|1|1", -- [12]
+					nil, -- [13]
+					"c|168442|1|1,c|168920|1|1,c|168578|1|1", -- [14]
+					nil, -- [15]
+					"c|167246|1|1,c|167310|1|1,c|167249|1|1,c|167313|1|1,r|171198|2|1", -- [16]
+				},
 				["QuestHeaders"] = {
 					"Dalaran", -- [1]
 					"Mechagon", -- [2]
@@ -465,7 +466,6 @@ DataStore_QuestsDB = {
 					"Rated PvP", -- [12]
 					"World Quest", -- [13]
 				},
-				["lastUpdate"] = 1579037260,
 				["Money"] = {
 					0, -- [1]
 					234000, -- [2]
@@ -543,32 +543,7 @@ DataStore_QuestsDB = {
 				},
 				["lastUpdate"] = 1579474890,
 				["HistorySize"] = 1270,
-				["Money"] = {
-					23400, -- [1]
-					0, -- [2]
-					0, -- [3]
-					936000, -- [4]
-					234000, -- [5]
-					702000, -- [6]
-					468000, -- [7]
-					960, -- [8]
-					0, -- [9]
-					0, -- [10]
-					234000, -- [11]
-					0, -- [12]
-					0, -- [13]
-					0, -- [14]
-					0, -- [15]
-					936000, -- [16]
-					23400, -- [17]
-					23400, -- [18]
-					0, -- [19]
-					0, -- [20]
-					234000, -- [21]
-					0, -- [22]
-					0, -- [23]
-					0, -- [24]
-				},
+				["HistoryBuild"] = "33084",
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
@@ -909,6 +884,32 @@ DataStore_QuestsDB = {
 					[1768] = 134283265,
 					[1792] = 2147483648,
 				},
+				["Money"] = {
+					23400, -- [1]
+					0, -- [2]
+					0, -- [3]
+					936000, -- [4]
+					234000, -- [5]
+					702000, -- [6]
+					468000, -- [7]
+					960, -- [8]
+					0, -- [9]
+					0, -- [10]
+					234000, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					936000, -- [16]
+					23400, -- [17]
+					23400, -- [18]
+					0, -- [19]
+					0, -- [20]
+					234000, -- [21]
+					0, -- [22]
+					0, -- [23]
+					0, -- [24]
+				},
 				["Rewards"] = {
 					[2] = "r|157830|1|1",
 					[21] = "r|171354|1|1",
@@ -917,7 +918,6 @@ DataStore_QuestsDB = {
 					[9] = "r|157826|1|1",
 					[15] = "r|21436|10|0,r|21512|1|1",
 				},
-				["HistoryBuild"] = "33084",
 				["QuestHeaders"] = {
 					"Broken Shore", -- [1]
 					"Highmountain", -- [2]
@@ -938,53 +938,6 @@ DataStore_QuestsDB = {
 					"Visions of N'Zoth", -- [17]
 					"Warfronts", -- [18]
 					"Weekend Event", -- [19]
-				},
-				["Dailies"] = {
-					{
-						["id"] = 56889,
-						["timestamp"] = 1579456646,
-						["title"] = "Wounded Wastewanderers",
-					}, -- [1]
-					{
-						["id"] = 58778,
-						["timestamp"] = 1579457662,
-						["title"] = "Getting Ahead",
-					}, -- [2]
-					{
-						["id"] = 58010,
-						["timestamp"] = 1579457717,
-						["title"] = "More Bits, More Bits!",
-					}, -- [3]
-					{
-						["id"] = 58155,
-						["timestamp"] = 1579459591,
-						["title"] = "A Hand in the Dark",
-					}, -- [4]
-					{
-						["id"] = 58468,
-						["timestamp"] = 1579461385,
-						["title"] = "A Growing Darkness",
-					}, -- [5]
-					{
-						["id"] = 58420,
-						["timestamp"] = 1579461439,
-						["title"] = "A Foul Annoyance",
-					}, -- [6]
-					{
-						["id"] = 58423,
-						["timestamp"] = 1579461440,
-						["title"] = "The Strongest Among Them",
-					}, -- [7]
-					{
-						["id"] = 58595,
-						["timestamp"] = 1579461440,
-						["title"] = "Pillars of Oblivion",
-					}, -- [8]
-					{
-						["id"] = 50606,
-						["timestamp"] = 1579472552,
-						["title"] = "Horde War Effort",
-					}, -- [9]
 				},
 				["Quests"] = {
 					7864384, -- [1]
@@ -1020,7 +973,7 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["HistoryLastUpdate"] = 1579497654,
+				["HistoryLastUpdate"] = 1579508896,
 				["QuestLinks"] = {
 					"|cff40c040|Hquest:48641:110:110:255:0|h[Armies of Legionfall]|h|r", -- [1]
 					"|cff40c040|Hquest:42233:110:110:255:0|h[Highmountain Tribes]|h|r", -- [2]
@@ -1033,35 +986,23 @@ DataStore_QuestsDB = {
 					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [9]
 					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [10]
 					"|cffffff00|Hquest:50606:-1:120:120:0|h[Horde War Effort]|h|r", -- [11]
-					"|cffffff00|Hquest:51039:-1:120:120:0|h[Supplies Needed: Winter's Kiss]|h|r", -- [12]
-					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [13]
-					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [14]
+					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [12]
+					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [13]
+					"|cffffff00|Hquest:56500:-1:120:120:0|h[Storming the Battlefields]|h|r", -- [14]
 					"|cffffff00|Hquest:58632:-1:120:120:0|h[Ny'alotha, the Waking City: The Corruptor's End]|h|r", -- [15]
 					"|cffffff00|Hquest:54174:-1:120:120:0|h[Orders from Azshara]|h|r", -- [16]
 					"|cffffff00|Hquest:56401:-1:120:120:0|h[A Bolt from the Blue]|h|r", -- [17]
 					"|cffffff00|Hquest:53181:-1:110:120:0|h[Druidic Fur]|h|r", -- [18]
 					"|cffffff00|Hquest:53176:-1:110:120:0|h[Glittering Scarab]|h|r", -- [19]
 					"|cffffff00|Hquest:53164:-1:110:120:0|h[Sonic Stone]|h|r", -- [20]
-					"|cffffff00|Hquest:55440:120:120:255:0|h[Conquest's Reward]|h|r", -- [21]
+					"|cffffff00|Hquest:55441:120:120:255:0|h[Conquest's Reward]|h|r", -- [21]
 					"|cff808080|Hquest:3861:1:1:255:0|h[CLUCK!]|h|r", -- [22]
 					"|cffffff00|Hquest:57402:-1:120:120:0|h[Reconstructing \"The Curse of Stone\"]|h|r", -- [23]
 					"|cffffff00|Hquest:53037:-1:120:120:0|h[Emissary of War]|h|r", -- [24]
 				},
-				["lastUpdate"] = 1579498237,
-				["HistorySize"] = 1228,
-				["Rewards"] = {
-					"r|157830|1|1", -- [1]
-					"r|157823|1|1", -- [2]
-					"r|169610|1|1", -- [3]
-					"r|168850|1|1", -- [4]
-					nil, -- [5]
-					"r|157826|1|1", -- [6]
-					[17] = "r|168614|1|1",
-					[21] = "c|171154|1|1,c|169732|1|1,c|169719|1|1,c|169722|1|1,r|171198|2|1",
-					[14] = "r|21436|10|0,r|21512|1|1",
-					[23] = "r|171335|1|1",
-					[24] = "r|168269|1|1",
-				},
+				["lastUpdate"] = 1579509859,
+				["HistorySize"] = 1234,
+				["HistoryBuild"] = "33084",
 				["QuestTags"] = {
 					128, -- [1]
 					128, -- [2]
@@ -1074,8 +1015,7 @@ DataStore_QuestsDB = {
 					270, -- [9]
 					128, -- [10]
 					128, -- [11]
-					109, -- [12]
-					256, -- [13]
+					256, -- [12]
 					[15] = 62,
 					[21] = 256,
 					[24] = 81,
@@ -1142,7 +1082,7 @@ DataStore_QuestsDB = {
 					[1556] = 960,
 					[1812] = 917532,
 					[1557] = 4456960,
-					[1813] = 50331712,
+					[1813] = 587202624,
 					[1303] = 1073741824,
 					[1559] = 18432,
 					[1560] = 3221381121,
@@ -1173,13 +1113,14 @@ DataStore_QuestsDB = {
 					[1582] = 64,
 					[1838] = 2147483648,
 					[1583] = 139264,
-					[1584] = 2105440,
+					[1584] = 2236512,
 					[1841] = 98304,
 					[1586] = 4127719425,
 					[1587] = 393256,
 					[1588] = 2097152,
 					[1844] = 17039360,
 					[1589] = 524288,
+					[1590] = 32,
 					[1591] = 33554434,
 					[1592] = 138936322,
 					[1593] = 537395200,
@@ -1231,7 +1172,7 @@ DataStore_QuestsDB = {
 					[1650] = 118,
 					[1396] = 8912896,
 					[1652] = 671154180,
-					[1653] = 16,
+					[1653] = 8208,
 					[1655] = 262144,
 					[1656] = 1074004480,
 					[1657] = 2560,
@@ -1249,6 +1190,7 @@ DataStore_QuestsDB = {
 					[1673] = 134224392,
 					[1674] = 536870912,
 					[1675] = 32888,
+					[1420] = 16777216,
 					[1676] = 2052,
 					[1678] = 46,
 					[1680] = 260096,
@@ -1310,7 +1252,7 @@ DataStore_QuestsDB = {
 					[1476] = 67108864,
 					[1732] = 33150,
 					[1477] = 3356471809,
-					[1733] = 134283143,
+					[1733] = 134348679,
 					[1478] = 524288,
 					[1734] = 1728061953,
 					[1479] = 3619618816,
@@ -1383,6 +1325,20 @@ DataStore_QuestsDB = {
 					[1768] = 134283289,
 					[1271] = 262144,
 				},
+				["Rewards"] = {
+					"r|157830|1|1", -- [1]
+					"r|157823|1|1", -- [2]
+					"r|169610|1|1", -- [3]
+					"r|168850|1|1", -- [4]
+					nil, -- [5]
+					"r|157826|1|1", -- [6]
+					[17] = "r|168614|1|1",
+					[21] = "c|167301|1|1,r|171198|2|1",
+					[24] = "r|168269|1|1",
+					[14] = "c|168442|1|1,c|168920|1|1",
+					[23] = "r|171335|1|1",
+					[13] = "r|21436|10|0,r|21512|1|1",
+				},
 				["QuestHeaders"] = {
 					"Broken Shore", -- [1]
 					"Highmountain", -- [2]
@@ -1396,16 +1352,16 @@ DataStore_QuestsDB = {
 					"Zuldazar", -- [10]
 					"Missing header! (quest designers)", -- [11]
 					"Ahn'Qiraj War", -- [12]
-					"Black Empire Campaign", -- [13]
-					"Crucible of Storms", -- [14]
-					"Heart of Azeroth", -- [15]
-					"Island Expeditions", -- [16]
-					"Rated PvP", -- [17]
-					"Special", -- [18]
-					"Visions of N'Zoth", -- [19]
-					"Weekend Event", -- [20]
+					"Battlegrounds", -- [13]
+					"Black Empire Campaign", -- [14]
+					"Crucible of Storms", -- [15]
+					"Heart of Azeroth", -- [16]
+					"Island Expeditions", -- [17]
+					"Rated PvP", -- [18]
+					"Special", -- [19]
+					"Visions of N'Zoth", -- [20]
+					"Weekend Event", -- [21]
 				},
-				["HistoryBuild"] = "33084",
 				["Money"] = {
 					0, -- [1]
 					0, -- [2]
@@ -1414,7 +1370,7 @@ DataStore_QuestsDB = {
 					23400, -- [5]
 					0, -- [6]
 					0, -- [7]
-					0, -- [8]
+					1998000, -- [8]
 					0, -- [9]
 					0, -- [10]
 					20000000, -- [11]
@@ -1432,18 +1388,6 @@ DataStore_QuestsDB = {
 					176000, -- [23]
 					0, -- [24]
 				},
-				["Dailies"] = {
-					{
-						["id"] = 58155,
-						["timestamp"] = 1579463479,
-						["title"] = "A Hand in the Dark",
-					}, -- [1]
-					{
-						["id"] = 50598,
-						["timestamp"] = 1579498236,
-						["title"] = "Zandalari Empire",
-					}, -- [2]
-				},
 				["Quests"] = {
 					7211112, -- [1]
 					7213160, -- [2]
@@ -1456,26 +1400,26 @@ DataStore_QuestsDB = {
 					7880800, -- [9]
 					7882856, -- [10]
 					7884904, -- [11]
-					7884900, -- [12]
-					7886944, -- [13]
-					3956800, -- [14]
-					7891008, -- [15]
-					7893056, -- [16]
-					7895104, -- [17]
-					7897152, -- [18]
-					7897152, -- [19]
-					7897152, -- [20]
-					7899232, -- [21]
-					102464, -- [22]
-					7903296, -- [23]
-					7905344, -- [24]
+					7886944, -- [12]
+					3956800, -- [13]
+					7891008, -- [14]
+					7893056, -- [15]
+					7895104, -- [16]
+					7897152, -- [17]
+					7899200, -- [18]
+					7899200, -- [19]
+					7899200, -- [20]
+					7901280, -- [21]
+					104512, -- [22]
+					7905344, -- [23]
+					7907392, -- [24]
 				},
 				["Emissaries"] = {
-					[42421] = "0|4|2011|0/4 Complete 4 world quests in Suramar",
-					[50606] = "1|4|2010|1/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
-					[48641] = "0|4|3451|0/4 Complete 4 world quests on the Broken Shore",
-					[50603] = "0|4|3450|0/4 Complete 4 world quests in Vol'dun",
-					[42233] = "0|4|571|0/4 Complete 4 world quests in Highmountain.",
+					[42421] = "0|4|1817|0/4 Complete 4 world quests in Suramar",
+					[50606] = "1|4|1817|1/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
+					[48641] = "0|4|3257|0/4 Complete 4 world quests on the Broken Shore",
+					[50603] = "0|4|3257|0/4 Complete 4 world quests in Vol'dun",
+					[42233] = "0|4|377|0/4 Complete 4 world quests in Highmountain.",
 				},
 			},
 		},

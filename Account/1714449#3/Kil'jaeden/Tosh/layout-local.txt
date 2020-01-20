@@ -62,3 +62,17 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: LEFT
+X: 427
+Y: -45
+W: 267
+H: 207
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: LEFT
+X: 258
+Y: 170
+W: 413
+H: 345

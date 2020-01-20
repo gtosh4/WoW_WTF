@@ -40,8 +40,8 @@ VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
 /cast [spec:1,@mouseover,noharm] Power Word: Radiance; [spec:2] Holy Word: Sanctify
 END
 VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
-#showtooltip [spec:1] Power Word: Shield; [spec:2] Renew; [spec:3] Power Word: Shield
-/cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew; [spec:3,@mouseover,noharm] Power Word: Shield
+#showtooltip
+/use [spec:1,@mouseover,noharm][spec:1,@targte,noharm][spec:3,@mouseover,noharm]Power Word: Shield;[spec:2,@mouseover,noharm]Renew
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip
@@ -61,8 +61,8 @@ VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
 /cast [@focus,exists,harm][@target]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
-#showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend
-/cast [spec:1,@mouseover,noharm,nochanneling:Penance] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal; [spec:3,@mouseover,noharm] Shadow Mend
+#showtooltip
+/cast [spec:1,@mouseover,noharm,nochanneling:Penance][spec:1,@targte,noharm,nochanneling:Pneance][spec:3,@mouseover,noharm]  Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal
 END
 VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
 #showtooltip Smite

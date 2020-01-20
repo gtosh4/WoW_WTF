@@ -29,7 +29,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1579474933,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1579498255,
+				["lastUpdate"] = 1579510188,
 			},
 		},
 	},

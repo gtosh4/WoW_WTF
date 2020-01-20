@@ -61,10 +61,10 @@ DataStore_CurrenciesDB = {
 				["Battle for Azeroth"] = 1,
 				["Timeworn Artifact"] = 17,
 				["Warlords of Draenor"] = 20,
-				["Prismatic Manapearl"] = 27,
 				["Coalescing Visions"] = 28,
-				["Apexis Crystal"] = 21,
 				["Wakening Essence"] = 19,
+				["Apexis Crystal"] = 21,
+				["Prismatic Manapearl"] = 27,
 				["Garrison Resources"] = 22,
 				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,
@@ -228,7 +228,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1579497560,
+				["lastUpdate"] = 1579509775,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
