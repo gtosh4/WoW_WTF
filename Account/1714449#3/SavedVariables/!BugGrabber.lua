@@ -1,135 +1,29 @@
 
 BugGrabberDB = {
-	["session"] = 884,
+	["session"] = 1258,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MythicPlusTimer' tried to call the protected function 'ObjectiveTrackerFrame:SetParent()'.",
-			["time"] = "2019/07/06 18:14:41",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:606: in function `show_default_tracker'\nInterface\\AddOns\\MythicPlusTimer\\main.lua:415: in function `callback'\nInterface\\AddOns\\MythicPlusTimer\\addon.lua:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
-			["session"] = 853,
-			["counter"] = 2,
+			["message"] = "...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua:386: attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)",
+			["time"] = "2020/01/19 21:38:19",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n OnEnter = <function> defined @Interface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua:29\n talentID = 3547\n GetSelectedTalent = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:218\n NewGlow = <unnamed> {\n }\n Update = <function> defined =[C]:-1\n IsPendingTalentRemoval = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:254\n OnDragStart = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:335\n OnClick = <function> defined @Interface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua:40\n Texture = <unnamed> {\n }\n isInspect = true\n OnShow = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:203\n OnLoad = <function> defined @Interface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua:5\n OnHide = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:207\n predictedSetting = <table> {\n }\n SetSelectedTalent = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:222\n Arrow = <unnamed> {\n }\n New = <unnamed> {\n }\n TalentName = <unnamed> {\n }\n Border = <unnamed> {\n }\n slotIndex = 1\n SetPendingTalentRemoval = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:250\n OnEvent = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:211\n SetUp = <function> defined @Interface\\FrameXML\\TalentFrameBase.lua:231\n}\n(*temporary) = nil\n(*temporary) = \"target\"\n(*temporary) = 1\n(*temporary) = \"attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)\"\n_G = <table> {\n ERR_OUT_OF_CHI = \"Not enough chi\"\n DH_HAVOC_CORE_ABILITY_2 = \"Strong melee attack that consumes Fury. If it critical strikes, some Fury is refunded.\"\n GetTrainerServiceTypeFilter = <function> defined =[C]:-1\n UNIT_NAMES_COMBATLOG_TOOLTIP = \"Color unit names.\"\n SetTrainerServiceTypeFilter = <function> defined =[C]:-1\n LE_GAME_ERR_CHAT_RAID_RESTRICTED_TRIAL = 740\n SPELL_FAILED_CUSTOM_ERROR_71 = \"This partygoer wants to dance with you.\"\n LE_GAME_ERR_PET_SPELL_TARGETS_DEAD = 399\n AceGUI30PulloutScrollbar29 = AceGUI30PulloutScrollbar29 {\n }\n InterfaceOptionsActionBarsPanelStackRightBarsPixelBorderTOP = InterfaceOptionsActionBarsPanelStackRightBarsPixelBorderTOP {\n }\n TabardCharacterModelRotateRightButtonPixelBorderTOP = TabardCharacterModelRotateRightButtonPixelBorderTOP {\n }\n InspectFrameTab1HighlightTexture = InspectFrameTab1HighlightTexture {\n }\n CombatConfigColorsColorizeEntireLinePixelBorderCENTER = CombatConfigColorsColorizeEntireLinePixelBorderCENTER {\n }\n MultiBarLeftButton7 = MultiBarLeftButton7 {\n }\n InterfaceOptionsNamesPanelUnitNameplatesShowAll = InterfaceOptionsNamesPanelUnitNameplatesShowAll {\n }\n LE_GAME_ERR_INVALID_FOLLOW_PVP_COMBAT = 353\n MerchantItem5AltCurrencyFrameItem1Text = MerchantItem5AltCurrencyFrameItem1Text {\n }\n BINDING_NAME_NAMEPLATES = \"Show Enemy Name Plates\"\n INSTANCE_UNAVAILABLE_OTHER_TEMPORARILY_DISABLED = \"%s cannot enter. This instance is temporarily disabled.\"\n EncounterDetails_SpellAurasScrollScrollChildFrame = EncounterDetails_SpellAurasScrollScrollChildFrame {\n }\n MultiBarBottomRightButton8Shine5 = MultiBarBottomRightButton8Shine5 {\n }\n UnitFrameManaBar_UnregisterDefaultEvents = <function> defined @Interface\\FrameXML\\UnitFrame.lua:778\n PaperDollTitlesPaneButton15BgTop = PaperDollTitlesPaneButton15BgTop {\n }\n InspectModelFrameControlFrameZoomInButtonBg = InspectModelFrameControlFrameZoomInButtonBg {\n }\n CALENDAR_RAID_RESET_DESCRIPTION = \"%1$s resets at %2$s.\"\n HasZoneAbility = <function> defined @Interface\\FrameXML\\ZoneAbility.lua:170\n ChatFrame6EditBoxFocusMid = ChatFrame6EditBoxFocusMid {\n }\n AceConfigDialogTooltipTexture20 = AceConfigDialogTooltipTexture20 {\n }\n LE_GAME_ERR_RECRUIT_A_FRIEND_FAILED = 950\n ElvUI_Bar5Button12Shine7 = ElvUI_Bar5Button12Shine7 {\n }\n CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight = CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight {\n }\n LFGTeleport = <function> defined =[C]:-1\n LE_GAME_ERR_ONLY_ONE_QUIVER = 32\n INT_SPELL_DURATION_HOURS = \"%d |4hour:hrs;\"\n RaidFrameConvertToRaidButtonPixelBorderTOPRIGHT = RaidFrameConvertToRaidButtonPixelBorderTOPRIGHT {\n }\n ToggleEncounterJournal = <fun",
+			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua\"]:386: in function <...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character.lua:381>\n[string \"=[C]\"]: in function `Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua\"]:110: in function `InspectPVPFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua\"]:60: in function <...erface\\AddOns\\Blizzard_InspectUI\\InspectPVPFrame.lua:58>",
+			["session"] = 1255,
+			["counter"] = 304,
 		}, -- [1]
 		{
-			["message"] = "Interface\\FrameXML\\QuestInfo.lua:73: Usage: local isCampaignQuest = C_CampaignInfo.IsCampaignQuest(questID)",
-			["time"] = "2019/08/11 19:42:57",
-			["locals"] = "(*temporary) = nil\n",
-			["stack"] = "[C]: in function `IsCampaignQuest'\nInterface\\FrameXML\\QuestInfo.lua:73: in function <Interface\\FrameXML\\QuestInfo.lua:51>\n[C]: ?\n[C]: in function `QuestInfo_Display'\nInterface\\FrameXML\\QuestMapFrame.lua:301: in function <Interface\\FrameXML\\QuestMapFrame.lua:296>\n[C]: in function `QuestMapFrame_ShowQuestDetails'\nInterface\\FrameXML\\QuestMapFrame.lua:266: in function `QuestMapFrame_UpdateAll'\nInterface\\FrameXML\\QuestMapFrame.lua:170: in function <Interface\\FrameXML\\QuestMapFrame.lua:92>",
-			["session"] = 856,
-			["counter"] = 1,
+			["message"] = "Interface\\AddOns\\AdiBags\\modules\\Junk.lua:246: attempt to call method 'HookScript' (a nil value)",
+			["time"] = "2020/01/20 00:17:51",
+			["locals"] = "addonName = \"AdiBags\"\naddon = <table> {\n AcquireItemButton = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\ItemButton.lua:155\n modules = <table> {\n }\n UpdateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:83\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n GetInteractingWindow = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:451\n ConfigChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:371\n GetSlotId = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:57\n Filter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:144\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n Reconfigure = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:183\n SetupTooltip = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:114\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n hooks = <table> {\n }\n GetDistinctItemID = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:188\n CreateFont = <function> defined @Interface\\AddOns\\AdiBags\\core\\Fonts.lua:122\n filterProto = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:289\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n IterateBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:183\n OnEnable = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:115\n HookBagFrameCreation = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:305\n NewBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:150\n GetClass = <function> defined @Interface\\AddOns\\AdiBags\\core\\OO.lua:129\n RegisterFilter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:120\n BACKDROP = <table> {\n }\n OnInitialize = <function> defined =[C]:-1\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InitializeFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:64\n IterateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:116\n ReagentBankUpdated = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:362\n CreateBagSlotPanel = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\BagSlots.lua:437\n TOP_PADDING = 32\n hookedBags = <table> {\n }\n OpenBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:137\n ToggleAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:86\n OnProfileChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:191\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"AdiBags\"\n OpenBackpack = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:168\n LayoutBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Layout.lua:101\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n SetGlobalLock = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:419\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OpenAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:109\n L = <table> {\n }\n safecall = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:81\n Debug = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:61\n CreateAnchorWidget = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\AnchorWidget.lua:37\n ITEM_SIZE = 37\n DEFAULT_SETTINGS = <table> {\n }\n CreateBagAnchorWidget = <function> defined @Interf",
+			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\modules\\Junk.lua\"]:246: in main chunk",
+			["session"] = 1258,
+			["counter"] = 3,
 		}, -- [2]
 		{
-			["message"] = "Interface\\AddOns\\WeakAuras\\Transmission.lua:1213: attempt to get length of field 'controlledChildren' (a nil value)",
-			["time"] = "2019/08/12 20:33:47",
-			["locals"] = "data = <table> {\n backdropColor = <table> {\n }\n controlledChildren = <table> {\n }\n borderBackdrop = \"Blizzard Tooltip\"\n authorOptions = <table> {\n }\n border = false\n borderEdge = \"None\"\n regionType = \"group\"\n borderSize = 16\n scale = 1\n borderColor = <table> {\n }\n xOffset = 0\n url = \"https://wago.io/BattleOfDazaralor_GlowingFrames/31\"\n actions = <table> {\n }\n triggers = <table> {\n }\n yOffset = 0\n internalVersion = 16\n semver = \"1.3.10\"\n selfPoint = \"BOTTOMLEFT\"\n id = \"Battle of Dazar'alor - GlowingFrames\"\n anchorPoint = \"CENTER\"\n frameStrata = 1\n anchorFrameType = \"SCREEN\"\n config = <table> {\n }\n borderInset = 11\n version = 31\n borderOffset = 5\n animation = <table> {\n }\n conditions = <table> {\n }\n load = <table> {\n }\n uid = \"6je7xDm2tXc\"\n}\nchildren = <table> {\n 1 = <table> {\n }\n 2 = <table> {\n }\n 3 = <table> {\n }\n 4 = <table> {\n }\n 5 = <table> {\n }\n 6 = <table> {\n }\n 7 = <table> {\n }\n 8 = <table> {\n }\n 9 = <table> {\n }\n 10 = <table> {\n }\n 11 = <table> {\n }\n 12 = <table> {\n }\n 13 = <table> {\n }\n}\ntarget = <table> {\n outline = \"OUTLINE\"\n text2Point = \"CENTER\"\n text1FontSize = 12\n xOffset = -542.000092\n displayText = \" \"\n customText = \"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\"\n yOffset = -36.000031\n anchorPoint = \"CENTER\"\n customTextUpdate = \"update\"\n automaticWidth = \"Auto\"\n actions = <table> {\n }\n triggers = <table> {\n }\n text2 = \"%p\"\n text1Enabled = true\n desaturate = false\n wordWrap = \"WordWrap\"\n url = \"https://wago.io/BattleOfDazaralor_GlowingFrames/30\"\n conditions = <table> {\n }\n displayIcon = 841384\n stickyDuration = false\n animation = <table> {\n }\n text1Point = \"CENTER\"\n version = 30\n text2FontFlags = \"OUTLINE\"\n height = 11.999958\n font = \"Friz Quadrata TT\"\n load = <table> {\n }\n config = <table> {\n }\n glow = false\n fontSize = 12\n text2Containment = \"INSIDE\"\n width = 6.999987\n text1Font = \"Friz Quadrata TT\"\n frameStrata = 9\n authorOptions = <table> {\n }\n text2Color = <table> {\n }\n regionType = \"text\"\n icon = true\n text1FontFlags = \"OUTLINE\"\n text2FontSize = 24\n justify = \"LEFT\"\n text1 = \"%n\"\n zoom = 0\n auto = false\n cooldownTextDisabled = false\n semver = \"1.3.9\"\n text1Containment = \"INSIDE\"\n id = \"Atonement Missing\"\n text1Color = <table> {\n }\n text2Enabled = false\n anchorFrameType = \"SCREEN\"\n text2Font = \"Friz Quadrata TT\"\n uid = \"mqR2u(ADWaH\"\n inverse = false\n color = <table> {\n }\n fixedWidth = 200\n internalVersion = 16\n selfPoint = \"CENTER\"\n}\noldParent = <table> {\n outline = \"OUTLINE\"\n text2Point = \"CENTER\"\n text1FontSize = 12\n xOffset = -542.000092\n displayText = \" \"\n customText = \"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\"\n yOffset = -36.000031\n anchorPoint = \"CENTER\"\n customTextUpdate = \"update\"\n automaticWidth = \"Auto\"\n actions = <table> {\n }\n triggers = <table> {\n }\n text2 = \"%p\"\n text1Enabled = true\n desaturate = false\n wordWrap = \"WordWrap\"\n url = \"https://wago.io/BattleOfDazaralor_GlowingFrames/30\"\n conditions = <table> {\n }\n displayIcon = 841384\n stickyDuration = false\n animation = <table> {\n }\n text1Point = \"CENTER\"\n version = 30\n text2FontFlags = \"OUTLINE\"\n height = 11.999958\n font = \"Friz Quadrata TT\"\n load = <table> {\n }\n config = <table> {\n }\n glow = false\n fontSize = 12\n text2Containment = \"INSIDE\"\n width = 6.999987\n text1Font = \"Friz Quadrata TT\"\n frameStrata = 9\n authorOptions = <table> {\n }\n text2Color = <table> {\n }\n regionType = \"text\"\n icon = true\n text1FontFlags = \"OUTLINE\"\n text2FontSize = 24\n justify = \"LEFT\"\n text1 = \"%n\"\n zoom = 0\n auto = false\n cooldownTextDisabled = false\n semver = \"1.3.9\"\n text1Containment = \"INSIDE\"\n id = \"Atonement Missing\"\n text1Color = <table> {\n }\n text2Enabled = false\n anchorFrameType = \"SCREEN\"\n text2Font = \"Friz Quadrata TT\"\n uid = \"mqR2u(ADWaH\"\n inverse = false\n color = <table> {\n }\n fixedWidth = 200\n internalVersion = 16\n selfPoint = \"CENTER\"\n}\ninfo = <table> {\n deleted = 0\n newData = <table> {\n }\n modified = 1\n added = 0\n indexMap = <table> {\n }\n unmodified = 0\n activeCategories = <table> {\n }\n diffs = <table> {\n }\n oldData = <table> {\n }\n}\nhybridTables = nil\n(*temporary) = nil\n(*temporary) = <table> {\n outline = \"OUTLINE\"\n text2Point = \"CENTER\"\n text1FontSize = 12\n xOffset = -542.000092\n displayText = \" \"\n ",
-			["stack"] = "Interface\\AddOns\\WeakAuras\\Transmission.lua:1213: in function `MatchInfo'\nInterface\\AddOns\\WeakAuras\\Transmission.lua:1733: in function `Import'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:770: in function <...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:767>",
-			["session"] = 860,
-			["counter"] = 1,
+			["message"] = "(null)",
+			["time"] = "2020/01/20 00:18:09",
+			["session"] = 1258,
+			["counter"] = 9,
 		}, -- [3]
-		{
-			["message"] = "...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:209: Attempt to Release Widget that is already released",
-			["time"] = "2019/08/12 20:43:30",
-			["locals"] = "(*temporary) = \"Attempt to Release Widget that is already released\"\n",
-			["stack"] = "[C]: ?\n...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:126: in function <...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0.lua:121>\n...terface\\AddOns\\TomTom\\libs\\AceGUI-3.0\\AceGUI-3.0-39.lua:209: in function `Release'\n...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:225: in function <...ns\\Grid2Options\\modules\\general\\GridExportImport.lua:223>",
-			["session"] = 860,
-			["counter"] = 1,
-		}, -- [4]
-		{
-			["message"] = "Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: StaticPopup1:SetPoint.",
-			["time"] = "2019/08/12 22:40:19",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: ?\n[C]: in function `SetPoint'\nInterface\\FrameXML\\StaticPopup.lua:5175: in function `StaticPopup_SetUpAnchor'\nInterface\\FrameXML\\StaticPopup.lua:5165: in function <Interface\\FrameXML\\StaticPopup.lua:5163>\n[C]: ?\n[C]: in function `StaticPopup_SetUpPosition'\nInterface\\FrameXML\\StaticPopup.lua:4798: in function <Interface\\FrameXML\\StaticPopup.lua:4391>\n[C]: ?\n[C]: in function `StaticPopup_Show'\nInterface\\FrameXML\\UIParent.lua:1218: in function <Interface\\FrameXML\\UIParent.lua:1108>",
-			["session"] = 871,
-			["counter"] = 3,
-		}, -- [5]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'BigWigs_Plugins' tried to call the protected function 'SetParent()'.",
-			["time"] = "2019/08/21 20:07:07",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetParent'\nInterface\\AddOns\\BigWigs_Plugins\\BossBlock.lua:200: in function `?'\nInterface\\AddOns\\BigWigs\\Loader.lua:940: in function `SendMessage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:858: in function `Engage'\nInterface\\AddOns\\BigWigs_Core\\BossPrototype.lua:658: in function `?'\nInterface\\AddOns\\BigWigs_Core\\Core.lua:59: in function <Interface\\AddOns\\BigWigs_Core\\Core.lua:54>",
-			["session"] = 878,
-			["counter"] = 2,
-		}, -- [6]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate8",
-			["time"] = "2019/09/11 20:43:45",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 1,
-		}, -- [7]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate1",
-			["time"] = "2019/09/11 20:48:25",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 3,
-		}, -- [8]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate13",
-			["time"] = "2019/09/11 20:59:24",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 1,
-		}, -- [9]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate5",
-			["time"] = "2019/09/11 20:48:17",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 2,
-		}, -- [10]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate9",
-			["time"] = "2019/09/11 20:59:35",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 1,
-		}, -- [11]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate4",
-			["time"] = "2019/09/11 21:03:04",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 1,
-		}, -- [12]
-		{
-			["message"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate2",
-			["time"] = "2019/09/11 20:43:42",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:42: in function <[string \"--[[ Error in 'Icebound Image Line To Namep...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:541: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:505>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:658: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:619: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:748: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:739>",
-			["session"] = 880,
-			["counter"] = 2,
-		}, -- [13]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'ElvUI_Bar2:SetWidth()'.",
-			["time"] = "2019/08/04 17:14:33",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetWidth'\nInterface\\AddOns\\ElvUI\\Core\\Toolkit.lua:192: in function `Width'\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:144: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 882,
-			["counter"] = 3,
-		}, -- [14]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Accountant_Classic' tried to call the protected function 'SecureStateDriverManager:SetAttribute()'.",
-			["time"] = "2019/08/04 17:14:33",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\SecureStateDriver.lua:10: in function <Interface\\FrameXML\\SecureStateDriver.lua:8>\n(tail call): ?\n...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:243: in function `PositionAndSizeBar'\n[string \"--[[ Error in 'Elv AB toggle' ]] return fun...\"]:13: in function `toggle'\n[string \"local r=WeakAuras.GetRegion(\"Elv AB toggle\"...\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2171: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4836: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4497: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2991: in function <Interface\\FrameXML\\ChatFrame.lua:2984>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:345: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?",
-			["session"] = 882,
-			["counter"] = 3,
-		}, -- [15]
-		{
-			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
-			["time"] = "2019/08/22 22:20:44",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: in function `SetPoint'\nInterface\\AddOns\\AAP-Core\\QuestList.lua:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
-			["session"] = 882,
-			["counter"] = 3,
-		}, -- [16]
 	},
 }

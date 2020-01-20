@@ -1,5 +1,8 @@
 
 BigWigs3DB = {
+	["profileKeys"] = {
+		["Yellowy - Kil'jaeden"] = "Default",
+	},
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
@@ -7,46 +10,58 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
+		["BigWigs_Bosses_Hadal Darkfathom"] = {
+		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
+		["BigWigs_Bosses_Sergeant Bainbridge"] = {
+		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsAnchor_width"] = 220.000106811523,
-					["BigWigsEmphasizeAnchor_height"] = 21.9999561309814,
-					["BigWigsAnchor_height"] = 15.9999761581421,
-					["BigWigsEmphasizeAnchor_width"] = 319.999969482422,
+					["BigWigsAnchor_width"] = 220.0000610351563,
+					["BigWigsEmphasizeAnchor_height"] = 21.99994087219238,
+					["BigWigsAnchor_height"] = 15.9998950958252,
+					["BigWigsEmphasizeAnchor_width"] = 320.0000305175781,
 				},
 			},
 		},
+		["BigWigs_Bosses_Viq'Goth"] = {
+		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Bosses_King Rastakhan"] = {
+		["BigWigs_Bosses_Dread Captain Lockwood"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Bosses_Siege of Boralus Trash"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["width"] = 139.9999237060547,
+				},
+			},
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 	},
-	["profileKeys"] = {
-		["Yellowy - Kil'jaeden"] = "Default",
-	},
+	["wipe80"] = true,
+	["discord"] = 7,
 	["profiles"] = {
 		["Default"] = {
 		},

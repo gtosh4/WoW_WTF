@@ -1,0 +1,111 @@
+
+JambaFTLProfileDB = {
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+	},
+	["profiles"] = {
+		["Toshpal - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshaman-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshdk - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				[""] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshdk-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Tosh-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Default"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Toshdk-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Tosh-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshaman-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+	},
+}

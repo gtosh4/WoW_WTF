@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 ElvUI_EverySecondCounts: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
@@ -33,3 +33,11 @@ TomCats-Mechagon: disabled
 RareShareMechagon: enabled
 RareShare: disabled
 RareShareNazjatar: enabled
+AddOnSkins: enabled
+OPie_Classic: disabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_SLE: enabled
+Jamba: disabled

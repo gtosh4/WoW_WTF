@@ -31,13 +31,14 @@ VER 3 0100000000000006 "hw:s" "INV_MISC_QUESTIONMARK"
 #showtooltip Holy Word: Serenity
 /cast [@mouseover,help][] Holy Word: Serenity
 END
+VER 3 0100000000000016 "hw:s+bb" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Salvation
+/use Balefire Branch
+/cast Holy Word: Salvation
+END
 VER 3 0100000000000015 "lof" "INV_MISC_QUESTIONMARK"
 #showtooltip Leap of Faith
 /cast [@mouseover,help][] Leap of Faith
-END
-VER 3 0100000000000016 "lot" "INV_MISC_QUESTIONMARK"
-#showtooltip Light of T'uure
-/cast [@mouseover,help][] Light of T'uure
 END
 VER 3 010000000000000E "mr" "INV_MISC_QUESTIONMARK"
 #showtooltip Mass Resurrection
@@ -69,6 +70,6 @@ VER 3 0100000000000012 "smite" "INV_MISC_QUESTIONMARK"
 /cast [@mouseover,help][] Smite
 END
 VER 3 010000000000000D "tdgd" "INV_MISC_QUESTIONMARK"
-#showtooltip Inoculating Extract
-/cast [@mouseover,help][] Inoculating Extract
+#showtooltip Mirror of Entwined Fate
+/cast [@mouseover,help][] Mirror of Entwined Fate
 END

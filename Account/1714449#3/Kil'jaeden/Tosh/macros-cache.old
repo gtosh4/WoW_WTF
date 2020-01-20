@@ -1,6 +1,6 @@
 VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
-#showtooltip [talent:5/2] Binding Heal; [talent:5/3] Circle of Healing
-/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing
+#showtooltip 
+/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing; Greater Heal
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
 #showtooltip [spec:3] Power Word: Shield; Angelic Feather
@@ -25,7 +25,7 @@ VER 3 0100000000000010 "Pen" "INV_Misc_QuestionMark"
 END
 VER 3 010000000000000E "poh" "INV_Misc_QuestionMark"
 #showtooltip [spec:2] Prayer of Healing; [spec:1] Penance
-/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm][spec:1,@target,noharm] Penance
+/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm][spec:1,noharm] Penance
 END
 VER 3 0100000000000005 "ps" "INV_Misc_QuestionMark"
 #showtooltip [spec:1]Pain Suppression; [spec:2] Guardian Spirit
@@ -44,8 +44,8 @@ VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
 /cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew; [spec:3,@mouseover,noharm] Power Word: Shield
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
-#showtooltip Shadow Covenant
-/cast [@mouseover,noharm] Shadow Covenant
+#showtooltip
+/cast [spec:3,@mouseover,noharm] Shadow Covenant; [spec:2,@mouseover,exists,help] Holy Ward;[spec:2,@player] Holy Ward
 END
 VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 #showtooltip Holy Word: Serenity
@@ -67,4 +67,8 @@ END
 VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
 #showtooltip Smite
 /cast [nochanneling:Penance] Smite
+END
+VER 3 0100000000000018 "t6" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:2,talent:6/2] Divine Star; [spec:2,talent:6/3] Halo 
 END

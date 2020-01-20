@@ -18,3 +18,12 @@ BigWigs_MistsOfPandaria: enabled
 AdiBags: enabled
 AzeritePowerWeights: disabled
 WeakAurasCompanion: enabled
+OPie_Classic: disabled
+BigWigs_EternalPalace: enabled
+BigWigs_Uldir: enabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_AuraBarsMovers: disabled
+Jamba: enabled
+Auctionator: disabled

@@ -1,91 +1,98 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0246,
-	["LastPlayerFullName"] = "Toshmonk-Kil'jaeden",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0311,
 	["ItemLevels"] = {
 		{
-			["ID"] = 159334,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:159334::::::::120:270::35:4:5448:1587:4786:5420:::|h[Flashpowder Hood]|h|r",
+			["ID"] = 168345,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168345::::::::120:270::5:5:4823:1502:4786:6267:4775:::|h[Helm of the Inexorable Tide]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 419,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:270::11:4:4936:4929:5814:1556:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 469,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:269::11:4:6316:4932:4933:1606:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 165516,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165516::::::::120:270::6:4:4824:1537:4786:5421:::|h[Mestrah's Singing Spaulders]|h|r",
+			["ID"] = 168346,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:168346::::::::120:270::5:5:4823:1502:4786:6268:4775:::|h[Tidal Drifter's Shoulders]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 165833,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165833::::::::120:270::6:4:4824:1537:4786:5419:::|h[Vestments of Indomitable Will]|h|r",
+			["ID"] = 159330,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:159330::::::::120:270::35:5:5448:1617:4786:6269:4775:::|h[Gore-Splattered Vest]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 165525,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165525::154128::::::120:270::6:5:4800:1808:43:1542:4783:::|h[Stretched Sinew Waistcord]|h|r",
+			["ID"] = 159333,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:159333::::::::120:270::35:4:5010:4802:1612:4783:::|h[Cincture of the Azerite Arsenal]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 159338,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:159338::::::::120:270::35:3:5010:1582:4783:::|h[Pustule Bearer's Pants]|h|r",
+			["ID"] = 168875,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168875::::::::120:270::6:3:4800:1517:4786:::|h[Formcrafter's Pants]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 155862,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:155862::::::::120:270::35:4:5010:40:1582:4783:::|h[Kragg's Rigging Scalers]|h|r",
+			["ID"] = 168380,
+			["Level"] = 455,
+			["Link"] = "|cffa335ee|Hitem:168380::::::::120:270::6:4:4800:1517:5855:4783:::|h[Ancient Tempest Striders]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 165517,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165517::::::::120:270::6:3:4800:1537:4786:::|h[Bracers of Regal Devotion]|h|r",
+			["ID"] = 168883,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168883::::::::120:270::6:4:4800:41:1517:4786:::|h[Cultured Pearl Armbands]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 159312,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:159312::::::::120:270::35:3:5010:1582:4783:::|h[Desiccator's Blessed Gloves]|h|r",
+			["ID"] = 168376,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168376::::::::120:270::6:4:4800:40:1517:4786:::|h[Anglerfish Feelers]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 158362,
-			["Level"] = 410,
+			["ID"] = 162542,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:158362:5942:::::::120:270::35:4:5010:41:1582:4783:::|h[Lord Waycrest's Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:162542::::::::120:269::35:3:5010:1612:4783:::|h[Seal of the City Watch]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 165565,
-			["Level"] = 400,
+			["ID"] = 162542,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:165565:5942:154126::::::120:270::5:4:4799:1808:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+			["Link"] = "|cffa335ee|Hitem:162542::::::::120:270::35:3:5010:1612:4783:::|h[Seal of the City Watch]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 165569,
-			["Level"] = 415,
+			["ID"] = 168676,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:165569::::::::120:270::6:3:4800:1537:4786:::|h[Ward of Envelopment]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168676::::::::120:270::13::::|h[Ascended Alchemist Stone]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 165928,
-			["Level"] = 415,
+			["ID"] = 168676,
+			["Level"] = 440,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:165928::::::::120:270::13::::|h[Eternal Alchemist Stone]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168676::168638::::::120:270::13::::|h[Ascended Alchemist Stone]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 159288,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:159288::::::::120:270::16:3:5006:1587:4784:::|h[Cloak of the Restless Tribes]|h|r",
+			["ID"] = 168391,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168391::::::::120:270::5:4:4799:40:1502:4786:::|h[Cloak of Ill Tidings]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 165587,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165587:5965:::::::120:270::6:4:4800:42:1537:4786:::|h[Phoenixfire Staff]|h|r",
+			["ID"] = 168903,
+			["Level"] = 450,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:168903::::::::120:270::6:4:4800:1517:5850:4783:::|h[Scepter of the Azsh'ari]|h|r",
 		}, -- [16]
+		{
+			["ID"] = 168903,
+			["Level"] = 450,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:168903:6112:::::::120:270::6:4:4800:1517:5850:4783:::|h[Scepter of the Azsh'ari]|h|r",
+		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Toshmonk-Kil'jaeden",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

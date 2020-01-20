@@ -10,18 +10,27 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1568525627,
+				["lastUpdate"] = 1579037211,
 				["Specializations"] = {
-					[2] = 5849,
-					[3] = 12011,
+					6623, -- [1]
+					5849, -- [2]
+					12011, -- [3]
 				},
 				["Class"] = "MONK",
 			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1579474889,
+				["Specializations"] = {
+					10677, -- [1]
+					[3] = 14014,
+				},
+				["Class"] = "SHAMAN",
+			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1568431823,
+				["lastUpdate"] = 1579497678,
 				["Specializations"] = {
 					5615, -- [1]
-					16349, -- [2]
+					6573, -- [2]
 					6007, -- [3]
 				},
 				["Class"] = "PRIEST",
@@ -94,7 +103,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 29896,
+			["Version"] = 33084,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -215,7 +224,33 @@ DataStore_TalentsRefDB = {
 		["MONK"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
-				[2] = {
+				{
+					["id"] = 268,
+					["talents"] = {
+						23106, -- [1]
+						19820, -- [2]
+						20185, -- [3]
+						19304, -- [4]
+						19818, -- [5]
+						19302, -- [6]
+						22099, -- [7]
+						22097, -- [8]
+						19992, -- [9]
+						19993, -- [10]
+						19994, -- [11]
+						19995, -- [12]
+						20174, -- [13]
+						23363, -- [14]
+						20175, -- [15]
+						19819, -- [16]
+						20184, -- [17]
+						22103, -- [18]
+						22106, -- [19]
+						22104, -- [20]
+						22108, -- [21]
+					},
+				}, -- [1]
+				{
 					["id"] = 270,
 					["talents"] = {
 						19823, -- [1]
@@ -240,8 +275,8 @@ DataStore_TalentsRefDB = {
 						22169, -- [20]
 						22170, -- [21]
 					},
-				},
-				[3] = {
+				}, -- [2]
+				{
 					["id"] = 269,
 					["talents"] = {
 						23106, -- [1]
@@ -266,9 +301,9 @@ DataStore_TalentsRefDB = {
 						22105, -- [20]
 						21191, -- [21]
 					},
-				},
+				}, -- [3]
 			},
-			["Version"] = 31478,
+			["Version"] = 33062,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -352,7 +387,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 31478,
+			["Version"] = 33084,
 		},
 	},
 }

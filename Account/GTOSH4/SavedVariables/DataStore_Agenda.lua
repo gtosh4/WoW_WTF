@@ -5,21 +5,25 @@ DataStore_AgendaDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2019-09-17",
+			["NextWeeklyReset"] = "2020-01-21",
 		},
 		["Characters"] = {
+			["Default.Kil'jaeden.Toshdk"] = {
+				["lastUpdate"] = 1579498373,
+			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
 					["Toshmonk"] = {
@@ -33,22 +37,12 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|375396899"] = "207936|1568524463|0|1",
-					["The Eternal Palace Mythic|376971938"] = "207936|1568524463|0|1",
+					["The Eternal Palace Mythic|381529031"] = "132406|1579486391|0|1",
 				},
-				["lastUpdate"] = 1568524469,
+				["lastUpdate"] = 1579486511,
 			},
 			["Default.Blood Furnace.Toshtrial"] = {
 				["lastUpdate"] = 1554968622,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1562530200,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1562529857,
-			},
-			["Default.The Forgotten Coast.Toshtrial"] = {
-				["lastUpdate"] = 1554958119,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Contacts"] = {
@@ -59,7 +53,16 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1565387232,
+				["lastUpdate"] = 1578964028,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1562529857,
+			},
+			["Default.The Forgotten Coast.Toshtrial"] = {
+				["lastUpdate"] = 1554958119,
+			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1562530200,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1557430951,

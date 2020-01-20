@@ -5,19 +5,19 @@ MethodDungeonToolsDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
-		["anchorFrom"] = "CENTER",
 		["minimap"] = {
-			["minimapPos"] = 189.920019946479,
+			["minimapPos"] = 181.5763838324383,
 		},
 		["presets"] = {
 			{
@@ -277,9 +277,10 @@ MethodDungeonToolsDB = {
 				}, -- [1]
 			}, -- [24]
 		},
+		["currentDungeonIdx"] = 22,
 		["version"] = 256,
 		["xoffset"] = 509.182464599609,
-		["currentDungeonIdx"] = 22,
+		["anchorFrom"] = "CENTER",
 		["yoffset"] = 35.3933181762695,
 	},
 }

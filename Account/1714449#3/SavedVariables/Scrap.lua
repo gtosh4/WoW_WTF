@@ -1,12 +1,12 @@
 
-Scrap_SharedJunk = {
+Scrap_Sets = {
+	["destroy"] = true,
+	["glow"] = false,
+	["safe"] = false,
+	["list"] = {
+	},
+	["tutorial"] = 5,
+	["sell"] = true,
+	["icons"] = false,
+	["repair"] = false,
 }
-Scrap_AutoSell = true
-Scrap_AutoRepair = false
-Scrap_GuildRepair = nil
-Scrap_Safe = true
-Scrap_Learn = nil
-Scrap_Glow = true
-Scrap_Icons = true
-Scrap_Tut = 5
-Scrap_Version = 11

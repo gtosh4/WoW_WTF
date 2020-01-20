@@ -9,6 +9,7 @@ favsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["classColorOtherProject"] = 2,
 			["favTypes"] = {
 				["Favorites"] = {
 					["Yellowy#1796"] = true,

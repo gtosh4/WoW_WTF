@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0311,
 	["LastPlayerFullName"] = "Toshaman-Kil'jaeden",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
@@ -12,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 445,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:264::11:4:6316:4932:4933:1582:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 453,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:264::11:4:6316:4932:4933:1590:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 165921,
@@ -42,9 +42,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:165541::::::::120:264::6:3:4800:1542:4783:::|h[Boots of the Gilded Path]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 159380,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:159380::::::::120:264::35:3:5010:1582:4783:::|h[Arc-Glass Bindings]|h|r",
+			["ID"] = 159356,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:159356::::::::120:264::16:3:5010:1602:4786:::|h[Raoul's Barrelhook Bracers]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 165546,

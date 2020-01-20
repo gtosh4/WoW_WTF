@@ -22,6 +22,15 @@ VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
 #showtooltip Wind Shear
 /cast [@focus,exists,harm,nodead][] Wind Shear
 END
+VER 3 010000000000000C "mill" "INV_MISC_QUESTIONMARK"
+/cast Milling
+/use Winter's Kiss
+/use Akunda's Bite
+/use Siren's Pollen
+/use Riverbud
+/use Sea Stalk
+/use Star Moss
+END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
 /cast [@mouseover,noharm] Purify Spirit

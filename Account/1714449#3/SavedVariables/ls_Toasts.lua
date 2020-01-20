@@ -2,6 +2,7 @@
 LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -9,7 +10,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 			["font"] = {
 				["size"] = 14,
 			},
-			["version"] = 8020006,
+			["version"] = 8030002,
 			["skin"] = "elv",
 			["anchors"] = {
 				{
@@ -28,6 +29,13 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
+				["transmog"] = {
+					["enabled"] = true,
+					["dnd"] = false,
+					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
+				},
 				["loot_currency"] = {
 					["enabled"] = true,
 					["dnd"] = false,
@@ -41,7 +49,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["transmog"] = {
+				["store"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
@@ -62,10 +70,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["ilvl"] = true,
 					["threshold"] = 1,
 				},
-				["achievement"] = {
+				["recipe"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
-					["anchor"] = 1,
+					["sfx"] = true,
 				},
 				["garrison_8_0"] = {
 					["anchor"] = 1,
@@ -95,11 +104,10 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["recipe"] = {
-					["anchor"] = 1,
+				["achievement"] = {
 					["enabled"] = true,
 					["dnd"] = false,
-					["sfx"] = true,
+					["anchor"] = 1,
 				},
 				["loot_gold"] = {
 					["enabled"] = true,

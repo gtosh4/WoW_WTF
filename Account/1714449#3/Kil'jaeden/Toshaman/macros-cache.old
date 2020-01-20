@@ -1,4 +1,4 @@
-VER 3 010000000000000A "apt" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000008 "apt" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:4/2] Earthen Wall Totem; [talent:4/3] Ancestral Protection Totem
 END
@@ -7,11 +7,29 @@ VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Chain Heal
 END
 VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
-#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour
-/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dounpour
+#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour; [talent:5/3] Wind Rush Totem
+/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dowpour; [talent:5/3] Wind Rush Totem
 END
-VER 3 0100000000000008 "innervate" "Ability_DemonHunter_SigilofSilence."
-/w Iko innervate
+VER 3 010000000000000A "Eye" "INV_MISC_QUESTIONMARK"
+#showtooltip Eye of the Storm
+/cast Eye of the Storm
+END
+VER 3 010000000000000B "jump" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rocket Jump(Racial)
+END
+VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Shear
+/cast [@focus,exists,harm,nodead][] Wind Shear
+END
+VER 3 010000000000000C "mill" "INV_MISC_QUESTIONMARK"
+/cast Milling
+/use Winter's Kiss
+/use Akunda's Bite
+/use Siren's Pollen
+/use Riverbud
+/use Sea Stalk
+/use Star Moss
 END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify Spirit
@@ -32,8 +50,4 @@ END
 VER 3 0100000000000004 "wave" "INV_Misc_QuestionMark"
 #showtooltip Healing Wave
 /cast [@mouseover,noharm] Healing Wave
-END
-VER 3 0100000000000009 "wr" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [talent:5/3] Wind Rush Totem
 END

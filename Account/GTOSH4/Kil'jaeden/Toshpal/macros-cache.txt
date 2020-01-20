@@ -39,7 +39,16 @@ VER 3 0100000000000017 "shock" "INV_Misc_QuestionMark"
 #showtooltip Holy Shock
 /cast [@mouseover,exists,noharm,nodead][] Holy Shock
 END
+VER 3 0100000000000022 "Steed" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Steed
+/cancelaura Divine Steed
+/cast Divine Steed
+END
 VER 3 010000000000001E "tier1" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,talent:1/2,help,nodead][talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
+END
+VER 3 0100000000000023 "WoG" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,noharm][@player] Word of Glory
 END

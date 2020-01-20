@@ -1,6 +1,6 @@
 VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
-#showtooltip [talent:5/2] Binding Heal; [talent:5/3] Circle of Healing
-/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing
+#showtooltip 
+/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing; Greater Heal
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
 #showtooltip [spec:3] Power Word: Shield; Angelic Feather
@@ -40,12 +40,12 @@ VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
 /cast [spec:1,@mouseover,noharm] Power Word: Radiance; [spec:2] Holy Word: Sanctify
 END
 VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
-#showtooltip [spec:1] Power Word: Shield; [spec:2] Renew; [spec:3] Power Word: Shield
-/cast [spec:1,@mouseover,noharm] Power Word: Shield; [spec:2,@mouseover,noharm] Renew; [spec:3,@mouseover,noharm] Power Word: Shield
+#showtooltip
+/use [spec:1,@mouseover,noharm][spec:1,@targte,noharm][spec:3,@mouseover,noharm]Power Word: Shield;[spec:2,@mouseover,noharm]Renew
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
-#showtooltip Shadow Covenant
-/cast [@mouseover,noharm] Shadow Covenant
+#showtooltip
+/cast [spec:3,@mouseover,noharm] Shadow Covenant; [spec:2,@mouseover,exists,help] Holy Ward;[spec:2,@player] Holy Ward
 END
 VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 #showtooltip Holy Word: Serenity
@@ -61,10 +61,14 @@ VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
 /cast [@focus,exists,harm][@target]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
-#showtooltip [spec:1]Shadow Mend; [spec:2] Flash Heal; [spec:3] Shadow Mend
-/cast [spec:1,@mouseover,noharm,nochanneling:Penance] Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal; [spec:3,@mouseover,noharm] Shadow Mend
+#showtooltip
+/cast [spec:1,@mouseover,noharm,nochanneling:Penance][spec:1,@targte,noharm,nochanneling:Pneance][spec:3,@mouseover,noharm]  Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal
 END
 VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
 #showtooltip Smite
 /cast [nochanneling:Penance] Smite
+END
+VER 3 0100000000000018 "t6" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:2,talent:6/2] Divine Star; [spec:2,talent:6/3] Halo 
 END

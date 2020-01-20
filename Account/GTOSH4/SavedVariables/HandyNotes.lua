@@ -5,6 +5,7 @@ HandyNotesDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
@@ -16,6 +17,8 @@ HandyNotesDB = {
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Daggny - Frostwolf"] = {
+		},
+		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["icon_scale"] = 0.6000000000000001,
@@ -31,6 +34,7 @@ HandyNotes_HandyNotesDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 	},
@@ -42,6 +46,8 @@ HandyNotes_HandyNotesDB = {
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Daggny - Frostwolf"] = {
+		},
+		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 		},

@@ -18,3 +18,11 @@ AzeritePowerWeights: disabled
 BigWigs_CrucibleOfStorms: enabled
 WeakAurasCompanion: enabled
 BigWigs_EternalPalace: enabled
+OPie_Classic: disabled
+BigWigs_Azeroth: enabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_AuraBarsMovers: disabled
+Jamba: enabled
+Auctionator: disabled

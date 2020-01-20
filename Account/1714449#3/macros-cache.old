@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/click ExtraActionButton1
+/use Firestick
 END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
@@ -44,7 +44,6 @@ VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 END
 VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
-/cast Malformed Herald's Legwraps
 /use 13
 END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"

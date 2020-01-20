@@ -20,9 +20,11 @@ AdiBagsDB = {
 		},
 		["Junk"] = {
 		},
+		["Mechagon Tinkering"] = {
+		},
 		["CurrencyFrame"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 		},
 		["MoneyFrame"] = {
 		},
@@ -30,7 +32,7 @@ AdiBagsDB = {
 		},
 		["ItemCategory"] = {
 		},
-		["WoD"] = {
+		["ItemSets"] = {
 		},
 		["NewItem"] = {
 		},
@@ -48,7 +50,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["ItemSets"] = {
+		["BfA"] = {
 		},
 		["Hearthstones"] = {
 		},

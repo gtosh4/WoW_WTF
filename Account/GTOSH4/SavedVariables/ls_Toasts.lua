@@ -3,6 +3,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
@@ -14,15 +15,15 @@ LS_TOASTS_GLOBAL_CONFIG = {
 			["font"] = {
 				["size"] = 14,
 			},
-			["version"] = 8020006,
+			["version"] = 8030002,
 			["skin"] = "elv",
 			["anchors"] = {
 				{
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -380,
 						["x"] = -14,
+						["y"] = -380,
 					},
 				}, -- [1]
 			},
@@ -31,6 +32,12 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["enabled"] = false,
 					["dnd"] = true,
+					["sfx"] = true,
+				},
+				["world"] = {
+					["anchor"] = 1,
+					["enabled"] = true,
+					["dnd"] = false,
 					["sfx"] = true,
 				},
 				["loot_currency"] = {
@@ -46,31 +53,32 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["transmog"] = {
-					["enabled"] = false,
+				["loot_gold"] = {
+					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["left_click"] = false,
+					["track_loss"] = false,
+					["threshold"] = 50000,
 				},
-				["garrison_7_0"] = {
-					["anchor"] = 1,
+				["achievement"] = {
 					["enabled"] = true,
-					["dnd"] = true,
-					["sfx"] = true,
+					["dnd"] = false,
+					["anchor"] = 1,
 				},
 				["loot_special"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
 					["threshold"] = 1,
+					["ilvl"] = true,
 				},
-				["achievement"] = {
+				["recipe"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
-					["anchor"] = 1,
+					["sfx"] = true,
 				},
 				["garrison_8_0"] = {
 					["anchor"] = 1,
@@ -89,9 +97,9 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = true,
 					["threshold"] = 3,
+					["quest"] = true,
+					["ilvl"] = true,
 				},
 				["collection"] = {
 					["enabled"] = true,
@@ -100,25 +108,25 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["recipe"] = {
+				["garrison_7_0"] = {
 					["anchor"] = 1,
 					["enabled"] = true,
-					["dnd"] = false,
+					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["loot_gold"] = {
+				["store"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["track_loss"] = false,
-					["threshold"] = 50000,
+					["left_click"] = false,
 				},
-				["world"] = {
-					["anchor"] = 1,
-					["enabled"] = true,
+				["transmog"] = {
+					["enabled"] = false,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
 				},
 			},
 		},

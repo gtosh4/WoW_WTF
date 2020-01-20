@@ -1,4 +1,4 @@
-AAP-Core: enabled
+AAP-Core: disabled
 oRA3: disabled
 Clique: disabled
 bigdumblootcouncil: enabled
@@ -21,3 +21,8 @@ TomCats-Mechagon: disabled
 RareShareMechagon: enabled
 RareShare: disabled
 RareShareNazjatar: enabled
+AddOnSkins: enabled
+OPie_Classic: disabled
+ElvUI_SLE: enabled
+Jamba: enabled
+Auctionator: disabled

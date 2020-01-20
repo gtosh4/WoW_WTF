@@ -22,6 +22,10 @@ DataStoreDB = {
 				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
 			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
+			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
