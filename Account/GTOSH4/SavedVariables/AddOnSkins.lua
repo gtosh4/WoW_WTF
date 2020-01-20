@@ -1,40 +1,69 @@
 
 AddOnSkinsDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Ursin"] = "Toshtrial - Ursin",
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
-		},
-		["Toshtrial - Blood Furnace"] = {
-		},
-		["Daggny - Frostwolf"] = {
-		},
-		["Tosku - Kil'jaeden"] = {
-		},
-		["Yorman - Kil'jaeden"] = {
-		},
 		["Default"] = {
-			["DBMFont"] = "Friz Quadrata TT",
+			["Blizzard_Channels"] = true,
+			["Blizzard_AbilityButton"] = true,
+			["Blizzard_ItemSocketingUI"] = true,
+			["Blizzard_AzeriteUI"] = true,
+			["Blizzard_FlightMap"] = true,
+			["ChangeLogVersion"] = 4.24,
+			["Blizzard_ExtraActionButton"] = true,
+			["Blizzard_ScrappingMachineUI"] = true,
+			["Blizzard_PVPMatch"] = true,
+			["Blizzard_TalkingHeadUI"] = true,
+			["Blizzard_WarboardUI"] = true,
+			["Blizzard_OrderHallUI"] = true,
+			["Simulationcraft"] = false,
+			["Blizzard_TalentUI"] = true,
+			["Blizzard_IslandsPartyPoseUI"] = true,
+			["Blizzard_ArtifactUI"] = true,
+			["Blizzard_BlackMarketUI"] = true,
+			["Blizzard_AuctionUI"] = true,
+			["Blizzard_TrainerUI"] = true,
+			["Blizzard_AlliedRacesUI"] = true,
+			["Blizzard_Contribution"] = true,
+			["Blizzard_WarfrontsPartyPoseUI"] = true,
+			["Blizzard_AzeriteRespecUI"] = true,
+			["Blizzard_Character"] = true,
+			["Dominos"] = false,
+			["Blizzard_GuildBankUI"] = true,
+			["Blizzard_GuildUI"] = true,
+			["Scrap"] = false,
+			["Blizzard_ChatBubbles"] = true,
 			["Azeroth Auto Pilot"] = false,
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
-		["Toshtrial - Ursin"] = {
-		},
-		["Yuumi - Kil'jaeden"] = {
+			["tdBattlePetScript"] = false,
+			["Blizzard_ObliterumUI"] = true,
+			["Blizzard_BattlefieldMap"] = true,
+			["Blizzard_GarrisonUI"] = true,
+			["Blizzard_BindingUI"] = true,
+			["Blizzard_GuildControlUI"] = true,
+			["Blizzard_AdventureMap"] = true,
+			["Blizzard_LookingForGuildUI"] = true,
+			["Clique"] = false,
+			["Blizzard_BarbershopUI"] = true,
+			["Blizzard_ItemUpgradeUI"] = true,
+			["Pawn"] = false,
+			["Blizzard_PetStable"] = true,
+			["Blizzard_IslandsQueueUI"] = true,
 		},
 	},
 }
 AddOnSkinsDS = {
+	[4.39] = {
+	},
 }

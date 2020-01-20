@@ -1,28 +1,9 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0234,
+	["LastVersion"] = 2.0239,
 	["LastPlayerFullName"] = "Tosh-Kil'jaeden",
-	["AutoSelectScales"] = false,
+	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
-	["Artifacts"] = {
-		[128306] = {
-			["Relics"] = {
-				{
-					["ItemLevel"] = 20,
-					["Type"] = "Life",
-				}, -- [1]
-				{
-					["ItemLevel"] = 25,
-					["Type"] = "Frost",
-				}, -- [2]
-				{
-					["ItemLevel"] = 25,
-					["Type"] = "Life",
-				}, -- [3]
-			},
-			["Name"] = "G'Hanir, the Mother Tree",
-		},
-	},
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

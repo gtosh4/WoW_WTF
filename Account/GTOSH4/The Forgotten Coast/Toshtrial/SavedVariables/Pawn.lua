@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0218,
+	["LastVersion"] = 2.024,
 	["LastPlayerFullName"] = "Toshtrial-The Forgotten Coast",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

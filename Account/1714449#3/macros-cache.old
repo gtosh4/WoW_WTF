@@ -1,0 +1,55 @@
+VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Firestick
+END
+VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
+/script for i=1, 120 do PickupAction(i); ClearCursor(); end
+END
+VER 3 000000000000001A "dance" "ClassIcon_Druid."
+/dance
+END
+VER 3 0000000000000007 "focus" "132885"
+/focus
+END
+VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
+/script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
+END
+VER 3 000000000000002B "noblust" "INV_MISC_QUESTIONMARK"
+/cancelaura Bloodlust
+/cancelaura Drums of Fury
+/cancelaura Drums of the Maelstrom
+/cancelaura Drums of the Mountain
+/cancelaura Drums of Rage
+/cancelaura Primal Rage
+/cancelaura Time Warp
+END
+VER 3 0000000000000029 "page1" "134153"
+/changeactionbar 1
+END
+VER 3 000000000000002A "page2" "134154"
+/changeactionbar 3
+END
+VER 3 0000000000000028 "POT" "132847"
+#showtooltip Healthstone
+/use Healthstone
+/use Coastal Healing Potion
+END
+VER 3 000000000000002C "racial" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Arcane Torrent
+/cast Every Man for Himself(Racial)
+END
+VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
+/stopcasting
+END
+VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/use 13
+END
+VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
+#showtooltip 14
+/use [@mouseover][@target] 14
+END
+VER 3 0000000000000030 "TB" "618979"
+/script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
+END

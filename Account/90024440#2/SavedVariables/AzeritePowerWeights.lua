@@ -2,14 +2,10 @@
 AzeritePowerWeightsDB = {
 	["customScales"] = {
 	},
-	["dbVersion"] = 1,
+	["dbVersion"] = 2,
 	["char"] = {
 		["Kil'jaeden"] = {
 			["Yellowy"] = {
-				["rolePowersNoOffRolePowers"] = true,
-				["importingCanUpdate"] = true,
-				["tooltipScales"] = {
-				},
 				["specScales"] = {
 					[257] = {
 						["scaleName"] = "Default",
@@ -24,13 +20,22 @@ AzeritePowerWeightsDB = {
 						["scaleID"] = "D/5/1/Default",
 					},
 				},
-				["rolePowers"] = true,
-				["defensivePowers"] = true,
-				["onlyOwnClassDefaults"] = true,
-				["professionPowers"] = false,
+				["addPrimaryStatToScore"] = false,
+				["showTooltipLegend"] = true,
 				["zonePowers"] = true,
 				["pvpPowers"] = false,
 				["addILvlToScore"] = false,
+				["relativeScore"] = false,
+				["rolePowersNoOffRolePowers"] = false,
+				["importingCanUpdate"] = true,
+				["tooltipScales"] = {
+				},
+				["rolePowers"] = true,
+				["defensivePowers"] = true,
+				["scaleByAzeriteEmpowered"] = false,
+				["onlyOwnClassDefaults"] = true,
+				["showOnlyUpgrades"] = false,
+				["professionPowers"] = false,
 				["debug"] = false,
 			},
 		},

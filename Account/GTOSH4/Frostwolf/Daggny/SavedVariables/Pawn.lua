@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0218,
+	["LastVersion"] = 2.0243,
 	["LastPlayerFullName"] = "Daggny-Frostwolf",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

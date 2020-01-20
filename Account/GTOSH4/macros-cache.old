@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Hearthstone
+/use Raal's Hexing Stick
 END
 VER 3 0000000000000010 "bounds" "132319"
 /click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
@@ -24,11 +24,19 @@ VER 3 0000000000000021 "follow" "134140"
 /follow yellowy
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
-/script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
+/script local n=GetItemInfo(39354); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
+END
+VER 3 000000000000002C "mount" "INV_MISC_QUESTIONMARK"
+/click ORLOpen Mounts
 END
 VER 3 0000000000000011 "nameplates" "Spell_ChargePositive."
 /console nameplateShowEnemies 1
 /console nameplateShowFriends 1
+END
+VER 3 000000000000002B "noblust" "Ability_DemonHunter_Torment."
+/cancelaura Bloodlust
+/cancelaura Primal Rage
+/cancelaura Time Warp
 END
 VER 3 0000000000000029 "page1" "134153"
 /changeactionbar 1
@@ -38,14 +46,13 @@ VER 3 000000000000002A "page2" "134154"
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
+/stopcasting
 /use Healthstone
+/use Abyssal Healing Potion
 /use Coastal Healing Potion
 END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
-END
-VER 3 0000000000000015 "rc" "Spell_Arcane_StudentOfMagic."
-/readycheck
 END
 VER 3 0000000000000017 "RL" "Ability_Hunter_BeastCall02."
 /reload ui
@@ -64,11 +71,14 @@ VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 END
 VER 3 0000000000000025 "t13" "INV_MISC_QUESTIONMARK"
 #showtooltip 13
-/use [@mouseover][@target] 13
+/use 13
 END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
+END
+VER 3 000000000000002E "TB" "Icon_PetFamily_Mechanical."
+/script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
 END
 VER 3 0000000000000022 "TEST" "413591"
 /rotac

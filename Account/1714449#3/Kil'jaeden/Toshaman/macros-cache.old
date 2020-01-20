@@ -1,0 +1,53 @@
+VER 3 0100000000000008 "apt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/2] Earthen Wall Totem; [talent:4/3] Ancestral Protection Totem
+END
+VER 3 0100000000000002 "ch" "INV_Misc_QuestionMark"
+#showtooltip Chain Heal
+/cast [@mouseover,noharm] Chain Heal
+END
+VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour; [talent:5/3] Wind Rush Totem
+/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dowpour; [talent:5/3] Wind Rush Totem
+END
+VER 3 010000000000000A "Eye" "INV_MISC_QUESTIONMARK"
+#showtooltip Eye of the Storm
+/cast Eye of the Storm
+END
+VER 3 010000000000000B "jump" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rocket Jump(Racial)
+END
+VER 3 0100000000000009 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Shear
+/cast [@focus,exists,harm,nodead][] Wind Shear
+END
+VER 3 010000000000000C "mill" "INV_MISC_QUESTIONMARK"
+/cast Milling
+/use Winter's Kiss
+/use Akunda's Bite
+/use Siren's Pollen
+/use Riverbud
+/use Sea Stalk
+/use Star Moss
+END
+VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
+#showtooltip Purify Spirit
+/cast [@mouseover,noharm] Purify Spirit
+END
+VER 3 0100000000000001 "rip" "INV_Misc_QuestionMark"
+#showtooltip Riptide
+/cast [@mouseover,noharm] Riptide
+END
+VER 3 0100000000000003 "surge" "INV_Misc_QuestionMark"
+#showtooltip Healing Surge
+/cast [@mouseover,noharm] Healing Surge
+END
+VER 3 0100000000000005 "unleash" "INV_Misc_QuestionMark"
+#showtooltip [talent:1/3] Unleash Life; [talent:7/3] Ascendance
+/cast [talent:1/3,@mouseover,noharm] Unleash Life; [talent:7/3] Ascendance
+END
+VER 3 0100000000000004 "wave" "INV_Misc_QuestionMark"
+#showtooltip Healing Wave
+/cast [@mouseover,noharm] Healing Wave
+END

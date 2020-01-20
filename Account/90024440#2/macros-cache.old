@@ -2,15 +2,32 @@ VER 3 000000000000000E "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use Fading Umbral Wand
 END
-VER 3 0000000000000008 "bird+rune" "INV_MISC_QUESTIONMARK"
-/use Lightforged Augment Rune
+VER 3 0000000000000015 "bh/coh" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [nomod,talent:5/2,@mouseover,help,nodead] [nomod,talent:5/2] Binding Heal; [nomod,talent:5/3,@mouseover,help,nodead] [nomod,talent:5/3] Circle of Healing
+END
+VER 3 0000000000000008 "bird+fort" "INV_MISC_QUESTIONMARK"
+/say
+/cast Power Word: Fortitude
+/use Overtuned Corgi Goggles
 /use Trans-Dimensional Bird Whistle
 END
-VER 3 000000000000000D "dänkdk-illidan" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000012 "coh" "INV_MISC_QUESTIONMARK"
+#showtooltip Circle of Healing
+/cast [@mouseover,help][]  Circle of Healing
+END
+VER 3 0000000000000014 "ds/halo" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:6/2] Divine Star; [talent:6/3] Halo
+/cast [talent:6/2] Divine Star
+/cast [talent:6/3] Halo
 END
 VER 3 000000000000000F "fl" "136103"
-/run C_MountJournal.SummonByID(0)
-/follow Zaemme
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
+/follow Toshpal
+END
+VER 3 0000000000000010 "healthstone" "INV_MISC_QUESTIONMARK"
+/use Healthstone
+/use Coastal Healing Potion
 END
 VER 3 000000000000000B "LW" "INV_MISC_QUESTIONMARK"
 #showtooltip Light's Wrath

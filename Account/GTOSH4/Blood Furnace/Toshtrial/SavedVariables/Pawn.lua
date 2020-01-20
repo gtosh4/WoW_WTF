@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0218,
+	["LastVersion"] = 2.024,
 	["LastPlayerFullName"] = "Toshtrial-Blood Furnace",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

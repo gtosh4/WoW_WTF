@@ -62,14 +62,13 @@ VER 3 010000000000000A "renew" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000F "sf" "INV_MISC_QUESTIONMARK"
 #showtooltip Shining Force
-/tar Akwi
-/cast Shining Force
+/cast [@mouseover,help][]  Shining Force
 END
 VER 3 0100000000000012 "smite" "INV_MISC_QUESTIONMARK"
 #showtooltip Smite
 /cast [@mouseover,help][] Smite
 END
 VER 3 010000000000000D "tdgd" "INV_MISC_QUESTIONMARK"
-#showtooltip The Deceiver's Grand Design
-/cast [@mouseover,help][] The Deceiver's Grand Design
+#showtooltip Inoculating Extract
+/cast [@mouseover,help][] Inoculating Extract
 END

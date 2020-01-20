@@ -1,31 +1,26 @@
 
 NameplateSCTDB = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
-		["Zallie - Frostwolf"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Zallie - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["global"] = {
-		["sizing"] = {
-			["smallHitsScale"] = 1,
-		},
-		["yOffset"] = 50,
-		["formatting"] = {
-			["icon"] = "left",
-			["size"] = 28,
-		},
-		["offTargetFormatting"] = {
-			["icon"] = "left",
-			["size"] = 18,
-		},
-		["font"] = "Expressway",
 		["animations"] = {
-			["normal"] = "verticalUp",
+			["miss"] = "fountain",
 			["crit"] = "fountain",
+			["normal"] = "verticalUp",
 		},
+		["yOffset"] = 15,
+		["font"] = "Expressway",
 	},
 }

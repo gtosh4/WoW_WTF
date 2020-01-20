@@ -1,374 +1,259 @@
 
 AstralKeys = {
 	{
-		"Yorman-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		251, -- [3]
-		13, -- [4]
-		12, -- [5]
-		78, -- [6]
-		300178, -- [7]
-	}, -- [1]
-	{
-		"Tosh-Kil'jaeden", -- [1]
-		"PRIEST", -- [2]
-		249, -- [3]
-		9, -- [4]
-		11, -- [5]
-		78, -- [6]
-		460921, -- [7]
-	}, -- [2]
-	{
-		"Yuumi-Kil'jaeden", -- [1]
-		"MONK", -- [2]
-		245, -- [3]
-		11, -- [4]
-		0, -- [5]
-		78, -- [6]
-		474439, -- [7]
-	}, -- [3]
-	{
-		"Ruesong-Kil'jaeden", -- [1]
+		"Cadaceus-Kil'jaeden", -- [1]
 		"WARLOCK", -- [2]
-		245, -- [3]
-		15, -- [4]
-		0, -- [5]
-		78, -- [6]
-		36483, -- [7]
-	}, -- [4]
-	{
-		"Ceesong-Kil'jaeden", -- [1]
-		"MAGE", -- [2]
 		248, -- [3]
 		11, -- [4]
-		11, -- [5]
-		78, -- [6]
-		51894, -- [7]
-	}, -- [5]
+		19, -- [5]
+		130, -- [6]
+		483289, -- [7]
+	}, -- [1]
 	{
-		"Numbnutt-Kil'jaeden", -- [1]
-		"ROGUE", -- [2]
-		247, -- [3]
-		9, -- [4]
-		0, -- [5]
-		78, -- [6]
-		211925, -- [7]
-	}, -- [6]
-	{
-		"Cornhuskers-Kil'jaeden", -- [1]
+		"Andruww-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
 		247, -- [3]
-		13, -- [4]
-		12, -- [5]
-		78, -- [6]
-		132248, -- [7]
-	}, -- [7]
+		20, -- [4]
+		20, -- [5]
+		130, -- [6]
+		458404, -- [7]
+	}, -- [2]
 	{
-		"Slurry-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		249, -- [3]
-		12, -- [4]
-		14, -- [5]
-		78, -- [6]
-		310341, -- [7]
-	}, -- [8]
-	{
-		"Emosong-Kil'jaeden", -- [1]
+		"Discreet-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
-		250, -- [3]
-		16, -- [4]
-		16, -- [5]
-		78, -- [6]
-		48923, -- [7]
-	}, -- [9]
+		248, -- [3]
+		19, -- [4]
+		20, -- [5]
+		130, -- [6]
+		448667, -- [7]
+	}, -- [3]
 	{
-		"Dolclemits-Kil'jaeden", -- [1]
-		"PRIEST", -- [2]
-		250, -- [3]
-		12, -- [4]
-		15, -- [5]
-		78, -- [6]
-		297858, -- [7]
-	}, -- [10]
-	{
-		"Maseychan-Kil'jaeden", -- [1]
-		"PALADIN", -- [2]
-		353, -- [3]
-		11, -- [4]
-		10, -- [5]
-		78, -- [6]
-		309343, -- [7]
-	}, -- [11]
-	{
-		"Maseychang-Kil'jaeden", -- [1]
-		"WARLOCK", -- [2]
-		249, -- [3]
-		8, -- [4]
-		13, -- [5]
-		78, -- [6]
-		310047, -- [7]
-	}, -- [12]
-	{
-		"Baesong-Kil'jaeden", -- [1]
-		"WARRIOR", -- [2]
-		245, -- [3]
-		11, -- [4]
-		11, -- [5]
-		78, -- [6]
-		32172, -- [7]
-	}, -- [13]
-	{
-		"Aspbringer-Kil'jaeden", -- [1]
-		"PALADIN", -- [2]
-		250, -- [3]
-		9, -- [4]
-		10, -- [5]
-		78, -- [6]
-		225910, -- [7]
-	}, -- [14]
-	{
-		"Pride-Kil'jaeden", -- [1]
-		"WARRIOR", -- [2]
-		353, -- [3]
+		"Discreetdk-Kil'jaeden", -- [1]
+		"DEATHKNIGHT", -- [2]
+		251, -- [3]
 		14, -- [4]
 		0, -- [5]
-		78, -- [6]
-		300535, -- [7]
-	}, -- [15]
+		130, -- [6]
+		138571, -- [7]
+	}, -- [4]
 	{
-		"Friendly-Kil'jaeden", -- [1]
-		"PRIEST", -- [2]
-		247, -- [3]
-		12, -- [4]
+		"Øxclamation-Kil'jaeden", -- [1]
+		"DRUID", -- [2]
+		252, -- [3]
+		19, -- [4]
+		18, -- [5]
+		130, -- [6]
+		475649, -- [7]
+	}, -- [5]
+	{
+		"Toshpal-Kil'jaeden", -- [1]
+		"PALADIN", -- [2]
+		252, -- [3]
+		18, -- [4]
+		19, -- [5]
+		130, -- [6]
+		472395, -- [7]
+	}, -- [6]
+	{
+		"Toshdk-Kil'jaeden", -- [1]
+		"DEATHKNIGHT", -- [2]
+		246, -- [3]
+		13, -- [4]
 		11, -- [5]
-		78, -- [6]
-		300586, -- [7]
-	}, -- [16]
+		130, -- [6]
+		484356, -- [7]
+	}, -- [7]
 	{
-		"Daiyzee-Kil'jaeden", -- [1]
-		"MAGE", -- [2]
+		"Toshmonk-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		252, -- [3]
+		14, -- [4]
+		0, -- [5]
+		130, -- [6]
+		23290, -- [7]
+	}, -- [8]
+	{
+		"Tehkz-Kil'jaeden", -- [1]
+		"PRIEST", -- [2]
 		250, -- [3]
-		10, -- [4]
-		0, -- [5]
-		78, -- [6]
-		3, -- [7]
-	}, -- [17]
-	{
-		"Daiyzed-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		249, -- [3]
-		16, -- [4]
+		15, -- [4]
 		15, -- [5]
-		78, -- [6]
-		472316, -- [7]
-	}, -- [18]
+		130, -- [6]
+		469428, -- [7]
+	}, -- [9]
 	{
-		"Orcbum-Kil'jaeden", -- [1]
-		"WARRIOR", -- [2]
-		247, -- [3]
-		10, -- [4]
-		15, -- [5]
-		78, -- [6]
-		310048, -- [7]
-	}, -- [19]
-	{
-		"Blupaw-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		251, -- [3]
-		9, -- [4]
-		0, -- [5]
-		78, -- [6]
-		216105, -- [7]
-	}, -- [20]
-	{
-		"Ngow-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		353, -- [3]
-		12, -- [4]
-		15, -- [5]
-		78, -- [6]
-		310422, -- [7]
-	}, -- [21]
-	{
-		"Cinex-Kil'jaeden", -- [1]
-		"DEMONHUNTER", -- [2]
-		245, -- [3]
-		8, -- [4]
-		0, -- [5]
-		78, -- [6]
-		216179, -- [7]
-	}, -- [22]
-	{
-		"Mattea-Kil'jaeden", -- [1]
+		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
 		246, -- [3]
-		9, -- [4]
-		12, -- [5]
-		78, -- [6]
-		474255, -- [7]
-	}, -- [23]
+		13, -- [4]
+		0, -- [5]
+		130, -- [6]
+		473944, -- [7]
+	}, -- [10]
 	{
-		"Astarz-Kil'jaeden", -- [1]
-		"HUNTER", -- [2]
-		249, -- [3]
-		9, -- [4]
-		11, -- [5]
-		78, -- [6]
-		211333, -- [7]
-	}, -- [24]
+		"Toshaman-Kil'jaeden", -- [1]
+		"SHAMAN", -- [2]
+		251, -- [3]
+		14, -- [4]
+		20, -- [5]
+		130, -- [6]
+		460913, -- [7]
+	}, -- [11]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
+		246, -- [3]
+		17, -- [4]
+		0, -- [5]
+		130, -- [6]
+		484369, -- [7]
+	}, -- [12]
+	{
+		"Alvá-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		247, -- [3]
+		10, -- [4]
+		0, -- [5]
+		130, -- [6]
+		473738, -- [7]
+	}, -- [13]
+	{
+		"Arnbjørn-Kil'jaeden", -- [1]
+		"MAGE", -- [2]
+		251, -- [3]
+		17, -- [4]
+		19, -- [5]
+		130, -- [6]
+		484366, -- [7]
+	}, -- [14]
+	{
+		"Circé-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
+		248, -- [3]
+		14, -- [4]
+		0, -- [5]
+		130, -- [6]
+		484365, -- [7]
+	}, -- [15]
+	{
+		"Peace-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		248, -- [3]
+		20, -- [4]
+		21, -- [5]
+		130, -- [6]
+		484209, -- [7]
+	}, -- [16]
+	{
+		"Thunderzmonk-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		247, -- [3]
+		10, -- [4]
+		0, -- [5]
+		130, -- [6]
+		128331, -- [7]
+	}, -- [17]
+	{
+		"Tosh-Kil'jaeden", -- [1]
+		"PRIEST", -- [2]
+		251, -- [3]
+		18, -- [4]
+		19, -- [5]
+		130, -- [6]
+		484239, -- [7]
+	}, -- [18]
+	{
+		"Vonull-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
 		251, -- [3]
 		13, -- [4]
-		12, -- [5]
-		78, -- [6]
-		310957, -- [7]
-	}, -- [25]
+		11, -- [5]
+		130, -- [6]
+		459759, -- [7]
+	}, -- [19]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 12,
-		["class"] = "DRUID",
-		["unit"] = "Yorman-Kil'jaeden",
+		["weekly_best"] = 19,
+		["class"] = "PALADIN",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 11,
-		["class"] = "PRIEST",
+		["class"] = "DEATHKNIGHT",
+		["unit"] = "Toshdk-Kil'jaeden",
 		["faction"] = 1,
-		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [2]
-	{
-		["weekly_best"] = 0,
-		["class"] = "MONK",
-		["unit"] = "Yuumi-Kil'jaeden",
-		["faction"] = 1,
-	}, -- [3]
-	{
-		["weekly_best"] = 0,
-		["class"] = "PALADIN",
-		["faction"] = 1,
-		["unit"] = "Zaemme-Kil'jaeden",
-	}, -- [4]
 }
 AstralFriends = {
-	{
-		"Baesong-Kil'jaeden", -- [1]
-		"Ceesong#1985", -- [2]
-		"WARRIOR", -- [3]
-		252, -- [4]
-		12, -- [5]
-		78, -- [6]
-		107844, -- [7]
-		"1", -- [8]
-		11, -- [9]
-	}, -- [1]
-	{
-		"Ceesong-Kil'jaeden", -- [1]
-		"Ceesong#1985", -- [2]
-		"MAGE", -- [3]
-		246, -- [4]
-		12, -- [5]
-		78, -- [6]
-		110363, -- [7]
-		"1", -- [8]
-		0, -- [9]
-	}, -- [2]
-	{
-		"Ruesong-Kil'jaeden", -- [1]
-		"Ceesong#1985", -- [2]
-		"WARLOCK", -- [3]
-		245, -- [4]
-		15, -- [5]
-		78, -- [6]
-		98777, -- [7]
-		"1", -- [8]
-		0, -- [9]
-	}, -- [3]
-	{
-		"Emosong-Kil'jaeden", -- [1]
-		"Ceesong#1985", -- [2]
-		"ROGUE", -- [3]
-		250, -- [4]
-		16, -- [5]
-		78, -- [6]
-		105420, -- [7]
-		"1", -- [8]
-		15, -- [9]
-	}, -- [4]
-	{
-		"Pride-Kil'jaeden", -- [1]
-		"Johnnymsw#1452", -- [2]
-		"WARRIOR", -- [3]
-		353, -- [4]
-		14, -- [5]
-		78, -- [6]
-		300535, -- [7]
-		"1", -- [8]
-		0, -- [9]
-	}, -- [5]
-	{
-		"Friendly-Kil'jaeden", -- [1]
-		"Johnnymsw#1452", -- [2]
-		"PRIEST", -- [3]
-		247, -- [4]
-		12, -- [5]
-		78, -- [6]
-		124922, -- [7]
-		"1", -- [8]
-		11, -- [9]
-	}, -- [6]
-	{
-		"Mattea-Kil'jaeden", -- [1]
-		"boochan#1194", -- [2]
-		"HUNTER", -- [3]
-		246, -- [4]
-		9, -- [5]
-		78, -- [6]
-		474255, -- [7]
-		"1", -- [8]
-		12, -- [9]
-	}, -- [7]
-	{
-		"Ngow-Kil'jaeden", -- [1]
-		"boochan#1194", -- [2]
-		"DRUID", -- [3]
-		245, -- [4]
-		14, -- [5]
-		78, -- [6]
-		474347, -- [7]
-		"1", -- [8]
-		15, -- [9]
-	}, -- [8]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		247, -- [4]
-		10, -- [5]
-		78, -- [6]
-		316388, -- [7]
+		245, -- [4]
+		17, -- [5]
+		130, -- [6]
+		481324, -- [7]
 		"1", -- [8]
-		13, -- [9]
-	}, -- [9]
+		10, -- [9]
+	}, -- [1]
+	{
+		"Peace-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"MONK", -- [3]
+		248, -- [4]
+		20, -- [5]
+		130, -- [6]
+		484305, -- [7]
+		"1", -- [8]
+		21, -- [9]
+	}, -- [2]
+	{
+		"Ngow-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"DRUID", -- [3]
+		251, -- [4]
+		17, -- [5]
+		130, -- [6]
+		472871, -- [7]
+		"1", -- [8]
+		10, -- [9]
+	}, -- [3]
+	{
+		"Kosaki-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"ROGUE", -- [3]
+		246, -- [4]
+		17, -- [5]
+		130, -- [6]
+		482278, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [4]
+	{
+		"Nerf-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"DEATHKNIGHT", -- [3]
+		248, -- [4]
+		14, -- [5]
+		130, -- [6]
+		482095, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [5]
 }
 AstralKeysSettings = {
-	["initTime"] = 1548169200,
-	["frameOptions"] = {
-		["viewMode"] = 0,
-		["frame_list"] = "GUILD",
-		["list"] = "guild",
-		["orientation"] = 1,
-		["sortMethod"] = 4,
-		["sorth_method"] = "character_name",
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["options"] = {
-		["announceKey"] = false,
-		["friendSync"] = true,
-		["minFriendSync"] = 2,
-		["showOffline"] = true,
-		["rankFilters"] = {
+	["frame"] = {
+		["rank_filter"] = {
 			true, -- [1]
 			true, -- [2]
 			true, -- [3]
@@ -380,50 +265,102 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["showTooltip"] = true,
-		["showOtherFaction"] = false,
-		["mingle_offline"] = false,
-		["whisperClick"] = false,
-		["showMiniMapButton"] = true,
+		["current_list"] = "FRIENDS",
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["resetVersion"] = 20200,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1579618800,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Zaemme - Kil'jaeden",
-		["Yuumi - Kil'jaeden"] = "Yuumi - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 196.348116323915,
+				["minimapPos"] = 206.928292919748,
 			},
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshtrial - Blood Furnace"] = {
+		},
+		["Daggny - Frostwolf"] = {
+		},
+		["Tosku - Kil'jaeden"] = {
+		},
+		["Toshdk - Kil'jaeden"] = {
+		},
+		["Yorman - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 202.778900673138,
+				["minimapPos"] = 209.842210043707,
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 200.077791502795,
+				["minimapPos"] = 176.540172018723,
 			},
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
 		["Zallie - Frostwolf"] = {
 		},
-		["Yorman - Kil'jaeden"] = {
+		["Toshaman - Kil'jaeden"] = {
 			["minimap"] = {
-				["minimapPos"] = 207.149628053403,
+				["minimapPos"] = 220.790417099489,
 			},
 		},
-		["Tosku - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 		},
 	},
+}
+AstralAffixes = {
+	["rotation"] = {
+	},
+	["season_start_week"] = 130,
+	["season_affix"] = 119,
 }

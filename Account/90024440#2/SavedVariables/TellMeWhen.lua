@@ -19,13 +19,13 @@ TellMeWhenDB = {
 			},
 		},
 	},
-	["Version"] = 85301,
+	["Version"] = 85901,
 	["profiles"] = {
 		["Yellowy - Kil'jaeden"] = {
-			["Version"] = 85301,
+			["Version"] = 85901,
 			["Groups"] = {
 				{
-					["GUID"] = "TMW:group:1RVis5keUR0U",
+					["GUID"] = "TMW:group:1SKbyxJMXoyR",
 					["Icons"] = {
 						{
 							["States"] = {
@@ -71,10 +71,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [4]
-					},
-					["Point"] = {
-						["y"] = 87.5000610351563,
-						["x"] = 210.416564941406,
 					},
 				}, -- [1]
 			},

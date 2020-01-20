@@ -2,11 +2,6 @@
 oRA3DB = {
 	["namespaces"] = {
 		["BattleRes"] = {
-			["profiles"] = {
-				["Default"] = {
-					["lock"] = true,
-				},
-			},
 		},
 		["Invite"] = {
 		},
@@ -19,65 +14,22 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-					[115310] = {
-						["Player-9-0B0E8ABC"] = 524584.782,
-					},
-					[116849] = {
-						["Player-9-0B0E8ABC"] = 524526.472,
-					},
-				},
-				["lastTime"] = 526329.685,
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
 						["Default"] = {
 						},
-						["RaidCDs"] = {
-							[98008] = true,
-							[62618] = true,
-							[740] = true,
-							[115310] = true,
-							[97462] = true,
-							[196718] = true,
-							[108280] = true,
-							[64843] = true,
-							[265202] = true,
-							[31821] = true,
-						},
 					},
 					["displays"] = {
 						["Default"] = {
-							["barLabelOutline"] = "OUTLINE",
 							["showDisplay"] = false,
-							["barTexture"] = "Minimalist",
-							["barShowSpell"] = false,
-							["showOffCooldown"] = true,
-							["groupSpells"] = true,
 							["type"] = "Bars",
-						},
-						["RaidCDs"] = {
-							["barLabelOutline"] = "OUTLINE",
-							["showDisplay"] = false,
-							["lockDisplay"] = true,
-							["barTexture"] = "Minimalist",
-							["barShowSpell"] = false,
-							["showOffCooldown"] = true,
-							["type"] = "Bars",
-							["groupSpells"] = true,
 						},
 					},
 				},
 			},
 		},
 		["Difficulty"] = {
-			["profiles"] = {
-				["Default"] = {
-					["prevRaidDifficulty"] = 15,
-				},
-			},
 		},
 		["Consumables"] = {
 		},
@@ -85,44 +37,32 @@ oRA3DB = {
 		},
 	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
-		["Tosku - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["lastSelectedList"] = 1,
 			["positions"] = {
 				["oRA3CooldownFrameBarsDefault"] = {
-					["Height"] = 147.999984741211,
-					["Width"] = 199.999771118164,
-					["PosY"] = 415.466688334942,
-					["PosX"] = 580.800941749461,
-				},
-				["oRA3CooldownFrameBarsRaidCDs"] = {
-					["Height"] = 147.999984741211,
-					["Width"] = 200,
-					["PosY"] = 263.466859443992,
-					["PosX"] = 1726.93290256656,
+					["Height"] = 148.000030517578,
+					["PosX"] = 1209.07022215193,
+					["PosY"] = 514.130836269553,
+					["Width"] = 199.999847412109,
 				},
 				["oRA3BattleResMonitor"] = {
-					["Height"] = 30.0000171661377,
-					["Width"] = 140.000030517578,
-					["PosY"] = 111.910804990249,
-					["PosX"] = 709.33376095297,
-				},
-				["oRA3ReadyCheck"] = {
-					["Height"] = 211.000015258789,
-					["PosX"] = 366.399009994613,
-					["PosY"] = 246.666305182358,
-					["Width"] = 319.999969482422,
+					["Height"] = 29.999963760376,
+					["Width"] = 140.000122070313,
+					["PosY"] = 125.866135917042,
+					["PosX"] = 1629.33534643587,
 				},
 			},
-			["lastSelectedPanel"] = "Checks",
+			["lastSelectedPanel"] = "Cooldowns",
 		},
 	},
 }

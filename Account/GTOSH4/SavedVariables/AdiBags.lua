@@ -5,64 +5,56 @@ AdiBagsDB = {
 			["profiles"] = {
 				["Default"] = {
 					["version"] = 3,
+					["overrides"] = {
+						[151782] = "Equipment#LegionLeg",
+						[137046] = "Equipment#LegionLeg",
+						[144273] = "Equipment#LegionLeg",
+						[132443] = "Equipment#LegionLeg",
+						[144258] = "Equipment#LegionLeg",
+						[137070] = "Equipment#LegionLeg",
+						[137105] = "Equipment#LegionLeg",
+						[137020] = "Equipment#LegionLeg",
+						[137086] = "Equipment#LegionLeg",
+						[137059] = "Equipment#LegionLeg",
+						[132444] = "Equipment#LegionLeg",
+						[132452] = "Equipment#LegionLeg",
+						[151644] = "Equipment#LegionLeg",
+						[137048] = "Equipment#LegionLeg",
+						[144275] = "Equipment#LegionLeg",
+						[151812] = "Equipment#LegionLeg",
+						[151813] = "Equipment#LegionLeg",
+						[152626] = "Equipment#LegionLeg",
+						[140846] = "Equipment#LegionLeg",
+						[137017] = "Equipment#LegionLeg",
+						[137076] = "Equipment#LegionLeg",
+						[168624] = "Miscellaneous#Miscellaneous",
+					},
 				},
 			},
 		},
-		["Artifact Power Currency"] = {
+		["Cata"] = {
 		},
 		["WoW"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
 		},
 		["Rogue Lockboxes"] = {
 		},
 		["TBC"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
 		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
-		["Cata"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
+		["Mechagon Tinkering"] = {
 		},
-		["MoneyFrame"] = {
+		["DataSource"] = {
 		},
 		["BfA"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
 		},
-		["ItemLevel"] = {
+		["MoneyFrame"] = {
 		},
 		["Chests and Bags"] = {
 		},
 		["ItemCategory"] = {
-			["profiles"] = {
-				["Default"] = {
-					["splitBySubclass"] = {
-						["Tradeskill"] = false,
-						["Consumable"] = true,
-						["Gem"] = false,
-						["Miscellaneous"] = false,
-					},
-					["mergeGems"] = false,
-					["mergeGlyphs"] = false,
-				},
-			},
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -70,62 +62,27 @@ AdiBagsDB = {
 					["shown"] = {
 						["Ancient Mana"] = false,
 						["Brawler's Gold"] = false,
-						["Nethershard"] = false,
-						["Valor"] = false,
-						["Garrison Resources"] = false,
-						["Order Resources"] = false,
-						["Artifact Fragment"] = false,
 						["Timewarped Badge"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Champion's Seal"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Timeworn Artifact"] = false,
-						["Sightless Eye"] = false,
-						["Wakening Essence"] = false,
-						["Veiled Argunite"] = false,
-						["Apexis Crystal"] = false,
-						["Darkmoon Prize Ticket"] = false,
 						["Seal of Broken Fate"] = false,
-						["Conquest"] = false,
+						["Nethershard"] = false,
+						["Timeworn Artifact"] = false,
+						["Order Resources"] = false,
+						["Wakening Essence"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Apexis Crystal"] = false,
+						["Veiled Argunite"] = false,
+						["Seal of Tempered Fate"] = false,
 						["Curious Coin"] = false,
-						["Lingering Soul Fragment"] = false,
+						["Garrison Resources"] = false,
+						["Champion's Seal"] = false,
 						["Legionfall War Supplies"] = false,
-					},
-					["text"] = {
-						["name"] = "UbuntuCondensed",
 					},
 				},
 			},
 		},
 		["NewItem"] = {
-			["profiles"] = {
-				["Default"] = {
-					["highlight"] = "blizzard",
-				},
-			},
 		},
 		["MoP"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
-		},
-		["AdiBags_TooltipInfo"] = {
-		},
-		["Legion"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
-		},
-		["Wrath"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
 		},
 		["Equipment"] = {
 			["profiles"] = {
@@ -134,86 +91,52 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["DataSource"] = {
+		["Legion"] = {
+		},
+		["Wrath"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["ItemLevel"] = {
 		},
 		["Bound"] = {
 		},
 		["WoD"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Junk"] = false,
-				},
-			},
 		},
 		["Hearthstones"] = {
 		},
 	},
-	["char"] = {
-		["Zaemme - Kil'jaeden"] = {
-			["collapsedSections"] = {
-				["Quest#Quest"] = true,
-				["Junk#Junk"] = true,
-			},
-		},
-		["Yuumi - Kil'jaeden"] = {
-			["collapsedSections"] = {
-				["Junk#Junk"] = true,
-			},
-		},
-		["Tosku - Kil'jaeden"] = {
-			["collapsedSections"] = {
-				["Quest#Quest"] = true,
-				["Junk#Junk"] = true,
-			},
-		},
-		["Tosh - Kil'jaeden"] = {
-			["collapsedSections"] = {
-				["Junk#Junk"] = true,
-			},
-		},
-	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Ursin"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["virtualStacks"] = {
-				["others"] = true,
-				["notWhenTrading"] = 4,
-				["stackable"] = true,
-				["incomplete"] = true,
-			},
-			["columnWidth"] = {
-				["Bank"] = 8,
-				["Backpack"] = 8,
-			},
-			["maxHeight"] = 0.4,
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
-					["yOffset"] = 0,
+					["yOffset"] = 198.999923706055,
 				},
 			},
 			["filterPriorities"] = {
-				["Legion"] = 89,
 				["ItemSets"] = 93,
 			},
-			["scale"] = 1,
-			["rightClickConfig"] = false,
-			["autoDeposit"] = true,
-			["filters"] = {
-				["BfA"] = false,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
 			},
+			["autoDeposit"] = true,
 		},
 	},
 }

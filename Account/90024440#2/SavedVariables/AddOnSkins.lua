@@ -1,10 +1,10 @@
 
 AddOnSkinsDB = {
 	["profileKeys"] = {
-		["Yellowy - Kil'jaeden"] = "Yellowy - Kil'jaeden",
+		["Yellowy - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Yellowy - Kil'jaeden"] = {
+		["Default"] = {
 		},
 	},
 }

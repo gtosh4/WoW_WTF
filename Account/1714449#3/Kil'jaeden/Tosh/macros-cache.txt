@@ -1,0 +1,74 @@
+VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing; Greater Heal
+END
+VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
+#showtooltip [spec:3] Power Word: Shield; Angelic Feather
+/cast [@player,spec:3] Power Word: Shield; [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 0100000000000015 "fort" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Fortitude
+/cast [@player] Power Word: Fortitude
+END
+VER 3 010000000000000B "Heal" "INV_Misc_QuestionMark"
+#showtooltip Heal
+/cast [@mouseover,noharm] Heal
+END
+VER 3 0100000000000017 "lev" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Levitate
+END
+VER 3 0100000000000010 "Pen" "INV_Misc_QuestionMark"
+#showtooltip [spec:1]Penance; [spec:2] Prayer of Mending
+/cast [spec:1,harm] Penance; [spec:2,@mouseover,noharm] Prayer of Mending
+END
+VER 3 010000000000000E "poh" "INV_Misc_QuestionMark"
+#showtooltip [spec:2] Prayer of Healing; [spec:1] Penance
+/cast [spec:2,@mouseover,noharm] Prayer of Healing; [spec:1,@mouseover,noharm][spec:1,noharm] Penance
+END
+VER 3 0100000000000005 "ps" "INV_Misc_QuestionMark"
+#showtooltip [spec:1]Pain Suppression; [spec:2] Guardian Spirit
+/cast [spec:1,@mouseover,noharm] Pain Suppression; [spec:2,@mouseover,noharm] Guardian Spirit
+END
+VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
+#showtooltip Purify
+/cast [@mouseover,noharm] Purify
+END
+VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
+#showtooltip [spec:1] Power Word: Radiance; [spec:2] Holy Word: Sanctify
+/cast [spec:1,@mouseover,noharm] Power Word: Radiance; [spec:2] Holy Word: Sanctify
+END
+VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
+#showtooltip
+/use [spec:1,@mouseover,noharm][spec:1,@targte,noharm][spec:3,@mouseover,noharm]Power Word: Shield;[spec:2,@mouseover,noharm]Renew
+END
+VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:3,@mouseover,noharm] Shadow Covenant; [spec:2,@mouseover,exists,help] Holy Ward;[spec:2,@player] Holy Ward
+END
+VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
+#showtooltip Holy Word: Serenity
+/cast [@mouseover,noharm] Holy Word: Serenity
+END
+VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowfiend
+/petattack
+/cast Shadowfiend
+END
+VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
+#showtooltip Silence
+/cast [@focus,exists,harm][@target]Silence
+END
+VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:1,@mouseover,noharm,nochanneling:Penance][spec:1,@targte,noharm,nochanneling:Pneance][spec:3,@mouseover,noharm]  Shadow Mend; [spec:2,@mouseover,noharm] Flash Heal
+END
+VER 3 0100000000000011 "smite" "INV_Misc_QuestionMark"
+#showtooltip Smite
+/cast [nochanneling:Penance] Smite
+END
+VER 3 0100000000000018 "t6" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:2,talent:6/2] Divine Star; [spec:2,talent:6/3] Halo 
+END

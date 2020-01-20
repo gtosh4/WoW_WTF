@@ -1,44 +1,55 @@
 
 MacroToolkitDB = {
 	["char"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Yorman - Kil'jaeden"] = {
+		["Toshdk - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Yuumi - Kil'jaeden"] = {
+		["Toshaman - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
-			["backups"] = {
-			},
+	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
 		},
 	},
 	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "profile",
-		["Yorman - Kil'jaeden"] = "profile",
-		["Tosh - Kil'jaeden"] = "profile",
-		["Koutetsu - Frostwolf"] = "profile",
-		["Zallie - Frostwolf"] = "profile",
-		["Yuumi - Kil'jaeden"] = "profile",
+		["Toshpal - Kil'jaeden"] = "profile",
+		["Toshtrial - Blood Furnace"] = "profile",
+		["Daggny - Frostwolf"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
-	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "profile",
+		["Toshmonk - Kil'jaeden"] = "profile",
+		["Koutetsu - Frostwolf"] = "profile",
+		["Toshtrial - The Forgotten Coast"] = "profile",
+		["Zallie - Frostwolf"] = "profile",
+		["Toshaman - Kil'jaeden"] = "profile",
+		["Tosh - Kil'jaeden"] = "profile",
 	},
 	["profiles"] = {
 		["profile"] = {
-			["y"] = 618.982421875,
-			["x"] = 1626.06188964844,
-			["height"] = 423.999969482422,
-			["override"] = true,
+			["y"] = 913.5087280273438,
+			["x"] = 1013.919799804688,
+			["height"] = 431.000427246094,
+			["visbind"] = false,
+			["fonts"] = {
+				["mfont"] = "Ubuntu Condensed",
+				["mifont"] = "Ubuntu Condensed",
+				["edfont"] = "Ubuntu Condensed",
+				["errfont"] = "Ubuntu Condensed",
+			},
+		},
+		["Default"] = {
+			["y"] = 687.874267578125,
+			["x"] = 726.911865234375,
 		},
 	},
 }

@@ -1,32 +1,48 @@
 
 BattleGroundEnemiesDB = {
 	["profileKeys"] = {
-		["Yuumi - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Zallie - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Enemies"] = {
-				["ShowRealmnames"] = false,
+			["Allies"] = {
+				["Enabled"] = false,
 				["15"] = {
-					["Position_Y"] = 582.933424470422,
-					["Trinket_Width"] = 24,
-					["Auras_Debuffs_Enabled"] = false,
-					["BarWidth"] = 250,
-					["Racial_Width"] = 24,
-					["ObjectiveAndRespawn_Width"] = 28,
-					["HealthBar_Texture"] = "Minimalist",
-					["RoleIcon_Size"] = 16,
-					["Position_X"] = 1247.99965960503,
-					["BarHeight"] = 24,
+					["Position_Y"] = 475.733544054026,
+					["Position_X"] = 1429.86668678999,
 				},
 			},
 			["Font"] = "Friz Quadrata TT",
 			["Locked"] = true,
-			["Allies"] = {
-				["Enabled"] = false,
+			["DisableArenaFrames"] = true,
+			["Enemies"] = {
+				["40"] = {
+					["Position_Y"] = 719.4666245436674,
+					["HealthBar_Texture"] = "ElvUI Norm",
+					["Name_Fontsize"] = 11,
+					["Position_X"] = 1446.93371765851,
+					["BarHeight"] = 22,
+				},
 				["15"] = {
-					["Position_Y"] = 591.99994770527,
-					["Position_X"] = 294.3998567009,
+					["NumericTargetindicator_Fontsize"] = 12,
+					["Position_Y"] = 413.3333891987786,
+					["PlayerCount_Enabled"] = false,
+					["Name_Outline"] = "OUTLINE",
+					["HealthBar_Texture"] = "Grid2 Flat",
+					["NumericTargetindicator_Outline"] = "OUTLINE",
+					["Position_X"] = 1563.201683809719,
+					["BarHeight"] = 22,
 				},
 			},
 		},

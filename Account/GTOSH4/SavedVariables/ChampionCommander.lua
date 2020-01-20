@@ -1,32 +1,43 @@
 
 dbBFA = {
 	["char"] = {
-		["Zaemme - Kil'jaeden"] = {
+		["Toshpal - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
-		["Yuumi - Kil'jaeden"] = {
-			["firstun"] = false,
-		},
 		["Tosh - Kil'jaeden"] = {
 			["firstun"] = false,
 		},
+		["Toshmonk - Kil'jaeden"] = {
+			["firstun"] = false,
+		},
+		["Toshdk - Kil'jaeden"] = {
+			["firstun"] = false,
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["firstun"] = false,
+		},
+		["Tosku - Kil'jaeden"] = {
+			["firstun"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
 	},
 	["global"] = {
-		["silent"] = true,
 		["warn01_seen"] = 0,
 		["firstrun"] = false,
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
-	},
-	["profileKeys"] = {
-		["Zaemme - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Yuumi - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -42,35 +53,36 @@ dbBFA = {
 				["USEALLY"] = false,
 				["SAVETROOPS"] = false,
 				["IGNOREINACTIVE"] = true,
-				["BONUS"] = true,
+				["BONUS"] = false,
 				["SORTMISSION2"] = "Garrison_SortMissions_Original",
 				["BONUSCHANCE"] = 105,
 				["IGNORELOW"] = false,
 				["NOWARN"] = false,
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
-				["MAKEITQUICK"] = true,
-				["MAXCHAMP"] = 3,
+				["MAKEITQUICK"] = false,
 				["TROOPALERT"] = true,
+				["MAXCHAMP"] = 3,
 				["IGNOREBUSY"] = true,
-				["BASECHANCE"] = 5,
+				["BASECHANCE"] = 0,
+			},
+			["blacklist"] = {
+				[1951] = false,
+				[2147] = false,
+				[2088] = false,
+				[1935] = false,
+				[2149] = false,
+				[1920] = false,
+				[1934] = false,
+				[2083] = false,
+				[1927] = false,
+				[1939] = false,
+				[2077] = false,
+				[2115] = false,
+				[1943] = false,
+				[2117] = false,
 			},
 			["showmenu"] = true,
-			["blacklist"] = {
-				[2094] = false,
-				[1940] = false,
-				[2095] = false,
-				[1948] = false,
-				[1922] = false,
-				[1930] = false,
-				[2092] = false,
-				[1927] = false,
-				[2093] = false,
-				[1920] = false,
-				[1939] = false,
-				[1928] = false,
-				[1925] = false,
-			},
 		},
 	},
 }

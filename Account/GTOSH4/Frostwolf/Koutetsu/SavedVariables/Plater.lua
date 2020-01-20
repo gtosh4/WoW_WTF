@@ -1,15 +1,15 @@
 
 PlaterDBChr = {
-	["first_run2"] = {
-		["Player-7-09917B08"] = true,
+	["spellRangeCheck"] = {
+		[263] = "Lightning Bolt",
+		[264] = "Lightning Bolt",
+		[262] = "Lightning Bolt",
 	},
 	["buffsBanned"] = {
 	},
 	["debuffsBanned"] = {
 	},
-	["spellRangeCheck"] = {
-		[263] = "Lightning Bolt",
-		[264] = "Lightning Bolt",
-		[262] = "Lightning Bolt",
+	["first_run3"] = {
+		["Player-7-09917B08"] = true,
 	},
 }

@@ -7,3 +7,4 @@ else
   git commit -m "scheduled backup"
   git push
 fi
+git gc

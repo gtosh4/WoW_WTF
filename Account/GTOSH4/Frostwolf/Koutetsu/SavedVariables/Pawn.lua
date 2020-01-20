@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0232,
+	["LastVersion"] = 2.0243,
 	["LastPlayerFullName"] = "Koutetsu-Frostwolf",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

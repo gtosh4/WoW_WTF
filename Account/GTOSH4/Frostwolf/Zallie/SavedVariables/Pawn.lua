@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0231,
+	["LastVersion"] = 2.0241,
 	["LastPlayerFullName"] = "Zallie-Frostwolf",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

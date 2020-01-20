@@ -1,6 +1,10 @@
 
 AzeriteTooltipDB = {
-	["OnlySpec"] = false,
-	["Compact"] = false,
-	["RemoveBlizzard"] = true,
+	["profileKeys"] = {
+		["Yellowy - Kil'jaeden"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
 }
