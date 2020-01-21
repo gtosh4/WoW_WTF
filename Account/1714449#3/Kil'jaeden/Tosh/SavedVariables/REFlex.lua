@@ -39988,19 +39988,6 @@ REFlexDatabase = {
 	}, -- [344]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 57,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579522251,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -40079,6 +40066,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 57,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579522251,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40098,19 +40098,6 @@ REFlexDatabase = {
 	}, -- [345]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 534,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579522914,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -40189,6 +40176,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 534,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579522914,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40208,19 +40208,6 @@ REFlexDatabase = {
 	}, -- [346]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 546,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579523553,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Lonav-Mal'Ganis", -- [1]
@@ -40299,6 +40286,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 546,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579523553,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40318,19 +40318,6 @@ REFlexDatabase = {
 	}, -- [347]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 502,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579524199,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -40409,6 +40396,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 502,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579524199,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40428,19 +40428,6 @@ REFlexDatabase = {
 	}, -- [348]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
-		["PlayersNum"] = 4,
-		["Duration"] = 135,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579524452,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -40519,6 +40506,19 @@ REFlexDatabase = {
 				226, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 135,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579524452,
+		["Winner"] = 1,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40538,19 +40538,6 @@ REFlexDatabase = {
 	}, -- [349]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 318,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579524851,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -40629,6 +40616,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 318,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579524851,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40648,19 +40648,6 @@ REFlexDatabase = {
 	}, -- [350]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 61,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579524993,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Saltmasterx-Kel'Thuzad", -- [1]
@@ -40739,6 +40726,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 61,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579524993,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40758,19 +40758,6 @@ REFlexDatabase = {
 	}, -- [351]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 323,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579525498,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Carnewm-Tichondrius", -- [1]
@@ -40849,6 +40836,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 323,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579525498,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40868,19 +40868,6 @@ REFlexDatabase = {
 	}, -- [352]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 39,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1579525727,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Forbes-Kel'Thuzad", -- [1]
@@ -40959,6 +40946,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 39,
+		["Season"] = 0,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579525727,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -40978,12 +40978,6 @@ REFlexDatabase = {
 	}, -- [353]
 	{
 		["Map"] = 1505,
-		["Season"] = 0,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 543,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -41062,13 +41056,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 0,
+		["PlayersNum"] = 4,
+		["Duration"] = 543,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
 		["Version"] = 275,
 		["isArena"] = true,
 		["Time"] = 1579526529,
 		["isRated"] = true,
 		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -41088,12 +41088,6 @@ REFlexDatabase = {
 	}, -- [354]
 	{
 		["Map"] = 1911,
-		["Season"] = 0,
-		["StatsNum"] = 0,
-		["isBrawl"] = false,
-		["PlayersNum"] = 4,
-		["Duration"] = 79,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -41172,13 +41166,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 0,
+		["PlayersNum"] = 4,
+		["Duration"] = 79,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
 		["Version"] = 275,
 		["isArena"] = true,
 		["Time"] = 1579526854,
 		["isRated"] = true,
 		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -41198,13 +41198,6 @@ REFlexDatabase = {
 	}, -- [355]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["Time"] = 1579527163,
-		["PlayersNum"] = 4,
-		["Duration"] = 151,
-		["Season"] = 0,
-		["PlayerNum"] = 4,
 		["Players"] = {
 			{
 				"Ttx-Caelestrasz", -- [1]
@@ -41283,12 +41276,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 151,
+		["Hidden"] = false,
 		["isArena"] = true,
+		["Time"] = 1579527163,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = true,
 		["Version"] = 275,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -41308,13 +41308,6 @@ REFlexDatabase = {
 	}, -- [356]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["Time"] = 1579527489,
-		["PlayersNum"] = 4,
-		["Duration"] = 249,
-		["Season"] = 0,
-		["PlayerNum"] = 4,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -41393,12 +41386,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 249,
+		["Hidden"] = false,
 		["isArena"] = true,
+		["Time"] = 1579527489,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = true,
 		["Version"] = 275,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -41418,13 +41418,6 @@ REFlexDatabase = {
 	}, -- [357]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["Time"] = 1579527769,
-		["PlayersNum"] = 4,
-		["Duration"] = 157,
-		["Season"] = 0,
-		["PlayerNum"] = 4,
 		["Players"] = {
 			{
 				"Scíence-Area52", -- [1]
@@ -41503,12 +41496,19 @@ REFlexDatabase = {
 				19, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 157,
+		["Hidden"] = false,
 		["isArena"] = true,
+		["Time"] = 1579527769,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = true,
 		["Version"] = 275,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -41560,6 +41560,6 @@ REFlexHonorDatabase = {
 	[1549965600] = 2700,
 	[1578132000] = 3,
 	[1574330400] = 6,
-	[1579514400] = 1480,
+	[1579514400] = 1495,
 	[1572163200] = 120,
 }

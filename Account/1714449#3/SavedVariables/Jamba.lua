@@ -38,9 +38,9 @@ JambaTeamProfileDB = {
 	["profiles"] = {
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = false,
-				["Tosh-Kil'jaeden"] = true,
+				["Toshpal-Kil'jaeden"] = false,
+				["Toshaman-Kil'jaeden"] = true,
+				["Tosh-Kil'jaeden"] = false,
 				["Toshdk-Kil'Jaeden"] = false,
 			},
 			["characterClass"] = {
@@ -55,7 +55,7 @@ JambaTeamProfileDB = {
 				["Tosh-Kil'jaeden"] = 2,
 				["Toshdk-Kil'Jaeden"] = 4,
 			},
-			["master"] = "Tosh-Kil'jaeden",
+			["master"] = "Toshaman-Kil'jaeden",
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["master"] = "Toshaman-Kil'jaeden",
@@ -101,12 +101,12 @@ JambaTagProfileDB = {
 				["Toshaman-Kil'jaeden"] = {
 					"all", -- [1]
 					"justme", -- [2]
-					"minion", -- [3]
+					"master", -- [3]
 				},
 				["Tosh-Kil'jaeden"] = {
 					"all", -- [1]
 					"justme", -- [2]
-					"master", -- [3]
+					"minion", -- [3]
 				},
 				["Toshdk-Kil'Jaeden"] = {
 					"all", -- [1]

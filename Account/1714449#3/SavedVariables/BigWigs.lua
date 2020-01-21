@@ -103,20 +103,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
+					["posx"] = 705.589828854514,
+					["posy"] = 151.4641675439416,
 					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+					["width"] = 140.0001525878906,
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
@@ -156,10 +153,17 @@ BigWigs3DB = {
 					["BigWigsAnchor_height"] = 19.99998092651367,
 					["fontSizeEmph"] = 11,
 					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["texture"] = "ElvUI Norm",
 					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["texture"] = "ElvUI Norm",
 					["emphasizeMultiplier"] = 1,
 					["emphasizeMove"] = false,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
 				},
 			},
 		},
@@ -167,6 +171,14 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[300519] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296018] = 1032439,
+					[292963] = 1032439,
 				},
 			},
 		},
@@ -214,23 +226,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[296018] = 1032439,
-					[292963] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["LibDualSpec-1.0"] = {
-		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -238,13 +233,18 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 705.589828854514,
-					["posy"] = 151.4641675439416,
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
 					["fontName"] = "Friz Quadrata TT",
-					["width"] = 140.0001525878906,
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
 				},
 			},
 		},
@@ -280,15 +280,11 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 	[2164] = {
-		[2354] = {
+		[2361] = {
 			["heroic"] = {
-				["kills"] = 13,
-				["best"] = 199.0839999997988,
-				["wipes"] = 3,
-			},
-			["mythic"] = {
-				["best"] = 228.3759999999893,
-				["kills"] = 3,
+				["kills"] = 14,
+				["wipes"] = 10,
+				["best"] = 345.5990000000002,
 			},
 		},
 		[2351] = {
@@ -325,16 +321,15 @@ BigWigsStatsDB = {
 				["best"] = 204.0570000000007,
 			},
 		},
-		[2347] = {
-			["mythic"] = {
-				["kills"] = 12,
-				["wipes"] = 16,
-				["best"] = 206.0960000000196,
-			},
+		[2354] = {
 			["heroic"] = {
 				["kills"] = 13,
-				["best"] = 173.839999999851,
-				["wipes"] = 1,
+				["best"] = 199.0839999997988,
+				["wipes"] = 3,
+			},
+			["mythic"] = {
+				["best"] = 228.3759999999893,
+				["kills"] = 3,
 			},
 		},
 		[2359] = {
@@ -356,11 +351,16 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 		},
-		[2361] = {
+		[2347] = {
+			["mythic"] = {
+				["kills"] = 12,
+				["wipes"] = 16,
+				["best"] = 206.0960000000196,
+			},
 			["heroic"] = {
-				["kills"] = 14,
-				["wipes"] = 10,
-				["best"] = 345.5990000000002,
+				["kills"] = 13,
+				["best"] = 173.839999999851,
+				["wipes"] = 1,
 			},
 		},
 	},

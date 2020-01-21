@@ -2,13 +2,13 @@
 EncounterDetailsDB = {
 	["emotes"] = {
 		{
-			["boss"] = "Ring of Booty",
+			["boss"] = "Lord Harlan Sweete",
 		}, -- [1]
 		{
-			["boss"] = "Lord Harlan Sweete",
+			["boss"] = "Ring of Booty",
 		}, -- [2]
 		{
-			["boss"] = "Skycap'n Kragg",
+			["boss"] = "Council o' Captains",
 		}, -- [3]
 	},
 	["encounter_spells"] = {
@@ -14838,12 +14838,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'zith the Whisperer",
 		},
-		[284451] = {
-			["school"] = 8,
+		[287770] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Zaxasj the Speaker",
 		},
 		[116189] = {
 			["school"] = 1,
@@ -14870,13 +14871,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[287770] = {
-			["school"] = 32,
+		[300550] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Zaxasj the Speaker",
+			["source"] = "Silivaz the Zealous",
 		},
 		[284449] = {
 			["school"] = 2,
@@ -14886,13 +14887,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[300550] = {
-			["school"] = 16,
+		[284451] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Silivaz the Zealous",
+			["source"] = "Unknown",
 		},
 		[270117] = {
 			["school"] = 1,

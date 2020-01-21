@@ -24,12 +24,12 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["The Eternal Palace Mythic|381529031"] = "143907|1579474891|0|1",
+					["The Eternal Palace Mythic|381529031"] = "29829|1579588967|0|1",
 				},
-				["lastUpdate"] = 1579474933,
+				["lastUpdate"] = 1579589085,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1579510188,
+				["lastUpdate"] = 1579588921,
 			},
 		},
 	},

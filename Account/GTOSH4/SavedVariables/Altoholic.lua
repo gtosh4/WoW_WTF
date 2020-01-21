@@ -5,31 +5,32 @@ AltoholicDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Clients"] = {
-				"Tosh|1", -- [1]
-			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
-					["lastSharingTimestamp"] = 1556407707,
 					["lastUpdatedWith"] = "Tosh",
+					["lastSharingTimestamp"] = 1556407707,
 				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {
 			["UI.Mail.TimeToNextWarning"] = 12,
 			["Tabs.Grids.Default.Kil'jaeden.Column4"] = "Default.Kil'jaeden.Yorman",
 			["UI.Tabs.Characters.ViewVoidStorage"] = false,
+			["UI.Tabs.Search.IncludeGuildBankItems"] = false,
 			["UI.Tabs.Summary.CurrentLevelsMin"] = 120,
 			["UI.Tabs.Summary.ShowLevelDecimals"] = false,
 			["Tabs.Grids.Default.Kil'jaeden.Column1"] = "Default.Kil'jaeden.Toshpal",

@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Tosh",
+		["name"] = "Toshaman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -110,28 +110,9 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = true,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
+				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["kill boss this friday thankz."] = true,
 				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -160,20 +141,20 @@ BD_persistent = {
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
 				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
-				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
+				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["slay mekka friday and blockade saturday "] = true,
-				["main raid tonight slay stormwall :)"] = true,
+				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
+				["main raid tonight slay stormwall :)"] = true,
+				["slay mekka friday and blockade saturday "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
 				["RIP Toshmonk"] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -184,6 +165,26 @@ BD_persistent = {
 				["Make sure you are on for BoD its during raid time make sure you show up. "] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

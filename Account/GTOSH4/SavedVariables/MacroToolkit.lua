@@ -14,38 +14,38 @@ MacroToolkitDB = {
 			},
 		},
 	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
+		},
+	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "profile",
 		["Toshtrial - Blood Furnace"] = "profile",
 		["Daggny - Frostwolf"] = "profile",
 		["Tosku - Kil'jaeden"] = "profile",
-		["Koutetsu - Frostwolf"] = "profile",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "profile",
-		["Toshtrial - The Forgotten Coast"] = "profile",
-		["Tosh - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
+		["Koutetsu - Frostwolf"] = "profile",
+		["Toshtrial - The Forgotten Coast"] = "profile",
 		["Zallie - Frostwolf"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
-		["Toshdk - Kil'jaeden"] = "Default",
-	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
+		["Tosh - Kil'jaeden"] = "profile",
 	},
 	["profiles"] = {
 		["profile"] = {
 			["y"] = 913.5087280273438,
 			["x"] = 1013.919799804688,
 			["height"] = 431.000427246094,
+			["visbind"] = false,
 			["fonts"] = {
 				["edfont"] = "Ubuntu Condensed",
 				["mifont"] = "Ubuntu Condensed",
 				["mfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
-			["visbind"] = false,
 		},
 		["Default"] = {
 			["y"] = 687.874267578125,

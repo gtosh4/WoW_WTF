@@ -6,6 +6,8 @@ JambaItemUseProfileDB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -88,8 +90,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshdk - Kil'jaeden"] = {

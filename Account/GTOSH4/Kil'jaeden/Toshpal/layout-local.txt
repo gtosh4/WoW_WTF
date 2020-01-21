@@ -90,13 +90,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: 5
-Y: -354
-W: 510
-H: 22
 Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
@@ -118,3 +111,10 @@ X: 622
 Y: -213
 W: 716
 H: 505
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: 5
+Y: -354
+W: 510
+H: 22

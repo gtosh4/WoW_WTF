@@ -82,91 +82,111 @@ DataStore_GarrisonsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1579474933,
+				["lastUpdate"] = 1579589010,
 				["AvailableWarCampaignMissions"] = {
-					1933, -- [1]
-					1959, -- [2]
-					2081, -- [3]
-					2154, -- [4]
+					1935, -- [1]
+					2150, -- [2]
 				},
 				["ActiveWarCampaignMissions"] = {
-					1930, -- [1]
-					1952, -- [2]
-					2158, -- [3]
+					1919, -- [1]
+					2161, -- [2]
+				},
+				["MissionsInfo"] = {
+					[2161] = {
+						["successChance"] = 195,
+						["followers"] = {
+							1065, -- [1]
+							1182, -- [2]
+							1070, -- [3]
+						},
+					},
+					[1921] = {
+						["successChance"] = 150,
+						["followers"] = {
+							1068, -- [1]
+							1069, -- [2]
+							1062, -- [3]
+						},
+					},
+					[1919] = {
+						["successChance"] = 200,
+						["followers"] = {
+							1068, -- [1]
+							1069, -- [2]
+							1064, -- [3]
+						},
+					},
+				},
+				["MissionsStartTimes"] = {
+					[1919] = 1579589009,
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1579509776,
+				["lastUpdate"] = 1579588869,
 				["AvailableWarCampaignMissions"] = {
-					1934, -- [1]
-					1921, -- [2]
-					2156, -- [3]
-					1946, -- [4]
+					1959, -- [1]
 				},
 				["ActiveWarCampaignMissions"] = {
-					1935, -- [1]
-					2158, -- [2]
-				},
-				["MissionsInfo"] = {
-					[2158] = {
-						["successChance"] = 172,
-						["followers"] = {
-							1065, -- [1]
-							1072, -- [2]
-							1071, -- [3]
-						},
-					},
-					[1935] = {
-						["successChance"] = 180,
-						["followers"] = {
-							1068, -- [1]
-							1062, -- [2]
-							1073, -- [3]
-						},
-					},
+					2158, -- [1]
+					2085, -- [2]
+					2146, -- [3]
 				},
 			},
 		},
 		["Reference"] = {
 			["MissionInfos"] = {
-				[1921] = {
-					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 20,
+				[2161] = {
+					["durationSeconds"] = 259200,
+					["type"] = "8.2 Azerite Essence - Treasure",
+					["cost"] = 250,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 266,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
+							["itemID"] = 171986,
+							["quantity"] = 1,
 						}, -- [1]
 					},
 					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["typeAtlas"] = "BfAMission-Icon-Treasure",
 					["iLevel"] = 800,
+				},
+				[1681] = {
+					["durationSeconds"] = 57600,
+					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
+					["cost"] = 500,
+					["iLevel"] = 900,
+					["level"] = 110,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["rewards"] = {
+						{
+							["itemID"] = 147501,
+							["quantity"] = 1,
+						}, -- [1]
+					},
 				},
 				[1059] = {
 					["durationSeconds"] = 18000,
 					["type"] = "7.0 Class Hall - Treasure Missions",
 					["cost"] = 200,
 					["iLevel"] = 760,
+					["level"] = 108,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
 							["itemID"] = 147348,
 							["quantity"] = 1,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 108,
 				},
-				[2156] = {
-					["durationSeconds"] = 28800,
+				[1921] = {
+					["durationSeconds"] = 7200,
 					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
+					["cost"] = 20,
 					["rewards"] = {
 						{
-							["itemID"] = 168327,
-							["quantity"] = 1,
+							["title"] = "Currency Reward",
+							["quantity"] = 262,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -178,43 +198,45 @@ DataStore_GarrisonsDB = {
 					["type"] = "7.0 Class Hall - Treasure Missions",
 					["cost"] = 300,
 					["iLevel"] = 760,
+					["level"] = 109,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["rewards"] = {
 						{
 							["itemID"] = 147348,
 							["quantity"] = 1,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 109,
 				},
-				[1934] = {
+				[1919] = {
 					["durationSeconds"] = 14400,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 20,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 125,
-							["icon"] = 2032593,
-							["currencyID"] = 1600,
+							["quantity"] = 228,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
 						}, -- [1]
 					},
 					["level"] = 120,
 					["typeAtlas"] = "BfAMission-Icon-Normal",
 					["iLevel"] = 800,
 				},
-				[2158] = {
-					["durationSeconds"] = 259200,
-					["type"] = "8.2 Azerite Essence - Treasure",
-					["cost"] = 250,
+				[2150] = {
+					["durationSeconds"] = 86400,
+					["type"] = "8.2 - Deep Sea",
+					["cost"] = 40,
 					["rewards"] = {
 						{
-							["itemID"] = 171985,
-							["quantity"] = 1,
+							["title"] = "Currency Reward",
+							["quantity"] = 8,
+							["icon"] = 463858,
+							["currencyID"] = 1721,
 						}, -- [1]
 					},
 					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Treasure",
+					["typeAtlas"] = "BfAMission-Icon-DeepSea",
 					["iLevel"] = 800,
 				},
 				[1346] = {
@@ -222,6 +244,8 @@ DataStore_GarrisonsDB = {
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 100,
 					["iLevel"] = 760,
+					["level"] = 110,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
 							["title"] = "Bonus Follower XP",
@@ -231,35 +255,17 @@ DataStore_GarrisonsDB = {
 							["name"] = "+3,000 XP",
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 110,
 				},
 				[1935] = {
-					["durationSeconds"] = 21600,
+					["durationSeconds"] = 43200,
 					["type"] = "8.0 - Generic Missions",
 					["cost"] = 40,
 					["rewards"] = {
 						{
 							["title"] = "Money Reward",
-							["quantity"] = 1126200,
+							["quantity"] = 1278100,
 							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
 							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Normal",
-					["iLevel"] = 800,
-				},
-				[1946] = {
-					["durationSeconds"] = 115200,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 40,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 225,
-							["icon"] = 2032597,
-							["currencyID"] = 1595,
 						}, -- [1]
 					},
 					["level"] = 120,
@@ -271,6 +277,8 @@ DataStore_GarrisonsDB = {
 					["type"] = "7.0 Class Hall - Generic Missions",
 					["cost"] = 300,
 					["iLevel"] = 760,
+					["level"] = 102,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["rewards"] = {
 						{
 							["icon"] = 236521,
@@ -279,22 +287,6 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 1533,
 						}, -- [1]
 					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["level"] = 102,
-				},
-				[1681] = {
-					["durationSeconds"] = 57600,
-					["type"] = "7.0 Class Hall - Treasure Missions - Raid",
-					["cost"] = 500,
-					["iLevel"] = 900,
-					["rewards"] = {
-						{
-							["itemID"] = 147501,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["level"] = 110,
 				},
 			},
 			["FollowerNamesToID"] = {
@@ -344,25 +336,25 @@ DataStore_GarrisonsDB = {
 				["Bruto"] = 176,
 				["Garona Halforcen"] = 466,
 				["Pallas"] = 580,
-				["Chen Stormstout"] = 596,
+				["Squad of Squires"] = 674,
 				["Dagg"] = 32,
 				["Zen'tika"] = 263,
 				["Vivianne"] = 216,
 				["Arator the Redeemer"] = 758,
 				["Keeper Remulos"] = 646,
 				["Tormmok"] = 193,
-				["Fen Tao"] = 467,
+				["Lothraxion"] = 759,
 				["Angus Ironfist"] = 605,
 				["Brewer Almai"] = 998,
 				["Benjamin Gibb"] = 204,
 				["Weaponsmith Na'Shra"] = 179,
 				["Croman"] = 177,
-				["Morketh Bladehowl"] = 155,
+				["Meatball"] = 986,
 				["Choluna"] = 217,
 				["Mulverick"] = 182,
 				["Brightwing"] = 645,
 				["Lady Liadrin"] = 478,
-				["Leeroy Jenkins"] = 178,
+				["Morketh Bladehowl"] = 155,
 				["Gronnstalker Rokash"] = 183,
 				["Zen'tabra"] = 640,
 				["Spirit of Bony Xuk"] = 212,
@@ -380,11 +372,11 @@ DataStore_GarrisonsDB = {
 				["Professor Felblast"] = 460,
 				["Blook"] = 189,
 				["Aponi Brightmane"] = 757,
-				["Meatball"] = 986,
+				["Leeroy Jenkins"] = 178,
 				["Karg Bloodfury"] = 459,
-				["Lothraxion"] = 759,
+				["Fen Tao"] = 467,
 				["Taran Zhu"] = 603,
-				["Squad of Squires"] = 674,
+				["Chen Stormstout"] = 596,
 				["Justicar Julia Celeste"] = 755,
 				["Penny Clobberbottom"] = 211,
 				["Image of Archmage Vargoth"] = 190,
