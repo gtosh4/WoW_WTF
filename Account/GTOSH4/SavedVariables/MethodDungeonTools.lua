@@ -22,6 +22,9 @@ MethodDungeonToolsDB = {
 		["presets"] = {
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -35,9 +38,6 @@ MethodDungeonToolsDB = {
 								["color"] = "228b22",
 							}, -- [1]
 						},
-					},
-					["week"] = 6,
-					["objects"] = {
 					},
 				}, -- [1]
 			}, -- [1]
@@ -100,6 +100,9 @@ MethodDungeonToolsDB = {
 			}, -- [16]
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -113,9 +116,6 @@ MethodDungeonToolsDB = {
 								["color"] = "228b22",
 							}, -- [1]
 						},
-					},
-					["week"] = 6,
-					["objects"] = {
 					},
 				}, -- [1]
 			}, -- [17]
@@ -164,6 +164,9 @@ MethodDungeonToolsDB = {
 			}, -- [19]
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -178,13 +181,13 @@ MethodDungeonToolsDB = {
 							}, -- [1]
 						},
 					},
-					["week"] = 6,
-					["objects"] = {
-					},
 				}, -- [1]
 			}, -- [20]
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -198,9 +201,6 @@ MethodDungeonToolsDB = {
 								["color"] = "228b22",
 							}, -- [1]
 						},
-					},
-					["week"] = 6,
-					["objects"] = {
 					},
 				}, -- [1]
 			}, -- [21]
@@ -236,6 +236,9 @@ MethodDungeonToolsDB = {
 			}, -- [22]
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -250,13 +253,13 @@ MethodDungeonToolsDB = {
 							}, -- [1]
 						},
 					},
-					["week"] = 6,
-					["objects"] = {
-					},
 				}, -- [1]
 			}, -- [23]
 			{
 				{
+					["objects"] = {
+					},
+					["week"] = 6,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -270,9 +273,6 @@ MethodDungeonToolsDB = {
 								["color"] = "228b22",
 							}, -- [1]
 						},
-					},
-					["week"] = 6,
-					["objects"] = {
 					},
 				}, -- [1]
 			}, -- [24]

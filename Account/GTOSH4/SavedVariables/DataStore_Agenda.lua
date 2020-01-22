@@ -18,11 +18,11 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-01-21",
+			["NextWeeklyReset"] = "2020-01-28",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1579588930,
+				["lastUpdate"] = 1579654138,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -39,10 +39,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1554968622,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["The Eternal Palace Mythic|381529031"] = "29829|1579588968|0|1",
-				},
-				["lastUpdate"] = 1579589071,
+				["lastUpdate"] = 1579662696,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1562529857,

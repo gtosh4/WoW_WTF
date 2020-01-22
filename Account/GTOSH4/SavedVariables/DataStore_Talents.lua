@@ -17,7 +17,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1579588820,
+				["lastUpdate"] = 1579653837,
 				["Specializations"] = {
 					6762, -- [1]
 					[3] = 11770,
@@ -49,7 +49,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1579588966,
+				["lastUpdate"] = 1579662694,
 				["Specializations"] = {
 					5993, -- [1]
 					7065, -- [2]
@@ -245,7 +245,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33084,
+			["Version"] = 33095,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",

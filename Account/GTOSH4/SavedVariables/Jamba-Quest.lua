@@ -12,6 +12,10 @@ JambaQuestProfileDB = {
 			["masterAutoShareQuestOnAccept"] = true,
 		},
 		["Default"] = {
+			["onlyAcceptQuestsFrom"] = true,
+			["acceptFromTeam"] = true,
+			["doNotAutoAccept"] = false,
+			["masterAutoShareQuestOnAccept"] = true,
 		},
 	},
 }

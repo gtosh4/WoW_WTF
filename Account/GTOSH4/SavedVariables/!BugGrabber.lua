@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1609,
+	["session"] = 1621,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Altoholic_Search\\TabSearch.lua:47: attempt to call global 'GetAuctionItemSubClasses' (a nil value)",
@@ -56,5 +56,27 @@ BugGrabberDB = {
 			["session"] = 1603,
 			["counter"] = 1,
 		}, -- [7]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/01/21 13:56:59",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1613,
+			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
+			["time"] = "2020/01/21 21:46:48",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:39: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\SpellBookFrame.lua\"]:510: in function `SpellButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n[string \"=[C]\"]: ?",
+			["session"] = 1621,
+			["counter"] = 1,
+		}, -- [9]
+		{
+			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
+			["time"] = "2020/01/21 22:01:59",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
+			["session"] = 1621,
+			["counter"] = 10,
+		}, -- [10]
 	},
 }
