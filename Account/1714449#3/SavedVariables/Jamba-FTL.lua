@@ -47,7 +47,7 @@ JambaFTLProfileDB = {
 					["rshift"] = false,
 					["lalt"] = false,
 				},
-				["Tosh-Kil'jaeden"] = {
+				["Toshdk-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -57,6 +57,15 @@ JambaFTLProfileDB = {
 					["lalt"] = false,
 				},
 				["Toshdk-Kil'Jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Tosh-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,

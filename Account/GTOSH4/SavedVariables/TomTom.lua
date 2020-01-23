@@ -5,14 +5,14 @@ TomTomDB = {
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -38,14 +38,14 @@ TomTomWaypointsM = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -56,9 +56,13 @@ TomTomWaypointsM = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -70,9 +74,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -86,15 +90,11 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
 		["Zallie - Frostwolf"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Toshdk - Kil'jaeden"] = {
 		},
 	},
 }

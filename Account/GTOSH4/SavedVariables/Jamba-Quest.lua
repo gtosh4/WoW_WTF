@@ -13,9 +13,9 @@ JambaQuestProfileDB = {
 		},
 		["Default"] = {
 			["onlyAcceptQuestsFrom"] = true,
+			["showJambaQuestLogWithWoWQuestLog"] = false,
 			["acceptFromTeam"] = true,
 			["doNotAutoAccept"] = false,
-			["masterAutoShareQuestOnAccept"] = true,
 		},
 	},
 }

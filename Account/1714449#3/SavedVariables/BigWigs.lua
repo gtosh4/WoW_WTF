@@ -47,6 +47,14 @@ BigWigs3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
+		["BigWigs_Bosses_Abyssal Commander Sivara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296551] = 1032439,
+					[295332] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Bosses_Uu'nat, Harbinger of the Void"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -59,59 +67,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
+		["BigWigs_Bosses_Radiance of Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[296018] = 1032439,
-					[292963] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
-					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
-					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
-					["BWMessageAnchor_y"] = 655.466431210996,
-					["BWMessageAnchor_x"] = 869.869754919746,
-					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
-				},
-			},
-		},
-		["BigWigs_Bosses_Champion of the Light Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[284474] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Bosses_Blackwater Behemoth"] = {
-			["profiles"] = {
-				["Default"] = {
-					[292270] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Abyssal Commander Sivara"] = {
-			["profiles"] = {
-				["Default"] = {
-					[296551] = 1032439,
-					[295332] = 1032439,
+					[296737] = 1032439,
+					[296894] = 1032439,
 				},
 			},
 		},
@@ -131,13 +91,31 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Radiance of Azshara"] = {
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Blackwater Behemoth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[296737] = 1032439,
-					[296894] = 1032439,
+					[292270] = 1032439,
 				},
 			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BWEmphasizeCountdownMessageAnchor_y"] = 611.213599675772,
+					["BWEmphasizeMessageAnchor_x"] = 866.670215424841,
+					["BWEmphasizeCountdownMessageAnchor_x"] = 907.201014098471,
+					["BWMessageAnchor_y"] = 655.466431210996,
+					["BWMessageAnchor_x"] = 869.869754919746,
+					["fontName"] = "Friz Quadrata TT",
+					["BWEmphasizeMessageAnchor_y"] = 574.406851966698,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
@@ -154,6 +132,8 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -188,6 +168,28 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_Queen Azshara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[300519] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296018] = 1032439,
+					[292963] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
+				},
+			},
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -233,16 +235,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Queen Azshara"] = {
-			["profiles"] = {
-				["Default"] = {
-					[300519] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -251,6 +244,13 @@ BigWigs3DB = {
 					["posy"] = 151.4641675439416,
 					["fontName"] = "Friz Quadrata TT",
 					["width"] = 140.0001525878906,
+				},
+			},
+		},
+		["BigWigs_Bosses_Champion of the Light Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[284474] = 1032439,
 				},
 			},
 		},
@@ -280,11 +280,15 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 	[2164] = {
-		[2361] = {
+		[2354] = {
 			["heroic"] = {
-				["kills"] = 14,
-				["wipes"] = 10,
-				["best"] = 345.5990000000002,
+				["kills"] = 13,
+				["best"] = 199.0839999997988,
+				["wipes"] = 3,
+			},
+			["mythic"] = {
+				["best"] = 228.3759999999893,
+				["kills"] = 3,
 			},
 		},
 		[2351] = {
@@ -321,15 +325,16 @@ BigWigsStatsDB = {
 				["best"] = 204.0570000000007,
 			},
 		},
-		[2354] = {
+		[2347] = {
+			["mythic"] = {
+				["kills"] = 12,
+				["wipes"] = 16,
+				["best"] = 206.0960000000196,
+			},
 			["heroic"] = {
 				["kills"] = 13,
-				["best"] = 199.0839999997988,
-				["wipes"] = 3,
-			},
-			["mythic"] = {
-				["best"] = 228.3759999999893,
-				["kills"] = 3,
+				["best"] = 173.839999999851,
+				["wipes"] = 1,
 			},
 		},
 		[2359] = {
@@ -351,16 +356,11 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 		},
-		[2347] = {
-			["mythic"] = {
-				["kills"] = 12,
-				["wipes"] = 16,
-				["best"] = 206.0960000000196,
-			},
+		[2361] = {
 			["heroic"] = {
-				["kills"] = 13,
-				["best"] = 173.839999999851,
-				["wipes"] = 1,
+				["kills"] = 14,
+				["wipes"] = 10,
+				["best"] = 345.5990000000002,
 			},
 		},
 	},
