@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1634,
+	["session"] = 1638,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -65,20 +65,13 @@ BugGrabberDB = {
 			["counter"] = 10,
 		}, -- [8]
 		{
-			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
-			["time"] = "2020/01/21 13:56:59",
-			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
-			["session"] = 1626,
-			["counter"] = 2,
-		}, -- [9]
-		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_BIDDER_LIST_UPDATE\"",
 			["time"] = "2020/01/22 23:14:32",
 			["locals"] = "(*temporary) = AceEvent30Frame {\n 0 = <userdata>\n}\n(*temporary) = \"AUCTION_BIDDER_LIST_UPDATE\"\n",
 			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1632,
 			["counter"] = 2,
-		}, -- [10]
+		}, -- [9]
 		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
 			["time"] = "2020/01/22 23:14:32",
@@ -86,21 +79,21 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1632,
 			["counter"] = 4,
-		}, -- [11]
+		}, -- [10]
 		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:37: Attempt to unregister unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
 			["time"] = "2020/01/22 23:14:50",
 			["stack"] = "[string \"=[C]\"]: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:37: in function `OnUnused'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:164: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\DataStore_Auctions\\DataStore_Auctions-r51.lua\"]:233: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1632,
 			["counter"] = 4,
-		}, -- [12]
+		}, -- [11]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
 			["time"] = "2020/01/21 21:46:48",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:39: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\SpellBookFrame.lua\"]:510: in function `SpellButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n[string \"=[C]\"]: ?",
 			["session"] = 1632,
 			["counter"] = 2,
-		}, -- [13]
+		}, -- [12]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/01/22 23:13:42",
@@ -108,6 +101,29 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 1632,
 			["counter"] = 11,
+		}, -- [13]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/01/21 13:56:59",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1635,
+			["counter"] = 3,
 		}, -- [14]
+		{
+			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
+			["time"] = "2020/01/23 18:09:25",
+			["locals"] = "(*temporary) = \"Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetSpellsDisplay'\n[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents-Talents.lua\"]:158: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:142>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `PlayerTalentFrame_UpdateSpecFrame'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:417: in function `PlayerTalentFrame_Refresh'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>",
+			["session"] = 1638,
+			["counter"] = 1,
+		}, -- [15]
+		{
+			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:7610: script ran too long",
+			["time"] = "2020/01/23 18:27:59",
+			["locals"] = "(*temporary) = <table> {\n GetTTD = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:619\n DeserializeStyle = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8472\n modules = <table> {\n }\n EmbedAbilityOptions = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3409\n Scripts = <table> {\n }\n GetDeathClockByGUID = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:604\n After = <function> defined @Interface\\AddOns\\Hekili\\Utils.lua:265\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n UpdateDisplayVisibility = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1498\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n KeybindInfo = <table> {\n }\n RemoveHold = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5445\n CreateCustomDisplay = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1447\n ToggleHold = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5470\n SpecializationChanged = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:4648\n UpdateUseItems = <function> defined @Interface\\AddOns\\Hekili\\Events.lua:503\n SetSpecOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3323\n GetDefaults = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:490\n dumpKeyCache = <table> {\n }\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n GetDisplayByName = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:1036\n Options = <table> {\n }\n ReInitialize = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:169\n GetAbilityInfo = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:4595\n State = <table> {\n }\n OnEnable = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:193\n RestoreDefault = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:724\n CmdLine = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8208\n IsDisplayActive = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1595\n ImporterData = <table> {\n }\n ShowDiagnosticTooltip = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:2167\n Notify = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:9074\n OnInitialize = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:58\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n GetErrors = <function> defined @Interface\\AddOns\\Hekili\\Utils.lua:38\n AuditorStalled = true\n SetPackShareOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3307\n CreateButton = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1630\n ReleaseHolds = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5502\n Deserialize = <function> defined @Interface\\AddOns\\DataStore\\libs\\AceSerializer-3.0\\AceSerializer-3.0.lua:246\n GetGreatestTTD = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:697\n SetSpecPref = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3362\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n GetOptions = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:7304\n GetSpec = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:4896\n SerializeDisplay = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8369\n name = \"Hekili\"\n ExpireTTDs = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:809\n EmbedPackOptions = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:4471\n NewSpecialization = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:766\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n GetOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:7613\n auditInterval = 0\n GetNextPrediction = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:971\n currentSpec = <table> {\n }\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n currentSpecOpts = <table> {\n }\n ImportSimcAPL = <function> defined @Interface\\AddOns\\Hekili",
+			["stack"] = "[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:7610: in function `RefreshOptions'\n[string \"@Interface\\AddOns\\Hekili\\Classes.lua\"]:4891: in function `SpecializationChanged'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:240: in function `handler'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:60: in function <Interface\\AddOns\\Hekili\\Events.lua:54>",
+			["session"] = 1638,
+			["counter"] = 2,
+		}, -- [16]
 	},
 }

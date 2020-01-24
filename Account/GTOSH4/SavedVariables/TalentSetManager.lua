@@ -424,6 +424,21 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Toshtrial-The Forgotten Coast"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshtrial-Blood Furnace"] = {
 		["talents_pvp"] = {
 		},
@@ -434,21 +449,6 @@ TalentSetManager_CharacterSaves = {
 			}, -- [2]
 			{
 			}, -- [3]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Daggny-Frostwolf"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			[3] = {
-			},
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -487,12 +487,12 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-The Forgotten Coast"] = {
+	["Daggny-Frostwolf"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
-			{
-			}, -- [1]
+			[3] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {

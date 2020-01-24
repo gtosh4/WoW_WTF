@@ -8,10 +8,6 @@ REFlexSettings = {
 	["CurrentTab"] = 1,
 	["LDBMode"] = 3,
 	["Toasts"] = true,
-	["LDBSide"] = "A",
-	["ArenaStatsLimit"] = 3,
-	["ConfigVersion"] = 263,
-	["FirstTime"] = false,
 	["Filters"] = {
 		["Map"] = 1,
 		["Bracket"] = 1,
@@ -23,6 +19,10 @@ REFlexSettings = {
 		["Season"] = 0,
 		["DateMode"] = 1,
 	},
+	["ArenaStatsLimit"] = 3,
+	["FirstTime"] = false,
+	["ConfigVersion"] = 263,
+	["LDBSide"] = "A",
 }
 REFlexDatabase = {
 	{
@@ -106,18 +106,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563872999,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563872999,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -216,18 +216,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 166,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563873290,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563873290,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -326,18 +326,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 92,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563873531,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563873531,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -436,18 +436,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 67,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563873748,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563873748,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -546,18 +546,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 176,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563874015,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563874015,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -656,18 +656,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 122,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563874224,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563874224,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -766,18 +766,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 255,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563874570,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563874570,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -876,18 +876,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 163,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1563874816,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1563874816,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -907,6 +907,171 @@ REFlexDatabase = {
 	}, -- [8]
 	{
 		["Map"] = 566,
+		["Hidden"] = false,
+		["StatsNum"] = 1,
+		["Season"] = 28,
+		["PlayersNum"] = 30,
+		["Duration"] = 670,
+		["PlayerNum"] = 5,
+		["isArena"] = false,
+		["Time"] = 1564522942,
+		["isBrawl"] = false,
+		["Version"] = 274,
+		["isRated"] = false,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["PlayersStats"] = {
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [1]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [2]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [3]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [4]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [6]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [8]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [10]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [11]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [12]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [13]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [15]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [17]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [19]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [20]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [21]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [22]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [23]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [24]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [25]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [26]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [27]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+			}, -- [28]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [29]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [30]
+		},
 		["Players"] = {
 			{
 				"Zuluhand-Azralon", -- [1]
@@ -1479,175 +1644,22 @@ REFlexDatabase = {
 				12, -- [17]
 			}, -- [30]
 		},
-		["StatsNum"] = 1,
-		["Version"] = 274,
-		["PlayersNum"] = 30,
-		["Duration"] = 670,
-		["PlayerNum"] = 5,
-		["isBrawl"] = false,
-		["PlayersStats"] = {
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [1]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [2]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [3]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [4]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [5]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [6]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [7]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [8]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [9]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [10]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [11]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [12]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [13]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [14]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [15]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [16]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [17]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [18]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [19]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [20]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [21]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [22]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [23]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [24]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [25]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [26]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [27]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-			}, -- [28]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [29]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [30]
-		},
-		["isArena"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = false,
-		["Time"] = 1564522942,
-		["Winner"] = 0,
-		["Season"] = 28,
-		["Hidden"] = false,
 	}, -- [9]
 	{
 		["Map"] = 2118,
 		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 79,
+		["Duration"] = 687,
+		["Season"] = 28,
+		["PlayerNum"] = 76,
+		["PlayerSide"] = 0,
+		["isArena"] = false,
+		["Time"] = 1564523486,
+		["isRated"] = false,
+		["Version"] = 274,
+		["Winner"] = 0,
+		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Falystix-Dalaran", -- [1]
@@ -3151,18 +3163,6 @@ REFlexDatabase = {
 				15, -- [17]
 			}, -- [79]
 		},
-		["PlayersNum"] = 79,
-		["Duration"] = 687,
-		["Season"] = 28,
-		["isArena"] = false,
-		["Time"] = 1564523486,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = false,
-		["Version"] = 274,
-		["Winner"] = 0,
-		["PlayerNum"] = 76,
-		["Hidden"] = false,
 	}, -- [10]
 	{
 		["Map"] = 1825,
@@ -3283,18 +3283,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 56,
-		["PlayerNum"] = 6,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1565064855,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1565064855,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3431,18 +3431,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 113,
-		["PlayerNum"] = 6,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1565065051,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565065051,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3579,18 +3579,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 169,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1565065305,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565065305,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3727,18 +3727,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 46,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565576662,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565576662,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3875,18 +3875,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 86,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565576864,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565576864,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4023,18 +4023,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 68,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565577039,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1565577039,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4171,18 +4171,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 55,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565577198,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1565577198,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4319,18 +4319,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 43,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565577328,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565577328,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4467,18 +4467,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 37,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565577451,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565577451,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4615,18 +4615,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 57,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1565577591,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1565577591,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4763,18 +4763,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 140,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565577816,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4911,18 +4911,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 80,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565577978,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5059,18 +5059,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 141,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565578212,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5207,18 +5207,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 49,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565578635,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5336,18 +5336,18 @@ REFlexDatabase = {
 			}, -- [5]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 5,
 		["Duration"] = 125,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565578861,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5484,18 +5484,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 63,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565579083,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5632,18 +5632,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 176,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565579354,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5780,18 +5780,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 85,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565579561,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5928,18 +5928,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 77,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565579771,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6076,18 +6076,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 78,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565579943,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6224,18 +6224,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 75,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565580122,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6372,18 +6372,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["PlayersNum"] = 6,
 		["Duration"] = 75,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 274,
 		["isBrawl"] = false,
 		["Time"] = 1565580290,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6403,441 +6403,6 @@ REFlexDatabase = {
 	}, -- [32]
 	{
 		["Map"] = 1105,
-		["Hidden"] = false,
-		["StatsNum"] = 4,
-		["Season"] = 28,
-		["PlayersNum"] = 30,
-		["Duration"] = 964,
-		["PlayerNum"] = 26,
-		["isArena"] = false,
-		["Version"] = 274,
-		["isBrawl"] = false,
-		["PlayersStats"] = {
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [1]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [2]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [3]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [4]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [5]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [6]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [7]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [8]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [9]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [10]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [11]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [12]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [13]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [14]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [15]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					2, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [16]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					2, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [17]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					1, -- [1]
-				}, -- [4]
-			}, -- [18]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [19]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [20]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [21]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [22]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [23]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [24]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					3, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [25]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [26]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [27]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [28]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-				{
-					1, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [29]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-				{
-					0, -- [1]
-				}, -- [3]
-				{
-					0, -- [1]
-				}, -- [4]
-			}, -- [30]
-		},
-		["isRated"] = false,
-		["Time"] = 1578549198,
-		["Winner"] = 0,
-		["PlayerSide"] = 0,
 		["Players"] = {
 			{
 				"Axxý-Proudmoore", -- [1]
@@ -7410,174 +6975,444 @@ REFlexDatabase = {
 				13, -- [17]
 			}, -- [30]
 		},
-	}, -- [33]
-	{
-		["Map"] = 566,
-		["Hidden"] = false,
-		["StatsNum"] = 1,
-		["Season"] = 28,
+		["StatsNum"] = 4,
+		["PlayerSide"] = 0,
 		["PlayersNum"] = 30,
-		["Duration"] = 740,
-		["PlayerNum"] = 12,
+		["Duration"] = 964,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1578549198,
 		["isArena"] = false,
 		["Version"] = 274,
-		["isBrawl"] = true,
+		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
-					1, -- [1]
+					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [1]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [2]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [3]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [4]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [5]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [6]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [7]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [8]
 			{
 				{
-					3, -- [1]
+					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [9]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [10]
 			{
 				{
-					1, -- [1]
+					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [11]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [12]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [13]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [14]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [15]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					2, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [16]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					2, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [17]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					1, -- [1]
+				}, -- [4]
 			}, -- [18]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [19]
 			{
 				{
-					0, -- [1]
+					1, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [20]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [21]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [22]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [23]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [24]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					3, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [25]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [26]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [27]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [28]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+				{
+					1, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [29]
 			{
 				{
 					0, -- [1]
 				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+				{
+					0, -- [1]
+				}, -- [3]
+				{
+					0, -- [1]
+				}, -- [4]
 			}, -- [30]
 		},
-		["isRated"] = false,
-		["Time"] = 1578550387,
 		["Winner"] = 0,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 26,
+		["Season"] = 28,
+	}, -- [33]
+	{
+		["Map"] = 566,
 		["Players"] = {
 			{
 				"Fudgeey-Illidan", -- [1]
@@ -8150,22 +7985,175 @@ REFlexDatabase = {
 				8, -- [17]
 			}, -- [30]
 		},
+		["StatsNum"] = 1,
+		["PlayerSide"] = 0,
+		["PlayersNum"] = 30,
+		["Duration"] = 740,
+		["Hidden"] = false,
+		["isBrawl"] = true,
+		["Time"] = 1578550387,
+		["isArena"] = false,
+		["Version"] = 274,
+		["isRated"] = false,
+		["PlayersStats"] = {
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [1]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [2]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [3]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [4]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [6]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [8]
+			{
+				{
+					3, -- [1]
+				}, -- [1]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [10]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [11]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [12]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [13]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [15]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [17]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [19]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [20]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [21]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [22]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [23]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [24]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [25]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [26]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [27]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [28]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [29]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [30]
+		},
+		["Winner"] = 0,
+		["PlayerNum"] = 12,
+		["Season"] = 28,
 	}, -- [34]
 	{
 		["Map"] = 2118,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
-		["PlayersNum"] = 80,
-		["Duration"] = 397,
-		["Season"] = 28,
-		["PlayerNum"] = 41,
-		["PlayerSide"] = 0,
-		["isArena"] = false,
-		["Time"] = 1578651246,
-		["isRated"] = false,
-		["Version"] = 274,
-		["Winner"] = 0,
-		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Lukamodric-Dalaran", -- [1]
@@ -9688,184 +9676,21 @@ REFlexDatabase = {
 				5, -- [17]
 			}, -- [80]
 		},
+		["PlayersNum"] = 80,
+		["Duration"] = 397,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1578651246,
+		["isArena"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
+		["Version"] = 274,
+		["Winner"] = 0,
+		["PlayerNum"] = 41,
+		["Season"] = 28,
 	}, -- [35]
 	{
 		["Map"] = 2106,
-		["Hidden"] = false,
-		["StatsNum"] = 2,
-		["Season"] = 28,
-		["PlayersNum"] = 20,
-		["Duration"] = 614,
-		["PlayerNum"] = 7,
-		["isArena"] = false,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Time"] = 1578657496,
-		["isRated"] = false,
-		["PlayersStats"] = {
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [1]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [2]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [3]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [4]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [5]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [6]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [7]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [8]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-			}, -- [9]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					2, -- [1]
-				}, -- [2]
-			}, -- [10]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [11]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [12]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [13]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [14]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [15]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [16]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [17]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [18]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [19]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [20]
-		},
-		["Winner"] = 1,
-		["Version"] = 274,
 		["Players"] = {
 			{
 				"Volkii-Tichondrius", -- [1]
@@ -10248,6 +10073,181 @@ REFlexDatabase = {
 				13, -- [17]
 			}, -- [20]
 		},
+		["StatsNum"] = 2,
+		["Version"] = 274,
+		["PlayersNum"] = 20,
+		["Duration"] = 614,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayersStats"] = {
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [1]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [2]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [3]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [4]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [6]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [8]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					2, -- [1]
+				}, -- [2]
+			}, -- [10]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [11]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [12]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [13]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [15]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [17]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [19]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [20]
+		},
+		["isArena"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
+		["Time"] = 1578657496,
+		["Winner"] = 1,
+		["PlayerNum"] = 7,
+		["Season"] = 28,
 	}, -- [36]
 	{
 		["Map"] = 617,
@@ -10330,18 +10330,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 56,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578657943,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10440,18 +10440,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 78,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658140,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10550,18 +10550,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 47,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658314,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10660,18 +10660,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 36,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658432,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10770,18 +10770,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 59,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658576,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10880,18 +10880,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 48,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658741,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10990,18 +10990,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 51,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578658940,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11100,18 +11100,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 55,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578659109,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11210,18 +11210,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 59,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578659294,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11320,18 +11320,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 62,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578659477,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11430,18 +11430,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 84,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578659881,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11540,18 +11540,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 290,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578660312,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11650,18 +11650,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 87,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578660575,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11760,18 +11760,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 83,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578660754,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11870,18 +11870,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 165,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578661041,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11980,18 +11980,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 48,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 274,
 		["isArena"] = true,
 		["Time"] = 1578661201,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12011,181 +12011,6 @@ REFlexDatabase = {
 	}, -- [52]
 	{
 		["Map"] = 761,
-		["PlayerNum"] = 15,
-		["StatsNum"] = 2,
-		["Hidden"] = false,
-		["PlayersNum"] = 20,
-		["Duration"] = 1003,
-		["Season"] = 28,
-		["isArena"] = false,
-		["PlayersStats"] = {
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [1]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [2]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [3]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [4]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [5]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [6]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [7]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [8]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [9]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [10]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-			}, -- [11]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [12]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [13]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [14]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-			}, -- [15]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [16]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [17]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [18]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-				{
-					0, -- [1]
-				}, -- [2]
-			}, -- [19]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-				{
-					1, -- [1]
-				}, -- [2]
-			}, -- [20]
-		},
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = false,
-		["Version"] = 274,
-		["Winner"] = 0,
-		["Time"] = 1578686545,
 		["Players"] = {
 			{
 				"Cátástróphé-Nagrand", -- [1]
@@ -12568,6 +12393,181 @@ REFlexDatabase = {
 				10, -- [17]
 			}, -- [20]
 		},
+		["StatsNum"] = 2,
+		["Time"] = 1578686545,
+		["PlayersNum"] = 20,
+		["Duration"] = 1003,
+		["PlayerNum"] = 15,
+		["isBrawl"] = false,
+		["Version"] = 274,
+		["isArena"] = false,
+		["PlayersStats"] = {
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [1]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [2]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [3]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [4]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [6]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [8]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [10]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+			}, -- [11]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [12]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [13]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+			}, -- [15]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [17]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+				{
+					0, -- [1]
+				}, -- [2]
+			}, -- [19]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+				{
+					1, -- [1]
+				}, -- [2]
+			}, -- [20]
+		},
+		["isRated"] = false,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Season"] = 28,
+		["Hidden"] = false,
 	}, -- [53]
 	{
 		["Map"] = 980,
@@ -12650,18 +12650,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 65,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578689080,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578689080,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12760,18 +12760,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 107,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578689402,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578689402,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12870,18 +12870,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 87,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578689634,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578689634,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12980,18 +12980,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 56,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578690098,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578690098,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13090,18 +13090,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 64,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578690242,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578690242,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13200,18 +13200,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 101,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578690538,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578690538,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13310,18 +13310,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 100,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578690838,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578690838,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13420,18 +13420,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 69,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578692490,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578692490,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13530,18 +13530,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 121,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578692912,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578692912,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13640,18 +13640,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 100,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578693095,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578693095,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13750,18 +13750,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 78,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578693261,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578693261,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13860,18 +13860,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 128,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578693469,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578693469,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13970,18 +13970,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 154,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578693699,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578693699,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14080,18 +14080,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 179,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578693960,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578693960,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14190,18 +14190,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 58,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578694131,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578694131,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14300,18 +14300,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 111,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578694373,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578694373,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14410,18 +14410,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 312,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578694764,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578694764,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14520,18 +14520,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 110,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578694952,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578694952,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14630,18 +14630,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 96,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578695136,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578695136,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14740,18 +14740,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 194,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578695443,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578695443,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14850,18 +14850,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 130,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578695665,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578695665,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14960,18 +14960,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 148,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
 		["isArena"] = true,
 		["Version"] = 274,
-		["isBrawl"] = false,
-		["Time"] = 1578696002,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578696002,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15070,18 +15070,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 4,
 		["Duration"] = 89,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1578799998,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578799998,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15180,18 +15180,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 99,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1578800199,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578800199,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15290,18 +15290,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 61,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578808083,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578808083,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15400,18 +15400,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 118,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578808924,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578808924,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15510,18 +15510,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 127,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578809159,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578809159,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15620,18 +15620,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 40,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578809280,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578809280,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15730,18 +15730,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 75,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578809443,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578809443,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15840,18 +15840,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 67,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578809752,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578809752,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15950,18 +15950,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 55,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578809906,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578809906,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16060,18 +16060,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 74,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578810083,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578810083,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16170,18 +16170,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 92,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578810262,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578810262,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16280,18 +16280,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 55,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578810436,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578810436,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16390,18 +16390,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 104,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578810631,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578810631,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16500,18 +16500,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 158,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578810871,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578810871,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16610,18 +16610,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 56,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811006,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578811006,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16720,18 +16720,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 91,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811181,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578811181,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16830,18 +16830,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 132,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811411,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578811411,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16940,18 +16940,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 58,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811552,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578811552,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17050,18 +17050,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 49,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811686,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578811686,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17160,18 +17160,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 76,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578811864,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578811864,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17251,18 +17251,18 @@ REFlexDatabase = {
 			}, -- [3]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 3,
 		["Duration"] = 49,
-		["PlayerNum"] = 3,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812029,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578812029,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17361,18 +17361,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 97,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812226,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578812226,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17471,18 +17471,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 88,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812422,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578812422,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17581,18 +17581,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 80,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812597,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578812597,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17691,18 +17691,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 57,
-		["PlayerNum"] = 4,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812786,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Time"] = 1578812786,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17801,18 +17801,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 79,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isArena"] = true,
-		["Time"] = 1578812950,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Time"] = 1578812950,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17949,18 +17949,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 6,
 		["Duration"] = 113,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578827582,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578827582,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18097,18 +18097,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 6,
 		["Duration"] = 185,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578827872,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578827872,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18245,18 +18245,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 6,
 		["Duration"] = 170,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578828126,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578828126,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18393,18 +18393,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 170,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578828426,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578828426,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 5,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18541,18 +18541,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 93,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578828678,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578828678,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18689,18 +18689,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 6,
 		["Duration"] = 64,
-		["Season"] = 28,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1578828824,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1578828824,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18799,18 +18799,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 4,
 		["Duration"] = 133,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579174287,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579174287,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -18909,18 +18909,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 178,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579174551,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579174551,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19019,18 +19019,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 299,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579175018,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579175018,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19129,18 +19129,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 323,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579175470,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579175470,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19239,18 +19239,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 315,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579176283,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579176283,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19349,18 +19349,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 103,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579176504,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579176504,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19459,18 +19459,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 87,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579176673,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579176673,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19569,18 +19569,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 184,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579176966,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579176966,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19679,18 +19679,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 4,
 		["Duration"] = 404,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579177448,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579177448,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19789,18 +19789,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 303,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579177867,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579177867,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -19899,18 +19899,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 110,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579178136,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579178136,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20009,18 +20009,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 250,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579178472,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579178472,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20119,18 +20119,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 4,
 		["Duration"] = 339,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579179097,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579179097,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20229,18 +20229,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 326,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579179543,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579179543,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20339,18 +20339,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 59,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579179711,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579179711,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20449,18 +20449,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 237,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579180088,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579180088,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20559,18 +20559,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 66,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579180253,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579180253,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20669,18 +20669,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 97,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579180498,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579180498,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20779,18 +20779,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 302,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579180952,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579180952,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20889,18 +20889,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 340,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579181462,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579181462,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -20999,18 +20999,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 4,
 		["Duration"] = 392,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579181978,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579181978,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -21109,18 +21109,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 4,
 		["Duration"] = 64,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579182272,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579182272,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -21219,18 +21219,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 4,
 		["Duration"] = 136,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579182521,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579182521,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -21329,18 +21329,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 4,
 		["Duration"] = 370,
-		["Season"] = 0,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1579183006,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Version"] = 274,
 		["isRated"] = true,
-		["Time"] = 1579183006,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 0,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -21377,23 +21377,23 @@ REFlexHonorDatabase = {
 	[1574330400] = 5,
 	[1563955200] = 55,
 	[1578045600] = 5,
-	[1579255200] = 9,
+	[1579168800] = 2450,
 	[1565510400] = 1990,
 	[1578564000] = 11,
-	[1564732800] = 9,
+	[1564473600] = 2650,
 	[1577095200] = 6,
 	[1579082400] = 17,
-	[1564128000] = 684,
+	[1564387200] = 470,
 	[1569225600] = 6,
 	[1563868800] = 980,
 	[1564992000] = 384,
-	[1578477600] = 1544,
-	[1564905600] = 46,
-	[1564214400] = 1,
 	[1566115200] = 23,
+	[1578477600] = 1544,
+	[1564214400] = 1,
+	[1564905600] = 46,
 	[1565424000] = 3,
-	[1564387200] = 470,
+	[1564128000] = 684,
 	[1566460800] = 20,
-	[1564473600] = 2650,
-	[1579168800] = 2450,
+	[1564732800] = 9,
+	[1579255200] = 9,
 }

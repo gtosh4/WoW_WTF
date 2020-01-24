@@ -3,11 +3,11 @@ AstralKeys = {
 	{
 		"Andruww-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
-		247, -- [3]
-		8, -- [4]
-		10, -- [5]
+		370, -- [3]
+		12, -- [4]
+		17, -- [5]
 		131, -- [6]
-		141318, -- [7]
+		213459, -- [7]
 	}, -- [1]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		16, -- [4]
 		0, -- [5]
 		131, -- [6]
-		148745, -- [7]
+		188674, -- [7]
 	}, -- [2]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		11, -- [4]
 		9, -- [5]
 		131, -- [6]
-		144789, -- [7]
+		212446, -- [7]
 	}, -- [3]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -34,7 +34,7 @@ AstralKeys = {
 		15, -- [4]
 		9, -- [5]
 		131, -- [6]
-		142278, -- [7]
+		188186, -- [7]
 	}, -- [4]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		10, -- [4]
 		7, -- [5]
 		131, -- [6]
-		149743, -- [7]
+		196553, -- [7]
 	}, -- [5]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		16, -- [4]
 		9, -- [5]
 		131, -- [6]
-		149600, -- [7]
+		196552, -- [7]
 	}, -- [6]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		131, -- [6]
-		135194, -- [7]
+		207835, -- [7]
 	}, -- [7]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		11, -- [4]
 		9, -- [5]
 		131, -- [6]
-		138838, -- [7]
+		213413, -- [7]
 	}, -- [8]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		131, -- [6]
-		96490, -- [7]
+		202839, -- [7]
 	}, -- [9]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		131, -- [6]
-		128264, -- [7]
+		213488, -- [7]
 	}, -- [10]
 	{
 		"Alvá-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		15, -- [4]
 		9, -- [5]
 		131, -- [6]
-		137109, -- [7]
+		213507, -- [7]
 	}, -- [12]
 	{
 		"Discreet-Kil'jaeden", -- [1]
@@ -133,7 +133,7 @@ AstralKeys = {
 		17, -- [4]
 		9, -- [5]
 		131, -- [6]
-		144658, -- [7]
+		213402, -- [7]
 	}, -- [15]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -178,8 +178,17 @@ AstralKeys = {
 		6, -- [4]
 		8, -- [5]
 		131, -- [6]
-		144643, -- [7]
+		213412, -- [7]
 	}, -- [20]
+	{
+		"Morepheous-Kil'jaeden", -- [1]
+		"DRUID", -- [2]
+		246, -- [3]
+		8, -- [4]
+		0, -- [5]
+		131, -- [6]
+		208052, -- [7]
+	}, -- [21]
 }
 AstralCharacters = {
 	{
@@ -214,7 +223,7 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		131, -- [6]
-		144658, -- [7]
+		211787, -- [7]
 		"1", -- [8]
 		9, -- [9]
 	}, -- [2]
@@ -225,12 +234,20 @@ AstralFriends = {
 		248, -- [4]
 		15, -- [5]
 		131, -- [6]
-		148803, -- [7]
+		209379, -- [7]
 		"1", -- [8]
 		9, -- [9]
 	}, -- [3]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -257,7 +274,6 @@ AstralKeysSettings = {
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -282,14 +298,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

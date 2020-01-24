@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1307,
+	["session"] = 1309,
 	["errors"] = {
 		{
 			["message"] = "...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua:386: attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)",
@@ -126,5 +126,21 @@ BugGrabberDB = {
 			["session"] = 1306,
 			["counter"] = 2,
 		}, -- [16]
+		{
+			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
+			["time"] = "2020/01/23 12:57:28",
+			["locals"] = "(*temporary) = \"Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetSpellsDisplay'\n[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents-Talents.lua\"]:158: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:142>\n[string \"=[C]\"]: in function `PlayerTalentFrame_UpdateSpecFrame'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:417: in function `PlayerTalentFrame_Refresh'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>",
+			["session"] = 1308,
+			["counter"] = 1,
+		}, -- [17]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4781: attempt to perform arithmetic on local 'player' (a nil value)",
+			["time"] = "2020/01/23 16:35:29",
+			["locals"] = "CurStep = 92\nd_y = 759\nd_x = 1377\nAAP_ArrowActive_TrigDistance = nil\nPI2 = 6.283185\natan2 = <function> defined =[C]:-1\ntwopi = 6.283185\ndeltaX = -533.800000\ndeltaY = 946.300000\ndistance = 1086.474174\nangle = 0.513598\nplayer = nil\n(*temporary) = 946.300000\n(*temporary) = 0.513598\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'player' (a nil value)\"\nQNumberLocal = 92\nAAP_CheckDistance = <function> defined @Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4676\n",
+			["stack"] = "[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4781: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4741>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4964: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
+			["session"] = 1309,
+			["counter"] = 8,
+		}, -- [18]
 	},
 }

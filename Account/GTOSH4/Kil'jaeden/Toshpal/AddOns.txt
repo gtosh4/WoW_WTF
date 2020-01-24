@@ -38,3 +38,4 @@ ElvUI_AuraBarsMovers: disabled
 ElvUI_SLE: enabled
 Jamba: enabled
 Auctionator: disabled
+ElvUI_CustomTweaks: disabled

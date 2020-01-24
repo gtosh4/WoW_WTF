@@ -169,28 +169,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Bosses_Queen Azshara"] = {
-			["profiles"] = {
-				["Default"] = {
-					[300519] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[296018] = 1032439,
-					[292963] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Stormwall Blockade"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285118] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -232,6 +210,28 @@ BigWigs3DB = {
 							[285994] = "English: Overwatch: Winston",
 						},
 					},
+				},
+			},
+		},
+		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296018] = 1032439,
+					[292963] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Queen Azshara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[300519] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Stormwall Blockade"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285118] = 1032439,
 				},
 			},
 		},
@@ -280,15 +280,16 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 	[2164] = {
-		[2354] = {
+		[2347] = {
+			["mythic"] = {
+				["kills"] = 12,
+				["wipes"] = 16,
+				["best"] = 206.0960000000196,
+			},
 			["heroic"] = {
 				["kills"] = 13,
-				["best"] = 199.0839999997988,
-				["wipes"] = 3,
-			},
-			["mythic"] = {
-				["best"] = 228.3759999999893,
-				["kills"] = 3,
+				["best"] = 173.839999999851,
+				["wipes"] = 1,
 			},
 		},
 		[2351] = {
@@ -325,16 +326,11 @@ BigWigsStatsDB = {
 				["best"] = 204.0570000000007,
 			},
 		},
-		[2347] = {
-			["mythic"] = {
-				["kills"] = 12,
-				["wipes"] = 16,
-				["best"] = 206.0960000000196,
-			},
+		[2361] = {
 			["heroic"] = {
-				["kills"] = 13,
-				["best"] = 173.839999999851,
-				["wipes"] = 1,
+				["kills"] = 14,
+				["wipes"] = 10,
+				["best"] = 345.5990000000002,
 			},
 		},
 		[2359] = {
@@ -356,11 +352,15 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 		},
-		[2361] = {
+		[2354] = {
 			["heroic"] = {
-				["kills"] = 14,
-				["wipes"] = 10,
-				["best"] = 345.5990000000002,
+				["kills"] = 13,
+				["best"] = 199.0839999997988,
+				["wipes"] = 3,
+			},
+			["mythic"] = {
+				["best"] = 228.3759999999893,
+				["kills"] = 3,
 			},
 		},
 	},
