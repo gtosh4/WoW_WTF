@@ -40,9 +40,9 @@ MacroToolkitDB = {
 			["x"] = 911.2782592773438,
 			["height"] = 431.000427246094,
 			["fonts"] = {
-				["mfont"] = "Ubuntu Condensed",
-				["mifont"] = "Ubuntu Condensed",
 				["edfont"] = "Ubuntu Condensed",
+				["mifont"] = "Ubuntu Condensed",
+				["mfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
 			["visbind"] = false,

@@ -3,6 +3,7 @@ JambaFTLProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -103,6 +104,19 @@ JambaFTLProfileDB = {
 					["lshift"] = false,
 					["lctrl"] = false,
 					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Yorman - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				["Yorman-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},

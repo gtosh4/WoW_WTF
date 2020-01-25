@@ -3,6 +3,7 @@ JambaCoreProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -12,6 +13,9 @@ JambaCoreProfileDB = {
 			["showStartupMessage4000"] = false,
 		},
 		["Default"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Yorman - Kil'jaeden"] = {
 			["showStartupMessage4000"] = false,
 		},
 	},
@@ -20,6 +24,7 @@ JambaCommunicationsProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -28,12 +33,15 @@ JambaCommunicationsProfileDB = {
 		},
 		["Default"] = {
 		},
+		["Yorman - Kil'jaeden"] = {
+		},
 	},
 }
 JambaTeamProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -63,9 +71,9 @@ JambaTeamProfileDB = {
 		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = false,
-				["Tosh-Kil'jaeden"] = false,
+				["Toshpal-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = true,
+				["Tosh-Kil'jaeden"] = true,
 				["Toshaman-Kil'jaeden"] = false,
 			},
 			["characterClass"] = {
@@ -82,12 +90,22 @@ JambaTeamProfileDB = {
 			},
 			["master"] = "Toshdk-Kil'jaeden",
 		},
+		["Yorman - Kil'jaeden"] = {
+			["master"] = "Yorman-Kil'jaeden",
+			["characterOnline"] = {
+				["Yorman-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Yorman-Kil'jaeden"] = 1,
+			},
+		},
 	},
 }
 JambaTagProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -144,6 +162,15 @@ JambaTagProfileDB = {
 					"all", -- [1]
 					"justme", -- [2]
 					"minion", -- [3]
+				},
+			},
+		},
+		["Yorman - Kil'jaeden"] = {
+			["tagList"] = {
+				["Yorman-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
 				},
 			},
 		},
@@ -153,6 +180,7 @@ JambaMessageProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -160,6 +188,8 @@ JambaMessageProfileDB = {
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Default"] = {
+		},
+		["Yorman - Kil'jaeden"] = {
 		},
 	},
 }

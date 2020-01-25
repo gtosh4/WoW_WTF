@@ -3,6 +3,7 @@ JambaQuestProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -16,6 +17,8 @@ JambaQuestProfileDB = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,
 			["acceptFromTeam"] = true,
 			["doNotAutoAccept"] = false,
+		},
+		["Yorman - Kil'jaeden"] = {
 		},
 	},
 }

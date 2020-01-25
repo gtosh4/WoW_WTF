@@ -15,11 +15,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1438.93566484931,
-			},
 			["y"] = {
 				["arena1"] = 483.732411763853,
+			},
+			["x"] = {
+				["arena1"] = 1438.93566484931,
 			},
 		},
 		["Default"] = {
@@ -105,17 +105,17 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
 			["auraVersion"] = 1,
@@ -213,17 +213,17 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
 			["aurasBuffsAttachTo"] = "Dispel",
@@ -276,38 +276,38 @@ Gladius2DB = {
 			["castBarOffsetY"] = -1,
 			["modules"] = {
 				["TargetBar"] = true,
-				["Announcements"] = false,
 				["Dispel"] = false,
+				["Announcements"] = false,
 			},
 			["dispellGloss"] = false,
 			["locked"] = true,
 			["powerBarHeight"] = 14,
 			["timerOmniCC"] = true,
-			["powerBarOffsetY"] = -1,
-			["bottomMargin"] = 14,
-			["x"] = {
-				["arena1"] = 1113.604082952312,
-			},
+			["trinketFaction"] = false,
+			["healthBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 			["y"] = {
 				["arena1"] = 440.1067810519162,
 			},
-			["classIconShowSpec"] = true,
-			["auraVersion"] = 1,
-			["classIconCrop"] = true,
+			["x"] = {
+				["arena1"] = 1113.604082952312,
+			},
 			["castBarTexture"] = "ElvUI Blank",
+			["classIconCrop"] = true,
+			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["healthBarTexture"] = "ElvUI Blank",
-			["trinketFaction"] = false,
+			["bottomMargin"] = 14,
+			["powerBarOffsetY"] = -1,
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {
 				["arena1"] = 472.532363479251,
 			},
 			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
 			["x"] = {
 				["arena1"] = 1437.86971588517,
 			},
-			["auraVersion"] = 1,
 		},
 	},
 }

@@ -171,7 +171,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshpal",
+		["name"] = "Toshdk",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -234,12 +234,12 @@ BD_persistent = {
 				["Heroic New Raid Wed @7pm cst for ALTS. Mains do not get saved we will be doing it during main raid."] = true,
 				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
 				["Make sure you are on for BoD its during raid time make sure you show up. "] = true,
-				["main raid tonight slay stormwall :)"] = true,
+				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
-				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
+				["main raid tonight slay stormwall :)"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
 				["Mythic first 3 wed @8pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,

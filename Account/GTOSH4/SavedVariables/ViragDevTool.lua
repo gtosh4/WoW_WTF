@@ -2,7 +2,7 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 10,
-	["isWndOpen"] = true,
+	["isWndOpen"] = false,
 	["collResizerPosition"] = 449.999755859375,
 	["history"] = {
 		"Plater.TargetIndicators", -- [1]

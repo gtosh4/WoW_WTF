@@ -16,9 +16,78 @@ MethodDungeonToolsDB = {
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
+		["colorPaletteInfo"] = {
+			["customPaletteValues"] = {
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [1]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [2]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [3]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [4]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [5]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [6]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [7]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [8]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [9]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [10]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [11]
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				}, -- [12]
+			},
+		},
+		["anchorFrom"] = "CENTER",
 		["minimap"] = {
 			["minimapPos"] = 181.5763838324383,
 		},
+		["nonFullscreenScale"] = 1,
+		["MDI"] = {
+		},
+		["maximized"] = false,
 		["presets"] = {
 			{
 				{
@@ -242,17 +311,27 @@ MethodDungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["currentDungeonIdx"] = 23,
-						["teeming"] = true,
-						["selection"] = {
-							1, -- [1]
-						},
 						["pulls"] = {
 							{
 								["color"] = "228b22",
 							}, -- [1]
 						},
+						["currentDungeonIdx"] = 23,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							[6] = {
+							},
+						},
 					},
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+					["difficulty"] = 10,
 				}, -- [1]
 			}, -- [23]
 			{
@@ -277,10 +356,9 @@ MethodDungeonToolsDB = {
 				}, -- [1]
 			}, -- [24]
 		},
-		["currentDungeonIdx"] = 22,
-		["version"] = 256,
+		["currentDungeonIdx"] = 23,
+		["version"] = 300,
 		["xoffset"] = 509.182464599609,
-		["anchorFrom"] = "CENTER",
 		["yoffset"] = 35.3933181762695,
 	},
 }

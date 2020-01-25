@@ -17,7 +17,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1579815328,
+				["lastUpdate"] = 1579938625,
 				["Specializations"] = {
 					6762, -- [1]
 					[3] = 11770,
@@ -25,7 +25,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DEATHKNIGHT",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1565388751,
+				["lastUpdate"] = 1579918117,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 6893,
@@ -49,11 +49,11 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1579830130,
+				["lastUpdate"] = 1579937808,
 				["Specializations"] = {
-					5993, -- [1]
+					5977, -- [1]
 					7065, -- [2]
-					14047, -- [3]
+					5849, -- [3]
 				},
 				["Class"] = "PALADIN",
 			},
@@ -503,7 +503,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 31429,
+			["Version"] = 33115,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
