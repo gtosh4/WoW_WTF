@@ -5,10 +5,10 @@ JambaCoreProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
+		["Toshaman - Kil'jaeden"] = {
 			["showStartupMessage4000"] = false,
 		},
-		["Toshaman - Kil'jaeden"] = {
+		["Default"] = {
 			["showStartupMessage4000"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -22,9 +22,9 @@ JambaCommunicationsProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Default"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
@@ -36,13 +36,24 @@ JambaTeamProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["master"] = "Toshaman-Kil'jaeden",
+			["teamList"] = {
+				["Toshpal-Kil'jaeden"] = 2,
+				["Toshaman-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Kil'jaeden"] = true,
+			},
+		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = false,
-				["Toshaman-Kil'jaeden"] = false,
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Kil'jaeden"] = true,
 				["Toshdk-Kil'jaeden"] = false,
 				["Toshdk-Kil'Jaeden"] = false,
-				["Tosh-Kil'jaeden"] = true,
+				["Tosh-Kil'jaeden"] = false,
 			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",
@@ -57,18 +68,7 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'Jaeden"] = 4,
 				["Tosh-Kil'jaeden"] = 2,
 			},
-			["master"] = "Tosh-Kil'jaeden",
-		},
-		["Toshaman - Kil'jaeden"] = {
 			["master"] = "Toshaman-Kil'jaeden",
-			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = true,
-			},
-			["teamList"] = {
-				["Toshpal-Kil'jaeden"] = 2,
-				["Toshaman-Kil'jaeden"] = 1,
-			},
 		},
 		["Tosh - Kil'jaeden"] = {
 			["characterClass"] = {
@@ -76,13 +76,13 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 			},
 			["master"] = "Tosh-Kil'jaeden",
-			["teamList"] = {
-				["Tosh-Kil'jaeden"] = 2,
-				["Toshdk-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Tosh-Kil'jaeden"] = true,
 				["Toshdk-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Tosh-Kil'jaeden"] = 2,
+				["Toshdk-Kil'jaeden"] = 1,
 			},
 		},
 	},
@@ -93,6 +93,20 @@ JambaTagProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["tagList"] = {
+				["Toshpal-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshaman-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
 		["Default"] = {
 			["tagList"] = {
 				["Toshpal-Kil'jaeden"] = {
@@ -103,7 +117,7 @@ JambaTagProfileDB = {
 				["Toshaman-Kil'jaeden"] = {
 					"all", -- [1]
 					"justme", -- [2]
-					"minion", -- [3]
+					"master", -- [3]
 				},
 				["Toshdk-Kil'jaeden"] = {
 					"all", -- [1]
@@ -118,21 +132,7 @@ JambaTagProfileDB = {
 				["Tosh-Kil'jaeden"] = {
 					"all", -- [1]
 					"justme", -- [2]
-					"master", -- [3]
-				},
-			},
-		},
-		["Toshaman - Kil'jaeden"] = {
-			["tagList"] = {
-				["Toshpal-Kil'jaeden"] = {
-					"all", -- [1]
-					"justme", -- [2]
 					"minion", -- [3]
-				},
-				["Toshaman-Kil'jaeden"] = {
-					"all", -- [1]
-					"justme", -- [2]
-					"master", -- [3]
 				},
 			},
 		},
@@ -163,9 +163,9 @@ JambaMessageProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Default"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},

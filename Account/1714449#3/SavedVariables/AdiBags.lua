@@ -25,7 +25,7 @@ AdiBagsDB = {
 		},
 		["Mechagon Tinkering"] = {
 		},
-		["BfA"] = {
+		["DataSource"] = {
 		},
 		["WoD"] = {
 		},
@@ -41,20 +41,20 @@ AdiBagsDB = {
 					["shown"] = {
 						["Ancient Mana"] = false,
 						["Brawler's Gold"] = false,
-						["Legionfall War Supplies"] = false,
-						["Timeworn Artifact"] = false,
-						["Nethershard"] = false,
+						["Timewarped Badge"] = false,
 						["Seal of Broken Fate"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
+						["Nethershard"] = false,
+						["Timeworn Artifact"] = false,
+						["Apexis Crystal"] = false,
 						["Wakening Essence"] = false,
 						["Garrison Resources"] = false,
-						["Apexis Crystal"] = false,
-						["Veiled Argunite"] = false,
-						["Curious Coin"] = false,
-						["Seal of Tempered Fate"] = false,
 						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Curious Coin"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
 						["Champion's Seal"] = false,
-						["Timewarped Badge"] = false,
+						["Legionfall War Supplies"] = false,
 					},
 				},
 			},
@@ -74,13 +74,13 @@ AdiBagsDB = {
 		},
 		["Wrath"] = {
 		},
-		["ItemLevel"] = {
-		},
 		["AdiBags_TooltipInfo"] = {
+		},
+		["ItemLevel"] = {
 		},
 		["Bound"] = {
 		},
-		["DataSource"] = {
+		["BfA"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -94,10 +94,7 @@ AdiBagsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = 0,
@@ -107,7 +104,10 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
+			},
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 		},

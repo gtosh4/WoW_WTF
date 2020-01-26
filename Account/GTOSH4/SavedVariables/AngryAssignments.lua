@@ -1,13 +1,13 @@
 
 AngryAssign_Pages = {
 	[2727549159] = {
-		["Updated"] = 1579919583,
+		["Updated"] = 1580007771,
 		["Name"] = "12 N'zoth",
-		["Contents"] = "Anguish    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
+		["Contents"] = "Group 1 - Barb/Sci/Jess/3mages/Steal/Me/Drew/Thug/Thund\n\nGroup 2 - Evan/Gordy/Tehkz/3mages/Snare/Nate/Luna/Simbba/Moon\n\n\nProbe Mind    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
 		["Id"] = 2727549159,
-		["UpdateId"] = 3969314334,
+		["UpdateId"] = 4132026302,
 		["CategoryId"] = 811898828,
-		["Backup"] = "Anguish    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
+		["Backup"] = "Probe Mind    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
 	},
 	[1436534751] = {
 		["Updated"] = 1579919551,
@@ -253,7 +253,7 @@ AngryAssign_Pages = {
 		["Backup"] = "Throw 1    ||cshamanZerk.HT||r    \nTantrum 1    ||cshamanZerk.SLT||r    ||cpaladinSci.wings||r\nThrow 2    ||cpaladinSci.AM||r    \nTantrum 2    ||cdruidTehkz.tranq||r    \nThrow 3        \nTantrum 3    ||cpriestJess.salv||r    ||cpaladinSci.wings||r\nThrow 4    ||cpriestJess.hymn||r    ||cshamanZerk.HT||r\nTantrum 4    ||cdruidTehkz.tranq||r    ||cshamanZerk.SLT||r\n\n\nInterrupts\nMELEE - daiyzed > andrew > johnny > moon > andrew \n\nRANGE - smoke > thun > yuki > arn > frida > sin",
 	},
 	[2070567555] = {
-		["Updated"] = 1579919567,
+		["Updated"] = 1580019878,
 		["Name"] = "11 Carapace",
 		["Contents"] = "Mycelial 1 Begin    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nMycelial 1 End    ||cpaladinSci||r{icon 31821}    ||cpriestJess||r{icon 64843}\nMycelial 2 Begin    ||cpaladinGordy||r{icon 31821}\nMycelial 2 End    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nBomb 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 62618}\nDarkness 1    ||cpaladinSci||r{icon 31821}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nBomb 2    ||cpaladinGordy||r{icon 31821}    ||cpriestJess||r{icon 265202}\nDarkness 2    ||cpriestJess||r{icon 64843}",
 		["Id"] = 2070567555,
@@ -314,6 +314,8 @@ AngryAssign_Categories = {
 	},
 }
 AngryAssign_State = {
+	["locked"] = true,
+	["directionUp"] = true,
 	["display"] = {
 		["y"] = 180.4068298339844,
 		["x"] = -736.6687316894531,
@@ -322,14 +324,12 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 424.9079284667969,
 	},
-	["locked"] = true,
 	["window"] = {
 		["height"] = 626.7930297851562,
 		["top"] = 827.2625122070312,
 		["left"] = 2277.532958984375,
 		["width"] = 969.6856689453125,
 	},
-	["directionUp"] = true,
 	["tree"] = {
 		["groups"] = {
 			["4038414028"] = true,
@@ -352,23 +352,23 @@ AngryAssign_State = {
 			["-6068006422502201896"] = true,
 			["-29631049681178251767"] = true,
 			["921751535"] = true,
-			[-2406605962] = true,
-			["2046205792"] = true,
-			["-23774363663293760588"] = true,
-			[-811898828] = true,
 			["-606800642980923369"] = true,
-			["1801712002"] = true,
-			[-606800642] = false,
-			[-2963104968] = false,
 			["-6068006422886822515"] = true,
+			["-23774363663293760588"] = true,
+			[-606800642] = false,
+			[-811898828] = true,
+			["-811898828"] = true,
+			[-2406605962] = true,
+			[-2963104968] = false,
+			["2046205792"] = true,
 			["38480567"] = true,
 			["-6068006422928123566"] = true,
-			["2886822515"] = true,
-			["3157273160"] = true,
 			["-606800642"] = true,
 			["134906466"] = true,
+			["2886822515"] = true,
+			["3157273160"] = true,
 			["2727549159"] = true,
-			["-811898828"] = true,
+			["1801712002"] = true,
 			["-6068006422996981258"] = true,
 			["437126032"] = true,
 			["-8118988281436534751"] = true,
@@ -377,9 +377,9 @@ AngryAssign_State = {
 		},
 		["scrollvalue"] = 0,
 		["fullwidth"] = 935.685791015625,
-		["selected"] = "-8118988282727549159",
-		["treewidth"] = 174.999908447266,
 		["treesizable"] = true,
+		["treewidth"] = 174.999908447266,
+		["selected"] = "-8118988282727549159",
 	},
 }
 AngryAssign_Config = {

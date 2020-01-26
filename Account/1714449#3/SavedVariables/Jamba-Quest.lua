@@ -5,6 +5,8 @@ JambaQuestProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
+		["Toshaman - Kil'jaeden"] = {
+		},
 		["Default"] = {
 			["noChoiceAllDoNothing"] = true,
 			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
@@ -15,8 +17,6 @@ JambaQuestProfileDB = {
 			["onlyAcceptQuestsFrom"] = true,
 			["doNotAutoAccept"] = false,
 			["masterAutoShareQuestOnAccept"] = true,
-		},
-		["Toshaman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

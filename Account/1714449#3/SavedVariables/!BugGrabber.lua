@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1316,
 	["lastSanitation"] = 3,
+	["session"] = 1323,
 	["errors"] = {
 		{
 			["message"] = "...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua:386: attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)",
@@ -29,8 +29,8 @@ BugGrabberDB = {
 		}, -- [3]
 		{
 			["message"] = "(null)",
-			["session"] = 1262,
 			["time"] = "2020/01/20 03:10:47",
+			["session"] = 1262,
 			["counter"] = 6,
 		}, -- [4]
 		{
@@ -142,5 +142,21 @@ BugGrabberDB = {
 			["session"] = 1309,
 			["counter"] = 8,
 		}, -- [18]
+		{
+			["message"] = "invalid key to 'next'",
+			["time"] = "2020/01/25 15:34:44",
+			["locals"] = "(*temporary) = <table> {\n}\n(*temporary) = \"party1targettarget\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `(for generator)'\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:49: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:46>\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:56: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:55>",
+			["session"] = 1319,
+			["counter"] = 1,
+		}, -- [19]
+		{
+			["message"] = "Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua:310: attempt to index field '?' (a nil value)",
+			["time"] = "2020/01/26 00:10:54",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua\"]:310: in function `?'\n[string \"@Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua\"]:463: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:429>",
+			["session"] = 1323,
+			["counter"] = 9,
+		}, -- [20]
 	},
 }

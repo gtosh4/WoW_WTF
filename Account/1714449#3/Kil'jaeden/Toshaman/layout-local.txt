@@ -1,18 +1,4 @@
 Version: 1
-Frame: scanner_button
-FrameLevel: 1
-Anchor: LEFT
-X: 121
-Y: 176
-W: 200
-H: 50
-Frame: Grid2LayoutFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: -145
-Y: 208
-W: 208
-H: 116
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -20,6 +6,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: -130
+Y: 280
+W: 208
+H: 62
 Frame: ColorPickerFrame
 FrameLevel: 22
 Anchor: CENTER
@@ -62,13 +55,6 @@ X: -540
 Y: -128
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -104,6 +90,27 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: scanner_button
+FrameLevel: 1
+Anchor: LEFT
+X: 121
+Y: 176
+W: 200
+H: 50
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -604
+Y: -216
+W: 291
+H: 136
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: BOTTOM
@@ -118,10 +125,3 @@ X: -142
 Y: 242
 W: 56
 H: 42
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -604
-Y: -216
-W: 382
-H: 241
