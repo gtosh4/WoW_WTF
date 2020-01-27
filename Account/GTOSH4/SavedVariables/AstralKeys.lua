@@ -7,34 +7,34 @@ AstralKeys = {
 		10, -- [4]
 		17, -- [5]
 		131, -- [6]
-		386646, -- [7]
+		483942, -- [7]
 	}, -- [1]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
 		"SHAMAN", -- [2]
-		251, -- [3]
-		16, -- [4]
+		249, -- [3]
+		15, -- [4]
 		17, -- [5]
 		131, -- [6]
-		403150, -- [7]
+		489079, -- [7]
 	}, -- [2]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
 		247, -- [3]
 		10, -- [4]
-		9, -- [5]
+		15, -- [5]
 		131, -- [6]
-		403144, -- [7]
+		489166, -- [7]
 	}, -- [3]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
 		"WARLOCK", -- [2]
-		244, -- [3]
-		15, -- [4]
-		9, -- [5]
+		370, -- [3]
+		14, -- [4]
+		15, -- [5]
 		131, -- [6]
-		404005, -- [7]
+		486995, -- [7]
 	}, -- [4]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -43,52 +43,52 @@ AstralKeys = {
 		10, -- [4]
 		7, -- [5]
 		131, -- [6]
-		319839, -- [7]
+		476922, -- [7]
 	}, -- [5]
 	{
 		"Tosh-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
 		246, -- [3]
 		16, -- [4]
-		9, -- [5]
+		12, -- [5]
 		131, -- [6]
-		319849, -- [7]
+		476888, -- [7]
 	}, -- [6]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
-		251, -- [3]
-		15, -- [4]
-		9, -- [5]
+		245, -- [3]
+		14, -- [4]
+		15, -- [5]
 		131, -- [6]
-		386525, -- [7]
+		486442, -- [7]
 	}, -- [7]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		244, -- [3]
+		249, -- [3]
 		11, -- [4]
-		9, -- [5]
+		16, -- [5]
 		131, -- [6]
-		404175, -- [7]
+		468698, -- [7]
 	}, -- [8]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
 		"DRUID", -- [2]
 		246, -- [3]
 		15, -- [4]
-		0, -- [5]
+		16, -- [5]
 		131, -- [6]
-		387417, -- [7]
+		472010, -- [7]
 	}, -- [9]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
-		244, -- [3]
-		15, -- [4]
-		15, -- [5]
+		246, -- [3]
+		14, -- [4]
+		16, -- [5]
 		131, -- [6]
-		403928, -- [7]
+		486287, -- [7]
 	}, -- [10]
 	{
 		"Alvá-Kil'jaeden", -- [1]
@@ -104,9 +104,9 @@ AstralKeys = {
 		"MAGE", -- [2]
 		247, -- [3]
 		15, -- [4]
-		9, -- [5]
+		16, -- [5]
 		131, -- [6]
-		403726, -- [7]
+		486146, -- [7]
 	}, -- [12]
 	{
 		"Discreet-Kil'jaeden", -- [1]
@@ -124,16 +124,16 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		131, -- [6]
-		375457, -- [7]
+		450876, -- [7]
 	}, -- [14]
 	{
 		"Peace-Kil'jaeden", -- [1]
 		"MONK", -- [2]
-		353, -- [3]
-		16, -- [4]
+		250, -- [3]
+		11, -- [4]
 		17, -- [5]
 		131, -- [6]
-		404233, -- [7]
+		489225, -- [7]
 	}, -- [15]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		8, -- [4]
 		0, -- [5]
 		131, -- [6]
-		402257, -- [7]
+		473726, -- [7]
 	}, -- [16]
 	{
 		"Vonull-Kil'jaeden", -- [1]
@@ -176,9 +176,9 @@ AstralKeys = {
 		"DEMONHUNTER", -- [2]
 		244, -- [3]
 		9, -- [4]
-		8, -- [5]
+		12, -- [5]
 		131, -- [6]
-		377977, -- [7]
+		471515, -- [7]
 	}, -- [20]
 	{
 		"Morepheous-Kil'jaeden", -- [1]
@@ -187,27 +187,27 @@ AstralKeys = {
 		8, -- [4]
 		0, -- [5]
 		131, -- [6]
-		372527, -- [7]
+		489131, -- [7]
 	}, -- [21]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 9,
+		["weekly_best"] = 15,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 7,
 		["class"] = "DEATHKNIGHT",
-		["unit"] = "Toshdk-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshdk-Kil'jaeden",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [3]
 }
 AstralFriends = {
@@ -226,12 +226,12 @@ AstralFriends = {
 		"Peace-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"MONK", -- [3]
-		249, -- [4]
-		16, -- [5]
+		250, -- [4]
+		11, -- [5]
 		131, -- [6]
-		376181, -- [7]
+		489182, -- [7]
 		"1", -- [8]
-		9, -- [9]
+		17, -- [9]
 	}, -- [2]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
@@ -240,18 +240,43 @@ AstralFriends = {
 		247, -- [4]
 		14, -- [5]
 		131, -- [6]
-		299081, -- [7]
+		461288, -- [7]
 		"1", -- [8]
 		15, -- [9]
 	}, -- [3]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1580223600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -267,9 +292,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -278,33 +301,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1580223600,
-		["expanded_tooltip"] = {
+		["show_offline"] = {
 			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -312,14 +312,14 @@ AstralMinimap = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -333,21 +333,21 @@ AstralMinimap = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshdk - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["minimap"] = {
 				["minimapPos"] = 209.842210043707,
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
-		},
 		["Toshmonk - Kil'jaeden"] = {
 			["minimap"] = {
 				["minimapPos"] = 176.540172018723,
 			},
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
@@ -356,7 +356,7 @@ AstralMinimap = {
 				["minimapPos"] = 220.790417099489,
 			},
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 	},
 }

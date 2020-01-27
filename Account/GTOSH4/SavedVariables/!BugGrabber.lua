@@ -1,22 +1,36 @@
 
 BugGrabberDB = {
-	["session"] = 1656,
 	["lastSanitation"] = 3,
+	["session"] = 1699,
 	["errors"] = {
 		{
-			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
-			["time"] = "2020/01/25 22:29:08",
-			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
-			["session"] = 1656,
-			["counter"] = 1,
+			["message"] = "[string \"--[==[ Error in 'UnwaveringWard':'initializ...\"]:45: attempt to index local 't' (a nil value)",
+			["time"] = "2020/01/26 14:22:07",
+			["stack"] = "[string \"--[==[ Error in 'UnwaveringWard':'initialization' ]==] return function() aura_env.subevents = {\n    [\"SPELL_AURA_APPLIED\"] = true,\n    [\"SPELL_AURA_REMOVED\"] = true,\n    [\"SPELL_AURA_APPLIED_DOSE\"] = true,\n    [\"SPELL_AURA_REMOVED_DOSE\"] = true,\n    [\"SPEL_AURA_REFRESHL\"] = true,\n}\n\naura_env.playerguid = UnitGUID(\"player\")\naura_env.spellid = 296003\n\naura_env.basestate = {\n    show = true,\n    changed = true,\n    progressType = 'timed',\n    autoHide = false,\n    duration = 10,\n    spellid = aura_env.spellid,\n}\naura_env.basestate.icon = select(3,GetSpellInfo(aura_env.spellid))\n\nfunction aura_env:CleanupHook()\n    if not aura_env.region._Collapse then\n        aura_env.region._Collapse = aura_env.region.Collapse\n        function aura_env.region:Collapse(...)\n            if self.uw_timer then\n                WeakAuras.timer:CancelTimer(self.uw_timer)\n            end\n            self:_Collapse(...)\n        end\n    end\nend\n\nfunction aura_env:Waiting()\n    local t = self.region.uw_timer\n    local r, p\n    if not t then\n        r = false\n    elseif t.cancelled then\n        r = false\n    else\n        p = WeakAuras.timer:TimeLeft(t)\n        r = p > 0\n    end\n    ViragDevTool_AddData({t=t, r=r, p=p, c=t.cancelled}, \"uw timer\")\n    return r\nend\n\nfunction aura_env:UpdateState(state, event)\n    state.changed = true\n\n    local b = {WA_GetUnitBuff(\"player\", self.spellid, \"PLAYER\")}\n\n    ViragDevTool_AddData({aura_env=self, state=state, buff=b, waiting=self:Waiting(), cancelled=(self.region.uw_timer and self.region.uw_timer.cancelled)}, \"unwavering ward (\"..event..\")\")\n\n    if b[6] then\n        state.expirationTime = b[6] - 2\n\n        local now = GetTime()\n        local nextCheck = (state.expirationTime > now and state.expirationTime-now or 0)+0.1\n\n        if not self:Waiting() then\n            self.region.uw_timer = WeakAuras.timer:ScheduleTimer(\n                function()\n                    WeakAuras.ScanEvents('TOSH_UNWAVERING_WARD', nextCheck)\n                end,\n                nextCheck\n            )\n        end\n    end\n    \n    state.shield = b[16] or 0\nend\n\n end\"]:54: in function `UpdateState'\n[string \"--[==[ Error in 'UnwaveringWard' ]==] return function(allstates, event, ...) -- PLAYER_ENTERING_WORLD,COMBAT_LOG_EVENT_UNFILTERED,TOSH_UNWAVERING_WARD\n    local args = {...}\n    if event == 'COMBAT_LOG_EVENT_UNFILTERED' then\n        local source = args[4]\n        if source ~= aura_env.playerguid then return end\n\n        local subevent = args[2]\n        if not aura_env.subevents[subevent] then return end\n        \n        local spellID = args[12]\n        if spellID ~= aura_env.spellid then return end\n        \n\n        local dest = args[8]\n        -- Since there's travel time, to get an accurate timer only use the self one\n        if dest ~= aura_env.playerguid then return end\n\n\n        local state = allstates[1] or setmetatable({}, {__index=aura_env.basestate})\n        aura_env:UpdateState(state, event)\n        allstates[1] = state\n        return true\n\n    elseif event == 'TOSH_UNWAVERING_WARD' or event == 'PLAYER_ENTERING_WORLD' then\n        aura_env:CleanupHook()\n\n        local state = allstates[1] or setmetatable({}, {__index=aura_env.basestate})\n        aura_env:UpdateState(state, event)\n        allstates[1] = state\n        return true\n    end\nend\n\"]:28: in function <[string \"--[==[ Error in 'UnwaveringWard' ]==] retur...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:519: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:512>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:732: in function `ScanWithFakeEvent'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:999: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:2237: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:2082: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1968>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:2178: in function `ReloadAll'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:1824: in function `ScanAll'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:1769: in function `Resume'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.1.lua\"]:1589: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1554>",
+			["session"] = 1684,
+			["counter"] = 3,
 		}, -- [1]
 		{
-			["message"] = "Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua:310: attempt to index field '?' (a nil value)",
-			["time"] = "2020/01/25 22:20:20",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua\"]:310: in function `?'\n[string \"@Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua\"]:463: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:429>",
-			["session"] = 1656,
-			["counter"] = 30,
+			["message"] = "Interface\\FrameXML\\ChatFrame.lua:1637: Usage: local setWasEquipped = C_EquipmentSet.UseEquipmentSet(equipmentSetID)",
+			["time"] = "2020/01/26 16:46:35",
+			["locals"] = "",
+			["stack"] = "[string \"=[C]\"]: in function `UseEquipmentSet'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:1637: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4839: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3004: in function <Interface\\FrameXML\\ChatFrame.lua:2997>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:441: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n...\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3004: in function <Interface\\FrameXML\\ChatFrame.lua:2997>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:441: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n[string \"=(tail call)\"]: ?",
+			["session"] = 1693,
+			["counter"] = 2,
 		}, -- [2]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/01/26 19:14:38",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1694,
+			["counter"] = 2,
+		}, -- [3]
+		{
+			["message"] = "Interface\\AddOns\\Jamba-Talk\\JambaTalk.lua:768: attempt to call method 'replace' (a nil value)",
+			["time"] = "2020/01/26 20:43:16",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Talk\\JambaTalk.lua\"]:768: in function `ProcessReceivedMessage'\n[string \"@Interface\\AddOns\\Jamba-Talk\\JambaTalk.lua\"]:786: in function `JambaOnCommandReceived'\n[string \"@Interface\\AddOns\\Jamba\\JambaCore.lua\"]:399: in function `OnCommandReceived'\n[string \"@Interface\\AddOns\\Jamba\\JambaCommunications.lua\"]:351: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\DataStore\\libs\\AceComm-3.0\\AceComm-3.0-12.lua\"]:264: in function <...ce\\AddOns\\DataStore\\libs\\AceComm-3.0\\AceComm-3.0.lua:246>",
+			["session"] = 1694,
+			["counter"] = 1,
+		}, -- [4]
 	},
 }
