@@ -5,45 +5,18 @@ JambaFTLProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
+		["Toshaman - Kil'jaeden"] = {
 			["CharListWithModifiers"] = {
 				["Toshpal-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 				["Toshaman-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["rshift"] = false,
-					["lctrl"] = false,
-					["lalt"] = false,
-				},
-				["Toshdk-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-				["Toshdk-Kil'Jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-				["Tosh-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -54,9 +27,27 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshaman - Kil'jaeden"] = {
+		["Default"] = {
 			["CharListWithModifiers"] = {
 				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Toshaman-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Toshdk-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -65,7 +56,16 @@ JambaFTLProfileDB = {
 					["lctrl"] = false,
 					["lalt"] = false,
 				},
-				["Toshaman-Kil'jaeden"] = {
+				["Toshdk-Kil'Jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Tosh-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -83,8 +83,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Tosh-Kil'jaeden"] = {
@@ -92,8 +92,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Toshaman-Kil'jaeden"] = {
@@ -101,8 +101,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},

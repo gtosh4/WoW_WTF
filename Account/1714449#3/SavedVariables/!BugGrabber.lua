@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1330,
 	["lastSanitation"] = 3,
+	["session"] = 1331,
 	["errors"] = {
 		{
 			["message"] = "...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua:386: attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)",
@@ -29,8 +29,8 @@ BugGrabberDB = {
 		}, -- [3]
 		{
 			["message"] = "(null)",
-			["session"] = 1262,
 			["time"] = "2020/01/20 03:10:47",
+			["session"] = 1262,
 			["counter"] = 6,
 		}, -- [4]
 		{
