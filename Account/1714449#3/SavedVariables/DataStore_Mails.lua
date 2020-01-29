@@ -11,49 +11,49 @@ DataStore_MailsDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1579037225,
+				["lastVisitDate"] = "2020/01/14 16:27",
 				["MailCache"] = {
 					{
 						["sender"] = "Voidamental",
 						["count"] = 30,
 						["link"] = "|cffffffff|Hitem:158188::::::::120:263::::::|h[Crimson Ink]|h|r",
-						["lastCheck"] = 1579070839,
 						["icon"] = 2178489,
+						["lastCheck"] = 1579070839,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
 						["sender"] = "Voidamental",
 						["count"] = 30,
 						["link"] = "|cffffffff|Hitem:158187::::::::120:263::::::|h[Ultramarine Ink]|h|r",
-						["lastCheck"] = 1579070839,
 						["icon"] = 2178529,
+						["lastCheck"] = 1579070839,
 						["daysLeft"] = 30,
 					}, -- [2]
 					{
 						["sender"] = "Voidamental",
 						["count"] = 29,
 						["link"] = "|cffffffff|Hitem:168663::::::::120:263::::::|h[Maroon Ink]|h|r",
-						["lastCheck"] = 1579070839,
 						["icon"] = 3007458,
+						["lastCheck"] = 1579070839,
 						["daysLeft"] = 30,
 					}, -- [3]
 					{
 						["sender"] = "Voidamental",
 						["count"] = 19,
 						["link"] = "|cff1eff00|Hitem:158189::::::::120:263::::::|h[Viridescent Ink]|h|r",
-						["lastCheck"] = 1579070839,
 						["icon"] = 2178532,
+						["lastCheck"] = 1579070839,
 						["daysLeft"] = 30,
 					}, -- [4]
 				},
-				["lastVisitDate"] = "2020/01/14 16:27",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1580104888,
-				["lastVisitDate"] = "2020/01/27 01:01",
+				["lastUpdate"] = 1580240581,
+				["lastVisitDate"] = "2020/01/28 14:43",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1580090320,
-				["lastVisitDate"] = "2020/01/26 20:58",
+				["lastUpdate"] = 1580274483,
+				["lastVisitDate"] = "2020/01/29 00:08",
 			},
 		},
 	},

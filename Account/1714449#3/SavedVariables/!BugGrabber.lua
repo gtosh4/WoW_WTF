@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1338,
 	["lastSanitation"] = 3,
-	["session"] = 1331,
 	["errors"] = {
 		{
 			["message"] = "...ddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character-Character.lua:386: attempt to call global 'C_SpecializationInfo_GetInspectSelectedPvpTalent' (a nil value)",
@@ -29,8 +29,8 @@ BugGrabberDB = {
 		}, -- [3]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/01/20 03:10:47",
 			["session"] = 1262,
+			["time"] = "2020/01/20 03:10:47",
 			["counter"] = 6,
 		}, -- [4]
 		{
@@ -72,21 +72,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [9]
 		{
-			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
-			["time"] = "2020/01/20 17:24:36",
-			["locals"] = "leftX = nil\nleftY = nil\nrightX = 1300\nrightY = 1608.130005\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
-			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
-			["session"] = 1292,
-			["counter"] = 25,
-		}, -- [10]
-		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
 			["time"] = "2020/01/20 20:19:40",
 			["locals"] = "(*temporary) = AceEvent30Frame {\n 0 = <userdata>\n}\n(*temporary) = \"AUCTION_OWNED_LIST_UPDATE\"\n",
 			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1301,
 			["counter"] = 3,
-		}, -- [11]
+		}, -- [10]
 		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_BIDDER_LIST_UPDATE\"",
 			["time"] = "2020/01/20 20:19:41",
@@ -94,14 +86,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1301,
 			["counter"] = 3,
-		}, -- [12]
+		}, -- [11]
 		{
 			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:37: Attempt to unregister unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
 			["time"] = "2020/01/20 20:21:15",
 			["stack"] = "[string \"=[C]\"]: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:37: in function `OnUnused'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:164: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\DataStore_Auctions\\DataStore_Auctions-r51.lua\"]:233: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1301,
 			["counter"] = 3,
-		}, -- [13]
+		}, -- [12]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/01/20 02:34:48",
@@ -109,7 +101,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 1306,
 			["counter"] = 12,
-		}, -- [14]
+		}, -- [13]
 		{
 			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:7610: script ran too long",
 			["time"] = "2020/01/21 00:41:08",
@@ -117,7 +109,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:7610: in function `RefreshOptions'\n[string \"@Interface\\AddOns\\Hekili\\Classes.lua\"]:4891: in function `SpecializationChanged'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:240: in function `handler'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:60: in function <Interface\\AddOns\\Hekili\\Events.lua:54>",
 			["session"] = 1306,
 			["counter"] = 2,
-		}, -- [15]
+		}, -- [14]
 		{
 			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:6161: script ran too long",
 			["time"] = "2020/01/23 03:26:50",
@@ -125,15 +117,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:6161: in function `EmbedPackOptions'\n[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:7603: in function `RefreshOptions'\n[string \"@Interface\\AddOns\\Hekili\\Classes.lua\"]:4891: in function `SpecializationChanged'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:240: in function `handler'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:60: in function <Interface\\AddOns\\Hekili\\Events.lua:54>",
 			["session"] = 1306,
 			["counter"] = 2,
-		}, -- [16]
-		{
-			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
-			["time"] = "2020/01/23 12:57:28",
-			["locals"] = "(*temporary) = \"Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)\"\n",
-			["stack"] = "[string \"=[C]\"]: in function `GetSpellsDisplay'\n[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents-Talents.lua\"]:158: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:142>\n[string \"=[C]\"]: in function `PlayerTalentFrame_UpdateSpecFrame'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:417: in function `PlayerTalentFrame_Refresh'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>",
-			["session"] = 1308,
-			["counter"] = 1,
-		}, -- [17]
+		}, -- [15]
 		{
 			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4781: attempt to perform arithmetic on local 'player' (a nil value)",
 			["time"] = "2020/01/23 16:35:29",
@@ -141,7 +125,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4781: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4741>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4964: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
 			["session"] = 1309,
 			["counter"] = 8,
-		}, -- [18]
+		}, -- [16]
 		{
 			["message"] = "invalid key to 'next'",
 			["time"] = "2020/01/25 15:34:44",
@@ -149,7 +133,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `(for generator)'\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:49: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:46>\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:56: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:55>",
 			["session"] = 1319,
 			["counter"] = 1,
-		}, -- [19]
+		}, -- [17]
 		{
 			["message"] = "Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua:310: attempt to index field '?' (a nil value)",
 			["time"] = "2020/01/26 00:10:54",
@@ -157,6 +141,22 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BigWigs_Nyalotha\\NZoth.lua\"]:310: in function `?'\n[string \"@Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua\"]:463: in function <Interface\\AddOns\\BigWigs_Core\\BossPrototype.lua:429>",
 			["session"] = 1323,
 			["counter"] = 9,
+		}, -- [18]
+		{
+			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
+			["time"] = "2020/01/23 12:57:28",
+			["locals"] = "(*temporary) = \"Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetSpellsDisplay'\n[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents-Talents.lua\"]:158: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:142>\n[string \"=[C]\"]: in function `PlayerTalentFrame_UpdateSpecFrame'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:417: in function `PlayerTalentFrame_Refresh'\n[string \"@Interface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua\"]:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>",
+			["session"] = 1337,
+			["counter"] = 2,
+		}, -- [19]
+		{
+			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
+			["time"] = "2020/01/20 17:24:36",
+			["locals"] = "leftX = nil\nleftY = nil\nrightX = 1300\nrightY = 1608.130005\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
+			["session"] = 1337,
+			["counter"] = 37,
 		}, -- [20]
 	},
 }
