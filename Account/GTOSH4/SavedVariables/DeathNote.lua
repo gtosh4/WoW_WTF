@@ -5,10 +5,10 @@ DeathNoteDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -18,17 +18,17 @@ DeathNoteDB = {
 		["Toshpal - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["y"] = 29.68511962890625,
+				["h"] = 734.4655151367188,
 				["columns"] = {
 					nil, -- [1]
 					90.00011444091797, -- [2]
 					nil, -- [3]
 					159.37109375, -- [4]
 				},
-				["w"] = 1027.043823242188,
-				["y"] = 29.68511962890625,
-				["x"] = 1103.397399902344,
-				["h"] = 734.4655151367188,
 				["namelist"] = 2,
+				["w"] = 1027.043823242188,
+				["x"] = 1103.397399902344,
 			},
 		},
 		["Toshtrial - Blood Furnace"] = {
@@ -37,15 +37,7 @@ DeathNoteDB = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Tosh - Kil'jaeden"] = {
-			["searchbox_text"] = "",
-			["display"] = {
-				["y"] = 302.193634033203,
-				["namelist"] = 2,
-				["h"] = 500.000183105469,
-				["w"] = 699.999633789063,
-				["x"] = 1047.78375244141,
-			},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
@@ -59,7 +51,15 @@ DeathNoteDB = {
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Tosh - Kil'jaeden"] = {
+			["searchbox_text"] = "",
+			["display"] = {
+				["y"] = 302.193634033203,
+				["namelist"] = 2,
+				["h"] = 500.000183105469,
+				["w"] = 699.999633789063,
+				["x"] = 1047.78375244141,
+			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["searchbox_text"] = "",
@@ -86,9 +86,9 @@ DeathNoteDB = {
 		["Toshdk - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["w"] = 700.0000610351562,
 				["y"] = 205.2828979492188,
 				["x"] = 842.2639465332031,
-				["w"] = 700.0000610351562,
 			},
 		},
 	},

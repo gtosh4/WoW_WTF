@@ -5,10 +5,10 @@ DataStore_SpellsDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -17,7 +17,7 @@ DataStore_SpellsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580274719,
+				["lastUpdate"] = 1580366392,
 				["Spells"] = {
 					["Unholy"] = {
 						12468992, -- [1]
@@ -620,7 +620,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1580279350,
+				["lastUpdate"] = 1580365190,
 				["Spells"] = {
 					["Protection"] = {
 						8153600, -- [1]
@@ -656,36 +656,39 @@ DataStore_SpellsDB = {
 						8146176, -- [2]
 						8162304, -- [3]
 						13712128, -- [4]
-						267264, -- [5]
-						261632, -- [6]
-						1776640, -- [7]
-						1276672, -- [8]
-						6802688, -- [9]
-						31022848, -- [10]
-						9061120, -- [11]
-						127488, -- [12]
-						164352, -- [13]
-						48840704, -- [14]
-						5056000, -- [15]
-						218368, -- [16]
-						15903744, -- [17]
-						27087104, -- [18]
-						21075456, -- [19]
-						5241088, -- [20]
-						70597888, -- [21]
-						162048, -- [22]
-						21816832, -- [23]
-						47103488, -- [24]
-						1875968, -- [25]
-						5136896, -- [26]
-						8249088, -- [27]
-						13715456, -- [28]
-						47103232, -- [29]
+						59300352, -- [5]
+						267264, -- [6]
+						261632, -- [7]
+						1776640, -- [8]
+						51283712, -- [9]
+						1276672, -- [10]
+						6802688, -- [11]
+						31022848, -- [12]
+						9061120, -- [13]
+						59306752, -- [14]
+						127488, -- [15]
+						164352, -- [16]
+						48840704, -- [17]
+						5056000, -- [18]
+						218368, -- [19]
+						15903744, -- [20]
+						21075456, -- [21]
+						5241088, -- [22]
+						69863936, -- [23]
+						70597888, -- [24]
+						59300864, -- [25]
+						162048, -- [26]
+						21816832, -- [27]
+						47103488, -- [28]
+						1875968, -- [29]
+						8249088, -- [30]
+						13715456, -- [31]
+						47103232, -- [32]
 					},
 					["General"] = {
 						1690368, -- [1]
-						75615488, -- [2]
-						74944512, -- [3]
+						74944512, -- [2]
+						75586048, -- [3]
 						50101760, -- [4]
 						21493248, -- [5]
 						72180224, -- [6]
@@ -730,19 +733,18 @@ DataStore_SpellsDB = {
 						1875968, -- [20]
 						47273472, -- [21]
 						21825536, -- [22]
-						68440064, -- [23]
-						59306752, -- [24]
+						65519872, -- [23]
+						68440064, -- [24]
 						8249088, -- [25]
-						59305728, -- [26]
-						68432896, -- [27]
-						46959360, -- [28]
+						68432896, -- [26]
+						46959360, -- [27]
 					},
 				},
 				["SpellTabs"] = {
 					"General", -- [1]
-					"Holy", -- [2]
-					"Protection", -- [3]
-					"Retribution", -- [4]
+					"Retribution", -- [2]
+					"Holy", -- [3]
+					"Protection", -- [4]
 				},
 			},
 			["Default.Kil'jaeden.Tosku"] = {
