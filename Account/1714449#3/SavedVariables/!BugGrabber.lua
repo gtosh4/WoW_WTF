@@ -1,15 +1,37 @@
 
 BugGrabberDB = {
+	["session"] = 1360,
 	["lastSanitation"] = 3,
-	["session"] = 1345,
 	["errors"] = {
 		{
-			["message"] = "...\\Blizzard_GarrisonUI\\Blizzard_GarrisonShipyardUI.lua:1444: attempt to perform arithmetic on field 'yspacing' (a nil value)",
-			["time"] = "2020/01/29 20:27:23",
-			["locals"] = "self = GarrisonShipyardMapMissionTooltip {\n SiegebreakerWarning = <unnamed> {\n }\n Lines = <table> {\n }\n Description = <unnamed> {\n }\n PixelSnapDisabled = true\n MissionExpires = <unnamed> {\n }\n RewardString = <unnamed> {\n }\n MissionDuration = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n pixelBorders = <table> {\n }\n SetBackdropBorderColor = <function> defined =[C]:-1\n BonusEffect = <unnamed> {\n }\n TimeRemaining = <unnamed> {\n }\n InProgress = <unnamed> {\n }\n InProgressTimeLeft = <unnamed> {\n }\n template = \"Transparent\"\n Ship2 = <unnamed> {\n }\n RareMission = <unnamed> {\n }\n SuccessChance = <unnamed> {\n }\n BonusTitle = <unnamed> {\n }\n Ship3 = <unnamed> {\n }\n Ships = <table> {\n }\n NumFollowers = <unnamed> {\n }\n Ship1 = <unnamed> {\n }\n 0 = <userdata>\n Name = <unnamed> {\n }\n ShipsString = <unnamed> {\n }\n BonusReward = <unnamed> {\n }\n SetBackdropColor = <function> defined =[C]:-1\n BonusEffects = <table> {\n }\n Reward = <unnamed> {\n }\n}\ntooltipFrame = GarrisonShipyardMapMissionTooltip {\n SiegebreakerWarning = <unnamed> {\n }\n Lines = <table> {\n }\n Description = <unnamed> {\n }\n PixelSnapDisabled = true\n MissionExpires = <unnamed> {\n }\n RewardString = <unnamed> {\n }\n MissionDuration = <unnamed> {\n }\n ItemTooltip = <unnamed> {\n }\n pixelBorders = <table> {\n }\n SetBackdropBorderColor = <function> defined =[C]:-1\n BonusEffect = <unnamed> {\n }\n TimeRemaining = <unnamed> {\n }\n InProgress = <unnamed> {\n }\n InProgressTimeLeft = <unnamed> {\n }\n template = \"Transparent\"\n Ship2 = <unnamed> {\n }\n RareMission = <unnamed> {\n }\n SuccessChance = <unnamed> {\n }\n BonusTitle = <unnamed> {\n }\n Ship3 = <unnamed> {\n }\n Ships = <table> {\n }\n NumFollowers = <unnamed> {\n }\n Ship1 = <unnamed> {\n }\n 0 = <userdata>\n Name = <unnamed> {\n }\n ShipsString = <unnamed> {\n }\n BonusReward = <unnamed> {\n }\n SetBackdropColor = <function> defined =[C]:-1\n BonusEffects = <table> {\n }\n Reward = <unnamed> {\n }\n}\ntooltipWidth = 250\ntextNaturalWrapWidth = 250\ntooltipHeight = 293.490690\n(*temporary) = 319.490688\n(*temporary) = nil\n(*temporary) = 25.999998\n(*temporary) = 1\n(*temporary) = false\n(*temporary) = <unnamed> {\n 0 = <userdata>\n Name = <unnamed> {\n }\n Description = <unnamed> {\n }\n Icon = <unnamed> {\n }\n yspacing = 8\n}\n(*temporary) = false\n(*temporary) = <function> defined =[C]:-1\n(*temporary) = \"attempt to perform arithmetic on field 'yspacing' (a nil value)\"\n",
-			["stack"] = "[string \"@Interface\\AddOns\\Blizzard_GarrisonUI\\Blizzard_GarrisonShipyardUI.lua\"]:1444: in function `GarrisonShipyardMapMission_UpdateTooltipSize'\n[string \"*:OnSizeChanged\"]:1: in function <[string \"*:OnSizeChanged\"]:1>\n[string \"=[C]\"]: in function `GetHeight'\n[string \"@Interface\\AddOns\\TellMeWhen\\Components\\GroupModules\\GroupModule_GroupPosition\\Config.lua\"]:67: in function `OnSuggest'\n[string \"@Interface\\AddOns\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua\"]:383: in function `NameOnCursor'\n[string \"@Interface\\AddOns\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua\"]:499: in function <...s\\TellMeWhen\\Components\\Core\\Suggester\\Suggester.lua:480>",
-			["session"] = 1342,
+			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
+			["time"] = "2020/01/30 20:27:17",
+			["locals"] = "(*temporary) = AceEvent30Frame {\n 0 = <userdata>\n}\n(*temporary) = \"AUCTION_OWNED_LIST_UPDATE\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1358,
 			["counter"] = 1,
 		}, -- [1]
+		{
+			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:33: Attempt to register unknown event \"AUCTION_BIDDER_LIST_UPDATE\"",
+			["time"] = "2020/01/30 20:27:17",
+			["locals"] = "(*temporary) = AceEvent30Frame {\n 0 = <userdata>\n}\n(*temporary) = \"AUCTION_BIDDER_LIST_UPDATE\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:33: in function `OnUsed'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:76: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1358,
+			["counter"] = 1,
+		}, -- [2]
+		{
+			["message"] = "...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua:37: Attempt to unregister unknown event \"AUCTION_OWNED_LIST_UPDATE\"",
+			["time"] = "2020/01/30 20:27:41",
+			["stack"] = "[string \"=[C]\"]: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:37: in function `OnUnused'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:164: in function `UnregisterEvent'\n[string \"@Interface\\AddOns\\DataStore_Auctions\\DataStore_Auctions-r51.lua\"]:233: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1358,
+			["counter"] = 1,
+		}, -- [3]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
+			["time"] = "2020/01/30 20:41:33",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:36: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
+			["session"] = 1358,
+			["counter"] = 1,
+		}, -- [4]
 	},
 }

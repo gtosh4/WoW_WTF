@@ -24,72 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted |cff71d5ff|Hspell:288693:0|h[Grave Bolt]|h|r on Tormented Soul", -- [1]
-			"Wraithbrand-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wraithbrand-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-9-0A6CF05A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Wraithbrand|r",
-			[51] = 1562636450,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Risen Soul {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1562636454,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Interrupted Dazar'ai Augur's |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r!", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			248, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1562636471,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
 			"Interrupted |cff71d5ff|Hspell:253562:0|h[Wildfire]|h|r on Dazar'ai Augur", -- [1]
 			"Wraithbrand-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithbrand|r",
 			[51] = 1562636481,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
+		}, -- [1]
 		{
 			"wtttttttttf", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1562636551,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
+		}, -- [2]
 		{
 			"|cff0070dd|Hitem:169155::::::::120:269:::1:3524:::|h[Scrapmaster's Blowtorch]|h|r", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1562636553,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
+		}, -- [3]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 162.3k (69%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636595,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
+		}, -- [4]
 		{
 			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 98.3k (41%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636598,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
+		}, -- [5]
 		{
 			"<EH> Fearings got hit by |cff71d5ff|Hspell:257692:0|h[Tiki Blaze]|h|r for 131.5k (54%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636598,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [6]
 		{
 			"looks good", -- [1]
 			"Muffinss-Kil'jaeden", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Muffinss|r",
 			[51] = 1562636609,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
+		}, -- [7]
 		{
 			"<EH> Illsong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 126.4k (53%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636625,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [8]
 		{
 			"<EH> Fearings got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 108.6k (44%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636625,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [9]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 139.9k (59%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636627,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
+		}, -- [10]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636641,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [11]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636660,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
+		}, -- [12]
 		{
 			"<EH> Fearings got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 119.9k (49%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636668,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [13]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636677,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [14]
 		{
 			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 104.3k (44%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636680,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [15]
 		{
 			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 168.5k (70%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636731,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [16]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 325.2k (138%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636750,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
+		}, -- [17]
 		{
 			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636756,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [18]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1562636774,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [19]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1562636774,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
+		}, -- [20]
 		{
 			"<EH> Illsong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 146.6k (62%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636790,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
+		}, -- [21]
 		{
 			"<EH> Wraithbrand got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 342.3k (143%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636793,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [22]
 		{
 			"<EH> Yorman got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 160.5k (68%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636797,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+		}, -- [23]
 		{
 			"<EH> Illsong got hit by |cff71d5ff|Hspell:250022:0|h[Echoes of Shadra]|h|r for 146.3k (62%).", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636797,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+		}, -- [24]
 		{
 			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636816,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [25]
 		{
 			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [26]
 		{
 			"1. Orcbum 601.9k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
+		}, -- [27]
 		{
 			"2. Fearings 620.0k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [28]
 		{
 			"3. Illsong 687.4k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
+		}, -- [29]
 		{
 			"4. Yorman 1165.6k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [30]
 		{
 			"5. Wraithbrand 1555.2k", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1562636824,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [31]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:245:14:9:7:13:117|h[Keystone: Freehold (14)]|h|r", -- [1]
 			"Yorman-Kil'jaeden", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yorman|r",
 			[51] = 1562636844,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [32]
 		{
 			"this pug healer in discord", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1564712976,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [33]
 		{
 			"he's stressed maybe", -- [1]
 			"Quivna-Kil'jaeden", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeQuivna|r",
 			[51] = 1564712986,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [34]
 		{
 			"FUCKING", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1564712987,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [35]
 		{
 			"YIKES", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1564712988,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [36]
 		{
 			"lolll", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1564712991,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [37]
 		{
 			"lmfao", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1564712999,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [38]
 		{
 			"he's a big boy", -- [1]
 			"Phavikoos-Kil'jaeden", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPhavikoos|r",
 			[51] = 1564713001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [39]
 		{
 			"does he have voice activation or p2t", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1564713011,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [40]
 		{
 			"Id hope for his sake it's voice", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1564713023,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [41]
 		{
 			"if hes holding down a button just so we hear him breathe... that's a yikes", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1564713036,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [42]
 		{
 			"that bad to make fun of disable people ...", -- [1]
 			"Quivna-Kil'jaeden", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeQuivna|r",
 			[51] = 1564713038,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [43]
 		{
 			"i've known people like thta", -- [1]
 			"Clea-Kil'jaeden", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Clea|r",
 			[51] = 1564713055,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [44]
 		{
 			"can we leave.", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1564713059,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [45]
 		{
 			"if he's holding button down just so you guys can hear him breath, that's hilarious", -- [1]
 			"Phavikoos-Kil'jaeden", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPhavikoos|r",
 			[51] = 1564713060,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [46]
 		{
 			"asmon trying to six heal first boss LULW", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564948029,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [47]
 		{
 			"hah like us", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1564948039,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [48]
 		{
 			"was gonna say... lol", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564948067,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [49]
 		{
 			"yeah but they're still more downy than us", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1564948072,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [50]
 		{
 			"imagine crushing reverbing your melee dps", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948274,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [51]
 		{
 			"amiright", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948275,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [52]
 		{
 			"EZ Clap", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948286,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [53]
 		{
 			"it's just melee amiright", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948304,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [54]
 		{
 			"is it gonna enrage?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948378,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [55]
 		{
 			"lol.", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948379,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [56]
 		{
 			"i'm popping all my cds dead", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948399,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [57]
 		{
 			"called it", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948401,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [58]
 		{
 			"enrag", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948403,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [59]
 		{
 			"yup lmao", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948406,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [60]
 		{
 			"lol", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948501,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [61]
 		{
 			"yeah andruww run netherwealk", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948506,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [62]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12568:Player-9-0B7483EE:1:8:4:19:4294967295:4294967295:4294967295:4294967295|h[The Alliance Slayer]|h|r!", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1474,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564948520,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [66]
+		}, -- [63]
 		{
 			"y", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1496,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1564948523,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [64]
 		{
 			"don't ever play like a dh andruw", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1518,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948524,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [65]
 		{
 			"netherwalk is trash", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1540,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1564948532,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
+		}, -- [66]
 		{
 			"ik lol", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1562,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948544,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [67]
 		{
 			"we did it team", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1584,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564948565,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [68]
 		{
 			"asmon bis raid leader", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1606,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948639,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [69]
 		{
 			"\" i can pay someone to program a bot to play better than you do. \" ", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1628,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948651,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [70]
 		{
 			"yikes", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1650,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948653,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [71]
 		{
 			"all i had to do was stand outside of town with a bounty and a raid group of them showed up in 30 seconds", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1672,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564948657,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [72]
 		{
 			"it's great", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1694,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948684,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [73]
 		{
 			"just dont die", -- [1]
 			"Adezero-Kil'jaeden", -- [2]
@@ -1716,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAdezero|r",
 			[51] = 1564948831,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [74]
 		{
 			"awe their dh died", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1738,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948870,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [75]
 		{
 			"and left", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1760,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948872,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [76]
 		{
 			"again", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1782,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948873,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [77]
 		{
 			"how do you die as a dh", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1804,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564948883,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [78]
 		{
 			"he didn't vengeful retreat", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1826,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564948895,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [79]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13751:Player-9-0AE5ED9C:1:8:4:19:4294967295:4294967295:4294967295:4294967295|h[Veteran: Poen Gillbrack]|h|r!", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -1848,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1564948948,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
+		}, -- [80]
 		{
 			"fuck this ret pally", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1870,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949260,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [81]
 		{
 			"440 getiku", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1892,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949263,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [82]
 		{
 			"who?", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1914,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564949309,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [83]
 		{
 			"in asmons stream", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1936,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949317,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [84]
 		{
 			"isnt 13 stacks a lot on first boss", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1958,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949362,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [85]
 		{
 			"..?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -1980,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949365,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [86]
 		{
 			"5 stacks is a lot", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2002,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949377,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [87]
 		{
 			"if that gives you an idea", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2024,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949384,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [88]
 		{
 			"hmmm, that paly has done one kr above a 10, and depleted it", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -2046,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564949393,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [89]
 		{
 			"good thing ", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2068,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949393,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [90]
 		{
 			"they have 6 healers", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2090,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949395,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [91]
 		{
 			"wonder where he got it", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -2112,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564949396,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [92]
 		{
 			"link", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2134,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949415,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [93]
 		{
 			"440 is box ", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2156,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949432,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [94]
 		{
 			"maybe", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2178,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949433,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [95]
 		{
 			"idk", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2200,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949434,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [96]
 		{
 			"odds are strong it's box loot, yup lol", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -2222,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1564949453,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [100]
+		}, -- [97]
 		{
 			"hold up", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2244,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949527,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
+		}, -- [98]
 		{
 			"did that monk just roll out of the crush", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2266,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949533,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [99]
 		{
 			"CAN YOU AVOID IT COMPLETELY", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2288,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949541,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [100]
 		{
 			"HMMM", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2310,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949543,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [101]
 		{
 			"wait the tank crush?", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2332,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949552,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [102]
 		{
 			"yeah", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2354,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949555,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [103]
 		{
 			"dunno that's badass if he can", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2376,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949565,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [104]
 		{
 			"just intercept oreo", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2398,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949585,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [105]
 		{
 			"fuck i want to try it nowl ol", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2420,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1564949606,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [106]
 		{
 			"join a normal pug lol", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2442,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949630,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [107]
 		{
 			"or lfr", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2464,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949636,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [108]
 		{
 			"i love lfr", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2486,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1564949661,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [109]
 		{
 			"ez runes", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2508,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949678,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [110]
 		{
 			"lfr is the only time i hope i don't lget gear to drop", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2530,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949689,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [111]
 		{
 			"just bring 7 healers 4HEad", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -2552,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1564949738,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [112]
 		{
 			"soo uhh", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2574,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387508,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [113]
 		{
 			"Timewalking rings have int on them?", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2596,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387512,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [114]
 		{
 			"|cff0070dd|Hitem:133255::::::::120:72:512:22:2:6314:6313:120:::|h[Spirit Creeper Ring]|h|r", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2618,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387516,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [115]
 		{
 			"fuck sockets just get 200 main stat from the ring instead", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2640,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387537,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [116]
 		{
 			"err", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2662,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387542,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [117]
 		{
 			"secondaries", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2684,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387544,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [118]
 		{
 			"all TW has primary stats on em", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -2706,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1565387545,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [119]
 		{
 			"why not both?", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2728,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1565387549,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [120]
 		{
 			"GAME CHANGER", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2750,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1565387560,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [121]
 		{
 			"super low seconday stats tho", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2772,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1565387575,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [122]
 		{
 			"compare to |cffa335ee|Hitem:165567:5942:::::::120:63::5:3:4799:1522:4786:::|h[Seal of the Zandalari Empire]|h|r at 400", -- [1]
 			"Peestain-Kil'jaeden", -- [2]
@@ -2794,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Peestain|r",
 			[51] = 1565387586,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [123]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11213:Player-9-0B390464:1:8:9:19:4294967295:4294967295:4294967295:4294967295|h[Lead a Legion]|h|r!", -- [1]
 			"Iko-Kil'jaeden", -- [2]
@@ -2816,6 +2750,72 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Iko|r",
 			[51] = 1565388461,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"theres a daily that will turn into a war zone soon if I had to guess", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1580400693,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"but everyone just ignoring each other to do it right now", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1580400701,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"lol", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1580400730,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

@@ -3,136 +3,161 @@ TMWOptDB = {
 	["locale"] = {
 		["enus"] = {
 			["ItemCache"] = {
+				[1579388745] = {
+					[169765] = "worldvein intelligence reports",
+					[44599] = "zippy copper racer",
+				},
 				[1580352904] = {
+					[173819] = "nefarious tormentor's waistguard",
+					[165581] = "crest of pa'ku",
+					[174955] = "nefarious tormentor's vambraces",
+					[165535] = "simian berserker's helm",
+					[160149] = "saurifeather garments",
+					[159356] = "raoul's barrelhook bracers",
+					[165923] = "tidal shroud spaulders",
+					[162548] = "thornwoven band",
+					[158778] = "mucose tendril",
+					[173840] = "nefarious tormentor's chestpiece",
+					[159460] = "overseer's lost seal",
+					[159402] = "waistguard of sanguine fervor",
+					[169704] = "notorious gladiator's chopper",
+					[155601] = "pointy leg segment",
+					[168904] = "current-weaver's gavel",
+					[158317] = "gauntlets of eternal service",
 					[172663] = "corrupted gladiator's ring",
+					[5512] = "healthstone",
+					[168870] = "tanglekelp waistwrap",
+					[168874] = "cherished empress's leggings",
+					[165532] = "gonk's scale robes",
+					[172849] = "corrupted aspirant's badge",
+				},
+				[1579766078] = {
+					[171320] = "void focus",
+					[174758] = "voidwarped relic fragment",
+					[165711] = "gold strongbox",
+					[155605] = "huge femur",
+				},
+				[1580003195] = {
+					[173422] = "black empire plate bracers",
+					[138729] = "potion of heightened senses",
+					[174761] = "aqir relic",
+					[173404] = "black empire mail leggings",
+					[113509] = "conjured mana bun",
+					[154898] = "meaty haunch",
+					[173408] = "black empire leather boots",
+					[138488] = "saltwater potion",
+					[174768] = "cursed relic",
+					[173423] = "black empire cloth bracers",
+				},
+				[1580432649] = {
 					[165948] = "tidalcore",
 					[2459] = "swiftness potion",
-					[116268] = "draenic invisibility potion",
+					[167377] = "notorious gladiator's medallion",
 					[174759] = "mogu relic fragment",
-					[169314] = "azshara's font of power",
-					[169489] = "azsh'ari stormsurger cape",
-					[168870] = "tanglekelp waistwrap",
-					[159361] = "shalebiter interlinked chain",
-					[168267] = "suntouched figurine",
-					[174760] = "mantid relic fragment",
-					[174268] = "loop of abhorrent celerity",
-					[173840] = "nefarious tormentor's chestpiece",
-					[157886] = "dreadmire vest",
-					[174158] = "watcher's scheming girdle",
+					[158202] = "war-scroll of battle shout",
+					[173363] = "vessel of horrific visions",
+					[163473] = "sonic stone",
+					[165680] = "igneous winterskorn loop",
+					[168903] = "scepter of the azsh'ari",
+					[169332] = "strange mineralized water",
+					[169856] = "spark-1351",
 					[169872] = "irontide lockbox key",
-					[159663] = "g0-4w4y crowd repeller",
-					[168904] = "current-weaver's gavel",
-					[172201] = "bloodstained ritual athame",
-					[155601] = "pointy leg segment",
+					[159236] = "headdress of the first empire",
+					[166999] = "treasure map",
+					[159268] = "inmate's straight robe",
 					[167555] = "pocket-sized computation device",
-					[169223] = "ashjra'kamas, shroud of resolve",
-					[159460] = "overseer's lost seal",
-					[174533] = "ring of cosmic potential",
-					[173465] = "nefarious tormentor's gloves",
-					[168270] = "rusty mechaspider",
-					[158308] = "souldrifting sabatons",
+					[174953] = "vile manipulator's wristwraps",
+					[171318] = "recipe: unbound alchemist stone",
 					[163222] = "battle potion of intellect",
-					[169334] = "strange oceanic sediment",
-					[173414] = "black empire cloth robes",
-					[158317] = "gauntlets of eternal service",
-					[168874] = "cherished empress's leggings",
-					[171176] = "shred of insanity",
-					[168652] = "greater flask of endless fathoms",
-					[171208] = "suntouched amulet",
-					[158778] = "mucose tendril",
-					[168446] = "enchant ring - accord of critical strike",
-					[157921] = "pa'ku windrider helm",
-					[172669] = "corrupted gladiator's badge",
-					[172494] = "baruk idol",
-					[174149] = "dreamer's unblinking pauldrons",
-					[158075] = "heart of azeroth",
+					[173398] = "black empire plate spaulders",
+					[169223] = "ashjra'kamas, shroud of resolve",
 					[168271] = "stolen ramkahen banner",
-					[169451] = "abyssal healing potion",
-					[165679] = "ornate elun'dris ring",
-					[165923] = "tidal shroud spaulders",
-					[168352] = "scalemail of unnatural selection",
-					[159356] = "raoul's barrelhook bracers",
-					[168638] = "leviathan's eye of intellect",
-					[172746] = "corrupted gladiator's chopper",
-					[168310] = "mech-dowel's \"big mech\"",
-					[157891] = "dreadmire shoulderguards",
-					[158923] = "mythic keystone",
-					[126936] = "sugar-crusted fish feast",
-					[158320] = "revitalizing voodoo totem",
-					[173449] = "nefarious tormentor's mask",
-					[168639] = "deadly lava lazuli",
-					[159384] = "corpuscular greaves",
-					[174287] = "sparks of unwavering strength",
-					[174148] = "helm of deep despair",
+					[157873] = "fen spirit headdress",
+					[172494] = "baruk idol",
+					[173399] = "black empire plate belt",
+					[154889] = "grilled catfish",
+					[159620] = "conch of dark whispers",
+					[167383] = "notorious gladiator's maledict",
+					[169304] = "leviathan's lure",
+					[168447] = "enchant ring - accord of haste",
+					[163872] = "honorbound war staff",
+					[173845] = "vile manipulator's hood",
+					[167384] = "notorious gladiator's safeguard",
+					[152668] = "expulsom",
 					[174288] = "breath of everlasting spirit",
-					[173418] = "black empire cloth leggings",
-					[151114] = "engineered spyglass",
+					[158923] = "mythic keystone",
+					[159461] = "band of the ancient dredger",
+					[167718] = "collectable saltfin",
+					[168189] = "dark opal",
+					[159256] = "iron-kelp wristwraps",
+					[159257] = "robes of the reborn serpent",
+					[169306] = "za'qul's portal key",
+					[168371] = "seawrath legwraps",
+					[163604] = "net-o-matic 5000",
+					[168338] = "amice of the reef witch",
+					[163280] = "honorbound artificer's robes",
 					[163036] = "polished pet charm",
 					[140192] = "dalaran hearthstone",
 					[141605] = "flight master's whistle",
-					[39505] = "virtuoso inking set",
-					[169704] = "notorious gladiator's chopper",
+					[158075] = "heart of azeroth",
+					[163481] = "glittering scarab",
 					[138478] = "feast of ribs",
-					[168593] = "enchant weapon - machinist's brilliance",
-					[168355] = "servitor's heartguard",
-					[153442] = "enchant ring - pact of critical strike",
-					[152639] = "flask of endless fathoms",
-					[172848] = "corrupted aspirant's insignia",
-					[159402] = "waistguard of sanguine fervor",
+					[169590] = "burgeoning battlefield furor",
+					[168652] = "greater flask of endless fathoms",
+					[152496] = "demitri's draught of deception",
+					[159624] = "rotcrusted voodoo doll",
+					[167379] = "notorious gladiator's insignia",
+					[159275] = "wristwraps of twined morels",
 					[160053] = "battle-scarred augment rune",
 					[152576] = "tidespray linen",
-					[141446] = "tome of the tranquil mind",
+					[152813] = "monel-hardened stirrups",
 					[163784] = "seafoam coconut water",
-					[112384] = "reflecting prism",
-					[167012] = "brinestone pickaxe",
-					[163451] = "honorbound vanguard's clasp",
-					[169309] = "zoatroid egg sac",
-					[152561] = "potion of replenishment",
-					[173517] = "nefarious tormentor's striders",
-					[86143] = "battle pet bandage",
-					[174955] = "nefarious tormentor's vambraces",
-					[167738] = "gilded seaweave",
-					[160149] = "saurifeather garments",
-					[165535] = "simian berserker's helm",
-					[168802] = "nazjatar battle commendation",
-					[174279] = "encrypted ny'alothan text",
-					[165532] = "gonk's scale robes",
-					[172849] = "corrupted aspirant's badge",
-					[173819] = "nefarious tormentor's waistguard",
+					[152497] = "lightfoot potion",
+					[159244] = "stormlurker's cowl",
 					[171198] = "quartermaster's prize",
-					[162548] = "thornwoven band",
-					[159381] = "visage of bloody horrors",
-					[165581] = "crest of pa'ku",
-					[172519] = "quartermaster's note",
-					[159360] = "crashguard spaulders",
-					[5512] = "healthstone",
-					[170264] = "seasbane spyglass",
-					[19002] = "head of nefarian",
-					[169153] = "recycled crawler manifold",
-					[168893] = "hatchery scraper",
-					[171318] = "recipe: unbound alchemist stone",
-					[173363] = "vessel of horrific visions",
-					[132514] = "auto-hammer",
+					[157898] = "fen spirit wraps",
+					[152561] = "potion of replenishment",
+					[169722] = "notorious gladiator's reprieve",
+					[168341] = "siren mystic's vestments",
+					[167012] = "brinestone pickaxe",
+					[168373] = "eelskin flippers",
+					[120257] = "drums of fury",
+					[124640] = "inky black potion",
+					[168802] = "nazjatar battle commendation",
+					[168342] = "fathom-feeder's mantle",
+					[158344] = "mantle of ceremonial ascension",
+					[168215] = "machined gear assembly",
+					[167738] = "gilded seaweave",
+					[168374] = "belt of blind devotion",
+					[163620] = "island flotsam",
+					[174756] = "aqir relic fragment",
+					[168638] = "leviathan's eye of intellect",
+					[163485] = "druidic fur",
+					[174764] = "tol'vir relic fragment",
+					[168216] = "tempered plating",
+					[159463] = "loop of pulsing veins",
+					[168375] = "gloves of unshackled arcana",
+					[167375] = "notorious gladiator's band",
+					[152495] = "coastal mana potion",
+					[169312] = "luminous jellyweed",
+					[168185] = "osmenite ore",
+					[168641] = "quick sand spinel",
 					[168217] = "hardened spring",
 					[109076] = "goblin glider kit",
 					[137642] = "mark of honor",
-					[161344] = "abyssal fragment",
-					[174250] = "psyche tormentor's visage",
-					[169694] = "aqueous reliquary",
-					[169333] = "strange volcanic rock",
-					[169218] = "old rusty key",
-					[169114] = "personal time displacer",
-				},
-				[1579743854] = {
-					[166999] = "treasure map",
+					[157930] = "shadra silk robes",
+					[173436] = "vile manipulator's cinch",
+					[174287] = "sparks of unwavering strength",
+					[168313] = "baked port tato",
+					[168964] = "hyperthread boots",
+					[141446] = "tome of the tranquil mind",
 				},
 				[1579586741] = {
 					[152631] = "briny flesh",
-					[167364] = "notorious gladiator's shield wall",
-					[152577] = "deep sea satin",
 					[159959] = "nylon thread",
+					[167364] = "notorious gladiator's shield wall",
+					[158378] = "embroidered deep sea satin",
 					[168891] = "cursed lover's ring",
-					[168645] = "moist fillet",
 					[159289] = "void-drenched cape",
 					[154899] = "thick paleo steak",
 					[163366] = "honorbound vanguard's cloak",
@@ -140,119 +165,110 @@ TMWOptDB = {
 					[168303] = "rubbery flank",
 					[173453] = "nefarious tormentor's vambraces",
 					[168222] = "encrypted black market radio",
-					[158378] = "embroidered deep sea satin",
+					[152577] = "deep sea satin",
 					[159399] = "thornshaper mitts",
 					[158318] = "murky cerulean signet",
-					[168397] = "fang of the behemoth",
+					[168645] = "moist fillet",
 					[174353] = "questionable meat",
 					[86547] = "skyshard",
 					[154897] = "stringy loins",
-					[174756] = "aqir relic fragment",
-				},
-				[1579766078] = {
-					[155605] = "huge femur",
-					[174758] = "voidwarped relic fragment",
-					[165711] = "gold strongbox",
-					[171320] = "void focus",
-				},
-				[1580003195] = {
-					[173422] = "black empire plate bracers",
-					[138729] = "potion of heightened senses",
-					[174761] = "aqir relic",
-					[152668] = "expulsom",
-					[173404] = "black empire mail leggings",
-					[113509] = "conjured mana bun",
-					[173423] = "black empire cloth bracers",
-					[138488] = "saltwater potion",
-					[174768] = "cursed relic",
-					[173408] = "black empire leather boots",
-					[154898] = "meaty haunch",
+					[168397] = "fang of the behemoth",
 				},
 				[1579503884] = {
-					[152813] = "monel-hardened stirrups",
 					[173463] = "vile manipulator's gloves",
-					[168313] = "baked port tato",
-					[168447] = "enchant ring - accord of haste",
-					[167384] = "notorious gladiator's safeguard",
-					[159236] = "headdress of the first empire",
-					[163620] = "island flotsam",
-					[163604] = "net-o-matic 5000",
-					[158344] = "mantle of ceremonial ascension",
-					[159257] = "robes of the reborn serpent",
-					[159620] = "conch of dark whispers",
-					[167377] = "notorious gladiator's medallion",
-					[169590] = "burgeoning battlefield furor",
-					[168338] = "amice of the reef witch",
-					[159463] = "loop of pulsing veins",
-					[158202] = "war-scroll of battle shout",
-					[169306] = "za'qul's portal key",
-					[174953] = "vile manipulator's wristwraps",
-					[167718] = "collectable saltfin",
 					[167378] = "notorious gladiator's emblem",
-					[174764] = "tol'vir relic fragment",
-					[167379] = "notorious gladiator's insignia",
-					[120257] = "drums of fury",
-					[152495] = "coastal mana potion",
 					[158346] = "sailcloth waistband",
-					[168371] = "seawrath legwraps",
-					[159244] = "stormlurker's cowl",
-					[163473] = "sonic stone",
-					[163481] = "glittering scarab",
-					[159268] = "inmate's straight robe",
 					[174837] = "decaying fusion core",
-					[124640] = "inky black potion",
-					[152496] = "demitri's draught of deception",
-					[169332] = "strange mineralized water",
-					[157930] = "shadra silk robes",
-					[154889] = "grilled catfish",
-					[168341] = "siren mystic's vestments",
-					[168215] = "machined gear assembly",
 					[155891] = "greasy bacon-grabbers",
-					[152497] = "lightfoot potion",
-					[159624] = "rotcrusted voodoo doll",
-					[168641] = "quick sand spinel",
-					[168373] = "eelskin flippers",
 					[164562] = "firekin belt",
-					[168342] = "fathom-feeder's mantle",
 					[166846] = "spare parts",
-					[168216] = "tempered plating",
-					[168374] = "belt of blind devotion",
-					[159461] = "band of the ancient dredger",
-					[168375] = "gloves of unshackled arcana",
-					[169722] = "notorious gladiator's reprieve",
-					[163485] = "druidic fur",
-					[159256] = "iron-kelp wristwraps",
-					[169304] = "leviathan's lure",
-					[169312] = "luminous jellyweed",
-					[175053] = "ranged veterans contract",
-					[163280] = "honorbound artificer's robes",
-					[167383] = "notorious gladiator's maledict",
-					[168903] = "scepter of the azsh'ari",
-					[169856] = "spark-1351",
 					[164469] = "mrrglurggl grips",
-				},
-				[1579388745] = {
-					[169765] = "worldvein intelligence reports",
-					[44599] = "zippy copper racer",
+					[175053] = "ranged veterans contract",
 				},
 				[1580347601] = {
-					[155608] = "defiled bone",
-					[155609] = "springy eyeball",
-					[158863] = "chitinous exoskeleton",
-					[158771] = "spirit ichor",
-					[158773] = "wriggling goop",
-					[155598] = "severed mandible",
 					[174819] = "fractured aqiri idol",
-					[174820] = "discarded ny'alothan tome",
-					[155615] = "pestilent muck",
-					[174823] = "miniature plates of uldum replica",
 					[155603] = "flaky fish scales",
+					[158773] = "wriggling goop",
+					[155615] = "pestilent muck",
+					[174820] = "discarded ny'alothan tome",
 					[174824] = "depleted soul ruby",
-					[174825] = "chunk of amber",
-					[154776] = "cracked hide vest",
+					[155608] = "defiled bone",
+					[158863] = "chitinous exoskeleton",
 					[155636] = "viscous ink",
-					[174826] = "frail ceremonial spear",
+					[158771] = "spirit ichor",
+					[154776] = "cracked hide vest",
 					[155842] = "\"preserved\" foodstuffs",
+					[155598] = "severed mandible",
+					[174825] = "chunk of amber",
+					[174826] = "frail ceremonial spear",
+					[174823] = "miniature plates of uldum replica",
+					[155609] = "springy eyeball",
+				},
+				[1580401706] = {
+					[159360] = "crashguard spaulders",
+					[126936] = "sugar-crusted fish feast",
+					[169314] = "azshara's font of power",
+					[165679] = "ornate elun'dris ring",
+					[159361] = "shalebiter interlinked chain",
+					[168267] = "suntouched figurine",
+					[174760] = "mantid relic fragment",
+					[159663] = "g0-4w4y crowd repeller",
+					[157886] = "dreadmire vest",
+					[174158] = "watcher's scheming girdle",
+					[153442] = "enchant ring - pact of critical strike",
+					[169333] = "strange volcanic rock",
+					[168270] = "rusty mechaspider",
+					[169334] = "strange oceanic sediment",
+					[171176] = "shred of insanity",
+					[159381] = "visage of bloody horrors",
+					[171208] = "suntouched amulet",
+					[168446] = "enchant ring - accord of critical strike",
+					[157921] = "pa'ku windrider helm",
+					[172669] = "corrupted gladiator's badge",
+					[169114] = "personal time displacer",
+					[157891] = "dreadmire shoulderguards",
+					[158320] = "revitalizing voodoo totem",
+					[173449] = "nefarious tormentor's mask",
+					[168893] = "hatchery scraper",
+					[159384] = "corpuscular greaves",
+					[174148] = "helm of deep despair",
+					[173418] = "black empire cloth leggings",
+					[151114] = "engineered spyglass",
+					[39505] = "virtuoso inking set",
+					[174149] = "dreamer's unblinking pauldrons",
+					[168593] = "enchant weapon - machinist's brilliance",
+					[168355] = "servitor's heartguard",
+					[152639] = "flask of endless fathoms",
+					[172848] = "corrupted aspirant's insignia",
+					[169451] = "abyssal healing potion",
+					[112384] = "reflecting prism",
+					[163451] = "honorbound vanguard's clasp",
+					[169309] = "zoatroid egg sac",
+					[158308] = "souldrifting sabatons",
+					[168310] = "mech-dowel's \"big mech\"",
+					[116268] = "draenic invisibility potion",
+					[169489] = "azsh'ari stormsurger cape",
+					[174268] = "loop of abhorrent celerity",
+					[173465] = "nefarious tormentor's gloves",
+					[172746] = "corrupted gladiator's chopper",
+					[173414] = "black empire cloth robes",
+					[168639] = "deadly lava lazuli",
+					[170264] = "seasbane spyglass",
+					[19002] = "head of nefarian",
+					[172201] = "bloodstained ritual athame",
+					[168352] = "scalemail of unnatural selection",
+					[174279] = "encrypted ny'alothan text",
+					[174154] = "nightmarish chain shackles",
+					[172519] = "quartermaster's note",
+					[169218] = "old rusty key",
+					[86143] = "battle pet bandage",
+					[132514] = "auto-hammer",
+					[173517] = "nefarious tormentor's striders",
+					[174250] = "psyche tormentor's visage",
+					[169694] = "aqueous reliquary",
+					[174533] = "ring of cosmic potential",
+					[161344] = "abyssal fragment",
+					[169153] = "recycled crawler manifold",
 				},
 			},
 			["XPac_ItemCache"] = 8,
@@ -11518,7 +11534,7 @@ TMWOptDB = {
 				[305992] = 4,
 				[30067] = 7,
 				[211853] = 17,
-				[268055] = 4,
+				[183182] = 5,
 				[29887] = 6,
 				[317206] = 4,
 				[292030] = 4,
@@ -11797,7 +11813,7 @@ TMWOptDB = {
 				[314415] = 15,
 				[36311] = 3,
 				[207792] = 9,
-				[211888] = 3,
+				[146354] = 3,
 				[278623] = 5,
 				[287380] = 3,
 				[56046] = 11,
@@ -12170,7 +12186,7 @@ TMWOptDB = {
 				[187359] = 11,
 				[50614] = 8,
 				[114161] = 4,
-				[232414] = 4,
+				[300985] = 4,
 				[292781] = 4,
 				[120305] = 5,
 				[142288] = 5,
@@ -12254,8 +12270,8 @@ TMWOptDB = {
 				[236520] = 3,
 				[257927] = 3,
 				[146411] = 4,
-				[284623] = 3,
 				[292241] = 3,
+				[284623] = 3,
 				[317390] = 17,
 				[65276] = 3,
 				[67064] = 48,
@@ -12317,7 +12333,7 @@ TMWOptDB = {
 				[116218] = 5,
 				[250172] = 3,
 				[87181] = 3,
-				[122362] = 8,
+				[292830] = 18,
 				[91643] = 3,
 				[41527] = 7,
 				[95739] = 7,
@@ -12537,9 +12553,9 @@ TMWOptDB = {
 				[183309] = 5,
 				[77852] = 24,
 				[315644] = 5,
-				[138255] = 9,
 				[272158] = 6,
 				[236556] = 3,
+				[138255] = 9,
 				[259399] = 7,
 				[303682] = 4,
 				[291779] = 3,
@@ -12663,8 +12679,8 @@ TMWOptDB = {
 				[317491] = 3,
 				[146462] = 7,
 				[87993] = 3,
-				[203805] = 3,
 				[311929] = 18,
+				[203805] = 3,
 				[28549] = 10,
 				[83473] = 3,
 				[309301] = 4,
@@ -12697,9 +12713,9 @@ TMWOptDB = {
 				[75283] = 28,
 				[276541] = 114,
 				[158754] = 3,
-				[228384] = 4,
-				[301118] = 3,
+				[292925] = 14,
 				[278520] = 3,
+				[301118] = 3,
 				[284734] = 3,
 				[61194] = 17,
 				[124434] = 36,
@@ -12729,17 +12745,17 @@ TMWOptDB = {
 				[79799] = 10,
 				[300671] = 4,
 				[317508] = 3,
-				[95765] = 5,
+				[284124] = 3,
 				[83477] = 4,
 				[118292] = 5,
-				[284124] = 3,
+				[284743] = 8,
 				[89621] = 6,
 				[91669] = 8,
 				[63243] = 4,
-				[284743] = 8,
+				[95765] = 5,
 				[195622] = 5,
 				[312061] = 17,
-				[309319] = 9,
+				[138280] = 8,
 				[71190] = 3,
 				[158758] = 4,
 				[183335] = 3,
@@ -12830,9 +12846,9 @@ TMWOptDB = {
 				[227922] = 3,
 				[297403] = 8,
 				[289700] = 5,
-				[64270] = 20,
 				[259053] = 7,
 				[317534] = 12,
+				[64270] = 20,
 				[261168] = 4,
 				[83433] = 12,
 				[34575] = 5,
@@ -12864,7 +12880,7 @@ TMWOptDB = {
 				[263516] = 11,
 				[27828] = 3,
 				[105180] = 13,
-				[284775] = 6,
+				[95773] = 10,
 				[65295] = 4,
 				[99869] = 6,
 				[92105] = 3,
@@ -12882,7 +12898,7 @@ TMWOptDB = {
 				[220215] = 5,
 				[224311] = 5,
 				[239249] = 4,
-				[268396] = 7,
+				[49936] = 9,
 				[262271] = 5,
 				[306302] = 9,
 				[179257] = 4,
@@ -12900,7 +12916,7 @@ TMWOptDB = {
 				[292316] = 22,
 				[51700] = 14,
 				[69152] = 3,
-				[35601] = 13,
+				[317551] = 6,
 				[292976] = 5,
 				[290864] = 3,
 				[154684] = 3,
@@ -12928,7 +12944,7 @@ TMWOptDB = {
 				[30601] = 3,
 				[91681] = 8,
 				[264716] = 14,
-				[317558] = 5,
+				[128544] = 6,
 				[114203] = 5,
 				[125775] = 9,
 				[309367] = 6,
@@ -13002,7 +13018,7 @@ TMWOptDB = {
 				[266780] = 134,
 				[275603] = 3,
 				[228422] = 9,
-				[116261] = 6,
+				[301193] = 4,
 				[267505] = 4,
 				[292531] = 4,
 				[279158] = 14,
@@ -13032,7 +13048,7 @@ TMWOptDB = {
 				[267190] = 4,
 				[272638] = 7,
 				[154700] = 16,
-				[4963] = 7,
+				[317584] = 3,
 				[300467] = 3,
 				[199755] = 3,
 				[42773] = 3,
@@ -13043,7 +13059,7 @@ TMWOptDB = {
 				[128551] = 3,
 				[6115] = 21,
 				[67113] = 4,
-				[171085] = 3,
+				[101928] = 16,
 				[6499] = 8,
 				[71597] = 3,
 				[248907] = 4,
@@ -13062,11 +13078,11 @@ TMWOptDB = {
 				[15168] = 60,
 				[231851] = 3,
 				[73258] = 24,
-				[301209] = 25,
 				[275206] = 3,
+				[232526] = 12,
 				[158800] = 6,
 				[261197] = 14,
-				[232526] = 12,
+				[301209] = 25,
 				[10694] = 28,
 				[53483] = 7,
 				[27799] = 7,
@@ -13089,10 +13105,10 @@ TMWOptDB = {
 				[268447] = 3,
 				[165665] = 4,
 				[119652] = 9,
-				[284832] = 8,
-				[199762] = 7,
 				[264932] = 4,
+				[199762] = 7,
 				[317599] = 3,
+				[284832] = 8,
 				[165316] = 4,
 				[11393] = 3,
 				[305758] = 9,
@@ -13111,7 +13127,7 @@ TMWOptDB = {
 				[317603] = 14,
 				[170421] = 4,
 				[268453] = 9,
-				[309412] = 6,
+				[253011] = 3,
 				[191573] = 4,
 				[114220] = 13,
 				[116268] = 4,
@@ -13128,7 +13144,7 @@ TMWOptDB = {
 				[261151] = 6,
 				[108077] = 24,
 				[229771] = 3,
-				[284841] = 3,
+				[79406] = 3,
 				[76396] = 6,
 				[264478] = 32,
 				[118317] = 3,
@@ -13170,7 +13186,7 @@ TMWOptDB = {
 				[154717] = 5,
 				[317618] = 9,
 				[48921] = 8,
-				[99888] = 3,
+				[301235] = 9,
 				[276660] = 3,
 				[287832] = 3,
 				[91042] = 3,
@@ -13203,14 +13219,14 @@ TMWOptDB = {
 				[95794] = 15,
 				[146530] = 4,
 				[12487] = 4,
-				[58138] = 13,
+				[185611] = 10,
 				[142434] = 4,
 				[179297] = 3,
-				[248927] = 3,
+				[54042] = 5,
 				[77363] = 3,
 				[249672] = 4,
-				[185611] = 10,
 				[301245] = 30,
+				[58138] = 13,
 				[284107] = 3,
 				[185606] = 3,
 				[116646] = 14,
@@ -13227,16 +13243,16 @@ TMWOptDB = {
 				[274995] = 4,
 				[195683] = 4,
 				[196424] = 5,
-				[191588] = 3,
-				[1529] = 6,
-				[69173] = 4,
 				[115681] = 35,
+				[191588] = 3,
+				[130611] = 5,
+				[309443] = 4,
 				[1465] = 20,
 				[284867] = 4,
-				[130611] = 5,
-				[24974] = 9,
-				[309443] = 4,
-				[317635] = 4,
+				[1529] = 6,
+				[99892] = 7,
+				[69173] = 4,
+				[25998] = 6,
 				[179301] = 5,
 				[264850] = 9,
 				[287896] = 19,
@@ -13249,7 +13265,7 @@ TMWOptDB = {
 				[248932] = 9,
 				[260139] = 4,
 				[2009] = 14,
-				[261220] = 3,
+				[293063] = 3,
 				[39892] = 5,
 				[276680] = 6,
 				[264200] = 4,
@@ -13404,7 +13420,7 @@ TMWOptDB = {
 				[259605] = 4,
 				[268495] = 4,
 				[141157] = 6,
-				[87615] = 3,
+				[317677] = 16,
 				[61216] = 7,
 				[298289] = 3,
 				[282757] = 6,
@@ -13415,7 +13431,7 @@ TMWOptDB = {
 				[7589] = 32,
 				[124880] = 20,
 				[136621] = 5,
-				[77376] = 6,
+				[38689] = 19,
 				[191611] = 4,
 				[228474] = 3,
 				[232570] = 3,
@@ -13440,7 +13456,7 @@ TMWOptDB = {
 				[293110] = 4,
 				[91713] = 9,
 				[295681] = 8,
-				[128576] = 3,
+				[284919] = 14,
 				[162943] = 4,
 				[286701] = 3,
 				[75680] = 3,
@@ -13515,7 +13531,7 @@ TMWOptDB = {
 				[178011] = 7,
 				[162952] = 16,
 				[134281] = 32,
-				[42788] = 4,
+				[171144] = 5,
 				[120389] = 3,
 				[121808] = 4,
 				[264311] = 3,
@@ -13523,11 +13539,11 @@ TMWOptDB = {
 				[128581] = 9,
 				[293131] = 5,
 				[96817] = 4,
-				[154762] = 3,
+				[23739] = 19,
 				[104006] = 5,
 				[179337] = 4,
-				[23739] = 19,
 				[309516] = 7,
+				[154762] = 3,
 				[163638] = 5,
 				[195721] = 3,
 				[9673] = 39,
@@ -13545,13 +13561,13 @@ TMWOptDB = {
 				[108103] = 20,
 				[187531] = 4,
 				[79432] = 9,
-				[293137] = 5,
+				[261257] = 7,
 				[274763] = 6,
 				[262768] = 4,
 				[43813] = 3,
 				[44837] = 6,
-				[224395] = 3,
 				[274183] = 4,
+				[224395] = 3,
 				[23955] = 3,
 				[130631] = 5,
 				[301331] = 18,
@@ -13567,7 +13583,7 @@ TMWOptDB = {
 				[87625] = 3,
 				[89673] = 17,
 				[150671] = 3,
-				[63269] = 3,
+				[93769] = 8,
 				[275582] = 3,
 				[293143] = 7,
 				[268568] = 15,
@@ -13596,14 +13612,14 @@ TMWOptDB = {
 				[161454] = 3,
 				[116298] = 3,
 				[85579] = 3,
-				[60198] = 5,
+				[284958] = 4,
 				[60891] = 6,
-				[293151] = 20,
 				[50579] = 4,
-				[64294] = 12,
 				[16330] = 3,
+				[158867] = 6,
+				[293151] = 20,
 				[232593] = 3,
-				[69196] = 4,
+				[34599] = 4,
 				[175251] = 5,
 				[106059] = 3,
 				[129702] = 9,
@@ -13616,7 +13632,7 @@ TMWOptDB = {
 				[128921] = 3,
 				[178003] = 6,
 				[6968] = 11,
-				[284963] = 5,
+				[224403] = 3,
 				[61758] = 18,
 				[284054] = 4,
 				[157235] = 5,
@@ -13647,7 +13663,7 @@ TMWOptDB = {
 				[262487] = 5,
 				[146585] = 4,
 				[124493] = 9,
-				[46888] = 7,
+				[309546] = 3,
 				[122445] = 3,
 				[261270] = 17,
 				[79769] = 4,
@@ -13673,10 +13689,10 @@ TMWOptDB = {
 				[721] = 10,
 				[305664] = 6,
 				[317744] = 24,
-				[150685] = 3,
-				[142493] = 6,
-				[276786] = 11,
 				[208027] = 4,
+				[150685] = 3,
+				[276786] = 11,
+				[142493] = 6,
 				[179356] = 3,
 				[91728] = 3,
 				[41933] = 3,
@@ -13702,7 +13718,7 @@ TMWOptDB = {
 				[281555] = 6,
 				[175263] = 7,
 				[73298] = 3,
-				[248989] = 7,
+				[301368] = 4,
 				[45338] = 4,
 				[9931] = 10,
 				[22540] = 18,
@@ -13802,7 +13818,7 @@ TMWOptDB = {
 				[161413] = 3,
 				[244608] = 4,
 				[162988] = 4,
-				[134317] = 4,
+				[268626] = 8,
 				[42797] = 4,
 				[120407] = 4,
 				[73287] = 3,
@@ -13870,17 +13886,17 @@ TMWOptDB = {
 				[125376] = 3,
 				[275716] = 4,
 				[259418] = 30,
-				[268643] = 5,
+				[249010] = 4,
 				[127608] = 5,
 				[191668] = 4,
 				[120720] = 9,
 				[49967] = 11,
 				[273875] = 12,
-				[317796] = 25,
 				[189682] = 7,
+				[285029] = 6,
 				[27032] = 57,
 				[110172] = 10,
-				[285029] = 6,
+				[317796] = 25,
 				[162998] = 9,
 				[65021] = 3,
 				[61231] = 10,
@@ -13907,8 +13923,8 @@ TMWOptDB = {
 				[74897] = 4,
 				[173598] = 6,
 				[116788] = 4,
-				[268653] = 11,
 				[53254] = 7,
+				[268653] = 11,
 				[212152] = 3,
 				[54064] = 5,
 				[77407] = 6,
@@ -13917,10 +13933,10 @@ TMWOptDB = {
 				[168521] = 5,
 				[289475] = 4,
 				[60208] = 3,
-				[276847] = 5,
 				[260623] = 3,
 				[253112] = 77,
-				[224441] = 6,
+				[276847] = 5,
+				[257208] = 3,
 				[187413] = 7,
 				[199866] = 3,
 				[169726] = 3,
@@ -13935,12 +13951,12 @@ TMWOptDB = {
 				[21913] = 6,
 				[173429] = 5,
 				[249018] = 26,
-				[104032] = 18,
-				[128607] = 13,
-				[130655] = 7,
-				[24985] = 6,
 				[83501] = 3,
+				[128607] = 13,
+				[293235] = 8,
+				[24985] = 6,
 				[26009] = 4,
+				[104032] = 18,
 				[59871] = 9,
 				[189574] = 18,
 				[232471] = 17,
@@ -13973,10 +13989,10 @@ TMWOptDB = {
 				[232639] = 3,
 				[309627] = 21,
 				[83526] = 14,
-				[293244] = 38,
+				[106082] = 10,
 				[301436] = 20,
 				[273642] = 4,
-				[56114] = 5,
+				[79459] = 6,
 				[404] = 4,
 				[72671] = 6,
 				[306243] = 4,
@@ -14016,7 +14032,7 @@ TMWOptDB = {
 				[254990] = 4,
 				[150727] = 4,
 				[187590] = 7,
-				[317830] = 23,
+				[64307] = 12,
 				[261316] = 15,
 				[33588] = 29,
 				[106930] = 3,
@@ -14050,7 +14066,7 @@ TMWOptDB = {
 				[63284] = 4,
 				[201337] = 3,
 				[100781] = 3,
-				[99943] = 4,
+				[67176] = 16,
 				[69224] = 4,
 				[261190] = 3,
 				[211677] = 4,
@@ -14091,7 +14107,7 @@ TMWOptDB = {
 				[134113] = 3,
 				[40758] = 3,
 				[27657] = 4,
-				[203983] = 10,
+				[236750] = 5,
 				[43830] = 4,
 				[20990] = 17,
 				[301466] = 8,
@@ -14109,7 +14125,7 @@ TMWOptDB = {
 				[121987] = 7,
 				[14798] = 18,
 				[59900] = 6,
-				[89707] = 3,
+				[146643] = 6,
 				[76356] = 3,
 				[100850] = 4,
 				[317854] = 3,
@@ -14177,10 +14193,10 @@ TMWOptDB = {
 				[6914] = 3,
 				[167689] = 6,
 				[123349] = 3,
-				[71280] = 4,
+				[17821] = 10,
 				[220935] = 4,
 				[17309] = 6,
-				[17821] = 10,
+				[71280] = 4,
 				[36665] = 6,
 				[262351] = 8,
 				[110191] = 7,
@@ -14206,19 +14222,19 @@ TMWOptDB = {
 				[236764] = 5,
 				[67462] = 3,
 				[244956] = 3,
-				[32669] = 5,
-				[63289] = 4,
 				[266305] = 3,
+				[63289] = 4,
 				[97905] = 12,
+				[32669] = 5,
 				[73330] = 55,
 				[69234] = 4,
 				[557] = 11,
 				[293304] = 90,
 				[263883] = 4,
-				[87666] = 5,
+				[117231] = 4,
 				[191711] = 4,
 				[81522] = 3,
-				[117231] = 4,
+				[87666] = 5,
 				[309689] = 3,
 				[240862] = 3,
 				[212191] = 4,
@@ -14238,7 +14254,7 @@ TMWOptDB = {
 				[203658] = 8,
 				[140] = 32,
 				[244960] = 3,
-				[62266] = 3,
+				[91763] = 3,
 				[15823] = 24,
 				[128626] = 3,
 				[254696] = 4,
@@ -14278,7 +14294,7 @@ TMWOptDB = {
 				[204006] = 5,
 				[208102] = 7,
 				[117772] = 3,
-				[249061] = 5,
+				[268745] = 7,
 				[194293] = 3,
 				[285129] = 5,
 				[23066] = 6,
@@ -14301,7 +14317,7 @@ TMWOptDB = {
 				[251693] = 3,
 				[174651] = 11,
 				[175338] = 3,
-				[3828] = 93,
+				[61244] = 3,
 				[159489] = 10,
 				[126849] = 7,
 				[11505] = 6,
@@ -14322,7 +14338,7 @@ TMWOptDB = {
 				[98840] = 7,
 				[158957] = 25,
 				[40638] = 8,
-				[99960] = 9,
+				[6248] = 3,
 				[205963] = 3,
 				[126438] = 3,
 				[246776] = 3,
@@ -14339,7 +14355,7 @@ TMWOptDB = {
 				[205679] = 10,
 				[228589] = 3,
 				[8400] = 35,
-				[309719] = 4,
+				[236781] = 7,
 				[71290] = 6,
 				[146672] = 4,
 				[158889] = 50,
@@ -14372,7 +14388,7 @@ TMWOptDB = {
 				[78101] = 9,
 				[28684] = 10,
 				[246354] = 8,
-				[43839] = 24,
+				[175348] = 10,
 				[39873] = 3,
 				[18848] = 25,
 				[276961] = 3,
@@ -14380,7 +14396,7 @@ TMWOptDB = {
 				[195827] = 4,
 				[301537] = 9,
 				[309729] = 4,
-				[175348] = 10,
+				[43839] = 24,
 				[122491] = 5,
 				[38719] = 4,
 				[154869] = 4,
@@ -14399,13 +14415,13 @@ TMWOptDB = {
 				[296370] = 5,
 				[253993] = 3,
 				[207957] = 3,
-				[309734] = 10,
+				[220405] = 4,
 				[226879] = 6,
 				[232693] = 4,
 				[134392] = 4,
 				[157307] = 3,
 				[264911] = 6,
-				[106109] = 3,
+				[36672] = 5,
 				[220268] = 5,
 				[187639] = 6,
 				[152369] = 3,
@@ -14431,7 +14447,7 @@ TMWOptDB = {
 				[265343] = 3,
 				[146683] = 5,
 				[221101] = 4,
-				[276975] = 5,
+				[126590] = 5,
 				[285167] = 4,
 				[275794] = 3,
 				[268784] = 4,
@@ -14450,12 +14466,12 @@ TMWOptDB = {
 				[256425] = 8,
 				[157878] = 6,
 				[48961] = 3,
-				[232699] = 3,
+				[67201] = 11,
 				[25505] = 9,
 				[7109] = 11,
-				[309748] = 7,
 				[247363] = 4,
 				[276981] = 4,
+				[309748] = 7,
 				[1365] = 8,
 				[262108] = 3,
 				[258238] = 3,
@@ -14465,9 +14481,9 @@ TMWOptDB = {
 				[78974] = 4,
 				[54545] = 3,
 				[317942] = 23,
-				[8657] = 15,
 				[206449] = 6,
 				[138496] = 11,
+				[69250] = 12,
 				[208126] = 3,
 				[39651] = 7,
 				[102289] = 3,
@@ -14517,9 +14533,9 @@ TMWOptDB = {
 				[134406] = 8,
 				[167173] = 5,
 				[26018] = 5,
-				[191749] = 3,
 				[79493] = 8,
-				[55107] = 19,
+				[191749] = 3,
+				[309764] = 4,
 				[56131] = 3,
 				[258431] = 8,
 				[97303] = 3,
@@ -14565,16 +14581,16 @@ TMWOptDB = {
 				[60920] = 3,
 				[184516] = 6,
 				[258334] = 3,
-				[118407] = 4,
-				[301584] = 4,
 				[167099] = 6,
+				[301584] = 4,
+				[237829] = 4,
 				[19875] = 3,
 				[261385] = 8,
-				[237829] = 4,
 				[138509] = 3,
+				[118407] = 4,
 				[5481] = 3,
 				[5609] = 19,
-				[268819] = 6,
+				[124551] = 4,
 				[309778] = 5,
 				[28867] = 3,
 				[293395] = 9,
@@ -14592,11 +14608,11 @@ TMWOptDB = {
 				[82731] = 4,
 				[70625] = 3,
 				[154895] = 4,
-				[208142] = 4,
 				[118820] = 3,
+				[8914] = 7,
 				[134416] = 18,
 				[102025] = 11,
-				[8914] = 7,
+				[285208] = 4,
 				[74293] = 6,
 				[212938] = 4,
 				[230281] = 4,
@@ -14622,12 +14638,12 @@ TMWOptDB = {
 				[51003] = 3,
 				[15058] = 3,
 				[105307] = 4,
-				[167187] = 3,
+				[7856] = 9,
 				[63302] = 3,
 				[95883] = 17,
-				[7856] = 9,
 				[99979] = 5,
-				[277024] = 8,
+				[167187] = 3,
+				[17316] = 3,
 				[197612] = 7,
 				[212242] = 3,
 				[249974] = 7,
@@ -14649,10 +14665,10 @@ TMWOptDB = {
 				[289330] = 5,
 				[254282] = 3,
 				[56135] = 3,
-				[30116] = 4,
-				[43964] = 5,
 				[212959] = 7,
+				[43964] = 5,
 				[175382] = 6,
+				[30116] = 4,
 				[122508] = 5,
 				[124556] = 8,
 				[31652] = 9,
@@ -14704,7 +14720,7 @@ TMWOptDB = {
 				[146717] = 3,
 				[3370] = 15,
 				[68596] = 5,
-				[47945] = 13,
+				[128655] = 3,
 				[97936] = 7,
 				[199964] = 3,
 				[138526] = 8,
@@ -14725,11 +14741,11 @@ TMWOptDB = {
 				[38077] = 3,
 				[69266] = 6,
 				[70635] = 4,
-				[232734] = 5,
+				[268858] = 7,
 				[249117] = 4,
 				[77458] = 3,
-				[191775] = 3,
-				[268858] = 7,
+				[285241] = 4,
+				[232734] = 5,
 				[301625] = 3,
 				[199653] = 3,
 				[122006] = 3,
@@ -14794,10 +14810,10 @@ TMWOptDB = {
 				[220454] = 9,
 				[2485] = 66,
 				[14207] = 40,
-				[44876] = 5,
+				[122517] = 6,
 				[2677] = 14,
 				[171743] = 4,
-				[122517] = 6,
+				[44876] = 5,
 				[183592] = 4,
 				[146729] = 6,
 				[191784] = 4,
@@ -14835,13 +14851,13 @@ TMWOptDB = {
 				[23975] = 3,
 				[163117] = 4,
 				[50722] = 6,
-				[253227] = 4,
 				[66631] = 3,
 				[95670] = 5,
-				[108184] = 10,
 				[110232] = 8,
+				[108184] = 10,
+				[253227] = 4,
 				[191789] = 6,
-				[228652] = 6,
+				[7146] = 8,
 				[7274] = 3,
 				[118424] = 7,
 				[240940] = 5,
@@ -14851,15 +14867,15 @@ TMWOptDB = {
 				[293463] = 8,
 				[97945] = 5,
 				[45782] = 3,
-				[268889] = 4,
-				[104089] = 41,
 				[83052] = 14,
+				[104089] = 41,
 				[37710] = 3,
+				[249133] = 15,
 				[60085] = 9,
-				[42830] = 5,
-				[195887] = 6,
 				[226105] = 35,
+				[195887] = 6,
 				[138545] = 4,
+				[42830] = 5,
 				[318041] = 24,
 				[164816] = 3,
 				[150833] = 12,
@@ -14876,11 +14892,11 @@ TMWOptDB = {
 				[31016] = 6,
 				[249122] = 4,
 				[99343] = 7,
-				[309855] = 3,
+				[267061] = 3,
 				[100206] = 14,
 				[124570] = 77,
 				[163545] = 5,
-				[267061] = 3,
+				[309855] = 3,
 				[130714] = 7,
 				[167219] = 6,
 				[17320] = 7,
@@ -14909,13 +14925,13 @@ TMWOptDB = {
 				[134455] = 11,
 				[309861] = 4,
 				[120476] = 11,
-				[155351] = 5,
+				[277927] = 15,
 				[301670] = 4,
-				[93853] = 4,
+				[154935] = 3,
 				[95901] = 10,
 				[163127] = 3,
 				[96109] = 7,
-				[277927] = 15,
+				[155351] = 5,
 				[248337] = 8,
 				[246508] = 7,
 				[1907] = 36,
@@ -14943,7 +14959,7 @@ TMWOptDB = {
 				[63542] = 3,
 				[61264] = 3,
 				[216377] = 5,
-				[309870] = 7,
+				[154939] = 8,
 				[208966] = 7,
 				[163131] = 3,
 				[99999] = 3,
@@ -14954,9 +14970,9 @@ TMWOptDB = {
 				[58607] = 5,
 				[159036] = 7,
 				[203734] = 5,
-				[232762] = 5,
+				[83616] = 6,
 				[248959] = 3,
-				[21929] = 7,
+				[285298] = 6,
 				[196307] = 6,
 				[265674] = 4,
 				[247986] = 3,
@@ -14969,13 +14985,13 @@ TMWOptDB = {
 				[187225] = 10,
 				[49330] = 3,
 				[58123] = 4,
-				[163135] = 3,
+				[309878] = 4,
 				[184018] = 3,
-				[63313] = 4,
+				[163135] = 3,
 				[318069] = 4,
 				[122528] = 4,
 				[268919] = 4,
-				[309878] = 4,
+				[63313] = 4,
 				[257340] = 5,
 				[195902] = 42,
 				[263964] = 7,
@@ -14985,18 +15001,18 @@ TMWOptDB = {
 				[183615] = 3,
 				[110241] = 13,
 				[19031] = 26,
-				[44882] = 53,
 				[293498] = 5,
+				[44882] = 53,
 				[236862] = 13,
 				[87714] = 5,
 				[245054] = 4,
 				[249150] = 5,
 				[93858] = 3,
 				[318074] = 4,
-				[71331] = 4,
 				[230068] = 9,
-				[309883] = 3,
 				[142658] = 3,
+				[102050] = 4,
+				[71331] = 4,
 				[125911] = 3,
 				[255355] = 5,
 				[213454] = 4,
@@ -15059,7 +15075,7 @@ TMWOptDB = {
 				[128677] = 4,
 				[35849] = 4,
 				[50004] = 5,
-				[309899] = 6,
+				[138570] = 3,
 				[30823] = 6,
 				[179529] = 3,
 				[98152] = 12,
@@ -15083,14 +15099,14 @@ TMWOptDB = {
 				[89531] = 6,
 				[176230] = 4,
 				[200011] = 3,
-				[42837] = 20,
+				[277138] = 3,
 				[4343] = 23,
 				[22443] = 15,
 				[217913] = 3,
 				[93864] = 64,
+				[232779] = 3,
 				[240971] = 5,
 				[100008] = 4,
-				[232779] = 3,
 				[309907] = 31,
 				[318099] = 9,
 				[46933] = 7,
@@ -15131,22 +15147,22 @@ TMWOptDB = {
 				[202014] = 5,
 				[116141] = 14,
 				[111706] = 9,
-				[69292] = 3,
+				[72600] = 11,
 				[318109] = 14,
 				[293534] = 3,
-				[108203] = 3,
-				[63318] = 4,
-				[257360] = 3,
-				[65366] = 4,
-				[72600] = 11,
 				[236881] = 5,
+				[63318] = 4,
+				[128682] = 15,
+				[65366] = 4,
+				[249169] = 11,
+				[69292] = 3,
 				[208210] = 3,
 				[18348] = 3,
-				[249169] = 11,
-				[118443] = 5,
+				[108203] = 3,
+				[230952] = 5,
 				[261829] = 3,
 				[159432] = 3,
-				[230952] = 5,
+				[118443] = 5,
 				[204115] = 4,
 				[142677] = 4,
 				[193341] = 3,
@@ -15179,11 +15195,11 @@ TMWOptDB = {
 				[257365] = 3,
 				[8071] = 7,
 				[116617] = 7,
-				[91822] = 6,
 				[88107] = 3,
-				[212311] = 9,
 				[268971] = 3,
-				[253270] = 7,
+				[212311] = 9,
+				[91822] = 6,
+				[126637] = 3,
 				[98148] = 3,
 				[163161] = 3,
 				[52227] = 3,
@@ -15193,7 +15209,7 @@ TMWOptDB = {
 				[189158] = 3,
 				[51947] = 3,
 				[318124] = 5,
-				[114350] = 5,
+				[293549] = 3,
 				[75974] = 4,
 				[85189] = 4,
 				[74950] = 7,
@@ -15208,12 +15224,12 @@ TMWOptDB = {
 				[53770] = 8,
 				[38948] = 4,
 				[19373] = 13,
-				[25005] = 14,
+				[87728] = 4,
 				[293553] = 3,
 				[128866] = 3,
-				[138589] = 12,
+				[171356] = 3,
 				[43865] = 4,
-				[87728] = 4,
+				[25005] = 14,
 				[183644] = 5,
 				[92003] = 4,
 				[318130] = 49,
@@ -15229,7 +15245,7 @@ TMWOptDB = {
 				[301749] = 4,
 				[29613] = 5,
 				[120496] = 6,
-				[61273] = 7,
+				[122544] = 3,
 				[79252] = 14,
 				[110989] = 15,
 				[257372] = 4,
@@ -15267,7 +15283,7 @@ TMWOptDB = {
 				[81088] = 7,
 				[247668] = 4,
 				[1051] = 13,
-				[102067] = 41,
+				[69300] = 3,
 				[15879] = 89,
 				[10000] = 17,
 				[75444] = 4,
@@ -15297,12 +15313,12 @@ TMWOptDB = {
 				[110078] = 4,
 				[251342] = 3,
 				[285383] = 5,
-				[150888] = 6,
+				[108213] = 3,
 				[100021] = 3,
-				[37724] = 3,
+				[150888] = 6,
 				[142696] = 3,
 				[138942] = 5,
-				[108213] = 3,
+				[37724] = 3,
 				[269001] = 3,
 				[196284] = 3,
 				[24025] = 23,
@@ -15321,7 +15337,7 @@ TMWOptDB = {
 				[220858] = 3,
 				[149746] = 3,
 				[224616] = 15,
-				[228712] = 12,
+				[293581] = 12,
 				[58204] = 20,
 				[236904] = 3,
 				[208233] = 4,
@@ -15343,7 +15359,7 @@ TMWOptDB = {
 				[42571] = 3,
 				[45249] = 3,
 				[301778] = 8,
-				[309970] = 8,
+				[46941] = 19,
 				[257386] = 4,
 				[7740] = 3,
 				[269012] = 3,
@@ -15361,7 +15377,7 @@ TMWOptDB = {
 				[150895] = 4,
 				[6661] = 3,
 				[64349] = 3,
-				[195950] = 9,
+				[163183] = 3,
 				[113437] = 31,
 				[69306] = 3,
 				[208238] = 4,
@@ -15438,11 +15454,11 @@ TMWOptDB = {
 				[309993] = 4,
 				[58580] = 12,
 				[122557] = 6,
-				[301803] = 4,
-				[277227] = 5,
 				[243878] = 3,
-				[195960] = 14,
+				[187768] = 3,
 				[232823] = 4,
+				[195960] = 14,
+				[301803] = 4,
 				[206197] = 3,
 				[97718] = 3,
 				[128858] = 5,
@@ -15452,11 +15468,11 @@ TMWOptDB = {
 				[191865] = 8,
 				[116414] = 3,
 				[140852] = 5,
-				[142715] = 6,
+				[208249] = 4,
 				[243791] = 3,
 				[183674] = 3,
 				[309998] = 5,
-				[224633] = 4,
+				[128702] = 6,
 				[211820] = 9,
 				[54463] = 3,
 				[16769] = 3,
@@ -15479,9 +15495,9 @@ TMWOptDB = {
 				[318195] = 12,
 				[106176] = 6,
 				[108224] = 4,
-				[261499] = 7,
 				[266320] = 132,
 				[293621] = 6,
+				[228732] = 3,
 				[186460] = 7,
 				[277238] = 3,
 				[147892] = 4,
@@ -15500,7 +15516,7 @@ TMWOptDB = {
 				[205166] = 9,
 				[167296] = 3,
 				[243213] = 8,
-				[241022] = 5,
+				[120513] = 4,
 				[210708] = 3,
 				[205871] = 4,
 				[167226] = 4,
@@ -15547,11 +15563,11 @@ TMWOptDB = {
 				[77509] = 4,
 				[114372] = 7,
 				[167302] = 5,
-				[155015] = 3,
+				[31666] = 5,
 				[60259] = 25,
 				[122564] = 3,
 				[150919] = 5,
-				[31666] = 5,
+				[155015] = 3,
 				[191878] = 4,
 				[97989] = 5,
 				[114920] = 3,
@@ -15567,9 +15583,9 @@ TMWOptDB = {
 				[28461] = 6,
 				[146825] = 18,
 				[15408] = 30,
-				[293643] = 10,
 				[9236] = 16,
 				[130757] = 6,
+				[195976] = 7,
 				[50020] = 4,
 				[236935] = 10,
 				[52068] = 3,
@@ -15598,7 +15614,7 @@ TMWOptDB = {
 				[58476] = 3,
 				[175500] = 6,
 				[230507] = 164,
-				[216459] = 4,
+				[5741] = 18,
 				[251551] = 8,
 				[183976] = 7,
 				[58922] = 8,
@@ -15613,7 +15629,7 @@ TMWOptDB = {
 				[128347] = 6,
 				[29619] = 5,
 				[22285] = 4,
-				[122568] = 91,
+				[293654] = 3,
 				[40514] = 6,
 				[7917] = 5,
 				[65334] = 13,
@@ -15623,10 +15639,10 @@ TMWOptDB = {
 				[8922] = 14,
 				[25657] = 3,
 				[14135] = 10,
-				[83658] = 6,
 				[77983] = 4,
-				[261517] = 3,
 				[167312] = 7,
+				[261517] = 3,
+				[83658] = 6,
 				[171408] = 10,
 				[10970] = 17,
 				[233781] = 5,
@@ -15634,7 +15650,7 @@ TMWOptDB = {
 				[56912] = 4,
 				[191888] = 3,
 				[228751] = 4,
-				[100042] = 6,
+				[134546] = 4,
 				[310043] = 5,
 				[105330] = 3,
 				[248832] = 4,
@@ -15652,10 +15668,10 @@ TMWOptDB = {
 				[244981] = 5,
 				[246579] = 4,
 				[86383] = 9,
-				[17844] = 19,
-				[163220] = 13,
-				[37735] = 8,
+				[35687] = 20,
 				[209159] = 3,
+				[37735] = 8,
+				[163220] = 13,
 				[318240] = 5,
 				[195987] = 4,
 				[232848] = 4,
@@ -15665,7 +15681,7 @@ TMWOptDB = {
 				[118928] = 8,
 				[277283] = 3,
 				[149809] = 4,
-				[24500] = 31,
+				[261522] = 3,
 				[240654] = 10,
 				[310051] = 6,
 				[142742] = 3,
@@ -15678,9 +15694,9 @@ TMWOptDB = {
 				[261397] = 6,
 				[30132] = 6,
 				[89805] = 3,
-				[95949] = 5,
-				[151204] = 3,
 				[318246] = 20,
+				[151204] = 3,
+				[95949] = 5,
 				[130764] = 3,
 				[200086] = 7,
 				[204182] = 8,
@@ -15736,7 +15752,7 @@ TMWOptDB = {
 				[293684] = 7,
 				[269109] = 7,
 				[49101] = 5,
-				[224668] = 3,
+				[191901] = 3,
 				[105810] = 7,
 				[83665] = 4,
 				[236956] = 7,
@@ -15760,14 +15776,14 @@ TMWOptDB = {
 				[85148] = 10,
 				[7770] = 21,
 				[310074] = 4,
-				[53098] = 4,
-				[77523] = 4,
+				[293692] = 9,
+				[187809] = 5,
 				[73553] = 6,
 				[175773] = 6,
 				[208288] = 3,
-				[293692] = 9,
+				[53098] = 4,
 				[269117] = 3,
-				[187809] = 5,
+				[77523] = 4,
 				[239388] = 3,
 				[163234] = 3,
 				[205737] = 4,
@@ -15794,23 +15810,23 @@ TMWOptDB = {
 				[100443] = 3,
 				[153914] = 6,
 				[228771] = 3,
-				[151196] = 7,
-				[138662] = 3,
-				[104148] = 15,
 				[238547] = 3,
+				[138662] = 3,
+				[71381] = 5,
+				[269617] = 4,
 				[108244] = 18,
 				[310084] = 6,
 				[79573] = 7,
-				[269617] = 4,
+				[151196] = 7,
 				[34452] = 25,
-				[33644] = 4,
+				[146286] = 3,
 				[318277] = 3,
 				[146855] = 9,
 				[91861] = 10,
-				[63339] = 7,
-				[146286] = 3,
-				[32694] = 13,
+				[277319] = 15,
 				[167335] = 7,
+				[32694] = 13,
+				[301895] = 7,
 				[83041] = 10,
 				[73829] = 12,
 				[246061] = 12,
@@ -15823,12 +15839,12 @@ TMWOptDB = {
 				[175528] = 7,
 				[89814] = 6,
 				[2149] = 5,
-				[269132] = 12,
-				[191912] = 3,
 				[65608] = 3,
+				[191912] = 3,
 				[50028] = 8,
+				[269132] = 12,
 				[52072] = 8,
-				[285516] = 3,
+				[208296] = 13,
 				[74093] = 5,
 				[150954] = 9,
 				[3447] = 30,
@@ -15870,7 +15886,7 @@ TMWOptDB = {
 				[17239] = 4,
 				[85262] = 5,
 				[48306] = 13,
-				[269145] = 3,
+				[183727] = 3,
 				[32724] = 3,
 				[32183] = 7,
 				[228781] = 3,
@@ -15878,7 +15894,7 @@ TMWOptDB = {
 				[159383] = 3,
 				[318295] = 4,
 				[9180] = 12,
-				[183727] = 3,
+				[269145] = 3,
 				[94029] = 9,
 				[65389] = 4,
 				[238029] = 5,
@@ -15888,17 +15904,17 @@ TMWOptDB = {
 				[146865] = 3,
 				[171440] = 4,
 				[139626] = 3,
-				[47982] = 27,
+				[128729] = 17,
 				[233108] = 4,
 				[200112] = 5,
 				[261779] = 3,
 				[241071] = 11,
 				[106202] = 3,
-				[167346] = 5,
+				[28773] = 3,
 				[110298] = 12,
 				[318300] = 3,
-				[28773] = 3,
 				[269150] = 6,
+				[167346] = 5,
 				[236976] = 6,
 				[262653] = 3,
 				[111325] = 13,
@@ -15932,14 +15948,14 @@ TMWOptDB = {
 				[28600] = 14,
 				[71855] = 6,
 				[150964] = 3,
-				[120540] = 6,
+				[87773] = 4,
 				[67543] = 3,
-				[277352] = 3,
 				[5969] = 21,
+				[69342] = 3,
 				[191926] = 7,
 				[196022] = 4,
 				[200118] = 9,
-				[69342] = 3,
+				[277352] = 3,
 				[285544] = 9,
 				[179639] = 9,
 				[249269] = 5,
@@ -15947,9 +15963,9 @@ TMWOptDB = {
 				[257461] = 3,
 				[137519] = 3,
 				[232886] = 6,
-				[150969] = 7,
-				[43888] = 7,
 				[205426] = 3,
+				[43888] = 7,
+				[150969] = 7,
 				[269163] = 3,
 				[30568] = 16,
 				[5228] = 18,
@@ -15982,7 +15998,7 @@ TMWOptDB = {
 				[25833] = 6,
 				[208315] = 4,
 				[18997] = 30,
-				[45937] = 3,
+				[22969] = 3,
 				[46961] = 6,
 				[318322] = 6,
 				[71498] = 4,
@@ -16032,7 +16048,7 @@ TMWOptDB = {
 				[236000] = 3,
 				[249280] = 13,
 				[310142] = 3,
-				[191938] = 3,
+				[64370] = 3,
 				[224676] = 3,
 				[301951] = 10,
 				[34675] = 4,
@@ -16060,7 +16076,7 @@ TMWOptDB = {
 				[224580] = 6,
 				[84334] = 6,
 				[171462] = 3,
-				[142791] = 4,
+				[87781] = 22,
 				[61299] = 3,
 				[150983] = 3,
 				[63347] = 6,
@@ -16104,7 +16120,7 @@ TMWOptDB = {
 				[146892] = 3,
 				[18875] = 12,
 				[155084] = 5,
-				[4975] = 4,
+				[79592] = 12,
 				[5103] = 3,
 				[301969] = 3,
 				[310161] = 12,
@@ -16126,7 +16142,7 @@ TMWOptDB = {
 				[52899] = 5,
 				[99451] = 10,
 				[103551] = 3,
-				[269207] = 7,
+				[124648] = 3,
 				[253388] = 3,
 				[179657] = 5,
 				[130792] = 6,
@@ -16157,16 +16173,16 @@ TMWOptDB = {
 				[87876] = 4,
 				[45192] = 3,
 				[4437] = 67,
-				[310174] = 6,
 				[55919] = 7,
 				[253392] = 5,
+				[310174] = 6,
 				[46696] = 6,
 				[261584] = 4,
 				[16828] = 10,
-				[37751] = 4,
 				[140643] = 16,
-				[245201] = 7,
 				[216530] = 147,
+				[245201] = 7,
+				[37751] = 4,
 				[19388] = 3,
 				[88296] = 4,
 				[28452] = 4,
@@ -16218,7 +16234,7 @@ TMWOptDB = {
 				[220632] = 3,
 				[243407] = 3,
 				[231953] = 6,
-				[167386] = 13,
+				[58232] = 36,
 				[65803] = 3,
 				[175578] = 3,
 				[294136] = 5,
@@ -16280,7 +16296,7 @@ TMWOptDB = {
 				[218293] = 4,
 				[13535] = 5,
 				[106303] = 4,
-				[159203] = 9,
+				[128754] = 12,
 				[69440] = 5,
 				[269246] = 10,
 				[85747] = 5,
@@ -16288,7 +16304,7 @@ TMWOptDB = {
 				[89843] = 47,
 				[302014] = 3,
 				[100159] = 6,
-				[128754] = 12,
+				[159203] = 9,
 				[16351] = 3,
 				[100083] = 6,
 				[130878] = 5,
@@ -16313,23 +16329,23 @@ TMWOptDB = {
 				[54139] = 9,
 				[39256] = 5,
 				[28094] = 6,
-				[293829] = 4,
+				[114420] = 7,
 				[232932] = 19,
 				[14248] = 5,
 				[30142] = 4,
 				[23109] = 4,
 				[124660] = 4,
-				[146920] = 7,
-				[95989] = 5,
+				[218766] = 6,
+				[285639] = 3,
 				[130804] = 5,
 				[302023] = 3,
 				[167545] = 8,
-				[218766] = 6,
 				[106229] = 5,
+				[146920] = 7,
 				[269257] = 5,
 				[226684] = 3,
 				[47220] = 8,
-				[2552] = 13,
+				[40828] = 4,
 				[91966] = 3,
 				[277443] = 3,
 				[48535] = 13,
@@ -16356,15 +16372,15 @@ TMWOptDB = {
 				[218372] = 5,
 				[163268] = 3,
 				[48723] = 10,
-				[5488] = 20,
+				[65832] = 3,
 				[179691] = 3,
 				[151020] = 18,
 				[155116] = 6,
 				[224746] = 5,
 				[81656] = 8,
-				[65832] = 3,
-				[237034] = 6,
 				[142829] = 4,
+				[171500] = 3,
+				[5488] = 20,
 				[60039] = 6,
 				[117493] = 3,
 				[253418] = 3,
@@ -16373,8 +16389,8 @@ TMWOptDB = {
 				[134638] = 3,
 				[102136] = 13,
 				[52093] = 4,
-				[110328] = 3,
 				[87261] = 4,
+				[110328] = 3,
 				[220652] = 3,
 				[253555] = 7,
 				[230500] = 4,
@@ -16414,10 +16430,10 @@ TMWOptDB = {
 				[261744] = 3,
 				[212285] = 5,
 				[94438] = 4,
-				[95995] = 5,
 				[78908] = 3,
 				[285663] = 7,
-				[293855] = 6,
+				[95995] = 5,
+				[130810] = 3,
 				[200178] = 3,
 				[75120] = 5,
 				[318431] = 6,
@@ -16430,33 +16446,33 @@ TMWOptDB = {
 				[242181] = 4,
 				[244304] = 3,
 				[236930] = 4,
-				[45951] = 3,
+				[269283] = 6,
 				[220659] = 3,
 				[38955] = 4,
 				[43725] = 5,
-				[159222] = 4,
-				[204276] = 5,
-				[71421] = 5,
 				[88278] = 4,
+				[204276] = 5,
+				[208372] = 5,
+				[159222] = 4,
 				[249331] = 15,
 				[110332] = 6,
 				[79613] = 3,
 				[196085] = 3,
 				[229131] = 6,
 				[85757] = 5,
-				[183798] = 4,
 				[210778] = 3,
+				[183798] = 4,
 				[124668] = 5,
 				[45173] = 8,
 				[64118] = 4,
-				[302056] = 4,
+				[155124] = 12,
 				[67326] = 8,
 				[237045] = 10,
-				[155124] = 12,
-				[179703] = 6,
 				[37760] = 4,
+				[179703] = 6,
+				[302056] = 4,
 				[310248] = 23,
-				[285673] = 3,
+				[191991] = 4,
 				[76648] = 9,
 				[16462] = 5,
 				[250209] = 3,
@@ -16469,14 +16485,14 @@ TMWOptDB = {
 				[50048] = 5,
 				[44329] = 3,
 				[133389] = 4,
-				[106238] = 5,
+				[53120] = 20,
 				[108286] = 73,
 				[25384] = 40,
 				[176996] = 5,
 				[183721] = 3,
-				[83711] = 3,
+				[302061] = 23,
 				[37039] = 12,
-				[120574] = 7,
+				[87807] = 4,
 				[139950] = 3,
 				[84199] = 5,
 				[187898] = 3,
@@ -16485,7 +16501,7 @@ TMWOptDB = {
 				[30268] = 5,
 				[78318] = 4,
 				[72941] = 3,
-				[146940] = 8,
+				[18369] = 7,
 				[240600] = 3,
 				[228568] = 3,
 				[158040] = 5,
@@ -16496,7 +16512,7 @@ TMWOptDB = {
 				[30250] = 4,
 				[229955] = 3,
 				[85683] = 3,
-				[191996] = 3,
+				[128767] = 12,
 				[293875] = 9,
 				[100096] = 4,
 				[162393] = 4,
@@ -16505,7 +16521,7 @@ TMWOptDB = {
 				[103791] = 3,
 				[27585] = 16,
 				[56193] = 18,
-				[196093] = 5,
+				[114432] = 7,
 				[218626] = 3,
 				[104689] = 27,
 				[208381] = 3,
@@ -16547,7 +16563,7 @@ TMWOptDB = {
 				[251381] = 4,
 				[96001] = 3,
 				[86146] = 32,
-				[34691] = 3,
+				[237057] = 6,
 				[142852] = 7,
 				[128130] = 3,
 				[110339] = 8,
@@ -16562,10 +16578,10 @@ TMWOptDB = {
 				[151145] = 4,
 				[318466] = 10,
 				[293891] = 5,
-				[249347] = 3,
-				[106244] = 19,
-				[104196] = 9,
 				[212484] = 5,
+				[249347] = 3,
+				[104196] = 9,
+				[106244] = 19,
 				[151046] = 10,
 				[77462] = 6,
 				[47258] = 20,
@@ -16575,7 +16591,7 @@ TMWOptDB = {
 				[241156] = 12,
 				[221465] = 7,
 				[28970] = 17,
-				[310278] = 10,
+				[253444] = 4,
 				[285686] = 3,
 				[183562] = 3,
 				[45695] = 4,
@@ -16616,7 +16632,7 @@ TMWOptDB = {
 				[236876] = 3,
 				[37765] = 3,
 				[253449] = 44,
-				[257545] = 3,
+				[285713] = 6,
 				[231652] = 5,
 				[3152] = 8,
 				[131685] = 4,
@@ -16629,8 +16645,8 @@ TMWOptDB = {
 				[151140] = 4,
 				[72895] = 6,
 				[62033] = 4,
-				[155150] = 8,
 				[84253] = 3,
+				[155150] = 8,
 				[77577] = 4,
 				[231731] = 4,
 				[114440] = 3,
@@ -16639,17 +16655,17 @@ TMWOptDB = {
 				[30147] = 4,
 				[222749] = 5,
 				[269335] = 3,
-				[220685] = 3,
+				[63365] = 3,
 				[96009] = 8,
 				[8177] = 10,
 				[128241] = 4,
 				[195778] = 3,
 				[70893] = 5,
-				[146960] = 12,
+				[293912] = 9,
 				[302104] = 7,
-				[81674] = 3,
-				[188001] = 3,
 				[228878] = 3,
+				[188001] = 3,
+				[81674] = 3,
 				[83722] = 3,
 				[237070] = 6,
 				[231578] = 4,
@@ -16676,8 +16692,8 @@ TMWOptDB = {
 				[130826] = 4,
 				[33671] = 5,
 				[277690] = 5,
-				[163424] = 5,
 				[81714] = 30,
+				[163424] = 5,
 				[160968] = 4,
 				[277537] = 3,
 				[220766] = 3,
@@ -16737,10 +16753,10 @@ TMWOptDB = {
 				[232204] = 4,
 				[195009] = 14,
 				[159259] = 3,
-				[285744] = 4,
+				[35721] = 6,
 				[35737] = 3,
 				[102159] = 14,
-				[35721] = 6,
+				[285744] = 4,
 				[245273] = 3,
 				[151068] = 4,
 				[52353] = 3,
@@ -16759,16 +16775,16 @@ TMWOptDB = {
 				[63579] = 4,
 				[78028] = 6,
 				[302253] = 3,
-				[63369] = 12,
+				[93969] = 16,
 				[192029] = 3,
 				[228892] = 3,
-				[93969] = 16,
+				[246212] = 3,
 				[171550] = 4,
 				[285750] = 5,
-				[246212] = 3,
-				[91921] = 12,
 				[310326] = 3,
-				[128784] = 3,
+				[91921] = 12,
+				[63369] = 12,
+				[159263] = 3,
 				[31060] = 9,
 				[226929] = 3,
 				[70935] = 7,
@@ -16782,9 +16798,9 @@ TMWOptDB = {
 				[42890] = 5,
 				[137886] = 3,
 				[179744] = 3,
-				[96018] = 4,
 				[74931] = 3,
 				[48010] = 6,
+				[96018] = 4,
 				[12259] = 19,
 				[133681] = 9,
 				[204320] = 10,
@@ -16804,8 +16820,8 @@ TMWOptDB = {
 				[16355] = 4,
 				[141894] = 4,
 				[310335] = 5,
-				[37771] = 4,
 				[159267] = 9,
+				[37771] = 4,
 				[249377] = 14,
 				[19398] = 10,
 				[13861] = 3,
@@ -16822,8 +16838,8 @@ TMWOptDB = {
 				[69852] = 3,
 				[142886] = 3,
 				[73493] = 6,
-				[167462] = 3,
 				[293841] = 13,
+				[167462] = 3,
 				[171558] = 9,
 				[261667] = 3,
 				[200229] = 3,
@@ -16876,11 +16892,11 @@ TMWOptDB = {
 				[196139] = 3,
 				[115845] = 3,
 				[310353] = 5,
-				[159277] = 3,
-				[293970] = 10,
 				[224327] = 3,
-				[46989] = 7,
+				[293970] = 10,
 				[24007] = 4,
+				[46989] = 7,
+				[159277] = 3,
 				[130839] = 3,
 				[6258] = 4,
 				[196982] = 3,
@@ -16916,7 +16932,7 @@ TMWOptDB = {
 				[49038] = 19,
 				[71825] = 7,
 				[310363] = 17,
-				[208432] = 4,
+				[71451] = 4,
 				[68853] = 5,
 				[216522] = 4,
 				[83737] = 7,
@@ -16940,16 +16956,16 @@ TMWOptDB = {
 				[40847] = 4,
 				[126163] = 14,
 				[62577] = 3,
-				[151118] = 3,
 				[6771] = 6,
+				[151118] = 3,
 				[52109] = 8,
 				[155189] = 3,
 				[257586] = 4,
 				[293987] = 14,
-				[73501] = 6,
+				[106268] = 4,
 				[138806] = 4,
 				[102184] = 6,
-				[106268] = 4,
+				[73501] = 6,
 				[249395] = 3,
 				[100599] = 4,
 				[13788] = 20,
@@ -16958,10 +16974,10 @@ TMWOptDB = {
 				[220747] = 17,
 				[124711] = 4,
 				[302228] = 4,
-				[163383] = 7,
-				[130844] = 4,
 				[65423] = 3,
 				[261684] = 4,
+				[163383] = 7,
+				[130844] = 4,
 				[33680] = 4,
 				[200312] = 3,
 				[285784] = 7,
@@ -17040,15 +17056,15 @@ TMWOptDB = {
 				[44946] = 3,
 				[61017] = 8,
 				[93986] = 10,
-				[67363] = 3,
 				[32068] = 3,
 				[233023] = 4,
+				[67363] = 3,
 				[219922] = 8,
 				[233964] = 3,
-				[285821] = 3,
-				[13541] = 22,
-				[167494] = 3,
 				[318588] = 69,
+				[183873] = 3,
+				[167494] = 3,
+				[285821] = 3,
 				[108274] = 6,
 				[172446] = 3,
 				[249400] = 3,
@@ -17061,21 +17077,21 @@ TMWOptDB = {
 				[100131] = 5,
 				[17354] = 10,
 				[224783] = 7,
-				[147012] = 8,
+				[106275] = 7,
 				[249409] = 9,
 				[102174] = 4,
 				[86342] = 3,
-				[163396] = 8,
-				[83748] = 12,
+				[196163] = 3,
+				[20938] = 51,
 				[226144] = 3,
 				[21962] = 4,
 				[55436] = 21,
 				[124707] = 3,
 				[234333] = 11,
 				[130373] = 15,
-				[20938] = 51,
-				[196163] = 3,
-				[106275] = 7,
+				[83748] = 12,
+				[163396] = 8,
+				[147012] = 8,
 				[208452] = 9,
 				[179781] = 4,
 				[29130] = 4,
@@ -17083,7 +17099,7 @@ TMWOptDB = {
 				[285829] = 4,
 				[294021] = 4,
 				[269446] = 8,
-				[183873] = 3,
+				[13541] = 22,
 				[243012] = 4,
 				[71916] = 7,
 				[293949] = 5,
@@ -17158,7 +17174,7 @@ TMWOptDB = {
 				[92554] = 3,
 				[241229] = 3,
 				[39561] = 5,
-				[71451] = 4,
+				[208432] = 4,
 				[226513] = 4,
 				[215862] = 3,
 				[126278] = 3,
@@ -17239,7 +17255,7 @@ TMWOptDB = {
 				[77582] = 7,
 				[201103] = 9,
 				[224349] = 4,
-				[159263] = 3,
+				[128784] = 3,
 				[76048] = 10,
 				[20008] = 11,
 				[116526] = 3,
@@ -17305,10 +17321,10 @@ TMWOptDB = {
 				[3590] = 3,
 				[77619] = 4,
 				[144801] = 4,
-				[293912] = 9,
+				[146960] = 12,
 				[116530] = 3,
 				[230117] = 3,
-				[63365] = 3,
+				[220685] = 3,
 				[197789] = 7,
 				[269503] = 9,
 				[242146] = 5,
@@ -17325,7 +17341,7 @@ TMWOptDB = {
 				[46235] = 4,
 				[118579] = 3,
 				[285890] = 3,
-				[285713] = 6,
+				[257545] = 3,
 				[79157] = 3,
 				[250215] = 6,
 				[318658] = 20,
@@ -17349,7 +17365,7 @@ TMWOptDB = {
 				[33692] = 5,
 				[239313] = 5,
 				[211340] = 6,
-				[253444] = 4,
+				[310278] = 10,
 				[75574] = 5,
 				[2426] = 16,
 				[285897] = 3,
@@ -17364,7 +17380,7 @@ TMWOptDB = {
 				[143737] = 3,
 				[67383] = 4,
 				[221537] = 4,
-				[237057] = 6,
+				[34691] = 3,
 				[245351] = 3,
 				[105713] = 7,
 				[220776] = 8,
@@ -17389,28 +17405,28 @@ TMWOptDB = {
 				[168823] = 4,
 				[42909] = 3,
 				[208491] = 7,
-				[114432] = 7,
+				[196093] = 5,
 				[45981] = 3,
 				[130290] = 3,
 				[44616] = 6,
-				[128767] = 12,
+				[191996] = 3,
 				[154072] = 9,
 				[277716] = 3,
 				[285908] = 5,
 				[212588] = 10,
 				[115049] = 5,
 				[38529] = 4,
-				[18369] = 7,
+				[146940] = 8,
 				[28623] = 50,
 				[29135] = 7,
 				[118584] = 6,
 				[87865] = 5,
 				[42674] = 5,
-				[87807] = 4,
-				[302061] = 23,
+				[120574] = 7,
+				[83711] = 3,
 				[224877] = 5,
 				[130872] = 5,
-				[53120] = 20,
+				[106238] = 5,
 				[102201] = 5,
 				[318679] = 9,
 				[220446] = 3,
@@ -17419,7 +17435,7 @@ TMWOptDB = {
 				[117054] = 6,
 				[114489] = 4,
 				[242898] = 3,
-				[191991] = 4,
+				[285673] = 3,
 				[230908] = 3,
 				[44958] = 3,
 				[147953] = 8,
@@ -17427,17 +17443,17 @@ TMWOptDB = {
 				[227751] = 6,
 				[167406] = 3,
 				[167537] = 4,
-				[208372] = 5,
+				[71421] = 5,
 				[231066] = 4,
 				[73062] = 4,
-				[269283] = 6,
+				[45951] = 3,
 				[55198] = 7,
 				[5013] = 3,
 				[163442] = 3,
 				[200305] = 3,
 				[14824] = 44,
 				[82152] = 14,
-				[130810] = 3,
+				[293855] = 6,
 				[124730] = 4,
 				[277727] = 4,
 				[52775] = 3,
@@ -17469,7 +17485,7 @@ TMWOptDB = {
 				[58271] = 11,
 				[59295] = 4,
 				[97566] = 5,
-				[171500] = 3,
+				[237034] = 6,
 				[135357] = 3,
 				[277735] = 4,
 				[257652] = 4,
@@ -17487,14 +17503,14 @@ TMWOptDB = {
 				[261510] = 6,
 				[37756] = 3,
 				[151161] = 9,
-				[40828] = 4,
+				[2552] = 13,
 				[1726] = 26,
 				[33347] = 9,
 				[134778] = 6,
-				[285639] = 3,
+				[95989] = 5,
 				[18365] = 3,
 				[243020] = 5,
-				[114420] = 7,
+				[293829] = 4,
 				[77631] = 10,
 				[35461] = 3,
 				[33901] = 3,
@@ -17543,7 +17559,7 @@ TMWOptDB = {
 				[8937] = 43,
 				[9193] = 7,
 				[120548] = 4,
-				[58232] = 36,
+				[167386] = 13,
 				[217789] = 8,
 				[163456] = 10,
 				[200319] = 6,
@@ -17595,7 +17611,7 @@ TMWOptDB = {
 				[20411] = 9,
 				[285586] = 4,
 				[136063] = 8,
-				[124648] = 3,
+				[269207] = 7,
 				[43595] = 17,
 				[124032] = 4,
 				[32839] = 5,
@@ -17607,7 +17623,7 @@ TMWOptDB = {
 				[248189] = 6,
 				[212614] = 3,
 				[151176] = 4,
-				[79592] = 12,
+				[4975] = 4,
 				[134596] = 4,
 				[114501] = 5,
 				[76102] = 8,
@@ -17626,7 +17642,7 @@ TMWOptDB = {
 				[232618] = 6,
 				[56228] = 8,
 				[229000] = 4,
-				[87781] = 22,
+				[142791] = 4,
 				[310541] = 8,
 				[44230] = 3,
 				[30255] = 6,
@@ -17637,7 +17653,7 @@ TMWOptDB = {
 				[213897] = 3,
 				[179121] = 4,
 				[52312] = 3,
-				[64370] = 3,
+				[191938] = 3,
 				[235203] = 3,
 				[239090] = 11,
 				[39845] = 5,
@@ -17669,7 +17685,7 @@ TMWOptDB = {
 				[167567] = 4,
 				[237197] = 17,
 				[35750] = 4,
-				[22969] = 3,
+				[45937] = 3,
 				[99533] = 5,
 				[110409] = 12,
 				[228549] = 5,
@@ -17699,7 +17715,7 @@ TMWOptDB = {
 				[217748] = 8,
 				[235752] = 5,
 				[33703] = 4,
-				[87773] = 4,
+				[120540] = 6,
 				[128279] = 3,
 				[50923] = 3,
 				[43735] = 3,
@@ -17723,7 +17739,7 @@ TMWOptDB = {
 				[118050] = 8,
 				[294181] = 4,
 				[302373] = 4,
-				[128729] = 17,
+				[47982] = 27,
 				[23479] = 6,
 				[66677] = 3,
 				[249492] = 6,
@@ -17751,7 +17767,7 @@ TMWOptDB = {
 				[76077] = 8,
 				[294188] = 3,
 				[216728] = 14,
-				[208296] = 13,
+				[285516] = 3,
 				[43884] = 3,
 				[166067] = 7,
 				[31300] = 3,
@@ -17763,12 +17779,12 @@ TMWOptDB = {
 				[30629] = 3,
 				[27434] = 65,
 				[239516] = 4,
-				[301895] = 7,
-				[277319] = 15,
+				[33644] = 4,
+				[63339] = 7,
 				[18389] = 3,
 				[108367] = 3,
 				[110139] = 3,
-				[71381] = 5,
+				[104148] = 15,
 				[20437] = 12,
 				[134813] = 6,
 				[22314] = 20,
@@ -17799,7 +17815,7 @@ TMWOptDB = {
 				[263070] = 3,
 				[245405] = 5,
 				[249501] = 25,
-				[191901] = 3,
+				[224668] = 3,
 				[192159] = 3,
 				[135286] = 3,
 				[51433] = 3,
@@ -17836,7 +17852,7 @@ TMWOptDB = {
 				[221914] = 74,
 				[71372] = 4,
 				[62126] = 3,
-				[261522] = 3,
+				[24500] = 31,
 				[212643] = 3,
 				[67754] = 5,
 				[259110] = 6,
@@ -17844,7 +17860,7 @@ TMWOptDB = {
 				[163493] = 3,
 				[200356] = 3,
 				[121971] = 3,
-				[35687] = 20,
+				[17844] = 19,
 				[106324] = 5,
 				[99797] = 3,
 				[185326] = 4,
@@ -17856,7 +17872,7 @@ TMWOptDB = {
 				[118472] = 11,
 				[149658] = 3,
 				[243349] = 20,
-				[134546] = 4,
+				[100042] = 6,
 				[200078] = 3,
 				[5272] = 4,
 				[154553] = 3,
@@ -17865,14 +17881,14 @@ TMWOptDB = {
 				[185035] = 3,
 				[7021] = 14,
 				[192167] = 6,
-				[293654] = 3,
+				[122568] = 91,
 				[116565] = 4,
 				[210490] = 9,
 				[142732] = 3,
 				[76847] = 4,
 				[302410] = 4,
 				[126805] = 3,
-				[5741] = 18,
+				[216459] = 4,
 				[196264] = 5,
 				[233127] = 7,
 				[209759] = 5,
@@ -17886,7 +17902,7 @@ TMWOptDB = {
 				[171690] = 24,
 				[2124] = 15,
 				[61356] = 3,
-				[195976] = 7,
+				[293643] = 10,
 				[134125] = 4,
 				[159403] = 3,
 				[261800] = 6,
@@ -17920,7 +17936,7 @@ TMWOptDB = {
 				[128905] = 5,
 				[91993] = 4,
 				[3253] = 3,
-				[120513] = 4,
+				[241022] = 5,
 				[145862] = 10,
 				[269656] = 9,
 				[138928] = 7,
@@ -17931,7 +17947,7 @@ TMWOptDB = {
 				[257709] = 6,
 				[294233] = 3,
 				[234026] = 4,
-				[228732] = 3,
+				[261499] = 7,
 				[10988] = 19,
 				[147121] = 5,
 				[183984] = 3,
@@ -17948,15 +17964,15 @@ TMWOptDB = {
 				[163506] = 11,
 				[9875] = 4,
 				[231279] = 4,
-				[128702] = 6,
-				[208249] = 4,
+				[224633] = 4,
+				[142715] = 6,
 				[15596] = 4,
 				[126810] = 3,
 				[224945] = 5,
 				[100476] = 3,
 				[149650] = 6,
 				[259599] = 3,
-				[187768] = 3,
+				[277227] = 5,
 				[294240] = 8,
 				[302432] = 12,
 				[208110] = 5,
@@ -18001,7 +18017,7 @@ TMWOptDB = {
 				[254100] = 4,
 				[34981] = 3,
 				[74869] = 11,
-				[163183] = 3,
+				[195950] = 9,
 				[134842] = 5,
 				[183660] = 5,
 				[113683] = 3,
@@ -18009,7 +18025,7 @@ TMWOptDB = {
 				[249527] = 8,
 				[136682] = 3,
 				[147501] = 3,
-				[46941] = 19,
+				[309970] = 8,
 				[78280] = 6,
 				[126044] = 5,
 				[143035] = 6,
@@ -18022,7 +18038,7 @@ TMWOptDB = {
 				[17369] = 24,
 				[35761] = 6,
 				[106335] = 10,
-				[293581] = 12,
+				[228712] = 12,
 				[277873] = 11,
 				[79712] = 3,
 				[254313] = 3,
@@ -18058,7 +18074,7 @@ TMWOptDB = {
 				[82321] = 5,
 				[257725] = 5,
 				[62219] = 8,
-				[69300] = 3,
+				[102067] = 41,
 				[233151] = 4,
 				[120673] = 4,
 				[245438] = 4,
@@ -18076,12 +18092,12 @@ TMWOptDB = {
 				[206085] = 12,
 				[302461] = 3,
 				[162172] = 3,
-				[122544] = 3,
+				[61273] = 7,
 				[212673] = 3,
 				[249536] = 5,
 				[15853] = 6,
 				[159427] = 4,
-				[171356] = 3,
+				[138589] = 12,
 				[103835] = 7,
 				[132765] = 10,
 				[42720] = 3,
@@ -18092,13 +18108,13 @@ TMWOptDB = {
 				[163524] = 8,
 				[134853] = 3,
 				[237250] = 11,
-				[293549] = 3,
+				[114350] = 5,
 				[44979] = 5,
 				[252787] = 3,
 				[23514] = 3,
 				[96100] = 3,
 				[130915] = 3,
-				[126637] = 3,
+				[253270] = 7,
 				[216130] = 4,
 				[26074] = 3,
 				[84949] = 3,
@@ -18124,7 +18140,7 @@ TMWOptDB = {
 				[229062] = 4,
 				[87150] = 10,
 				[24072] = 11,
-				[128682] = 15,
+				[257360] = 3,
 				[256529] = 3,
 				[249542] = 7,
 				[25379] = 4,
@@ -18148,7 +18164,7 @@ TMWOptDB = {
 				[87523] = 4,
 				[134860] = 3,
 				[310671] = 10,
-				[277138] = 3,
+				[42837] = 20,
 				[212682] = 4,
 				[103796] = 17,
 				[155340] = 3,
@@ -18163,7 +18179,7 @@ TMWOptDB = {
 				[117855] = 10,
 				[229067] = 7,
 				[50101] = 4,
-				[138570] = 3,
+				[309899] = 6,
 				[286100] = 5,
 				[179917] = 3,
 				[45236] = 6,
@@ -18198,7 +18214,7 @@ TMWOptDB = {
 				[89436] = 4,
 				[85530] = 3,
 				[106346] = 6,
-				[102050] = 4,
+				[309883] = 3,
 				[246484] = 3,
 				[318876] = 4,
 				[227630] = 4,
@@ -18218,14 +18234,14 @@ TMWOptDB = {
 				[220882] = 5,
 				[286113] = 4,
 				[261841] = 4,
-				[285298] = 6,
-				[83616] = 6,
+				[21929] = 7,
+				[232762] = 5,
 				[318881] = 15,
 				[122731] = 4,
 				[84403] = 16,
 				[126827] = 6,
 				[48055] = 3,
-				[154939] = 8,
+				[309870] = 7,
 				[43758] = 5,
 				[310691] = 14,
 				[241363] = 4,
@@ -18241,7 +18257,7 @@ TMWOptDB = {
 				[34525] = 3,
 				[31708] = 5,
 				[32220] = 3,
-				[154935] = 3,
+				[93853] = 4,
 				[187489] = 10,
 				[248879] = 4,
 				[68782] = 3,
@@ -18275,12 +18291,12 @@ TMWOptDB = {
 				[91734] = 3,
 				[51973] = 5,
 				[24428] = 7,
+				[268889] = 4,
 				[75418] = 5,
-				[249133] = 15,
 				[73584] = 3,
 				[37817] = 4,
 				[226564] = 33,
-				[7146] = 8,
+				[228652] = 6,
 				[261849] = 5,
 				[3816] = 6,
 				[42937] = 6,
@@ -18343,7 +18359,7 @@ TMWOptDB = {
 				[58078] = 7,
 				[186153] = 5,
 				[249569] = 23,
-				[285241] = 4,
+				[191775] = 3,
 				[254275] = 4,
 				[53464] = 3,
 				[240483] = 7,
@@ -18353,7 +18369,7 @@ TMWOptDB = {
 				[302530] = 4,
 				[23518] = 19,
 				[199605] = 5,
-				[128655] = 3,
+				[47945] = 13,
 				[54785] = 5,
 				[81286] = 7,
 				[251983] = 3,
@@ -18392,7 +18408,7 @@ TMWOptDB = {
 				[250061] = 12,
 				[69077] = 3,
 				[55228] = 5,
-				[17316] = 3,
+				[277024] = 8,
 				[81783] = 7,
 				[167658] = 9,
 				[59324] = 6,
@@ -18408,7 +18424,7 @@ TMWOptDB = {
 				[147180] = 3,
 				[175178] = 3,
 				[126468] = 3,
-				[285208] = 4,
+				[208142] = 4,
 				[261039] = 4,
 				[89041] = 8,
 				[260729] = 4,
@@ -18419,7 +18435,7 @@ TMWOptDB = {
 				[48061] = 3,
 				[196332] = 3,
 				[262198] = 6,
-				[124551] = 4,
+				[268819] = 6,
 				[52157] = 9,
 				[85035] = 5,
 				[39183] = 4,
@@ -18452,7 +18468,7 @@ TMWOptDB = {
 				[185442] = 6,
 				[200521] = 4,
 				[237295] = 12,
-				[309764] = 4,
+				[55107] = 19,
 				[147186] = 7,
 				[269789] = 4,
 				[77691] = 4,
@@ -18483,7 +18499,7 @@ TMWOptDB = {
 				[12897] = 49,
 				[262891] = 3,
 				[17747] = 20,
-				[69250] = 12,
+				[8657] = 15,
 				[169818] = 5,
 				[125892] = 3,
 				[254874] = 3,
@@ -18496,7 +18512,7 @@ TMWOptDB = {
 				[103246] = 5,
 				[22248] = 19,
 				[159727] = 6,
-				[67201] = 11,
+				[232699] = 3,
 				[204781] = 9,
 				[67454] = 4,
 				[102269] = 5,
@@ -18504,7 +18520,7 @@ TMWOptDB = {
 				[141195] = 4,
 				[274542] = 12,
 				[47124] = 5,
-				[126590] = 5,
+				[276975] = 5,
 				[114557] = 5,
 				[269802] = 4,
 				[42944] = 4,
@@ -18520,11 +18536,11 @@ TMWOptDB = {
 				[179961] = 5,
 				[80837] = 5,
 				[263470] = 9,
-				[36672] = 5,
+				[106109] = 3,
 				[261879] = 3,
 				[200441] = 6,
 				[277998] = 6,
-				[220405] = 4,
+				[309734] = 10,
 				[55568] = 12,
 				[291511] = 3,
 				[155387] = 9,
@@ -18554,7 +18570,7 @@ TMWOptDB = {
 				[278005] = 3,
 				[286197] = 9,
 				[196349] = 3,
-				[236781] = 7,
+				[309719] = 4,
 				[140055] = 10,
 				[60353] = 54,
 				[61377] = 3,
@@ -18563,7 +18579,7 @@ TMWOptDB = {
 				[32225] = 8,
 				[163583] = 3,
 				[42503] = 4,
-				[6248] = 3,
+				[99960] = 9,
 				[86964] = 8,
 				[294392] = 4,
 				[37826] = 4,
@@ -18577,7 +18593,7 @@ TMWOptDB = {
 				[249598] = 31,
 				[220927] = 3,
 				[192256] = 4,
-				[61244] = 3,
+				[3828] = 93,
 				[100226] = 3,
 				[114138] = 3,
 				[51204] = 6,
@@ -18590,7 +18606,7 @@ TMWOptDB = {
 				[268036] = 8,
 				[287211] = 3,
 				[89987] = 41,
-				[268745] = 7,
+				[249061] = 5,
 				[188162] = 3,
 				[128898] = 5,
 				[161174] = 7,
@@ -18609,7 +18625,7 @@ TMWOptDB = {
 				[124803] = 4,
 				[47043] = 14,
 				[318978] = 27,
-				[91763] = 3,
+				[62266] = 3,
 				[276425] = 6,
 				[107154] = 21,
 				[268096] = 26,
@@ -18681,7 +18697,7 @@ TMWOptDB = {
 				[54213] = 3,
 				[110472] = 3,
 				[79753] = 3,
-				[146643] = 6,
+				[89707] = 3,
 				[134927] = 4,
 				[139023] = 3,
 				[256853] = 6,
@@ -18690,7 +18706,7 @@ TMWOptDB = {
 				[264416] = 4,
 				[282752] = 3,
 				[163599] = 6,
-				[236750] = 5,
+				[203983] = 10,
 				[102281] = 3,
 				[208654] = 4,
 				[35552] = 4,
@@ -18711,7 +18727,7 @@ TMWOptDB = {
 				[286236] = 6,
 				[87528] = 16,
 				[216848] = 5,
-				[67176] = 16,
+				[99943] = 4,
 				[263483] = 4,
 				[294429] = 5,
 				[4956] = 4,
@@ -18733,7 +18749,7 @@ TMWOptDB = {
 				[41927] = 5,
 				[85900] = 10,
 				[87948] = 10,
-				[64307] = 12,
+				[317830] = 23,
 				[269859] = 9,
 				[264466] = 10,
 				[157604] = 5,
@@ -18758,8 +18774,8 @@ TMWOptDB = {
 				[237333] = 4,
 				[259528] = 3,
 				[106381] = 4,
-				[79459] = 6,
-				[106082] = 10,
+				[56114] = 5,
+				[293244] = 38,
 				[319016] = 12,
 				[273097] = 6,
 				[149447] = 4,
@@ -18779,7 +18795,7 @@ TMWOptDB = {
 				[95206] = 3,
 				[196377] = 3,
 				[47419] = 4,
-				[293235] = 8,
+				[130655] = 7,
 				[289440] = 6,
 				[145220] = 6,
 				[58683] = 5,
@@ -18789,7 +18805,7 @@ TMWOptDB = {
 				[233241] = 7,
 				[290398] = 4,
 				[35785] = 3,
-				[257208] = 3,
+				[224441] = 6,
 				[269873] = 4,
 				[19429] = 5,
 				[39881] = 9,
@@ -18814,7 +18830,7 @@ TMWOptDB = {
 				[237340] = 6,
 				[319029] = 78,
 				[22782] = 4,
-				[249010] = 4,
+				[268643] = 5,
 				[268051] = 3,
 				[225053] = 3,
 				[196382] = 10,
@@ -18852,7 +18868,7 @@ TMWOptDB = {
 				[65482] = 3,
 				[100981] = 12,
 				[183255] = 7,
-				[268626] = 8,
+				[134317] = 4,
 				[73620] = 4,
 				[37835] = 3,
 				[278448] = 6,
@@ -18907,7 +18923,7 @@ TMWOptDB = {
 				[280367] = 5,
 				[5667] = 5,
 				[3645] = 3,
-				[301368] = 4,
+				[248989] = 7,
 				[281522] = 6,
 				[59882] = 10,
 				[184106] = 3,
@@ -18938,7 +18954,7 @@ TMWOptDB = {
 				[192926] = 13,
 				[225068] = 5,
 				[81817] = 11,
-				[309546] = 3,
+				[46888] = 7,
 				[254586] = 5,
 				[3026] = 24,
 				[7674] = 38,
@@ -18958,17 +18974,17 @@ TMWOptDB = {
 				[273039] = 3,
 				[87962] = 4,
 				[245550] = 11,
-				[224403] = 3,
+				[284963] = 5,
 				[295978] = 4,
 				[257838] = 8,
 				[229167] = 3,
 				[302683] = 4,
 				[102298] = 3,
 				[267386] = 10,
-				[34599] = 4,
-				[158867] = 6,
+				[69196] = 4,
+				[64294] = 12,
 				[253743] = 4,
-				[284958] = 4,
+				[60198] = 5,
 				[286904] = 3,
 				[116634] = 11,
 				[237360] = 10,
@@ -18985,7 +19001,7 @@ TMWOptDB = {
 				[151348] = 9,
 				[138352] = 6,
 				[271621] = 4,
-				[93769] = 8,
+				[63269] = 3,
 				[83868] = 4,
 				[85916] = 5,
 				[282168] = 5,
@@ -18994,7 +19010,7 @@ TMWOptDB = {
 				[59156] = 4,
 				[76493] = 4,
 				[267810] = 3,
-				[261257] = 7,
+				[293137] = 5,
 				[174148] = 3,
 				[104348] = 25,
 				[276750] = 4,
@@ -19008,7 +19024,7 @@ TMWOptDB = {
 				[37209] = 5,
 				[281015] = 10,
 				[220981] = 3,
-				[171144] = 5,
+				[42788] = 4,
 				[32744] = 3,
 				[167735] = 3,
 				[77242] = 20,
@@ -19048,7 +19064,7 @@ TMWOptDB = {
 				[36614] = 3,
 				[249657] = 14,
 				[38865] = 6,
-				[284919] = 14,
+				[128576] = 3,
 				[163644] = 18,
 				[286638] = 8,
 				[234589] = 3,
@@ -19056,7 +19072,7 @@ TMWOptDB = {
 				[267703] = 4,
 				[88763] = 8,
 				[278131] = 3,
-				[38689] = 19,
+				[77376] = 6,
 				[43321] = 4,
 				[269940] = 4,
 				[43371] = 10,
@@ -19065,7 +19081,7 @@ TMWOptDB = {
 				[276308] = 4,
 				[110496] = 18,
 				[254708] = 3,
-				[317677] = 16,
+				[87615] = 3,
 				[233276] = 3,
 				[118688] = 5,
 				[286326] = 4,
@@ -19145,12 +19161,12 @@ TMWOptDB = {
 				[275954] = 6,
 				[155464] = 14,
 				[159560] = 9,
-				[293063] = 3,
+				[261220] = 3,
 				[288461] = 4,
 				[287085] = 5,
 				[293059] = 3,
-				[25998] = 6,
-				[99892] = 7,
+				[317635] = 4,
+				[24974] = 9,
 				[47060] = 5,
 				[272567] = 3,
 				[98214] = 3,
@@ -19167,7 +19183,7 @@ TMWOptDB = {
 				[270820] = 3,
 				[289919] = 3,
 				[151371] = 4,
-				[54042] = 5,
+				[248927] = 3,
 				[128934] = 3,
 				[229193] = 9,
 				[169920] = 8,
@@ -19185,7 +19201,7 @@ TMWOptDB = {
 				[46037] = 5,
 				[64204] = 6,
 				[273923] = 4,
-				[301235] = 9,
+				[99888] = 3,
 				[271402] = 4,
 				[291467] = 5,
 				[90329] = 3,
@@ -19210,13 +19226,13 @@ TMWOptDB = {
 				[282637] = 32,
 				[286855] = 7,
 				[273989] = 3,
-				[79406] = 3,
+				[284841] = 3,
 				[295644] = 10,
 				[241486] = 5,
 				[294554] = 3,
 				[151377] = 7,
 				[13904] = 3,
-				[253011] = 3,
+				[309412] = 6,
 				[290672] = 11,
 				[50134] = 7,
 				[304299] = 12,
@@ -19253,9 +19269,9 @@ TMWOptDB = {
 				[233299] = 4,
 				[272521] = 4,
 				[175957] = 3,
-				[101928] = 16,
+				[171085] = 3,
 				[70317] = 3,
-				[317584] = 3,
+				[4963] = 7,
 				[286863] = 13,
 				[81837] = 13,
 				[292476] = 9,
@@ -19268,7 +19284,7 @@ TMWOptDB = {
 				[98221] = 3,
 				[305607] = 16,
 				[279726] = 3,
-				[301193] = 4,
+				[116261] = 6,
 				[31965] = 4,
 				[90881] = 4,
 				[155480] = 3,
@@ -19304,7 +19320,7 @@ TMWOptDB = {
 				[180059] = 3,
 				[222756] = 4,
 				[180426] = 6,
-				[128544] = 6,
+				[317558] = 5,
 				[272483] = 3,
 				[47569] = 5,
 				[278194] = 3,
@@ -19319,7 +19335,7 @@ TMWOptDB = {
 				[175965] = 8,
 				[245595] = 5,
 				[151390] = 4,
-				[317551] = 6,
+				[35601] = 13,
 				[286928] = 4,
 				[295059] = 3,
 				[270006] = 3,
@@ -19330,7 +19346,7 @@ TMWOptDB = {
 				[155487] = 4,
 				[192350] = 3,
 				[163679] = 3,
-				[49936] = 9,
+				[268396] = 7,
 				[204638] = 4,
 				[143200] = 10,
 				[296443] = 6,
@@ -19340,7 +19356,7 @@ TMWOptDB = {
 				[266262] = 3,
 				[296753] = 3,
 				[310969] = 7,
-				[95773] = 10,
+				[284775] = 6,
 				[273341] = 3,
 				[216927] = 5,
 				[47066] = 5,
@@ -19412,7 +19428,7 @@ TMWOptDB = {
 				[98230] = 7,
 				[67511] = 3,
 				[171881] = 3,
-				[138280] = 8,
+				[309319] = 9,
 				[299735] = 3,
 				[84569] = 4,
 				[177440] = 7,
@@ -19431,7 +19447,7 @@ TMWOptDB = {
 				[49144] = 8,
 				[245609] = 9,
 				[282701] = 3,
-				[292925] = 14,
+				[228384] = 4,
 				[192363] = 7,
 				[170915] = 3,
 				[302801] = 8,
@@ -19641,7 +19657,7 @@ TMWOptDB = {
 				[270085] = 4,
 				[77765] = 3,
 				[192389] = 6,
-				[292830] = 18,
+				[122362] = 8,
 				[83909] = 5,
 				[303707] = 5,
 				[289394] = 3,
@@ -19717,7 +19733,7 @@ TMWOptDB = {
 				[270104] = 3,
 				[139152] = 6,
 				[307021] = 3,
-				[300985] = 4,
+				[232414] = 4,
 				[249741] = 6,
 				[306078] = 12,
 				[286489] = 4,
@@ -19908,7 +19924,7 @@ TMWOptDB = {
 				[131028] = 3,
 				[314350] = 11,
 				[278344] = 6,
-				[146354] = 3,
+				[211888] = 3,
 				[212902] = 3,
 				[314434] = 9,
 				[314505] = 11,
@@ -20046,7 +20062,7 @@ TMWOptDB = {
 				[171960] = 3,
 				[248585] = 3,
 				[24170] = 3,
-				[183182] = 5,
+				[268055] = 4,
 				[177910] = 8,
 				[153778] = 6,
 				[237977] = 15,
@@ -20116,10 +20132,10 @@ TMWOptDB = {
 			"7fffffff", -- [2]
 			"7fff0000", -- [3]
 		},
-		["TellMeWhenDBBackupDate"] = 1580352904,
+		["TellMeWhenDBBackupDate"] = 1580432650,
 		["EditorHeight"] = 746.0380859375,
 		["LastChangelogVersion"] = 87401,
-		["ConfigWarningN"] = 334,
+		["ConfigWarningN"] = 337,
 		["AuraCache"] = {
 			[196342] = 2,
 			[288217] = 1,
@@ -20233,6 +20249,7 @@ TMWOptDB = {
 			[280073] = 2,
 			[273930] = 1,
 			[292360] = 2,
+			[288265] = 1,
 			[22888] = 1,
 			[288266] = 1,
 			[282123] = 2,
@@ -20349,6 +20366,7 @@ TMWOptDB = {
 			[278070] = 2,
 			[284214] = 2,
 			[269880] = 1,
+			[282167] = 1,
 			[187174] = 2,
 			[269881] = 1,
 			[304693] = 2,
@@ -20458,6 +20476,7 @@ TMWOptDB = {
 			[256821] = 2,
 			[269928] = 1,
 			[161601] = 1,
+			[284263] = 1,
 			[246583] = 1,
 			[298598] = 2,
 			[288360] = 1,
@@ -20892,6 +20911,7 @@ TMWOptDB = {
 			[63978] = 1,
 			[64234] = 1,
 			[48108] = 2,
+			[288524] = 1,
 			[186257] = 2,
 			[319241] = 2,
 			[288525] = 1,
@@ -21185,6 +21205,7 @@ TMWOptDB = {
 			[302972] = 1,
 			[305020] = 2,
 			[292734] = 1,
+			[190410] = 1,
 			[278401] = 1,
 			[305022] = 2,
 			[309118] = 1,
@@ -21677,6 +21698,7 @@ TMWOptDB = {
 			[6788] = 2,
 			[272468] = 1,
 			[274516] = 2,
+			[309328] = 2,
 			[262230] = 2,
 			[222256] = 2,
 			[256044] = 1,
@@ -21989,15 +22011,30 @@ TMWOptDB = {
 			[299227] = 1,
 			[254065] = 2,
 			[288989] = 2,
+			[212704] = 2,
 			[303324] = 1,
 			[160893] = 2,
+			[311571] = 1,
+			[311744] = 1,
 			[295134] = 2,
 			[272609] = 1,
+			[289038] = 1,
+			[280876] = 2,
 			[270562] = 2,
+			[311816] = 1,
+			[274221] = 1,
+			[311738] = 1,
+			[311761] = 1,
 			[264420] = 2,
+			[315309] = 1,
 			[589] = 2,
 			[270564] = 2,
+			[314040] = 2,
+			[286260] = 1,
 			[55078] = 2,
+			[264894] = 2,
+			[23768] = 1,
+			[294142] = 2,
 			[268518] = 2,
 			[262375] = 1,
 			[259188] = 1,
@@ -22005,6 +22042,7 @@ TMWOptDB = {
 			[268519] = 2,
 			[98374] = 1,
 			[173183] = 2,
+			[275398] = 2,
 			[268520] = 2,
 			[262377] = 1,
 			[185470] = 2,
@@ -22012,29 +22050,47 @@ TMWOptDB = {
 			[42792] = 2,
 			[270569] = 2,
 			[173184] = 2,
+			[166355] = 2,
+			[286315] = 2,
+			[314498] = 1,
 			[280809] = 2,
+			[298703] = 2,
 			[268523] = 2,
+			[311832] = 1,
+			[311831] = 1,
 			[99399] = 1,
 			[191615] = 2,
+			[197908] = 2,
 			[185472] = 2,
+			[308189] = 2,
+			[311736] = 1,
+			[24709] = 2,
+			[304634] = 1,
 			[745] = 1,
 			[257144] = 1,
 			[48168] = 1,
 			[160900] = 2,
 			[178306] = 2,
+			[81210] = 1,
 			[303339] = 1,
 			[107079] = 2,
+			[315241] = 1,
 			[191617] = 2,
 			[278767] = 2,
 			[305388] = 2,
+			[287576] = 1,
+			[302893] = 2,
+			[236273] = 2,
+			[290264] = 2,
+			[280025] = 2,
 			[191618] = 2,
 			[278769] = 2,
 			[259194] = 2,
-			[302893] = 2,
+			[317219] = 2,
 			[276722] = 1,
-			[313460] = 1,
-			[312266] = 1,
-			[227099] = 2,
+			[296729] = 1,
+			[316923] = 1,
+			[307399] = 1,
 			[268532] = 2,
 			[303344] = 2,
 			[109128] = 2,
@@ -22044,7 +22100,7 @@ TMWOptDB = {
 			[94794] = 2,
 			[266486] = 2,
 			[268534] = 2,
-			[315311] = 1,
+			[304658] = 2,
 			[185477] = 2,
 			[299251] = 1,
 			[301299] = 2,
@@ -22052,10 +22108,10 @@ TMWOptDB = {
 			[305395] = 2,
 			[266488] = 2,
 			[268536] = 2,
-			[307637] = 1,
-			[246351] = 2,
+			[307201] = 1,
+			[79356] = 1,
 			[299253] = 1,
-			[313208] = 1,
+			[307202] = 1,
 			[196741] = 2,
 			[21655] = 1,
 			[266490] = 2,
@@ -22063,78 +22119,78 @@ TMWOptDB = {
 			[303350] = 2,
 			[185479] = 2,
 			[299255] = 1,
-			[307399] = 1,
+			[205655] = 2,
 			[196742] = 2,
-			[307806] = 1,
+			[304603] = 2,
 			[22807] = 2,
-			[309853] = 1,
+			[313460] = 1,
 			[249984] = 2,
 			[210053] = 2,
 			[260223] = 1,
 			[118345] = 2,
 			[262398] = 2,
 			[63784] = 1,
-			[306005] = 1,
-			[306301] = 1,
-			[245102] = 1,
+			[315311] = 1,
+			[263865] = 2,
+			[300968] = 2,
 			[305402] = 2,
-			[316923] = 1,
+			[53758] = 2,
 			[114250] = 2,
-			[302395] = 1,
+			[313571] = 2,
 			[280830] = 2,
 			[247938] = 2,
-			[304658] = 2,
+			[311041] = 1,
 			[262401] = 2,
 			[185482] = 2,
 			[274688] = 1,
 			[228485] = 2,
-			[304128] = 2,
+			[71561] = 2,
 			[289023] = 2,
-			[166972] = 1,
+			[282518] = 1,
 			[8909] = 1,
 			[270594] = 1,
 			[185483] = 2,
-			[313672] = 2,
+			[315624] = 2,
 			[268547] = 2,
 			[311550] = 1,
-			[310343] = 1,
-			[307586] = 2,
+			[82839] = 1,
+			[269879] = 1,
 			[183436] = 2,
 			[258179] = 1,
 			[289026] = 2,
-			[307201] = 1,
-			[310611] = 2,
+			[312933] = 1,
+			[312915] = 2,
 			[286979] = 2,
 			[127562] = 2,
-			[300762] = 2,
+			[108416] = 2,
 			[268550] = 2,
 			[278789] = 2,
 			[272646] = 1,
-			[282943] = 1,
-			[307202] = 1,
-			[267015] = 1,
+			[191219] = 2,
+			[255723] = 2,
+			[307343] = 1,
 			[181390] = 1,
-			[287443] = 2,
+			[306819] = 1,
 			[268552] = 2,
 			[295173] = 2,
-			[205655] = 2,
+			[300835] = 2,
 			[266505] = 1,
-			[236273] = 2,
+			[97153] = 1,
 			[295174] = 2,
 			[264458] = 1,
-			[290264] = 2,
-			[280025] = 2,
-			[306978] = 1,
+			[307395] = 1,
+			[277969] = 2,
+			[208963] = 2,
 			[280841] = 2,
-			[300968] = 2,
-			[313571] = 2,
+			[317443] = 2,
+			[312908] = 1,
 			[262412] = 1,
 			[280842] = 2,
-			[311041] = 1,
-			[71561] = 2,
-			[282518] = 1,
+			[62418] = 1,
+			[298820] = 1,
+			[259817] = 1,
 			[280843] = 2,
-			[315624] = 2,
+			[92596] = 2,
 			[276748] = 1,
 			[303369] = 1,
 			[280844] = 2,
@@ -22145,10 +22201,10 @@ TMWOptDB = {
 			[266511] = 1,
 			[284941] = 1,
 			[303371] = 2,
-			[313610] = 1,
+			[272655] = 1,
 			[282894] = 2,
 			[257161] = 1,
-			[165746] = 1,
+			[269776] = 2,
 			[280847] = 2,
 			[6343] = 2,
 			[284943] = 1,
@@ -22157,74 +22213,74 @@ TMWOptDB = {
 			[299278] = 1,
 			[191634] = 2,
 			[262419] = 2,
-			[82839] = 1,
-			[306973] = 1,
+			[300492] = 1,
+			[317357] = 2,
 			[114255] = 2,
 			[303375] = 1,
 			[272659] = 1,
-			[312933] = 1,
-			[314956] = 1,
+			[252804] = 2,
+			[270235] = 2,
 			[176277] = 2,
 			[210065] = 2,
 			[274708] = 2,
-			[62418] = 1,
+			[304969] = 1,
 			[270613] = 1,
 			[280852] = 2,
-			[317357] = 2,
-			[298820] = 1,
-			[307343] = 1,
-			[306819] = 1,
-			[300835] = 2,
+			[280302] = 1,
+			[62717] = 1,
+			[308890] = 1,
+			[282477] = 1,
+			[195710] = 2,
 			[268567] = 2,
 			[278806] = 2,
+			[233411] = 2,
 			[307314] = 1,
-			[221341] = 2,
-			[307395] = 1,
+			[218111] = 1,
 			[303380] = 2,
 			[280855] = 2,
 			[202900] = 2,
 			[1850] = 2,
-			[248958] = 2,
+			[261960] = 1,
 			[289047] = 1,
-			[208963] = 2,
-			[312908] = 1,
+			[263904] = 2,
+			[308969] = 2,
 			[303382] = 1,
 			[289048] = 1,
 			[274714] = 2,
 			[244880] = 1,
-			[108416] = 2,
+			[307075] = 1,
 			[280858] = 2,
-			[191219] = 2,
-			[255723] = 2,
+			[306965] = 2,
+			[184258] = 2,
 			[295193] = 2,
 			[272668] = 1,
-			[282477] = 1,
+			[278350] = 2,
 			[63276] = 1,
 			[278812] = 2,
-			[92596] = 2,
-			[64044] = 2,
+			[305378] = 1,
+			[315672] = 1,
 			[257168] = 1,
-			[233411] = 2,
+			[243432] = 2,
 			[280861] = 2,
 			[113746] = 2,
 			[261264] = 1,
-			[97153] = 1,
+			[296674] = 1,
 			[280862] = 2,
 			[256145] = 2,
 			[232596] = 2,
 			[270624] = 1,
-			[252804] = 2,
+			[65628] = 1,
 			[274720] = 1,
 			[261265] = 1,
-			[277969] = 2,
-			[270235] = 2,
-			[304969] = 1,
+			[313148] = 2,
+			[190190] = 1,
+			[271817] = 1,
 			[257170] = 1,
 			[258194] = 1,
-			[93622] = 2,
+			[187464] = 2,
 			[80983] = 1,
 			[261266] = 1,
-			[62717] = 1,
+			[277997] = 1,
 			[280866] = 2,
 			[53806] = 2,
 			[232598] = 2,
@@ -22235,409 +22291,409 @@ TMWOptDB = {
 			[55342] = 2,
 			[280868] = 2,
 			[256148] = 2,
-			[308890] = 1,
-			[259817] = 1,
+			[165832] = 2,
+			[271816] = 1,
 			[259220] = 1,
 			[315681] = 2,
 			[276774] = 1,
-			[195710] = 2,
+			[303080] = 2,
 			[2580] = 2,
-			[269776] = 2,
-			[300492] = 1,
+			[36893] = 2,
+			[313445] = 1,
 			[143523] = 1,
-			[218111] = 1,
+			[102381] = 1,
 			[202908] = 2,
 			[236696] = 2,
-			[261960] = 1,
+			[315573] = 2,
 			[70234] = 2,
 			[198813] = 2,
 			[268586] = 1,
-			[263904] = 2,
-			[308969] = 2,
-			[311203] = 2,
+			[306901] = 1,
+			[317550] = 2,
+			[185069] = 1,
 			[244888] = 1,
 			[278826] = 2,
-			[306965] = 2,
+			[299276] = 1,
 			[291113] = 2,
-			[313609] = 2,
+			[275909] = 2,
 			[303400] = 1,
-			[297257] = 1,
-			[184258] = 2,
-			[278350] = 2,
+			[313639] = 1,
+			[311116] = 1,
+			[270285] = 1,
 			[262446] = 2,
 			[119381] = 2,
 			[291115] = 2,
 			[276781] = 2,
 			[258200] = 1,
-			[278190] = 1,
+			[311097] = 2,
 			[65070] = 1,
-			[305378] = 1,
-			[65628] = 1,
+			[299055] = 1,
+			[221341] = 2,
 			[297260] = 2,
 			[24858] = 2,
-			[277981] = 1,
-			[315573] = 2,
+			[286766] = 2,
+			[288194] = 2,
 			[313643] = 2,
 			[291118] = 2,
-			[102381] = 1,
+			[57807] = 1,
 			[270641] = 2,
-			[315761] = 1,
+			[191211] = 2,
 			[198817] = 2,
 			[301358] = 2,
 			[79963] = 2,
 			[289072] = 2,
-			[313148] = 2,
-			[315711] = 1,
+			[313081] = 1,
+			[126340] = 1,
 			[196770] = 2,
 			[289073] = 2,
 			[291121] = 2,
-			[277997] = 1,
-			[165832] = 2,
+			[68704] = 1,
+			[297161] = 1,
 			[289074] = 2,
 			[274740] = 2,
 			[244893] = 1,
 			[19483] = 2,
 			[289075] = 2,
 			[274741] = 2,
-			[303403] = 2,
+			[305301] = 2,
 			[278837] = 1,
 			[297267] = 2,
 			[274742] = 2,
-			[243432] = 2,
+			[304841] = 1,
 			[147626] = 1,
 			[115288] = 2,
-			[315675] = 1,
-			[199844] = 2,
-			[313445] = 1,
-			[272696] = 1,
-			[36893] = 2,
-			[190190] = 1,
-			[271817] = 1,
-			[306901] = 1,
 			[305459] = 1,
+			[199844] = 2,
+			[191210] = 2,
+			[272696] = 1,
+			[303403] = 2,
+			[315356] = 1,
+			[274756] = 1,
+			[63486] = 1,
+			[203539] = 2,
 			[199845] = 2,
 			[79965] = 1,
-			[317550] = 2,
+			[317592] = 2,
 			[202917] = 2,
 			[301367] = 2,
-			[271816] = 1,
+			[299061] = 1,
 			[272699] = 1,
-			[313675] = 1,
+			[202539] = 2,
 			[268604] = 2,
-			[311116] = 1,
-			[270285] = 1,
+			[91139] = 2,
+			[308980] = 1,
 			[282939] = 1,
 			[154796] = 2,
 			[63536] = 2,
-			[311097] = 2,
-			[299055] = 1,
-			[270661] = 2,
+			[276214] = 2,
+			[48103] = 2,
+			[303188] = 2,
 			[262463] = 1,
 			[259232] = 1,
-			[286766] = 2,
+			[297036] = 2,
 			[268607] = 2,
-			[185069] = 1,
-			[306981] = 1,
-			[275909] = 2,
-			[313081] = 1,
+			[193356] = 2,
+			[191208] = 2,
+			[44531] = 1,
+			[264526] = 1,
 			[262465] = 1,
-			[215132] = 2,
-			[68704] = 1,
+			[270661] = 2,
+			[282943] = 1,
 			[268609] = 2,
 			[270657] = 2,
 			[103004] = 2,
 			[299326] = 2,
-			[297161] = 1,
+			[313398] = 1,
 			[79967] = 1,
 			[218279] = 2,
-			[171858] = 1,
-			[304841] = 1,
-			[288194] = 2,
-			[308980] = 1,
+			[315179] = 2,
+			[127923] = 2,
+			[276003] = 1,
+			[124280] = 2,
 			[166062] = 2,
-			[191211] = 2,
-			[315356] = 1,
+			[311261] = 2,
+			[272462] = 1,
 			[313663] = 2,
-			[274756] = 1,
+			[315711] = 1,
 			[284995] = 1,
 			[262470] = 1,
-			[203539] = 2,
-			[63486] = 1,
-			[299061] = 1,
+			[296759] = 2,
+			[284089] = 2,
+			[296779] = 2,
 			[79968] = 1,
-			[317592] = 2,
-			[311129] = 1,
-			[73313] = 2,
-			[276887] = 1,
+			[269871] = 1,
+			[61716] = 2,
+			[284997] = 1,
+			[65629] = 1,
 			[264520] = 1,
 			[215210] = 2,
 			[268616] = 2,
-			[191210] = 2,
+			[310835] = 1,
 			[42292] = 2,
 			[5320] = 1,
-			[276214] = 2,
-			[48103] = 2,
+			[303436] = 1,
+			[259241] = 1,
 			[70242] = 2,
-			[303188] = 2,
+			[219874] = 1,
 			[285000] = 1,
-			[297036] = 2,
-			[193356] = 2,
+			[227041] = 2,
+			[315276] = 1,
 			[252071] = 2,
 			[268619] = 2,
 			[221355] = 2,
 			[5672] = 2,
 			[22812] = 2,
 			[199854] = 2,
-			[298630] = 1,
-			[44531] = 1,
+			[192229] = 2,
+			[305356] = 1,
 			[291146] = 2,
 			[171186] = 1,
 			[188592] = 2,
-			[264526] = 1,
+			[313672] = 2,
 			[291147] = 2,
-			[297133] = 1,
+			[314802] = 1,
 			[270670] = 2,
-			[313398] = 1,
-			[315179] = 2,
+			[279990] = 2,
+			[290605] = 1,
 			[268623] = 2,
 			[278862] = 2,
 			[24732] = 2,
-			[303436] = 1,
-			[127923] = 2,
+			[298630] = 1,
+			[306752] = 1,
 			[241835] = 2,
-			[259241] = 1,
+			[313675] = 1,
 			[243883] = 1,
 			[162997] = 2,
-			[311261] = 2,
+			[315695] = 1,
 			[272721] = 2,
-			[272462] = 1,
-			[296759] = 2,
+			[224992] = 2,
+			[64191] = 1,
 			[270674] = 2,
-			[191208] = 2,
-			[276003] = 1,
+			[278869] = 2,
+			[312924] = 2,
 			[130653] = 2,
 			[303439] = 1,
 			[272723] = 2,
 			[256171] = 2,
 			[285010] = 2,
 			[295249] = 2,
-			[269871] = 1,
-			[61716] = 2,
-			[65629] = 1,
-			[296779] = 2,
-			[13903] = 1,
-			[195775] = 1,
-			[308876] = 1,
-			[278869] = 2,
-			[124280] = 2,
-			[274774] = 2,
-			[50433] = 2,
+			[269815] = 1,
+			[298829] = 1,
 			[268415] = 1,
-			[258156] = 1,
-			[284089] = 2,
+			[315697] = 1,
+			[13903] = 1,
+			[273874] = 1,
+			[297153] = 1,
+			[48181] = 2,
+			[91002] = 2,
+			[274774] = 2,
+			[306982] = 2,
+			[311634] = 1,
+			[302945] = 2,
+			[266158] = 1,
 			[285014] = 1,
 			[287062] = 2,
-			[310835] = 1,
-			[269815] = 1,
-			[315695] = 1,
+			[282826] = 1,
+			[208608] = 2,
+			[315041] = 1,
 			[287063] = 2,
-			[290605] = 1,
-			[315276] = 1,
+			[313088] = 2,
+			[306873] = 1,
 			[208052] = 2,
 			[278873] = 2,
-			[305356] = 1,
+			[299243] = 1,
 			[202933] = 2,
-			[313747] = 1,
+			[268602] = 2,
 			[278874] = 2,
-			[219874] = 1,
-			[227041] = 2,
-			[313088] = 2,
-			[192229] = 2,
-			[312924] = 2,
+			[171863] = 1,
+			[313424] = 2,
+			[317265] = 2,
+			[51510] = 2,
+			[311399] = 1,
 			[274780] = 1,
 			[309592] = 1,
 			[278876] = 2,
 			[272733] = 2,
 			[198839] = 2,
-			[314802] = 1,
+			[298761] = 2,
 			[270686] = 1,
 			[48438] = 2,
-			[65076] = 1,
+			[274782] = 1,
 			[212150] = 2,
 			[278878] = 2,
-			[279990] = 2,
-			[63551] = 1,
+			[1330] = 2,
+			[13750] = 2,
 			[301404] = 1,
-			[309411] = 2,
-			[297152] = 1,
+			[317583] = 1,
+			[48864] = 2,
 			[315739] = 2,
-			[273874] = 1,
+			[308967] = 1,
 			[278880] = 2,
-			[51510] = 2,
-			[224992] = 2,
-			[64191] = 1,
+			[272737] = 2,
+			[64190] = 1,
+			[315176] = 2,
 			[287072] = 1,
-			[315697] = 1,
-			[299243] = 1,
+			[276127] = 2,
+			[317376] = 2,
 			[73320] = 2,
 			[262500] = 1,
-			[283063] = 1,
+			[296794] = 2,
 			[274787] = 1,
-			[302945] = 2,
+			[62910] = 1,
 			[287074] = 2,
-			[297153] = 1,
+			[317503] = 1,
 			[291170] = 2,
-			[282826] = 1,
-			[13899] = 1,
-			[315041] = 1,
-			[91002] = 2,
-			[306873] = 1,
+			[216796] = 1,
+			[251839] = 2,
+			[33581] = 1,
+			[298569] = 2,
+			[258159] = 1,
 			[241846] = 2,
 			[280933] = 1,
 			[65077] = 1,
-			[212704] = 2,
-			[268602] = 2,
+			[306715] = 2,
+			[314789] = 1,
 			[214202] = 2,
 			[190653] = 2,
-			[171863] = 1,
+			[304975] = 1,
 			[295269] = 2,
-			[24709] = 2,
+			[243902] = 2,
 			[260277] = 2,
 			[276840] = 2,
 			[254134] = 1,
 			[297318] = 1,
-			[208608] = 2,
+			[308949] = 1,
 			[216251] = 2,
 			[295271] = 2,
-			[175844] = 2,
-			[313784] = 1,
-			[297375] = 2,
+			[292600] = 1,
+			[177304] = 2,
+			[307128] = 2,
 			[287081] = 2,
 			[264556] = 1,
 			[190655] = 2,
-			[164913] = 1,
-			[298761] = 2,
-			[1330] = 2,
+			[26000] = 1,
+			[317301] = 1,
+			[264064] = 1,
 			[260279] = 2,
 			[55095] = 2,
-			[311399] = 1,
-			[262498] = 1,
-			[308967] = 1,
-			[308891] = 1,
-			[315176] = 2,
+			[300650] = 1,
+			[214170] = 2,
+			[285041] = 1,
+			[20578] = 2,
+			[305129] = 2,
 			[121445] = 1,
 			[260280] = 1,
 			[195776] = 1,
 			[57399] = 2,
 			[264560] = 1,
 			[307563] = 2,
-			[317583] = 1,
+			[127907] = 1,
 			[262513] = 1,
-			[276888] = 1,
-			[317376] = 2,
-			[296794] = 2,
+			[313014] = 2,
+			[20066] = 2,
+			[170855] = 2,
 			[270705] = 1,
-			[301499] = 1,
+			[317420] = 2,
 			[274801] = 1,
-			[64190] = 1,
+			[276000] = 1,
 			[278897] = 2,
-			[272188] = 1,
-			[306715] = 2,
-			[285041] = 1,
+			[303306] = 2,
+			[33564] = 1,
+			[122470] = 2,
 			[270707] = 1,
-			[251839] = 2,
-			[33581] = 1,
+			[126892] = 2,
+			[278523] = 2,
 			[91754] = 2,
 			[62519] = 1,
 			[62775] = 1,
-			[62910] = 1,
-			[258159] = 1,
-			[216796] = 1,
-			[177304] = 2,
-			[278985] = 1,
+			[292611] = 1,
+			[273900] = 1,
+			[26977] = 1,
+			[295099] = 1,
+			[185474] = 2,
 			[285044] = 1,
 			[159944] = 1,
-			[304975] = 1,
-			[243902] = 2,
+			[207707] = 1,
+			[315761] = 1,
 			[73325] = 2,
 			[270711] = 2,
-			[315292] = 2,
-			[298569] = 2,
-			[314789] = 1,
-			[256231] = 2,
+			[300659] = 1,
+			[131901] = 1,
+			[282832] = 2,
+			[292627] = 1,
 			[297333] = 1,
-			[315763] = 2,
-			[307128] = 2,
-			[257169] = 1,
+			[235712] = 2,
+			[65081] = 2,
+			[188456] = 1,
 			[103018] = 2,
-			[317301] = 1,
+			[43199] = 2,
 			[208068] = 1,
 			[143564] = 2,
 			[264571] = 2,
 			[260286] = 2,
 			[73326] = 2,
-			[292600] = 1,
-			[300650] = 1,
-			[8099] = 2,
-			[26000] = 1,
+			[315769] = 1,
+			[297315] = 1,
+			[317581] = 1,
+			[315161] = 2,
 			[278907] = 2,
 			[62776] = 1,
-			[313014] = 2,
-			[305129] = 2,
+			[38663] = 1,
+			[298950] = 2,
 			[278908] = 2,
 			[313720] = 1,
-			[127907] = 1,
+			[257908] = 1,
 			[79470] = 2,
-			[20578] = 2,
-			[276000] = 1,
-			[315769] = 1,
+			[165748] = 1,
+			[81782] = 2,
+			[274814] = 2,
 			[203975] = 2,
 			[155853] = 2,
 			[24735] = 2,
 			[124009] = 2,
-			[214170] = 2,
+			[7165] = 1,
 			[278911] = 2,
-			[165720] = 1,
-			[20066] = 2,
-			[303306] = 2,
-			[33564] = 1,
+			[13005] = 1,
+			[258768] = 1,
+			[302952] = 2,
+			[28271] = 2,
 			[173260] = 2,
 			[315772] = 1,
-			[20707] = 2,
-			[278523] = 2,
-			[292611] = 1,
-			[18968] = 1,
-			[24740] = 2,
-			[304768] = 1,
-			[295099] = 1,
-			[26977] = 1,
-			[207707] = 1,
-			[300659] = 1,
-			[12051] = 2,
+			[300741] = 2,
+			[312814] = 2,
+			[304657] = 2,
+			[292664] = 1,
+			[199545] = 2,
+			[266167] = 1,
+			[62396] = 1,
+			[275867] = 2,
+			[298841] = 2,
+			[259277] = 2,
+			[261882] = 2,
 			[260291] = 1,
 			[276868] = 1,
-			[273900] = 1,
+			[292609] = 1,
 			[289155] = 1,
-			[295343] = 2,
-			[300642] = 1,
+			[170764] = 1,
+			[271770] = 2,
 			[278917] = 2,
-			[185474] = 2,
-			[65081] = 2,
-			[188456] = 1,
+			[67669] = 2,
+			[307586] = 2,
+			[296820] = 2,
 			[287109] = 1,
-			[131901] = 1,
-			[43199] = 2,
+			[65008] = 2,
+			[43198] = 2,
 			[5225] = 2,
-			[297315] = 1,
-			[292627] = 1,
-			[310832] = 2,
-			[38663] = 1,
+			[165739] = 1,
+			[270030] = 1,
+			[301426] = 2,
+			[256880] = 1,
 			[262538] = 1,
-			[292711] = 1,
+			[300526] = 1,
 			[256198] = 1,
 			[276873] = 1,
 			[262539] = 1,
-			[63038] = 1,
+			[275863] = 2,
 			[274826] = 2,
 			[203981] = 2,
 			[262540] = 1,
@@ -22648,462 +22704,462 @@ TMWOptDB = {
 			[289162] = 1,
 			[299401] = 1,
 			[236746] = 2,
-			[257908] = 1,
+			[142205] = 2,
 			[63802] = 1,
 			[256200] = 1,
-			[165748] = 1,
-			[81782] = 2,
+			[196782] = 2,
+			[289184] = 2,
 			[210126] = 2,
-			[213092] = 1,
+			[188389] = 2,
 			[276878] = 1,
-			[13005] = 1,
+			[276888] = 1,
 			[214222] = 2,
-			[256201] = 1,
+			[124013] = 2,
 			[257225] = 1,
-			[258768] = 1,
-			[263699] = 2,
+			[64699] = 1,
+			[302932] = 2,
 			[315787] = 2,
 			[276880] = 1,
 			[303501] = 1,
 			[313740] = 1,
-			[28271] = 2,
+			[64187] = 1,
 			[257226] = 1,
-			[300741] = 2,
+			[292916] = 2,
 			[226510] = 1,
 			[274834] = 2,
 			[61243] = 2,
 			[295312] = 1,
 			[289169] = 1,
-			[304634] = 1,
+			[271765] = 1,
 			[199890] = 2,
 			[278931] = 2,
-			[304657] = 2,
+			[259975] = 1,
 			[54844] = 2,
 			[285075] = 2,
-			[62016] = 1,
-			[288473] = 1,
+			[292569] = 1,
+			[18328] = 1,
 			[274837] = 2,
-			[199545] = 2,
+			[152280] = 2,
 			[262551] = 2,
 			[226512] = 2,
 			[274838] = 2,
-			[62396] = 1,
+			[248694] = 2,
 			[262552] = 2,
-			[275867] = 2,
+			[256715] = 1,
 			[124015] = 1,
 			[199892] = 2,
-			[312814] = 2,
-			[259277] = 2,
-			[292664] = 1,
+			[273955] = 2,
+			[313747] = 1,
+			[294365] = 2,
 			[309652] = 2,
 			[262554] = 1,
-			[255194] = 1,
+			[187349] = 2,
 			[70774] = 2,
-			[170764] = 1,
+			[266120] = 1,
 			[258254] = 1,
-			[266167] = 1,
+			[274860] = 1,
 			[299415] = 1,
-			[67669] = 2,
-			[298841] = 2,
-			[65008] = 2,
-			[44104] = 2,
+			[298651] = 1,
+			[288368] = 1,
+			[147405] = 2,
+			[273809] = 2,
 			[158939] = 1,
 			[262557] = 2,
-			[313751] = 1,
+			[264605] = 1,
 			[145629] = 2,
 			[228563] = 2,
 			[63548] = 1,
-			[43198] = 2,
-			[165739] = 1,
-			[309657] = 2,
-			[67713] = 2,
-			[292609] = 1,
-			[301426] = 2,
-			[289220] = 1,
+			[298771] = 2,
+			[302477] = 1,
+			[158940] = 1,
+			[185464] = 2,
+			[259854] = 1,
+			[272817] = 2,
+			[294741] = 1,
 			[262560] = 2,
-			[275863] = 2,
+			[195802] = 1,
 			[256209] = 1,
 			[268704] = 1,
-			[256880] = 1,
+			[290728] = 2,
 			[185562] = 2,
-			[24713] = 2,
-			[142205] = 2,
-			[159982] = 1,
-			[296706] = 2,
-			[64699] = 1,
+			[304800] = 1,
+			[12544] = 1,
+			[296733] = 1,
+			[304760] = 1,
+			[259818] = 2,
 			[276897] = 2,
 			[295327] = 2,
-			[289184] = 2,
-			[297459] = 1,
-			[195802] = 1,
-			[64187] = 1,
-			[188389] = 2,
+			[297375] = 2,
+			[302474] = 1,
+			[276898] = 1,
+			[196727] = 2,
+			[319919] = 2,
 			[53822] = 2,
-			[271765] = 1,
+			[39477] = 1,
 			[303520] = 2,
-			[292626] = 1,
+			[13445] = 1,
 			[260307] = 1,
 			[268709] = 1,
 			[63549] = 1,
-			[302932] = 2,
+			[298832] = 2,
 			[283044] = 1,
 			[79480] = 2,
-			[292916] = 2,
-			[152280] = 2,
-			[165750] = 1,
+			[294909] = 2,
+			[292601] = 1,
+			[296539] = 2,
 			[317857] = 1,
-			[256715] = 1,
-			[292569] = 1,
+			[128519] = 2,
+			[260237] = 1,
 			[124019] = 1,
 			[268712] = 1,
-			[18328] = 1,
+			[228354] = 2,
 			[259285] = 2,
-			[300524] = 1,
+			[207076] = 2,
 			[195805] = 2,
 			[303525] = 1,
 			[297382] = 1,
-			[273955] = 2,
+			[303491] = 1,
 			[79481] = 2,
-			[294365] = 2,
-			[299301] = 1,
+			[66052] = 2,
+			[168657] = 2,
 			[299431] = 1,
 			[317861] = 2,
 			[278954] = 2,
-			[266120] = 1,
+			[272664] = 1,
 			[299432] = 1,
 			[309671] = 1,
 			[62526] = 1,
 			[210141] = 2,
-			[274860] = 1,
-			[171234] = 2,
+			[63038] = 1,
+			[126580] = 1,
 			[287147] = 2,
-			[257258] = 1,
+			[165773] = 1,
 			[70779] = 2,
 			[309673] = 2,
 			[295339] = 2,
-			[273809] = 2,
-			[304802] = 1,
+			[116095] = 2,
+			[257800] = 1,
 			[309674] = 1,
-			[302477] = 1,
-			[288368] = 1,
-			[274079] = 2,
-			[298651] = 1,
+			[255121] = 1,
+			[109933] = 2,
+			[290525] = 2,
+			[279943] = 2,
 			[262577] = 1,
 			[281007] = 1,
-			[185464] = 2,
+			[294685] = 2,
 			[309676] = 2,
-			[259854] = 1,
-			[272817] = 2,
+			[283063] = 1,
+			[255194] = 1,
 			[291247] = 1,
-			[294741] = 1,
+			[212198] = 2,
 			[278961] = 1,
 			[289200] = 1,
-			[290728] = 2,
+			[304803] = 1,
 			[195810] = 2,
 			[278962] = 2,
-			[304800] = 1,
-			[12544] = 1,
-			[296733] = 1,
-			[292507] = 2,
-			[302474] = 1,
-			[189561] = 2,
-			[300551] = 1,
-			[319919] = 2,
+			[268464] = 2,
+			[300419] = 1,
+			[302960] = 2,
+			[256878] = 1,
+			[126457] = 2,
+			[288548] = 2,
+			[62016] = 1,
+			[63551] = 1,
 			[119415] = 2,
-			[259818] = 2,
+			[63673] = 1,
 			[301490] = 1,
-			[13445] = 1,
+			[118635] = 2,
 			[96890] = 2,
-			[298832] = 2,
-			[294909] = 2,
+			[255114] = 2,
+			[300961] = 2,
 			[295348] = 1,
-			[270785] = 1,
-			[185476] = 2,
+			[197720] = 1,
+			[204598] = 2,
 			[276919] = 2,
-			[296539] = 2,
+			[313784] = 1,
 			[297397] = 1,
 			[315827] = 2,
-			[24736] = 2,
-			[272838] = 2,
-			[219402] = 2,
-			[207076] = 2,
+			[295367] = 2,
+			[296764] = 2,
+			[302999] = 1,
+			[307637] = 1,
 			[301494] = 1,
-			[128519] = 2,
-			[66052] = 2,
-			[168657] = 2,
-			[272664] = 1,
+			[303164] = 1,
+			[294864] = 1,
+			[274891] = 1,
+			[278547] = 2,
 			[30754] = 2,
 			[197862] = 2,
 			[315830] = 1,
-			[116095] = 2,
-			[139212] = 1,
-			[255121] = 1,
-			[257975] = 1,
-			[109933] = 2,
+			[272834] = 1,
+			[292663] = 1,
+			[235614] = 1,
+			[262607] = 1,
+			[67713] = 2,
 			[118905] = 2,
 			[63808] = 1,
-			[294685] = 2,
+			[273836] = 2,
 			[64320] = 1,
-			[279943] = 2,
+			[64844] = 2,
 			[289212] = 2,
 			[283069] = 2,
-			[212198] = 2,
+			[301499] = 1,
 			[196840] = 2,
-			[289308] = 2,
+			[289220] = 1,
 			[115834] = 2,
 			[16804] = 1,
-			[304803] = 1,
-			[268846] = 1,
-			[303632] = 1,
+			[173299] = 1,
+			[290642] = 2,
+			[165712] = 1,
 			[51010] = 2,
 			[287167] = 1,
 			[156910] = 2,
 			[307645] = 1,
 			[257250] = 1,
 			[120954] = 2,
-			[272834] = 1,
-			[257800] = 1,
-			[300419] = 1,
-			[126457] = 2,
+			[129657] = 1,
+			[295017] = 2,
+			[290764] = 1,
+			[66657] = 2,
 			[305599] = 2,
-			[288548] = 2,
+			[258822] = 1,
 			[257251] = 1,
 			[62529] = 1,
-			[303630] = 1,
+			[297040] = 2,
 			[19236] = 2,
 			[309696] = 1,
 			[63553] = 1,
 			[289219] = 1,
-			[255245] = 1,
-			[309697] = 1,
+			[303503] = 1,
+			[64321] = 1,
 			[278981] = 2,
-			[313793] = 1,
+			[272838] = 2,
 			[48707] = 2,
 			[309698] = 1,
-			[117679] = 2,
-			[297412] = 2,
-			[63673] = 1,
+			[290643] = 2,
+			[305603] = 2,
+			[296826] = 2,
 			[268744] = 2,
-			[118635] = 2,
-			[252753] = 2,
+			[292653] = 2,
+			[275836] = 1,
 			[274888] = 1,
 			[309700] = 1,
 			[295366] = 2,
-			[204598] = 2,
-			[270829] = 1,
-			[302960] = 2,
-			[295367] = 2,
-			[304771] = 1,
-			[302999] = 1,
-			[303164] = 1,
+			[303017] = 2,
+			[301123] = 1,
+			[288894] = 1,
+			[278985] = 1,
+			[158558] = 1,
+			[165723] = 1,
+			[303244] = 1,
 			[65667] = 1,
-			[300961] = 2,
-			[274891] = 1,
-			[278547] = 2,
-			[45334] = 2,
-			[274972] = 1,
+			[159974] = 1,
+			[256231] = 2,
+			[146124] = 1,
+			[186055] = 1,
+			[73629] = 2,
 			[274892] = 1,
-			[303160] = 1,
+			[302454] = 1,
 			[63554] = 1,
 			[281036] = 2,
-			[305603] = 2,
+			[305439] = 2,
 			[309705] = 1,
-			[262607] = 1,
-			[11639] = 1,
-			[307007] = 1,
-			[64844] = 2,
-			[292663] = 1,
-			[173299] = 1,
+			[12051] = 2,
+			[303445] = 2,
+			[44530] = 1,
+			[267793] = 1,
+			[304705] = 2,
+			[24740] = 2,
 			[274895] = 1,
 			[301516] = 2,
-			[290642] = 2,
+			[196733] = 2,
 			[289230] = 1,
 			[260329] = 2,
 			[309708] = 1,
 			[262610] = 2,
-			[62279] = 1,
-			[165712] = 1,
+			[305485] = 2,
+			[79811] = 1,
 			[309709] = 1,
 			[303566] = 1,
-			[273836] = 2,
-			[304866] = 1,
-			[258822] = 1,
+			[304655] = 2,
+			[290165] = 2,
+			[294895] = 2,
 			[278994] = 2,
 			[197874] = 2,
-			[297040] = 2,
+			[302794] = 2,
 			[268756] = 2,
 			[303568] = 2,
-			[303503] = 1,
-			[290643] = 2,
+			[270459] = 1,
+			[280061] = 2,
 			[276948] = 2,
 			[221424] = 1,
 			[86659] = 2,
-			[296826] = 2,
+			[64695] = 2,
 			[257260] = 1,
 			[262615] = 1,
 			[121471] = 2,
 			[299475] = 1,
-			[292653] = 2,
-			[207999] = 2,
-			[303017] = 2,
-			[304959] = 2,
+			[120679] = 2,
+			[248705] = 1,
+			[273781] = 2,
+			[165713] = 1,
 			[58180] = 2,
 			[278999] = 2,
-			[120436] = 1,
+			[303187] = 1,
 			[274904] = 1,
 			[301525] = 1,
 			[262618] = 1,
-			[275836] = 1,
-			[165723] = 1,
-			[301123] = 1,
-			[159974] = 1,
+			[266288] = 1,
+			[274920] = 1,
+			[312687] = 1,
+			[68589] = 1,
 			[264667] = 2,
-			[305439] = 2,
-			[303244] = 1,
+			[80009] = 1,
+			[297168] = 2,
 			[295384] = 2,
-			[73629] = 2,
+			[221887] = 2,
 			[283098] = 2,
 			[62276] = 1,
 			[250096] = 1,
-			[267793] = 1,
-			[146124] = 1,
-			[186055] = 1,
+			[300832] = 2,
+			[291295] = 2,
+			[13168] = 2,
 			[147709] = 2,
-			[62933] = 1,
+			[115804] = 2,
 			[283100] = 2,
-			[302454] = 1,
-			[303445] = 2,
-			[84622] = 1,
-			[44530] = 1,
+			[51259] = 2,
+			[303593] = 1,
+			[202461] = 2,
+			[278377] = 2,
 			[301531] = 2,
 			[8212] = 2,
-			[305485] = 2,
-			[79811] = 1,
-			[304655] = 2,
+			[300548] = 2,
+			[214802] = 2,
+			[273776] = 2,
 			[303580] = 2,
-			[33844] = 1,
+			[152262] = 2,
 			[243955] = 2,
 			[268769] = 2,
 			[287199] = 1,
 			[8788] = 1,
-			[291295] = 2,
+			[8852] = 1,
 			[257266] = 1,
-			[196733] = 2,
-			[302794] = 2,
-			[290165] = 2,
-			[280061] = 2,
-			[117892] = 1,
+			[297118] = 2,
+			[64238] = 1,
+			[90985] = 2,
+			[304491] = 1,
+			[270460] = 1,
 			[264676] = 2,
 			[283106] = 1,
 			[285154] = 1,
 			[303584] = 2,
-			[248705] = 1,
-			[303187] = 1,
+			[299054] = 2,
+			[265583] = 1,
 			[19366] = 1,
 			[262630] = 1,
-			[64695] = 2,
-			[120679] = 2,
-			[292686] = 2,
+			[304490] = 1,
+			[79954] = 1,
+			[203538] = 2,
 			[295395] = 2,
 			[201979] = 2,
-			[273781] = 2,
+			[300882] = 1,
 			[228600] = 2,
-			[270823] = 2,
-			[268810] = 1,
+			[303587] = 1,
+			[177094] = 1,
 			[274919] = 2,
 			[268776] = 1,
 			[270824] = 2,
-			[266288] = 1,
-			[274920] = 1,
+			[177147] = 1,
+			[117892] = 1,
 			[163073] = 2,
 			[51271] = 2,
-			[165713] = 1,
+			[92200] = 2,
 			[198909] = 2,
-			[68589] = 1,
-			[80009] = 1,
+			[2367] = 2,
+			[44104] = 2,
 			[272874] = 1,
-			[312687] = 1,
+			[303044] = 2,
 			[187647] = 1,
-			[297168] = 2,
-			[256739] = 2,
+			[146194] = 2,
+			[121479] = 1,
 			[124036] = 2,
 			[232698] = 2,
-			[59108] = 1,
-			[221887] = 2,
-			[115804] = 2,
-			[236616] = 1,
-			[303593] = 1,
-			[13168] = 2,
-			[300832] = 2,
-			[183111] = 1,
-			[303594] = 1,
-			[214802] = 2,
-			[202461] = 2,
-			[315916] = 1,
-			[270831] = 1,
-			[300548] = 2,
-			[315882] = 1,
-			[297118] = 2,
-			[273776] = 2,
-			[264689] = 2,
-			[152262] = 2,
-			[203538] = 2,
-			[51272] = 2,
-			[278377] = 2,
-			[299502] = 1,
-			[257274] = 2,
-			[90985] = 2,
-			[304491] = 1,
-			[270460] = 1,
-			[136] = 2,
-			[26662] = 1,
-			[265583] = 1,
-			[304490] = 1,
-			[268788] = 1,
-			[270836] = 1,
-			[177147] = 1,
-			[92200] = 2,
-			[2367] = 2,
-			[279028] = 2,
-			[255228] = 2,
-			[300882] = 1,
-			[146194] = 2,
-			[279029] = 2,
-			[121479] = 1,
-			[219393] = 2,
-			[246584] = 1,
-			[304746] = 1,
+			[297201] = 1,
+			[312678] = 2,
 			[269922] = 1,
 			[303570] = 2,
-			[296644] = 2,
-			[295413] = 2,
-			[272888] = 1,
-			[92184] = 2,
-			[312678] = 2,
-			[303605] = 1,
-			[297201] = 1,
-			[297035] = 2,
+			[270829] = 1,
 			[298343] = 2,
-			[279033] = 2,
 			[312677] = 1,
-			[284402] = 1,
-			[303644] = 2,
-			[262652] = 2,
-			[182059] = 2,
+			[304746] = 1,
+			[303594] = 1,
+			[298466] = 2,
+			[296701] = 1,
 			[164545] = 2,
+			[270831] = 1,
+			[92184] = 2,
+			[215294] = 2,
+			[284402] = 1,
+			[62279] = 1,
+			[264689] = 2,
+			[296644] = 2,
+			[300806] = 2,
+			[51272] = 2,
+			[223929] = 2,
+			[299502] = 1,
+			[257274] = 2,
+			[238499] = 2,
+			[300761] = 2,
+			[294698] = 2,
+			[296566] = 1,
+			[26662] = 1,
+			[295258] = 2,
+			[304482] = 2,
+			[268788] = 1,
+			[160007] = 2,
+			[167615] = 1,
+			[79962] = 1,
+			[265574] = 2,
+			[279028] = 2,
+			[255228] = 2,
+			[278551] = 1,
+			[278572] = 2,
+			[279029] = 2,
+			[297459] = 1,
+			[219393] = 2,
+			[53752] = 2,
+			[295310] = 2,
+			[125282] = 2,
+			[286313] = 1,
+			[286711] = 2,
+			[279031] = 2,
+			[272888] = 1,
+			[157375] = 2,
+			[286310] = 1,
+			[303605] = 1,
+			[291111] = 2,
+			[249095] = 1,
+			[288156] = 2,
+			[279033] = 2,
+			[80353] = 2,
+			[298661] = 2,
+			[294847] = 1,
+			[262652] = 2,
+			[228486] = 2,
+			[296939] = 1,
 			[268796] = 2,
 			[270844] = 2,
-			[300806] = 2,
-			[294698] = 2,
+			[294238] = 2,
+			[305025] = 1,
 			[268797] = 1,
 			[63560] = 2,
 			[272893] = 2,
-			[238499] = 2,
-			[300761] = 2,
-			[268886] = 1,
+			[279902] = 2,
+			[300996] = 1,
+			[203847] = 2,
 			[259328] = 1,
 			[274942] = 2,
-			[223929] = 2,
+			[259331] = 1,
 			[98444] = 2,
 			[289277] = 2,
 			[49738] = 2,
@@ -23111,775 +23167,775 @@ TMWOptDB = {
 			[262657] = 1,
 			[234756] = 2,
 			[219398] = 2,
-			[268887] = 2,
+			[64975] = 1,
 			[118922] = 2,
 			[255234] = 2,
-			[295258] = 2,
+			[271711] = 2,
 			[60233] = 2,
 			[303614] = 1,
-			[303401] = 1,
-			[303431] = 2,
+			[188089] = 2,
+			[8152] = 1,
 			[97933] = 1,
 			[147728] = 2,
-			[272987] = 2,
-			[304482] = 2,
+			[300972] = 1,
+			[219402] = 2,
 			[216328] = 2,
-			[167615] = 1,
+			[131307] = 2,
 			[272900] = 2,
 			[260355] = 1,
-			[279031] = 2,
-			[265574] = 2,
-			[296566] = 1,
-			[295310] = 2,
+			[79206] = 2,
+			[270868] = 2,
+			[2481] = 2,
+			[292693] = 1,
 			[257284] = 2,
 			[80016] = 1,
-			[278572] = 2,
-			[286313] = 1,
-			[125282] = 2,
+			[298669] = 1,
+			[15727] = 2,
+			[297117] = 2,
 			[303619] = 1,
 			[264712] = 2,
 			[223497] = 2,
 			[285190] = 1,
-			[280487] = 1,
+			[311811] = 1,
 			[264713] = 1,
 			[283143] = 1,
-			[291111] = 2,
+			[299252] = 1,
 			[303621] = 2,
 			[272905] = 1,
 			[223498] = 2,
-			[249095] = 1,
+			[268810] = 1,
 			[295431] = 2,
 			[251143] = 2,
-			[157375] = 2,
-			[80353] = 2,
-			[147732] = 2,
+			[297037] = 2,
+			[296817] = 2,
+			[303623] = 1,
 			[255239] = 1,
 			[223499] = 2,
-			[286310] = 1,
-			[193475] = 2,
+			[292463] = 2,
+			[317020] = 2,
 			[62794] = 1,
 			[283147] = 2,
-			[309768] = 1,
-			[102543] = 2,
-			[286404] = 1,
+			[285195] = 2,
+			[303625] = 2,
+			[295411] = 2,
 			[223500] = 2,
 			[285196] = 2,
-			[296939] = 1,
+			[315916] = 1,
 			[289292] = 1,
-			[300996] = 1,
+			[300421] = 1,
 			[268815] = 1,
-			[288156] = 2,
+			[305497] = 2,
 			[305675] = 1,
-			[298661] = 2,
+			[54861] = 2,
 			[99984] = 1,
 			[258313] = 1,
-			[294238] = 2,
-			[228486] = 2,
-			[259331] = 1,
+			[300698] = 1,
+			[302771] = 2,
+			[265925] = 1,
 			[270865] = 1,
-			[305025] = 1,
-			[307725] = 1,
-			[297117] = 2,
+			[260249] = 2,
+			[111759] = 2,
+			[259344] = 2,
 			[80019] = 1,
 			[121486] = 1,
 			[219407] = 2,
-			[300972] = 1,
-			[203847] = 2,
-			[271711] = 2,
-			[188089] = 2,
+			[310611] = 2,
+			[55001] = 2,
+			[295278] = 2,
+			[160029] = 2,
 			[199954] = 2,
-			[270868] = 2,
-			[289298] = 2,
+			[303632] = 1,
+			[272916] = 2,
 			[1715] = 2,
-			[8152] = 1,
+			[298347] = 1,
 			[63563] = 2,
-			[292693] = 1,
-			[298669] = 1,
+			[298869] = 2,
+			[257292] = 1,
 			[309777] = 1,
 			[287252] = 1,
 			[64843] = 2,
-			[299252] = 1,
-			[79206] = 2,
+			[312657] = 1,
+			[94632] = 2,
 			[270871] = 1,
-			[197908] = 2,
-			[297574] = 1,
+			[255245] = 1,
+			[295029] = 1,
 			[208147] = 2,
-			[287254] = 2,
+			[295445] = 1,
 			[202004] = 2,
 			[274968] = 1,
-			[300545] = 2,
-			[297037] = 2,
-			[63699] = 1,
+			[303438] = 2,
+			[299438] = 1,
+			[289308] = 2,
 			[274969] = 1,
-			[15727] = 2,
+			[300369] = 1,
 			[270874] = 1,
-			[296624] = 2,
+			[102915] = 1,
 			[266779] = 2,
-			[272979] = 2,
-			[296817] = 2,
-			[292463] = 2,
-			[300421] = 1,
+			[54452] = 2,
+			[298531] = 1,
+			[63272] = 1,
+			[273747] = 1,
 			[301592] = 1,
 			[262685] = 1,
-			[305497] = 2,
-			[54861] = 2,
-			[300698] = 1,
+			[278456] = 1,
+			[274972] = 1,
+			[315932] = 1,
 			[102547] = 2,
 			[281116] = 2,
-			[302771] = 2,
-			[295445] = 1,
-			[260249] = 2,
-			[259344] = 2,
-			[55001] = 2,
+			[296725] = 1,
+			[282487] = 1,
+			[209584] = 2,
+			[281117] = 2,
+			[160793] = 2,
 			[285213] = 1,
-			[295278] = 2,
+			[275793] = 1,
 			[264736] = 1,
 			[157981] = 2,
 			[257297] = 1,
-			[160029] = 2,
-			[302651] = 2,
+			[303644] = 2,
+			[282386] = 1,
 			[283167] = 2,
-			[298869] = 2,
+			[296439] = 1,
 			[270881] = 2,
-			[257292] = 1,
-			[315932] = 1,
+			[309801] = 1,
+			[157982] = 2,
 			[216343] = 2,
 			[270882] = 1,
-			[282487] = 1,
+			[267997] = 2,
 			[307742] = 1,
-			[298928] = 2,
-			[298347] = 1,
-			[303438] = 2,
-			[71087] = 2,
+			[298317] = 2,
+			[192473] = 2,
+			[305484] = 2,
+			[295167] = 2,
 			[268836] = 2,
 			[258323] = 1,
-			[94632] = 2,
-			[102915] = 1,
-			[295029] = 1,
-			[225603] = 2,
+			[296551] = 1,
+			[274073] = 2,
+			[304747] = 1,
+			[302956] = 1,
 			[181533] = 1,
 			[248085] = 2,
-			[312657] = 1,
-			[298531] = 1,
+			[282561] = 1,
+			[204739] = 1,
 			[272934] = 2,
 			[194844] = 2,
 			[261396] = 2,
-			[297128] = 1,
+			[63967] = 1,
 			[197916] = 2,
 			[57934] = 2,
 			[183582] = 1,
-			[160793] = 2,
+			[304605] = 2,
 			[289318] = 2,
-			[299438] = 1,
-			[58450] = 2,
+			[292359] = 2,
+			[309769] = 2,
 			[270889] = 1,
-			[300369] = 1,
-			[296725] = 1,
-			[54452] = 2,
-			[301693] = 2,
-			[282386] = 1,
-			[273747] = 1,
-			[192473] = 2,
-			[251903] = 2,
-			[296439] = 1,
-			[298710] = 2,
+			[296693] = 1,
+			[288335] = 2,
+			[300764] = 1,
+			[5784] = 2,
+			[268846] = 1,
+			[302857] = 1,
+			[302722] = 1,
+			[17405] = 1,
+			[165822] = 2,
+			[303550] = 1,
 			[91800] = 2,
-			[209584] = 2,
+			[207844] = 2,
 			[272940] = 2,
-			[280170] = 2,
-			[275793] = 1,
+			[44212] = 2,
+			[302406] = 1,
 			[303657] = 1,
 			[197919] = 2,
-			[305484] = 2,
-			[309801] = 1,
+			[181477] = 1,
+			[23978] = 1,
 			[12054] = 1,
 			[259352] = 1,
 			[65102] = 1,
-			[267997] = 2,
-			[274073] = 2,
-			[259369] = 1,
-			[298317] = 2,
+			[62441] = 1,
+			[160724] = 2,
+			[102238] = 1,
+			[298777] = 2,
 			[257305] = 1,
-			[295167] = 2,
-			[175439] = 2,
-			[282561] = 1,
-			[303302] = 1,
-			[304747] = 1,
+			[19708] = 2,
+			[55346] = 2,
+			[270264] = 1,
+			[282384] = 1,
+			[282432] = 1,
 			[281136] = 1,
-			[302956] = 1,
-			[292359] = 2,
+			[302675] = 2,
+			[315954] = 1,
 			[287280] = 2,
-			[204739] = 1,
+			[264159] = 1,
 			[243996] = 2,
-			[63967] = 1,
-			[288335] = 2,
-			[296547] = 2,
-			[165822] = 2,
+			[304619] = 2,
+			[298665] = 2,
+			[277829] = 1,
+			[63050] = 1,
 			[277043] = 1,
 			[100505] = 1,
-			[281178] = 2,
+			[185350] = 1,
 			[299569] = 2,
-			[309769] = 2,
+			[303532] = 1,
 			[270901] = 1,
-			[296693] = 1,
+			[293142] = 2,
 			[128150] = 2,
 			[268854] = 2,
 			[233759] = 2,
 			[64847] = 1,
-			[17405] = 1,
+			[298826] = 1,
 			[318001] = 1,
-			[5784] = 2,
+			[281923] = 2,
 			[264760] = 2,
-			[315954] = 1,
+			[299572] = 2,
 			[268856] = 2,
 			[116888] = 2,
 			[264761] = 2,
-			[303550] = 1,
-			[207844] = 2,
+			[250532] = 1,
+			[45328] = 1,
 			[262714] = 1,
-			[300893] = 2,
-			[55346] = 2,
-			[287379] = 2,
-			[302722] = 1,
-			[188151] = 2,
+			[102416] = 2,
+			[51926] = 1,
+			[295248] = 2,
+			[304612] = 2,
+			[284593] = 1,
 			[299575] = 1,
-			[44212] = 2,
+			[284569] = 2,
 			[295480] = 2,
 			[289337] = 2,
 			[299576] = 2,
 			[301624] = 2,
 			[31274] = 1,
 			[234786] = 2,
-			[302406] = 1,
-			[304722] = 2,
+			[313931] = 1,
+			[255279] = 1,
 			[63568] = 1,
-			[89766] = 1,
-			[19708] = 2,
-			[102238] = 1,
-			[160063] = 2,
+			[313934] = 1,
+			[272903] = 2,
+			[58450] = 2,
+			[193753] = 2,
 			[305722] = 1,
 			[275006] = 2,
-			[270264] = 1,
+			[257324] = 1,
 			[287293] = 1,
-			[282384] = 1,
+			[261420] = 2,
 			[157997] = 2,
 			[277055] = 1,
 			[287294] = 2,
-			[282432] = 1,
+			[295137] = 2,
 			[8599] = 1,
-			[228645] = 2,
-			[287295] = 2,
+			[301629] = 1,
+			[303677] = 1,
 			[25771] = 2,
-			[298777] = 2,
+			[298893] = 2,
 			[257314] = 1,
 			[225574] = 2,
-			[302979] = 1,
-			[5246] = 2,
+			[63550] = 1,
+			[292922] = 1,
 			[277058] = 1,
-			[304619] = 2,
+			[312634] = 1,
 			[222503] = 1,
 			[299584] = 1,
 			[285250] = 1,
-			[298665] = 2,
+			[302395] = 1,
 			[264773] = 2,
-			[31920] = 2,
-			[277829] = 1,
+			[108194] = 2,
+			[289307] = 1,
 			[303681] = 1,
 			[264774] = 2,
 			[291395] = 2,
-			[293458] = 1,
+			[305046] = 2,
 			[160048] = 2,
-			[300714] = 2,
+			[278303] = 1,
 			[275014] = 1,
 			[285253] = 1,
-			[302675] = 2,
+			[216802] = 2,
 			[132404] = 2,
 			[299588] = 1,
 			[285254] = 1,
 			[209195] = 1,
 			[289350] = 1,
-			[23214] = 2,
+			[267972] = 2,
 			[268873] = 2,
 			[102558] = 2,
-			[264159] = 1,
+			[295378] = 2,
 			[103582] = 1,
-			[281923] = 2,
+			[226326] = 2,
 			[295495] = 2,
 			[272970] = 2,
-			[299591] = 1,
-			[250532] = 1,
-			[273006] = 2,
-			[289405] = 2,
-			[298826] = 1,
-			[195816] = 2,
-			[102416] = 2,
+			[315973] = 1,
+			[214128] = 2,
+			[303365] = 2,
+			[303506] = 1,
+			[175785] = 2,
+			[208086] = 2,
+			[247456] = 2,
 			[117405] = 2,
 			[307784] = 1,
 			[268877] = 2,
-			[285333] = 1,
-			[63050] = 1,
+			[260402] = 2,
+			[268899] = 2,
 			[307785] = 1,
 			[257320] = 1,
-			[295248] = 2,
-			[277106] = 1,
-			[304612] = 2,
+			[305602] = 1,
+			[109714] = 2,
+			[295408] = 2,
 			[204079] = 2,
 			[270927] = 1,
 			[41301] = 2,
 			[231724] = 2,
-			[284593] = 1,
-			[284569] = 2,
-			[313931] = 1,
-			[297586] = 2,
+			[272987] = 2,
+			[292151] = 2,
+			[259369] = 1,
+			[265584] = 1,
 			[277072] = 1,
-			[303693] = 1,
+			[102560] = 2,
 			[197937] = 2,
-			[160098] = 1,
-			[266923] = 1,
-			[45328] = 1,
+			[247789] = 2,
+			[268896] = 1,
+			[295421] = 1,
 			[259370] = 1,
 			[170293] = 2,
 			[261418] = 2,
 			[270931] = 2,
-			[313934] = 1,
-			[303731] = 2,
+			[272979] = 2,
+			[234661] = 1,
 			[277075] = 1,
-			[272903] = 2,
+			[305010] = 1,
 			[289362] = 2,
 			[63059] = 1,
 			[285267] = 1,
 			[102561] = 1,
 			[255276] = 1,
-			[274076] = 2,
-			[257324] = 1,
+			[242553] = 2,
+			[268886] = 1,
 			[303698] = 2,
 			[64851] = 1,
 			[203059] = 2,
-			[261420] = 2,
-			[312634] = 1,
+			[268887] = 2,
+			[284275] = 2,
 			[313938] = 1,
-			[62292] = 2,
+			[65105] = 1,
 			[285270] = 1,
 			[58452] = 2,
 			[313939] = 1,
 			[275032] = 2,
 			[301653] = 1,
-			[295137] = 2,
-			[266496] = 2,
+			[289383] = 1,
+			[304933] = 1,
 			[87204] = 2,
 			[285272] = 1,
 			[160058] = 2,
 			[272986] = 2,
 			[275034] = 1,
 			[204085] = 2,
-			[299624] = 2,
-			[255279] = 1,
-			[164788] = 1,
-			[108194] = 2,
+			[267575] = 1,
+			[281178] = 2,
+			[295037] = 2,
+			[62292] = 2,
 			[287322] = 1,
-			[193753] = 2,
-			[274105] = 2,
+			[274369] = 2,
+			[104281] = 2,
 			[268893] = 2,
-			[220510] = 2,
-			[278303] = 1,
-			[216802] = 2,
+			[275765] = 2,
+			[63481] = 1,
+			[303308] = 1,
 			[257328] = 1,
 			[303706] = 2,
 			[313945] = 1,
 			[275038] = 1,
-			[175785] = 2,
+			[268077] = 1,
 			[287325] = 2,
 			[289373] = 1,
 			[49750] = 2,
-			[268896] = 1,
+			[33624] = 1,
 			[262753] = 2,
-			[267972] = 2,
-			[247456] = 2,
+			[212283] = 2,
+			[298713] = 2,
 			[309852] = 1,
-			[295378] = 2,
-			[226326] = 2,
-			[214128] = 2,
+			[63498] = 1,
+			[313948] = 2,
+			[165185] = 2,
 			[285280] = 1,
-			[303506] = 1,
-			[208086] = 2,
-			[260402] = 2,
-			[268899] = 2,
-			[305602] = 1,
+			[286770] = 2,
+			[299624] = 2,
+			[307806] = 1,
+			[89766] = 1,
+			[253595] = 2,
 			[61781] = 2,
-			[292151] = 2,
-			[278225] = 2,
+			[293488] = 2,
+			[97113] = 2,
 			[303712] = 1,
 			[313951] = 1,
 			[299617] = 1,
-			[191587] = 2,
-			[265584] = 1,
-			[303797] = 1,
-			[247789] = 2,
-			[303390] = 2,
+			[252216] = 2,
+			[223135] = 2,
+			[300334] = 1,
+			[273006] = 2,
+			[299379] = 2,
 			[303714] = 1,
-			[295421] = 1,
-			[234661] = 1,
+			[253261] = 2,
+			[294966] = 2,
 			[261428] = 1,
 			[287333] = 1,
-			[305010] = 1,
-			[109714] = 2,
+			[259737] = 1,
+			[277142] = 2,
 			[33625] = 1,
 			[303716] = 1,
-			[284275] = 2,
-			[267575] = 1,
-			[212283] = 2,
-			[208611] = 2,
-			[289383] = 1,
-			[261446] = 1,
-			[104281] = 2,
+			[199448] = 2,
+			[201664] = 2,
+			[195901] = 2,
+			[255836] = 1,
+			[297574] = 1,
+			[262781] = 2,
+			[295368] = 2,
 			[262763] = 2,
 			[313957] = 1,
 			[252215] = 1,
-			[275765] = 2,
-			[304933] = 1,
-			[271777] = 1,
+			[236187] = 2,
+			[306474] = 2,
+			[272945] = 2,
 			[62038] = 1,
 			[142661] = 2,
 			[160067] = 2,
 			[313959] = 2,
-			[252216] = 2,
+			[194879] = 2,
 			[31661] = 2,
-			[304663] = 2,
+			[102352] = 2,
 			[313960] = 1,
-			[258317] = 1,
+			[64174] = 1,
 			[285292] = 2,
 			[287340] = 2,
 			[313961] = 2,
 			[275054] = 2,
 			[268911] = 2,
-			[242553] = 2,
-			[63498] = 1,
-			[33370] = 2,
+			[157348] = 2,
+			[57689] = 1,
+			[207167] = 2,
 			[301676] = 1,
 			[295533] = 1,
-			[65105] = 1,
+			[260106] = 1,
 			[316011] = 1,
-			[165185] = 2,
+			[283947] = 1,
 			[279152] = 2,
-			[298493] = 1,
+			[273942] = 2,
 			[256314] = 1,
 			[277105] = 2,
 			[279153] = 2,
-			[295037] = 2,
+			[92091] = 2,
 			[307822] = 1,
-			[293488] = 2,
+			[277106] = 1,
 			[279154] = 2,
 			[313966] = 1,
 			[275059] = 2,
 			[277107] = 1,
 			[225599] = 2,
 			[297585] = 1,
-			[253595] = 2,
-			[190831] = 2,
-			[97113] = 2,
+			[302731] = 2,
+			[164862] = 2,
+			[282913] = 1,
 			[86699] = 1,
-			[223135] = 2,
-			[277109] = 1,
+			[299428] = 1,
+			[293491] = 2,
 			[225600] = 2,
 			[259388] = 2,
-			[299379] = 2,
-			[318065] = 2,
+			[305026] = 2,
+			[154953] = 2,
 			[188741] = 2,
 			[57688] = 1,
-			[300334] = 1,
+			[300919] = 2,
 			[301684] = 1,
 			[225601] = 2,
-			[253261] = 2,
+			[285266] = 1,
 			[307828] = 1,
-			[287437] = 1,
-			[268077] = 1,
-			[277142] = 2,
-			[259737] = 1,
+			[172015] = 2,
+			[289405] = 2,
+			[242926] = 1,
+			[309894] = 1,
 			[134477] = 2,
 			[225602] = 2,
 			[281209] = 2,
-			[62417] = 1,
+			[296230] = 2,
 			[261438] = 1,
-			[201664] = 2,
+			[292320] = 2,
 			[22703] = 2,
-			[255836] = 1,
+			[295531] = 2,
 			[277115] = 1,
-			[262781] = 2,
-			[13787] = 1,
-			[253269] = 2,
+			[225603] = 2,
+			[306468] = 2,
+			[209563] = 2,
 			[301689] = 1,
-			[80354] = 2,
-			[236187] = 2,
-			[306474] = 2,
-			[272945] = 2,
+			[279151] = 2,
+			[267560] = 2,
+			[206491] = 2,
+			[29333] = 2,
 			[176458] = 1,
 			[313977] = 1,
-			[102352] = 2,
+			[263926] = 2,
 			[261440] = 1,
-			[64174] = 1,
-			[57689] = 1,
+			[282505] = 2,
+			[206151] = 2,
 			[316026] = 1,
-			[157348] = 2,
+			[297162] = 2,
 			[225605] = 2,
 			[281215] = 2,
-			[260106] = 1,
+			[295570] = 2,
 			[212295] = 2,
-			[296455] = 2,
+			[1160] = 2,
 			[281216] = 2,
-			[283947] = 1,
-			[295368] = 2,
+			[64173] = 1,
+			[260805] = 1,
 			[287360] = 2,
 			[289408] = 2,
 			[81071] = 1,
-			[63830] = 1,
-			[282913] = 1,
+			[301715] = 1,
+			[169291] = 2,
 			[255299] = 1,
-			[200025] = 2,
+			[295141] = 2,
 			[62297] = 1,
 			[258371] = 1,
-			[271071] = 2,
+			[62420] = 1,
 			[291458] = 2,
 			[277124] = 2,
-			[273942] = 2,
-			[316062] = 1,
-			[92091] = 2,
+			[271652] = 1,
+			[296942] = 1,
+			[271002] = 1,
 			[309889] = 1,
 			[233799] = 1,
 			[289412] = 2,
-			[302731] = 2,
-			[299663] = 2,
-			[287365] = 2,
-			[262811] = 1,
+			[258333] = 2,
+			[303296] = 1,
+			[303747] = 1,
+			[247121] = 2,
 			[316034] = 1,
 			[293509] = 2,
-			[172015] = 2,
-			[266980] = 2,
-			[296230] = 2,
+			[298951] = 2,
+			[274584] = 2,
+			[150486] = 2,
 			[77489] = 2,
 			[262794] = 1,
-			[299344] = 2,
+			[294175] = 1,
 			[316036] = 2,
-			[277129] = 2,
-			[242926] = 1,
+			[293511] = 2,
+			[288579] = 2,
 			[289416] = 1,
-			[306468] = 2,
-			[309894] = 1,
+			[300663] = 1,
+			[293512] = 2,
 			[270987] = 1,
-			[209563] = 2,
+			[299662] = 2,
 			[62042] = 1,
-			[105681] = 2,
-			[267560] = 2,
+			[277792] = 2,
+			[267553] = 1,
 			[289418] = 1,
-			[206491] = 2,
+			[296943] = 1,
 			[261447] = 1,
 			[287371] = 2,
 			[281228] = 1,
-			[292320] = 2,
+			[275744] = 1,
 			[200015] = 2,
-			[175456] = 2,
+			[303567] = 2,
 			[264847] = 1,
 			[275086] = 1,
-			[285266] = 1,
-			[279151] = 2,
+			[293404] = 2,
+			[289324] = 2,
 			[281230] = 1,
 			[275087] = 1,
 			[100016] = 1,
 			[270992] = 1,
 			[289422] = 2,
 			[299661] = 2,
-			[269038] = 2,
-			[228224] = 2,
+			[285350] = 1,
+			[261776] = 1,
 			[289423] = 2,
-			[299662] = 2,
+			[275089] = 2,
 			[277137] = 1,
 			[258378] = 2,
 			[210256] = 2,
 			[275090] = 1,
 			[268947] = 1,
-			[64173] = 1,
-			[282505] = 2,
+			[40623] = 2,
+			[275091] = 1,
 			[299664] = 2,
-			[62299] = 2,
+			[301712] = 1,
 			[279187] = 2,
-			[295531] = 2,
-			[170373] = 1,
+			[276207] = 2,
+			[32216] = 2,
 			[253260] = 2,
-			[295570] = 2,
-			[29333] = 2,
-			[277236] = 2,
-			[271652] = 1,
-			[182661] = 1,
-			[260805] = 1,
+			[287379] = 2,
+			[63571] = 1,
+			[288719] = 1,
+			[62507] = 1,
+			[63476] = 1,
+			[81081] = 1,
 			[316049] = 2,
-			[301715] = 1,
-			[169291] = 2,
-			[217474] = 2,
+			[285333] = 1,
+			[62892] = 1,
+			[214350] = 2,
 			[256333] = 2,
-			[58984] = 2,
+			[285978] = 2,
 			[271000] = 1,
-			[277118] = 1,
-			[62420] = 1,
+			[267548] = 1,
+			[65121] = 1,
 			[268953] = 2,
-			[296942] = 1,
+			[185485] = 2,
 			[281240] = 2,
-			[294175] = 1,
+			[204437] = 2,
 			[268954] = 2,
-			[271002] = 1,
-			[276846] = 2,
-			[277245] = 1,
+			[262811] = 1,
+			[146739] = 2,
+			[48107] = 2,
 			[268955] = 2,
 			[279194] = 2,
 			[255311] = 1,
 			[307863] = 1,
 			[268956] = 2,
 			[250192] = 1,
-			[303296] = 1,
-			[277792] = 2,
-			[267553] = 1,
+			[288024] = 2,
+			[104274] = 2,
+			[295450] = 2,
 			[303769] = 2,
-			[247121] = 2,
-			[1044] = 2,
-			[314107] = 1,
-			[258333] = 2,
+			[31920] = 2,
+			[202905] = 2,
+			[36897] = 2,
+			[114108] = 2,
 			[259408] = 1,
 			[65116] = 2,
 			[277150] = 2,
-			[303695] = 1,
+			[193538] = 2,
 			[24753] = 2,
 			[275103] = 1,
 			[285342] = 1,
-			[191837] = 2,
+			[110960] = 2,
 			[281247] = 1,
 			[299677] = 2,
 			[285343] = 2,
-			[150486] = 2,
-			[261776] = 1,
+			[15487] = 2,
+			[292361] = 2,
 			[158046] = 2,
 			[318108] = 2,
-			[40623] = 2,
+			[272571] = 1,
 			[273058] = 2,
 			[316061] = 1,
 			[285345] = 1,
 			[221527] = 2,
-			[300663] = 1,
+			[114800] = 2,
 			[256339] = 1,
-			[296943] = 1,
-			[32216] = 2,
-			[275744] = 1,
-			[303567] = 2,
+			[70578] = 2,
+			[62446] = 1,
+			[116189] = 2,
+			[175456] = 2,
 			[277156] = 1,
 			[279204] = 2,
 			[264870] = 2,
-			[264894] = 2,
+			[160098] = 1,
 			[268966] = 2,
-			[8219] = 2,
-			[301830] = 1,
-			[62892] = 1,
+			[104273] = 2,
+			[292473] = 2,
+			[268419] = 2,
 			[285349] = 1,
-			[289324] = 2,
-			[285978] = 2,
+			[279828] = 1,
+			[268528] = 2,
 			[33377] = 2,
-			[285350] = 1,
+			[191837] = 2,
 			[303780] = 2,
-			[267548] = 1,
-			[293404] = 2,
-			[64775] = 1,
-			[204437] = 2,
-			[63571] = 1,
+			[264706] = 1,
+			[177165] = 1,
+			[135299] = 2,
+			[302775] = 2,
+			[195949] = 2,
 			[215387] = 2,
 			[216411] = 2,
 			[258390] = 1,
-			[275091] = 1,
-			[81081] = 1,
-			[288024] = 2,
+			[190446] = 2,
+			[266923] = 1,
+			[213981] = 2,
 			[2823] = 2,
-			[104274] = 2,
-			[214350] = 2,
+			[311980] = 1,
+			[104423] = 2,
 			[175457] = 2,
-			[202090] = 2,
-			[27827] = 2,
-			[288719] = 1,
+			[65104] = 1,
+			[63512] = 1,
+			[256851] = 1,
 			[301737] = 1,
 			[287403] = 2,
 			[264878] = 1,
 			[2983] = 2,
 			[277165] = 2,
-			[185485] = 2,
-			[299788] = 2,
+			[270381] = 1,
+			[224126] = 2,
 			[283309] = 2,
 			[285357] = 2,
-			[62507] = 1,
-			[63476] = 1,
-			[283408] = 1,
+			[264105] = 1,
+			[303797] = 1,
+			[295500] = 1,
 			[277167] = 2,
-			[210320] = 2,
-			[295450] = 2,
-			[260455] = 1,
+			[311979] = 1,
+			[265005] = 1,
+			[299720] = 2,
 			[85690] = 1,
-			[311980] = 1,
-			[48719] = 2,
-			[114108] = 2,
+			[34914] = 2,
+			[209261] = 2,
+			[123725] = 2,
 			[301742] = 1,
-			[146739] = 2,
-			[104273] = 2,
+			[252264] = 2,
+			[32727] = 2,
 			[275122] = 2,
 			[277170] = 1,
-			[110960] = 2,
-			[202905] = 2,
+			[203407] = 2,
+			[242740] = 2,
 			[307887] = 1,
 			[257371] = 2,
-			[279828] = 1,
-			[36897] = 2,
+			[250505] = 1,
+			[104271] = 2,
 			[283315] = 2,
 			[118455] = 2,
-			[272571] = 1,
-			[261477] = 1,
+			[253307] = 2,
+			[289459] = 1,
 			[128182] = 2,
-			[252267] = 1,
-			[114800] = 2,
-			[292138] = 1,
-			[15487] = 2,
-			[292361] = 2,
-			[147833] = 2,
-			[91143] = 2,
+			[260275] = 1,
+			[303819] = 2,
+			[1462] = 2,
+			[63703] = 1,
+			[176785] = 2,
+			[160832] = 2,
+			[27827] = 2,
 			[207203] = 2,
-			[287513] = 1,
+			[298756] = 1,
 			[33891] = 2,
 			[314035] = 1,
-			[70578] = 2,
+			[304391] = 1,
 			[285367] = 1,
 			[118968] = 1,
-			[62446] = 1,
+			[266191] = 2,
 			[256350] = 1,
 			[167273] = 2,
-			[264706] = 1,
+			[277113] = 1,
 			[251231] = 2,
 			[81085] = 1,
-			[177165] = 1,
+			[259718] = 1,
 			[303799] = 1,
 			[297656] = 1,
-			[268419] = 2,
+			[296199] = 2,
 			[277179] = 2,
-			[268528] = 2,
+			[206662] = 2,
 			[264893] = 1,
 			[299705] = 1,
-			[302642] = 2,
+			[277206] = 1,
 			[118969] = 1,
 			[289467] = 2,
 			[190824] = 2,
 			[277181] = 2,
 			[303802] = 1,
-			[62061] = 2,
+			[1784] = 2,
 			[299707] = 2,
-			[213981] = 2,
+			[64766] = 1,
 			[287421] = 2,
-			[104423] = 2,
+			[253287] = 2,
 			[299708] = 1,
-			[123725] = 2,
-			[131493] = 2,
-			[32727] = 2,
-			[203407] = 2,
-			[268993] = 1,
+			[34477] = 2,
+			[191212] = 2,
+			[275990] = 1,
+			[21163] = 1,
+			[126649] = 2,
 			[271041] = 1,
 			[289471] = 1,
 			[190826] = 2,
@@ -23888,203 +23944,203 @@ TMWOptDB = {
 			[18100] = 1,
 			[81087] = 1,
 			[277186] = 1,
-			[295625] = 2,
-			[250505] = 1,
-			[104271] = 2,
+			[264735] = 2,
+			[286458] = 2,
+			[301759] = 2,
 			[91838] = 2,
-			[65104] = 1,
+			[271103] = 2,
 			[297665] = 1,
 			[275140] = 1,
-			[23768] = 1,
+			[8220] = 2,
 			[254308] = 2,
 			[189804] = 1,
 			[266950] = 1,
 			[216425] = 2,
 			[250213] = 1,
 			[264903] = 1,
-			[316097] = 1,
-			[270381] = 1,
-			[289578] = 1,
-			[1462] = 2,
+			[283333] = 1,
+			[257400] = 1,
+			[201405] = 2,
+			[191621] = 2,
 			[266952] = 1,
 			[285382] = 2,
-			[302775] = 2,
+			[64169] = 1,
 			[185710] = 2,
-			[176785] = 2,
-			[195949] = 2,
+			[255620] = 1,
+			[77505] = 2,
 			[69826] = 2,
 			[339] = 2,
-			[190446] = 2,
-			[79833] = 1,
+			[216890] = 2,
+			[299744] = 2,
 			[258406] = 1,
-			[63757] = 1,
-			[304391] = 1,
-			[253287] = 2,
-			[265005] = 1,
+			[62705] = 1,
+			[164812] = 2,
+			[89792] = 2,
+			[294694] = 2,
 			[355] = 2,
-			[299720] = 2,
+			[190831] = 2,
 			[269004] = 1,
-			[209261] = 2,
+			[295625] = 2,
 			[264909] = 1,
-			[252264] = 2,
-			[242740] = 2,
-			[259718] = 1,
-			[296199] = 2,
-			[285420] = 1,
+			[260455] = 1,
+			[61909] = 1,
+			[176151] = 2,
+			[306431] = 2,
+			[265898] = 2,
 			[285388] = 1,
 			[271054] = 2,
 			[289484] = 1,
-			[260275] = 1,
+			[278310] = 2,
 			[293580] = 1,
-			[303819] = 2,
+			[287437] = 1,
 			[273103] = 2,
-			[26682] = 2,
-			[254330] = 1,
+			[114052] = 2,
+			[264144] = 1,
 			[201072] = 2,
 			[273104] = 2,
 			[101568] = 2,
 			[301773] = 1,
 			[287439] = 1,
 			[70340] = 2,
-			[205180] = 2,
+			[294852] = 1,
 			[277201] = 1,
-			[34477] = 2,
-			[63703] = 1,
+			[268214] = 1,
+			[307950] = 1,
 			[275154] = 1,
-			[295500] = 1,
-			[199042] = 2,
+			[273665] = 1,
+			[299760] = 2,
 			[281298] = 2,
 			[174453] = 1,
 			[134522] = 2,
-			[298756] = 1,
-			[299761] = 2,
-			[266191] = 2,
+			[77647] = 2,
+			[65075] = 1,
+			[273988] = 2,
 			[27572] = 1,
-			[303825] = 1,
-			[259452] = 2,
+			[147833] = 2,
+			[194594] = 2,
 			[199027] = 2,
-			[33907] = 1,
+			[294141] = 1,
 			[312017] = 1,
-			[253309] = 2,
+			[24244] = 1,
 			[203123] = 2,
-			[277206] = 1,
+			[245102] = 1,
 			[196980] = 2,
 			[281302] = 2,
-			[1784] = 2,
-			[68530] = 2,
+			[306427] = 2,
+			[50259] = 2,
 			[58468] = 2,
 			[281303] = 2,
 			[117952] = 2,
-			[64169] = 1,
+			[251261] = 2,
 			[303829] = 1,
-			[255620] = 1,
-			[177576] = 1,
-			[184662] = 2,
-			[100555] = 2,
+			[299779] = 2,
+			[205180] = 2,
+			[263423] = 2,
+			[167563] = 1,
 			[251247] = 2,
-			[191212] = 2,
+			[252285] = 2,
 			[261486] = 2,
-			[86603] = 1,
-			[280028] = 2,
+			[63912] = 1,
+			[304627] = 2,
 			[248176] = 2,
-			[160832] = 2,
-			[46182] = 1,
-			[306431] = 2,
-			[126478] = 2,
+			[23511] = 1,
+			[303832] = 1,
+			[185728] = 1,
+			[259711] = 1,
 			[204150] = 2,
-			[261506] = 1,
-			[301759] = 2,
+			[269038] = 2,
+			[269564] = 2,
 			[266974] = 1,
-			[206662] = 2,
+			[201636] = 2,
 			[8078] = 1,
 			[210294] = 2,
 			[113858] = 2,
 			[261488] = 1,
-			[8220] = 2,
-			[69820] = 2,
+			[271071] = 2,
+			[254330] = 1,
 			[256369] = 1,
-			[201405] = 2,
-			[191621] = 2,
-			[273665] = 1,
+			[79468] = 2,
+			[170373] = 1,
+			[261498] = 2,
 			[266977] = 2,
-			[303935] = 1,
+			[257829] = 1,
 			[546] = 2,
-			[77647] = 2,
-			[216890] = 2,
-			[281357] = 2,
+			[299772] = 2,
+			[271046] = 1,
+			[289534] = 2,
 			[287456] = 1,
-			[257413] = 2,
+			[191840] = 2,
 			[299743] = 2,
 			[277218] = 1,
-			[294141] = 1,
+			[253309] = 2,
 			[289505] = 2,
-			[299744] = 2,
-			[144787] = 2,
+			[586] = 2,
+			[277250] = 1,
 			[62565] = 1,
 			[62821] = 1,
 			[299745] = 2,
-			[306427] = 2,
+			[63559] = 1,
 			[271077] = 1,
-			[21163] = 1,
-			[164812] = 2,
+			[64776] = 1,
+			[100555] = 2,
 			[79560] = 1,
 			[287460] = 1,
-			[294694] = 2,
+			[282916] = 1,
 			[48743] = 2,
-			[61909] = 1,
+			[79892] = 1,
 			[205179] = 2,
-			[263423] = 2,
+			[310019] = 1,
 			[299748] = 2,
 			[257397] = 1,
-			[167563] = 1,
+			[314115] = 1,
 			[68298] = 2,
-			[299749] = 2,
-			[176151] = 2,
+			[266985] = 1,
+			[207744] = 2,
 			[221562] = 2,
 			[198013] = 2,
 			[256374] = 2,
-			[63912] = 1,
+			[267511] = 1,
 			[287464] = 2,
 			[289512] = 1,
 			[316133] = 1,
 			[309990] = 1,
 			[271083] = 1,
 			[710] = 2,
-			[214342] = 2,
+			[250036] = 2,
 			[309991] = 1,
-			[23511] = 1,
-			[185728] = 1,
+			[216441] = 2,
+			[289514] = 1,
 			[266989] = 1,
-			[303885] = 1,
-			[259711] = 1,
+			[309992] = 1,
+			[292083] = 1,
 			[264942] = 1,
 			[299754] = 2,
-			[257400] = 1,
+			[285420] = 1,
 			[303850] = 1,
 			[259448] = 2,
 			[113862] = 2,
 			[187777] = 1,
-			[287469] = 1,
+			[312042] = 2,
 			[774] = 2,
 			[299756] = 2,
-			[264144] = 1,
+			[281844] = 2,
 			[312043] = 2,
 			[259449] = 2,
 			[299757] = 2,
 			[318187] = 2,
 			[287471] = 2,
-			[269564] = 2,
+			[256387] = 1,
 			[299758] = 2,
 			[309997] = 1,
-			[268214] = 1,
+			[254958] = 1,
 			[281329] = 1,
-			[307950] = 1,
-			[261498] = 2,
+			[316141] = 1,
+			[301807] = 1,
 			[180612] = 2,
-			[227723] = 2,
-			[299760] = 2,
+			[605] = 2,
+			[199042] = 2,
 			[285426] = 2,
-			[255833] = 1,
+			[298225] = 2,
 			[54632] = 1,
 			[316143] = 1,
 			[253308] = 2,
@@ -24092,18 +24148,18 @@ TMWOptDB = {
 			[289523] = 2,
 			[299762] = 2,
 			[257404] = 1,
-			[63322] = 1,
-			[251261] = 2,
-			[219521] = 2,
+			[155722] = 2,
+			[259452] = 2,
+			[299763] = 2,
 			[318193] = 1,
-			[285460] = 1,
-			[260926] = 1,
+			[314121] = 1,
+			[278381] = 2,
 			[299764] = 2,
-			[252285] = 2,
+			[292580] = 2,
 			[250238] = 1,
 			[264953] = 1,
 			[299765] = 2,
-			[278310] = 2,
+			[33390] = 1,
 			[262906] = 1,
 			[59752] = 2,
 			[299766] = 2,
@@ -24112,877 +24168,877 @@ TMWOptDB = {
 			[259454] = 2,
 			[299767] = 2,
 			[73422] = 2,
-			[201636] = 2,
+			[188489] = 1,
 			[214404] = 2,
 			[299768] = 1,
 			[974] = 2,
 			[303864] = 1,
 			[259455] = 2,
 			[299769] = 2,
-			[262929] = 1,
-			[233496] = 2,
-			[294852] = 1,
+			[271120] = 2,
+			[31884] = 2,
+			[227723] = 2,
 			[316152] = 1,
-			[257408] = 2,
+			[32182] = 2,
 			[250241] = 1,
 			[259456] = 2,
-			[257829] = 1,
+			[294127] = 2,
 			[1022] = 2,
-			[303867] = 1,
+			[8221] = 2,
 			[16568] = 1,
-			[299772] = 2,
-			[271046] = 1,
+			[1044] = 2,
+			[96977] = 2,
 			[100556] = 1,
-			[289534] = 2,
+			[314107] = 1,
 			[299773] = 1,
-			[191840] = 2,
+			[299790] = 2,
 			[271105] = 2,
-			[245137] = 1,
+			[982] = 2,
 			[299774] = 2,
 			[257410] = 2,
-			[24244] = 1,
+			[188034] = 2,
 			[251267] = 2,
 			[299775] = 2,
-			[277250] = 1,
+			[261506] = 1,
 			[271107] = 2,
-			[63559] = 1,
-			[256387] = 1,
-			[64776] = 1,
+			[303604] = 1,
+			[299776] = 2,
+			[115385] = 1,
 			[287490] = 1,
-			[256401] = 1,
-			[267511] = 1,
+			[270188] = 1,
+			[256867] = 1,
 			[285443] = 2,
 			[197003] = 2,
-			[63849] = 1,
+			[198027] = 2,
 			[291587] = 1,
-			[199085] = 2,
-			[50259] = 2,
+			[145818] = 1,
+			[284676] = 2,
 			[314113] = 1,
-			[299779] = 2,
-			[113095] = 2,
+			[137619] = 2,
+			[64942] = 1,
 			[131476] = 2,
 			[264968] = 1,
-			[292083] = 1,
-			[310019] = 1,
+			[299804] = 1,
+			[257413] = 2,
 			[279303] = 2,
-			[314115] = 1,
-			[281844] = 2,
+			[144787] = 2,
+			[264892] = 1,
 			[318211] = 2,
-			[253331] = 2,
+			[289526] = 2,
 			[255366] = 1,
 			[299782] = 2,
 			[5487] = 2,
-			[250036] = 2,
+			[285460] = 1,
 			[314117] = 1,
 			[299783] = 2,
 			[310022] = 2,
 			[246152] = 2,
-			[79468] = 2,
+			[299759] = 2,
 			[291593] = 1,
 			[257415] = 2,
-			[298225] = 2,
+			[259318] = 1,
 			[38253] = 1,
 			[299785] = 1,
-			[294699] = 2,
-			[254958] = 1,
+			[290027] = 1,
+			[295704] = 2,
 			[23736] = 1,
-			[605] = 2,
+			[772] = 2,
 			[318216] = 2,
-			[155722] = 2,
-			[314121] = 1,
+			[269085] = 2,
+			[281357] = 2,
 			[267023] = 2,
 			[65386] = 1,
-			[278381] = 2,
-			[292580] = 2,
-			[33390] = 1,
-			[207744] = 2,
-			[271120] = 2,
-			[216441] = 2,
+			[195630] = 2,
+			[207736] = 2,
+			[299788] = 2,
+			[211793] = 2,
+			[262929] = 1,
+			[267037] = 2,
 			[299789] = 2,
 			[318219] = 2,
 			[1604] = 1,
-			[293670] = 1,
-			[299790] = 2,
+			[48639] = 1,
+			[283408] = 1,
 			[257418] = 2,
 			[287504] = 2,
-			[96977] = 2,
+			[210320] = 2,
 			[267027] = 1,
 			[301839] = 1,
-			[294127] = 2,
+			[41425] = 2,
 			[255371] = 1,
 			[283410] = 1,
 			[301840] = 1,
-			[247218] = 2,
-			[273272] = 1,
-			[46924] = 2,
-			[188034] = 2,
-			[303604] = 1,
+			[703] = 2,
+			[206931] = 2,
+			[293664] = 2,
+			[287513] = 1,
+			[283419] = 1,
 			[297746] = 1,
-			[115385] = 1,
+			[284401] = 1,
 			[257420] = 2,
-			[256867] = 1,
+			[299803] = 2,
 			[96978] = 2,
-			[145818] = 1,
-			[284676] = 2,
-			[188489] = 1,
-			[225604] = 2,
-			[31884] = 2,
-			[272576] = 1,
-			[268967] = 1,
-			[299759] = 2,
-			[312107] = 2,
+			[267031] = 2,
+			[280070] = 2,
+			[275171] = 1,
+			[62305] = 2,
+			[312091] = 1,
+			[205191] = 2,
+			[294117] = 2,
+			[205146] = 2,
+			[279336] = 2,
 			[318227] = 2,
-			[259318] = 1,
+			[301829] = 1,
 			[86740] = 1,
-			[303971] = 1,
+			[285482] = 2,
 			[257422] = 2,
-			[290027] = 1,
-			[96979] = 2,
-			[316181] = 1,
+			[314151] = 1,
+			[210324] = 2,
+			[105682] = 2,
 			[253327] = 2,
-			[295704] = 2,
-			[772] = 2,
+			[303895] = 2,
+			[853] = 2,
 			[299800] = 2,
 			[216468] = 2,
 			[295705] = 2,
 			[314135] = 1,
-			[283419] = 1,
-			[269085] = 2,
+			[299801] = 2,
+			[245137] = 1,
 			[262942] = 2,
 			[23737] = 1,
 			[299802] = 2,
 			[257424] = 2,
-			[280553] = 1,
+			[64677] = 2,
 			[96980] = 2,
-			[299803] = 2,
-			[64942] = 1,
+			[105683] = 2,
+			[295124] = 2,
 			[8222] = 2,
-			[62318] = 1,
-			[299804] = 1,
-			[267037] = 2,
-			[312091] = 1,
-			[48639] = 1,
+			[223203] = 2,
+			[291613] = 1,
+			[203155] = 2,
+			[2120] = 2,
+			[288613] = 2,
 			[299805] = 2,
-			[41425] = 2,
-			[290608] = 2,
+			[188028] = 2,
+			[58479] = 2,
 			[255378] = 1,
-			[206931] = 2,
+			[265445] = 1,
 			[285472] = 2,
 			[262947] = 1,
 			[36208] = 1,
 			[105684] = 2,
-			[293664] = 2,
+			[253331] = 2,
 			[131490] = 2,
 			[214424] = 1,
-			[283426] = 1,
+			[166302] = 1,
 			[269092] = 1,
 			[116947] = 2,
-			[703] = 2,
-			[8377] = 1,
-			[285475] = 2,
-			[156064] = 2,
-			[195630] = 2,
+			[257821] = 1,
+			[277731] = 2,
+			[269093] = 1,
+			[19514] = 1,
+			[59628] = 2,
 			[256404] = 1,
-			[280070] = 2,
-			[275171] = 1,
+			[156071] = 2,
+			[305930] = 1,
 			[64877] = 1,
 			[65133] = 1,
 			[285477] = 2,
 			[262952] = 2,
-			[245855] = 2,
+			[54649] = 2,
 			[283430] = 2,
 			[33649] = 2,
-			[286680] = 2,
-			[297840] = 2,
-			[265085] = 1,
+			[172020] = 2,
+			[303913] = 1,
+			[210607] = 2,
 			[285479] = 2,
-			[279336] = 2,
-			[299778] = 2,
-			[285500] = 2,
+			[131493] = 2,
+			[302302] = 1,
+			[286516] = 2,
 			[293671] = 2,
-			[105691] = 2,
-			[294117] = 2,
+			[24378] = 1,
+			[270277] = 1,
 			[105686] = 2,
-			[284401] = 1,
+			[42919] = 2,
 			[90328] = 2,
 			[289577] = 2,
-			[22842] = 2,
-			[285482] = 2,
+			[256407] = 1,
+			[62318] = 1,
 			[62574] = 2,
-			[314151] = 1,
+			[289578] = 1,
 			[291626] = 1,
-			[301939] = 2,
-			[303913] = 1,
-			[62305] = 2,
-			[297845] = 2,
-			[295124] = 2,
-			[223203] = 2,
+			[303924] = 1,
+			[213405] = 2,
+			[270121] = 1,
+			[289349] = 2,
+			[265019] = 1,
+			[96312] = 2,
 			[121557] = 2,
-			[24378] = 1,
-			[64677] = 2,
-			[288613] = 2,
-			[242112] = 2,
-			[256363] = 1,
+			[65134] = 2,
+			[26393] = 1,
+			[63564] = 1,
+			[268898] = 2,
+			[260779] = 2,
 			[269104] = 1,
-			[58479] = 2,
-			[281227] = 1,
+			[312107] = 2,
+			[252321] = 2,
 			[299821] = 1,
 			[301869] = 1,
 			[156070] = 2,
-			[188028] = 2,
-			[54649] = 2,
-			[265445] = 1,
+			[312537] = 1,
+			[161229] = 1,
+			[32612] = 2,
 			[295727] = 2,
 			[185763] = 2,
 			[105688] = 2,
 			[285489] = 2,
-			[156071] = 2,
+			[26682] = 2,
 			[289585] = 1,
 			[256411] = 2,
-			[305930] = 1,
-			[277731] = 2,
-			[172020] = 2,
-			[188534] = 2,
-			[210607] = 2,
-			[297853] = 2,
+			[264027] = 1,
+			[271581] = 2,
+			[277724] = 2,
+			[156079] = 2,
+			[286425] = 1,
+			[26297] = 2,
 			[19643] = 1,
-			[187146] = 2,
+			[277395] = 1,
 			[277301] = 1,
-			[164273] = 2,
-			[273922] = 1,
-			[227744] = 2,
-			[302302] = 1,
+			[295746] = 2,
+			[215479] = 2,
+			[105689] = 2,
+			[178119] = 2,
 			[156073] = 2,
-			[270277] = 1,
-			[267064] = 1,
+			[302295] = 1,
+			[33395] = 2,
 			[257437] = 1,
-			[303924] = 1,
-			[303943] = 2,
-			[283524] = 1,
-			[42919] = 2,
+			[33907] = 1,
+			[212792] = 2,
+			[211319] = 2,
+			[102994] = 2,
 			[188838] = 2,
-			[273286] = 2,
-			[284942] = 1,
+			[269000] = 1,
+			[193534] = 2,
 			[285496] = 2,
-			[188414] = 2,
-			[265019] = 1,
+			[303941] = 1,
+			[177576] = 1,
 			[203173] = 2,
 			[285497] = 2,
-			[96312] = 2,
+			[229206] = 2,
 			[289593] = 1,
 			[256415] = 2,
 			[62320] = 1,
 			[31290] = 1,
-			[33395] = 2,
-			[63564] = 1,
-			[216528] = 2,
+			[125071] = 2,
+			[275672] = 2,
+			[101186] = 2,
 			[303929] = 2,
-			[268910] = 2,
+			[201332] = 2,
 			[231843] = 2,
 			[310073] = 1,
 			[312121] = 1,
 			[289596] = 1,
-			[252321] = 2,
-			[156080] = 2,
+			[260512] = 1,
+			[204843] = 2,
 			[156077] = 2,
-			[161229] = 1,
+			[300244] = 2,
 			[124121] = 2,
-			[269120] = 2,
+			[301884] = 2,
 			[262977] = 1,
-			[312537] = 1,
-			[299914] = 1,
-			[301885] = 1,
-			[32612] = 2,
+			[103952] = 1,
+			[262515] = 1,
+			[77535] = 2,
+			[188021] = 2,
 			[222630] = 2,
-			[254409] = 2,
+			[264764] = 2,
 			[301886] = 2,
-			[271581] = 2,
+			[216331] = 2,
 			[289600] = 1,
-			[277724] = 2,
-			[264027] = 1,
-			[156079] = 2,
-			[295822] = 1,
-			[286425] = 1,
-			[166357] = 2,
-			[1459] = 2,
+			[194627] = 2,
+			[53755] = 2,
+			[303935] = 1,
+			[303943] = 2,
+			[130736] = 2,
+			[253784] = 2,
+			[253548] = 1,
 			[259491] = 2,
 			[299841] = 1,
-			[277395] = 1,
-			[295746] = 2,
-			[174524] = 2,
-			[302295] = 1,
-			[215479] = 2,
+			[126270] = 2,
+			[156080] = 2,
+			[293705] = 1,
+			[250280] = 2,
+			[272250] = 1,
 			[71905] = 2,
 			[281413] = 2,
 			[105693] = 2,
-			[178119] = 2,
+			[256619] = 1,
 			[262984] = 1,
-			[212792] = 2,
-			[211319] = 2,
-			[100594] = 1,
-			[102994] = 2,
-			[260512] = 1,
-			[193534] = 2,
+			[290001] = 1,
+			[312526] = 1,
+			[197690] = 2,
+			[226943] = 2,
+			[61295] = 2,
+			[58729] = 1,
 			[269129] = 1,
-			[303941] = 1,
-			[275672] = 2,
+			[164273] = 2,
+			[241260] = 2,
 			[223658] = 2,
 			[269130] = 1,
 			[271178] = 1,
 			[273226] = 2,
-			[101186] = 2,
+			[150485] = 1,
 			[269131] = 1,
 			[295752] = 2,
-			[201332] = 2,
-			[204843] = 2,
-			[293705] = 1,
-			[250280] = 2,
-			[300244] = 2,
-			[266091] = 2,
+			[143546] = 1,
+			[288615] = 2,
+			[285514] = 2,
+			[303944] = 1,
+			[305959] = 2,
+			[267890] = 1,
 			[285515] = 2,
 			[156084] = 2,
-			[198069] = 2,
-			[188021] = 2,
+			[91807] = 2,
+			[61990] = 1,
 			[191920] = 2,
-			[264764] = 2,
+			[33702] = 2,
 			[80610] = 1,
-			[269214] = 2,
-			[216331] = 2,
-			[194627] = 2,
-			[53755] = 2,
+			[61721] = 2,
+			[298188] = 2,
+			[115006] = 1,
+			[314186] = 2,
 			[299852] = 2,
-			[103952] = 1,
-			[130736] = 2,
+			[89798] = 1,
+			[34321] = 2,
 			[273232] = 2,
 			[267089] = 1,
-			[253548] = 1,
-			[126270] = 2,
+			[196364] = 2,
+			[265056] = 1,
 			[198065] = 2,
 			[267090] = 1,
-			[262515] = 1,
+			[99464] = 1,
 			[287568] = 2,
 			[273234] = 1,
 			[105696] = 2,
 			[187827] = 2,
-			[261474] = 1,
-			[70192] = 2,
-			[256619] = 1,
-			[290001] = 1,
-			[303952] = 1,
-			[54644] = 2,
-			[312526] = 1,
+			[82626] = 2,
+			[263932] = 1,
+			[270598] = 1,
+			[223665] = 2,
+			[250284] = 1,
+			[314191] = 1,
+			[287556] = 1,
 			[293714] = 2,
 			[303953] = 2,
-			[272250] = 1,
-			[201179] = 2,
-			[197690] = 2,
+			[57294] = 2,
+			[296137] = 2,
+			[280615] = 2,
 			[71909] = 2,
 			[273238] = 2,
-			[226943] = 2,
-			[241260] = 2,
-			[280007] = 2,
-			[279397] = 2,
-			[223665] = 2,
-			[58729] = 1,
-			[247584] = 2,
+			[201634] = 2,
+			[278383] = 2,
+			[289419] = 1,
+			[267797] = 2,
+			[207283] = 2,
+			[160011] = 2,
+			[303942] = 2,
 			[202164] = 2,
-			[167971] = 1,
-			[274289] = 2,
-			[305959] = 2,
-			[289623] = 1,
+			[296135] = 2,
+			[57100] = 2,
+			[276767] = 1,
+			[198069] = 2,
 			[120032] = 1,
-			[33702] = 2,
+			[278396] = 1,
 			[176568] = 2,
 			[265051] = 2,
-			[150485] = 1,
+			[293724] = 1,
 			[204213] = 2,
 			[53365] = 2,
-			[298188] = 2,
-			[115006] = 1,
-			[257496] = 1,
-			[176569] = 2,
-			[297899] = 1,
-			[260527] = 1,
-			[279470] = 1,
-			[143546] = 1,
-			[318378] = 2,
-			[288615] = 2,
-			[89798] = 1,
-			[289645] = 1,
-			[34321] = 2,
-			[196364] = 2,
-			[293724] = 1,
-			[203233] = 2,
-			[265056] = 1,
-			[308059] = 2,
-			[296137] = 2,
-			[312155] = 1,
-			[99464] = 1,
-			[299869] = 2,
-			[272471] = 1,
-			[263932] = 1,
-			[247219] = 2,
-			[256434] = 2,
-			[63778] = 1,
-			[287556] = 1,
-			[314205] = 1,
-			[57294] = 2,
-			[310127] = 1,
-			[296135] = 2,
-			[306015] = 1,
-			[207289] = 2,
-			[277347] = 1,
-			[225719] = 2,
-			[251316] = 2,
-			[280615] = 2,
-			[273274] = 2,
-			[197051] = 2,
-			[270598] = 1,
-			[278383] = 2,
-			[257460] = 1,
-			[295779] = 1,
 			[163441] = 2,
-			[204227] = 1,
-			[271223] = 1,
-			[180670] = 2,
-			[271049] = 2,
-			[316258] = 1,
-			[302276] = 1,
-			[57100] = 2,
-			[218554] = 1,
-			[283582] = 2,
-			[271559] = 2,
-			[276767] = 1,
-			[62930] = 2,
-			[174528] = 2,
-			[289419] = 1,
-			[143812] = 1,
-			[285632] = 1,
-			[105702] = 2,
-			[267797] = 2,
-			[131526] = 2,
-			[243138] = 2,
-			[160011] = 2,
-			[62326] = 1,
-			[278989] = 2,
-			[113860] = 2,
-			[195007] = 2,
-			[110310] = 2,
-			[278468] = 2,
-			[202346] = 2,
-			[278396] = 1,
-			[314304] = 1,
-			[201151] = 1,
-			[251321] = 1,
-			[124218] = 2,
-			[247396] = 1,
-			[287597] = 2,
-			[297836] = 1,
 			[8258] = 1,
+			[221365] = 2,
+			[176569] = 2,
+			[278989] = 2,
+			[260527] = 1,
+			[302276] = 1,
+			[174524] = 2,
+			[278468] = 2,
+			[271559] = 2,
+			[70233] = 2,
+			[196941] = 2,
+			[306015] = 1,
 			[236471] = 2,
-			[184770] = 2,
-			[297837] = 1,
+			[261552] = 1,
 			[270576] = 2,
-			[269169] = 1,
-			[303981] = 1,
-			[275398] = 2,
-			[265096] = 2,
-			[275335] = 2,
-			[263027] = 1,
-			[198097] = 2,
-			[127801] = 1,
-			[299896] = 2,
-			[262362] = 1,
-			[61815] = 2,
-			[308101] = 2,
+			[247218] = 2,
+			[308059] = 2,
+			[279397] = 2,
+			[312155] = 1,
+			[290374] = 2,
+			[299869] = 2,
 			[83691] = 1,
 			[278905] = 2,
-			[265077] = 2,
-			[299889] = 1,
-			[85739] = 2,
+			[247219] = 2,
+			[256434] = 2,
 			[286558] = 1,
+			[202346] = 2,
+			[314205] = 1,
 			[23445] = 2,
+			[277366] = 1,
+			[124218] = 2,
+			[247220] = 2,
+			[207289] = 2,
+			[293729] = 1,
+			[225719] = 2,
+			[251316] = 2,
+			[247396] = 1,
+			[99913] = 1,
+			[197051] = 2,
+			[273847] = 1,
+			[265081] = 1,
+			[257460] = 1,
+			[295779] = 1,
+			[79966] = 1,
+			[209967] = 1,
+			[289645] = 1,
+			[180670] = 2,
+			[186403] = 2,
+			[316258] = 1,
+			[127801] = 1,
+			[121411] = 2,
+			[218554] = 1,
+			[276743] = 2,
+			[2096] = 2,
+			[260490] = 2,
+			[198300] = 2,
+			[174528] = 2,
+			[297851] = 1,
+			[143812] = 1,
 			[41635] = 2,
+			[105702] = 2,
+			[16870] = 2,
+			[131526] = 2,
+			[164460] = 1,
+			[299889] = 1,
+			[62326] = 1,
+			[226757] = 2,
+			[289980] = 1,
+			[195007] = 2,
+			[110310] = 2,
+			[16170] = 1,
+			[270058] = 2,
+			[33912] = 1,
+			[301933] = 1,
+			[201151] = 1,
+			[251321] = 1,
+			[301939] = 2,
+			[132951] = 1,
+			[287597] = 2,
+			[297836] = 1,
+			[68927] = 1,
+			[243317] = 2,
+			[184770] = 2,
+			[273264] = 2,
+			[289524] = 2,
+			[269169] = 1,
+			[303981] = 1,
+			[144850] = 1,
+			[215652] = 2,
+			[242112] = 2,
+			[263027] = 1,
+			[303958] = 2,
+			[271194] = 2,
+			[256453] = 2,
+			[265085] = 1,
+			[61815] = 2,
+			[316279] = 1,
+			[310127] = 1,
+			[21562] = 2,
+			[265077] = 2,
+			[283507] = 1,
+			[85739] = 2,
+			[118297] = 2,
+			[46168] = 2,
+			[290640] = 2,
 			[277365] = 1,
 			[295795] = 1,
-			[32323] = 1,
-			[164460] = 1,
-			[277366] = 1,
+			[285879] = 1,
+			[241836] = 2,
+			[204227] = 1,
 			[295796] = 1,
 			[255421] = 1,
 			[256445] = 1,
-			[290374] = 2,
+			[2645] = 2,
 			[225729] = 2,
-			[265081] = 1,
+			[297845] = 2,
 			[299893] = 1,
-			[79966] = 1,
+			[258653] = 1,
 			[279416] = 2,
 			[289655] = 2,
-			[289980] = 1,
-			[16170] = 1,
+			[209785] = 2,
+			[256456] = 2,
 			[225730] = 2,
 			[210372] = 2,
-			[281195] = 2,
-			[177305] = 2,
+			[79976] = 1,
+			[271543] = 2,
 			[271227] = 1,
-			[276743] = 2,
+			[89751] = 2,
 			[316278] = 1,
 			[285562] = 1,
 			[263037] = 1,
 			[273276] = 1,
-			[316279] = 1,
-			[273847] = 1,
-			[259562] = 1,
+			[109802] = 2,
+			[65780] = 2,
+			[70771] = 2,
 			[181705] = 2,
-			[68927] = 1,
+			[271249] = 2,
 			[277373] = 1,
 			[303994] = 2,
-			[297851] = 1,
+			[243138] = 2,
 			[219589] = 2,
-			[16870] = 2,
-			[266238] = 2,
+			[273297] = 2,
+			[256458] = 1,
 			[273279] = 2,
 			[267136] = 1,
 			[277375] = 1,
 			[263041] = 1,
-			[226757] = 2,
-			[270058] = 2,
+			[297853] = 2,
+			[257483] = 2,
 			[269185] = 1,
 			[287615] = 1,
 			[297854] = 1,
-			[215652] = 2,
+			[308101] = 2,
 			[224710] = 1,
 			[295807] = 2,
 			[265091] = 1,
-			[301968] = 2,
+			[269493] = 1,
 			[61305] = 2,
 			[114923] = 2,
-			[277462] = 1,
-			[316286] = 1,
-			[301933] = 1,
+			[204242] = 2,
+			[256451] = 2,
+			[68413] = 2,
 			[295809] = 2,
-			[121411] = 2,
+			[267888] = 2,
 			[316287] = 1,
 			[118507] = 1,
-			[132951] = 1,
-			[243317] = 2,
+			[234877] = 2,
+			[267444] = 1,
 			[256452] = 2,
 			[257476] = 1,
 			[225736] = 2,
-			[144850] = 1,
-			[55164] = 2,
-			[198300] = 2,
-			[303958] = 2,
+			[273286] = 2,
+			[3355] = 2,
+			[277399] = 1,
+			[287638] = 2,
 			[66290] = 1,
-			[256453] = 2,
-			[257519] = 1,
-			[285879] = 1,
+			[275335] = 2,
+			[78578] = 1,
+			[316309] = 2,
 			[202188] = 2,
-			[301972] = 2,
-			[267981] = 1,
-			[258653] = 1,
+			[287920] = 2,
+			[62662] = 1,
+			[43681] = 2,
 			[165329] = 1,
 			[316292] = 1,
 			[257478] = 1,
-			[9080] = 1,
-			[118297] = 2,
-			[261616] = 2,
-			[271543] = 2,
-			[280817] = 2,
-			[290640] = 2,
-			[190927] = 2,
-			[289524] = 2,
+			[206432] = 2,
+			[197871] = 2,
+			[95988] = 2,
+			[257692] = 2,
+			[108271] = 2,
+			[100593] = 1,
+			[256455] = 2,
+			[137639] = 2,
 			[287626] = 1,
-			[2645] = 2,
+			[274739] = 2,
 			[126188] = 1,
 			[253384] = 2,
-			[209785] = 2,
-			[78578] = 1,
-			[256456] = 2,
-			[79976] = 1,
-			[267237] = 1,
+			[255577] = 1,
+			[31935] = 2,
+			[299914] = 1,
+			[263344] = 1,
+			[297890] = 2,
 			[273294] = 1,
-			[89751] = 2,
-			[269493] = 1,
-			[65780] = 2,
+			[316297] = 1,
+			[132403] = 2,
+			[254409] = 2,
 			[57723] = 2,
-			[279526] = 2,
+			[248270] = 1,
 			[277391] = 1,
-			[68413] = 2,
-			[218574] = 2,
-			[70771] = 2,
+			[260541] = 1,
+			[42365] = 2,
+			[167385] = 1,
 			[212431] = 2,
-			[271249] = 2,
-			[273297] = 2,
-			[256458] = 1,
-			[231895] = 2,
+			[295822] = 1,
+			[255434] = 1,
+			[166357] = 2,
+			[298154] = 2,
 			[176596] = 2,
 			[273298] = 2,
-			[267444] = 1,
-			[3355] = 2,
+			[301975] = 2,
+			[33500] = 1,
 			[263060] = 1,
 			[273299] = 2,
 			[256459] = 2,
-			[257483] = 2,
-			[100593] = 1,
-			[284470] = 1,
-			[20549] = 2,
-			[204242] = 2,
-			[81141] = 2,
-			[267888] = 2,
+			[301968] = 2,
+			[287634] = 2,
+			[233498] = 2,
+			[156132] = 2,
+			[55164] = 2,
+			[256467] = 2,
+			[271276] = 1,
 			[256460] = 2,
 			[269206] = 1,
-			[287920] = 2,
-			[234877] = 2,
+			[165144] = 1,
+			[184364] = 2,
 			[162264] = 2,
-			[43681] = 2,
+			[273312] = 2,
 			[20545] = 1,
 			[57724] = 2,
-			[248270] = 1,
-			[277399] = 1,
-			[287638] = 2,
+			[275351] = 2,
+			[301972] = 2,
+			[100594] = 1,
 			[259533] = 2,
 			[118000] = 2,
-			[206432] = 2,
-			[263066] = 1,
-			[121093] = 2,
-			[273218] = 1,
-			[167385] = 1,
+			[306090] = 1,
+			[287639] = 2,
+			[24870] = 2,
+			[90361] = 2,
+			[95987] = 1,
 			[312213] = 1,
-			[263085] = 1,
-			[316309] = 2,
-			[301975] = 2,
+			[36554] = 2,
+			[81141] = 2,
+			[81653] = 1,
 			[45182] = 2,
 			[45438] = 2,
-			[209407] = 2,
-			[62662] = 1,
-			[267250] = 1,
-			[198111] = 2,
-			[255577] = 1,
-			[263344] = 1,
-			[197871] = 2,
-			[81210] = 1,
-			[32064] = 1,
-			[95988] = 2,
-			[304026] = 1,
-			[273310] = 2,
-			[289699] = 1,
-			[316331] = 1,
-			[304027] = 1,
-			[99574] = 1,
-			[302004] = 1,
-			[298154] = 2,
-			[178207] = 2,
-			[273312] = 2,
-			[283551] = 1,
-			[126705] = 2,
-			[295838] = 2,
-			[108271] = 2,
-			[265880] = 1,
-			[137639] = 2,
-			[287648] = 1,
-			[289696] = 1,
-			[267171] = 2,
-			[267256] = 1,
-			[295840] = 2,
-			[200196] = 2,
-			[275363] = 1,
-			[256476] = 1,
-			[279459] = 1,
-			[62845] = 1,
-			[155835] = 2,
-			[69369] = 2,
-			[295842] = 2,
-			[297890] = 2,
-			[256468] = 1,
-			[56190] = 2,
-			[287652] = 1,
-			[260541] = 1,
-			[122099] = 2,
-			[293796] = 1,
-			[263080] = 1,
-			[257692] = 2,
-			[256469] = 1,
-			[224729] = 1,
-			[160902] = 2,
-			[2649] = 1,
-			[274739] = 2,
-			[198819] = 2,
-			[304037] = 2,
-			[273321] = 2,
 			[257622] = 2,
 			[267434] = 1,
 			[289959] = 2,
+			[269232] = 1,
+			[24379] = 1,
+			[126259] = 2,
+			[108281] = 2,
+			[231895] = 2,
+			[32064] = 1,
+			[269214] = 2,
+			[304026] = 1,
+			[273310] = 2,
+			[201179] = 2,
+			[199260] = 2,
+			[304027] = 1,
+			[275667] = 1,
+			[275378] = 2,
+			[293529] = 2,
+			[216695] = 2,
+			[210391] = 2,
+			[283551] = 1,
+			[126705] = 2,
+			[295838] = 2,
+			[283572] = 1,
+			[280655] = 2,
+			[267702] = 1,
+			[287648] = 1,
+			[289696] = 1,
+			[267171] = 2,
+			[295850] = 2,
+			[295840] = 2,
+			[298146] = 2,
+			[275363] = 1,
+			[198111] = 2,
+			[279459] = 1,
+			[62845] = 1,
+			[167898] = 2,
+			[69369] = 2,
+			[295842] = 2,
+			[289699] = 1,
+			[256468] = 1,
+			[56190] = 2,
+			[287652] = 1,
+			[270672] = 1,
+			[122099] = 2,
+			[293796] = 1,
+			[263080] = 1,
+			[99732] = 2,
+			[256469] = 1,
+			[224729] = 1,
+			[2379] = 2,
+			[2649] = 1,
+			[285178] = 1,
+			[264070] = 1,
+			[304037] = 2,
+			[273321] = 2,
+			[118521] = 1,
+			[298192] = 2,
+			[1079] = 2,
 			[297895] = 1,
 			[275370] = 1,
-			[256467] = 2,
+			[262940] = 1,
 			[2825] = 2,
 			[273323] = 2,
 			[11426] = 2,
 			[257495] = 1,
-			[271276] = 1,
+			[263085] = 1,
 			[297897] = 1,
-			[64638] = 1,
-			[126259] = 2,
-			[295850] = 2,
+			[275391] = 2,
+			[276316] = 1,
+			[287659] = 1,
 			[297898] = 1,
 			[64126] = 2,
 			[56191] = 2,
 			[287660] = 2,
-			[306090] = 1,
+			[297899] = 1,
 			[283565] = 1,
-			[33500] = 1,
-			[90361] = 2,
-			[36554] = 2,
-			[204262] = 2,
-			[269232] = 1,
-			[199260] = 2,
-			[273415] = 2,
-			[260569] = 2,
-			[268013] = 1,
-			[318391] = 1,
-			[165144] = 1,
+			[285856] = 1,
+			[263088] = 2,
+			[205021] = 2,
+			[125883] = 2,
+			[318378] = 2,
+			[225606] = 2,
+			[210152] = 2,
+			[93433] = 2,
+			[287071] = 1,
+			[265377] = 1,
+			[292012] = 2,
 			[256474] = 2,
-			[275667] = 1,
+			[302004] = 1,
 			[295855] = 2,
 			[273330] = 2,
-			[275378] = 2,
-			[24870] = 2,
+			[203233] = 2,
+			[11349] = 2,
 			[18499] = 2,
-			[273345] = 1,
+			[66] = 2,
 			[158183] = 1,
 			[108280] = 2,
-			[65026] = 1,
-			[298146] = 2,
+			[273349] = 2,
+			[23451] = 1,
 			[13730] = 1,
 			[196067] = 2,
-			[63615] = 1,
+			[197091] = 2,
 			[273333] = 2,
-			[283572] = 1,
-			[276026] = 2,
-			[287747] = 2,
+			[256476] = 1,
+			[316353] = 1,
+			[259983] = 2,
 			[297907] = 1,
 			[283573] = 1,
-			[318385] = 1,
-			[24379] = 1,
-			[180750] = 2,
-			[2379] = 2,
-			[108281] = 2,
+			[269239] = 2,
+			[279709] = 2,
+			[204262] = 2,
+			[286976] = 2,
+			[310195] = 2,
 			[312243] = 1,
 			[289718] = 1,
-			[90895] = 2,
+			[304335] = 1,
 			[277432] = 2,
 			[131565] = 1,
-			[167898] = 2,
-			[270672] = 1,
-			[259589] = 2,
+			[262549] = 1,
+			[23505] = 1,
+			[70244] = 2,
 			[271290] = 1,
-			[99732] = 2,
+			[191293] = 1,
 			[267195] = 1,
-			[285178] = 1,
-			[204301] = 2,
+			[273345] = 1,
+			[71507] = 1,
 			[297912] = 1,
-			[216695] = 2,
+			[141917] = 2,
 			[200166] = 2,
-			[304056] = 2,
-			[285856] = 1,
+			[192999] = 2,
+			[273563] = 1,
 			[260575] = 1,
-			[118521] = 1,
+			[318391] = 1,
 			[312248] = 2,
-			[298192] = 2,
+			[232854] = 2,
 			[248289] = 2,
-			[1079] = 2,
+			[279490] = 2,
 			[263103] = 1,
 			[80638] = 1,
 			[267199] = 2,
 			[204263] = 2,
-			[262940] = 1,
+			[260369] = 2,
 			[148974] = 1,
-			[275391] = 2,
-			[64386] = 1,
-			[276316] = 1,
-			[265377] = 1,
+			[283582] = 2,
+			[59548] = 2,
+			[257512] = 1,
+			[287692] = 1,
 			[283583] = 1,
 			[118522] = 2,
-			[205021] = 2,
+			[15572] = 1,
 			[198121] = 2,
-			[293833] = 1,
+			[12323] = 2,
 			[257506] = 2,
 			[304062] = 1,
 			[52610] = 2,
 			[308158] = 1,
-			[210152] = 2,
-			[279490] = 2,
-			[90898] = 2,
-			[287071] = 1,
-			[292012] = 2,
-			[205630] = 2,
+			[246351] = 2,
+			[304063] = 1,
+			[277660] = 1,
+			[259853] = 1,
+			[279503] = 2,
+			[279819] = 2,
 			[273348] = 2,
-			[279709] = 2,
-			[116847] = 2,
-			[66] = 2,
-			[273349] = 2,
-			[295885] = 2,
-			[278176] = 1,
-			[23505] = 1,
+			[155777] = 2,
+			[242690] = 2,
+			[28880] = 2,
+			[314304] = 1,
+			[281545] = 2,
+			[170950] = 2,
+			[293833] = 1,
 			[297923] = 1,
-			[316353] = 1,
-			[259983] = 2,
-			[11349] = 2,
+			[89343] = 2,
+			[229872] = 2,
+			[272118] = 2,
 			[314306] = 1,
-			[210131] = 1,
-			[139] = 2,
-			[141917] = 2,
+			[143840] = 1,
+			[318409] = 1,
+			[263909] = 2,
 			[281543] = 2,
 			[299973] = 1,
 			[261605] = 1,
-			[273563] = 1,
+			[289742] = 1,
 			[314308] = 1,
 			[267210] = 2,
 			[302022] = 2,
-			[262549] = 1,
-			[281545] = 2,
-			[70244] = 2,
+			[6795] = 2,
+			[289736] = 1,
+			[58448] = 2,
 			[212460] = 2,
-			[191293] = 1,
+			[263933] = 1,
 			[289737] = 1,
-			[81173] = 1,
+			[259562] = 1,
 			[277451] = 1,
-			[71507] = 1,
-			[232854] = 2,
+			[272131] = 1,
+			[277462] = 1,
 			[63106] = 2,
-			[271700] = 1,
-			[199804] = 2,
-			[59548] = 2,
-			[64396] = 1,
-			[257512] = 1,
-			[287692] = 1,
-			[15572] = 1,
+			[268702] = 1,
+			[287889] = 1,
+			[283619] = 1,
+			[255446] = 1,
+			[64386] = 1,
+			[32323] = 1,
+			[271731] = 1,
 			[89345] = 2,
-			[318409] = 1,
-			[12323] = 2,
-			[277660] = 1,
-			[288806] = 2,
+			[65410] = 2,
+			[312266] = 1,
+			[269279] = 2,
+			[192082] = 2,
 			[285646] = 2,
-			[279503] = 2,
-			[289742] = 1,
+			[295885] = 2,
+			[265169] = 1,
 			[308172] = 1,
 			[302029] = 2,
 			[131577] = 1,
-			[306125] = 1,
+			[297934] = 1,
 			[267218] = 2,
-			[279819] = 2,
-			[155777] = 2,
+			[128301] = 2,
+			[283610] = 1,
 			[202225] = 2,
 			[211440] = 2,
-			[28880] = 2,
+			[59547] = 2,
 			[18501] = 1,
 			[82691] = 2,
-			[259572] = 1,
+			[204018] = 2,
 			[6770] = 2,
-			[22247] = 1,
+			[105687] = 2,
 			[297937] = 1,
-			[170950] = 2,
+			[265412] = 2,
 			[310224] = 1,
 			[127230] = 2,
 			[157176] = 1,
@@ -24992,42 +25048,42 @@ TMWOptDB = {
 			[297939] = 1,
 			[89347] = 2,
 			[310226] = 1,
-			[229872] = 2,
-			[263371] = 1,
+			[20549] = 2,
+			[264957] = 1,
 			[256493] = 1,
-			[143840] = 1,
-			[242690] = 2,
+			[186254] = 2,
+			[65753] = 1,
 			[297941] = 2,
 			[211443] = 2,
 			[261613] = 1,
 			[213491] = 2,
-			[303161] = 1,
-			[297934] = 1,
-			[6795] = 2,
-			[58448] = 2,
-			[263933] = 1,
+			[298124] = 1,
+			[245386] = 1,
+			[72968] = 2,
+			[183585] = 1,
+			[248941] = 1,
 			[283609] = 1,
-			[272118] = 2,
-			[272131] = 1,
-			[68946] = 1,
-			[283610] = 1,
+			[257275] = 1,
+			[294027] = 2,
+			[117507] = 1,
+			[133630] = 2,
 			[54149] = 2,
 			[279515] = 2,
-			[255446] = 1,
-			[263909] = 2,
-			[285659] = 2,
+			[267237] = 1,
+			[116849] = 2,
+			[23493] = 1,
 			[102659] = 2,
-			[287889] = 1,
+			[285835] = 1,
 			[256496] = 2,
 			[200183] = 2,
 			[64644] = 1,
-			[75529] = 1,
-			[271731] = 1,
-			[269279] = 2,
-			[202914] = 2,
+			[258221] = 1,
+			[247563] = 2,
+			[261616] = 2,
+			[187878] = 2,
 			[90885] = 2,
-			[298033] = 1,
-			[192082] = 2,
+			[272790] = 2,
+			[291977] = 2,
 			[58501] = 2,
 			[226805] = 2,
 			[308188] = 2,
@@ -25035,476 +25091,476 @@ TMWOptDB = {
 			[271329] = 1,
 			[314332] = 1,
 			[256498] = 1,
-			[128301] = 2,
+			[75529] = 1,
 			[287712] = 2,
 			[314333] = 1,
-			[72968] = 2,
-			[204018] = 2,
-			[59547] = 2,
-			[105687] = 2,
-			[265412] = 2,
+			[283617] = 1,
+			[270997] = 1,
+			[36901] = 2,
+			[267198] = 2,
+			[282218] = 1,
 			[310239] = 1,
-			[259611] = 1,
-			[117507] = 1,
-			[283619] = 1,
-			[223176] = 2,
+			[32752] = 2,
+			[226807] = 2,
+			[300001] = 1,
+			[17735] = 2,
 			[271333] = 1,
 			[255476] = 1,
-			[316384] = 1,
-			[248941] = 1,
+			[275429] = 2,
+			[267402] = 2,
 			[304098] = 1,
-			[97030] = 2,
+			[64901] = 2,
 			[203259] = 2,
-			[214621] = 2,
+			[318449] = 1,
 			[263144] = 1,
-			[298124] = 1,
-			[261628] = 1,
+			[62338] = 1,
+			[287722] = 2,
 			[277479] = 1,
-			[186254] = 2,
-			[256661] = 1,
-			[273465] = 2,
+			[273388] = 2,
+			[162313] = 2,
+			[304260] = 1,
 			[285671] = 1,
-			[264957] = 1,
+			[201408] = 2,
 			[297958] = 1,
-			[294027] = 2,
+			[121093] = 2,
 			[257526] = 1,
-			[258221] = 1,
+			[217200] = 2,
 			[289768] = 1,
 			[219643] = 2,
-			[203268] = 2,
-			[75532] = 2,
-			[285835] = 1,
-			[247563] = 2,
-			[259620] = 1,
-			[287722] = 2,
-			[273388] = 2,
-			[8679] = 2,
+			[199356] = 1,
+			[209407] = 2,
+			[66906] = 2,
+			[289924] = 1,
+			[259382] = 1,
+			[225787] = 2,
+			[289770] = 1,
+			[115295] = 2,
 			[253432] = 2,
-			[187878] = 2,
-			[291977] = 2,
-			[183585] = 1,
-			[285685] = 1,
-			[225788] = 2,
+			[75532] = 2,
+			[269304] = 1,
+			[196099] = 2,
+			[204362] = 2,
+			[217597] = 2,
 			[289772] = 1,
-			[36901] = 2,
-			[281590] = 2,
+			[272685] = 2,
+			[288844] = 1,
 			[295916] = 1,
 			[198144] = 2,
-			[116849] = 2,
-			[265271] = 2,
+			[281590] = 2,
+			[285836] = 1,
 			[304108] = 2,
-			[296003] = 2,
-			[267402] = 2,
-			[32752] = 2,
+			[203268] = 2,
+			[61849] = 2,
+			[190026] = 2,
 			[304109] = 2,
 			[289775] = 1,
-			[17735] = 2,
+			[267250] = 1,
 			[269298] = 1,
 			[176644] = 2,
 			[289776] = 1,
-			[270997] = 1,
+			[212552] = 2,
 			[196098] = 2,
 			[295920] = 1,
-			[270070] = 2,
+			[203337] = 2,
 			[275443] = 2,
 			[277491] = 1,
-			[267198] = 2,
+			[117516] = 1,
 			[235006] = 2,
-			[282218] = 1,
-			[196099] = 2,
+			[192090] = 2,
+			[269301] = 1,
 			[287731] = 2,
-			[304260] = 1,
-			[201408] = 2,
+			[264415] = 2,
+			[273537] = 1,
 			[269302] = 1,
 			[48265] = 2,
 			[281589] = 2,
-			[268429] = 2,
-			[318449] = 1,
-			[199356] = 1,
+			[306301] = 1,
+			[285685] = 1,
+			[283646] = 1,
 			[306163] = 1,
 			[231936] = 2,
-			[269304] = 1,
-			[277579] = 2,
+			[200196] = 2,
+			[127915] = 2,
 			[202244] = 2,
-			[162313] = 2,
+			[308212] = 2,
 			[34699] = 1,
-			[271466] = 2,
-			[289997] = 2,
+			[60234] = 2,
+			[159786] = 2,
 			[283640] = 1,
-			[289924] = 1,
-			[284376] = 1,
+			[263297] = 2,
+			[287749] = 1,
 			[97035] = 2,
-			[259382] = 1,
+			[49818] = 2,
 			[204293] = 2,
-			[272685] = 2,
+			[190025] = 2,
 			[281594] = 2,
-			[64655] = 1,
+			[290366] = 2,
 			[62344] = 1,
 			[263165] = 2,
 			[306168] = 1,
 			[101643] = 2,
-			[288844] = 1,
+			[34189] = 1,
 			[180745] = 2,
 			[281596] = 2,
-			[204362] = 2,
+			[291964] = 1,
 			[224772] = 2,
 			[201223] = 2,
 			[88845] = 1,
 			[48778] = 2,
-			[285836] = 1,
-			[316492] = 1,
-			[227847] = 2,
-			[283646] = 1,
+			[289917] = 1,
+			[271486] = 1,
+			[293896] = 1,
+			[231940] = 2,
 			[200200] = 2,
-			[265346] = 1,
+			[227847] = 2,
 			[259585] = 1,
-			[201939] = 2,
-			[61849] = 2,
-			[117516] = 1,
-			[212552] = 2,
-			[203337] = 2,
-			[287825] = 2,
-			[192090] = 2,
-			[190025] = 2,
+			[281724] = 2,
+			[265722] = 1,
+			[306184] = 1,
+			[285642] = 1,
+			[273415] = 2,
+			[217668] = 2,
+			[294009] = 1,
+			[260242] = 2,
 			[283649] = 1,
-			[264415] = 2,
+			[196834] = 2,
 			[180748] = 2,
 			[273411] = 1,
-			[273537] = 1,
+			[225597] = 2,
 			[124682] = 2,
-			[279555] = 2,
-			[235018] = 2,
+			[250372] = 1,
+			[193396] = 2,
 			[283651] = 1,
-			[408] = 2,
+			[260614] = 1,
 			[180749] = 2,
 			[63881] = 2,
 			[291843] = 2,
 			[79632] = 2,
 			[64649] = 1,
-			[287560] = 1,
+			[161354] = 2,
 			[178702] = 1,
 			[269319] = 2,
-			[287749] = 1,
-			[5171] = 2,
-			[120589] = 2,
-			[263297] = 2,
+			[180750] = 2,
+			[90895] = 2,
+			[314374] = 1,
+			[5277] = 2,
 			[58506] = 1,
-			[34189] = 1,
+			[259589] = 2,
 			[283655] = 1,
-			[281724] = 2,
+			[258860] = 2,
 			[271369] = 1,
-			[49818] = 2,
-			[289917] = 1,
+			[120589] = 2,
+			[59544] = 2,
 			[30151] = 2,
 			[271370] = 2,
-			[257899] = 1,
-			[260614] = 1,
-			[293896] = 1,
+			[62373] = 1,
+			[203277] = 2,
+			[204301] = 2,
 			[254471] = 2,
-			[314374] = 1,
+			[198158] = 2,
 			[316422] = 2,
-			[159786] = 2,
-			[291964] = 1,
-			[306184] = 1,
+			[42650] = 2,
+			[161353] = 2,
+			[235018] = 2,
 			[260615] = 1,
-			[190010] = 1,
+			[255499] = 1,
 			[254472] = 2,
-			[271486] = 1,
-			[97061] = 2,
+			[257597] = 1,
+			[182854] = 1,
 			[257544] = 1,
-			[1966] = 2,
+			[123981] = 2,
 			[273422] = 1,
-			[145942] = 1,
-			[289915] = 1,
+			[283661] = 1,
+			[257042] = 1,
 			[254473] = 2,
-			[260242] = 2,
+			[187973] = 2,
 			[291853] = 1,
-			[310347] = 1,
+			[260668] = 1,
 			[295949] = 2,
 			[273424] = 2,
-			[196834] = 2,
+			[64919] = 1,
 			[155158] = 2,
 			[304141] = 1,
 			[127757] = 2,
-			[225597] = 2,
+			[80396] = 2,
 			[277521] = 1,
 			[263187] = 1,
 			[235021] = 2,
-			[217668] = 2,
+			[236298] = 2,
 			[81683] = 1,
-			[294009] = 1,
-			[255499] = 1,
-			[17877] = 2,
-			[5277] = 2,
-			[265319] = 1,
+			[275573] = 1,
+			[90898] = 2,
+			[273525] = 2,
+			[642] = 2,
+			[285811] = 2,
 			[273428] = 2,
 			[283667] = 1,
-			[193396] = 2,
+			[260667] = 1,
 			[279572] = 2,
-			[178703] = 1,
-			[161354] = 2,
+			[298098] = 1,
+			[277187] = 2,
 			[277525] = 1,
-			[258860] = 2,
-			[258614] = 1,
-			[265323] = 1,
-			[123981] = 2,
-			[59544] = 2,
-			[257042] = 1,
-			[42650] = 2,
-			[161353] = 2,
+			[79638] = 2,
+			[269338] = 2,
+			[247356] = 2,
+			[154797] = 2,
+			[116841] = 2,
+			[260666] = 1,
+			[259747] = 2,
+			[281517] = 2,
 			[287766] = 1,
 			[314387] = 1,
-			[236060] = 2,
+			[263215] = 1,
 			[285719] = 2,
-			[257597] = 1,
-			[182854] = 1,
+			[156136] = 2,
+			[216413] = 2,
 			[275481] = 2,
-			[269338] = 2,
-			[275566] = 2,
-			[273525] = 2,
+			[285720] = 2,
+			[59543] = 2,
+			[246293] = 2,
 			[203285] = 2,
 			[285721] = 2,
 			[221715] = 2,
-			[187973] = 2,
+			[2383] = 2,
 			[215572] = 2,
 			[232978] = 1,
-			[260668] = 1,
+			[68947] = 1,
 			[273436] = 1,
-			[64919] = 1,
-			[277187] = 2,
-			[642] = 2,
+			[58519] = 1,
+			[32615] = 2,
+			[300140] = 2,
 			[314392] = 1,
-			[275573] = 1,
-			[79638] = 2,
+			[260626] = 1,
+			[64396] = 1,
 			[263199] = 1,
 			[235027] = 2,
-			[298098] = 1,
+			[97033] = 2,
 			[310298] = 1,
 			[254481] = 2,
-			[59543] = 2,
-			[285811] = 2,
-			[260667] = 1,
-			[221744] = 1,
+			[152173] = 2,
+			[275566] = 2,
+			[24394] = 2,
+			[298018] = 1,
 			[314395] = 1,
 			[300061] = 2,
-			[236298] = 2,
+			[117526] = 2,
 			[279584] = 2,
 			[149023] = 2,
-			[5280] = 1,
+			[213602] = 2,
 			[79639] = 2,
-			[154797] = 2,
-			[247356] = 2,
-			[260626] = 1,
-			[267347] = 2,
+			[293924] = 1,
+			[123586] = 2,
+			[267299] = 1,
+			[287750] = 1,
 			[53390] = 2,
-			[259747] = 2,
-			[260666] = 1,
+			[295966] = 2,
+			[97034] = 2,
 			[285730] = 2,
 			[2378] = 2,
-			[281517] = 2,
-			[16593] = 2,
-			[156136] = 2,
+			[126389] = 2,
+			[202274] = 2,
+			[280870] = 2,
 			[263206] = 1,
-			[298018] = 1,
+			[230935] = 2,
 			[207386] = 2,
-			[79640] = 2,
+			[293923] = 1,
 			[64653] = 1,
-			[216413] = 2,
+			[45524] = 2,
 			[28489] = 2,
-			[293924] = 1,
+			[269351] = 1,
 			[254485] = 2,
-			[246293] = 2,
-			[273453] = 2,
+			[236060] = 2,
+			[273457] = 1,
 			[269352] = 2,
-			[70243] = 2,
-			[113942] = 2,
-			[314411] = 1,
-			[58519] = 1,
+			[263202] = 1,
+			[265323] = 1,
+			[271466] = 2,
+			[194084] = 2,
 			[254486] = 2,
 			[265258] = 2,
 			[128275] = 2,
 			[60302] = 2,
-			[191034] = 2,
+			[9941] = 1,
 			[273450] = 1,
-			[300140] = 2,
+			[189990] = 1,
 			[187935] = 2,
 			[254487] = 2,
 			[314406] = 1,
 			[115989] = 2,
-			[288356] = 1,
+			[59542] = 2,
 			[38033] = 1,
-			[32615] = 2,
-			[193359] = 2,
+			[2374] = 2,
+			[42648] = 1,
 			[293930] = 1,
 			[63630] = 1,
 			[298026] = 1,
 			[308265] = 1,
 			[293931] = 1,
-			[225820] = 1,
-			[152173] = 2,
-			[24394] = 2,
+			[64654] = 1,
+			[91797] = 2,
+			[113942] = 2,
 			[293932] = 2,
 			[254489] = 2,
 			[273455] = 2,
-			[267299] = 1,
+			[273404] = 2,
 			[302124] = 1,
 			[287790] = 2,
-			[117526] = 2,
+			[314411] = 1,
 			[118038] = 2,
 			[302125] = 1,
-			[97033] = 2,
-			[273457] = 1,
+			[64655] = 1,
+			[298030] = 1,
 			[231965] = 2,
 			[293935] = 2,
 			[225822] = 2,
-			[209406] = 2,
-			[287750] = 1,
-			[287478] = 2,
-			[97034] = 2,
-			[59542] = 2,
+			[6940] = 2,
+			[157228] = 2,
+			[293947] = 1,
+			[226852] = 2,
+			[273465] = 2,
 			[275507] = 1,
-			[126389] = 2,
+			[265319] = 1,
 			[225823] = 2,
-			[202274] = 2,
+			[259611] = 1,
 			[260635] = 1,
-			[280870] = 2,
-			[298014] = 1,
-			[295966] = 2,
+			[310331] = 1,
+			[272421] = 1,
+			[302141] = 1,
 			[199203] = 2,
-			[267410] = 2,
+			[196447] = 2,
 			[304178] = 1,
-			[194084] = 2,
+			[265271] = 2,
 			[28490] = 2,
-			[78622] = 1,
+			[271115] = 2,
 			[263224] = 1,
 			[165416] = 1,
-			[48018] = 2,
-			[273470] = 1,
-			[9941] = 1,
+			[45181] = 2,
+			[268998] = 2,
+			[267330] = 2,
 			[265273] = 2,
-			[91933] = 1,
+			[298047] = 2,
 			[269369] = 1,
 			[312372] = 2,
-			[189990] = 1,
-			[2374] = 2,
-			[6940] = 2,
+			[132653] = 1,
+			[287338] = 2,
+			[291937] = 2,
 			[304182] = 1,
-			[263202] = 1,
-			[316508] = 2,
-			[316477] = 1,
+			[97054] = 2,
+			[279541] = 2,
+			[178740] = 2,
 			[263228] = 1,
 			[82717] = 1,
 			[267324] = 1,
 			[293945] = 2,
 			[287802] = 2,
-			[294042] = 2,
-			[63120] = 1,
+			[287895] = 2,
+			[267325] = 2,
 			[293946] = 2,
-			[42648] = 1,
-			[157228] = 2,
+			[97061] = 2,
+			[78622] = 1,
 			[267326] = 2,
-			[293947] = 1,
+			[48018] = 2,
 			[225828] = 2,
-			[226852] = 2,
+			[273470] = 1,
 			[267327] = 2,
 			[302139] = 1,
-			[273404] = 2,
-			[271428] = 1,
+			[310271] = 1,
+			[259620] = 1,
 			[115994] = 2,
-			[310331] = 1,
+			[91933] = 1,
 			[193065] = 2,
-			[58511] = 1,
-			[267329] = 2,
-			[302141] = 1,
+			[191034] = 2,
+			[260641] = 1,
+			[8679] = 2,
 			[304189] = 1,
 			[127769] = 1,
-			[267330] = 2,
+			[207400] = 2,
 			[60305] = 2,
 			[287808] = 2,
-			[298047] = 2,
+			[259618] = 1,
 			[267331] = 2,
-			[271115] = 2,
+			[190010] = 1,
 			[287809] = 2,
-			[271078] = 1,
-			[268998] = 2,
+			[51514] = 2,
+			[44544] = 2,
 			[302144] = 2,
 			[287810] = 2,
 			[289858] = 1,
-			[272421] = 1,
+			[97055] = 2,
 			[293954] = 1,
 			[287811] = 2,
 			[289859] = 1,
 			[275525] = 2,
-			[287338] = 2,
+			[104773] = 2,
+			[296003] = 2,
+			[306242] = 2,
 			[225832] = 1,
-			[97054] = 2,
-			[196447] = 2,
-			[178740] = 2,
-			[80673] = 1,
+			[3408] = 2,
+			[310343] = 1,
 			[265288] = 2,
-			[287895] = 2,
+			[235016] = 2,
 			[293957] = 1,
 			[58514] = 1,
-			[62354] = 1,
-			[279541] = 2,
+			[287837] = 2,
+			[277598] = 1,
 			[34709] = 1,
-			[310271] = 1,
+			[271371] = 1,
 			[273481] = 2,
-			[51514] = 2,
-			[310341] = 1,
+			[201253] = 2,
+			[87840] = 2,
 			[30283] = 2,
-			[97055] = 2,
-			[104773] = 2,
+			[80673] = 1,
+			[287693] = 1,
 			[277578] = 1,
 			[296008] = 1,
 			[214572] = 2,
 			[300104] = 2,
-			[318534] = 1,
-			[3408] = 2,
-			[146022] = 2,
+			[277579] = 2,
+			[318537] = 1,
+			[256816] = 2,
 			[291914] = 2,
-			[291937] = 2,
+			[26064] = 2,
 			[263246] = 1,
-			[277598] = 1,
+			[304217] = 1,
 			[215598] = 2,
 			[48020] = 2,
-			[296078] = 1,
+			[78639] = 2,
 			[97056] = 2,
-			[271371] = 1,
-			[318537] = 1,
-			[35760] = 1,
-			[289869] = 1,
+			[300110] = 1,
+			[204335] = 2,
+			[182512] = 2,
+			[6196] = 2,
 			[300108] = 2,
 			[293965] = 2,
 			[209455] = 2,
-			[256816] = 2,
-			[26064] = 2,
-			[267362] = 1,
-			[255538] = 1,
-			[78639] = 2,
-			[300110] = 1,
-			[16595] = 2,
-			[296015] = 2,
-			[97057] = 2,
 			[236077] = 2,
 			[229871] = 2,
 			[271443] = 1,
 			[266209] = 1,
-			[269397] = 1,
+			[254474] = 2,
+			[316492] = 1,
 			[284455] = 1,
+			[296015] = 2,
+			[97057] = 2,
+			[267347] = 2,
 			[211442] = 2,
-			[235054] = 2,
-			[275540] = 2,
-			[171574] = 2,
+			[287825] = 2,
 			[296018] = 1,
+			[275540] = 2,
+			[269397] = 1,
+			[268848] = 2,
+			[235054] = 2,
+			[260651] = 1,
+			[171574] = 2,
+			[287827] = 2,
 			[270606] = 1,
 			[79140] = 2,
 			[285780] = 1,
 			[287828] = 2,
 			[80676] = 1,
 			[267351] = 2,
-			[287837] = 2,
-			[268848] = 2,
+			[296078] = 1,
+			[289872] = 1,
 			[273495] = 1,
 			[97058] = 2,
 			[64145] = 1,
@@ -25513,118 +25569,118 @@ TMWOptDB = {
 			[275544] = 2,
 			[277592] = 1,
 			[287831] = 2,
-			[289872] = 1,
+			[221744] = 1,
 			[267354] = 1,
 			[257582] = 1,
 			[193078] = 1,
 			[97059] = 2,
 			[291928] = 1,
 			[277594] = 1,
-			[254474] = 2,
 			[135700] = 2,
 			[12472] = 2,
-			[304217] = 1,
+			[267362] = 1,
+			[16595] = 2,
 			[15655] = 1,
-			[182512] = 2,
 			[164783] = 1,
+			[310347] = 1,
 			[77606] = 2,
 			[287835] = 2,
-			[287693] = 1,
-			[201253] = 2,
+			[289869] = 1,
+			[255538] = 1,
 			[269406] = 1,
 			[287836] = 2,
 			[265311] = 1,
-			[235016] = 2,
+			[35760] = 1,
 			[293980] = 1,
 			[254513] = 2,
 			[289885] = 2,
 			[316506] = 1,
-			[287827] = 2,
+			[310341] = 1,
 			[50326] = 2,
-			[260651] = 1,
-			[44544] = 2,
+			[146022] = 2,
+			[318534] = 1,
 			[8680] = 2,
 			[279648] = 2,
 			[43415] = 1,
-			[215607] = 2,
+			[316508] = 2,
 			[8936] = 2,
 			[312413] = 1,
 			[265315] = 2,
-			[45181] = 2,
-			[266967] = 1,
+			[271428] = 1,
+			[215607] = 2,
 			[205369] = 2,
-			[6196] = 2,
+			[62354] = 1,
 			[316510] = 2,
-			[204335] = 2,
+			[316477] = 1,
 			[312415] = 1,
 			[289890] = 1,
-			[60229] = 2,
+			[267329] = 2,
 			[293986] = 1,
-			[70777] = 2,
+			[266967] = 1,
 			[306273] = 1,
-			[274294] = 1,
+			[63120] = 1,
 			[96038] = 1,
-			[87840] = 2,
+			[60229] = 2,
 			[97062] = 2,
 			[267367] = 1,
-			[91797] = 2,
-			[114282] = 2,
-			[280544] = 2,
-			[306242] = 2,
+			[271078] = 1,
+			[70777] = 2,
+			[274294] = 1,
+			[58511] = 1,
 			[285798] = 2,
 			[304228] = 1,
 			[314467] = 1,
 			[275560] = 1,
-			[45524] = 2,
+			[298033] = 1,
 			[271465] = 2,
-			[259618] = 1,
-			[207400] = 2,
-			[260641] = 1,
-			[263275] = 1,
+			[114282] = 2,
+			[280544] = 2,
+			[294042] = 2,
+			[258614] = 1,
 			[97063] = 2,
 			[291944] = 2,
 			[269419] = 2,
 			[263276] = 1,
 			[306279] = 2,
-			[123586] = 2,
-			[267325] = 2,
-			[213602] = 2,
-			[293923] = 1,
+			[225820] = 1,
+			[273453] = 2,
+			[263275] = 1,
+			[267410] = 2,
 			[291946] = 1,
-			[132653] = 1,
+			[298014] = 1,
 			[31821] = 2,
 			[63894] = 1,
 			[267374] = 1,
-			[36207] = 1,
+			[79640] = 2,
 			[296043] = 2,
-			[68947] = 1,
+			[287478] = 2,
 			[48792] = 2,
-			[2383] = 2,
+			[209406] = 2,
 			[246330] = 2,
 			[16591] = 2,
 			[316522] = 2,
-			[298030] = 1,
+			[36207] = 1,
 			[108839] = 2,
 			[281711] = 2,
 			[300141] = 2,
-			[263215] = 1,
+			[193359] = 2,
 			[304237] = 2,
-			[269896] = 1,
-			[116841] = 2,
+			[288356] = 1,
+			[70243] = 2,
 			[96041] = 1,
-			[35131] = 2,
-			[178658] = 1,
+			[269896] = 1,
+			[81173] = 1,
 			[275570] = 1,
 			[302191] = 1,
-			[115078] = 2,
+			[16593] = 2,
 			[314478] = 1,
 			[300144] = 2,
-			[269351] = 1,
-			[80396] = 2,
-			[230935] = 2,
+			[35131] = 2,
+			[178658] = 1,
+			[5280] = 1,
 			[300145] = 2,
 			[269429] = 1,
-			[64654] = 1,
+			[115078] = 2,
 			[111400] = 2,
 			[64151] = 1,
 			[302194] = 2,
@@ -25636,70 +25692,70 @@ TMWOptDB = {
 			[5116] = 2,
 			[316530] = 2,
 			[277623] = 1,
-			[62373] = 1,
+			[145942] = 1,
 			[314483] = 1,
 			[260669] = 1,
 			[302197] = 1,
 			[304245] = 1,
 			[265338] = 1,
 			[316532] = 1,
-			[285720] = 2,
+			[178703] = 1,
 			[279673] = 2,
 			[281721] = 2,
 			[316533] = 1,
 			[61336] = 2,
-			[285642] = 1,
-			[265722] = 1,
-			[182773] = 1,
+			[17877] = 2,
+			[289915] = 1,
+			[1966] = 2,
 			[302200] = 2,
 			[160331] = 2,
 			[265341] = 1,
 			[252480] = 1,
-			[290366] = 2,
+			[287747] = 2,
 			[164427] = 1,
 			[15976] = 1,
 			[64152] = 1,
-			[60234] = 2,
+			[182773] = 1,
 			[296059] = 2,
-			[127915] = 2,
+			[304128] = 2,
 			[105771] = 2,
-			[70581] = 2,
+			[257899] = 1,
 			[32924] = 1,
 			[16592] = 1,
 			[256577] = 1,
-			[283661] = 1,
+			[5171] = 2,
 			[108843] = 2,
 			[289918] = 2,
 			[300157] = 1,
 			[277632] = 1,
 			[59545] = 2,
-			[190026] = 2,
-			[198158] = 2,
-			[203277] = 2,
-			[266310] = 2,
-			[231940] = 2,
+			[265346] = 1,
+			[70581] = 2,
+			[287560] = 1,
+			[408] = 2,
+			[279555] = 2,
 			[316541] = 2,
 			[204361] = 2,
 			[287873] = 2,
 			[190027] = 2,
 			[316542] = 2,
-			[115295] = 2,
+			[267256] = 1,
 			[258627] = 1,
-			[66906] = 2,
-			[250372] = 1,
+			[261628] = 1,
+			[266310] = 2,
 			[77616] = 2,
 			[279684] = 2,
-			[217200] = 2,
+			[201939] = 2,
 			[64153] = 1,
 			[302210] = 1,
 			[287876] = 1,
 			[298115] = 1,
 			[291972] = 1,
 			[310402] = 1,
-			[62338] = 1,
+			[284376] = 1,
 			[265352] = 1,
 			[232008] = 2,
-			[258278] = 2,
+			[289997] = 2,
 			[143955] = 1,
 			[289926] = 2,
 			[291974] = 1,
@@ -25707,25 +25763,25 @@ TMWOptDB = {
 			[304261] = 1,
 			[255558] = 1,
 			[232009] = 2,
-			[272790] = 2,
-			[308212] = 2,
+			[268429] = 2,
+			[258278] = 2,
 			[80689] = 2,
 			[308358] = 1,
-			[257275] = 1,
+			[270070] = 2,
 			[296072] = 2,
 			[198222] = 2,
 			[223819] = 2,
 			[302216] = 1,
-			[245386] = 1,
-			[269301] = 1,
-			[65753] = 1,
+			[279526] = 2,
+			[259572] = 1,
+			[316384] = 1,
 			[204366] = 2,
 			[119085] = 2,
 			[298122] = 1,
 			[275597] = 1,
 			[257608] = 1,
 			[64666] = 1,
-			[226807] = 2,
+			[225788] = 2,
 			[275598] = 1,
 			[285837] = 1,
 			[304267] = 1,
@@ -25733,257 +25789,257 @@ TMWOptDB = {
 			[116014] = 2,
 			[192081] = 2,
 			[296077] = 1,
-			[289770] = 1,
-			[225787] = 2,
-			[268702] = 1,
+			[256661] = 1,
+			[285659] = 2,
+			[257519] = 1,
 			[287887] = 1,
 			[281744] = 2,
 			[300174] = 2,
 			[302222] = 1,
-			[205025] = 2,
-			[279118] = 1,
-			[217597] = 2,
+			[214621] = 2,
+			[97030] = 2,
+			[223176] = 2,
 			[277650] = 2,
 			[296080] = 1,
 			[289937] = 1,
 			[215632] = 2,
-			[64901] = 2,
+			[202914] = 2,
 			[62619] = 1,
-			[275429] = 2,
-			[64381] = 1,
-			[300001] = 1,
+			[205025] = 2,
+			[279118] = 1,
+			[306125] = 1,
 			[287891] = 2,
 			[265366] = 1,
 			[64155] = 2,
-			[236021] = 2,
+			[68946] = 1,
 			[64667] = 1,
-			[143625] = 2,
+			[64381] = 1,
 			[122159] = 2,
-			[259853] = 1,
+			[303161] = 1,
 			[296084] = 1,
 			[265368] = 1,
 			[256589] = 1,
-			[55173] = 2,
-			[283617] = 1,
-			[133630] = 2,
+			[236021] = 2,
+			[263371] = 1,
+			[143625] = 2,
 			[260685] = 1,
-			[185736] = 2,
+			[22247] = 1,
 			[296086] = 2,
+			[314516] = 1,
+			[55173] = 2,
+			[288806] = 2,
+			[185736] = 2,
 			[105421] = 2,
-			[260369] = 2,
-			[97463] = 2,
-			[23493] = 1,
-			[294142] = 2,
 			[275610] = 1,
 			[61340] = 2,
-			[304335] = 1,
+			[97463] = 2,
 			[255567] = 1,
 			[308375] = 1,
-			[286976] = 2,
+			[285632] = 1,
 			[304280] = 1,
-			[257407] = 1,
-			[23451] = 1,
+			[314519] = 1,
+			[199804] = 2,
 			[261711] = 1,
-			[265169] = 1,
+			[271700] = 1,
 			[214613] = 1,
 			[64156] = 1,
 			[224852] = 2,
 			[64668] = 1,
-			[65410] = 2,
-			[6673] = 2,
+			[304056] = 2,
+			[257407] = 1,
 			[285853] = 1,
-			[225606] = 2,
-			[125883] = 2,
+			[139] = 2,
+			[210131] = 1,
 			[49822] = 2,
 			[285854] = 1,
-			[259500] = 1,
+			[6673] = 2,
 			[259665] = 2,
-			[289736] = 1,
-			[166355] = 2,
+			[278176] = 1,
+			[318385] = 1,
 			[296094] = 2,
 			[255570] = 2,
-			[166727] = 1,
+			[63615] = 1,
 			[294047] = 2,
-			[89343] = 2,
-			[264070] = 1,
-			[15286] = 2,
-			[267702] = 1,
-			[280655] = 2,
-			[211947] = 2,
+			[116847] = 2,
+			[205630] = 2,
+			[259500] = 1,
+			[285857] = 1,
+			[316331] = 1,
+			[166727] = 1,
 			[124210] = 2,
-			[293529] = 2,
+			[279470] = 1,
 			[279715] = 2,
-			[192999] = 2,
-			[304063] = 1,
-			[63528] = 1,
+			[15286] = 2,
+			[64638] = 1,
+			[257496] = 1,
 			[197211] = 2,
 			[127794] = 2,
 			[64157] = 1,
 			[56222] = 2,
 			[64669] = 1,
-			[299905] = 2,
+			[211947] = 2,
 			[28497] = 2,
 			[294052] = 2,
-			[96847] = 1,
-			[184364] = 2,
+			[63528] = 1,
+			[99574] = 1,
 			[124211] = 2,
 			[33697] = 2,
 			[296101] = 2,
 			[314531] = 1,
 			[308388] = 1,
 			[196189] = 1,
-			[156132] = 2,
+			[276026] = 2,
 			[127795] = 2,
 			[199261] = 2,
 			[159330] = 1,
-			[233498] = 2,
-			[310195] = 2,
+			[299905] = 2,
+			[65026] = 1,
 			[162402] = 2,
-			[269239] = 2,
+			[96847] = 1,
 			[197214] = 2,
 			[298152] = 2,
 			[124212] = 2,
-			[197091] = 2,
-			[132403] = 2,
+			[268013] = 1,
+			[260569] = 2,
 			[298153] = 2,
 			[126260] = 2,
 			[261719] = 1,
 			[304297] = 1,
 			[289963] = 1,
 			[256600] = 1,
-			[143460] = 1,
+			[263066] = 1,
 			[287916] = 2,
 			[202335] = 2,
 			[130356] = 2,
-			[263088] = 2,
+			[198819] = 2,
 			[287917] = 2,
 			[298156] = 1,
 			[124213] = 2,
-			[287659] = 1,
+			[160902] = 2,
 			[217694] = 2,
-			[287639] = 2,
+			[216528] = 2,
 			[267441] = 1,
-			[221630] = 2,
-			[62541] = 1,
+			[143460] = 1,
+			[198097] = 2,
 			[127797] = 2,
 			[141928] = 2,
-			[93433] = 2,
+			[218574] = 2,
 			[271538] = 2,
-			[198912] = 2,
+			[155835] = 2,
 			[300207] = 1,
-			[264233] = 1,
-			[259519] = 1,
+			[265880] = 1,
+			[178207] = 2,
 			[255579] = 1,
 			[283826] = 2,
-			[256063] = 2,
-			[273038] = 1,
+			[190927] = 2,
+			[221630] = 2,
 			[298161] = 2,
-			[210391] = 2,
+			[62541] = 1,
 			[285875] = 1,
 			[296114] = 2,
-			[15039] = 2,
-			[241836] = 2,
-			[98414] = 2,
-			[42365] = 2,
-			[46168] = 2,
-			[28272] = 2,
-			[21562] = 2,
+			[198912] = 2,
+			[273218] = 1,
+			[264233] = 1,
+			[259519] = 1,
+			[265096] = 2,
+			[256063] = 2,
+			[273038] = 1,
 			[287925] = 1,
-			[81653] = 1,
-			[271194] = 2,
-			[95987] = 1,
+			[283524] = 1,
+			[284470] = 1,
+			[316286] = 1,
 			[271544] = 2,
-			[272441] = 1,
+			[15039] = 2,
 			[283831] = 2,
 			[69438] = 2,
-			[275351] = 2,
+			[98414] = 2,
 			[255582] = 1,
-			[33912] = 1,
+			[28272] = 2,
 			[302262] = 2,
 			[279737] = 2,
 			[289976] = 1,
-			[199754] = 2,
+			[299896] = 2,
 			[212580] = 2,
-			[287634] = 2,
+			[273274] = 2,
 			[298168] = 2,
 			[124216] = 2,
-			[260490] = 2,
+			[272441] = 1,
 			[201318] = 2,
-			[255434] = 1,
+			[273272] = 1,
 			[260703] = 1,
-			[2096] = 2,
+			[271223] = 1,
 			[279740] = 2,
-			[186403] = 2,
+			[280817] = 2,
 			[64160] = 1,
-			[209967] = 1,
+			[9080] = 1,
 			[271550] = 2,
 			[265407] = 1,
-			[31935] = 2,
+			[267981] = 1,
 			[179818] = 1,
 			[279742] = 2,
-			[256455] = 2,
+			[199754] = 2,
 			[124217] = 2,
-			[199600] = 2,
+			[297840] = 2,
 			[234084] = 2,
 			[281791] = 2,
 			[178795] = 1,
-			[99913] = 1,
+			[297837] = 1,
 			[296126] = 2,
 			[281792] = 2,
 			[248419] = 2,
 			[192106] = 2,
 			[152175] = 2,
-			[272783] = 2,
-			[62671] = 1,
+			[266238] = 2,
+			[199600] = 2,
 			[285889] = 1,
 			[271555] = 1,
 			[281794] = 2,
 			[275651] = 1,
-			[256451] = 2,
-			[256405] = 1,
+			[177305] = 2,
+			[281195] = 2,
 			[281795] = 2,
-			[196941] = 2,
-			[70233] = 2,
-			[249101] = 2,
+			[272783] = 2,
+			[303971] = 1,
+			[62671] = 1,
 			[119611] = 2,
 			[316608] = 2,
-			[221365] = 2,
-			[109802] = 2,
+			[256405] = 1,
+			[277347] = 1,
 			[202347] = 2,
 			[260708] = 2,
 			[285893] = 1,
 			[213610] = 2,
-			[270578] = 2,
+			[249101] = 2,
 			[124219] = 2,
 			[277703] = 2,
-			[303942] = 2,
+			[262362] = 1,
 			[5302] = 2,
 			[195181] = 2,
 			[269513] = 2,
 			[271561] = 1,
 			[127803] = 2,
-			[201634] = 2,
-			[283507] = 1,
+			[270578] = 2,
+			[113860] = 2,
 			[271562] = 1,
 			[314565] = 1,
 			[22356] = 1,
 			[277706] = 2,
 			[279754] = 2,
-			[51690] = 2,
+			[62930] = 2,
 			[124220] = 2,
-			[274221] = 1,
+			[306005] = 1,
 			[271564] = 2,
-			[273264] = 2,
-			[82626] = 2,
+			[271049] = 2,
+			[51690] = 2,
 			[261735] = 1,
 			[296138] = 2,
-			[270837] = 2,
+			[314568] = 1,
 			[64162] = 1,
-			[61721] = 2,
-			[61990] = 1,
-			[91807] = 2,
-			[267890] = 1,
-			[188501] = 2,
+			[63778] = 1,
+			[270837] = 2,
+			[54644] = 2,
+			[303952] = 1,
+			[272471] = 1,
 			[279758] = 2,
 			[255593] = 1,
 			[316618] = 1,
@@ -25991,178 +26047,178 @@ TMWOptDB = {
 			[312523] = 1,
 			[298189] = 2,
 			[6358] = 2,
-			[61295] = 2,
+			[188501] = 2,
 			[296142] = 1,
 			[289999] = 2,
 			[207472] = 2,
 			[302286] = 2,
-			[253784] = 2,
+			[289623] = 1,
 			[298191] = 2,
-			[293729] = 1,
-			[247220] = 2,
+			[274289] = 2,
+			[167971] = 1,
 			[164470] = 1,
 			[255595] = 1,
 			[99649] = 1,
-			[295527] = 2,
+			[247584] = 2,
 			[201330] = 2,
 			[101185] = 2,
 			[308432] = 1,
 			[302289] = 1,
 			[279764] = 2,
-			[261552] = 1,
+			[280007] = 2,
 			[64163] = 1,
-			[265986] = 1,
-			[125071] = 2,
-			[229206] = 2,
-			[91352] = 2,
+			[199085] = 2,
+			[295527] = 2,
+			[70192] = 2,
+			[261474] = 1,
 			[302291] = 1,
 			[279766] = 1,
 			[306387] = 1,
 			[275671] = 1,
-			[269000] = 1,
+			[265986] = 1,
 			[279767] = 1,
 			[298197] = 2,
 			[68934] = 1,
 			[277720] = 2,
 			[296150] = 1,
+			[91352] = 2,
+			[266091] = 2,
+			[294103] = 1,
+			[301885] = 1,
+			[269120] = 2,
+			[105691] = 2,
+			[188023] = 2,
+			[285500] = 2,
 			[211805] = 2,
 			[289387] = 2,
-			[294103] = 1,
-			[207283] = 2,
-			[303944] = 1,
 			[33259] = 2,
-			[188023] = 2,
-			[26297] = 2,
+			[201334] = 2,
 			[163708] = 2,
 			[281229] = 1,
-			[29166] = 2,
-			[201334] = 2,
-			[314191] = 1,
-			[250284] = 1,
 			[188024] = 2,
 			[221812] = 2,
-			[260779] = 2,
-			[268898] = 2,
-			[260067] = 1,
+			[267064] = 1,
+			[29166] = 2,
+			[1459] = 2,
 			[121153] = 2,
-			[26393] = 1,
+			[227744] = 2,
 			[267487] = 1,
 			[302299] = 1,
-			[37978] = 1,
+			[260067] = 1,
 			[290013] = 2,
-			[289349] = 2,
-			[270121] = 1,
+			[268910] = 2,
+			[37978] = 1,
 			[201336] = 2,
 			[273632] = 1,
-			[285514] = 2,
+			[188414] = 2,
 			[204408] = 2,
-			[286516] = 2,
+			[284942] = 1,
 			[273633] = 1,
 			[79175] = 1,
 			[257650] = 1,
-			[303162] = 1,
+			[187146] = 2,
 			[314589] = 1,
-			[59628] = 2,
-			[257821] = 1,
-			[108211] = 2,
-			[203155] = 2,
+			[273922] = 1,
+			[22842] = 2,
+			[303162] = 1,
+			[188534] = 2,
 			[267492] = 1,
 			[302304] = 1,
 			[19030] = 1,
 			[314591] = 2,
-			[853] = 2,
+			[293670] = 1,
 			[126786] = 1,
-			[301829] = 1,
+			[108211] = 2,
 			[314592] = 1,
-			[205146] = 2,
-			[205191] = 2,
+			[281227] = 1,
+			[256363] = 1,
 			[271590] = 1,
 			[314593] = 1,
-			[77535] = 2,
-			[43308] = 2,
+			[156064] = 2,
+			[285475] = 2,
 			[263400] = 1,
-			[301884] = 2,
+			[62061] = 2,
 			[20822] = 1,
 			[183934] = 1,
 			[263401] = 2,
 			[243319] = 2,
 			[300261] = 2,
-			[211793] = 2,
-			[207736] = 2,
+			[256401] = 1,
+			[43308] = 2,
 			[273641] = 1,
 			[275689] = 2,
 			[294119] = 1,
 			[287976] = 1,
-			[272364] = 1,
-			[256407] = 1,
+			[316181] = 1,
+			[96979] = 2,
 			[188031] = 2,
-			[105689] = 2,
-			[289526] = 2,
-			[264892] = 1,
+			[299778] = 2,
+			[286680] = 2,
+			[245855] = 2,
 			[62374] = 1,
 			[23126] = 2,
 			[290026] = 1,
-			[205644] = 2,
-			[270188] = 1,
-			[62670] = 1,
+			[8377] = 1,
+			[290608] = 2,
+			[283426] = 1,
 			[23766] = 1,
-			[62532] = 1,
-			[982] = 2,
+			[105681] = 2,
+			[272364] = 1,
 			[755] = 2,
 			[97096] = 2,
 			[252537] = 1,
 			[188033] = 2,
 			[98632] = 1,
-			[65134] = 2,
-			[19514] = 1,
-			[268904] = 2,
+			[280553] = 1,
+			[303885] = 1,
+			[205644] = 2,
 			[250490] = 1,
-			[262036] = 1,
-			[213405] = 2,
+			[62670] = 1,
+			[62532] = 1,
 			[253562] = 1,
 			[279792] = 2,
-			[284276] = 1,
-			[280876] = 2,
+			[268967] = 1,
+			[272576] = 1,
 			[104264] = 2,
 			[279793] = 2,
 			[97097] = 1,
-			[210324] = 2,
+			[225604] = 2,
 			[188035] = 2,
-			[1066] = 2,
-			[79892] = 1,
-			[282916] = 1,
-			[299801] = 2,
-			[269093] = 1,
+			[301830] = 1,
+			[268904] = 2,
+			[267015] = 1,
+			[262036] = 1,
+			[63849] = 1,
 			[281843] = 2,
-			[302602] = 2,
-			[166302] = 1,
+			[46924] = 2,
+			[284276] = 1,
 			[304369] = 2,
 			[871] = 2,
 			[64167] = 1,
 			[302322] = 1,
 			[304370] = 2,
-			[2120] = 2,
+			[303867] = 1,
 			[275702] = 1,
 			[212610] = 2,
-			[304627] = 2,
-			[105683] = 2,
+			[277245] = 1,
+			[1066] = 2,
 			[248446] = 1,
 			[294133] = 2,
 			[304372] = 2,
-			[303895] = 2,
-			[105682] = 2,
-			[291613] = 1,
+			[58984] = 2,
+			[217474] = 2,
+			[302602] = 2,
 			[304373] = 2,
-			[194594] = 2,
-			[273988] = 2,
-			[65075] = 1,
-			[267031] = 2,
-			[195452] = 2,
+			[219521] = 2,
+			[294699] = 2,
+			[182661] = 1,
+			[277236] = 2,
+			[299761] = 2,
 			[260734] = 2,
 			[285945] = 1,
 			[287993] = 2,
 			[265468] = 1,
-			[114052] = 2,
+			[287469] = 1,
 			[62376] = 1,
 			[201350] = 2,
 			[76622] = 1,
@@ -26170,12 +26226,12 @@ TMWOptDB = {
 			[94028] = 2,
 			[287995] = 1,
 			[23767] = 1,
-			[265898] = 2,
+			[113095] = 2,
 			[104267] = 2,
 			[234115] = 2,
 			[306426] = 2,
 			[252545] = 2,
-			[198027] = 2,
+			[299749] = 2,
 			[304379] = 1,
 			[281854] = 2,
 			[207495] = 2,
@@ -26184,85 +26240,85 @@ TMWOptDB = {
 			[273664] = 1,
 			[275712] = 1,
 			[302333] = 1,
-			[62705] = 1,
+			[266980] = 2,
 			[290047] = 1,
-			[148542] = 2,
-			[32182] = 2,
+			[195452] = 2,
+			[257408] = 2,
 			[250499] = 1,
-			[299776] = 2,
+			[233496] = 2,
 			[267523] = 1,
 			[269571] = 2,
 			[279810] = 2,
 			[231046] = 2,
-			[271103] = 2,
-			[253810] = 2,
-			[286458] = 2,
-			[264735] = 2,
+			[46182] = 1,
+			[260926] = 1,
+			[63322] = 1,
+			[255833] = 1,
 			[252548] = 1,
-			[275990] = 1,
-			[92099] = 2,
+			[287443] = 2,
+			[13787] = 1,
 			[63913] = 1,
 			[308481] = 1,
-			[64766] = 1,
-			[137619] = 2,
+			[148542] = 2,
+			[252267] = 1,
 			[97102] = 1,
-			[299763] = 2,
+			[214342] = 2,
 			[261764] = 2,
-			[277113] = 1,
+			[253810] = 2,
 			[290053] = 1,
 			[267528] = 1,
 			[269576] = 2,
 			[304388] = 1,
-			[253307] = 2,
+			[92099] = 2,
 			[260741] = 1,
 			[285959] = 2,
 			[246407] = 2,
-			[289514] = 1,
-			[312042] = 2,
+			[261477] = 1,
+			[69820] = 2,
 			[30167] = 2,
 			[121164] = 1,
 			[290056] = 1,
 			[316677] = 1,
-			[8221] = 2,
+			[126478] = 2,
 			[106830] = 2,
-			[266985] = 1,
+			[316097] = 1,
 			[267532] = 1,
 			[108366] = 2,
 			[304392] = 1,
-			[264105] = 1,
+			[202090] = 2,
 			[219788] = 2,
-			[586] = 2,
-			[301807] = 1,
+			[280028] = 2,
+			[86603] = 1,
 			[70483] = 2,
 			[47788] = 2,
 			[294155] = 2,
 			[296203] = 2,
-			[224126] = 2,
+			[268993] = 1,
 			[252553] = 1,
 			[261768] = 2,
-			[270588] = 1,
+			[184662] = 2,
 			[255625] = 1,
-			[303832] = 1,
-			[256851] = 1,
-			[63512] = 1,
+			[68530] = 2,
+			[303825] = 1,
+			[8219] = 2,
 			[273680] = 1,
 			[267537] = 2,
 			[261769] = 2,
 			[296206] = 2,
 			[78675] = 2,
-			[135299] = 2,
+			[270588] = 1,
 			[104272] = 2,
 			[271634] = 2,
-			[304660] = 2,
-			[89792] = 2,
+			[63757] = 1,
+			[79833] = 1,
 			[277778] = 2,
-			[77505] = 2,
+			[220510] = 2,
 			[255627] = 1,
 			[292113] = 2,
 			[294161] = 2,
 			[279827] = 1,
-			[292473] = 2,
-			[116189] = 2,
+			[304660] = 2,
+			[302642] = 2,
 			[245389] = 2,
 			[263446] = 2,
 			[273685] = 2,
@@ -26273,122 +26329,122 @@ TMWOptDB = {
 			[105809] = 2,
 			[81748] = 2,
 			[197268] = 2,
-			[193538] = 2,
-			[299563] = 1,
+			[91143] = 2,
+			[253269] = 2,
 			[50093] = 2,
 			[271640] = 1,
-			[48107] = 2,
+			[292138] = 1,
 			[59052] = 2,
-			[65121] = 1,
+			[299563] = 1,
 			[279832] = 2,
 			[306453] = 2,
-			[300705] = 1,
+			[316062] = 1,
 			[285976] = 2,
 			[304406] = 1,
 			[97107] = 2,
 			[267547] = 1,
 			[253583] = 1,
-			[126649] = 2,
+			[200025] = 2,
 			[255631] = 2,
 			[62124] = 2,
 			[277787] = 2,
-			[45373] = 2,
+			[48719] = 2,
 			[298265] = 2,
-			[276207] = 2,
+			[300705] = 1,
 			[285979] = 2,
 			[304409] = 1,
 			[23769] = 1,
-			[297447] = 1,
+			[45373] = 2,
 			[104275] = 2,
 			[304410] = 2,
 			[97108] = 2,
 			[283933] = 1,
 			[285981] = 2,
-			[283333] = 1,
-			[258945] = 1,
+			[297447] = 1,
+			[64775] = 1,
 			[267552] = 2,
-			[288374] = 1,
-			[288579] = 2,
-			[63489] = 1,
+			[62299] = 2,
+			[258945] = 1,
+			[299663] = 2,
 			[308508] = 1,
 			[302365] = 1,
 			[271649] = 1,
-			[274584] = 2,
+			[288374] = 1,
 			[292127] = 2,
 			[104276] = 2,
-			[298951] = 2,
+			[63489] = 1,
 			[97109] = 2,
 			[316701] = 1,
-			[34914] = 2,
-			[300866] = 1,
+			[261446] = 1,
+			[303695] = 1,
 			[298272] = 1,
-			[295141] = 2,
-			[292362] = 2,
+			[277129] = 2,
+			[300866] = 1,
 			[38064] = 1,
-			[1160] = 2,
+			[276846] = 2,
 			[316703] = 2,
-			[297162] = 2,
-			[225598] = 2,
-			[263926] = 2,
+			[175439] = 2,
+			[292362] = 2,
+			[287365] = 2,
 			[267558] = 2,
 			[104277] = 2,
-			[282835] = 2,
+			[277118] = 1,
 			[265511] = 1,
-			[257337] = 1,
+			[225598] = 2,
 			[294180] = 1,
 			[246422] = 2,
 			[290085] = 2,
 			[292133] = 2,
-			[295402] = 2,
+			[282835] = 2,
 			[288038] = 1,
 			[314659] = 1,
 			[275752] = 1,
-			[300919] = 2,
+			[257337] = 1,
 			[197277] = 2,
-			[305026] = 2,
-			[299428] = 1,
+			[301693] = 2,
+			[228224] = 2,
 			[310565] = 2,
-			[164862] = 2,
+			[295402] = 2,
 			[97111] = 2,
 			[236185] = 2,
 			[81753] = 1,
 			[312614] = 1,
-			[279913] = 2,
+			[299344] = 2,
 			[256663] = 2,
 			[294185] = 1,
 			[225947] = 2,
 			[306472] = 2,
 			[316711] = 1,
-			[199448] = 2,
-			[268086] = 2,
+			[279913] = 2,
+			[63830] = 1,
 			[47536] = 2,
 			[248473] = 2,
-			[294966] = 2,
-			[289384] = 1,
+			[303731] = 2,
+			[318065] = 2,
 			[97112] = 2,
 			[40625] = 2,
 			[212638] = 2,
-			[286770] = 2,
-			[303586] = 2,
-			[298703] = 2,
+			[277109] = 1,
+			[297586] = 2,
+			[296455] = 2,
 			[285998] = 2,
-			[298713] = 2,
+			[268086] = 2,
 			[12654] = 2,
 			[236188] = 2,
-			[303308] = 1,
-			[63481] = 1,
+			[33370] = 2,
+			[289384] = 1,
 			[265522] = 1,
 			[215711] = 2,
-			[274369] = 2,
+			[80354] = 2,
 			[288048] = 1,
 			[273714] = 2,
-			[301712] = 1,
+			[23214] = 2,
 			[212640] = 2,
 			[205473] = 2,
 			[265524] = 1,
-			[275089] = 2,
+			[303586] = 2,
 			[302384] = 1,
-			[303333] = 1,
+			[62417] = 1,
 			[259739] = 1,
 			[275764] = 1,
 			[212641] = 2,
@@ -26399,77 +26455,77 @@ TMWOptDB = {
 			[121175] = 1,
 			[265527] = 1,
 			[219809] = 2,
-			[293511] = 2,
-			[293512] = 2,
+			[160063] = 2,
+			[298493] = 1,
 			[74589] = 2,
-			[295408] = 2,
+			[303333] = 1,
 			[302388] = 1,
-			[303747] = 1,
-			[250960] = 2,
-			[673] = 2,
+			[309853] = 1,
+			[258317] = 1,
+			[304663] = 2,
 			[294198] = 2,
-			[300971] = 2,
-			[303365] = 2,
+			[271777] = 1,
+			[208611] = 2,
 			[267578] = 1,
 			[175784] = 2,
 			[121176] = 1,
 			[97115] = 2,
-			[160839] = 2,
-			[206151] = 2,
-			[250878] = 2,
+			[250960] = 2,
+			[673] = 2,
+			[303390] = 2,
 			[265532] = 1,
-			[91294] = 1,
+			[293458] = 1,
 			[302392] = 2,
-			[305046] = 2,
+			[300971] = 2,
 			[265533] = 1,
-			[289307] = 1,
-			[297252] = 2,
-			[292922] = 1,
-			[63550] = 1,
-			[298893] = 2,
-			[304966] = 2,
+			[191587] = 2,
+			[303693] = 1,
+			[278225] = 2,
+			[160839] = 2,
+			[250878] = 2,
+			[91294] = 1,
 			[121177] = 1,
 			[97116] = 2,
-			[270920] = 1,
+			[297252] = 2,
 			[138927] = 2,
 			[296252] = 2,
 			[265536] = 1,
 			[267584] = 1,
 			[50098] = 2,
-			[154953] = 2,
-			[293491] = 2,
-			[278865] = 2,
+			[299591] = 1,
+			[304966] = 2,
+			[274105] = 2,
 			[245411] = 2,
 			[296254] = 1,
-			[51926] = 1,
-			[292364] = 2,
+			[270920] = 1,
+			[164788] = 1,
 			[277825] = 2,
-			[242975] = 2,
-			[293142] = 2,
-			[303532] = 1,
-			[185350] = 1,
-			[207167] = 2,
+			[266496] = 2,
+			[278865] = 2,
+			[274076] = 2,
+			[287295] = 2,
+			[228645] = 2,
 			[290113] = 1,
-			[233490] = 2,
+			[292364] = 2,
 			[277827] = 1,
 			[258723] = 2,
 			[265541] = 1,
-			[194879] = 2,
+			[242975] = 2,
 			[310592] = 2,
 			[263494] = 1,
 			[298306] = 1,
 			[267590] = 1,
 			[175790] = 2,
-			[268905] = 2,
-			[166139] = 1,
+			[233490] = 2,
+			[195816] = 2,
 			[162480] = 2,
 			[318785] = 1,
 			[20572] = 2,
-			[195901] = 2,
-			[160724] = 2,
-			[62441] = 1,
-			[181477] = 1,
-			[303027] = 1,
+			[300714] = 2,
+			[268905] = 2,
+			[166139] = 1,
+			[5246] = 2,
+			[302979] = 1,
 			[236200] = 2,
 			[163505] = 2,
 			[304453] = 1,
@@ -26477,111 +26533,111 @@ TMWOptDB = {
 			[292167] = 1,
 			[318788] = 1,
 			[234153] = 2,
-			[302857] = 1,
-			[300764] = 1,
-			[91771] = 2,
-			[33624] = 1,
+			[303027] = 1,
+			[304722] = 2,
+			[300893] = 2,
+			[188151] = 2,
 			[290121] = 2,
 			[62130] = 1,
 			[286026] = 1,
 			[288074] = 2,
 			[194223] = 2,
-			[304605] = 2,
+			[91771] = 2,
 			[212653] = 2,
 			[288075] = 2,
-			[13819] = 2,
+			[296547] = 2,
 			[316744] = 2,
 			[120669] = 1,
 			[279885] = 2,
-			[296551] = 1,
+			[13819] = 2,
 			[316745] = 1,
 			[6136] = 1,
-			[289315] = 2,
+			[303302] = 1,
 			[33206] = 2,
 			[24924] = 2,
-			[301180] = 2,
-			[102560] = 2,
+			[280170] = 2,
+			[289315] = 2,
 			[259753] = 1,
 			[6360] = 2,
 			[51124] = 2,
-			[300801] = 2,
+			[301180] = 2,
 			[281936] = 1,
 			[12975] = 2,
-			[278456] = 1,
+			[298710] = 2,
 			[296271] = 2,
-			[63272] = 1,
-			[294912] = 2,
+			[300801] = 2,
+			[251903] = 2,
 			[269651] = 2,
 			[213680] = 2,
 			[239277] = 2,
 			[267604] = 1,
-			[315973] = 1,
+			[294912] = 2,
 			[296273] = 2,
 			[226991] = 2,
 			[162487] = 2,
 			[302417] = 1,
 			[263510] = 2,
-			[181089] = 1,
+			[297128] = 1,
 			[275797] = 1,
 			[302418] = 1,
 			[121183] = 1,
-			[143459] = 1,
-			[303422] = 2,
+			[71087] = 2,
+			[181089] = 1,
 			[302419] = 1,
-			[265925] = 1,
-			[303677] = 1,
-			[301629] = 1,
+			[298928] = 2,
+			[143459] = 1,
+			[287254] = 2,
 			[302420] = 1,
-			[304907] = 1,
-			[281117] = 2,
+			[303422] = 2,
+			[302651] = 2,
 			[7384] = 2,
+			[289298] = 2,
+			[304907] = 1,
 			[300701] = 1,
+			[303630] = 1,
 			[280869] = 2,
-			[295411] = 2,
-			[272916] = 2,
-			[317020] = 2,
 			[296279] = 2,
 			[218803] = 1,
 			[267611] = 2,
 			[294232] = 2,
 			[15407] = 2,
-			[299572] = 2,
+			[296624] = 2,
 			[267612] = 2,
-			[2481] = 2,
-			[131307] = 2,
+			[63699] = 1,
+			[102543] = 2,
 			[259759] = 2,
-			[303623] = 1,
-			[295354] = 2,
+			[309768] = 1,
+			[300545] = 2,
 			[288091] = 2,
-			[64975] = 1,
+			[147732] = 2,
 			[256688] = 1,
 			[134847] = 1,
 			[185017] = 1,
-			[66004] = 1,
+			[295354] = 2,
 			[114018] = 2,
 			[294236] = 1,
-			[279902] = 2,
+			[312666] = 1,
 			[265568] = 1,
-			[296483] = 2,
+			[307725] = 1,
 			[33720] = 2,
-			[294847] = 1,
+			[66004] = 1,
 			[306524] = 2,
 			[252594] = 1,
 			[302429] = 1,
-			[23978] = 1,
+			[296483] = 2,
 			[247475] = 2,
 			[267618] = 1,
 			[128865] = 1,
-			[286711] = 2,
+			[84622] = 1,
 			[202425] = 2,
-			[300877] = 1,
-			[53752] = 2,
+			[286404] = 1,
+			[193475] = 2,
 			[213688] = 1,
 			[281954] = 2,
 			[308575] = 1,
-			[278551] = 1,
+			[280487] = 1,
 			[271716] = 1,
-			[79962] = 1,
+			[300877] = 1,
 			[316767] = 2,
 			[286051] = 1,
 			[304481] = 1,
@@ -26589,36 +26645,36 @@ TMWOptDB = {
 			[316768] = 2,
 			[269670] = 1,
 			[40120] = 2,
-			[297204] = 2,
+			[295413] = 2,
 			[81256] = 2,
+			[303431] = 2,
+			[303401] = 1,
+			[297204] = 2,
+			[166592] = 2,
 			[175841] = 2,
+			[270836] = 1,
+			[281959] = 1,
 			[3150] = 1,
 			[299254] = 1,
-			[166592] = 2,
-			[296701] = 1,
-			[298466] = 2,
-			[281959] = 1,
-			[157982] = 2,
-			[215785] = 2,
 			[213691] = 2,
 			[273769] = 1,
 			[267626] = 2,
-			[282750] = 1,
+			[182059] = 2,
 			[288104] = 1,
 			[273770] = 1,
-			[303044] = 2,
-			[288306] = 1,
+			[215785] = 2,
+			[297035] = 2,
 			[221883] = 2,
 			[61878] = 1,
-			[9484] = 2,
-			[177094] = 1,
+			[315882] = 1,
+			[282750] = 1,
 			[312679] = 1,
-			[280462] = 1,
-			[79954] = 1,
-			[299054] = 2,
+			[288306] = 1,
+			[246584] = 1,
+			[9484] = 2,
 			[164547] = 2,
 			[265582] = 1,
-			[64238] = 1,
+			[280462] = 1,
 			[286060] = 1,
 			[258744] = 1,
 			[314729] = 1,
@@ -26627,291 +26683,291 @@ TMWOptDB = {
 			[221885] = 2,
 			[273775] = 1,
 			[256697] = 2,
-			[165735] = 1,
+			[136] = 2,
 			[263537] = 2,
 			[265585] = 1,
-			[51259] = 2,
+			[270823] = 2,
 			[294254] = 2,
 			[221886] = 2,
 			[247483] = 2,
-			[271884] = 1,
+			[165735] = 1,
 			[294255] = 2,
-			[299445] = 2,
+			[183111] = 1,
 			[161478] = 1,
 			[275826] = 1,
 			[114535] = 1,
 			[263540] = 1,
 			[273779] = 2,
-			[303625] = 2,
-			[285195] = 2,
+			[271884] = 1,
+			[236616] = 1,
 			[304496] = 1,
-			[305180] = 2,
-			[12608] = 2,
-			[270459] = 1,
+			[299445] = 2,
+			[59108] = 1,
+			[256739] = 2,
 			[279924] = 2,
 			[306545] = 1,
-			[294895] = 2,
+			[305180] = 2,
 			[269686] = 1,
 			[258748] = 1,
-			[282621] = 1,
+			[12608] = 2,
 			[300403] = 1,
-			[161673] = 1,
+			[292686] = 2,
 			[288117] = 1,
 			[298356] = 2,
-			[111759] = 2,
-			[304705] = 2,
-			[185484] = 2,
+			[282621] = 1,
+			[33844] = 1,
+			[161673] = 1,
 			[298357] = 2,
 			[126311] = 2,
-			[49886] = 2,
+			[185484] = 2,
 			[43194] = 2,
 			[265594] = 1,
-			[165767] = 1,
+			[257258] = 1,
 			[200389] = 2,
-			[158558] = 1,
+			[49886] = 2,
 			[259774] = 1,
 			[300407] = 1,
-			[288894] = 1,
+			[62933] = 1,
 			[45242] = 2,
-			[181442] = 1,
+			[165767] = 1,
 			[275835] = 1,
 			[302456] = 1,
 			[304504] = 2,
-			[300841] = 1,
+			[181442] = 1,
 			[300409] = 1,
+			[207999] = 2,
+			[120436] = 1,
+			[304959] = 2,
+			[300841] = 1,
 			[291065] = 2,
 			[118] = 2,
-			[66657] = 2,
-			[290764] = 1,
-			[295017] = 2,
-			[294872] = 1,
 			[259776] = 1,
 			[81262] = 2,
 			[32734] = 1,
-			[160007] = 2,
-			[24710] = 2,
-			[235614] = 1,
+			[294872] = 1,
+			[297412] = 2,
+			[304866] = 1,
 			[302460] = 2,
-			[294864] = 1,
+			[309697] = 1,
 			[194249] = 2,
 			[267649] = 1,
-			[296764] = 2,
+			[24710] = 2,
 			[304509] = 1,
 			[314748] = 1,
 			[300414] = 1,
-			[197720] = 1,
-			[215294] = 2,
+			[159982] = 1,
+			[270785] = 1,
 			[273794] = 2,
-			[255114] = 2,
-			[262115] = 2,
+			[307007] = 1,
+			[11639] = 1,
 			[263556] = 2,
-			[256878] = 1,
+			[303160] = 1,
 			[300416] = 1,
-			[268464] = 2,
+			[45334] = 2,
 			[234182] = 2,
 			[259779] = 2,
 			[300417] = 1,
 			[204490] = 2,
 			[263558] = 1,
 			[273797] = 2,
-			[290525] = 2,
-			[254901] = 1,
+			[262115] = 2,
+			[304771] = 1,
 			[80240] = 2,
 			[273798] = 2,
 			[316801] = 2,
 			[261828] = 1,
-			[303587] = 1,
-			[193340] = 2,
+			[252753] = 2,
+			[117679] = 2,
 			[191181] = 2,
-			[165773] = 1,
+			[313793] = 1,
 			[234184] = 2,
 			[259781] = 1,
 			[275848] = 1,
-			[303491] = 1,
+			[254901] = 1,
 			[43196] = 2,
-			[228354] = 2,
+			[193340] = 2,
 			[275849] = 1,
-			[8852] = 1,
+			[295343] = 2,
 			[234185] = 2,
-			[260237] = 1,
+			[257975] = 1,
 			[300423] = 1,
-			[292601] = 1,
+			[139212] = 1,
 			[213708] = 2,
 			[273803] = 2,
 			[99695] = 1,
-			[306985] = 1,
+			[171234] = 2,
 			[62650] = 1,
-			[39477] = 1,
-			[64967] = 1,
-			[196727] = 2,
+			[24736] = 2,
+			[306985] = 1,
+			[185476] = 2,
 			[312712] = 1,
-			[304760] = 1,
+			[64967] = 1,
 			[182993] = 2,
 			[257736] = 1,
 			[64698] = 1,
 			[265615] = 1,
+			[300551] = 1,
+			[189561] = 2,
+			[292507] = 2,
 			[282511] = 2,
+			[300428] = 1,
 			[270520] = 2,
 			[316893] = 1,
 			[298459] = 1,
-			[300428] = 1,
 			[77806] = 1,
-			[298771] = 2,
-			[147405] = 2,
-			[274375] = 2,
 			[277904] = 2,
 			[271761] = 1,
 			[149207] = 1,
 			[275857] = 2,
-			[187349] = 2,
+			[274375] = 2,
 			[152279] = 2,
-			[248694] = 2,
-			[269800] = 1,
+			[274079] = 2,
+			[309657] = 2,
 			[261834] = 1,
-			[259975] = 1,
-			[257145] = 1,
+			[304802] = 1,
+			[313751] = 1,
 			[316814] = 2,
 			[257739] = 1,
 			[288146] = 2,
-			[313310] = 2,
-			[196782] = 2,
+			[269800] = 1,
+			[299301] = 1,
 			[294290] = 1,
 			[279956] = 2,
-			[300526] = 1,
+			[257145] = 1,
 			[256716] = 1,
-			[159675] = 1,
+			[300524] = 1,
 			[312721] = 1,
 			[265623] = 1,
-			[270030] = 1,
-			[158940] = 1,
+			[313310] = 2,
+			[276887] = 1,
 			[263576] = 1,
-			[296820] = 2,
+			[165750] = 1,
 			[300436] = 1,
 			[257741] = 1,
-			[64321] = 1,
-			[165714] = 1,
+			[159675] = 1,
+			[292626] = 1,
 			[228049] = 2,
-			[261882] = 2,
+			[296706] = 2,
 			[288151] = 2,
-			[290402] = 1,
+			[256201] = 1,
 			[275865] = 1,
-			[129657] = 1,
-			[271770] = 2,
-			[298659] = 2,
+			[24713] = 2,
+			[312725] = 2,
+			[165714] = 1,
 			[228050] = 2,
 			[286105] = 2,
-			[224127] = 1,
+			[290402] = 1,
 			[282010] = 1,
 			[300440] = 1,
 			[175833] = 2,
 			[201430] = 2,
-			[296452] = 1,
+			[298659] = 2,
 			[316823] = 2,
-			[302952] = 2,
+			[224127] = 1,
 			[197335] = 1,
-			[7165] = 1,
-			[311231] = 2,
+			[296452] = 1,
+			[288473] = 1,
 			[302490] = 1,
 			[304538] = 1,
-			[298950] = 2,
+			[314777] = 1,
 			[178906] = 2,
 			[32736] = 1,
-			[315161] = 2,
-			[317581] = 1,
+			[311231] = 2,
+			[263699] = 2,
 			[124273] = 2,
-			[79977] = 1,
+			[213092] = 1,
 			[288158] = 2,
 			[265633] = 1,
-			[282832] = 2,
+			[292711] = 1,
 			[171740] = 2,
 			[288159] = 1,
-			[280605] = 1,
-			[290790] = 2,
+			[79977] = 1,
+			[310832] = 2,
 			[277921] = 1,
 			[271778] = 1,
 			[259794] = 2,
-			[306828] = 1,
-			[126892] = 2,
-			[262483] = 1,
-			[202866] = 2,
+			[280605] = 1,
+			[290790] = 2,
+			[312734] = 2,
+			[300642] = 1,
 			[124274] = 2,
 			[257747] = 1,
-			[317420] = 2,
-			[170855] = 2,
+			[306828] = 1,
+			[315763] = 2,
 			[267685] = 2,
-			[276898] = 1,
-			[126580] = 1,
-			[274074] = 2,
+			[262483] = 1,
+			[202866] = 2,
+			[18968] = 1,
 			[215769] = 2,
 			[257748] = 1,
 			[304546] = 1,
-			[131036] = 1,
-			[264064] = 1,
-			[306791] = 1,
+			[20707] = 2,
+			[274074] = 2,
+			[165720] = 1,
 			[271783] = 1,
 			[290213] = 2,
 			[124275] = 2,
-			[147409] = 2,
+			[131036] = 1,
 			[2637] = 2,
-			[308949] = 1,
+			[306791] = 1,
 			[316835] = 2,
-			[256740] = 2,
-			[131924] = 2,
+			[8099] = 2,
+			[147409] = 2,
 			[190174] = 1,
 			[275881] = 1,
-			[296661] = 2,
-			[317503] = 1,
+			[257169] = 1,
+			[256740] = 2,
 			[259798] = 1,
-			[122470] = 2,
-			[270196] = 2,
+			[195775] = 1,
+			[131924] = 2,
 			[288169] = 2,
-			[276127] = 2,
-			[295169] = 1,
+			[315292] = 2,
+			[296661] = 2,
 			[208605] = 2,
 			[271788] = 2,
 			[306600] = 2,
-			[264605] = 1,
-			[48864] = 2,
+			[270196] = 2,
+			[308891] = 1,
 			[271789] = 1,
-			[13750] = 2,
+			[295169] = 1,
 			[292267] = 1,
-			[297000] = 1,
+			[272188] = 1,
 			[250585] = 2,
 			[218845] = 2,
 			[187105] = 1,
-			[317265] = 2,
-			[313424] = 2,
+			[297000] = 1,
+			[262498] = 1,
 			[198368] = 2,
 			[16739] = 2,
 			[192225] = 2,
 			[263601] = 1,
+			[164913] = 1,
+			[175844] = 2,
+			[13899] = 1,
+			[65076] = 1,
+			[314796] = 1,
 			[305393] = 1,
-			[302721] = 2,
-			[266158] = 1,
-			[274782] = 1,
-			[298514] = 1,
-			[306982] = 2,
 			[192226] = 2,
-			[124013] = 2,
+			[302721] = 2,
 			[273842] = 2,
-			[284459] = 1,
+			[298514] = 1,
 			[269747] = 2,
 			[123254] = 2,
 			[273843] = 2,
 			[223967] = 2,
-			[298829] = 1,
+			[284459] = 1,
 			[217824] = 2,
 			[210657] = 2,
 			[316847] = 1,
-			[272737] = 2,
-			[306752] = 1,
+			[297152] = 1,
+			[309411] = 2,
 			[265654] = 1,
 			[275893] = 2,
 			[257756] = 1,
 			[271798] = 1,
 			[282037] = 1,
 			[219873] = 1,
-			[126339] = 1,
+			[50433] = 2,
 			[271799] = 1,
 			[265656] = 1,
 			[275895] = 2,
@@ -26919,143 +26975,143 @@ TMWOptDB = {
 			[271800] = 1,
 			[314803] = 1,
 			[260829] = 1,
-			[70235] = 2,
+			[126339] = 1,
 			[127351] = 2,
 			[282040] = 1,
+			[258156] = 1,
+			[70235] = 2,
+			[308876] = 1,
+			[210660] = 2,
+			[260830] = 1,
 			[313190] = 1,
 			[298510] = 1,
 			[172819] = 1,
-			[210660] = 2,
-			[260830] = 1,
-			[274814] = 2,
-			[313241] = 1,
-			[314843] = 1,
 			[256735] = 2,
 			[208613] = 2,
-			[284997] = 1,
+			[73313] = 2,
+			[313241] = 1,
+			[314843] = 1,
+			[55233] = 2,
 			[315413] = 2,
 			[278202] = 1,
-			[55233] = 2,
+			[275901] = 2,
+			[297133] = 1,
 			[297116] = 2,
 			[165802] = 2,
-			[275901] = 2,
 			[271899] = 1,
 			[311552] = 1,
-			[235712] = 2,
 			[233497] = 2,
-			[91139] = 2,
-			[202539] = 2,
 			[298428] = 1,
 			[275903] = 2,
-			[307403] = 1,
+			[311129] = 1,
 			[50370] = 1,
-			[64010] = 1,
+			[307403] = 1,
 			[68992] = 2,
+			[64010] = 1,
 			[315385] = 2,
 			[311323] = 1,
-			[296716] = 1,
 			[308669] = 1,
+			[296716] = 1,
 			[299067] = 1,
-			[305301] = 2,
 			[298431] = 2,
+			[171858] = 1,
 			[317602] = 1,
-			[126340] = 1,
 			[288193] = 2,
-			[57807] = 1,
+			[215132] = 2,
 			[275907] = 1,
 			[277955] = 2,
 			[217832] = 1,
+			[306981] = 1,
 			[303041] = 2,
 			[263887] = 2,
 			[311320] = 1,
 			[173958] = 2,
-			[299276] = 1,
 			[308673] = 1,
 			[208618] = 2,
 			[271814] = 1,
 			[290244] = 2,
 			[187117] = 1,
-			[311091] = 1,
+			[297257] = 1,
 			[172783] = 1,
-			[303080] = 2,
+			[311091] = 1,
 			[292293] = 1,
 			[277959] = 2,
 			[296389] = 1,
-			[187464] = 2,
-			[312666] = 1,
+			[315675] = 1,
+			[278190] = 1,
 			[277960] = 2,
 			[288199] = 1,
 			[206572] = 2,
 			[256742] = 2,
-			[296674] = 1,
+			[277981] = 1,
 			[280009] = 1,
 			[97151] = 2,
 			[260838] = 1,
 			[171761] = 2,
 			[263628] = 1,
-			[307075] = 1,
+			[313609] = 2,
 			[275915] = 2,
+			[64044] = 2,
+			[311203] = 2,
 			[307079] = 1,
 			[315269] = 1,
 			[313227] = 1,
-			[313639] = 1,
 			[307020] = 1,
-			[48181] = 2,
 			[288680] = 2,
 			[311052] = 1,
 			[277965] = 1,
-			[315672] = 1,
+			[93622] = 2,
 			[218861] = 2,
-			[280302] = 1,
 			[282506] = 2,
+			[248958] = 2,
 			[288205] = 1,
 			[273871] = 1,
 			[256745] = 2,
 			[216814] = 1,
-			[316141] = 1,
-			[243435] = 2,
 			[310766] = 1,
+			[243435] = 2,
+			[313610] = 1,
 			[277968] = 1,
 			[127357] = 1,
 			[306637] = 1,
-			[317443] = 2,
-			[302542] = 1,
 			[306732] = 1,
-			[314829] = 1,
+			[302542] = 1,
 			[306735] = 1,
+			[314829] = 1,
 			[310830] = 1,
 			[312884] = 1,
+			[314956] = 1,
 			[265684] = 1,
 			[300496] = 2,
 			[54212] = 2,
 			[263637] = 1,
-			[312915] = 2,
+			[306973] = 1,
 			[260843] = 1,
-			[269879] = 1,
+			[165746] = 1,
 			[127358] = 1,
 			[290259] = 2,
 			[292307] = 2,
 			[302546] = 1,
 			[288212] = 1,
 			[97154] = 1,
-			[53758] = 2,
+			[306978] = 1,
 			[269783] = 2,
-			[263865] = 2,
+			[227099] = 2,
 			[298452] = 2,
 			[199412] = 2,
-			[304603] = 2,
 			[126946] = 1,
+			[300762] = 2,
 			[282071] = 2,
-			[79356] = 1,
+			[166972] = 1,
 			[277976] = 1,
 			[127359] = 1,
-			[272655] = 1,
+			[313208] = 1,
 			[300502] = 1,
 			[208628] = 2,
 			[258798] = 1,
 			[306646] = 1,
 			[284121] = 1,
-			[317219] = 2,
+			[304768] = 1,
 		},
 		["TellMeWhenDBBackup"] = {
 			["global"] = {
@@ -28711,14 +28767,14 @@ TMWOptDB = {
 									["Order"] = 1,
 								}, -- [3]
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 							["Name"] = "Resto Info",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[66] = false,
@@ -28731,13 +28787,13 @@ TMWOptDB = {
 						}, -- [1]
 						{
 							["GUID"] = "TMW:group:1Rdx_DW=cLka",
+							["Name"] = "Resto Rotation",
 							["Point"] = {
 								["y"] = -171.126803687818,
 								["x"] = 396.212554931641,
 								["point"] = "TOPLEFT",
 								["relativePoint"] = "TOPLEFT",
 							},
-							["Name"] = "Resto Rotation",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["SpacingX"] = 1,
@@ -28746,13 +28802,6 @@ TMWOptDB = {
 							},
 							["Scale"] = 1.63042783737183,
 							["Rows"] = 4,
-							["EnabledSpecs"] = {
-								[66] = false,
-								[103] = false,
-								[70] = false,
-								[102] = false,
-								[104] = false,
-							},
 							["Icons"] = {
 								{
 									["States"] = {
@@ -28860,8 +28909,8 @@ TMWOptDB = {
 										},
 									},
 									["Enabled"] = true,
-									["DurationMin"] = 4,
 									["DurationMinEnabled"] = true,
+									["DurationMin"] = 4,
 									["States"] = {
 										{
 											["Alpha"] = 0.5,
@@ -29516,6 +29565,13 @@ TMWOptDB = {
 										}, -- [4]
 									},
 								}, -- [60]
+							},
+							["EnabledSpecs"] = {
+								[66] = false,
+								[103] = false,
+								[70] = false,
+								[102] = false,
+								[104] = false,
 							},
 						}, -- [2]
 						{
@@ -32938,7 +32994,7 @@ TMWOptDB = {
 									["Order"] = 1,
 								}, -- [3]
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 							["Name"] = "Guarian Info",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -32946,7 +33002,7 @@ TMWOptDB = {
 									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 								},
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[66] = false,
@@ -32959,13 +33015,13 @@ TMWOptDB = {
 						}, -- [6]
 						{
 							["GUID"] = "TMW:group:1RmjXbUwZ7=8",
+							["Name"] = "Guarian Rotation",
 							["Point"] = {
 								["y"] = -80.9607869688506,
 								["x"] = 435.468536376953,
 								["point"] = "TOPLEFT",
 								["relativePoint"] = "TOPLEFT",
 							},
-							["Name"] = "Guarian Rotation",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["SpacingX"] = 1,
@@ -32975,13 +33031,6 @@ TMWOptDB = {
 							},
 							["Scale"] = 1.63042783737183,
 							["Rows"] = 3,
-							["EnabledSpecs"] = {
-								[66] = false,
-								[103] = false,
-								[70] = false,
-								[102] = false,
-								[105] = false,
-							},
 							["Icons"] = {
 								{
 									["GUID"] = "TMW:icon:1RmjZQgW7YD0",
@@ -33693,6 +33742,13 @@ TMWOptDB = {
 										}, -- [4]
 									},
 								}, -- [60]
+							},
+							["EnabledSpecs"] = {
+								[66] = false,
+								[103] = false,
+								[70] = false,
+								[102] = false,
+								[105] = false,
 							},
 						}, -- [7]
 						{
@@ -36221,11 +36277,6 @@ TMWOptDB = {
 								["point"] = "LEFT",
 								["relativePoint"] = "RIGHT",
 							},
-							["EnabledSpecs"] = {
-								[103] = false,
-								[104] = false,
-								[105] = false,
-							},
 							["Icons"] = {
 								{
 									["Enabled"] = true,
@@ -37274,6 +37325,11 @@ TMWOptDB = {
 										}, -- [4]
 									},
 								}, -- [90]
+							},
+							["EnabledSpecs"] = {
+								[103] = false,
+								[104] = false,
+								[105] = false,
 							},
 						}, -- [11]
 						{
@@ -38457,9 +38513,10 @@ TMWOptDB = {
 				},
 				["Tosh - Kil'jaeden"] = {
 					["Version"] = 87401,
+					["NumGroups"] = 11,
+					["TextureName"] = "Minimalist",
 					["Groups"] = {
 						{
-							["GUID"] = "TMW:group:1RdxyvcF5MR3",
 							["Strata"] = "LOW",
 							["Point"] = {
 								["y"] = 1,
@@ -38468,10 +38525,22 @@ TMWOptDB = {
 								["relativePoint"] = "TOPLEFT",
 							},
 							["Scale"] = 1,
+							["ShrinkGroup"] = true,
+							["Level"] = 7,
+							["EnabledSpecs"] = {
+								[66] = false,
+								[257] = false,
+								[70] = false,
+								[103] = false,
+								[102] = false,
+								[104] = false,
+								[258] = false,
+							},
+							["Columns"] = 10,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Power Word: Radiance",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -38482,7 +38551,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -38495,11 +38563,19 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Shadow Covenant",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Shadow Covenant",
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38508,14 +38584,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Conditions"] = {
-										{
-											["Name"] = "Shadow Covenant",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -38528,12 +38596,52 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["GUID"] = "TMW:icon:1S5rMWv1TVbh",
 									["ShowTimer"] = true,
-									["Enabled"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Power Word: Solace",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Power Word: Solace",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1S5rMWv1TVbh",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnlyShown"] = true,
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "SPELLCD",
+													["Name"] = "Power Word: Solace",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												{
+													["Type"] = "TALENTLEARNED",
+													["Name"] = "Schism",
+													["PrtsBefore"] = 1,
+													["Level"] = 1,
+												}, -- [3]
+												{
+													["Type"] = "SPELLCD",
+													["PrtsAfter"] = 1,
+													["Operator"] = ">",
+													["Name"] = "Schism",
+													["AndOr"] = "OR",
+												}, -- [4]
+												["n"] = 4,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38542,46 +38650,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["Conditions"] = {
-										{
-											["Name"] = "Power Word: Solace",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Animation"] = "ACTVTNGLOW",
-											["OnlyShown"] = true,
-											["OnConditionConditions"] = {
-												{
-													["Name"] = "Power Word: Solace",
-													["Type"] = "SPELLCD",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												{
-													["PrtsBefore"] = 1,
-													["Type"] = "TALENTLEARNED",
-													["Name"] = "Schism",
-													["Level"] = 1,
-												}, -- [3]
-												{
-													["Type"] = "SPELLCD",
-													["Name"] = "Schism",
-													["AndOr"] = "OR",
-													["PrtsAfter"] = 1,
-													["Operator"] = ">",
-												}, -- [4]
-												["n"] = 4,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -38594,11 +38662,45 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["GUID"] = "TMW:icon:1S5rKA3M0608",
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Penance",
+									["GUID"] = "TMW:icon:1S5rKA3M0608",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnlyShown"] = true,
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "SPELLCD",
+													["Name"] = "Penance",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												{
+													["Type"] = "TALENTLEARNED",
+													["Name"] = "Schism",
+													["PrtsBefore"] = 1,
+													["Level"] = 1,
+												}, -- [3]
+												{
+													["Type"] = "SPELLCD",
+													["PrtsAfter"] = 1,
+													["Operator"] = ">",
+													["Name"] = "Schism",
+													["AndOr"] = "OR",
+												}, -- [4]
+												["n"] = 4,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38607,40 +38709,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
-									["Type"] = "cooldown",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Animation"] = "ACTVTNGLOW",
-											["OnlyShown"] = true,
-											["OnConditionConditions"] = {
-												{
-													["Name"] = "Penance",
-													["Type"] = "SPELLCD",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												{
-													["PrtsBefore"] = 1,
-													["Type"] = "TALENTLEARNED",
-													["Name"] = "Schism",
-													["Level"] = 1,
-												}, -- [3]
-												{
-													["Type"] = "SPELLCD",
-													["Name"] = "Schism",
-													["AndOr"] = "OR",
-													["PrtsAfter"] = 1,
-													["Operator"] = ">",
-												}, -- [4]
-												["n"] = 4,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -38653,12 +38721,39 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["GUID"] = "TMW:icon:1S5rMRlNU6DL",
 									["ShowTimer"] = true,
-									["Enabled"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Schism",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Schism",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1S5rMRlNU6DL",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnlyShown"] = true,
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "SPELLCD",
+													["Name"] = "Schism",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												["n"] = 2,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38667,33 +38762,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["Conditions"] = {
-										{
-											["Name"] = "Schism",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Animation"] = "ACTVTNGLOW",
-											["OnlyShown"] = true,
-											["OnConditionConditions"] = {
-												{
-													["Name"] = "Schism",
-													["Type"] = "SPELLCD",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												["n"] = 2,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -38706,11 +38774,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["GUID"] = "TMW:icon:1S5rMN7drbw1",
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Divine Star",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Divine Star",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1S5rMN7drbw1",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38719,15 +38796,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
-									["Conditions"] = {
-										{
-											["Name"] = "Divine Star",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -38740,11 +38808,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
-									["GUID"] = "TMW:icon:1S5rMUxYFXPO",
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Halo",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Halo",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1S5rMUxYFXPO",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -38753,15 +38830,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
-									["Conditions"] = {
-										{
-											["Name"] = "Halo",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -38774,19 +38842,12 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [7]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Heart Essence",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"3\"\nend]", -- [1]
-											},
-										},
-									},
 									["Conditions"] = {
 										{
 											["Type"] = "AZESSLEARNED_MAJOR",
@@ -38795,7 +38856,14 @@ TMWOptDB = {
 										}, -- [1]
 										["n"] = 1,
 									},
-									["Type"] = "cooldown",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"3\"\nend]", -- [1]
+											},
+										},
+									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -38808,6 +38876,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [8]
 								{
 									["Icons"] = {
@@ -39239,15 +39308,18 @@ TMWOptDB = {
 									["Order"] = 1,
 								}, -- [3]
 							},
-							["ShrinkGroup"] = true,
 							["Name"] = "Disc Info",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["SpacingX"] = 1,
 								},
 							},
+							["GUID"] = "TMW:group:1RdxyvcF5MR3",
 							["Locked"] = true,
-							["Level"] = 7,
+						}, -- [1]
+						{
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 4,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[257] = false,
@@ -39257,48 +39329,38 @@ TMWOptDB = {
 								[104] = false,
 								[258] = false,
 							},
-							["Columns"] = 10,
-						}, -- [1]
-						{
-							["GUID"] = "TMW:group:1Rdx_DW=cLka",
-							["Name"] = "Disc Rotation",
-							["Point"] = {
-								["y"] = -174.193698219068,
-								["x"] = 375.357879638672,
-								["point"] = "TOPLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 4,
 							["Icons"] = {
 								{
-									["GUID"] = "TMW:icon:1S5rMOrbx2W6",
-									["Type"] = "buff",
 									["BuffOrDebuff"] = "HARMFUL",
-									["Enabled"] = true,
-									["Name"] = "Shadow Word: Pain",
 									["Unit"] = "target",
-									["FakeHidden"] = true,
 									["OnlyMine"] = true,
+									["Type"] = "buff",
+									["HideIfNoUnits"] = true,
+									["UnitConditions"] = {
+										{
+											["Type"] = "EXISTS",
+										}, -- [1]
+										{
+											["Type"] = "REACT",
+											["Level"] = 1,
+										}, -- [2]
+										["n"] = 2,
+									},
+									["Name"] = "Shadow Word: Pain",
+									["GUID"] = "TMW:icon:1S5rMOrbx2W6",
 									["Events"] = {
 										{
 											["Type"] = "Animations",
-											["Infinite"] = true,
-											["Animation"] = "ACTVTNGLOW",
 											["OnlyShown"] = true,
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
+											["Infinite"] = true,
 											["OnConditionConditions"] = {
 												{
 													["Type"] = "COMBAT",
 												}, -- [1]
 												["n"] = 1,
 											},
-											["Event"] = "WCSP",
 										}, -- [1]
 										["n"] = 1,
 									},
@@ -39309,25 +39371,6 @@ TMWOptDB = {
 												"", -- [1]
 											},
 										},
-									},
-									["HideIfNoUnits"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Purge the Wicked",
-											["Level"] = 1,
-										}, -- [1]
-										["n"] = 1,
-									},
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-										}, -- [1]
-										{
-											["Level"] = 1,
-											["Type"] = "REACT",
-										}, -- [2]
-										["n"] = 2,
 									},
 									["States"] = {
 										{
@@ -39341,14 +39384,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
-								}, -- [1]
-								{
-									["GUID"] = "TMW:icon:1SBfujtGFPEu",
-									["ShowTimer"] = true,
-									["Enabled"] = true,
-									["DurationMax"] = 5,
-									["BuffOrDebuff"] = "HARMFUL",
-									["DurationMaxEnabled"] = true,
+									["FakeHidden"] = true,
 									["Conditions"] = {
 										{
 											["Type"] = "TALENTLEARNED",
@@ -39357,10 +39393,34 @@ TMWOptDB = {
 										}, -- [1]
 										["n"] = 1,
 									},
+									["Enabled"] = true,
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["BuffOrDebuff"] = "HARMFUL",
 									["Unit"] = "target",
-									["FakeHidden"] = true,
 									["OnlyMine"] = true,
+									["Type"] = "buff",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Purge the Wicked",
+											["Level"] = 1,
+										}, -- [1]
+										["n"] = 1,
+									},
+									["UnitConditions"] = {
+										{
+											["Type"] = "EXISTS",
+										}, -- [1]
+										{
+											["Type"] = "REACT",
+											["Level"] = 1,
+										}, -- [2]
+										["n"] = 2,
+									},
 									["Name"] = "Shadow Word: Pain",
+									["GUID"] = "TMW:icon:1SBfujtGFPEu",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -39368,18 +39428,6 @@ TMWOptDB = {
 												"", -- [1]
 											},
 										},
-									},
-									["Type"] = "buff",
-									["HideIfNoUnits"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-										}, -- [1]
-										{
-											["Level"] = 1,
-											["Type"] = "REACT",
-										}, -- [2]
-										["n"] = 2,
 									},
 									["States"] = {
 										{
@@ -39390,6 +39438,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["FakeHidden"] = true,
+									["DurationMaxEnabled"] = true,
+									["HideIfNoUnits"] = true,
+									["DurationMax"] = 5,
+									["Enabled"] = true,
 								}, -- [2]
 								{
 									["States"] = {
@@ -39414,27 +39467,36 @@ TMWOptDB = {
 									},
 								}, -- [4]
 								{
-									["GUID"] = "TMW:icon:1SBfujtKJJCa",
-									["Type"] = "buff",
 									["BuffOrDebuff"] = "HARMFUL",
-									["Enabled"] = true,
-									["Name"] = "Purge the Wicked",
 									["Unit"] = "target",
-									["FakeHidden"] = true,
 									["OnlyMine"] = true,
+									["Type"] = "buff",
+									["HideIfNoUnits"] = true,
+									["UnitConditions"] = {
+										{
+											["Type"] = "EXISTS",
+										}, -- [1]
+										{
+											["Type"] = "REACT",
+											["Level"] = 1,
+										}, -- [2]
+										["n"] = 2,
+									},
+									["Name"] = "Purge the Wicked",
+									["GUID"] = "TMW:icon:1SBfujtKJJCa",
 									["Events"] = {
 										{
 											["Type"] = "Animations",
-											["Infinite"] = true,
-											["Animation"] = "ACTVTNGLOW",
 											["OnlyShown"] = true,
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
+											["Infinite"] = true,
 											["OnConditionConditions"] = {
 												{
 													["Type"] = "COMBAT",
 												}, -- [1]
 												["n"] = 1,
 											},
-											["Event"] = "WCSP",
 										}, -- [1]
 										["n"] = 1,
 									},
@@ -39445,24 +39507,6 @@ TMWOptDB = {
 												"", -- [1]
 											},
 										},
-									},
-									["HideIfNoUnits"] = true,
-									["Conditions"] = {
-										{
-											["Name"] = "Purge the Wicked",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-										}, -- [1]
-										{
-											["Level"] = 1,
-											["Type"] = "REACT",
-										}, -- [2]
-										["n"] = 2,
 									},
 									["States"] = {
 										{
@@ -39476,25 +39520,41 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
-								}, -- [5]
-								{
-									["GUID"] = "TMW:icon:1SBfujtLeeje",
-									["ShowTimer"] = true,
-									["Enabled"] = true,
-									["DurationMax"] = 5,
-									["BuffOrDebuff"] = "HARMFUL",
-									["DurationMaxEnabled"] = true,
+									["FakeHidden"] = true,
 									["Conditions"] = {
 										{
-											["Name"] = "Purge the Wicked",
 											["Type"] = "TALENTLEARNED",
+											["Name"] = "Purge the Wicked",
 										}, -- [1]
 										["n"] = 1,
 									},
+									["Enabled"] = true,
+								}, -- [5]
+								{
+									["ShowTimer"] = true,
+									["BuffOrDebuff"] = "HARMFUL",
 									["Unit"] = "target",
-									["FakeHidden"] = true,
 									["OnlyMine"] = true,
+									["Type"] = "buff",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Purge the Wicked",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["UnitConditions"] = {
+										{
+											["Type"] = "EXISTS",
+										}, -- [1]
+										{
+											["Type"] = "REACT",
+											["Level"] = 1,
+										}, -- [2]
+										["n"] = 2,
+									},
 									["Name"] = "Purge the Wicked",
+									["GUID"] = "TMW:icon:1SBfujtLeeje",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -39502,18 +39562,6 @@ TMWOptDB = {
 												"", -- [1]
 											},
 										},
-									},
-									["Type"] = "buff",
-									["HideIfNoUnits"] = true,
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-										}, -- [1]
-										{
-											["Level"] = 1,
-											["Type"] = "REACT",
-										}, -- [2]
-										["n"] = 2,
 									},
 									["States"] = {
 										{
@@ -39524,6 +39572,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["FakeHidden"] = true,
+									["DurationMaxEnabled"] = true,
+									["HideIfNoUnits"] = true,
+									["DurationMax"] = 5,
+									["Enabled"] = true,
 								}, -- [6]
 								{
 									["States"] = {
@@ -39592,11 +39645,9 @@ TMWOptDB = {
 									},
 								}, -- [12]
 								{
-									["GUID"] = "TMW:icon:1T9dhoCoJDq=",
 									["Type"] = "buff",
 									["Name"] = "299624",
-									["Enabled"] = true,
-									["FakeHidden"] = true,
+									["GUID"] = "TMW:icon:1T9dhoCoJDq=",
 									["States"] = {
 										{
 										}, -- [1]
@@ -39606,6 +39657,8 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["FakeHidden"] = true,
+									["Enabled"] = true,
 								}, -- [13]
 								{
 									["States"] = {
@@ -40125,6 +40178,31 @@ TMWOptDB = {
 									},
 								}, -- [60]
 							},
+							["Name"] = "Disc Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingY"] = 1,
+									["SpacingX"] = 1,
+								},
+							},
+							["GUID"] = "TMW:group:1Rdx_DW=cLka",
+							["Point"] = {
+								["y"] = -174.193698219068,
+								["x"] = 375.357879638672,
+								["point"] = "TOPLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+						}, -- [2]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["x"] = 10,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[257] = false,
@@ -40134,21 +40212,11 @@ TMWOptDB = {
 								[104] = false,
 								[258] = false,
 							},
-						}, -- [2]
-						{
-							["GUID"] = "TMW:group:1Rdy4shSvHOv",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["x"] = 10,
-								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-							},
-							["Scale"] = 1,
+							["Columns"] = 8,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Rapture",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -40158,7 +40226,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40171,11 +40238,19 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Evangelism",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Evangelism",
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -40184,14 +40259,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Conditions"] = {
-										{
-											["Name"] = "Evangelism",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40204,10 +40271,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Power Word: Barrier",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -40217,7 +40285,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40230,10 +40297,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Pain Suppression",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -40243,7 +40311,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40256,11 +40323,37 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Arcane Torrent",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnlyShown"] = true,
+											["Period"] = 0.6,
+											["Animation"] = "ICONFLASH",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "SPELLCD",
+													["Name"] = "Arcane Torrent",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												{
+													["Type"] = "MANA",
+													["Operator"] = "<=",
+													["Level"] = 92,
+												}, -- [3]
+												["n"] = 3,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -40269,32 +40362,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Period"] = 0.6,
-											["Animation"] = "ICONFLASH",
-											["OnlyShown"] = true,
-											["OnConditionConditions"] = {
-												{
-													["Name"] = "Arcane Torrent",
-													["Type"] = "SPELLCD",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												{
-													["Type"] = "MANA",
-													["Level"] = 92,
-													["Operator"] = "<=",
-												}, -- [3]
-												["n"] = 3,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -40307,10 +40374,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Shadowfiend",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -40320,7 +40388,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40333,10 +40400,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Dark Archangel",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -40347,7 +40415,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -40360,6 +40427,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [7]
 								{
 									["States"] = {
@@ -40964,8 +41032,19 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1Rdy4shSvHOv",
 							["Locked"] = true,
+						}, -- [3]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["x"] = 10,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[257] = false,
@@ -40976,21 +41055,10 @@ TMWOptDB = {
 								[258] = false,
 							},
 							["Columns"] = 8,
-						}, -- [3]
-						{
-							["GUID"] = "TMW:group:1Re9GhuLUhA_",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["x"] = 10,
-								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-							},
-							["Scale"] = 1,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Purify",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41000,7 +41068,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41013,10 +41080,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Mass Dispel",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41026,7 +41094,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41039,10 +41106,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Desperate Prayer",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41052,7 +41120,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41065,10 +41132,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Angelic Feather",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41079,7 +41147,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41092,11 +41159,19 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Shining Force",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Shining Force",
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -41105,14 +41180,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Conditions"] = {
-										{
-											["Name"] = "Shining Force",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41125,10 +41192,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Leap of Faith",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41138,7 +41206,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 											["Alpha"] = 0,
@@ -41152,10 +41219,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Psychic Scream",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -41166,7 +41234,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -41179,6 +41246,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [7]
 								{
 									["States"] = {
@@ -41948,8 +42016,19 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1Re9GhuLUhA_",
 							["Locked"] = true,
+						}, -- [4]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["y"] = 2,
+								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+								["point"] = "BOTTOMLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[257] = false,
@@ -41959,25 +42038,14 @@ TMWOptDB = {
 								[104] = false,
 								[258] = false,
 							},
-							["Columns"] = 8,
-						}, -- [4]
-						{
-							["GUID"] = "TMW:group:1ReGzyv8L=59",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["y"] = 2,
-								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-								["point"] = "BOTTOMLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["Scale"] = 1,
+							["Columns"] = 16,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
 									["Unit"] = "group 1-40",
-									["OnlyMine"] = true,
 									["Sort"] = -1,
+									["Type"] = "buff",
+									["Name"] = "Atonement",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
@@ -41987,8 +42055,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "buff",
-									["Name"] = "Atonement",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42000,11 +42066,24 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["OnlyMine"] = true,
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "item",
 									["Name"] = "13",
+									["Conditions"] = {
+										{
+											["Type"] = "ITEMSPELL",
+											["Name"] = "13",
+										}, -- [1]
+										{
+											["Type"] = "LUA",
+											["Name"] = "GetInventoryItemID(\"player\", 13)~=165581",
+										}, -- [2]
+										["n"] = 2,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -42014,18 +42093,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Conditions"] = {
-										{
-											["Name"] = "13",
-											["Type"] = "ITEMSPELL",
-										}, -- [1]
-										{
-											["Name"] = "GetInventoryItemID(\"player\", 13)~=165581",
-											["Type"] = "LUA",
-										}, -- [2]
-										["n"] = 2,
-									},
-									["Type"] = "item",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42038,11 +42105,42 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
+									["Unit"] = "group 1-40",
 									["Type"] = "buffcheck",
+									["UnitConditions"] = {
+										{
+											["Type"] = "EXISTS",
+										}, -- [1]
+										{
+											["Type"] = "ALIVE",
+										}, -- [2]
+										{
+											["Type"] = "LIBRANGECHECK",
+											["Operator"] = "<=",
+											["Level"] = 100,
+										}, -- [3]
+										["n"] = 3,
+									},
 									["Name"] = "Power Word: Fortitude",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Period"] = 0.6,
+											["Animation"] = "ICONFLASH",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "COMBAT",
+													["Level"] = 1,
+												}, -- [1]
+												["n"] = 1,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "icon1",
@@ -42057,41 +42155,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Period"] = 0.6,
-											["Animation"] = "ICONFLASH",
-											["OnConditionConditions"] = {
-												{
-													["Level"] = 1,
-													["Type"] = "COMBAT",
-												}, -- [1]
-												["n"] = 1,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["UnitConditions"] = {
-										{
-											["Type"] = "EXISTS",
-										}, -- [1]
-										{
-											["Type"] = "ALIVE",
-										}, -- [2]
-										{
-											["Type"] = "LIBRANGECHECK",
-											["Level"] = 100,
-											["Operator"] = "<=",
-										}, -- [3]
-										["n"] = 3,
-									},
-									["Unit"] = "group 1-40",
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "buff",
 									["Name"] = "Angelic Feather",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -42101,7 +42169,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "buff",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42111,10 +42178,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "buff",
 									["Name"] = "Rapture",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -42124,7 +42192,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "buff",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42134,9 +42201,9 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["Type"] = "meta",
 									["Icons"] = {
 										"TMW:icon:1S5rMOrbx2W6", -- [1]
@@ -42153,10 +42220,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Gladiator's Medallion",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -42166,7 +42234,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42179,10 +42246,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [7]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "buff",
 									["Name"] = "Weal; Woe",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -42192,7 +42260,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "buff",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42202,11 +42269,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [8]
 								{
-									["Enabled"] = true,
 									["Type"] = "buff",
 									["Name"] = "Sudden Revelation",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "OnEventsRestored",
+											["Infinite"] = true,
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -42215,15 +42291,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Events"] = {
-										{
-											["Infinite"] = true,
-											["Type"] = "Animations",
-											["Event"] = "OnEventsRestored",
-											["Animation"] = "ACTVTNGLOW",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -42233,10 +42300,13 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [9]
 								{
 									["ShowTimer"] = true,
+									["Type"] = "item",
 									["ShowTimerText"] = true,
+									["Name"] = "Sinister Gladiator's Maledict",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -42245,15 +42315,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "item",
-									["Conditions"] = {
-										{
-											["Name"] = "Sinister Gladiator's Maledict",
-											["Type"] = "ITEMEQUIPPED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Name"] = "Sinister Gladiator's Maledict",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42265,34 +42326,40 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Conditions"] = {
+										{
+											["Type"] = "ITEMEQUIPPED",
+											["Name"] = "Sinister Gladiator's Maledict",
+										}, -- [1]
+										["n"] = 1,
+									},
 								}, -- [10]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
-									["Name"] = "Depth of the Shadows",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
 									["Type"] = "buff",
+									["Name"] = "Depth of the Shadows",
 									["Events"] = {
 										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["Event"] = "WCSP",
 											["OnConditionConditions"] = {
 												{
 													["Type"] = "BUFFSTACKS",
 													["Checked"] = true,
-													["Level"] = 30,
-													["Name"] = "Depth of the Shadows",
 													["Operator"] = ">=",
+													["Name"] = "Depth of the Shadows",
+													["Level"] = 30,
 												}, -- [1]
 												["n"] = 1,
 											},
-											["Type"] = "Animations",
-											["Event"] = "WCSP",
-											["Animation"] = "ACTVTNGLOW",
 										}, -- [1]
 										["n"] = 1,
+									},
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
 									},
 									["States"] = {
 										{
@@ -42303,10 +42370,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [11]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "buff",
 									["Name"] = "296072",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -42317,7 +42385,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "buff",
 									["States"] = {
 										{
 										}, -- [1]
@@ -42327,6 +42394,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [12]
 								{
 									["States"] = {
@@ -43038,25 +43106,14 @@ TMWOptDB = {
 							["Name"] = "Disc Procs/Trinkets",
 							["SettingsPerView"] = {
 								["icon"] = {
-									["SpacingX"] = 1,
 									["SpacingY"] = -4,
+									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1ReGzyv8L=59",
 							["Locked"] = true,
-							["EnabledSpecs"] = {
-								[66] = false,
-								[257] = false,
-								[70] = false,
-								[103] = false,
-								[102] = false,
-								[104] = false,
-								[258] = false,
-							},
-							["Columns"] = 16,
 						}, -- [5]
 						{
-							["GUID"] = "TMW:group:1RmjXRSgY=Dt",
 							["Strata"] = "LOW",
 							["Point"] = {
 								["y"] = 1,
@@ -43065,10 +43122,22 @@ TMWOptDB = {
 								["relativePoint"] = "TOPLEFT",
 							},
 							["Scale"] = 1,
+							["ShrinkGroup"] = true,
+							["Level"] = 7,
+							["EnabledSpecs"] = {
+								[66] = false,
+								[103] = false,
+								[70] = false,
+								[105] = false,
+								[102] = false,
+								[256] = false,
+								[258] = false,
+							},
+							["Columns"] = 6,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Holy Word: Serenity",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -43078,7 +43147,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43090,10 +43158,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Holy Word: Sanctify",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -43103,7 +43172,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43115,10 +43183,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Prayer of Mending",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -43128,7 +43197,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43140,11 +43208,19 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Circle of Healing",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Circle of Healing",
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -43153,14 +43229,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Conditions"] = {
-										{
-											["Name"] = "Circle of Healing",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43173,11 +43241,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["GUID"] = "TMW:icon:1SFdL41xExSu",
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Halo",
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Halo",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["GUID"] = "TMW:icon:1SFdL41xExSu",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -43186,15 +43263,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
-									["Conditions"] = {
-										{
-											["Name"] = "Halo",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43207,10 +43275,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Divine Star",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -43220,7 +43289,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -43233,6 +43301,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
 									["States"] = {
@@ -43677,7 +43746,6 @@ TMWOptDB = {
 									["Order"] = 1,
 								}, -- [3]
 							},
-							["ShrinkGroup"] = true,
 							["Name"] = "Holy Info",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -43685,8 +43753,12 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
+							["GUID"] = "TMW:group:1RmjXRSgY=Dt",
 							["Locked"] = true,
-							["Level"] = 7,
+						}, -- [6]
+						{
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 3,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[103] = false,
@@ -43696,26 +43768,6 @@ TMWOptDB = {
 								[256] = false,
 								[258] = false,
 							},
-							["Columns"] = 6,
-						}, -- [6]
-						{
-							["GUID"] = "TMW:group:1RmjXbUwZ7=8",
-							["Name"] = "Holy Rotation",
-							["Point"] = {
-								["y"] = -80.9607869688506,
-								["x"] = 435.468536376953,
-								["point"] = "TOPLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 3,
 							["Icons"] = {
 								{
 									["States"] = {
@@ -44378,6 +44430,32 @@ TMWOptDB = {
 									},
 								}, -- [60]
 							},
+							["Name"] = "Holy Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingY"] = 1,
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+									["SpacingX"] = 1,
+								},
+							},
+							["GUID"] = "TMW:group:1RmjXbUwZ7=8",
+							["Point"] = {
+								["y"] = -80.9607869688506,
+								["x"] = 435.468536376953,
+								["point"] = "TOPLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+						}, -- [7]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["x"] = 9.9998779296875,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+								["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[103] = false,
@@ -44387,22 +44465,13 @@ TMWOptDB = {
 								[256] = false,
 								[258] = false,
 							},
-						}, -- [7]
-						{
-							["GUID"] = "TMW:group:1RmjXh0hzbMv",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["x"] = 9.9998779296875,
-								["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-							},
-							["Scale"] = 1,
+							["Columns"] = 5,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Divine Hymn",
+									["ShowTimerText"] = true,
 									["SettingsPerView"] = {
 										["icon"] = {
 											["Texts"] = {
@@ -44410,8 +44479,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -44423,11 +44490,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Holy Word: Salvation",
+									["ShowTimerText"] = true,
+									["Conditions"] = {
+										{
+											["Type"] = "TALENTLEARNED",
+											["Name"] = "Holy Word: Salvation",
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["Texts"] = {
@@ -44435,15 +44511,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["Conditions"] = {
-										{
-											["Name"] = "Holy Word: Salvation",
-											["Type"] = "TALENTLEARNED",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -44455,11 +44522,13 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Symbol of Hope",
+									["ShowTimerText"] = true,
 									["SettingsPerView"] = {
 										["icon"] = {
 											["Texts"] = {
@@ -44467,8 +44536,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -44480,11 +44547,37 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Arcane Torrent",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnlyShown"] = true,
+											["Period"] = 0.6,
+											["Animation"] = "ICONFLASH",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "SPELLCD",
+													["Name"] = "Arcane Torrent",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												{
+													["Type"] = "MANA",
+													["Operator"] = "<=",
+													["Level"] = 92,
+												}, -- [3]
+												["n"] = 3,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
@@ -44493,32 +44586,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Period"] = 0.6,
-											["Animation"] = "ICONFLASH",
-											["OnlyShown"] = true,
-											["OnConditionConditions"] = {
-												{
-													["Name"] = "Arcane Torrent",
-													["Type"] = "SPELLCD",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												{
-													["Type"] = "MANA",
-													["Level"] = 92,
-													["Operator"] = "<=",
-												}, -- [3]
-												["n"] = 3,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["States"] = {
 										{
 										}, -- [1]
@@ -44530,6 +44597,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
 									["States"] = {
@@ -45168,8 +45236,19 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1RmjXh0hzbMv",
 							["Locked"] = true,
+						}, -- [8]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["x"] = 10.000244140625,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+								["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[103] = false,
@@ -45179,22 +45258,11 @@ TMWOptDB = {
 								[256] = false,
 								[258] = false,
 							},
-							["Columns"] = 5,
-						}, -- [8]
-						{
-							["GUID"] = "TMW:group:1RmjXmImbWxE",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["x"] = 10.000244140625,
-								["relativeTo"] = "TMW:group:1RmjXh0hzbMv",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-							},
-							["Scale"] = 1,
+							["Columns"] = 8,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Psychic Scream",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -45204,7 +45272,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -45217,11 +45284,13 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Angelic Feather",
+									["ShowTimerText"] = true,
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -45231,8 +45300,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -45245,11 +45312,13 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Purify",
+									["ShowTimerText"] = true,
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -45258,8 +45327,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -45272,11 +45339,13 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Mass Dispel",
+									["ShowTimerText"] = true,
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
@@ -45285,8 +45354,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -45299,10 +45366,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [4]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Desperate Prayer",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -45312,7 +45380,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -45325,10 +45392,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Greater Fade",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -45338,7 +45406,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -45351,6 +45418,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
 									["States"] = {
@@ -46132,8 +46200,19 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1RmjXmImbWxE",
 							["Locked"] = true,
+						}, -- [9]
+						{
+							["Strata"] = "LOW",
+							["Point"] = {
+								["y"] = 3,
+								["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
+								["point"] = "BOTTOMLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+							["Scale"] = 1,
+							["ShrinkGroup"] = true,
 							["EnabledSpecs"] = {
 								[66] = false,
 								[103] = false,
@@ -46144,20 +46223,8 @@ TMWOptDB = {
 								[258] = false,
 							},
 							["Columns"] = 8,
-						}, -- [9]
-						{
-							["GUID"] = "TMW:group:1RmjXtBcHfpO",
-							["Strata"] = "LOW",
-							["Point"] = {
-								["y"] = 3,
-								["relativeTo"] = "TMW:group:1RmjXRSgY=Dt",
-								["point"] = "BOTTOMLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["Scale"] = 1,
 							["Icons"] = {
 								{
-									["FakeHidden"] = true,
 									["Type"] = "cooldown",
 									["Name"] = "Prayer of Healing",
 									["SettingsPerView"] = {
@@ -46168,7 +46235,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -46178,9 +46244,10 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["FakeHidden"] = true,
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["FakeHidden"] = true,
 									["Type"] = "cooldown",
 									["Name"] = "Flash Heal",
 									["SettingsPerView"] = {
@@ -46191,7 +46258,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Enabled"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -46201,10 +46267,12 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["FakeHidden"] = true,
+									["Enabled"] = true,
 								}, -- [2]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Holy Word: Chastise",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -46214,7 +46282,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -46227,41 +46294,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [3]
 								{
-									["Enabled"] = true,
+									["Unit"] = "group 1-40",
 									["Type"] = "buffcheck",
-									["Name"] = "Power Word: Fortitude",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Period"] = 0.6,
-											["Animation"] = "ICONFLASH",
-											["OnConditionConditions"] = {
-												{
-													["Level"] = 1,
-													["Type"] = "COMBAT",
-												}, -- [1]
-												["n"] = 1,
-											},
-											["Event"] = "WCSP",
-										}, -- [1]
-										["n"] = 1,
-									},
 									["UnitConditions"] = {
 										{
 											["Type"] = "EXISTS",
@@ -46271,24 +46308,33 @@ TMWOptDB = {
 										}, -- [2]
 										{
 											["Type"] = "LIBRANGECHECK",
-											["Level"] = 100,
 											["Operator"] = "<=",
+											["Level"] = 100,
 										}, -- [3]
 										["n"] = 3,
 									},
-									["Unit"] = "group 1-40",
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Angelic Feather",
+									["Name"] = "Power Word: Fortitude",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Period"] = 0.6,
+											["Animation"] = "ICONFLASH",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "COMBAT",
+													["Level"] = 1,
+												}, -- [1]
+												["n"] = 1,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
 									["SettingsPerView"] = {
 										["icon"] = {
 											["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
 										},
 									},
-									["Type"] = "buff",
-									["ShowTimerText"] = true,
 									["States"] = {
 										{
 										}, -- [1]
@@ -46298,10 +46344,32 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["Name"] = "Angelic Feather",
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Heart Essence",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -46311,7 +46379,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -46324,10 +46391,11 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [6]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Holy Word: Concentration",
 									["SettingsPerView"] = {
 										["icon"] = {
@@ -46337,7 +46405,6 @@ TMWOptDB = {
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -46350,9 +46417,9 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [7]
 								{
-									["Enabled"] = true,
 									["Type"] = "cooldown",
 									["Name"] = "Gladiator's Medallion",
 									["SettingsPerView"] = {
@@ -46375,6 +46442,7 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [8]
 								{
 									["States"] = {
@@ -47134,22 +47202,10 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["GUID"] = "TMW:group:1RmjXtBcHfpO",
 							["Locked"] = true,
-							["EnabledSpecs"] = {
-								[66] = false,
-								[103] = false,
-								[70] = false,
-								[105] = false,
-								[102] = false,
-								[256] = false,
-								[258] = false,
-							},
-							["Columns"] = 8,
 						}, -- [10]
 						{
-							["GUID"] = "TMW:group:1SMaYKnDlBS=",
-							["Columns"] = 6,
 							["Point"] = {
 								["y"] = 1.79486590673791e-05,
 								["relativeTo"] = "HekiliDisplayPrimary",
@@ -47157,29 +47213,24 @@ TMWOptDB = {
 								["relativePoint"] = "LEFT",
 								["x"] = 250,
 							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-								},
-							},
 							["Scale"] = 1.12223184108734,
 							["EnabledSpecs"] = {
 								[256] = false,
 								[257] = false,
 							},
+							["Columns"] = 6,
 							["Icons"] = {
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
+									["Type"] = "cooldown",
 									["Name"] = "Shadowfiend",
 									["SettingsPerView"] = {
 										["icon"] = {
 											["Texts"] = {
-												"S2", -- [1]
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S2\"\nend]", -- [1]
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -47192,94 +47243,20 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
 								}, -- [1]
 								{
-									["Enabled"] = true,
 									["ShowTimer"] = true,
-									["Name"] = "Vampiric Embrace",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"S3", -- [1]
-											},
-										},
-									},
 									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Dispersion",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"SV", -- [1]
-											},
-										},
-									},
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
-									["Name"] = "Silence",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["Type"] = "cooldown",
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["Enabled"] = true,
-									["ShowTimer"] = true,
 									["Name"] = "Heart Essence",
 									["SettingsPerView"] = {
 										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
 											["Texts"] = {
-												"ST", -- [1]
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S3\"\nend]", -- [1]
 											},
 										},
 									},
-									["Type"] = "cooldown",
 									["States"] = {
 										{
 										}, -- [1]
@@ -47292,6 +47269,85 @@ TMWOptDB = {
 										{
 										}, -- [4]
 									},
+									["Enabled"] = true,
+								}, -- [2]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Silence",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"G\"\nend]", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Dispersion",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SV\"\nend]", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
+								}, -- [4]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "cooldown",
+									["Name"] = "Vampiric Embrace",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"C3\"\nend]", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+									["Enabled"] = true,
 								}, -- [5]
 								{
 									["States"] = {
@@ -47680,6 +47736,12 @@ TMWOptDB = {
 								}, -- [40]
 							},
 							["Name"] = "Shadow CDs",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+								},
+							},
+							["GUID"] = "TMW:group:1SMaYKnDlBS=",
 						}, -- [11]
 						{
 							["Icons"] = {
@@ -48725,8 +48787,6 @@ TMWOptDB = {
 					},
 					["Locked"] = true,
 					["SoundChannel"] = "Master",
-					["NumGroups"] = 11,
-					["TextureName"] = "Minimalist",
 				},
 				["Toshmonk - Kil'jaeden"] = {
 					["Groups"] = {
@@ -49051,7 +49111,7 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[103] = false,
@@ -49066,10 +49126,32 @@ TMWOptDB = {
 								[263] = false,
 								[262] = false,
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 						}, -- [1]
 						{
 							["GUID"] = "TMW:group:1Rdx_DW=cLka",
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[268] = false,
+								[269] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["Name"] = "MW Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 5,
 							["Icons"] = {
 								{
 									["GUID"] = "TMW:icon:1TeGfY0i=suZ",
@@ -49303,28 +49385,6 @@ TMWOptDB = {
 								["point"] = "LEFT",
 								["relativePoint"] = "LEFT",
 							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 5,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[268] = false,
-								[269] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Name"] = "MW Rotation",
 						}, -- [2]
 						{
 							["GUID"] = "TMW:group:1Rdy4shSvHOv",
@@ -50619,7 +50679,7 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[103] = false,
@@ -50634,10 +50694,32 @@ TMWOptDB = {
 								[263] = false,
 								[262] = false,
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 						}, -- [6]
 						{
 							["GUID"] = "TMW:group:1TeHGt8xlkKZ",
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[268] = false,
+								[270] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["Name"] = "WW Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 5,
 							["Icons"] = {
 								{
 									["States"] = {
@@ -50866,28 +50948,6 @@ TMWOptDB = {
 								["point"] = "LEFT",
 								["relativePoint"] = "LEFT",
 							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 5,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[268] = false,
-								[270] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Name"] = "WW Rotation",
 						}, -- [7]
 						{
 							["GUID"] = "TMW:group:1TeHI9uONO4k",
@@ -51470,7 +51530,7 @@ TMWOptDB = {
 									["SpacingY"] = -4,
 								},
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 							["Columns"] = 12,
 							["EnabledSpecs"] = {
 								[103] = false,
@@ -51485,7 +51545,7 @@ TMWOptDB = {
 								[262] = false,
 								[263] = false,
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 						}, -- [10]
 						{
 							["GUID"] = "TMW:group:1TsTG73pEF4k",
@@ -51701,7 +51761,7 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[103] = false,
@@ -51716,10 +51776,32 @@ TMWOptDB = {
 								[263] = false,
 								[262] = false,
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 						}, -- [11]
 						{
 							["GUID"] = "TMW:group:1TsTGFQlooGu",
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[269] = false,
+								[270] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["Name"] = "BRM Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 5,
 							["Icons"] = {
 								{
 									["States"] = {
@@ -51948,28 +52030,6 @@ TMWOptDB = {
 								["point"] = "LEFT",
 								["relativePoint"] = "LEFT",
 							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 5,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[269] = false,
-								[270] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Name"] = "BRM Rotation",
 						}, -- [12]
 						{
 							["GUID"] = "TMW:group:1TsTGVcArfeM",
@@ -52434,3686 +52494,6 @@ TMWOptDB = {
 					["NumGroups"] = 15,
 					["TextureName"] = "ElvUI Norm",
 				},
-				["Toshaman - Kil'jaeden"] = {
-					["Version"] = 87401,
-					["ForceNoBlizzCC"] = true,
-					["NumGroups"] = 9,
-					["TextureName"] = "ElvUI Norm",
-					["Groups"] = {
-						{
-							["GUID"] = "TMW:group:1SOQwfYksHy4",
-							["Scale"] = 1.20003592967987,
-							["EnabledSpecs"] = {
-								[263] = false,
-								[264] = false,
-							},
-							["Columns"] = 15,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["ShowTimerTextnoOCC"] = true,
-									["Name"] = "Lightning Lasso",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "ZONEPVP",
-													["BitFlags"] = {
-														["combat"] = true,
-													},
-												}, -- [1]
-												["n"] = 1,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Thunderstorm",
-									["ShowTimerText"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SP6fEfacpmV",
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Name"] = "Earth Elemental; Fire Elemental; Totem Mastery",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
-											["Texts"] = {
-												"[Duration]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.4,
-										}, -- [1]
-										{
-											["Alpha"] = 0.38,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Fire Elemental",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S1\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Heart Essence",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"3\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Stormkeeper",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S3\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.8,
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "totem",
-									["Name"] = "Totem Mastery",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"6", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.4,
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Totem Mastery",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Skyfury Totem",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"ST", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Gladiator's Medallion",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerText"] = true,
-									["Name"] = "Earth Elemental",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"S2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [15]
-							},
-							["Name"] = "Ele Main",
-							["Point"] = {
-								["y"] = -39.13257123392163,
-								["relativeTo"] = "HekiliDisplayPrimary",
-								["point"] = "TOPLEFT",
-								["relativePoint"] = "TOPRIGHT",
-								["x"] = -209.9739404457198,
-							},
-						}, -- [1]
-						{
-							["Strata"] = "LOW",
-							["Point"] = {
-								["y"] = 4,
-								["relativeTo"] = "Quartz3CastBarPlayer",
-								["point"] = "BOTTOMLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["Scale"] = 1,
-							["ShrinkGroup"] = true,
-							["Level"] = 7,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[263] = false,
-								[262] = false,
-							},
-							["Columns"] = 10,
-							["Icons"] = {
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP6bSP96Sa0", -- [1]
-										"TMW:icon:1SP6bSPerPqV", -- [2]
-										"TMW:icon:1SP6bSPB1X8n", -- [3]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "61295",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP5=zESDvme", -- [1]
-										"TMW:icon:1SQqjKaXtr0x", -- [2]
-										"TMW:icon:1SQm7gv1a4W_", -- [3]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "5394",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP6jl9Fagqj", -- [1]
-										"TMW:icon:1SP6jm3Iq14R", -- [2]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "73685",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP6bSPk4=Oe", -- [1]
-										"TMW:icon:1SP6bSPlqqCy", -- [2]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "73920",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP6bSPZddKW", -- [1]
-										"TMW:icon:1SP6bSPbSV0W", -- [2]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "207778",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["Type"] = "buff",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Tidal Waves",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"E", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1SP5=zELhQyN", -- [1]
-										"TMW:icon:1SP5=zENKA4B", -- [2]
-									},
-									["Enabled"] = true,
-									["CustomTex"] = "198838",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Earthen Wall Totem",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [7]
-								{
-									["Unit"] = "group 1-40",
-									["OnlyMine"] = true,
-									["Type"] = "buff",
-									["Name"] = "Earth Shield",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Period"] = 0.6,
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "COMBAT",
-												}, -- [1]
-												{
-													["Type"] = "BUFFDUR",
-													["Unit"] = "group 1-40",
-													["Name"] = "Earth Shield",
-												}, -- [2]
-												["n"] = 2,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.4,
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Earth Shield",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Heart Essence",
-									["ShowTimerTextnoOCC"] = true,
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "SPELLCD",
-													["Name"] = "Heart Essence",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												{
-													["Type"] = "MANA",
-													["Operator"] = "<=",
-													["Level"] = 90,
-												}, -- [3]
-												["n"] = 3,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"A3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-							},
-							["SortPriorities"] = {
-								{
-									["Method"] = "fakehidden",
-								}, -- [1]
-								{
-									["Method"] = "shown",
-									["Order"] = -1,
-								}, -- [2]
-								{
-									["Method"] = "id",
-									["Order"] = 1,
-								}, -- [3]
-							},
-							["Name"] = "Resto Info",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-								},
-							},
-							["GUID"] = "TMW:group:1RdxyvcF5MR3",
-							["Locked"] = true,
-						}, -- [2]
-						{
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 6,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Columns"] = 6,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "totem",
-									["Name"] = "Healing Stream Totem",
-									["GUID"] = "TMW:icon:1SP5=zESDvme",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.4,
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["StackMax"] = 1,
-									["GUID"] = "TMW:icon:1SQqjKaXtr0x",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"3", -- [1]
-												"", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Name"] = "Healing Stream Totem",
-									["Enabled"] = true,
-									["StackMaxEnabled"] = true,
-									["StackMin"] = 1,
-								}, -- [2]
-								{
-									["StackMinEnabled"] = true,
-									["Type"] = "cooldown",
-									["GUID"] = "TMW:icon:1SQm7gv1a4W_",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Period"] = 0.8,
-											["Animation"] = "ICONFLASH",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "SPELLCHARGES",
-													["Operator"] = ">",
-													["Name"] = "Healing Stream Totem",
-													["PrtsBefore"] = 2,
-												}, -- [1]
-												{
-													["Type"] = "TALENTLEARNED",
-													["PrtsAfter"] = 1,
-													["Name"] = "Cloudburst Totem",
-													["Level"] = 1,
-												}, -- [2]
-												{
-													["Type"] = "SPELLCHARGES",
-													["Level"] = 2,
-													["Name"] = "Healing Stream Totem",
-													["PrtsBefore"] = 1,
-													["AndOr"] = "OR",
-												}, -- [3]
-												{
-													["Type"] = "TALENTLEARNED",
-													["PrtsAfter"] = 2,
-													["Name"] = "Cloudburst Totem",
-												}, -- [4]
-												{
-													["Type"] = "COMBAT",
-												}, -- [5]
-												{
-													["Type"] = "TOTEM1",
-													["Name"] = "Healing Stream Totem",
-													["PrtsBefore"] = 1,
-												}, -- [6]
-												{
-													["Type"] = "TOTEM2",
-													["Name"] = "Healing Stream Totem",
-												}, -- [7]
-												{
-													["Type"] = "TOTEM3",
-													["Name"] = "Healing Stream Totem",
-												}, -- [8]
-												{
-													["Type"] = "TOTEM4",
-													["Name"] = "Healing Stream Totem",
-												}, -- [9]
-												{
-													["Type"] = "TOTEM5",
-													["PrtsAfter"] = 1,
-													["Name"] = "Healing Stream Totem",
-												}, -- [10]
-												["n"] = 10,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Name"] = "Healing Stream Totem",
-									["Enabled"] = true,
-									["StackMin"] = 2,
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "totem",
-									["Name"] = "Earthen Wall Totem",
-									["ShowTimerTextnoOCC"] = true,
-									["GUID"] = "TMW:icon:1SP5=zELhQyN",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.4,
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Earthen Wall Totem",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Earthen Wall Totem",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1SP5=zENKA4B",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"S1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Downpour",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Downpour",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1SP6bSPZddKW",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Downpour",
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Downpour",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1SP6bSPbSV0W",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Riptide",
-									["ShowTimerTextnoOCC"] = true,
-									["GUID"] = "TMW:icon:1SP6bSP96Sa0",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["ShowTimerTextnoOCC"] = true,
-									["StackMax"] = 1,
-									["GUID"] = "TMW:icon:1SP6bSPerPqV",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Name"] = "Riptide",
-									["Enabled"] = true,
-									["StackMaxEnabled"] = true,
-									["StackMin"] = 2,
-								}, -- [10]
-								{
-									["StackMinEnabled"] = true,
-									["Type"] = "cooldown",
-									["GUID"] = "TMW:icon:1SP6bSPB1X8n",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Name"] = "Riptide",
-									["Enabled"] = true,
-									["StackMin"] = 2,
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Unleash Life",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Unleash Life",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1SP6jl9Fagqj",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [13]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Unleash Life",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Unleash Life",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1SP6jm3Iq14R",
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "COMBAT",
-												}, -- [1]
-												["n"] = 1,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"T", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [14]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Healing Rain",
-									["GUID"] = "TMW:icon:1SP6bSPk4=Oe",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [15]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Healing Rain",
-									["GUID"] = "TMW:icon:1SP6bSPlqqCy",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"SQ", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [16]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Lava Burst",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1Sf_uOFqFR49",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"C2", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.75,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [17]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Lava Burst",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1Sf_uOFv0cK5",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"Q", -- [1]
-												"[Stacks:Hide(0)]", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.75,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [18]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Flame Shock",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:1",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1Sf_uOFzQpGU",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"C1", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.75,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [19]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Flame Shock",
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:3",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["GUID"] = "TMW:icon:1Sf_uOG1uBKv",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"SQ", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.75,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Enabled"] = true,
-								}, -- [20]
-								{
-									["Type"] = "conditionicon",
-									["GUID"] = "TMW:icon:1Sjkf3ISOhOz",
-									["Enabled"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"6", -- [1]
-											},
-										},
-									},
-									["CustomTex"] = "77472",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:1",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [21]
-								{
-									["Type"] = "conditionicon",
-									["GUID"] = "TMW:icon:1Sjkf3IYZT0L",
-									["Enabled"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"6", -- [1]
-											},
-										},
-									},
-									["CustomTex"] = "403",
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["FakeHidden"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "MACRO",
-											["Name"] = "actionbar:3",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [22]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [23]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [24]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [25]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [26]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [27]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [28]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [29]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [30]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [31]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [32]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [33]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [34]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [35]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [36]
-							},
-							["Name"] = "Resto Rotation",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingY"] = 1,
-									["SpacingX"] = 1,
-								},
-							},
-							["GUID"] = "TMW:group:1Rdx_DW=cLka",
-							["Point"] = {
-								["y"] = 98.8250937751799,
-								["x"] = 343.263977050781,
-								["point"] = "LEFT",
-								["relativePoint"] = "LEFT",
-							},
-						}, -- [3]
-						{
-							["Strata"] = "LOW",
-							["Point"] = {
-								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-								["x"] = 10,
-							},
-							["Scale"] = 1,
-							["Locked"] = true,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[263] = false,
-								[262] = false,
-							},
-							["Columns"] = 8,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Spiritwalker's Grace",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"ST", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Healing Tide Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"S2", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Spirit Link Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"S3", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Ascendance",
-									["Conditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Ascendance",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S4\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-							},
-							["SortPriorities"] = {
-								{
-									["Method"] = "fakehidden",
-								}, -- [1]
-								{
-									["Method"] = "shown",
-									["Order"] = -1,
-								}, -- [2]
-								{
-									["Method"] = "id",
-									["Order"] = 1,
-								}, -- [3]
-							},
-							["Name"] = "Resto CDs",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-								},
-							},
-							["GUID"] = "TMW:group:1Rdy4shSvHOv",
-							["ShrinkGroup"] = true,
-						}, -- [4]
-						{
-							["Strata"] = "LOW",
-							["Point"] = {
-								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
-								["point"] = "LEFT",
-								["relativePoint"] = "RIGHT",
-								["x"] = 10,
-							},
-							["Scale"] = 1,
-							["Locked"] = true,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Columns"] = 10,
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Capacitor Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SZ\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Counterstrike Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SR\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Purify Spirit",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"R\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Astral Shift",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"V\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Hex",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"Z\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Tremor Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"A2\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wind Shear",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Rocket Jump",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wind Rush Totem",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0,
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-							},
-							["SortPriorities"] = {
-								{
-									["Method"] = "fakehidden",
-								}, -- [1]
-								{
-									["Method"] = "shown",
-									["Order"] = -1,
-								}, -- [2]
-								{
-									["Method"] = "id",
-									["Order"] = 1,
-								}, -- [3]
-							},
-							["Name"] = "Resto Util",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-								},
-							},
-							["GUID"] = "TMW:group:1Re9GhuLUhA_",
-							["ShrinkGroup"] = true,
-						}, -- [5]
-						{
-							["Strata"] = "LOW",
-							["Point"] = {
-								["y"] = 4,
-								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
-								["point"] = "BOTTOMLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-							["Scale"] = 1,
-							["Locked"] = true,
-							["Level"] = 7,
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[262] = false,
-								[263] = false,
-							},
-							["Columns"] = 10,
-							["Icons"] = {
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1Sjkf3ISOhOz", -- [1]
-										"TMW:icon:1Sjkf3IYZT0L", -- [2]
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "item",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "13",
-									["Conditions"] = {
-										{
-											["Type"] = "ITEMSPELL",
-											["Name"] = "13",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"4", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Unleash Life",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "High Tide",
-									["ShowTimerTextnoOCC"] = true,
-									["Events"] = {
-										{
-											["AnimColor"] = "7fffffff",
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Animation"] = "ICONFLASH",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "BUFFDUR",
-													["Operator"] = ">",
-													["Name"] = "Flash Flood",
-												}, -- [1]
-												{
-													["Type"] = "COMBAT",
-												}, -- [2]
-												["n"] = 2,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"Q", -- [1]
-												"", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Name"] = "Flash Flood",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												[2] = "",
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [5]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Icons"] = {
-										"TMW:icon:1S5rMOrbx2W6", -- [1]
-										"TMW:icon:1S5rMRlNU6DL", -- [2]
-										"TMW:icon:1S5rMWv1TVbh", -- [3]
-										"TMW:icon:1S5rMUxYFXPO", -- [4]
-										"TMW:icon:1S5rMN7drbw1", -- [5]
-										"TMW:icon:1S5rKA3M0608", -- [6]
-										"TMW:icon:1S5rKA3Mkp9X", -- [7]
-									},
-									["Name"] = "Spiritwalker's Grace",
-									["ShowTimerTextnoOCC"] = true,
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "OnEventsRestored",
-											["Infinite"] = true,
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [6]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Gladiator's Medallion",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "PVPFLAG",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												[2] = "[Stacks:Hide(0, 1)]",
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [7]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Grounding Totem",
-									["Conditions"] = {
-										{
-											["Type"] = "PVPTALENTLEARNED",
-											["Name"] = "Grounding Totem",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SR\"\nend]", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [8]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "buff",
-									["Name"] = "Tidebringer",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-							},
-							["SortPriorities"] = {
-								{
-									["Method"] = "fakehidden",
-								}, -- [1]
-								{
-									["Method"] = "shown",
-									["Order"] = -1,
-								}, -- [2]
-								{
-									["Method"] = "id",
-									["Order"] = 1,
-								}, -- [3]
-							},
-							["Name"] = "Resto Procs/Trinkets",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingY"] = -4,
-									["SpacingX"] = 1,
-								},
-							},
-							["GUID"] = "TMW:group:1ReGzyv8L=59",
-							["ShrinkGroup"] = true,
-						}, -- [6]
-						{
-							["Strata"] = "LOW",
-							["Scale"] = 1,
-							["Locked"] = true,
-							["Level"] = 7,
-							["EnabledSpecs"] = {
-								[262] = false,
-								[263] = false,
-							},
-							["Icons"] = {
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1Sf_uOFqFR49", -- [1]
-										"TMW:icon:1Sf_uOFv0cK5", -- [2]
-									},
-									["Enabled"] = true,
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "BUFFDUR",
-													["Operator"] = ">",
-													["Name"] = "Lava Surge",
-												}, -- [1]
-												["n"] = 1,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["Type"] = "meta",
-									["Icons"] = {
-										"TMW:icon:1Sf_uOFzQpGU", -- [1]
-										"TMW:icon:1Sf_uOG1uBKv", -- [2]
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["BuffOrDebuff"] = "HARMFUL",
-									["Unit"] = "target",
-									["Type"] = "buff",
-									["UnitConditions"] = {
-										{
-											["Type"] = "REACT",
-											["Level"] = 1,
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Name"] = "Flame Shock",
-									["ShowTimerTextnoOCC"] = true,
-									["Conditions"] = {
-										{
-											["Type"] = "COMBAT",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Events"] = {
-										{
-											["Type"] = "Animations",
-											["OnlyShown"] = true,
-											["Animation"] = "ACTVTNGLOW",
-											["Event"] = "WCSP",
-											["OnConditionConditions"] = {
-												{
-													["Type"] = "DEBUFFDUR",
-													["Unit"] = "target",
-													["Name"] = "Flame Shock",
-												}, -- [1]
-												["n"] = 1,
-											},
-										}, -- [1]
-										["n"] = 1,
-									},
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-										},
-									},
-									["States"] = {
-										{
-											["Alpha"] = 0.3,
-										}, -- [1]
-										{
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-							["Name"] = "Resto Dps",
-							["GUID"] = "TMW:group:1Sjkh_6p41Ck",
-							["Point"] = {
-								["y"] = 4,
-								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
-								["point"] = "BOTTOMLEFT",
-								["relativePoint"] = "TOPLEFT",
-							},
-						}, -- [7]
-						{
-							["GUID"] = "TMW:group:1UCZ3V28sYuk",
-							["Scale"] = 1.2,
-							["EnabledSpecs"] = {
-								[263] = false,
-								[264] = false,
-							},
-							["Icons"] = {
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Grounding Totem",
-									["ShowTimerTextnoOCC"] = true,
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"SR", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Alpha"] = 0.4,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [1]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Wind Shear",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"G", -- [1]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [2]
-								{
-									["ShowTimer"] = true,
-									["Type"] = "cooldown",
-									["Name"] = "Hex",
-									["SettingsPerView"] = {
-										["icon"] = {
-											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
-											["Texts"] = {
-												"Z", -- [1]
-												"[Stacks:Hide(0, 1)]", -- [2]
-											},
-										},
-									},
-									["States"] = {
-										{
-										}, -- [1]
-										{
-											["Color"] = "ffffffffd",
-											["Alpha"] = 1,
-										}, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-									["Enabled"] = true,
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-							},
-							["Name"] = "Ele CC",
-							["Point"] = {
-								["y"] = 2,
-								["relativeTo"] = "TMW:group:1SOQwfYksHy4",
-								["point"] = "BOTTOMRIGHT",
-								["relativePoint"] = "TOPRIGHT",
-							},
-						}, -- [8]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-							["Name"] = "Ele CDs",
-							["GUID"] = "TMW:group:1UCZ4motcXKn",
-						}, -- [9]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-							},
-						}, -- [10]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [13]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [14]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [15]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [16]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [17]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [18]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [19]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [20]
-							},
-						}, -- [11]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-							},
-						}, -- [12]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [12]
-							},
-						}, -- [13]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [4]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [5]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [6]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [7]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [8]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [9]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [10]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [11]
-							},
-						}, -- [14]
-						{
-							["Icons"] = {
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [1]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [2]
-								{
-									["States"] = {
-										{
-										}, -- [1]
-										nil, -- [2]
-										{
-										}, -- [3]
-										{
-										}, -- [4]
-									},
-								}, -- [3]
-							},
-						}, -- [15]
-					},
-					["Locked"] = true,
-				},
 				["Base"] = {
 					["Groups"] = {
 						{
@@ -56385,7 +52765,7 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 							["Level"] = 7,
 							["EnabledSpecs"] = {
 								[103] = false,
@@ -56398,30 +52778,10 @@ TMWOptDB = {
 								[262] = false,
 								[263] = false,
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 						}, -- [1]
 						{
 							["GUID"] = "TMW:group:1Rdx_DW=cLka",
-							["EnabledSpecs"] = {
-								[103] = false,
-								[66] = false,
-								[70] = false,
-								[104] = false,
-								[102] = false,
-								[257] = false,
-								[258] = false,
-								[263] = false,
-								[262] = false,
-							},
-							["Name"] = "Rotation",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 5,
 							["Icons"] = {
 								{
 									["States"] = {
@@ -56650,6 +53010,26 @@ TMWOptDB = {
 								["point"] = "LEFT",
 								["relativePoint"] = "LEFT",
 							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 5,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[263] = false,
+								[262] = false,
+							},
+							["Name"] = "Rotation",
 						}, -- [2]
 						{
 							["GUID"] = "TMW:group:1Rdy4shSvHOv",
@@ -58468,6 +54848,3682 @@ TMWOptDB = {
 					["NumGroups"] = 5,
 					["TextureName"] = "ElvUI Norm",
 				},
+				["Toshaman - Kil'jaeden"] = {
+					["ForceNoBlizzCC"] = true,
+					["Version"] = 87401,
+					["Locked"] = true,
+					["Groups"] = {
+						{
+							["GUID"] = "TMW:group:1SOQwfYksHy4",
+							["Columns"] = 15,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Type"] = "cooldown",
+									["Name"] = "Lightning Lasso",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "ZONEPVP",
+													["BitFlags"] = {
+														["combat"] = true,
+													},
+												}, -- [1]
+												["n"] = 1,
+											},
+											["Event"] = "WCSP",
+											["Animation"] = "ACTVTNGLOW",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["ShowTimer"] = true,
+									["Name"] = "Thunderstorm",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SP6fEfacpmV",
+											["Texts"] = {
+												"T", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["ShowTimerText"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SKGySexLHyr",
+											["Texts"] = {
+												"[Duration]", -- [1]
+											},
+										},
+									},
+									["Name"] = "Earth Elemental; Fire Elemental; Totem Mastery",
+									["States"] = {
+										{
+											["Alpha"] = 0.4,
+										}, -- [1]
+										{
+											["Alpha"] = 0.38,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Fire Elemental",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S1\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Heart Essence",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"3\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Stormkeeper",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S3\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0.8,
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["ShowTimer"] = true,
+									["Name"] = "Totem Mastery",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "totem",
+									["Conditions"] = {
+										{
+											["Name"] = "Totem Mastery",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"6", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+											["Alpha"] = 0.4,
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Skyfury Totem",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "cooldown",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"ST", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Gladiator's Medallion",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "cooldown",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerText"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"S2", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["Name"] = "Earth Elemental",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+							},
+							["Scale"] = 1.20003592967987,
+							["Name"] = "Ele Main",
+							["EnabledSpecs"] = {
+								[263] = false,
+								[264] = false,
+							},
+							["Point"] = {
+								["y"] = -39.13257123392163,
+								["relativeTo"] = "HekiliDisplayPrimary",
+								["point"] = "TOPLEFT",
+								["relativePoint"] = "TOPRIGHT",
+								["x"] = -209.9739404457198,
+							},
+						}, -- [1]
+						{
+							["GUID"] = "TMW:group:1RdxyvcF5MR3",
+							["Strata"] = "LOW",
+							["Point"] = {
+								["y"] = 4,
+								["relativeTo"] = "Quartz3CastBarPlayer",
+								["point"] = "BOTTOMLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+							["Scale"] = 1,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP6bSP96Sa0", -- [1]
+										"TMW:icon:1SP6bSPerPqV", -- [2]
+										"TMW:icon:1SP6bSPB1X8n", -- [3]
+									},
+									["CustomTex"] = "61295",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP5=zESDvme", -- [1]
+										"TMW:icon:1SQqjKaXtr0x", -- [2]
+										"TMW:icon:1SQm7gv1a4W_", -- [3]
+									},
+									["CustomTex"] = "5394",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP6jl9Fagqj", -- [1]
+										"TMW:icon:1SP6jm3Iq14R", -- [2]
+									},
+									["CustomTex"] = "73685",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP6bSPk4=Oe", -- [1]
+										"TMW:icon:1SP6bSPlqqCy", -- [2]
+									},
+									["CustomTex"] = "73920",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP6bSPZddKW", -- [1]
+										"TMW:icon:1SP6bSPbSV0W", -- [2]
+									},
+									["CustomTex"] = "207778",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Name"] = "Tidal Waves",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"E", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1SP5=zELhQyN", -- [1]
+										"TMW:icon:1SP5=zENKA4B", -- [2]
+									},
+									["Conditions"] = {
+										{
+											["Name"] = "Earthen Wall Totem",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["CustomTex"] = "198838",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["Enabled"] = true,
+									["Type"] = "buff",
+									["Unit"] = "group 1-40",
+									["OnlyMine"] = true,
+									["Name"] = "Earth Shield",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SV\"\nend]", -- [1]
+											},
+										},
+									},
+									["Conditions"] = {
+										{
+											["Name"] = "Earth Shield",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Period"] = 0.6,
+											["Animation"] = "ACTVTNGLOW",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "COMBAT",
+												}, -- [1]
+												{
+													["Type"] = "BUFFDUR",
+													["Name"] = "Earth Shield",
+													["Unit"] = "group 1-40",
+												}, -- [2]
+												["n"] = 2,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Alpha"] = 0.4,
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Heart Essence",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"3\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["Name"] = "Heart Essence",
+													["Type"] = "SPELLCD",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												{
+													["Type"] = "MANA",
+													["Level"] = 90,
+													["Operator"] = "<=",
+												}, -- [3]
+												["n"] = 3,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+							},
+							["SortPriorities"] = {
+								{
+									["Method"] = "fakehidden",
+								}, -- [1]
+								{
+									["Method"] = "shown",
+									["Order"] = -1,
+								}, -- [2]
+								{
+									["Method"] = "id",
+									["Order"] = 1,
+								}, -- [3]
+							},
+							["Columns"] = 10,
+							["Name"] = "Resto Info",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+								},
+							},
+							["ShrinkGroup"] = true,
+							["Level"] = 7,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[263] = false,
+								[262] = false,
+							},
+							["Locked"] = true,
+						}, -- [2]
+						{
+							["GUID"] = "TMW:group:1Rdx_DW=cLka",
+							["Columns"] = 6,
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 6,
+							["Icons"] = {
+								{
+									["GUID"] = "TMW:icon:1SP5=zESDvme",
+									["ShowTimer"] = true,
+									["Name"] = "Healing Stream Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "totem",
+									["FakeHidden"] = true,
+									["States"] = {
+										{
+											["Alpha"] = 0.4,
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["GUID"] = "TMW:icon:1SQqjKaXtr0x",
+									["ShowTimer"] = true,
+									["StackMax"] = 1,
+									["StackMaxEnabled"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Healing Stream Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"2", -- [1]
+												"", -- [2]
+											},
+										},
+									},
+									["StackMin"] = 1,
+									["Type"] = "cooldown",
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["GUID"] = "TMW:icon:1SQm7gv1a4W_",
+									["Type"] = "cooldown",
+									["FakeHidden"] = true,
+									["StackMin"] = 2,
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Period"] = 0.8,
+											["Animation"] = "ICONFLASH",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["PrtsBefore"] = 2,
+													["Type"] = "SPELLCHARGES",
+													["Name"] = "Healing Stream Totem",
+													["Operator"] = ">",
+												}, -- [1]
+												{
+													["Name"] = "Cloudburst Totem",
+													["Level"] = 1,
+													["PrtsAfter"] = 1,
+													["Type"] = "TALENTLEARNED",
+												}, -- [2]
+												{
+													["Type"] = "SPELLCHARGES",
+													["Name"] = "Healing Stream Totem",
+													["PrtsBefore"] = 1,
+													["Level"] = 2,
+													["AndOr"] = "OR",
+												}, -- [3]
+												{
+													["Type"] = "TALENTLEARNED",
+													["PrtsAfter"] = 2,
+													["Name"] = "Cloudburst Totem",
+												}, -- [4]
+												{
+													["Type"] = "COMBAT",
+												}, -- [5]
+												{
+													["PrtsBefore"] = 1,
+													["Type"] = "TOTEM1",
+													["Name"] = "Healing Stream Totem",
+												}, -- [6]
+												{
+													["Name"] = "Healing Stream Totem",
+													["Type"] = "TOTEM2",
+												}, -- [7]
+												{
+													["Name"] = "Healing Stream Totem",
+													["Type"] = "TOTEM3",
+												}, -- [8]
+												{
+													["Name"] = "Healing Stream Totem",
+													["Type"] = "TOTEM4",
+												}, -- [9]
+												{
+													["Type"] = "TOTEM5",
+													["PrtsAfter"] = 1,
+													["Name"] = "Healing Stream Totem",
+												}, -- [10]
+												["n"] = 10,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Name"] = "Healing Stream Totem",
+									["StackMinEnabled"] = true,
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["GUID"] = "TMW:icon:1SP5=zELhQyN",
+									["ShowTimer"] = true,
+									["Name"] = "Earthen Wall Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "totem",
+									["FakeHidden"] = true,
+									["States"] = {
+										{
+											["Alpha"] = 0.4,
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["GUID"] = "TMW:icon:1SP5=zENKA4B",
+									["ShowTimer"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Earthen Wall Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"S1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "Earthen Wall Totem",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPZddKW",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Downpour",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "Downpour",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPbSV0W",
+									["ShowTimer"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Downpour",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"2", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "Downpour",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["GUID"] = "TMW:icon:1SP6bSP96Sa0",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Riptide",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPerPqV",
+									["ShowTimer"] = true,
+									["StackMax"] = 1,
+									["StackMaxEnabled"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Riptide",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["StackMin"] = 2,
+									["Type"] = "cooldown",
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPB1X8n",
+									["Type"] = "cooldown",
+									["FakeHidden"] = true,
+									["Name"] = "Riptide",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"1", -- [1]
+											},
+										},
+									},
+									["StackMin"] = 2,
+									["StackMinEnabled"] = true,
+									["Enabled"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["GUID"] = "TMW:icon:1SP6jl9Fagqj",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["FakeHidden"] = true,
+									["Name"] = "Unleash Life",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "Unleash Life",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["GUID"] = "TMW:icon:1SP6jm3Iq14R",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["FakeHidden"] = true,
+									["Enabled"] = true,
+									["Name"] = "Unleash Life",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"T", -- [1]
+											},
+										},
+									},
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "COMBAT",
+												}, -- [1]
+												["n"] = 1,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Conditions"] = {
+										{
+											["Name"] = "Unleash Life",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPk4=Oe",
+									["ShowTimer"] = true,
+									["Name"] = "Healing Rain",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["FakeHidden"] = true,
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["GUID"] = "TMW:icon:1SP6bSPlqqCy",
+									["ShowTimer"] = true,
+									["Name"] = "Healing Rain",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"SQ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Type"] = "cooldown",
+									["FakeHidden"] = true,
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["GUID"] = "TMW:icon:1Sf_uOFqFR49",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["FakeHidden"] = true,
+									["Name"] = "Lava Burst",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"C2", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:1",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0.75,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["GUID"] = "TMW:icon:1Sf_uOFv0cK5",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["FakeHidden"] = true,
+									["Name"] = "Lava Burst",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"Q", -- [1]
+												"[Stacks:Hide(0)]", -- [2]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:3",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0.75,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["GUID"] = "TMW:icon:1Sf_uOFzQpGU",
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["FakeHidden"] = true,
+									["Name"] = "Flame Shock",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"C1", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:1",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0.75,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["GUID"] = "TMW:icon:1Sf_uOG1uBKv",
+									["ShowTimer"] = true,
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["FakeHidden"] = true,
+									["Name"] = "Flame Shock",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"SQ", -- [1]
+											},
+										},
+									},
+									["Enabled"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:3",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0.75,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+								{
+									["GUID"] = "TMW:icon:1Sjkf3ISOhOz",
+									["Type"] = "conditionicon",
+									["Enabled"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"6", -- [1]
+											},
+										},
+									},
+									["FakeHidden"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:1",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["CustomTex"] = "77472",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [21]
+								{
+									["GUID"] = "TMW:icon:1Sjkf3IYZT0L",
+									["Type"] = "conditionicon",
+									["Enabled"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"6", -- [1]
+											},
+										},
+									},
+									["FakeHidden"] = true,
+									["Conditions"] = {
+										{
+											["Name"] = "actionbar:3",
+											["Type"] = "MACRO",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["CustomTex"] = "403",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [22]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [23]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [24]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [25]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [26]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [27]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [28]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [29]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [30]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [31]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [32]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [33]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [34]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [35]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [36]
+							},
+							["Name"] = "Resto Rotation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["Point"] = {
+								["y"] = 98.8250937751799,
+								["x"] = 343.263977050781,
+								["point"] = "LEFT",
+								["relativePoint"] = "LEFT",
+							},
+						}, -- [3]
+						{
+							["GUID"] = "TMW:group:1Rdy4shSvHOv",
+							["Strata"] = "LOW",
+							["Point"] = {
+								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+								["x"] = 10,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+							},
+							["Scale"] = 1,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Spiritwalker's Grace",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"ST", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Healing Tide Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"S2", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Spirit Link Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"S3", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Ascendance",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"S4\"\nend]", -- [1]
+											},
+										},
+									},
+									["Conditions"] = {
+										{
+											["Name"] = "Ascendance",
+											["Type"] = "TALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+							},
+							["SortPriorities"] = {
+								{
+									["Method"] = "fakehidden",
+								}, -- [1]
+								{
+									["Method"] = "shown",
+									["Order"] = -1,
+								}, -- [2]
+								{
+									["Method"] = "id",
+									["Order"] = 1,
+								}, -- [3]
+							},
+							["Name"] = "Resto CDs",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+								},
+							},
+							["Locked"] = true,
+							["Columns"] = 8,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[263] = false,
+								[262] = false,
+							},
+							["ShrinkGroup"] = true,
+						}, -- [4]
+						{
+							["GUID"] = "TMW:group:1Re9GhuLUhA_",
+							["Strata"] = "LOW",
+							["Point"] = {
+								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+								["x"] = 10,
+								["point"] = "LEFT",
+								["relativePoint"] = "RIGHT",
+							},
+							["Scale"] = 1,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Capacitor Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SZ\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Counterstrike Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SR\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Purify Spirit",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"R\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Astral Shift",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"V\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Hex",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"Z\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Tremor Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"A2\"\nend]", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Wind Shear",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Rocket Jump",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Type"] = "cooldown",
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Wind Rush Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+											["Alpha"] = 0,
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+							},
+							["SortPriorities"] = {
+								{
+									["Method"] = "fakehidden",
+								}, -- [1]
+								{
+									["Method"] = "shown",
+									["Order"] = -1,
+								}, -- [2]
+								{
+									["Method"] = "id",
+									["Order"] = 1,
+								}, -- [3]
+							},
+							["Name"] = "Resto Util",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+								},
+							},
+							["Locked"] = true,
+							["Columns"] = 10,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["ShrinkGroup"] = true,
+						}, -- [5]
+						{
+							["GUID"] = "TMW:group:1ReGzyv8L=59",
+							["Strata"] = "LOW",
+							["Point"] = {
+								["y"] = 4,
+								["relativeTo"] = "TMW:group:1RdxyvcF5MR3",
+								["point"] = "BOTTOMLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+							["Scale"] = 1,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1Sjkf3ISOhOz", -- [1]
+										"TMW:icon:1Sjkf3IYZT0L", -- [2]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "13",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"4", -- [1]
+											},
+										},
+									},
+									["Type"] = "item",
+									["Conditions"] = {
+										{
+											["Name"] = "13",
+											["Type"] = "ITEMSPELL",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Unleash Life",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "buff",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"", -- [1]
+											},
+										},
+									},
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["ShowTimer"] = true,
+									["Type"] = "buff",
+									["Name"] = "High Tide",
+									["ShowTimerTextnoOCC"] = true,
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"Q", -- [1]
+												"", -- [2]
+											},
+										},
+									},
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ICONFLASH",
+											["OnlyShown"] = true,
+											["AnimColor"] = "7fffffff",
+											["Event"] = "WCSP",
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "BUFFDUR",
+													["Name"] = "Flash Flood",
+													["Operator"] = ">",
+												}, -- [1]
+												{
+													["Type"] = "COMBAT",
+												}, -- [2]
+												["n"] = 2,
+											},
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Flash Flood",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "buff",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												[2] = "",
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["Icons"] = {
+										"TMW:icon:1S5rMOrbx2W6", -- [1]
+										"TMW:icon:1S5rMRlNU6DL", -- [2]
+										"TMW:icon:1S5rMWv1TVbh", -- [3]
+										"TMW:icon:1S5rMUxYFXPO", -- [4]
+										"TMW:icon:1S5rMN7drbw1", -- [5]
+										"TMW:icon:1S5rKA3M0608", -- [6]
+										"TMW:icon:1S5rKA3Mkp9X", -- [7]
+									},
+									["Name"] = "Spiritwalker's Grace",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Type"] = "buff",
+									["Events"] = {
+										{
+											["Event"] = "OnEventsRestored",
+											["Type"] = "Animations",
+											["Infinite"] = true,
+											["Animation"] = "ACTVTNGLOW",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Gladiator's Medallion",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												[2] = "[Stacks:Hide(0, 1)]",
+											},
+										},
+									},
+									["Conditions"] = {
+										{
+											["Type"] = "PVPFLAG",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Grounding Totem",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"[if Duration(gcd=false) > 0 and Stacks < 1 then\n    \"\"\nelse\n    \"SR\"\nend]", -- [1]
+											},
+										},
+									},
+									["Conditions"] = {
+										{
+											["Name"] = "Grounding Totem",
+											["Type"] = "PVPTALENTLEARNED",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Tidebringer",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"", -- [1]
+											},
+										},
+									},
+									["Type"] = "buff",
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+							},
+							["SortPriorities"] = {
+								{
+									["Method"] = "fakehidden",
+								}, -- [1]
+								{
+									["Method"] = "shown",
+									["Order"] = -1,
+								}, -- [2]
+								{
+									["Method"] = "id",
+									["Order"] = 1,
+								}, -- [3]
+							},
+							["Columns"] = 10,
+							["Name"] = "Resto Procs/Trinkets",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = -4,
+								},
+							},
+							["Locked"] = true,
+							["Level"] = 7,
+							["EnabledSpecs"] = {
+								[103] = false,
+								[66] = false,
+								[70] = false,
+								[104] = false,
+								[102] = false,
+								[257] = false,
+								[258] = false,
+								[262] = false,
+								[263] = false,
+							},
+							["ShrinkGroup"] = true,
+						}, -- [6]
+						{
+							["GUID"] = "TMW:group:1Sjkh_6p41Ck",
+							["Strata"] = "LOW",
+							["Point"] = {
+								["y"] = 4,
+								["relativeTo"] = "TMW:group:1Rdy4shSvHOv",
+								["point"] = "BOTTOMLEFT",
+								["relativePoint"] = "TOPLEFT",
+							},
+							["Scale"] = 1,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "BUFFDUR",
+													["Name"] = "Lava Surge",
+													["Operator"] = ">",
+												}, -- [1]
+												["n"] = 1,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Icons"] = {
+										"TMW:icon:1Sf_uOFqFR49", -- [1]
+										"TMW:icon:1Sf_uOFv0cK5", -- [2]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["Type"] = "meta",
+									["Icons"] = {
+										"TMW:icon:1Sf_uOFzQpGU", -- [1]
+										"TMW:icon:1Sf_uOG1uBKv", -- [2]
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["ShowTimerTextnoOCC"] = true,
+									["BuffOrDebuff"] = "HARMFUL",
+									["Unit"] = "target",
+									["Type"] = "buff",
+									["Name"] = "Flame Shock",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+										},
+									},
+									["Events"] = {
+										{
+											["Type"] = "Animations",
+											["Animation"] = "ACTVTNGLOW",
+											["OnlyShown"] = true,
+											["OnConditionConditions"] = {
+												{
+													["Type"] = "DEBUFFDUR",
+													["Name"] = "Flame Shock",
+													["Unit"] = "target",
+												}, -- [1]
+												["n"] = 1,
+											},
+											["Event"] = "WCSP",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["Conditions"] = {
+										{
+											["Type"] = "COMBAT",
+										}, -- [1]
+										["n"] = 1,
+									},
+									["UnitConditions"] = {
+										{
+											["Type"] = "REACT",
+											["Level"] = 1,
+										}, -- [1]
+										["n"] = 1,
+									},
+									["States"] = {
+										{
+											["Alpha"] = 0.3,
+										}, -- [1]
+										{
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+							["Name"] = "Resto Dps",
+							["Locked"] = true,
+							["Level"] = 7,
+							["EnabledSpecs"] = {
+								[262] = false,
+								[263] = false,
+							},
+						}, -- [7]
+						{
+							["GUID"] = "TMW:group:1UCZ3V28sYuk",
+							["Name"] = "Ele CC",
+							["Scale"] = 1.2,
+							["Icons"] = {
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Grounding Totem",
+									["ShowTimerTextnoOCC"] = true,
+									["Type"] = "cooldown",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"SR", -- [1]
+											},
+										},
+									},
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Alpha"] = 0.4,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Wind Shear",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"G", -- [1]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["Enabled"] = true,
+									["ShowTimer"] = true,
+									["Name"] = "Hex",
+									["SettingsPerView"] = {
+										["icon"] = {
+											["TextLayout"] = "TMW:textlayout:1SK83QGCIAmV",
+											["Texts"] = {
+												"Z", -- [1]
+												"[Stacks:Hide(0, 1)]", -- [2]
+											},
+										},
+									},
+									["Type"] = "cooldown",
+									["States"] = {
+										{
+										}, -- [1]
+										{
+											["Color"] = "ffffffffd",
+											["Alpha"] = 1,
+										}, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+							},
+							["EnabledSpecs"] = {
+								[263] = false,
+								[264] = false,
+							},
+							["Point"] = {
+								["y"] = 2,
+								["relativeTo"] = "TMW:group:1SOQwfYksHy4",
+								["point"] = "BOTTOMRIGHT",
+								["relativePoint"] = "TOPRIGHT",
+							},
+						}, -- [8]
+						{
+							["GUID"] = "TMW:group:1UCZ4motcXKn",
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+							["Name"] = "Ele CDs",
+						}, -- [9]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+							},
+						}, -- [10]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [13]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [14]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [15]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [16]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [17]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [18]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [19]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [20]
+							},
+						}, -- [11]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+							},
+						}, -- [12]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [12]
+							},
+						}, -- [13]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [4]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [5]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [6]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [7]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [8]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [9]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [10]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [11]
+							},
+						}, -- [14]
+						{
+							["Icons"] = {
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [1]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [2]
+								{
+									["States"] = {
+										{
+										}, -- [1]
+										nil, -- [2]
+										{
+										}, -- [3]
+										{
+										}, -- [4]
+									},
+								}, -- [3]
+							},
+						}, -- [15]
+					},
+					["NumGroups"] = 9,
+					["TextureName"] = "ElvUI Norm",
+				},
 				["Toshmonk-backup"] = {
 					["Version"] = 87302,
 					["Groups"] = {
@@ -59086,22 +59142,6 @@ TMWOptDB = {
 						}, -- [1]
 						{
 							["GUID"] = "TMW:group:1Rdx_DW=cLka",
-							["EnabledSpecs"] = {
-								[70] = false,
-								[270] = false,
-								[66] = false,
-								[268] = false,
-							},
-							["Name"] = "WW Meta",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 3,
 							["Icons"] = {
 								{
 									["StackMin"] = 1,
@@ -59935,6 +59975,22 @@ TMWOptDB = {
 								["point"] = "TOPLEFT",
 								["relativePoint"] = "TOPLEFT",
 							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+									["TextLayout"] = "TMW:textlayout:1ReGfeLnpWTD",
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 3,
+							["EnabledSpecs"] = {
+								[70] = false,
+								[270] = false,
+								[66] = false,
+								[268] = false,
+							},
+							["Name"] = "WW Meta",
 						}, -- [2]
 						{
 							["GUID"] = "TMW:group:1Rdy4shSvHOv",
@@ -62260,21 +62316,6 @@ TMWOptDB = {
 						}, -- [5]
 						{
 							["GUID"] = "TMW:group:1ReJ4bUVz6P1",
-							["EnabledSpecs"] = {
-								[70] = false,
-								[65] = false,
-								[269] = false,
-								[270] = false,
-							},
-							["Name"] = "BrM Meta",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["SpacingX"] = 1,
-									["SpacingY"] = 1,
-								},
-							},
-							["Scale"] = 1.63042783737183,
-							["Rows"] = 3,
 							["Icons"] = {
 								{
 									["GUID"] = "TMW:icon:1RgwERJ7WbaF",
@@ -63077,6 +63118,21 @@ TMWOptDB = {
 								["point"] = "TOPLEFT",
 								["relativePoint"] = "TOPLEFT",
 							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["SpacingX"] = 1,
+									["SpacingY"] = 1,
+								},
+							},
+							["Scale"] = 1.63042783737183,
+							["Rows"] = 3,
+							["EnabledSpecs"] = {
+								[70] = false,
+								[65] = false,
+								[269] = false,
+								[270] = false,
+							},
+							["Name"] = "BrM Meta",
 						}, -- [6]
 						{
 							["GUID"] = "TMW:group:1ReJ4BggC4Pv",
@@ -66593,13 +66649,13 @@ TMWOptDB = {
 									["SpacingX"] = 1,
 								},
 							},
-							["ShrinkGroup"] = true,
+							["Locked"] = true,
 							["Alpha"] = 0.98,
 							["EnabledSpecs"] = {
 								[268] = false,
 								[269] = false,
 							},
-							["Locked"] = true,
+							["ShrinkGroup"] = true,
 						}, -- [11]
 						{
 							["GUID"] = "TMW:group:1RhL4Z8DYdjg",
@@ -69156,10 +69212,10 @@ TMWOptDB = {
 		["Toshmonk - Kil'jaeden"] = {
 			["Version"] = 87203,
 		},
-		["Base"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
 			["Version"] = 87401,
+		},
+		["Base"] = {
 		},
 		["Toshmonk-backup"] = {
 		},

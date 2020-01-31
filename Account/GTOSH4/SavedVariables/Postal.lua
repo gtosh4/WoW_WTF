@@ -5,10 +5,10 @@ Postal3DB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -36,13 +36,13 @@ Postal3DB = {
 		["Toshpal - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Sci|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
-					"Tosh|Kil'jaeden|Horde", -- [4]
-					"Yellowy|Kil'jaeden|Horde", -- [5]
-					"Backstab|Kil'jaeden|Horde", -- [6]
-					"Toshdk|Kil'jaeden|Horde", -- [7]
+					"Toshdk|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
+					"Sci|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Tosh|Kil'jaeden|Horde", -- [5]
+					"Yellowy|Kil'jaeden|Horde", -- [6]
+					"Backstab|Kil'jaeden|Horde", -- [7]
 					"Arnbjørn|Kil'jaeden|Horde", -- [8]
 					"Yukio|Kil'jaeden|Horde", -- [9]
 					"Pluie|Kil'jaeden|Horde", -- [10]
@@ -65,20 +65,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Yorman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshpal|Kil'jaeden|Horde", -- [1]
-					"Wraithbrand|Kil'jaeden|Horde", -- [2]
-					"Toshmonk|Kil'jaeden|Horde", -- [3]
-					"Toshaman|Kil'jaeden|Horde", -- [4]
-				},
-			},
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -88,6 +74,23 @@ Postal3DB = {
 					"Toshmonk|Kil'jaeden|Horde", -- [4]
 				},
 			},
+		},
+		["Yorman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshdk|Kil'jaeden|Horde", -- [2]
+					"Toshaman|Kil'jaeden|Horde", -- [3]
+					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [4]
+					"Toshpal|Kil'jaeden|Horde", -- [5]
+					"Wraithbrand|Kil'jaeden|Horde", -- [6]
+					"Toshmonk|Kil'jaeden|Horde", -- [7]
+				},
+			},
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["BlackBook"] = {

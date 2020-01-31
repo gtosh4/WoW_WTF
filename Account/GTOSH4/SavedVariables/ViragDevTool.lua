@@ -2,52 +2,23 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 10,
-	["collResizerPosition"] = 449.9994506835938,
 	["isWndOpen"] = false,
+	["collResizerPosition"] = 312.145751953125,
 	["history"] = {
-		"C_AzeriteEssence.GetMilestoneEssence", -- [1]
-		"C_AzeriteEssence.GetEssenceInfo", -- [2]
-		"C_AzeriteEssence.GetEssences", -- [3]
-		"help", -- [4]
-		"GetSpellInfo", -- [5]
-		"Plater.TargetIndicators", -- [6]
-		"ViragDevTool.settings.history", -- [7]
-		"find LFR", -- [8]
-		"find SLASH", -- [9]
-		"find Data ViragDevTool", -- [10]
-		"startswith Virag", -- [11]
+		"WeakAuras.GetRegion", -- [1]
+		"WeakAuras", -- [2]
+		"C_AzeriteEssence.GetMilestoneEssence", -- [3]
+		"C_AzeriteEssence.GetEssenceInfo", -- [4]
+		"C_AzeriteEssence.GetEssences", -- [5]
+		"help", -- [6]
+		"GetSpellInfo", -- [7]
+		"Plater.TargetIndicators", -- [8]
+		"ViragDevTool.settings.history", -- [9]
+		"find LFR", -- [10]
+		"find SLASH", -- [11]
+		"find Data ViragDevTool", -- [12]
+		"startswith Virag", -- [13]
 	},
-	["events"] = {
-		{
-			["event"] = "ALL",
-			["active"] = false,
-		}, -- [1]
-		{
-			["event"] = "CURSOR_UPDATE",
-			["active"] = false,
-		}, -- [2]
-		{
-			["unit"] = "player",
-			["event"] = "UNIT_AURA",
-			["active"] = false,
-		}, -- [3]
-		{
-			["event"] = "CHAT_MSG_CHANNEL",
-			["active"] = false,
-		}, -- [4]
-		{
-			["active"] = false,
-			["event"] = "COMBAT_LOG_EVENT_UNFILTERED",
-			["unit"] = "player",
-		}, -- [5]
-	},
-	["tArgs"] = {
-		113, -- [1]
-	},
-	["logs"] = {
-	},
-	["MAX_HISTORY_SIZE"] = 50,
-	["sideBarTabSelected"] = "history",
 	["colors"] = {
 		["ok"] = "|cFF00FF00",
 		["string"] = {
@@ -73,12 +44,7 @@ ViragDevTool_Settings = {
 			1, -- [4]
 		},
 		["green"] = "|cFF00FF00",
-		["default"] = {
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			1, -- [4]
-		},
+		["lightblue"] = "|cFF96C0CE",
 		["table"] = {
 			0.41, -- [1]
 			0.8, -- [2]
@@ -86,8 +52,44 @@ ViragDevTool_Settings = {
 			1, -- [4]
 		},
 		["darkred"] = "|cFFC25B56",
-		["lightblue"] = "|cFF96C0CE",
+		["default"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+		},
 		["error"] = "|cFFFF0000",
 		["gray"] = "|cFFBEB9B5",
+	},
+	["tArgs"] = {
+		"ToshAssign Timeline", -- [1]
+	},
+	["logs"] = {
+	},
+	["MAX_HISTORY_SIZE"] = 50,
+	["sideBarTabSelected"] = "history",
+	["events"] = {
+		{
+			["event"] = "ALL",
+			["active"] = false,
+		}, -- [1]
+		{
+			["event"] = "CURSOR_UPDATE",
+			["active"] = false,
+		}, -- [2]
+		{
+			["unit"] = "player",
+			["event"] = "UNIT_AURA",
+			["active"] = false,
+		}, -- [3]
+		{
+			["event"] = "CHAT_MSG_CHANNEL",
+			["active"] = false,
+		}, -- [4]
+		{
+			["active"] = false,
+			["event"] = "COMBAT_LOG_EVENT_UNFILTERED",
+			["unit"] = "player",
+		}, -- [5]
 	},
 }
