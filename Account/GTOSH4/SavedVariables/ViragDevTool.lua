@@ -3,7 +3,7 @@ ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 10,
 	["isWndOpen"] = false,
-	["collResizerPosition"] = 312.145751953125,
+	["collResizerPosition"] = 232.659912109375,
 	["history"] = {
 		"WeakAuras.GetRegion", -- [1]
 		"WeakAuras", -- [2]

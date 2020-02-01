@@ -128,8 +128,8 @@ AdiBagsDB = {
 			},
 			["positions"] = {
 				["anchor"] = {
-					["xOffset"] = 0,
-					["yOffset"] = 198.999923706055,
+					["xOffset"] = -161.006103515625,
+					["yOffset"] = 201.0126342773438,
 				},
 			},
 			["filterPriorities"] = {

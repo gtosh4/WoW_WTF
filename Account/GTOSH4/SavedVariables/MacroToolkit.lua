@@ -36,13 +36,13 @@ MacroToolkitDB = {
 	},
 	["profiles"] = {
 		["profile"] = {
-			["y"] = 437.533935546875,
-			["x"] = 911.2782592773438,
+			["y"] = 695.14404296875,
+			["x"] = 240.0833740234375,
 			["height"] = 431.000427246094,
 			["fonts"] = {
-				["mfont"] = "Ubuntu Condensed",
-				["mifont"] = "Ubuntu Condensed",
 				["edfont"] = "Ubuntu Condensed",
+				["mifont"] = "Ubuntu Condensed",
+				["mfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
 			["visbind"] = false,

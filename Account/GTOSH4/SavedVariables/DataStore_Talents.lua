@@ -17,7 +17,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580451056,
+				["lastUpdate"] = 1580490208,
 				["Specializations"] = {
 					6762, -- [1]
 					[3] = 11770,
@@ -49,7 +49,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1580457405,
+				["lastUpdate"] = 1580542357,
 				["Specializations"] = {
 					6009, -- [1]
 					7065, -- [2]

@@ -150,14 +150,14 @@ Grid2DB = {
 					["font"] = "PT Sans Narrow",
 					["menuDisabled"] = true,
 					["frameTexture"] = "ElvUI Norm",
-					["orientation"] = "HORIZONTAL",
 					["mouseoverHighlight"] = true,
-					["frameWidth"] = 100,
 					["frameContentColor"] = {
 						["r"] = 0.101960784313725,
 						["g"] = 0.101960784313725,
 						["b"] = 0.101960784313725,
 					},
+					["frameWidth"] = 100,
+					["orientation"] = "HORIZONTAL",
 				},
 				["Tosh - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -323,7 +323,7 @@ Grid2DB = {
 							["anchor"] = "TOPLEFT",
 							["BackgroundG"] = 0.101960784313725,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -592.0400199206342,
+							["PosY"] = -592.040165489474,
 							["PosX"] = 712.5333331183647,
 							["Spacing"] = 4,
 							["BackgroundA"] = 1,
@@ -568,17 +568,6 @@ Grid2DB = {
 					["lastSelectedModule"] = "Battle for Azeroth",
 					["debuffs"] = {
 						[1180] = {
-							["Drest'agath"] = {
-								310499, -- [1]
-								310361, -- [2]
-								["order"] = 7,
-								["ejid"] = 2373,
-							},
-							["Il'gynoth, Corruption Reborn"] = {
-								310322, -- [1]
-								["order"] = 8,
-								["ejid"] = 2374,
-							},
 							["The Prophet Skitra"] = {
 								307784, -- [1]
 								307785, -- [2]
@@ -589,6 +578,22 @@ Grid2DB = {
 								309777, -- [1]
 								["order"] = 10,
 								["ejid"] = 2364,
+							},
+							["Drest'agath"] = {
+								310499, -- [1]
+								310361, -- [2]
+								["order"] = 7,
+								["ejid"] = 2373,
+							},
+							["Maut"] = {
+								314337, -- [1]
+								["order"] = 2,
+								["ejid"] = 2365,
+							},
+							["Il'gynoth, Corruption Reborn"] = {
+								310322, -- [1]
+								["order"] = 8,
+								["ejid"] = 2374,
 							},
 						},
 					},
@@ -6259,6 +6264,7 @@ Grid2DB = {
 							310322, -- [13]
 							307359, -- [14]
 							309777, -- [15]
+							314337, -- [16]
 						},
 						[1001] = {
 							256553, -- [1]
