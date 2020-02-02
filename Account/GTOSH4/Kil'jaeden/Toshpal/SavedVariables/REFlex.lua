@@ -8,6 +8,10 @@ REFlexSettings = {
 	["CurrentTab"] = 6,
 	["LDBMode"] = 3,
 	["Toasts"] = true,
+	["LDBSide"] = "A",
+	["ArenaStatsLimit"] = 3,
+	["ConfigVersion"] = 263,
+	["FirstTime"] = false,
 	["Filters"] = {
 		["Map"] = 1,
 		["Bracket"] = 1,
@@ -19,10 +23,6 @@ REFlexSettings = {
 		["Season"] = 0,
 		["DateMode"] = 1,
 	},
-	["ArenaStatsLimit"] = 3,
-	["FirstTime"] = false,
-	["ConfigVersion"] = 263,
-	["LDBSide"] = "A",
 }
 REFlexDatabase = {
 	{
@@ -106,18 +106,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 0,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563872999,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -216,18 +216,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 166,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563873290,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -326,18 +326,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 92,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 4,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563873531,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -436,18 +436,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 67,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563873748,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -546,18 +546,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 176,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563874015,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -656,18 +656,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 122,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563874224,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -766,18 +766,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 255,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563874570,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -876,18 +876,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 4,
 		["Duration"] = 163,
-		["Season"] = 28,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 3,
 		["isBrawl"] = false,
 		["Version"] = 274,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1563874816,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -907,171 +907,6 @@ REFlexDatabase = {
 	}, -- [8]
 	{
 		["Map"] = 566,
-		["Season"] = 28,
-		["StatsNum"] = 1,
-		["PlayerNum"] = 5,
-		["PlayersNum"] = 30,
-		["Duration"] = 670,
-		["Hidden"] = false,
-		["isArena"] = false,
-		["Time"] = 1564522942,
-		["isBrawl"] = false,
-		["Version"] = 274,
-		["isRated"] = false,
-		["PlayerSide"] = 0,
-		["Winner"] = 0,
-		["PlayersStats"] = {
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [1]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [2]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [3]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [4]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [5]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [6]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [7]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [8]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [9]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [10]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [11]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [12]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [13]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [14]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [15]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [16]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [17]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [18]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [19]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [20]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [21]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [22]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [23]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [24]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [25]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [26]
-			{
-				{
-					0, -- [1]
-				}, -- [1]
-			}, -- [27]
-			{
-				{
-					2, -- [1]
-				}, -- [1]
-			}, -- [28]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [29]
-			{
-				{
-					1, -- [1]
-				}, -- [1]
-			}, -- [30]
-		},
 		["Players"] = {
 			{
 				"Zuluhand-Azralon", -- [1]
@@ -1644,22 +1479,175 @@ REFlexDatabase = {
 				12, -- [17]
 			}, -- [30]
 		},
+		["StatsNum"] = 1,
+		["PlayerSide"] = 0,
+		["PlayersNum"] = 30,
+		["Duration"] = 670,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1564522942,
+		["isArena"] = false,
+		["Version"] = 274,
+		["isRated"] = false,
+		["PlayersStats"] = {
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [1]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [2]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [3]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [4]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [6]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [8]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [10]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [11]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [12]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [13]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [15]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [17]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [19]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [20]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [21]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [22]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [23]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [24]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [25]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [26]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [27]
+			{
+				{
+					2, -- [1]
+				}, -- [1]
+			}, -- [28]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [29]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [30]
+		},
+		["Winner"] = 0,
+		["PlayerNum"] = 5,
+		["Season"] = 28,
 	}, -- [9]
 	{
 		["Map"] = 2118,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
-		["PlayersNum"] = 79,
-		["Duration"] = 687,
-		["Season"] = 28,
-		["PlayerNum"] = 76,
-		["PlayerSide"] = 0,
-		["isArena"] = false,
-		["Time"] = 1564523486,
-		["isRated"] = false,
-		["Version"] = 274,
-		["Winner"] = 0,
-		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Falystix-Dalaran", -- [1]
@@ -3163,6 +3151,18 @@ REFlexDatabase = {
 				15, -- [17]
 			}, -- [79]
 		},
+		["PlayersNum"] = 79,
+		["Duration"] = 687,
+		["Season"] = 28,
+		["isArena"] = false,
+		["Time"] = 1564523486,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
+		["Version"] = 274,
+		["Winner"] = 0,
+		["PlayerNum"] = 76,
+		["Hidden"] = false,
 	}, -- [10]
 	{
 		["Map"] = 1825,
@@ -3283,18 +3283,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 56,
-		["PlayerNum"] = 6,
-		["isArena"] = true,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isBrawl"] = false,
 		["Time"] = 1565064855,
-		["isRated"] = true,
+		["isArena"] = true,
 		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3431,18 +3431,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 113,
-		["PlayerNum"] = 6,
-		["isArena"] = true,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isBrawl"] = false,
 		["Time"] = 1565065051,
-		["isRated"] = true,
+		["isArena"] = true,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3579,18 +3579,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 6,
 		["Duration"] = 169,
-		["PlayerNum"] = 2,
-		["isArena"] = true,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isBrawl"] = false,
 		["Time"] = 1565065305,
-		["isRated"] = true,
+		["isArena"] = true,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3727,18 +3727,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 46,
-		["PlayerNum"] = 5,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565576662,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3875,18 +3875,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 86,
-		["PlayerNum"] = 5,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565576864,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4023,18 +4023,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 1,
 		["PlayersNum"] = 6,
 		["Duration"] = 68,
-		["PlayerNum"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565577039,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4171,18 +4171,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 3,
 		["PlayersNum"] = 6,
 		["Duration"] = 55,
-		["PlayerNum"] = 3,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565577198,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4319,18 +4319,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 6,
 		["Duration"] = 43,
-		["PlayerNum"] = 4,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565577328,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4467,18 +4467,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 6,
 		["Duration"] = 37,
-		["PlayerNum"] = 4,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565577451,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4615,18 +4615,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 57,
-		["PlayerNum"] = 5,
-		["isBrawl"] = false,
-		["Version"] = 274,
+		["Hidden"] = false,
 		["isArena"] = true,
 		["Time"] = 1565577591,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 274,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4763,18 +4763,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 140,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565577816,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565577816,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4911,18 +4911,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 80,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565577978,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565577978,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5059,18 +5059,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 141,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565578212,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565578212,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5207,18 +5207,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 49,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565578635,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565578635,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5336,18 +5336,18 @@ REFlexDatabase = {
 			}, -- [5]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 5,
 		["Duration"] = 125,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565578861,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565578861,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5484,18 +5484,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 63,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565579083,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565579083,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5632,18 +5632,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 176,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565579354,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565579354,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5780,18 +5780,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 85,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565579561,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565579561,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5928,18 +5928,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 77,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565579771,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565579771,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6076,18 +6076,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 78,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565579943,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565579943,
 		["Winner"] = 0,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6224,18 +6224,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 75,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565580122,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565580122,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6372,18 +6372,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 75,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1565580290,
+		["Season"] = 28,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 274,
+		["isRated"] = true,
+		["Time"] = 1565580290,
 		["Winner"] = 1,
-		["Season"] = 28,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6520,18 +6520,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 113,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579434132,
+		["Season"] = 0,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579434132,
 		["Winner"] = 1,
-		["Season"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6668,18 +6668,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 359,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579434639,
+		["Season"] = 0,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579434639,
 		["Winner"] = 0,
-		["Season"] = 0,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6816,18 +6816,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 244,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579434998,
+		["Season"] = 0,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579434998,
 		["Winner"] = 0,
-		["Season"] = 0,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6964,18 +6964,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 163,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579435240,
+		["Season"] = 0,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579435240,
 		["Winner"] = 1,
-		["Season"] = 0,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7074,18 +7074,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 52,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 1,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579520078,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7184,18 +7184,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 196,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 4,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579520356,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7294,18 +7294,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 116,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 2,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579520590,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7404,18 +7404,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 110,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 4,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579520885,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7514,18 +7514,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 251,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 4,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579521241,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7624,18 +7624,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 0,
 		["PlayersNum"] = 4,
 		["Duration"] = 240,
-		["Season"] = 0,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 4,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1579521590,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7772,18 +7772,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 157,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579839183,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579839183,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7920,18 +7920,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 85,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579839466,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579839466,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8068,18 +8068,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 49,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579839659,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579839659,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8216,18 +8216,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 93,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579839852,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579839852,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8364,18 +8364,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 93,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579840044,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579840044,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8512,18 +8512,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 168,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579840296,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579840296,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8660,18 +8660,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 87,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579840537,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579840537,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 4,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8808,18 +8808,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 94,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579840780,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579840780,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8956,18 +8956,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 148,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579841041,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579841041,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9104,18 +9104,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 121,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579844789,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579844789,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9252,18 +9252,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 210,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579845083,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579845083,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9400,18 +9400,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 87,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579845287,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579845287,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9548,18 +9548,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 161,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579845528,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579845528,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9696,18 +9696,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 289,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579845898,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579845898,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9844,18 +9844,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 149,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579846158,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579846158,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9992,18 +9992,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 160,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579846426,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579846426,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10140,18 +10140,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 105,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579846611,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579846611,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10288,18 +10288,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 38,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579846768,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579846768,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10436,18 +10436,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 79,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579846943,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579846943,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10584,18 +10584,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 118,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579847188,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579847188,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10732,18 +10732,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 83,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579847394,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579847394,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10880,18 +10880,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 365,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579847849,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579847849,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11028,18 +11028,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 72,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1579848011,
+		["Season"] = 29,
 		["isArena"] = true,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1579848011,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11176,18 +11176,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 82,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580188531,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580188531,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11324,18 +11324,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 68,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580188709,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580188709,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11472,18 +11472,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 100,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580188933,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580188933,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11620,18 +11620,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 126,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580189184,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580189184,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11768,18 +11768,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 68,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580189380,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580189380,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -11916,18 +11916,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 58,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580189913,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580189913,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12064,18 +12064,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 64,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580190059,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580190059,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12212,18 +12212,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 107,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580190275,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580190275,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12360,18 +12360,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 35,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580190401,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580190401,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12508,18 +12508,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 187,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580190684,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580190684,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12656,18 +12656,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 91,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580190866,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580190866,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12804,18 +12804,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 249,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580191205,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580191205,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -12952,18 +12952,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 65,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580191395,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580191395,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 2,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13100,18 +13100,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 112,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580191614,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580191614,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13248,18 +13248,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 103,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580191865,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580191865,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13396,18 +13396,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 117,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580192084,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580192084,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13544,18 +13544,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 109,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580192329,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580192329,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13692,18 +13692,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 180,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580192657,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580192657,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13840,18 +13840,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 52,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580192838,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580192838,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -13988,18 +13988,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 57,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580192982,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580192982,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14136,18 +14136,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 102,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580193167,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580193167,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14284,18 +14284,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 95,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580193345,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580193345,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14432,18 +14432,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 143,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580193627,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580193627,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14580,18 +14580,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 200,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580193926,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580193926,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14728,18 +14728,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 57,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580194100,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580194100,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -14876,18 +14876,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 119,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580194299,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580194299,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15024,18 +15024,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 90,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580194499,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580194499,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15172,18 +15172,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 168,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580194753,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580194753,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15320,18 +15320,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 261,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580195150,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580195150,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15468,18 +15468,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 72,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580195315,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580195315,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 5,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15616,18 +15616,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 86,
-		["Hidden"] = false,
-		["isArena"] = true,
-		["Time"] = 1580195514,
+		["Season"] = 29,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1580195514,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["PlayerNum"] = 6,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15764,18 +15764,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 106,
-		["Season"] = 29,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 2,
 		["isArena"] = true,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Time"] = 1580235210,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 2,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15912,18 +15912,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 230,
-		["Season"] = 29,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Time"] = 1580235521,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -15944,6 +15944,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 1552,
 		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 6,
+		["Duration"] = 71,
+		["Hidden"] = false,
+		["PlayerNum"] = 6,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Time"] = 1580235671,
+		["isRated"] = false,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["isArena"] = false,
 		["Players"] = {
 			{
 				"Vðxx-Tichondrius", -- [1]
@@ -16060,18 +16072,6 @@ REFlexDatabase = {
 				20, -- [17]
 			}, -- [6]
 		},
-		["PlayersNum"] = 6,
-		["Duration"] = 71,
-		["Season"] = 29,
-		["isArena"] = false,
-		["Time"] = 1580235671,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = false,
-		["Version"] = 275,
-		["Winner"] = 0,
-		["PlayerNum"] = 6,
-		["Hidden"] = false,
 	}, -- [99]
 	{
 		["Map"] = 572,
@@ -16192,18 +16192,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 210,
-		["Season"] = 29,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Time"] = 1580236089,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16340,18 +16340,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 290,
-		["Season"] = 29,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isBrawl"] = false,
 		["Time"] = 1580236487,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16488,18 +16488,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 34,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 5,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580337632,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["PlayerNum"] = 5,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16636,18 +16636,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 75,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580337791,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16784,18 +16784,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 147,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580338105,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -16932,18 +16932,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 165,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580338554,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17080,18 +17080,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 99,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580338942,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17228,18 +17228,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 46,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580339326,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17376,18 +17376,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 103,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580339514,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17524,18 +17524,18 @@ REFlexDatabase = {
 			}, -- [6]
 		},
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 71,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
 		["Version"] = 275,
-		["isRated"] = true,
+		["isArena"] = true,
 		["Time"] = 1580339839,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -17553,6 +17553,2078 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 	}, -- [109]
+	{
+		["Map"] = 1672,
+		["PlayerNum"] = 2,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Shapers", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				1153397, -- [10]
+				158152, -- [11]
+				0, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [1]
+			{
+				"Toshpal", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				253076, -- [10]
+				1513988, -- [11]
+				1645, -- [12]
+				6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [2]
+			{
+				"Fozz-Khadgar", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Night Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				988179, -- [10]
+				366687, -- [11]
+				1139, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				31, -- [17]
+			}, -- [3]
+			{
+				"Holyside-Alleria", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				0, -- [10]
+				703390, -- [11]
+				1365, -- [12]
+				-4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				14, -- [17]
+			}, -- [4]
+			{
+				"Sciblaster", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				849738, -- [10]
+				347158, -- [11]
+				1474, -- [12]
+				33, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [5]
+			{
+				"Valeshia-Khadgar", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Night Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				821492, -- [10]
+				382877, -- [11]
+				1139, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				23, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 77,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580617082,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1463, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1661, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [110]
+	{
+		["Map"] = 1134,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Khungfeu-Area52", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				11483, -- [10]
+				2221853, -- [11]
+				1047, -- [12]
+				93, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				48, -- [17]
+			}, -- [1]
+			{
+				"Ruu-DarkIron", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1829649, -- [10]
+				682000, -- [11]
+				1047, -- [12]
+				93, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Unholy", -- [16]
+				169, -- [17]
+			}, -- [2]
+			{
+				"Sciblaster", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				858061, -- [10]
+				441542, -- [11]
+				1507, -- [12]
+				-1, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [3]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				2102732, -- [10]
+				275979, -- [11]
+				96, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [4]
+			{
+				"Sozzik-DarkIron", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				1412563, -- [10]
+				221854, -- [11]
+				1451, -- [12]
+				21, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Survival", -- [16]
+				53, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				217986, -- [10]
+				1870266, -- [11]
+				1651, -- [12]
+				-18, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 114,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580617357,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1667, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1466, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [111]
+	{
+		["Map"] = 572,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				2258899, -- [10]
+				753505, -- [11]
+				1506, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Crittic-Thrall", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				3932288, -- [10]
+				1814918, -- [11]
+				1044, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				53, -- [17]
+			}, -- [2]
+			{
+				"Hephestion-Thrall", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				2777318, -- [10]
+				1080099, -- [11]
+				480, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Unholy", -- [16]
+				53, -- [17]
+			}, -- [3]
+			{
+				"Revlicht-Thrall", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				258655, -- [10]
+				2737954, -- [11]
+				1044, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				80, -- [17]
+			}, -- [4]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				3295485, -- [10]
+				588282, -- [11]
+				96, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				569252, -- [10]
+				5652248, -- [11]
+				1633, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 217,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580617691,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1591, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1513, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [112]
+	{
+		["Map"] = 1825,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				530357, -- [10]
+				159520, -- [11]
+				1518, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Cinemark-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				195807, -- [10]
+				190458, -- [11]
+				576, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				58, -- [17]
+			}, -- [2]
+			{
+				"Keldrim-Lightbringer", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				16151, -- [10]
+				506817, -- [11]
+				1532, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				77, -- [17]
+			}, -- [3]
+			{
+				"Mïcksweet-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				284118, -- [10]
+				59876, -- [11]
+				1439, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				63, -- [17]
+			}, -- [4]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				665419, -- [10]
+				93280, -- [11]
+				192, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				185139, -- [10]
+				357372, -- [11]
+				1641, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 66,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580617852,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1534, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1607, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [113]
+	{
+		["Map"] = 572,
+		["PlayerNum"] = 5,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				3, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				840696, -- [10]
+				266506, -- [11]
+				1531, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Dentsaro-Spirestone", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1255262, -- [10]
+				456248, -- [11]
+				862, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Unholy", -- [16]
+				73, -- [17]
+			}, -- [2]
+			{
+				"Knibbs-Spirestone", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				7480, -- [10]
+				496686, -- [11]
+				1448, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				10, -- [17]
+			}, -- [3]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				1002532, -- [10]
+				243621, -- [11]
+				288, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [4]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				415754, -- [10]
+				1189863, -- [11]
+				1649, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [5]
+			{
+				"Tot-Spirestone", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Nightborne", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				413017, -- [10]
+				40543, -- [11]
+				1448, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fury", -- [16]
+				21, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 65,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580618009,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1497, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1624, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [114]
+	{
+		["Map"] = 980,
+		["PlayerNum"] = 5,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				3, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				2088386, -- [10]
+				1121601, -- [11]
+				1542, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Jayswann-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				3328999, -- [10]
+				622265, -- [11]
+				1513, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Survival", -- [16]
+				34, -- [17]
+			}, -- [2]
+			{
+				"Prettycritys-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				329590, -- [10]
+				4116822, -- [11]
+				1436, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				38, -- [17]
+			}, -- [3]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				3295069, -- [10]
+				589607, -- [11]
+				384, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [4]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				518466, -- [10]
+				6031714, -- [11]
+				1656, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [5]
+			{
+				"Xanadú-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Gnome", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				3905041, -- [10]
+				489057, -- [11]
+				1515, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				35, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 272,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580618485,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1518, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1634, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [115]
+	{
+		["Map"] = 617,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				1009917, -- [10]
+				414838, -- [11]
+				1553, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Shapers", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				1843096, -- [10]
+				426264, -- [11]
+				480, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [2]
+			{
+				"Blumoonmedic-Kel'Thuzad", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Worgen", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				56802, -- [10]
+				1627179, -- [11]
+				1558, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				28, -- [17]
+			}, -- [3]
+			{
+				"Daezura-Stormreaver", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1343180, -- [10]
+				342859, -- [11]
+				958, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				84, -- [17]
+			}, -- [4]
+			{
+				"Slobbage-EmeraldDream", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				1279379, -- [10]
+				41545, -- [11]
+				1318, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				109, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				408058, -- [10]
+				1795079, -- [11]
+				1663, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 144,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580618759,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1645, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1538, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [116]
+	{
+		["Map"] = 617,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Sciblaster", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				3341281, -- [10]
+				1765772, -- [11]
+				1564, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Shapers", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				9154945, -- [10]
+				1664192, -- [11]
+				576, -- [12]
+				96, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [2]
+			{
+				"Debeauvoir-Dalaran", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Dwarf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				8296276, -- [10]
+				1921899, -- [11]
+				1515, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Outlaw", -- [16]
+				70, -- [17]
+			}, -- [3]
+			{
+				"Gigele-Dalaran", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Draenei", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				1000807, -- [10]
+				10256860, -- [11]
+				1482, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				14, -- [17]
+			}, -- [4]
+			{
+				"Madkrieger-Dalaran", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				5773218, -- [10]
+				2107298, -- [11]
+				1528, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				61, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				1804012, -- [10]
+				10917318, -- [11]
+				1671, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 467,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580619374,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1569, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1657, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [117]
+	{
+		["Map"] = 617,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Bluechris-Thrall", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Nightborne", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				578578, -- [10]
+				218091, -- [11]
+				1450, -- [12]
+				50, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				7, -- [17]
+			}, -- [1]
+			{
+				"Drakadin-Thrall", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				257142, -- [10]
+				200270, -- [11]
+				1451, -- [12]
+				50, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				33, -- [17]
+			}, -- [2]
+			{
+				"Holpher-Thrall", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Undead", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1022762, -- [10]
+				184008, -- [11]
+				956, -- [12]
+				95, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				26, -- [17]
+			}, -- [3]
+			{
+				"Scíence-Area52", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				271853, -- [10]
+				142939, -- [11]
+				1595, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [4]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				217075, -- [10]
+				63448, -- [11]
+				672, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				138047, -- [10]
+				349318, -- [11]
+				1680, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				20, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 38,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580619602,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1712, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1641, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [118]
+	{
+		["Map"] = 572,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Lapalux-Sargeras", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				814609, -- [10]
+				59803, -- [11]
+				1232, -- [12]
+				89, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				51, -- [17]
+			}, -- [1]
+			{
+				"Jdqt-Proudmoore", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				548218, -- [10]
+				1308746, -- [11]
+				1433, -- [12]
+				29, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				74, -- [17]
+			}, -- [2]
+			{
+				"Quasso-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				1059745, -- [10]
+				249511, -- [11]
+				1232, -- [12]
+				89, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				82, -- [17]
+			}, -- [3]
+			{
+				"Scíence-Area52", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				585870, -- [10]
+				432268, -- [11]
+				1595, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [4]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				997906, -- [10]
+				126916, -- [11]
+				672, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				76345, -- [10]
+				647391, -- [11]
+				1667, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 72,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580619779,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1667, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1592, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [119]
+	{
+		["Map"] = 1825,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Scíence-Area52", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1332030, -- [10]
+				524475, -- [11]
+				1583, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Illidoom-Mal'Ganis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				1501892, -- [10]
+				183808, -- [11]
+				1049, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				47, -- [17]
+			}, -- [2]
+			{
+				"Kurakami-Tichondrius", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				710657, -- [10]
+				1831166, -- [11]
+				1550, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				35, -- [17]
+			}, -- [3]
+			{
+				"Nyssã-Area52", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Vulpera", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				1044033, -- [10]
+				111913, -- [11]
+				1049, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				14, -- [17]
+			}, -- [4]
+			{
+				"Shapers", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				1476886, -- [10]
+				363838, -- [11]
+				672, -- [12]
+				95, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				219266, -- [10]
+				2457040, -- [11]
+				1652, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 112,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580619973,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1560, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1623, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [120]
+	{
+		["Map"] = 1911,
+		["PlayerNum"] = 5,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Scíence-Area52", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				4045756, -- [10]
+				1135923, -- [11]
+				1594, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Shapers", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				3824259, -- [10]
+				1365168, -- [11]
+				767, -- [12]
+				95, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [2]
+			{
+				"Jahroots-BleedingHollow", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				269530, -- [10]
+				4761827, -- [11]
+				1526, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				77, -- [17]
+			}, -- [3]
+			{
+				"Nescrotic-Zul'jin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Goblin", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				5499072, -- [10]
+				1292555, -- [11]
+				1413, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Unholy", -- [16]
+				56, -- [17]
+			}, -- [4]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				403581, -- [10]
+				7358450, -- [11]
+				1661, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [5]
+			{
+				"Warsenal-Zul'jin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				4304010, -- [10]
+				1557546, -- [11]
+				1478, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fury", -- [16]
+				123, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 251,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580620306,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1595, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1641, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [121]
+	{
+		["Map"] = 572,
+		["PlayerNum"] = 3,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Scíence-Area52", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				3573710, -- [10]
+				1768276, -- [11]
+				1606, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [1]
+			{
+				"Shapers", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				5538695, -- [10]
+				1013900, -- [11]
+				862, -- [12]
+				95, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [2]
+			{
+				"Toshpal", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				794041, -- [10]
+				7534423, -- [11]
+				1671, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [3]
+			{
+				"Ihureciv-Zuluhed", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Nightborne", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				4968292, -- [10]
+				1684257, -- [11]
+				1595, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Beast Mastery", -- [16]
+				98, -- [17]
+			}, -- [4]
+			{
+				"Phosphorus-Zuluhed", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				5745813, -- [10]
+				586851, -- [11]
+				1594, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				116, -- [17]
+			}, -- [5]
+			{
+				"Pleistarchus-Zuluhed", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				115960, -- [10]
+				6610368, -- [11]
+				1452, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				29, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 386,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580620894,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1662, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1622, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [122]
+	{
+		["Map"] = 1505,
+		["PlayerNum"] = 6,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Shapers", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				4487958, -- [10]
+				604665, -- [11]
+				957, -- [12]
+				94, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				146, -- [17]
+			}, -- [1]
+			{
+				"Imrlyaman-Tichondrius", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Human", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				1891434, -- [10]
+				984753, -- [11]
+				1734, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				294, -- [17]
+			}, -- [2]
+			{
+				"Pathiz-Korgath", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Night Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				2644629, -- [10]
+				496737, -- [11]
+				1756, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				48, -- [17]
+			}, -- [3]
+			{
+				"Scíence-Area52", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				3144354, -- [10]
+				1119737, -- [11]
+				1610, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				186, -- [17]
+			}, -- [4]
+			{
+				"Sebastián-EchoIsles", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Night Elf", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				36001, -- [10]
+				6262519, -- [11]
+				1611, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				153, -- [17]
+			}, -- [5]
+			{
+				"Toshpal", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				656069, -- [10]
+				2658212, -- [11]
+				1669, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 265,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1580621547,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1644, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1657, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+	}, -- [123]
 }
 REFlexHonorDatabase = {
 	[1569657600] = 11,
@@ -17570,27 +19642,28 @@ REFlexHonorDatabase = {
 	[1564041600] = 7,
 	[1578132000] = 3,
 	[1574330400] = 5,
+	[1579946400] = 1,
 	[1563955200] = 55,
 	[1577095200] = 6,
-	[1578045600] = 5,
 	[1580205600] = 530,
-	[1579773600] = 2000,
+	[1578045600] = 5,
+	[1564732800] = 9,
 	[1565510400] = 1990,
 	[1564992000] = 384,
+	[1565424000] = 3,
+	[1564473600] = 2650,
+	[1564128000] = 684,
+	[1563868800] = 980,
+	[1564387200] = 470,
+	[1580119200] = 2910,
+	[1566115200] = 23,
+	[1569225600] = 6,
+	[1564905600] = 46,
+	[1566374400] = 7,
 	[1579255200] = 30,
 	[1578996000] = 2,
-	[1566374400] = 7,
-	[1580119200] = 2910,
-	[1564387200] = 470,
-	[1563868800] = 980,
-	[1569225600] = 6,
-	[1566115200] = 23,
-	[1564905600] = 46,
-	[1564128000] = 684,
-	[1564473600] = 2650,
-	[1565424000] = 3,
-	[1564732800] = 9,
+	[1579773600] = 2000,
 	[1566460800] = 20,
 	[1579514400] = 680,
-	[1579946400] = 1,
+	[1580551200] = 1567,
 }

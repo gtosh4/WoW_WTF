@@ -5,9 +5,9 @@ JambaTaxiProfileDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Toshaman - Kil'jaeden"] = {
-		},
 		["Default"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
