@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -13,6 +6,13 @@ X: -148
 Y: 270
 W: 208
 H: 62
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -69,6 +69,13 @@ X: -540
 Y: -128
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -76,6 +83,13 @@ X: 0
 Y: 0
 W: 320
 H: 550
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: BOTTOM
+X: 5
+Y: 341
+W: 510
+H: 22
 Frame: Quartz3CastBarPet
 FrameLevel: 1
 Anchor: BOTTOMLEFT
@@ -111,27 +125,6 @@ X: -234
 Y: -154
 W: 728
 H: 753
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: TOP
-X: 444
-Y: -74
-W: 406
-H: 331
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: BOTTOM
-X: 5
-Y: 341
-W: 510
-H: 22
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: CENTER

@@ -1,13 +1,16 @@
 
 JambaTaxiProfileDB = {
 	["profileKeys"] = {
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
+		["Toshmonk - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Default"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},

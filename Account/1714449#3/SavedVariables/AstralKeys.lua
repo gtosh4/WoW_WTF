@@ -7,7 +7,7 @@ AstralKeys = {
 		14, -- [4]
 		15, -- [5]
 		132, -- [6]
-		403206, -- [7]
+		488624, -- [7]
 	}, -- [1]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		14, -- [4]
 		15, -- [5]
 		132, -- [6]
-		403105, -- [7]
+		493132, -- [7]
 	}, -- [2]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -25,16 +25,16 @@ AstralKeys = {
 		15, -- [4]
 		16, -- [5]
 		132, -- [6]
-		403120, -- [7]
+		493983, -- [7]
 	}, -- [3]
 	{
 		"Nooks-Kil'jaeden", -- [1]
 		"DEMONHUNTER", -- [2]
 		353, -- [3]
 		11, -- [4]
-		0, -- [5]
+		12, -- [5]
 		132, -- [6]
-		383622, -- [7]
+		482538, -- [7]
 	}, -- [4]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		6, -- [4]
 		0, -- [5]
 		132, -- [6]
-		402627, -- [7]
+		481999, -- [7]
 	}, -- [5]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -52,16 +52,16 @@ AstralKeys = {
 		15, -- [4]
 		14, -- [5]
 		132, -- [6]
-		383845, -- [7]
+		493977, -- [7]
 	}, -- [6]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
-		248, -- [3]
-		16, -- [4]
-		14, -- [5]
+		353, -- [3]
+		15, -- [4]
+		16, -- [5]
 		132, -- [6]
-		402483, -- [7]
+		487125, -- [7]
 	}, -- [7]
 	{
 		"Brewsko-Kil'jaeden", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		11, -- [4]
 		10, -- [5]
 		132, -- [6]
-		295767, -- [7]
+		480869, -- [7]
 	}, -- [8]
 	{
 		"Thunderzmonk-Kil'jaeden", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		14, -- [4]
 		16, -- [5]
 		132, -- [6]
-		380888, -- [7]
+		481855, -- [7]
 	}, -- [10]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -97,7 +97,7 @@ AstralKeys = {
 		15, -- [4]
 		14, -- [5]
 		132, -- [6]
-		403102, -- [7]
+		460063, -- [7]
 	}, -- [11]
 	{
 		"Discreet-Kil'jaeden", -- [1]
@@ -120,11 +120,11 @@ AstralKeys = {
 	{
 		"Arnbjørn-Kil'jaeden", -- [1]
 		"MAGE", -- [2]
-		244, -- [3]
-		15, -- [4]
-		13, -- [5]
+		246, -- [3]
+		13, -- [4]
+		16, -- [5]
 		132, -- [6]
-		403104, -- [7]
+		489312, -- [7]
 	}, -- [14]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		16, -- [4]
 		15, -- [5]
 		132, -- [6]
-		403105, -- [7]
+		482444, -- [7]
 	}, -- [16]
 	{
 		"Peace-Kil'jaeden", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		16, -- [4]
 		16, -- [5]
 		132, -- [6]
-		403103, -- [7]
+		493194, -- [7]
 	}, -- [17]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -160,7 +160,7 @@ AstralKeys = {
 		13, -- [4]
 		14, -- [5]
 		132, -- [6]
-		383935, -- [7]
+		460106, -- [7]
 	}, -- [18]
 	{
 		"Morepheous-Kil'jaeden", -- [1]
@@ -169,22 +169,28 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		132, -- [6]
-		231858, -- [7]
+		480234, -- [7]
 	}, -- [19]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 15,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 14,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [2]
+	{
+		["weekly_best"] = 0,
+		["class"] = "MONK",
+		["faction"] = 1,
+		["unit"] = "Toshmonk-Kil'jaeden",
+	}, -- [3]
 }
 AstralFriends = {
 	{
@@ -194,7 +200,7 @@ AstralFriends = {
 		244, -- [4]
 		14, -- [5]
 		132, -- [6]
-		299090, -- [7]
+		481433, -- [7]
 		"1", -- [8]
 		14, -- [9]
 	}, -- [1]
@@ -216,7 +222,7 @@ AstralFriends = {
 		249, -- [4]
 		16, -- [5]
 		132, -- [6]
-		398513, -- [7]
+		493195, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [3]
@@ -243,9 +249,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -254,7 +258,9 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
 	["general"] = {
 		["show_minimap_button"] = {
@@ -265,10 +271,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
 			["raid"] = false,
+			["party"] = true,
+			["no_key"] = true,
+			["guild"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,

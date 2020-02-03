@@ -1,15 +1,19 @@
 
 JambaDisplayTeamProfileDB = {
 	["profileKeys"] = {
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Default"] = {
-			["showTeamList"] = false,
+		["Toshmonk - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Toshaman - Kil'jaeden"] = {
+			["teamListTitleHeight"] = 0,
+		},
+		["Default"] = {
+			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
 		},
 		["Tosh - Kil'jaeden"] = {

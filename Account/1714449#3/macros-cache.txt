@@ -5,11 +5,21 @@ END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
 END
+VER 3 0000000000000032 "craft" "Sha_Spell_Fire_BlueFlameRing_nightmare."
+/run C_TradeSkillUI.CloseTradeSkill()
+/cast Tailoring
+/run C_TradeSkillUI.CraftRecipe(257103, 36)
+END
 VER 3 000000000000001A "dance" "ClassIcon_Druid."
 /dance
 END
 VER 3 0000000000000007 "focus" "132885"
 /focus
+END
+VER 3 0000000000000031 "mail" "INV_Misc_QuestionMark"
+/run MailFrameTab_OnClick(MailFrame,2)
+/run for b=0,4 do for s=0,36 do I=GetContainerItemLink(b,s) if I and I:find("Tidespray Linen Bracers")then UseContainerItem(b,s) end end end
+/run SendMail("ToshPal", "bracers", "")
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end

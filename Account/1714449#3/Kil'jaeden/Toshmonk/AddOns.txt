@@ -27,3 +27,4 @@ ElvUI_CastBarOverlay: disabled
 ElvUI_AuraBarsMovers: disabled
 Jamba: enabled
 Auctionator: disabled
+ElvUI_CustomTweaks: disabled

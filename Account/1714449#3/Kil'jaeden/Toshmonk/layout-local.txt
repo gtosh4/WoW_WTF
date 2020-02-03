@@ -1,11 +1,4 @@
 Version: 1
-Frame: Grid2LayoutFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: -188
-Y: 280
-W: 108
-H: 62
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -13,6 +6,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: -148
+Y: 270
+W: 208
+H: 62
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
@@ -30,8 +30,8 @@ H: 380
 Frame: AdiBagsAnchor1
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
-X: 0
-Y: 199
+X: -112
+Y: 202
 W: 80
 H: 80
 Frame: AstralKeyFrame
@@ -73,7 +73,7 @@ Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
 X: 385
-Y: 16
+Y: -93
 W: 200
 H: 50
 Frame: RematchPetCard
