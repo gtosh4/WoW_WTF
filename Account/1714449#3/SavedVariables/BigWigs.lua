@@ -132,56 +132,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Queen Azshara"] = {
-			["profiles"] = {
-				["Default"] = {
-					[300519] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Opulence"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285014] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Colors"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 398.945786950604,
-					["posy"] = 354.667696578315,
-				},
-			},
-		},
-		["BigWigs_Plugins_Bars"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
-					["visibleBarLimit"] = 15,
-					["BigWigsAnchor_width"] = 200.2515716552734,
-					["BigWigsAnchor_y"] = 257.60125702105,
-					["BigWigsAnchor_x"] = 675.743157964433,
-					["texture"] = "ElvUI Norm",
-					["barStyle"] = "AddOnSkins",
-					["BigWigsEmphasizeAnchor_height"] = 19.99998092651367,
-					["growup"] = false,
-					["BigWigsEmphasizeAnchor_width"] = 200.2515716552734,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 19.99998092651367,
-					["emphasizeTime"] = 12,
-					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
-					["fontSizeEmph"] = 11,
-					["outline"] = "OUTLINE",
-					["emphasizeMultiplier"] = 1,
-					["emphasizeMove"] = false,
-				},
-			},
-		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -232,10 +182,60 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Opulence"] = {
+			["profiles"] = {
+				["Default"] = {
+					[285014] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 398.945786950604,
+					["posy"] = 354.667696578315,
+				},
+			},
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsEmphasizeAnchor_y"] = 713.609605028476,
+					["visibleBarLimit"] = 15,
+					["BigWigsAnchor_width"] = 200.2515716552734,
+					["BigWigsAnchor_y"] = 257.60125702105,
+					["BigWigsAnchor_x"] = 675.743157964433,
+					["texture"] = "ElvUI Norm",
+					["barStyle"] = "AddOnSkins",
+					["BigWigsEmphasizeAnchor_height"] = 19.99998092651367,
+					["growup"] = false,
+					["BigWigsEmphasizeAnchor_width"] = 200.2515716552734,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 19.99998092651367,
+					["emphasizeTime"] = 12,
+					["BigWigsEmphasizeAnchor_x"] = 58.138742942228,
+					["fontSizeEmph"] = 11,
+					["outline"] = "OUTLINE",
+					["emphasizeMultiplier"] = 1,
+					["emphasizeMove"] = false,
+				},
+			},
+		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
 				["Default"] = {
 					[285118] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Queen Azshara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[300519] = 1032439,
 				},
 			},
 		},
@@ -504,11 +504,16 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2361] = {
+		[2347] = {
+			["mythic"] = {
+				["kills"] = 12,
+				["wipes"] = 16,
+				["best"] = 206.0960000000196,
+			},
 			["heroic"] = {
-				["kills"] = 14,
-				["wipes"] = 10,
-				["best"] = 345.5990000000002,
+				["kills"] = 13,
+				["best"] = 173.839999999851,
+				["wipes"] = 1,
 			},
 		},
 		[2351] = {
@@ -545,15 +550,11 @@ BigWigsStatsDB = {
 				["best"] = 204.0570000000007,
 			},
 		},
-		[2354] = {
+		[2361] = {
 			["heroic"] = {
-				["kills"] = 13,
-				["best"] = 199.0839999997988,
-				["wipes"] = 3,
-			},
-			["mythic"] = {
-				["best"] = 228.3759999999893,
-				["kills"] = 3,
+				["kills"] = 14,
+				["wipes"] = 10,
+				["best"] = 345.5990000000002,
 			},
 		},
 		[2359] = {
@@ -575,16 +576,15 @@ BigWigsStatsDB = {
 				["wipes"] = 2,
 			},
 		},
-		[2347] = {
-			["mythic"] = {
-				["kills"] = 12,
-				["wipes"] = 16,
-				["best"] = 206.0960000000196,
-			},
+		[2354] = {
 			["heroic"] = {
 				["kills"] = 13,
-				["best"] = 173.839999999851,
-				["wipes"] = 1,
+				["best"] = 199.0839999997988,
+				["wipes"] = 3,
+			},
+			["mythic"] = {
+				["best"] = 228.3759999999893,
+				["kills"] = 3,
 			},
 		},
 	},

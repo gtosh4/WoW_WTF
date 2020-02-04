@@ -22,7 +22,7 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580706149,
+				["lastUpdate"] = 1580802117,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -40,10 +40,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|382221283"] = "110216|1580718182|0|1",
-					["Ny'alotha, the Waking City Heroic|382232133"] = "110216|1580718182|0|1",
+					["Ny'alotha, the Waking City Mythic|382221283"] = "23076|1580805322|0|1",
+					["Ny'alotha, the Waking City Heroic|382232133"] = "23076|1580805322|0|1",
 				},
-				["lastUpdate"] = 1580718201,
+				["lastUpdate"] = 1580806596,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1562529857,

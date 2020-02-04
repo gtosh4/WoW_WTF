@@ -33,7 +33,7 @@ AddOnSkinsDB = {
 			["Blizzard_IslandsPartyPoseUI"] = true,
 			["Blizzard_ArtifactUI"] = true,
 			["Blizzard_BlackMarketUI"] = true,
-			["Blizzard_PetStable"] = true,
+			["Blizzard_IslandsQueueUI"] = true,
 			["Blizzard_TrainerUI"] = true,
 			["Blizzard_AlliedRacesUI"] = true,
 			["Blizzard_Contribution"] = true,
@@ -58,8 +58,8 @@ AddOnSkinsDB = {
 			["Blizzard_LookingForGuildUI"] = true,
 			["Blizzard_ItemUpgradeUI"] = true,
 			["Pawn"] = false,
-			["Blizzard_IslandsQueueUI"] = true,
 			["Blizzard_AuctionUI"] = true,
+			["Blizzard_PetStable"] = true,
 		},
 	},
 }

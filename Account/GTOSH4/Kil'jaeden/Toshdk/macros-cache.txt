@@ -1,3 +1,8 @@
+VER 3 0100000000000002 "Frenzy" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Frenzy
+/cast Blood Fury(Racial)
+/cast Unholy Frenzy
+END
 VER 3 0100000000000001 "gnaw" "INV_Misc_QuestionMark"
 #showtooltip Gnaw
 /petattack

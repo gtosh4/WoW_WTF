@@ -7,11 +7,6 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["deathCounter"] = false,
-		["progressTooltip"] = true,
-		["objectiveTimePerLevel"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["insertKeystone"] = true,
-		["show_affixes_as_icons"] = false,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -990,6 +985,15 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["objectiveTimePerLevel"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["insertKeystone"] = true,
+		["show_affixes_as_icons"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
 		["objectiveTimeInChat"] = true,
 		["show_affixes_as_text"] = true,
 		["objectiveTime"] = true,
@@ -1040,11 +1044,7 @@ MythicPlusTimerDB = {
 		["show_reapingtimer"] = true,
 		["objective_time"] = true,
 		["showAffixesAsText"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
+		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1661,8 +1661,8 @@ MythicPlusTimerDB = {
 			[135245] = {
 				[8] = 29,
 			},
-			[155434] = {
-				[4] = 1,
+			[128434] = {
+				[4] = 138,
 			},
 			[97678] = {
 				[8] = 1,
@@ -1673,7 +1673,7 @@ MythicPlusTimerDB = {
 			[137485] = {
 				[4] = 33,
 			},
-			[114637] = {
+			[155434] = {
 				[4] = 1,
 			},
 			[134418] = {
@@ -1776,8 +1776,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[134232] = {
+				[4] = 28,
 			},
 			[133593] = {
 				[5] = 3,
@@ -1785,8 +1785,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[131677] = {
-				[6] = 10,
+			[98926] = {
+				[4] = 1,
 			},
 			[130404] = {
 				[4] = 31,
@@ -2226,11 +2226,11 @@ MythicPlusTimerDB = {
 			[91781] = {
 				[4] = 1,
 			},
-			[98926] = {
-				[4] = 1,
+			[131677] = {
+				[6] = 10,
 			},
-			[134232] = {
-				[4] = 28,
+			[135254] = {
+				[4] = 2,
 			},
 			[138019] = {
 				[4] = 10,
@@ -2281,8 +2281,8 @@ MythicPlusTimerDB = {
 			[130400] = {
 				[6] = 50,
 			},
-			[128434] = {
-				[4] = 138,
+			[114637] = {
+				[4] = 1,
 			},
 			[126918] = {
 				[4] = 30,

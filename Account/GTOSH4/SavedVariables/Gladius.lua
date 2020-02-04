@@ -392,10 +392,10 @@ Gladius2DB = {
 			},
 			["locked"] = true,
 			["tagsVersion"] = 4,
-			["auraVersion"] = 1,
 			["y"] = {
 				["arena1"] = 229.7807371077943,
 			},
+			["auraVersion"] = 1,
 		},
 	},
 }

@@ -3,9 +3,3 @@ VER 3 0100000000000001 "gnaw" "INV_Misc_QuestionMark"
 /petattack
 /cast Gnaw
 END
-VER 3 0100000000000002 "TAS TEST" "70_inscription_deck_dominion_a."
-/script local r=WeakAuras.GetRegion("TAS TEST"); if r and r.test then r:test() end
-END
-VER 3 0100000000000003 "TEST2" "135840"
-/script local r=WeakAuras.GetRegion("TAS TEST"); if r and r.test2 then r:test2() end
-END

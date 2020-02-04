@@ -914,8 +914,10 @@ REFlexDatabase = {
 		["Duration"] = 670,
 		["Hidden"] = false,
 		["isArena"] = false,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
+		["Time"] = 1564522942,
+		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -1068,10 +1070,8 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["isRated"] = false,
-		["Time"] = 1564522942,
 		["Winner"] = 0,
-		["PlayerSide"] = 0,
+		["Version"] = 274,
 		["Players"] = {
 			{
 				"Zuluhand-Azralon", -- [1]
