@@ -2789,7 +2789,7 @@ Accountant_ClassicSaveData = {
 				["version"] = "v2.11.08.11302",
 				["month"] = "02",
 				["prvyear"] = "2019",
-				["totalcash"] = 1804299587,
+				["totalcash"] = 1815977797,
 				["prvdateweek"] = "01/26/20",
 				["prvday"] = "03/02/20",
 			},
@@ -2889,19 +2889,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 74374,
-						["Out"] = 6145486,
+						["Out"] = 6156486,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 55800,
+						["Out"] = 66800,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 11000,
 					},
 					["Month"] = {
 						["In"] = 32133,
-						["Out"] = 306398,
+						["Out"] = 317398,
 					},
 					["PrvYear"] = {
 						["In"] = 42241,
@@ -2917,7 +2917,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Year"] = {
 						["In"] = 32133,
-						["Out"] = 1813074,
+						["Out"] = 1824074,
 					},
 				},
 				["BARBER"] = {
@@ -2973,19 +2973,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 2275063,
-						["Out"] = 166108675,
+						["Out"] = 166342778,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 18776333,
+						["Out"] = 19010436,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 234103,
 					},
 					["Month"] = {
 						["In"] = 867934,
-						["Out"] = 62163154,
+						["Out"] = 62397257,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3001,7 +3001,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Year"] = {
 						["In"] = 2275063,
-						["Out"] = 166108675,
+						["Out"] = 166342778,
 					},
 				},
 				["LFG"] = {
@@ -3098,20 +3098,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 292964213,
-						["Out"] = 969962,
+						["In"] = 293534362,
+						["Out"] = 991414,
 					},
 					["Week"] = {
-						["In"] = 5759724,
-						["Out"] = 15638,
+						["In"] = 6329873,
+						["Out"] = 37090,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 0,
+						["In"] = 570149,
+						["Out"] = 21452,
 					},
 					["Month"] = {
-						["In"] = 11826312,
-						["Out"] = 19537,
+						["In"] = 12396461,
+						["Out"] = 40989,
 					},
 					["PrvYear"] = {
 						["In"] = 172963512,
@@ -3126,8 +3126,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 120000701,
-						["Out"] = 578895,
+						["In"] = 120570850,
+						["Out"] = 600347,
 					},
 				},
 				["VOID"] = {
@@ -3224,20 +3224,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 262217494,
-						["Out"] = 136596686,
+						["In"] = 262299624,
+						["Out"] = 136638093,
 					},
 					["Week"] = {
-						["In"] = 3141029,
-						["Out"] = 1972236,
+						["In"] = 3223159,
+						["Out"] = 2013643,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 150000,
+						["In"] = 82130,
+						["Out"] = 191407,
 					},
 					["Month"] = {
-						["In"] = 4008463,
-						["Out"] = 1972236,
+						["In"] = 4090593,
+						["Out"] = 2013643,
 					},
 					["PrvYear"] = {
 						["In"] = 184550631,
@@ -3252,8 +3252,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 77666863,
-						["Out"] = 130898233,
+						["In"] = 77748993,
+						["Out"] = 130939640,
 					},
 				},
 				["MERCH"] = {
@@ -3266,19 +3266,19 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 185949238,
+						["In"] = 187876869,
 						["Out"] = 1154173922,
 					},
 					["Week"] = {
-						["In"] = 820758,
+						["In"] = 2748389,
 						["Out"] = 1524856,
 					},
 					["Day"] = {
-						["In"] = 0,
+						["In"] = 1927631,
 						["Out"] = 0,
 					},
 					["Month"] = {
-						["In"] = 3085048,
+						["In"] = 5012679,
 						["Out"] = 1784856,
 					},
 					["PrvYear"] = {
@@ -3294,7 +3294,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 56445406,
+						["In"] = 58373037,
 						["Out"] = 86749399,
 					},
 				},
@@ -3309,19 +3309,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 34114189,
+						["Out"] = 35205769,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 1190913,
+						["Out"] = 2282493,
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 1190913,
+						["Out"] = 2282493,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 4913046,
+						["Out"] = 6004626,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3337,7 +3337,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 10063784,
+						["Out"] = 11155364,
 					},
 				},
 				["TRADE"] = {
@@ -3434,20 +3434,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 920094607,
-						["Out"] = 1596259197,
+						["In"] = 930592620,
+						["Out"] = 1596259368,
 					},
 					["Week"] = {
-						["In"] = 9836659,
-						["Out"] = 20000000,
+						["In"] = 20334672,
+						["Out"] = 20000171,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 0,
+						["In"] = 10498013,
+						["Out"] = 171,
 					},
 					["Month"] = {
-						["In"] = 37907744,
-						["Out"] = 20032645,
+						["In"] = 48405757,
+						["Out"] = 20032816,
 					},
 					["PrvYear"] = {
 						["In"] = 330293340,
@@ -3462,8 +3462,8 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 589801267,
-						["Out"] = 257059076,
+						["In"] = 600299280,
+						["Out"] = 257059247,
 					},
 				},
 			},
@@ -3480,7 +3480,7 @@ Accountant_ClassicSaveData = {
 				["dateweek"] = "02/02/20",
 				["version"] = "v2.11.08.11302",
 				["faction"] = "Horde",
-				["totalcash"] = 730458093,
+				["totalcash"] = 761082395,
 				["lastsessiondate"] = "04/02/20",
 				["prvdateweek"] = "01/26/20",
 				["month"] = "02",
@@ -3581,19 +3581,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 11000,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 11000,
+						["Out"] = 22000,
 					},
 					["Year"] = {
 						["In"] = 0,
-						["Out"] = 1383972,
+						["Out"] = 1394972,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 22000,
+						["Out"] = 33000,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3605,11 +3605,11 @@ Accountant_ClassicSaveData = {
 					},
 					["Session"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 11000,
 					},
 					["Total"] = {
 						["In"] = 0,
-						["Out"] = 1383972,
+						["Out"] = 1394972,
 					},
 				},
 				["BARBER"] = {
@@ -3790,20 +3790,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 0,
+						["In"] = 1923655,
+						["Out"] = 6914,
 					},
 					["Week"] = {
-						["In"] = 230363,
-						["Out"] = 0,
+						["In"] = 2154018,
+						["Out"] = 6914,
 					},
 					["Year"] = {
-						["In"] = 46215431,
-						["Out"] = 279000,
+						["In"] = 48139086,
+						["Out"] = 285914,
 					},
 					["Month"] = {
-						["In"] = 412895,
-						["Out"] = 0,
+						["In"] = 2336550,
+						["Out"] = 6914,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3814,12 +3814,12 @@ Accountant_ClassicSaveData = {
 						["Out"] = 279000,
 					},
 					["Session"] = {
-						["In"] = 0,
+						["In"] = 8862,
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 46215431,
-						["Out"] = 279000,
+						["In"] = 48139086,
+						["Out"] = 285914,
 					},
 				},
 				["VOID"] = {
@@ -3916,20 +3916,20 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 0,
-						["Out"] = 0,
+						["In"] = 41274,
+						["Out"] = 21087,
 					},
 					["Week"] = {
-						["In"] = 6486,
-						["Out"] = 0,
+						["In"] = 47760,
+						["Out"] = 21087,
 					},
 					["Year"] = {
-						["In"] = 59546348,
-						["Out"] = 315143,
+						["In"] = 59587622,
+						["Out"] = 336230,
 					},
 					["Month"] = {
-						["In"] = 117208,
-						["Out"] = 67113,
+						["In"] = 158482,
+						["Out"] = 88200,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -3940,12 +3940,12 @@ Accountant_ClassicSaveData = {
 						["Out"] = 248030,
 					},
 					["Session"] = {
-						["In"] = 0,
+						["In"] = 8862,
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 59546348,
-						["Out"] = 315143,
+						["In"] = 59587622,
+						["Out"] = 336230,
 					},
 				},
 				["MERCH"] = {
@@ -3958,19 +3958,19 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 0,
+						["In"] = 235615,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 1668935,
+						["In"] = 1904550,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 34389723,
+						["In"] = 34625338,
 						["Out"] = 16660986,
 					},
 					["Month"] = {
-						["In"] = 1668935,
+						["In"] = 1904550,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -3986,7 +3986,7 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 34389723,
+						["In"] = 34625338,
 						["Out"] = 16660986,
 					},
 				},
@@ -4085,19 +4085,19 @@ Accountant_ClassicSaveData = {
 					},
 					["Day"] = {
 						["In"] = 0,
-						["Out"] = 0,
+						["Out"] = 13479,
 					},
 					["Week"] = {
 						["In"] = 0,
-						["Out"] = 2844840,
+						["Out"] = 2858319,
 					},
 					["Year"] = {
 						["In"] = 13351,
-						["Out"] = 17137531,
+						["Out"] = 17151010,
 					},
 					["Month"] = {
 						["In"] = 0,
-						["Out"] = 2844840,
+						["Out"] = 2858319,
 					},
 					["PrvYear"] = {
 						["In"] = 0,
@@ -4113,7 +4113,7 @@ Accountant_ClassicSaveData = {
 					},
 					["Total"] = {
 						["In"] = 13351,
-						["Out"] = 17137531,
+						["Out"] = 17151010,
 					},
 				},
 				["QUEST"] = {
@@ -4126,19 +4126,19 @@ Accountant_ClassicSaveData = {
 						["Out"] = 0,
 					},
 					["Day"] = {
-						["In"] = 0,
+						["In"] = 28476238,
 						["Out"] = 0,
 					},
 					["Week"] = {
-						["In"] = 22790514,
+						["In"] = 51266752,
 						["Out"] = 0,
 					},
 					["Year"] = {
-						["In"] = 217211454,
+						["In"] = 245687692,
 						["Out"] = 115634829,
 					},
 					["Month"] = {
-						["In"] = 23024514,
+						["In"] = 51500752,
 						["Out"] = 0,
 					},
 					["PrvYear"] = {
@@ -4150,11 +4150,11 @@ Accountant_ClassicSaveData = {
 						["Out"] = 115634829,
 					},
 					["Session"] = {
-						["In"] = 0,
+						["In"] = 28476238,
 						["Out"] = 0,
 					},
 					["Total"] = {
-						["In"] = 217211454,
+						["In"] = 245687692,
 						["Out"] = 115634829,
 					},
 				},
@@ -9349,12 +9349,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 34251,
 							["Out"] = 0,
 						},
-						["Drustvar - Fletcher's Hollow"] = {
-							["In"] = 179834,
-							["Out"] = 0,
-						},
 						["Mechagon - The Heaps"] = {
 							["In"] = 121231,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
 							["Out"] = 0,
 						},
 						["Nazmir - Natha'vor"] = {
@@ -9461,8 +9461,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 145207,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
+						["Vol'dun"] = {
+							["In"] = 112070,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Umber Shore"] = {
@@ -9481,8 +9481,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 19230,
 							["Out"] = 0,
 						},
-						["Vol'dun"] = {
-							["In"] = 112070,
+						["Ulduar"] = {
+							["In"] = 3507204,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - Wavespeaker's Sanctum"] = {
@@ -9593,8 +9593,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13898,
 							["Out"] = 0,
 						},
-						["Ulduar"] = {
-							["In"] = 3507204,
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -9637,8 +9637,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 157095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 315948,
+						["Drustvar - Fletcher's Hollow"] = {
+							["In"] = 179834,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
@@ -11129,17 +11129,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 5728490,
 						},
-						["Zuldazar - Spirits Be With You"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 17602040,
 						},
 						["Nazjatar - Newhome"] = {
 							["In"] = 1075308,
 							["Out"] = 24000,
 						},
-						["Zuldazar - Scaletrader Post"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 17602040,
+							["Out"] = 15200000,
 						},
 						["Zuldazar - Zanchul"] = {
 							["In"] = 1290061,
@@ -11149,9 +11149,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 643584,
 							["Out"] = 4183757,
 						},
-						["Zuldazar - Port of Zandalar"] = {
+						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
-							["Out"] = 15200000,
+							["Out"] = 80000,
 						},
 					},
 					["MAIL"] = {
@@ -12505,12 +12505,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 34251,
 							["Out"] = 0,
 						},
-						["Drustvar - Fletcher's Hollow"] = {
-							["In"] = 179834,
-							["Out"] = 0,
-						},
 						["Mechagon - The Heaps"] = {
 							["In"] = 121231,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - Ashvane Foundry"] = {
+							["In"] = 315948,
 							["Out"] = 0,
 						},
 						["Nazmir - Natha'vor"] = {
@@ -12617,8 +12617,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 145207,
 							["Out"] = 0,
 						},
-						["Vol'dun - Atul'Aman"] = {
-							["In"] = 51770,
+						["Vol'dun"] = {
+							["In"] = 112070,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Umber Shore"] = {
@@ -12637,8 +12637,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 19230,
 							["Out"] = 0,
 						},
-						["Vol'dun"] = {
-							["In"] = 112070,
+						["Ulduar"] = {
+							["In"] = 3507204,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - Wavespeaker's Sanctum"] = {
@@ -12749,8 +12749,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13898,
 							["Out"] = 0,
 						},
-						["Ulduar"] = {
-							["In"] = 3507204,
+						["Vol'dun - Atul'Aman"] = {
+							["In"] = 51770,
 							["Out"] = 0,
 						},
 						["Zuldazar - Covescale Rise"] = {
@@ -12793,8 +12793,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 157095,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Ashvane Foundry"] = {
-							["In"] = 315948,
+						["Drustvar - Fletcher's Hollow"] = {
+							["In"] = 179834,
 							["Out"] = 0,
 						},
 						["Vol'dun - Slithering Gulch"] = {
@@ -14077,17 +14077,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 5728490,
 						},
-						["Zuldazar - Spirits Be With You"] = {
+						["Zuldazar - Scaletrader Post"] = {
 							["In"] = 0,
-							["Out"] = 80000,
+							["Out"] = 17602040,
 						},
 						["Nazjatar - Newhome"] = {
 							["In"] = 1075308,
 							["Out"] = 24000,
 						},
-						["Zuldazar - Scaletrader Post"] = {
+						["Zuldazar - Port of Zandalar"] = {
 							["In"] = 0,
-							["Out"] = 17602040,
+							["Out"] = 15200000,
 						},
 						["Zuldazar - Zanchul"] = {
 							["In"] = 1290061,
@@ -14097,9 +14097,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 643584,
 							["Out"] = 4183757,
 						},
-						["Zuldazar - Port of Zandalar"] = {
+						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 0,
-							["Out"] = 15200000,
+							["Out"] = 80000,
 						},
 					},
 					["OTHER"] = {
@@ -15965,17 +15965,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 234000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 341851067,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 468000,
+							["Out"] = 5000000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 234000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 468000,
-							["Out"] = 5000000,
+						["Chamber of Heart"] = {
+							["In"] = 234000,
+							["Out"] = 0,
 						},
 						["Nazmir"] = {
 							["In"] = 23400,
@@ -15985,9 +15985,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Chamber of Heart"] = {
-							["In"] = 234000,
-							["Out"] = 0,
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 341851067,
 						},
 					},
 				},
@@ -16277,17 +16277,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 234000,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 341851067,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 468000,
+							["Out"] = 5000000,
 						},
 						["Tiragarde Sound - Plunder Harbor"] = {
 							["In"] = 234000,
 							["Out"] = 0,
 						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 468000,
-							["Out"] = 5000000,
+						["Chamber of Heart"] = {
+							["In"] = 234000,
+							["Out"] = 0,
 						},
 						["Nazmir"] = {
 							["In"] = 23400,
@@ -16297,9 +16297,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Chamber of Heart"] = {
-							["In"] = 234000,
-							["Out"] = 0,
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 341851067,
 						},
 					},
 				},
@@ -16687,16 +16687,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 23234,
 							["Out"] = 0,
 						},
+						["Ny'alotha, the Waking City"] = {
+							["In"] = 615835,
+							["Out"] = 0,
+						},
 						["Nazmir - Plains of Tojek"] = {
 							["In"] = 41175,
 							["Out"] = 17050,
 						},
 						["Uldum - Obelisk of the Stars"] = {
 							["In"] = 843306,
-							["Out"] = 0,
-						},
-						["Ny'alotha, the Waking City"] = {
-							["In"] = 615835,
 							["Out"] = 0,
 						},
 						["The Banshee's Wail"] = {
@@ -17177,7 +17177,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 328238,
-							["Out"] = 19361946,
+							["Out"] = 19596049,
 						},
 						["Silithus: The Wound - Magni's Encampment"] = {
 							["In"] = 0,
@@ -17257,9 +17257,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 31969,
 							["Out"] = 0,
 						},
-						["Ny'alotha, the Waking City"] = {
-							["In"] = 658000,
-							["Out"] = 3288,
+						["Tiragarde Sound - Freehold"] = {
+							["In"] = 28807,
+							["Out"] = 0,
 						},
 						["Dazar'alor"] = {
 							["In"] = 1172933,
@@ -17269,8 +17269,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 10254535,
 							["Out"] = 2332299,
 						},
-						["Tiragarde Sound - Freehold"] = {
-							["In"] = 28807,
+						["Battle of Dazar'alor"] = {
+							["In"] = 591215,
 							["Out"] = 0,
 						},
 						["Dazar'alor - Hall of Ancient Paths"] = {
@@ -17285,9 +17285,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 20263,
 							["Out"] = 9429,
 						},
-						["Battle of Dazar'alor"] = {
-							["In"] = 591215,
-							["Out"] = 0,
+						["Ny'alotha, the Waking City"] = {
+							["In"] = 658000,
+							["Out"] = 3288,
 						},
 						["Ny'alotha"] = {
 							["In"] = 576479,
@@ -17489,7 +17489,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 227950,
+							["Out"] = 238950,
 						},
 						["Vol'dun - Whistlebloom Oasis"] = {
 							["In"] = 0,
@@ -17629,9 +17629,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 131751,
 							["Out"] = 0,
 						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 46818301,
-							["Out"] = 2174586,
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 2263936,
 						},
 						["Dazar'alor"] = {
 							["In"] = 3583486,
@@ -17657,13 +17657,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 10797,
 							["Out"] = 5639217,
 						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 46818301,
+							["Out"] = 2174586,
+						},
 						["Ny'alotha"] = {
 							["In"] = 1877150,
 							["Out"] = 0,
-						},
-						["Atal'Dazar"] = {
-							["In"] = 0,
-							["Out"] = 2263936,
 						},
 						["Zuldazar - Sandscar Breach"] = {
 							["In"] = 57313,
@@ -17772,8 +17772,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 94754,
-							["Out"] = 40945,
+							["In"] = 138016,
+							["Out"] = 75543,
 						},
 						["Drustvar - Hunter's Run"] = {
 							["In"] = 13018,
@@ -17872,7 +17872,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 28105,
+							["In"] = 54053,
 							["Out"] = 23371,
 						},
 						["Darkshore - Withering Thicket"] = {
@@ -17980,8 +17980,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 19298,
 						},
 						["Uldum - Akhenet Fields"] = {
-							["In"] = 31439,
-							["Out"] = 0,
+							["In"] = 44359,
+							["Out"] = 6809,
 						},
 						["Shrine of Seven Stars - The Golden Lantern"] = {
 							["In"] = 5753,
@@ -18082,7 +18082,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 177963,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 350580,
+							["In"] = 353617,
 							["Out"] = 0,
 						},
 						["Nazjatar - Newhome"] = {
@@ -18118,7 +18118,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 10999301,
 						},
 						["Chamber of Heart"] = {
-							["In"] = 6366675,
+							["In"] = 7366675,
 							["Out"] = 0,
 						},
 						["Dazar'alor"] = {
@@ -18326,7 +18326,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 4219564,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 26658806,
+							["In"] = 27583400,
 							["Out"] = 75452869,
 						},
 						["Nazjatar"] = {
@@ -18416,7 +18416,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 9272,
 						},
 						["Uldum - Vir'naal River"] = {
-							["In"] = 60611,
+							["In"] = 96640,
 							["Out"] = 0,
 						},
 						["Boulderfist Outpost"] = {
@@ -18544,8 +18544,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 318951,
-							["Out"] = 0,
+							["In"] = 457985,
+							["Out"] = 21452,
 						},
 						["Nazjatar - Deepsea Slave Pen"] = {
 							["In"] = 4101,
@@ -18580,7 +18580,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
-							["In"] = 21085056,
+							["In"] = 21095054,
 							["Out"] = 0,
 						},
 						["Uldum - Keset Pass"] = {
@@ -18595,6 +18595,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 14219,
 							["Out"] = 0,
 						},
+						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
+							["In"] = 254943,
+							["Out"] = 0,
+						},
 						["Stormsong Valley - Highland Pass"] = {
 							["In"] = 13825,
 							["Out"] = 0,
@@ -18603,8 +18607,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 102636,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
-							["In"] = 170976,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 11606,
 							["Out"] = 0,
 						},
 						["Nazmir - Terrace of Sorrows"] = {
@@ -18615,17 +18619,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 209444,
 							["Out"] = 437,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 11606,
-							["Out"] = 0,
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 124973,
+							["Out"] = 15885,
 						},
 						["Operation: Mechagon"] = {
 							["In"] = 2252779,
 							["Out"] = 813,
 						},
-						["Uldum - Akhenet Fields"] = {
-							["In"] = 96307,
-							["Out"] = 15885,
+						["Nazmir - Sunken Path"] = {
+							["In"] = 32382,
+							["Out"] = 0,
 						},
 						["Nazjatar - The Tidal Conflux"] = {
 							["In"] = 42210,
@@ -18647,17 +18651,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 222159,
 							["Out"] = 0,
 						},
-						["Nazmir - The Shattered River"] = {
-							["In"] = 18746,
-							["Out"] = 0,
-						},
-						["Nazmir - Sunken Path"] = {
-							["In"] = 32382,
+						["Uldum - Cradle of the Ancients"] = {
+							["In"] = 10685,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 1755168,
 							["Out"] = 37600,
+						},
+						["Nazmir - The Shattered River"] = {
+							["In"] = 18746,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Five Sisters"] = {
+							["In"] = 48338,
+							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 11955376,
@@ -18667,16 +18675,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 57229,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Five Sisters"] = {
-							["In"] = 48338,
-							["Out"] = 0,
-						},
 						["Stormsong Valley - The Brineworks"] = {
 							["In"] = 33631,
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen Legion Outpost"] = {
-							["In"] = 43677,
+							["In"] = 48217,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Eastwind Rest"] = {
@@ -18731,8 +18735,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 714953,
 							["Out"] = 0,
 						},
-						["Terrace of Torcali"] = {
-							["In"] = 9797,
+						["Kun-Lai Summit - Mogujia"] = {
+							["In"] = 39827,
 							["Out"] = 0,
 						},
 						["Darkshore - Twilight Shore"] = {
@@ -18743,9 +18747,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 41251,
 							["Out"] = 0,
 						},
-						["Kun-Lai Summit - Mogujia"] = {
-							["In"] = 39827,
-							["Out"] = 0,
+						["Nazmir - Krag'wa's Shore"] = {
+							["In"] = 2679412,
+							["Out"] = 31044,
 						},
 						["Nazmir - Mangrove Shore"] = {
 							["In"] = 1500750,
@@ -18759,9 +18763,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 56762,
 							["Out"] = 10575,
 						},
-						["Nazmir - Krag'wa's Shore"] = {
-							["In"] = 2679412,
-							["Out"] = 31044,
+						["Terrace of Torcali"] = {
+							["In"] = 9797,
+							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
 							["In"] = 841163,
@@ -18780,11 +18784,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 78400,
 						},
 						["Uldum - Vir'naal Dam"] = {
-							["In"] = 22139,
+							["In"] = 49787,
 							["Out"] = 0,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 1709871,
+							["In"] = 1806223,
 							["Out"] = 0,
 						},
 						["Nazjatar - Void Chamber"] = {
@@ -18811,24 +18815,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 67929,
 							["Out"] = 0,
 						},
+						["Uldum - Lost City of the Tol'vir"] = {
+							["In"] = 448002,
+							["Out"] = 20378,
+						},
 						["Vale of Eternal Blossoms - The Golden Stair"] = {
 							["In"] = 37833,
 							["Out"] = 0,
 						},
-						["Uldum - Lost City of the Tol'vir"] = {
-							["In"] = 436600,
-							["Out"] = 20378,
-						},
-						["Uldum - Tombs of the Precursors"] = {
-							["In"] = 122880,
+						["Vol'dun - Slithering Gulch"] = {
+							["In"] = 12718,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - Goldfield Farmstead"] = {
 							["In"] = 19849,
 							["Out"] = 0,
 						},
-						["Vol'dun - Slithering Gulch"] = {
-							["In"] = 12718,
+						["Uldum - Tombs of the Precursors"] = {
+							["In"] = 122880,
 							["Out"] = 0,
 						},
 						["Nazjatar - Kal'methir"] = {
@@ -18864,11 +18868,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 5223,
+							["In"] = 78608,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Winterbough Glade"] = {
-							["In"] = 28057,
+							["In"] = 36035,
 							["Out"] = 0,
 						},
 						["Arathi Highlands - Go'Shek Farm"] = {
@@ -18879,12 +18883,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 64054,
 							["Out"] = 0,
 						},
-						["Zuldazar - Lair of Rezan"] = {
-							["In"] = 10636,
-							["Out"] = 0,
-						},
 						["Nazmir"] = {
 							["In"] = 30314,
+							["Out"] = 0,
+						},
+						["Zuldazar - Lair of Rezan"] = {
+							["In"] = 10636,
 							["Out"] = 0,
 						},
 						["Darkshore - The Master's Glaive"] = {
@@ -18947,12 +18951,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 106358,
 							["Out"] = 1619,
 						},
-						["Nazjatar"] = {
-							["In"] = 23083,
+						["Zuldazar - Port of Zandalar"] = {
+							["In"] = 15222250,
 							["Out"] = 0,
 						},
 						["Uldum"] = {
-							["In"] = 452925,
+							["In"] = 480722,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -18963,8 +18967,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 195003,
 							["Out"] = 0,
 						},
-						["Zuldazar - Port of Zandalar"] = {
-							["In"] = 15222250,
+						["Nazjatar"] = {
+							["In"] = 23083,
 							["Out"] = 0,
 						},
 						["Nazjatar - Bloodfin Village"] = {
@@ -19000,7 +19004,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
-							["In"] = 227997,
+							["In"] = 232320,
 							["Out"] = 0,
 						},
 						["Uldum - Gate of Hamatep"] = {
@@ -19027,20 +19031,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 9506,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Mistfall Village"] = {
-							["In"] = 85128,
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 6182,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - Tempest's Edge"] = {
 							["In"] = 132938,
 							["Out"] = 0,
 						},
-						["Uldum - Vir'naal Lake"] = {
-							["In"] = 21146,
+						["Vale of Eternal Blossoms - Mistfall Village"] = {
+							["In"] = 85128,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 6182,
+						["Uldum - Vir'naal Lake"] = {
+							["In"] = 21146,
 							["Out"] = 0,
 						},
 						["Shrine of Seven Stars - The Emperor's Step"] = {
@@ -19115,13 +19119,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 5013,
 							["Out"] = 0,
 						},
-						["Uldum - Obelisk of the Stars"] = {
-							["In"] = 187892,
-							["Out"] = 32720,
-						},
 						["Uldum - Vir'naal River Delta"] = {
 							["In"] = 30071,
 							["Out"] = 0,
+						},
+						["Uldum - Obelisk of the Stars"] = {
+							["In"] = 187892,
+							["Out"] = 32720,
 						},
 						["Kun-Lai Summit - Mogu'shan Terrace"] = {
 							["In"] = 35146,
@@ -19139,10 +19143,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 867,
 							["Out"] = 0,
 						},
-						["Mogu'shan Vaults"] = {
-							["In"] = 81598,
-							["Out"] = 0,
-						},
 						["Nazmir - Natha'vor"] = {
 							["In"] = 266459,
 							["Out"] = 0,
@@ -19152,8 +19152,12 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Autumnshade Ridge"] = {
-							["In"] = 225761,
+							["In"] = 234106,
 							["Out"] = 21680,
+						},
+						["Mogu'shan Vaults"] = {
+							["In"] = 81598,
+							["Out"] = 0,
 						},
 						["Blackwing Descent"] = {
 							["In"] = 149319,
@@ -19183,13 +19187,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 163510,
 							["Out"] = 0,
 						},
-						["Zuldazar - Sandscar Breach"] = {
-							["In"] = 119595,
-							["Out"] = 4357,
-						},
 						["Ny'alotha, the Waking City"] = {
 							["In"] = 14342704,
 							["Out"] = 0,
+						},
+						["Zuldazar - Sandscar Breach"] = {
+							["In"] = 119595,
+							["Out"] = 4357,
 						},
 						["Arathi Highlands - Circle of East Binding"] = {
 							["In"] = 1521630,
@@ -19263,7 +19267,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 8810654,
+							["Out"] = 9902234,
 						},
 						["Crucible of Storms"] = {
 							["In"] = 0,
@@ -19458,8 +19462,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 69316,
-							["Out"] = 1957,
+							["In"] = 568709,
+							["Out"] = 2128,
 						},
 						["Nazjatar - Deepsea Slave Pen"] = {
 							["In"] = 4101,
@@ -19521,32 +19525,36 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1928300,
 							["Out"] = 0,
 						},
+						["Drustvar - Arom's Crossing"] = {
+							["In"] = 2147995,
+							["Out"] = 114937,
+						},
 						["Stormsong Valley - Braxton Lodge"] = {
 							["In"] = 1423623,
 							["Out"] = 2422,
 						},
-						["Uldum - Akhenet Fields"] = {
-							["In"] = 4333,
+						["Nazmir - Zul'Nazman"] = {
+							["In"] = 1348597,
 							["Out"] = 0,
 						},
 						["Nazmir - Terrace of Sorrows"] = {
 							["In"] = 1789018,
 							["Out"] = 14732,
 						},
-						["Nazjatar - Chamber of Harvesters"] = {
-							["In"] = 38980,
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 4333,
 							["Out"] = 0,
 						},
-						["Nazmir - Zul'Nazman"] = {
-							["In"] = 1348597,
+						["Nazjatar - Chamber of Harvesters"] = {
+							["In"] = 38980,
 							["Out"] = 0,
 						},
 						["Zanj'ir Keep"] = {
 							["In"] = 4580772,
 							["Out"] = 0,
 						},
-						["Uldum - Obelisk of the Sun"] = {
-							["In"] = 4405200,
+						["Mogu'shan Palace - Seat of Knowledge"] = {
+							["In"] = 27897340,
 							["Out"] = 0,
 						},
 						["Nazjatar - The Tidal Conflux"] = {
@@ -19573,13 +19581,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Mogu'shan Palace - Seat of Knowledge"] = {
-							["In"] = 27897340,
-							["Out"] = 0,
-						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 26314545,
 							["Out"] = 52292,
+						},
+						["Uldum - Obelisk of the Sun"] = {
+							["In"] = 4405200,
+							["Out"] = 0,
 						},
 						["Dread Wastes - Kor'vess"] = {
 							["In"] = 468000,
@@ -19654,7 +19662,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 35639209,
+							["In"] = 43890309,
 							["Out"] = 0,
 						},
 						["Nazjatar - Tide's Fall"] = {
@@ -19686,7 +19694,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 24097100,
+							["In"] = 24331100,
 							["Out"] = 0,
 						},
 						["Emerald Dreamway"] = {
@@ -19697,10 +19705,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1529438,
 							["Out"] = 0,
 						},
-						["Drustvar - Falcon's Rest"] = {
-							["In"] = 211984,
-							["Out"] = 0,
-						},
 						["Mechagon - Toothy Shallows"] = {
 							["In"] = 702000,
 							["Out"] = 0,
@@ -19709,20 +19713,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 1570611113,
 						},
+						["Zuldazar - Council Chambers"] = {
+							["In"] = 585000,
+							["Out"] = 0,
+						},
 						["Silithus: The Wound - Magni's Encampment"] = {
 							["In"] = 99738949,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Mistfall Cleft"] = {
-							["In"] = 1364330,
+						["Kun-Lai Summit - Gate of the August Celestials"] = {
+							["In"] = 748800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Talanji's Rebuke"] = {
 							["In"] = 54659,
 							["Out"] = 29444,
 						},
-						["Kun-Lai Summit - Gate of the August Celestials"] = {
-							["In"] = 748800,
+						["Tiragarde Sound - Mistfall Cleft"] = {
+							["In"] = 1364330,
 							["Out"] = 0,
 						},
 						["Drustvar - Hunter's Run"] = {
@@ -19733,16 +19741,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 21455,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Daelin's Gate"] = {
-							["In"] = 1511070,
-							["Out"] = 0,
+						["Zuldazar - Atal'Gral"] = {
+							["In"] = 353111,
+							["Out"] = 29814,
 						},
 						["Nazmir - Razorjaw River"] = {
 							["In"] = 1528344,
 							["Out"] = 0,
 						},
-						["Drustvar - Waycrest Manor"] = {
-							["In"] = 1438800,
+						["Tiragarde Sound - Daelin's Gate"] = {
+							["In"] = 1511070,
 							["Out"] = 0,
 						},
 						["Nazjatar - Deepsea Refuge"] = {
@@ -19753,40 +19761,40 @@ Accountant_ClassicZoneDB = {
 							["In"] = 21435585,
 							["Out"] = 0,
 						},
-						["Uldum - Sunstone Terrace"] = {
-							["In"] = 234000,
-							["Out"] = 0,
-						},
-						["Deepholm"] = {
-							["In"] = 81900,
+						["Nazmir - Zo'bal Ruins"] = {
+							["In"] = 1520200,
 							["Out"] = 0,
 						},
 						["Nazmir"] = {
 							["In"] = 28482,
 							["Out"] = 0,
 						},
-						["Zuldazar - Atal'Gral"] = {
-							["In"] = 353111,
-							["Out"] = 29814,
+						["The Maelstrom"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
+						["Uldum - Sunstone Terrace"] = {
+							["In"] = 234000,
+							["Out"] = 0,
 						},
 						["Stormsong Valley - Stonetusk Watch"] = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Uldum - Ankhaten Harbor"] = {
-							["In"] = 842400,
+						["Drustvar - Waycrest Manor"] = {
+							["In"] = 1438800,
+							["Out"] = 0,
+						},
+						["Deepholm"] = {
+							["In"] = 81900,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Pools of Power"] = {
 							["In"] = 15171,
 							["Out"] = 0,
 						},
-						["The Maelstrom"] = {
-							["In"] = 491400,
-							["Out"] = 0,
-						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 1404000,
+							["In"] = 1638000,
 							["Out"] = 0,
 						},
 						["Nazmir - Natha'vor"] = {
@@ -19833,29 +19841,29 @@ Accountant_ClassicZoneDB = {
 							["In"] = 452607,
 							["Out"] = 0,
 						},
-						["Nazmir - Plains of Tojek"] = {
-							["In"] = 2984657,
-							["Out"] = 0,
-						},
 						["Vol'dun - Darkwood Shoal"] = {
 							["In"] = 1355640,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Serpent's Spine"] = {
+							["In"] = 491400,
 							["Out"] = 0,
 						},
 						["Drustvar - Iceveil Glacier"] = {
 							["In"] = 605243,
 							["Out"] = 0,
 						},
-						["Uldum - Vir'naal River Delta"] = {
-							["In"] = 13904,
-							["Out"] = 83090,
+						["Nazjatar - The Hanging Reef"] = {
+							["In"] = 1227687,
+							["Out"] = 0,
 						},
 						["Mechagon - Scrapbone Den"] = {
 							["In"] = 1416103,
 							["Out"] = 0,
 						},
-						["Nazjatar - The Hanging Reef"] = {
-							["In"] = 1227687,
-							["Out"] = 0,
+						["Uldum - Vir'naal River Delta"] = {
+							["In"] = 13904,
+							["Out"] = 83090,
 						},
 						["Zuldazar - Tal'aman"] = {
 							["In"] = 13646,
@@ -19877,20 +19885,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1809450,
 							["Out"] = 26962,
 						},
-						["Nazjatar - Gorgonian Overlook"] = {
-							["In"] = 127050,
+						["Tiragarde Sound - Forgotten Vault"] = {
+							["In"] = 163800,
 							["Out"] = 0,
 						},
 						["Zuldazar - Terrace of the Speakers"] = {
 							["In"] = 0,
 							["Out"] = 428962,
 						},
-						["Tiragarde Sound - Forgotten Vault"] = {
-							["In"] = 163800,
-							["Out"] = 0,
-						},
-						["Darkshore - Twilight Shore"] = {
-							["In"] = 205592,
+						["Nazjatar - Gorgonian Overlook"] = {
+							["In"] = 127050,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
@@ -19900,6 +19904,10 @@ Accountant_ClassicZoneDB = {
 						["Vol'dun - Bonetrail Gulch"] = {
 							["In"] = 1559508,
 							["Out"] = 20882,
+						},
+						["Vol'dun - Deadwood Cove"] = {
+							["In"] = 1496330,
+							["Out"] = 0,
 						},
 						["Zuldazar - The Mugambala"] = {
 							["In"] = 234000,
@@ -19913,9 +19921,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3016239,
 							["Out"] = 0,
 						},
-						["Drustvar - Arom's Crossing"] = {
-							["In"] = 2147995,
-							["Out"] = 114937,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
+							["Out"] = 0,
 						},
 						["Vol'dun"] = {
 							["In"] = 3015537,
@@ -19949,8 +19957,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 468000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 1502415,
+						["Silithus: The Wound"] = {
+							["In"] = 117000,
 							["Out"] = 0,
 						},
 						["Mechagon - Junkwatt Depot"] = {
@@ -19961,8 +19969,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 23400,
 							["Out"] = 0,
 						},
-						["Silithus: The Wound"] = {
-							["In"] = 117000,
+						["Vale of Eternal Blossoms - Mistfall Village"] = {
+							["In"] = 29536340,
 							["Out"] = 0,
 						},
 						["Zuldazar - Terrace of Crafters"] = {
@@ -19973,8 +19981,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 29940,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Mistfall Village"] = {
-							["In"] = 28764140,
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 1502415,
 							["Out"] = 0,
 						},
 						["Mechagon - The Fleeting Forest"] = {
@@ -20001,8 +20009,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Deadwood Cove"] = {
-							["In"] = 1496330,
+						["Darkshore - Twilight Shore"] = {
+							["In"] = 205592,
 							["Out"] = 0,
 						},
 						["Nazjatar - Maedin's Challenge"] = {
@@ -20033,24 +20041,24 @@ Accountant_ClassicZoneDB = {
 							["In"] = 23400,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Serpent's Spine"] = {
-							["In"] = 491400,
-							["Out"] = 0,
-						},
 						["Twilight Highlands"] = {
 							["In"] = 23400,
+							["Out"] = 0,
+						},
+						["Nazmir - Plains of Tojek"] = {
+							["In"] = 2984657,
 							["Out"] = 0,
 						},
 						["Nazjatar - Ashen Strand"] = {
 							["In"] = 723371,
 							["Out"] = 0,
 						},
-						["Arathi Highlands - Boulderfist Hall"] = {
-							["In"] = 1453654,
-							["Out"] = 0,
-						},
 						["Nazjatar - Mrgl's Bar and Gill"] = {
 							["In"] = 923055,
+							["Out"] = 0,
+						},
+						["Arathi Highlands - Boulderfist Hall"] = {
+							["In"] = 1453654,
 							["Out"] = 0,
 						},
 						["Uldum - Ruins of Ammon"] = {
@@ -20061,8 +20069,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 468884,
 							["Out"] = 0,
 						},
-						["Nazmir - Zo'bal Ruins"] = {
-							["In"] = 1520200,
+						["Uldum - Ankhaten Harbor"] = {
+							["In"] = 842400,
 							["Out"] = 0,
 						},
 						["Orgrimmar - Orgrimmar Embassy"] = {
@@ -20085,16 +20093,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 12718,
 							["Out"] = 0,
 						},
-						["Zuldazar - Blood Gate"] = {
-							["In"] = 1473361,
+						["Drustvar - Falcon's Rest"] = {
+							["In"] = 211984,
 							["Out"] = 0,
 						},
 						["Uldum - Lost City of the Tol'vir"] = {
 							["In"] = 128372,
 							["Out"] = 37630,
 						},
-						["Zuldazar - Council Chambers"] = {
-							["In"] = 585000,
+						["Zuldazar - Blood Gate"] = {
+							["In"] = 1473361,
 							["Out"] = 0,
 						},
 						["Uldir"] = {
@@ -20179,7 +20187,7 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 11000,
+							["Out"] = 22000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
@@ -20189,10 +20197,6 @@ Accountant_ClassicZoneDB = {
 					["GUILD"] = {
 					},
 					["REPAIRS"] = {
-						["Atal'Dazar"] = {
-							["In"] = 0,
-							["Out"] = 852208,
-						},
 						["Ny'alotha, the Waking City"] = {
 							["In"] = 0,
 							["Out"] = 6126221,
@@ -20204,6 +20208,14 @@ Accountant_ClassicZoneDB = {
 						["Ny'alotha"] = {
 							["In"] = 0,
 							["Out"] = 8881988,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 234103,
+						},
+						["Atal'Dazar"] = {
+							["In"] = 0,
+							["Out"] = 852208,
 						},
 					},
 					["LFG"] = {
@@ -20229,8 +20241,16 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["GARRISON"] = {
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 12920,
+							["Out"] = 6809,
+						},
 						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
 							["In"] = 9076,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 25948,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
@@ -20249,6 +20269,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 2420508,
 							["Out"] = 1763766,
 						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 150000,
+						},
 						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
 							["In"] = 43543,
 							["Out"] = 0,
@@ -20261,53 +20285,61 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13279,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 150000,
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 43262,
+							["Out"] = 34598,
 						},
 					},
 					["MERCH"] = {
-						["Ny'alotha"] = {
-							["In"] = 3597,
-							["Out"] = 1524856,
-						},
 						["Zuldazar - Spirits Be With You"] = {
 							["In"] = 817161,
 							["Out"] = 0,
 						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 3037,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 924594,
+							["Out"] = 0,
+						},
+						["Ny'alotha"] = {
+							["In"] = 3597,
+							["Out"] = 1524856,
+						},
+						["Chamber of Heart"] = {
+							["In"] = 1000000,
+							["Out"] = 0,
+						},
 					},
 					["LOOT"] = {
-						["Uldum - The Gate of Unending Cycles"] = {
-							["In"] = 18871,
+						["Vale of Eternal Blossoms - The Golden Pagoda"] = {
+							["In"] = 5302,
 							["Out"] = 0,
 						},
 						["Uldum - Tombs of the Precursors"] = {
 							["In"] = 28444,
 							["Out"] = 0,
 						},
-						["Uldum - The Steps of Fate"] = {
-							["In"] = 109087,
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 4323,
 							["Out"] = 0,
 						},
-						["Uldum - Khartut's Tomb"] = {
-							["In"] = 4585,
+						["Uldum - The Steps of Fate"] = {
+							["In"] = 109087,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
 							["In"] = 8899,
 							["Out"] = 0,
 						},
-						["Ny'alotha"] = {
-							["In"] = 2397472,
-							["Out"] = 0,
+						["Uldum - Neferset City"] = {
+							["In"] = 139034,
+							["Out"] = 21452,
 						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 27297,
 							["Out"] = 15638,
-						},
-						["Ny'alotha, the Waking City"] = {
-							["In"] = 2563815,
-							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - The Summer Fields"] = {
 							["In"] = 9506,
@@ -20321,24 +20353,88 @@ Accountant_ClassicZoneDB = {
 							["In"] = 25785,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
-							["In"] = 53365,
-							["Out"] = 0,
-						},
-						["Vale of Eternal Blossoms - Tu Shen Burial Ground"] = {
-							["In"] = 4722,
+						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
+							["In"] = 83967,
 							["Out"] = 0,
 						},
 						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 6182,
 							["Out"] = 0,
 						},
+						["Vale of Eternal Blossoms - Winterbough Glade"] = {
+							["In"] = 7978,
+							["Out"] = 0,
+						},
 						["Vale of Eternal Blossoms - Digestion Chamber"] = {
 							["In"] = 423610,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Golden Pagoda"] = {
-							["In"] = 5302,
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 96352,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
+							["In"] = 9998,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen Legion Outpost"] = {
+							["In"] = 4540,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal River"] = {
+							["In"] = 36029,
+							["Out"] = 0,
+						},
+						["Uldum - Khartut's Tomb"] = {
+							["In"] = 4585,
+							["Out"] = 0,
+						},
+						["Ny'alotha, the Waking City"] = {
+							["In"] = 2563815,
+							["Out"] = 0,
+						},
+						["Uldum - Lost City of the Tol'vir"] = {
+							["In"] = 11402,
+							["Out"] = 0,
+						},
+						["Uldum"] = {
+							["In"] = 27797,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27648,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 73385,
+							["Out"] = 0,
+						},
+						["Uldum - Cradle of the Ancients"] = {
+							["In"] = 10685,
+							["Out"] = 0,
+						},
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 28666,
+							["Out"] = 0,
+						},
+						["Uldum - The Gate of Unending Cycles"] = {
+							["In"] = 18871,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Tu Shen Burial Ground"] = {
+							["In"] = 4722,
+							["Out"] = 0,
+						},
+						["Ny'alotha"] = {
+							["In"] = 2397472,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Autumnshade Ridge"] = {
+							["In"] = 8345,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
+							["In"] = 53365,
 							["Out"] = 0,
 						},
 					},
@@ -20351,12 +20447,24 @@ Accountant_ClassicZoneDB = {
 					["TRANSMO"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 1190913,
+							["Out"] = 2282493,
 						},
 					},
 					["QUEST"] = {
-						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 2563000,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 499393,
+							["Out"] = 171,
+						},
+						["Vale of Eternal Blossoms - The Silent Sanctuary"] = {
+							["In"] = 4110700,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
@@ -20367,12 +20475,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 20000000,
 						},
+						["Vale of Eternal Blossoms - Mistfall Village"] = {
+							["In"] = 772200,
+							["Out"] = 0,
+						},
+						["Ramkahen - Seat of Ramkahen"] = {
+							["In"] = 10814100,
+							["Out"] = 0,
+						},
 						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 6305,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Silent Sanctuary"] = {
-							["In"] = 4110700,
+						["Uldum - Ramkahen"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
 					},
@@ -20383,10 +20499,18 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["TAXI"] = {
+						["The Jade Forest - Honeydew Village"] = {
+							["In"] = 0,
+							["Out"] = 11000,
+						},
 					},
 					["GUILD"] = {
 					},
 					["REPAIRS"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 234103,
+						},
 					},
 					["LFG"] = {
 					},
@@ -20395,7 +20519,7 @@ Accountant_ClassicZoneDB = {
 					["TRANSMO"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 1190913,
+							["Out"] = 2282493,
 						},
 					},
 					["TRADE"] = {
@@ -20407,16 +20531,124 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 150000,
 						},
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 12920,
+							["Out"] = 6809,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 25948,
+							["Out"] = 0,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 43262,
+							["Out"] = 34598,
+						},
 					},
 					["MERCH"] = {
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 3037,
+							["Out"] = 0,
+						},
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 924594,
+							["Out"] = 0,
+						},
+						["Chamber of Heart"] = {
+							["In"] = 1000000,
+							["Out"] = 0,
+						},
 					},
 					["LOOT"] = {
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 73385,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen Legion Outpost"] = {
+							["In"] = 4540,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal River"] = {
+							["In"] = 36029,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
+							["In"] = 83967,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 139034,
+							["Out"] = 21452,
+						},
+						["Uldum"] = {
+							["In"] = 27797,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
+							["In"] = 9998,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27648,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 4323,
+							["Out"] = 0,
+						},
+						["Uldum - Cradle of the Ancients"] = {
+							["In"] = 10685,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Winterbough Glade"] = {
+							["In"] = 7978,
+							["Out"] = 0,
+						},
+						["Uldum - Lost City of the Tol'vir"] = {
+							["In"] = 11402,
+							["Out"] = 0,
+						},
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 28666,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Autumnshade Ridge"] = {
+							["In"] = 8345,
+							["Out"] = 0,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 96352,
+							["Out"] = 0,
+						},
 					},
 					["MAIL"] = {
 					},
 					["OTHER"] = {
 					},
 					["QUEST"] = {
+						["Ramkahen - Seat of Ramkahen"] = {
+							["In"] = 8251100,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Mistfall Village"] = {
+							["In"] = 772200,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen"] = {
+							["In"] = 234000,
+							["Out"] = 0,
+						},
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 499393,
+							["Out"] = 171,
+						},
 					},
 				},
 				["Month"] = {
@@ -20437,13 +20669,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 66500,
 						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 32133,
-							["Out"] = 19498,
-						},
 						["Nazmir - Forlorn Ruins"] = {
 							["In"] = 0,
 							["Out"] = 42000,
+						},
+						["Vol'dun - Tortaka Refuge"] = {
+							["In"] = 0,
+							["Out"] = 22400,
 						},
 						["Zuldazar - The Mugambala"] = {
 							["In"] = 0,
@@ -20451,15 +20683,15 @@ Accountant_ClassicZoneDB = {
 						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 44000,
+							["Out"] = 55000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
 							["Out"] = 56000,
 						},
-						["Vol'dun - Tortaka Refuge"] = {
-							["In"] = 0,
-							["Out"] = 22400,
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 32133,
+							["Out"] = 19498,
 						},
 					},
 					["BARBER"] = {
@@ -20495,13 +20727,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 99926,
 							["Out"] = 0,
 						},
-						["Uldum - The Steps of Fate"] = {
-							["In"] = 118482,
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 4323,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
-							["In"] = 8899,
-							["Out"] = 0,
+						["Uldum - Neferset City"] = {
+							["In"] = 139034,
+							["Out"] = 21452,
 						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 27297,
@@ -20515,52 +20747,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 5623762,
 							["Out"] = 0,
 						},
-						["The Banshee's Wail"] = {
-							["In"] = 2242317,
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 6182,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
-							["In"] = 177310,
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 96352,
 							["Out"] = 0,
 						},
-						["Ny'alotha"] = {
-							["In"] = 2397472,
+						["Uldum - Vir'naal River"] = {
+							["In"] = 36029,
 							["Out"] = 0,
-						},
-						["Uldum - Obelisk of the Stars"] = {
-							["In"] = 130642,
-							["Out"] = 0,
-						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 48518,
-							["Out"] = 3899,
 						},
 						["Uldum - The Trail of Devastation"] = {
 							["In"] = 33716,
-							["Out"] = 0,
-						},
-						["Uldum - Khartut's Tomb"] = {
-							["In"] = 4585,
-							["Out"] = 0,
-						},
-						["Uldum"] = {
-							["In"] = 3406,
-							["Out"] = 0,
-						},
-						["Uldum - Nahom"] = {
-							["In"] = 25785,
-							["Out"] = 0,
-						},
-						["Vale of Eternal Twilight - The Summer Terrace"] = {
-							["In"] = 261247,
-							["Out"] = 0,
-						},
-						["Shrine of Seven Stars"] = {
-							["In"] = 54695,
-							["Out"] = 0,
-						},
-						["Vale of Eternal Blossoms - The Summer Fields"] = {
-							["In"] = 76403,
 							["Out"] = 0,
 						},
 						["Obelisk of the Stars - Chamber of the Stars"] = {
@@ -20571,16 +20771,104 @@ Accountant_ClassicZoneDB = {
 							["In"] = 4722,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Digestion Chamber"] = {
-							["In"] = 423610,
+						["Vale of Eternal Blossoms - Autumnshade Ridge"] = {
+							["In"] = 8345,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Golden Pagoda"] = {
 							["In"] = 5302,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 6182,
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 28666,
+							["Out"] = 0,
+						},
+						["Uldum - The Steps of Fate"] = {
+							["In"] = 118482,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
+							["In"] = 8899,
+							["Out"] = 0,
+						},
+						["Uldum - Obelisk of the Stars"] = {
+							["In"] = 130642,
+							["Out"] = 0,
+						},
+						["Uldum - Nahom"] = {
+							["In"] = 25785,
+							["Out"] = 0,
+						},
+						["Uldum - Lost City of the Tol'vir"] = {
+							["In"] = 11402,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Digestion Chamber"] = {
+							["In"] = 423610,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
+							["In"] = 83967,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen Legion Outpost"] = {
+							["In"] = 4540,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
+							["In"] = 9998,
+							["Out"] = 0,
+						},
+						["Uldum - Khartut's Tomb"] = {
+							["In"] = 4585,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Winterbough Glade"] = {
+							["In"] = 7978,
+							["Out"] = 0,
+						},
+						["Ny'alotha"] = {
+							["In"] = 2397472,
+							["Out"] = 0,
+						},
+						["Uldum"] = {
+							["In"] = 31203,
+							["Out"] = 0,
+						},
+						["The Banshee's Wail"] = {
+							["In"] = 2242317,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Summer Fields"] = {
+							["In"] = 76403,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
+							["In"] = 177310,
+							["Out"] = 0,
+						},
+						["Shrine of Seven Stars"] = {
+							["In"] = 54695,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 73385,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Twilight - The Summer Terrace"] = {
+							["In"] = 261247,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27648,
+							["Out"] = 0,
+						},
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 48518,
+							["Out"] = 3899,
+						},
+						["Uldum - Cradle of the Ancients"] = {
+							["In"] = 10685,
 							["Out"] = 0,
 						},
 					},
@@ -20589,12 +20877,20 @@ Accountant_ClassicZoneDB = {
 					["TRANSMO"] = {
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 4913046,
+							["Out"] = 6004626,
 						},
 					},
 					["GARRISON"] = {
+						["Uldum - Akhenet Fields"] = {
+							["In"] = 12920,
+							["Out"] = 6809,
+						},
 						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
 							["In"] = 9076,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 25948,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
@@ -20613,6 +20909,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 2420508,
 							["Out"] = 1763766,
 						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 150000,
+						},
 						["Obelisk of the Stars - Chamber of the Stars"] = {
 							["In"] = 24128,
 							["Out"] = 0,
@@ -20629,12 +20929,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13279,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 150000,
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 43262,
+							["Out"] = 34598,
 						},
 					},
 					["MERCH"] = {
+						["Zuldazar - Spirits Be With You"] = {
+							["In"] = 1907938,
+							["Out"] = 160000,
+						},
 						["Ny'alotha, the Waking City"] = {
 							["In"] = 1013936,
 							["Out"] = 0,
@@ -20643,16 +20947,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 124900,
 							["Out"] = 0,
 						},
-						["Zuldazar - Spirits Be With You"] = {
-							["In"] = 1907938,
-							["Out"] = 160000,
-						},
 						["Ny'alotha"] = {
 							["In"] = 34737,
 							["Out"] = 1524856,
 						},
+						["Chamber of Heart"] = {
+							["In"] = 1000000,
+							["Out"] = 0,
+						},
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 3037,
+							["Out"] = 0,
+						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 3537,
+							["In"] = 928131,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
@@ -20703,7 +21011,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 3068580,
+							["Out"] = 3302683,
 						},
 						["Ny'alotha"] = {
 							["In"] = 0,
@@ -20711,8 +21019,8 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["QUEST"] = {
-						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 5220710,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
 							["Out"] = 0,
 						},
 						["Uldum - Tombs of the Precursors"] = {
@@ -20723,45 +21031,61 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 8365,
 						},
+						["Chamber of Heart"] = {
+							["In"] = 332739,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 499393,
+							["Out"] = 171,
+						},
+						["Vol'dun - Terrace of the Devoted"] = {
+							["In"] = 6305,
+							["Out"] = 0,
+						},
 						["Uldum - The Trail of Devastation"] = {
 							["In"] = 24994,
 							["Out"] = 0,
 						},
-						["Uldum - Ramkahen"] = {
-							["In"] = 20234000,
+						["Vale of Eternal Blossoms - Mistfall Village"] = {
+							["In"] = 772200,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Silent Sanctuary"] = {
 							["In"] = 6278580,
 							["Out"] = 0,
 						},
-						["Shrine of Seven Stars"] = {
-							["In"] = 35430,
-							["Out"] = 24280,
+						["Ramkahen - Seat of Ramkahen"] = {
+							["In"] = 13471810,
+							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 4143433,
 							["Out"] = 0,
 						},
+						["Shrine of Seven Stars"] = {
+							["In"] = 35430,
+							["Out"] = 24280,
+						},
 						["Mogu'shan Palace - Seat of Knowledge"] = {
 							["In"] = 257400,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 0,
-							["Out"] = 20000000,
+						["Uldum - Ramkahen"] = {
+							["In"] = 20468000,
+							["Out"] = 0,
 						},
 						["Vol'dun - Darkwood Shoal"] = {
 							["In"] = 1355640,
 							["Out"] = 0,
 						},
-						["Chamber of Heart"] = {
-							["In"] = 332739,
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 234000,
 							["Out"] = 0,
 						},
-						["Vol'dun - Terrace of the Devoted"] = {
-							["In"] = 6305,
-							["Out"] = 0,
+						["Zuldazar - The Maelstrom Mercantile"] = {
+							["In"] = 0,
+							["Out"] = 20000000,
 						},
 					},
 				},
@@ -21273,8 +21597,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 71537,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Umber Shore"] = {
-							["In"] = 31676,
+						["Zuldazar - Rootway Collapse"] = {
+							["In"] = 20011,
 							["Out"] = 0,
 						},
 						["The Eternal Palace"] = {
@@ -21285,8 +21609,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 115366,
 							["Out"] = 0,
 						},
-						["Zuldazar - The Mugambala"] = {
-							["In"] = 4381454,
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 31676,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - Roaring Highland"] = {
@@ -21305,8 +21629,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13275,
 							["Out"] = 0,
 						},
-						["Zuldazar - Rootway Collapse"] = {
-							["In"] = 20011,
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 4381454,
 							["Out"] = 0,
 						},
 						["Nazjatar - Azsh'ari Terrace"] = {
@@ -22333,9 +22657,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 3581620,
 							["Out"] = 0,
 						},
-						["Nazjatar - Zanj'ir Wash"] = {
-							["In"] = 2174610,
-							["Out"] = 1328,
+						["Uldir"] = {
+							["In"] = 234000,
+							["Out"] = 0,
 						},
 						["Nazjatar - Ekka's Hideaway"] = {
 							["In"] = 257400,
@@ -22369,9 +22693,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 117000,
 							["Out"] = 0,
 						},
-						["Mechagon - Sparkweaver Point"] = {
-							["In"] = 1404000,
-							["Out"] = 0,
+						["Nazjatar - Zanj'ir Wash"] = {
+							["In"] = 2174610,
+							["Out"] = 1328,
 						},
 						["Vol'dun - Alliance Airship"] = {
 							["In"] = 29940,
@@ -22385,8 +22709,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 41270920,
 							["Out"] = 0,
 						},
-						["Uldir"] = {
-							["In"] = 234000,
+						["Mechagon - Sparkweaver Point"] = {
+							["In"] = 1404000,
 							["Out"] = 0,
 						},
 						["Zuldazar - The Feeding Grounds"] = {
@@ -22729,9 +23053,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 262690,
 						},
-						["The Eternal Palace"] = {
+						["Mechagon - Rustbolt"] = {
 							["In"] = 0,
-							["Out"] = 18862628,
+							["Out"] = 101305,
 						},
 						["Dazar'alor - The Great Seal"] = {
 							["In"] = 0,
@@ -22745,9 +23069,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 19293230,
 						},
-						["Mechagon - Rustbolt"] = {
+						["Arathi Highlands"] = {
 							["In"] = 0,
-							["Out"] = 101305,
+							["Out"] = 245728,
 						},
 						["Ny'alotha"] = {
 							["In"] = 0,
@@ -22757,9 +23081,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 248156,
 							["Out"] = 3944754,
 						},
-						["Arathi Highlands"] = {
+						["The Eternal Palace"] = {
 							["In"] = 0,
-							["Out"] = 245728,
+							["Out"] = 18862628,
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 328238,
@@ -22929,17 +23253,17 @@ Accountant_ClassicZoneDB = {
 							["In"] = 600118,
 							["Out"] = 0,
 						},
-						["Shrine of Seven Stars - The Star's Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 3846,
+						["Tiragarde Sound - Proudmoore Barracks"] = {
+							["In"] = 29649,
+							["Out"] = 15245,
 						},
 						["Shrine of Seven Stars - The Golden Lantern"] = {
 							["In"] = 5753,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Proudmoore Barracks"] = {
-							["In"] = 29649,
-							["Out"] = 15245,
+						["Nazmir - Blood Coast"] = {
+							["In"] = 1335730,
+							["Out"] = 0,
 						},
 						["Zuldazar - Verdant Slope"] = {
 							["In"] = 6019,
@@ -22977,9 +23301,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13206,
 							["Out"] = 0,
 						},
-						["Nazmir - Blood Coast"] = {
-							["In"] = 1335730,
-							["Out"] = 0,
+						["Shrine of Seven Stars - The Star's Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 3846,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 33402,
@@ -24336,33 +24660,33 @@ Accountant_ClassicZoneDB = {
 				["Session"] = {
 					["TRAIN"] = {
 					},
-					["OTHER"] = {
+					["BARBER"] = {
 					},
 					["TAXI"] = {
 					},
 					["GUILD"] = {
 					},
-					["LOOT"] = {
+					["TRADE"] = {
 					},
 					["LFG"] = {
 					},
-					["BARBER"] = {
-					},
-					["MAIL"] = {
-					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
-					["GARRISON"] = {
-					},
-					["MERCH"] = {
+					["AH"] = {
 					},
 					["REPAIRS"] = {
 					},
-					["AH"] = {
+					["VOID"] = {
 					},
-					["TRADE"] = {
+					["OTHER"] = {
+					},
+					["GARRISON"] = {
+					},
+					["LOOT"] = {
+					},
+					["MERCH"] = {
+					},
+					["TRANSMO"] = {
+					},
+					["MAIL"] = {
 					},
 					["QUEST"] = {
 					},
@@ -24507,7 +24831,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 161950,
+							["Out"] = 172950,
 						},
 						["Stormsong Valley - Ironmaul Overlook"] = {
 							["In"] = 0,
@@ -24523,7 +24847,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
 							["In"] = 0,
-							["Out"] = 8810654,
+							["Out"] = 9902234,
 						},
 					},
 					["LFG"] = {
@@ -24556,7 +24880,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
-							["In"] = 170976,
+							["In"] = 254943,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
@@ -24580,7 +24904,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 3589,
 						},
 						["Uldum - Vir'naal River"] = {
-							["In"] = 60611,
+							["In"] = 96640,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Westwind Rest"] = {
@@ -24672,11 +24996,11 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 318951,
-							["Out"] = 0,
+							["In"] = 457985,
+							["Out"] = 21452,
 						},
 						["Uldum - Vir'naal Dam"] = {
-							["In"] = 22139,
+							["In"] = 49787,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - The Yaungol Advance"] = {
@@ -24704,7 +25028,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
-							["In"] = 21085056,
+							["In"] = 21095054,
 							["Out"] = 0,
 						},
 						["Uldum - Keset Pass"] = {
@@ -24760,7 +25084,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen Legion Outpost"] = {
-							["In"] = 43677,
+							["In"] = 48217,
 							["Out"] = 0,
 						},
 						["Winterchill Mine"] = {
@@ -24828,7 +25152,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 1709871,
+							["In"] = 1806223,
 							["Out"] = 0,
 						},
 						["Drustvar - Hunter's Run"] = {
@@ -24848,15 +25172,15 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Autumnshade Ridge"] = {
-							["In"] = 225761,
+							["In"] = 234106,
 							["Out"] = 21680,
 						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 5223,
+							["In"] = 78608,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Winterbough Glade"] = {
-							["In"] = 28057,
+							["In"] = 36035,
 							["Out"] = 0,
 						},
 						["Arathi Highlands - Go'Shek Farm"] = {
@@ -24888,7 +25212,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 3899,
 						},
 						["Uldum"] = {
-							["In"] = 452925,
+							["In"] = 480722,
 							["Out"] = 0,
 						},
 						["Nazmir - Sethrak Front"] = {
@@ -24927,6 +25251,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 10828,
 							["Out"] = 0,
 						},
+						["Uldum - Cradle of the Ancients"] = {
+							["In"] = 10685,
+							["Out"] = 0,
+						},
 						["Shrine of Seven Stars - The Star's Bazaar"] = {
 							["In"] = 14219,
 							["Out"] = 0,
@@ -24951,10 +25279,6 @@ Accountant_ClassicZoneDB = {
 							["In"] = 21146,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
-							["In"] = 227997,
-							["Out"] = 0,
-						},
 						["Nazmir - Sunken Path"] = {
 							["In"] = 15308,
 							["Out"] = 0,
@@ -24963,16 +25287,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1755168,
 							["Out"] = 37600,
 						},
-						["Terrace of Torcali"] = {
-							["In"] = 9797,
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 232320,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Five Sisters"] = {
+							["In"] = 48338,
 							["Out"] = 0,
 						},
 						["Uldum - Tomb of the Sun King"] = {
 							["In"] = 13305,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Five Sisters"] = {
-							["In"] = 48338,
+						["Terrace of Torcali"] = {
+							["In"] = 9797,
 							["Out"] = 0,
 						},
 						["Uldum - The Cursed Landing"] = {
@@ -24995,16 +25323,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 36779,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Golden Stair"] = {
-							["In"] = 37833,
-							["Out"] = 0,
-						},
 						["Kun-Lai Summit - Mogujia"] = {
 							["In"] = 39827,
 							["Out"] = 0,
 						},
 						["Nazmir - Krag'wa's Shore"] = {
 							["In"] = 2528317,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Golden Stair"] = {
+							["In"] = 37833,
 							["Out"] = 0,
 						},
 						["Stormsong Valley - The Jeweled Coast"] = {
@@ -25031,13 +25359,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 19186,
 							["Out"] = 0,
 						},
+						["Uldum - Lost City of the Tol'vir"] = {
+							["In"] = 448002,
+							["Out"] = 20378,
+						},
 						["The Eternal Palace"] = {
 							["In"] = 10241959,
 							["Out"] = 0,
-						},
-						["Uldum - Lost City of the Tol'vir"] = {
-							["In"] = 436600,
-							["Out"] = 20378,
 						},
 						["Dread Wastes"] = {
 							["In"] = 867,
@@ -25092,7 +25420,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Akhenet Fields"] = {
-							["In"] = 96307,
+							["In"] = 124973,
 							["Out"] = 15885,
 						},
 						["Vale of Eternal Blossoms - Tu Shen Burial Ground"] = {
@@ -25139,12 +25467,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 39649,
 							["Out"] = 0,
 						},
-						["Uldum - The Gate of Unending Cycles"] = {
-							["In"] = 18871,
-							["Out"] = 0,
-						},
 						["Vol'dun - Terrace of the Devoted"] = {
 							["In"] = 6182,
+							["Out"] = 0,
+						},
+						["Uldum - The Gate of Unending Cycles"] = {
+							["In"] = 18871,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Digestion Chamber"] = {
@@ -25206,7 +25534,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 25648,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 28105,
+							["In"] = 54053,
 							["Out"] = 23371,
 						},
 						["Vale of Eternal Blossoms - Gate of the Setting Sun"] = {
@@ -25234,8 +25562,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 12423,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 94754,
-							["Out"] = 40945,
+							["In"] = 138016,
+							["Out"] = 75543,
 						},
 						["Nazjatar - Dragon's Teeth Basin"] = {
 							["In"] = 34900,
@@ -25290,8 +25618,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Akhenet Fields"] = {
-							["In"] = 31439,
-							["Out"] = 0,
+							["In"] = 44359,
+							["Out"] = 6809,
 						},
 						["Mogu'shan Palace"] = {
 							["In"] = 9535,
@@ -25317,13 +25645,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 128000000,
 						},
-						["Shrine of Seven Stars - The Star's Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 3846,
-						},
 						["Kun-Lai Summit - Mogu'shan Terrace"] = {
 							["In"] = 35146,
 							["Out"] = 0,
+						},
+						["Uldum - Obelisk of the Stars"] = {
+							["In"] = 882942,
+							["Out"] = 25689,
 						},
 						["The Banshee's Wail"] = {
 							["In"] = 65100600,
@@ -25333,9 +25661,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 62615,
 							["Out"] = 32129,
 						},
-						["Uldum - Vir'naal Lake"] = {
-							["In"] = 21146,
-							["Out"] = 0,
+						["Shrine of Seven Stars - The Star's Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 3846,
 						},
 						["Nazmir - Blood Coast"] = {
 							["In"] = 1335730,
@@ -25377,9 +25705,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 41294,
 							["Out"] = 0,
 						},
-						["Uldum - Obelisk of the Stars"] = {
-							["In"] = 882942,
-							["Out"] = 25689,
+						["Uldum - Vir'naal Lake"] = {
+							["In"] = 21146,
+							["Out"] = 0,
 						},
 						["Vision of the Twisting Sands - Vir'naal Oasis"] = {
 							["In"] = 23234,
@@ -25428,7 +25756,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 7287602,
 						},
 						["Chamber of Heart"] = {
-							["In"] = 6366675,
+							["In"] = 7366675,
 							["Out"] = 0,
 						},
 						["Drustvar - Crimson Forest"] = {
@@ -25444,7 +25772,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 93010,
 						},
 						["Zuldazar - The Maelstrom Mercantile"] = {
-							["In"] = 312946,
+							["In"] = 315983,
 							["Out"] = 0,
 						},
 						["Nazjatar - Newhome"] = {
@@ -25464,7 +25792,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 16076075,
+							["In"] = 17000669,
 							["Out"] = 11387625,
 						},
 						["Dazar'alor - The Great Seal"] = {
@@ -25567,7 +25895,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 328238,
-							["Out"] = 19361946,
+							["Out"] = 19596049,
 						},
 						["Silithus: The Wound - Magni's Encampment"] = {
 							["In"] = 0,
@@ -25748,7 +26076,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 35639209,
+							["In"] = 43890309,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
@@ -25756,8 +26084,8 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 69316,
-							["Out"] = 1957,
+							["In"] = 568709,
+							["Out"] = 2128,
 						},
 						["Uldum - Vir'naal Dam"] = {
 							["In"] = 14871,
@@ -25820,7 +26148,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 24097100,
+							["In"] = 24331100,
 							["Out"] = 0,
 						},
 						["Uldum - Mar'at"] = {
@@ -25932,7 +26260,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 1404000,
+							["In"] = 1638000,
 							["Out"] = 0,
 						},
 						["Arathi Highlands - Go'Shek Farm"] = {
@@ -25975,6 +26303,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 428962,
 						},
+						["Vale of Eternal Blossoms - Serpent's Spine"] = {
+							["In"] = 491400,
+							["Out"] = 0,
+						},
 						["Vol'dun - Deadwood Cove"] = {
 							["In"] = 1496330,
 							["Out"] = 0,
@@ -25991,8 +26323,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 211281,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Serpent's Spine"] = {
-							["In"] = 491400,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
 							["Out"] = 0,
 						},
 						["Vol'dun"] = {
@@ -26036,7 +26368,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Mistfall Village"] = {
-							["In"] = 28764140,
+							["In"] = 29536340,
 							["Out"] = 0,
 						},
 						["Vol'dun - Terrace of the Devoted"] = {
@@ -26283,13 +26615,13 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 26600,
 						},
+						["Zuldazar - The Mugambala"] = {
+							["In"] = 0,
+							["Out"] = 53200,
+						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
 							["Out"] = 66000,
-						},
-						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 0,
-							["Out"] = 26600,
 						},
 						["Zuldazar - Garden of the Loa"] = {
 							["In"] = 0,
@@ -26303,9 +26635,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 0,
 							["Out"] = 79800,
 						},
-						["Zuldazar - The Mugambala"] = {
+						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 53200,
+							["Out"] = 26600,
 						},
 						["Stormsong Valley - Ironmaul Overlook"] = {
 							["In"] = 0,
@@ -26335,16 +26667,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 110722,
 							["Out"] = 67113,
 						},
-						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
-							["In"] = 814,
-							["Out"] = 0,
-						},
 						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
 							["In"] = 46303,
 							["Out"] = 30582,
 						},
 						["Uldum - Ruins of Ahmtul"] = {
 							["In"] = 606406,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
+							["In"] = 814,
 							["Out"] = 0,
 						},
 					},
@@ -26547,40 +26879,6 @@ Accountant_ClassicZoneDB = {
 					["BARBER"] = {
 					},
 					["TAXI"] = {
-					},
-					["GUILD"] = {
-					},
-					["REPAIRS"] = {
-					},
-					["LFG"] = {
-					},
-					["VOID"] = {
-					},
-					["TRANSMO"] = {
-					},
-					["TRADE"] = {
-					},
-					["AH"] = {
-					},
-					["GARRISON"] = {
-					},
-					["MERCH"] = {
-					},
-					["LOOT"] = {
-					},
-					["MAIL"] = {
-					},
-					["OTHER"] = {
-					},
-					["QUEST"] = {
-					},
-				},
-				["Week"] = {
-					["TRAIN"] = {
-					},
-					["BARBER"] = {
-					},
-					["TAXI"] = {
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
 							["Out"] = 11000,
@@ -26591,7 +26889,105 @@ Accountant_ClassicZoneDB = {
 					["REPAIRS"] = {
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2844840,
+							["Out"] = 13479,
+						},
+					},
+					["LFG"] = {
+					},
+					["VOID"] = {
+					},
+					["TRANSMO"] = {
+					},
+					["TRADE"] = {
+					},
+					["AH"] = {
+					},
+					["GARRISON"] = {
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 9501,
+							["Out"] = 5161,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 22911,
+							["Out"] = 13245,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 0,
+							["Out"] = 2681,
+						},
+					},
+					["MERCH"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 235615,
+							["Out"] = 0,
+						},
+					},
+					["LOOT"] = {
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27583,
+							["Out"] = 0,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 1304899,
+							["Out"] = 6914,
+						},
+						["Uldum"] = {
+							["In"] = 28103,
+							["Out"] = 0,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 46888,
+							["Out"] = 0,
+						},
+					},
+					["MAIL"] = {
+					},
+					["OTHER"] = {
+					},
+					["QUEST"] = {
+						["Ramkahen - Seat of Ramkahen"] = {
+							["In"] = 8251100,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen"] = {
+							["In"] = 20000000,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 225138,
+							["Out"] = 0,
+						},
+					},
+				},
+				["Week"] = {
+					["TRAIN"] = {
+					},
+					["BARBER"] = {
+					},
+					["TAXI"] = {
+						["The Jade Forest - Honeydew Village"] = {
+							["In"] = 0,
+							["Out"] = 22000,
+						},
+					},
+					["GUILD"] = {
+					},
+					["REPAIRS"] = {
+						["Zuldazar - Grand Bazaar"] = {
+							["In"] = 0,
+							["Out"] = 2858319,
 						},
 					},
 					["LFG"] = {
@@ -26605,14 +27001,30 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 					},
 					["GARRISON"] = {
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 9501,
+							["Out"] = 5161,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 22911,
+							["Out"] = 13245,
+						},
 						["Vale of Eternal Twilight - The Summer Fields"] = {
 							["In"] = 6486,
 							["Out"] = 0,
 						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 0,
+							["Out"] = 2681,
+						},
 					},
 					["MERCH"] = {
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1636088,
+							["In"] = 1871703,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
@@ -26621,20 +27033,44 @@ Accountant_ClassicZoneDB = {
 						},
 					},
 					["LOOT"] = {
-						["Vale of Eternal Twilight - The Summer Fields"] = {
-							["In"] = 6486,
-							["Out"] = 0,
-						},
-						["Uldum - Obelisk of the Stars"] = {
-							["In"] = 68025,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
 							["Out"] = 0,
 						},
 						["Uldum - Halls of Origination"] = {
 							["In"] = 17907,
 							["Out"] = 0,
 						},
+						["Uldum - Neferset City"] = {
+							["In"] = 1304899,
+							["Out"] = 6914,
+						},
+						["Uldum"] = {
+							["In"] = 28103,
+							["Out"] = 0,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 46888,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27583,
+							["Out"] = 0,
+						},
+						["Uldum - Obelisk of the Stars"] = {
+							["In"] = 68025,
+							["Out"] = 0,
+						},
 						["Uldum - The Steps of Fate"] = {
 							["In"] = 137945,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Twilight - The Summer Fields"] = {
+							["In"] = 6486,
+							["Out"] = 0,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
 							["Out"] = 0,
 						},
 					},
@@ -26644,15 +27080,19 @@ Accountant_ClassicZoneDB = {
 					},
 					["QUEST"] = {
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 2563000,
+							["In"] = 10814100,
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 20000000,
+							["In"] = 40000000,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 227514,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 225138,
 							["Out"] = 0,
 						},
 					},
@@ -26729,7 +27169,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 110000,
+							["Out"] = 121000,
 						},
 						["Stormsong Valley - Ironmaul Overlook"] = {
 							["In"] = 0,
@@ -26789,7 +27229,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 13351,
-							["Out"] = 8628928,
+							["Out"] = 8642407,
 						},
 						["Uldum - Obelisk of the Moon"] = {
 							["In"] = 0,
@@ -26843,6 +27283,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 600426,
 							["Out"] = 0,
 						},
+						["Uldum - Neferset City"] = {
+							["In"] = 22911,
+							["Out"] = 13245,
+						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 18757,
 							["Out"] = 4151,
@@ -26868,7 +27312,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 30100,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 114428,
+							["In"] = 123290,
 							["Out"] = 0,
 						},
 						["Nazjatar - Zanj'ir Wash"] = {
@@ -26915,13 +27359,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 607081,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
-							["In"] = 46303,
-							["Out"] = 30582,
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 9501,
+							["Out"] = 5161,
 						},
 						["Uldum - Ruins of Ahmtul"] = {
 							["In"] = 606406,
 							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 46303,
+							["Out"] = 30582,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 0,
+							["Out"] = 2681,
 						},
 						["Vol'dun - Vol'dun"] = {
 							["In"] = 7074,
@@ -26931,8 +27383,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 28892,
 							["Out"] = 4990,
 						},
-						["Uldum - Tombs of the Precursors"] = {
-							["In"] = 41060,
+						["Elwynn Forest - Mirror Lake"] = {
+							["In"] = 33420,
 							["Out"] = 0,
 						},
 						["Uldum"] = {
@@ -26943,8 +27395,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 19579,
 							["Out"] = 0,
 						},
-						["Elwynn Forest - Mirror Lake"] = {
-							["In"] = 33420,
+						["Uldum - Tombs of the Precursors"] = {
+							["In"] = 41060,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Mogu'shan Terrace"] = {
@@ -27030,7 +27482,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 500000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8207796,
+							["In"] = 8443411,
 							["Out"] = 1745390,
 						},
 						["Zuldazar - Dazar'alor"] = {
@@ -27099,6 +27551,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 31906,
 							["Out"] = 3060,
 						},
+						["Drustvar"] = {
+							["In"] = 104256,
+							["Out"] = 0,
+						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 50892,
 							["Out"] = 0,
@@ -27107,45 +27563,53 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1964327,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 52676,
-							["Out"] = 258,
-						},
-						["Drustvar"] = {
-							["In"] = 104256,
-							["Out"] = 0,
-						},
 						["Nazjatar - Highborne Estates"] = {
 							["In"] = 7470,
-							["Out"] = 0,
-						},
-						["Nazjatar - Void Chamber"] = {
-							["In"] = 5764,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Blistering Wastes"] = {
 							["In"] = 103898,
 							["Out"] = 0,
 						},
-						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 1308273,
-							["Out"] = 586,
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 52676,
+							["Out"] = 258,
 						},
 						["Ashamane's Fall"] = {
 							["In"] = 2194681,
 							["Out"] = 0,
 						},
-						["Darkshore - Lor'danel Landing"] = {
-							["In"] = 1998244,
+						["Zuldazar - Verdant Slope"] = {
+							["In"] = 25870,
+							["Out"] = 0,
+						},
+						["Nazjatar - Void Chamber"] = {
+							["In"] = 5764,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Summer Fields"] = {
+							["In"] = 1371559,
+							["Out"] = 14743,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 1317135,
+							["Out"] = 586,
+						},
+						["Vale of Eternal Blossoms - The Golden Stair"] = {
+							["In"] = 75550,
+							["Out"] = 0,
+						},
+						["Nazjatar - Elun'alor Temple"] = {
+							["In"] = 16202,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound"] = {
 							["In"] = 49611,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Summer Fields"] = {
-							["In"] = 1371559,
-							["Out"] = 14743,
+						["Warsong Lumber Mill"] = {
+							["In"] = 2005768,
+							["Out"] = 0,
 						},
 						["Warsong Gulch"] = {
 							["In"] = 18,
@@ -27159,12 +27623,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 10569,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Golden Stair"] = {
-							["In"] = 75550,
+						["Uldum - Halls of Origination"] = {
+							["In"] = 33790,
 							["Out"] = 0,
 						},
-						["Nazjatar - Elun'alor Temple"] = {
-							["In"] = 16202,
+						["Halls of Origination"] = {
+							["In"] = 133098,
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
@@ -27179,8 +27643,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 101729,
 							["Out"] = 0,
 						},
-						["Halls of Origination"] = {
-							["In"] = 133098,
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 7074,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
@@ -27207,16 +27671,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 326477,
 							["Out"] = 30515,
 						},
-						["Uldum - Halls of Origination"] = {
-							["In"] = 33790,
+						["Uldum - The Steps of Fate"] = {
+							["In"] = 285022,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
 							["In"] = 13206,
 							["Out"] = 0,
 						},
-						["Mechagon - Scrapbone Den"] = {
-							["In"] = 136613,
+						["Uldum - Khartut's Tomb"] = {
+							["In"] = 10346,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Vigil Hill"] = {
@@ -27251,40 +27715,40 @@ Accountant_ClassicZoneDB = {
 							["In"] = 133506,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 9178,
+						["Obelisk of the Stars - Chamber of the Stars"] = {
+							["In"] = 56482,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Proudmoore Barracks"] = {
 							["In"] = 5376,
 							["Out"] = 0,
 						},
-						["Zuldazar - Verdant Slope"] = {
-							["In"] = 25870,
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 9178,
 							["Out"] = 0,
 						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 7074,
+						["Nazjatar"] = {
+							["In"] = 8009,
 							["Out"] = 0,
 						},
-						["Uldum - Khartut's Tomb"] = {
-							["In"] = 10346,
+						["Stormsong Valley - The Clearcut"] = {
+							["In"] = 50634,
 							["Out"] = 0,
 						},
 						["Black Rook Hold Arena"] = {
 							["In"] = 1978524,
 							["Out"] = 0,
 						},
-						["Obelisk of the Stars - Chamber of the Stars"] = {
-							["In"] = 56482,
-							["Out"] = 0,
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 22850,
+							["Out"] = 5520,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 10711,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
 							["Out"] = 0,
 						},
 						["Uldum"] = {
-							["In"] = 501891,
+							["In"] = 529994,
 							["Out"] = 1983,
 						},
 						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
@@ -27295,16 +27759,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 44773,
 							["Out"] = 0,
 						},
-						["Nazjatar"] = {
-							["In"] = 8009,
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 46888,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Eastwind Rest"] = {
 							["In"] = 1109,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Clearcut"] = {
-							["In"] = 50634,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 10711,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - The Summer Terrace"] = {
@@ -27335,8 +27799,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32916,
 							["Out"] = 0,
 						},
-						["Nazjatar - Deepsea Slave Pen"] = {
-							["In"] = 33411,
+						["Vale of Eternal Twilight - The Summer Fields"] = {
+							["In"] = 6486,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - The Swift Vengeance"] = {
@@ -27344,19 +27808,19 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 73473,
-							["Out"] = 36536,
+							["In"] = 1378372,
+							["Out"] = 43450,
 						},
 						["Stormsong Valley - Sagehold"] = {
 							["In"] = 94758,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - The Valorous Rose"] = {
-							["In"] = 27791,
+						["Nazjatar - Deepsea Slave Pen"] = {
+							["In"] = 33411,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Twilight - The Summer Fields"] = {
-							["In"] = 6486,
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27583,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - The Yaungol Advance"] = {
@@ -27367,16 +27831,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 12989,
 							["Out"] = 0,
 						},
-						["Mogu'shan Palace"] = {
-							["In"] = 19579,
+						["Uldum - Nahom"] = {
+							["In"] = 24966,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
 							["In"] = 308193,
 							["Out"] = 56519,
 						},
-						["Mechagon - Bondo's Yard"] = {
-							["In"] = 29206,
+						["Blackwing Descent"] = {
+							["In"] = 141592,
 							["Out"] = 0,
 						},
 						["Darkshore"] = {
@@ -27391,16 +27855,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 51680,
 							["Out"] = 0,
 						},
-						["Uldum - Tomb of the Sun King"] = {
-							["In"] = 0,
-							["Out"] = 10693,
+						["Nazjatar - Zanj'ir Wash"] = {
+							["In"] = 2281375,
+							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
 							["In"] = 567476,
 							["Out"] = 0,
 						},
-						["Uldum - Keset Pass"] = {
-							["In"] = 39091,
+						["Mechagon - Bondo's Yard"] = {
+							["In"] = 29206,
 							["Out"] = 0,
 						},
 						["Uldum - The Trail of Devastation"] = {
@@ -27419,12 +27883,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 18443,
 							["Out"] = 0,
 						},
-						["Uldum - Nahom"] = {
-							["In"] = 24966,
+						["Mogu'shan Palace"] = {
+							["In"] = 19579,
 							["Out"] = 0,
 						},
-						["Blackwing Descent"] = {
-							["In"] = 141592,
+						["Uldum - Keset Pass"] = {
+							["In"] = 39091,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Norwington Estate"] = {
@@ -27443,32 +27907,32 @@ Accountant_ClassicZoneDB = {
 							["In"] = 31672,
 							["Out"] = 0,
 						},
-						["Elwynn Forest - Mirror Lake"] = {
-							["In"] = 33420,
+						["Uldum - Tombs of the Precursors"] = {
+							["In"] = 139418,
 							["Out"] = 0,
 						},
 						["Zuldazar - Talanji's Rebuke"] = {
 							["In"] = 3461,
 							["Out"] = 0,
 						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 162432,
+						["Drustvar - Arom's Crossing"] = {
+							["In"] = 50552,
 							["Out"] = 0,
 						},
 						["Nazjatar - Chamber of Harvesters"] = {
 							["In"] = 16273,
 							["Out"] = 0,
 						},
-						["Uldum - Tombs of the Precursors"] = {
-							["In"] = 139418,
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 162432,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Fire Camp Bataar"] = {
 							["In"] = 1957,
 							["Out"] = 0,
 						},
-						["Drustvar - Arom's Crossing"] = {
-							["In"] = 50552,
+						["Elwynn Forest - Mirror Lake"] = {
+							["In"] = 33420,
 							["Out"] = 0,
 						},
 						["Arathi Highlands - Go'Shek Farm"] = {
@@ -27495,9 +27959,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 64377,
 							["Out"] = 0,
 						},
-						["Nazjatar - Zanj'ir Wash"] = {
-							["In"] = 2281375,
-							["Out"] = 0,
+						["Uldum - Tomb of the Sun King"] = {
+							["In"] = 0,
+							["Out"] = 10693,
 						},
 						["Uldum - Lost City of the Tol'vir"] = {
 							["In"] = 167140,
@@ -27519,20 +27983,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 21865,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Umber Shore"] = {
-							["In"] = 22850,
-							["Out"] = 5520,
-						},
 						["Shrine of Seven Stars"] = {
 							["In"] = 95577,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 27791,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Mogujia"] = {
 							["In"] = 9612,
 							["Out"] = 0,
 						},
-						["Uldum - The Steps of Fate"] = {
-							["In"] = 285022,
+						["Mechagon - Scrapbone Den"] = {
+							["In"] = 136613,
 							["Out"] = 0,
 						},
 						["Nazjatar - Shirakess Repository"] = {
@@ -27551,8 +28015,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1832156,
 							["Out"] = 0,
 						},
-						["Warsong Lumber Mill"] = {
-							["In"] = 2005768,
+						["Darkshore - Lor'danel Landing"] = {
+							["In"] = 1998244,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins Rise"] = {
@@ -27754,7 +28218,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 14214319,
+							["In"] = 22465419,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
@@ -27810,7 +28274,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 20491400,
+							["In"] = 40491400,
 							["Out"] = 0,
 						},
 						["Orgrimmar - Valley of Strength"] = {
@@ -27938,7 +28402,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 936000,
+							["In"] = 1161138,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {
@@ -28227,7 +28691,7 @@ Accountant_ClassicZoneDB = {
 					["TAXI"] = {
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 22000,
+							["Out"] = 33000,
 						},
 					},
 					["BARBER"] = {
@@ -28239,16 +28703,32 @@ Accountant_ClassicZoneDB = {
 					["MAIL"] = {
 					},
 					["LOOT"] = {
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
+							["Out"] = 0,
+						},
+						["Uldum - Halls of Origination"] = {
+							["In"] = 17907,
+							["Out"] = 0,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 1304899,
+							["Out"] = 6914,
+						},
+						["Uldum"] = {
+							["In"] = 28103,
+							["Out"] = 0,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 46888,
+							["Out"] = 0,
+						},
 						["Vale of Eternal Twilight - The Summer Fields"] = {
 							["In"] = 6486,
 							["Out"] = 0,
 						},
 						["Uldum - Obelisk of the Stars"] = {
 							["In"] = 68025,
-							["Out"] = 0,
-						},
-						["Uldum - Halls of Origination"] = {
-							["In"] = 17907,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
@@ -28259,24 +28739,48 @@ Accountant_ClassicZoneDB = {
 							["In"] = 137945,
 							["Out"] = 0,
 						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27583,
+							["Out"] = 0,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
 					},
 					["VOID"] = {
 					},
 					["TRANSMO"] = {
 					},
 					["GARRISON"] = {
-						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
-							["In"] = 110722,
-							["Out"] = 67113,
-						},
 						["Vale of Eternal Twilight - The Summer Fields"] = {
 							["In"] = 6486,
 							["Out"] = 0,
 						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
+							["In"] = 110722,
+							["Out"] = 67113,
+						},
+						["Uldum - Neferset City"] = {
+							["In"] = 22911,
+							["Out"] = 13245,
+						},
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 9501,
+							["Out"] = 5161,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 0,
+							["Out"] = 2681,
+						},
 					},
 					["MERCH"] = {
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 1636088,
+							["In"] = 1871703,
 							["Out"] = 0,
 						},
 						["Dazar'alor - The Great Seal"] = {
@@ -28291,20 +28795,24 @@ Accountant_ClassicZoneDB = {
 					["REPAIRS"] = {
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 0,
-							["Out"] = 2844840,
+							["Out"] = 2858319,
 						},
 					},
 					["QUEST"] = {
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 2563000,
+							["In"] = 10814100,
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 20000000,
+							["In"] = 40000000,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - The Summer Fields"] = {
 							["In"] = 461514,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 225138,
 							["Out"] = 0,
 						},
 					},
@@ -28663,8 +29171,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 13206,
 							["Out"] = 0,
 						},
-						["Mechagon - Scrapbone Den"] = {
-							["In"] = 136613,
+						["Zuldazar - Verdant Slope"] = {
+							["In"] = 25870,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Vigil Hill"] = {
@@ -28699,16 +29207,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 133506,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 9178,
+						["Mechagon - Scrapbone Den"] = {
+							["In"] = 136613,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Proudmoore Barracks"] = {
 							["In"] = 5376,
 							["Out"] = 0,
 						},
-						["Zuldazar - Verdant Slope"] = {
-							["In"] = 25870,
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 9178,
 							["Out"] = 0,
 						},
 						["Uldum - The Steps of Fate"] = {
@@ -28743,8 +29251,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 44773,
 							["Out"] = 0,
 						},
-						["Nazjatar"] = {
-							["In"] = 8009,
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 27791,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Eastwind Rest"] = {
@@ -28783,8 +29291,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32916,
 							["Out"] = 0,
 						},
-						["Nazjatar - Deepsea Slave Pen"] = {
-							["In"] = 33411,
+						["Nazjatar"] = {
+							["In"] = 8009,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - The Swift Vengeance"] = {
@@ -28799,8 +29307,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 94758,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - The Valorous Rose"] = {
-							["In"] = 27791,
+						["Nazjatar - Deepsea Slave Pen"] = {
+							["In"] = 33411,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Pools of Power"] = {
@@ -29900,35 +30408,59 @@ Accountant_ClassicZoneDB = {
 				["Session"] = {
 					["TRAIN"] = {
 					},
-					["GUILD"] = {
+					["OTHER"] = {
 					},
 					["TAXI"] = {
+						["The Jade Forest - Honeydew Village"] = {
+							["In"] = 0,
+							["Out"] = 11000,
+						},
+					},
+					["GUILD"] = {
+					},
+					["LOOT"] = {
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
+					},
+					["LFG"] = {
 					},
 					["BARBER"] = {
 					},
 					["MAIL"] = {
 					},
-					["LFG"] = {
+					["VOID"] = {
 					},
 					["TRANSMO"] = {
 					},
-					["MERCH"] = {
-					},
-					["TRADE"] = {
-					},
-					["AH"] = {
-					},
 					["GARRISON"] = {
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 8862,
+							["Out"] = 0,
+						},
 					},
-					["LOOT"] = {
-					},
-					["OTHER"] = {
-					},
-					["VOID"] = {
+					["MERCH"] = {
 					},
 					["REPAIRS"] = {
 					},
+					["AH"] = {
+					},
+					["TRADE"] = {
+					},
 					["QUEST"] = {
+						["Ramkahen - Seat of Ramkahen"] = {
+							["In"] = 8251100,
+							["Out"] = 0,
+						},
+						["Uldum - Ramkahen"] = {
+							["In"] = 20000000,
+							["Out"] = 0,
+						},
+						["Uldum - Vir'naal Oasis"] = {
+							["In"] = 225138,
+							["Out"] = 0,
+						},
 					},
 				},
 				["Total"] = {
@@ -30003,7 +30535,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["The Jade Forest - Honeydew Village"] = {
 							["In"] = 0,
-							["Out"] = 110000,
+							["Out"] = 121000,
 						},
 						["Stormsong Valley - Ironmaul Overlook"] = {
 							["In"] = 0,
@@ -30063,7 +30595,7 @@ Accountant_ClassicZoneDB = {
 						},
 						["Zuldazar - Grand Bazaar"] = {
 							["In"] = 13351,
-							["Out"] = 8628928,
+							["Out"] = 8642407,
 						},
 						["Uldum - Obelisk of the Moon"] = {
 							["In"] = 0,
@@ -30117,6 +30649,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 600426,
 							["Out"] = 0,
 						},
+						["Uldum - Neferset City"] = {
+							["In"] = 22911,
+							["Out"] = 13245,
+						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 18757,
 							["Out"] = 4151,
@@ -30142,7 +30678,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 30100,
 						},
 						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 114428,
+							["In"] = 123290,
 							["Out"] = 0,
 						},
 						["Nazjatar - Zanj'ir Wash"] = {
@@ -30189,13 +30725,21 @@ Accountant_ClassicZoneDB = {
 							["In"] = 607081,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
-							["In"] = 46303,
-							["Out"] = 30582,
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 9501,
+							["Out"] = 5161,
 						},
 						["Uldum - Ruins of Ahmtul"] = {
 							["In"] = 606406,
 							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
+							["In"] = 46303,
+							["Out"] = 30582,
+						},
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 0,
+							["Out"] = 2681,
 						},
 						["Vol'dun - Vol'dun"] = {
 							["In"] = 7074,
@@ -30205,8 +30749,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 28892,
 							["Out"] = 4990,
 						},
-						["Uldum - Tombs of the Precursors"] = {
-							["In"] = 41060,
+						["Elwynn Forest - Mirror Lake"] = {
+							["In"] = 33420,
 							["Out"] = 0,
 						},
 						["Uldum"] = {
@@ -30217,8 +30761,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 19579,
 							["Out"] = 0,
 						},
-						["Elwynn Forest - Mirror Lake"] = {
-							["In"] = 33420,
+						["Uldum - Tombs of the Precursors"] = {
+							["In"] = 41060,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Mogu'shan Terrace"] = {
@@ -30304,7 +30848,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 500000,
 						},
 						["Zuldazar - Grand Bazaar"] = {
-							["In"] = 8207796,
+							["In"] = 8443411,
 							["Out"] = 1745390,
 						},
 						["Zuldazar - Dazar'alor"] = {
@@ -30373,6 +30917,10 @@ Accountant_ClassicZoneDB = {
 							["In"] = 31906,
 							["Out"] = 3060,
 						},
+						["Drustvar"] = {
+							["In"] = 104256,
+							["Out"] = 0,
+						},
 						["Vale of Eternal Blossoms - Chamber of Purification"] = {
 							["In"] = 50892,
 							["Out"] = 0,
@@ -30381,45 +30929,53 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1964327,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - Port Fogtide"] = {
-							["In"] = 52676,
-							["Out"] = 258,
-						},
-						["Drustvar"] = {
-							["In"] = 104256,
-							["Out"] = 0,
-						},
 						["Nazjatar - Highborne Estates"] = {
 							["In"] = 7470,
-							["Out"] = 0,
-						},
-						["Nazjatar - Void Chamber"] = {
-							["In"] = 5764,
 							["Out"] = 0,
 						},
 						["Vol'dun - The Blistering Wastes"] = {
 							["In"] = 103898,
 							["Out"] = 0,
 						},
-						["Vision of the Twisting Sands - Ramkahen"] = {
-							["In"] = 1308273,
-							["Out"] = 586,
+						["Stormsong Valley - Port Fogtide"] = {
+							["In"] = 52676,
+							["Out"] = 258,
 						},
 						["Ashamane's Fall"] = {
 							["In"] = 2194681,
 							["Out"] = 0,
 						},
-						["Darkshore - Lor'danel Landing"] = {
-							["In"] = 1998244,
+						["Zuldazar - Verdant Slope"] = {
+							["In"] = 25870,
+							["Out"] = 0,
+						},
+						["Nazjatar - Void Chamber"] = {
+							["In"] = 5764,
+							["Out"] = 0,
+						},
+						["Vale of Eternal Blossoms - The Summer Fields"] = {
+							["In"] = 1371559,
+							["Out"] = 14743,
+						},
+						["Vision of the Twisting Sands - Ramkahen"] = {
+							["In"] = 1317135,
+							["Out"] = 586,
+						},
+						["Vale of Eternal Blossoms - The Golden Stair"] = {
+							["In"] = 75550,
+							["Out"] = 0,
+						},
+						["Nazjatar - Elun'alor Temple"] = {
+							["In"] = 16202,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound"] = {
 							["In"] = 49611,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Summer Fields"] = {
-							["In"] = 1371559,
-							["Out"] = 14743,
+						["Warsong Lumber Mill"] = {
+							["In"] = 2005768,
+							["Out"] = 0,
 						},
 						["Warsong Gulch"] = {
 							["In"] = 18,
@@ -30433,12 +30989,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 10569,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Blossoms - The Golden Stair"] = {
-							["In"] = 75550,
+						["Uldum - Halls of Origination"] = {
+							["In"] = 33790,
 							["Out"] = 0,
 						},
-						["Nazjatar - Elun'alor Temple"] = {
-							["In"] = 16202,
+						["Halls of Origination"] = {
+							["In"] = 133098,
 							["Out"] = 0,
 						},
 						["Battle of Dazar'alor"] = {
@@ -30453,8 +31009,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 101729,
 							["Out"] = 0,
 						},
-						["Halls of Origination"] = {
-							["In"] = 133098,
+						["Vol'dun - Vol'dun"] = {
+							["In"] = 7074,
 							["Out"] = 0,
 						},
 						["Zuldazar - Scavenger's Strand"] = {
@@ -30481,16 +31037,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 326477,
 							["Out"] = 30515,
 						},
-						["Uldum - Halls of Origination"] = {
-							["In"] = 33790,
+						["Uldum - The Steps of Fate"] = {
+							["In"] = 285022,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Big Blossom Mine"] = {
 							["In"] = 13206,
 							["Out"] = 0,
 						},
-						["Mechagon - Scrapbone Den"] = {
-							["In"] = 136613,
+						["Uldum - Khartut's Tomb"] = {
+							["In"] = 10346,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Vigil Hill"] = {
@@ -30525,40 +31081,40 @@ Accountant_ClassicZoneDB = {
 							["In"] = 133506,
 							["Out"] = 0,
 						},
-						["Zuldazar - Tal'aman"] = {
-							["In"] = 9178,
+						["Obelisk of the Stars - Chamber of the Stars"] = {
+							["In"] = 56482,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Proudmoore Barracks"] = {
 							["In"] = 5376,
 							["Out"] = 0,
 						},
-						["Zuldazar - Verdant Slope"] = {
-							["In"] = 25870,
+						["Zuldazar - Tal'aman"] = {
+							["In"] = 9178,
 							["Out"] = 0,
 						},
-						["Vol'dun - Vol'dun"] = {
-							["In"] = 7074,
+						["Nazjatar"] = {
+							["In"] = 8009,
 							["Out"] = 0,
 						},
-						["Uldum - Khartut's Tomb"] = {
-							["In"] = 10346,
+						["Stormsong Valley - The Clearcut"] = {
+							["In"] = 50634,
 							["Out"] = 0,
 						},
 						["Black Rook Hold Arena"] = {
 							["In"] = 1978524,
 							["Out"] = 0,
 						},
-						["Obelisk of the Stars - Chamber of the Stars"] = {
-							["In"] = 56482,
-							["Out"] = 0,
+						["Tiragarde Sound - Umber Shore"] = {
+							["In"] = 22850,
+							["Out"] = 5520,
 						},
-						["Tiragarde Sound - Plunder Harbor"] = {
-							["In"] = 10711,
+						["Uldum - Mount Akher"] = {
+							["In"] = 507320,
 							["Out"] = 0,
 						},
 						["Uldum"] = {
-							["In"] = 501891,
+							["In"] = 529994,
 							["Out"] = 1983,
 						},
 						["Vale of Eternal Blossoms - Setting Sun Garrison"] = {
@@ -30569,16 +31125,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 44773,
 							["Out"] = 0,
 						},
-						["Nazjatar"] = {
-							["In"] = 8009,
+						["Uldum - Bluff of the South Wind"] = {
+							["In"] = 46888,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Eastwind Rest"] = {
 							["In"] = 1109,
 							["Out"] = 0,
 						},
-						["Stormsong Valley - The Clearcut"] = {
-							["In"] = 50634,
+						["Tiragarde Sound - Plunder Harbor"] = {
+							["In"] = 10711,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - The Summer Terrace"] = {
@@ -30609,8 +31165,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 32916,
 							["Out"] = 0,
 						},
-						["Nazjatar - Deepsea Slave Pen"] = {
-							["In"] = 33411,
+						["Vale of Eternal Twilight - The Summer Fields"] = {
+							["In"] = 6486,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - The Swift Vengeance"] = {
@@ -30618,19 +31174,19 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Neferset City"] = {
-							["In"] = 73473,
-							["Out"] = 36536,
+							["In"] = 1378372,
+							["Out"] = 43450,
 						},
 						["Stormsong Valley - Sagehold"] = {
 							["In"] = 94758,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - The Valorous Rose"] = {
-							["In"] = 27791,
+						["Nazjatar - Deepsea Slave Pen"] = {
+							["In"] = 33411,
 							["Out"] = 0,
 						},
-						["Vale of Eternal Twilight - The Summer Fields"] = {
-							["In"] = 6486,
+						["Uldum - Vir'naal Dam"] = {
+							["In"] = 27583,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - The Yaungol Advance"] = {
@@ -30641,16 +31197,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 12989,
 							["Out"] = 0,
 						},
-						["Mogu'shan Palace"] = {
-							["In"] = 19579,
+						["Uldum - Nahom"] = {
+							["In"] = 24966,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Twilight - Shrine of Seven Stars"] = {
 							["In"] = 308193,
 							["Out"] = 56519,
 						},
-						["Mechagon - Bondo's Yard"] = {
-							["In"] = 29206,
+						["Blackwing Descent"] = {
+							["In"] = 141592,
 							["Out"] = 0,
 						},
 						["Darkshore"] = {
@@ -30665,16 +31221,16 @@ Accountant_ClassicZoneDB = {
 							["In"] = 51680,
 							["Out"] = 0,
 						},
-						["Uldum - Tomb of the Sun King"] = {
-							["In"] = 0,
-							["Out"] = 10693,
+						["Nazjatar - Zanj'ir Wash"] = {
+							["In"] = 2281375,
+							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins of Guo-Lai"] = {
 							["In"] = 567476,
 							["Out"] = 0,
 						},
-						["Uldum - Keset Pass"] = {
-							["In"] = 39091,
+						["Mechagon - Bondo's Yard"] = {
+							["In"] = 29206,
 							["Out"] = 0,
 						},
 						["Uldum - The Trail of Devastation"] = {
@@ -30693,12 +31249,12 @@ Accountant_ClassicZoneDB = {
 							["In"] = 18443,
 							["Out"] = 0,
 						},
-						["Uldum - Nahom"] = {
-							["In"] = 24966,
+						["Mogu'shan Palace"] = {
+							["In"] = 19579,
 							["Out"] = 0,
 						},
-						["Blackwing Descent"] = {
-							["In"] = 141592,
+						["Uldum - Keset Pass"] = {
+							["In"] = 39091,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Norwington Estate"] = {
@@ -30717,32 +31273,32 @@ Accountant_ClassicZoneDB = {
 							["In"] = 31672,
 							["Out"] = 0,
 						},
-						["Elwynn Forest - Mirror Lake"] = {
-							["In"] = 33420,
+						["Uldum - Tombs of the Precursors"] = {
+							["In"] = 139418,
 							["Out"] = 0,
 						},
 						["Zuldazar - Talanji's Rebuke"] = {
 							["In"] = 3461,
 							["Out"] = 0,
 						},
-						["Nazmir - The Fallen Outpost"] = {
-							["In"] = 162432,
+						["Drustvar - Arom's Crossing"] = {
+							["In"] = 50552,
 							["Out"] = 0,
 						},
 						["Nazjatar - Chamber of Harvesters"] = {
 							["In"] = 16273,
 							["Out"] = 0,
 						},
-						["Uldum - Tombs of the Precursors"] = {
-							["In"] = 139418,
+						["Nazmir - The Fallen Outpost"] = {
+							["In"] = 162432,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Fire Camp Bataar"] = {
 							["In"] = 1957,
 							["Out"] = 0,
 						},
-						["Drustvar - Arom's Crossing"] = {
-							["In"] = 50552,
+						["Elwynn Forest - Mirror Lake"] = {
+							["In"] = 33420,
 							["Out"] = 0,
 						},
 						["Arathi Highlands - Go'Shek Farm"] = {
@@ -30769,9 +31325,9 @@ Accountant_ClassicZoneDB = {
 							["In"] = 64377,
 							["Out"] = 0,
 						},
-						["Nazjatar - Zanj'ir Wash"] = {
-							["In"] = 2281375,
-							["Out"] = 0,
+						["Uldum - Tomb of the Sun King"] = {
+							["In"] = 0,
+							["Out"] = 10693,
 						},
 						["Uldum - Lost City of the Tol'vir"] = {
 							["In"] = 167140,
@@ -30793,20 +31349,20 @@ Accountant_ClassicZoneDB = {
 							["In"] = 21865,
 							["Out"] = 0,
 						},
-						["Tiragarde Sound - Umber Shore"] = {
-							["In"] = 22850,
-							["Out"] = 5520,
-						},
 						["Shrine of Seven Stars"] = {
 							["In"] = 95577,
+							["Out"] = 0,
+						},
+						["Tiragarde Sound - The Valorous Rose"] = {
+							["In"] = 27791,
 							["Out"] = 0,
 						},
 						["Kun-Lai Summit - Mogujia"] = {
 							["In"] = 9612,
 							["Out"] = 0,
 						},
-						["Uldum - The Steps of Fate"] = {
-							["In"] = 285022,
+						["Mechagon - Scrapbone Den"] = {
+							["In"] = 136613,
 							["Out"] = 0,
 						},
 						["Nazjatar - Shirakess Repository"] = {
@@ -30825,8 +31381,8 @@ Accountant_ClassicZoneDB = {
 							["In"] = 1832156,
 							["Out"] = 0,
 						},
-						["Warsong Lumber Mill"] = {
-							["In"] = 2005768,
+						["Darkshore - Lor'danel Landing"] = {
+							["In"] = 1998244,
 							["Out"] = 0,
 						},
 						["Vale of Eternal Blossoms - Ruins Rise"] = {
@@ -31028,7 +31584,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Ramkahen - Seat of Ramkahen"] = {
-							["In"] = 14214319,
+							["In"] = 22465419,
 							["Out"] = 0,
 						},
 						["Nazmir - The Fallen Outpost"] = {
@@ -31084,7 +31640,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Ramkahen"] = {
-							["In"] = 20491400,
+							["In"] = 40491400,
 							["Out"] = 0,
 						},
 						["Orgrimmar - Valley of Strength"] = {
@@ -31212,7 +31768,7 @@ Accountant_ClassicZoneDB = {
 							["Out"] = 0,
 						},
 						["Uldum - Vir'naal Oasis"] = {
-							["In"] = 936000,
+							["In"] = 1161138,
 							["Out"] = 0,
 						},
 						["Tiragarde Sound - Ashvane Foundry"] = {

@@ -43,7 +43,7 @@ AddOnSkinsDB = {
 			["tdBattlePetScript"] = false,
 			["Blizzard_ObliterumUI"] = true,
 			["Blizzard_BattlefieldMap"] = true,
-			["Blizzard_BarbershopUI"] = true,
+			["Blizzard_IslandsQueueUI"] = true,
 			["Blizzard_GarrisonUI"] = true,
 			["Blizzard_AzeriteUI"] = true,
 			["Blizzard_BindingUI"] = true,
@@ -54,7 +54,7 @@ AddOnSkinsDB = {
 			["Blizzard_ItemUpgradeUI"] = true,
 			["Pawn"] = false,
 			["Blizzard_LookingForGuildUI"] = true,
-			["Blizzard_IslandsQueueUI"] = true,
+			["Blizzard_BarbershopUI"] = true,
 		},
 	},
 }

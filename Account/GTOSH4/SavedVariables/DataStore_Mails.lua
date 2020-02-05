@@ -17,12 +17,12 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1580801918,
-				["lastVisitDate"] = "2020/02/04 02:38",
+				["lastUpdate"] = 1580836228,
+				["lastVisitDate"] = "2020/02/04 12:10",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580789905,
-				["lastVisitDate"] = "2020/02/03 23:18",
+				["lastUpdate"] = 1580859599,
+				["lastVisitDate"] = "2020/02/04 18:39",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
@@ -122,6 +122,64 @@ DataStore_MailsDB = {
 					}, -- [9]
 				},
 				["lastVisitDate"] = "2020/01/30 11:12",
+				["MailCache"] = {
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173414::::::::120:262::14::::|h[Black Empire Cloth Robes]|h|r",
+						["icon"] = 3048006,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [1]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173416::::::::120:262::14::::|h[Black Empire Cloth Gloves]|h|r",
+						["icon"] = 3048007,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [2]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173418::::::::120:262::14::::|h[Black Empire Cloth Leggings]|h|r",
+						["icon"] = 3048009,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [3]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173413::::::::120:262::14::::|h[Black Empire Leather Belt]|h|r",
+						["icon"] = 2978241,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [4]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173409::::::::120:262::14::::|h[Black Empire Leather Gloves]|h|r",
+						["icon"] = 2978245,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [5]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 1,
+						["link"] = "|cff0070dd|Hitem:173425::::::::120:262::14::::|h[Black Empire Mail Bracers]|h|r",
+						["icon"] = 3036532,
+						["lastCheck"] = 1580846267,
+						["daysLeft"] = 30,
+					}, -- [6]
+					{
+						["sender"] = "Toshaman",
+						["count"] = 17,
+						["link"] = "|cffffffff|Hitem:152639::::::::120:264::::::|h[Flask of Endless Fathoms]|h|r",
+						["lastCheck"] = 1580869082,
+						["icon"] = 2057570,
+						["daysLeft"] = 30,
+					}, -- [7]
+				},
 			},
 		},
 	},
