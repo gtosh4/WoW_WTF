@@ -16,9 +16,25 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
-			["powerBarTexture"] = "ElvUI Blank",
-			["trinketGloss"] = false,
+			["modules"] = {
+				["Dispel"] = false,
+			},
 			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["dispellGloss"] = false,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 442.0468255028536,
+			},
+			["x"] = {
+				["arena1"] = 1116.533833770722,
+			},
+			["trinketGloss"] = false,
+			["announcements"] = {
+				["health"] = false,
+				["spec"] = false,
+				["enemies"] = false,
+			},
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "[spec]",
@@ -27,25 +43,9 @@ Gladius2DB = {
 					["text"] = "[health:short]",
 				},
 			},
-			["classIconShowSpec"] = true,
-			["modules"] = {
-				["Dispel"] = false,
-			},
-			["dispellGloss"] = false,
-			["x"] = {
-				["arena1"] = 1116.533833770722,
-			},
-			["announcements"] = {
-				["spec"] = false,
-				["health"] = false,
-				["enemies"] = false,
-			},
-			["locked"] = true,
-			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Blank",
-			["y"] = {
-				["arena1"] = 442.0468255028536,
-			},
+			["powerBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 		},
 		["Toshtrial - Blood Furnace"] = {
 			["auraVersion"] = 1,
@@ -387,13 +387,13 @@ Gladius2DB = {
 			["modules"] = {
 				["Announcements"] = false,
 			},
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
+			},
+			["locked"] = true,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 229.7807371077943,
 			},
 			["auraVersion"] = 1,
 		},

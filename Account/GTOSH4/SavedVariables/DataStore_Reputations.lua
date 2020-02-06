@@ -17,7 +17,7 @@ DataStore_ReputationsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580865539,
+				["lastUpdate"] = 1580914667,
 				["Factions"] = {
 					[15] = 35,
 					[60] = 15500,
@@ -189,7 +189,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1580864248,
+				["lastUpdate"] = 1580952323,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
