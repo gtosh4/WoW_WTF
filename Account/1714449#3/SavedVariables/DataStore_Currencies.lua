@@ -56,11 +56,11 @@ DataStore_CurrenciesDB = {
 				["War Resources"] = 6,
 				["Seal of Tempered Fate"] = 23,
 				["Garrison Resources"] = 22,
-				["Coalescing Visions"] = 28,
-				["Apexis Crystal"] = 21,
-				["Prismatic Manapearl"] = 27,
-				["Timeworn Artifact"] = 17,
 				["Wakening Essence"] = 19,
+				["Apexis Crystal"] = 21,
+				["Coalescing Visions"] = 28,
+				["Timeworn Artifact"] = 17,
+				["Prismatic Manapearl"] = 27,
 				["Warlords of Draenor"] = 20,
 				["Battle for Azeroth"] = 1,
 				["Legion"] = 9,
@@ -137,14 +137,14 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshaman"] = {
 				["Currencies"] = {
 					3, -- [1]
-					750264, -- [2]
-					176954, -- [3]
+					1087928, -- [2]
+					258874, -- [3]
 					29316, -- [4]
 					438, -- [5]
 					45446, -- [6]
-					648, -- [7]
+					392, -- [7]
 					576010, -- [8]
-					881676, -- [9]
+					898572, -- [9]
 					15, -- [10]
 					97936, -- [11]
 					19, -- [12]
@@ -172,7 +172,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1580952327,
+				["lastUpdate"] = 1581045007,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -184,10 +184,10 @@ DataStore_CurrenciesDB = {
 					[1710] = "355-0-0-0",
 					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "6888-0-0-0",
+					[1560] = "7020-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
-					[1580] = "5-0-0-5",
+					[1580] = "3-0-0-5",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {

@@ -172,11 +172,11 @@ AngryAssign_Pages = {
 		["Contents"] = "After your first, use on CD at the next outburst\n0:0     Pull          ||cpaladinSci||r{icon 31884}\n0:20    Outburst 1    ||cpaladinGordy||r{icon 31884}\n0:40    Outburst 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cwarriorSimba||r{icon 97462}\n1:10    Outburst 4    ||cpriestJess||r{icon 64843}    ||cdemonhunterAndrew||r{icon 196718}\n1:25    Outburst 5    ||cdemonhunterLuna||r{icon 196718}    ||cdruidJamie||r{icon 740}\n2:30    Outburst 9    ||cpaladinSci||r{icon 31821}\n2:50    Outburst 10    ||cpaladinGordy||r{icon 31821}\n3:00    Outburst 11    ||cpriestTehkz||r{icon 62618}\n4:05    Outburst 15    ||cpriestJess||r{icon 265202}",
 	},
 	[4118338490] = {
-		["Updated"] = 1580622628,
+		["Updated"] = 1581041251,
 		["Name"] = "XANESH",
 		["Id"] = 4118338490,
-		["UpdateId"] = 1184748201,
-		["Contents"] = "1 gordy yuki me\n2 drew frida arn\n3 thun sci luna\n4 barb ox nate",
+		["UpdateId"] = 153101286,
+		["Contents"] = "1 tehkz ox snare\n2 delpi frida arn\n3 thun gordy  luna\n4 drew me yuki",
 	},
 }
 AngryAssign_Categories = {

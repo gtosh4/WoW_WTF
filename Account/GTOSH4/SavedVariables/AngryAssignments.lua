@@ -1,11 +1,11 @@
 
 AngryAssign_Pages = {
 	[2727549159] = {
-		["Updated"] = 1580628451,
+		["Updated"] = 1581047850,
 		["Name"] = "12 N'zoth",
-		["Contents"] = "Group 1 - Barb/Sci/Jess/3mages/Steal/Me/Drew/Thug/Thund\n\nGroup 2 - Evan/Gordy/Tehkz/3mages/Snare/Nate/Luna/Simbba/Moon\n\n\nProbe Mind    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
+		["Contents"] = "Group 1 - Barb/Sci/yuki/Steal/Drew/Thug/Thund/moon/ox\n\nGroup 2 - Evan/Gordy/me/delpi/arn/Snare/Nate/Luna/Simbba/\n\nProbe Mind    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
 		["Id"] = 2727549159,
-		["UpdateId"] = 4132026302,
+		["UpdateId"] = 2020211326,
 		["CategoryId"] = 811898828,
 		["Backup"] = "Probe Mind    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 1    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 2    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 3    ||cpriestJess||r{icon 64843}\nTorment 4    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 5    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 6    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\nTorment 7    ||cpriestJess||r{icon 64843}\nTorment 8    ||cpriestTehkz||r{icon 47536}+{icon 246287}\nTorment 9    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestJess||r{icon 265202}\nTorment 10    ||cpriestTehkz||r{icon 47536}+{icon 246287}    ||cpriestJess||r{icon 64843}",
 	},
@@ -27,11 +27,11 @@ AngryAssign_Pages = {
 		["Contents"] = "LEFT        \nCorner    ||cpriestGord.barrier||r    ||cpriestGord.ramp||r\nFlames 2    ||cmonkAlex.rev||r    \n        \nRIGHT        \nCorner    ||cdruidBoo.tranq||r    ||cshamanIlya.HT||r\nFlames 2    ||cshamanIlya.SLT||r    \n        \nCENTER        \nCoin Shower 1    ||cmonkAlex.rev||r    \nCoin Shower 2    ||cshamanIlya.SLT||r    \nWail of Greed 1    ||cshamanIlya.HT||r\nCoin Shower 3    ||cpriestGord.barrier||r    \nCoin Shower 4    ||cpaladinMason.BoP||r\nWail of Greed 2    ||cpriestGord.ramp||r        ||cdruidBoo.tranq||r\nCoin Shower 5    ||cpaladinDon.BoP||r\n\n||credRUBY||r: melee\n||cpurpleAMETHYST||r: ||cpriestgordon||r, ||cshamanilya||r",
 	},
 	[4118338490] = {
-		["Updated"] = 1579925369,
+		["Updated"] = 1581041251,
 		["Name"] = "XANESH",
 		["Id"] = 4118338490,
-		["UpdateId"] = 1184748201,
-		["Contents"] = "1 gordy yuki me\n2 drew frida arn\n3 thun sci luna\n4 barb ox nate",
+		["UpdateId"] = 153101286,
+		["Contents"] = "1 tehkz ox snare\n2 delpi frida arn\n3 thun gordy  luna\n4 drew me yuki",
 	},
 	[3211967653] = {
 		["Updated"] = 1576295479,
@@ -351,20 +351,6 @@ AngryAssign_Categories = {
 }
 AngryAssign_State = {
 	["locked"] = true,
-	["display"] = {
-		["y"] = 180.4068298339844,
-		["x"] = -736.6687316894531,
-		["point"] = "BOTTOM",
-		["scale"] = 1,
-		["hidden"] = false,
-		["width"] = 424.9079284667969,
-	},
-	["window"] = {
-		["height"] = 626.7930297851562,
-		["top"] = 1302.231079101563,
-		["left"] = 2214.136962890625,
-		["width"] = 969.6856689453125,
-	},
 	["tree"] = {
 		["groups"] = {
 			["4038414028"] = true,
@@ -396,20 +382,20 @@ AngryAssign_State = {
 			["-29631049681178251767"] = true,
 			["1801712002"] = true,
 			["-8118988282479164025"] = true,
-			["-811898828408812897"] = true,
+			[-606800642] = false,
 			["-23774363663293760588"] = true,
 			["-81189882888580631"] = true,
 			["134906466"] = true,
 			["-811898828"] = true,
-			[-606800642] = false,
+			[-2406605962] = true,
 			[-2963104968] = false,
-			["2046205792"] = true,
 			["38480567"] = true,
-			["-6068006422928123566"] = true,
 			[-811898828] = true,
+			["-6068006422928123566"] = true,
+			["2046205792"] = true,
 			["3157273160"] = true,
 			["-606800642"] = true,
-			[-2406605962] = true,
+			["-811898828408812897"] = true,
 			["2727549159"] = true,
 			["2886822515"] = true,
 			["-6068006422996981258"] = true,
@@ -424,7 +410,21 @@ AngryAssign_State = {
 		["treewidth"] = 174.999908447266,
 		["selected"] = "-8118988282727549159",
 	},
+	["display"] = {
+		["y"] = 180.4068298339844,
+		["x"] = -736.6687316894531,
+		["point"] = "BOTTOM",
+		["scale"] = 1,
+		["hidden"] = false,
+		["width"] = 424.9079284667969,
+	},
 	["directionUp"] = true,
+	["window"] = {
+		["height"] = 626.7930297851562,
+		["top"] = 1302.23095703125,
+		["left"] = 2214.13720703125,
+		["width"] = 969.6856689453125,
+	},
 }
 AngryAssign_Config = {
 	["fontFlags"] = "OUTLINE",

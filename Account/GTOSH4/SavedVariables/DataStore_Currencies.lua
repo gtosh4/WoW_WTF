@@ -95,9 +95,9 @@ DataStore_CurrenciesDB = {
 				["Seafarer's Dubloon"] = 3,
 				["Apexis Crystal"] = 21,
 				["Timeworn Artifact"] = 17,
-				["Miscellaneous"] = 27,
 				["Wakening Essence"] = 19,
 				["Warlords of Draenor"] = 20,
+				["Miscellaneous"] = 27,
 				["Legion"] = 9,
 				["Darkmoon Prize Ticket"] = 28,
 				["Curious Coin"] = 12,
@@ -307,14 +307,14 @@ DataStore_CurrenciesDB = {
 				["Currencies"] = {
 					3, -- [1]
 					136982, -- [2]
-					845140, -- [3]
-					463190, -- [4]
+					1190996, -- [3]
+					570710, -- [4]
 					46084, -- [5]
 					3532, -- [6]
 					93062, -- [7]
 					648, -- [8]
 					24970, -- [9]
-					1694860, -- [10]
+					1697036, -- [10]
 					15, -- [11]
 					444816, -- [12]
 					19, -- [13]
@@ -351,7 +351,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1580952323,
+				["lastUpdate"] = 1581051209,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -363,7 +363,7 @@ DataStore_CurrenciesDB = {
 					[1710] = "727-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "4841-0-0-0",
-					[1560] = "13241-0-0-0",
+					[1560] = "13258-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1580] = "5-0-0-5",

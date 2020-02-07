@@ -83,11 +83,9 @@ DataStore_GarrisonsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1580952327,
+				["lastUpdate"] = 1581045008,
 				["AvailableWarCampaignMissions"] = {
-					1926, -- [1]
-					1938, -- [2]
-					2150, -- [3]
+					1956, -- [1]
 				},
 				["ActiveWarCampaignMissions"] = {
 					1932, -- [1]
@@ -140,21 +138,21 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "BfAMission-Icon-DeepSea",
 					["iLevel"] = 800,
 				},
-				[1926] = {
+				[1176] = {
 					["durationSeconds"] = 14400,
-					["type"] = "8.0 - Stealth",
-					["cost"] = 20,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 200,
+					["level"] = 105,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
-							["quantity"] = 438,
-							["icon"] = 2065624,
-							["currencyID"] = 1553,
+							["quantity"] = 19,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
 						}, -- [1]
 					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-Stealth",
-					["iLevel"] = 800,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
 				},
 				[1045] = {
 					["durationSeconds"] = 7200,
@@ -172,43 +170,25 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 760,
 				},
-				[2150] = {
-					["durationSeconds"] = 345600,
-					["type"] = "8.2 - Deep Sea",
+				[1956] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
 					["cost"] = 40,
 					["rewards"] = {
 						{
-							["title"] = "Currency Reward",
-							["quantity"] = 8,
-							["icon"] = 463858,
-							["currencyID"] = 1721,
-						}, -- [1]
-					},
-					["level"] = 120,
-					["typeAtlas"] = "BfAMission-Icon-DeepSea",
-					["iLevel"] = 800,
-				},
-				[1938] = {
-					["durationSeconds"] = 28800,
-					["type"] = "8.0 - Generic Missions",
-					["cost"] = 80,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 250,
-							["icon"] = 2032593,
-							["currencyID"] = 1600,
+							["itemID"] = 163036,
+							["quantity"] = 18,
 						}, -- [1]
 					},
 					["level"] = 120,
 					["typeAtlas"] = "BfAMission-Icon-Normal",
 					["iLevel"] = 800,
 				},
-				[1176] = {
-					["durationSeconds"] = 14400,
+				[1178] = {
+					["durationSeconds"] = 7200,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["level"] = 105,
+					["cost"] = 600,
+					["level"] = 102,
 					["rewards"] = {
 						{
 							["title"] = "Currency Reward",
@@ -250,22 +230,6 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["iLevel"] = 900,
-				},
-				[1178] = {
-					["durationSeconds"] = 7200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 600,
-					["level"] = 102,
-					["rewards"] = {
-						{
-							["title"] = "Currency Reward",
-							["quantity"] = 19,
-							["icon"] = 236521,
-							["currencyID"] = 1533,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 760,
 				},
 				[1932] = {
 					["durationSeconds"] = 14400,
@@ -344,12 +308,12 @@ DataStore_GarrisonsDB = {
 				["Benjamin Gibb"] = 204,
 				["Weaponsmith Na'Shra"] = 179,
 				["Croman"] = 177,
-				["Leeroy Jenkins"] = 178,
+				["Morketh Bladehowl"] = 155,
 				["Choluna"] = 217,
 				["Aponi Brightmane"] = 757,
 				["Blook"] = 189,
 				["Lady Liadrin"] = 478,
-				["Meatball"] = 986,
+				["Leeroy Jenkins"] = 178,
 				["Gronnstalker Rokash"] = 183,
 				["Zen'tabra"] = 640,
 				["Spirit of Bony Xuk"] = 212,
@@ -367,7 +331,7 @@ DataStore_GarrisonsDB = {
 				["Dark Ranger Velonara"] = 453,
 				["Brightwing"] = 645,
 				["Mulverick"] = 182,
-				["Morketh Bladehowl"] = 155,
+				["Meatball"] = 986,
 				["Brewer Almai"] = 998,
 				["Keeper Remulos"] = 646,
 				["Taran Zhu"] = 603,

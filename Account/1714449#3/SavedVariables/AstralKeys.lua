@@ -7,7 +7,7 @@ AstralKeys = {
 		15, -- [4]
 		16, -- [5]
 		133, -- [6]
-		123950, -- [7]
+		216562, -- [7]
 	}, -- [1]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		14, -- [4]
 		15, -- [5]
 		133, -- [6]
-		123947, -- [7]
+		216622, -- [7]
 	}, -- [2]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		133, -- [6]
-		117453, -- [7]
+		216569, -- [7]
 	}, -- [3]
 	{
 		"Nooks-Kil'jaeden", -- [1]
@@ -43,16 +43,16 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		133, -- [6]
-		41038, -- [7]
+		211797, -- [7]
 	}, -- [5]
 	{
 		"Peace-Kil'jaeden", -- [1]
 		"MONK", -- [2]
 		251, -- [3]
 		15, -- [4]
-		0, -- [5]
+		16, -- [5]
 		133, -- [6]
-		43853, -- [7]
+		216635, -- [7]
 	}, -- [6]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		15, -- [4]
 		18, -- [5]
 		133, -- [6]
-		117254, -- [7]
+		208006, -- [7]
 	}, -- [9]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		133, -- [6]
-		124528, -- [7]
+		216581, -- [7]
 	}, -- [10]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		133, -- [6]
-		125186, -- [7]
+		216167, -- [7]
 	}, -- [12]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -124,7 +124,7 @@ AstralKeys = {
 		9, -- [4]
 		0, -- [5]
 		133, -- [6]
-		122982, -- [7]
+		211244, -- [7]
 	}, -- [14]
 	{
 		"Brewsko-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		16, -- [4]
 		15, -- [5]
 		133, -- [6]
-		125522, -- [7]
+		216563, -- [7]
 	}, -- [16]
 	{
 		"Circé-Kil'jaeden", -- [1]
@@ -160,7 +160,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		133, -- [6]
-		43663, -- [7]
+		216562, -- [7]
 	}, -- [18]
 }
 AstralCharacters = {
@@ -196,21 +196,39 @@ AstralFriends = {
 		251, -- [4]
 		15, -- [5]
 		133, -- [6]
-		42889, -- [7]
+		145619, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [2]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
+	["frame"] = {
+		["rank_filter"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			true, -- [9]
+			true, -- [10]
 		},
-		["show_other_faction"] = {
+		["current_list"] = "GUILD",
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["show_offline"] = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -235,29 +253,11 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["frame"] = {
-		["rank_filter"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			true, -- [5]
-			true, -- [6]
-			true, -- [7]
-			true, -- [8]
-			true, -- [9]
-			true, -- [10]
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
 		},
-		["current_list"] = "GUILD",
-		["isCollapsed"] = {
-			["isEnabled"] = false,
-		},
-		["orientation"] = 1,
-		["mingle_offline"] = {
-			["isEnabled"] = false,
-		},
-		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},

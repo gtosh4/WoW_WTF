@@ -12,10 +12,10 @@ Grid2DB = {
 						{
 							["maxColumns"] = 1,
 							["sortMethod"] = "INDEX",
-							["groupBy"] = "ASSIGNEDROLE",
-							["unitsPerColumn"] = 5,
-							["groupFilter"] = "1",
 							["groupingOrder"] = "TANK,HEALER,DAMAGER,NONE",
+							["groupBy"] = "ASSIGNEDROLE",
+							["groupFilter"] = "1",
+							["unitsPerColumn"] = 5,
 						}, -- [1]
 						{
 							["unitsPerColumn"] = 5,
@@ -35,10 +35,10 @@ Grid2DB = {
 							["groupFilter"] = "1",
 						}, -- [3]
 						["meta"] = {
-							["raid"] = true,
-							["party"] = true,
-							["solo"] = true,
 							["arena"] = true,
+							["raid"] = true,
+							["solo"] = true,
+							["party"] = true,
 						},
 					},
 				},
@@ -55,10 +55,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "bdSmooth",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["party"] = "By Group",
-								["arena"] = "By Group",
-								["solo"] = "By Group",
 								["raid"] = "By Group",
+								["party"] = "By Group",
+								["solo"] = "By Group",
+								["arena"] = "By Group",
 							},
 							["BackgroundR"] = 0.101960784313725,
 							["ScaleSize"] = 1,
@@ -84,10 +84,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "bdSmooth",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["raid"] = "By Group",
-								["solo"] = "ToshParty",
 								["party"] = "ToshParty",
+								["arena"] = "By Group",
+								["solo"] = "ToshParty",
+								["raid"] = "By Group",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -98,7 +98,7 @@ Grid2DB = {
 							["anchor"] = "TOPLEFT",
 							["clamp"] = true,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -592.0402787096828,
+							["PosY"] = -592.0400199206342,
 							["Spacing"] = 4,
 							["BorderTexture"] = "None",
 							["BackgroundA"] = 0,
@@ -178,10 +178,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "bdSmooth",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["party"] = "By Group",
-								["arena"] = "By Group",
-								["solo"] = "By Group",
 								["raid"] = "By Group",
+								["party"] = "By Group",
+								["solo"] = "By Group",
+								["arena"] = "By Group",
 							},
 							["BackgroundR"] = 0.101960784313725,
 							["ScaleSize"] = 1,
@@ -207,10 +207,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "bdSmooth",
 							["BorderB"] = 0.5,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["raid"] = "By Group",
-								["solo"] = "By Group",
 								["party"] = "By Group",
+								["arena"] = "By Group",
+								["solo"] = "By Group",
+								["raid"] = "By Group",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -317,14 +317,14 @@ Grid2DB = {
 							["mouseoverTexture"] = "bdSmooth",
 							["frameBorderDistance"] = 1,
 							["frameHeight"] = 54,
+							["frameBorderTexture"] = "Grid2 Flat",
+							["barTexture"] = "ElvUI Blank",
 							["mouseoverColor"] = {
 								["a"] = 0.200000047683716,
 								["r"] = 1,
 								["g"] = 1,
 								["b"] = 1,
 							},
-							["barTexture"] = "ElvUI Blank",
-							["frameTexture"] = "ElvUI Blank",
 							["frameWidths"] = {
 							},
 							["frameContentColor"] = {
@@ -340,7 +340,7 @@ Grid2DB = {
 							["frameHeights"] = {
 							},
 							["frameWidth"] = 100,
-							["frameBorderTexture"] = "Grid2 Flat",
+							["frameTexture"] = "ElvUI Blank",
 						}, -- [1]
 						{
 							["frameColor"] = {
@@ -355,14 +355,14 @@ Grid2DB = {
 							["mouseoverTexture"] = "bdSmooth",
 							["frameBorderDistance"] = 1,
 							["frameHeight"] = 54,
+							["frameBorderTexture"] = "Grid2 Flat",
+							["barTexture"] = "ElvUI Blank",
 							["mouseoverColor"] = {
 								["a"] = 0.200000047683716,
 								["r"] = 1,
 								["g"] = 1,
 								["b"] = 1,
 							},
-							["barTexture"] = "ElvUI Blank",
-							["frameTexture"] = "ElvUI Blank",
 							["frameWidths"] = {
 							},
 							["mouseoverHighlight"] = true,
@@ -378,19 +378,19 @@ Grid2DB = {
 								["b"] = 0.101960784313725,
 							},
 							["frameWidth"] = 200,
-							["frameBorderTexture"] = "Grid2 Flat",
+							["frameTexture"] = "ElvUI Blank",
 						}, -- [2]
 					},
 					["frameTexture"] = "ElvUI Blank",
+					["mouseoverHighlight"] = true,
+					["font"] = "PT Sans Narrow",
+					["menuDisabled"] = true,
+					["orientation"] = "HORIZONTAL",
 					["frameContentColor"] = {
 						["b"] = 0.101960784313725,
 						["g"] = 0.101960784313725,
 						["r"] = 0.101960784313725,
 					},
-					["font"] = "PT Sans Narrow",
-					["menuDisabled"] = true,
-					["mouseoverHighlight"] = true,
-					["orientation"] = "HORIZONTAL",
 					["mouseoverTexture"] = "bdSmooth",
 					["frameWidth"] = 100,
 					["mouseoverColor"] = {
@@ -412,14 +412,9 @@ Grid2DB = {
 							["mouseoverTexture"] = "bdSmooth",
 							["frameBorderDistance"] = 1,
 							["frameHeight"] = 54,
-							["frameBorderTexture"] = "Grid2 Flat",
+							["frameTexture"] = "ElvUI Norm",
 							["barTexture"] = "ElvUI Blank",
-							["mouseoverColor"] = {
-								["a"] = 0.200000047683716,
-								["b"] = 1,
-								["g"] = 1,
-								["r"] = 1,
-							},
+							["frameBorderTexture"] = "Grid2 Flat",
 							["frameWidths"] = {
 							},
 							["orientation"] = "HORIZONTAL",
@@ -435,7 +430,12 @@ Grid2DB = {
 							["frameHeights"] = {
 							},
 							["frameWidth"] = 100,
-							["frameTexture"] = "ElvUI Norm",
+							["mouseoverColor"] = {
+								["a"] = 0.200000047683716,
+								["b"] = 1,
+								["g"] = 1,
+								["r"] = 1,
+							},
 						}, -- [1]
 						{
 							["frameColor"] = {
@@ -450,14 +450,9 @@ Grid2DB = {
 							["mouseoverTexture"] = "bdSmooth",
 							["frameBorderDistance"] = 1,
 							["frameHeight"] = 54,
-							["frameBorderTexture"] = "Grid2 Flat",
+							["frameTexture"] = "ElvUI Norm",
 							["barTexture"] = "ElvUI Blank",
-							["mouseoverColor"] = {
-								["a"] = 0.200000047683716,
-								["b"] = 1,
-								["g"] = 1,
-								["r"] = 1,
-							},
+							["frameBorderTexture"] = "Grid2 Flat",
 							["frameWidths"] = {
 							},
 							["orientation"] = "HORIZONTAL",
@@ -473,7 +468,12 @@ Grid2DB = {
 								["r"] = 0.101960784313725,
 							},
 							["frameWidth"] = 200,
-							["frameTexture"] = "ElvUI Norm",
+							["mouseoverColor"] = {
+								["a"] = 0.200000047683716,
+								["b"] = 1,
+								["g"] = 1,
+								["r"] = 1,
+							},
 						}, -- [2]
 					},
 					["mouseoverTexture"] = "bdSmooth",
@@ -490,9 +490,9 @@ Grid2DB = {
 						["r"] = 0.101960784313725,
 					},
 					["orientation"] = "HORIZONTAL",
-					["frameTexture"] = "ElvUI Norm",
-					["frameWidth"] = 100,
 					["mouseoverHighlight"] = true,
+					["frameWidth"] = 100,
+					["frameTexture"] = "ElvUI Norm",
 				},
 				["Tosh - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -1503,16 +1503,16 @@ Grid2DB = {
 					["fontJustifyV"] = "BOTTOM",
 					["maxIcons"] = 2,
 					["borderSize"] = 1,
-					["useStatusColor"] = true,
-					["maxIconsPerRow"] = 2,
-					["iconSize"] = 18,
-					["level"] = 8,
 					["location"] = {
 						["y"] = 14,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
+					["maxIconsPerRow"] = 2,
+					["useStatusColor"] = true,
+					["level"] = 8,
+					["iconSize"] = 18,
 					["fontSize"] = 14,
 				},
 				["text-up-color"] = {
@@ -2531,9 +2531,9 @@ Grid2DB = {
 					["color-health-base"] = 50,
 				},
 				["ind-second"] = {
+					["buff-PowerWord:Shield-mine"] = 53,
 					["buff-EssenceFont-mine"] = 54,
 					["buff-Regrowth-mine"] = 52,
-					["buff-PowerWord:Shield-mine"] = 53,
 				},
 				["role"] = {
 					["dungeon-role"] = 50,
@@ -2584,9 +2584,9 @@ Grid2DB = {
 				["health-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["my-heals-incoming"] = 3,
 					["health-current"] = 1,
 					["heals-incoming"] = 2,
-					["my-heals-incoming"] = 3,
 				},
 				["tanking"] = {
 					["threat"] = 51,
@@ -3454,16 +3454,16 @@ Grid2DB = {
 					["maxIcons"] = 2,
 					["borderSize"] = 1,
 					["fontSize"] = 14,
-					["useStatusColor"] = true,
-					["iconSize"] = 18,
-					["level"] = 8,
-					["maxIconsPerRow"] = 3,
 					["location"] = {
 						["y"] = 14,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
+					["useStatusColor"] = true,
+					["level"] = 8,
+					["maxIconsPerRow"] = 3,
+					["iconSize"] = 18,
 				},
 				["leader"] = {
 					["fontSize"] = 8,
@@ -4404,9 +4404,9 @@ Grid2DB = {
 					["color-health-base"] = 50,
 				},
 				["ind-second"] = {
+					["buff-EssenceFont-mine"] = 54,
 					["buff-PowerWord:Shield-mine"] = 53,
 					["buff-Regrowth-mine"] = 52,
-					["buff-EssenceFont-mine"] = 54,
 				},
 				["role"] = {
 					["dungeon-role"] = 50,
@@ -4451,9 +4451,9 @@ Grid2DB = {
 				["health-multi"] = {
 					["heal-absorbs"] = 5,
 					["shields"] = 4,
+					["my-heals-incoming"] = 3,
 					["health-current"] = 1,
 					["heals-incoming"] = 2,
-					["my-heals-incoming"] = 3,
 				},
 				["text-up-color"] = {
 				},
@@ -4627,15 +4627,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["type"] = "icons",
 					["borderSize"] = 1,
+					["iconSize"] = 16,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["useStatusColor"] = true,
 					["level"] = 8,
-					["iconSize"] = 16,
+					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["r"] = 0,
@@ -5875,9 +5875,9 @@ Grid2DB = {
 					["classcolor"] = 50,
 				},
 				["heals"] = {
+					["heals-incoming"] = 99,
 					["shields"] = 101,
 					["my-heals-incoming"] = 100,
-					["heals-incoming"] = 99,
 				},
 				["icons-topleft"] = {
 					["buffs-DefensiveCooldowns"] = 50,
@@ -7039,15 +7039,15 @@ Grid2DB = {
 					["maxIcons"] = 3,
 					["borderSize"] = 1,
 					["type"] = "icons",
+					["useStatusColor"] = true,
 					["iconSize"] = 16,
+					["level"] = 8,
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOMLEFT",
 						["point"] = "BOTTOMLEFT",
 						["x"] = 0,
 					},
-					["level"] = 8,
-					["useStatusColor"] = true,
 					["color1"] = {
 						["a"] = 0,
 						["b"] = 0,
@@ -8399,9 +8399,9 @@ Grid2DB = {
 					["buff-EnvelopingMist-mine"] = 50,
 				},
 				["heals"] = {
+					["my-heals-incoming"] = 100,
 					["shields"] = 101,
 					["heals-incoming"] = 99,
-					["my-heals-incoming"] = 100,
 				},
 			},
 			["themes"] = {
