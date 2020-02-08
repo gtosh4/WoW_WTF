@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -13,6 +6,20 @@ X: -148
 Y: 270
 W: 208
 H: 62
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -552
+Y: -198
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 21
 Anchor: CENTER
@@ -62,6 +69,13 @@ X: -540
 Y: -128
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -104,20 +118,13 @@ X: -20
 Y: 39
 W: 728
 H: 753
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -552
-Y: -198
-W: 222
-H: 175
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 444
+Y: -74
+W: 406
+H: 317
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: BOTTOM

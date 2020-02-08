@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1410,
 	["lastSanitation"] = 3,
-	["session"] = 1409,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'AdiBags' tried to call the protected function 'RunBinding()'.",

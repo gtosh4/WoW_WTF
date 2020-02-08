@@ -24,710 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1696, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043239,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1697, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043239,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"Removed Peace's |cff71d5ff|Hspell:314451:0|h[Leeching Bite]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1698, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043243,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1700, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1581043245,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [4]
-		{
-			" Taunted Leeching Parasite! Taunted Leeching Parasite! Taunted Leeching Parasite!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1716, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043301,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1717, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043304,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1718, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043304,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"Removed Peace's |cff71d5ff|Hspell:314451:0|h[Leeching Bite]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1719, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043306,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Removed Peace's |cff71d5ff|Hspell:314451:0|h[Leeching Bite]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1720, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043306,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Lyuneria!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1725, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043339,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"sure", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1728, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1581043368,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"i want to use 108 corruption", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1729, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043381,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"don't know if this works... but", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1730, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1581043396,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"[WeakAuras: Toshpal-Kil'jaeden - 06 Umbral Eruption Move]", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1731, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1581043398,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"not a main raid day, no typical macros", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1734, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1581043419,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1740, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043483,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1741, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043487,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1742, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043487,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1746, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043505,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1747, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043526,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1749, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043555,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1750, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043555,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1752, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043570,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1756, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043606,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
-		{
-			"same", -- [1]
-			"Savethedayy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. General - Ny'alotha, the Waking City", -- [4]
-			"Savethedayy-Kil'jaeden", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Ny'alotha, the Waking City", -- [9]
-			0, -- [10]
-			1759, -- [11]
-			"Player-9-0A6AC732", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Savethedayy|r",
-			[51] = 1581043622,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			" Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable! Taunted Shad'har the Insatiable!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1762, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043642,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"imagine having", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1778, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1581043683,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			"more then a rank 1 corruption", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1781, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1581043688,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
-		{
-			"I can't", -- [1]
-			"Vercetty-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vercetty-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1785, -- [11]
-			"Player-9-008E5464", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcVercetty|r",
-			[51] = 1581043698,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
-		{
-			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1786, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043723,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1787, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043723,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1788, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581043724,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
 			" Taunted Crushing Tendril! Taunted Crushing Tendril! Taunted Crushing Tendril!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -748,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043727,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [1]
 		{
 			"Gnashing Terror is immune to my |cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -770,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043747,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [2]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043760,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [3]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -814,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043775,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [4]
 		{
 			"Removed Peace's |cff71d5ff|Hspell:316959:0|h[Devouring Acid]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043796,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043804,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [6]
 		{
 			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -880,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043808,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [7]
 		{
 			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043808,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [8]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -924,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043819,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [9]
 		{
 			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043824,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [10]
 		{
 			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043824,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [11]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -990,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1581043904,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [12]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1012,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1581043906,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [13]
 		{
 			"3", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1034,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043929,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [14]
 		{
 			"2", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043930,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [15]
 		{
 			"1", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1078,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043931,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [16]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043940,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [17]
 		{
 			"3", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1122,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581043946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [18]
 		{
 			"3", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1144,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1581043946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [19]
 		{
 			"2", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1166,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581043947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [20]
 		{
 			"2", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1188,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1581043947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [21]
 		{
 			"1", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1210,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581043948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [22]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1232,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1581043948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [23]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581043975,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [24]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044018,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [25]
 		{
 			"3", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1298,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581044024,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [26]
 		{
 			"2", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1320,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581044025,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [27]
 		{
 			"1", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1342,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1581044026,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1364,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1581044050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [29]
 		{
 			"1", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1386,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1581044051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [30]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044055,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [31]
 		{
 			"Acid Splash on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1430,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1581044091,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [32]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044098,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [33]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1474,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044098,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [34]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1496,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044123,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [35]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1518,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044123,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [36]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044132,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [37]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1562,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1581044137,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [38]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1584,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1581044153,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [71]
+		}, -- [39]
 		{
 			"Acid Splash on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1606,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1581044163,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [40]
 		{
 			"3", -- [1]
 			"Simbbaa-Kil'jaeden", -- [2]
@@ -1628,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSimbbaa|r",
 			[51] = 1581044171,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1650,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1581044171,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [42]
 		{
 			"2", -- [1]
 			"Simbbaa-Kil'jaeden", -- [2]
@@ -1672,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSimbbaa|r",
 			[51] = 1581044172,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [43]
 		{
 			"2", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1694,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1581044172,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [44]
 		{
 			"1", -- [1]
 			"Simbbaa-Kil'jaeden", -- [2]
@@ -1716,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSimbbaa|r",
 			[51] = 1581044173,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [45]
 		{
 			"1", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -1738,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1581044173,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [46]
 		{
 			" Taunted Drest'agath! Taunted Drest'agath! Taunted Drest'agath!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1760,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044190,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [47]
 		{
 			"5 dispels 3 are the debuff", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1782,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581044214,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [48]
 		{
 			"xd", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1804,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581044214,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [49]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1826,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044246,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [50]
 		{
 			" Taunted Sightless Watcher! Taunted Sightless Watcher! Taunted Sightless Watcher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1848,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044259,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [51]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1870,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044296,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [52]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1892,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044352,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [53]
 		{
 			"Removed Peace's |cff71d5ff|Hspell:316959:0|h[Devouring Acid]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1914,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044358,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [54]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1936,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044359,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [55]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1958,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044359,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [56]
 		{
 			"Removed Peace's |cff71d5ff|Hspell:316959:0|h[Devouring Acid]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1980,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044372,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [57]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2002,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044394,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [58]
 		{
 			" Taunted Corrosive Digester! Taunted Corrosive Digester! Taunted Corrosive Digester!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044402,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [59]
 		{
 			"not a main raid day, no typical macros", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2046,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1581044437,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [60]
 		{
 			"just play from bed", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2068,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581044462,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [61]
 		{
 			"not a main raid day, no typical macros", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2090,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1581044527,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [62]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044545,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [63]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2134,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044593,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [64]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044593,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [65]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2178,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1581044605,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2200,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044614,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [67]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2222,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044616,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [68]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2244,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044616,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [69]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2266,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044629,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2288,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044652,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2310,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044653,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [72]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2332,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044686,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [73]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2354,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044686,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [74]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2376,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044686,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [75]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2398,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044709,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [76]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2420,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044709,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [77]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2442,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044735,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [78]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2464,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044735,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2486,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044743,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [112]
+		}, -- [80]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2508,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044758,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [81]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2530,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044796,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [114]
+		}, -- [82]
 		{
 			"3", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2552,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [83]
 		{
 			"2", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2574,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [84]
 		{
 			"1", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2596,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044823,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [85]
 		{
 			"3", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2618,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044839,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [86]
 		{
 			"2", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2640,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044840,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [87]
 		{
 			"1", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -2662,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1581044841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [88]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2684,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [89]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2706,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [90]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2728,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044856,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [91]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2750,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044885,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [92]
 		{
 			"Blood of Ny'alotha is immune to my |cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2772,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044895,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [93]
 		{
 			" Taunted Il'gynoth! Taunted Il'gynoth! Taunted Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2794,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581044934,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0B32A56C:1:2:6:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
 			"Heaty-Kil'jaeden", -- [2]
@@ -2816,6 +2112,742 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Heaty|r",
 			[51] = 1581044957,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"hey, you around?", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			60, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581091844,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [96]
+		{
+			"just got back, i'm about to leave for work after i change", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			91, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092443,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [97]
+		{
+			"what' sup", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092444,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [98]
+		{
+			"oh, just wanted to test something", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			93, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092460,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [99]
+		{
+			"yeah np", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			94, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092466,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [100]
+		{
+			"nevermind, have fun at work!", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			95, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092467,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [101]
+		{
+			"oh, how much time you have before you leave?", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			96, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092479,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [102]
+		{
+			"like 5 min", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			97, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092486,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [103]
+		{
+			"lol", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			98, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092486,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [104]
+		{
+			"how much corruption is on your wep", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			100, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092497,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [105]
+		{
+			"is it high", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			101, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092503,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [106]
+		{
+			"35", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			103, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092510,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [107]
+		{
+			"i can wear like 120 total or something though lol", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092523,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [108]
+		{
+			"I wanna see if the thing from beyond damage snapshots", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092527,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [109]
+		{
+			"can we dual, spawn it then wep swap?", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			106, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092535,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [110]
+		{
+			"yeah", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092543,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [111]
+		{
+			"k i'm at 158", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092570,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [112]
+		{
+			"holy shit", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			109, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092589,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [113]
+		{
+			"that was so fast", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			110, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092591,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [114]
+		{
+			"k maybe i shouldnt go that high", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			111, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092605,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [115]
+		{
+			"lol", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092616,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [116]
+		{
+			"k 108", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			113, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092618,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [117]
+		{
+			"i cank that was one", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092653,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [118]
+		{
+			"hmm ints not spawning", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			117, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092716,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [119]
+		{
+			"so i swapped my wep on the second thing from beyond", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092741,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [120]
+		{
+			"okay i need to leave lol, but i think i may have done it incorrectly", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			119, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092788,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [121]
+		{
+			"yeah", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092793,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [122]
+		{
+			"see ya!", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092796,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [123]
+		{
+			"if you havent done it by the time i get back we can do it again", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092799,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [124]
+		{
+			"hf at work", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			124, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092800,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Johnnymsw",
+		}, -- [125]
+		{
+			"byeeee", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092802,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
+		}, -- [126]
+		{
+			"lol thanks", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			false, -- [12]
+			30, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Johnnymsw|r",
+			[51] = 1581092804,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Johnnymsw",
 		}, -- [127]
 	},
 }
