@@ -2,1393 +2,13 @@
 EncounterDetailsDB = {
 	["emotes"] = {
 		{
-			{
-				0.6069999999599531, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				11.73999999999069, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				15.30200000002515, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				21.48899999994319, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				23.71699999994598, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				26.59600000001956, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [6]
-			{
-				26.59600000001956, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				35.53899999998976, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				41.70499999995809, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				44.54399999999441, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				44.54399999999441, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				50.59899999992922, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				61.60300000000279, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				62.58400000003167, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				74.70499999995809, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				79.6940000000177, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				79.6940000000177, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				80.20400000002701, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				85.17999999993481, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				91.72399999992922, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				96.69799999997485, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [21]
-			{
-				96.69799999997485, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				101.7330000000075, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				103.7249999999767, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				109.5300000000279, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [25]
-			{
-				109.5300000000279, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [26]
-			{
-				115.5509999999777, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				121.6990000000224, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				127.704000000027, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				139.5760000000009, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				141.7129999999888, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				144.6809999999823, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [32]
-			{
-				144.6809999999823, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				149.670999999973, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				151.7099999999628, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				160.2729999999283, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				162.6749999999302, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				163.719000000041, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				167.6700000000419, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				167.6700000000419, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				175.5810000000056, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [41]
-			{
-				182.7090000000317, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [42]
-			{
-				187.6689999999944, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [43]
-			{
-				194.6999999999534, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [44]
-			{
-				194.6999999999534, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [45]
-			{
-				202.5720000000438, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [46]
-			{
-				211.530999999959, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [47]
-			{
-				219.6759999999777, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [48]
-			{
-				219.6759999999777, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [49]
-			{
-				224.5649999999441, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [50]
-			{
-				226.6829999999609, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [51]
-			{
-				233.2729999999283, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [52]
-			{
-				238.7079999999842, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				244.689000000013, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [54]
-			{
-				244.689000000013, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [55]
-			{
-				246.689000000013, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [56]
-			{
-				262.6990000000224, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [57]
-			{
-				266.6970000000438, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [58]
-			{
-				274.6940000000177, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [59]
-			{
-				274.6940000000177, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [60]
-			{
-				274.6940000000177, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [61]
-			{
-				286.6809999999823, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [62]
-			{
-				286.6809999999823, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [63]
-			{
-				294.7280000000028, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [64]
-			{
-				294.7280000000028, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [65]
-			{
-				299.6659999999683, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [66]
-			{
-				304.6739999999991, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [67]
-			{
-				306.5849999999628, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [68]
-			{
-				311.2920000000158, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [69]
-			{
-				316.7360000000335, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [70]
-			{
-				326.5209999999497, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [71]
-			{
-				329.6759999999777, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [72]
-			{
-				340.6929999999702, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [73]
-			{
-				340.6929999999702, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [74]
-			{
-				340.6929999999702, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [75]
-			{
-				344.7339999999385, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [76]
-			{
-				344.7339999999385, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [77]
-			{
-				346.6230000000214, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [78]
-			{
-				352.6899999999441, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [79]
-			{
-				364.7430000000168, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [80]
-			{
-				366.6749999999302, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [81]
-			{
-				368.8769999999786, -- [1]
-				"%s begins casting Dark Reconstitution.", -- [2]
-				"Ka'zir", -- [3]
-				3, -- [4]
-			}, -- [82]
-			{
-				374.8930000000401, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [83]
-			{
-				378.0529999999562, -- [1]
-				"%s begins casting Dark Reconstitution.", -- [2]
-				"Tek'ris", -- [3]
-				3, -- [4]
-			}, -- [84]
-			["boss"] = "The Hivemind",
+			["boss"] = "Alleria Windrunner",
 		}, -- [1]
 		{
-			{
-				0.7679999999236315, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				11.91499999992084, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				15.48599999991711, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				21.87699999997858, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				23.86899999994785, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				26.89199999999255, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [6]
-			{
-				26.89199999999255, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				35.89799999992829, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				41.89599999994971, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				44.86399999994319, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				44.86399999994319, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				50.87599999993108, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				61.89199999999255, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				62.88199999998324, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				74.88799999991897, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				79.83399999991525, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				79.83399999991525, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				80.39199999999255, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				85.32600000000093, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				91.81400000001304, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				96.91399999998976, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [21]
-			{
-				96.91399999998976, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				101.8609999999171, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				103.8950000000186, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				109.8819999999832, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [25]
-			{
-				109.8819999999832, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [26]
-			{
-				115.8719999999739, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				121.7489999999525, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				127.9079999999376, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				139.8680000000168, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				141.8979999999283, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				144.8989999999758, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [32]
-			{
-				144.8989999999758, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				149.890000000014, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				151.8719999999739, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				160.4989999999525, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				162.8240000000224, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				163.7010000000009, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				167.9170000000158, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				167.9170000000158, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				175.9199999999255, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [41]
-			{
-				182.8839999999618, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [42]
-			{
-				187.8959999999497, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [43]
-			{
-				194.8549999999814, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [44]
-			{
-				194.8549999999814, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [45]
-			{
-				202.8850000000093, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [46]
-			{
-				211.8609999999171, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [47]
-			{
-				219.8780000000261, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [48]
-			{
-				219.8780000000261, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [49]
-			{
-				223.954000000027, -- [1]
-				"Fall before the hive!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [50]
-			{
-				224.7689999999711, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [51]
-			{
-				226.8830000000307, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [52]
-			{
-				233.3889999999665, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				238.8360000000102, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [54]
-			{
-				244.8830000000307, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [55]
-			{
-				244.8830000000307, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [56]
-			{
-				246.8769999999786, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [57]
-			{
-				262.7820000000065, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [58]
-			{
-				266.8889999999665, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [59]
-			{
-				274.9039999999804, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [60]
-			{
-				274.9039999999804, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [61]
-			{
-				274.9039999999804, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [62]
-			{
-				281.5329999999376, -- [1]
-				"Weak!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [63]
-			{
-				286.8859999999404, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [64]
-			{
-				286.8859999999404, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [65]
-			{
-				294.7449999999953, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [66]
-			{
-				294.7449999999953, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [67]
-			{
-				299.9000000000233, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [68]
-			{
-				304.7999999999302, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [69]
-			{
-				306.8190000000177, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [70]
-			{
-				311.4039999999804, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [71]
-			{
-				316.6879999999655, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [72]
-			{
-				326.859999999986, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [73]
-			{
-				329.75, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [74]
-			["boss"] = "The Hivemind",
+			["boss"] = "Magister Umbric",
 		}, -- [2]
 		{
-			{
-				0.5850000000791624, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [1]
-			{
-				11.48300000000745, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [2]
-			{
-				15.18099999998231, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [3]
-			{
-				21.46799999999348, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [4]
-			{
-				23.60100000002421, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [5]
-			{
-				26.57200000004377, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [6]
-			{
-				26.57200000004377, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [7]
-			{
-				35.57600000000093, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [8]
-			{
-				41.61300000001211, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [9]
-			{
-				44.60000000009313, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [10]
-			{
-				44.60000000009313, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [11]
-			{
-				50.44500000006519, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [12]
-			{
-				61.59600000001956, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [13]
-			{
-				62.5920000000624, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [14]
-			{
-				74.48600000003353, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [15]
-			{
-				79.60600000002887, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [16]
-			{
-				79.60600000002887, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [17]
-			{
-				80.08299999998417, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [18]
-			{
-				85.06400000001304, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [19]
-			{
-				91.56599999999162, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [20]
-			{
-				96.54399999999441, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [21]
-			{
-				96.54399999999441, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [22]
-			{
-				101.609000000055, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [23]
-			{
-				103.4320000000298, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [24]
-			{
-				109.5879999999888, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [25]
-			{
-				109.5879999999888, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [26]
-			{
-				115.5740000000224, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [27]
-			{
-				121.564000000013, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [28]
-			{
-				127.5659999999916, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [29]
-			{
-				139.5280000000494, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [30]
-			{
-				141.5829999999842, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [31]
-			{
-				144.5740000000224, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [32]
-			{
-				144.5740000000224, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [33]
-			{
-				149.579000000027, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				151.5730000000913, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [35]
-			{
-				160.1970000000438, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [36]
-			{
-				162.5740000000224, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [37]
-			{
-				163.563000000082, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [38]
-			{
-				167.5960000000196, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [39]
-			{
-				167.5960000000196, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [40]
-			{
-				175.6230000000214, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [41]
-			{
-				182.6010000000242, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [42]
-			{
-				187.5870000000577, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [43]
-			{
-				194.5690000000177, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [44]
-			{
-				194.5690000000177, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [45]
-			{
-				202.5950000000885, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [46]
-			{
-				211.5979999999981, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [47]
-			{
-				219.5900000000838, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [48]
-			{
-				219.5900000000838, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [49]
-			{
-				224.5979999999981, -- [1]
-				"The hive answers to my power!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [50]
-			{
-				226.4520000000484, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [51]
-			{
-				233.2070000000531, -- [1]
-				"The shadows demand blood!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [52]
-			{
-				238.6060000000289, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [53]
-			{
-				244.5550000000512, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [54]
-			{
-				244.5550000000512, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [55]
-			{
-				246.5920000000624, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [56]
-			{
-				262.4370000000345, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [57]
-			{
-				266.5910000000149, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [58]
-			{
-				274.5929999999935, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [59]
-			{
-				274.5929999999935, -- [1]
-				"|TInterface\\ICONS\\Ability_Priest_VoidEntropy.blp:20|t Tek'ris begins casting |cFFFF0000|Hspell:307232|h[Echoing Void]|h|r!", -- [2]
-				"Tek'ris", -- [3]
-				1, -- [4]
-			}, -- [60]
-			{
-				274.5929999999935, -- [1]
-				"The Void claims all!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [61]
-			{
-				281.1589999999851, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [62]
-			{
-				286.5720000000438, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [63]
-			{
-				286.5720000000438, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [64]
-			{
-				294.5890000000363, -- [1]
-				"|TInterface\\ICONS\\Ability_Pet_Baneling.blp:20|t Ka'zir begins spawning |cFFFF0000|Hspell:310340|h[Acidic Aqir]|h|r!", -- [2]
-				"Ka'zir", -- [3]
-				1, -- [4]
-			}, -- [65]
-			{
-				294.5890000000363, -- [1]
-				"Come, hatchlings! Devour their bones!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [66]
-			{
-				299.5879999999888, -- [1]
-				"The hive is under my command!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [67]
-			{
-				304.4480000000913, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [68]
-			{
-				306.4640000000363, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [69]
-			{
-				306.4640000000363, -- [1]
-				"The void bursts!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [70]
-			{
-				311.1780000000726, -- [1]
-				"Give yourself to the Void!", -- [2]
-				"Tek'ris", -- [3]
-				7, -- [4]
-			}, -- [71]
-			{
-				316.5690000000177, -- [1]
-				"Your veins will blister!", -- [2]
-				"Ka'zir", -- [3]
-				7, -- [4]
-			}, -- [72]
-			["boss"] = "The Hivemind",
+			["boss"] = "Slavemaster Ul'rok",
 		}, -- [3]
 	},
 	["encounter_spells"] = {
@@ -11993,12 +10613,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abyssal Commander Sivara",
 		},
-		[282109] = {
-			["school"] = 8,
+		[306679] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Pa'ku",
+			["source"] = "Vez'okk the Lightless",
 		},
 		[268800] = {
 			["school"] = 1,
@@ -12007,12 +10627,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sandfury Thug",
 		},
-		[306679] = {
-			["school"] = 32,
+		[282109] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vez'okk the Lightless",
+			["source"] = "Pa'ku",
 		},
 		[258622] = {
 			["school"] = 8,
@@ -12032,11 +10652,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "N'Zoth the Corruptor",
 		},
-		[317941] = {
-			["school"] = 32,
+		[268801] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Sandfury Thug",
 		},
 		[65081] = {
 			["school"] = 2,
@@ -12447,13 +11069,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Andruww",
 		},
-		[300550] = {
+		[304645] = {
 			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Silivaz the Zealous",
+			["source"] = "Thunderrz",
 		},
 		[298898] = {
 			["school"] = 1,
@@ -12518,25 +11141,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Arnbjørn",
 		},
-		[289292] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[305672] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Grong",
+			["source"] = "Alleria Windrunner",
 		},
-		[5246] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[184092] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Goredamm",
+			["source"] = "Spoonerisms",
 		},
 		[116888] = {
 			["school"] = 32,
@@ -12554,12 +11172,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trixie Tazer",
 		},
-		[305672] = {
-			["school"] = 4,
+		[289292] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Alleria Windrunner",
+			["source"] = "Grong",
 		},
 		[307472] = {
 			["school"] = 8,
@@ -13740,14 +12362,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fridakahlo",
 		},
-		[306733] = {
-			["school"] = 32,
+		[257821] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ra-den",
+			["source"] = "Unknown",
 		},
 		[222501] = {
 			["school"] = 1,
@@ -13767,12 +12388,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-den",
 		},
-		[123040] = {
-			["school"] = 32,
+		[315947] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tehkz",
+			["source"] = "Fury of N'Zoth",
 		},
 		[267830] = {
 			["school"] = 8,
@@ -13791,22 +12414,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidthirst",
 		},
-		[257821] = {
-			["school"] = 1,
+		[306733] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Unknown",
-		},
-		[315947] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Ra-den",
+		},
+		[123040] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Tehkz",
 		},
 		[131900] = {
 			["school"] = 1,
@@ -14234,12 +12856,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[300605] = {
-			["school"] = 64,
+		[296510] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cyranus",
+			["source"] = "Crawling Corruption",
 		},
 		[260900] = {
 			["school"] = 32,
@@ -14250,15 +12875,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Solena",
 		},
-		[296510] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[300605] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Crawling Corruption",
+			["source"] = "Cyranus",
 		},
 		[309819] = {
 			["school"] = 32,
@@ -14359,22 +12981,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidthirst",
 		},
-		[282182] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[273992] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Khonnar-EmeraldDream",
 		},
-		[306751] = {
-			["school"] = 4,
+		[282181] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Wrathion",
+			["source"] = "Grong",
 		},
 		[162264] = {
 			["school"] = 127,
@@ -14402,13 +13022,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[273992] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[282182] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Khonnar-EmeraldDream",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[101546] = {
 			["school"] = 1,
@@ -14652,13 +13274,17 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 		},
-		[307785] = {
-			["school"] = 1,
+		[34914] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Prophet Skitra",
+			["source"] = "Gigi-Turalyon",
 		},
 		[307784] = {
 			["school"] = 1,
@@ -14686,24 +13312,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Corrupted Gold",
 		},
-		[265811] = {
+		[298571] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Thunderrz",
+			["source"] = "Mechacycle",
 		},
-		[34914] = {
-			["school"] = 32,
+		[307785] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Gigi-Turalyon",
+			["source"] = "Prophet Skitra",
 		},
 		[263573] = {
 			["school"] = 8,
@@ -14858,12 +13481,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manakins-Illidan",
 		},
-		[306767] = {
-			["school"] = 32,
+		[33763] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Thrall",
+			["source"] = "Zerkwa",
 		},
 		[303981] = {
 			["school"] = 32,
@@ -14874,12 +13497,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[33763] = {
-			["school"] = 8,
+		[306767] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Zerkwa",
+			["source"] = "Thrall",
 		},
 		[155722] = {
 			["school"] = 1,
@@ -15298,6 +13921,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thrall",
 		},
+		[275429] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Nymx",
+		},
 		[261428] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -15308,14 +13939,6 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Sergeant Bainbridge",
-		},
-		[275429] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Nymx",
 		},
 		[304733] = {
 			["school"] = 1,
@@ -15365,13 +13988,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Manifestation",
 		},
-		[317020] = {
-			["school"] = 32,
+		[280165] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Evangelos",
+			["source"] = "Babegar-Ner'zhul",
 		},
 		[307806] = {
 			["school"] = 1,
@@ -15381,21 +14004,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[280165] = {
-			["school"] = 1,
+		[317020] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Babegar-Ner'zhul",
+			["source"] = "Evangelos",
 		},
-		[268904] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[309854] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ardynix-Tichondrius",
+			["source"] = "Ra-den",
 		},
 		[253239] = {
 			["school"] = 1,
@@ -15429,13 +14051,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dingleorc-Illidan",
 		},
-		[307808] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Fury of N'Zoth",
-		},
 		[287333] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -15445,6 +14060,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Bwonsamdi",
+		},
+		[307808] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Fury of N'Zoth",
 		},
 		[284262] = {
 			["school"] = 1,
@@ -15651,13 +14273,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sinmon",
 		},
-		[240446] = {
-			["school"] = 4,
+		[288363] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Lady Jaina Proudmoore",
 		},
 		[55090] = {
 			["school"] = 1,
@@ -15674,13 +14295,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Khonnar-EmeraldDream",
 		},
-		[298602] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[269937] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Sci",
 		},
 		[317029] = {
 			["school"] = 32,
@@ -15696,12 +14316,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Goredamm",
 		},
-		[269937] = {
-			["school"] = 2,
+		[298602] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sci",
 		},
 		[279151] = {
 			["school"] = 1,
@@ -15712,12 +14333,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cadaceus",
 		},
-		[240447] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[296555] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Lady Ashvane",
 		},
 		[273009] = {
 			["school"] = 8,
@@ -15733,23 +14354,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Viq'Goth",
 		},
-		[280177] = {
+		[260923] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Arnbjørn",
+			["source"] = "Sister Solena",
 		},
-		[258875] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[267891] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Galecaller Faye",
 		},
 		[313960] = {
 			["school"] = 32,
@@ -15774,13 +14393,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Despondent Scallywag",
 		},
-		[260923] = {
+		[280177] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Sister Solena",
+			["source"] = "Arnbjørn",
 		},
 		[148022] = {
 			["school"] = 16,
@@ -15874,20 +14494,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidamental",
 		},
-		[193359] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Nawtyrogue",
-		},
-		[222024] = {
+		[264469] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Khonnar-EmeraldDream",
+			["source"] = "Tehkz",
 		},
 		[288374] = {
 			["school"] = 64,
@@ -15898,6 +14510,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Lady Jaina Proudmoore",
+		},
+		[222024] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Khonnar-EmeraldDream",
 		},
 		[284276] = {
 			["school"] = 1,
@@ -15917,13 +14536,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[280184] = {
+		[267899] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Peace",
+			["source"] = "Brother Ironhull",
 		},
 		[196941] = {
 			["school"] = 2,
@@ -15941,16 +14563,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hyperr",
 		},
-		[293491] = {
-			["school"] = 64,
+		[297586] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Voidamental",
 		},
 		[294515] = {
 			["school"] = 32,
@@ -15996,23 +14614,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fbritches-Illidan",
 		},
-		[264469] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Tehkz",
-		},
-		[267899] = {
+		[280184] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Brother Ironhull",
+			["source"] = "Peace",
+		},
+		[193359] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Nawtyrogue",
 		},
 		[296566] = {
 			["school"] = 1,
@@ -16049,13 +14665,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "King Rastakhan",
 		},
-		[281209] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[261439] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Moonblight",
+			["source"] = "Lord Waycrest",
 		},
 		[314993] = {
 			["school"] = 32,
@@ -16065,14 +14680,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[307828] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[8143] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vexiona",
+			["source"] = "Evojaiz",
 		},
 		[267901] = {
 			["school"] = 1,
@@ -16098,12 +14711,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[8143] = {
-			["school"] = 8,
+		[307828] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Evojaiz",
+			["source"] = "Vexiona",
 		},
 		[280187] = {
 			["school"] = 1,
@@ -16113,16 +14728,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Peace",
 		},
-		[261440] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[289401] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Lord Waycrest",
+			["source"] = "Grong",
 		},
 		[314995] = {
 			["school"] = 32,
@@ -16289,14 +14900,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Notsci",
 		},
-		[268932] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "King Dazar",
-		},
 		[23920] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -16305,6 +14908,14 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Goredamm",
+		},
+		[268932] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "King Dazar",
 		},
 		[313977] = {
 			["school"] = 1,
@@ -16477,14 +15088,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[261446] = {
+		[318078] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lady Waycrest",
+			["source"] = "Unknown",
 		},
 		[316030] = {
 			["school"] = 1,
@@ -16504,15 +15116,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har the Insatiable",
 		},
-		[318078] = {
+		[261446] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Lady Waycrest",
 		},
 		[290437] = {
 			["school"] = 16,
@@ -16564,12 +15175,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sci",
 		},
-		[280201] = {
-			["school"] = 32,
+		[292486] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Discreet",
+			["source"] = "Thunderzmonk",
 		},
 		[261447] = {
 			["school"] = 1,
@@ -16919,12 +15531,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Moozeroth-Area52",
 		},
-		[258381] = {
-			["school"] = 1,
+		[205146] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Captain Eudora",
+			["source"] = "Pass",
 		},
 		[268122] = {
 			["school"] = 1,
@@ -17185,13 +15798,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[288410] = {
+		[276125] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "High Tinker Mekkatorque",
+			["source"] = "Gigi-Turalyon",
 		},
 		[93622] = {
 			["school"] = 1,
@@ -17704,13 +16317,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mchimba the Embalmer",
 		},
-		[257882] = {
-			["school"] = 16,
+		[261977] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hadal Darkfathom",
+			["source"] = "Thunderzmonk",
 		},
 		[272046] = {
 			["school"] = 8,
@@ -17766,12 +16378,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Darf",
 		},
-		[261977] = {
-			["school"] = 1,
+		[257882] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Thunderzmonk",
+			["source"] = "Hadal Darkfathom",
 		},
 		[88263] = {
 			["school"] = 2,
@@ -17787,15 +16400,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "BuzzBuzz",
 		},
-		[260954] = {
+		[300714] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sergeant Bainbridge",
+			["source"] = "Andruww",
 		},
 		[255835] = {
 			["school"] = 32,
@@ -17816,14 +16428,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thunderzmonk",
 		},
-		[300714] = {
+		[260954] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Sergeant Bainbridge",
 		},
 		[286040] = {
 			["school"] = 1,
@@ -17872,6 +16485,50 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidamental",
 		},
+		[32175] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Vercetty",
+		},
+		[121536] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Tehkz",
+		},
+		[281265] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Tehkz",
+		},
+		[48107] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Arnbjørn",
+		},
+		[202602] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Goredamm",
+		},
+		[300717] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Quivna",
+		},
 		[26297] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -17889,57 +16546,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "The Golden Serpent",
-		},
-		[281265] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Tehkz",
-		},
-		[298669] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Trixie Tazer",
-		},
-		[32175] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Vercetty",
-		},
-		[258908] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Shrouded Fang",
-		},
-		[121536] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Tehkz",
-		},
-		[202602] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Goredamm",
 		},
 		[113858] = {
 			["school"] = 4,
@@ -17966,13 +16572,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidthirst",
 		},
-		[310959] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[190319] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Glyphed Obelisk",
+			["source"] = "Arnbjørn",
 		},
 		[311980] = {
 			["school"] = 1,
@@ -18050,12 +16657,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Imbued Stormcaller",
 		},
-		[69070] = {
-			["school"] = 1,
+		[317102] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Quivna",
+			["source"] = "N'Zoth the Corruptor",
 		},
 		[102342] = {
 			["school"] = 8,
@@ -18081,13 +16689,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sci",
 		},
-		[317102] = {
-			["school"] = 32,
+		[69070] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "N'Zoth the Corruptor",
+			["source"] = "Quivna",
 		},
 		[285508] = {
 			["school"] = 4,
@@ -18112,14 +16719,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aka'ali the Conqueror",
 		},
-		[277179] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[66196] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sci",
+			["source"] = "Khonnar-EmeraldDream",
 		},
 		[285367] = {
 			["school"] = 32,
@@ -18154,13 +16759,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Naxbark-Area52",
 		},
-		[295607] = {
-			["school"] = 1,
+		[148859] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Abyssal Commander Sivara",
+			["source"] = "Quivna",
 		},
 		[48108] = {
 			["school"] = 1,
@@ -18178,19 +16782,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abyssal Commander Sivara",
 		},
-		[66196] = {
-			["school"] = 16,
+		[295607] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Khonnar-EmeraldDream",
+			["source"] = "Abyssal Commander Sivara",
 		},
-		[148859] = {
-			["school"] = 32,
+		[277179] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Quivna",
+			["source"] = "Sci",
 		},
 		[286393] = {
 			["school"] = 2,
@@ -18240,12 +16847,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Discreet",
 		},
-		[287419] = {
-			["school"] = 2,
+		[303799] = {
+			["school"] = 127,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Anointed Disciple",
+			["source"] = "Queen Azshara",
 		},
 		[123586] = {
 			["school"] = 1,
@@ -18264,15 +16874,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidamental",
 		},
-		[303799] = {
-			["school"] = 127,
-			["type"] = "DEBUFF",
+		[287419] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Anointed Disciple",
 		},
 		[45182] = {
 			["school"] = 1,
@@ -18697,13 +17304,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Stungawwdx-Tichondrius",
 		},
-		[284361] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[258920] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Brother Joseph",
+			["source"] = "Andruww",
 		},
 		[269005] = {
 			["school"] = 8,
@@ -18723,12 +17331,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "T'zala",
 		},
-		[258921] = {
-			["school"] = 4,
+		[300743] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Queen Azshara",
 		},
 		[284362] = {
 			["school"] = 16,
@@ -18738,12 +17349,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brother Joseph",
 		},
-		[297673] = {
-			["school"] = 16,
+		[285388] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Abernathii",
+			["source"] = "Gnomercy 4.U.",
 		},
 		[12323] = {
 			["school"] = 1,
@@ -18761,15 +17375,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thunderrz",
 		},
-		[300743] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[258921] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Andruww",
 		},
 		[297672] = {
 			["school"] = 16,
@@ -18801,15 +17412,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ajání-Area52",
 		},
-		[285388] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[297673] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gnomercy 4.U.",
+			["source"] = "Abernathii",
 		},
 		[33778] = {
 			["school"] = 8,
@@ -19038,6 +17646,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lyuneria",
 		},
+		[298704] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Slavemaster Ul'rok",
+		},
 		[15487] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -19046,14 +17662,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Quivna",
-		},
-		[298704] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Slavemaster Ul'rok",
 		},
 		[200685] = {
 			["school"] = 1,
@@ -19080,14 +17688,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Arcane Amethyst",
 		},
-		[264923] = {
-			["school"] = 1,
+		[313039] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Raal the Gluttonous",
+			["source"] = "Fury of N'Zoth",
 		},
 		[205179] = {
 			["school"] = 32,
@@ -19116,13 +17723,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Andruww",
 		},
-		[313039] = {
-			["school"] = 32,
+		[264923] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Raal the Gluttonous",
 		},
 		[303825] = {
 			["school"] = 1,
@@ -19166,14 +17774,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Whitelatte-Mal'Ganis",
 		},
-		[292565] = {
+		[313040] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Crushing Grasp",
+			["source"] = "Fury of N'Zoth",
 		},
 		[266237] = {
 			["school"] = 1,
@@ -19232,14 +17838,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidthirst",
 		},
-		[284377] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[308947] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Bwonsamdi",
+			["source"] = "Drest'agath",
 		},
 		[289496] = {
 			["school"] = 8,
@@ -19328,12 +17932,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gozu-Archimonde",
 		},
-		[199552] = {
+		[195457] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Voidthirst",
+			["source"] = "Snareiat",
 		},
 		[108238] = {
 			["school"] = 8,
@@ -19343,13 +17947,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Babegar-Ner'zhul",
 		},
-		[300761] = {
+		[280286] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Arnbjørn",
+			["source"] = "Toxco-Quel'Thalas",
 		},
 		[303832] = {
 			["school"] = 32,
@@ -19359,14 +17964,13 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[280286] = {
+		[300761] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Toxco-Quel'Thalas",
+			["source"] = "Arnbjørn",
 		},
 		[267299] = {
 			["school"] = 32,
@@ -19443,13 +18047,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "King Dazar",
 		},
-		[138130] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[257293] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Thunderzmonk",
+			["source"] = "Swiftwind Saber",
 		},
 		[260508] = {
 			["school"] = 1,
@@ -19460,12 +18063,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Soulbound Goliath",
 		},
-		[300768] = {
-			["school"] = 1,
+		[308956] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Eye of Drest'agath",
 		},
 		[285408] = {
 			["school"] = 32,
@@ -19482,20 +18085,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Il'gynoth",
 		},
-		[163212] = {
-			["school"] = 8,
+		[285410] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Choplo",
+			["source"] = "Uu'nat",
 		},
-		[224126] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[263912] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Spirit Wolf",
+			["source"] = "Merektha",
 		},
 		[285409] = {
 			["school"] = 32,
@@ -19510,12 +18113,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[170379] = {
-			["school"] = 8,
+		[224126] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Gooeybear-EmeraldDream",
+			["source"] = "Spirit Wolf",
 		},
 		[224125] = {
 			["school"] = 4,
@@ -19525,21 +18129,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit Wolf",
 		},
-		[285410] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Uu'nat",
-		},
-		[296673] = {
+		[163212] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Stormling",
+			["source"] = "Choplo",
+		},
+		[137619] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Imakali-Ragnaros",
 		},
 		[6673] = {
 			["school"] = 1,
@@ -19566,6 +18169,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Alyxstrasza-Illidan",
 		},
+		[284388] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Manceroy Flamefist",
+		},
+		[170379] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gooeybear-EmeraldDream",
+		},
+		[300768] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Queen Azshara",
+		},
 		[263914] = {
 			["school"] = 1,
 			["token"] = {
@@ -19574,28 +18198,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Merektha",
-		},
-		[137619] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Imakali-Ragnaros",
-		},
-		[284388] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Manceroy Flamefist",
-		},
-		[257293] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Swiftwind Saber",
 		},
 		[286436] = {
 			["school"] = 1,
@@ -19639,14 +18241,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Jade Serpent Statue",
 		},
-		[90325] = {
-			["school"] = 1,
+		[307937] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Gorjesh the Smasher",
+			["source"] = "Prophet Skitra",
 		},
 		[224127] = {
 			["school"] = 8,
@@ -19673,13 +18274,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Geoffar",
 		},
-		[307937] = {
-			["school"] = 32,
+		[90325] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Prophet Skitra",
+			["source"] = "Gorjesh the Smasher",
 		},
 		[304866] = {
 			["school"] = 32,
@@ -19689,13 +18291,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shirakess Voidreaper",
 		},
-		[289510] = {
+		[309985] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Dark Iron Vanguard",
+			["source"] = "Ra-den",
 		},
 		[286439] = {
 			["school"] = 8,
@@ -20040,14 +18642,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sonaris",
 		},
-		[263927] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[276212] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "Mogul Razdunk",
 		},
 		[293670] = {
 			["school"] = 1,
@@ -20056,20 +18657,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Workshop Defender",
 		},
-		[198030] = {
-			["school"] = 124,
+		[300785] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Queen Azshara",
 		},
-		[284405] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[296691] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tempting Siren",
+			["source"] = "Dreadcoil Hulk",
 		},
 		[296688] = {
 			["school"] = 16,
@@ -20125,15 +18727,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Manceroy Flamefist",
 		},
-		[296691] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Dreadcoil Hulk",
-		},
 		[250241] = {
 			["school"] = 32,
 			["type"] = "BUFF",
@@ -20144,12 +18737,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'kaal",
 		},
-		[300785] = {
-			["school"] = 32,
+		[198030] = {
+			["school"] = 124,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Andruww",
+		},
+		[284405] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tempting Siren",
 		},
 		[289524] = {
 			["school"] = 1,
@@ -20170,13 +18771,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har the Insatiable",
 		},
-		[285431] = {
-			["school"] = 32,
+		[289526] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Swarming Voidspawn",
+			["source"] = "Dayson-Drakkari",
 		},
 		[284406] = {
 			["school"] = 1,
@@ -20223,25 +18825,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Delpi",
 		},
-		[289526] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Dayson-Drakkari",
-		},
-		[306930] = {
+		[285431] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Shad'har the Insatiable",
+			["source"] = "Swarming Voidspawn",
+		},
+		[186257] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Trapharder",
 		},
 		[282407] = {
 			["school"] = 32,
@@ -20570,14 +19169,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[289537] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "High Tinker Mekkatorque",
-		},
 		[77535] = {
 			["school"] = 32,
 			["type"] = "BUFF",
@@ -20585,6 +19176,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Evangelos",
+		},
+		[289537] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[246152] = {
 			["school"] = 1,
@@ -20612,19 +19211,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "B.O.O.M.B.A.",
 		},
-		[310015] = {
-			["school"] = 1,
+		[121557] = {
+			["school"] = 2,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Tehkz",
+		},
+		[306942] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ra-den",
-		},
-		[302847] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Pluie",
+			["source"] = "Shad'har the Insatiable",
 		},
 		[298781] = {
 			["school"] = 64,
@@ -20676,13 +19278,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Goredamm",
 		},
-		[121557] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[310015] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Tehkz",
+			["source"] = "Ra-den",
 		},
 		[116189] = {
 			["school"] = 1,
@@ -20742,12 +19343,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Choplo",
 		},
-		[313089] = {
-			["school"] = 32,
+		[276234] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Choplo",
+			["source"] = "B.O.O.M.B.A.",
 		},
 		[259975] = {
 			["school"] = 1,
@@ -20767,12 +19368,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[276234] = {
-			["school"] = 4,
+		[313089] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "B.O.O.M.B.A.",
+			["source"] = "Choplo",
 		},
 		[186265] = {
 			["school"] = 1,
@@ -21604,14 +20205,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sonaris",
 		},
-		[306942] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[302847] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Shad'har the Insatiable",
+			["source"] = "Pluie",
 		},
 		[284449] = {
 			["school"] = 2,
@@ -21799,14 +20398,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[186257] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[306930] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Trapharder",
+			["source"] = "Shad'har the Insatiable",
 		},
 		[284455] = {
 			["school"] = 1,
@@ -21862,13 +20463,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sinmon",
 		},
-		[276212] = {
-			["school"] = 4,
+		[263927] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Mogul Razdunk",
+			["source"] = "Merektha",
 		},
 		[268077] = {
 			["school"] = 1,
@@ -22076,13 +20678,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yellowy",
 		},
-		[309985] = {
+		[289510] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ra-den",
+			["source"] = "Dark Iron Vanguard",
 		},
 		[306986] = {
 			["school"] = 32,
@@ -22124,13 +20726,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Peace",
 		},
-		[263912] = {
-			["school"] = 1,
+		[296673] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "Stormling",
 		},
 		[272180] = {
 			["school"] = 32,
@@ -22139,12 +20742,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grotesque Horror",
 		},
-		[308956] = {
-			["school"] = 32,
+		[138130] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Eye of Drest'agath",
+			["source"] = "Thunderzmonk",
 		},
 		[306988] = {
 			["school"] = 1,
@@ -22202,12 +20806,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Reti-Thaurissan",
 		},
-		[195457] = {
+		[199552] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Snareiat",
+			["source"] = "Voidthirst",
 		},
 		[306990] = {
 			["school"] = 1,
@@ -22234,12 +20838,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Malady",
 		},
-		[308947] = {
-			["school"] = 8,
+		[284377] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Drest'agath",
+			["source"] = "Bwonsamdi",
 		},
 		[278326] = {
 			["school"] = 124,
@@ -22265,12 +20871,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[313040] = {
+		[292565] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Crushing Grasp",
 		},
 		[289493] = {
 			["school"] = 4,
@@ -22475,14 +21083,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rygrendh-Hyjal",
 		},
-		[258920] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[284361] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Andruww",
+			["source"] = "Brother Joseph",
 		},
 		[2098] = {
 			["school"] = 1,
@@ -22780,14 +21387,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vengeful Shrieker",
 		},
-		[190319] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[310959] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Arnbjørn",
+			["source"] = "Glyphed Obelisk",
 		},
 		[202164] = {
 			["school"] = 1,
@@ -22822,12 +21428,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Titan Console",
 		},
-		[300717] = {
-			["school"] = 4,
+		[258908] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Shrouded Fang",
+		},
+		[298669] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Quivna",
+			["source"] = "Trixie Tazer",
 		},
 		[289417] = {
 			["school"] = 8,
@@ -22836,14 +21457,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Yoru'cha",
-		},
-		[48107] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Arnbjørn",
 		},
 		[115175] = {
 			["school"] = 8,
@@ -23215,13 +21828,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "King Rastakhan",
 		},
-		[276125] = {
+		[288410] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Gigi-Turalyon",
+			["source"] = "High Tinker Mekkatorque",
 		},
 		[2818] = {
 			["school"] = 8,
@@ -23347,13 +21960,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abyssal Commander Sivara",
 		},
-		[205146] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[258381] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Pass",
+			["source"] = "Captain Eudora",
 		},
 		[268893] = {
 			["school"] = 1,
@@ -23524,13 +22136,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Asslip-Area52",
 		},
-		[292486] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[280201] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Thunderzmonk",
+			["source"] = "Discreet",
 		},
 		[228645] = {
 			["school"] = 1,
@@ -23777,12 +22388,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ellandruina-Area52",
 		},
-		[289401] = {
-			["school"] = 1,
+		[261440] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Grong",
+			["source"] = "Lord Waycrest",
 		},
 		[286563] = {
 			["school"] = 1,
@@ -23801,12 +22416,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spoonerisms",
 		},
-		[261439] = {
-			["school"] = 1,
+		[281209] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Lord Waycrest",
+			["source"] = "Moonblight",
 		},
 		[306015] = {
 			["school"] = 4,
@@ -23825,12 +22441,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trixie Tazer",
 		},
-		[297586] = {
-			["school"] = 32,
+		[293491] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Voidamental",
 		},
 		[209858] = {
 			["school"] = 1,
@@ -23907,13 +22527,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Exposed Synapse",
 		},
-		[267891] = {
-			["school"] = 8,
+		[258875] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Galecaller Faye",
+			["source"] = "Unknown",
 		},
 		[307042] = {
 			["school"] = 32,
@@ -23924,12 +22545,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nightmare Antigen",
 		},
-		[296555] = {
-			["school"] = 8,
+		[240447] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Lady Ashvane",
 		},
 		[228287] = {
 			["school"] = 1,
@@ -23947,12 +22568,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thunderrz",
 		},
-		[288363] = {
-			["school"] = 16,
+		[240446] = {
+			["school"] = 4,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
 		},
 		[313955] = {
 			["school"] = 32,
@@ -24043,12 +22665,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pluie",
 		},
-		[309854] = {
-			["school"] = 40,
+		[268904] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ra-den",
+			["source"] = "Ardynix-Tichondrius",
 		},
 		[57984] = {
 			["school"] = 4,
@@ -24354,13 +22977,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Forbidden Manifestation",
 		},
-		[298571] = {
+		[265811] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Mechacycle",
+			["source"] = "Thunderrz",
 		},
 		[202188] = {
 			["school"] = 8,
@@ -24511,12 +23133,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dark Inquisitor Xanesh",
 		},
-		[282181] = {
-			["school"] = 8,
+		[306751] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Grong",
+			["source"] = "Wrathion",
 		},
 		[285562] = {
 			["school"] = 32,
@@ -25375,13 +23997,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Ashvane",
 		},
-		[184092] = {
-			["school"] = 2,
+		[5246] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Spoonerisms",
+			["source"] = "Goredamm",
 		},
 		[296850] = {
 			["school"] = 1,
@@ -25406,14 +24029,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zanj'ir Honor Guard",
 		},
-		[304645] = {
+		[300550] = {
 			["school"] = 16,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Thunderrz",
+			["source"] = "Silivaz the Zealous",
 		},
 		[296851] = {
 			["school"] = 8,
@@ -25641,13 +24263,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fury of N'Zoth",
 		},
-		[268801] = {
-			["school"] = 1,
+		[317941] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sandfury Thug",
 		},
 		[305048] = {
 			["school"] = 1,
@@ -26039,8 +24659,11 @@ EncounterDetailsDB = {
 		},
 		[309648] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Magister Umbric",
 		},
