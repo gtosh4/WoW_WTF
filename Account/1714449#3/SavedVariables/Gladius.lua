@@ -242,15 +242,16 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
-			["aurasBuffsWidth"] = 22,
-			["classIconShowSpec"] = true,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["classIconShowSpec"] = true,
 			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsHeight"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["button"] = "2",
@@ -263,10 +264,9 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["aurasBuffsHeight"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["aurasBuffsWidth"] = 22,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Blank",

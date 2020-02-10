@@ -8,11 +8,11 @@ DataStore_TalentsDB = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -49,9 +49,9 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1581224037,
+				["lastUpdate"] = 1581318467,
 				["Specializations"] = {
-					5997, -- [1]
+					5993, -- [1]
 					7065, -- [2]
 					5849, -- [3]
 				},
@@ -98,11 +98,11 @@ DataStore_TalentsRefDB = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["global"] = {
 		["DEATHKNIGHT"] = {
@@ -162,64 +162,6 @@ DataStore_TalentsRefDB = {
 				},
 			},
 			["Version"] = 33237,
-		},
-		["SHAMAN"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 262,
-					["talents"] = {
-						22356, -- [1]
-						22357, -- [2]
-						22358, -- [3]
-						23108, -- [4]
-						22139, -- [5]
-						23190, -- [6]
-						23162, -- [7]
-						23163, -- [8]
-						23164, -- [9]
-						19271, -- [10]
-						19272, -- [11]
-						19273, -- [12]
-						22144, -- [13]
-						22172, -- [14]
-						21966, -- [15]
-						22145, -- [16]
-						19266, -- [17]
-						23111, -- [18]
-						21198, -- [19]
-						22153, -- [20]
-						21675, -- [21]
-					},
-				}, -- [1]
-				[3] = {
-					["id"] = 264,
-					["talents"] = {
-						19262, -- [1]
-						19263, -- [2]
-						19264, -- [3]
-						19259, -- [4]
-						22492, -- [5]
-						21963, -- [6]
-						19275, -- [7]
-						23110, -- [8]
-						22127, -- [9]
-						22152, -- [10]
-						22322, -- [11]
-						22323, -- [12]
-						22144, -- [13]
-						19269, -- [14]
-						21966, -- [15]
-						19265, -- [16]
-						21971, -- [17]
-						21968, -- [18]
-						21969, -- [19]
-						21199, -- [20]
-						22359, -- [21]
-					},
-				},
-			},
-			["Version"] = 32978,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -362,6 +304,64 @@ DataStore_TalentsRefDB = {
 				}, -- [2]
 			},
 			["Version"] = 30993,
+		},
+		["SHAMAN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 262,
+					["talents"] = {
+						22356, -- [1]
+						22357, -- [2]
+						22358, -- [3]
+						23108, -- [4]
+						22139, -- [5]
+						23190, -- [6]
+						23162, -- [7]
+						23163, -- [8]
+						23164, -- [9]
+						19271, -- [10]
+						19272, -- [11]
+						19273, -- [12]
+						22144, -- [13]
+						22172, -- [14]
+						21966, -- [15]
+						22145, -- [16]
+						19266, -- [17]
+						23111, -- [18]
+						21198, -- [19]
+						22153, -- [20]
+						21675, -- [21]
+					},
+				}, -- [1]
+				[3] = {
+					["id"] = 264,
+					["talents"] = {
+						19262, -- [1]
+						19263, -- [2]
+						19264, -- [3]
+						19259, -- [4]
+						22492, -- [5]
+						21963, -- [6]
+						19275, -- [7]
+						23110, -- [8]
+						22127, -- [9]
+						22152, -- [10]
+						22322, -- [11]
+						22323, -- [12]
+						22144, -- [13]
+						19269, -- [14]
+						21966, -- [15]
+						19265, -- [16]
+						21971, -- [17]
+						21968, -- [18]
+						21969, -- [19]
+						21199, -- [20]
+						22359, -- [21]
+					},
+				},
+			},
+			["Version"] = 32978,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",

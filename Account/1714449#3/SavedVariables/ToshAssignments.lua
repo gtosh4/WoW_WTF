@@ -17,7 +17,6 @@ ToshAssignmentsDB = {
 						["name"] = "test",
 						["assignments"] = {
 							{
-								["removeOptions"] = nil --[[ skipped inline function ]],
 								["name"] = "Assignment 1",
 								["trigger"] = {
 									["spell"] = {

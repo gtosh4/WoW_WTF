@@ -208,8 +208,8 @@ AngryAssign_State = {
 		["left"] = 2230.237548828125,
 		["width"] = 957.6104125976562,
 	},
-	["directionUp"] = true,
 	["locked"] = true,
+	["directionUp"] = true,
 	["tree"] = {
 		["groups"] = {
 			["3833263323"] = true,

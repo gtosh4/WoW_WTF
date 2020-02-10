@@ -8,11 +8,11 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -234,46 +234,6 @@ Gladius2DB = {
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
 		},
-		["Koutetsu - Frostwolf"] = {
-			["y"] = {
-				["arena1"] = 690.5799346452404,
-			},
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1464.799972197332,
-			},
-			["auraVersion"] = 1,
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-			["y"] = {
-				["arena1"] = 650.046776432893,
-			},
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1434.93261052837,
-			},
-			["auraVersion"] = 1,
-		},
-		["Zallie - Frostwolf"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 401.513311455565,
-			},
-			["x"] = {
-				["arena1"] = 1280.26642991265,
-			},
-		},
-		["Toshaman - Kil'jaeden"] = {
-			["y"] = {
-				["arena1"] = 472.532363479251,
-			},
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1437.86971588517,
-			},
-			["auraVersion"] = 1,
-		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
 			["aurasBuffs"] = true,
@@ -396,6 +356,46 @@ Gladius2DB = {
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+			["y"] = {
+				["arena1"] = 650.046776432893,
+			},
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1434.93261052837,
+			},
+			["auraVersion"] = 1,
+		},
+		["Zallie - Frostwolf"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 401.513311455565,
+			},
+			["x"] = {
+				["arena1"] = 1280.26642991265,
+			},
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["y"] = {
+				["arena1"] = 472.532363479251,
+			},
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1437.86971588517,
+			},
+			["auraVersion"] = 1,
+		},
+		["Koutetsu - Frostwolf"] = {
+			["y"] = {
+				["arena1"] = 690.5799346452404,
+			},
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1464.799972197332,
+			},
+			["auraVersion"] = 1,
 		},
 	},
 }

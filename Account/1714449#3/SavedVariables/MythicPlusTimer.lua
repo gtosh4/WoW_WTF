@@ -7,6 +7,86 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["deathCounter"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
+		["objectiveTimePerLevel"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["insertKeystone"] = true,
+		["show_affixes_as_icons"] = false,
+		["progressTooltip"] = true,
+		["objectiveTimeInChat"] = true,
+		["show_affixes_as_text"] = true,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["objective_time_inchat"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l15",
+			["quantity_number"] = 303,
+			["cm_level"] = 15,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Freehold",
+			["time_left_2"] = 0,
+			["time_left"] = 0,
+			["deathcount_visible"] = true,
+			["steps"] = 6,
+			["death_names"] = {
+				["Haxpax-Illidan"] = 5,
+				["Peace"] = 7,
+				["Rivalry"] = 5,
+				["Toshaman"] = 3,
+				["Sonaris"] = 5,
+				["Turkeyuno-Area52"] = 1,
+				["Heaty"] = 3,
+				["Poisoneyevee-Illidan"] = 2,
+				["Tosh"] = 4,
+				["Lyuneria"] = 2,
+			},
+			["final_quantity_number"] = 303,
+			["is_reaping"] = false,
+			["affixes_key"] = "affixes-8-10-14-120",
+			["max_time"] = 1980,
+			["affixes"] = {
+				10, -- [1]
+				8, -- [2]
+				14, -- [3]
+				120, -- [4]
+			},
+			["times"] = {
+				370, -- [1]
+				903, -- [2]
+				1658, -- [3]
+				2027, -- [4]
+				2224, -- [5]
+				2090, -- [6]
+				["5last_best_time_zone_level"] = 1323,
+				["4last_best_time_zone_level"] = 1150,
+				["3last_best_time_zone_level"] = 1078,
+				["2last_best_time_zone_level"] = 862,
+				["1last_best_time_zone_level"] = 202,
+				["2last_best_time_zone_level_affixes"] = 1139,
+				["5last_best_time_zone"] = 611,
+				["4last_best_time_zone"] = 1150,
+				["3last_best_time_zone"] = 900,
+				["2last_best_time_zone"] = 773,
+				["4last_best_time_zone_level_affixes"] = 2002,
+				["5last_best_time_zone_level_affixes"] = 1824,
+				["3last_best_time_zone_level_affixes"] = 1749,
+				["1last_best_time_zone"] = 188,
+			},
+			["current_map_id"] = 245,
+			["current_zone_id"] = 1754,
+			["deathcount"] = 18,
+			["elapsed_time"] = 2225,
+		},
+		["show_absolute_numbers"] = false,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -995,86 +1075,6 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["objectiveTimePerLevel"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["insertKeystone"] = true,
-		["show_affixes_as_icons"] = false,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
-		["objectiveTimeInChat"] = true,
-		["show_affixes_as_text"] = true,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["objective_time_inchat"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l15",
-			["quantity_number"] = 303,
-			["cm_level"] = 15,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Freehold",
-			["time_left_2"] = 0,
-			["time_left"] = 0,
-			["deathcount_visible"] = true,
-			["steps"] = 6,
-			["death_names"] = {
-				["Haxpax-Illidan"] = 5,
-				["Peace"] = 7,
-				["Rivalry"] = 5,
-				["Toshaman"] = 3,
-				["Sonaris"] = 5,
-				["Turkeyuno-Area52"] = 1,
-				["Heaty"] = 3,
-				["Poisoneyevee-Illidan"] = 2,
-				["Tosh"] = 4,
-				["Lyuneria"] = 2,
-			},
-			["final_quantity_number"] = 303,
-			["is_reaping"] = false,
-			["affixes_key"] = "affixes-8-10-14-120",
-			["max_time"] = 1980,
-			["affixes"] = {
-				10, -- [1]
-				8, -- [2]
-				14, -- [3]
-				120, -- [4]
-			},
-			["times"] = {
-				370, -- [1]
-				903, -- [2]
-				1658, -- [3]
-				2027, -- [4]
-				2224, -- [5]
-				2090, -- [6]
-				["5last_best_time_zone_level"] = 1323,
-				["4last_best_time_zone_level"] = 1150,
-				["3last_best_time_zone_level"] = 1078,
-				["2last_best_time_zone_level"] = 862,
-				["1last_best_time_zone_level"] = 202,
-				["5last_best_time_zone_level_affixes"] = 1824,
-				["5last_best_time_zone"] = 611,
-				["4last_best_time_zone"] = 1150,
-				["3last_best_time_zone"] = 900,
-				["2last_best_time_zone"] = 773,
-				["3last_best_time_zone_level_affixes"] = 1749,
-				["2last_best_time_zone_level_affixes"] = 1139,
-				["4last_best_time_zone_level_affixes"] = 2002,
-				["1last_best_time_zone"] = 188,
-			},
-			["current_map_id"] = 245,
-			["current_zone_id"] = 1754,
-			["deathcount"] = 18,
-			["elapsed_time"] = 2225,
-		},
-		["show_absolute_numbers"] = false,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["showAffixesAsText"] = true,
-		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1694,8 +1694,8 @@ MythicPlusTimerDB = {
 			[135245] = {
 				[8] = 29,
 			},
-			[128434] = {
-				[4] = 138,
+			[114637] = {
+				[4] = 1,
 			},
 			[97678] = {
 				[8] = 1,
@@ -1706,8 +1706,8 @@ MythicPlusTimerDB = {
 			[137485] = {
 				[4] = 33,
 			},
-			[155434] = {
-				[4] = 1,
+			[128434] = {
+				[4] = 138,
 			},
 			[134418] = {
 				[9] = 21,
@@ -1809,8 +1809,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[134232] = {
-				[4] = 28,
+			[135254] = {
+				[4] = 2,
 			},
 			[133593] = {
 				[5] = 3,
@@ -1818,8 +1818,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[98926] = {
-				[4] = 1,
+			[131677] = {
+				[6] = 11,
 			},
 			[130404] = {
 				[4] = 33,
@@ -2260,11 +2260,11 @@ MythicPlusTimerDB = {
 			[91781] = {
 				[4] = 1,
 			},
-			[131677] = {
-				[6] = 11,
+			[98926] = {
+				[4] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[134232] = {
+				[4] = 28,
 			},
 			[138019] = {
 				[4] = 10,
@@ -2316,7 +2316,7 @@ MythicPlusTimerDB = {
 				[6] = 42.8,
 				[4] = 0.6400000000000001,
 			},
-			[114637] = {
+			[155434] = {
 				[4] = 1,
 			},
 			[126918] = {
