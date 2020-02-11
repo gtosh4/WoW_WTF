@@ -5,19 +5,19 @@ DataStore_TalentsDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1580914667,
+				["lastUpdate"] = 1581407769,
 				["Specializations"] = {
 					14697, -- [1]
 					[3] = 11769,
@@ -49,9 +49,9 @@ DataStore_TalentsDB = {
 				["Class"] = "MAGE",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1581318467,
+				["lastUpdate"] = 1581407882,
 				["Specializations"] = {
-					5993, -- [1]
+					5994, -- [1]
 					7065, -- [2]
 					5849, -- [3]
 				},
@@ -95,14 +95,14 @@ DataStore_TalentsRefDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["global"] = {
 		["DEATHKNIGHT"] = {

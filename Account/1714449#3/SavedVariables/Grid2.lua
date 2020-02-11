@@ -636,9 +636,9 @@ Grid2DB = {
 							},
 							["frameContentColor"] = {
 								["a"] = 1,
-								["b"] = 0.101960784313725,
-								["g"] = 0.101960784313725,
-								["r"] = 0.101960784313725,
+								["b"] = 0.1019607843137255,
+								["g"] = 0.1019607843137255,
+								["r"] = 0.1019607843137255,
 							},
 							["mouseoverHighlight"] = true,
 							["frameWidth"] = 200,
@@ -654,14 +654,14 @@ Grid2DB = {
 					["font"] = "PT Sans Narrow",
 					["menuDisabled"] = true,
 					["frameTexture"] = "ElvUI Norm",
-					["orientation"] = "HORIZONTAL",
 					["mouseoverHighlight"] = true,
-					["frameWidth"] = 100,
 					["frameContentColor"] = {
 						["r"] = 0.101960784313725,
 						["g"] = 0.101960784313725,
 						["b"] = 0.101960784313725,
 					},
+					["frameWidth"] = 100,
+					["orientation"] = "HORIZONTAL",
 				},
 				["Tosh - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -5713,24 +5713,14 @@ Grid2DB = {
 					["spellName"] = "Burst",
 				},
 				["buff-Atonement-mine"] = {
-					["color2"] = {
-						["a"] = 0.6000000238418579,
-						["r"] = 0.4941176470588236,
-						["g"] = 0.5019607843137255,
-						["b"] = 0.1529411764705883,
-					},
-					["type"] = "buff",
 					["spellName"] = 81749,
+					["type"] = "buff",
 					["mine"] = 1,
-					["colorCount"] = 2,
-					["colorThreshold"] = {
-						5, -- [1]
-					},
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 0.8313725490196078,
-						["g"] = 0.8392156862745098,
-						["b"] = 0.2588235294117647,
+						["r"] = 0.1019607843137255,
+						["g"] = 0.1019607843137255,
+						["b"] = 0.1019607843137255,
 					},
 				},
 				["health-current"] = {

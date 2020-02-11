@@ -269,8 +269,8 @@ BigWigs3DB = {
 					["emphasizeTime"] = 10,
 					["visibleBarLimitEmph"] = 10,
 					["BigWigsEmphasizeAnchor_x"] = 818.6733969688357,
-					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
 					["BigWigsEmphasizeAnchor_y"] = 256.5439403139535,
+					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
 					["emphasizeMultiplier"] = 1,
 					["texture"] = "ElvUI Norm",
 				},
@@ -923,7 +923,7 @@ BigWigsStatsDB = {
 		},
 		[2365] = {
 			["heroic"] = {
-				["kills"] = 3,
+				["kills"] = 4,
 				["wipes"] = 3,
 				["best"] = 182.1429999999818,
 			},
@@ -947,7 +947,7 @@ BigWigsStatsDB = {
 			},
 			["normal"] = {
 				["best"] = 421.6490000000049,
-				["kills"] = 1,
+				["kills"] = 2,
 			},
 		},
 		[2374] = {
@@ -974,6 +974,9 @@ BigWigsStatsDB = {
 				["wipes"] = 14,
 				["best"] = 577.2369999999646,
 			},
+			["normal"] = {
+				["wipes"] = 5,
+			},
 		},
 		[2368] = {
 			["normal"] = {
@@ -987,7 +990,7 @@ BigWigsStatsDB = {
 			},
 			["heroic"] = {
 				["best"] = 218.4039999999804,
-				["kills"] = 3,
+				["kills"] = 4,
 			},
 		},
 		[2369] = {
@@ -1001,8 +1004,9 @@ BigWigsStatsDB = {
 				["kills"] = 2,
 			},
 			["heroic"] = {
+				["kills"] = 4,
 				["best"] = 251.4489999999641,
-				["kills"] = 3,
+				["wipes"] = 1,
 			},
 		},
 		[2377] = {

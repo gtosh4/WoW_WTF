@@ -28,3 +28,4 @@ Jamba: enabled
 Auctionator: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
+BigWigs_Nyalotha: enabled

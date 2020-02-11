@@ -20,24 +20,24 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 500,
-					["y"] = 359.5259704589844,
+					["hideicon"] = true,
 					["border"] = "None",
 					["x"] = 1480.817626953125,
 					["texture"] = "ElvUI Norm",
-					["hideicon"] = true,
+					["y"] = 359.5259704589844,
 				},
 				["DEMONHUNTER"] = {
 					["x"] = 1605.81762695313,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -69,9 +69,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -81,14 +81,14 @@ Quartz3DB = {
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -96,9 +96,9 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Buff"] = false,
-				["Mirror"] = false,
 				["Target"] = false,
+				["Mirror"] = false,
+				["Buff"] = false,
 			},
 		},
 		["DEMONHUNTER"] = {

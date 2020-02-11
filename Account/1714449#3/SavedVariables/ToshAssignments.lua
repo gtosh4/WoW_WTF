@@ -17,7 +17,6 @@ ToshAssignmentsDB = {
 						["name"] = "test",
 						["assignments"] = {
 							{
-								["name"] = "Assignment 1",
 								["trigger"] = {
 									["spell"] = {
 										["spellId"] = 282205,
@@ -26,6 +25,7 @@ ToshAssignmentsDB = {
 									},
 									["type"] = "spell",
 								},
+								["name"] = "Assignment 1",
 								["actions"] = {
 									{
 										["id"] = 1,

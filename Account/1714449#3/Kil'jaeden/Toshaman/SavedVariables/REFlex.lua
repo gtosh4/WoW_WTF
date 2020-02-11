@@ -2558,18 +2558,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 617,
 		["StatsNum"] = 0,
-		["Season"] = 27,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 84,
-		["Hidden"] = false,
+		["Season"] = 27,
 		["PlayerNum"] = 3,
 		["PlayerSide"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Time"] = 1550743625,
 		["isRated"] = false,
 		["Version"] = 274,
 		["Winner"] = 1,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Wraithbrand", -- [1]
@@ -9059,12 +9059,13 @@ REFlexHonorDatabase = {
 	[1550570400] = 12,
 	[1578996000] = 2,
 	[1579773600] = 1740,
+	[1581328800] = 3,
 	[1580724000] = 120,
 	[1562832000] = 1,
 	[1549879200] = 1810,
 	[1580551200] = 8,
-	[1550656800] = 380,
 	[1574416800] = 9,
+	[1550656800] = 380,
 	[1555488000] = 2,
 	[1580983200] = 1,
 }

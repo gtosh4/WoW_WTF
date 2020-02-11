@@ -68,14 +68,14 @@ MythicPlusTimerDB = {
 				["3last_best_time_zone_level"] = 1078,
 				["2last_best_time_zone_level"] = 862,
 				["1last_best_time_zone_level"] = 202,
-				["2last_best_time_zone_level_affixes"] = 1139,
+				["5last_best_time_zone_level_affixes"] = 1824,
 				["5last_best_time_zone"] = 611,
 				["4last_best_time_zone"] = 1150,
 				["3last_best_time_zone"] = 900,
 				["2last_best_time_zone"] = 773,
-				["4last_best_time_zone_level_affixes"] = 2002,
-				["5last_best_time_zone_level_affixes"] = 1824,
 				["3last_best_time_zone_level_affixes"] = 1749,
+				["2last_best_time_zone_level_affixes"] = 1139,
+				["4last_best_time_zone_level_affixes"] = 2002,
 				["1last_best_time_zone"] = 188,
 			},
 			["current_map_id"] = 245,
@@ -1809,8 +1809,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[134232] = {
+				[4] = 28,
 			},
 			[133593] = {
 				[5] = 3,
@@ -1818,8 +1818,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[131677] = {
-				[6] = 11,
+			[98926] = {
+				[4] = 1,
 			},
 			[130404] = {
 				[4] = 33,
@@ -2260,11 +2260,11 @@ MythicPlusTimerDB = {
 			[91781] = {
 				[4] = 1,
 			},
-			[98926] = {
-				[4] = 1,
+			[131677] = {
+				[6] = 11,
 			},
-			[134232] = {
-				[4] = 28,
+			[135254] = {
+				[4] = 2,
 			},
 			[138019] = {
 				[4] = 10,

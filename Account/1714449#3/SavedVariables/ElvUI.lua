@@ -1890,10 +1890,10 @@ ElvPrivateDB = {
 				["install_complete"] = "3.5",
 			},
 			["general"] = {
+				["dmgfont"] = "Friz Quadrata TT",
 				["minimap"] = {
 					["hideClassHallReport"] = true,
 				},
-				["dmgfont"] = "Friz Quadrata TT",
 			},
 			["skins"] = {
 				["cleanBossButton"] = true,

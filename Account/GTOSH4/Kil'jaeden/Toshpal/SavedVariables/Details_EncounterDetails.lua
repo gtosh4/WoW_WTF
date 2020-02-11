@@ -16849,13 +16849,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abyssal Commander Sivara",
 		},
-		[295607] = {
-			["school"] = 1,
+		[113860] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Abyssal Commander Sivara",
+			["source"] = "Cadaceus",
 		},
 		[148859] = {
 			["school"] = 32,
@@ -16872,12 +16873,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sci",
 		},
-		[299702] = {
-			["school"] = 32,
+		[303797] = {
+			["school"] = 127,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Za'qul",
+			["source"] = "Queen Azshara",
 		},
 		[288441] = {
 			["school"] = 16,
@@ -18148,12 +18152,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Il'gynoth",
 		},
-		[284388] = {
-			["school"] = 4,
+		[224126] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Manceroy Flamefist",
+			["source"] = "Spirit Wolf",
 		},
 		[263912] = {
 			["school"] = 1,
@@ -18232,14 +18237,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Alyxstrasza-Illidan",
 		},
-		[296673] = {
-			["school"] = 8,
+		[268008] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Stormling",
+			["source"] = "Plague Doctor",
 		},
 		[170379] = {
 			["school"] = 8,
@@ -18248,13 +18254,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gooeybear-EmeraldDream",
 		},
-		[224126] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[284388] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Spirit Wolf",
+			["source"] = "Manceroy Flamefist",
 		},
 		[197509] = {
 			["school"] = 32,
@@ -20743,15 +20748,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yellowy",
 		},
-		[268008] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[296673] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Plague Doctor",
+			["source"] = "Stormling",
 		},
 		[306986] = {
 			["school"] = 32,
@@ -21360,24 +21364,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Emosong",
 		},
-		[303797] = {
-			["school"] = 127,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Queen Azshara",
-		},
-		[113860] = {
+		[299702] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cadaceus",
+			["source"] = "Za'qul",
+		},
+		[295607] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Abyssal Commander Sivara",
 		},
 		[308029] = {
 			["school"] = 32,
