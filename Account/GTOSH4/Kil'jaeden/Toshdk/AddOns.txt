@@ -40,3 +40,4 @@ Jamba: enabled
 Auctionator: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
+ElvUI_OptionsUI: enabled

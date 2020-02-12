@@ -470,7 +470,9 @@ TalentSetManager_CharacterSaves = {
 					["tt"] = "talents",
 				}, -- [1]
 			}, -- [1]
-			[3] = {
+			{
+			}, -- [2]
+			{
 				{
 					2, -- [1]
 					2, -- [2]
@@ -495,7 +497,7 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "m+",
 					["texture"] = 237535,
 				}, -- [2]
-			},
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},
