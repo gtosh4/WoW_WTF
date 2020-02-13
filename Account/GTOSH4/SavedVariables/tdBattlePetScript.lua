@@ -1,26 +1,29 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Tosku - Kil'jaeden"] = "Default",
-	},
 	["global"] = {
 		["version"] = 80100.01,
 		["scripts"] = {
-			["Rematch"] = {
-			},
-			["Base"] = {
+			["AllInOne"] = {
 			},
 			["FirstEnemy"] = {
 			},
-			["AllInOne"] = {
+			["Base"] = {
+			},
+			["Rematch"] = {
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Zallie - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

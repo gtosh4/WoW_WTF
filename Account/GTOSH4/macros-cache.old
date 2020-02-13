@@ -79,10 +79,10 @@ VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 /use [@mouseover][@target] 14
 END
 VER 3 000000000000002F "tas test1" "Spell_ChargeNegative."
-/script local r=WeakAuras.GetRegion("ToshAssignSender"); if r and r.test then r:test() end
+/script local r=WeakAuras.GetRegion("ToshAssignSender TEST"); if r and r.test then r:test() end
 END
 VER 3 0000000000000030 "tas test2" "Spell_ChargePositive."
-/script local r=WeakAuras.GetRegion("ToshAssignSender"); if r and r.test2 then r:test2() end
+/script local r=WeakAuras.GetRegion("ToshAssignSende TESTr"); if r and r.test2 then r:test2() end
 END
 VER 3 000000000000002E "TB" "Icon_PetFamily_Mechanical."
 /script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end

@@ -1,44 +1,48 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
 				"Daggny|Frostwolf|Horde|100|MONK", -- [1]
 				"Koutetsu|Frostwolf|Horde|90|SHAMAN", -- [2]
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [3]
-				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [4]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [5]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [6]
-				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [7]
-				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [8]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [9]
-				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [10]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [11]
-				"Zallie|Frostwolf|Horde|90|PRIEST", -- [12]
+				"Sumex|Frostwolf|Horde|90|DEATHKNIGHT", -- [3]
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [4]
+				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [5]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [6]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [7]
+				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [8]
+				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [9]
+				"Tosh|Frostwolf|Horde|100|ROGUE", -- [10]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [11]
+				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [12]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [13]
+				"Zallie|Frostwolf|Horde|90|PRIEST", -- [14]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Yellowy|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
 					"Toshdk|Kil'jaeden|Horde", -- [4]
 					"Toshaman|Kil'jaeden|Horde", -- [5]
 					"Sci|Kil'jaeden|Horde", -- [6]
@@ -57,53 +61,12 @@ Postal3DB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Tosku - Kil'jaeden"] = {
+		["Toshdk - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Toshaman|Kil'jaeden|Horde", -- [2]
+					"Backstab|Kil'jaeden|Horde", -- [1]
 				},
 			},
-		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Yorman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Toshdk|Kil'jaeden|Horde", -- [2]
-					"Toshaman|Kil'jaeden|Horde", -- [3]
-					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [4]
-					"Toshpal|Kil'jaeden|Horde", -- [5]
-					"Wraithbrand|Kil'jaeden|Horde", -- [6]
-					"Toshmonk|Kil'jaeden|Horde", -- [7]
-				},
-			},
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Toshpal|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
-					"Toshmonk|Kil'jaeden|Horde", -- [4]
-				},
-			},
-		},
-		["Toshmonk - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Yellowy|Kil'jaeden|Horde", -- [3]
-					"Yorman|Kil'jaeden|Horde", -- [4]
-					"Qiro|Kil'jaeden|Horde", -- [5]
-				},
-			},
-		},
-		["Zallie - Frostwolf"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -122,10 +85,55 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Tosku - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Backstab|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshaman|Kil'jaeden|Horde", -- [2]
+				},
+			},
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Qiro|Kil'jaeden|Horde", -- [5]
+				},
+			},
+		},
+		["Yorman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Toshdk|Kil'jaeden|Horde", -- [2]
+					"Toshaman|Kil'jaeden|Horde", -- [3]
+					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [4]
+					"Toshpal|Kil'jaeden|Horde", -- [5]
+					"Wraithbrand|Kil'jaeden|Horde", -- [6]
+					"Toshmonk|Kil'jaeden|Horde", -- [7]
+				},
+			},
+		},
+		["Tosh - Frostwolf"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Sumex - Frostwolf"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Kil'jaeden|Horde", -- [1]
+					"Toshpal|Kil'jaeden|Horde", -- [2]
+					"Yorman|Kil'jaeden|Horde", -- [3]
+					"Toshmonk|Kil'jaeden|Horde", -- [4]
 				},
 			},
 		},

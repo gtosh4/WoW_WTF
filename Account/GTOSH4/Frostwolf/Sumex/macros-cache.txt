@@ -1,0 +1,17 @@
+VER 3 0100000000000005 "DC" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/cast Death Coil
+/cast Blood Tap
+END
+VER 3 0100000000000002 "Gnaw" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Gnaw
+END
+VER 3 0100000000000003 "Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Leap
+END
+VER 3 0100000000000004 "PA" "Ability_GhoulFrenzy"
+#showtooltip Attack(Pet Command)
+/petattack
+END

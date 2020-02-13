@@ -30,8 +30,8 @@ H: 380
 Frame: AdiBagsAnchor1
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
-X: 0
-Y: 199
+X: -161
+Y: 201
 W: 80
 H: 80
 Frame: AltoholicFrame

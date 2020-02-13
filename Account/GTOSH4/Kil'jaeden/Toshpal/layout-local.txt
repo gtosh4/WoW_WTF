@@ -16,8 +16,8 @@ H: 480
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: TOP
-X: -84
-Y: -15
+X: -75
+Y: -106
 W: 128
 H: 64
 Frame: ColorPickerFrame
@@ -104,13 +104,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: 5
-Y: -354
-W: 510
-H: 22
 Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
@@ -139,3 +132,10 @@ X: -223
 Y: 27
 W: 701
 H: 859
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: 5
+Y: -354
+W: 510
+H: 22
