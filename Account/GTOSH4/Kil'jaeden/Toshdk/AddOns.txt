@@ -41,3 +41,4 @@ Auctionator: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
 ElvUI_OptionsUI: enabled
+BigWigs_Nyalotha: enabled

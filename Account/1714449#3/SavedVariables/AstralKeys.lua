@@ -5,9 +5,9 @@ AstralKeys = {
 		"WARLOCK", -- [2]
 		369, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		12521, -- [7]
+		232778, -- [7]
 	}, -- [1]
 	{
 		"Nooks-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		134, -- [6]
-		134225, -- [7]
+		226579, -- [7]
 	}, -- [2]
 	{
 		"Discreetdk-Kil'jaeden", -- [1]
@@ -34,16 +34,16 @@ AstralKeys = {
 		9, -- [4]
 		0, -- [5]
 		134, -- [6]
-		53330, -- [7]
+		233191, -- [7]
 	}, -- [4]
 	{
 		"Discreet-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
 		244, -- [3]
 		13, -- [4]
-		0, -- [5]
+		11, -- [5]
 		134, -- [6]
-		20063, -- [7]
+		211466, -- [7]
 	}, -- [5]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		16, -- [4]
 		15, -- [5]
 		134, -- [6]
-		134215, -- [7]
+		219865, -- [7]
 	}, -- [6]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		14, -- [4]
 		15, -- [5]
 		134, -- [6]
-		149013, -- [7]
+		222103, -- [7]
 	}, -- [7]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -70,16 +70,16 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		134, -- [6]
-		61050, -- [7]
+		226284, -- [7]
 	}, -- [8]
 	{
 		"Tosh-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
 		251, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		149352, -- [7]
+		234117, -- [7]
 	}, -- [9]
 	{
 		"Andruww-Kil'jaeden", -- [1]
@@ -88,16 +88,16 @@ AstralKeys = {
 		18, -- [4]
 		18, -- [5]
 		134, -- [6]
-		134018, -- [7]
+		208705, -- [7]
 	}, -- [10]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
 		"DRUID", -- [2]
 		251, -- [3]
 		17, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		20243, -- [7]
+		221464, -- [7]
 	}, -- [11]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		134, -- [6]
-		131360, -- [7]
+		216453, -- [7]
 	}, -- [12]
 	{
 		"Thunderzmonk-Kil'jaeden", -- [1]
@@ -122,18 +122,18 @@ AstralKeys = {
 		"MAGE", -- [2]
 		252, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		5, -- [7]
+		226629, -- [7]
 	}, -- [14]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
 		248, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		4, -- [7]
+		221876, -- [7]
 	}, -- [15]
 	{
 		"Morepheous-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		12, -- [4]
 		0, -- [5]
 		134, -- [6]
-		61096, -- [7]
+		218287, -- [7]
 	}, -- [16]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		134, -- [6]
-		5, -- [7]
+		221628, -- [7]
 	}, -- [17]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -160,30 +160,30 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		134, -- [6]
-		53320, -- [7]
+		223462, -- [7]
 	}, -- [18]
 	{
 		"Peace-Kil'jaeden", -- [1]
 		"MONK", -- [2]
 		370, -- [3]
 		18, -- [4]
-		0, -- [5]
+		16, -- [5]
 		134, -- [6]
-		134069, -- [7]
+		234128, -- [7]
 	}, -- [19]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 15,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 16,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -194,7 +194,7 @@ AstralFriends = {
 		248, -- [4]
 		14, -- [5]
 		134, -- [6]
-		130580, -- [7]
+		225425, -- [7]
 		"1", -- [8]
 		14, -- [9]
 	}, -- [1]
@@ -205,9 +205,9 @@ AstralFriends = {
 		370, -- [4]
 		18, -- [5]
 		134, -- [6]
-		59858, -- [7]
+		232274, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [2]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
@@ -216,7 +216,7 @@ AstralFriends = {
 		250, -- [4]
 		14, -- [5]
 		134, -- [6]
-		147904, -- [7]
+		228864, -- [7]
 		"1", -- [8]
 		14, -- [9]
 	}, -- [3]
@@ -235,7 +235,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -244,9 +246,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
 	["new_settings_config"] = true,
 	["general"] = {
@@ -258,10 +258,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = true,
 			["guild"] = true,
+			["raid"] = false,
+			["no_key"] = true,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,

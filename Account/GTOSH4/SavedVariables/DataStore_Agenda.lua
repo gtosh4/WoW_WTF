@@ -4,17 +4,17 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -24,7 +24,10 @@ DataStore_AgendaDB = {
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1581581932,
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Heroic|382994462"] = "372912|1581665086|0|1",
+				},
+				["lastUpdate"] = 1581667323,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -35,13 +38,16 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581543846,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1581582034,
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Heroic|382994462"] = "385049|1581652950|0|1",
+				},
+				["lastUpdate"] = 1581654854,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
 			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544041,
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1581543873,
@@ -49,8 +55,8 @@ DataStore_AgendaDB = {
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581544004,
 			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544041,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,
