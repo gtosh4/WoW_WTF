@@ -1,446 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/raid I have SS", -- [1]
-		"/raid it's bugged", -- [2]
-		"/o I only do that when there's no (... is typing) to show that I'm responding but not done yet", -- [3]
-		"/wa", -- [4]
-		"/g |cffff8000|Hitem:169223::::::::120:256::11:2:6278:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r :)", -- [5]
-		"/raid fancy seeing you guys here", -- [6]
-		"/g sec", -- [7]
-		"/g take my shaman", -- [8]
-		"/g I need to mail some", -- [9]
-		"/raid put everyone in my guild down, we got it", -- [10]
-		"looked like you guys made decent progress, p1 looking clean", -- [11]
-		"/g |cffa335ee|Hitem:158321:6112:168638::::::120:256::35:8:6534:4802:6578:6579:6555:6515:1642:4786:::|h[Wand of Zealous Purification]|h|r :)", -- [12]
-		"/g I need more", -- [13]
-		"/cw Rivalry-Kil'jaeden |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:15:37|h[Ny'alotha, the Waking City]|h|r", -- [14]
-		"/g |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:15:37|h[Ny'alotha, the Waking City]|h|r", -- [15]
-		"/g first 3 dead", -- [16]
-		"/grid2", -- [17]
-		"/raid woah, fancy seeing you here", -- [18]
-		"/wa pstart", -- [19]
-		"/raid don't release", -- [20]
+		"/o I only do that when there's no (... is typing) to show that I'm responding but not done yet", -- [1]
+		"/wa", -- [2]
+		"/g |cffff8000|Hitem:169223::::::::120:256::11:2:6278:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r :)", -- [3]
+		"/raid fancy seeing you guys here", -- [4]
+		"/g sec", -- [5]
+		"/g take my shaman", -- [6]
+		"/g I need to mail some", -- [7]
+		"/raid put everyone in my guild down, we got it", -- [8]
+		"looked like you guys made decent progress, p1 looking clean", -- [9]
+		"/g |cffa335ee|Hitem:158321:6112:168638::::::120:256::35:8:6534:4802:6578:6579:6555:6515:1642:4786:::|h[Wand of Zealous Purification]|h|r :)", -- [10]
+		"/g I need more", -- [11]
+		"/cw Rivalry-Kil'jaeden |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:15:37|h[Ny'alotha, the Waking City]|h|r", -- [12]
+		"/g |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:15:37|h[Ny'alotha, the Waking City]|h|r", -- [13]
+		"/g first 3 dead", -- [14]
+		"/grid2", -- [15]
+		"/raid woah, fancy seeing you here", -- [16]
+		"/wa pstart", -- [17]
+		"/raid don't release", -- [18]
+		"/g welp", -- [19]
+		"/g |cffa335ee|Hitem:158301::::::::120:256::35:4:5448:1647:4786:6510:::|h[Ruffled Poet Blouse]|h|r|cff71d5ff|Hspell:278643:0|h[Enduring Luminescence]|h|r|cff71d5ff|Hspell:275541:0|h[Depth of the Shadows]|h|r", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"help summon people here", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666312,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"ok", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			218, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666319,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"so", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			223, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666325,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"i'm goign to world marker", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			225, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666327,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"the ones i see", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			226, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666328,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"then follow star", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			227, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666330,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"and kill the one he's at", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666336,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"run add out", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666343,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"summon]", -- [1]
-			"Vaiz-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vaiz-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			232, -- [11]
-			"Player-73-0C7583AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeVaiz-BleedingHollow|r",
-			[51] = 1581666345,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"need summon", -- [1]
-			"Bakemeacake-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bakemeacake-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-11-09374E62", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Bakemeacake-Tichondrius|r",
-			[51] = 1581666348,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"assist please", -- [1]
-			"Ejorl-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ejorl-Azralon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			236, -- [11]
-			"Player-3209-07B538F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Ejorl-Azralon|r",
-			[51] = 1581666367,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"so i can shout", -- [1]
-			"Ejorl-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ejorl-Azralon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			237, -- [11]
-			"Player-3209-07B538F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Ejorl-Azralon|r",
-			[51] = 1581666372,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"1", -- [1]
-			"Hyponikz-BleedingHollow", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hyponikz-BleedingHollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			243, -- [11]
-			"Player-73-0AEC794F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
-			[51] = 1581666399,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"Yukio cast |cff71d5ff|Hspell:80353:0|h[Time Warp]|h|r", -- [1]
-			"Gatbi-EmeraldDream", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gatbi-EmeraldDream", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			252, -- [11]
-			"Player-162-098F9711", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Gatbi-EmeraldDream|r",
-			[51] = 1581666454,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			254, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666456,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"BLUE", -- [1]
-			"Ejorl-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ejorl", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-3209-07B538F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Ejorl-Azralon|r",
-			[51] = 1581666488,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [16]
-		{
-			"BLUE", -- [1]
-			"Ejorl-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ejorl", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-3209-07B538F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Ejorl-Azralon|r",
-			[51] = 1581666489,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [17]
-		{
-			"BLUE", -- [1]
-			"Ejorl-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ejorl", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-3209-07B538F9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Ejorl-Azralon|r",
-			[51] = 1581666489,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [18]
-		{
-			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1581666507,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -462,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666507,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [1]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666534,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -506,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666535,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [3]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -528,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666541,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [4]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666541,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [5]
 		{
 			"YELLOWQ", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -572,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666554,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [25]
+		}, -- [6]
 		{
 			"wait", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -594,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666559,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [26]
+		}, -- [7]
 		{
 			"can be blue too", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -616,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666563,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [27]
+		}, -- [8]
 		{
 			"wtf ", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -638,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666566,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [28]
+		}, -- [9]
 		{
 			"no", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -660,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666568,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [10]
 		{
 			"replace", -- [1]
 			"Bakemeacake-Tichondrius", -- [2]
@@ -682,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bakemeacake-Tichondrius|r",
 			[51] = 1581666572,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [11]
 		{
 			"trust", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -704,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [12]
 		{
 			"yellow", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -726,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666577,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [32]
+		}, -- [13]
 		{
 			"we're in discord", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666583,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [14]
 		{
 			"c:", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -770,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666585,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [15]
 		{
 			"WAIT", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666594,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [16]
 		{
 			"??????????????????????????????????????", -- [1]
 			"Thicctender-Mal'Ganis", -- [2]
@@ -814,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Thicctender-Mal'Ganis|r",
 			[51] = 1581666610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [17]
 		{
 			"i trusted", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666612,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [18]
 		{
 			"u", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666612,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [19]
 		{
 			"?????", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -880,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666615,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [20]
 		{
 			"there is a blue mark ahead 1 guy and a yellow mark ahead 1 guy", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -902,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666637,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [21]
 		{
 			"so wtf are you doing", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -924,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666643,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [22]
 		{
 			"we're okay", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666651,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [23]
 		{
 			"np", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666652,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [24]
 		{
 			"yeah we are ok ", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -990,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666707,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [25]
 		{
 			"super good", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1012,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666709,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [26]
 		{
 			"EVERYTHING IS FINE", -- [1]
 			"Mello-Thrall", -- [2]
@@ -1034,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mello-Thrall|r",
 			[51] = 1581666733,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [27]
 		{
 			"LOOK HOW FINE WE ARE", -- [1]
 			"Mello-Thrall", -- [2]
@@ -1056,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mello-Thrall|r",
 			[51] = 1581666738,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [28]
 		{
 			"stop healing pls", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -1078,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1581666772,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [29]
 		{
 			"just wipe quick", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -1100,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1581666775,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [30]
 		{
 			"res tank if we have", -- [1]
 			"Hyponikz-BleedingHollow", -- [2]
@@ -1122,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
 			[51] = 1581666780,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [31]
 		{
 			"man i wish i was 75", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1144,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666794,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [32]
 		{
 			"thats old", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1166,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1581666800,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [33]
 		{
 			"u wanna die soon?", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1188,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1581666805,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [34]
 		{
 			"no like my neck", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1210,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666807,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [35]
 		{
 			"also yes", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1232,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [36]
 		{
 			"oh", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1254,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1581666809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [37]
 		{
 			"lol", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1276,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1581666812,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [38]
 		{
 			"don't release", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1298,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1581666814,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [39]
 		{
 			"Eating food.", -- [1]
 			"Gatbi-EmeraldDream", -- [2]
@@ -1320,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Gatbi-EmeraldDream|r",
 			[51] = 1581666825,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [40]
 		{
 			"Aight. We kill.", -- [1]
 			"Gatbi-EmeraldDream", -- [2]
@@ -1342,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Gatbi-EmeraldDream|r",
 			[51] = 1581666835,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [41]
 		{
 			"can we", -- [1]
 			"Thicctender-Mal'Ganis", -- [2]
@@ -1364,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Thicctender-Mal'Ganis|r",
 			[51] = 1581666837,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [42]
 		{
 			"please", -- [1]
 			"Thicctender-Mal'Ganis", -- [2]
@@ -1386,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Thicctender-Mal'Ganis|r",
 			[51] = 1581666838,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [43]
 		{
 			"just mark the correct one", -- [1]
 			"Thicctender-Mal'Ganis", -- [2]
@@ -1408,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Thicctender-Mal'Ganis|r",
 			[51] = 1581666841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [44]
 		{
 			"for teh autists", -- [1]
 			"Thicctender-Mal'Ganis", -- [2]
@@ -1430,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Thicctender-Mal'Ganis|r",
 			[51] = 1581666844,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [45]
 		{
 			"just chill, we're pugging, hard to coordinate", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666844,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [46]
 		{
 			"we'll be okay c:", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1474,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666854,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [47]
 		{
 			"there is no hard coordination in here man", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1496,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666856,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [48]
 		{
 			"is just you and me", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1518,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666859,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [49]
 		{
 			"you mark i shout", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1540,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666862,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [50]
 		{
 			"do your job ", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1562,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666871,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [51]
 		{
 			"ya", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666873,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [52]
 		{
 			"u called star", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1606,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666874,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [53]
 		{
 			"so", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666877,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [54]
 		{
 			"imagien being a jerk when you're the one who fucked it", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -1650,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1581666885,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [55]
 		{
 			"you mark blue and yellow", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1672,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666885,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [56]
 		{
 			"both had an add ", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1694,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666889,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [57]
 		{
 			":thinking:", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -1716,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1581666889,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [58]
 		{
 			"k rdy", -- [1]
 			"Torpinoo-BleedingHollow", -- [2]
@@ -1738,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Torpinoo-BleedingHollow|r",
 			[51] = 1581666893,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [59]
 		{
 			"heck", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1760,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666896,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [60]
 		{
 			"monk uses lucid major", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1782,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666900,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [61]
 		{
 			"u", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1804,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581666900,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [62]
 		{
 			"ffs", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -1826,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666902,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [63]
 		{
 			"Yukio cast |cff71d5ff|Hspell:80353:0|h[Time Warp]|h|r", -- [1]
 			"Gatbi-EmeraldDream", -- [2]
@@ -1848,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Gatbi-EmeraldDream|r",
 			[51] = 1581666909,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [64]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1870,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666911,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [65]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1892,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666911,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [66]
 		{
 			"i have to do mazjatar noo", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1914,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666915,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [67]
 		{
 			"Shred Psyche on Hyponikz", -- [1]
 			"Hyponikz-BleedingHollow", -- [2]
@@ -1936,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
 			[51] = 1581666922,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [68]
 		{
 			"3", -- [1]
 			"Hyponikz-BleedingHollow", -- [2]
@@ -1958,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
 			[51] = 1581666925,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [69]
 		{
 			"2", -- [1]
 			"Hyponikz-BleedingHollow", -- [2]
@@ -1980,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
 			[51] = 1581666926,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [70]
 		{
 			"1", -- [1]
 			"Hyponikz-BleedingHollow", -- [2]
@@ -2002,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyponikz-BleedingHollow|r",
 			[51] = 1581666927,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [71]
 		{
 			"SKUOLL", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -2024,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666943,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [91]
+		}, -- [72]
 		{
 			"you just missed tome too", -- [1]
 			"Felfanatic-Kil'jaeden", -- [2]
@@ -2046,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic|r",
 			[51] = 1581666944,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [73]
 		{
 			"skull", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -2068,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581666945,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [93]
+		}, -- [74]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2090,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666967,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [75]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666967,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [76]
 		{
 			"i need ERT and lucid", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2134,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666982,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [77]
 		{
 			"yikes", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2156,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666983,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [78]
 		{
 			"C:", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2178,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581666985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [79]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2200,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666993,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [80]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2222,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666993,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2244,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666994,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2266,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666994,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [83]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2288,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [84]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2310,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581666998,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [85]
 		{
 			"i have like no essences on my monk", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2332,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581667012,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [86]
 		{
 			":(", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2354,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581667013,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [87]
 		{
 			"blue", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -2376,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581667022,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [107]
+		}, -- [88]
 		{
 			"guess i have to do nazj dailies", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2398,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581667029,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [89]
 		{
 			"for a month", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2420,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581667031,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [90]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2442,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667050,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [91]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2464,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [92]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2486,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667072,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [93]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2508,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667072,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [94]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2530,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [95]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2552,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667078,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [96]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2574,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667087,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [97]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667087,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [98]
 		{
 			"blue", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -2618,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581667100,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [118]
+		}, -- [99]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2640,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667125,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [100]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2662,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667125,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [101]
 		{
 			"blue", -- [1]
 			"Ejorl-Azralon", -- [2]
@@ -2684,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ejorl-Azralon|r",
 			[51] = 1581667167,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [121]
+		}, -- [102]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2706,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667195,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [103]
 		{
 			" Taunted Prophet Skitra! Taunted Prophet Skitra! Taunted Prophet Skitra!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2728,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667195,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [104]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2750,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1581667208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [105]
 		{
 			"seee", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2772,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667239,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [106]
 		{
 			"we're okay", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2794,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1581667240,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [107]
 		{
 			"ty for group ", -- [1]
 			"Prayforbooty-Hyjal", -- [2]
@@ -2816,6 +2398,427 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Prayforbooty-Hyjal|r",
 			[51] = 1581667263,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [108]
+		{
+			"sec", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			919, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1581732099,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"yup", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			927, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1581732115,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"|cffa335ee|Hitem:167743::::::::120:70::13::::|h[Silas' Potion of Prosperity]|h|r", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			929, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1581732118,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"woo", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			932, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1581732122,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"AHHH", -- [1]
+			"Warlockmania-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			972, -- [11]
+			"Player-9-0AE4E8BB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecWarlockmania|r",
+			[51] = 1581732192,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [113]
+		{
+			"i never swapped off pvp essences", -- [1]
+			"Warlockmania-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			976, -- [11]
+			"Player-9-0AE4E8BB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecWarlockmania|r",
+			[51] = 1581732203,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"whats crit food?", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			978, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1581732219,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"|cffffffff|Hitem:168310::::::::120:268::::::|h[Mech-Dowel's \"Big Mech\"]|h|r", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			979, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1581732227,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"i need uh", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			988, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1581732269,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [117]
+		{
+			"20 unbridled rest into abyssal", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			991, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1581732280,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [118]
+		{
+			"c:", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			992, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1581732281,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [119]
+		{
+			"welp", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			993, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1581732294,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"yikes", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			994, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1581732294,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"I'm not talking now", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			995, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1581732297,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"|cffa335ee|Hitem:158301::::::::120:256::35:4:5448:1647:4786:6510:::|h[Ruffled Poet Blouse]|h|r|cff71d5ff|Hspell:278643:0|h[Enduring Luminescence]|h|r|cff71d5ff|Hspell:275541:0|h[Depth of the Shadows]|h|r", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			996, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1581732300,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"I interviewed this guy", -- [1]
+			"Thunderzmonk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			997, -- [11]
+			"Player-9-0B1EF2DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Thunderzmonk|r",
+			[51] = 1581732310,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"pog", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			998, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1581732332,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"f evan", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1000, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1581732350,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			":(", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1001, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1581732369,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

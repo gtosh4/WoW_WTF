@@ -1,9 +1,18 @@
 
 BigWigs3DB = {
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["watchedMovies"] = {
 			[-1345] = true,
 			[927] = true,
+			[-1597] = true,
 			[886] = true,
 			[-557] = true,
 			[875] = true,
@@ -21,10 +30,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[287333] = 1032439,
 					[288449] = 2015479,
-					["stages"] = 1032439,
+					[287333] = 1032439,
 					[285003] = 1032439,
+					["stages"] = 1032439,
 				},
 			},
 		},
@@ -82,8 +91,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Bosses_The Prophet Skitra"] = {
-		},
 		["BigWigs_Bosses_Queen Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -96,13 +103,6 @@ BigWigs3DB = {
 				["Default"] = {
 					[296018] = 1032439,
 					[292963] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Radiance of Azshara"] = {
-			["profiles"] = {
-				["Default"] = {
-					[296894] = 1032439,
 				},
 			},
 		},
@@ -141,6 +141,17 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Vexiona"] = {
+		},
+		["BigWigs_Bosses_Radiance of Azshara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296894] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
+		},
 		["BigWigs_Bosses_Ra-den the Despoiled"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -149,17 +160,6 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_Pull"] = {
-			["profiles"] = {
-				["Default"] = {
-					["voice"] = "English: Overwatch: Soldier76",
-				},
-			},
 		},
 		["BigWigs_Bosses_Maut"] = {
 			["profiles"] = {
@@ -183,13 +183,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
+					[263309] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
+			["profiles"] = {
+				["Default"] = {
+					["voice"] = "English: Overwatch: Soldier76",
 				},
 			},
 		},
@@ -227,19 +231,22 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
+		},
 		["BigWigs_Bosses_The Hivemind"] = {
 			["profiles"] = {
 				["Default"] = {
 					[307201] = 3129591,
 					[307232] = 3129591,
 					[307213] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Bosses_Shad'har the Insatiable"] = {
-			["profiles"] = {
-				["Default"] = {
-					[306448] = 3131639,
 				},
 			},
 		},
@@ -255,14 +262,6 @@ BigWigs3DB = {
 				["Default"] = {
 					[288345] = 1000183,
 					[288374] = 999671,
-				},
-			},
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 401.079192826655,
-					["posy"] = 361.067720987514,
 				},
 			},
 		},
@@ -286,6 +285,14 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[297254] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 401.079192826655,
+					["posy"] = 361.067720987514,
 				},
 			},
 		},
@@ -394,8 +401,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
 							[300478] = "English: Overwatch: Reaper",
-							[300519] = "English: Overwatch: Roadhog",
 							[299094] = "English: Overwatch: Zarya",
+							[300519] = "English: Overwatch: Roadhog",
 						},
 						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
 							[292963] = "English: Overwatch: Reaper",
@@ -429,11 +436,18 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Shad'har the Insatiable"] = {
+			["profiles"] = {
+				["Default"] = {
+					[306448] = 3131639,
+				},
+			},
+		},
 		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
 				["Default"] = {
-					[318449] = 3129591,
 					[310184] = 3129591,
+					[318449] = 3129591,
 				},
 			},
 		},
@@ -451,13 +465,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
-			["profiles"] = {
-				["Default"] = {
-					[263309] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -467,6 +474,8 @@ BigWigs3DB = {
 					["posx"] = 644.7898003983137,
 				},
 			},
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
@@ -484,14 +493,6 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
-	},
 	["profiles"] = {
 		["Default"] = {
 			["flash"] = false,
@@ -803,7 +804,7 @@ BigWigsStatsDB = {
 		},
 		[2366] = {
 			["heroic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["wipes"] = 6,
 				["best"] = 447.9709999999031,
 			},
@@ -832,8 +833,8 @@ BigWigsStatsDB = {
 		},
 		[2375] = {
 			["heroic"] = {
-				["kills"] = 2,
-				["wipes"] = 14,
+				["kills"] = 3,
+				["wipes"] = 15,
 				["best"] = 577.2369999999646,
 			},
 			["normal"] = {
@@ -878,17 +879,21 @@ BigWigsStatsDB = {
 				["best"] = 259.9070000000065,
 			},
 			["mythic"] = {
-				["wipes"] = 64,
+				["kills"] = 1,
+				["wipes"] = 87,
+				["best"] = 385.8430000001099,
 			},
 		},
 		[2370] = {
-			["heroic"] = {
-				["best"] = 241.1269999999786,
-				["kills"] = 4,
-			},
 			["normal"] = {
 				["best"] = 196.4290000000037,
 				["kills"] = 1,
+			},
+			["mythic"] = {
+			},
+			["heroic"] = {
+				["best"] = 241.1269999999786,
+				["kills"] = 4,
 			},
 		},
 	},
