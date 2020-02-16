@@ -4,17 +4,17 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -25,9 +25,9 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|382994462"] = "282603|1581755396|0|1",
+					["Ny'alotha, the Waking City Heroic|382994462"] = "194346|1581843653|0|1",
 				},
-				["lastUpdate"] = 1581755537,
+				["lastUpdate"] = 1581843666,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -39,16 +39,16 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|382994462"] = "286449|1581751550|0|1",
-					["Ny'alotha, the Waking City Mythic|383049323"] = "286449|1581751550|0|1",
+					["Ny'alotha, the Waking City Heroic|382994462"] = "197854|1581840145|0|1",
+					["Ny'alotha, the Waking City Mythic|383049323"] = "197854|1581840145|0|1",
 				},
-				["lastUpdate"] = 1581751600,
+				["lastUpdate"] = 1581840564,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
 			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544041,
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1581543873,
@@ -56,8 +56,8 @@ DataStore_AgendaDB = {
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581544004,
 			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544041,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,
