@@ -7,7 +7,11 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["scale"] = 1,
-		["progressTooltip"] = true,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
 		["objectiveTimeInChat"] = true,
 		["hideDefaultObjectiveTracker"] = true,
 		["current_run"] = {
@@ -57,11 +61,22 @@ MythicPlusTimerDB = {
 				["2last_best_time_zone_level"] = 996,
 			},
 			["current_map_id"] = 251,
-			["deathcount"] = 14,
 			["current_zone_id"] = 1841,
+			["deathcount"] = 14,
 			["elapsed_time"] = 1880,
 		},
 		["show_affixes_as_icons"] = false,
+		["progressTooltip"] = true,
+		["objectiveTimePerLevel"] = true,
+		["show_affixes_as_text"] = true,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["objective_time_inchat"] = true,
+		["insertKeystone"] = true,
+		["show_absolute_numbers"] = false,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -317,12 +332,12 @@ MythicPlusTimerDB = {
 					1579, -- [4]
 					1393, -- [5]
 				},
-				["l12affixes-4-9-11-119"] = {
-					373, -- [1]
-					1014, -- [2]
-					1514, -- [3]
-					1257, -- [4]
-					1060, -- [5]
+				["l12affixes-8-10-14-119"] = {
+					230, -- [1]
+					773, -- [2]
+					1193, -- [3]
+					1333, -- [4]
+					910, -- [5]
 				},
 				["l13affixes-4-6-9-119"] = {
 					271, -- [1]
@@ -331,19 +346,19 @@ MythicPlusTimerDB = {
 					1579, -- [4]
 					1393, -- [5]
 				},
-				["l12affixes-8-10-14-119"] = {
-					230, -- [1]
-					773, -- [2]
-					1193, -- [3]
-					1333, -- [4]
-					910, -- [5]
-				},
 				["l15affixes-4-6-9-117"] = {
 					360, -- [1]
 					1277, -- [2]
 					1955, -- [3]
 					1603, -- [4]
 					1427, -- [5]
+				},
+				["l12affixes-4-9-11-119"] = {
+					373, -- [1]
+					1014, -- [2]
+					1514, -- [3]
+					1257, -- [4]
+					1060, -- [5]
 				},
 				["l19affixes-3-5-9-119"] = {
 					305, -- [1]
@@ -491,12 +506,12 @@ MythicPlusTimerDB = {
 					1623, -- [5]
 					["_complete"] = 2295,
 				},
-				["l14affixes-8-10-12-119"] = {
-					492, -- [1]
-					921, -- [2]
+				["l11"] = {
+					340, -- [1]
+					908, -- [2]
 					1709, -- [3]
-					1889, -- [4]
-					1992, -- [5]
+					[5] = 1332,
+					["_complete"] = 2014,
 				},
 				["l12affixes-2-7-10-120"] = {
 					659, -- [1]
@@ -519,19 +534,19 @@ MythicPlusTimerDB = {
 					1972, -- [4]
 					1573, -- [5]
 				},
+				["l14affixes-8-10-12-119"] = {
+					492, -- [1]
+					921, -- [2]
+					1709, -- [3]
+					1889, -- [4]
+					1992, -- [5]
+				},
 				["l15affixes-7-9-13-120"] = {
 					430, -- [1]
 					1015, -- [2]
 					1970, -- [3]
 					2502, -- [4]
 					1809, -- [5]
-				},
-				["l11"] = {
-					340, -- [1]
-					908, -- [2]
-					1709, -- [3]
-					[5] = 1332,
-					["_complete"] = 2014,
 				},
 			},
 			[1841] = {
@@ -1091,21 +1106,6 @@ MythicPlusTimerDB = {
 					3418, -- [6]
 				},
 			},
-		},
-		["objectiveTimePerLevel"] = true,
-		["show_affixes_as_text"] = true,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["objective_time_inchat"] = true,
-		["insertKeystone"] = true,
-		["show_absolute_numbers"] = false,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["showAffixesAsText"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
 		},
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
@@ -1731,7 +1731,7 @@ MythicPlusTimerDB = {
 			[126918] = {
 				[4] = 30,
 			},
-			[155434] = {
+			[114637] = {
 				[4] = 1,
 			},
 			[97678] = {
@@ -1743,8 +1743,8 @@ MythicPlusTimerDB = {
 			[137485] = {
 				[4] = 33,
 			},
-			[114637] = {
-				[4] = 1,
+			[128434] = {
+				[4] = 138,
 			},
 			[130400] = {
 				[6] = 44.8,
@@ -2354,8 +2354,8 @@ MythicPlusTimerDB = {
 			[134418] = {
 				[9] = 21,
 			},
-			[128434] = {
-				[4] = 138,
+			[155434] = {
+				[4] = 1,
 			},
 			[135245] = {
 				[8] = 32,

@@ -1,974 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/aa window", -- [1]
-		"/o I mean", -- [2]
-		"/o you can't do that", -- [3]
-		"/hek", -- [4]
-		"/p for some reason", -- [5]
-		"/p my shaman's way ahead", -- [6]
-		"/p of pally lol", -- [7]
-		"/p same cloak, but +4 vessels", -- [8]
-		"/p I guess", -- [9]
-		"/p it might's been the extra runs", -- [10]
-		"/p to rush unwavering 3", -- [11]
-		"/p with EE, full clear is not too hard", -- [12]
-		"/p with gift, 1-2 mask isn't too hard", -- [13]
-		"/p that first pull was sketch though lol", -- [14]
-		"/p if noras spawn, I usually pull him with the mini boss", -- [15]
-		"/p instead of the adds", -- [16]
-		"/p 2 people", -- [17]
-		"/p vs 1", -- [18]
-		"/p prolly", -- [19]
-		"/o CJ in for yuki?", -- [20]
+		"/p of pally lol", -- [1]
+		"/p same cloak, but +4 vessels", -- [2]
+		"/p I guess", -- [3]
+		"/p it might's been the extra runs", -- [4]
+		"/p to rush unwavering 3", -- [5]
+		"/p with EE, full clear is not too hard", -- [6]
+		"/p with gift, 1-2 mask isn't too hard", -- [7]
+		"/p that first pull was sketch though lol", -- [8]
+		"/p if noras spawn, I usually pull him with the mini boss", -- [9]
+		"/p instead of the adds", -- [10]
+		"/p 2 people", -- [11]
+		"/p vs 1", -- [12]
+		"/p prolly", -- [13]
+		"/o CJ in for yuki?", -- [14]
+		"/g well, we didn't explain why we were moving to the markers", -- [15]
+		"/g lots of people probably didn't know that that was to bait the breath", -- [16]
+		"/g and thus didn't know if it was on the marker itself or just on that 1/3 of the room", -- [17]
+		"/g yeah", -- [18]
+		"/g 100%, people were running all the way to the markers", -- [19]
+		"/g and in some cases dropping the puddles there", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			":P", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1276, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809569,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"that first pull was sketch though lol", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1277, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809575,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"WELL", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1278, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809579,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"i did that like", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1280, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809583,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"if noras spawn, I usually pull him with the mini boss", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1281, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809586,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"3 times ain a row", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1282, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809587,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
-		{
-			"instead of the adds", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1283, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809589,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"didnt know why i died that time", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1284, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809596,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"C:", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1285, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809597,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"2 people", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1286, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809606,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"vs 1", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1287, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809607,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"prolly", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1288, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1581809609,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"maybe they cast more with more people or something ", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1289, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809631,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"iuno", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1290, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809639,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"like they didnt use the totem ever", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809652,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"and this run they did which kinda effed me", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1292, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809658,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"welp going on monk", -- [1]
-			"Scizilla-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scizilla-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1294, -- [11]
-			"Player-9-0B7F4E26", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Scizilla|r",
-			[51] = 1581809744,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
-		{
-			"DX", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1299, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1581809784,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
-		{
-			"flame vent is easy", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1303, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1581810217,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
-		{
-			"wtf", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1304, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1581810218,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
-		{
-			"i mean", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1305, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1581810242,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14063:Player-9-0A9097E2:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Vision of Orgrimmar]|h|r!", -- [1]
-			"Felfanatic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Felfanatic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1307, -- [11]
-			"Player-9-0A9097E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Felfanatic|r",
-			[51] = 1581810286,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [22]
-		{
-			"|cffa335ee|Hkeystone:158923:369:20:9:7:13:120|h[Keystone: Operation: Mechagon - Junkyard (20)]|h|r", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1310, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1581810651,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
-		{
-			"nice key", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1311, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581810662,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
-		{
-			"ez", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1314, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1581810733,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14170:Player-9-0A9097E2:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Thanks For The Mementos]|h|r!", -- [1]
-			"Felfanatic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Felfanatic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1315, -- [11]
-			"Player-9-0A9097E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Felfanatic|r",
-			[51] = 1581810917,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
-		{
-			"does anyone know if there is a cap to the number of shreds you get from pvp", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1322, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811210,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
-		{
-			"|cffa335ee|Hitem:171176::::::::120:267::::::|h[Shred of Insanity]|h|r these things", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1323, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811216,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
-		{
-			"no", -- [1]
-			"Evangelos-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1324, -- [11]
-			"Player-9-0ACB4291", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Evangelos|r",
-			[51] = 1581811222,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
-		{
-			"no cap", -- [1]
-			"Evangelos-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1325, -- [11]
-			"Player-9-0ACB4291", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Evangelos|r",
-			[51] = 1581811225,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
-		{
-			"yes", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1326, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811238,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
-		{
-			"plz", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1327, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811238,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
-		{
-			"yeah the cap is all of them", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1328, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1581811246,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
-		{
-			"stream up evan", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1329, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811265,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
-		{
-			"go go", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1330, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811266,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
-		{
-			"stream doesnt load for me :(", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1332, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811307,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
-		{
-			"there we go", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1333, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811320,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
-		{
-			"yeah", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1334, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811324,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
-		{
-			"you're good", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1335, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811325,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:507:Player-9-0A9097E2:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[1000 Quests Completed]|h|r!", -- [1]
-			"Felfanatic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Felfanatic-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1346, -- [11]
-			"Player-9-0A9097E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Felfanatic|r",
-			[51] = 1581811904,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [40]
-		{
-			"andruw plz", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1347, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1581811904,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
-		{
-			"hehe", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1348, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1581811918,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
-		{
-			"jajajaj", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1349, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1581811935,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
 		{
 			"just get a good corruption", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -990,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812109,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [1]
 		{
 			"4head", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1012,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812111,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [2]
 		{
 			"it was me", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1034,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812156,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [3]
 		{
 			"im sorry", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1056,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812157,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [4]
 		{
 			":P", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1078,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581812217,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [5]
 		{
 			":P", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1100,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812230,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14019:Player-9-0AC536B3:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Smoke Test]|h|r!", -- [1]
 			"Utsugi-Kil'jaeden", -- [2]
@@ -1122,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Utsugi|r",
 			[51] = 1581812434,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
+		}, -- [7]
 		{
 			"evan you froze ", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1144,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812453,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [8]
 		{
 			"pepehands", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1166,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812455,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [9]
 		{
 			"not yet", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1188,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812470,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [10]
 		{
 			"might be connection ill let you know", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1210,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812475,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [11]
 		{
 			"negative", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1232,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [12]
 		{
 			":(", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1254,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [13]
 		{
 			":<", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1276,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812605,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [14]
 		{
 			"GET OUT OF MY SWAAAAAAAAAAAAAAAAMP", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1298,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812654,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [15]
 		{
 			"onions", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1320,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812675,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [16]
 		{
 			"same cj", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1342,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812694,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [17]
 		{
 			"i see the same thing", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1364,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812697,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [18]
 		{
 			":(", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1386,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581812700,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [19]
 		{
 			"welp time 2 cap my monk", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1408,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1581812743,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [20]
 		{
 			"hey cj wanna learn how to do 2s", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1430,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581812785,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13398:Player-9-0B1EF2DA:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Havenswood]|h|r!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1452,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1581812833,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [65]
+		}, -- [22]
 		{
 			"off to dinner, bbl!", -- [1]
 			"Felfanatic-Kil'jaeden", -- [2]
@@ -1474,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic|r",
 			[51] = 1581812950,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [23]
 		{
 			"inter here", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1496,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581813277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [24]
 		{
 			"yeah", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1518,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581813279,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [25]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13124:Player-9-0B1EF2DA:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Metal Detector]|h|r!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1540,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1581813674,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
+		}, -- [26]
 		{
 			"imagine getting a R4 WV on an alt ", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1562,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1581813720,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [27]
 		{
 			"nice one", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1584,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581813739,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [28]
 		{
 			"LOL", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1606,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581813741,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [29]
 		{
 			"andruw stop dying", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1628,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581814138,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [30]
 		{
 			"wtb a nonshit 2s partner", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1650,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814514,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [31]
 		{
 			"xd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1672,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814515,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [32]
 		{
 			":)", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1694,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1581814522,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [33]
 		{
 			"like ", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1716,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814529,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [34]
 		{
 			"idk man", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1738,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814531,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [35]
 		{
 			"dps isnt even hard in 2s just saying xd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1760,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814537,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [36]
 		{
 			"cj lets go", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1782,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814564,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [37]
 		{
 			"C:", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1804,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814566,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [38]
 		{
 			"i teach u da wae of da warlock", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1826,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814573,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [39]
 		{
 			"once I finish drest CDs I can go on dk", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1848,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1581814579,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [40]
 		{
 			"o ok", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1870,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814583,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [41]
 		{
 			"i just need 50 cr to hit back to 1800", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1892,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814590,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [42]
 		{
 			"im already capped with rival chest ijust wanna hit back over 1800", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1914,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814600,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [43]
 		{
 			"but every partner i get like", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1936,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814613,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [44]
 		{
 			"cant kill people ", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1958,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814616,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [45]
 		{
 			"LF 15 key", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -1980,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1581814632,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [46]
 		{
 			"sci 2s whenever", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2002,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581814722,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [47]
 		{
 			"my winrate is great", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2024,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1581814726,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [48]
 		{
 			"evan", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2046,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814900,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [49]
 		{
 			"run undying gift major", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2068,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814925,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [50]
 		{
 			"ez", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2090,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814926,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [51]
 		{
 			"Kap", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2112,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814961,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [52]
 		{
 			"584k", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2134,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814984,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [53]
 		{
 			"WTF", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2156,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [54]
 		{
 			"monka", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2178,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814993,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [55]
 		{
 			"thats half ur health", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2200,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581814996,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [56]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13771:Player-9-0B1EF2DA:1:2:15:20:4294967295:4294967295:4294967295:4294967295|h[Power Is Beautiful]|h|r!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -2222,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1581815065,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [100]
+		}, -- [57]
 		{
 			"WTS AOTC tonight!! prices DROPPED FOR TONIGHT ONLY!! full clear at 9pm EST! also specific boss//last 2 bosses/ and or last boss! PM for price, gold only!", -- [1]
 			"Luckieyou-Kil'jaeden", -- [2]
@@ -2244,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLuckieyou|r",
 			[51] = 1581815301,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [58]
 		{
 			"|cffa335ee|Hazessence:18:3|h[Artifice of Time]|h|r", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2266,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1581815331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [59]
 		{
 			"IS THIS THE PLAY", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2288,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1581815333,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [60]
 		{
 			"X D", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2310,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1581815334,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [61]
 		{
 			"uh", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2332,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815340,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [62]
 		{
 			"no", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2354,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815342,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [63]
 		{
 			"vitality conduit is better", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2376,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815362,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [64]
 		{
 			"than that", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2398,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815366,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [65]
 		{
 			"lower cd ", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2420,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815379,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [66]
 		{
 			"same healing", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2442,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815381,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [67]
 		{
 			"sure u absorb 20% of the dmg but its 3 min cd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2464,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815401,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [68]
 		{
 			"yeah haha", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2486,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815403,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [69]
 		{
 			"xd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2508,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815404,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [70]
 		{
 			"WTS AOTC tonight!! prices DROPPED FOR TONIGHT ONLY!! full clear at 9pm EST! also specific boss//last 2 bosses/ and or last boss! PM for price, gold only!", -- [1]
 			"Luckieyou-Kil'jaeden", -- [2]
@@ -2530,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLuckieyou|r",
 			[51] = 1581815456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [71]
 		{
 			"Thunderzmonk!", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2552,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1581815463,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [72]
 		{
 			"or u can run |cff0070dd|Hazessence:24:2|h[Spirit of Preservation]|h|r major", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2574,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815464,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [73]
 		{
 			"xd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2596,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815471,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [74]
 		{
 			"WTS +6-16 Keys, Specific Keys available. Get a huge weekly chest and great gear now. Mechagon HM,Islands, PVP,Visions! GOLD ONLY! Pst for pricing! Big Discounts", -- [1]
 			"Rexyalt-Kil'jaeden", -- [2]
@@ -2618,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rexyalt|r",
 			[51] = 1581815482,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [75]
 		{
 			"WTS |cffa335ee|Hitem:175005::::::::120:253::5:8:4823:6578:6579:6472:6462:6513:1502:4786:::|h[Belt of Concealed Intent]|h|r|cffa335ee|Hitem:175006::::::::120:253::6:7:4824:6578:6579:6560:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r|cffa335ee|Hitem:52200::::::::120:253::::::|h[Reins of the Crimson Deathcharger]|h|r PST! Below AH Listings! ", -- [1]
 			"Alüe-Kil'jaeden", -- [2]
@@ -2640,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Alüe|r",
 			[51] = 1581815570,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [76]
 		{
 			"iirc they both pop at same time", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2662,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815613,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [77]
 		{
 			"WTS +6-16 Keys, Specific Keys available. Get a huge weekly chest and great gear now. Mechagon HM,Islands, PVP,Visions! GOLD ONLY! Pst for pricing! Big Discounts", -- [1]
 			"Rexyalt-Kil'jaeden", -- [2]
@@ -2684,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rexyalt|r",
 			[51] = 1581815691,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [78]
 		{
 			"WTS AOTC tonight!! prices DROPPED FOR TONIGHT ONLY!! full clear at 9pm EST! also specific boss//last 2 bosses/ and or last boss! PM for price, gold only!", -- [1]
 			"Luckieyou-Kil'jaeden", -- [2]
@@ -2706,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLuckieyou|r",
 			[51] = 1581815768,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [79]
 		{
 			"WTS AoTC Heroic Ny'alotha. Get Aotc and mount. PST for more info! GOLD ONLY! Also selling full clear. PST", -- [1]
 			"Rexyalt-Kil'jaeden", -- [2]
@@ -2728,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rexyalt|r",
 			[51] = 1581815836,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [80]
 		{
 			"WTS AoTC Heroic Ny'alotha. Get Aotc and mount. PST for more info! GOLD ONLY! Also selling full clear. PST", -- [1]
 			"Rexyalt-Kil'jaeden", -- [2]
@@ -2750,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rexyalt|r",
 			[51] = 1581815870,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [81]
 		{
 			"i miss 4 ww 1 rogue comps in legion", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2772,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815884,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [82]
 		{
 			":/", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2794,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1581815885,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [83]
 		{
 			"WTS AOTC tonight!! prices DROPPED FOR TONIGHT ONLY!! full clear at 9pm EST! also specific boss//last 2 bosses/ and or last boss! PM for price, gold only!", -- [1]
 			"Luckieyou-Kil'jaeden", -- [2]
@@ -2816,6 +1870,952 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLuckieyou|r",
 			[51] = 1581815948,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"SOMETIMES", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581876570,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [85]
+		{
+			"Lol", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1581876581,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [86]
+		{
+			"I won't say it", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581876613,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [87]
+		{
+			"no toxic", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581876615,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"|cffa335ee|Hkeystone:158923:245:19:9:7:13:120|h[Keystone: Freehold (19)]|h|r", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1581876684,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [89]
+		{
+			"!kes", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1581876847,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"!keys", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1581876851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"|cffa335ee|Hkeystone:158923:247:15:9:7:13:120|h[Keystone: The MOTHERLODE!! (15)]|h|r", -- [1]
+			"Lyuneria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-9-0B865736", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Lyuneria|r",
+			[51] = 1581876851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:246:16:9:7:13:120|h[Keystone: Tol Dagor (16)]|h|r", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1581876851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"|cffa335ee|Hkeystone:158923:248:14:9:7:13:120|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581876851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:250:14:9:7:13:120|h[Keystone: Temple of Sethraliss (14)]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581876851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"see this", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			43, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877013,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [96]
+		{
+			"he just talks", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877016,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [97]
+		{
+			"it's so funny", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			45, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877021,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [98]
+		{
+			"whatever's top of mind", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877021,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [99]
+		{
+			"now that you've pointed it out", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877024,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [100]
+		{
+			"regardless of the conversation", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877024,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [101]
+		{
+			"i'm dying", -- [1]
+			"|Kq22|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			49, -- [11]
+			false, -- [12]
+			49, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1581877029,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [102]
+		{
+			"|cffffff00Orsis is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			140, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1581878395,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"|cffffff00Uldum is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			141, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1581878402,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"|cffffff00Orsis is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			169, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1581879273,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"well, we didn't explain why we were moving to the markers", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900718,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"lots of people probably didn't know that that was to bait the breath", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900737,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"and thus didn't know if it was on the marker itself or just on that 1/3 of the room", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900757,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"WTS AoTC right now. PST for info GOLD ONLY", -- [1]
+			"Rexum-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rexum-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-0B15536A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Rexum|r",
+			[51] = 1581900758,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"on vex?", -- [1]
+			"Snareiat-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0B7483EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Snareiat|r",
+			[51] = 1581900772,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"yeah", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900776,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"please dont tell me ppl thought we were specifically stacking *on top of the markers* when we were baiting... lol", -- [1]
+			"Snareiat-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-0B7483EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Snareiat|r",
+			[51] = 1581900802,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"100%, people were running all the way to the markers", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900818,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [113]
+		{
+			"and in some cases dropping the puddles there", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1581900826,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"wew", -- [1]
+			"Snareiat-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-9-0B7483EE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Snareiat|r",
+			[51] = 1581900832,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"i made 150 pots", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1581913425,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"currently at 310", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1581913429,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"pog", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1581913430,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12733:Player-9-0B95D3C4:1:2:16:20:4294967295:4294967295:4294967295:4294967295|h[Professional Zandalari Master]|h|r!", -- [1]
+			"Hakkem-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hakkem-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0B95D3C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Hakkem|r",
+			[51] = 1581913500,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [119]
+		{
+			"yea just like me", -- [1]
+			"Sciblaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-9-0B8F0D61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Sciblaster|r",
+			[51] = 1581913780,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"playing healer czu no one wants to", -- [1]
+			"Sciblaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-9-0B8F0D61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Sciblaster|r",
+			[51] = 1581913784,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"xd", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1581913838,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"that was me for half of legion", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1581913852,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"|cffffd000|Htrade:Player-9-09B16B50:2259:171|h[Alchemy]|h|r", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1581913933,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9988:Player-9-0B884C02:1:2:16:20:4294967295:4294967295:4294967295:4294967295|h[Pro Toss]|h|r!", -- [1]
+			"Whinks-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Whinks-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			60, -- [11]
+			"Player-9-0B884C02", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Whinks|r",
+			[51] = 1581914105,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [125]
+		{
+			"who want to help my mage cap C:", -- [1]
+			"Sciblaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-9-0B8F0D61", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Sciblaster|r",
+			[51] = 1581914125,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"im raiding :(", -- [1]
+			"Delp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-9-098FFF6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecDelp|r",
+			[51] = 1581914144,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

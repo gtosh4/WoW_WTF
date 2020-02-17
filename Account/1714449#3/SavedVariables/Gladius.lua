@@ -23,12 +23,27 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -103,34 +118,17 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 239.4648335698948,
-			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["x"] = {
 				["arena1"] = 1150.935179569933,
 			},
-			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
+			["y"] = {
+				["arena1"] = 239.4648335698948,
 			},
+			["classIconShowSpec"] = true,
 			["castBarTexture"] = "ElvUI Norm",
-			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffsHeight"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -143,30 +141,17 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["classIconShowSpec"] = true,
+			["tagsVersion"] = 4,
+			["healthBarTexture"] = "ElvUI Norm",
+			["aurasBuffsWidth"] = 22,
 		},
 		["Tosh - Kil'jaeden"] = {
-			["powerBarTexture"] = "ElvUI Norm",
-			["aurasBuffs"] = true,
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
-			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["locked"] = true,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["aurasBuffsPerColumn"] = 5,
-			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -241,17 +226,34 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["classIconGloss"] = false,
 			["y"] = {
 				["arena1"] = 263.99849693316,
 			},
-			["classIconShowSpec"] = true,
-			["castBarTexture"] = "ElvUI Norm",
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
 			["aurasBuffsHeight"] = 22,
+			["aurasBuffs"] = true,
+			["aurasBuffsWidth"] = 22,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["castBarTexture"] = "ElvUI Norm",
+			["healthBarTexture"] = "ElvUI Norm",
+			["powerBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["button"] = "2",
@@ -264,9 +266,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["tagsVersion"] = 4,
-			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
+			["classIconShowSpec"] = true,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Blank",

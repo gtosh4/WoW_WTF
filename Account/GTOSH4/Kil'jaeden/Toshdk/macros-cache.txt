@@ -8,3 +8,7 @@ VER 3 0100000000000001 "gnaw" "INV_Misc_QuestionMark"
 /petattack
 /cast Gnaw
 END
+VER 3 0100000000000003 "petattack" "INV_MISC_QUESTIONMARK"
+#showtooltip Attackaw d
+/petattack
+END

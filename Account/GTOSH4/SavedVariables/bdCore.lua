@@ -112,9 +112,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
+		["Toshdk"] = {
 			["profile"] = "default",
-			["name"] = "Toshmonk",
+			["name"] = "Toshdk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -168,9 +168,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshdk"] = {
+		["Toshmonk"] = {
 			["profile"] = "default",
-			["name"] = "Toshdk",
+			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -185,7 +185,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshdk",
+		["name"] = "Toshpal",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -206,28 +206,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
-			["interrupt"] = false,
 			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
+			["interrupt"] = false,
 			["gmotd"] = {
 				[""] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -271,31 +251,51 @@ BD_persistent = {
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["slay mekka friday and blockade saturday "] = true,
+				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
+				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
-				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 				["HEROIC TODAY(WED) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
+				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
-				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["RIP Toshmonk"] = true,
+				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
+				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
+				["heroic bod @ 7pm cst wed "] = true,
 				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
-				["heroic bod @ 7pm cst wed "] = true,
-				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
-				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
-				["RIP Toshmonk"] = true,
-				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
-				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
-				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
+				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
+				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
+				["slay mekka friday and blockade saturday "] = true,
+				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 			},
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

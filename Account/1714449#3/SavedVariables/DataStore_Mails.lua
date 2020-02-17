@@ -14,12 +14,12 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/02/03 01:42",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1581743272,
-				["lastVisitDate"] = "2020/02/15 00:07",
+				["lastUpdate"] = 1581913327,
+				["lastVisitDate"] = "2020/02/16 23:22",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1581799440,
-				["lastVisitDate"] = "2020/02/15 15:44",
+				["lastUpdate"] = 1581924285,
+				["lastVisitDate"] = "2020/02/17 02:24",
 			},
 		},
 	},

@@ -23,13 +23,6 @@ dbBFA = {
 			["firstun"] = false,
 		},
 	},
-	["global"] = {
-		["warn01_seen"] = 0,
-		["firstrun"] = false,
-		["news"] = {
-		},
-		["warn02_seen"] = 0,
-	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -38,6 +31,13 @@ dbBFA = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
+	},
+	["global"] = {
+		["warn01_seen"] = 0,
+		["firstrun"] = false,
+		["news"] = {
+		},
+		["warn02_seen"] = 0,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -61,12 +61,11 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = false,
-				["MAXCHAMP"] = 3,
 				["TROOPALERT"] = true,
+				["MAXCHAMP"] = 3,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
-			["showmenu"] = true,
 			["blacklist"] = {
 				[2088] = false,
 				[1950] = false,
@@ -78,16 +77,17 @@ dbBFA = {
 				[1933] = false,
 				[1934] = false,
 				[1935] = false,
-				[1951] = false,
+				[2083] = false,
+				[1943] = false,
 				[2147] = false,
-				[2117] = false,
 				[1939] = false,
 				[1940] = false,
 				[1959] = false,
 				[2115] = false,
-				[1943] = false,
-				[2083] = false,
+				[2117] = false,
+				[1951] = false,
 			},
+			["showmenu"] = true,
 		},
 	},
 }
