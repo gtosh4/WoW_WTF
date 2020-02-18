@@ -10,11 +10,11 @@ DataStore_AgendaDB = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["global"] = {
 		["Options"] = {
@@ -25,9 +25,9 @@ DataStore_AgendaDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|382994462"] = "115551|1581922448|0|1",
+					["Ny'alotha, the Waking City Heroic|382994462"] = "47003|1581990995|0|1",
 				},
-				["lastUpdate"] = 1581925184,
+				["lastUpdate"] = 1581991839,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["Contacts"] = {
@@ -39,10 +39,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|382994462"] = "112371|1581925627|0|1",
-					["Ny'alotha, the Waking City Mythic|383049323"] = "112371|1581925627|0|1",
+					["Ny'alotha, the Waking City Heroic|382994462"] = "43515|1581994483|0|1",
+					["Ny'alotha, the Waking City Mythic|383049323"] = "43515|1581994483|0|1",
 				},
-				["lastUpdate"] = 1581925761,
+				["lastUpdate"] = 1581995613,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,

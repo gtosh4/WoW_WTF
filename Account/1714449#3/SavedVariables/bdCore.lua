@@ -87,7 +87,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Tosh",
+		["name"] = "Toshaman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -110,6 +110,26 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				[""] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
@@ -124,6 +144,7 @@ BD_persistent = {
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["Heroic New Raid Wed @7pm cst for ALTS. Mains do not get saved we will be doing it during main raid."] = true,
 				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
+				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["GUILD BBQ AUG 3!"] = true,
@@ -145,8 +166,8 @@ BD_persistent = {
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["Please donate me meaty haunch, aromatic oils, and stringy loins thanks!"] = true,
-				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Heroic BoD Wed @ 7pm CST. Main Raid Normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["Heroic CoS(wed) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["main raid tonight slay stormwall :)"] = true,
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
@@ -169,26 +190,6 @@ BD_persistent = {
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. everyone is safe"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

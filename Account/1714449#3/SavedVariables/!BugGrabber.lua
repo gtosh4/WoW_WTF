@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1472,
+	["session"] = 1478,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -43,5 +43,26 @@ BugGrabberDB = {
 			["session"] = 1469,
 			["counter"] = 2,
 		}, -- [5]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Favorites' tried to call the protected function 'RaidFrame:SetParent()'.",
+			["time"] = "2020/02/17 15:48:32",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetParent'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:346: in function `ClaimRaidFrame'\n[string \"@Interface\\FrameXML\\FriendsFrame.lua\"]:368: in function `FriendsFrame_Update'\n[string \"@Interface\\FrameXML\\FriendsFrame.lua\"]:323: in function `FriendsFrame_OnShow'\n[string \"@Interface\\FrameXML\\FriendsFrame.lua\"]:448: in function <Interface\\FrameXML\\FriendsFrame.lua:446>",
+			["session"] = 1475,
+			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
+			["time"] = "2020/02/17 15:51:49",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:36: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\SpellBookFrame.lua\"]:510: in function `SpellButton_OnEnter'\n[string \"*:OnEnter\"]:1: in function <[string \"*:OnEnter\"]:1>\n[string \"=[C]\"]: ?",
+			["session"] = 1475,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'AdiBags' tried to call the protected function 'RunBinding()'.",
+			["time"] = "2020/02/17 16:06:50",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `RunBinding'\n[string \"@Interface\\FrameXML\\StackSplitFrame.lua\"]:196: in function <Interface\\FrameXML\\StackSplitFrame.lua:193>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\StackSplitFrame.lua\"]:235: in function `StackSplitOkayButton_OnClick'\n[string \"@Interface\\FrameXML\\StackSplitFrame.lua\"]:165: in function <Interface\\FrameXML\\StackSplitFrame.lua:141>",
+			["session"] = 1475,
+			["counter"] = 1,
+		}, -- [8]
 	},
 }

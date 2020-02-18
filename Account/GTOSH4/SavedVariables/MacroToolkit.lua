@@ -30,11 +30,11 @@ MacroToolkitDB = {
 		["Toshmonk - Kil'jaeden"] = "profile",
 		["Yorman - Kil'jaeden"] = "profile",
 		["Tosh - Frostwolf"] = "profile",
-		["Koutetsu - Frostwolf"] = "profile",
+		["Tosh - Kil'jaeden"] = "profile",
 		["Toshtrial - The Forgotten Coast"] = "profile",
 		["Zallie - Frostwolf"] = "profile",
 		["Sumex - Frostwolf"] = "profile",
-		["Tosh - Kil'jaeden"] = "profile",
+		["Koutetsu - Frostwolf"] = "profile",
 	},
 	["profiles"] = {
 		["profile"] = {
@@ -43,9 +43,9 @@ MacroToolkitDB = {
 			["height"] = 431.000427246094,
 			["visbind"] = false,
 			["fonts"] = {
-				["mfont"] = "Ubuntu Condensed",
-				["mifont"] = "Ubuntu Condensed",
 				["edfont"] = "Ubuntu Condensed",
+				["mifont"] = "Ubuntu Condensed",
+				["mfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
 		},
