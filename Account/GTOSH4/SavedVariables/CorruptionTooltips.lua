@@ -16,5 +16,7 @@ CorruptionTooltipsDB = {
 		},
 		["Toshdk - Kil'jaeden"] = {
 		},
+		["Yorman - Kil'jaeden"] = {
+		},
 	},
 }

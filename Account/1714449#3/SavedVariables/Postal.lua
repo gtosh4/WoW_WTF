@@ -1,12 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -17,6 +10,13 @@ Postal3DB = {
 				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [5]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -59,19 +59,20 @@ Postal3DB = {
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Voidthirst|Kil'jaeden|Horde", -- [1]
-					"Evangelos|Kil'jaeden|Horde", -- [2]
-					"Tosh|Kil'jaeden|Horde", -- [3]
-					"Yellowy|Kil'jaeden|Horde", -- [4]
-					"Toshdk-Kil'jaeden|Kil'jaeden|Horde", -- [5]
-					"Toshpal|Kil'jaeden|Horde", -- [6]
-					"Yorman|Kil'jaeden|Horde", -- [7]
-					"Peace-Kil'jaeden|Kil'jaeden|Horde", -- [8]
-					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [9]
-					"Yukio|Kil'jaeden|Horde", -- [10]
-					"Wraithbrand|Kil'jaeden|Horde", -- [11]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [12]
-					"Toshmonk|Kil'jaeden|Horde", -- [13]
+					"Toshpal|Kil'jaeden|Horde", -- [1]
+					"Metsy|Kil'jaeden|Horde", -- [2]
+					"Voidthirst|Kil'jaeden|Horde", -- [3]
+					"Evangelos|Kil'jaeden|Horde", -- [4]
+					"Tosh|Kil'jaeden|Horde", -- [5]
+					"Yellowy|Kil'jaeden|Horde", -- [6]
+					"Toshdk-Kil'jaeden|Kil'jaeden|Horde", -- [7]
+					"Yorman|Kil'jaeden|Horde", -- [8]
+					"Peace-Kil'jaeden|Kil'jaeden|Horde", -- [9]
+					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [10]
+					"Yukio|Kil'jaeden|Horde", -- [11]
+					"Wraithbrand|Kil'jaeden|Horde", -- [12]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [13]
+					"Toshmonk|Kil'jaeden|Horde", -- [14]
 				},
 			},
 		},

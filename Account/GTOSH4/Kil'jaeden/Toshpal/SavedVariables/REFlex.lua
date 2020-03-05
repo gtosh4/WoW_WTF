@@ -1480,6 +1480,13 @@ REFlexDatabase = {
 			}, -- [30]
 		},
 		["StatsNum"] = 1,
+		["Time"] = 1564522942,
+		["PlayersNum"] = 30,
+		["Duration"] = 670,
+		["Season"] = 28,
+		["isBrawl"] = false,
+		["Version"] = 274,
+		["isArena"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -1632,15 +1639,8 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["PlayersNum"] = 30,
-		["Duration"] = 670,
-		["Season"] = 28,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isArena"] = false,
-		["Time"] = 1564522942,
 		["isRated"] = false,
-		["Version"] = 274,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
 		["Hidden"] = false,
 		["PlayerNum"] = 5,

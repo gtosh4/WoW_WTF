@@ -16,6 +16,7 @@ HandyNotesDB = {
 		["Toshpal - Kil'jaeden"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
+			["icon_alpha_minimap"] = 0.36,
 		},
 		["Daggny - Frostwolf"] = {
 		},

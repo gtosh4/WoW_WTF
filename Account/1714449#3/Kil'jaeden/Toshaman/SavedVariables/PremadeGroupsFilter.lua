@@ -124,7 +124,7 @@ PremadeGroupsFilterState = {
 		},
 	},
 	["t1c3f1"] = {
-		["enabled"] = false,
+		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",
 			["min"] = "1",
@@ -150,7 +150,7 @@ PremadeGroupsFilterState = {
 		},
 		["defeated"] = {
 			["max"] = "",
-			["min"] = "5",
+			["min"] = "8",
 			["act"] = true,
 		},
 		["heals"] = {

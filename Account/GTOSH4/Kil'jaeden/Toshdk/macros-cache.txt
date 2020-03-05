@@ -1,3 +1,7 @@
+VER 3 0100000000000004 "bloodt1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,talent:1/2] Blooddrinker; [spec:1] Death Strike
+END
 VER 3 0100000000000002 "Frenzy" "INV_MISC_QUESTIONMARK"
 #showtooltip Unholy Frenzy
 /cast Blood Fury(Racial)

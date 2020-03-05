@@ -83,6 +83,13 @@ X: 0
 Y: 0
 W: 320
 H: 550
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: BOTTOM
+X: 5
+Y: 341
+W: 510
+H: 22
 Frame: Quartz3CastBarPet
 FrameLevel: 1
 Anchor: BOTTOMLEFT
@@ -125,10 +132,3 @@ X: -142
 Y: 242
 W: 56
 H: 42
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: BOTTOM
-X: 5
-Y: 341
-W: 510
-H: 22

@@ -10,25 +10,25 @@ DataStore_TalentsDB = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1581987927,
+				["lastUpdate"] = 1583252094,
 				["Specializations"] = {
-					14697, -- [1]
+					11114, -- [1]
 					0, -- [2]
-					11766, -- [3]
+					11770, -- [3]
 				},
 				["Class"] = "DEATHKNIGHT",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1581543845,
+				["lastUpdate"] = 1582683123,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 6893,
@@ -36,9 +36,9 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1581993513,
+				["lastUpdate"] = 1583379213,
 				["Specializations"] = {
-					5993, -- [1]
+					5997, -- [1]
 					7065, -- [2]
 					5849, -- [3]
 				},
@@ -101,11 +101,11 @@ DataStore_TalentsRefDB = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["DEATHKNIGHT"] = {
@@ -190,7 +190,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33369,
+			["Version"] = 33528,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -532,7 +532,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 33237,
+			["Version"] = 33369,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -674,7 +674,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33369,
+			["Version"] = 33528,
 		},
 	},
 }

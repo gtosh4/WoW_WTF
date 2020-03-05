@@ -184,6 +184,21 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Tosh-Frostwolf"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshpal-Kil'jaeden"] = {
 		["talents"] = {
 			{
@@ -271,21 +286,6 @@ TalentSetManager_CharacterSaves = {
 		["interface"] = {
 			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Tosh-Frostwolf"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -469,6 +469,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "m+",
 					["texture"] = 342917,
 				}, -- [1]
+				{
+					2, -- [1]
+					2, -- [2]
+					2, -- [3]
+					1, -- [4]
+					3, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["texture"] = 838812,
+					["name"] = "raid",
+					["tt"] = "talents",
+				}, -- [2]
 			}, -- [1]
 			{
 			}, -- [2]

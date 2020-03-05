@@ -1,245 +1,280 @@
 
 AstralKeys = {
 	{
-		"Cadaceus-Kil'jaeden", -- [1]
-		"WARLOCK", -- [2]
-		369, -- [3]
+		"Toshaman-Kil'jaeden", -- [1]
+		"SHAMAN", -- [2]
+		248, -- [3]
 		14, -- [4]
-		16, -- [5]
-		134, -- [6]
-		546102, -- [7]
+		0, -- [5]
+		137, -- [6]
+		127804, -- [7]
 	}, -- [1]
-	{
-		"Nooks-Kil'jaeden", -- [1]
-		"DEMONHUNTER", -- [2]
-		244, -- [3]
-		14, -- [4]
-		0, -- [5]
-		134, -- [6]
-		226579, -- [7]
-	}, -- [2]
-	{
-		"Discreetdk-Kil'jaeden", -- [1]
-		"DEATHKNIGHT", -- [2]
-		246, -- [3]
-		13, -- [4]
-		0, -- [5]
-		134, -- [6]
-		299015, -- [7]
-	}, -- [3]
-	{
-		"Whirlwind-Kil'jaeden", -- [1]
-		"WARRIOR", -- [2]
-		353, -- [3]
-		9, -- [4]
-		15, -- [5]
-		134, -- [6]
-		540862, -- [7]
-	}, -- [4]
-	{
-		"Discreet-Kil'jaeden", -- [1]
-		"ROGUE", -- [2]
-		244, -- [3]
-		13, -- [4]
-		11, -- [5]
-		134, -- [6]
-		472436, -- [7]
-	}, -- [5]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
-		246, -- [3]
-		16, -- [4]
-		16, -- [5]
-		134, -- [6]
-		538075, -- [7]
-	}, -- [6]
-	{
-		"Toshaman-Kil'jaeden", -- [1]
-		"SHAMAN", -- [2]
-		250, -- [3]
-		14, -- [4]
+		353, -- [3]
+		15, -- [4]
 		15, -- [5]
-		134, -- [6]
-		549950, -- [7]
-	}, -- [7]
-	{
-		"Toshdk-Kil'jaeden", -- [1]
-		"DEATHKNIGHT", -- [2]
-		249, -- [3]
-		14, -- [4]
-		16, -- [5]
-		134, -- [6]
-		545801, -- [7]
-	}, -- [8]
+		137, -- [6]
+		128054, -- [7]
+	}, -- [2]
 	{
 		"Tosh-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		251, -- [3]
+		248, -- [3]
 		14, -- [4]
 		16, -- [5]
-		134, -- [6]
-		549805, -- [7]
-	}, -- [9]
+		137, -- [6]
+		13009, -- [7]
+	}, -- [3]
 	{
-		"Andruww-Kil'jaeden", -- [1]
-		"DEMONHUNTER", -- [2]
+		"Peace-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		244, -- [3]
+		19, -- [4]
+		0, -- [5]
+		137, -- [6]
+		6, -- [7]
+	}, -- [4]
+	{
+		"Kosaki-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
 		246, -- [3]
-		18, -- [4]
-		20, -- [5]
-		134, -- [6]
-		446161, -- [7]
-	}, -- [10]
+		16, -- [4]
+		0, -- [5]
+		137, -- [6]
+		127781, -- [7]
+	}, -- [5]
 	{
-		"Oxclamatiøn-Kil'jaeden", -- [1]
+		"Cadaceus-Kil'jaeden", -- [1]
+		"WARLOCK", -- [2]
+		353, -- [3]
+		15, -- [4]
+		0, -- [5]
+		137, -- [6]
+		128054, -- [7]
+	}, -- [6]
+	{
+		"Whirlwind-Kil'jaeden", -- [1]
+		"WARRIOR", -- [2]
+		249, -- [3]
+		14, -- [4]
+		0, -- [5]
+		137, -- [6]
+		10995, -- [7]
+	}, -- [7]
+	{
+		"Morepheous-Kil'jaeden", -- [1]
 		"DRUID", -- [2]
-		251, -- [3]
-		17, -- [4]
-		16, -- [5]
-		134, -- [6]
-		474782, -- [7]
-	}, -- [11]
+		249, -- [3]
+		15, -- [4]
+		0, -- [5]
+		137, -- [6]
+		13594, -- [7]
+	}, -- [8]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
 		248, -- [3]
-		14, -- [4]
-		16, -- [5]
-		134, -- [6]
-		529295, -- [7]
-	}, -- [12]
+		16, -- [4]
+		15, -- [5]
+		137, -- [6]
+		127452, -- [7]
+	}, -- [9]
 	{
-		"Thunderzmonk-Kil'jaeden", -- [1]
-		"MONK", -- [2]
-		247, -- [3]
+		"Blueflame-Kil'jaeden", -- [1]
+		"WARRIOR", -- [2]
+		248, -- [3]
+		9, -- [4]
+		0, -- [5]
+		137, -- [6]
+		127781, -- [7]
+	}, -- [10]
+	{
+		"Felfanatic-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		246, -- [3]
+		7, -- [4]
+		0, -- [5]
+		137, -- [6]
+		13990, -- [7]
+	}, -- [11]
+	{
+		"Toshdk-Kil'jaeden", -- [1]
+		"DEATHKNIGHT", -- [2]
+		246, -- [3]
 		14, -- [4]
 		0, -- [5]
-		134, -- [6]
-		378986, -- [7]
-	}, -- [13]
+		137, -- [6]
+		4, -- [7]
+	}, -- [12]
 	{
-		"Arnbjørn-Kil'jaeden", -- [1]
-		"MAGE", -- [2]
-		252, -- [3]
-		14, -- [4]
-		16, -- [5]
-		134, -- [6]
-		475036, -- [7]
-	}, -- [14]
+		"Andruww-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		370, -- [3]
+		19, -- [4]
+		20, -- [5]
+		137, -- [6]
+		3, -- [7]
+	}, -- [13]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
 		"HUNTER", -- [2]
-		248, -- [3]
-		14, -- [4]
-		16, -- [5]
-		134, -- [6]
-		474479, -- [7]
-	}, -- [15]
-	{
-		"Morepheous-Kil'jaeden", -- [1]
-		"DRUID", -- [2]
-		252, -- [3]
-		12, -- [4]
+		244, -- [3]
+		15, -- [4]
 		0, -- [5]
-		134, -- [6]
-		295513, -- [7]
-	}, -- [16]
+		137, -- [6]
+		3, -- [7]
+	}, -- [14]
 	{
-		"Voidthirst-Kil'jaeden", -- [1]
-		"DEMONHUNTER", -- [2]
+		"Oxclamatiøn-Kil'jaeden", -- [1]
+		"DRUID", -- [2]
 		250, -- [3]
 		16, -- [4]
-		15, -- [5]
-		134, -- [6]
-		447511, -- [7]
-	}, -- [17]
+		0, -- [5]
+		137, -- [6]
+		1, -- [7]
+	}, -- [15]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
 		"WARRIOR", -- [2]
 		252, -- [3]
-		14, -- [4]
+		15, -- [4]
 		0, -- [5]
-		134, -- [6]
-		382333, -- [7]
+		137, -- [6]
+		128054, -- [7]
+	}, -- [16]
+	{
+		"Circé-Kil'jaeden", -- [1]
+		"ROGUE", -- [2]
+		249, -- [3]
+		15, -- [4]
+		0, -- [5]
+		137, -- [6]
+		4, -- [7]
+	}, -- [17]
+	{
+		"Alvá-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		245, -- [3]
+		3, -- [4]
+		0, -- [5]
+		137, -- [6]
+		3, -- [7]
 	}, -- [18]
 	{
-		"Peace-Kil'jaeden", -- [1]
-		"MONK", -- [2]
-		247, -- [3]
-		14, -- [4]
-		17, -- [5]
-		134, -- [6]
-		483522, -- [7]
+		"Arnbjørn-Kil'jaeden", -- [1]
+		"MAGE", -- [2]
+		369, -- [3]
+		16, -- [4]
+		0, -- [5]
+		137, -- [6]
+		127779, -- [7]
 	}, -- [19]
 	{
-		"Felfanatic-Kil'jaeden", -- [1]
-		"DEMONHUNTER", -- [2]
-		250, -- [3]
-		4, -- [4]
-		5, -- [5]
-		134, -- [6]
-		379738, -- [7]
+		"Røllinlolol-Kil'jaeden", -- [1]
+		"MONK", -- [2]
+		245, -- [3]
+		9, -- [4]
+		7, -- [5]
+		137, -- [6]
+		4, -- [7]
 	}, -- [20]
-	{
-		"Emosong-Kil'jaeden", -- [1]
-		"ROGUE", -- [2]
-		369, -- [3]
-		14, -- [4]
-		15, -- [5]
-		134, -- [6]
-		3, -- [7]
-	}, -- [21]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 15,
+		["weekly_best"] = 0,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 16,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [2]
 }
 AstralFriends = {
 	{
-		"Ngow-Kil'jaeden", -- [1]
-		"boochan#1194", -- [2]
-		"DRUID", -- [3]
-		248, -- [4]
-		14, -- [5]
-		134, -- [6]
-		225425, -- [7]
-		"1", -- [8]
-		14, -- [9]
-	}, -- [1]
-	{
 		"Peace-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"MONK", -- [3]
-		247, -- [4]
-		14, -- [5]
-		134, -- [6]
-		374818, -- [7]
+		244, -- [4]
+		19, -- [5]
+		137, -- [6]
+		61482, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		0, -- [9]
+	}, -- [1]
+	{
+		"Kosaki-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"ROGUE", -- [3]
+		246, -- [4]
+		16, -- [5]
+		137, -- [6]
+		126108, -- [7]
+		"1", -- [8]
+		0, -- [9]
 	}, -- [2]
+	{
+		"Ngow-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"DRUID", -- [3]
+		249, -- [4]
+		18, -- [5]
+		137, -- [6]
+		126167, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [3]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		250, -- [4]
-		14, -- [5]
-		134, -- [6]
-		489575, -- [7]
+		369, -- [4]
+		17, -- [5]
+		137, -- [6]
+		122487, -- [7]
 		"1", -- [8]
-		14, -- [9]
-	}, -- [3]
+		18, -- [9]
+	}, -- [4]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1583852400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -253,9 +288,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -264,38 +297,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1582038000,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["guild"] = true,
-			["raid"] = false,
-			["no_key"] = true,
-			["party"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
+		["show_offline"] = {
 			["isEnabled"] = true,
 		},
 	},

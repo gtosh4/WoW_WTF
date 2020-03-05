@@ -360,44 +360,44 @@ JambaItemUseProfileDB = {
 		["Yorman - Kil'jaeden"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173422",
+					["kind"] = "item",
 				}, -- [1]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173404",
+					["kind"] = "item",
 				}, -- [2]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173408",
+					["kind"] = "item",
 				}, -- [3]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173423",
+					["kind"] = "item",
 				}, -- [4]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173420",
+					["kind"] = "item",
 				}, -- [5]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173406",
+					["kind"] = "item",
 				}, -- [6]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173413",
+					["kind"] = "item",
 				}, -- [7]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173417",
+					["kind"] = "item",
 				}, -- [8]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173425",
+					["kind"] = "item",
 				}, -- [9]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173409",
+					["kind"] = "item",
 				}, -- [10]
 				{
 					["action"] = "empty",

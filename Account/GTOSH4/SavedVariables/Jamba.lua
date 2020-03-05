@@ -141,13 +141,13 @@ JambaTeamProfileDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["master"] = "Yorman-Kil'jaeden",
-			["teamList"] = {
-				["Yorman-Kil'jaeden"] = 1,
-				["Toshpal-Kil'jaeden"] = 2,
-			},
 			["characterOnline"] = {
 				["Yorman-Kil'jaeden"] = true,
 				["Toshpal-Kil'jaeden"] = false,
+			},
+			["teamList"] = {
+				["Yorman-Kil'jaeden"] = 1,
+				["Toshpal-Kil'jaeden"] = 2,
 			},
 		},
 		["Tosh - Frostwolf"] = {

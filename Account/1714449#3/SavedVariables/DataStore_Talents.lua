@@ -19,17 +19,17 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1581983028,
+				["lastUpdate"] = 1583375648,
 				["Specializations"] = {
 					9637, -- [1]
-					[3] = 8087,
+					[3] = 7831,
 				},
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1581982996,
+				["lastUpdate"] = 1583260583,
 				["Specializations"] = {
-					5503, -- [1]
+					5631, -- [1]
 					6573, -- [2]
 					10167, -- [3]
 				},
@@ -103,7 +103,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 33369,
+			["Version"] = 33528,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -387,7 +387,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33369,
+			["Version"] = 33528,
 		},
 	},
 }
