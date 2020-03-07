@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2076,
 	["lastSanitation"] = 3,
-	["session"] = 2069,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:7788: script ran too long",

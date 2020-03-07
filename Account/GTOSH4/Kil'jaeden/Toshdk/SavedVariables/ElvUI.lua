@@ -1,116 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" just reminding", -- [1]
-		" yeah, idc", -- [2]
-		" oh yea", -- [3]
-		" works for me", -- [4]
-		"/alto show", -- [5]
-		"/p and oom", -- [6]
-		"/p yea", -- [7]
-		"yeah, that's what it did for me", -- [8]
-		"lmk when you wanna queue", -- [9]
+		" yeah, idc", -- [1]
+		" oh yea", -- [2]
+		" works for me", -- [3]
+		"yup, I'm the same", -- [4]
+		"/p yea", -- [5]
+		"/p kk", -- [6]
+		"yeah, that's what it did for me", -- [7]
+		"np", -- [8]
+		"/alto show", -- [9]
 		"no rush", -- [10]
-		"yeah, idc", -- [11]
-		"works for me", -- [12]
-		"yup, I'm the same", -- [13]
-		"/p I don't think he heals but I could be wrong", -- [14]
-		"/p ggs", -- [15]
-		"oh yea", -- [16]
-		"np", -- [17]
-		"just reminding", -- [18]
-		"if you're still free/down to do it", -- [19]
-		"/p kk", -- [20]
+		"oh yea", -- [11]
+		"/p I don't think he heals but I could be wrong", -- [12]
+		"lmk when you wanna queue", -- [13]
+		"/p ggs", -- [14]
+		"just reminding", -- [15]
+		"works for me", -- [16]
+		"if you're still free/down to do it", -- [17]
+		"yeah, idc", -- [18]
+		"/p and oom", -- [19]
+		"/cw Backstab-Kil'jaeden  /shrug", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Relivía - Paladin", -- [1]
-			"Delp-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delp-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2326, -- [11]
-			"Player-9-098FFF6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecDelp|r",
-			[51] = 1583222249,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2328, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583222268,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2329, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583222268,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Toshdk!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2330, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583222283,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [4]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -132,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222283,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [5]
+		}, -- [1]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:313148:0|h[Obsidian Claw]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -154,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222283,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [6]
+		}, -- [2]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -176,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222283,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [7]
+		}, -- [3]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:287280:0|h[Glimmer of Light]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -198,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222283,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [8]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Cyrax!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -220,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222295,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [9]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Toshdk faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -242,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222295,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [10]
+		}, -- [6]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Cyrax has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -264,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222297,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [11]
+		}, -- [7]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -286,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222301,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [12]
+		}, -- [8]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -308,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222314,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [13]
+		}, -- [9]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -330,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222314,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [14]
+		}, -- [10]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Relivía!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -352,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222342,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [15]
+		}, -- [11]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -374,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222345,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [16]
+		}, -- [12]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:82691:0|h[Ring of Frost]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -396,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222354,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [17]
+		}, -- [13]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -418,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222387,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [18]
+		}, -- [14]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -440,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222387,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [19]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Relivía!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -462,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222395,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [20]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222397,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -506,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222397,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [22]
+		}, -- [18]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:286581:0|h[Nothing Personal]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -528,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [23]
+		}, -- [19]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [24]
+		}, -- [20]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -572,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:198222:0|h[System Shock]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -594,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [26]
+		}, -- [22]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:287280:0|h[Glimmer of Light]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -616,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [27]
+		}, -- [23]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:313148:0|h[Obsidian Claw]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -638,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [28]
+		}, -- [24]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -660,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [29]
+		}, -- [25]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -682,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222405,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Toshdk!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -704,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222411,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [31]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Toshdk faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -726,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222423,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Toshdk faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222423,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [33]
+		}, -- [29]
 		{
 			"Interrupted Bloodyhippy-TheForgottenCoast's |cff71d5ff|Hspell:118:0|h[Polymorph]|h|r!", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -770,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222431,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [30]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [31]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -814,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [36]
+		}, -- [32]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [37]
+		}, -- [33]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [38]
+		}, -- [34]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -880,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [35]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222456,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Delp!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -924,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222468,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [41]
+		}, -- [37]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222469,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222469,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:12654:0|h[Ignite]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -990,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222469,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1012,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222469,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [45]
+		}, -- [41]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1034,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222469,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [46]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Delp faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222480,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [47]
+		}, -- [43]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1078,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [44]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [49]
+		}, -- [45]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1122,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1144,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [51]
+		}, -- [47]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [52]
+		}, -- [48]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:317265:0|h[Infinite Stars]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1188,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222491,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1210,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222513,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [54]
+		}, -- [50]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:12654:0|h[Ignite]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222513,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [55]
+		}, -- [51]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222513,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [56]
+		}, -- [52]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Relivía!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222523,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Relivía!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1298,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222523,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [58]
+		}, -- [54]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1320,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222527,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [55]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1342,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222527,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [60]
+		}, -- [56]
 		{
 			"LOW HEALTH: Bloodyhippy (Mage)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1364,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222528,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [57]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1386,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222531,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [62]
+		}, -- [58]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [59]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Delp!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1430,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222538,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [64]
+		}, -- [60]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Delp!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222538,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [61]
 		{
 			"Interrupted Bloodyhippy-TheForgottenCoast's |cff71d5ff|Hspell:118:0|h[Polymorph]|h|r!", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -1474,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222538,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [62]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:286581:0|h[Nothing Personal]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1496,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [67]
+		}, -- [63]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1518,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [68]
+		}, -- [64]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1562,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [70]
+		}, -- [66]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295368:0|h[Concentrated Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [71]
+		}, -- [67]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1606,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [72]
+		}, -- [68]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:313148:0|h[Obsidian Claw]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [73]
+		}, -- [69]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1650,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [70]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1672,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [71]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1694,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:295367:0|h[Ancient Flame]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1716,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"Removed Delp's |cff71d5ff|Hspell:313148:0|h[Obsidian Claw]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1738,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"LOW HEALTH: Bloodyhippy (Mage)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1760,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222548,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+		}, -- [75]
 		{
 			"LOW HEALTH: Bloodyhippy (Mage)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1782,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222549,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+		}, -- [76]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Delp faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1804,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222550,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Delp faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1826,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222550,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [82]
+		}, -- [78]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:8680:0|h[Wound Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1848,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222564,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [83]
+		}, -- [79]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:3409:0|h[Crippling Poison]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1870,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222564,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [84]
+		}, -- [80]
 		{
 			"LOW HEALTH: Bloodyhippy (Mage)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1892,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222569,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [81]
 		{
 			"LOW HEALTH: Bloodyhippy (Mage)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1914,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222569,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
+		}, -- [82]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Relivía!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1936,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222571,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [87]
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Relivía has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1958,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222573,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [88]
+		}, -- [84]
 		{
 			"LOW HEALTH: Relivía (Paladin)", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1980,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222585,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [85]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2002,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222676,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
+		}, -- [86]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [87]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2046,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [88]
 		{
 			"Enemy Spec: Arms WARRIOR", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2068,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
+		}, -- [89]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2090,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [90]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2112,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [91]
 		{
 			"Enemy Spec: Arms WARRIOR", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2134,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222710,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [93]
 		{
 			"Enemy Spec: Arms WARRIOR", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2178,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [94]
 		{
 			"Enemy Spec: Holy PALADIN", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2200,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [99]
+		}, -- [95]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2222,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [96]
 		{
 			"Enemy Spec: Arms WARRIOR", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2244,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [97]
 		{
 			"Enemy Spec: Holy PALADIN", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2266,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222718,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [102]
+		}, -- [98]
 		{
 			"Hamurabi - Warrior", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2288,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [103]
+		}, -- [99]
 		{
 			"Chryp - Demon Hunter", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2310,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [104]
+		}, -- [100]
 		{
 			"Lagbugdc - Paladin", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2332,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [105]
+		}, -- [101]
 		{
 			"Hamurabi - Warrior", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2354,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [102]
 		{
 			"Chryp - Demon Hunter", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2376,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [103]
 		{
 			"Lagbugdc - Paladin", -- [1]
 			"Delp-Kil'jaeden", -- [2]
@@ -2398,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDelp|r",
 			[51] = 1583222767,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [104]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Lagbugdc!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2420,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222773,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [109]
+		}, -- [105]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2442,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222776,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [110]
+		}, -- [106]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Lagbugdc has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2464,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222776,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [111]
+		}, -- [107]
 		{
 			"says something unintelligible.", -- [1]
 			"Chryp-Frostmourne", -- [2]
@@ -2486,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chryp-Frostmourne|r",
 			[51] = 1583222778,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [112]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Delp!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2508,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222783,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [113]
+		}, -- [109]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Delp faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2530,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222788,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [114]
+		}, -- [110]
 		{
 			"Removed Toshdk's |cff71d5ff|Hspell:281721:0|h[Vile Bile]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2552,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222791,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [115]
+		}, -- [111]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Lagbugdc!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2574,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222824,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [116]
+		}, -- [112]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Lagbugdc has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222827,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [117]
+		}, -- [113]
 		{
 			"says something unintelligible.", -- [1]
 			"Chryp-Frostmourne", -- [2]
@@ -2618,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chryp-Frostmourne|r",
 			[51] = 1583222829,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [118]
+		}, -- [114]
 		{
 			"yells at his team members.", -- [1]
 			"Hamurabi-Frostmourne", -- [2]
@@ -2640,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHamurabi-Frostmourne|r",
 			[51] = 1583222831,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [119]
+		}, -- [115]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Delp!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2662,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222842,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [120]
+		}, -- [116]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Delp faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2684,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583222847,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [121]
+		}, -- [117]
 		{
 			"yells at his team members.", -- [1]
 			"Hamurabi-Frostmourne", -- [2]
@@ -2706,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHamurabi-Frostmourne|r",
 			[51] = 1583222853,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [122]
+		}, -- [118]
 		{
 			"says something unintelligible.", -- [1]
 			"Chryp-Frostmourne", -- [2]
@@ -2728,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chryp-Frostmourne|r",
 			[51] = 1583222854,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [123]
+		}, -- [119]
 		{
 			"yells at his team members.", -- [1]
 			"Hamurabi-Frostmourne", -- [2]
@@ -2750,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHamurabi-Frostmourne|r",
 			[51] = 1583222863,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [124]
+		}, -- [120]
 		{
 			"yells at his team members.", -- [1]
 			"Hamurabi-Frostmourne", -- [2]
@@ -2772,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHamurabi-Frostmourne|r",
 			[51] = 1583222865,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [125]
+		}, -- [121]
 		{
 			"lfm cta xddd", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2794,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1583252136,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [122]
 		{
 			"useless |cffa335ee|Hitem:159133::::::::120:256::35:7:6536:6578:6579:6551:6515:1647:4786:::|h[Jagged Iris Sica]|h|r", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2815,6 +2727,94 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1583252270,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"what the fuck does him playing demo in a heroic clear have to do with anything", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1583524520,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [124]
+		{
+			" /shrug", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Backstab-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1583524528,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [125]
+		{
+			"can warcraftlogs not be down", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			87, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1583524613,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"holy", -- [1]
+			"Backstab-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			88, -- [11]
+			"Player-9-0B1241C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Backstab|r",
+			[51] = 1583524614,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},

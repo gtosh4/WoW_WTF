@@ -111,13 +111,13 @@ X: -223
 Y: 27
 W: 701
 H: 859
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: TOP
-X: 445
-Y: -117
-W: 326
-H: 317
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: 5
+Y: -354
+W: 510
+H: 22
 Frame: BDLC Roll Window
 FrameLevel: 10
 Anchor: TOPRIGHT
@@ -128,14 +128,7 @@ H: 1
 Frame: BDLC
 FrameLevel: 1
 Anchor: TOPRIGHT
-X: -454
-Y: -212
+X: -544
+Y: -193
 W: 600
 H: 400
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: 5
-Y: -354
-W: 510
-H: 22
