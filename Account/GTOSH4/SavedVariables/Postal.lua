@@ -1,21 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -35,6 +19,22 @@ Postal3DB = {
 				"Zallie|Frostwolf|Horde|90|PRIEST", -- [14]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -67,9 +67,32 @@ Postal3DB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshdk - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshpal|Kil'jaeden|Horde", -- [1]
+					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Backstab|Kil'jaeden|Horde", -- [3]
+					"Pluie|Kil'jaeden|Horde", -- [4]
+				},
+			},
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Backstab|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Toshmonk|Kil'jaeden|Horde", -- [4]
+					"Cadaceus|Kil'jaeden|Horde", -- [5]
+					"Yellowy|Kil'jaeden|Horde", -- [6]
+					"Yorman|Kil'jaeden|Horde", -- [7]
+					"Yellowysham|Kil'jaeden|Horde", -- [8]
+					"Yukio|Kil'jaeden|Horde", -- [9]
+					"Wraithbrand|Kil'jaeden|Horde", -- [10]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
+				},
+			},
 		},
 		["Tosku - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -79,7 +102,16 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Toshmonk - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Kil'jaeden|Horde", -- [1]
+					"Tosh|Kil'jaeden|Horde", -- [2]
+					"Yellowy|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Qiro|Kil'jaeden|Horde", -- [5]
+				},
+			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -106,44 +138,13 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshaman|Kil'jaeden|Horde", -- [1]
-					"Tosh|Kil'jaeden|Horde", -- [2]
-					"Yellowy|Kil'jaeden|Horde", -- [3]
-					"Yorman|Kil'jaeden|Horde", -- [4]
-					"Qiro|Kil'jaeden|Horde", -- [5]
-				},
-			},
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Backstab|Kil'jaeden|Horde", -- [2]
-					"Toshpal|Kil'jaeden|Horde", -- [3]
-					"Toshmonk|Kil'jaeden|Horde", -- [4]
-					"Cadaceus|Kil'jaeden|Horde", -- [5]
-					"Yellowy|Kil'jaeden|Horde", -- [6]
-					"Yorman|Kil'jaeden|Horde", -- [7]
-					"Yellowysham|Kil'jaeden|Horde", -- [8]
-					"Yukio|Kil'jaeden|Horde", -- [9]
-					"Wraithbrand|Kil'jaeden|Horde", -- [10]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
-				},
-			},
+		["Sumex - Frostwolf"] = {
 		},
-		["Toshdk - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Backstab|Kil'jaeden|Horde", -- [2]
-					"Pluie|Kil'jaeden|Horde", -- [3]
-				},
-			},
+		["Koutetsu - Frostwolf"] = {
 		},
 	},
 }
