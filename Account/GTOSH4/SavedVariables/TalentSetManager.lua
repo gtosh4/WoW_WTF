@@ -17,6 +17,21 @@ TalentSetManager_Options = {
 	["ldb_last_selected"] = "talents",
 }
 TalentSetManager_CharacterSaves = {
+	["Sumex-Frostwolf"] = {
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Tosku-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
@@ -25,59 +40,6 @@ TalentSetManager_CharacterSaves = {
 			}, -- [1]
 			{
 			}, -- [2]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			[2] = {
-				{
-					3, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					2, -- [7]
-					["tt"] = "talents",
-					["name"] = "raid",
-					["texture"] = 135734,
-				}, -- [1]
-				{
-					1, -- [1]
-					2, -- [2]
-					1, -- [3]
-					3, -- [4]
-					2, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "m+",
-					["texture"] = 839394,
-				}, -- [2]
-				{
-					1, -- [1]
-					2, -- [2]
-					3, -- [3]
-					3, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["texture"] = 642414,
-					["name"] = "pvp",
-					["tt"] = "talents",
-				}, -- [3]
-			},
-			[3] = {
-			},
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -222,6 +184,21 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Tosh-Frostwolf"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshpal-Kil'jaeden"] = {
 		["talents"] = {
 			{
@@ -309,21 +286,6 @@ TalentSetManager_CharacterSaves = {
 		["interface"] = {
 			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Tosh-Frostwolf"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -441,21 +403,6 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-The Forgotten Coast"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
 	["Toshtrial-Blood Furnace"] = {
 		["talents"] = {
 			{
@@ -479,6 +426,21 @@ TalentSetManager_CharacterSaves = {
 		["talents"] = {
 			[3] = {
 			},
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshtrial-The Forgotten Coast"] = {
+		["talents"] = {
+			{
+			}, -- [1]
 		},
 		["talents_pvp"] = {
 		},
@@ -572,17 +534,55 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Sumex-Frostwolf"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
+	["Toshmonk-Kil'jaeden"] = {
 		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[2] = {
+				{
+					3, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 135734,
+				}, -- [1]
+				{
+					1, -- [1]
+					2, -- [2]
+					1, -- [3]
+					3, -- [4]
+					2, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 839394,
+				}, -- [2]
+				{
+					1, -- [1]
+					2, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 642414,
+					["name"] = "pvp",
+					["tt"] = "talents",
+				}, -- [3]
+			},
+			[3] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},

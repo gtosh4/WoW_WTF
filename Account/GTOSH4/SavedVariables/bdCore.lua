@@ -126,9 +126,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
+		["Sumex"] = {
 			["profile"] = "default",
-			["name"] = "Toshmonk",
+			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -168,9 +168,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Sumex"] = {
+		["Toshmonk"] = {
 			["profile"] = "default",
-			["name"] = "Sumex",
+			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -185,7 +185,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshdk",
+		["name"] = "Toshpal",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -206,6 +206,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["interrupt"] = false,
 			["gmotd"] = {
 				[""] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -264,12 +266,12 @@ BD_persistent = {
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  be prepared for ilgy/carapace"] = true,
@@ -278,8 +280,6 @@ BD_persistent = {
 				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -288,8 +288,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -297,8 +297,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
 			["topViewport"] = 0,
 		},
 	},

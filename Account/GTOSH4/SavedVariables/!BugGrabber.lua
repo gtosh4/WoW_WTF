@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 2083,
+	["session"] = 2093,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:7788: script ran too long",
@@ -36,26 +36,33 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [4]
 		{
-			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
-			["time"] = "2020/03/07 14:25:47",
-			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
-			["session"] = 2077,
-			["counter"] = 1,
-		}, -- [5]
-		{
 			["message"] = "Interface\\AddOns\\Hekili\\Options-Options.lua:6301: script ran too long",
 			["time"] = "2020/03/03 01:46:02",
 			["locals"] = "self = <table> {\n GetTTD = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:652\n DeserializeStyle = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8648\n modules = <table> {\n }\n EmbedAbilityOptions = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3468\n Scripts = <table> {\n }\n GetDeathClockByGUID = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:637\n After = <function> defined @Interface\\AddOns\\Hekili\\Utils.lua:265\n NewSpellInfo = true\n Run = <function> defined @Interface\\AddOns\\Hekili\\Hekili.lua:222\n UpdateDisplayVisibility = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1512\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n KeybindInfo = <table> {\n }\n RemoveHold = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5365\n CreateCustomDisplay = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1461\n ToggleHold = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5390\n SpecializationChanged = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:4884\n UpdateUseItems = <function> defined @Interface\\AddOns\\Hekili\\Events.lua:558\n SetSpecOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3382\n GetDefaults = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:519\n dumpKeyCache = <table> {\n }\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n GetDisplayByName = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:1052\n Options = <table> {\n }\n ReInitialize = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:169\n npUnits = <table> {\n }\n GetAbilityInfo = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:4831\n State = <table> {\n }\n OnEnable = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:192\n RestoreDefault = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:743\n CmdLine = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8386\n IsDisplayActive = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1609\n ImporterData = <table> {\n }\n ShowDiagnosticTooltip = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:2184\n Notify = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:9259\n OnInitialize = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:60\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n GetErrors = <function> defined @Interface\\AddOns\\Hekili\\Utils.lua:38\n AuditorStalled = true\n SetPackShareOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3366\n CreateButton = <function> defined @Interface\\AddOns\\Hekili\\UI.lua:1643\n ReleaseHolds = <function> defined @Interface\\AddOns\\Hekili\\State.lua:5422\n Deserialize = <function> defined @Interface\\AddOns\\DataStore\\libs\\AceSerializer-3.0\\AceSerializer-3.0.lua:246\n GetGreatestTTD = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:730\n SetSpecPref = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:3421\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n GetOptions = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:7482\n GetSpec = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:5132\n SerializeDisplay = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:8545\n name = \"Hekili\"\n ExpireTTDs = <function> defined @Interface\\AddOns\\Hekili\\Targets.lua:842\n GetEncounterList = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:72\n NewSpecialization = <function> defined @Interface\\AddOns\\Hekili\\Classes.lua:785\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n GetOption = <function> defined @Interface\\AddOns\\Hekili\\Options.lua:7791\n auditInterval = 2296.561000\n GetNextPrediction = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:981\n currentSpec = <table> {\n }\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n DumpFrameInfo = <function> defined @Interface\\AddOns\\Hekili\\Core.lua:1429\n ImportSimcAPL = <function> de",
 			["stack"] = "[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:6301: in function `EmbedPackOptions'\n[string \"@Interface\\AddOns\\Hekili\\Options-Options.lua\"]:7781: in function `RefreshOptions'\n[string \"@Interface\\AddOns\\Hekili\\Classes.lua\"]:5127: in function `SpecializationChanged'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:295: in function `handler'\n[string \"@Interface\\AddOns\\Hekili\\Events.lua\"]:68: in function <Interface\\AddOns\\Hekili\\Events.lua:62>",
 			["session"] = 2079,
 			["counter"] = 5,
-		}, -- [6]
+		}, -- [5]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WeakAuras' tried to call the protected function 'WorldFrame:SetPoint()'.",
 			["time"] = "2020/03/04 20:15:10",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"--[==[ Error in 'Viewport' ]==] return function()\n    local offset = aura_env.config.offset\n    C_Timer.After(1, function()\n            WorldFrame:SetPoint(\"BOTTOMRIGHT\", 0, offset)\n    end)\nend\"]:4: in function <[string \"--[==[ Error in 'Viewport' ]==] return func...\"]:3>",
 			["session"] = 2082,
 			["counter"] = 4,
+		}, -- [6]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
+			["time"] = "2020/03/08 22:24:02",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:39: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
+			["session"] = 2089,
+			["counter"] = 1,
 		}, -- [7]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/03/07 14:25:47",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 2089,
+			["counter"] = 3,
+		}, -- [8]
 	},
 }

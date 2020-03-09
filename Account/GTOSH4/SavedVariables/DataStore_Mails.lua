@@ -10,17 +10,17 @@ DataStore_MailsDB = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1583633587,
-				["lastVisitDate"] = "2020/03/07 21:13",
+				["lastUpdate"] = 1583735977,
+				["lastVisitDate"] = "2020/03/09 02:39",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["lastUpdate"] = 1583651022,

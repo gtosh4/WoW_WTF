@@ -1,314 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" talking to jamie", -- [1]
-		"/g any1 for 19 ur", -- [2]
-		"/afk", -- [3]
-		"/p I'm fine", -- [4]
-		"/g need 2 dps", -- [5]
-		"/p lucid", -- [6]
-		"/tmw", -- [7]
-		"/ert", -- [8]
-		"/p r", -- [9]
-		"/gladius", -- [10]
-		"/alto show", -- [11]
-		"/gladius test", -- [12]
-		"/ec", -- [13]
-		"/ob", -- [14]
-		"/p  sec", -- [15]
-		"/g pick me", -- [16]
-		"yeah, idk I'm not in chan", -- [17]
-		"talking to jamie", -- [18]
-		"/g me", -- [19]
-		"/p already done", -- [20]
+		"/p lucid", -- [1]
+		"/g need 2 dps", -- [2]
+		"/gladius", -- [3]
+		"/g me", -- [4]
+		"/alto show", -- [5]
+		"/ert", -- [6]
+		"/p r", -- [7]
+		"/afk", -- [8]
+		"/p already done", -- [9]
+		"/ob", -- [10]
+		"/g pick me", -- [11]
+		"/tmw", -- [12]
+		"/g any1 for 19 ur", -- [13]
+		"talking to jamie", -- [14]
+		"/p I'm fine", -- [15]
+		"/p  sec", -- [16]
+		"/cw Yukio whisper me when you're done", -- [17]
+		"/cw Yukio headphones off", -- [18]
+		"/cw Yukio logging", -- [19]
+		"/cw Yukio on shaman", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2599, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2600, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2601, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629034,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2602, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629034,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2603, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629034,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2608, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629116,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2610, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629175,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2620, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629295,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2621, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629295,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2622, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1583629309,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Grotesque Horror!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2624, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629309,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
-		{
-			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Grotesque Horror has ended!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2626, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629310,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2629, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583629326,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -330,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629326,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [1]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -352,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629344,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
+		}, -- [2]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -374,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629344,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -396,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629379,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [4]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -418,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629385,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [5]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -440,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629385,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [6]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -462,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629391,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -484,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629413,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [8]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -506,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629418,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [9]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -528,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [10]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -550,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629424,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [11]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -572,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [12]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -594,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629444,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+		}, -- [13]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -616,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629444,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [14]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -638,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629444,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -660,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629446,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [16]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -682,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629468,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
+		}, -- [17]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -704,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629468,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [18]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -726,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629484,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [19]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -748,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629489,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [20]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -770,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629489,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [21]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -792,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629494,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [22]
 		{
 			"Upheaval on Toshdk", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -814,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [23]
 		{
 			"3", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -836,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629538,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [24]
 		{
 			"2", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -858,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629539,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [25]
 		{
 			"1", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -880,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [26]
 		{
 			"Upheaval on Toshdk", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -902,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629559,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [27]
 		{
 			"3", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -924,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629562,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -946,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629563,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [29]
 		{
 			"1", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -968,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629564,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Thing From Beyond!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -990,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629577,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Thing From Beyond has ended!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1012,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629580,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [32]
 		{
 			"Upheaval on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1034,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629580,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [33]
 		{
 			"Upheaval on Toshdk", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1056,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629580,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [34]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1078,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [35]
 		{
 			"3", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1100,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [36]
 		{
 			"2", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1122,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629584,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [37]
 		{
 			"1", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1144,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583629585,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1166,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629601,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [39]
 		{
 			"Upheaval on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1188,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629610,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [40]
 		{
 			"Upheaval on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1210,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629610,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1232,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629613,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [42]
 		{
 			"3", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1254,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629613,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [43]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1276,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629614,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [44]
 		{
 			"2", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1298,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629614,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [45]
 		{
 			"1", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1320,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629615,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [46]
 		{
 			"1", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1342,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629615,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [47]
 		{
 			"Upheaval on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1364,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [48]
 		{
 			"Upheaval on Arnbjørn", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1386,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [49]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1408,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629661,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [50]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1430,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629662,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [51]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1452,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629662,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [52]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1474,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629665,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [53]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1496,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629685,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [54]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1518,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629685,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
+		}, -- [55]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1540,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629685,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [56]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1562,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629709,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [57]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1584,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629709,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [58]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1606,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629709,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
+		}, -- [59]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1628,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629743,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [60]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1650,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629743,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [61]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1672,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629743,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [62]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1694,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629755,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [63]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1716,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629763,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+		}, -- [64]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1738,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629763,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [65]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1760,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629763,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1782,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629765,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:25046:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1804,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [68]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1826,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629782,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [69]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1848,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629782,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [70]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1870,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629782,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
+		}, -- [71]
 		{
 			"Interrupted Sci's |cff71d5ff|Hspell:19750:0|h[Flash of Light]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1892,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629821,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1914,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [73]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1936,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629850,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [74]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1958,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629850,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [75]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -1980,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629861,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [76]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2002,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629890,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [77]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2024,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629916,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [78]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2046,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629916,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [79]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2068,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629916,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [80]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2090,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583629922,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [81]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2112,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629937,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [82]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2134,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629937,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [83]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2156,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583629937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [84]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evangelos!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2178,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583630078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [85]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2200,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583630114,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [86]
 		{
 			"Cleansing Light on Toshdk", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -2222,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1583630114,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [87]
 		{
 			"Cleansing Light on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2244,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583630180,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [88]
 		{
 			"Cleansing Light on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2266,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583630212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [89]
 		{
 			"Cleansing Light on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2288,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1583630230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [90]
 		{
 			"|cffa335ee|Hkeystone:158923:245:18:10:5:14:120|h[Keystone: Freehold (18)]|h|r", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2310,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583630263,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [91]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14168:Player-9-0AF4267B:1:3:7:20:4294967295:4294967295:4294967295:4294967295|h[Masked Quartet]|h|r!", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -2332,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1583630307,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [105]
+		}, -- [92]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-39938-9-49020835|h[Guild: Margaritaville]|h|r 11/12H is a casual raid group that runs T/W 7-10pm server. We pew, we say things that are entirely inappropriate, and we're lazy. Also it smells like cookies.", -- [1]
 			"Stumpmaster-Kil'jaeden", -- [2]
@@ -2354,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Stumpmaster|r",
 			[51] = 1583630463,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [93]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:71::::::|h[Vial of the Sands]|h|r 58,000g", -- [1]
 			"Corndog-Kil'jaeden", -- [2]
@@ -2376,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCorndog|r",
 			[51] = 1583630551,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [94]
 		{
 			"WTS|cffa335ee|Hitem:175009::::::::120:253::5:7:4823:6578:6579:6554:6513:1502:4786:::|h[Zealous Ritualist's Reverie]|h|r|cffa335ee|Hitem:52200::::::::120:253::::::|h[Reins of the Crimson Deathcharger]|h|r|cff0070dd|Hitem:140363::::::::120:253::::::|h[Pocket Fel Spreader]|h|r PST!", -- [1]
 			"Alüe-Kil'jaeden", -- [2]
@@ -2398,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Alüe|r",
 			[51] = 1583630654,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [95]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:72::3:9:4822:40:6578:6579:6478:6462:6515:1487:4786:::|h[Gauntlets of Nightmare Manifest]|h|r|cffa335ee|Hitem:175008::::::::120:72::3:7:4822:6578:6579:6562:6513:1487:4786:::|h[Lurking Schemer's Band]|h|r pst", -- [1]
 			"Khodiie-Kil'jaeden", -- [2]
@@ -2420,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKhodiie|r",
 			[51] = 1583630842,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [96]
 		{
 			"wts |cffa335ee|Hitem:175007::::::::120:250::6:8:4824:6578:6579:6471:6455:6515:1517:4786:::|h[Footpads of Terrible Delusions]|h|r, pst", -- [1]
 			"Tempano-Kil'jaeden", -- [2]
@@ -2442,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tempano|r",
 			[51] = 1583630894,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [97]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +13  and armor stack is free!*", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -2464,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1583631114,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [98]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:71::::::|h[Vial of the Sands]|h|r 58,000g", -- [1]
 			"Corndog-Kil'jaeden", -- [2]
@@ -2486,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCorndog|r",
 			[51] = 1583631223,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [99]
 		{
 			"wtb all |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r in bulk pst", -- [1]
 			"Shenanìganz-Kil'jaeden", -- [2]
@@ -2508,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeShenanìganz|r",
 			[51] = 1583631305,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [100]
 		{
 			"wts |cffa335ee|Hitem:175007::::::::120:250::6:8:4824:6578:6579:6471:6455:6515:1517:4786:::|h[Footpads of Terrible Delusions]|h|r, pst", -- [1]
 			"Tempano-Kil'jaeden", -- [2]
@@ -2530,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tempano|r",
 			[51] = 1583631337,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [101]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +13  and armor stack is free!*", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -2552,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1583632087,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [102]
 		{
 			"i need", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2574,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650841,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [103]
 		{
 			"CAP", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [104]
 		{
 			"ME TOO", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2618,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583650846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [105]
 		{
 			"heal 2s for me", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2640,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583650849,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [106]
 		{
 			"?????", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2662,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650850,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [107]
 		{
 			"HEY", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2684,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650894,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [108]
 		{
 			"gordy was valuable", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2706,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650897,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [109]
 		{
 			"to me at least", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2728,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650905,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [110]
 		{
 			"yes I was online the whole time", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -2750,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1583650920,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [111]
 		{
 			"yall r toxic", -- [1]
 			"Scizilla-Kil'jaeden", -- [2]
@@ -2772,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla|r",
 			[51] = 1583651491,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [112]
 		{
 			"lets just say if i could kick people", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2794,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1583651531,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [113]
 		{
 			"nvm", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2815,6 +2529,292 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1583651535,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"whisper me when you're done", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727488,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [115]
+		{
+			"headphones off", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727492,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [116]
+		{
+			"kk", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727494,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [117]
+		{
+			"last boss", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727499,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [118]
+		{
+			"FML", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727632,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"more dildos for my collection", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727650,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"we done", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727715,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [121]
+		{
+			"logging", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727730,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [122]
+		{
+			"on shaman", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727732,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [123]
+		{
+			"gordy", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			75, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727755,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"it says ur in raid combat", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583727758,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"oh shit", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			78, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583727823,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"|cffa335ee|Hitem:174145::::::::120:268::5:8:4823:6578:6579:6472:6462:6515:1502:4786:::|h[Wristwraps of Volatile Power]|h|r", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			79, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583727827,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
