@@ -10,6 +10,7 @@ JambaQuestProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -28,15 +29,17 @@ JambaQuestProfileDB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Zallie - Frostwolf"] = {
-		},
-		["Sumex - Frostwolf"] = {
-		},
 		["Default"] = {
 			["onlyAcceptQuestsFrom"] = true,
 			["showJambaQuestLogWithWoWQuestLog"] = false,
 			["acceptFromTeam"] = true,
 			["doNotAutoAccept"] = false,
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Sumex - Frostwolf"] = {
+		},
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

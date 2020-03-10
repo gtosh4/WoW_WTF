@@ -10,6 +10,7 @@ JambaQuestWatcherProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -19,11 +20,11 @@ JambaQuestWatcherProfileDB = {
 			["watcherFrameRelativePoint"] = "TOPRIGHT",
 			["watcherFrameYOffset"] = -237.6288909912109,
 			["enableQuestWatcher"] = false,
-			["watcherFrameXOffset"] = -286.7917785644531,
-			["hideQuestIfAllComplete"] = true,
-			["unlockWatcherFrame"] = false,
-			["watcherFramePoint"] = "TOPRIGHT",
 			["enableQuestWatcherOnMasterOnly"] = true,
+			["watcherFramePoint"] = "TOPRIGHT",
+			["unlockWatcherFrame"] = false,
+			["hideQuestIfAllComplete"] = true,
+			["watcherFrameXOffset"] = -286.7917785644531,
 		},
 		["Daggny - Frostwolf"] = {
 		},
@@ -35,12 +36,14 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
+		["Default"] = {
+			["enableQuestWatcher"] = false,
+		},
 		["Zallie - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Default"] = {
-			["enableQuestWatcher"] = false,
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

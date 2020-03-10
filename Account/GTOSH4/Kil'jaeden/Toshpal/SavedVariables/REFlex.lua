@@ -1480,13 +1480,15 @@ REFlexDatabase = {
 			}, -- [30]
 		},
 		["StatsNum"] = 1,
-		["Time"] = 1564522942,
+		["PlayerSide"] = 0,
 		["PlayersNum"] = 30,
 		["Duration"] = 670,
 		["Hidden"] = false,
 		["isBrawl"] = false,
-		["Version"] = 274,
+		["Time"] = 1564522942,
 		["isArena"] = false,
+		["Version"] = 274,
+		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -1639,8 +1641,6 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["isRated"] = false,
-		["PlayerSide"] = 0,
 		["Winner"] = 0,
 		["PlayerNum"] = 5,
 		["Season"] = 28,
@@ -3153,16 +3153,16 @@ REFlexDatabase = {
 		},
 		["PlayersNum"] = 79,
 		["Duration"] = 687,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["Time"] = 1564523486,
+		["Season"] = 28,
 		["isArena"] = false,
+		["Time"] = 1564523486,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 274,
 		["Winner"] = 0,
 		["PlayerNum"] = 76,
-		["Season"] = 28,
+		["Hidden"] = false,
 	}, -- [10]
 	{
 		["Map"] = 1825,
@@ -15944,18 +15944,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 1552,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 71,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["PlayerSide"] = 1,
-		["isArena"] = false,
+		["isBrawl"] = false,
 		["Time"] = 1580235671,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = false,
 		["Players"] = {
 			{
 				"Vðxx-Tichondrius", -- [1]
@@ -24372,9 +24372,9 @@ REFlexHonorDatabase = {
 	[1581760800] = 5,
 	[1566115200] = 23,
 	[1564387200] = 470,
-	[1580119200] = 2910,
-	[1569225600] = 6,
 	[1563868800] = 980,
+	[1569225600] = 6,
+	[1580119200] = 2910,
 	[1564905600] = 46,
 	[1579773600] = 2000,
 	[1578045600] = 5,

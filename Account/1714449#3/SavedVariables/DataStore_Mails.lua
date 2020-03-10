@@ -14,8 +14,40 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/02/03 01:42",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1583725770,
-				["lastVisitDate"] = "2020/03/08 23:49",
+				["lastUpdate"] = 1583815276,
+				["Mails"] = {
+					{
+						["returned"] = false,
+						["sender"] = "Coronavirrus",
+						["itemID"] = 12224,
+						["link"] = "|cffffffff|Hitem:12224::::::::120:262::::::|h[Crispy Bat Wing]|h|r",
+						["lastCheck"] = 1583815276,
+						["count"] = 1,
+						["icon"] = 134002,
+						["daysLeft"] = 30.71809005737305,
+					}, -- [1]
+					{
+						["returned"] = false,
+						["sender"] = "Coronavirrus",
+						["itemID"] = 153494,
+						["link"] = "|cffffffff|Hitem:153494::::::::120:262::::::|h[Thermo-Accelerated Plague Spreader]|h|r",
+						["lastCheck"] = 1583815276,
+						["count"] = 1,
+						["icon"] = 2115303,
+						["daysLeft"] = 30.71809005737305,
+					}, -- [2]
+					{
+						["lastCheck"] = 1583815276,
+						["sender"] = "Coronavirrus",
+						["subject"] = "交货",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "武汉街新鲜制作\n",
+						["icon"] = 134327,
+						["daysLeft"] = 30.71809005737305,
+					}, -- [3]
+				},
+				["lastVisitDate"] = "2020/03/10 00:41",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1583723159,

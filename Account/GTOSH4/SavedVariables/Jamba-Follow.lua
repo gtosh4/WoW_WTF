@@ -10,6 +10,7 @@ JambaFollowProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -27,12 +28,14 @@ JambaFollowProfileDB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
+		["Default"] = {
+			["autoFollowAfterCombat"] = true,
+		},
 		["Zallie - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Default"] = {
-			["autoFollowAfterCombat"] = true,
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

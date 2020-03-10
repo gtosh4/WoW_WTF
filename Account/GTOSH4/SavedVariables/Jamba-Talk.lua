@@ -10,6 +10,7 @@ JambaTalkProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -26,11 +27,13 @@ JambaTalkProfileDB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
+		["Default"] = {
+		},
 		["Zallie - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Default"] = {
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

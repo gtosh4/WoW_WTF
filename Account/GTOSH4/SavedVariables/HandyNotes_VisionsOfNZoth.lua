@@ -10,6 +10,7 @@ HandyNotes_VisionsOfNZothDB = {
 		["Koutetsu - Frostwolf"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Sumex - Frostwolf"] = "Default",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

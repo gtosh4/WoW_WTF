@@ -10,6 +10,7 @@ CorruptionTooltipsDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -17,6 +18,8 @@ CorruptionTooltipsDB = {
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
+		},
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

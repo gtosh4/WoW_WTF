@@ -8,14 +8,14 @@ JambaQuestWatcherProfileDB = {
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
 		},
+		["Toshaman - Kil'jaeden"] = {
+		},
 		["Default"] = {
 			["enableQuestWatcher"] = false,
 		},
-		["Toshaman - Kil'jaeden"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
-			["enableQuestWatcher"] = false,
 			["watcherFrameYOffset"] = 149.9999847412109,
+			["enableQuestWatcher"] = false,
 		},
 	},
 }

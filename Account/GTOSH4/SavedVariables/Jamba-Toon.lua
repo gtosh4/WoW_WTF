@@ -10,6 +10,7 @@ JambaToonProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -26,13 +27,15 @@ JambaToonProfileDB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
+		["Default"] = {
+			["acceptDeathRequests"] = false,
+			["autoAcceptResurrectRequest"] = false,
+		},
 		["Zallie - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Default"] = {
-			["acceptDeathRequests"] = false,
-			["autoAcceptResurrectRequest"] = false,
+		["Toshwar - Kil'jaeden"] = {
 		},
 	},
 }

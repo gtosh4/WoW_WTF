@@ -10,6 +10,7 @@ JambaDisplayTeamProfileDB = {
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -34,14 +35,17 @@ JambaDisplayTeamProfileDB = {
 		["Koutetsu - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
+		["Default"] = {
+			["showTeamList"] = false,
+			["teamListTitleHeight"] = 0,
+		},
 		["Zallie - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Sumex - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Default"] = {
-			["showTeamList"] = false,
+		["Toshwar - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
 		},
 	},
