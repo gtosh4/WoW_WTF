@@ -247,6 +247,47 @@ _detalhes_database = {
 					["tipo"] = 3,
 					["combatId"] = 10276,
 					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008948,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.008948,
+							["targets_overheal"] = {
+							},
+							["healing_taken"] = 0.008948,
+							["totalover"] = 0.008948,
+							["total_without_pet"] = 0.008948,
+							["serial"] = "Player-9-0B60C80F",
+							["iniciar_hps"] = false,
+							["spec"] = 65,
+							["total"] = 0.008948,
+							["classe"] = "PALADIN",
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Toshpal",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["start_time"] = 0,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["totaldenied"] = 0.008948,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
 					},
 				}, -- [2]
 				{
@@ -508,13 +549,13 @@ _detalhes_database = {
 				},
 				["playing_solo"] = true,
 				["totals"] = {
-					241682.7034380006, -- [1]
-					-0.556271999846495, -- [2]
+					241682.6406010008, -- [1]
+					-1.124816999907971, -- [2]
 					{
-						-0.05360899999998381, -- [1]
-						[0] = -0.02591699999995471,
+						-0.09665999999998576, -- [1]
+						[0] = -0.04882699999981496,
 						["alternatepower"] = 0,
-						[6] = -0.03030599999998085,
+						[6] = -0.03800299999998202,
 						[3] = -0.01611599999999947,
 					}, -- [3]
 					{
@@ -594,6 +635,177 @@ _detalhes_database = {
 				["CombatSkillCache"] = {
 				},
 				["player_last_events"] = {
+					["Toshpal"] = {
+						{
+							false, -- [1]
+							302674, -- [2]
+							30708, -- [3]
+							1583900127.182, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [1]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900128.149, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+							false, -- [1]
+							302674, -- [2]
+							51719, -- [3]
+							1583900225.204, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [3]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1617, -- [3]
+							1583900227.171, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [4]
+						{
+							false, -- [1]
+							302674, -- [2]
+							6465, -- [3]
+							1583900239.271, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [5]
+						{
+							false, -- [1]
+							302674, -- [2]
+							54951, -- [3]
+							1583900342.737, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [6]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900358.771, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [7]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900359.637, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [8]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900362.171, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [9]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900371.171, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [10]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900419.204, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [11]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900425.171, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [12]
+						{
+							false, -- [1]
+							302674, -- [2]
+							1616, -- [3]
+							1583900428.204, -- [4]
+							502740, -- [5]
+							"Kitikät-Tichondrius", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 14,
+					},
 				},
 				["start_time"] = 431464.34,
 				["TimeData"] = {
@@ -866,13 +1078,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 38584.004397,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773239,
 							["total"] = 38584.004397,
 							["damage_taken"] = 0.004397,
@@ -921,7 +1133,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773231,
 							["serial"] = "",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -939,13 +1151,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 26046.005703,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773240,
 							["total"] = 26046.005703,
 							["damage_taken"] = 536146.005703,
@@ -1024,7 +1236,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773232,
 							["serial"] = "Creature-0-3776-2274-3482-161139-00006675B1",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -1041,13 +1253,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 15397.004607,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773239,
 							["total"] = 15397.004607,
 							["damage_taken"] = 140120.004607,
@@ -1096,7 +1308,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773232,
 							["serial"] = "Creature-0-3776-2274-3482-161110-0000E6761A",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -1818,7 +2030,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["damage_taken"] = 111626.006364,
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -1827,7 +2039,8 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.006364,
 							["monster"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Black Empire Summoner",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1869,8 +2082,7 @@ _detalhes_database = {
 							["end_time"] = 1583773229,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 111626.006364,
 							["start_time"] = 1583773229,
 							["serial"] = "Creature-0-3776-2274-3482-161141-00006675B1",
 							["fight_component"] = true,
@@ -1930,8 +2142,8 @@ _detalhes_database = {
 							["buff_uptime_targets"] = {
 							},
 							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1583773229,
+							["classe"] = "PALADIN",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
@@ -2049,7 +2261,7 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-9-0B60C80F",
-							["classe"] = "PALADIN",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2585,13 +2797,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 163310.005069,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773227,
 							["total"] = 163310.005069,
 							["damage_taken"] = 1145309.005069,
@@ -2670,7 +2882,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773207,
 							["serial"] = "Creature-0-3776-2274-3482-158953-0000667605",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -2691,13 +2903,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 103795.005411,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773227,
 							["total"] = 103795.005411,
 							["damage_taken"] = 1327031.005411,
@@ -2779,7 +2991,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773201,
 							["serial"] = "Creature-0-3776-2274-3482-161139-00016675DE",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -2798,13 +3010,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 36832.004061,
 							["delay"] = 1583773206,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773227,
 							["total"] = 36832.004061,
 							["damage_taken"] = 875622.004061,
@@ -2882,7 +3094,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773211,
 							["serial"] = "Creature-0-3776-2274-3482-161110-00006675EC",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -3814,16 +4026,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1583773189,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 85483.005343,
 							["delay"] = 0,
-							["monster"] = true,
+							["fight_component"] = true,
 							["total"] = 85483.005343,
-							["dps_started"] = false,
+							["monster"] = true,
 							["damage_taken"] = 1113840.005343,
 							["nome"] = "Portalkeeper Jin'tashal",
 							["spells"] = {
@@ -3971,16 +4183,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1583773199,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 44782.004376,
 							["delay"] = 1583773175,
-							["monster"] = true,
+							["fight_component"] = true,
 							["total"] = 44782.004376,
-							["dps_started"] = false,
+							["monster"] = true,
 							["damage_taken"] = 157241.004376,
 							["nome"] = "Crazed Ramkahen Guardian",
 							["spells"] = {
@@ -4066,16 +4278,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1583773189,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 15025.001351,
 							["delay"] = 1583773169,
-							["monster"] = true,
+							["fight_component"] = true,
 							["total"] = 15025.001351,
-							["dps_started"] = false,
+							["monster"] = true,
 							["damage_taken"] = 0.001351,
 							["nome"] = "Eye of Corruption",
 							["spells"] = {
@@ -5000,13 +5212,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 33959.001284,
 							["delay"] = 1583773152,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773169,
 							["total"] = 33959.001284,
 							["damage_taken"] = 224834.001284,
@@ -5113,7 +5325,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773153,
 							["serial"] = "Creature-0-3776-2274-3482-161110-00006675A7",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -5365,16 +5577,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[114250] = {
+									[231843] = {
 										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 2,
+										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 114250,
-										["uptime"] = 4,
+										["id"] = 231843,
+										["uptime"] = 3,
 										["targets"] = {
 										},
-										["appliedamt"] = 2,
+										["appliedamt"] = 1,
 									},
 									[292362] = {
 										["counter"] = 0,
@@ -5387,13 +5599,13 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[231843] = {
+									[279902] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 231843,
-										["uptime"] = 3,
+										["id"] = 279902,
+										["uptime"] = 7,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -5431,16 +5643,16 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[279902] = {
+									[114250] = {
 										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
+										["activedamt"] = 2,
 										["refreshamt"] = 0,
-										["id"] = 279902,
-										["uptime"] = 7,
+										["id"] = 114250,
+										["uptime"] = 4,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["appliedamt"] = 2,
 									},
 									[269571] = {
 										["counter"] = 0,
@@ -5930,13 +6142,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9859.006486,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773130,
 							["total"] = 9859.006486,
 							["damage_taken"] = 950860.006486,
@@ -5986,7 +6198,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773126,
 							["serial"] = "Creature-0-3776-2274-3482-158953-00006675A7",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -6002,13 +6214,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7484.007672,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773130,
 							["total"] = 7484.007672,
 							["damage_taken"] = 84077.007672,
@@ -6056,7 +6268,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773123,
 							["serial"] = "Creature-0-3776-2274-3482-161110-00006675B1",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -6073,7 +6285,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["damage_taken"] = 138975.004321,
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -6082,7 +6294,8 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.004321,
 							["monster"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Acolyte of N'Zoth",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6094,8 +6307,7 @@ _detalhes_database = {
 							["end_time"] = 1583773130,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 138975.004321,
 							["start_time"] = 1583773130,
 							["serial"] = "Creature-0-3776-2274-3482-161139-0000E675BA",
 							["fight_component"] = true,
@@ -6208,7 +6420,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 96,
+							["pets"] = {
+							},
 							["classe"] = "PALADIN",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -6289,17 +6502,6 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[114250] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 114250,
-										["uptime"] = 8,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
 									[231843] = {
 										["activedamt"] = 3,
 										["id"] = 231843,
@@ -6311,6 +6513,17 @@ _detalhes_database = {
 										["refreshamt"] = 0,
 										["actived"] = true,
 										["appliedamt"] = 3,
+									},
+									[279902] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 279902,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 									[279204] = {
 										["counter"] = 0,
@@ -6334,13 +6547,13 @@ _detalhes_database = {
 										},
 										["appliedamt"] = 1,
 									},
-									[279902] = {
+									[114250] = {
 										["counter"] = 0,
 										["actived"] = false,
 										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 279902,
-										["uptime"] = 3,
+										["id"] = 114250,
+										["uptime"] = 8,
 										["targets"] = {
 										},
 										["appliedamt"] = 1,
@@ -6375,20 +6588,19 @@ _detalhes_database = {
 							["spec"] = 70,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[20271] = 1,
-								[184575] = 2,
-								[53385] = 1,
 								[35395] = 2,
+								[20271] = 1,
+								[53385] = 1,
+								[184575] = 2,
 							},
-							["pets"] = {
+							["debuff_uptime_targets"] = {
 							},
 							["last_event"] = 1583773130,
 							["buff_uptime_targets"] = {
 							},
-							["tipo"] = 4,
+							["buff_uptime"] = 96,
 							["serial"] = "Player-9-0B60C80F",
-							["debuff_uptime_targets"] = {
-							},
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6599,7 +6811,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["friendlyfire_total"] = 0,
-							["damage_taken"] = 181051.001873,
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -6608,7 +6820,8 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["total"] = 0.001873,
 							["monster"] = true,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Acolyte of N'Zoth",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6652,8 +6865,7 @@ _detalhes_database = {
 							["end_time"] = 1583773121,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 181051.001873,
 							["start_time"] = 1583773121,
 							["serial"] = "Creature-0-3776-2274-3482-161139-00036675A7",
 							["fight_component"] = true,
@@ -6711,8 +6923,8 @@ _detalhes_database = {
 							["buff_uptime_targets"] = {
 							},
 							["buff_uptime"] = 0,
-							["tipo"] = 4,
 							["last_event"] = 1583773121,
+							["classe"] = "PALADIN",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
@@ -6818,7 +7030,7 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-9-0B60C80F",
-							["classe"] = "PALADIN",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -7122,16 +7334,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["end_time"] = 1583773121,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 180053.006434,
 							["delay"] = 0,
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["total"] = 180053.006434,
-							["monster"] = true,
+							["fight_component"] = true,
 							["damage_taken"] = 1546828.006434,
 							["nome"] = "Acolyte of N'Zoth",
 							["spells"] = {
@@ -7240,13 +7452,16 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["healing_taken"] = 0.006785,
+							["classe"] = "PALADIN",
 							["totalover"] = 13064.006785,
 							["total_without_pet"] = 0.006785,
 							["totalover_without_pet"] = 0.006785,
 							["totaldenied"] = 0.006785,
-							["classe"] = "PALADIN",
-							["total"] = 0.006785,
+							["heal_enemy_amt"] = 0,
+							["end_time"] = 1583773090,
+							["spec"] = 70,
+							["healing_taken"] = 0.006785,
+							["nome"] = "Toshpal",
 							["spells"] = {
 								["_ActorTable"] = {
 									[311201] = {
@@ -7280,11 +7495,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
-							["nome"] = "Toshpal",
-							["spec"] = 70,
 							["grupo"] = true,
-							["end_time"] = 1583773090,
+							["total"] = 0.006785,
 							["heal_enemy"] = {
 							},
 							["tipo"] = 2,
@@ -7345,8 +7557,8 @@ _detalhes_database = {
 							["buff_uptime_targets"] = {
 							},
 							["buff_uptime"] = 11,
-							["tipo"] = 4,
 							["last_event"] = 1583773090,
+							["classe"] = "PALADIN",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[225787] = {
@@ -7474,7 +7686,7 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-9-0B60C80F",
-							["classe"] = "PALADIN",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -7883,13 +8095,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 81315.005857,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773089,
 							["total"] = 81315.005857,
 							["damage_taken"] = 885239.005857,
@@ -7974,7 +8186,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773072,
 							["serial"] = "Creature-0-3776-2274-3482-161139-000266757C",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -8763,13 +8975,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 60025.003979,
 							["delay"] = 0,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773051,
 							["total"] = 60025.003979,
 							["damage_taken"] = 827021.003979,
@@ -8849,7 +9061,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773047,
 							["serial"] = "Creature-0-3776-2274-3482-161139-0000667568",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 					},
 				}, -- [1]
@@ -9801,13 +10013,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 144078.008335,
 							["delay"] = 1583773014,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773035,
 							["total"] = 144078.008335,
 							["damage_taken"] = 48806.008335,
@@ -9855,7 +10067,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773034,
 							["serial"] = "Creature-0-3776-2274-3482-161895-0000667553",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -9871,16 +10083,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["dps_started"] = false,
 							["end_time"] = 1583773035,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 92256.002161,
 							["delay"] = 0,
-							["monster"] = true,
+							["fight_component"] = true,
 							["total"] = 92256.002161,
-							["dps_started"] = false,
+							["monster"] = true,
 							["damage_taken"] = 1163886.002161,
 							["nome"] = "Faceless Manipulator",
 							["spells"] = {
@@ -9944,13 +10156,13 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
+							["monster"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 36464.006095,
 							["delay"] = 1583773016,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583773046,
 							["total"] = 36464.006095,
 							["damage_taken"] = 496293.006095,
@@ -10056,7 +10268,7 @@ _detalhes_database = {
 							["on_hold"] = false,
 							["start_time"] = 1583773025,
 							["serial"] = "Creature-0-3776-2274-3482-161110-00006674D8",
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -10856,9 +11068,9 @@ _detalhes_database = {
 										["n_max"] = 877,
 										["targets"] = {
 											["Head Machinist Sparkflux"] = 877,
+											["Explosive Scarab"] = 5259,
 											["Living Waste"] = 9702,
 											["Inconspicuous Plant"] = 876,
-											["Explosive Scarab"] = 5259,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 8031,
@@ -10896,25 +11108,25 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 1876872,
 											["Defense Bot Mk III"] = 2319394,
 											["Urg'roth, Breaker of Heroes"] = 774736,
-											["Aerial Unit R-21/X"] = 2066191,
+											["Waste Processing Unit"] = 1587575,
 											["Mechagon Tinkerer"] = 3416476,
-											["Gnomercy 4.U."] = 3419719,
+											["Aerial Unit R-21/X"] = 2066191,
 											["G.U.A.R.D."] = 384305,
-											["The Platinum Pummeler"] = 363763,
+											["Living Waste"] = 686839,
 											["Junkyard D.0.G."] = 675707,
-											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 1193612,
-											["Inconspicuous Plant"] = 55372,
+											["Rocket Tonk"] = 239509,
 											["Shield Generator"] = 0,
+											["Inconspicuous Plant"] = 55372,
 											["Blastatron X-80"] = 749594,
 											["Spider Tank"] = 1420054,
 											["Voidweaver Mal'thir"] = 575430,
-											["Living Waste"] = 686839,
+											["The Platinum Pummeler"] = 363763,
 											["Bomb Tonk"] = 66029,
-											["Rocket Tonk"] = 239509,
+											["K.U.-J.0."] = 3314036,
 											["Omega Buster"] = 2205998,
 											["King Mechagon"] = 3523,
-											["K.U.-J.0."] = 3314036,
-											["Waste Processing Unit"] = 1587575,
+											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 1193612,
+											["Gnomercy 4.U."] = 3419719,
 											["Blood of the Corruptor"] = 494319,
 											["Explosive Scarab"] = 124515,
 											["Mindrend Tentacle"] = 136554,
@@ -10952,9 +11164,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 46723,
 											["Workshop Defender"] = 121977,
 											["Blastatron X-80"] = 19627,
-											["Blood of the Corruptor"] = 9948,
-											["Aerial Unit R-21/X"] = 45704,
 											["Mindrend Tentacle"] = 41851,
+											["Aerial Unit R-21/X"] = 45704,
+											["Mechagon Mechanic"] = 11670,
 											["Gnomercy 4.U."] = 54306,
 											["Junkyard D.0.G."] = 52366,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 40755,
@@ -10970,7 +11182,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 58507,
 											["Urg'roth, Breaker of Heroes"] = 22926,
 											["Rocket Tonk"] = 48987,
-											["Mechagon Mechanic"] = 11670,
+											["Blood of the Corruptor"] = 9948,
 											["Explosive Scarab"] = 9675,
 											["Strider Tonk"] = 21964,
 										},
@@ -11006,9 +11218,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 165893,
 											["Workshop Defender"] = 52983,
 											["Urg'roth, Breaker of Heroes"] = 227390,
-											["Mindrend Tentacle"] = 26491,
-											["Aerial Unit R-21/X"] = 188913,
 											["Blood of the Corruptor"] = 58062,
+											["Aerial Unit R-21/X"] = 188913,
+											["Mechagon Mechanic"] = 26492,
 											["Gnomercy 4.U."] = 304135,
 											["Junkyard D.0.G."] = 273465,
 											["Rocket Tonk"] = 135930,
@@ -11024,7 +11236,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 26492,
 											["Blastatron X-80"] = 81789,
 											["Defense Bot Mk III"] = 85711,
-											["Mechagon Mechanic"] = 26492,
+											["Mindrend Tentacle"] = 26491,
 											["Explosive Scarab"] = 26491,
 											["Strider Tonk"] = 26491,
 										},
@@ -11060,9 +11272,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 117187,
 											["Defense Bot Mk III"] = 80655,
 											["Strider Tonk"] = 60538,
-											["Blood of the Corruptor"] = 102046,
-											["Gnomercy 4.U."] = 78125,
 											["Mindrend Tentacle"] = 23437,
+											["Gnomercy 4.U."] = 78125,
+											["Mechagon Mechanic"] = 14971,
 											["Blastatron X-80"] = 46411,
 											["Junkyard D.0.G."] = 106105,
 											["K.U.-J.0."] = 171788,
@@ -11078,7 +11290,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 195566,
 											["Workshop Defender"] = 121730,
 											["Rocket Tonk"] = 61192,
-											["Mechagon Mechanic"] = 14971,
+											["Blood of the Corruptor"] = 102046,
 											["Explosive Scarab"] = 61381,
 											["Aerial Unit R-21/X"] = 31250,
 										},
@@ -11657,25 +11869,25 @@ _detalhes_database = {
 								["Malicious Growth"] = true,
 								["Buzz Saw"] = true,
 								["Defense Bot Mk III"] = true,
-								["Aerial Unit R-21/X"] = true,
-								["Blood of the Corruptor"] = true,
 								["Waste Processing Unit"] = true,
+								["Blood of the Corruptor"] = true,
 								["Gnomercy 4.U."] = true,
+								["Aerial Unit R-21/X"] = true,
 								["[*] Blazing Chomp"] = true,
-								["Cubed Clutter"] = true,
+								["Spider Tank"] = true,
 								["Junkyard D.0.G."] = true,
 								["K.U.-J.0."] = true,
 								["Magneto-Arm"] = true,
 								["Toshpal"] = true,
 								["Peace"] = true,
-								["High-Explosive Rocket"] = true,
+								["Cubed Clutter"] = true,
 								["Voidweaver Mal'thir"] = true,
 								["Warlockmania"] = true,
 								["Inconspicuous Plant"] = true,
 								["[*] Giga-Zap"] = true,
 								["[*] Self-Trimming Hedge"] = true,
 								["Mechagon Tinkerer"] = true,
-								["Spider Tank"] = true,
+								["High-Explosive Rocket"] = true,
 								["Eye of Corruption"] = true,
 								["Mindrend Tentacle"] = true,
 								["[*] Plasma Orb"] = true,
@@ -11686,8 +11898,8 @@ _detalhes_database = {
 								["Ravenous Fleshfiend"] = 776075,
 								["Strider Tonk"] = 1166182,
 								["Head Machinist Sparkflux"] = 5986707,
-								["Blood of the Corruptor"] = 1446688,
-								["Mindrend Tentacle"] = 1800100,
+								["Mechagon Mechanic"] = 745848,
+								["Alarm-o-Bot"] = 25045,
 								["Samh'rek, Beckoner of Chaos"] = 1544281,
 								["Workshop Defender"] = 3952508,
 								["Blastatron X-80"] = 2050396,
@@ -11697,22 +11909,22 @@ _detalhes_database = {
 								["G.U.A.R.D."] = 1933874,
 								["Aerial Unit R-21/X"] = 3716194,
 								["Junkyard D.0.G."] = 4977898,
-								["Rocket Tonk"] = 465657,
-								["The Platinum Pummeler"] = 1672220,
+								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 632222,
 								["Inconspicuous Plant"] = 207934,
+								["Living Waste"] = 1826357,
 								["Urg'roth, Breaker of Heroes"] = 2084947,
 								["Spider Tank"] = 3496574,
 								["Voidweaver Mal'thir"] = 2339837,
-								["Living Waste"] = 1826357,
+								["The Platinum Pummeler"] = 1672220,
 								["Bomb Tonk"] = 660918,
-								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 632222,
+								["K.U.-J.0."] = 4582936,
 								["Omega Buster"] = 4322200,
 								["King Mechagon"] = 877631,
-								["K.U.-J.0."] = 4582936,
+								["Rocket Tonk"] = 465657,
 								["Defense Bot Mk III"] = 2257962,
-								["Alarm-o-Bot"] = 25045,
+								["Mindrend Tentacle"] = 1800100,
 								["Explosive Scarab"] = 15347,
-								["Mechagon Mechanic"] = 745848,
+								["Blood of the Corruptor"] = 1446688,
 							},
 							["end_time"] = 1583735344,
 							["pets"] = {
@@ -11903,26 +12115,46 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[42223] = {
-										["c_amt"] = 52,
+									[348] = {
+										["c_amt"] = 33,
 										["b_amt"] = 0,
-										["c_dmg"] = 322847,
+										["c_dmg"] = 654769,
 										["g_amt"] = 0,
-										["n_max"] = 3543,
+										["n_max"] = 14009,
 										["targets"] = {
-											["Workshop Defender"] = 209640,
-											["Mechagon Tinkerer"] = 38160,
-											["Living Waste"] = 263466,
-											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 73265,
+											["Defense Bot Mk I"] = 40413,
+											["Ravenous Fleshfiend"] = 20925,
+											["Head Machinist Sparkflux"] = 54901,
+											["Samh'rek, Beckoner of Chaos"] = 17982,
+											["Workshop Defender"] = 16042,
+											["Aerial Unit R-21/X"] = 38973,
+											["Strider Tonk"] = 51279,
+											["Junkyard D.0.G."] = 49097,
+											["K.U.-J.0."] = 40086,
+											["Rocket Tonk"] = 30065,
+											["Blood of the Corruptor"] = 24711,
+											["Waste Processing Unit"] = 93012,
+											["Spider Tank"] = 67416,
+											["Voidweaver Mal'thir"] = 15892,
+											["The Platinum Pummeler"] = 56744,
+											["Blastatron X-80"] = 32357,
+											["King Mechagon"] = 12935,
+											["Omega Buster"] = 23050,
+											["Mechagon Tinkerer"] = 75677,
+											["G.U.A.R.D."] = 40466,
+											["Urg'roth, Breaker of Heroes"] = 43075,
+											["Mindrend Tentacle"] = 59217,
+											["Defense Bot Mk III"] = 54946,
+											["Gnomercy 4.U."] = 28750,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 261684,
+										["n_dmg"] = 333242,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 141,
-										["total"] = 584531,
-										["c_max"] = 7054,
-										["id"] = 42223,
+										["counter"] = 70,
+										["total"] = 988011,
+										["c_max"] = 29745,
+										["id"] = 348,
 										["r_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
@@ -11930,7 +12162,7 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 89,
+										["n_amt"] = 37,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -12038,6 +12270,91 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
+									[42223] = {
+										["c_amt"] = 52,
+										["b_amt"] = 0,
+										["c_dmg"] = 322847,
+										["g_amt"] = 0,
+										["n_max"] = 3543,
+										["targets"] = {
+											["Workshop Defender"] = 209640,
+											["Mechagon Tinkerer"] = 38160,
+											["Living Waste"] = 263466,
+											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 73265,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 261684,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 141,
+										["total"] = 584531,
+										["c_max"] = 7054,
+										["id"] = 42223,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 89,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[17962] = {
+										["c_amt"] = 80,
+										["b_amt"] = 0,
+										["c_dmg"] = 4506605,
+										["g_amt"] = 0,
+										["n_max"] = 46508,
+										["targets"] = {
+											["Defense Bot Mk I"] = 123226,
+											["Ravenous Fleshfiend"] = 50038,
+											["Head Machinist Sparkflux"] = 577640,
+											["Samh'rek, Beckoner of Chaos"] = 184777,
+											["Defense Bot Mk III"] = 295607,
+											["Strider Tonk"] = 100544,
+											["Mindrend Tentacle"] = 168638,
+											["Gnomercy 4.U."] = 487414,
+											["Blood of the Corruptor"] = 177178,
+											["Waste Processing Unit"] = 917793,
+											["Junkyard D.0.G."] = 349644,
+											["K.U.-J.0."] = 557680,
+											["Blastatron X-80"] = 184841,
+											["King Mechagon"] = 40836,
+											["G.U.A.R.D."] = 73579,
+											["Spider Tank"] = 369906,
+											["Voidweaver Mal'thir"] = 285861,
+											["Inconspicuous Plant"] = 79234,
+											["Bomb Tonk"] = 134685,
+											["Urg'roth, Breaker of Heroes"] = 330309,
+											["Omega Buster"] = 432106,
+											["Mechagon Tinkerer"] = 691079,
+											["The Platinum Pummeler"] = 278964,
+											["Workshop Defender"] = 191158,
+											["Alarm-o-Bot"] = 23063,
+											["Explosive Scarab"] = 15347,
+											["Aerial Unit R-21/X"] = 366842,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2981384,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 189,
+										["total"] = 7487989,
+										["c_max"] = 94304,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 109,
+										["m_amt"] = 0,
+										["r_amt"] = 0,
+									},
 									[311192] = {
 										["c_amt"] = 54,
 										["b_amt"] = 0,
@@ -12089,111 +12406,6 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 70,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[17962] = {
-										["c_amt"] = 80,
-										["b_amt"] = 0,
-										["c_dmg"] = 4506605,
-										["g_amt"] = 0,
-										["n_max"] = 46508,
-										["targets"] = {
-											["Defense Bot Mk I"] = 123226,
-											["Ravenous Fleshfiend"] = 50038,
-											["Head Machinist Sparkflux"] = 577640,
-											["Samh'rek, Beckoner of Chaos"] = 184777,
-											["Defense Bot Mk III"] = 295607,
-											["Strider Tonk"] = 100544,
-											["Alarm-o-Bot"] = 23063,
-											["Gnomercy 4.U."] = 487414,
-											["Mindrend Tentacle"] = 168638,
-											["Waste Processing Unit"] = 917793,
-											["Junkyard D.0.G."] = 349644,
-											["K.U.-J.0."] = 557680,
-											["Blastatron X-80"] = 184841,
-											["King Mechagon"] = 40836,
-											["G.U.A.R.D."] = 73579,
-											["Spider Tank"] = 369906,
-											["Voidweaver Mal'thir"] = 285861,
-											["Inconspicuous Plant"] = 79234,
-											["Bomb Tonk"] = 134685,
-											["Urg'roth, Breaker of Heroes"] = 330309,
-											["Omega Buster"] = 432106,
-											["Mechagon Tinkerer"] = 691079,
-											["The Platinum Pummeler"] = 278964,
-											["Workshop Defender"] = 191158,
-											["Blood of the Corruptor"] = 177178,
-											["Explosive Scarab"] = 15347,
-											["Aerial Unit R-21/X"] = 366842,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2981384,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 189,
-										["total"] = 7487989,
-										["c_max"] = 94304,
-										["id"] = 17962,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 109,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
-									},
-									[348] = {
-										["c_amt"] = 33,
-										["b_amt"] = 0,
-										["c_dmg"] = 654769,
-										["g_amt"] = 0,
-										["n_max"] = 14009,
-										["targets"] = {
-											["Defense Bot Mk I"] = 40413,
-											["Ravenous Fleshfiend"] = 20925,
-											["Head Machinist Sparkflux"] = 54901,
-											["Samh'rek, Beckoner of Chaos"] = 17982,
-											["Workshop Defender"] = 16042,
-											["Aerial Unit R-21/X"] = 38973,
-											["Strider Tonk"] = 51279,
-											["Junkyard D.0.G."] = 49097,
-											["K.U.-J.0."] = 40086,
-											["Rocket Tonk"] = 30065,
-											["Blood of the Corruptor"] = 24711,
-											["Waste Processing Unit"] = 93012,
-											["Spider Tank"] = 67416,
-											["Voidweaver Mal'thir"] = 15892,
-											["The Platinum Pummeler"] = 56744,
-											["Blastatron X-80"] = 32357,
-											["King Mechagon"] = 12935,
-											["Omega Buster"] = 23050,
-											["Mechagon Tinkerer"] = 75677,
-											["G.U.A.R.D."] = 40466,
-											["Urg'roth, Breaker of Heroes"] = 43075,
-											["Mindrend Tentacle"] = 59217,
-											["Defense Bot Mk III"] = 54946,
-											["Gnomercy 4.U."] = 28750,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 333242,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 70,
-										["total"] = 988011,
-										["c_max"] = 29745,
-										["id"] = 348,
-										["r_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 37,
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -12283,33 +12495,33 @@ _detalhes_database = {
 								["Strider Tonk"] = 1097365,
 								["Defense Bot Mk I"] = 3864763,
 								["Ravenous Fleshfiend"] = 681162,
-								["Alarm-o-Bot"] = 73441,
+								["Mindrend Tentacle"] = 2313704,
 								["Head Machinist Sparkflux"] = 5425023,
 								["Malicious Growth"] = 142219,
-								["Mindrend Tentacle"] = 2313704,
+								["Blood of the Corruptor"] = 2846075,
 								["Samh'rek, Beckoner of Chaos"] = 1587141,
 								["Workshop Defender"] = 3347622,
 								["Blastatron X-80"] = 2744707,
-								["Gnomercy 4.U."] = 2367662,
+								["Waste Processing Unit"] = 7228720,
 								["Mechagon Tinkerer"] = 2983349,
-								["Aerial Unit R-21/X"] = 3471519,
+								["Gnomercy 4.U."] = 2367662,
 								["G.U.A.R.D."] = 2053963,
 								["Rocket Tonk"] = 1413542,
 								["Junkyard D.0.G."] = 2265661,
 								["K.U.-J.0."] = 5213112,
-								["The Platinum Pummeler"] = 2012349,
 								["Inconspicuous Plant"] = 573894,
+								["Living Waste"] = 659811,
 								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 209845,
 								["Spider Tank"] = 6426802,
 								["Voidweaver Mal'thir"] = 2221578,
-								["Living Waste"] = 659811,
+								["The Platinum Pummeler"] = 2012349,
 								["Bomb Tonk"] = 90008,
 								["Defense Bot Mk III"] = 2747655,
 								["Omega Buster"] = 4927139,
 								["King Mechagon"] = 270676,
-								["Waste Processing Unit"] = 7228720,
+								["Aerial Unit R-21/X"] = 3471519,
 								["Mechagon Mechanic"] = 707429,
-								["Blood of the Corruptor"] = 2846075,
+								["Alarm-o-Bot"] = 73441,
 								["Explosive Scarab"] = 363977,
 								["Urg'roth, Breaker of Heroes"] = 3315176,
 							},
@@ -12335,8 +12547,8 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 135016,
 											["Defense Bot Mk III"] = 241294,
 											["Urg'roth, Breaker of Heroes"] = 319588,
-											["Mindrend Tentacle"] = 413559,
 											["Blood of the Corruptor"] = 282867,
+											["Mechagon Mechanic"] = 129223,
 											["Aerial Unit R-21/X"] = 299834,
 											["Waste Processing Unit"] = 764251,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 4276,
@@ -12354,7 +12566,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 467005,
 											["Workshop Defender"] = 550262,
 											["Gnomercy 4.U."] = 231375,
-											["Mechagon Mechanic"] = 129223,
+											["Mindrend Tentacle"] = 413559,
 											["Explosive Scarab"] = 31097,
 											["Strider Tonk"] = 219135,
 										},
@@ -12482,8 +12694,8 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 107673,
 											["Defense Bot Mk III"] = 186882,
 											["Urg'roth, Breaker of Heroes"] = 242904,
-											["Mindrend Tentacle"] = 279127,
 											["Blood of the Corruptor"] = 209936,
+											["Mechagon Mechanic"] = 85168,
 											["Aerial Unit R-21/X"] = 192877,
 											["Waste Processing Unit"] = 540320,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 4191,
@@ -12501,7 +12713,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 368196,
 											["Workshop Defender"] = 406763,
 											["Gnomercy 4.U."] = 154421,
-											["Mechagon Mechanic"] = 85168,
+											["Mindrend Tentacle"] = 279127,
 											["Explosive Scarab"] = 30771,
 											["Strider Tonk"] = 130372,
 										},
@@ -12537,9 +12749,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 13380,
 											["Workshop Defender"] = 80279,
 											["Strider Tonk"] = 33726,
-											["Mechagon Mechanic"] = 26760,
-											["Gnomercy 4.U."] = 13380,
 											["Mindrend Tentacle"] = 26760,
+											["Gnomercy 4.U."] = 13380,
+											["Blood of the Corruptor"] = 40139,
 											["Blastatron X-80"] = 42058,
 											["Junkyard D.0.G."] = 127936,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 26759,
@@ -12555,7 +12767,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 117057,
 											["Defense Bot Mk III"] = 42069,
 											["Rocket Tonk"] = 50588,
-											["Blood of the Corruptor"] = 40139,
+											["Mechagon Mechanic"] = 26760,
 											["Explosive Scarab"] = 26760,
 											["Aerial Unit R-21/X"] = 47745,
 										},
@@ -12800,9 +13012,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 26759,
 											["Workshop Defender"] = 90315,
 											["Strider Tonk"] = 33726,
-											["Mechagon Mechanic"] = 26760,
-											["Gnomercy 4.U."] = 13380,
 											["Mindrend Tentacle"] = 13380,
+											["Gnomercy 4.U."] = 13380,
+											["Blood of the Corruptor"] = 53520,
 											["Blastatron X-80"] = 42058,
 											["Junkyard D.0.G."] = 94212,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 26759,
@@ -12818,7 +13030,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 113713,
 											["Defense Bot Mk III"] = 42069,
 											["Rocket Tonk"] = 33726,
-											["Blood of the Corruptor"] = 53520,
+											["Mechagon Mechanic"] = 26760,
 											["Explosive Scarab"] = 13380,
 											["Aerial Unit R-21/X"] = 61765,
 										},
@@ -12856,10 +13068,10 @@ _detalhes_database = {
 											["Defense Bot Mk III"] = 338057,
 											["Aerial Unit R-21/X"] = 299850,
 											["Strider Tonk"] = 194115,
-											["Mechagon Mechanic"] = 131788,
+											["Blood of the Corruptor"] = 416647,
 											["Junkyard D.0.G."] = 425714,
 											["K.U.-J.0."] = 704576,
-											["Blood of the Corruptor"] = 416647,
+											["Mindrend Tentacle"] = 450177,
 											["Waste Processing Unit"] = 798426,
 											["Urg'roth, Breaker of Heroes"] = 357975,
 											["Spider Tank"] = 1015215,
@@ -12871,7 +13083,7 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 500710,
 											["Workshop Defender"] = 680566,
 											["Gnomercy 4.U."] = 155988,
-											["Mindrend Tentacle"] = 450177,
+											["Mechagon Mechanic"] = 131788,
 											["Explosive Scarab"] = 35197,
 											["Rocket Tonk"] = 227732,
 										},
@@ -12977,9 +13189,9 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 52056,
 											["Blastatron X-80"] = 229505,
 											["Workshop Defender"] = 191936,
-											["Mechagon Mechanic"] = 52056,
 											["Blood of the Corruptor"] = 52056,
 											["Mindrend Tentacle"] = 156168,
+											["Mechagon Mechanic"] = 52056,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1707207,
@@ -13032,9 +13244,9 @@ _detalhes_database = {
 											["Mechagon Tinkerer"] = 4081,
 											["Blastatron X-80"] = 44897,
 											["Defense Bot Mk III"] = 45378,
-											["Mindrend Tentacle"] = 15743,
 											["Blood of the Corruptor"] = 48924,
 											["Mechagon Mechanic"] = 16326,
+											["Mindrend Tentacle"] = 15743,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 259418,
@@ -13115,6 +13327,12 @@ _detalhes_database = {
 							},
 							["total_without_pet"] = 71718710.106671,
 							["friendlyfire"] = {
+								["Toshpal"] = {
+									["spells"] = {
+										[240448] = 374229,
+									},
+									["total"] = 374229,
+								},
 								["Warlockmania"] = {
 									["spells"] = {
 										[240448] = 216292,
@@ -13126,12 +13344,6 @@ _detalhes_database = {
 										[240448] = 198235,
 									},
 									["total"] = 198235,
-								},
-								["Toshpal"] = {
-									["spells"] = {
-										[240448] = 374229,
-									},
-									["total"] = 374229,
 								},
 							},
 							["friendlyfire_total"] = 788756,
@@ -13215,33 +13427,33 @@ _detalhes_database = {
 								["Strider Tonk"] = 820214,
 								["Defense Bot Mk I"] = 1983313,
 								["Ravenous Fleshfiend"] = 538527,
-								["Alarm-o-Bot"] = 74207,
+								["Mechagon Mechanic"] = 369811,
 								["Head Machinist Sparkflux"] = 2148135,
 								["Malicious Growth"] = 240493,
-								["Mechagon Mechanic"] = 369811,
+								["Blood of the Corruptor"] = 2376701,
 								["Samh'rek, Beckoner of Chaos"] = 1059546,
 								["Workshop Defender"] = 1891135,
 								["Blastatron X-80"] = 1808643,
-								["Gnomercy 4.U."] = 2090,
+								["Waste Processing Unit"] = 3346549,
 								["Mechagon Tinkerer"] = 1777638,
-								["Aerial Unit R-21/X"] = 2512403,
+								["Gnomercy 4.U."] = 2090,
 								["G.U.A.R.D."] = 1509983,
-								["K.U.-J.0."] = 2468701,
+								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 388287,
 								["Junkyard D.0.G."] = 1630394,
-								["Rocket Tonk"] = 809552,
-								["The Platinum Pummeler"] = 1518254,
+								["K.U.-J.0."] = 2468701,
 								["Inconspicuous Plant"] = 471914,
+								["Living Waste"] = 1644336,
 								["Copper Hopper"] = 4853,
 								["Spider Tank"] = 3347904,
 								["Voidweaver Mal'thir"] = 1296294,
-								["Living Waste"] = 1644336,
+								["The Platinum Pummeler"] = 1518254,
 								["Bomb Tonk"] = 528324,
-								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 388287,
+								["Rocket Tonk"] = 809552,
 								["Omega Buster"] = 2652725,
 								["King Mechagon"] = 22309,
-								["Waste Processing Unit"] = 3346549,
+								["Aerial Unit R-21/X"] = 2512403,
 								["Defense Bot Mk III"] = 1830100,
-								["Blood of the Corruptor"] = 2376701,
+								["Alarm-o-Bot"] = 74207,
 								["Explosive Scarab"] = 328730,
 								["Urg'roth, Breaker of Heroes"] = 1429215,
 							},
@@ -13253,12 +13465,6 @@ _detalhes_database = {
 							["end_time"] = 1583735344,
 							["boss_fight_component"] = true,
 							["friendlyfire"] = {
-								["Warlockmania"] = {
-									["spells"] = {
-										[240448] = 127876,
-									},
-									["total"] = 127876,
-								},
 								["Yukio"] = {
 									["spells"] = {
 										[240448] = 47952,
@@ -13271,6 +13477,12 @@ _detalhes_database = {
 										[6940] = 174136,
 									},
 									["total"] = 408827,
+								},
+								["Warlockmania"] = {
+									["spells"] = {
+										[240448] = 127876,
+									},
+									["total"] = 127876,
 								},
 								["Peace"] = {
 									["spells"] = {
@@ -13295,8 +13507,8 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 207262,
 											["Workshop Defender"] = 113136,
 											["Urg'roth, Breaker of Heroes"] = 240704,
-											["Alarm-o-Bot"] = 19517,
 											["Blood of the Corruptor"] = 474997,
+											["Mechagon Mechanic"] = 10837,
 											["Aerial Unit R-21/X"] = 299785,
 											["Waste Processing Unit"] = 414511,
 											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 12964,
@@ -13304,17 +13516,17 @@ _detalhes_database = {
 											["Rocket Tonk"] = 59876,
 											["K.U.-J.0."] = 409220,
 											["G.U.A.R.D."] = 130330,
-											["The Platinum Pummeler"] = 178013,
+											["Living Waste"] = 88777,
 											["Spider Tank"] = 583813,
 											["Voidweaver Mal'thir"] = 228224,
-											["Inconspicuous Plant"] = 74062,
+											["The Platinum Pummeler"] = 178013,
 											["Bomb Tonk"] = 60269,
-											["Living Waste"] = 88777,
+											["Inconspicuous Plant"] = 74062,
 											["Omega Buster"] = 483251,
 											["Mechagon Tinkerer"] = 209687,
 											["Blastatron X-80"] = 258839,
 											["Defense Bot Mk III"] = 325045,
-											["Mechagon Mechanic"] = 10837,
+											["Alarm-o-Bot"] = 19517,
 											["Explosive Scarab"] = 9840,
 											["Strider Tonk"] = 90937,
 										},
@@ -13480,9 +13692,9 @@ _detalhes_database = {
 											["Samh'rek, Beckoner of Chaos"] = 103970,
 											["Defense Bot Mk III"] = 103795,
 											["Blastatron X-80"] = 127894,
-											["Gnomercy 4.U."] = 2090,
+											["Waste Processing Unit"] = 367391,
 											["Mechagon Tinkerer"] = 298544,
-											["Aerial Unit R-21/X"] = 106339,
+											["Gnomercy 4.U."] = 2090,
 											["G.U.A.R.D."] = 113704,
 											["Thing From Beyond"] = 0,
 											["Junkyard D.0.G."] = 232044,
@@ -13498,7 +13710,7 @@ _detalhes_database = {
 											["Omega Buster"] = 167305,
 											["King Mechagon"] = 6234,
 											["Rocket Tonk"] = 110915,
-											["Waste Processing Unit"] = 367391,
+											["Aerial Unit R-21/X"] = 106339,
 											["Mechagon Mechanic"] = 74738,
 											["Explosive Scarab"] = 59260,
 											["Urg'roth, Breaker of Heroes"] = 46550,
@@ -13756,14 +13968,14 @@ _detalhes_database = {
 											["Strider Tonk"] = 105536,
 											["Samh'rek, Beckoner of Chaos"] = 120891,
 											["Workshop Defender"] = 462327,
-											["Blood of the Corruptor"] = 274819,
 											["Alarm-o-Bot"] = 30807,
+											["Mechagon Mechanic"] = 92010,
 											["Urg'roth, Breaker of Heroes"] = 168821,
 											["Aerial Unit R-21/X"] = 207085,
-											["Rocket Tonk"] = 119499,
+											["K.U.-J.0."] = 277556,
 											["Mechagon Tinkerer"] = 358788,
 											["Junkyard D.0.G."] = 365262,
-											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 68708,
+											["Rocket Tonk"] = 119499,
 											["G.U.A.R.D."] = 235106,
 											["Living Waste"] = 536230,
 											["The Platinum Pummeler"] = 180451,
@@ -13774,9 +13986,9 @@ _detalhes_database = {
 											["Blastatron X-80"] = 174375,
 											["Omega Buster"] = 242189,
 											["King Mechagon"] = 16075,
-											["K.U.-J.0."] = 277556,
+											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 68708,
 											["Waste Processing Unit"] = 607077,
-											["Mechagon Mechanic"] = 92010,
+											["Blood of the Corruptor"] = 274819,
 											["Explosive Scarab"] = 61587,
 											["Defense Bot Mk III"] = 288851,
 										},
@@ -13816,11 +14028,11 @@ _detalhes_database = {
 											["Junkyard D.0.G."] = 95309,
 											["K.U.-J.0."] = 238235,
 											["Alarm-o-Bot"] = 23883,
+											["Inconspicuous Plant"] = 81201,
 											["The Platinum Pummeler"] = 182424,
-											["Living Waste"] = 39795,
 											["Spider Tank"] = 533213,
 											["Voidweaver Mal'thir"] = 159126,
-											["Inconspicuous Plant"] = 81201,
+											["Living Waste"] = 39795,
 											["Bomb Tonk"] = 40610,
 											["Omega Buster"] = 393473,
 											["G.U.A.R.D."] = 83934,
@@ -14043,25 +14255,25 @@ _detalhes_database = {
 								["Buzz Saw"] = true,
 								["Samh'rek, Beckoner of Chaos"] = true,
 								["Defense Bot Mk III"] = true,
-								["Gnomercy 4.U."] = true,
 								["Waste Processing Unit"] = true,
-								["Rocket Tonk"] = true,
 								["[*] Self-Trimming Hedge"] = true,
+								["Rocket Tonk"] = true,
+								["Gnomercy 4.U."] = true,
 								["[*] Blazing Chomp"] = true,
 								["Yukio"] = true,
-								["High-Explosive Rocket"] = true,
+								["Cubed Clutter"] = true,
 								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = true,
 								["Magneto-Arm"] = true,
-								["The Platinum Pummeler"] = true,
+								["Living Waste"] = true,
 								["Peace"] = true,
-								["Spider Tank"] = true,
+								["High-Explosive Rocket"] = true,
 								["Voidweaver Mal'thir"] = true,
-								["Warlockmania"] = true,
+								["The Platinum Pummeler"] = true,
 								["K.U.-J.0."] = true,
 								["Faceless Manipulator"] = true,
 								["Omega Buster"] = true,
-								["Living Waste"] = true,
-								["Cubed Clutter"] = true,
+								["Warlockmania"] = true,
+								["Spider Tank"] = true,
 								["Eye of Corruption"] = true,
 								["Blood of the Corruptor"] = true,
 								["[*] Plasma Orb"] = true,
@@ -14072,8 +14284,8 @@ _detalhes_database = {
 								["Ravenous Fleshfiend"] = 271690,
 								["Strider Tonk"] = 178730,
 								["Head Machinist Sparkflux"] = 2033192,
-								["Mindrend Tentacle"] = 500765,
-								["Blood of the Corruptor"] = 560895,
+								["Mechagon Mechanic"] = 50940,
+								["Alarm-o-Bot"] = 18367,
 								["Samh'rek, Beckoner of Chaos"] = 754185,
 								["Defense Bot Mk III"] = 1190960,
 								["Blastatron X-80"] = 943268,
@@ -14083,22 +14295,22 @@ _detalhes_database = {
 								["G.U.A.R.D."] = 1079097,
 								["Aerial Unit R-21/X"] = 1255148,
 								["Junkyard D.0.G."] = 772510,
-								["Rocket Tonk"] = 216408,
-								["The Platinum Pummeler"] = 524837,
+								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 45055,
 								["Inconspicuous Plant"] = 82862,
+								["Living Waste"] = 270553,
 								["Urg'roth, Breaker of Heroes"] = 690794,
 								["Spider Tank"] = 1617847,
 								["Voidweaver Mal'thir"] = 749572,
-								["Living Waste"] = 270553,
+								["The Platinum Pummeler"] = 524837,
 								["Bomb Tonk"] = 384620,
-								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 45055,
+								["K.U.-J.0."] = 1473821,
 								["Omega Buster"] = 1943127,
 								["King Mechagon"] = 95169,
-								["K.U.-J.0."] = 1473821,
+								["Rocket Tonk"] = 216408,
 								["Workshop Defender"] = 180477,
-								["Alarm-o-Bot"] = 18367,
+								["Blood of the Corruptor"] = 560895,
 								["Explosive Scarab"] = 356085,
-								["Mechagon Mechanic"] = 50940,
+								["Mindrend Tentacle"] = 500765,
 							},
 							["end_time"] = 1583735344,
 							["pets"] = {
@@ -14663,17 +14875,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 13757192.011556,
 							["serial"] = "Creature-0-3022-2097-7027-151659-0000E5DC40",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8506366.011556,
 							["nome"] = "Rocket Tonk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14776,10 +14988,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8506366.011556,
+							["on_hold"] = false,
 							["start_time"] = 1583735295,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [6]
 						{
 							["flag_original"] = 8466,
@@ -14813,7 +15025,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-89-000065E196",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 0.084256,
 							["classe"] = "PET",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -14822,7 +15034,8 @@ _detalhes_database = {
 							["total"] = 13628031.084256,
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["damage_taken"] = 0.084256,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
 							["spells"] = {
@@ -14931,8 +15144,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1583734935,
 							["delay"] = 0,
 							["dps_started"] = false,
@@ -14945,26 +15157,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 2492327,
 								["Peace"] = 4224576,
+								["Warlockmania"] = 2996802,
 								["Yukio"] = 2444895,
 								["Toshpal"] = 1143475,
-								["Warlockmania"] = 2996802,
 							},
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 13302075.080345,
-							["damage_taken"] = 0.08034499999999999,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 13302075.080345,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Eye of Corruption",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[315161] = {
@@ -14976,9 +15188,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 2492327,
 											["Peace"] = 4224576,
+											["Warlockmania"] = 2996802,
 											["Yukio"] = 2444895,
 											["Toshpal"] = 1143475,
-											["Warlockmania"] = 2996802,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 13302075,
@@ -15002,12 +15214,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.08034499999999999,
 							["fight_component"] = true,
-							["total"] = 13302075.080345,
+							["nome"] = "Eye of Corruption",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583734811,
 							["delay"] = 0,
 							["monster"] = true,
@@ -15028,23 +15240,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 2458570,
 								["Peace"] = 1189476,
+								["Yukio"] = 1302330,
 								["Toshpal"] = 285003,
 								["Warlockmania"] = 1790082,
-								["Yukio"] = 1302330,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7025461.045365999,
 							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 18686650.045366,
 							["nome"] = "Defense Bot Mk I",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15088,9 +15300,9 @@ _detalhes_database = {
 										["n_max"] = 97058,
 										["targets"] = {
 											["Metsy"] = 2458570,
+											["Toshpal"] = 285003,
 											["Yukio"] = 437461,
 											["Warlockmania"] = 1790082,
-											["Toshpal"] = 285003,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 4971116,
@@ -15120,10 +15332,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 18686650.045366,
+							["on_hold"] = false,
 							["start_time"] = 1583735246,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [9]
 						{
 							["flag_original"] = 4370,
@@ -15164,7 +15376,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 149759.102153,
 							["classe"] = "PET",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -15174,7 +15386,8 @@ _detalhes_database = {
 							["total"] = 5570978.102153,
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["damage_taken"] = 149759.102153,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
 							["spells"] = {
@@ -15292,8 +15505,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1583734222,
 							["delay"] = 0,
 							["dps_started"] = false,
@@ -15320,17 +15532,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4902604.030342001,
 							["serial"] = "Creature-0-3022-2097-7027-144293-000165DC40",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 24696274.030342,
 							["nome"] = "Waste Processing Unit",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15463,10 +15675,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 24696274.030342,
+							["on_hold"] = false,
 							["start_time"] = 1583735223,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [11]
 						{
 							["flag_original"] = 2632,
@@ -15485,23 +15697,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 391610,
 								["Peace"] = 1086271,
+								["Warlockmania"] = 1645876,
 								["Yukio"] = 830030,
 								["Toshpal"] = 393605,
-								["Warlockmania"] = 1645876,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4347392.034812,
 							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 12841471.034812,
 							["nome"] = "Defense Bot Mk III",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15543,9 +15755,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 391610,
 											["Peace"] = 229552,
+											["Warlockmania"] = 565336,
 											["Yukio"] = 395468,
 											["Toshpal"] = 393605,
-											["Warlockmania"] = 565336,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1975571,
@@ -15658,10 +15870,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 12841471.034812,
+							["on_hold"] = false,
 							["start_time"] = 1583735273,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [12]
 						{
 							["flag_original"] = 68168,
@@ -15680,26 +15892,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 513312,
 								["Peace"] = 2005368,
+								["Toshpal"] = 416291,
 								["Warlockmania"] = 706898,
 								["Yukio"] = 604641,
-								["Toshpal"] = 416291,
 							},
 							["serial"] = "Creature-0-3022-2097-7027-144246-000065DC40",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4246510.006726,
-							["damage_taken"] = 20569230.006726,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 4246510.006726,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "K.U.-J.0.",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -15824,9 +16036,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 513312,
 											["Peace"] = 300693,
+											["Toshpal"] = 416291,
 											["Warlockmania"] = 512811,
 											["Yukio"] = 261502,
-											["Toshpal"] = 416291,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2004609,
@@ -15904,12 +16116,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 20569230.006726,
 							["fight_component"] = true,
-							["total"] = 4246510.006726,
+							["nome"] = "K.U.-J.0.",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735266,
 							["delay"] = 0,
 							["monster"] = true,
@@ -15928,19 +16140,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-153202-000065DC40",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4046466.013581,
-							["damage_taken"] = 260904.013581,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 4046466.013581,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Piston Smasher",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[282943] = {
@@ -15976,12 +16188,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 260904.013581,
 							["fight_component"] = true,
-							["total"] = 4046466.013581,
+							["nome"] = "Piston Smasher",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735321,
 							["delay"] = 0,
 							["monster"] = true,
@@ -16002,23 +16214,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 142416,
 								["Peace"] = 1745885,
+								["Warlockmania"] = 429278,
 								["Yukio"] = 695445,
 								["Toshpal"] = 785911,
-								["Warlockmania"] = 429278,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3798935.007042,
 							["serial"] = "Creature-0-3022-2097-7027-161244-000065E04F",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8992010.007041998,
 							["nome"] = "Blood of the Corruptor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16087,9 +16299,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 142416,
 											["Peace"] = 409779,
+											["Warlockmania"] = 429278,
 											["Yukio"] = 695445,
 											["Toshpal"] = 785911,
-											["Warlockmania"] = 429278,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2462829,
@@ -16119,10 +16331,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8992010.007041998,
+							["on_hold"] = false,
 							["start_time"] = 1583735262,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [15]
 						{
 							["flag_original"] = 68168,
@@ -16153,19 +16365,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-145185-000065DC82",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3786525.01098,
-							["damage_taken"] = 16413833.01098,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 3786525.01098,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Gnomercy 4.U.",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[318587] = {
@@ -16288,9 +16500,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 559967,
 											["Peace"] = 389411,
+											["Yukio"] = 544791,
 											["Toshpal"] = 508034,
 											["Warlockmania"] = 554602,
-											["Yukio"] = 544791,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2556805,
@@ -16341,12 +16553,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 16413833.01098,
 							["fight_component"] = true,
-							["total"] = 3786525.01098,
+							["nome"] = "Gnomercy 4.U.",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735333,
 							["delay"] = 0,
 							["monster"] = true,
@@ -16371,17 +16583,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3637349.01619,
 							["serial"] = "Creature-0-3022-2097-7027-151773-000065DC40",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 11582879.01619,
 							["nome"] = "Junkyard D.0.G.",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16483,10 +16695,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 11582879.01619,
+							["on_hold"] = false,
 							["start_time"] = 1583735255,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [17]
 						{
 							["flag_original"] = 2632,
@@ -16501,19 +16713,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-161895-000065E219",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3536451.070358,
-							["damage_taken"] = 0.070358,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 3536451.070358,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Thing From Beyond",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[315197] = {
@@ -16549,12 +16761,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.070358,
 							["fight_component"] = true,
-							["total"] = 3536451.070358,
+							["nome"] = "Thing From Beyond",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735283,
 							["delay"] = 0,
 							["monster"] = true,
@@ -16572,24 +16784,24 @@ _detalhes_database = {
 								["Yukio"] = true,
 							},
 							["targets"] = {
-								["Toshpal"] = 166902,
 								["Yukio"] = 722519,
 								["Warlockmania"] = 362994,
+								["Toshpal"] = 166902,
 								["Peace"] = 1703470,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2955885.030074,
 							["serial"] = "Vehicle-0-3022-2097-7027-144296-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 18529788.030074,
 							["nome"] = "Spider Tank",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16720,10 +16932,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 18529788.030074,
+							["on_hold"] = false,
 							["start_time"] = 1583735246,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [19]
 						{
 							["flag_original"] = 2632,
@@ -16741,24 +16953,24 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 388809,
 								["Peace"] = 601808,
+								["Yukio"] = 1001748,
 								["Toshpal"] = 572949,
 								["Warlockmania"] = 359732,
-								["Yukio"] = 1001748,
 							},
 							["pets"] = {
 								"Anti-Personnel Squirrel <Mechagon Tinkerer>", -- [1]
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1929980.041483,
 							["serial"] = "Creature-0-3022-2097-7027-144294-0001E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 19498716.041483,
 							["nome"] = "Mechagon Tinkerer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16860,10 +17072,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 19498716.041483,
+							["on_hold"] = false,
 							["start_time"] = 1583735247,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [20]
 						{
 							["flag_original"] = 2632,
@@ -16887,19 +17099,19 @@ _detalhes_database = {
 							["serial"] = "Vehicle-0-3022-2097-7027-144249-000065E1DC",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2892683.011196,
-							["damage_taken"] = 19273978.011196,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 2892683.011196,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Omega Buster",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -17021,12 +17233,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 19273978.011196,
 							["fight_component"] = true,
-							["total"] = 2892683.011196,
+							["nome"] = "Omega Buster",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735274,
 							["delay"] = 0,
 							["monster"] = true,
@@ -17050,17 +17262,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2700161.019063,
 							["serial"] = "Creature-0-3022-2097-7027-144299-000165DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 15436918.019063,
 							["nome"] = "Workshop Defender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17136,10 +17348,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 15436918.019063,
+							["on_hold"] = false,
 							["start_time"] = 1583735215,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [22]
 						{
 							["flag_original"] = 8466,
@@ -17167,7 +17379,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065E19D",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 0.073083,
 							["classe"] = "PET",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -17176,7 +17388,8 @@ _detalhes_database = {
 							["total"] = 2322111.073083,
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["damage_taken"] = 0.073083,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
 							["spells"] = {
@@ -17232,8 +17445,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1583735190,
 							["delay"] = 0,
 							["dps_started"] = false,
@@ -17246,26 +17458,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 332157,
 								["Peace"] = 209929,
+								["Yukio"] = 987921,
 								["Toshpal"] = 304151,
 								["Warlockmania"] = 471772,
-								["Yukio"] = 987921,
 							},
 							["serial"] = "Creature-0-3022-2097-7027-145560-000065E1FC",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2305930.012709,
-							["damage_taken"] = 0.012709,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 2305930.012709,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Magneto-Arm",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[283143] = {
@@ -17304,9 +17516,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 332157,
 											["Peace"] = 209929,
+											["Yukio"] = 987921,
 											["Toshpal"] = 304151,
 											["Warlockmania"] = 471772,
-											["Yukio"] = 987921,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2305930,
@@ -17330,12 +17542,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.012709,
 							["fight_component"] = true,
-							["total"] = 2305930.012709,
+							["nome"] = "Magneto-Arm",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735332,
 							["delay"] = 0,
 							["monster"] = true,
@@ -17361,19 +17573,19 @@ _detalhes_database = {
 							["serial"] = "Vehicle-0-3022-2097-7027-150396-000065DC41",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2086246.008325,
-							["damage_taken"] = 15436385.008325,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 2086246.008325,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Aerial Unit R-21/X",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291865] = {
@@ -17519,12 +17731,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 15436385.008325,
 							["fight_component"] = true,
-							["total"] = 2086246.008325,
+							["nome"] = "Aerial Unit R-21/X",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735298,
 							["delay"] = 0,
 							["monster"] = true,
@@ -17547,17 +17759,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2082865.008184,
 							["serial"] = "Creature-0-3022-2097-7027-161124-000065DF29",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 9628362.008183999,
 							["nome"] = "Urg'roth, Breaker of Heroes",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17681,10 +17893,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 9628362.008183999,
+							["on_hold"] = false,
 							["start_time"] = 1583735304,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [26]
 						{
 							["flag_original"] = 2632,
@@ -17706,19 +17918,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-144248-000065DC41",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2031391.009583,
-							["damage_taken"] = 22491919.009583,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 2031391.009583,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Head Machinist Sparkflux",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -17807,12 +18019,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 22491919.009583,
 							["fight_component"] = true,
-							["total"] = 2031391.009583,
+							["nome"] = "Head Machinist Sparkflux",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735258,
 							["delay"] = 0,
 							["monster"] = true,
@@ -17834,17 +18046,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1720635.015478,
 							["serial"] = "Creature-0-3022-2097-7027-144303-000065DE8F",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7715628.015478,
 							["nome"] = "G.U.A.R.D.",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17918,10 +18130,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7715628.015478,
+							["on_hold"] = false,
 							["start_time"] = 1583735293,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [28]
 						{
 							["flag_original"] = 8466,
@@ -17931,9 +18143,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Defense Bot Mk III"] = 204075,
 								["Omega Buster"] = 138495,
+								["Head Machinist Sparkflux"] = 279186,
 								["Gnomercy 4.U."] = 197850,
 								["Waste Processing Unit"] = 214216,
-								["Head Machinist Sparkflux"] = 279186,
 								["Mindrend Tentacle"] = 191138,
 								["K.U.-J.0."] = 203242,
 								["Blastatron X-80"] = 178066,
@@ -17941,7 +18153,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-19668-000065E1F5",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 0.07278699999999999,
 							["classe"] = "PET",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -17950,7 +18162,8 @@ _detalhes_database = {
 							["total"] = 1606268.072787,
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["damage_taken"] = 0.07278699999999999,
+							["friendlyfire"] = {
+							},
 							["ownerName"] = "Metsy",
 							["nome"] = "Shadowfiend <Metsy>",
 							["spells"] = {
@@ -17964,9 +18177,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Defense Bot Mk III"] = 204075,
 											["Omega Buster"] = 138495,
+											["Head Machinist Sparkflux"] = 279186,
 											["Gnomercy 4.U."] = 197850,
 											["Waste Processing Unit"] = 214216,
-											["Head Machinist Sparkflux"] = 279186,
 											["Mindrend Tentacle"] = 191138,
 											["K.U.-J.0."] = 203242,
 											["Blastatron X-80"] = 178066,
@@ -17998,8 +18211,7 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1583735205,
 							["delay"] = 0,
 							["dps_started"] = false,
@@ -18011,26 +18223,26 @@ _detalhes_database = {
 							},
 							["targets"] = {
 								["Metsy"] = 228727,
+								["Warlockmania"] = 685027,
 								["Toshpal"] = 437082,
 								["Yukio"] = 228390,
-								["Warlockmania"] = 685027,
 							},
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1579226.012133,
-							["damage_taken"] = 0.012133,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 1579226.012133,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "[*] Self-Trimming Hedge",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[294954] = {
@@ -18041,9 +18253,9 @@ _detalhes_database = {
 										["n_max"] = 232705,
 										["targets"] = {
 											["Metsy"] = 228727,
+											["Warlockmania"] = 685027,
 											["Toshpal"] = 437082,
 											["Yukio"] = 228390,
-											["Warlockmania"] = 685027,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1579226,
@@ -18067,12 +18279,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.012133,
 							["fight_component"] = true,
-							["total"] = 1579226.012133,
+							["nome"] = "[*] Self-Trimming Hedge",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735322,
 							["delay"] = 0,
 							["monster"] = true,
@@ -18096,17 +18308,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1528629.012637,
 							["serial"] = "Creature-0-3022-2097-7027-161510-0001E5E051",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 5452856.012637,
 							["nome"] = "Mindrend Tentacle",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18149,10 +18361,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 5452856.012637,
+							["on_hold"] = false,
 							["start_time"] = 1583735307,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [31]
 						{
 							["flag_original"] = 2632,
@@ -18162,26 +18374,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 333404,
 								["Peace"] = 234858,
+								["Yukio"] = 331516,
 								["Toshpal"] = 296557,
 								["Warlockmania"] = 330307,
-								["Yukio"] = 331516,
 							},
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1526642.007308,
-							["damage_taken"] = 0.007308,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 1526642.007308,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "[*] Blazing Chomp",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[294961] = {
@@ -18193,9 +18405,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 333404,
 											["Peace"] = 234858,
+											["Yukio"] = 331516,
 											["Toshpal"] = 296557,
 											["Warlockmania"] = 330307,
-											["Yukio"] = 331516,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1526642,
@@ -18219,12 +18431,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.007308,
 							["fight_component"] = true,
-							["total"] = 1526642.007308,
+							["nome"] = "[*] Blazing Chomp",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735335,
 							["delay"] = 0,
 							["monster"] = true,
@@ -18241,17 +18453,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1505568.017572,
 							["serial"] = "Creature-0-3022-2097-7027-151655-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.017572,
 							["nome"] = "High-Explosive Rocket",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18294,22 +18506,22 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.017572,
+							["on_hold"] = false,
 							["start_time"] = 1583735331,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [33]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 619073.011157,
 							["damage_from"] = {
 								["Metsy"] = true,
-								["Toshpal"] = true,
+								["Warlockmania"] = true,
 								["Peace"] = true,
 								["Jhaaphom <Warlockmania>"] = true,
 								["Piston Smasher"] = true,
+								["Toshpal"] = true,
 								["Yukio"] = true,
-								["Warlockmania"] = true,
 							},
 							["targets"] = {
 								["Toshpal"] = 140053,
@@ -18318,19 +18530,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1497118.011157,
-							["damage_taken"] = 7737559.011157,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 1497118.011157,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "The Platinum Pummeler",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -18420,12 +18632,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 7737559.011157,
 							["fight_component"] = true,
-							["total"] = 1497118.011157,
+							["nome"] = "The Platinum Pummeler",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735294,
 							["delay"] = 0,
 							["monster"] = true,
@@ -18450,17 +18662,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1313499.015977,
 							["serial"] = "Creature-0-3022-2097-7027-144301-0002E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 6209791.015977,
 							["nome"] = "Living Waste",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18535,10 +18747,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6209791.015977,
+							["on_hold"] = false,
 							["start_time"] = 1583735304,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [35]
 						{
 							["flag_original"] = 2632,
@@ -18548,26 +18760,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 312445,
 								["Peace"] = 63115,
+								["Yukio"] = 314989,
 								["Warlockmania"] = 236462,
 								["Toshpal"] = 278864,
-								["Yukio"] = 314989,
 							},
 							["serial"] = "Creature-0-3022-2097-7027-145312-000265DCA5",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1205875.014916,
-							["damage_taken"] = 0.014916,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 1205875.014916,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Buzz Saw",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[282945] = {
@@ -18580,9 +18792,9 @@ _detalhes_database = {
 											["Metsy"] = 312445,
 											["Peace"] = 63115,
 											["Gnomercy 4.U."] = 0,
+											["Yukio"] = 314989,
 											["Toshpal"] = 278864,
 											["Warlockmania"] = 236462,
-											["Yukio"] = 314989,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1205875,
@@ -18608,12 +18820,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.014916,
 							["fight_component"] = true,
-							["total"] = 1205875.014916,
+							["nome"] = "Buzz Saw",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735319,
 							["delay"] = 0,
 							["monster"] = true,
@@ -18639,17 +18851,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1129785.009561,
 							["serial"] = "Creature-0-3022-2097-7027-161241-000065E138",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8442519.009560999,
 							["nome"] = "Voidweaver Mal'thir",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18776,10 +18988,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8442519.009560999,
+							["on_hold"] = false,
 							["start_time"] = 1583735295,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [37]
 						{
 							["flag_original"] = 2632,
@@ -18800,17 +19012,17 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-151613-000065E0F1",
 							["pets"] = {
 							},
-							["damage_taken"] = 2781379.034066,
-							["fight_component"] = true,
+							["friendlyfire"] = {
+							},
+							["monster"] = true,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 995066.0340659999,
 							["total"] = 995066.0340659999,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["ownerName"] = "Mechagon Tinkerer",
 							["nome"] = "Anti-Personnel Squirrel <Mechagon Tinkerer>",
 							["spells"] = {
@@ -18853,10 +19065,10 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["damage_taken"] = 2781379.034066,
 							["start_time"] = 1583735332,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [38]
 						{
 							["flag_original"] = 2632,
@@ -18866,9 +19078,9 @@ _detalhes_database = {
 								["Twisted Appendage <Metsy>"] = true,
 								["Peace"] = true,
 								["Jhaaphom <Warlockmania>"] = true,
+								["Warlockmania"] = true,
 								["Yukio"] = true,
 								["Toshpal"] = true,
-								["Warlockmania"] = true,
 							},
 							["targets"] = {
 								["Jhaaphom <Warlockmania>"] = 12474,
@@ -18878,17 +19090,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 934621.013503,
 							["serial"] = "Creature-0-3022-2097-7027-161243-000065DD38",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 9003537.013503002,
 							["nome"] = "Samh'rek, Beckoner of Chaos",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18987,10 +19199,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 9003537.013503002,
+							["on_hold"] = false,
 							["start_time"] = 1583735293,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [39]
 						{
 							["flag_original"] = 2632,
@@ -19005,19 +19217,19 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 920896.0075599999,
-							["damage_taken"] = 0.007560000000000001,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 920896.0075599999,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "[*] Giga-Zap",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291939] = {
@@ -19053,12 +19265,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.007560000000000001,
 							["fight_component"] = true,
-							["total"] = 920896.0075599999,
+							["nome"] = "[*] Giga-Zap",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735296,
 							["delay"] = 0,
 							["monster"] = true,
@@ -19069,9 +19281,9 @@ _detalhes_database = {
 							["damage_from"] = {
 								["Metsy"] = true,
 								["Peace"] = true,
+								["Warlockmania"] = true,
 								["Yukio"] = true,
 								["Toshpal"] = true,
-								["Warlockmania"] = true,
 							},
 							["targets"] = {
 								["Jhaaphom <Warlockmania>"] = 137285,
@@ -19079,17 +19291,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 874748.008217,
 							["serial"] = "Creature-0-3022-2097-7027-161502-0001E5DD3B",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 6356519.008217,
 							["nome"] = "Ravenous Fleshfiend",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19164,10 +19376,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6356519.008217,
+							["on_hold"] = false,
 							["start_time"] = 1583735315,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [41]
 						{
 							["flag_original"] = 2632,
@@ -19180,23 +19392,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 189769,
 								["Peace"] = 234744,
+								["Yukio"] = 46358,
 								["Toshpal"] = 301663,
 								["Warlockmania"] = 92439,
-								["Yukio"] = 46358,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 864973.0109079999,
 							["serial"] = "Creature-0-3022-2097-7027-161408-000165DF2B",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 653230.0109079999,
 							["nome"] = "Malicious Growth",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19209,9 +19421,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 189769,
 											["Peace"] = 234744,
+											["Yukio"] = 46358,
 											["Toshpal"] = 301663,
 											["Warlockmania"] = 92439,
-											["Yukio"] = 46358,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 864973,
@@ -19241,10 +19453,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 653230.0109079999,
+							["on_hold"] = false,
 							["start_time"] = 1583735329,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [42]
 						{
 							["flag_original"] = 2632,
@@ -19254,26 +19466,26 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 109257,
 								["Peace"] = 419054,
+								["Yukio"] = 113566,
 								["Toshpal"] = 108069,
 								["Warlockmania"] = 107008,
-								["Yukio"] = 113566,
 							},
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 856954.014557,
-							["damage_taken"] = 0.014557,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 856954.014557,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "[*] Cutting Beam",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[296331] = {
@@ -19285,9 +19497,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 109257,
 											["Peace"] = 72578,
+											["Yukio"] = 113566,
 											["Toshpal"] = 108069,
 											["Warlockmania"] = 107008,
-											["Yukio"] = 113566,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 510478,
@@ -19339,12 +19551,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.014557,
 							["fight_component"] = true,
-							["total"] = 856954.014557,
+							["nome"] = "[*] Cutting Beam",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735335,
 							["delay"] = 0,
 							["monster"] = true,
@@ -19361,19 +19573,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-150520-0000E5DC40",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 759270.0117810001,
-							["damage_taken"] = 0.011781,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 759270.0117810001,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Cubed Clutter",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291930] = {
@@ -19436,12 +19648,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.011781,
 							["fight_component"] = true,
-							["total"] = 759270.0117810001,
+							["nome"] = "Cubed Clutter",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735340,
 							["delay"] = 0,
 							["monster"] = true,
@@ -19463,17 +19675,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 647606.015709,
 							["serial"] = "Creature-0-3022-2097-7027-151657-0000E5DC40",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 5122610.015709,
 							["nome"] = "Bomb Tonk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19517,10 +19729,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 5122610.015709,
+							["on_hold"] = false,
 							["start_time"] = 1583735328,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [45]
 						{
 							["flag_original"] = 2632,
@@ -19528,26 +19740,26 @@ _detalhes_database = {
 							["damage_from"] = {
 								["Metsy"] = true,
 								["Peace"] = true,
+								["Yukio"] = true,
 								["Toshpal"] = true,
 								["Warlockmania"] = true,
-								["Yukio"] = true,
 							},
 							["targets"] = {
 								["Peace"] = 624009,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 624009.00617,
 							["serial"] = "Creature-0-3022-2097-7027-161437-000165E13B",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 1291460.00617,
 							["nome"] = "Explosive Scarab",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19616,10 +19828,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1291460.00617,
+							["on_hold"] = false,
 							["start_time"] = 1583735320,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [46]
 						{
 							["flag_original"] = 2632,
@@ -19639,17 +19851,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 597724.0103989999,
 							["serial"] = "Creature-0-3022-2097-7027-151658-0000E5DC40",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7791641.010399,
 							["nome"] = "Strider Tonk",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19773,10 +19985,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7791641.010399,
+							["on_hold"] = false,
 							["start_time"] = 1583735296,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [47]
 						{
 							["flag_original"] = 2632,
@@ -19796,17 +20008,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 563962.021427,
 							["serial"] = "Vehicle-0-3022-2097-7027-151476-000065DEEA",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 9676647.021427002,
 							["nome"] = "Blastatron X-80",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19958,10 +20170,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 9676647.021427002,
+							["on_hold"] = false,
 							["start_time"] = 1583735311,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [48]
 						{
 							["flag_original"] = 2632,
@@ -19975,19 +20187,19 @@ _detalhes_database = {
 							["serial"] = "",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 440457.009023,
-							["damage_taken"] = 0.009023,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 440457.009023,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "[*] Plasma Orb",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291915] = {
@@ -19997,9 +20209,9 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 234092,
 										["targets"] = {
+											["Yukio"] = 0,
 											["Toshpal"] = 206365,
 											["Warlockmania"] = 234092,
-											["Yukio"] = 0,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 440457,
@@ -20024,12 +20236,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.009023,
 							["fight_component"] = true,
-							["total"] = 440457.009023,
+							["nome"] = "[*] Plasma Orb",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735340,
 							["delay"] = 0,
 							["monster"] = true,
@@ -20051,17 +20263,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 397586.0103709999,
 							["serial"] = "Creature-0-3022-2097-7027-144295-000165DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 3865088.010371,
 							["nome"] = "Mechagon Mechanic",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20158,10 +20370,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 3865088.010371,
+							["on_hold"] = false,
 							["start_time"] = 1583735314,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [50]
 						{
 							["flag_original"] = 2632,
@@ -20170,9 +20382,9 @@ _detalhes_database = {
 								["Metsy"] = true,
 								["Twisted Appendage <Metsy>"] = true,
 								["Peace"] = true,
+								["Toshpal"] = true,
 								["Warlockmania"] = true,
 								["Yukio"] = true,
-								["Toshpal"] = true,
 							},
 							["targets"] = {
 								["Yukio"] = 126837,
@@ -20182,19 +20394,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-152033-000465DC41",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 373874.008516,
-							["damage_taken"] = 1392852.008516,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 373874.008516,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Inconspicuous Plant",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -20313,12 +20525,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 1392852.008516,
 							["fight_component"] = true,
-							["total"] = 373874.008516,
+							["nome"] = "Inconspicuous Plant",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735326,
 							["delay"] = 0,
 							["monster"] = true,
@@ -20604,19 +20816,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-150485-000165E195",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 208177.012885,
-							["damage_taken"] = 0.012885,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 208177.012885,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Plasma Orb",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291856] = {
@@ -20652,12 +20864,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.012885,
 							["fight_component"] = true,
-							["total"] = 208177.012885,
+							["nome"] = "Plasma Orb",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735340,
 							["delay"] = 0,
 							["monster"] = true,
@@ -20738,26 +20950,26 @@ _detalhes_database = {
 								["Metsy"] = true,
 								["Peace"] = true,
 								["Jhaaphom <Warlockmania>"] = true,
+								["Yukio"] = true,
 								["Toshpal"] = true,
 								["Warlockmania"] = true,
-								["Yukio"] = true,
 							},
 							["targets"] = {
 								["Peace"] = 34079,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 34079.018451,
 							["serial"] = "Creature-0-3022-2097-7027-151325-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 196539.018451,
 							["nome"] = "Alarm-o-Bot",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20799,10 +21011,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 196539.018451,
+							["on_hold"] = false,
 							["start_time"] = 1583735331,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [55]
 						{
 							["flag_original"] = 2632,
@@ -20822,19 +21034,19 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-150397-000065DC41",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 22850.007157,
-							["damage_taken"] = 1333938.007157,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 22850.007157,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "King Mechagon",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -20896,12 +21108,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 1333938.007157,
 							["fight_component"] = true,
-							["total"] = 22850.007157,
+							["nome"] = "King Mechagon",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735335,
 							["delay"] = 0,
 							["monster"] = true,
@@ -20926,7 +21138,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 8440.002993,
 							["delay"] = 0,
-							["damage_taken"] = 221191.002993,
+							["on_hold"] = false,
 							["nome"] = "Black Empire Summoner",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20962,13 +21174,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["end_time"] = 1583773008,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 221191.002993,
 							["start_time"] = 1583773004,
 							["serial"] = "Creature-0-3776-2274-3482-161141-00006674E6",
 							["dps_started"] = false,
@@ -20983,17 +21195,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.020929,
 							["serial"] = "Creature-0-3022-2097-7027-151579-0000E5E0EE",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 36190.020929,
 							["nome"] = "Shield Generator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21035,10 +21247,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 36190.020929,
+							["on_hold"] = false,
 							["start_time"] = 1583735338,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [58]
 						{
 							["flag_original"] = 2632,
@@ -21049,17 +21261,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.017291,
 							["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.017291,
 							["nome"] = "Unknown",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21099,10 +21311,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.017291,
+							["on_hold"] = false,
 							["start_time"] = 1583735341,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [59]
 						{
 							["flag_original"] = 2632,
@@ -21114,19 +21326,19 @@ _detalhes_database = {
 							["serial"] = "Vehicle-0-3022-2097-7027-150442-0000E5DC40",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.015799,
-							["damage_taken"] = 0.015799,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.015799,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Flying Claw",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[291874] = {
@@ -21186,12 +21398,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 0.015799,
 							["fight_component"] = true,
-							["total"] = 0.015799,
+							["nome"] = "Flying Claw",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735341,
 							["delay"] = 0,
 							["monster"] = true,
@@ -21215,20 +21427,20 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
 							["serial"] = "Creature-0-3022-2097-7027-154781-000165DC41",
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["nome"] = "Copper Hopper",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 4853.011116000001,
 							["total"] = 0.011116,
 							["friendlyfire"] = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4853.011116000001,
+							["on_hold"] = false,
 							["start_time"] = 1583735338,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -21244,30 +21456,30 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-152455-0003E5DC40",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.010272,
-							["damage_taken"] = 702685.010272,
-							["dps_started"] = false,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.010272,
+							["friendlyfire"] = {
+							},
 							["last_event"] = 0,
-							["nome"] = "Tussle Tonks Arena",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["boss_fight_component"] = true,
+							["damage_taken"] = 702685.010272,
 							["fight_component"] = true,
-							["total"] = 0.010272,
+							["nome"] = "Tussle Tonks Arena",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735341,
 							["delay"] = 0,
 							["monster"] = true,
@@ -21292,8 +21504,8 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-145854-0007E5DC40",
 							["fight_component"] = true,
 							["end_time"] = 1583735344,
-							["on_hold"] = false,
 							["last_dps"] = 0,
+							["damage_taken"] = 3164004.008719,
 							["nome"] = "B.4.T.T.L.3. Bots Arena",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21306,7 +21518,7 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 3164004.008719,
+							["on_hold"] = false,
 							["start_time"] = 1583735341,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -21438,7 +21650,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 7534.003151,
 							["delay"] = 0,
-							["damage_taken"] = 0.003151,
+							["on_hold"] = false,
 							["nome"] = "Faceless Manipulator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21474,13 +21686,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["end_time"] = 1583773008,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.003151,
 							["start_time"] = 1583773008,
 							["serial"] = "Creature-0-3776-2274-3482-158953-00006674F4",
 							["dps_started"] = false,
@@ -21995,9 +22207,9 @@ _detalhes_database = {
 								["Metsy"] = 3783148,
 								["Peace"] = 21760045,
 								["Jhaaphom <Warlockmania>"] = 111376,
+								["Toshpal"] = 8842804,
 								["Warlockmania"] = 6975242,
 								["Yukio"] = 4706726,
-								["Toshpal"] = 8842804,
 							},
 							["totalover_without_pet"] = 0.106988,
 							["healing_taken"] = 9465551.106988,
@@ -22094,17 +22306,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 585989,
 											["Peace"] = 1221490,
+											["Yukio"] = 798242,
 											["Warlockmania"] = 548967,
 											["Toshpal"] = 1347169,
-											["Yukio"] = 798242,
 										},
 										["n_max"] = 96403,
 										["targets"] = {
 											["Metsy"] = 1983545,
 											["Peace"] = 6312914,
+											["Yukio"] = 2662489,
 											["Warlockmania"] = 3131558,
 											["Toshpal"] = 3395875,
-											["Yukio"] = 2662489,
 										},
 										["n_min"] = 0,
 										["counter"] = 196,
@@ -22166,9 +22378,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 130961,
 											["Peace"] = 2073896,
+											["Yukio"] = 64751,
 											["Toshpal"] = 708221,
 											["Warlockmania"] = 987111,
-											["Yukio"] = 64751,
 										},
 										["n_min"] = 0,
 										["counter"] = 42,
@@ -22198,9 +22410,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 24043,
 											["Peace"] = 149350,
+											["Yukio"] = 12435,
 											["Toshpal"] = 50738,
 											["Warlockmania"] = 74613,
-											["Yukio"] = 12435,
 										},
 										["n_min"] = 0,
 										["counter"] = 21,
@@ -22369,9 +22581,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 74040,
 											["Peace"] = 402852,
+											["Warlockmania"] = 141831,
 											["Toshpal"] = 137484,
 											["Yukio"] = 81984,
-											["Warlockmania"] = 141831,
 										},
 										["n_min"] = 0,
 										["counter"] = 88,
@@ -22397,17 +22609,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 1273012,
 											["Peace"] = 1551426,
+											["Warlockmania"] = 1384204,
 											["Toshpal"] = 2614637,
 											["Yukio"] = 1905777,
-											["Warlockmania"] = 1384204,
 										},
 										["n_max"] = 23244,
 										["targets"] = {
 											["Metsy"] = 1183213,
 											["Peace"] = 3897682,
+											["Warlockmania"] = 2145665,
 											["Toshpal"] = 2006920,
 											["Yukio"] = 1101523,
-											["Warlockmania"] = 2145665,
 										},
 										["n_min"] = 0,
 										["counter"] = 834,
@@ -22495,9 +22707,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 8164930,
 								["Peace"] = 1422074,
+								["Yukio"] = 541471,
 								["Warlockmania"] = 775687,
 								["Toshpal"] = 524510,
-								["Yukio"] = 541471,
 							},
 							["totalover_without_pet"] = 0.09575,
 							["healing_taken"] = 11948078.09575,
@@ -22507,9 +22719,9 @@ _detalhes_database = {
 							["targets_overheal"] = {
 								["Metsy"] = 10262783,
 								["Peace"] = 157383,
+								["Toshpal"] = 113092,
 								["Yukio"] = 102667,
 								["Warlockmania"] = 117722,
-								["Toshpal"] = 113092,
 							},
 							["nome"] = "Metsy",
 							["timeMachine"] = 3,
@@ -22717,17 +22929,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 65832,
 											["Peace"] = 157383,
+											["Toshpal"] = 113092,
 											["Yukio"] = 102667,
 											["Warlockmania"] = 117722,
-											["Toshpal"] = 113092,
 										},
 										["n_max"] = 145003,
 										["targets"] = {
 											["Metsy"] = 361031,
 											["Peace"] = 1422074,
+											["Yukio"] = 541471,
 											["Warlockmania"] = 775687,
 											["Toshpal"] = 524510,
-											["Yukio"] = 541471,
 										},
 										["n_min"] = 0,
 										["counter"] = 165,
@@ -23436,7 +23648,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.07721,
 							["total_without_pet"] = 0.07721,
 							["total"] = 0.07721,
@@ -23461,18 +23673,18 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
 							["healing_from"] = {
 								["Toshpal"] = true,
 								["Warlockmania"] = true,
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["start_time"] = 1583735341,
 							["totaldenied"] = 0.07721,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [6]
 						{
 							["flag_original"] = 8466,
@@ -23481,7 +23693,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.073382,
 							["total_without_pet"] = 0.073382,
 							["total"] = 0.073382,
@@ -23506,16 +23718,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
 							["healing_from"] = {
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["start_time"] = 1583735338,
 							["totaldenied"] = 0.073382,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [7]
 						{
 							["flag_original"] = 8466,
@@ -23524,7 +23736,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.03499500000000001,
 							["total_without_pet"] = 0.03499500000000001,
 							["total"] = 0.03499500000000001,
@@ -23549,16 +23761,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["heal_enemy_amt"] = 0,
 							["healing_from"] = {
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["start_time"] = 1583735338,
 							["totaldenied"] = 0.03499500000000001,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [8]
 						{
 							["flag_original"] = 68168,
@@ -23568,39 +23780,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.026706,
+							["end_time"] = 1583735344,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.026706,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["heal_enemy_amt"] = 491804,
+							["classe"] = "UNKNOW",
 							["totalover"] = 0.026706,
 							["total_without_pet"] = 0.026706,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.026706,
 							["start_time"] = 1583735335,
 							["fight_component"] = true,
-							["end_time"] = 1583735344,
-							["classe"] = "UNKNOW",
+							["total"] = 0.026706,
 							["healing_taken"] = 0.026706,
+							["heal_enemy_amt"] = 491804,
 							["nome"] = "Defense Bot Mk III",
+							["targets_absorbs"] = {
+							},
+							["monster"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[297133] = 491804,
+							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
-							["monster"] = true,
-							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
-							["heal_enemy"] = {
-								[297133] = 491804,
-							},
-							["targets_absorbs"] = {
-							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.026706,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
 							["tipo"] = 2,
 						}, -- [9]
 						{
@@ -23611,40 +23823,40 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.015033,
+							["end_time"] = 1583735344,
 							["pets"] = {
 							},
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.015033,
 							["targets_overheal"] = {
 							},
-							["heal_enemy_amt"] = 2428506,
+							["healing_taken"] = 0.015033,
 							["totalover"] = 0.015033,
 							["total_without_pet"] = 0.015033,
-							["totalover_without_pet"] = 0.015033,
+							["iniciar_hps"] = false,
 							["start_time"] = 1583735338,
 							["fight_component"] = true,
-							["end_time"] = 1583735344,
-							["healing_taken"] = 0.015033,
+							["total"] = 0.015033,
 							["classe"] = "UNKNOW",
+							["heal_enemy_amt"] = 2428506,
 							["nome"] = "Defense Bot Mk I",
-							["targets_absorbs"] = {
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 3,
 							},
 							["monster"] = true,
 							["tipo"] = 2,
 							["heal_enemy"] = {
 								[293926] = 2428506,
 							},
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 3,
+							["targets_absorbs"] = {
 							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.015033,
-							["delay"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
+							["delay"] = 0,
 						}, -- [10]
 						{
 							["flag_original"] = 1304,
@@ -23709,6 +23921,9 @@ _detalhes_database = {
 							["classe"] = "PRIEST",
 							["end_time"] = 1583773008,
 							["heal_enemy_amt"] = 0,
+							["targets_absorbs"] = {
+							},
+							["timeMachine"] = 8,
 							["spells"] = {
 								["_ActorTable"] = {
 									[17] = {
@@ -23770,14 +23985,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 8,
-							["spec"] = 256,
 							["total"] = 0.008223,
 							["serial"] = "Player-11-0A9253F6",
 							["heal_enemy"] = {
 							},
-							["targets_absorbs"] = {
-							},
+							["spec"] = 256,
 							["custom"] = 0,
 							["last_event"] = 1583735700,
 							["on_hold"] = false,
@@ -23850,17 +24062,21 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["classe"] = "UNGROUPPLAYER",
+							["healing_taken"] = 0.007711,
 							["totalover"] = 81154.007711,
 							["total_without_pet"] = 0.007711,
-							["total"] = 0.007711,
-							["totalover_without_pet"] = 0.007711,
-							["healing_taken"] = 0.007711,
 							["end_time"] = 1583773008,
+							["totalover_without_pet"] = 0.007711,
+							["classe"] = "UNGROUPPLAYER",
+							["total"] = 0.007711,
 							["serial"] = "Player-3661-083878C0",
-							["heal_enemy_amt"] = 0,
+							["timeMachine"] = 10,
 							["nome"] = "Arkadin-Hyjal",
 							["targets_absorbs"] = {
+							},
+							["last_event"] = 1583735860,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
 							},
 							["spells"] = {
 								["_ActorTable"] = {
@@ -23917,16 +24133,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 10,
-							["heal_enemy"] = {
-							},
-							["start_time"] = 1583772955,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
-							["totaldenied"] = 0.007711,
+							["start_time"] = 1583772955,
 							["delay"] = 1583735860,
-							["last_event"] = 1583735860,
+							["totaldenied"] = 0.007711,
 						}, -- [14]
 						{
 							["flag_original"] = 1304,
@@ -24091,17 +24303,21 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["classe"] = "UNGROUPPLAYER",
+							["healing_taken"] = 0.005604,
 							["totalover"] = 29355.005604,
 							["total_without_pet"] = 0.005604,
-							["total"] = 0.005604,
-							["totalover_without_pet"] = 0.005604,
-							["healing_taken"] = 0.005604,
 							["end_time"] = 1583773008,
+							["totalover_without_pet"] = 0.005604,
+							["classe"] = "UNGROUPPLAYER",
+							["total"] = 0.005604,
 							["serial"] = "Player-11-0B3F7023",
-							["heal_enemy_amt"] = 0,
+							["timeMachine"] = 9,
 							["nome"] = "Patronvader-Tichondrius",
 							["targets_absorbs"] = {
+							},
+							["last_event"] = 1583735759,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
 							},
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24136,16 +24352,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 9,
-							["heal_enemy"] = {
-							},
-							["start_time"] = 1583772977,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
-							["totaldenied"] = 0.005604,
+							["start_time"] = 1583772977,
 							["delay"] = 1583735759,
-							["last_event"] = 1583735759,
+							["totaldenied"] = 0.005604,
 						}, -- [18]
 						{
 							["flag_original"] = 1304,
@@ -24241,17 +24453,21 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["classe"] = "UNGROUPPLAYER",
+							["healing_taken"] = 0.004275,
 							["totalover"] = 15047.004275,
 							["total_without_pet"] = 0.004275,
-							["total"] = 0.004275,
-							["totalover_without_pet"] = 0.004275,
-							["healing_taken"] = 0.004275,
 							["end_time"] = 1583773008,
+							["totalover_without_pet"] = 0.004275,
+							["classe"] = "UNGROUPPLAYER",
+							["total"] = 0.004275,
 							["serial"] = "",
-							["heal_enemy_amt"] = 0,
+							["timeMachine"] = 6,
 							["nome"] = "[*] Azerite",
 							["targets_absorbs"] = {
+							},
+							["last_event"] = 1583735533,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
 							},
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24286,16 +24502,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 6,
-							["heal_enemy"] = {
-							},
-							["start_time"] = 1583773007,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
-							["totaldenied"] = 0.004275,
+							["start_time"] = 1583773007,
 							["delay"] = 1583735533,
-							["last_event"] = 1583735533,
+							["totaldenied"] = 0.004275,
 						}, -- [21]
 						{
 							["flag_original"] = 1304,
@@ -24391,17 +24603,21 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["classe"] = "PRIEST",
+							["healing_taken"] = 0.002777,
 							["totalover"] = 127623.002777,
 							["total_without_pet"] = 0.002777,
-							["total"] = 0.002777,
-							["totalover_without_pet"] = 0.002777,
-							["healing_taken"] = 0.002777,
 							["end_time"] = 1583773008,
+							["totalover_without_pet"] = 0.002777,
+							["classe"] = "PRIEST",
+							["total"] = 0.002777,
 							["serial"] = "Player-11-0B795868",
-							["heal_enemy_amt"] = 0,
+							["nome"] = "Bløomy-Tichondrius",
 							["timeMachine"] = 2,
 							["targets_absorbs"] = {
+							},
+							["last_event"] = 1583735776,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
 							},
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24438,16 +24654,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["nome"] = "Bløomy-Tichondrius",
-							["heal_enemy"] = {
-							},
-							["start_time"] = 1583773007,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
-							["totaldenied"] = 0.002777,
+							["start_time"] = 1583773007,
 							["delay"] = 1583735776,
-							["last_event"] = 1583735776,
+							["totaldenied"] = 0.002777,
 						}, -- [24]
 						{
 							["flag_original"] = 1320,
@@ -24474,6 +24686,9 @@ _detalhes_database = {
 							["classe"] = "DRUID",
 							["end_time"] = 1583773008,
 							["heal_enemy_amt"] = 0,
+							["targets_absorbs"] = {
+							},
+							["timeMachine"] = 7,
 							["spells"] = {
 								["_ActorTable"] = {
 									[207386] = {
@@ -24625,14 +24840,11 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 7,
-							["spec"] = 105,
 							["total"] = 0.002528,
 							["serial"] = "Player-119-06B39A68",
 							["heal_enemy"] = {
 							},
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["custom"] = 0,
 							["last_event"] = 1583735634,
 							["on_hold"] = false,
@@ -24734,17 +24946,21 @@ _detalhes_database = {
 							["iniciar_hps"] = false,
 							["healing_from"] = {
 							},
-							["classe"] = "UNGROUPPLAYER",
+							["healing_taken"] = 0.001198,
 							["totalover"] = 305490.001198,
 							["total_without_pet"] = 0.001198,
-							["total"] = 0.001198,
-							["totalover_without_pet"] = 0.001198,
-							["healing_taken"] = 0.001198,
 							["end_time"] = 1583773008,
+							["totalover_without_pet"] = 0.001198,
+							["classe"] = "UNGROUPPLAYER",
+							["total"] = 0.001198,
 							["serial"] = "Player-3661-08125E83",
-							["heal_enemy_amt"] = 0,
+							["timeMachine"] = 4,
 							["nome"] = "Sonnoren-Hyjal",
 							["targets_absorbs"] = {
+							},
+							["last_event"] = 1583735994,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
 							},
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24807,16 +25023,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["timeMachine"] = 4,
-							["heal_enemy"] = {
-							},
-							["start_time"] = 1583772768,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["on_hold"] = false,
-							["totaldenied"] = 0.001198,
+							["start_time"] = 1583772768,
 							["delay"] = 1583735994,
-							["last_event"] = 1583735994,
+							["totaldenied"] = 0.001198,
 						}, -- [28]
 					},
 				}, -- [2]
@@ -25300,15 +25512,14 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[317020] = {
-										["appliedamt"] = 118,
+									[300714] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 9,
+										["appliedamt"] = 9,
+										["id"] = 300714,
+										["uptime"] = 387,
 										["targets"] = {
 										},
-										["activedamt"] = 118,
-										["uptime"] = 1195,
-										["id"] = 317020,
-										["refreshamt"] = 443,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[274774] = {
@@ -25321,34 +25532,37 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[195630] = {
-										["refreshamt"] = 387,
-										["activedamt"] = 294,
-										["appliedamt"] = 294,
-										["id"] = 195630,
-										["uptime"] = 826,
+									[294966] = {
+										["appliedamt"] = 27,
 										["targets"] = {
 										},
+										["activedamt"] = 27,
+										["uptime"] = 1278,
+										["id"] = 294966,
+										["refreshamt"] = 42,
+										["actived"] = false,
 										["counter"] = 0,
 									},
-									[119085] = {
-										["refreshamt"] = 3,
-										["activedamt"] = 22,
-										["appliedamt"] = 22,
-										["id"] = 119085,
-										["uptime"] = 191,
+									[295842] = {
+										["appliedamt"] = 102,
 										["targets"] = {
 										},
-										["counter"] = 0,
-									},
-									[120954] = {
-										["appliedamt"] = 3,
-										["uptime"] = 45,
-										["activedamt"] = 3,
-										["id"] = 120954,
+										["activedamt"] = 102,
+										["uptime"] = 659,
+										["id"] = 295842,
 										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[317020] = {
+										["appliedamt"] = 118,
 										["targets"] = {
 										},
+										["activedamt"] = 118,
+										["uptime"] = 1195,
+										["id"] = 317020,
+										["refreshamt"] = 443,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[101643] = {
@@ -25373,12 +25587,12 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[303041] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 43,
-										["appliedamt"] = 43,
-										["id"] = 303041,
-										["uptime"] = 254,
+									[116847] = {
+										["refreshamt"] = 35,
+										["activedamt"] = 92,
+										["appliedamt"] = 92,
+										["id"] = 116847,
+										["uptime"] = 816,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -25393,25 +25607,24 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[289324] = {
-										["refreshamt"] = 2,
-										["activedamt"] = 20,
-										["appliedamt"] = 20,
-										["id"] = 289324,
-										["uptime"] = 42,
+									[195630] = {
+										["refreshamt"] = 387,
+										["activedamt"] = 294,
+										["appliedamt"] = 294,
+										["id"] = 195630,
+										["uptime"] = 826,
 										["targets"] = {
 										},
 										["counter"] = 0,
 									},
-									[295842] = {
-										["appliedamt"] = 102,
+									[122278] = {
+										["appliedamt"] = 6,
+										["uptime"] = 60,
+										["activedamt"] = 6,
+										["id"] = 122278,
+										["refreshamt"] = 0,
 										["targets"] = {
 										},
-										["activedamt"] = 102,
-										["uptime"] = 659,
-										["id"] = 295842,
-										["refreshamt"] = 0,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[318378] = {
@@ -25424,12 +25637,12 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[317859] = {
-										["refreshamt"] = 15,
-										["activedamt"] = 26,
-										["appliedamt"] = 26,
-										["id"] = 317859,
-										["uptime"] = 412,
+									[303041] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 43,
+										["appliedamt"] = 43,
+										["id"] = 303041,
+										["uptime"] = 254,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -25444,23 +25657,22 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[294966] = {
-										["appliedamt"] = 27,
+									[289324] = {
+										["refreshamt"] = 2,
+										["activedamt"] = 20,
+										["appliedamt"] = 20,
+										["id"] = 289324,
+										["uptime"] = 42,
 										["targets"] = {
 										},
-										["activedamt"] = 27,
-										["uptime"] = 1278,
-										["id"] = 294966,
-										["refreshamt"] = 42,
-										["actived"] = false,
 										["counter"] = 0,
 									},
-									[122278] = {
-										["appliedamt"] = 6,
-										["uptime"] = 60,
-										["activedamt"] = 6,
-										["id"] = 122278,
-										["refreshamt"] = 0,
+									[119085] = {
+										["refreshamt"] = 3,
+										["activedamt"] = 22,
+										["appliedamt"] = 22,
+										["id"] = 119085,
+										["uptime"] = 191,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -25497,12 +25709,12 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[116847] = {
-										["refreshamt"] = 35,
-										["activedamt"] = 92,
-										["appliedamt"] = 92,
-										["id"] = 116847,
-										["uptime"] = 816,
+									[317859] = {
+										["refreshamt"] = 15,
+										["activedamt"] = 26,
+										["appliedamt"] = 26,
+										["id"] = 317859,
+										["uptime"] = 412,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -25550,12 +25762,12 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[300714] = {
+									[120954] = {
+										["appliedamt"] = 3,
+										["uptime"] = 45,
+										["activedamt"] = 3,
+										["id"] = 120954,
 										["refreshamt"] = 0,
-										["activedamt"] = 9,
-										["appliedamt"] = 9,
-										["id"] = 300714,
-										["uptime"] = 387,
 										["targets"] = {
 										},
 										["counter"] = 0,
@@ -25589,6 +25801,21 @@ _detalhes_database = {
 							["serial"] = "Player-9-09B16B50",
 							["cc_break_spells"] = {
 								["_ActorTable"] = {
+									[148187] = {
+										["cc_break_oque"] = {
+											[31661] = 4,
+											[122] = 4,
+										},
+										["id"] = 148187,
+										["cc_break"] = 8,
+										["targets"] = {
+											["Workshop Defender"] = 1,
+											["Mechagon Mechanic"] = 1,
+											["Living Waste"] = 4,
+											["Ravenous Fleshfiend"] = 2,
+										},
+										["counter"] = 0,
+									},
 									[123725] = {
 										["cc_break_oque"] = {
 											[122] = 6,
@@ -25609,21 +25836,6 @@ _detalhes_database = {
 										["targets"] = {
 											["Mechagon Tinkerer"] = 2,
 											["G.U.A.R.D."] = 2,
-										},
-										["counter"] = 0,
-									},
-									[148187] = {
-										["cc_break_oque"] = {
-											[31661] = 4,
-											[122] = 4,
-										},
-										["id"] = 148187,
-										["cc_break"] = 8,
-										["targets"] = {
-											["Workshop Defender"] = 1,
-											["Mechagon Mechanic"] = 1,
-											["Living Waste"] = 4,
-											["Ravenous Fleshfiend"] = 2,
 										},
 										["counter"] = 0,
 									},
@@ -25691,7 +25903,7 @@ _detalhes_database = {
 								["Defense Bot Mk I"] = 2,
 							},
 							["cc_done"] = 30.049786,
-							["boss_fight_component"] = true,
+							["nome"] = "Peace",
 							["grupo"] = true,
 							["spell_cast"] = {
 								[101643] = 6,
@@ -25744,7 +25956,7 @@ _detalhes_database = {
 								["Living Waste"] = 10,
 								["Ravenous Fleshfiend"] = 2,
 							},
-							["nome"] = "Peace",
+							["boss_fight_component"] = true,
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[115176] = {
@@ -26385,9 +26597,9 @@ _detalhes_database = {
 									[122] = {
 										["id"] = 122,
 										["targets"] = {
+											["Explosive Scarab"] = 5,
 											["Living Waste"] = 9,
 											["Inconspicuous Plant"] = 1,
-											["Explosive Scarab"] = 5,
 										},
 										["counter"] = 15,
 									},
@@ -26437,7 +26649,7 @@ _detalhes_database = {
 								["Warlockmania"] = 1,
 							},
 							["cc_done"] = 43.041331,
-							["interrupt"] = 6.030587000000001,
+							["boss_fight_component"] = true,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[80353] = 2,
@@ -26484,7 +26696,7 @@ _detalhes_database = {
 								["Explosive Scarab"] = 1,
 								["Living Waste"] = 12,
 							},
-							["boss_fight_component"] = true,
+							["interrupt"] = 6.030587000000001,
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[45438] = {
@@ -26961,14 +27173,9 @@ _detalhes_database = {
 								[314592] = 1,
 							},
 							["debuff_uptime"] = 1688,
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["interrupt_targets"] = {
-								["Warlockmania"] = 2,
-								["Voidweaver Mal'thir"] = 2,
-								["Mechagon Tinkerer"] = 2,
-								["Mindrend Tentacle"] = 1,
-							},
+							["spec"] = 267,
 							["cc_break"] = 16.012844,
 							["cc_done_targets"] = {
 								["Workshop Defender"] = 1,
@@ -27028,10 +27235,15 @@ _detalhes_database = {
 								["Warlockmania"] = 2,
 							},
 							["fight_component"] = true,
+							["interrupt_targets"] = {
+								["Warlockmania"] = 2,
+								["Voidweaver Mal'thir"] = 2,
+								["Mechagon Tinkerer"] = 2,
+								["Mindrend Tentacle"] = 1,
+							},
 							["boss_fight_component"] = true,
-							["interrupt"] = 7.021848,
 							["cc_done"] = 15.023909,
-							["nome"] = "Warlockmania",
+							["interrupt"] = 7.021848,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[301308] = 1,
@@ -27059,7 +27271,7 @@ _detalhes_database = {
 								[31661] = 12,
 								[122] = 4,
 							},
-							["spec"] = 267,
+							["nome"] = "Warlockmania",
 							["tipo"] = 4,
 							["last_event"] = 1583735344,
 							["cc_break_targets"] = {
@@ -27067,7 +27279,7 @@ _detalhes_database = {
 								["Mindrend Tentacle"] = 2,
 								["Living Waste"] = 12,
 							},
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
@@ -28311,9 +28523,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 2,
 											["Peace"] = 8,
+											["Toshpal"] = 2,
 											["Yukio"] = 4,
 											["Warlockmania"] = 6,
-											["Toshpal"] = 2,
 										},
 										["counter"] = 0,
 									},
@@ -28364,9 +28576,9 @@ _detalhes_database = {
 							["dispell_targets"] = {
 								["Metsy"] = 2,
 								["Peace"] = 8,
+								["Toshpal"] = 2,
 								["Yukio"] = 4,
 								["Warlockmania"] = 6,
-								["Toshpal"] = 2,
 							},
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
@@ -28420,14 +28632,14 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[19483] = 30,
 							},
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065E196",
 							["boss_fight_component"] = true,
 						}, -- [6]
@@ -28440,14 +28652,14 @@ _detalhes_database = {
 								[291928] = 3,
 								[291878] = 11,
 							},
-							["nome"] = "Aerial Unit R-21/X",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Aerial Unit R-21/X",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Vehicle-0-3022-2097-7027-150396-000065DC41",
 							["fight_component"] = true,
 						}, -- [7]
@@ -28496,23 +28708,23 @@ _detalhes_database = {
 							},
 							["tipo"] = 4,
 							["interrupt"] = 5.017427000000001,
-							["nome"] = "Jhaaphom <Warlockmania>",
-							["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
 							["last_event"] = 0,
+							["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
+							["nome"] = "Jhaaphom <Warlockmania>",
 						}, -- [8]
 						{
 							["flag_original"] = 8466,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[316826] = 18,
 								[316835] = 5,
 							},
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065E19D",
 							["boss_fight_component"] = true,
 						}, -- [9]
@@ -28521,14 +28733,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[291856] = 48,
 							},
-							["nome"] = "Plasma Orb",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Plasma Orb",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-150485-000165E195",
 							["fight_component"] = true,
 						}, -- [10]
@@ -28561,6 +28773,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 237,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 192,
 									["appliedamt"] = 0,
@@ -28570,13 +28789,6 @@ _detalhes_database = {
 								},
 								["Toshpal"] = {
 									["uptime"] = 282,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 237,
 									["appliedamt"] = 0,
 									["activedamt"] = 1,
 									["actived"] = false,
@@ -28621,6 +28833,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 12,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 12,
 									["appliedamt"] = 0,
@@ -28630,13 +28849,6 @@ _detalhes_database = {
 								},
 								["Yukio"] = {
 									["uptime"] = 24,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 12,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -28680,6 +28892,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 104,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 104,
 									["appliedamt"] = 0,
@@ -28689,13 +28908,6 @@ _detalhes_database = {
 								},
 								["Toshpal"] = {
 									["uptime"] = 100,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 104,
 									["appliedamt"] = 0,
 									["activedamt"] = 1,
 									["actived"] = false,
@@ -28746,14 +28958,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[291974] = 1,
 							},
-							["nome"] = "King Mechagon",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "King Mechagon",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-150397-000065DC41",
 							["fight_component"] = true,
 						}, -- [15]
@@ -28786,6 +28998,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 7,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 8,
 									["appliedamt"] = 0,
@@ -28795,13 +29014,6 @@ _detalhes_database = {
 								},
 								["Toshpal"] = {
 									["uptime"] = 8,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 7,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -28822,14 +29034,14 @@ _detalhes_database = {
 								[292264] = 6,
 								[283551] = 1,
 							},
-							["nome"] = "Omega Buster",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Omega Buster",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Vehicle-0-3022-2097-7027-144249-000065E1DC",
 							["fight_component"] = true,
 						}, -- [17]
@@ -28838,14 +29050,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[283143] = 1,
 							},
-							["nome"] = "Magneto-Arm",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Magneto-Arm",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-145560-000065E1FC",
 							["fight_component"] = true,
 						}, -- [18]
@@ -28890,6 +29102,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 0,
+									["appliedamt"] = 0,
+									["activedamt"] = 3,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 0,
 									["appliedamt"] = 0,
@@ -28904,24 +29123,17 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
-								["Toshpal"] = {
-									["uptime"] = 0,
-									["appliedamt"] = 0,
-									["activedamt"] = 3,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
 							},
 							["last_event"] = 0,
 							["nome"] = "Ny'alotha Incursion",
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["damage_spellid"] = 313445,
+							["boss_debuff"] = true,
 							["classe"] = "UNKNOW",
 							["damage_twin"] = "Cursed Spire of Ny'alotha",
+							["damage_spellid"] = 313445,
 							["serial"] = "Creature-0-3022-2097-7027-161163-000065DC42",
-							["boss_debuff"] = true,
 						}, -- [20]
 						{
 							["flag_original"] = 68168,
@@ -29041,6 +29253,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 38,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 63,
 									["appliedamt"] = 0,
@@ -29050,13 +29269,6 @@ _detalhes_database = {
 								},
 								["Warlockmania"] = {
 									["uptime"] = 14,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 38,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -29188,6 +29400,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 43,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 28,
 									["appliedamt"] = 0,
@@ -29199,13 +29418,6 @@ _detalhes_database = {
 									["uptime"] = 9,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 43,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
@@ -29404,6 +29616,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 6,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 10,
 									["appliedamt"] = 0,
@@ -29413,13 +29632,6 @@ _detalhes_database = {
 								},
 								["Yukio"] = {
 									["uptime"] = 9,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 6,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -29439,14 +29651,14 @@ _detalhes_database = {
 								[294855] = 4,
 								[294863] = 2,
 							},
-							["nome"] = "Inconspicuous Plant",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Inconspicuous Plant",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-152033-000465DC41",
 							["fight_component"] = true,
 						}, -- [39]
@@ -29501,14 +29713,14 @@ _detalhes_database = {
 								[285454] = 5,
 								[285440] = 2,
 							},
-							["nome"] = "Head Machinist Sparkflux",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Head Machinist Sparkflux",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-144248-000065DC41",
 							["fight_component"] = true,
 						}, -- [41]
@@ -29558,6 +29770,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 2,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 11,
 									["appliedamt"] = 0,
@@ -29567,13 +29786,6 @@ _detalhes_database = {
 								},
 								["Warlockmania"] = {
 									["uptime"] = 4,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
-									["uptime"] = 2,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -29657,14 +29869,14 @@ _detalhes_database = {
 								[291946] = 3,
 								[291973] = 2,
 							},
-							["nome"] = "K.U.-J.0.",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "K.U.-J.0.",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-144246-000065DC40",
 							["fight_component"] = true,
 						}, -- [47]
@@ -29689,14 +29901,14 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[291930] = 4,
 							},
-							["nome"] = "Cubed Clutter",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Cubed Clutter",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-150520-0000E5DC40",
 							["fight_component"] = true,
 						}, -- [49]
@@ -29753,6 +29965,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 9,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 9,
 									["appliedamt"] = 0,
@@ -29762,13 +29981,6 @@ _detalhes_database = {
 								},
 								["Yukio"] = {
 									["uptime"] = 4,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 9,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -29994,14 +30206,14 @@ _detalhes_database = {
 								[283422] = 1,
 								[283421] = 1,
 							},
-							["nome"] = "Gnomercy 4.U.",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "Gnomercy 4.U.",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-145185-000065DC82",
 							["fight_component"] = true,
 						}, -- [60]
@@ -30011,14 +30223,14 @@ _detalhes_database = {
 								[285020] = 2,
 								[285344] = 5,
 							},
-							["nome"] = "The Platinum Pummeler",
+							["boss_fight_component"] = true,
 							["monster"] = true,
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["nome"] = "The Platinum Pummeler",
+							["tipo"] = 4,
 							["last_event"] = 0,
 							["classe"] = "UNKNOW",
-							["tipo"] = 4,
 							["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
 							["fight_component"] = true,
 						}, -- [61]
@@ -30057,14 +30269,14 @@ _detalhes_database = {
 						{
 							["monster"] = true,
 							["nome"] = "Unknown",
-							["tipo"] = 4,
+							["classe"] = "UNKNOW",
 							["pets"] = {
 							},
 							["spell_cast"] = {
 								[282801] = 1,
 							},
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
 							["flag_original"] = 2632,
 						}, -- [64]
@@ -30759,9 +30971,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["total_segments_added"] = 8,
 				["spells_cast_timeline"] = {
@@ -30809,18 +31021,18 @@ _detalhes_database = {
 						{
 							["Metsy"] = 11428672.09575,
 							["Peace"] = 49255247.08458299,
+							["Yukio"] = 8858129.096043,
 							["Warlockmania"] = 8340137.105168999,
 							["Toshpal"] = 46143244.10698801,
-							["Yukio"] = 8858129.096043,
 						}, -- [1]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 75647089.106671,
 							["Peace"] = 42831280.100341,
+							["Yukio"] = 91989480.072879,
 							["Toshpal"] = 23140618.089211,
 							["Warlockmania"] = 80598855.094922,
-							["Yukio"] = 91989480.072879,
 						}, -- [1]
 					},
 				},
@@ -30845,18 +31057,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583735341,
-							["nome"] = "Yukio",
 							["friendlyfire_total"] = 0,
+							["spec"] = 63,
+							["classe"] = "MAGE",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9978061.001513,
-							["spec"] = 63,
+							["nome"] = "Yukio",
 							["serial"] = "Player-9-0AFB89C2",
 							["dps_started"] = false,
+							["end_time"] = 1583735341,
+							["last_dps"] = 64801.01962274604,
 							["total"] = 9978061.001513,
-							["classe"] = "MAGE",
-							["damage_taken"] = 2276300.001513,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -31203,7 +31415,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583735204,
 							["delay"] = 1583735247,
-							["last_dps"] = 64801.01962274604,
+							["damage_taken"] = 2276300.001513,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -31226,18 +31438,18 @@ _detalhes_database = {
 								"Infernal <Warlockmania>", -- [1]
 								"Jhaaphom <Warlockmania>", -- [2]
 							},
-							["end_time"] = 1583735341,
-							["nome"] = "Warlockmania",
 							["friendlyfire_total"] = 34984,
+							["spec"] = 267,
+							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6492010.003268,
-							["spec"] = 267,
+							["nome"] = "Warlockmania",
 							["serial"] = "Player-9-0AE4E8BB",
 							["dps_started"] = false,
+							["end_time"] = 1583735341,
+							["last_dps"] = 57903.78622720943,
 							["total"] = 8916025.003268,
-							["classe"] = "WARLOCK",
-							["damage_taken"] = 2482836.003268,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -31504,7 +31716,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583735203,
 							["delay"] = 1583735247,
-							["last_dps"] = 57903.78622720943,
+							["damage_taken"] = 2482836.003268,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -31525,18 +31737,18 @@ _detalhes_database = {
 								"Twisted Appendage <Metsy>", -- [1]
 								"Shadowfiend <Metsy>", -- [2]
 							},
-							["end_time"] = 1583735341,
-							["nome"] = "Metsy",
 							["friendlyfire_total"] = 0,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7929857.007281,
-							["spec"] = 258,
+							["nome"] = "Metsy",
 							["serial"] = "Player-9-0B59DAFF",
 							["dps_started"] = false,
+							["end_time"] = 1583735341,
+							["last_dps"] = 56301.68857824893,
 							["total"] = 8669334.007281,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 1365519.007281,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -31949,7 +32161,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583735206,
 							["delay"] = 1583735247,
-							["last_dps"] = 56301.68857824893,
+							["damage_taken"] = 1365519.007281,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -32594,18 +32806,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583735341,
-							["nome"] = "Toshpal",
 							["friendlyfire_total"] = 0,
+							["spec"] = 65,
+							["classe"] = "PALADIN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3293444.002146,
-							["spec"] = 65,
+							["nome"] = "Toshpal",
 							["serial"] = "Player-9-0B60C80F",
 							["dps_started"] = false,
+							["end_time"] = 1583735341,
+							["last_dps"] = 21388.77777727727,
 							["total"] = 3293444.002146,
-							["classe"] = "PALADIN",
-							["damage_taken"] = 1241752.002146,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -32925,7 +33137,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583735204,
 							["delay"] = 1583735247,
-							["last_dps"] = 21388.77777727727,
+							["damage_taken"] = 1241752.002146,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -33102,9 +33314,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 332157,
 								["Peace"] = 209929,
+								["Toshpal"] = 304151,
 								["Warlockmania"] = 471772,
 								["Yukio"] = 987921,
-								["Toshpal"] = 304151,
 							},
 							["pets"] = {
 							},
@@ -33158,9 +33370,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 332157,
 											["Peace"] = 209929,
+											["Toshpal"] = 304151,
 											["Warlockmania"] = 471772,
 											["Yukio"] = 987921,
-											["Toshpal"] = 304151,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2305930,
@@ -33571,7 +33783,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 896468,
-							["boss_fight_component"] = true,
+							["total"] = 920896.004033,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -33580,8 +33792,8 @@ _detalhes_database = {
 							["total_without_pet"] = 920896.004033,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 920896.004033,
-							["damage_taken"] = 0.004033,
+							["end_time"] = 1583735341,
+							["last_dps"] = 0,
 							["last_event"] = 1583735245,
 							["nome"] = "[*] Giga-Zap",
 							["spells"] = {
@@ -33620,10 +33832,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1583735341,
+							["damage_taken"] = 0.004033,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -33639,13 +33851,13 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 109257,
 								["Peace"] = 419054,
+								["Toshpal"] = 108069,
 								["Warlockmania"] = 107008,
 								["Yukio"] = 113566,
-								["Toshpal"] = 108069,
 							},
 							["serial"] = "",
 							["spellicon"] = 839983,
-							["boss_fight_component"] = true,
+							["total"] = 856954.00839,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -33654,8 +33866,8 @@ _detalhes_database = {
 							["total_without_pet"] = 856954.00839,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 856954.00839,
-							["damage_taken"] = 0.00839,
+							["end_time"] = 1583735341,
+							["last_dps"] = 0,
 							["last_event"] = 1583735228,
 							["nome"] = "[*] Cutting Beam",
 							["spells"] = {
@@ -33669,9 +33881,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 109257,
 											["Peace"] = 72578,
+											["Toshpal"] = 108069,
 											["Warlockmania"] = 107008,
 											["Yukio"] = 113566,
-											["Toshpal"] = 108069,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 510478,
@@ -33725,10 +33937,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1583735341,
+							["damage_taken"] = 0.00839,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -33918,7 +34130,7 @@ _detalhes_database = {
 							},
 							["serial"] = "",
 							["spellicon"] = 1717108,
-							["boss_fight_component"] = true,
+							["total"] = 440457.006587,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -33927,8 +34139,8 @@ _detalhes_database = {
 							["total_without_pet"] = 440457.006587,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 440457.006587,
-							["damage_taken"] = 0.006587,
+							["end_time"] = 1583735341,
+							["last_dps"] = 0,
 							["last_event"] = 1583735306,
 							["nome"] = "[*] Plasma Orb",
 							["spells"] = {
@@ -33940,9 +34152,9 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 234092,
 										["targets"] = {
+											["Toshpal"] = 206365,
 											["Yukio"] = 0,
 											["Warlockmania"] = 234092,
-											["Toshpal"] = 206365,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 440457,
@@ -33968,10 +34180,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1583735341,
+							["damage_taken"] = 0.006587,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -34323,9 +34535,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 474324,
 								["Peace"] = 2021033,
+								["Warlockmania"] = 1393893,
 								["Yukio"] = 1066042,
 								["Toshpal"] = 1154658,
-								["Warlockmania"] = 1393893,
 							},
 							["totalover_without_pet"] = 0.006618,
 							["healing_taken"] = 1241752.006618,
@@ -34345,9 +34557,9 @@ _detalhes_database = {
 											["Shadowfiend <Metsy>"] = 25193,
 											["Peace"] = 91079,
 											["Jhaaphom <Warlockmania>"] = 204998,
+											["Yukio"] = 72893,
 											["Infernal <Warlockmania>"] = 238615,
 											["Toshpal"] = 309131,
-											["Yukio"] = 72893,
 										},
 										["n_max"] = 25524,
 										["targets"] = {
@@ -34439,17 +34651,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 132517,
 											["Peace"] = 378348,
+											["Warlockmania"] = 45366,
 											["Toshpal"] = 208358,
 											["Yukio"] = 264034,
-											["Warlockmania"] = 45366,
 										},
 										["n_max"] = 81998,
 										["targets"] = {
 											["Metsy"] = 191778,
 											["Peace"] = 286733,
+											["Warlockmania"] = 778215,
 											["Toshpal"] = 354110,
 											["Yukio"] = 380943,
-											["Warlockmania"] = 778215,
 										},
 										["n_min"] = 0,
 										["counter"] = 25,
@@ -34649,17 +34861,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 254324,
 											["Peace"] = 299419,
+											["Toshpal"] = 393615,
 											["Yukio"] = 238096,
 											["Warlockmania"] = 366903,
-											["Toshpal"] = 393615,
 										},
 										["n_max"] = 22721,
 										["targets"] = {
 											["Metsy"] = 241846,
 											["Peace"] = 447734,
+											["Toshpal"] = 394412,
 											["Yukio"] = 227520,
 											["Warlockmania"] = 470981,
-											["Toshpal"] = 394412,
 										},
 										["n_min"] = 0,
 										["counter"] = 146,
@@ -35111,9 +35323,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 891195,
 								["Peace"] = 62775,
+								["Warlockmania"] = 185603,
 								["Toshpal"] = 87094,
 								["Yukio"] = 23345,
-								["Warlockmania"] = 185603,
 							},
 							["totalover_without_pet"] = 0.004691,
 							["healing_taken"] = 1365519.004691,
@@ -35225,9 +35437,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 28025,
 											["Peace"] = 62775,
+											["Warlockmania"] = 185603,
 											["Toshpal"] = 87094,
 											["Yukio"] = 23345,
-											["Warlockmania"] = 185603,
 										},
 										["n_min"] = 0,
 										["counter"] = 25,
@@ -36423,14 +36635,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[317859] = {
-										["appliedamt"] = 2,
+									[303041] = {
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 43,
-										["id"] = 317859,
-										["refreshamt"] = 2,
+										["activedamt"] = 5,
+										["uptime"] = 52,
+										["id"] = 303041,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -36445,14 +36657,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[116847] = {
-										["appliedamt"] = 12,
+									[317859] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 12,
-										["uptime"] = 96,
-										["id"] = 116847,
-										["refreshamt"] = 3,
+										["activedamt"] = 2,
+										["uptime"] = 43,
+										["id"] = 317859,
+										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -36566,14 +36778,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[303041] = {
-										["appliedamt"] = 5,
+									[116847] = {
+										["appliedamt"] = 12,
 										["targets"] = {
 										},
-										["activedamt"] = 5,
-										["uptime"] = 52,
-										["id"] = 303041,
-										["refreshamt"] = 0,
+										["activedamt"] = 12,
+										["uptime"] = 96,
+										["id"] = 116847,
+										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -36604,9 +36816,9 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
+							["boss_fight_component"] = true,
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Peace",
 							["spec"] = 268,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -36636,7 +36848,7 @@ _detalhes_database = {
 							["last_event"] = 1583735341,
 							["isTank"] = true,
 							["serial"] = "Player-9-09B16B50",
-							["boss_fight_component"] = true,
+							["nome"] = "Peace",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -36675,6 +36887,17 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[315176] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 8,
+										["id"] = 315176,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[217694] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -36694,17 +36917,6 @@ _detalhes_database = {
 										["uptime"] = 133,
 										["id"] = 12654,
 										["refreshamt"] = 116,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[315176] = {
-										["appliedamt"] = 2,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 8,
-										["id"] = 315176,
-										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -37511,15 +37723,15 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[1122] = 1,
 								[104773] = 1,
-								[116858] = 24,
+								[113858] = 2,
 								[152108] = 5,
 								[296971] = 1,
 								[17962] = 19,
-								[33702] = 2,
+								[116858] = 24,
 								[348] = 5,
 								[111400] = 2,
 								[29722] = 36,
-								[113858] = 2,
+								[33702] = 2,
 							},
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
@@ -37548,14 +37760,14 @@ _detalhes_database = {
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[80354] = {
-										["appliedamt"] = 1,
+									[15407] = {
+										["appliedamt"] = 28,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 86,
-										["id"] = 80354,
-										["refreshamt"] = 0,
+										["uptime"] = 25,
+										["id"] = 15407,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -37570,13 +37782,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[34914] = {
-										["appliedamt"] = 2,
+									[80354] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 130,
-										["id"] = 34914,
+										["uptime"] = 86,
+										["id"] = 80354,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -37614,14 +37826,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[15407] = {
-										["appliedamt"] = 28,
+									[34914] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 25,
-										["id"] = 15407,
-										["refreshamt"] = 1,
+										["uptime"] = 130,
+										["id"] = 34914,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -38003,9 +38215,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
+							["nome"] = "Metsy",
 							["interrupt"] = 2.002037,
-							["buff_uptime_targets"] = {
-							},
 							["interrupt_targets"] = {
 								["Metsy"] = 2,
 							},
@@ -38017,10 +38228,10 @@ _detalhes_database = {
 								[205448] = 44,
 								[15286] = 1,
 								[17] = 15,
-								[295258] = 2,
 								[47585] = 1,
-								[64044] = 1,
 								[205351] = 34,
+								[64044] = 1,
+								[295258] = 2,
 								[589] = 1,
 								[228260] = 4,
 								[34433] = 1,
@@ -38029,7 +38240,8 @@ _detalhes_database = {
 							["debuff_uptime_targets"] = {
 							},
 							["tipo"] = 4,
-							["nome"] = "Metsy",
+							["buff_uptime_targets"] = {
+							},
 							["boss_fight_component"] = true,
 							["serial"] = "Player-9-0B59DAFF",
 							["pets"] = {
@@ -38290,13 +38502,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[642] = {
+									[292362] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 642,
+										["uptime"] = 153,
+										["id"] = 292362,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -38334,14 +38546,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[312915] = {
-										["appliedamt"] = 4,
+									[642] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 4,
-										["uptime"] = 83,
-										["id"] = 312915,
-										["refreshamt"] = 2,
+										["activedamt"] = 1,
+										["uptime"] = 8,
+										["id"] = 642,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -38433,14 +38645,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[292362] = {
-										["appliedamt"] = 1,
+									[312915] = {
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 153,
-										["id"] = 292362,
-										["refreshamt"] = 0,
+										["activedamt"] = 4,
+										["uptime"] = 83,
+										["id"] = 312915,
+										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -38517,9 +38729,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
+							["nome"] = "Toshpal",
 							["interrupt"] = 1.001786,
-							["buff_uptime_targets"] = {
-							},
 							["interrupt_targets"] = {
 								["Toshpal"] = 1,
 							},
@@ -38529,24 +38740,25 @@ _detalhes_database = {
 								[214202] = 5,
 								[642] = 1,
 								[26573] = 8,
-								[312725] = 1,
+								[31821] = 1,
 								[633] = 1,
 								[295258] = 1,
-								[31884] = 1,
+								[35395] = 24,
 								[20473] = 42,
-								[31821] = 1,
 								[85222] = 16,
+								[312725] = 1,
 								[19750] = 2,
 								[275773] = 9,
 								[498] = 1,
-								[35395] = 24,
 								[313148] = 2,
+								[31884] = 1,
 							},
 							["last_event"] = 1583735341,
 							["debuff_uptime_targets"] = {
 							},
 							["tipo"] = 4,
-							["nome"] = "Toshpal",
+							["buff_uptime_targets"] = {
+							},
 							["boss_fight_component"] = true,
 							["serial"] = "Player-9-0B60C80F",
 							["pets"] = {
@@ -38556,13 +38768,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[19483] = 5,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065E196",
 							["pets"] = {
 							},
@@ -38590,13 +38802,13 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[54049] = 38,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
 							["pets"] = {
 							},
@@ -38605,13 +38817,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[316826] = 4,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065E19D",
 							["pets"] = {
 							},
@@ -38713,6 +38925,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 12,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 24,
 									["appliedamt"] = 0,
@@ -38721,13 +38940,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Warlockmania"] = {
-									["uptime"] = 12,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
 									["uptime"] = 12,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -38772,6 +38984,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 12,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 12,
 									["appliedamt"] = 0,
@@ -38780,13 +38999,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Warlockmania"] = {
-									["uptime"] = 12,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
 									["uptime"] = 12,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -38877,6 +39089,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 8,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 8,
 									["appliedamt"] = 0,
@@ -38886,13 +39105,6 @@ _detalhes_database = {
 								},
 								["Warlockmania"] = {
 									["uptime"] = 7,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
-									["uptime"] = 8,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -38949,9 +39161,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["overall_added"] = true,
 				["last_events_tables"] = {
@@ -39173,32 +39385,32 @@ _detalhes_database = {
 						{
 							["Metsy"] = 393496.004691,
 							["Peace"] = 2211353.004864,
+							["Warlockmania"] = 516879.003842,
 							["Yukio"] = 113566.006087,
 							["Toshpal"] = 2129333.006618,
-							["Warlockmania"] = 516879.003842,
 						}, -- [1]
 						{
 							["Metsy"] = 856516.0000000001,
 							["Peace"] = 2545347,
+							["Yukio"] = 1065393,
 							["Warlockmania"] = 433529,
 							["Toshpal"] = 3980617.000000001,
-							["Yukio"] = 1065393,
 						}, -- [2]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 3471519.007281,
 							["Peace"] = 2512403.00321,
+							["Yukio"] = 4481121.001513001,
 							["Toshpal"] = 1255148.002146,
 							["Warlockmania"] = 3716194.003268,
-							["Yukio"] = 4481121.001513001,
 						}, -- [1]
 						{
 							["Metsy"] = 5197815,
 							["Peace"] = 2675034,
+							["Yukio"] = 5496940,
 							["Toshpal"] = 2038296,
 							["Warlockmania"] = 5199831,
-							["Yukio"] = 5496940,
 						}, -- [2]
 					},
 				},
@@ -39252,8 +39464,28 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["pets"] = {
 							},
-							["damage_taken"] = 23167968.021154,
-							["last_dps"] = 19911.45605174759,
+							["friendlyfire"] = {
+								["Toshpal"] = {
+									["spells"] = {
+										[240448] = 46938,
+										[6940] = 174136,
+									},
+									["total"] = 221074,
+								},
+								["Yukio"] = {
+									["spells"] = {
+										[240448] = 47952,
+									},
+									["total"] = 47952,
+								},
+								["Peace"] = {
+									["spells"] = {
+										[124255] = 12264846,
+									},
+									["total"] = 12264846,
+								},
+							},
+							["on_hold"] = false,
 							["classe"] = "MONK",
 							["raid_targets"] = {
 							},
@@ -39267,104 +39499,7 @@ _detalhes_database = {
 							["nome"] = "Peace",
 							["spec"] = 268,
 							["grupo"] = true,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 8,
-									["FULL_ABSORB_AMT"] = 904988,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 49,
-									["ALL"] = 198,
-									["PARTIAL_ABSORBED"] = 17,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 1244508,
-									["ABSORB"] = 66,
-									["ABSORB_AMT"] = 2149496,
-									["FULL_HIT"] = 132,
-									["HITS"] = 11,
-									["FULL_HIT_AMT"] = 1865059,
-								},
-								["Peace"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 377837,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 44,
-									["ALL"] = 169,
-									["PARTIAL_ABSORBED"] = 1,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 2307,
-									["ABSORB"] = 45,
-									["ABSORB_AMT"] = 380144,
-									["FULL_HIT"] = 124,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 1195784,
-								},
-								["Eye of Corruption"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 10,
-									["PARTIAL_ABSORBED"] = 7,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 142219,
-									["ABSORB"] = 7,
-									["ABSORB_AMT"] = 142219,
-									["FULL_HIT"] = 3,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 142124,
-								},
-								["Voidweaver Mal'thir"] = {
-									["DODGE"] = 5,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 4,
-									["PARTIAL_ABSORBED"] = 4,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 652463,
-									["ABSORB"] = 4,
-									["ABSORB_AMT"] = 652463,
-									["FULL_HIT"] = 0,
-									["HITS"] = 3,
-									["FULL_HIT_AMT"] = 0,
-								},
-								["Explosive Scarab"] = {
-									["DODGE"] = 3,
-									["FULL_ABSORB_AMT"] = 527151,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 5,
-									["ALL"] = 13,
-									["PARTIAL_ABSORBED"] = 3,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 213934,
-									["ABSORB"] = 8,
-									["ABSORB_AMT"] = 741085,
-									["FULL_HIT"] = 5,
-									["HITS"] = 8,
-									["FULL_HIT_AMT"] = 527151,
-								},
-								["Thing From Beyond"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 2,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 233585,
-									["ABSORB"] = 2,
-									["ABSORB_AMT"] = 233585,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-							},
+							["damage_taken"] = 23167968.021154,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -39405,39 +39540,38 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
-									[123725] = {
-										["c_amt"] = 61,
+									[205523] = {
+										["c_amt"] = 31,
 										["b_amt"] = 0,
-										["c_dmg"] = 108018,
+										["c_dmg"] = 888000,
 										["g_amt"] = 0,
-										["n_max"] = 1056,
+										["n_max"] = 17517,
 										["targets"] = {
-											["Defense Bot Mk III"] = 12148,
-											["Defense Bot Mk I"] = 12116,
-											["Mechagon Tinkerer"] = 15468,
-											["Voidweaver Mal'thir"] = 12891,
-											["Spider Tank"] = 45134,
-											["Blood of the Corruptor"] = 24448,
-											["Mechagon Mechanic"] = 13049,
-											["Workshop Defender"] = 48186,
+											["Defense Bot Mk III"] = 194589,
+											["Defense Bot Mk I"] = 71350,
+											["Mechagon Tinkerer"] = 51652,
+											["Spider Tank"] = 533213,
+											["Voidweaver Mal'thir"] = 159126,
+											["Blood of the Corruptor"] = 345223,
+											["Workshop Defender"] = 86834,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 75422,
-										["n_min"] = 60,
+										["n_dmg"] = 553987,
+										["n_min"] = 12254,
 										["g_dmg"] = 0,
-										["counter"] = 154,
-										["total"] = 183440,
-										["c_max"] = 2111,
-										["id"] = 123725,
+										["counter"] = 69,
+										["total"] = 1441987,
+										["c_max"] = 35035,
+										["id"] = 205523,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
+										["spellschool"] = 1,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 483,
+										["c_min"] = 25636,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 93,
+										["n_amt"] = 38,
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -39587,36 +39721,40 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[300717] = {
-										["c_amt"] = 8,
+									[123725] = {
+										["c_amt"] = 61,
 										["b_amt"] = 0,
-										["c_dmg"] = 66211,
+										["c_dmg"] = 108018,
 										["g_amt"] = 0,
-										["n_max"] = 4786,
+										["n_max"] = 1056,
 										["targets"] = {
-											["Workshop Defender"] = 9105,
-											["Defense Bot Mk I"] = 87626,
-											["Mechagon Tinkerer"] = 4595,
-											["Mechagon Mechanic"] = 9402,
-											["Blood of the Corruptor"] = 8834,
+											["Defense Bot Mk III"] = 12148,
+											["Defense Bot Mk I"] = 12116,
+											["Mechagon Tinkerer"] = 15468,
+											["Voidweaver Mal'thir"] = 12891,
+											["Spider Tank"] = 45134,
+											["Blood of the Corruptor"] = 24448,
+											["Mechagon Mechanic"] = 13049,
+											["Workshop Defender"] = 48186,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 53351,
-										["n_min"] = 0,
+										["n_dmg"] = 75422,
+										["n_min"] = 60,
 										["g_dmg"] = 0,
-										["counter"] = 21,
-										["total"] = 119562,
-										["c_max"] = 9232,
-										["id"] = 300717,
+										["counter"] = 154,
+										["total"] = 183440,
+										["c_max"] = 2111,
+										["id"] = 123725,
 										["r_dmg"] = 0,
+										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 483,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 13,
-										["m_amt"] = 0,
+										["n_amt"] = 93,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
 									[119381] = {
@@ -39831,39 +39969,36 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[205523] = {
-										["c_amt"] = 31,
+									[300717] = {
+										["c_amt"] = 8,
 										["b_amt"] = 0,
-										["c_dmg"] = 888000,
+										["c_dmg"] = 66211,
 										["g_amt"] = 0,
-										["n_max"] = 17517,
+										["n_max"] = 4786,
 										["targets"] = {
-											["Defense Bot Mk III"] = 194589,
-											["Defense Bot Mk I"] = 71350,
-											["Mechagon Tinkerer"] = 51652,
-											["Spider Tank"] = 533213,
-											["Voidweaver Mal'thir"] = 159126,
-											["Blood of the Corruptor"] = 345223,
-											["Workshop Defender"] = 86834,
+											["Workshop Defender"] = 9105,
+											["Defense Bot Mk I"] = 87626,
+											["Mechagon Tinkerer"] = 4595,
+											["Mechagon Mechanic"] = 9402,
+											["Blood of the Corruptor"] = 8834,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 553987,
-										["n_min"] = 12254,
+										["n_dmg"] = 53351,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 69,
-										["total"] = 1441987,
-										["c_max"] = 35035,
-										["id"] = 205523,
+										["counter"] = 21,
+										["total"] = 119562,
+										["c_max"] = 9232,
+										["id"] = 300717,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 25636,
+										["a_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 38,
-										["a_amt"] = 0,
+										["n_amt"] = 13,
+										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
 								},
@@ -39872,30 +40007,107 @@ _detalhes_database = {
 							["colocacao"] = 4,
 							["custom"] = 0,
 							["last_event"] = 1583735176,
-							["on_hold"] = false,
-							["start_time"] = 1583734786,
-							["delay"] = 1583735113,
-							["friendlyfire"] = {
-								["Toshpal"] = {
-									["spells"] = {
-										[240448] = 46938,
-										[6940] = 174136,
-									},
-									["total"] = 221074,
-								},
-								["Yukio"] = {
-									["spells"] = {
-										[240448] = 47952,
-									},
-									["total"] = 47952,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 8,
+									["FULL_ABSORB_AMT"] = 904988,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 49,
+									["ALL"] = 198,
+									["PARTIAL_ABSORBED"] = 17,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 1244508,
+									["ABSORB"] = 66,
+									["ABSORB_AMT"] = 2149496,
+									["FULL_HIT"] = 132,
+									["HITS"] = 11,
+									["FULL_HIT_AMT"] = 1865059,
 								},
 								["Peace"] = {
-									["spells"] = {
-										[124255] = 12264846,
-									},
-									["total"] = 12264846,
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 377837,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 44,
+									["ALL"] = 169,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 2307,
+									["ABSORB"] = 45,
+									["ABSORB_AMT"] = 380144,
+									["FULL_HIT"] = 124,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 1195784,
+								},
+								["Eye of Corruption"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 10,
+									["PARTIAL_ABSORBED"] = 7,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 142219,
+									["ABSORB"] = 7,
+									["ABSORB_AMT"] = 142219,
+									["FULL_HIT"] = 3,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 142124,
+								},
+								["Voidweaver Mal'thir"] = {
+									["DODGE"] = 5,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 4,
+									["PARTIAL_ABSORBED"] = 4,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 652463,
+									["ABSORB"] = 4,
+									["ABSORB_AMT"] = 652463,
+									["FULL_HIT"] = 0,
+									["HITS"] = 3,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Explosive Scarab"] = {
+									["DODGE"] = 3,
+									["FULL_ABSORB_AMT"] = 527151,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 5,
+									["ALL"] = 13,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 213934,
+									["ABSORB"] = 8,
+									["ABSORB_AMT"] = 741085,
+									["FULL_HIT"] = 5,
+									["HITS"] = 8,
+									["FULL_HIT_AMT"] = 527151,
+								},
+								["Thing From Beyond"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 2,
+									["PARTIAL_ABSORBED"] = 2,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 233585,
+									["ABSORB"] = 2,
+									["ABSORB_AMT"] = 233585,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
 								},
 							},
+							["start_time"] = 1583734786,
+							["delay"] = 1583735113,
+							["last_dps"] = 19911.45605174759,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -39919,8 +40131,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -39929,7 +40140,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 1129785.005967,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 8442519.005966999,
 							["nome"] = "Voidweaver Mal'thir",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -40056,7 +40267,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8442519.005966999,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583735133,
 							["delay"] = 1583735103,
 							["friendlyfire_total"] = 0,
@@ -40096,7 +40308,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "MAGE",
-							["on_hold"] = false,
+							["damage_taken"] = 5437828.015204,
 							["friendlyfire_total"] = 230879,
 							["raid_targets"] = {
 							},
@@ -40105,20 +40317,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0AFB89C2",
 							["fight_component"] = true,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-								["Toshpal"] = {
-									["spells"] = {
-										[240448] = 46938,
-									},
-									["total"] = 46938,
-								},
-								["Peace"] = {
-									["spells"] = {
-										[240448] = 183941,
-									},
-									["total"] = 183941,
-								},
-							},
+							["last_dps"] = 25287.61466397762,
 							["dps_started"] = false,
 							["nome"] = "Yukio",
 							["spec"] = 63,
@@ -40174,10 +40373,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 123940,
 											["Workshop Defender"] = 119528,
 											["Mechagon Tinkerer"] = 18390,
-											["Mindrend Tentacle"] = 56337,
-											["Mechagon Mechanic"] = 9195,
-											["Defense Bot Mk III"] = 64677,
 											["Blood of the Corruptor"] = 78384,
+											["Mindrend Tentacle"] = 56337,
+											["Defense Bot Mk III"] = 64677,
+											["Mechagon Mechanic"] = 9195,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 238590,
@@ -40681,10 +40880,23 @@ _detalhes_database = {
 							},
 							["colocacao"] = 3,
 							["tipo"] = 1,
-							["last_dps"] = 25287.61466397762,
+							["friendlyfire"] = {
+								["Toshpal"] = {
+									["spells"] = {
+										[240448] = 46938,
+									},
+									["total"] = 46938,
+								},
+								["Peace"] = {
+									["spells"] = {
+										[240448] = 183941,
+									},
+									["total"] = 183941,
+								},
+							},
 							["start_time"] = 1583734819,
 							["delay"] = 1583735107,
-							["damage_taken"] = 5437828.015204,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -40694,15 +40906,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 681230,
 								["Peace"] = 1188657,
+								["Toshpal"] = 189732,
 								["Warlockmania"] = 486078,
 								["Yukio"] = 450611,
-								["Toshpal"] = 189732,
 							},
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -40711,7 +40922,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 2996308.023256,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.023256,
 							["nome"] = "Eye of Corruption",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -40724,9 +40935,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 681230,
 											["Peace"] = 1188657,
+											["Toshpal"] = 189732,
 											["Warlockmania"] = 486078,
 											["Yukio"] = 450611,
-											["Toshpal"] = 189732,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2996308,
@@ -40756,7 +40967,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.023256,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583735067,
 							["delay"] = 1583735160,
 							["friendlyfire_total"] = 0,
@@ -40767,25 +40979,25 @@ _detalhes_database = {
 							["damage_from"] = {
 								["Metsy"] = true,
 								["Peace"] = true,
+								["Toshpal"] = true,
 								["Warlockmania"] = true,
 								["Yukio"] = true,
-								["Toshpal"] = true,
 							},
 							["targets"] = {
 								["Peace"] = 624009,
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 624009.005071,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 624009.005071,
 							["serial"] = "Creature-0-3022-2097-7027-161437-000165E13B",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1583735179,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Explosive Scarab",
 							["spells"] = {
@@ -40874,8 +41086,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -40884,7 +41095,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 1217469.018128,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.018128,
 							["nome"] = "Thing From Beyond",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -40927,7 +41138,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.018128,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583735155,
 							["delay"] = 1583735137,
 							["friendlyfire_total"] = 0,
@@ -40965,7 +41177,7 @@ _detalhes_database = {
 								"Infernal <Warlockmania>", -- [2]
 							},
 							["friendlyfire_total"] = 104952,
-							["on_hold"] = false,
+							["damage_taken"] = 5330559.023585,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
@@ -40974,7 +41186,14 @@ _detalhes_database = {
 							["serial"] = "Player-9-0AE4E8BB",
 							["fight_component"] = true,
 							["total"] = 22399679.023585,
-							["last_dps"] = 28875.28819174665,
+							["friendlyfire"] = {
+								["Warlockmania"] = {
+									["spells"] = {
+										[111400] = 104952,
+									},
+									["total"] = 104952,
+								},
+							},
 							["dps_started"] = false,
 							["nome"] = "Warlockmania",
 							["spec"] = 267,
@@ -41023,10 +41242,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 162710,
 											["Workshop Defender"] = 439132,
 											["Mechagon Tinkerer"] = 334904,
-											["Blood of the Corruptor"] = 187947,
-											["Mechagon Mechanic"] = 93703,
-											["Defense Bot Mk III"] = 119863,
 											["Mindrend Tentacle"] = 372095,
+											["Blood of the Corruptor"] = 187947,
+											["Defense Bot Mk III"] = 119863,
+											["Mechagon Mechanic"] = 93703,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 954667,
@@ -41098,10 +41317,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 74590,
 											["Workshop Defender"] = 261457,
 											["Mechagon Tinkerer"] = 86731,
-											["Mindrend Tentacle"] = 90544,
-											["Mechagon Mechanic"] = 88467,
-											["Defense Bot Mk III"] = 30953,
 											["Blood of the Corruptor"] = 93657,
+											["Mindrend Tentacle"] = 90544,
+											["Defense Bot Mk III"] = 30953,
+											["Mechagon Mechanic"] = 88467,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 553672,
@@ -41123,34 +41342,39 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[42223] = {
-										["c_amt"] = 33,
+									[348] = {
+										["c_amt"] = 7,
 										["b_amt"] = 0,
-										["c_dmg"] = 196848,
+										["c_dmg"] = 116557,
 										["g_amt"] = 0,
-										["n_max"] = 3414,
+										["n_max"] = 13554,
 										["targets"] = {
-											["Workshop Defender"] = 209640,
-											["Mechagon Tinkerer"] = 38160,
-											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 73265,
+											["Defense Bot Mk III"] = 35355,
+											["Mechagon Tinkerer"] = 33261,
+											["Voidweaver Mal'thir"] = 15892,
+											["Spider Tank"] = 67416,
+											["Mindrend Tentacle"] = 59217,
+											["Blood of the Corruptor"] = 24711,
+											["Workshop Defender"] = 16042,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 124217,
-										["n_min"] = 0,
+										["n_dmg"] = 135337,
+										["n_min"] = 5871,
 										["g_dmg"] = 0,
-										["counter"] = 80,
-										["total"] = 321065,
-										["c_max"] = 6857,
-										["id"] = 42223,
+										["counter"] = 23,
+										["total"] = 251894,
+										["c_max"] = 19803,
+										["id"] = 348,
 										["r_dmg"] = 0,
+										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 47,
-										["m_amt"] = 0,
+										["n_amt"] = 16,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
 									[116858] = {
@@ -41165,10 +41389,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 628178,
 											["Workshop Defender"] = 914999,
 											["Mechagon Tinkerer"] = 2745568,
-											["Mindrend Tentacle"] = 630998,
-											["Mechagon Mechanic"] = 85351,
-											["Defense Bot Mk III"] = 314596,
 											["Blood of the Corruptor"] = 297618,
+											["Mindrend Tentacle"] = 630998,
+											["Defense Bot Mk III"] = 314596,
+											["Mechagon Mechanic"] = 85351,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 0,
@@ -41202,10 +41426,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 404539,
 											["Workshop Defender"] = 47264,
 											["Mechagon Tinkerer"] = 128804,
-											["Mindrend Tentacle"] = 122917,
-											["Mechagon Mechanic"] = 35182,
-											["Defense Bot Mk III"] = 244641,
 											["Blood of the Corruptor"] = 252018,
+											["Mindrend Tentacle"] = 122917,
+											["Defense Bot Mk III"] = 244641,
+											["Mechagon Mechanic"] = 35182,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 608857,
@@ -41227,41 +41451,34 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[311192] = {
-										["c_amt"] = 25,
+									[42223] = {
+										["c_amt"] = 33,
 										["b_amt"] = 0,
-										["c_dmg"] = 1223917,
+										["c_dmg"] = 196848,
 										["g_amt"] = 0,
-										["n_max"] = 28040,
+										["n_max"] = 3414,
 										["targets"] = {
-											["Defense Bot Mk I"] = 104100,
-											["Spider Tank"] = 412011,
-											["Voidweaver Mal'thir"] = 292235,
-											["Workshop Defender"] = 130395,
-											["Mechagon Tinkerer"] = 167186,
-											["Mindrend Tentacle"] = 210792,
-											["Mechagon Mechanic"] = 28040,
-											["Defense Bot Mk III"] = 181908,
-											["Blood of the Corruptor"] = 131745,
+											["Workshop Defender"] = 209640,
+											["Mechagon Tinkerer"] = 38160,
+											["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 73265,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 434495,
-										["n_min"] = 6422,
+										["n_dmg"] = 124217,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 43,
-										["total"] = 1658412,
-										["c_max"] = 53693,
-										["id"] = 311192,
+										["counter"] = 80,
+										["total"] = 321065,
+										["c_max"] = 6857,
+										["id"] = 42223,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 12680,
+										["a_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 18,
-										["a_amt"] = 0,
+										["n_amt"] = 47,
+										["m_amt"] = 0,
 										["r_amt"] = 0,
 									},
 									[17962] = {
@@ -41301,38 +41518,40 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
-									[348] = {
-										["c_amt"] = 7,
+									[311192] = {
+										["c_amt"] = 25,
 										["b_amt"] = 0,
-										["c_dmg"] = 116557,
+										["c_dmg"] = 1223917,
 										["g_amt"] = 0,
-										["n_max"] = 13554,
+										["n_max"] = 28040,
 										["targets"] = {
-											["Defense Bot Mk III"] = 35355,
-											["Mechagon Tinkerer"] = 33261,
-											["Voidweaver Mal'thir"] = 15892,
-											["Spider Tank"] = 67416,
-											["Mindrend Tentacle"] = 59217,
-											["Blood of the Corruptor"] = 24711,
-											["Workshop Defender"] = 16042,
+											["Defense Bot Mk I"] = 104100,
+											["Spider Tank"] = 412011,
+											["Voidweaver Mal'thir"] = 292235,
+											["Workshop Defender"] = 130395,
+											["Mechagon Tinkerer"] = 167186,
+											["Blood of the Corruptor"] = 131745,
+											["Mindrend Tentacle"] = 210792,
+											["Defense Bot Mk III"] = 181908,
+											["Mechagon Mechanic"] = 28040,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 135337,
-										["n_min"] = 5871,
+										["n_dmg"] = 434495,
+										["n_min"] = 6422,
 										["g_dmg"] = 0,
-										["counter"] = 23,
-										["total"] = 251894,
-										["c_max"] = 19803,
-										["id"] = 348,
+										["counter"] = 43,
+										["total"] = 1658412,
+										["c_max"] = 53693,
+										["id"] = 311192,
 										["r_dmg"] = 0,
 										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 0,
+										["c_min"] = 12680,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 16,
+										["n_amt"] = 18,
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 									},
@@ -41341,17 +41560,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["last_event"] = 1583735177,
-							["friendlyfire"] = {
-								["Warlockmania"] = {
-									["spells"] = {
-										[111400] = 104952,
-									},
-									["total"] = 104952,
-								},
-							},
+							["last_dps"] = 28875.28819174665,
 							["start_time"] = 1583734811,
 							["delay"] = 0,
-							["damage_taken"] = 5330559.023585,
+							["on_hold"] = false,
 						}, -- [7]
 						{
 							["flag_original"] = 4370,
@@ -41380,8 +41592,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
 							["dps_started"] = false,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.023343,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
 							["spells"] = {
@@ -41461,12 +41672,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.023343,
+							["on_hold"] = false,
 							["total"] = 1448389.023343,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734847,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -41502,7 +41714,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "PALADIN",
-							["on_hold"] = false,
+							["damage_taken"] = 3491640.025508,
 							["friendlyfire_total"] = 231892,
 							["raid_targets"] = {
 							},
@@ -41511,20 +41723,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B60C80F",
 							["fight_component"] = true,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-								["Yukio"] = {
-									["spells"] = {
-										[240448] = 47951,
-									},
-									["total"] = 47951,
-								},
-								["Peace"] = {
-									["spells"] = {
-										[240448] = 183941,
-									},
-									["total"] = 183941,
-								},
-							},
+							["last_dps"] = 13555.6986997796,
 							["dps_started"] = false,
 							["nome"] = "Toshpal",
 							["spec"] = 65,
@@ -41541,12 +41740,12 @@ _detalhes_database = {
 										["n_max"] = 13904,
 										["targets"] = {
 											["Defense Bot Mk III"] = 178879,
-											["Mindrend Tentacle"] = 31741,
-											["Mechagon Tinkerer"] = 32888,
-											["Mechagon Mechanic"] = 14452,
-											["Spider Tank"] = 244177,
 											["Blood of the Corruptor"] = 112628,
+											["Mechagon Tinkerer"] = 32888,
 											["Voidweaver Mal'thir"] = 137763,
+											["Spider Tank"] = 244177,
+											["Mindrend Tentacle"] = 31741,
+											["Mechagon Mechanic"] = 14452,
 											["Workshop Defender"] = 46270,
 										},
 										["m_dmg"] = 0,
@@ -41675,12 +41874,12 @@ _detalhes_database = {
 										["n_max"] = 14620,
 										["targets"] = {
 											["Defense Bot Mk III"] = 152260,
-											["Mindrend Tentacle"] = 54588,
-											["Mechagon Tinkerer"] = 69165,
-											["Mechagon Mechanic"] = 11680,
-											["Spider Tank"] = 167241,
 											["Blood of the Corruptor"] = 149018,
+											["Mechagon Tinkerer"] = 69165,
 											["Voidweaver Mal'thir"] = 98659,
+											["Spider Tank"] = 167241,
+											["Mindrend Tentacle"] = 54588,
+											["Mechagon Mechanic"] = 11680,
 											["Workshop Defender"] = 65495,
 										},
 										["m_dmg"] = 0,
@@ -41868,10 +42067,23 @@ _detalhes_database = {
 							},
 							["colocacao"] = 5,
 							["tipo"] = 1,
-							["last_dps"] = 13555.6986997796,
+							["friendlyfire"] = {
+								["Yukio"] = {
+									["spells"] = {
+										[240448] = 47951,
+									},
+									["total"] = 47951,
+								},
+								["Peace"] = {
+									["spells"] = {
+										[240448] = 183941,
+									},
+									["total"] = 183941,
+								},
+							},
 							["start_time"] = 1583734899,
 							["delay"] = 0,
-							["damage_taken"] = 3491640.025508,
+							["on_hold"] = false,
 						}, -- [9]
 						{
 							["flag_original"] = 66834,
@@ -41880,11 +42092,11 @@ _detalhes_database = {
 								["Defense Bot Mk III"] = true,
 								["Defense Bot Mk I"] = true,
 								["Mechagon Tinkerer"] = true,
-								["Blood of the Corruptor"] = true,
-								["Eye of Corruption"] = true,
-								["Voidweaver Mal'thir"] = true,
-								["Thing From Beyond"] = true,
 								["Mindrend Tentacle"] = true,
+								["Eye of Corruption"] = true,
+								["Blood of the Corruptor"] = true,
+								["Thing From Beyond"] = true,
+								["Voidweaver Mal'thir"] = true,
 							},
 							["targets"] = {
 								["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 200820,
@@ -41904,7 +42116,7 @@ _detalhes_database = {
 								"Shadowfiend <Metsy>", -- [2]
 							},
 							["classe"] = "PRIEST",
-							["on_hold"] = false,
+							["damage_taken"] = 3176961.015191,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
@@ -41913,8 +42125,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B59DAFF",
 							["fight_component"] = true,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 31699.70822629575,
 							["dps_started"] = false,
 							["nome"] = "Metsy",
 							["spec"] = 258,
@@ -41970,11 +42181,11 @@ _detalhes_database = {
 										["n_max"] = 12450,
 										["targets"] = {
 											["Defense Bot Mk III"] = 163297,
-											["Blood of the Corruptor"] = 262068,
-											["Spider Tank"] = 582040,
-											["Mindrend Tentacle"] = 64893,
-											["Shield Generator"] = 0,
 											["Voidweaver Mal'thir"] = 255177,
+											["Spider Tank"] = 582040,
+											["Blood of the Corruptor"] = 262068,
+											["Shield Generator"] = 0,
+											["Mindrend Tentacle"] = 64893,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 374491,
@@ -42041,10 +42252,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 154982,
 											["Workshop Defender"] = 191936,
 											["Mechagon Tinkerer"] = 52056,
-											["Mindrend Tentacle"] = 156168,
-											["Mechagon Mechanic"] = 52056,
-											["Defense Bot Mk III"] = 78084,
 											["Blood of the Corruptor"] = 52056,
+											["Mindrend Tentacle"] = 156168,
+											["Defense Bot Mk III"] = 78084,
+											["Mechagon Mechanic"] = 52056,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 437730,
@@ -42142,12 +42353,12 @@ _detalhes_database = {
 										["n_max"] = 26650,
 										["targets"] = {
 											["Defense Bot Mk III"] = 25643,
-											["Mindrend Tentacle"] = 100234,
-											["Mechagon Tinkerer"] = 48947,
-											["Mechagon Mechanic"] = 25643,
-											["Spider Tank"] = 224941,
 											["Blood of the Corruptor"] = 203812,
+											["Mechagon Tinkerer"] = 48947,
 											["Voidweaver Mal'thir"] = 102248,
+											["Spider Tank"] = 224941,
+											["Mindrend Tentacle"] = 100234,
+											["Mechagon Mechanic"] = 25643,
 											["Workshop Defender"] = 49348,
 										},
 										["m_dmg"] = 0,
@@ -42212,10 +42423,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 368678,
 											["Workshop Defender"] = 20123,
 											["Mechagon Tinkerer"] = 242655,
-											["Mechagon Mechanic"] = 100618,
-											["Mindrend Tentacle"] = 357726,
-											["Defense Bot Mk III"] = 313408,
 											["Blood of the Corruptor"] = 521394,
+											["Mechagon Mechanic"] = 100618,
+											["Defense Bot Mk III"] = 313408,
+											["Mindrend Tentacle"] = 357726,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 825087,
@@ -42280,11 +42491,11 @@ _detalhes_database = {
 										["n_max"] = 1637,
 										["targets"] = {
 											["Defense Bot Mk III"] = 33074,
-											["Mechagon Mechanic"] = 11812,
-											["Mindrend Tentacle"] = 4724,
-											["Spider Tank"] = 113604,
 											["Blood of the Corruptor"] = 109116,
 											["Voidweaver Mal'thir"] = 57229,
+											["Spider Tank"] = 113604,
+											["Mechagon Mechanic"] = 11812,
+											["Mindrend Tentacle"] = 4724,
 											["Workshop Defender"] = 10953,
 										},
 										["m_dmg"] = 0,
@@ -42357,10 +42568,10 @@ _detalhes_database = {
 											["Voidweaver Mal'thir"] = 321595,
 											["Workshop Defender"] = 114810,
 											["Mechagon Tinkerer"] = 270175,
-											["Mindrend Tentacle"] = 240075,
-											["Mechagon Mechanic"] = 79843,
-											["Defense Bot Mk III"] = 275839,
 											["Blood of the Corruptor"] = 492807,
+											["Mindrend Tentacle"] = 240075,
+											["Defense Bot Mk III"] = 275839,
+											["Mechagon Mechanic"] = 79843,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 789534,
@@ -42430,11 +42641,11 @@ _detalhes_database = {
 										["targets"] = {
 											["Defense Bot Mk III"] = 32652,
 											["Defense Bot Mk I"] = 20035,
-											["Mechagon Mechanic"] = 16326,
-											["Mindrend Tentacle"] = 15743,
-											["Spider Tank"] = 133575,
 											["Blood of the Corruptor"] = 48924,
 											["Voidweaver Mal'thir"] = 24650,
+											["Spider Tank"] = 133575,
+											["Mechagon Mechanic"] = 16326,
+											["Mindrend Tentacle"] = 15743,
 											["Workshop Defender"] = 40640,
 										},
 										["m_dmg"] = 0,
@@ -42501,10 +42712,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["last_dps"] = 31699.70822629575,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734841,
 							["delay"] = 0,
-							["damage_taken"] = 3176961.015191,
+							["on_hold"] = false,
 						}, -- [10]
 						{
 							["flag_original"] = 8466,
@@ -42534,8 +42746,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-89-000065E180",
 							["dps_started"] = false,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.018086,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
 							["spells"] = {
@@ -42618,12 +42829,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.018086,
+							["on_hold"] = false,
 							["total"] = 4556502.018085999,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583735079,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -42650,8 +42862,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065E182",
 							["dps_started"] = false,
 							["end_time"] = 1583735179,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.016053,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
 							["spells"] = {
@@ -42691,12 +42902,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.016053,
+							["on_hold"] = false,
 							["total"] = 435547.016053,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583735150,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -42718,23 +42930,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 87561,
 								["Peace"] = 265873,
+								["Yukio"] = 521472,
 								["Toshpal"] = 88218,
 								["Warlockmania"] = 970729,
-								["Yukio"] = 521472,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1933853.016809,
 							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 6416530.016809001,
 							["nome"] = "Defense Bot Mk III",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -42776,9 +42988,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 87561,
 											["Peace"] = 77632,
+											["Yukio"] = 86910,
 											["Toshpal"] = 88218,
 											["Warlockmania"] = 258706,
-											["Yukio"] = 86910,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 599027,
@@ -42891,10 +43103,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6416530.016809001,
+							["on_hold"] = false,
 							["start_time"] = 1583735299,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [13]
 						{
 							["flag_original"] = 2632,
@@ -42915,17 +43127,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2700161.017208,
 							["serial"] = "Creature-0-3022-2097-7027-144299-000165DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 15436918.017208,
 							["nome"] = "Workshop Defender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43001,10 +43213,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 15436918.017208,
+							["on_hold"] = false,
 							["start_time"] = 1583735216,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [14]
 						{
 							["flag_original"] = 2632,
@@ -43022,24 +43234,24 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 388809,
 								["Peace"] = 425179,
+								["Toshpal"] = 572949,
 								["Warlockmania"] = 180994,
 								["Yukio"] = 813041,
-								["Toshpal"] = 572949,
 							},
 							["pets"] = {
 								"Anti-Personnel Squirrel <Mechagon Tinkerer>", -- [1]
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1385906.020608,
 							["serial"] = "Creature-0-3022-2097-7027-144294-0001E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 11612885.020608,
 							["nome"] = "Mechagon Tinkerer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43139,10 +43351,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 11612885.020608,
+							["on_hold"] = false,
 							["start_time"] = 1583735277,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [15]
 						{
 							["flag_original"] = 2632,
@@ -43163,7 +43375,8 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-151613-000065E0F1",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -43172,8 +43385,7 @@ _detalhes_database = {
 							["end_time"] = 1583735342,
 							["fight_component"] = true,
 							["total"] = 995066.017273,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["ownerName"] = "Mechagon Tinkerer",
 							["nome"] = "Anti-Personnel Squirrel <Mechagon Tinkerer>",
 							["spells"] = {
@@ -43216,7 +43428,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735336,
 							["delay"] = 0,
 							["damage_taken"] = 2499604.017273,
@@ -43241,7 +43453,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-19668-000065E114",
 							["dps_started"] = false,
 							["end_time"] = 1583735342,
-							["on_hold"] = false,
+							["damage_taken"] = 0.018862,
 							["ownerName"] = "Metsy",
 							["nome"] = "Shadowfiend <Metsy>",
 							["spells"] = {
@@ -43278,13 +43490,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.018862,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 395213.018862,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583735307,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -43299,17 +43511,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.014939,
 							["serial"] = "Creature-0-3022-2097-7027-151579-0000E5E0EE",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 36190.014939,
 							["nome"] = "Shield Generator",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43351,10 +43563,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 36190.014939,
+							["on_hold"] = false,
 							["start_time"] = 1583735339,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [18]
 						{
 							["flag_original"] = 2632,
@@ -43369,24 +43581,24 @@ _detalhes_database = {
 								["Infernal <Warlockmania>"] = true,
 							},
 							["targets"] = {
-								["Toshpal"] = 166902,
 								["Warlockmania"] = 362994,
 								["Yukio"] = 722519,
+								["Toshpal"] = 166902,
 								["Peace"] = 1703470,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2955885.021739,
 							["serial"] = "Vehicle-0-3022-2097-7027-144296-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 18529788.021739,
 							["nome"] = "Spider Tank",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43517,10 +43729,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 18529788.021739,
+							["on_hold"] = false,
 							["start_time"] = 1583735247,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [19]
 						{
 							["flag_original"] = 2632,
@@ -43534,17 +43746,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1505568.011269,
 							["serial"] = "Creature-0-3022-2097-7027-151655-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.011269,
 							["nome"] = "High-Explosive Rocket",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43587,10 +43799,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.011269,
+							["on_hold"] = false,
 							["start_time"] = 1583735332,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [20]
 						{
 							["flag_original"] = 2600,
@@ -43611,20 +43823,20 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["serial"] = "Creature-0-3022-2097-7027-154781-000165DC41",
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["nome"] = "Copper Hopper",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 4853.010075,
 							["total"] = 0.010075,
 							["friendlyfire"] = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4853.010075,
+							["on_hold"] = false,
 							["start_time"] = 1583735339,
 							["delay"] = 0,
 							["friendlyfire_total"] = 0,
@@ -43644,23 +43856,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 906670,
 								["Peace"] = 852375,
+								["Toshpal"] = 285003,
 								["Warlockmania"] = 1518810,
 								["Yukio"] = 864869,
-								["Toshpal"] = 285003,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4427727.013528,
 							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 10564164.013528,
 							["nome"] = "Defense Bot Mk I",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43735,10 +43947,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 10564164.013528,
+							["on_hold"] = false,
 							["start_time"] = 1583735290,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [22]
 						{
 							["flag_original"] = 2632,
@@ -43756,23 +43968,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 142416,
 								["Peace"] = 1745885,
+								["Yukio"] = 695445,
 								["Toshpal"] = 785911,
 								["Warlockmania"] = 429278,
-								["Yukio"] = 695445,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3798935.004125,
 							["serial"] = "Creature-0-3022-2097-7027-161244-000065E04F",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8992010.004124999,
 							["nome"] = "Blood of the Corruptor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43841,9 +44053,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 142416,
 											["Peace"] = 409779,
+											["Yukio"] = 695445,
 											["Toshpal"] = 785911,
 											["Warlockmania"] = 429278,
-											["Yukio"] = 695445,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2462829,
@@ -43873,10 +44085,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8992010.004124999,
+							["on_hold"] = false,
 							["start_time"] = 1583735263,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [23]
 						{
 							["flag_original"] = 2632,
@@ -43897,17 +44109,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1528629.005225,
 							["serial"] = "Creature-0-3022-2097-7027-161510-0001E5E051",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 5452856.005225,
 							["nome"] = "Mindrend Tentacle",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -43950,10 +44162,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 5452856.005225,
+							["on_hold"] = false,
 							["start_time"] = 1583735308,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [24]
 						{
 							["flag_original"] = 2632,
@@ -43972,17 +44184,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 397586.009289,
 							["serial"] = "Creature-0-3022-2097-7027-144295-000165DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583735342,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 3865088.009289,
 							["nome"] = "Mechagon Mechanic",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -44079,10 +44291,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 3865088.009289,
+							["on_hold"] = false,
 							["start_time"] = 1583735315,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [25]
 					},
 				}, -- [1]
@@ -44921,9 +45133,9 @@ _detalhes_database = {
 							["targets_overheal"] = {
 								["Metsy"] = 2366050,
 								["Peace"] = 39950,
+								["Toshpal"] = 44062,
 								["Warlockmania"] = 13898,
 								["Yukio"] = 56064,
-								["Toshpal"] = 44062,
 							},
 							["pets"] = {
 								"Shadowfiend <Metsy>", -- [1]
@@ -44946,9 +45158,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 2468354,
 								["Peace"] = 990502,
+								["Toshpal"] = 283474,
 								["Warlockmania"] = 474836,
 								["Yukio"] = 346780,
-								["Toshpal"] = 283474,
 							},
 							["totalover_without_pet"] = 0.019394,
 							["healing_taken"] = 3160513.019394,
@@ -45078,17 +45290,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 29398,
 											["Peace"] = 39950,
+											["Toshpal"] = 44062,
 											["Warlockmania"] = 13898,
 											["Yukio"] = 56064,
-											["Toshpal"] = 44062,
 										},
 										["n_max"] = 145003,
 										["targets"] = {
 											["Metsy"] = 234483,
 											["Peace"] = 990502,
+											["Toshpal"] = 283474,
 											["Warlockmania"] = 474836,
 											["Yukio"] = 346780,
-											["Toshpal"] = 283474,
 										},
 										["n_min"] = 0,
 										["counter"] = 86,
@@ -45240,9 +45452,9 @@ _detalhes_database = {
 								["Metsy"] = 692159,
 								["Peace"] = 5875807,
 								["Jhaaphom <Warlockmania>"] = 26740,
+								["Yukio"] = 1948627,
 								["Toshpal"] = 2027265,
 								["Warlockmania"] = 1783032,
-								["Yukio"] = 1948627,
 							},
 							["totalover_without_pet"] = 0.028863,
 							["healing_taken"] = 2310739.028863,
@@ -45322,32 +45534,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[19750] = {
-										["c_amt"] = 6,
+									[143924] = {
+										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Toshpal"] = 2103,
 										},
-										["n_max"] = 71788,
+										["n_max"] = 7161,
 										["targets"] = {
-											["Yukio"] = 64751,
-											["Warlockmania"] = 270384,
-											["Toshpal"] = 279076,
-											["Peace"] = 502440,
+											["Toshpal"] = 195075,
 										},
-										["n_min"] = 0,
-										["counter"] = 14,
-										["overheal"] = 0,
-										["total"] = 1116651,
-										["c_max"] = 118243,
-										["id"] = 19750,
+										["n_min"] = 42,
+										["counter"] = 108,
+										["overheal"] = 2103,
+										["total"] = 195075,
+										["c_max"] = 0,
+										["id"] = 143924,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 682694,
+										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 433957,
-										["n_amt"] = 8,
+										["n_curado"] = 195075,
+										["n_amt"] = 108,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -45356,18 +45566,18 @@ _detalhes_database = {
 										["c_amt"] = 35,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Yukio"] = 59690,
 											["Warlockmania"] = 77820,
 											["Toshpal"] = 330018,
+											["Yukio"] = 59690,
 											["Peace"] = 59319,
 										},
 										["n_max"] = 96403,
 										["targets"] = {
 											["Metsy"] = 298118,
 											["Peace"] = 1906356,
+											["Toshpal"] = 667224,
 											["Yukio"] = 1172446,
 											["Warlockmania"] = 781464,
-											["Toshpal"] = 667224,
 										},
 										["n_min"] = 40260,
 										["counter"] = 56,
@@ -45470,30 +45680,32 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[53652] = {
-										["c_amt"] = 0,
+									[19750] = {
+										["c_amt"] = 6,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Peace"] = 774081,
 										},
-										["n_max"] = 65760,
+										["n_max"] = 71788,
 										["targets"] = {
-											["Peace"] = 1593838,
+											["Warlockmania"] = 270384,
+											["Toshpal"] = 279076,
+											["Yukio"] = 64751,
+											["Peace"] = 502440,
 										},
 										["n_min"] = 0,
-										["counter"] = 245,
-										["overheal"] = 774081,
-										["total"] = 1593838,
-										["c_max"] = 0,
-										["id"] = 53652,
+										["counter"] = 14,
+										["overheal"] = 0,
+										["total"] = 1116651,
+										["c_max"] = 118243,
+										["id"] = 19750,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 0,
+										["c_curado"] = 682694,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 1593838,
-										["n_amt"] = 245,
+										["n_curado"] = 433957,
+										["n_amt"] = 8,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -45536,9 +45748,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 12552,
 											["Peace"] = 208140,
+											["Yukio"] = 51240,
 											["Warlockmania"] = 29103,
 											["Toshpal"] = 24756,
-											["Yukio"] = 51240,
 										},
 										["n_min"] = 1621,
 										["counter"] = 37,
@@ -45564,17 +45776,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 193558,
 											["Peace"] = 308034,
+											["Yukio"] = 517359,
 											["Toshpal"] = 467422,
 											["Warlockmania"] = 181489,
-											["Yukio"] = 517359,
 										},
 										["n_max"] = 22720,
 										["targets"] = {
 											["Metsy"] = 194664,
 											["Peace"] = 964620,
+											["Yukio"] = 433897,
 											["Toshpal"] = 291852,
 											["Warlockmania"] = 424303,
-											["Yukio"] = 433897,
 										},
 										["n_min"] = 0,
 										["counter"] = 194,
@@ -45594,30 +45806,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[143924] = {
+									[53652] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Toshpal"] = 2103,
+											["Peace"] = 774081,
 										},
-										["n_max"] = 7161,
+										["n_max"] = 65760,
 										["targets"] = {
-											["Toshpal"] = 195075,
+											["Peace"] = 1593838,
 										},
-										["n_min"] = 42,
-										["counter"] = 108,
-										["overheal"] = 2103,
-										["total"] = 195075,
+										["n_min"] = 0,
+										["counter"] = 245,
+										["overheal"] = 774081,
+										["total"] = 1593838,
 										["c_max"] = 0,
-										["id"] = 143924,
+										["id"] = 53652,
 										["targets_absorbs"] = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 195075,
-										["n_amt"] = 108,
+										["n_curado"] = 1593838,
+										["n_amt"] = 245,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -46028,39 +46240,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008664,
+							["end_time"] = 1583735342,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008664,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008664,
+							["heal_enemy_amt"] = 245902,
 							["totalover"] = 0.008664,
 							["total_without_pet"] = 0.008664,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008664,
 							["start_time"] = 1583735339,
 							["monster"] = true,
-							["end_time"] = 1583735342,
-							["heal_enemy_amt"] = 245902,
+							["total"] = 0.008664,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008664,
 							["nome"] = "Defense Bot Mk III",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
-							["heal_enemy"] = {
-								[297133] = 245902,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[297133] = 245902,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008664,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
 							["tipo"] = 2,
 						}, -- [9]
 						{
@@ -46071,39 +46283,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008921,
+							["end_time"] = 1583735342,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.008921,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.008921,
+							["heal_enemy_amt"] = 2428506,
 							["totalover"] = 0.008921,
 							["total_without_pet"] = 0.008921,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.008921,
 							["start_time"] = 1583735339,
 							["monster"] = true,
-							["end_time"] = 1583735342,
-							["heal_enemy_amt"] = 2428506,
+							["total"] = 0.008921,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.008921,
 							["nome"] = "Defense Bot Mk I",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
-							["heal_enemy"] = {
-								[293926] = 2428506,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[293926] = 2428506,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.008921,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
 							["tipo"] = 2,
 						}, -- [10]
 					},
@@ -46540,6 +46752,17 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
+									[317020] = {
+										["appliedamt"] = 38,
+										["targets"] = {
+										},
+										["activedamt"] = 38,
+										["uptime"] = 365,
+										["id"] = 317020,
+										["refreshamt"] = 132,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[120954] = {
 										["refreshamt"] = 0,
 										["activedamt"] = 1,
@@ -46558,17 +46781,6 @@ _detalhes_database = {
 										["uptime"] = 58,
 										["targets"] = {
 										},
-										["counter"] = 0,
-									},
-									[317020] = {
-										["appliedamt"] = 38,
-										["targets"] = {
-										},
-										["activedamt"] = 38,
-										["uptime"] = 365,
-										["id"] = 317020,
-										["refreshamt"] = 132,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[101643] = {
@@ -46670,14 +46882,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[289324] = {
-										["appliedamt"] = 4,
+									[294966] = {
+										["appliedamt"] = 9,
 										["targets"] = {
 										},
-										["activedamt"] = 4,
-										["uptime"] = 9,
-										["id"] = 289324,
-										["refreshamt"] = 1,
+										["activedamt"] = 9,
+										["uptime"] = 369,
+										["id"] = 294966,
+										["refreshamt"] = 18,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -46735,14 +46947,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[294966] = {
-										["appliedamt"] = 9,
+									[195630] = {
+										["appliedamt"] = 91,
 										["targets"] = {
 										},
-										["activedamt"] = 9,
-										["uptime"] = 369,
-										["id"] = 294966,
-										["refreshamt"] = 18,
+										["activedamt"] = 91,
+										["uptime"] = 222,
+										["id"] = 195630,
+										["refreshamt"] = 111,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -46756,14 +46968,14 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[195630] = {
-										["appliedamt"] = 91,
+									[289324] = {
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 91,
-										["uptime"] = 222,
-										["id"] = 195630,
-										["refreshamt"] = 111,
+										["activedamt"] = 4,
+										["uptime"] = 9,
+										["id"] = 289324,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -47672,6 +47884,16 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[315176] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 0,
+										["appliedamt"] = 3,
+										["id"] = 315176,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
 									[206151] = {
 										["refreshamt"] = 0,
 										["activedamt"] = 0,
@@ -47693,25 +47915,17 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[315176] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 0,
-										["appliedamt"] = 3,
-										["id"] = 315176,
-										["uptime"] = 11,
-										["targets"] = {
-										},
-										["counter"] = 0,
-									},
 								},
 								["tipo"] = 9,
 							},
 							["grupo"] = true,
-							["pets"] = {
-								"Jhaaphom <Warlockmania>", -- [1]
-								"Infernal <Warlockmania>", -- [2]
+							["buff_uptime"] = 3951,
+							["interrupt_targets"] = {
+								["Voidweaver Mal'thir"] = 2,
+								["Mindrend Tentacle"] = 1,
+								["Mechagon Tinkerer"] = 1,
+								["Warlockmania"] = 1,
 							},
-							["spec"] = 267,
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[30283] = {
@@ -47799,14 +48013,15 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[48018] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 1,
-										["appliedamt"] = 1,
-										["id"] = 48018,
-										["uptime"] = 23,
+									[298343] = {
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
+										["activedamt"] = 6,
+										["uptime"] = 48,
+										["id"] = 298343,
+										["refreshamt"] = 0,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[296962] = {
@@ -47851,15 +48066,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[268893] = {
-										["appliedamt"] = 8,
+									[48018] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["appliedamt"] = 1,
+										["id"] = 48018,
+										["uptime"] = 23,
 										["targets"] = {
 										},
-										["activedamt"] = 8,
-										["uptime"] = 60,
-										["id"] = 268893,
-										["refreshamt"] = 0,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[296971] = {
@@ -47872,13 +48086,13 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[298343] = {
-										["appliedamt"] = 6,
+									[268893] = {
+										["appliedamt"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 6,
-										["uptime"] = 48,
-										["id"] = 298343,
+										["activedamt"] = 8,
+										["uptime"] = 60,
+										["id"] = 268893,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -48097,18 +48311,15 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 514,
-							["nome"] = "Warlockmania",
+							["interrupt"] = 5.016692000000001,
 							["cc_done"] = 6.012235,
-							["buff_uptime_targets"] = {
-							},
-							["interrupt_targets"] = {
-								["Voidweaver Mal'thir"] = 2,
-								["Mindrend Tentacle"] = 1,
-								["Mechagon Tinkerer"] = 1,
-								["Warlockmania"] = 1,
-							},
+							["nome"] = "Warlockmania",
+							["spec"] = 267,
 							["cc_break"] = 4.007125,
-							["buff_uptime"] = 3951,
+							["pets"] = {
+								"Jhaaphom <Warlockmania>", -- [1]
+								"Infernal <Warlockmania>", -- [2]
+							},
 							["spell_cast"] = {
 								[1122] = 2,
 								[111400] = 5,
@@ -48117,14 +48328,14 @@ _detalhes_database = {
 								[313352] = 1,
 								[5740] = 2,
 								[113858] = 2,
-								[30283] = 1,
+								[80240] = 8,
 								[296971] = 1,
 								[33702] = 2,
 								[116858] = 53,
-								[80240] = 8,
+								[152108] = 9,
 								[348] = 20,
 								[29722] = 88,
-								[152108] = 9,
+								[30283] = 1,
 							},
 							["cc_break_oque"] = {
 								[31661] = 4,
@@ -48138,7 +48349,8 @@ _detalhes_database = {
 								["Mindrend Tentacle"] = 2,
 							},
 							["serial"] = "Player-9-0AE4E8BB",
-							["interrupt"] = 5.016692000000001,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -48893,9 +49105,9 @@ _detalhes_database = {
 							["dispell_targets"] = {
 								["Metsy"] = 1,
 								["Peace"] = 1,
+								["Yukio"] = 2,
 								["Warlockmania"] = 3,
 								["Toshpal"] = 2,
-								["Yukio"] = 2,
 							},
 							["dispell_spells"] = {
 								["_ActorTable"] = {
@@ -48903,16 +49115,16 @@ _detalhes_database = {
 										["dispell"] = 9,
 										["id"] = 4987,
 										["dispell_oque"] = {
+											[314406] = 2,
 											[314592] = 4,
 											[294195] = 3,
-											[314406] = 2,
 										},
 										["targets"] = {
 											["Metsy"] = 1,
 											["Peace"] = 1,
+											["Yukio"] = 2,
 											["Warlockmania"] = 3,
 											["Toshpal"] = 2,
-											["Yukio"] = 2,
 										},
 										["counter"] = 0,
 									},
@@ -49284,9 +49496,9 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["last_event"] = 1583735179,
 							["dispell_oque"] = {
+								[314406] = 2,
 								[314592] = 4,
 								[294195] = 3,
-								[314406] = 2,
 							},
 							["buff_uptime_targets"] = {
 							},
@@ -49340,6 +49552,13 @@ _detalhes_database = {
 									["actived"] = true,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 45,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 39,
 									["appliedamt"] = 0,
@@ -49353,13 +49572,6 @@ _detalhes_database = {
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = true,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 45,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
 									["refreshamt"] = 0,
 								},
 							},
@@ -49395,6 +49607,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 0,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 0,
 									["appliedamt"] = 0,
@@ -49410,24 +49629,17 @@ _detalhes_database = {
 									["actived"] = true,
 									["refreshamt"] = 0,
 								},
-								["Warlockmania"] = {
-									["uptime"] = 0,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
 							},
 							["classe"] = "UNKNOW",
 							["nome"] = "Ny'alotha Incursion",
 							["pets"] = {
 							},
 							["tipo"] = 4,
-							["damage_spellid"] = 313445,
+							["boss_debuff"] = true,
 							["last_event"] = 1583735098,
 							["damage_twin"] = "Cursed Spire of Ny'alotha",
+							["damage_spellid"] = 313445,
 							["serial"] = "Creature-0-3022-2097-7027-161163-000065DC42",
-							["boss_debuff"] = true,
 						}, -- [8]
 						{
 							["flag_original"] = 68168,
@@ -49572,11 +49784,11 @@ _detalhes_database = {
 							["nome"] = "Infernal <Warlockmania>",
 							["pets"] = {
 							},
-							["last_event"] = 0,
-							["classe"] = "PET",
 							["spell_cast"] = {
 								[19483] = 9,
 							},
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065E180",
 							["tipo"] = 4,
 						}, -- [13]
@@ -49586,12 +49798,12 @@ _detalhes_database = {
 							["nome"] = "Twisted Appendage <Metsy>",
 							["pets"] = {
 							},
-							["last_event"] = 0,
-							["classe"] = "PET",
 							["spell_cast"] = {
 								[316826] = 2,
 								[316835] = 1,
 							},
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065E182",
 							["tipo"] = 4,
 						}, -- [14]
@@ -49624,6 +49836,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 63,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 14,
 									["appliedamt"] = 0,
@@ -49633,13 +49852,6 @@ _detalhes_database = {
 								},
 								["Toshpal"] = {
 									["uptime"] = 38,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
-									["uptime"] = 63,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -49683,6 +49895,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 16,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 16,
 									["appliedamt"] = 0,
@@ -49692,13 +49911,6 @@ _detalhes_database = {
 								},
 								["Toshpal"] = {
 									["uptime"] = 12,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
-									["uptime"] = 16,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -49829,6 +50041,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 20,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 9,
 									["appliedamt"] = 0,
@@ -49840,13 +50059,6 @@ _detalhes_database = {
 									["uptime"] = 31,
 									["appliedamt"] = 0,
 									["activedamt"] = 1,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
-									["uptime"] = 20,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
@@ -50045,6 +50257,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 10,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 9,
 									["appliedamt"] = 0,
@@ -50054,13 +50273,6 @@ _detalhes_database = {
 								},
 								["Warlockmania"] = {
 									["uptime"] = 6,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 10,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -50085,9 +50297,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["CombatStartedAt"] = 393413.412,
 				["tempo_start"] = 1583735096,
@@ -50195,18 +50407,18 @@ _detalhes_database = {
 						{
 							["Metsy"] = 134069.005166,
 							["Peace"] = 2028692.001513,
+							["Warlockmania"] = 277210.004078,
 							["Yukio"] = 66852.00317,
 							["Toshpal"] = 1291937.003548,
-							["Warlockmania"] = 277210.004078,
 						}, -- [1]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 2585555.00177,
 							["Peace"] = 1624058.001405,
+							["Yukio"] = 2062559.002453,
 							["Toshpal"] = 1105657.008749,
 							["Warlockmania"] = 2355184.006072,
-							["Yukio"] = 2062559.002453,
 						}, -- [1]
 					},
 				},
@@ -50236,18 +50448,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583734738,
-							["nome"] = "Yukio",
 							["friendlyfire_total"] = 0,
+							["spec"] = 63,
+							["classe"] = "MAGE",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6955110.00667,
-							["spec"] = 63,
+							["nome"] = "Yukio",
 							["serial"] = "Player-9-0AFB89C2",
 							["dps_started"] = false,
+							["end_time"] = 1583734738,
+							["last_dps"] = 83013.37988214215,
 							["total"] = 6955110.00667,
-							["classe"] = "MAGE",
-							["damage_taken"] = 355227.00667,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -50556,7 +50768,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734659,
 							["delay"] = 0,
-							["last_dps"] = 83013.37988214215,
+							["damage_taken"] = 355227.00667,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -50575,18 +50787,18 @@ _detalhes_database = {
 								"Jhaaphom <Warlockmania>", -- [1]
 								"Infernal <Warlockmania>", -- [2]
 							},
-							["end_time"] = 1583734738,
-							["nome"] = "Warlockmania",
 							["friendlyfire_total"] = 314853,
+							["spec"] = 267,
+							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4669586.00602,
-							["spec"] = 267,
+							["nome"] = "Warlockmania",
 							["serial"] = "Player-9-0AE4E8BB",
 							["dps_started"] = false,
+							["end_time"] = 1583734738,
+							["last_dps"] = 73936.72947991843,
 							["total"] = 6194641.00602,
-							["classe"] = "WARLOCK",
-							["damage_taken"] = 1414007.00602,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -50844,7 +51056,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734656,
 							["delay"] = 0,
-							["last_dps"] = 73936.72947991843,
+							["damage_taken"] = 1414007.00602,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -50862,18 +51074,18 @@ _detalhes_database = {
 								"Twisted Appendage <Metsy>", -- [1]
 								"Shadowfiend <Metsy>", -- [2]
 							},
-							["end_time"] = 1583734738,
-							["nome"] = "Metsy",
 							["friendlyfire_total"] = 185197,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5545114.005328,
-							["spec"] = 258,
+							["nome"] = "Metsy",
 							["serial"] = "Player-9-0B59DAFF",
 							["dps_started"] = false,
+							["end_time"] = 1583734738,
+							["last_dps"] = 71600.64697282422,
 							["total"] = 5998917.005328,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 452017.005328,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -51280,7 +51492,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734656,
 							["delay"] = 0,
-							["last_dps"] = 71600.64697282422,
+							["damage_taken"] = 452017.005328,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -51843,18 +52055,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583734738,
-							["nome"] = "Toshpal",
 							["friendlyfire_total"] = 416696,
+							["spec"] = 65,
+							["classe"] = "PALADIN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2116054.002047,
-							["spec"] = 65,
+							["nome"] = "Toshpal",
 							["serial"] = "Player-9-0B60C80F",
 							["dps_started"] = false,
+							["end_time"] = 1583734738,
+							["last_dps"] = 25256.36468073041,
 							["total"] = 2116054.002047,
-							["classe"] = "PALADIN",
-							["damage_taken"] = 879592.002047,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -52148,7 +52360,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734656,
 							["delay"] = 0,
-							["last_dps"] = 25256.36468073041,
+							["damage_taken"] = 879592.002047,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -52288,13 +52500,13 @@ _detalhes_database = {
 							},
 							["targets"] = {
 								["Metsy"] = 228727,
+								["Toshpal"] = 437082,
 								["Yukio"] = 228390,
 								["Warlockmania"] = 685027,
-								["Toshpal"] = 437082,
 							},
 							["serial"] = "",
 							["spellicon"] = 134427,
-							["boss_fight_component"] = true,
+							["total"] = 1579226.00315,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -52303,8 +52515,8 @@ _detalhes_database = {
 							["total_without_pet"] = 1579226.00315,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 1579226.00315,
-							["damage_taken"] = 0.00315,
+							["end_time"] = 1583734738,
+							["last_dps"] = 0,
 							["last_event"] = 1583734730,
 							["nome"] = "[*] Self-Trimming Hedge",
 							["spells"] = {
@@ -52317,9 +52529,9 @@ _detalhes_database = {
 										["n_max"] = 232705,
 										["targets"] = {
 											["Metsy"] = 228727,
+											["Toshpal"] = 437082,
 											["Yukio"] = 228390,
 											["Warlockmania"] = 685027,
-											["Toshpal"] = 437082,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1579226,
@@ -52344,10 +52556,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1583734738,
+							["damage_taken"] = 0.00315,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -52627,9 +52839,9 @@ _detalhes_database = {
 								["Metsy"] = true,
 								["Twisted Appendage <Metsy>"] = true,
 								["Peace"] = true,
+								["Warlockmania"] = true,
 								["Yukio"] = true,
 								["Toshpal"] = true,
-								["Warlockmania"] = true,
 							},
 							["targets"] = {
 								["Yukio"] = 126837,
@@ -53020,9 +53232,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 159134,
 								["Peace"] = 1232924,
+								["Warlockmania"] = 526501,
 								["Yukio"] = 185788,
 								["Toshpal"] = 934888,
-								["Warlockmania"] = 526501,
 							},
 							["totalover_without_pet"] = 0.006295,
 							["healing_taken"] = 934888.006295,
@@ -53124,9 +53336,9 @@ _detalhes_database = {
 											["Metsy"] = 135207,
 											["Peace"] = 76154,
 											["Jhaaphom <Warlockmania>"] = 163978,
+											["Infernal <Warlockmania>"] = 137736,
 											["Toshpal"] = 90344,
 											["Yukio"] = 90766,
-											["Infernal <Warlockmania>"] = 137736,
 										},
 										["n_max"] = 34564,
 										["targets"] = {
@@ -53190,17 +53402,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 30892,
 											["Peace"] = 204770,
+											["Toshpal"] = 291560,
 											["Yukio"] = 46155,
 											["Warlockmania"] = 209082,
-											["Toshpal"] = 291560,
 										},
 										["n_max"] = 22721,
 										["targets"] = {
 											["Metsy"] = 0,
 											["Peace"] = 331988,
+											["Warlockmania"] = 197088,
 											["Yukio"] = 0,
 											["Toshpal"] = 200759,
-											["Warlockmania"] = 197088,
 										},
 										["n_min"] = 14085,
 										["counter"] = 59,
@@ -53260,9 +53472,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 135286,
 											["Peace"] = 299115,
+											["Warlockmania"] = 305564,
 											["Yukio"] = 185788,
 											["Toshpal"] = 450950,
-											["Warlockmania"] = 305564,
 										},
 										["n_min"] = 51275,
 										["counter"] = 13,
@@ -55051,10 +55263,9 @@ _detalhes_database = {
 								[116847] = 10,
 							},
 							["debuff_uptime"] = 532,
-							["boss_fight_component"] = true,
+							["nome"] = "Peace",
 							["cc_done"] = 1.004552,
-							["debuff_uptime_targets"] = {
-							},
+							["boss_fight_component"] = true,
 							["spec"] = 268,
 							["grupo"] = true,
 							["cc_done_targets"] = {
@@ -55068,7 +55279,8 @@ _detalhes_database = {
 							["last_event"] = 1583734738,
 							["isTank"] = true,
 							["serial"] = "Player-9-09B16B50",
-							["nome"] = "Peace",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -55501,8 +55713,8 @@ _detalhes_database = {
 							["spec"] = 63,
 							["grupo"] = true,
 							["spell_cast"] = {
+								[108853] = 22,
 								[80353] = 1,
-								[122] = 1,
 								[133] = 13,
 								[298357] = 1,
 								[116011] = 3,
@@ -55516,7 +55728,7 @@ _detalhes_database = {
 								[2139] = 1,
 								[11366] = 31,
 								[2948] = 20,
-								[108853] = 22,
+								[122] = 1,
 							},
 							["pets"] = {
 							},
@@ -55915,17 +56127,17 @@ _detalhes_database = {
 							["grupo"] = true,
 							["spell_cast"] = {
 								[1122] = 1,
-								[48018] = 1,
+								[152108] = 3,
 								[17962] = 12,
 								[111400] = 2,
-								[80240] = 2,
-								[116858] = 14,
+								[48018] = 1,
 								[33702] = 1,
 								[113858] = 1,
+								[116858] = 14,
 								[48020] = 1,
 								[348] = 3,
 								[29722] = 22,
-								[152108] = 3,
+								[80240] = 2,
 							},
 							["boss_fight_component"] = true,
 							["last_event"] = 1583734738,
@@ -56392,11 +56604,10 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 404,
-							["nome"] = "Metsy",
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["boss_fight_component"] = true,
+							["nome"] = "Metsy",
 							["spec"] = 258,
 							["cc_break"] = 1.002001,
 							["spell_cast"] = {
@@ -56417,7 +56628,8 @@ _detalhes_database = {
 							},
 							["last_event"] = 1583734738,
 							["tipo"] = 4,
-							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
 							["cc_break_targets"] = {
 								["Inconspicuous Plant"] = 1,
 							},
@@ -56892,13 +57104,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[19483] = 2,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065DF82",
 							["pets"] = {
 							},
@@ -56907,13 +57119,13 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[54049] = 23,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3022-2097-7027-417-0202924291",
 							["pets"] = {
 							},
@@ -57008,6 +57220,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 6,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 6,
 									["appliedamt"] = 0,
@@ -57016,13 +57235,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Warlockmania"] = {
-									["uptime"] = 6,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
 									["uptime"] = 6,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -57058,14 +57270,14 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[316826] = 2,
 								[316835] = 2,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065DF8B",
 							["pets"] = {
 							},
@@ -57081,9 +57293,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["CombatStartedAt"] = 392968.475,
 				["overall_added"] = true,
@@ -57370,18 +57582,18 @@ _detalhes_database = {
 						{
 							["Metsy"] = 411736.003442,
 							["Peace"] = 2898743.001569,
+							["Warlockmania"] = 720844.008592,
 							["Yukio"] = 165158.007784,
 							["Toshpal"] = 3039235.006295,
-							["Warlockmania"] = 720844.008592,
 						}, -- [1]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 5998917.005328,
 							["Peace"] = 2620049.005316,
+							["Yukio"] = 6955110.00667,
 							["Toshpal"] = 2116054.002047,
 							["Warlockmania"] = 6194641.00602,
-							["Yukio"] = 6955110.00667,
 						}, -- [1]
 					},
 				},
@@ -57423,7 +57635,7 @@ _detalhes_database = {
 								"Shadowfiend <Metsy>", -- [2]
 							},
 							["classe"] = "PRIEST",
-							["on_hold"] = false,
+							["damage_taken"] = 2371260.032742,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 1064869,
@@ -57433,8 +57645,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B59DAFF",
 							["fight_component"] = true,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 42160.78294411077,
 							["dps_started"] = false,
 							["nome"] = "Metsy",
 							["spec"] = 258,
@@ -57923,10 +58134,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["tipo"] = 1,
-							["last_dps"] = 42160.78294411077,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734455,
 							["delay"] = 0,
-							["damage_taken"] = 2371260.032742,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -57952,7 +58164,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "MAGE",
-							["on_hold"] = false,
+							["damage_taken"] = 1418192.016779,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 3209184,
@@ -57962,8 +58174,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0AFB89C2",
 							["fight_component"] = true,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 29007.35323324023,
 							["dps_started"] = false,
 							["nome"] = "Yukio",
 							["spec"] = 63,
@@ -58434,10 +58645,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 2,
 							["tipo"] = 1,
-							["last_dps"] = 29007.35323324023,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734450,
 							["delay"] = 0,
-							["damage_taken"] = 1418192.016779,
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 66834,
@@ -58465,7 +58677,7 @@ _detalhes_database = {
 								"Infernal <Warlockmania>", -- [2]
 							},
 							["classe"] = "WARLOCK",
-							["on_hold"] = false,
+							["damage_taken"] = 1745497.027006,
 							["friendlyfire_total"] = 297363,
 							["raid_targets"] = {
 								[128] = 957921,
@@ -58475,14 +58687,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0AE4E8BB",
 							["fight_component"] = true,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-								["Warlockmania"] = {
-									["spells"] = {
-										[111400] = 297363,
-									},
-									["total"] = 297363,
-								},
-							},
+							["last_dps"] = 25424.63271839378,
 							["dps_started"] = false,
 							["nome"] = "Warlockmania",
 							["spec"] = 267,
@@ -58769,10 +58974,17 @@ _detalhes_database = {
 							},
 							["colocacao"] = 3,
 							["tipo"] = 1,
-							["last_dps"] = 25424.63271839378,
+							["friendlyfire"] = {
+								["Warlockmania"] = {
+									["spells"] = {
+										[111400] = 297363,
+									},
+									["total"] = 297363,
+								},
+							},
 							["start_time"] = 1583734440,
 							["delay"] = 0,
-							["damage_taken"] = 1745497.027006,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
@@ -58805,8 +59017,15 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["pets"] = {
 							},
-							["damage_taken"] = 15266049.025829,
-							["last_dps"] = 20361.05121140059,
+							["friendlyfire"] = {
+								["Peace"] = {
+									["spells"] = {
+										[124255] = 7101961,
+									},
+									["total"] = 7101961,
+								},
+							},
+							["on_hold"] = false,
 							["classe"] = "MONK",
 							["raid_targets"] = {
 								[128] = 560476,
@@ -58821,104 +59040,7 @@ _detalhes_database = {
 							["nome"] = "Peace",
 							["spec"] = 270,
 							["grupo"] = true,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 8,
-									["FULL_ABSORB_AMT"] = 1435329,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 23,
-									["ALL"] = 178,
-									["PARTIAL_ABSORBED"] = 20,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 3211853,
-									["ABSORB"] = 43,
-									["ABSORB_AMT"] = 4647182,
-									["FULL_HIT"] = 135,
-									["HITS"] = 6,
-									["FULL_HIT_AMT"] = 3297118,
-								},
-								["Peace"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 385439,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 19,
-									["ALL"] = 149,
-									["PARTIAL_ABSORBED"] = 1,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 4187,
-									["ABSORB"] = 20,
-									["ABSORB_AMT"] = 389626,
-									["FULL_HIT"] = 129,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 2177777,
-								},
-								["Urg'roth, Breaker of Heroes"] = {
-									["DODGE"] = 8,
-									["FULL_ABSORB_AMT"] = 973570,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 2,
-									["ALL"] = 12,
-									["PARTIAL_ABSORBED"] = 8,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 2847882,
-									["ABSORB"] = 10,
-									["ABSORB_AMT"] = 3821452,
-									["FULL_HIT"] = 2,
-									["HITS"] = 6,
-									["FULL_HIT_AMT"] = 973570,
-								},
-								["Malicious Growth"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 76320,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 2,
-									["ALL"] = 7,
-									["PARTIAL_ABSORBED"] = 3,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 47305,
-									["ABSORB"] = 5,
-									["ABSORB_AMT"] = 123625,
-									["FULL_HIT"] = 2,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 76320,
-								},
-								["Thing From Beyond"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 2,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 239915,
-									["ABSORB"] = 2,
-									["ABSORB_AMT"] = 239915,
-									["FULL_HIT"] = 0,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 0,
-								},
-								["Eye of Corruption"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 8,
-									["PARTIAL_ABSORBED"] = 6,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 72564,
-									["ABSORB"] = 6,
-									["ABSORB_AMT"] = 72564,
-									["FULL_HIT"] = 2,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 69451,
-								},
-							},
+							["damage_taken"] = 15266049.025829,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
@@ -59374,17 +59496,107 @@ _detalhes_database = {
 							["colocacao"] = 4,
 							["custom"] = 0,
 							["last_event"] = 1583734651,
-							["on_hold"] = false,
-							["start_time"] = 1583734424,
-							["delay"] = 0,
-							["friendlyfire"] = {
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 8,
+									["FULL_ABSORB_AMT"] = 1435329,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 23,
+									["ALL"] = 178,
+									["PARTIAL_ABSORBED"] = 20,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 3211853,
+									["ABSORB"] = 43,
+									["ABSORB_AMT"] = 4647182,
+									["FULL_HIT"] = 135,
+									["HITS"] = 6,
+									["FULL_HIT_AMT"] = 3297118,
+								},
 								["Peace"] = {
-									["spells"] = {
-										[124255] = 7101961,
-									},
-									["total"] = 7101961,
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 385439,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 19,
+									["ALL"] = 149,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 4187,
+									["ABSORB"] = 20,
+									["ABSORB_AMT"] = 389626,
+									["FULL_HIT"] = 129,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 2177777,
+								},
+								["Urg'roth, Breaker of Heroes"] = {
+									["DODGE"] = 8,
+									["FULL_ABSORB_AMT"] = 973570,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 2,
+									["ALL"] = 12,
+									["PARTIAL_ABSORBED"] = 8,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 2847882,
+									["ABSORB"] = 10,
+									["ABSORB_AMT"] = 3821452,
+									["FULL_HIT"] = 2,
+									["HITS"] = 6,
+									["FULL_HIT_AMT"] = 973570,
+								},
+								["Malicious Growth"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 76320,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 2,
+									["ALL"] = 7,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 47305,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 123625,
+									["FULL_HIT"] = 2,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 76320,
+								},
+								["Thing From Beyond"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 2,
+									["PARTIAL_ABSORBED"] = 2,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 239915,
+									["ABSORB"] = 2,
+									["ABSORB_AMT"] = 239915,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Eye of Corruption"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 8,
+									["PARTIAL_ABSORBED"] = 6,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 72564,
+									["ABSORB"] = 6,
+									["ABSORB_AMT"] = 72564,
+									["FULL_HIT"] = 2,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 69451,
 								},
 							},
+							["start_time"] = 1583734424,
+							["delay"] = 0,
+							["last_dps"] = 20361.05121140059,
 						}, -- [4]
 						{
 							["flag_original"] = 1297,
@@ -59407,7 +59619,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["classe"] = "PALADIN",
-							["on_hold"] = false,
+							["damage_taken"] = 906935.023889,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 								[128] = 563970,
@@ -59417,8 +59629,7 @@ _detalhes_database = {
 							["serial"] = "Player-9-0B60C80F",
 							["fight_component"] = true,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 8423.80345672777,
 							["dps_started"] = false,
 							["nome"] = "Toshpal",
 							["spec"] = 65,
@@ -59723,10 +59934,11 @@ _detalhes_database = {
 							},
 							["colocacao"] = 5,
 							["tipo"] = 1,
-							["last_dps"] = 8423.80345672777,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734476,
 							["delay"] = 1583734615,
-							["damage_taken"] = 906935.023889,
+							["on_hold"] = false,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -59746,16 +59958,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 2082865.003887,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2082865.003887,
 							["serial"] = "Creature-0-3022-2097-7027-161124-000065DF29",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1583734650,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Urg'roth, Breaker of Heroes",
 							["spells"] = {
@@ -59894,15 +60106,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 325542,
 								["Peace"] = 1412443,
+								["Toshpal"] = 299885,
 								["Yukio"] = 437108,
 								["Warlockmania"] = 230538,
-								["Toshpal"] = 299885,
 							},
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -59911,7 +60122,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 2705516.018094,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.018094,
 							["nome"] = "Eye of Corruption",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -59924,9 +60135,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 325542,
 											["Peace"] = 1412443,
+											["Toshpal"] = 299885,
 											["Yukio"] = 437108,
 											["Warlockmania"] = 230538,
-											["Toshpal"] = 299885,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2705516,
@@ -59956,7 +60167,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.018094,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734577,
 							["delay"] = 1583734625,
 							["friendlyfire_total"] = 0,
@@ -59972,22 +60184,22 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 189769,
 								["Peace"] = 234744,
+								["Toshpal"] = 301663,
 								["Warlockmania"] = 92439,
 								["Yukio"] = 46358,
-								["Toshpal"] = 301663,
 							},
 							["pets"] = {
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 864973.00353,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 864973.00353,
 							["serial"] = "Creature-0-3022-2097-7027-161408-000165DF2B",
-							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1583734650,
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Malicious Growth",
 							["spells"] = {
@@ -60001,9 +60213,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 189769,
 											["Peace"] = 234744,
+											["Toshpal"] = 301663,
 											["Warlockmania"] = 92439,
 											["Yukio"] = 46358,
-											["Toshpal"] = 301663,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 864973,
@@ -60050,8 +60262,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
@@ -60060,7 +60271,7 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 781232.013956,
 							["fight_component"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 0.013956,
 							["nome"] = "Thing From Beyond",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -60101,7 +60312,8 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 0.013956,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734641,
 							["delay"] = 1583734598,
 							["friendlyfire_total"] = 0,
@@ -60132,8 +60344,7 @@ _detalhes_database = {
 							["serial"] = "Pet-0-3022-2097-7027-417-0202924291",
 							["dps_started"] = false,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.020307,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
 							["spells"] = {
@@ -60210,12 +60421,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.020307,
+							["on_hold"] = false,
 							["total"] = 821677.020307,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734475,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -60240,8 +60452,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065DF42",
 							["dps_started"] = false,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.013078,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
 							["spells"] = {
@@ -60279,12 +60490,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.013078,
+							["on_hold"] = false,
 							["total"] = 412532.013078,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734625,
 							["delay"] = 1583734602,
 							["fight_component"] = true,
@@ -60313,8 +60525,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-89-000065DF46",
 							["dps_started"] = false,
 							["end_time"] = 1583734650,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.025603,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
 							["spells"] = {
@@ -60389,12 +60600,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.025603,
+							["on_hold"] = false,
 							["total"] = 2400733.025603,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1583734569,
 							["delay"] = 1583734606,
 							["fight_component"] = true,
@@ -60417,17 +60629,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 563962.0165670001,
 							["serial"] = "Vehicle-0-3022-2097-7027-151476-000065DEEA",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 9676647.016567001,
 							["nome"] = "Blastatron X-80",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -60579,10 +60791,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 9676647.016567001,
+							["on_hold"] = false,
 							["start_time"] = 1583734708,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [13]
 						{
 							["flag_original"] = 2632,
@@ -60605,17 +60817,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2597734.025207,
 							["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DEC5",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 8122486.025207,
 							["nome"] = "Defense Bot Mk I",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -60687,10 +60899,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 8122486.025207,
+							["on_hold"] = false,
 							["start_time"] = 1583734695,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [14]
 						{
 							["flag_original"] = 8466,
@@ -60711,7 +60923,7 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3022-2097-7027-19668-000065DEF5",
 							["dps_started"] = false,
 							["end_time"] = 1583734738,
-							["on_hold"] = false,
+							["damage_taken"] = 0.013444,
 							["ownerName"] = "Metsy",
 							["nome"] = "Shadowfiend <Metsy>",
 							["spells"] = {
@@ -60747,13 +60959,13 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["damage_taken"] = 0.013444,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
 							["total"] = 178066.013444,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583734719,
 							["delay"] = 0,
 							["fight_component"] = true,
@@ -60773,23 +60985,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 304049,
 								["Peace"] = 820398,
+								["Warlockmania"] = 675147,
 								["Toshpal"] = 305387,
 								["Yukio"] = 308558,
-								["Warlockmania"] = 675147,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2413539.01698,
 							["serial"] = "Creature-0-3022-2097-7027-144298-000065DEC5",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 6424941.016980001,
 							["nome"] = "Defense Bot Mk III",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -60831,9 +61043,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 304049,
 											["Peace"] = 151920,
+											["Yukio"] = 308558,
 											["Toshpal"] = 305387,
 											["Warlockmania"] = 306630,
-											["Yukio"] = 308558,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1376544,
@@ -60945,10 +61157,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 6424941.016980001,
+							["on_hold"] = false,
 							["start_time"] = 1583734713,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [16]
 						{
 							["flag_original"] = 2632,
@@ -60967,17 +61179,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1720635.009404,
 							["serial"] = "Creature-0-3022-2097-7027-144303-000065DE8F",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7715628.009404,
 							["nome"] = "G.U.A.R.D.",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -61051,10 +61263,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7715628.009404,
+							["on_hold"] = false,
 							["start_time"] = 1583734690,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [17]
 						{
 							["flag_original"] = 2632,
@@ -61076,17 +61288,17 @@ _detalhes_database = {
 							["pets"] = {
 								"Anti-Personnel Squirrel <Mechagon Tinkerer>", -- [1]
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 544074.014504,
 							["serial"] = "Creature-0-3022-2097-7027-144294-0000E5DE8F",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 7885831.014504001,
 							["nome"] = "Mechagon Tinkerer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -61186,10 +61398,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 7885831.014504001,
+							["on_hold"] = false,
 							["start_time"] = 1583734709,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [18]
 						{
 							["flag_original"] = 2632,
@@ -61197,16 +61409,17 @@ _detalhes_database = {
 							["damage_from"] = {
 								["Metsy"] = true,
 								["Peace"] = true,
+								["Infernal <Warlockmania>"] = true,
 								["Toshpal"] = true,
 								["Yukio"] = true,
-								["Infernal <Warlockmania>"] = true,
 							},
 							["targets"] = {
 							},
 							["serial"] = "Creature-0-3022-2097-7027-151613-0000E5DEA0",
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
@@ -61215,8 +61428,7 @@ _detalhes_database = {
 							["end_time"] = 1583734738,
 							["fight_component"] = true,
 							["total"] = 0.012683,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["ownerName"] = "Mechagon Tinkerer",
 							["nome"] = "Anti-Personnel Squirrel <Mechagon Tinkerer>",
 							["spells"] = {
@@ -61256,7 +61468,7 @@ _detalhes_database = {
 							["dps_started"] = false,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1583734735,
 							["delay"] = 0,
 							["damage_taken"] = 281775.012683,
@@ -61268,26 +61480,26 @@ _detalhes_database = {
 								["Metsy"] = true,
 								["Peace"] = true,
 								["Jhaaphom <Warlockmania>"] = true,
+								["Toshpal"] = true,
 								["Warlockmania"] = true,
 								["Yukio"] = true,
-								["Toshpal"] = true,
 							},
 							["targets"] = {
 								["Peace"] = 34079,
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["on_hold"] = false,
+							["monster"] = true,
+							["last_dps"] = 0,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 34079.01136,
 							["serial"] = "Creature-0-3022-2097-7027-151325-000065DC41",
-							["dps_started"] = false,
+							["fight_component"] = true,
 							["end_time"] = 1583734738,
 							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["damage_taken"] = 196539.01136,
 							["nome"] = "Alarm-o-Bot",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -61329,10 +61541,10 @@ _detalhes_database = {
 							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 196539.01136,
+							["on_hold"] = false,
 							["start_time"] = 1583734728,
 							["delay"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 						}, -- [20]
 					},
 				}, -- [1]
@@ -62002,9 +62214,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 1073139,
 								["Peace"] = 3895283,
+								["Warlockmania"] = 803288,
 								["Yukio"] = 234183,
 								["Toshpal"] = 768866,
-								["Warlockmania"] = 803288,
 							},
 							["totalover_without_pet"] = 0.023778,
 							["healing_taken"] = 768866.0237779999,
@@ -62115,17 +62327,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 66490,
 											["Peace"] = 87519,
+											["Toshpal"] = 304594,
 											["Yukio"] = 194621,
 											["Warlockmania"] = 172015,
-											["Toshpal"] = 304594,
 										},
 										["n_max"] = 75112,
 										["targets"] = {
 											["Metsy"] = 709994,
 											["Peace"] = 1321302,
+											["Warlockmania"] = 447616,
 											["Yukio"] = 137973,
 											["Toshpal"] = 207771,
-											["Warlockmania"] = 447616,
 										},
 										["n_min"] = 40643,
 										["counter"] = 29,
@@ -62263,17 +62475,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 93016,
 											["Peace"] = 270341,
+											["Yukio"] = 277288,
 											["Toshpal"] = 319171,
 											["Warlockmania"] = 110682,
-											["Yukio"] = 277288,
 										},
 										["n_max"] = 23244,
 										["targets"] = {
 											["Metsy"] = 312680,
 											["Peace"] = 719891,
+											["Warlockmania"] = 259669,
 											["Yukio"] = 82019,
 											["Toshpal"] = 169299,
-											["Warlockmania"] = 259669,
 										},
 										["n_min"] = 0,
 										["counter"] = 105,
@@ -62956,39 +63168,39 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.01222,
+							["end_time"] = 1583734738,
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.01222,
+							["iniciar_hps"] = false,
 							["targets_overheal"] = {
 							},
-							["healing_taken"] = 0.01222,
+							["heal_enemy_amt"] = 245902,
 							["totalover"] = 0.01222,
 							["total_without_pet"] = 0.01222,
-							["iniciar_hps"] = false,
+							["totalover_without_pet"] = 0.01222,
 							["start_time"] = 1583734735,
 							["monster"] = true,
-							["end_time"] = 1583734738,
-							["heal_enemy_amt"] = 245902,
+							["total"] = 0.01222,
 							["classe"] = "UNKNOW",
+							["healing_taken"] = 0.01222,
 							["nome"] = "Defense Bot Mk III",
-							["targets_absorbs"] = {
-							},
-							["fight_component"] = true,
-							["serial"] = "Creature-0-3022-2097-7027-144298-000065DEC5",
-							["heal_enemy"] = {
-								[297133] = 245902,
-							},
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
+							["fight_component"] = true,
+							["delay"] = 0,
+							["heal_enemy"] = {
+								[297133] = 245902,
+							},
+							["targets_absorbs"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 0,
 							["on_hold"] = false,
 							["totaldenied"] = 0.01222,
-							["delay"] = 0,
+							["serial"] = "Creature-0-3022-2097-7027-144298-000065DEC5",
 							["tipo"] = 2,
 						}, -- [8]
 					},
@@ -63409,14 +63621,15 @@ _detalhes_database = {
 										},
 										["counter"] = 0,
 									},
-									[120954] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 1,
-										["appliedamt"] = 1,
-										["id"] = 120954,
-										["uptime"] = 15,
+									[300714] = {
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
+										["uptime"] = 107,
+										["id"] = 300714,
+										["refreshamt"] = 0,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[101643] = {
@@ -63430,15 +63643,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[317020] = {
-										["appliedamt"] = 19,
+									[120954] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["appliedamt"] = 1,
+										["id"] = 120954,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 19,
-										["uptime"] = 206,
-										["id"] = 317020,
-										["refreshamt"] = 76,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[268854] = {
@@ -63452,13 +63664,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[319237] = {
-										["appliedamt"] = 5,
+									[312107] = {
+										["appliedamt"] = 44,
 										["targets"] = {
 										},
-										["activedamt"] = 5,
-										["uptime"] = 222,
-										["id"] = 319237,
+										["activedamt"] = 44,
+										["uptime"] = 161,
+										["id"] = 312107,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -63485,14 +63697,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[289324] = {
-										["appliedamt"] = 4,
+									[195630] = {
+										["appliedamt"] = 54,
 										["targets"] = {
 										},
-										["activedamt"] = 4,
-										["uptime"] = 8,
-										["id"] = 289324,
-										["refreshamt"] = 0,
+										["activedamt"] = 54,
+										["uptime"] = 139,
+										["id"] = 195630,
+										["refreshamt"] = 58,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -63540,14 +63752,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[294966] = {
-										["appliedamt"] = 7,
+									[289324] = {
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 7,
-										["uptime"] = 218,
-										["id"] = 294966,
-										["refreshamt"] = 16,
+										["activedamt"] = 4,
+										["uptime"] = 8,
+										["id"] = 289324,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -63595,14 +63807,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[195630] = {
-										["appliedamt"] = 54,
+									[294966] = {
+										["appliedamt"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 54,
-										["uptime"] = 139,
-										["id"] = 195630,
-										["refreshamt"] = 58,
+										["activedamt"] = 7,
+										["uptime"] = 218,
+										["id"] = 294966,
+										["refreshamt"] = 16,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -63628,28 +63840,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[312107] = {
-										["appliedamt"] = 44,
-										["targets"] = {
-										},
-										["activedamt"] = 44,
-										["uptime"] = 161,
-										["id"] = 312107,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[300714] = {
-										["appliedamt"] = 3,
-										["targets"] = {
-										},
-										["activedamt"] = 3,
-										["uptime"] = 107,
-										["id"] = 300714,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[303520] = {
 										["appliedamt"] = 5,
 										["targets"] = {
@@ -63657,6 +63847,28 @@ _detalhes_database = {
 										["activedamt"] = 5,
 										["uptime"] = 222,
 										["id"] = 303520,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[317020] = {
+										["appliedamt"] = 19,
+										["targets"] = {
+										},
+										["activedamt"] = 19,
+										["uptime"] = 206,
+										["id"] = 317020,
+										["refreshamt"] = 76,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[319237] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 5,
+										["uptime"] = 222,
+										["id"] = 319237,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -63981,14 +64193,15 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[277185] = {
-										["refreshamt"] = 0,
-										["activedamt"] = 1,
+									[300714] = {
 										["appliedamt"] = 1,
-										["id"] = 277185,
-										["uptime"] = 15,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 58,
+										["id"] = 300714,
+										["refreshamt"] = 0,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298357] = {
@@ -64034,15 +64247,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[1459] = {
-										["appliedamt"] = 5,
+									[277185] = {
+										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["appliedamt"] = 1,
+										["id"] = 277185,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 5,
-										["uptime"] = 222,
-										["id"] = 1459,
-										["refreshamt"] = 0,
-										["actived"] = false,
 										["counter"] = 0,
 									},
 									[296971] = {
@@ -64242,13 +64454,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[300714] = {
-										["appliedamt"] = 1,
+									[1459] = {
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 58,
-										["id"] = 300714,
+										["activedamt"] = 5,
+										["uptime"] = 222,
+										["id"] = 1459,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -64734,13 +64946,13 @@ _detalhes_database = {
 							["grupo"] = true,
 							["spell_cast"] = {
 								[1122] = 1,
-								[33702] = 1,
+								[116858] = 31,
 								[17962] = 26,
 								[348] = 12,
 								[80240] = 2,
 								[296971] = 1,
+								[33702] = 1,
 								[113858] = 1,
-								[116858] = 31,
 								[152108] = 4,
 								[313352] = 1,
 								[29722] = 44,
@@ -64886,7 +65098,7 @@ _detalhes_database = {
 							},
 							["dispell"] = 3.007936,
 							["buff_uptime"] = 3171,
-							["nome"] = "Metsy",
+							["interrupt"] = 1.004645,
 							["classe"] = "PRIEST",
 							["interrupt_spells"] = {
 								["_ActorTable"] = {
@@ -65266,8 +65478,7 @@ _detalhes_database = {
 								["Yukio"] = 1,
 								["Warlockmania"] = 1,
 							},
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Metsy",
 							["interrupt_targets"] = {
 								["Mechagon Tinkerer"] = 1,
 							},
@@ -65296,7 +65507,8 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 							},
-							["interrupt"] = 1.004645,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-9-0B59DAFF",
 							["pets"] = {
 								"Twisted Appendage <Metsy>", -- [1]
@@ -65732,22 +65944,22 @@ _detalhes_database = {
 							["spec"] = 65,
 							["grupo"] = true,
 							["spell_cast"] = {
+								[35395] = 27,
 								[313148] = 1,
-								[31884] = 1,
 								[105809] = 1,
 								[26573] = 10,
 								[190784] = 1,
 								[214202] = 2,
 								[4987] = 1,
-								[35395] = 27,
+								[31884] = 1,
 								[20473] = 44,
 								[275773] = 15,
-								[31821] = 1,
+								[312725] = 2,
 								[19750] = 5,
 								[295258] = 2,
 								[313352] = 1,
-								[312725] = 2,
 								[85222] = 24,
+								[31821] = 1,
 							},
 							["dispell_targets"] = {
 								["Warlockmania"] = 1,
@@ -65796,6 +66008,14 @@ _detalhes_database = {
 									["actived"] = true,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 0,
+									["actived_at"] = 1583734570,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = true,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 0,
 									["actived_at"] = 1583734571,
@@ -65812,25 +66032,17 @@ _detalhes_database = {
 									["actived"] = true,
 									["refreshamt"] = 0,
 								},
-								["Toshpal"] = {
-									["uptime"] = 0,
-									["actived_at"] = 1583734570,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
-									["actived"] = true,
-									["refreshamt"] = 0,
-								},
 							},
 							["classe"] = "UNKNOW",
 							["nome"] = "Ny'alotha Incursion",
 							["pets"] = {
 							},
 							["last_event"] = 1583734571,
-							["damage_spellid"] = 313445,
+							["serial"] = "Creature-0-3022-2097-7027-160984-000065DC41",
 							["tipo"] = 4,
 							["damage_twin"] = "Brutal Spire of Ny'alotha",
+							["damage_spellid"] = 313445,
 							["boss_debuff"] = true,
-							["serial"] = "Creature-0-3022-2097-7027-160984-000065DC41",
 						}, -- [7]
 						{
 							["flag_original"] = 2632,
@@ -65862,6 +66074,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 11,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 4,
 									["appliedamt"] = 0,
@@ -65871,13 +66090,6 @@ _detalhes_database = {
 								},
 								["Yukio"] = {
 									["uptime"] = 2,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 11,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -65951,6 +66163,14 @@ _detalhes_database = {
 									["actived"] = true,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 74,
+									["actived_at"] = 1583734649,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = true,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 20,
 									["actived_at"] = 1583734645,
@@ -65964,14 +66184,6 @@ _detalhes_database = {
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 74,
-									["actived_at"] = 1583734649,
-									["appliedamt"] = 0,
-									["activedamt"] = 1,
-									["actived"] = true,
 									["refreshamt"] = 0,
 								},
 							},
@@ -66026,11 +66238,11 @@ _detalhes_database = {
 							["nome"] = "Twisted Appendage <Metsy>",
 							["pets"] = {
 							},
-							["last_event"] = 0,
-							["classe"] = "PET",
 							["spell_cast"] = {
 								[316826] = 3,
 							},
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065DF42",
 							["tipo"] = 4,
 						}, -- [12]
@@ -66040,11 +66252,11 @@ _detalhes_database = {
 							["nome"] = "Infernal <Warlockmania>",
 							["pets"] = {
 							},
-							["last_event"] = 0,
-							["classe"] = "PET",
 							["spell_cast"] = {
 								[19483] = 6,
 							},
+							["classe"] = "PET",
+							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065DF46",
 							["tipo"] = 4,
 						}, -- [13]
@@ -66138,6 +66350,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Warlockmania"] = {
+									["uptime"] = 8,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 8,
 									["appliedamt"] = 0,
@@ -66146,13 +66365,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Toshpal"] = {
-									["uptime"] = 8,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Warlockmania"] = {
 									["uptime"] = 8,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -66258,9 +66470,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["CombatStartedAt"] = 392796.746,
 				["tempo_start"] = 1583734568,
@@ -66562,18 +66774,18 @@ _detalhes_database = {
 						{
 							["Metsy"] = 467286.005266,
 							["Peace"] = 3450585.006413,
+							["Warlockmania"] = 311676.007266,
 							["Yukio"] = 67819.00641,
 							["Toshpal"] = 1933931.00781,
-							["Warlockmania"] = 311676.007266,
 						}, -- [1]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 3457395.005332,
 							["Peace"] = 1669708.004591,
+							["Warlockmania"] = 2084947.006072,
 							["Toshpal"] = 690794.0024689999,
 							["Yukio"] = 2378748.001892,
-							["Warlockmania"] = 2084947.006072,
 						}, -- [1]
 					},
 				},
@@ -66605,18 +66817,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583734373,
-							["nome"] = "Yukio",
 							["friendlyfire_total"] = 187946,
+							["spec"] = 63,
+							["classe"] = "MAGE",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6830660.001528,
-							["spec"] = 63,
+							["nome"] = "Yukio",
 							["serial"] = "Player-9-0AFB89C2",
 							["dps_started"] = false,
+							["end_time"] = 1583734373,
+							["last_dps"] = 66893.80289805777,
 							["total"] = 6830660.001528,
-							["classe"] = "MAGE",
-							["damage_taken"] = 1787125.001528,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -66900,7 +67112,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734272,
 							["delay"] = 0,
-							["last_dps"] = 66893.80289805777,
+							["damage_taken"] = 1787125.001528,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
@@ -66919,18 +67131,18 @@ _detalhes_database = {
 								"Twisted Appendage <Metsy>", -- [1]
 								"Shadowfiend <Metsy>", -- [2]
 							},
-							["end_time"] = 1583734373,
-							["nome"] = "Metsy",
 							["friendlyfire_total"] = 387267,
+							["spec"] = 258,
+							["classe"] = "PRIEST",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4850645.005052,
-							["spec"] = 258,
+							["nome"] = "Metsy",
 							["serial"] = "Player-9-0B59DAFF",
 							["dps_started"] = false,
+							["end_time"] = 1583734373,
+							["last_dps"] = 51052.88315820702,
 							["total"] = 5213112.005052,
-							["classe"] = "PRIEST",
-							["damage_taken"] = 1540007.005052,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67336,7 +67548,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734272,
 							["delay"] = 0,
-							["last_dps"] = 51052.88315820702,
+							["damage_taken"] = 1540007.005052,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
@@ -67356,31 +67568,18 @@ _detalhes_database = {
 								"Jhaaphom <Warlockmania>", -- [1]
 								"Infernal <Warlockmania>", -- [2]
 							},
-							["classe"] = "WARLOCK",
+							["end_time"] = 1583734406,
 							["on_hold"] = false,
-							["friendlyfire_total"] = 539368,
+							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3632893.00281,
-							["friendlyfire"] = {
-								["Warlockmania"] = {
-									["spells"] = {
-										[111400] = 262380,
-									},
-									["total"] = 262380,
-								},
-								["Peace"] = {
-									["spells"] = {
-										[240448] = 276988,
-									},
-									["total"] = 276988,
-								},
-							},
+							["last_dps"] = 44881.4635185774,
 							["serial"] = "Player-9-0AE4E8BB",
 							["dps_started"] = false,
-							["end_time"] = 1583734406,
-							["damage_taken"] = 2203821.00281,
 							["total"] = 4582936.00281,
+							["friendlyfire_total"] = 539368,
+							["damage_taken"] = 2203821.00281,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -67625,7 +67824,20 @@ _detalhes_database = {
 							["nome"] = "Warlockmania",
 							["custom"] = 0,
 							["tipo"] = 1,
-							["last_dps"] = 44881.4635185774,
+							["friendlyfire"] = {
+								["Warlockmania"] = {
+									["spells"] = {
+										[111400] = 262380,
+									},
+									["total"] = 262380,
+								},
+								["Peace"] = {
+									["spells"] = {
+										[240448] = 276988,
+									},
+									["total"] = 276988,
+								},
+							},
 							["start_time"] = 1583734283,
 							["delay"] = 1583734379,
 							["spec"] = 267,
@@ -68168,18 +68380,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["end_time"] = 1583734373,
-							["nome"] = "Toshpal",
 							["friendlyfire_total"] = 187947,
+							["spec"] = 65,
+							["classe"] = "PALADIN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1473821.002559,
-							["spec"] = 65,
+							["nome"] = "Toshpal",
 							["serial"] = "Player-9-0B60C80F",
 							["dps_started"] = false,
+							["end_time"] = 1583734373,
+							["last_dps"] = 14433.37710120917,
 							["total"] = 1473821.002559,
-							["classe"] = "PALADIN",
-							["damage_taken"] = 1311696.002559,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -68493,7 +68705,7 @@ _detalhes_database = {
 							},
 							["start_time"] = 1583734272,
 							["delay"] = 0,
-							["last_dps"] = 14433.37710120917,
+							["damage_taken"] = 1311696.002559,
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -68512,9 +68724,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 513312,
 								["Peace"] = 2005368,
+								["Warlockmania"] = 706898,
 								["Yukio"] = 604641,
 								["Toshpal"] = 416291,
-								["Warlockmania"] = 706898,
 							},
 							["pets"] = {
 							},
@@ -68656,9 +68868,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 513312,
 											["Peace"] = 300693,
+											["Warlockmania"] = 512811,
 											["Yukio"] = 261502,
 											["Toshpal"] = 416291,
-											["Warlockmania"] = 512811,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2004609,
@@ -68756,13 +68968,13 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 333404,
 								["Peace"] = 234858,
+								["Toshpal"] = 296557,
 								["Warlockmania"] = 330307,
 								["Yukio"] = 331516,
-								["Toshpal"] = 296557,
 							},
 							["serial"] = "",
 							["spellicon"] = 133035,
-							["boss_fight_component"] = true,
+							["total"] = 1526642.003973,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
@@ -68771,8 +68983,8 @@ _detalhes_database = {
 							["total_without_pet"] = 1526642.003973,
 							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 1526642.003973,
-							["damage_taken"] = 0.003973,
+							["end_time"] = 1583734373,
+							["last_dps"] = 0,
 							["last_event"] = 1583734367,
 							["nome"] = "[*] Blazing Chomp",
 							["spells"] = {
@@ -68786,9 +68998,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 333404,
 											["Peace"] = 234858,
+											["Toshpal"] = 296557,
 											["Warlockmania"] = 330307,
 											["Yukio"] = 331516,
-											["Toshpal"] = 296557,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1526642,
@@ -68813,10 +69025,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["last_dps"] = 0,
+							["boss_fight_component"] = true,
 							["friendlyfire"] = {
 							},
-							["end_time"] = 1583734373,
+							["damage_taken"] = 0.003973,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["on_hold"] = false,
@@ -68832,9 +69044,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 387756,
 								["Peace"] = 162942,
+								["Toshpal"] = 211685,
 								["Warlockmania"] = 231077,
 								["Yukio"] = 443186,
-								["Toshpal"] = 211685,
 							},
 							["pets"] = {
 							},
@@ -68861,9 +69073,9 @@ _detalhes_database = {
 										["targets"] = {
 											["Metsy"] = 387756,
 											["Peace"] = 162942,
+											["Toshpal"] = 211685,
 											["Warlockmania"] = 231077,
 											["Yukio"] = 443186,
-											["Toshpal"] = 211685,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1436646,
@@ -69500,7 +69712,8 @@ _detalhes_database = {
 							["monster"] = true,
 							["total"] = 0.001123,
 							["serial"] = "Creature-0-3022-2097-7027-151325-000065DC41",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["nome"] = "Alarm-o-Bot",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -69537,13 +69750,12 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.001123,
 							["end_time"] = 1583734406,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1583734404,
-							["damage_taken"] = 0.001123,
+							["on_hold"] = false,
 							["start_time"] = 1583734406,
 							["delay"] = 0,
 							["classe"] = "UNKNOW",
@@ -69584,9 +69796,9 @@ _detalhes_database = {
 							["targets"] = {
 								["Metsy"] = 470629,
 								["Peace"] = 1891058,
+								["Toshpal"] = 1031774,
 								["Yukio"] = 697778,
 								["Warlockmania"] = 1076557,
-								["Toshpal"] = 1031774,
 							},
 							["totalover_without_pet"] = 0.003505,
 							["healing_taken"] = 1130011.003505,
@@ -69694,29 +69906,32 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[19750] = {
-										["c_amt"] = 1,
+									[296184] = {
+										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 118032,
+										["n_max"] = 10248,
 										["targets"] = {
-											["Warlockmania"] = 373490,
+											["Metsy"] = 20496,
+											["Warlockmania"] = 61488,
+											["Toshpal"] = 30744,
+											["Yukio"] = 20496,
 										},
-										["n_min"] = 80096,
-										["counter"] = 3,
+										["n_min"] = 10248,
+										["counter"] = 13,
 										["overheal"] = 0,
-										["total"] = 373490,
-										["c_max"] = 175362,
-										["id"] = 19750,
+										["total"] = 133224,
+										["c_max"] = 0,
+										["id"] = 296184,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 175362,
+										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 175362,
-										["n_curado"] = 198128,
-										["n_amt"] = 2,
+										["c_min"] = 0,
+										["n_curado"] = 133224,
+										["n_amt"] = 13,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -69749,30 +69964,29 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[53652] = {
-										["c_amt"] = 0,
+									[19750] = {
+										["c_amt"] = 1,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Peace"] = 474439,
 										},
-										["n_max"] = 81602,
+										["n_max"] = 118032,
 										["targets"] = {
-											["Peace"] = 830489,
+											["Warlockmania"] = 373490,
 										},
-										["n_min"] = 0,
-										["counter"] = 102,
-										["overheal"] = 474439,
-										["total"] = 830489,
-										["c_max"] = 0,
-										["id"] = 53652,
+										["n_min"] = 80096,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 373490,
+										["c_max"] = 175362,
+										["id"] = 19750,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 0,
+										["c_curado"] = 175362,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 830489,
-										["n_amt"] = 102,
+										["c_min"] = 175362,
+										["n_curado"] = 198128,
+										["n_amt"] = 2,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -69781,18 +69995,18 @@ _detalhes_database = {
 										["c_amt"] = 12,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Warlockmania"] = 115083,
 											["Toshpal"] = 16571,
 											["Yukio"] = 152092,
+											["Warlockmania"] = 115083,
 											["Peace"] = 214222,
 										},
 										["n_max"] = 64042,
 										["targets"] = {
 											["Metsy"] = 286968,
 											["Peace"] = 430818,
+											["Yukio"] = 451919,
 											["Warlockmania"] = 273096,
 											["Toshpal"] = 442295,
-											["Yukio"] = 451919,
 										},
 										["n_min"] = 49913,
 										["counter"] = 17,
@@ -69846,17 +70060,17 @@ _detalhes_database = {
 										["targets_overheal"] = {
 											["Metsy"] = 150813,
 											["Peace"] = 131739,
+											["Yukio"] = 222545,
 											["Warlockmania"] = 170094,
 											["Toshpal"] = 188400,
-											["Yukio"] = 222545,
 										},
 										["n_max"] = 23244,
 										["targets"] = {
 											["Metsy"] = 91188,
 											["Peace"] = 435933,
+											["Toshpal"] = 314690,
 											["Yukio"] = 189446,
 											["Warlockmania"] = 320130,
-											["Toshpal"] = 314690,
 										},
 										["n_min"] = 14627,
 										["counter"] = 86,
@@ -69876,32 +70090,30 @@ _detalhes_database = {
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
-									[296184] = {
+									[53652] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Peace"] = 474439,
 										},
-										["n_max"] = 10248,
+										["n_max"] = 81602,
 										["targets"] = {
-											["Metsy"] = 20496,
-											["Toshpal"] = 30744,
-											["Yukio"] = 20496,
-											["Warlockmania"] = 61488,
+											["Peace"] = 830489,
 										},
-										["n_min"] = 10248,
-										["counter"] = 13,
-										["overheal"] = 0,
-										["total"] = 133224,
+										["n_min"] = 0,
+										["counter"] = 102,
+										["overheal"] = 474439,
+										["total"] = 830489,
 										["c_max"] = 0,
-										["id"] = 296184,
+										["id"] = 53652,
 										["targets_absorbs"] = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["m_amt"] = 0,
 										["c_min"] = 0,
-										["n_curado"] = 133224,
-										["n_amt"] = 13,
+										["n_curado"] = 830489,
+										["n_amt"] = 102,
 										["m_healed"] = 0,
 										["totaldenied"] = 0,
 										["absorbed"] = 0,
@@ -71495,14 +71707,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[289324] = {
-										["appliedamt"] = 3,
+									[195630] = {
+										["appliedamt"] = 17,
 										["targets"] = {
 										},
-										["activedamt"] = 3,
-										["uptime"] = 6,
-										["id"] = 289324,
-										["refreshamt"] = 0,
+										["activedamt"] = 17,
+										["uptime"] = 51,
+										["id"] = 195630,
+										["refreshamt"] = 20,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -71550,13 +71762,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[294966] = {
-										["appliedamt"] = 1,
+									[289324] = {
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 101,
-										["id"] = 294966,
+										["activedamt"] = 3,
+										["uptime"] = 6,
+										["id"] = 289324,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -71638,14 +71850,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[195630] = {
-										["appliedamt"] = 17,
+									[294966] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 17,
-										["uptime"] = 51,
-										["id"] = 195630,
-										["refreshamt"] = 20,
+										["activedamt"] = 1,
+										["uptime"] = 101,
+										["id"] = 294966,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -71687,9 +71899,9 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
+							["boss_fight_component"] = true,
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Peace",
 							["spec"] = 268,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -71717,7 +71929,7 @@ _detalhes_database = {
 							["last_event"] = 1583734373,
 							["isTank"] = true,
 							["serial"] = "Player-9-09B16B50",
-							["boss_fight_component"] = true,
+							["nome"] = "Peace",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -72480,13 +72692,13 @@ _detalhes_database = {
 								[301308] = 1,
 								[6262] = 1,
 								[152108] = 3,
-								[113858] = 1,
+								[33702] = 1,
 								[17962] = 13,
-								[116858] = 14,
+								[113858] = 1,
 								[111400] = 2,
 								[348] = 3,
 								[29722] = 19,
-								[33702] = 1,
+								[116858] = 14,
 							},
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
@@ -73299,7 +73511,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["nome"] = "Toshpal",
+							["boss_fight_component"] = true,
 							["debuff_uptime"] = 124,
 							["dispell_oque"] = {
 								[294929] = 6,
@@ -73316,16 +73528,15 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Toshpal",
 							["spec"] = 65,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[26573] = 3,
-								[313148] = 1,
+								[35395] = 8,
 								[214202] = 2,
 								[4987] = 6,
-								[31884] = 1,
+								[313148] = 1,
 								[20473] = 25,
 								[190784] = 1,
 								[85222] = 8,
@@ -73333,7 +73544,7 @@ _detalhes_database = {
 								[295258] = 1,
 								[498] = 1,
 								[275773] = 5,
-								[35395] = 8,
+								[31884] = 1,
 							},
 							["dispell_targets"] = {
 								["Peace"] = 6,
@@ -73342,7 +73553,8 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["debuff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-9-0B60C80F",
 							["pets"] = {
 							},
@@ -73351,13 +73563,13 @@ _detalhes_database = {
 							["flag_original"] = 4370,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Jhaaphom <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[54049] = 24,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Pet-0-3022-2097-7027-417-0202924291",
 							["pets"] = {
 							},
@@ -73391,6 +73603,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 33,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Warlockmania"] = {
 									["uptime"] = 15,
 									["appliedamt"] = 0,
@@ -73400,13 +73619,6 @@ _detalhes_database = {
 								},
 								["Yukio"] = {
 									["uptime"] = 41,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
-									["uptime"] = 33,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -73425,13 +73637,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Warlockmania",
 							["nome"] = "Infernal <Warlockmania>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[19483] = 2,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-89-000065DE03",
 							["pets"] = {
 							},
@@ -73545,6 +73757,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Yukio"] = {
+									["uptime"] = 10,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Toshpal"] = {
 									["uptime"] = 10,
 									["appliedamt"] = 0,
@@ -73553,13 +73772,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Warlockmania"] = {
-									["uptime"] = 10,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Yukio"] = {
 									["uptime"] = 10,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -73579,13 +73791,13 @@ _detalhes_database = {
 							["flag_original"] = 8466,
 							["ownerName"] = "Metsy",
 							["nome"] = "Twisted Appendage <Metsy>",
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["spell_cast"] = {
 								[316826] = 1,
 							},
 							["boss_fight_component"] = true,
+							["classe"] = "PET",
 							["tipo"] = 4,
-							["last_event"] = 0,
 							["serial"] = "Creature-0-3022-2097-7027-162764-000065DE23",
 							["pets"] = {
 							},
@@ -73612,6 +73824,13 @@ _detalhes_database = {
 									["actived"] = false,
 									["refreshamt"] = 0,
 								},
+								["Toshpal"] = {
+									["uptime"] = 9,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
 								["Yukio"] = {
 									["uptime"] = 4,
 									["appliedamt"] = 0,
@@ -73620,13 +73839,6 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 								["Warlockmania"] = {
-									["uptime"] = 9,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-								["Toshpal"] = {
 									["uptime"] = 9,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
@@ -73653,9 +73865,9 @@ _detalhes_database = {
 				["raid_roster"] = {
 					["Metsy"] = true,
 					["Peace"] = true,
+					["Warlockmania"] = true,
 					["Toshpal"] = true,
 					["Yukio"] = true,
-					["Warlockmania"] = true,
 				},
 				["CombatStartedAt"] = 392498.507,
 				["overall_added"] = true,
@@ -74186,18 +74398,18 @@ _detalhes_database = {
 						{
 							["Metsy"] = 1084284.002405,
 							["Peace"] = 4292825.004824,
+							["Yukio"] = 1208057.004313,
 							["Warlockmania"] = 886971.002781,
 							["Toshpal"] = 5167796.003505,
-							["Yukio"] = 1208057.004313,
 						}, -- [1]
 					},
 					["damage"] = {
 						{
 							["Metsy"] = 5213112.005052,
 							["Peace"] = 2468701.004746,
+							["Warlockmania"] = 4582936.00281,
 							["Toshpal"] = 1473821.002559,
 							["Yukio"] = 6830660.001528,
-							["Warlockmania"] = 4582936.00281,
 						}, -- [1]
 					},
 				},
@@ -74219,8 +74431,8 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["Andruww"] = {
-			"Cursebreak", -- [1]
+		["Thunderrz"] = {
+			"Frida", -- [1]
 			"", -- [2]
 			{
 				0, -- [1]
@@ -74240,7 +74452,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			136, -- [7]
+			212, -- [7]
 		},
 		["nextreset"] = 1584518949,
 		["Tehkz"] = {
@@ -74313,6 +74525,29 @@ _detalhes_database = {
 			}, -- [6]
 			7, -- [7]
 		},
+		["Circé"] = {
+			"Brb Saving The Galaxy", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
 		["Whinks"] = {
 			"Usa", -- [1]
 			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
@@ -74359,28 +74594,28 @@ _detalhes_database = {
 			}, -- [6]
 			7, -- [7]
 		},
-		["Circé"] = {
-			"Brb Saving The Galaxy", -- [1]
-			"", -- [2]
+		["Choplo"] = {
+			"Choppyuwu", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
 				0, -- [3]
 				1, -- [4]
 			}, -- [3]
-			"", -- [4]
+			"Interface\\PetBattles\\Weather-StaticField", -- [4]
 			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
+				0.1171875, -- [1]
+				0.953125, -- [2]
+				1, -- [3]
+				0, -- [4]
 			}, -- [5]
 			{
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			2, -- [7]
+			6, -- [7]
 		},
 		["Voidthirst"] = {
 			"Voidthirst", -- [1]
@@ -74428,8 +74663,8 @@ _detalhes_database = {
 			}, -- [6]
 			10, -- [7]
 		},
-		["Thunderrz"] = {
-			"Frida", -- [1]
+		["Sploshey"] = {
+			"Sploshey", -- [1]
 			"", -- [2]
 			{
 				0, -- [1]
@@ -74449,7 +74684,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			212, -- [7]
+			1, -- [7]
 		},
 		["Thuggbtw"] = {
 			"Thuggbtw", -- [1]
@@ -74474,8 +74709,8 @@ _detalhes_database = {
 			}, -- [6]
 			3, -- [7]
 		},
-		["Sploshey"] = {
-			"Sploshey", -- [1]
+		["Snareiat"] = {
+			"Snareiat", -- [1]
 			"", -- [2]
 			{
 				0, -- [1]
@@ -74495,7 +74730,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			1, -- [7]
+			7, -- [7]
 		},
 		["Peace"] = {
 			"(O´ω｀O) Awd Twa Wol Owdewl Iws Jus Awfwul (´･ω･`);. Bwt Tw Powost Iwswnwt Obwer Nyet, It Gwos Own An Own An Own An Own. Uwu Wanyaa Stwop Weadwing Bwut Uwu Cwant Stop Wewding, Uwu Stwartd Thwis Awnd Ur Gwoing Two Fwinibsh It Nowo Mwattew Wat! Uwu Hab Mwoxie Kwiddowo, Bwut Uwu Wibl Gwib Ub Sowon. I Cwan Wite Wike Dis Fwor Owors, Swo Dwont Cwalengbe Mii..… Wbats Dis??? Uwu Awe Stwill Weedinb Mwie Powost?? Uwu Habe Awot Ob Detewemwinyanyatiom!! ｡◕‿◕｡! U Habve Comopweedid Tha Pwost, Good Job!", -- [1]
@@ -74520,28 +74755,28 @@ _detalhes_database = {
 			}, -- [6]
 			15, -- [7]
 		},
-		["Choplo"] = {
-			"Choppyuwu", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
+		["Andruww"] = {
+			"Cursebreak", -- [1]
+			"", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
 				0, -- [3]
 				1, -- [4]
 			}, -- [3]
-			"Interface\\PetBattles\\Weather-StaticField", -- [4]
+			"", -- [4]
 			{
-				0.1171875, -- [1]
-				0.953125, -- [2]
-				1, -- [3]
-				0, -- [4]
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
 			}, -- [5]
 			{
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			6, -- [7]
+			136, -- [7]
 		},
 		["Lyuneria"] = {
 			"Lyuneria", -- [1]
@@ -74724,20 +74959,14 @@ _detalhes_database = {
 			["row_texture"] = "ElvUI Norm",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["main_frame_strata"] = "LOW",
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["use_spark"] = true,
-			["row_spacement"] = 28,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
+			["row_color"] = {
+				0.305882352941177, -- [1]
+				0.305882352941177, -- [2]
+				0.305882352941177, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 200.0283660888672,
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -74749,21 +74978,27 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 14,
-			["row_color"] = {
-				0.305882352941177, -- [1]
-				0.305882352941177, -- [2]
-				0.305882352941177, -- [3]
+			["row_spacement"] = 28,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
 				0.850000008940697, -- [4]
 			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 14,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 200.0283660888672,
+			["author"] = "Details! Team",
 			["point"] = "BOTTOMLEFT",
 			["row_height"] = 28,
 			["scale"] = 1,
 		},
 	},
-	["last_day"] = "10",
+	["last_day"] = "11",
 	["last_encounter"] = "The Hivemind",
 	["cached_talents"] = {
 	},
@@ -74777,7 +75012,7 @@ _detalhes_database = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 851,
+		["logons"] = 855,
 	},
 	["combat_id"] = 10276,
 	["savedStyles"] = {
@@ -74939,26 +75174,12 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 0.008534,
+					["last_dps"] = 0,
 					["nome"] = "Yukio",
 					["classe"] = "MAGE",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008534,
-					["on_hold"] = false,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1583772798,
-					["friendlyfire_total"] = 0,
-					["last_dps"] = 0,
-					["boss_fight_component"] = true,
-					["spec"] = 63,
-					["grupo"] = true,
-					["fight_component"] = true,
-					["total"] = 0.008534,
-					["tipo"] = 1,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 						["Metsy"] = {
 							["total"] = 0,
@@ -74979,6 +75200,20 @@ _detalhes_database = {
 							},
 						},
 					},
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1583772798,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.008534,
+					["boss_fight_component"] = true,
+					["spec"] = 63,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 0.008534,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1583772795,
 					["serial"] = "Player-9-0AFB89C2",
 					["spells"] = {
@@ -75028,9 +75263,9 @@ _detalhes_database = {
 								["n_max"] = 0,
 								["targets"] = {
 									["Head Machinist Sparkflux"] = 0,
+									["Inconspicuous Plant"] = 0,
 									["Explosive Scarab"] = 0,
 									["Living Waste"] = 0,
-									["Inconspicuous Plant"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -75067,25 +75302,25 @@ _detalhes_database = {
 									["Mechagon Mechanic"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
-									["Gnomercy 4.U."] = 0,
-									["K.U.-J.0."] = 0,
-									["King Mechagon"] = 0,
-									["Waste Processing Unit"] = 0,
-									["Omega Buster"] = 0,
-									["Rocket Tonk"] = 0,
-									["Junkyard D.0.G."] = 0,
+									["Aerial Unit R-21/X"] = 0,
 									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
-									["Shield Generator"] = 0,
-									["Living Waste"] = 0,
+									["King Mechagon"] = 0,
+									["Gnomercy 4.U."] = 0,
+									["Omega Buster"] = 0,
+									["K.U.-J.0."] = 0,
+									["Junkyard D.0.G."] = 0,
+									["Rocket Tonk"] = 0,
+									["Inconspicuous Plant"] = 0,
+									["The Platinum Pummeler"] = 0,
 									["Blastatron X-80"] = 0,
 									["Spider Tank"] = 0,
 									["Voidweaver Mal'thir"] = 0,
-									["The Platinum Pummeler"] = 0,
+									["Living Waste"] = 0,
 									["Bomb Tonk"] = 0,
-									["Inconspicuous Plant"] = 0,
+									["Shield Generator"] = 0,
 									["G.U.A.R.D."] = 0,
 									["Mechagon Tinkerer"] = 0,
-									["Aerial Unit R-21/X"] = 0,
+									["Waste Processing Unit"] = 0,
 									["Urg'roth, Breaker of Heroes"] = 0,
 									["Mindrend Tentacle"] = 0,
 									["Explosive Scarab"] = 0,
@@ -75123,9 +75358,9 @@ _detalhes_database = {
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
 									["Aerial Unit R-21/X"] = 0,
-									["Mechagon Mechanic"] = 0,
-									["Waste Processing Unit"] = 0,
 									["Blood of the Corruptor"] = 0,
+									["Waste Processing Unit"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Head Machinist Sparkflux"] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
@@ -75141,7 +75376,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["K.U.-J.0."] = 0,
 									["Gnomercy 4.U."] = 0,
-									["Mindrend Tentacle"] = 0,
+									["Mechagon Mechanic"] = 0,
 									["Explosive Scarab"] = 0,
 									["Blastatron X-80"] = 0,
 								},
@@ -75177,9 +75412,9 @@ _detalhes_database = {
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Defense Bot Mk III"] = 0,
 									["Workshop Defender"] = 0,
-									["Mechagon Mechanic"] = 0,
-									["Aerial Unit R-21/X"] = 0,
 									["Mindrend Tentacle"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Blastatron X-80"] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
@@ -75195,7 +75430,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Waste Processing Unit"] = 0,
 									["Gnomercy 4.U."] = 0,
-									["Blood of the Corruptor"] = 0,
+									["Mechagon Mechanic"] = 0,
 									["Explosive Scarab"] = 0,
 									["Urg'roth, Breaker of Heroes"] = 0,
 								},
@@ -75231,9 +75466,9 @@ _detalhes_database = {
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Defense Bot Mk III"] = 0,
 									["Aerial Unit R-21/X"] = 0,
-									["Mindrend Tentacle"] = 0,
-									["Gnomercy 4.U."] = 0,
 									["Blood of the Corruptor"] = 0,
+									["Gnomercy 4.U."] = 0,
+									["Mechagon Mechanic"] = 0,
 									["Workshop Defender"] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
@@ -75249,7 +75484,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Waste Processing Unit"] = 0,
 									["Blastatron X-80"] = 0,
-									["Mechagon Mechanic"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Explosive Scarab"] = 0,
 									["Strider Tonk"] = 0,
 								},
@@ -75791,19 +76026,19 @@ _detalhes_database = {
 						["Samh'rek, Beckoner of Chaos"] = 0,
 						["Defense Bot Mk III"] = 0,
 						["Mindrend Tentacle"] = 0,
-						["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
+						["K.U.-J.0."] = 0,
 						["King Mechagon"] = 0,
 						["Waste Processing Unit"] = 0,
 						["Omega Buster"] = 0,
-						["Rocket Tonk"] = 0,
+						["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
 						["Junkyard D.0.G."] = 0,
-						["K.U.-J.0."] = 0,
-						["Inconspicuous Plant"] = 0,
+						["Rocket Tonk"] = 0,
 						["Living Waste"] = 0,
+						["The Platinum Pummeler"] = 0,
 						["Urg'roth, Breaker of Heroes"] = 0,
 						["Spider Tank"] = 0,
 						["Voidweaver Mal'thir"] = 0,
-						["The Platinum Pummeler"] = 0,
+						["Inconspicuous Plant"] = 0,
 						["Bomb Tonk"] = 0,
 						["Aerial Unit R-21/X"] = 0,
 						["G.U.A.R.D."] = 0,
@@ -75816,26 +76051,12 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 0.004149,
+					["last_dps"] = 0,
 					["nome"] = "Warlockmania",
 					["classe"] = "WARLOCK",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004149,
-					["on_hold"] = false,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1583772798,
-					["friendlyfire_total"] = 0,
-					["last_dps"] = 0,
-					["boss_fight_component"] = true,
-					["spec"] = 267,
-					["grupo"] = true,
-					["fight_component"] = true,
-					["total"] = 0.004149,
-					["tipo"] = 1,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 						["Metsy"] = {
 							["total"] = 0,
@@ -75862,6 +76083,20 @@ _detalhes_database = {
 							},
 						},
 					},
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1583772798,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.004149,
+					["boss_fight_component"] = true,
+					["spec"] = 267,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 0.004149,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1583772795,
 					["serial"] = "Player-9-0AE4E8BB",
 					["spells"] = {
@@ -76047,17 +76282,40 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["a_dmg"] = 0,
 							},
-							[42223] = {
+							[311192] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
-									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
+									["Defense Bot Mk I"] = 0,
+									["Ravenous Fleshfiend"] = 0,
+									["Head Machinist Sparkflux"] = 0,
+									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
+									["Defense Bot Mk III"] = 0,
+									["Mechagon Mechanic"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Mindrend Tentacle"] = 0,
+									["Gnomercy 4.U."] = 0,
+									["Junkyard D.0.G."] = 0,
+									["K.U.-J.0."] = 0,
+									["The Platinum Pummeler"] = 0,
 									["Mechagon Tinkerer"] = 0,
+									["Omega Buster"] = 0,
+									["Spider Tank"] = 0,
+									["Voidweaver Mal'thir"] = 0,
 									["Living Waste"] = 0,
+									["Bomb Tonk"] = 0,
+									["Urg'roth, Breaker of Heroes"] = 0,
+									["G.U.A.R.D."] = 0,
+									["King Mechagon"] = 0,
+									["Waste Processing Unit"] = 0,
+									["Rocket Tonk"] = 0,
+									["Blood of the Corruptor"] = 0,
+									["Blastatron X-80"] = 0,
+									["Strider Tonk"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -76066,7 +76324,7 @@ _detalhes_database = {
 								["counter"] = 0,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 42223,
+								["id"] = 311192,
 								["r_dmg"] = 0,
 								["r_amt"] = 0,
 								["m_crit"] = 0,
@@ -76182,6 +76440,91 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["a_dmg"] = 0,
 							},
+							[42223] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
+									["Workshop Defender"] = 0,
+									["Mechagon Tinkerer"] = 0,
+									["Living Waste"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 42223,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[17962] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Defense Bot Mk I"] = 0,
+									["Ravenous Fleshfiend"] = 0,
+									["Head Machinist Sparkflux"] = 0,
+									["Samh'rek, Beckoner of Chaos"] = 0,
+									["Defense Bot Mk III"] = 0,
+									["Gnomercy 4.U."] = 0,
+									["Alarm-o-Bot"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Mindrend Tentacle"] = 0,
+									["Workshop Defender"] = 0,
+									["Junkyard D.0.G."] = 0,
+									["K.U.-J.0."] = 0,
+									["The Platinum Pummeler"] = 0,
+									["Mechagon Tinkerer"] = 0,
+									["Omega Buster"] = 0,
+									["Spider Tank"] = 0,
+									["Voidweaver Mal'thir"] = 0,
+									["Inconspicuous Plant"] = 0,
+									["Bomb Tonk"] = 0,
+									["Urg'roth, Breaker of Heroes"] = 0,
+									["G.U.A.R.D."] = 0,
+									["King Mechagon"] = 0,
+									["Blastatron X-80"] = 0,
+									["Waste Processing Unit"] = 0,
+									["Blood of the Corruptor"] = 0,
+									["Explosive Scarab"] = 0,
+									["Strider Tonk"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 17962,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
 							[348] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
@@ -76233,114 +76576,6 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["a_dmg"] = 0,
 							},
-							[17962] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Defense Bot Mk I"] = 0,
-									["Ravenous Fleshfiend"] = 0,
-									["Head Machinist Sparkflux"] = 0,
-									["Samh'rek, Beckoner of Chaos"] = 0,
-									["Defense Bot Mk III"] = 0,
-									["Gnomercy 4.U."] = 0,
-									["Blood of the Corruptor"] = 0,
-									["Aerial Unit R-21/X"] = 0,
-									["Alarm-o-Bot"] = 0,
-									["Workshop Defender"] = 0,
-									["Junkyard D.0.G."] = 0,
-									["K.U.-J.0."] = 0,
-									["The Platinum Pummeler"] = 0,
-									["Mechagon Tinkerer"] = 0,
-									["Omega Buster"] = 0,
-									["Spider Tank"] = 0,
-									["Voidweaver Mal'thir"] = 0,
-									["Inconspicuous Plant"] = 0,
-									["Bomb Tonk"] = 0,
-									["Urg'roth, Breaker of Heroes"] = 0,
-									["G.U.A.R.D."] = 0,
-									["King Mechagon"] = 0,
-									["Blastatron X-80"] = 0,
-									["Waste Processing Unit"] = 0,
-									["Mindrend Tentacle"] = 0,
-									["Explosive Scarab"] = 0,
-									["Strider Tonk"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 17962,
-								["r_dmg"] = 0,
-								["r_amt"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[311192] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Defense Bot Mk I"] = 0,
-									["Ravenous Fleshfiend"] = 0,
-									["Head Machinist Sparkflux"] = 0,
-									["Samh'rek, Beckoner of Chaos"] = 0,
-									["Workshop Defender"] = 0,
-									["Defense Bot Mk III"] = 0,
-									["Mechagon Mechanic"] = 0,
-									["Aerial Unit R-21/X"] = 0,
-									["Mindrend Tentacle"] = 0,
-									["Gnomercy 4.U."] = 0,
-									["Junkyard D.0.G."] = 0,
-									["K.U.-J.0."] = 0,
-									["The Platinum Pummeler"] = 0,
-									["Mechagon Tinkerer"] = 0,
-									["Omega Buster"] = 0,
-									["Spider Tank"] = 0,
-									["Voidweaver Mal'thir"] = 0,
-									["Living Waste"] = 0,
-									["Bomb Tonk"] = 0,
-									["Urg'roth, Breaker of Heroes"] = 0,
-									["G.U.A.R.D."] = 0,
-									["King Mechagon"] = 0,
-									["Waste Processing Unit"] = 0,
-									["Rocket Tonk"] = 0,
-									["Blood of the Corruptor"] = 0,
-									["Blastatron X-80"] = 0,
-									["Strider Tonk"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 311192,
-								["r_dmg"] = 0,
-								["r_amt"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
 						},
 						["tipo"] = 2,
 					},
@@ -76354,59 +76589,51 @@ _detalhes_database = {
 						["Head Machinist Sparkflux"] = 0,
 						["Strider Tonk"] = 0,
 						["Ravenous Fleshfiend"] = 0,
-						["Alarm-o-Bot"] = 0,
+						["Mindrend Tentacle"] = 0,
 						["Urg'roth, Breaker of Heroes"] = 0,
 						["Malicious Growth"] = 0,
-						["Mindrend Tentacle"] = 0,
+						["Mechagon Mechanic"] = 0,
 						["Samh'rek, Beckoner of Chaos"] = 0,
 						["Workshop Defender"] = 0,
 						["Defense Bot Mk III"] = 0,
-						["Waste Processing Unit"] = 0,
+						["Gnomercy 4.U."] = 0,
 						["King Mechagon"] = 0,
-						["Aerial Unit R-21/X"] = 0,
+						["Waste Processing Unit"] = 0,
 						["Omega Buster"] = 0,
 						["Blood of the Corruptor"] = 0,
 						["Junkyard D.0.G."] = 0,
 						["Rocket Tonk"] = 0,
-						["Inconspicuous Plant"] = 0,
 						["Living Waste"] = 0,
+						["The Platinum Pummeler"] = 0,
 						["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
 						["Spider Tank"] = 0,
 						["Voidweaver Mal'thir"] = 0,
-						["The Platinum Pummeler"] = 0,
+						["Inconspicuous Plant"] = 0,
 						["Bomb Tonk"] = 0,
 						["K.U.-J.0."] = 0,
 						["G.U.A.R.D."] = 0,
 						["Mechagon Tinkerer"] = 0,
-						["Gnomercy 4.U."] = 0,
+						["Aerial Unit R-21/X"] = 0,
 						["Blastatron X-80"] = 0,
-						["Mechagon Mechanic"] = 0,
+						["Alarm-o-Bot"] = 0,
 						["Explosive Scarab"] = 0,
 						["Defense Bot Mk I"] = 0,
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 0.007086,
+					["last_dps"] = 0,
 					["nome"] = "Metsy",
 					["classe"] = "PRIEST",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007086,
-					["on_hold"] = false,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1583772798,
-					["friendlyfire_total"] = 0,
-					["last_dps"] = 0,
-					["boss_fight_component"] = true,
-					["spec"] = 258,
-					["grupo"] = true,
-					["fight_component"] = true,
-					["total"] = 0.007086,
-					["tipo"] = 1,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
+						["Yukio"] = {
+							["total"] = 0,
+							["spells"] = {
+								[240448] = 0,
+							},
+						},
 						["Warlockmania"] = {
 							["total"] = 0,
 							["spells"] = {
@@ -76419,13 +76646,21 @@ _detalhes_database = {
 								[240448] = 0,
 							},
 						},
-						["Yukio"] = {
-							["total"] = 0,
-							["spells"] = {
-								[240448] = 0,
-							},
-						},
 					},
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1583772798,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.007086,
+					["boss_fight_component"] = true,
+					["spec"] = 258,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 0.007086,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1583772795,
 					["serial"] = "Player-9-0B59DAFF",
 					["spells"] = {
@@ -76599,10 +76834,10 @@ _detalhes_database = {
 									["Malicious Growth"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
-									["Mechagon Mechanic"] = 0,
-									["Mindrend Tentacle"] = 0,
-									["Aerial Unit R-21/X"] = 0,
 									["Blood of the Corruptor"] = 0,
+									["Mechagon Mechanic"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Defense Bot Mk III"] = 0,
 									["Junkyard D.0.G."] = 0,
 									["K.U.-J.0."] = 0,
@@ -76654,9 +76889,9 @@ _detalhes_database = {
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
 									["Gnomercy 4.U."] = 0,
-									["Blood of the Corruptor"] = 0,
-									["Aerial Unit R-21/X"] = 0,
 									["Mechagon Mechanic"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["K.U.-J.0."] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
@@ -76672,7 +76907,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Waste Processing Unit"] = 0,
 									["Blastatron X-80"] = 0,
-									["Mindrend Tentacle"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Explosive Scarab"] = 0,
 									["Strider Tonk"] = 0,
 								},
@@ -76817,10 +77052,10 @@ _detalhes_database = {
 									["Workshop Defender"] = 0,
 									["Aerial Unit R-21/X"] = 0,
 									["Gnomercy 4.U."] = 0,
-									["Blood of the Corruptor"] = 0,
+									["Mechagon Mechanic"] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
-									["Mechagon Mechanic"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Defense Bot Mk III"] = 0,
 									["K.U.-J.0."] = 0,
 									["Spider Tank"] = 0,
@@ -76832,7 +77067,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Urg'roth, Breaker of Heroes"] = 0,
 									["Waste Processing Unit"] = 0,
-									["Mindrend Tentacle"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Explosive Scarab"] = 0,
 									["Strider Tonk"] = 0,
 								},
@@ -76965,9 +77200,9 @@ _detalhes_database = {
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
 									["Gnomercy 4.U."] = 0,
-									["Blood of the Corruptor"] = 0,
-									["Aerial Unit R-21/X"] = 0,
 									["Mechagon Mechanic"] = 0,
+									["Aerial Unit R-21/X"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["K.U.-J.0."] = 0,
 									["Junkyard D.0.G."] = 0,
 									["Rocket Tonk"] = 0,
@@ -76983,7 +77218,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Waste Processing Unit"] = 0,
 									["Blastatron X-80"] = 0,
-									["Mindrend Tentacle"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Explosive Scarab"] = 0,
 									["Strider Tonk"] = 0,
 								},
@@ -77232,24 +77467,24 @@ _detalhes_database = {
 						["Samh'rek, Beckoner of Chaos"] = 0,
 						["Defense Bot Mk III"] = 0,
 						["Blood of the Corruptor"] = 0,
-						["Waste Processing Unit"] = 0,
+						["Aerial Unit R-21/X"] = 0,
 						["King Mechagon"] = 0,
-						["Gnomercy 4.U."] = 0,
+						["Waste Processing Unit"] = 0,
 						["Omega Buster"] = 0,
-						["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
+						["Rocket Tonk"] = 0,
 						["Junkyard D.0.G."] = 0,
-						["K.U.-J.0."] = 0,
-						["Inconspicuous Plant"] = 0,
+						["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
 						["Living Waste"] = 0,
+						["The Platinum Pummeler"] = 0,
 						["Voidweaver Mal'thir"] = 0,
 						["Spider Tank"] = 0,
 						["Copper Hopper"] = 0,
-						["The Platinum Pummeler"] = 0,
+						["Inconspicuous Plant"] = 0,
 						["Bomb Tonk"] = 0,
-						["Rocket Tonk"] = 0,
+						["K.U.-J.0."] = 0,
 						["G.U.A.R.D."] = 0,
 						["Mechagon Tinkerer"] = 0,
-						["Aerial Unit R-21/X"] = 0,
+						["Gnomercy 4.U."] = 0,
 						["Blastatron X-80"] = 0,
 						["Alarm-o-Bot"] = 0,
 						["Explosive Scarab"] = 0,
@@ -77295,12 +77530,12 @@ _detalhes_database = {
 									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
 									["Rocket Tonk"] = 0,
 									["Omega Buster"] = 0,
-									["Living Waste"] = 0,
+									["Inconspicuous Plant"] = 0,
 									["Spider Tank"] = 0,
 									["Voidweaver Mal'thir"] = 0,
-									["The Platinum Pummeler"] = 0,
+									["Living Waste"] = 0,
 									["Bomb Tonk"] = 0,
-									["Inconspicuous Plant"] = 0,
+									["The Platinum Pummeler"] = 0,
 									["G.U.A.R.D."] = 0,
 									["Mechagon Tinkerer"] = 0,
 									["K.U.-J.0."] = 0,
@@ -77486,10 +77721,10 @@ _detalhes_database = {
 									["Mechagon Mechanic"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Defense Bot Mk III"] = 0,
-									["Waste Processing Unit"] = 0,
+									["Aerial Unit R-21/X"] = 0,
 									["Rocket Tonk"] = 0,
 									["King Mechagon"] = 0,
-									["Gnomercy 4.U."] = 0,
+									["Waste Processing Unit"] = 0,
 									["Omega Buster"] = 0,
 									["Thing From Beyond"] = 0,
 									["Junkyard D.0.G."] = 0,
@@ -77504,7 +77739,7 @@ _detalhes_database = {
 									["The Platinum Pummeler"] = 0,
 									["G.U.A.R.D."] = 0,
 									["Mechagon Tinkerer"] = 0,
-									["Aerial Unit R-21/X"] = 0,
+									["Gnomercy 4.U."] = 0,
 									["Blastatron X-80"] = 0,
 									["Blood of the Corruptor"] = 0,
 									["Explosive Scarab"] = 0,
@@ -77770,14 +78005,14 @@ _detalhes_database = {
 									["Defense Bot Mk III"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
-									["Blood of the Corruptor"] = 0,
 									["Alarm-o-Bot"] = 0,
+									["Mechagon Mechanic"] = 0,
 									["Waste Processing Unit"] = 0,
 									["Aerial Unit R-21/X"] = 0,
-									["Rocket Tonk"] = 0,
+									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
 									["King Mechagon"] = 0,
 									["Junkyard D.0.G."] = 0,
-									["K.U.-J.0."] = 0,
+									["Rocket Tonk"] = 0,
 									["Omega Buster"] = 0,
 									["Blastatron X-80"] = 0,
 									["Inconspicuous Plant"] = 0,
@@ -77788,9 +78023,9 @@ _detalhes_database = {
 									["The Platinum Pummeler"] = 0,
 									["G.U.A.R.D."] = 0,
 									["Mechagon Tinkerer"] = 0,
-									["Anti-Personnel Squirrel <Mechagon Tinkerer>"] = 0,
+									["K.U.-J.0."] = 0,
 									["Urg'roth, Breaker of Heroes"] = 0,
-									["Mechagon Mechanic"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Explosive Scarab"] = 0,
 									["Strider Tonk"] = 0,
 								},
@@ -77834,13 +78069,13 @@ _detalhes_database = {
 									["Blastatron X-80"] = 0,
 									["Spider Tank"] = 0,
 									["Voidweaver Mal'thir"] = 0,
-									["The Platinum Pummeler"] = 0,
+									["Inconspicuous Plant"] = 0,
 									["Bomb Tonk"] = 0,
 									["G.U.A.R.D."] = 0,
 									["Omega Buster"] = 0,
 									["Mechagon Tinkerer"] = 0,
-									["Inconspicuous Plant"] = 0,
 									["Living Waste"] = 0,
+									["The Platinum Pummeler"] = 0,
 									["Alarm-o-Bot"] = 0,
 									["Strider Tonk"] = 0,
 									["Waste Processing Unit"] = 0,
@@ -78002,13 +78237,6 @@ _detalhes_database = {
 					["custom"] = 0,
 					["last_event"] = 0,
 					["friendlyfire"] = {
-						["Toshpal"] = {
-							["total"] = 0,
-							["spells"] = {
-								[240448] = 0,
-								[6940] = 0,
-							},
-						},
 						["Yukio"] = {
 							["total"] = 0,
 							["spells"] = {
@@ -78019,6 +78247,13 @@ _detalhes_database = {
 							["total"] = 0,
 							["spells"] = {
 								[240448] = 0,
+							},
+						},
+						["Toshpal"] = {
+							["total"] = 0,
+							["spells"] = {
+								[240448] = 0,
+								[6940] = 0,
 							},
 						},
 						["Peace"] = {
@@ -78095,26 +78330,12 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["damage_taken"] = 355142.054071,
+					["last_dps"] = 0,
 					["nome"] = "Toshpal",
 					["classe"] = "PALADIN",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 3561663.054070999,
-					["on_hold"] = false,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1583772798,
-					["friendlyfire_total"] = 0,
-					["last_dps"] = 0,
-					["boss_fight_component"] = true,
-					["spec"] = 65,
-					["grupo"] = true,
-					["fight_component"] = true,
-					["total"] = 3561663.054070999,
-					["tipo"] = 1,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["friendlyfire"] = {
 						["Metsy"] = {
 							["total"] = 0,
@@ -78141,6 +78362,20 @@ _detalhes_database = {
 							},
 						},
 					},
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1583772798,
+					["friendlyfire_total"] = 0,
+					["damage_taken"] = 355142.054071,
+					["boss_fight_component"] = true,
+					["spec"] = 65,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["total"] = 3561663.054070999,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1583772678,
 					["serial"] = "Player-9-0B60C80F",
 					["spells"] = {
@@ -78480,11 +78715,11 @@ _detalhes_database = {
 									["Strider Tonk"] = 0,
 									["Head Machinist Sparkflux"] = 0,
 									["Portal Master"] = 0,
-									["Blood of the Corruptor"] = 0,
+									["Alarm-o-Bot"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
 									["Workshop Defender"] = 0,
 									["Magister Umbric"] = 0,
-									["Alarm-o-Bot"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Blastatron X-80"] = 0,
 									["Zardeth of the Black Claw"] = 0,
 									["Alleria Windrunner"] = 0,
@@ -78503,7 +78738,7 @@ _detalhes_database = {
 									["Mechagon Tinkerer"] = 0,
 									["Gnomercy 4.U."] = 0,
 									["Junkyard D.0.G."] = 0,
-									["Mindrend Tentacle"] = 0,
+									["Blood of the Corruptor"] = 0,
 									["Unstable Servant <Zardeth of the Black Claw>"] = 0,
 									["Defense Bot Mk III"] = 0,
 								},
@@ -78774,11 +79009,11 @@ _detalhes_database = {
 									["Voidweaver Mal'thir"] = 0,
 									["Shield Generator"] = 0,
 									["Samh'rek, Beckoner of Chaos"] = 0,
-									["Waste Processing Unit"] = 0,
-									["Magister Umbric"] = 0,
-									["Aerial Unit R-21/X"] = 0,
-									["Blood of the Corruptor"] = 0,
 									["Gnomercy 4.U."] = 0,
+									["Magister Umbric"] = 0,
+									["Waste Processing Unit"] = 0,
+									["Blood of the Corruptor"] = 0,
+									["Aerial Unit R-21/X"] = 0,
 									["Alleria Windrunner"] = 0,
 									["The Platinum Pummeler"] = 0,
 									["Eye of Chaos"] = 0,
@@ -79002,11 +79237,11 @@ _detalhes_database = {
 									["Defense Bot Mk III"] = 0,
 									["Omega Buster"] = 0,
 									["Mechagon Tinkerer"] = 0,
+									["Zardeth of the Black Claw"] = 0,
 									["Aerial Unit R-21/X"] = 0,
-									["Gnomercy 4.U."] = 0,
 									["Alleria Windrunner"] = 0,
 									["Magister Umbric"] = 0,
-									["Zardeth of the Black Claw"] = 0,
+									["Gnomercy 4.U."] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -79132,18 +79367,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.002069,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002069,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Rocket Tonk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79243,10 +79478,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002069,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151659-0000E5DC40",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [6]
 				{
 					["flag_original"] = 8466,
@@ -79288,8 +79523,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.00532,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79398,7 +79633,7 @@ _detalhes_database = {
 					["total"] = 0.00532,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00532,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-89-000065E196",
 					["dps_started"] = false,
@@ -79421,7 +79656,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["boss_fight_component"] = true,
+					["total"] = 221300.030086,
 					["friendlyfire_total"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
@@ -79429,8 +79664,9 @@ _detalhes_database = {
 					["total_without_pet"] = 221300.030086,
 					["monster"] = true,
 					["fight_component"] = true,
-					["total"] = 221300.030086,
-					["damage_taken"] = 0.030086,
+					["end_time"] = 1583772798,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
 					["nome"] = "Eye of Corruption",
 					["spells"] = {
@@ -79473,10 +79709,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["boss_fight_component"] = true,
 					["on_hold"] = false,
-					["end_time"] = 1583772798,
+					["damage_taken"] = 0.030086,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["last_dps"] = 0,
@@ -79492,24 +79727,24 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.007432,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007432,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Defense Bot Mk I",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79550,9 +79785,9 @@ _detalhes_database = {
 								["n_max"] = 0,
 								["targets"] = {
 									["Metsy"] = 0,
+									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
 									["Yukio"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -79581,10 +79816,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007432,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [9]
 				{
 					["flag_original"] = 4370,
@@ -79631,8 +79866,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.002615,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79750,7 +79985,7 @@ _detalhes_database = {
 					["total"] = 0.002615,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002615,
 					["start_time"] = 1583772795,
 					["serial"] = "Pet-0-3022-2097-7027-417-0402924291",
 					["dps_started"] = false,
@@ -79768,18 +80003,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.001179,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001179,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Waste Processing Unit",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79906,10 +80141,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001179,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144293-000165DC40",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [11]
 				{
 					["flag_original"] = 2632,
@@ -79919,24 +80154,24 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Toshpal"] = 0,
 						["Warlockmania"] = 0,
 						["Yukio"] = 0,
-						["Toshpal"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.005023,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005023,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Defense Bot Mk III",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -79977,9 +80212,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Toshpal"] = 0,
 									["Warlockmania"] = 0,
 									["Yukio"] = 0,
-									["Toshpal"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -80091,10 +80326,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005023,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [12]
 				{
 					["flag_original"] = 68168,
@@ -80104,14 +80339,14 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Yukio"] = 0,
 						["Toshpal"] = 0,
 						["Warlockmania"] = 0,
-						["Yukio"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.008958,
+					["nome"] = "K.U.-J.0.",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -80120,9 +80355,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "K.U.-J.0.",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -80246,9 +80482,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Yukio"] = 0,
 									["Toshpal"] = 0,
 									["Warlockmania"] = 0,
-									["Yukio"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -80326,10 +80562,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.008958,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.008958,
@@ -80350,7 +80585,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.002681,
+					["nome"] = "Piston Smasher",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -80359,9 +80594,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Piston Smasher",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[282943] = {
@@ -80397,10 +80633,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.002681,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.002681,
@@ -80416,24 +80651,24 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Toshpal"] = 0,
 						["Warlockmania"] = 0,
 						["Yukio"] = 0,
-						["Toshpal"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.002908,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002908,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Blood of the Corruptor",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -80501,9 +80736,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Toshpal"] = 0,
 									["Warlockmania"] = 0,
 									["Yukio"] = 0,
-									["Toshpal"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -80532,10 +80767,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002908,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161244-000065E04F",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [15]
 				{
 					["flag_original"] = 68168,
@@ -80555,7 +80790,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.005981,
+					["nome"] = "Gnomercy 4.U.",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -80564,9 +80799,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Gnomercy 4.U.",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[318587] = {
@@ -80689,9 +80925,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -80742,10 +80978,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.005981,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.005981,
@@ -80766,18 +81001,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.005144,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005144,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Junkyard D.0.G.",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -80875,10 +81110,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005144,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151773-000065DC40",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [17]
 				{
 					["flag_original"] = 2632,
@@ -80897,7 +81132,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["boss_fight_component"] = true,
+					["total"] = 481208.020999,
 					["friendlyfire_total"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
@@ -80905,8 +81140,9 @@ _detalhes_database = {
 					["total_without_pet"] = 481208.020999,
 					["monster"] = true,
 					["fight_component"] = true,
-					["total"] = 481208.020999,
-					["damage_taken"] = 48806.020999,
+					["end_time"] = 1583772798,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
 					["nome"] = "Thing From Beyond",
 					["spells"] = {
@@ -80947,10 +81183,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["boss_fight_component"] = true,
 					["on_hold"] = false,
-					["end_time"] = 1583772798,
+					["damage_taken"] = 48806.020999,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["last_dps"] = 0,
@@ -80964,25 +81199,25 @@ _detalhes_database = {
 					["damage_from"] = {
 					},
 					["targets"] = {
-						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
+						["Warlockmania"] = 0,
 						["Peace"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.007512,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007512,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Spider Tank",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -81108,10 +81343,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007512,
 					["start_time"] = 1583772795,
 					["serial"] = "Vehicle-0-3022-2097-7027-144296-000065DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [19]
 				{
 					["flag_original"] = 2632,
@@ -81121,24 +81356,24 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.001577,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001577,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Mechagon Tinkerer",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -81236,10 +81471,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001577,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144294-0001E5DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [20]
 				{
 					["flag_original"] = 2632,
@@ -81254,7 +81489,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.001488,
+					["nome"] = "Omega Buster",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -81263,9 +81498,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Omega Buster",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -81384,10 +81620,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.001488,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.001488,
@@ -81406,18 +81641,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.001063,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001063,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Workshop Defender",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -81486,10 +81721,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001063,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144299-000165DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [22]
 				{
 					["flag_original"] = 8466,
@@ -81525,8 +81760,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.008131,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -81582,7 +81817,7 @@ _detalhes_database = {
 					["total"] = 0.008131,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008131,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-162764-000065E19D",
 					["dps_started"] = false,
@@ -81595,14 +81830,14 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.003322,
+					["nome"] = "Magneto-Arm",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -81611,9 +81846,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Magneto-Arm",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[283143] = {
@@ -81652,9 +81888,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -81678,10 +81914,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.003322,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.003322,
@@ -81702,7 +81937,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.008257,
+					["nome"] = "Aerial Unit R-21/X",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -81711,9 +81946,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Aerial Unit R-21/X",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291928] = {
@@ -81859,10 +82095,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.008257,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.008257,
@@ -81880,18 +82115,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.005643,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005643,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Urg'roth, Breaker of Heroes",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82013,10 +82248,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005643,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161124-000065DF29",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [26]
 				{
 					["flag_original"] = 2632,
@@ -82029,7 +82264,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.006389,
+					["nome"] = "Head Machinist Sparkflux",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -82038,9 +82273,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Head Machinist Sparkflux",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -82128,10 +82364,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.006389,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.006389,
@@ -82149,18 +82384,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.008762,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008762,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "G.U.A.R.D.",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82228,10 +82463,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008762,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144303-000065DE8F",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [28]
 				{
 					["flag_original"] = 8466,
@@ -82243,10 +82478,10 @@ _detalhes_database = {
 						["Omega Buster"] = 0,
 						["K.U.-J.0."] = 0,
 						["Defense Bot Mk III"] = 0,
-						["Gnomercy 4.U."] = 0,
-						["Mindrend Tentacle"] = 0,
 						["Head Machinist Sparkflux"] = 0,
+						["Mindrend Tentacle"] = 0,
 						["Waste Processing Unit"] = 0,
+						["Gnomercy 4.U."] = 0,
 					},
 					["pets"] = {
 					},
@@ -82259,8 +82494,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.00893,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82275,10 +82510,10 @@ _detalhes_database = {
 									["Omega Buster"] = 0,
 									["K.U.-J.0."] = 0,
 									["Defense Bot Mk III"] = 0,
-									["Gnomercy 4.U."] = 0,
-									["Mindrend Tentacle"] = 0,
 									["Head Machinist Sparkflux"] = 0,
+									["Mindrend Tentacle"] = 0,
 									["Waste Processing Unit"] = 0,
+									["Gnomercy 4.U."] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -82308,7 +82543,7 @@ _detalhes_database = {
 					["total"] = 0.00893,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00893,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-19668-000065E1F5",
 					["dps_started"] = false,
@@ -82320,14 +82555,14 @@ _detalhes_database = {
 					},
 					["targets"] = {
 						["Metsy"] = 0,
+						["Yukio"] = 0,
 						["Warlockmania"] = 0,
 						["Toshpal"] = 0,
-						["Yukio"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.005312,
+					["nome"] = "[*] Self-Trimming Hedge",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -82336,9 +82571,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "[*] Self-Trimming Hedge",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[294954] = {
@@ -82349,9 +82585,9 @@ _detalhes_database = {
 								["n_max"] = 0,
 								["targets"] = {
 									["Metsy"] = 0,
+									["Yukio"] = 0,
 									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
-									["Yukio"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -82375,10 +82611,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.005312,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.005312,
@@ -82398,18 +82633,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.003425,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003425,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Mindrend Tentacle",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82451,10 +82686,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.003425,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161510-0001E5E051",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [31]
 				{
 					["flag_original"] = 2632,
@@ -82464,14 +82699,14 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.004965,
+					["nome"] = "[*] Blazing Chomp",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -82480,9 +82715,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "[*] Blazing Chomp",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[294961] = {
@@ -82494,9 +82730,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -82520,10 +82756,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.004965,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.004965,
@@ -82543,18 +82778,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.007913,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007913,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "High-Explosive Rocket",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82596,10 +82831,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007913,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151655-000065DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [33]
 				{
 					["flag_original"] = 2632,
@@ -82613,7 +82848,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.004846,
+					["nome"] = "The Platinum Pummeler",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -82622,9 +82857,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "The Platinum Pummeler",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -82713,10 +82949,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.004846,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.004846,
@@ -82737,18 +82972,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.008155,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008155,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Living Waste",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -82819,10 +83054,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008155,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144301-0002E5DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [35]
 				{
 					["flag_original"] = 2632,
@@ -82832,14 +83067,14 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Toshpal"] = 0,
 						["Yukio"] = 0,
 						["Warlockmania"] = 0,
-						["Toshpal"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.001833,
+					["nome"] = "Buzz Saw",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -82848,9 +83083,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Buzz Saw",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[282945] = {
@@ -82863,9 +83099,9 @@ _detalhes_database = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
 									["Gnomercy 4.U."] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -82889,10 +83125,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.001833,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.001833,
@@ -82913,18 +83148,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.004783,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004783,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Voidweaver Mal'thir",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83049,10 +83284,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004783,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161241-000065E138",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [37]
 				{
 					["flag_original"] = 2632,
@@ -83065,18 +83300,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.007314,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007314,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Anti-Personnel Squirrel <Mechagon Tinkerer>",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83117,10 +83352,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007314,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151613-000065E0F1",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [38]
 				{
 					["flag_original"] = 2632,
@@ -83135,18 +83370,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.004052,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004052,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Samh'rek, Beckoner of Chaos",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83243,10 +83478,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004052,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161243-000065DD38",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [39]
 				{
 					["flag_original"] = 2632,
@@ -83261,7 +83496,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.006033,
+					["nome"] = "[*] Giga-Zap",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -83270,9 +83505,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "[*] Giga-Zap",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291939] = {
@@ -83308,10 +83544,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.006033,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.006033,
@@ -83330,18 +83565,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.00859,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00859,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Ravenous Fleshfiend",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83410,10 +83645,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00859,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161502-0001E5DD3B",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [41]
 				{
 					["flag_original"] = 2632,
@@ -83423,24 +83658,24 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.001828,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001828,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Malicious Growth",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83453,9 +83688,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -83484,10 +83719,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001828,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161408-000165DF2B",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [42]
 				{
 					["flag_original"] = 2632,
@@ -83497,14 +83732,14 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Yukio"] = 0,
 						["Toshpal"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.006501,
+					["nome"] = "[*] Cutting Beam",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -83513,9 +83748,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "[*] Cutting Beam",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[296331] = {
@@ -83527,9 +83763,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -83581,10 +83817,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.006501,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.006501,
@@ -83604,7 +83839,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.002224,
+					["nome"] = "Cubed Clutter",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -83613,9 +83848,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Cubed Clutter",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291930] = {
@@ -83678,10 +83914,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.002224,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.002224,
@@ -83699,18 +83934,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.002743,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002743,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Bomb Tonk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83750,10 +83985,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002743,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151657-0000E5DC40",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [45]
 				{
 					["flag_original"] = 2632,
@@ -83765,18 +84000,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.001508,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001508,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Explosive Scarab",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83843,10 +84078,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.001508,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-161437-000165E13B",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [46]
 				{
 					["flag_original"] = 2632,
@@ -83858,18 +84093,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.00157,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00157,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Strider Tonk",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -83990,10 +84225,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00157,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151658-0000E5DC40",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [47]
 				{
 					["flag_original"] = 2632,
@@ -84005,18 +84240,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.005958,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005958,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Blastatron X-80",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -84165,10 +84400,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005958,
 					["start_time"] = 1583772795,
 					["serial"] = "Vehicle-0-3022-2097-7027-151476-000065DEEA",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [48]
 				{
 					["flag_original"] = 2632,
@@ -84182,7 +84417,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.008391,
+					["nome"] = "[*] Plasma Orb",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -84191,9 +84426,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "[*] Plasma Orb",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291915] = {
@@ -84203,9 +84439,9 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
+									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
 									["Yukio"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -84229,10 +84465,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.008391,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.008391,
@@ -84251,18 +84486,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.006008,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006008,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Mechagon Mechanic",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -84357,10 +84592,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006008,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144295-000165DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [50]
 				{
 					["flag_original"] = 2632,
@@ -84375,7 +84610,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.008742,
+					["nome"] = "Inconspicuous Plant",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -84384,9 +84619,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Inconspicuous Plant",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -84504,10 +84740,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.008742,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.008742,
@@ -84526,7 +84761,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.008253,
+					["nome"] = "Plasma Orb",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -84535,9 +84770,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Plasma Orb",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291856] = {
@@ -84572,10 +84808,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.008253,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.008253,
@@ -84593,18 +84828,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.004653,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004653,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Alarm-o-Bot",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -84644,10 +84879,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004653,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151325-000065DC41",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [53]
 				{
 					["flag_original"] = 2632,
@@ -84660,7 +84895,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.0049,
+					["nome"] = "King Mechagon",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -84669,9 +84904,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "King Mechagon",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
@@ -84732,10 +84968,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.0049,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.0049,
@@ -84752,18 +84987,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.005132,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005132,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Shield Generator",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -84803,10 +85038,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005132,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-151579-0000E5E0EE",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [55]
 				{
 					["flag_original"] = 2632,
@@ -84817,18 +85052,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.006122,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006122,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Unknown",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -84867,10 +85102,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006122,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [56]
 				{
 					["flag_original"] = 2632,
@@ -84882,7 +85117,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.006635,
+					["nome"] = "Flying Claw",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -84891,9 +85126,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Flying Claw",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[291874] = {
@@ -84953,10 +85189,9 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.006635,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.006635,
@@ -84982,20 +85217,20 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
 					["delay"] = 0,
-					["damage_taken"] = 0.006667,
+					["on_hold"] = false,
 					["nome"] = "Copper Hopper",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["total"] = 0.006667,
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006667,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-154781-000165DC41",
 					["dps_started"] = false,
@@ -85010,7 +85245,7 @@ _detalhes_database = {
 					["delay"] = 0,
 					["pets"] = {
 					},
-					["total"] = 0.003706,
+					["nome"] = "Tussle Tonks Arena",
 					["classe"] = "UNKNOW",
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -85019,18 +85254,18 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["tipo"] = 1,
-					["nome"] = "Tussle Tonks Arena",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["total"] = 0.003706,
 					["on_hold"] = false,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.003706,
@@ -85056,8 +85291,8 @@ _detalhes_database = {
 					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.008151,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85070,7 +85305,7 @@ _detalhes_database = {
 					["total"] = 0.008151,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008151,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2097-7027-145854-0007E5DC40",
 					["dps_started"] = false,
@@ -85094,9 +85329,9 @@ _detalhes_database = {
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.005576,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85275,7 +85510,7 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.005576,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-152718-000065AC6C",
 					["total"] = 0.005576,
@@ -85299,9 +85534,9 @@ _detalhes_database = {
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.007413,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85341,7 +85576,7 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.007413,
 					["start_time"] = 1583772795,
 					["serial"] = "",
 					["total"] = 0.007413,
@@ -85365,9 +85600,9 @@ _detalhes_database = {
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.003853,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85434,7 +85669,7 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.003853,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-158315-000065AEC5",
 					["total"] = 0.003853,
@@ -85449,18 +85684,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.006898,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006898,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Horrific Figment",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85500,10 +85735,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006898,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-164189-000065B19D",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [64]
 				{
 					["flag_original"] = 68168,
@@ -85524,9 +85759,9 @@ _detalhes_database = {
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.004798,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85648,7 +85883,7 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.004798,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-158035-000065AC6D",
 					["total"] = 0.004798,
@@ -85671,9 +85906,9 @@ _detalhes_database = {
 					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1583772798,
-					["damage_taken"] = 0.00208,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85713,7 +85948,7 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00208,
 					["start_time"] = 1583772795,
 					["serial"] = "",
 					["total"] = 0.00208,
@@ -85728,18 +85963,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.008908,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008908,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Portal Master",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85779,10 +86014,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008908,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-159266-000065AC6C",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [67]
 				{
 					["flag_original"] = 2632,
@@ -85794,18 +86029,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.002737,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.002737,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Void Globule",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85872,10 +86107,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.002737,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-152669-0001E5AC6C",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [68]
 				{
 					["flag_original"] = 2632,
@@ -85887,18 +86122,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.00393,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.00393,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Greater Void Elemental",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -85966,10 +86201,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.00393,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-153130-000065AC6D",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [69]
 				{
 					["flag_original"] = 68168,
@@ -85981,18 +86216,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.003759,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003759,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Portal Keeper",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86060,10 +86295,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.003759,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-159275-000065AC6D",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [70]
 				{
 					["flag_original"] = 2632,
@@ -86075,18 +86310,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.008085,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008085,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Crawling Corruption",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86153,10 +86388,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.008085,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-160061-0001E5AC6D",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [71]
 				{
 					["flag_original"] = 68168,
@@ -86169,18 +86404,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.006482,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006482,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Zardeth of the Black Claw",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86274,10 +86509,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.006482,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-158371-000065AC6E",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [72]
 				{
 					["flag_original"] = 2632,
@@ -86290,18 +86525,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 0.003735,
+					["fight_component"] = true,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.003735,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583772798,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Unstable Servant <Zardeth of the Black Claw>",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86369,10 +86604,10 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.003735,
 					["start_time"] = 1583772795,
 					["serial"] = "Creature-0-3022-2213-2844-158411-000065B10E",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [73]
 				{
 					["flag_original"] = 68168,
@@ -86395,18 +86630,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["last_dps"] = 0,
+					["monster"] = true,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 265425.018118,
 					["delay"] = 0,
-					["dps_started"] = false,
+					["fight_component"] = true,
 					["total"] = 265425.018118,
 					["friendlyfire"] = {
 					},
-					["on_hold"] = false,
+					["damage_taken"] = 3265595.018118,
 					["nome"] = "Faceless Manipulator",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86478,10 +86713,10 @@ _detalhes_database = {
 					["end_time"] = 1583773036,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["damage_taken"] = 3265595.018118,
+					["last_dps"] = 0,
 					["start_time"] = 1583772984,
 					["serial"] = "Creature-0-3776-2274-3482-158953-00006674F4",
-					["monster"] = true,
+					["dps_started"] = false,
 				}, -- [74]
 				{
 					["flag_original"] = 68168,
@@ -86506,18 +86741,18 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["last_dps"] = 0,
+					["monster"] = true,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 133428.041688,
 					["delay"] = 0,
-					["dps_started"] = false,
+					["fight_component"] = true,
 					["total"] = 133428.041688,
 					["friendlyfire"] = {
 					},
-					["on_hold"] = false,
+					["damage_taken"] = 1865313.041688,
 					["nome"] = "Crazed Ramkahen Guardian",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86623,10 +86858,10 @@ _detalhes_database = {
 					["end_time"] = 1583773036,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["damage_taken"] = 1865313.041688,
+					["last_dps"] = 0,
 					["start_time"] = 1583772984,
 					["serial"] = "Creature-0-3776-2274-3482-161110-00006674D8",
-					["monster"] = true,
+					["dps_started"] = false,
 				}, -- [75]
 				{
 					["flag_original"] = 2632,
@@ -86644,8 +86879,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
-					["last_dps"] = 0,
+					["damage_taken"] = 428691.0302030001,
+					["friendlyfire"] = {
+					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
@@ -86654,8 +86890,7 @@ _detalhes_database = {
 					["dps_started"] = false,
 					["total"] = 57504.030203,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Black Empire Summoner",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86726,7 +86961,7 @@ _detalhes_database = {
 					["end_time"] = 1583773036,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["damage_taken"] = 428691.0302030001,
+					["on_hold"] = false,
 					["start_time"] = 1583773027,
 					["serial"] = "Creature-0-3776-2274-3482-161141-0000E674C4",
 					["fight_component"] = true,
@@ -86758,8 +86993,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
-					["last_dps"] = 0,
+					["damage_taken"] = 3454309.067231,
+					["friendlyfire"] = {
+					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
@@ -86768,8 +87004,7 @@ _detalhes_database = {
 					["dps_started"] = false,
 					["total"] = 208755.067231,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Acolyte of N'Zoth",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -86858,7 +87093,7 @@ _detalhes_database = {
 					["end_time"] = 1583773036,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["damage_taken"] = 3454309.067231,
+					["on_hold"] = false,
 					["start_time"] = 1583772987,
 					["serial"] = "Creature-0-3776-2274-3482-161139-00016674D8",
 					["monster"] = true,
@@ -86878,17 +87113,17 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["dps_started"] = false,
-					["damage_taken"] = 1113840.010339,
+					["fight_component"] = true,
+					["on_hold"] = false,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 85483.010339,
 					["delay"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["end_time"] = 1583773189,
 					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["nome"] = "Portalkeeper Jin'tashal",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -87013,10 +87248,10 @@ _detalhes_database = {
 					["total"] = 85483.010339,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["last_dps"] = 0,
+					["damage_taken"] = 1113840.010339,
 					["start_time"] = 1583773167,
 					["serial"] = "Creature-0-3776-2274-3482-161467-00006675D9",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [78]
 			},
 		}, -- [1]
@@ -87515,9 +87750,9 @@ _detalhes_database = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
 						["Jhaaphom <Warlockmania>"] = 0,
+						["Yukio"] = 0,
 						["Toshpal"] = 0,
 						["Warlockmania"] = 0,
-						["Yukio"] = 0,
 					},
 					["totalover_without_pet"] = 0.04979200000000001,
 					["healing_taken"] = 352503.049792,
@@ -87534,9 +87769,9 @@ _detalhes_database = {
 						["Toshpal"] = 0,
 					},
 					["targets_absorbs"] = {
-						["Yukio"] = 0,
 						["Toshpal"] = 0,
 						["Warlockmania"] = 0,
+						["Yukio"] = 0,
 						["Peace"] = 0,
 					},
 					["nome"] = "Toshpal",
@@ -87660,17 +87895,17 @@ _detalhes_database = {
 								["targets_overheal"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Toshpal"] = 0,
 									["Yukio"] = 0,
 									["Warlockmania"] = 0,
-									["Toshpal"] = 0,
 								},
 								["n_max"] = 0,
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Toshpal"] = 0,
 									["Yukio"] = 0,
 									["Warlockmania"] = 0,
-									["Toshpal"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -87724,9 +87959,9 @@ _detalhes_database = {
 								},
 								["n_max"] = 0,
 								["targets"] = {
-									["Yukio"] = 0,
 									["Toshpal"] = 0,
 									["Warlockmania"] = 0,
+									["Yukio"] = 0,
 									["Peace"] = 0,
 								},
 								["n_min"] = 0,
@@ -87736,9 +87971,9 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 274395,
 								["targets_absorbs"] = {
-									["Yukio"] = 0,
 									["Toshpal"] = 0,
 									["Warlockmania"] = 0,
+									["Yukio"] = 0,
 									["Peace"] = 0,
 								},
 								["c_curado"] = 0,
@@ -87817,9 +88052,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -87873,17 +88108,17 @@ _detalhes_database = {
 								["targets_overheal"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Yukio"] = 0,
 									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
-									["Yukio"] = 0,
 								},
 								["n_max"] = 0,
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Yukio"] = 0,
 									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
-									["Yukio"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -87941,9 +88176,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Yukio"] = 0,
 									["Toshpal"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -87973,9 +88208,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Yukio"] = 0,
 									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
-									["Yukio"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -88182,9 +88417,9 @@ _detalhes_database = {
 					["targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Toshpal"] = 0,
 						["Yukio"] = 0,
 						["Warlockmania"] = 0,
-						["Toshpal"] = 0,
 					},
 					["totalover_without_pet"] = 0.00745,
 					["healing_taken"] = 0.00745,
@@ -88193,9 +88428,9 @@ _detalhes_database = {
 					["targets_overheal"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Toshpal"] = 0,
 						["Yukio"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["targets_absorbs"] = {
 						["Metsy"] = 0,
@@ -88321,17 +88556,17 @@ _detalhes_database = {
 								["targets_overheal"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
 									["Yukio"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["n_max"] = 0,
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Toshpal"] = 0,
 									["Yukio"] = 0,
 									["Warlockmania"] = 0,
-									["Toshpal"] = 0,
 								},
 								["n_min"] = 0,
 								["counter"] = 0,
@@ -89240,39 +89475,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["total"] = 0.007289,
+					["end_time"] = 1583772798,
 					["pets"] = {
 					},
-					["totalover_without_pet"] = 0.007289,
+					["iniciar_hps"] = false,
 					["targets_overheal"] = {
 					},
-					["heal_enemy_amt"] = 0,
+					["classe"] = "UNKNOW",
 					["totalover"] = 0.007289,
 					["total_without_pet"] = 0.007289,
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.007289,
 					["totaldenied"] = 0.007289,
 					["fight_component"] = true,
-					["end_time"] = 1583772798,
-					["classe"] = "UNKNOW",
+					["total"] = 0.007289,
 					["healing_taken"] = 0.007289,
+					["heal_enemy_amt"] = 0,
 					["nome"] = "Defense Bot Mk III",
-					["targets_absorbs"] = {
-					},
-					["monster"] = true,
-					["last_event"] = 0,
-					["heal_enemy"] = {
-					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
+					["targets_absorbs"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1583772795,
-					["delay"] = 0,
 					["serial"] = "Creature-0-3022-2097-7027-144298-0001E5DC41",
+					["delay"] = 0,
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
@@ -89282,39 +89517,39 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["total"] = 0.001364,
+					["end_time"] = 1583772798,
 					["pets"] = {
 					},
-					["totalover_without_pet"] = 0.001364,
+					["iniciar_hps"] = false,
 					["targets_overheal"] = {
 					},
-					["heal_enemy_amt"] = 0,
+					["classe"] = "UNKNOW",
 					["totalover"] = 0.001364,
 					["total_without_pet"] = 0.001364,
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.001364,
 					["totaldenied"] = 0.001364,
 					["fight_component"] = true,
-					["end_time"] = 1583772798,
-					["classe"] = "UNKNOW",
+					["total"] = 0.001364,
 					["healing_taken"] = 0.001364,
+					["heal_enemy_amt"] = 0,
 					["nome"] = "Defense Bot Mk I",
-					["targets_absorbs"] = {
-					},
-					["monster"] = true,
-					["last_event"] = 0,
-					["heal_enemy"] = {
-					},
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["heal_enemy"] = {
+					},
+					["targets_absorbs"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1583772795,
-					["delay"] = 0,
 					["serial"] = "Creature-0-3022-2097-7027-151649-0000E5DC41",
+					["delay"] = 0,
 				}, -- [10]
 			},
 		}, -- [2]
@@ -89323,7 +89558,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["received"] = 0.066765,
-					["resource"] = 301.408131,
+					["resource"] = 510.322403,
 					["targets"] = {
 						["Toshpal"] = 0,
 					},
@@ -89370,7 +89605,7 @@ _detalhes_database = {
 				}, -- [1]
 				{
 					["received"] = 0.005308,
-					["resource"] = 156889.9902202459,
+					["resource"] = 259135.6499608143,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -89399,7 +89634,7 @@ _detalhes_database = {
 				}, -- [2]
 				{
 					["received"] = 0.00319,
-					["resource"] = 1.177825,
+					["resource"] = 1.941229,
 					["targets"] = {
 						["Yukio"] = 0,
 					},
@@ -89437,7 +89672,7 @@ _detalhes_database = {
 				}, -- [3]
 				{
 					["received"] = 0.004206,
-					["resource"] = 343.872979,
+					["resource"] = 564.433783,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -89466,7 +89701,7 @@ _detalhes_database = {
 				}, -- [4]
 				{
 					["received"] = 0.008606,
-					["resource"] = 4301.839007742274,
+					["resource"] = 7099.178720344804,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -89492,7 +89727,7 @@ _detalhes_database = {
 				}, -- [5]
 				{
 					["received"] = 0.006569,
-					["resource"] = 0.112373,
+					["resource"] = 0.182909,
 					["targets"] = {
 						["Peace"] = 0,
 					},
@@ -89695,14 +89930,14 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[295842] = {
-								["id"] = 295842,
+							[122278] = {
+								["id"] = 122278,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[300714] = {
-								["id"] = 300714,
+							[317020] = {
+								["id"] = 317020,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89731,14 +89966,14 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[116847] = {
-								["id"] = 116847,
+							[317859] = {
+								["id"] = 317859,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[122278] = {
-								["id"] = 122278,
+							[119085] = {
+								["id"] = 119085,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89749,8 +89984,8 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[303041] = {
-								["id"] = 303041,
+							[116847] = {
+								["id"] = 116847,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89761,14 +89996,14 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[195630] = {
-								["id"] = 195630,
+							[294966] = {
+								["id"] = 294966,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[119085] = {
-								["id"] = 119085,
+							[295842] = {
+								["id"] = 295842,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89791,14 +90026,14 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[294966] = {
-								["id"] = 294966,
+							[289324] = {
+								["id"] = 289324,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[317859] = {
-								["id"] = 317859,
+							[303041] = {
+								["id"] = 303041,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89809,20 +90044,20 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[289324] = {
-								["id"] = 289324,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[317020] = {
-								["id"] = 317020,
+							[195630] = {
+								["id"] = 195630,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 							[120954] = {
 								["id"] = 120954,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[300714] = {
+								["id"] = 300714,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -89852,6 +90087,16 @@ _detalhes_database = {
 					["serial"] = "Player-9-09B16B50",
 					["cc_break_spells"] = {
 						["_ActorTable"] = {
+							[121253] = {
+								["id"] = 121253,
+								["cc_break_oque"] = {
+								},
+								["targets"] = {
+									["Mechagon Tinkerer"] = 0,
+									["G.U.A.R.D."] = 0,
+								},
+								["counter"] = 0,
+							},
 							[123725] = {
 								["id"] = 123725,
 								["cc_break_oque"] = {
@@ -89873,21 +90118,11 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[121253] = {
-								["id"] = 121253,
-								["cc_break_oque"] = {
-								},
-								["targets"] = {
-									["Mechagon Tinkerer"] = 0,
-									["G.U.A.R.D."] = 0,
-								},
-								["counter"] = 0,
-							},
 						},
 						["tipo"] = 9,
 					},
 					["buff_uptime"] = 0,
-					["nome"] = "Peace",
+					["boss_fight_component"] = true,
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[119381] = {
@@ -89935,7 +90170,7 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["boss_fight_component"] = true,
+					["nome"] = "Peace",
 					["dispell_targets"] = {
 						["Defense Bot Mk I"] = 0,
 					},
@@ -90419,9 +90654,9 @@ _detalhes_database = {
 							[122] = {
 								["id"] = 122,
 								["targets"] = {
+									["Inconspicuous Plant"] = 0,
 									["Living Waste"] = 0,
 									["Explosive Scarab"] = 0,
-									["Inconspicuous Plant"] = 0,
 								},
 								["counter"] = 0,
 							},
@@ -90462,8 +90697,8 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["nome"] = "Yukio",
 					["interrupt"] = 0,
+					["nome"] = "Yukio",
 					["cc_done"] = 0,
 					["boss_fight_component"] = true,
 					["grupo"] = true,
@@ -90802,9 +91037,14 @@ _detalhes_database = {
 					["interrompeu_oque"] = {
 					},
 					["debuff_uptime"] = 0,
-					["debuff_uptime_targets"] = {
+					["buff_uptime_targets"] = {
 					},
-					["spec"] = 267,
+					["interrupt_targets"] = {
+						["Mindrend Tentacle"] = 0,
+						["Voidweaver Mal'thir"] = 0,
+						["Warlockmania"] = 0,
+						["Mechagon Tinkerer"] = 0,
+					},
 					["cc_break"] = 0,
 					["cc_done_targets"] = {
 						["Workshop Defender"] = 0,
@@ -90859,15 +91099,10 @@ _detalhes_database = {
 						["Warlockmania"] = 0,
 					},
 					["fight_component"] = true,
-					["interrupt"] = 0,
-					["interrupt_targets"] = {
-						["Mindrend Tentacle"] = 0,
-						["Voidweaver Mal'thir"] = 0,
-						["Warlockmania"] = 0,
-						["Mechagon Tinkerer"] = 0,
-					},
-					["cc_done"] = 0,
 					["nome"] = "Warlockmania",
+					["spec"] = 267,
+					["cc_done"] = 0,
+					["interrupt"] = 0,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[301308] = 0,
@@ -90895,13 +91130,6 @@ _detalhes_database = {
 					},
 					["last_event"] = 0,
 					["tipo"] = 4,
-					["buff_uptime_targets"] = {
-					},
-					["cc_break_targets"] = {
-						["Workshop Defender"] = 0,
-						["Mindrend Tentacle"] = 0,
-						["Living Waste"] = 0,
-					},
 					["cooldowns_defensive_spells"] = {
 						["_ActorTable"] = {
 							[104773] = {
@@ -90914,7 +91142,14 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
+					["cc_break_targets"] = {
+						["Workshop Defender"] = 0,
+						["Mindrend Tentacle"] = 0,
+						["Living Waste"] = 0,
+					},
 					["boss_fight_component"] = true,
+					["debuff_uptime_targets"] = {
+					},
 				}, -- [3]
 				{
 					["flag_original"] = 1047,
@@ -91315,8 +91550,8 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["nome"] = "Metsy",
 					["interrupt"] = 0,
+					["nome"] = "Metsy",
 					["cc_done"] = 0,
 					["boss_fight_component"] = true,
 					["grupo"] = true,
@@ -91814,14 +92049,18 @@ _detalhes_database = {
 								},
 								["refreshamt"] = 15,
 							},
-							[312915] = {
-								["id"] = 312915,
+							[269571] = {
+								["counter"] = 0,
+								["activedamt"] = 15,
+								["appliedamt"] = 15,
+								["id"] = 269571,
+								["uptime"] = 67,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
-							[300693] = {
-								["id"] = 300693,
+							[312915] = {
+								["id"] = 312915,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -91918,15 +92157,11 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[269571] = {
-								["counter"] = 0,
-								["activedamt"] = 15,
-								["appliedamt"] = 15,
-								["id"] = 269571,
-								["uptime"] = 67,
+							[300693] = {
+								["id"] = 300693,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[311249] = {
 								["counter"] = 0,
@@ -92069,9 +92304,9 @@ _detalhes_database = {
 								["targets"] = {
 									["Metsy"] = 0,
 									["Peace"] = 0,
+									["Warlockmania"] = 0,
 									["Toshpal"] = 0,
 									["Yukio"] = 0,
-									["Warlockmania"] = 0,
 								},
 								["counter"] = 0,
 							},
@@ -92079,8 +92314,8 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["nome"] = "Toshpal",
 					["interrupt"] = 0,
+					["nome"] = "Toshpal",
 					["cc_done"] = 1.004487,
 					["boss_fight_component"] = true,
 					["grupo"] = true,
@@ -92183,9 +92418,9 @@ _detalhes_database = {
 					["dispell_targets"] = {
 						["Metsy"] = 0,
 						["Peace"] = 0,
+						["Warlockmania"] = 0,
 						["Toshpal"] = 0,
 						["Yukio"] = 0,
-						["Warlockmania"] = 0,
 					},
 					["buff_uptime_targets"] = {
 					},
@@ -92193,12 +92428,12 @@ _detalhes_database = {
 				{
 					["flag_original"] = 8466,
 					["nome"] = "Infernal <Warlockmania>",
-					["classe"] = "PET",
+					["tipo"] = 4,
 					["pets"] = {
 					},
 					["boss_fight_component"] = true,
+					["classe"] = "PET",
 					["last_event"] = 0,
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-89-000065E196",
 					["spell_cast"] = {
 						[19483] = 0,
@@ -92218,15 +92453,15 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Vehicle-0-3022-2097-7027-150396-000065DC41",
 					["nome"] = "Aerial Unit R-21/X",
 				}, -- [7]
 				{
 					["fight_component"] = true,
-					["classe"] = "PET",
+					["tipo"] = 4,
 					["flag_original"] = 4370,
 					["interrupt"] = 0,
 					["interrupt_targets"] = {
@@ -92238,12 +92473,12 @@ _detalhes_database = {
 					["boss_fight_component"] = true,
 					["pets"] = {
 					},
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["spell_cast"] = {
 						[54049] = 0,
 						[19647] = 0,
 					},
-					["last_event"] = 0,
+					["classe"] = "PET",
 					["interrupt_spells"] = {
 						["_ActorTable"] = {
 							[19647] = {
@@ -92267,12 +92502,12 @@ _detalhes_database = {
 				{
 					["flag_original"] = 8466,
 					["nome"] = "Twisted Appendage <Metsy>",
-					["classe"] = "PET",
+					["tipo"] = 4,
 					["pets"] = {
 					},
 					["boss_fight_component"] = true,
+					["classe"] = "PET",
 					["last_event"] = 0,
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-162764-000065E19D",
 					["spell_cast"] = {
 						[316826] = 0,
@@ -92289,9 +92524,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-150485-000165E195",
 					["nome"] = "Plasma Orb",
 				}, -- [10]
@@ -92409,9 +92644,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-150397-000065DC41",
 					["nome"] = "King Mechagon",
 				}, -- [15]
@@ -92450,9 +92685,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Vehicle-0-3022-2097-7027-144249-000065E1DC",
 					["nome"] = "Omega Buster",
 				}, -- [17]
@@ -92466,9 +92701,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-145560-000065E1FC",
 					["nome"] = "Magneto-Arm",
 				}, -- [18]
@@ -92679,9 +92914,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-152033-000465DC41",
 					["nome"] = "Inconspicuous Plant",
 				}, -- [31]
@@ -92720,9 +92955,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-144248-000065DC41",
 					["nome"] = "Head Machinist Sparkflux",
 				}, -- [33]
@@ -92788,9 +93023,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-144246-000065DC40",
 					["nome"] = "K.U.-J.0.",
 				}, -- [37]
@@ -92820,9 +93055,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-150520-0000E5DC40",
 					["nome"] = "Cubed Clutter",
 				}, -- [39]
@@ -92965,9 +93200,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-145185-000065DC82",
 					["nome"] = "Gnomercy 4.U.",
 				}, -- [47]
@@ -92982,9 +93217,9 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
 					["classe"] = "UNKNOW",
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3022-2097-7027-144244-000065DC82",
 					["nome"] = "The Platinum Pummeler",
 				}, -- [48]
@@ -93023,12 +93258,12 @@ _detalhes_database = {
 				{
 					["flag_original"] = 1297,
 					["nome"] = "[*] N'Zoth's Awareness",
-					["classe"] = "UNGROUPPLAYER",
+					["tipo"] = 4,
 					["pets"] = {
 					},
 					["boss_fight_component"] = true,
+					["classe"] = "UNGROUPPLAYER",
 					["last_event"] = 0,
-					["tipo"] = 4,
 					["serial"] = "",
 					["spell_cast"] = {
 						[287769] = 493,
@@ -93047,9 +93282,9 @@ _detalhes_database = {
 					["serial"] = "Creature-0-3022-2213-2844-152718-000065AC6C",
 					["spell_cast"] = {
 						[308278] = 0,
+						[309648] = 0,
 						[309819] = 0,
 						[312360] = 0,
-						[309648] = 0,
 					},
 				}, -- [52]
 				{
@@ -93391,10 +93626,10 @@ _detalhes_database = {
 		},
 		["combat_counter"] = 12129,
 		["totals"] = {
-			12016891.384156, -- [1]
-			1554887.087729, -- [2]
+			12016891.331628, -- [1]
+			1554886.891485, -- [2]
 			{
-				368.669633858307, -- [1]
+				368.659147858307, -- [1]
 				[0] = 3189.085696,
 				["alternatepower"] = 0,
 				[3] = 73.011706,
@@ -93550,7 +93785,7 @@ _detalhes_database = {
 			["n"] = 1,
 		},
 	},
-	["combat_counter"] = 12147,
+	["combat_counter"] = 12151,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
@@ -93572,6 +93807,7 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-9-0B60C80F"] = 70,
+		["Player-120-08EA6845"] = 256,
+		["Player-9-0B60C80F"] = 65,
 	},
 }

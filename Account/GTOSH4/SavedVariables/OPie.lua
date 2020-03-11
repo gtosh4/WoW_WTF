@@ -13,10 +13,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["Mounts"] = "ALT-1",
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["OPieTracking"] = false,
+				["Mounts"] = "ALT-1",
 			},
 		},
 	},
@@ -64,8 +64,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [5]
 				{
 					"item", -- [1]

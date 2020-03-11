@@ -24,732 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Done With Nom Noms!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1668, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583650087,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"here", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1669, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650088,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"thanks aa", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1670, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650090,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			":)", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1671, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650091,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1672, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1583650101,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"I HATE YOU YUKI", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1673, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1583650103,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"48 seconds it is", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1677, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650121,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"C:", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1678, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650123,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"how hard", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1687, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650147,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"?????", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1689, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650160,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"u wanna fite", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1690, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650164,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"i'l fite u", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1691, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583650165,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1693, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1583650184,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1701, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1583650196,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [14]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1711, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1583650224,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1717, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1583650234,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [16]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1719, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1720, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650243,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1723, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650246,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1724, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1725, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650246,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1726, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650250,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1727, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650250,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1728, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650250,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1729, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650250,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1730, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1583650253,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1732, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650261,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1733, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650261,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1740, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650276,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1741, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650276,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1742, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1583650276,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1743, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1583650279,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1750, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1583650298,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -770,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1583650299,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [34]
+		}, -- [1]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650312,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [2]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -814,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650312,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [3]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650331,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [4]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650331,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [5]
 		{
 			"I HATE YOU YUKI", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -880,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1583650347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [6]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650360,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [7]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -924,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650360,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [8]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650360,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [9]
 		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -968,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1583650362,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [10]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -990,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [11]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1012,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650363,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [12]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1034,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583650371,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650375,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [14]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1078,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650375,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650377,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1122,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650377,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [17]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1144,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650382,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [18]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650382,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [19]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1188,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650384,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [20]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1210,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650384,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [21]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650384,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [22]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650385,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [23]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650385,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1298,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650418,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1320,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650418,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [26]
 		{
 			".", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1342,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650430,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [27]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1364,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1583650464,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:200205:0|h[Auto-Hammer Mode]|h|r cast by Reaves!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1386,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650475,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:200205:0|h[Auto-Hammer Mode]|h|r cast by Reaves!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650475,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [30]
 		{
 			"I HATE YOU YUKI", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1430,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1583650480,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [31]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1452,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1583650482,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [32]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1474,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1583650484,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [33]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1496,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1583650493,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [34]
 		{
 			"yeah heck the dhs", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1518,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650494,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [35]
 		{
 			"my 2nd wings", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1540,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583650503,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [36]
 		{
 			"so scuffed", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1562,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583650505,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [37]
 		{
 			"that pull", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1584,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583650506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [38]
 		{
 			"mhm", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1606,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650508,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [39]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650525,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [40]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1650,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650525,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [41]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1672,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1583650535,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [75]
+		}, -- [42]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1694,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [43]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1716,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [44]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1738,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650574,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1760,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1782,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650583,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1804,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650583,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1826,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650583,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [49]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1848,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1583650586,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [83]
+		}, -- [50]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1870,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650593,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [51]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1892,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650593,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [52]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1914,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [53]
 		{
 			" Taunted Ka'zir! Taunted Ka'zir! Taunted Ka'zir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1936,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650599,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [54]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1958,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650650,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [55]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Aqir Darter!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1980,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2002,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650650,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Aqir Darter has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650650,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [58]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2046,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1583650651,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [92]
+		}, -- [59]
 		{
 			"I HATE YOU YUKI", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2068,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1583650652,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [60]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2090,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650653,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [61]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650653,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [62]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2134,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583650654,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [63]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650663,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [64]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2178,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650663,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [65]
 		{
 			"Interrupted Ka'zir's |cff71d5ff|Hspell:313652:0|h[Mind-Numbing Nova]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2200,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583650663,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [66]
 		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -2222,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1583650706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [67]
 		{
 			"xd", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2244,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583650709,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [68]
 		{
 			"oh yikes", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2266,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1583685920,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [69]
 		{
 			"I forgot to swap an azerite for battle", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2288,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1583685942,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [70]
 		{
 			"only ran 2 IP", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2310,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1583685947,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [71]
 		{
 			"and didn't swap corruption", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2332,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1583685953,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [72]
 		{
 			"don't tell Jess", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2354,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583685955,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [73]
 		{
 			"well Vale was quick today", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2376,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583686885,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+		}, -- [74]
 		{
 			"|cffffff00Seat of Ramkahen is under attack!|r", -- [1]
 			"", -- [2]
@@ -2398,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1583687044,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [75]
 		{
 			"|cff71d5ff|Htalent:22179|h[Fist of Justice]|h|r|cff71d5ff|Htalent:21811|h[Blinding Light]|h|r", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2420,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1583687367,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [109]
+		}, -- [76]
 		{
 			"'ello Ox", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2442,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583688308,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [77]
 		{
 			"i read his name as Ox!clamation!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2464,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583688330,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [78]
 		{
 			"Point.", -- [1]
 			"Sylveryas-Kil'jaeden", -- [2]
@@ -2486,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSylveryas|r",
 			[51] = 1583688344,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [79]
 		{
 			"whoaa when did you get on", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2508,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583688347,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [80]
 		{
 			"like two min ago", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2530,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583688360,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [81]
 		{
 			"about 40 seconds before ox did", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2552,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1583688364,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [82]
 		{
 			"ah, i'm mass scrapping so must've missed it in the chat log lol", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2574,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583688378,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [83]
 		{
 			"lol;", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583688382,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [84]
 		{
 			"Hello!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -2618,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1583688398,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [85]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12955:Player-9-0A07B176:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Champions of Azeroth]|h|r!", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -2640,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1583688691,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [119]
+		}, -- [86]
 		{
 			"|cffffff00Ramkahen is under attack!|r", -- [1]
 			"", -- [2]
@@ -2662,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1583688821,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14019:Player-9-0B53C813:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Smoke Test]|h|r!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -2684,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1583689250,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [88]
 		{
 			"Anyone able to help me out? I just need a lvl 15-80 character to party sync with so I can get 2 lvls whisper me", -- [1]
 			"Dargruk-Kil'jaeden", -- [2]
@@ -2706,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Dargruk|r",
 			[51] = 1583690362,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [89]
 		{
 			"WTS 10-15s M+/full vision clears/heroic nya", -- [1]
 			"Braÿle-Kil'jaeden", -- [2]
@@ -2728,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Braÿle|r",
 			[51] = 1583715726,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [90]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +13  and armor stack is free!*", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -2750,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1583715799,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [91]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6109:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Morchok]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2772,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583715989,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [92]
 		{
 			"nice achieve", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -2794,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583715998,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [93]
 		{
 			"thanks babe", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2816,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716003,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [127]
+		}, -- [94]
 		{
 			"never played cata with this mage was a diffrent one :^)", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2838,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716015,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [128]
+		}, -- [95]
 		{
 			"Has the same cringe 10yr old name on it too kekw", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2860,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716030,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [129]
+		}, -- [96]
 		{
 			"i think the most cringe name ive seen on this game was \"Frida\"", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2882,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583716062,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [130]
+		}, -- [97]
 		{
 			"kek", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2904,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716067,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [131]
+		}, -- [98]
 		{
 			"thank god hes not in the guild anymore", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2926,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583716067,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [132]
+		}, -- [99]
 		{
 			"Frida is a bench worthy name ", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -2948,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716077,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [133]
+		}, -- [100]
 		{
 			"replaced him with a better priest", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2970,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583716077,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [134]
+		}, -- [101]
 		{
 			"heck that guy'", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -2992,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583716078,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [135]
+		}, -- [102]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6110:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Warlord Zon'ozz]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3014,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716095,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [136]
+		}, -- [103]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +13  and armor stack is free!*", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -3036,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1583716101,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [137]
+		}, -- [104]
 		{
 			"@discord", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3058,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716187,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [138]
+		}, -- [105]
 		{
 			"freeduh", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3080,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716189,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [139]
+		}, -- [106]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6111:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Yor'sahj the Unsleeping]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3102,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716195,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [140]
+		}, -- [107]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-6567-9-64343918|h[Guild: Cinder Works]|h|r 11/12H. Recruiting for active mythic+ members,RDPS/MDPS Raid times Thurs/Sat 3 - 5pm PST (heroic). Looking to finalize our 25 man roster", -- [1]
 			"Bullimic-Kil'jaeden", -- [2]
@@ -3124,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Bullimic|r",
 			[51] = 1583716214,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [141]
+		}, -- [108]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6112:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Hagara the Stormbinder]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3146,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716446,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [142]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14162:Player-9-07C9B703:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Masquerade]|h|r!", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -3168,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1583716462,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [143]
+		}, -- [110]
 		{
 			"grats", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -3190,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1583716480,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [144]
+		}, -- [111]
 		{
 			"xd", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -3212,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1583716570,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [145]
+		}, -- [112]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +13  and armor stack is free!*", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -3234,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1583716591,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [146]
+		}, -- [113]
 		{
 			"Boosting Full Heroic Nya'lotha clear tonight, here on Kil'Jaeden. Fast, efficient run at 7PM Server time. Can also sell AOTC/Specific bosses. Whisper for more info. GOLD ONLY. Cheap!", -- [1]
 			"Keebw-Kil'jaeden", -- [2]
@@ -3256,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecKeebw|r",
 			[51] = 1583716600,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [147]
+		}, -- [114]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13771:Player-9-0A07B176:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Power Is Beautiful]|h|r!", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -3278,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1583716811,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [148]
+		}, -- [115]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13998:Player-9-0A07B176:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Pure of Heart]|h|r!", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -3300,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1583716830,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [149]
+		}, -- [116]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6113:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Ultraxion]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3322,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583716908,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [150]
+		}, -- [117]
 		{
 			"ding dong", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3344,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583717164,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [151]
+		}, -- [118]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6114:Player-9-0B884C02:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Warmaster Blackhorn]|h|r!", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3366,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583717165,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [152]
+		}, -- [119]
 		{
 			"about 5min left in this stromgarde", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -3388,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1583718834,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [153]
+		}, -- [120]
 		{
 			"np", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -3410,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583718838,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [154]
+		}, -- [121]
 		{
 			"!keys", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3432,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [155]
+		}, -- [122]
 		{
 			"|cffa335ee|Hkeystone:158923:353:14:10:5:14:120|h[Keystone: Siege of Boralus (14)]|h|r", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -3454,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [156]
+		}, -- [123]
 		{
 			"|cffa335ee|Hkeystone:158923:353:16:10:5:14:120|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3476,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [157]
+		}, -- [124]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:245:16:10:5:14:120|h[Keystone: Freehold (16)]|h|r", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3498,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [158]
+		}, -- [125]
 		{
 			"|cffa335ee|Hkeystone:158923:248:14:10:5:14:120|h[Keystone: Waycrest Manor (14)]|h|r", -- [1]
 			"Thuggbtw-Kil'jaeden", -- [2]
@@ -3520,7 +2794,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Thuggbtw|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [159]
+		}, -- [126]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:250:16:10:5:14:120|h[Keystone: Temple of Sethraliss (16)]|h|r", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -3542,7 +2816,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [160]
+		}, -- [127]
 		{
 			"|cffa335ee|Hkeystone:158923:252:15:10:5:14:120|h[Keystone: Shrine of the Storm (15)]|h|r", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -3564,7 +2838,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [161]
+		}, -- [128]
 		{
 			"|cffa335ee|Hkeystone:158923:249:18:10:5:14:120|h[Keystone: Kings' Rest (18)]|h|r", -- [1]
 			"Lazy-Kil'jaeden", -- [2]
@@ -3586,7 +2860,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lazy|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [162]
+		}, -- [129]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:252:15:10:5:14:120|h[Keystone: Shrine of the Storm (15)]|h|r", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -3608,7 +2882,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [163]
+		}, -- [130]
 		{
 			"|cffa335ee|Hkeystone:158923:249:11:10:5:14:120|h[Keystone: Kings' Rest (11)]|h|r", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3630,7 +2904,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [164]
+		}, -- [131]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:249:15:10:5:14:120|h[Keystone: Kings' Rest (15)]|h|r", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -3652,7 +2926,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1583719293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [165]
+		}, -- [132]
 		{
 			"@yuki", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3674,7 +2948,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583719338,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [166]
+		}, -- [133]
 		{
 			"@cada", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3696,7 +2970,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583719389,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [167]
+		}, -- [134]
 		{
 			"wtf", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3718,7 +2992,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583719389,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [168]
+		}, -- [135]
 		{
 			"why did you leave the furry army", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -3740,7 +3014,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583719399,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [169]
+		}, -- [136]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3762,7 +3036,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719513,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [170]
+		}, -- [137]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3784,7 +3058,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719558,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [171]
+		}, -- [138]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3806,7 +3080,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [172]
+		}, -- [139]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3828,7 +3102,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [173]
+		}, -- [140]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12723:Player-9-0B9709D1:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[How to Keep a Mummy]|h|r!", -- [1]
 			"Thuggbtw-Kil'jaeden", -- [2]
@@ -3850,7 +3124,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Thuggbtw|r",
 			[51] = 1583719657,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [174]
+		}, -- [141]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3872,7 +3146,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719658,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [175]
+		}, -- [142]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3894,7 +3168,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719659,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [176]
+		}, -- [143]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3916,7 +3190,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583719966,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [177]
+		}, -- [144]
 		{
 			"cj discord?", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -3938,7 +3212,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583720215,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [178]
+		}, -- [145]
 		{
 			"sure", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3960,7 +3234,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583720219,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [179]
+		}, -- [146]
 		{
 			"1s", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3982,7 +3256,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583720220,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [180]
+		}, -- [147]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4004,7 +3278,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721070,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [181]
+		}, -- [148]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4026,7 +3300,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [182]
+		}, -- [149]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4048,7 +3322,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721179,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [183]
+		}, -- [150]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4070,7 +3344,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721193,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [184]
+		}, -- [151]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4092,7 +3366,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721290,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [185]
+		}, -- [152]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4114,7 +3388,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721291,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [186]
+		}, -- [153]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4136,7 +3410,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721303,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [187]
+		}, -- [154]
 		{
 			"where is sci", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -4158,7 +3432,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1583721508,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [188]
+		}, -- [155]
 		{
 			"i need 2s", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -4180,7 +3454,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1583721512,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [189]
+		}, -- [156]
 		{
 			"Blight Eruption on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4202,7 +3476,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [190]
+		}, -- [157]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4224,7 +3498,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721667,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [191]
+		}, -- [158]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4246,7 +3520,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721725,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [192]
+		}, -- [159]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4268,7 +3542,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721772,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [193]
+		}, -- [160]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4290,7 +3564,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721868,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [194]
+		}, -- [161]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4312,7 +3586,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583721869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [195]
+		}, -- [162]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4334,7 +3608,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583722205,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [196]
+		}, -- [163]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4356,7 +3630,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583722218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [197]
+		}, -- [164]
 		{
 			"|cffa335ee|Hitem:168973::::::::120:63::16:6:6536:42:6516:6513:1522:4786:::|h[Neural Synapse Enhancer]|h|r x5", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4378,7 +3652,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722691,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [198]
+		}, -- [165]
 		{
 			"i have 5 dildos now", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4400,7 +3674,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722697,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [199]
+		}, -- [166]
 		{
 			"FML", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4422,7 +3696,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722699,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [200]
+		}, -- [167]
 		{
 			"LOL", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4444,7 +3718,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583722732,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [201]
+		}, -- [168]
 		{
 			"LOL", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -4466,7 +3740,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1583722827,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [202]
+		}, -- [169]
 		{
 			"wheres your brafcers", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -4488,7 +3762,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1583722832,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [203]
+		}, -- [170]
 		{
 			"dudeee", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -4510,7 +3784,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1583722833,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [204]
+		}, -- [171]
 		{
 			"bro i swear when it drops itll have EXPEDIENT 3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4532,7 +3806,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722850,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [205]
+		}, -- [172]
 		{
 			"and cj will not trade it", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4554,7 +3828,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722855,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [206]
+		}, -- [173]
 		{
 			"LOL", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4576,7 +3850,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583722857,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [207]
+		}, -- [174]
 		{
 			"|cffa335ee|Hitem:172196:6112:::::::120:268::5:7:4823:6541:6578:6579:1502:4786:6513:::|h[Vorzz Yoq'al]|h|r +", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4598,7 +3872,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730282,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [208]
+		}, -- [175]
 		{
 			"2400 mastery", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4620,7 +3894,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730284,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [209]
+		}, -- [176]
 		{
 			"Sci, you get all your alts 15s?", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -4642,7 +3916,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1583730392,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [210]
+		}, -- [177]
 		{
 			"jamie sent me a fucking tik tok", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4664,7 +3938,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730480,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [211]
+		}, -- [178]
 		{
 			"and i thought it was like", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4686,7 +3960,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730483,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [212]
+		}, -- [179]
 		{
 			"going to be funny", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4708,7 +3982,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730485,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [213]
+		}, -- [180]
 		{
 			"but it was just a waste of time", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4730,7 +4004,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583730490,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [214]
+		}, -- [181]
 		{
 			"@andrew dont lose in 2s :^)", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -4752,7 +4026,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1583733625,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [215]
+		}, -- [182]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4774,7 +4048,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733849,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [216]
+		}, -- [183]
 		{
 			"Interrupted Bomb Tonk's |cff71d5ff|Hspell:301088:0|h[Detonate]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4796,7 +4070,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733851,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [217]
+		}, -- [184]
 		{
 			"Interrupted Bomb Tonk's |cff71d5ff|Hspell:301088:0|h[Detonate]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4818,7 +4092,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733851,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [218]
+		}, -- [185]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4840,7 +4114,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733859,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [219]
+		}, -- [186]
 		{
 			" Taunted The Platinum Pummeler! Taunted The Platinum Pummeler! Taunted The Platinum Pummeler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4862,7 +4136,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733912,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [220]
+		}, -- [187]
 		{
 			" Taunted The Platinum Pummeler! Taunted The Platinum Pummeler! Taunted The Platinum Pummeler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4884,7 +4158,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733928,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [221]
+		}, -- [188]
 		{
 			" Taunted The Platinum Pummeler! Taunted The Platinum Pummeler! Taunted The Platinum Pummeler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4906,7 +4180,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733936,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [222]
+		}, -- [189]
 		{
 			" Taunted The Platinum Pummeler! Taunted The Platinum Pummeler! Taunted The Platinum Pummeler!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4928,7 +4202,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583733944,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [223]
+		}, -- [190]
 		{
 			" Taunted Waste Processing Unit! Taunted Waste Processing Unit! Taunted Waste Processing Unit!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4950,7 +4224,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734009,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [224]
+		}, -- [191]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4972,7 +4246,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734012,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [225]
+		}, -- [192]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4994,7 +4268,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734030,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [226]
+		}, -- [193]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5016,7 +4290,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734065,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [227]
+		}, -- [194]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5038,7 +4312,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734079,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [228]
+		}, -- [195]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5060,7 +4334,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734086,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [229]
+		}, -- [196]
 		{
 			" Taunted Samh'rek, Beckoner of Chaos! Taunted Samh'rek, Beckoner of Chaos! Taunted Samh'rek, Beckoner of Chaos!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5082,7 +4356,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734094,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [230]
+		}, -- [197]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5104,7 +4378,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734101,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [231]
+		}, -- [198]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5126,7 +4400,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734114,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [232]
+		}, -- [199]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5148,7 +4422,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734147,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [233]
+		}, -- [200]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5170,7 +4444,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734155,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [234]
+		}, -- [201]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5192,7 +4466,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734158,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [235]
+		}, -- [202]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5214,7 +4488,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734162,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [236]
+		}, -- [203]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5236,7 +4510,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734162,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [237]
+		}, -- [204]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5258,7 +4532,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734165,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [238]
+		}, -- [205]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Junkyard D.0.G.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5280,7 +4554,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734183,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [239]
+		}, -- [206]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5302,7 +4576,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734189,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [240]
+		}, -- [207]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5324,7 +4598,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734203,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [241]
+		}, -- [208]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5346,7 +4620,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734204,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [242]
+		}, -- [209]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Junkyard D.0.G. has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5368,7 +4642,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734214,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [243]
+		}, -- [210]
 		{
 			" Taunted Junkyard D.0.G.! Taunted Junkyard D.0.G.! Taunted Junkyard D.0.G.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5390,7 +4664,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734216,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [244]
+		}, -- [211]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5412,7 +4686,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [245]
+		}, -- [212]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5434,7 +4708,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734254,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [246]
+		}, -- [213]
 		{
 			" Taunted K.U.-J.0.! Taunted K.U.-J.0.! Taunted K.U.-J.0.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5456,7 +4730,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734271,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [247]
+		}, -- [214]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5478,7 +4752,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734273,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [248]
+		}, -- [215]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5500,7 +4774,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734290,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [249]
+		}, -- [216]
 		{
 			" Taunted K.U.-J.0.! Taunted K.U.-J.0.! Taunted K.U.-J.0.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5522,7 +4796,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734299,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [250]
+		}, -- [217]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5544,7 +4818,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734306,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [251]
+		}, -- [218]
 		{
 			"Explosive Leap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5566,7 +4840,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583734309,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [252]
+		}, -- [219]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5588,7 +4862,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734327,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [253]
+		}, -- [220]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5610,7 +4884,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734337,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [254]
+		}, -- [221]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5632,7 +4906,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734337,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [255]
+		}, -- [222]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5654,7 +4928,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734339,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [256]
+		}, -- [223]
 		{
 			"Explosive Leap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5676,7 +4950,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583734342,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [257]
+		}, -- [224]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5698,7 +4972,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [258]
+		}, -- [225]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5720,7 +4994,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734347,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [259]
+		}, -- [226]
 		{
 			" Taunted K.U.-J.0.! Taunted K.U.-J.0.! Taunted K.U.-J.0.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5742,7 +5016,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734365,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [260]
+		}, -- [227]
 		{
 			" Taunted K.U.-J.0.! Taunted K.U.-J.0.! Taunted K.U.-J.0.!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5764,7 +5038,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734365,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [261]
+		}, -- [228]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5786,7 +5060,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734367,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [262]
+		}, -- [229]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5808,7 +5082,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734416,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [263]
+		}, -- [230]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5830,7 +5104,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734416,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [264]
+		}, -- [231]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5852,7 +5126,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734424,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [265]
+		}, -- [232]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5874,7 +5148,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734424,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [266]
+		}, -- [233]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5896,7 +5170,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734433,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [267]
+		}, -- [234]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5918,7 +5192,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734433,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [268]
+		}, -- [235]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5940,7 +5214,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734439,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [269]
+		}, -- [236]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Mechagon Tinkerer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -5962,7 +5236,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734439,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [270]
+		}, -- [237]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -5984,7 +5258,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [271]
+		}, -- [238]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6006,7 +5280,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734455,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [272]
+		}, -- [239]
 		{
 			" Taunted Defense Bot Mk III! Taunted Defense Bot Mk III! Taunted Defense Bot Mk III!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6028,7 +5302,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734468,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [273]
+		}, -- [240]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6050,7 +5324,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734473,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [274]
+		}, -- [241]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6072,7 +5346,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734473,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [275]
+		}, -- [242]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6094,7 +5368,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734474,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [276]
+		}, -- [243]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6116,7 +5390,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734488,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [277]
+		}, -- [244]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6138,7 +5412,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734498,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [278]
+		}, -- [245]
 		{
 			" Taunted Blastatron X-80! Taunted Blastatron X-80! Taunted Blastatron X-80!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6160,7 +5434,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734507,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [279]
+		}, -- [246]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6182,7 +5456,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734509,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [280]
+		}, -- [247]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6204,7 +5478,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734545,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [281]
+		}, -- [248]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Thing From Beyond!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6226,7 +5500,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734553,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [282]
+		}, -- [249]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Thing From Beyond has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6248,7 +5522,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734555,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [283]
+		}, -- [250]
 		{
 			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6270,7 +5544,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734569,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [284]
+		}, -- [251]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6292,7 +5566,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734575,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [285]
+		}, -- [252]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6314,7 +5588,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734575,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [286]
+		}, -- [253]
 		{
 			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6336,7 +5610,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734587,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [287]
+		}, -- [254]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6358,7 +5632,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734589,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [288]
+		}, -- [255]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6380,7 +5654,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734600,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [289]
+		}, -- [256]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6402,7 +5676,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734610,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [290]
+		}, -- [257]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6424,7 +5698,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734618,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [291]
+		}, -- [258]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6446,7 +5720,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734620,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [292]
+		}, -- [259]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6468,7 +5742,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734620,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [293]
+		}, -- [260]
 		{
 			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6490,7 +5764,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734620,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [294]
+		}, -- [261]
 		{
 			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6512,7 +5786,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734640,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [295]
+		}, -- [262]
 		{
 			" Taunted Head Machinist Sparkflux! Taunted Head Machinist Sparkflux! Taunted Head Machinist Sparkflux!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6534,7 +5808,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734655,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [296]
+		}, -- [263]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6556,7 +5830,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734664,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [297]
+		}, -- [264]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6578,7 +5852,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734664,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [298]
+		}, -- [265]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Thing From Beyond!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6600,7 +5874,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [299]
+		}, -- [266]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Thing From Beyond!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6622,7 +5896,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734679,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [300]
+		}, -- [267]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Thing From Beyond has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6644,7 +5918,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [301]
+		}, -- [268]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Thing From Beyond has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6666,7 +5940,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734679,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [302]
+		}, -- [269]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6688,7 +5962,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734701,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [303]
+		}, -- [270]
 		{
 			" Taunted Head Machinist Sparkflux! Taunted Head Machinist Sparkflux! Taunted Head Machinist Sparkflux!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6710,7 +5984,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734718,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [304]
+		}, -- [271]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6732,7 +6006,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734733,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [305]
+		}, -- [272]
 		{
 			" Taunted Spider Tank! Taunted Spider Tank! Taunted Spider Tank!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6754,7 +6028,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734742,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [306]
+		}, -- [273]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6776,7 +6050,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734745,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [307]
+		}, -- [274]
 		{
 			" Taunted Spider Tank! Taunted Spider Tank! Taunted Spider Tank!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6798,7 +6072,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734750,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [308]
+		}, -- [275]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6820,7 +6094,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734759,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [309]
+		}, -- [276]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6842,7 +6116,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734759,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [310]
+		}, -- [277]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6864,7 +6138,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [311]
+		}, -- [278]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6886,7 +6160,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [312]
+		}, -- [279]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6908,7 +6182,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [313]
+		}, -- [280]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6930,7 +6204,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [314]
+		}, -- [281]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6952,7 +6226,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [315]
+		}, -- [282]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6974,7 +6248,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [316]
+		}, -- [283]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Mechagon Tinkerer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6996,7 +6270,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [317]
+		}, -- [284]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Mechagon Tinkerer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7018,7 +6292,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734812,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [318]
+		}, -- [285]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7040,7 +6314,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734816,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [319]
+		}, -- [286]
 		{
 			"DX", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7062,7 +6336,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1583734819,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [320]
+		}, -- [287]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7084,7 +6358,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734822,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [321]
+		}, -- [288]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7106,7 +6380,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [322]
+		}, -- [289]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7128,7 +6402,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734825,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [323]
+		}, -- [290]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7150,7 +6424,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734825,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [324]
+		}, -- [291]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7172,7 +6446,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734827,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [325]
+		}, -- [292]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7194,7 +6468,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734827,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [326]
+		}, -- [293]
 		{
 			"alts r so troublesome", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7216,7 +6490,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1583734831,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [327]
+		}, -- [294]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7238,7 +6512,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734832,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [328]
+		}, -- [295]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7260,7 +6534,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734832,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [329]
+		}, -- [296]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7282,7 +6556,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734832,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [330]
+		}, -- [297]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7304,7 +6578,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734832,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [331]
+		}, -- [298]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7326,7 +6600,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734832,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [332]
+		}, -- [299]
 		{
 			" Taunted Defense Bot Mk I! Taunted Defense Bot Mk I! Taunted Defense Bot Mk I!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7348,7 +6622,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734838,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [333]
+		}, -- [300]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7370,7 +6644,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734842,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [334]
+		}, -- [301]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7392,7 +6666,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734842,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [335]
+		}, -- [302]
 		{
 			"lol", -- [1]
 			"Shapers-Kil'jaeden", -- [2]
@@ -7414,7 +6688,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Shapers|r",
 			[51] = 1583734845,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [336]
+		}, -- [303]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7436,7 +6710,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734850,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [337]
+		}, -- [304]
 		{
 			" Taunted Blood of the Corruptor! Taunted Blood of the Corruptor! Taunted Blood of the Corruptor!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7458,7 +6732,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734865,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [338]
+		}, -- [305]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7480,7 +6754,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [339]
+		}, -- [306]
 		{
 			"but it'll pay off later", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7502,7 +6776,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1583734910,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [340]
+		}, -- [307]
 		{
 			"():", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7524,7 +6798,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1583734921,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [341]
+		}, -- [308]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7546,7 +6820,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734931,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [342]
+		}, -- [309]
 		{
 			" Taunted Spider Tank! Taunted Spider Tank! Taunted Spider Tank!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7568,7 +6842,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583734952,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [343]
+		}, -- [310]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7590,7 +6864,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583734978,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [344]
+		}, -- [311]
 		{
 			" Taunted Mechagon Tinkerer! Taunted Mechagon Tinkerer! Taunted Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7612,7 +6886,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735017,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [345]
+		}, -- [312]
 		{
 			" Taunted Mechagon Tinkerer! Taunted Mechagon Tinkerer! Taunted Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7634,7 +6908,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735025,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [346]
+		}, -- [313]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7656,7 +6930,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735027,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [347]
+		}, -- [314]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7678,7 +6952,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735031,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [348]
+		}, -- [315]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7700,7 +6974,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735031,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [349]
+		}, -- [316]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Mechagon Tinkerer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7722,7 +6996,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735038,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [350]
+		}, -- [317]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Mechagon Tinkerer has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7744,7 +7018,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735038,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [351]
+		}, -- [318]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7766,7 +7040,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [352]
+		}, -- [319]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7788,7 +7062,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735047,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [353]
+		}, -- [320]
 		{
 			"Interrupted Mechagon Tinkerer's |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7810,7 +7084,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735047,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [354]
+		}, -- [321]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7832,7 +7106,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [355]
+		}, -- [322]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7854,7 +7128,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735049,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [356]
+		}, -- [323]
 		{
 			" Taunted Defense Bot Mk III! Taunted Defense Bot Mk III! Taunted Defense Bot Mk III!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7876,7 +7150,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [357]
+		}, -- [324]
 		{
 			" Taunted Defense Bot Mk III! Taunted Defense Bot Mk III! Taunted Defense Bot Mk III!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7898,7 +7172,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735053,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [358]
+		}, -- [325]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7920,7 +7194,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735059,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [359]
+		}, -- [326]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7942,7 +7216,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735059,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [360]
+		}, -- [327]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -7964,7 +7238,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [361]
+		}, -- [328]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -7986,7 +7260,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735098,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [362]
+		}, -- [329]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8008,7 +7282,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735100,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [363]
+		}, -- [330]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8030,7 +7304,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735100,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [364]
+		}, -- [331]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8052,7 +7326,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735110,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [365]
+		}, -- [332]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8074,7 +7348,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735116,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [366]
+		}, -- [333]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8096,7 +7370,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735124,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [367]
+		}, -- [334]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8118,7 +7392,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735136,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [368]
+		}, -- [335]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8140,7 +7414,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735136,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [369]
+		}, -- [336]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8162,7 +7436,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [370]
+		}, -- [337]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8184,7 +7458,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735154,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [371]
+		}, -- [338]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8206,7 +7480,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735156,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [372]
+		}, -- [339]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8228,7 +7502,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735156,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [373]
+		}, -- [340]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8250,7 +7524,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735177,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [374]
+		}, -- [341]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8272,7 +7546,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735177,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [375]
+		}, -- [342]
 		{
 			" Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8294,7 +7568,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735188,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [376]
+		}, -- [343]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8316,7 +7590,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [377]
+		}, -- [344]
 		{
 			" Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8338,7 +7612,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735239,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [378]
+		}, -- [345]
 		{
 			" Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X! Taunted Aerial Unit R-21/X!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8360,7 +7634,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735239,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [379]
+		}, -- [346]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8382,7 +7656,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [380]
+		}, -- [347]
 		{
 			"Giga-Zap on Peace", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8404,7 +7678,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735247,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [381]
+		}, -- [348]
 		{
 			" Taunted Omega Buster! Taunted Omega Buster! Taunted Omega Buster!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8426,7 +7700,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735262,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [382]
+		}, -- [349]
 		{
 			"Giga-Zap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8448,7 +7722,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583735270,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [383]
+		}, -- [350]
 		{
 			"Giga-Zap on Peace", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8470,7 +7744,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735274,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [384]
+		}, -- [351]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8492,7 +7766,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [385]
+		}, -- [352]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8514,7 +7788,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735276,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [386]
+		}, -- [353]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8536,7 +7810,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735277,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [387]
+		}, -- [354]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8558,7 +7832,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735277,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [388]
+		}, -- [355]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8580,7 +7854,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735290,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [389]
+		}, -- [356]
 		{
 			"Giga-Zap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8602,7 +7876,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583735304,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [390]
+		}, -- [357]
 		{
 			"Giga-Zap on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8624,7 +7898,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583735311,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [391]
+		}, -- [358]
 		{
 			" Taunted King Mechagon! Taunted King Mechagon! Taunted King Mechagon!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8646,7 +7920,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735338,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [392]
+		}, -- [359]
 		{
 			"|cffa335ee|Hitem:157965::::::::120:72::28:7:4803:6578:6579:6554:6515:1637:4786:::|h[Dunecrawler Waistguard]|h|r|cffa335ee|Hitem:173470::::::::120:72::30:9:6412:4803:40:6515:6578:6579:6554:1477:4786:::|h[Malignant Leviathan's Legguards]|h|r", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8668,7 +7942,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1583735631,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [393]
+		}, -- [360]
 		{
 			"brb", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -8690,7 +7964,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583735632,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [394]
+		}, -- [361]
 		{
 			"|cffa335ee|Hitem:159650:5965:::::::120:72::35:7:6530:6578:6579:6537:6513:1642:4786:::|h[Dismembered Submersible Claw]|h|r|cffa335ee|Hitem:174956::::::::120:72::28:5:6540:6578:6579:4803:6515:::|h[Malignant Leviathan's Armguards]|h|r", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8712,7 +7986,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1583735654,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [395]
+		}, -- [362]
 		{
 			"|cffa335ee|Hitem:159413:5932:::::::120:72::35:8:5006:6578:6579:6438:6462:6515:1627:4786:::|h[Gauntlets of the Avian Sentinel]|h|r", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8734,7 +8008,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1583735656,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [396]
+		}, -- [363]
 		{
 			"di dwe want to do", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8756,7 +8030,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735682,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [397]
+		}, -- [364]
 		{
 			"im down", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -8778,7 +8052,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735687,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [398]
+		}, -- [365]
 		{
 			"|cffa335ee|Hkeystone:158923:244:19:10:5:14:120|h[Keystone: Atal'Dazar (19)]|h|r", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8800,7 +8074,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735688,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [399]
+		}, -- [366]
 		{
 			"hi oreo", -- [1]
 			"Scizilla-Kil'jaeden", -- [2]
@@ -8822,7 +8096,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla|r",
 			[51] = 1583735693,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [400]
+		}, -- [367]
 		{
 			"i have time for 1 omre before bed", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8844,7 +8118,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735698,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [401]
+		}, -- [368]
 		{
 			"and all ineed this week is  ahigh key", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8866,7 +8140,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735702,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [402]
+		}, -- [369]
 		{
 			"|cffa335ee|Hitem:167743::::::::120:102::13::::|h[Silas' Potion of Prosperity]|h|r if anyone needs", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -8888,7 +8162,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1583735704,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [403]
+		}, -- [370]
 		{
 			"only 10 mins till CD", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
@@ -8910,7 +8184,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Morepheous|r",
 			[51] = 1583735725,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [404]
+		}, -- [371]
 		{
 			"C:", -- [1]
 			"Scizilla-Kil'jaeden", -- [2]
@@ -8932,7 +8206,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla|r",
 			[51] = 1583735795,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [405]
+		}, -- [372]
 		{
 			"it's pretty fun", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8954,7 +8228,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735812,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [406]
+		}, -- [373]
 		{
 			"xd", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8976,7 +8250,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583735813,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [407]
+		}, -- [374]
 		{
 			"im at the stone", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8998,7 +8272,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583735982,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [408]
+		}, -- [375]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14193:Player-9-0B53C813:1:3:8:20:4294967295:4294967295:4294967295:4294967295|h[Vision of Destiny]|h|r!", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -9020,7 +8294,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1583735983,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [409]
+		}, -- [376]
 		{
 			"ok", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -9042,7 +8316,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [410]
+		}, -- [377]
 		{
 			"just making pots", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -9064,7 +8338,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583735990,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [411]
+		}, -- [378]
 		{
 			"xd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -9086,7 +8360,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1583736120,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [412]
+		}, -- [379]
 		{
 			"3 more T_T", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -9108,7 +8382,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1583736130,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [413]
+		}, -- [380]
 		{
 			"oh man", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9130,7 +8404,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583736144,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [414]
+		}, -- [381]
 		{
 			"atal dazer", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9152,7 +8426,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583736147,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [415]
+		}, -- [382]
 		{
 			"with no kicks", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9174,7 +8448,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583736150,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [416]
+		}, -- [383]
 		{
 			"monkaOMEGA", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9196,7 +8470,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583736152,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [417]
+		}, -- [384]
 		{
 			"toeshaman worth?", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -9218,7 +8492,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583736172,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [418]
+		}, -- [385]
 		{
 			"oh", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9240,7 +8514,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583736190,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [419]
+		}, -- [386]
 		{
 			"prolly", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9262,7 +8536,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583736191,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [420]
+		}, -- [387]
 		{
 			"yeah", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9284,7 +8558,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583736192,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [421]
+		}, -- [388]
 		{
 			"oh oops", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9306,7 +8580,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583736210,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [422]
+		}, -- [389]
 		{
 			"didnt see", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9328,7 +8602,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583736211,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [423]
+		}, -- [390]
 		{
 			"tfw I'm out of |cff0070dd|Hitem:162460::::::::120:267::::::|h[Hydrocore]|h|r and need them for selling bags lol", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9350,7 +8624,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583773429,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [424]
+		}, -- [391]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1157:Player-9-0B9DB906:1:3:9:20:4294967295:4294967295:4294967295:4294967295|h[Duel-icious]|h|r!", -- [1]
 			"Flàmecannønx-Kil'jaeden", -- [2]
@@ -9372,7 +8646,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Flàmecannønx|r",
 			[51] = 1583814317,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [425]
+		}, -- [392]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9394,7 +8668,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583814463,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [426]
+		}, -- [393]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9909:Player-9-0B60C80F:1:3:9:20:4294967295:4294967295:4294967295:4294967295|h[Heirloom Hoarder]|h|r!", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9416,7 +8690,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1583814594,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [427]
+		}, -- [394]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9909:Player-9-0B9F1ECA:1:3:9:20:4294967295:4294967295:4294967295:4294967295|h[Heirloom Hoarder]|h|r!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -9438,7 +8712,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1583814594,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [428]
+		}, -- [395]
 		{
 			"Gratz", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -9460,7 +8734,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1583814603,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [429]
+		}, -- [396]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9482,7 +8756,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583814633,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [430]
+		}, -- [397]
 		{
 			"anyone need |cffa335ee|Hitem:167743::::::::120:267::13::::|h[Silas' Potion of Prosperity]|h|r?", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9504,7 +8778,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583814666,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [431]
+		}, -- [398]
 		{
 			"hmm  maybe whats zinanthid at", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -9526,7 +8800,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583814680,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [432]
+		}, -- [399]
 		{
 			"53 afaik", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9548,7 +8822,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583814691,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [433]
+		}, -- [400]
 		{
 			"yeah 53, anchor at 90", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9570,7 +8844,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583814713,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [434]
+		}, -- [401]
 		{
 			"i have it for 11 more mins if so", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9592,7 +8866,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583814726,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [435]
+		}, -- [402]
 		{
 			"hmmm idk", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -9614,7 +8888,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1583814751,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [436]
+		}, -- [403]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9636,7 +8910,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583814781,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [437]
+		}, -- [404]
 		{
 			"|cffffd000|Htrade:Player-9-0AE5ED9C:2259:171|h[Alchemy]|h|r", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -9658,7 +8932,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1583814789,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [438]
+		}, -- [405]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9680,7 +8954,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583814929,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [439]
+		}, -- [406]
 		{
 			"<Disambiguation>  6/12M Ny'alotha is recruiting for continued Mythic progression. Primary need is for ranged DPS (Mages, Warlocks and Hunters). Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
 			"Alexithymìa-Kil'jaeden", -- [2]
@@ -9702,7 +8976,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexithymìa|r",
 			[51] = 1583815002,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [440]
+		}, -- [407]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9724,7 +8998,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583815084,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [441]
+		}, -- [408]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9746,7 +9020,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583815228,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [442]
+		}, -- [409]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9768,7 +9042,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583815405,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [443]
+		}, -- [410]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9790,7 +9064,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583815554,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [444]
+		}, -- [411]
 		{
 			"<Disambiguation>  6/12M Ny'alotha is recruiting for continued Mythic progression. Primary need is for ranged DPS (Mages, Warlocks and Hunters). Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
 			"Alexithymìa-Kil'jaeden", -- [2]
@@ -9812,7 +9086,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexithymìa|r",
 			[51] = 1583815597,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [445]
+		}, -- [412]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -9834,7 +9108,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583815706,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [446]
+		}, -- [413]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9856,7 +9130,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583815728,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [447]
+		}, -- [414]
 		{
 			"Selling Mythic +10 +15  Carry  & Mechagon HM (MOUNT 100% drop) for Gold PST for more Info! ", -- [1]
 			"Hyakimaru-Kil'jaeden", -- [2]
@@ -9878,7 +9152,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyakimaru|r",
 			[51] = 1583815855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [448]
+		}, -- [415]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -9900,7 +9174,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583815907,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [449]
+		}, -- [416]
 		{
 			"Selling Mythic +10 +15  Carry  & Mechagon HM (MOUNT 100% drop) for Gold PST for more Info! ", -- [1]
 			"Hyakimaru-Kil'jaeden", -- [2]
@@ -9922,7 +9196,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyakimaru|r",
 			[51] = 1583815916,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [450]
+		}, -- [417]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -9944,7 +9218,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583815994,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [451]
+		}, -- [418]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -9966,7 +9240,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583816077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [452]
+		}, -- [419]
 		{
 			"MONDAY SALEEEE! +10-17 (Timed/Untimed), Starting at 125k to 750k. all tradable loots will be yours, ALL ARMOR TYPE STACK and SPECIFIC DUNGEON is also available, and VISION Carry GET YOUR M+ DONE BEFORE RESET. GOLD ONLY, PST NOW!", -- [1]
 			"Braÿle-Kil'jaeden", -- [2]
@@ -9988,7 +9262,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Braÿle|r",
 			[51] = 1583816096,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [453]
+		}, -- [420]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Bosses Spam Ny'alotha<< starting at 10:00PM EST with World First <Complexity Limit>! Going EVERY 30 minutes. Guaranteed [Uncorrupted Voidwing] mount included as well. GOLD ONLY.", -- [1]
 			"Ecnersales-Kil'jaeden", -- [2]
@@ -10010,7 +9284,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEcnersales|r",
 			[51] = 1583816221,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [454]
+		}, -- [421]
 		{
 			"WTS MONDAY M+ SPECIALS! M+10-19s, run by 2.7k+ io players. Optionals include discounted loot stack/specific key selection for an additional fee. Buy 2x M+10-15 keys, get armor stack FREE! Gold only.", -- [1]
 			"Arcsales-Kil'jaeden", -- [2]
@@ -10032,7 +9306,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arcsales|r",
 			[51] = 1583816254,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [455]
+		}, -- [422]
 		{
 			"anyone", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10054,7 +9328,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816276,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [456]
+		}, -- [423]
 		{
 			"for a 15", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10076,7 +9350,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816279,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [457]
+		}, -- [424]
 		{
 			"hehe", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10098,7 +9372,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816283,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [458]
+		}, -- [425]
 		{
 			"who sitll needs?", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -10120,7 +9394,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1583816290,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [459]
+		}, -- [426]
 		{
 			"whirlwind", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10142,7 +9416,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816307,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [460]
+		}, -- [427]
 		{
 			"hehe", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10164,7 +9438,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816341,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [461]
+		}, -- [428]
 		{
 			"anyone else", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10186,7 +9460,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816346,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [462]
+		}, -- [429]
 		{
 			"i'll heal it inv", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10208,7 +9482,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816347,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [463]
+		}, -- [430]
 		{
 			"15", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10230,7 +9504,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816347,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [464]
+		}, -- [431]
 		{
 			"i can drop my", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10252,7 +9526,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816355,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [465]
+		}, -- [432]
 		{
 			"|cffa335ee|Hkeystone:158923:248:18:10:5:14:120|h[Keystone: Waycrest Manor (18)]|h|r", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10274,7 +9548,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816358,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [466]
+		}, -- [433]
 		{
 			"anyone for a freehold?", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10296,7 +9570,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816401,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [467]
+		}, -- [434]
 		{
 			"c:", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10318,7 +9592,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816403,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [468]
+		}, -- [435]
 		{
 			"freehold", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10340,7 +9614,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816443,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [469]
+		}, -- [436]
 		{
 			"anytone", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10362,7 +9636,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816444,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [470]
+		}, -- [437]
 		{
 			"oh", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10384,7 +9658,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816478,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [471]
+		}, -- [438]
 		{
 			"after this dg", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10406,7 +9680,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816480,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [472]
+		}, -- [439]
 		{
 			"im in", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10428,7 +9702,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816481,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [473]
+		}, -- [440]
 		{
 			"dg?", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10450,7 +9724,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816486,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [474]
+		}, -- [441]
 		{
 			"dungeon", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10472,7 +9746,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816488,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [475]
+		}, -- [442]
 		{
 			"m0", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10494,7 +9768,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816488,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [476]
+		}, -- [443]
 		{
 			"oh", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10516,7 +9790,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816489,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [477]
+		}, -- [444]
 		{
 			"wow", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10538,7 +9812,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816490,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [478]
+		}, -- [445]
 		{
 			"poggers", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10560,7 +9834,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583816492,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [479]
+		}, -- [446]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10582,7 +9856,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583816514,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [480]
+		}, -- [447]
 		{
 			"5 mins", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10604,7 +9878,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816521,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [481]
+		}, -- [448]
 		{
 			"or you can inv others", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10626,7 +9900,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1583816525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [482]
+		}, -- [449]
 		{
 			"yeah", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10648,7 +9922,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816536,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [483]
+		}, -- [450]
 		{
 			"np", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10670,7 +9944,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816536,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [484]
+		}, -- [451]
 		{
 			"i'll find one ", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10692,7 +9966,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816540,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [485]
+		}, -- [452]
 		{
 			"and wait", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -10714,7 +9988,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1583816541,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [486]
+		}, -- [453]
 		{
 			"i can go on this ", -- [1]
 			"Scaarr-Kil'jaeden", -- [2]
@@ -10736,7 +10010,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Scaarr|r",
 			[51] = 1583816554,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [487]
+		}, -- [454]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10758,7 +10032,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583816647,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [488]
+		}, -- [455]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10780,7 +10054,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583816847,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [489]
+		}, -- [456]
 		{
 			"<Disambiguation>  6/12M Ny'alotha is recruiting for continued Mythic progression. Primary need is for ranged DPS (Mages, Warlocks and Hunters). Raids T/W/Th from 9-12 server. PST with questions and interest!", -- [1]
 			"Alexithymìa-Kil'jaeden", -- [2]
@@ -10802,7 +10076,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Alexithymìa|r",
 			[51] = 1583816859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [490]
+		}, -- [457]
 		{
 			"WTS +10-20 Keys In Time, Specific Key and Armor Stack available. All tradeable gear goes to you. Also selling, Operation Mechagon (Hardmode). GOLD ONLY! Pst for pricing!", -- [1]
 			"Vashdakari-Kil'jaeden", -- [2]
@@ -10824,7 +10098,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Vashdakari|r",
 			[51] = 1583816863,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [491]
+		}, -- [458]
 		{
 			"cj", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -10846,7 +10120,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583816865,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [492]
+		}, -- [459]
 		{
 			"what u doing", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -10868,7 +10142,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1583816866,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [493]
+		}, -- [460]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10890,7 +10164,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583816900,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [494]
+		}, -- [461]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10912,7 +10186,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583817005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [495]
+		}, -- [462]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10934,7 +10208,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583817147,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [496]
+		}, -- [463]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10956,7 +10230,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583817174,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [497]
+		}, -- [464]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -10978,7 +10252,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1583817448,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [498]
+		}, -- [465]
 		{
 			"afk", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -11000,6 +10274,732 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1583819286,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [466]
+		{
+			"let me know when you're ready", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			840, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898517,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [467]
+		{
+			"cj", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			841, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898518,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [468]
+		{
+			"wtf", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			842, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898606,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [469]
+		{
+			"they added a portal", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			843, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898608,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [470]
+		{
+			"after the assault", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			844, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898611,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [471]
+		{
+			"thank god", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			845, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898612,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [472]
+		{
+			"yep!", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			846, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1583898612,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [473]
+		{
+			"bah just be a mage and just port yourself back out", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			848, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1583898673,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [474]
+		{
+			"wtb all your |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r pst", -- [1]
+			"Shenanìganz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shenanìganz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			851, -- [11]
+			"Player-9-06F0D12C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeShenanìganz|r",
+			[51] = 1583898701,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [475]
+		{
+			".", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			856, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1583898748,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [476]
+		{
+			"wtb all your |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r pst", -- [1]
+			"Shenanìganz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shenanìganz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			865, -- [11]
+			"Player-9-06F0D12C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeShenanìganz|r",
+			[51] = 1583898976,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [477]
+		{
+			"barbados lets just go", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			869, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899180,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [478]
+		{
+			"CJ is so slow", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			870, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899183,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [479]
+		{
+			"wat", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			871, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899205,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [480]
+		{
+			"wtb all your |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r pst", -- [1]
+			"Shenanìganz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shenanìganz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			875, -- [11]
+			"Player-9-06F0D12C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeShenanìganz|r",
+			[51] = 1583899355,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [481]
+		{
+			"15 workshop", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			876, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899367,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [482]
+		{
+			"anyone", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			877, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899369,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [483]
+		{
+			"C:", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			878, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899369,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [484]
+		{
+			"so far me yuki cada", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			879, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899376,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [485]
+		{
+			"|cffa335ee|Hitem:174141::::::::120:268::5:8:4823:6578:6579:6473:6470:6513:1502:4786:::|h[Boots of Manifest Shadow]|h|r|cffa335ee|Hitem:174145::::::::120:268::5:8:4823:6578:6579:6472:6462:6515:1502:4786:::|h[Wristwraps of Volatile Power]|h|r", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			880, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1583899511,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [486]
+		{
+			"<Mind Your Manas> is looking for new members!  We're a casual & social guild looking to grow our ranks! We are looking for members both new and experienced, and  into all aspects of the game: Mythics, PvP, Levelling, Social, Raiding, etc! PST to join!", -- [1]
+			"Maristela-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Maristela-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			883, -- [11]
+			"Player-9-0B5F1735", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Maristela|r",
+			[51] = 1583899609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [487]
+		{
+			"DELPI", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			886, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899631,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [488]
+		{
+			"wot u get in cache", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			887, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899635,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [489]
+		{
+			"i got shit :D", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			888, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899646,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [490]
+		{
+			"wtb all your |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r pst", -- [1]
+			"Shenanìganz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shenanìganz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			890, -- [11]
+			"Player-9-06F0D12C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeShenanìganz|r",
+			[51] = 1583899653,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [491]
+		{
+			"yuki", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			891, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1583899718,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [492]
+		{
+			"|cffa335ee|Hitem:159255::::::::120:63::35:8:6536:6578:6579:6477:6455:6513:1647:4786:::|h[Ouroborial Sash]|h|r PepeHands", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			892, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1583899724,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [493]
+		{
+			"yikes", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			893, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899736,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [494]
+		{
+			"i got inef truth", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			894, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899742,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [495]
+		{
+			"so i purify it", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			895, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1583899748,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [496]
+		{
+			"yeah", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			896, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1583899763,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [497]
+		{
+			"<Mind Your Manas> is looking for new members!  We're a casual & social guild looking to grow our ranks! We are looking for members both new and experienced, and  into all aspects of the game: Mythics, PvP, Levelling, Social, Raiding, etc! PST to join!", -- [1]
+			"Maristela-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Maristela-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			904, -- [11]
+			"Player-9-0B5F1735", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Maristela|r",
+			[51] = 1583900234,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [498]
+		{
+			"wtb all your |cffffffff|Hitem:152576::::::::111:258::::::|h[Tidespray Linen]|h|r pst", -- [1]
+			"Shenanìganz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shenanìganz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			907, -- [11]
+			"Player-9-06F0D12C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeShenanìganz|r",
+			[51] = 1583900511,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [499]
 	},
 }

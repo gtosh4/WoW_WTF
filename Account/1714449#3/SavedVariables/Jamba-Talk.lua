@@ -8,9 +8,9 @@ JambaTalkProfileDB = {
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-		},
 		["Default"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
