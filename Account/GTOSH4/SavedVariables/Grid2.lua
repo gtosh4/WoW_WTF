@@ -110,7 +110,7 @@ Grid2DB = {
 							["anchor"] = "TOPLEFT",
 							["BackgroundG"] = 0.1019607843137255,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -596.3075807254208,
+							["PosY"] = -592.0400199206342,
 							["FrameLock"] = true,
 							["clamp"] = true,
 							["BackgroundA"] = 0.7700000107288361,
@@ -322,6 +322,13 @@ Grid2DB = {
 					["lastSelectedModule"] = "Battle for Azeroth",
 					["debuffs"] = {
 						[1180] = {
+							["Drest'agath"] = {
+								310499, -- [1]
+								310361, -- [2]
+								310563, -- [3]
+								["order"] = 7,
+								["ejid"] = 2373,
+							},
 							["The Prophet Skitra"] = {
 								307784, -- [1]
 								307785, -- [2]
@@ -339,12 +346,10 @@ Grid2DB = {
 								["order"] = 8,
 								["ejid"] = 2374,
 							},
-							["Drest'agath"] = {
-								310499, -- [1]
-								310361, -- [2]
-								310563, -- [3]
-								["order"] = 7,
-								["ejid"] = 2373,
+							["Carapace of N'Zoth"] = {
+								313364, -- [1]
+								["order"] = 11,
+								["ejid"] = 2366,
 							},
 							["Maut"] = {
 								314337, -- [1]
@@ -658,14 +663,14 @@ Grid2DB = {
 					["mouseoverColor"] = {
 						["a"] = 0.200000047683716,
 					},
-					["mouseoverHighlight"] = true,
 					["orientation"] = "HORIZONTAL",
-					["frameWidth"] = 100,
 					["frameContentColor"] = {
 						["b"] = 0.1019607843137255,
 						["g"] = 0.1019607843137255,
 						["r"] = 0.1019607843137255,
 					},
+					["frameWidth"] = 100,
+					["mouseoverHighlight"] = true,
 				},
 				["Tosh - Kil'jaeden"] = {
 					["fontSize"] = 12,
@@ -6468,6 +6473,7 @@ Grid2DB = {
 							307260, -- [17]
 							313461, -- [18]
 							306311, -- [19]
+							313364, -- [20]
 						},
 					},
 				},

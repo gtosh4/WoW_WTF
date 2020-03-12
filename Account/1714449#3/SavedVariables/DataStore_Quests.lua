@@ -32,17 +32,21 @@ DataStore_QuestsDB = {
 				},
 				["HistoryBuild"] = "33169",
 				["HistorySize"] = 1477,
-				["Rewards"] = {
-					"r|157830|1|1", -- [1]
-					"r|157829|1|1", -- [2]
-					nil, -- [3]
-					"r|169610|1|1", -- [4]
-					"r|168850|1|1", -- [5]
-					[11] = "r|163857|1|1",
-					[13] = "r|169765|1|1,r|166883|1|1",
-					[15] = "c|168442|1|1,c|168920|1|1,c|168578|1|1",
-					[10] = "r|157822|1|1",
-					[12] = "r|152510|10|1",
+				["QuestHeaders"] = {
+					"Broken Shore", -- [1]
+					"Krokuun", -- [2]
+					"Mechagon", -- [3]
+					"Nazjatar", -- [4]
+					"Nazmir", -- [5]
+					"Silithus: The Wound", -- [6]
+					"Stormsong Valley", -- [7]
+					"Val'sharah", -- [8]
+					"Vol'dun", -- [9]
+					"Zuldazar", -- [10]
+					"Missing header! (quest designers)", -- [11]
+					"Battlegrounds", -- [12]
+					"Black Empire Campaign", -- [13]
+					"Rated PvP", -- [14]
 				},
 				["QuestTags"] = {
 					128, -- [1]
@@ -331,35 +335,35 @@ DataStore_QuestsDB = {
 					[1054] = 2048,
 					[1712] = 67239936,
 					[1251] = 768,
-					[1714] = 805306368,
-					[1250] = 917504,
 					[1203] = 131072,
+					[1250] = 917504,
+					[1714] = 805306368,
 					[986] = 4026531841,
-					[988] = 1022,
+					[1463] = 2487297,
 					[1460] = 536870912,
 					[432] = 32768,
-					[1461] = 29696,
+					[987] = 4294901787,
 					[1717] = 469894144,
 					[1462] = 7348224,
 					[1718] = 3260416,
-					[1463] = 2487297,
+					[988] = 1022,
 					[1719] = 10485760,
 					[1464] = 1333854208,
 					[1720] = 4194304,
-					[1726] = 3072,
+					[1215] = 16384,
 					[1721] = 1082158976,
 					[1475] = 1048576,
 					[1722] = 558892292,
 					[1467] = 76529664,
-					[1723] = 2148532224,
+					[1212] = 268435456,
 					[1468] = 8192,
 					[1724] = 131072,
 					[1469] = 2030043136,
 					[867] = 64,
 					[1470] = 252928,
-					[1215] = 16384,
+					[1726] = 3072,
 					[995] = 31449840,
-					[1727] = 805306368,
+					[1216] = 16512,
 					[1472] = 2147483648,
 					[1734] = 50340352,
 					[1473] = 67108866,
@@ -424,11 +428,11 @@ DataStore_QuestsDB = {
 					[1758] = 33527808,
 					[1503] = 872415232,
 					[1759] = 2048,
-					[1216] = 16512,
+					[1727] = 805306368,
 					[1760] = 2504065025,
-					[1212] = 268435456,
+					[1723] = 2148532224,
 					[1761] = 3154116867,
-					[987] = 4294901787,
+					[1461] = 29696,
 					[1762] = 134217734,
 					[1507] = 2944,
 					[1662] = 592642817,
@@ -444,23 +448,19 @@ DataStore_QuestsDB = {
 					[1768] = 134283264,
 					[1258] = 20480,
 				},
-				["QuestHeaders"] = {
-					"Broken Shore", -- [1]
-					"Krokuun", -- [2]
-					"Mechagon", -- [3]
-					"Nazjatar", -- [4]
-					"Nazmir", -- [5]
-					"Silithus: The Wound", -- [6]
-					"Stormsong Valley", -- [7]
-					"Val'sharah", -- [8]
-					"Vol'dun", -- [9]
-					"Zuldazar", -- [10]
-					"Missing header! (quest designers)", -- [11]
-					"Battlegrounds", -- [12]
-					"Black Empire Campaign", -- [13]
-					"Rated PvP", -- [14]
-				},
 				["lastUpdate"] = 1580712114,
+				["Rewards"] = {
+					"r|157830|1|1", -- [1]
+					"r|157829|1|1", -- [2]
+					nil, -- [3]
+					"r|169610|1|1", -- [4]
+					"r|168850|1|1", -- [5]
+					[11] = "r|163857|1|1",
+					[13] = "r|169765|1|1,r|166883|1|1",
+					[15] = "c|168442|1|1,c|168920|1|1,c|168578|1|1",
+					[10] = "r|157822|1|1",
+					[12] = "r|152510|10|1",
+				},
 				["Money"] = {
 					0, -- [1]
 					0, -- [2]
@@ -509,23 +509,23 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["HistoryLastUpdate"] = 1583860032,
+				["HistoryLastUpdate"] = 1583997002,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:54100:-1:120:120:0|h[A Way Out]|h|r", -- [1]
 					"|cff40c040|Hquest:48641:110:110:255:0|h[Armies of Legionfall]|h|r", -- [2]
-					"|cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - The Mechoriginator]|h|r", -- [3]
-					"|cffffff00|Hquest:55696:-1:120:120:0|h[Test Drive]|h|r", -- [4]
-					"|cffffff00|Hquest:56120:-1:120:120:0|h[The Unshackled]|h|r", -- [5]
-					"|cffffff00|Hquest:55799:-1:120:120:0|h[The Tide Turns]|h|r", -- [6]
-					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [7]
-					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [8]
+					"|cff40c040|Hquest:48639:110:110:255:0|h[Army of the Light]|h|r", -- [3]
+					"|cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - The Mechoriginator]|h|r", -- [4]
+					"|cffffff00|Hquest:55696:-1:120:120:0|h[Test Drive]|h|r", -- [5]
+					"|cffffff00|Hquest:56120:-1:120:120:0|h[The Unshackled]|h|r", -- [6]
+					"|cffffff00|Hquest:55799:-1:120:120:0|h[The Tide Turns]|h|r", -- [7]
+					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [8]
 					"|cffffff00|Hquest:58373:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [9]
-					"|cffffff00|Hquest:50562:-1:120:120:0|h[Champions of Azeroth]|h|r", -- [10]
+					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [10]
 					"|cff40c040|Hquest:42234:110:110:255:0|h[The Valarjar]|h|r", -- [11]
-					"|cff40c040|Hquest:42421:110:110:255:0|h[The Nightfallen]|h|r", -- [12]
-					"|cffffff00|Hquest:57562:-1:120:120:0|h[Amathet Assault Tracker]|h|r", -- [13]
-					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [14]
-					"|cffffff00|Hquest:52395:-1:120:120:0|h[Work Order: Contract: Zandalari Empire]|h|r", -- [15]
+					"|cffffff00|Hquest:57562:-1:120:120:0|h[Amathet Assault Tracker]|h|r", -- [12]
+					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [13]
+					"|cffffff00|Hquest:50598:-1:120:120:0|h[Zandalari Empire]|h|r", -- [14]
+					"|cffffff00|Hquest:49444:-1:120:120:0|h[Underfoot]|h|r", -- [15]
 					"|cffffff00|Hquest:53435:-1:110:120:0|h[Azerite for the Horde]|h|r", -- [16]
 					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [17]
 					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [18]
@@ -540,49 +540,34 @@ DataStore_QuestsDB = {
 					"|cffffff00|Hquest:57399:-1:120:120:0|h[Reconstructing \"The Final Truth\"]|h|r", -- [27]
 				},
 				["HistoryBuild"] = "33528",
-				["HistorySize"] = 1303,
-				["QuestHeaders"] = {
-					"Broken Shore", -- [1]
-					"Mechagon", -- [2]
-					"Nazjatar", -- [3]
-					"Nazmir", -- [4]
-					"Ny'alotha, the Waking City", -- [5]
-					"Silithus: The Wound", -- [6]
-					"Stormheim", -- [7]
-					"Suramar", -- [8]
-					"Uldum", -- [9]
-					"Vale of Eternal Blossoms", -- [10]
-					"Zuldazar", -- [11]
-					"Missing header! (quest designers)", -- [12]
-					"Ahn'Qiraj War", -- [13]
-					"Battlegrounds", -- [14]
-					"Crucible of Storms", -- [15]
-					"Heart of Azeroth", -- [16]
-					"Horde War Campaign", -- [17]
-					"Inscription", -- [18]
-					"Rated PvP", -- [19]
-					"Special", -- [20]
-					"Visions of N'Zoth", -- [21]
-				},
+				["HistorySize"] = 1319,
+				["lastUpdate"] = 1583996997,
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
-					81, -- [3]
-					nil, -- [4]
-					128, -- [5]
-					nil, -- [6]
-					128, -- [7]
-					62, -- [8]
+					128, -- [3]
+					81, -- [4]
+					nil, -- [5]
+					128, -- [6]
+					nil, -- [7]
+					128, -- [8]
 					62, -- [9]
-					128, -- [10]
+					62, -- [10]
 					128, -- [11]
-					128, -- [12]
+					270, -- [12]
 					270, -- [13]
-					270, -- [14]
-					126, -- [15]
+					128, -- [14]
+					109, -- [15]
 					261, -- [16]
 					256, -- [17]
-					[25] = 256,
+					nil, -- [18]
+					nil, -- [19]
+					nil, -- [20]
+					nil, -- [21]
+					nil, -- [22]
+					nil, -- [23]
+					nil, -- [24]
+					256, -- [25]
 				},
 				["History"] = {
 					[1513] = 262144,
@@ -657,8 +642,10 @@ DataStore_QuestsDB = {
 					[1303] = 1073741824,
 					[1559] = 536889344,
 					[1560] = 3221372929,
+					[1816] = 32,
 					[1561] = 1621529604,
 					[1562] = 268574777,
+					[1818] = 2048,
 					[1563] = 536870914,
 					[1564] = 553910272,
 					[1565] = 3556769793,
@@ -684,7 +671,7 @@ DataStore_QuestsDB = {
 					[1580] = 4197760,
 					[1836] = 131072,
 					[1581] = 514,
-					[1838] = 56360960,
+					[1838] = 2203844608,
 					[1583] = 131072,
 					[1584] = 1073873988,
 					[1840] = 268435456,
@@ -697,12 +684,13 @@ DataStore_QuestsDB = {
 					[1588] = 18874368,
 					[1844] = 17039360,
 					[1589] = 524288,
+					[1846] = 320,
 					[1591] = 262146,
 					[1592] = 6815746,
 					[1593] = 537395200,
 					[1849] = 32,
 					[1340] = 536870912,
-					[1596] = 518144,
+					[1596] = 516096,
 					[1341] = 8192,
 					[1597] = 536873088,
 					[1342] = 67108864,
@@ -712,6 +700,7 @@ DataStore_QuestsDB = {
 					[1604] = 64,
 					[1605] = 536875024,
 					[1606] = 24,
+					[1862] = 65504,
 					[1607] = 536903680,
 					[1608] = 1046528,
 					[1609] = 16896,
@@ -900,26 +889,39 @@ DataStore_QuestsDB = {
 					[1768] = 3355508737,
 					[790] = 131072,
 				},
-				["Rewards"] = {
-					[7] = "r|165865|1|1",
-					[2] = "r|157830|1|1",
-					[18] = "r|21436|10|0,r|21512|1|1",
-					[3] = "r|169610|1|1",
-					[12] = "r|157826|1|1",
-					[11] = "r|157824|1|1",
+				["QuestHeaders"] = {
+					"Broken Shore", -- [1]
+					"Krokuun", -- [2]
+					"Mechagon", -- [3]
+					"Nazjatar", -- [4]
+					"Nazmir", -- [5]
+					"Ny'alotha, the Waking City", -- [6]
+					"Stormheim", -- [7]
+					"Uldum", -- [8]
+					"Vale of Eternal Blossoms", -- [9]
+					"Zuldazar", -- [10]
+					"Missing header! (quest designers)", -- [11]
+					"Ahn'Qiraj War", -- [12]
+					"Battlegrounds", -- [13]
+					"Crucible of Storms", -- [14]
+					"Heart of Azeroth", -- [15]
+					"Horde War Campaign", -- [16]
+					"Inscription", -- [17]
+					"Rated PvP", -- [18]
+					"Special", -- [19]
+					"Visions of N'Zoth", -- [20]
 				},
-				["lastUpdate"] = 1583860895,
 				["Money"] = {
 					23400, -- [1]
 					0, -- [2]
-					936000, -- [3]
-					234000, -- [4]
-					0, -- [5]
-					702000, -- [6]
-					0, -- [7]
-					468000, -- [8]
+					0, -- [3]
+					936000, -- [4]
+					234000, -- [5]
+					0, -- [6]
+					702000, -- [7]
+					0, -- [8]
 					468000, -- [9]
-					0, -- [10]
+					468000, -- [10]
 					0, -- [11]
 					0, -- [12]
 					0, -- [13]
@@ -941,38 +943,38 @@ DataStore_QuestsDB = {
 				["Quests"] = {
 					7864384, -- [1]
 					7211112, -- [2]
-					7868480, -- [3]
-					7868480, -- [4]
-					7870568, -- [5]
-					7870528, -- [6]
-					7872616, -- [7]
-					7874624, -- [8]
-					7874624, -- [9]
-					7876712, -- [10]
+					7213160, -- [3]
+					7870528, -- [4]
+					7870528, -- [5]
+					7872616, -- [6]
+					7872576, -- [7]
+					7874664, -- [8]
+					7876672, -- [9]
+					7876672, -- [10]
 					7223400, -- [11]
-					7225448, -- [12]
+					7880800, -- [12]
 					7882848, -- [13]
-					7884896, -- [14]
-					7886948, -- [15]
-					7886944, -- [16]
-					7888992, -- [17]
-					3958848, -- [18]
-					7893056, -- [19]
-					7895104, -- [20]
-					7897152, -- [21]
-					7899200, -- [22]
-					7899200, -- [23]
-					7901248, -- [24]
-					7903328, -- [25]
-					106560, -- [26]
-					7907392, -- [27]
+					7884904, -- [14]
+					7884900, -- [15]
+					7884896, -- [16]
+					7886944, -- [17]
+					3956800, -- [18]
+					7891008, -- [19]
+					7893056, -- [20]
+					7895104, -- [21]
+					7897152, -- [22]
+					7897152, -- [23]
+					7899200, -- [24]
+					7901280, -- [25]
+					104512, -- [26]
+					7905344, -- [27]
 				},
 				["Emissaries"] = {
-					[50602] = "0|4|2739|0/4 Complete 4 world quests in Nazmir.",
-					[50562] = "0|4|1299|0/4 Complete 4 Azerite World Quest for Magni",
-					[42234] = "0|4|2740|0/4 Complete 4 world quests in Stormheim",
-					[48641] = "0|4|4180|0/4 Complete 4 world quests on the Broken Shore",
-					[42421] = "0|4|1300|0/4 Complete 4 world quests in Suramar",
+					[50602] = "0|4|0|0/4 Complete 4 world quests in Nazmir.",
+					[48639] = "0|4|0|0/4 Complete 4 Army of the Light World Quests",
+					[48641] = "0|4|0|0/4 Complete 4 world quests on the Broken Shore",
+					[50598] = "0|4|0|0/4 Complete 4 world quests in Zuldazar.",
+					[42234] = "0|4|0|0/4 Complete 4 world quests in Stormheim",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -1006,7 +1008,29 @@ DataStore_QuestsDB = {
 				},
 				["lastUpdate"] = 1583857400,
 				["HistorySize"] = 1239,
-				["HistoryBuild"] = "33528",
+				["QuestHeaders"] = {
+					"Broken Shore", -- [1]
+					"Dread Wastes", -- [2]
+					"Nazjatar", -- [3]
+					"Nazmir", -- [4]
+					"Ny'alotha, the Waking City", -- [5]
+					"Silithus: The Wound", -- [6]
+					"Stormheim", -- [7]
+					"Stormsong Valley", -- [8]
+					"Suramar", -- [9]
+					"Uldum", -- [10]
+					"Vale of Eternal Blossoms", -- [11]
+					"Zuldazar", -- [12]
+					"Missing header! (quest designers)", -- [13]
+					"Ahn'Qiraj War", -- [14]
+					"Battlegrounds", -- [15]
+					"Heart of Azeroth", -- [16]
+					"Island Expeditions", -- [17]
+					"Professions", -- [18]
+					"Rated PvP", -- [19]
+					"Special", -- [20]
+					"Visions of N'Zoth", -- [21]
+				},
 				["QuestTags"] = {
 					128, -- [1]
 					nil, -- [2]
@@ -1278,10 +1302,10 @@ DataStore_QuestsDB = {
 					[1486] = 1059110,
 					[1742] = 199098368,
 					[1487] = 2147516417,
-					[1489] = 2147516640,
+					[1001] = 512,
 					[1488] = 40974,
 					[1744] = 8388652,
-					[1001] = 512,
+					[1489] = 2147516640,
 					[1054] = 2048,
 					[1490] = 6144,
 					[1746] = 2143291392,
@@ -1331,29 +1355,6 @@ DataStore_QuestsDB = {
 					[1768] = 1208025113,
 					[1539] = 32768,
 				},
-				["QuestHeaders"] = {
-					"Broken Shore", -- [1]
-					"Dread Wastes", -- [2]
-					"Nazjatar", -- [3]
-					"Nazmir", -- [4]
-					"Ny'alotha, the Waking City", -- [5]
-					"Silithus: The Wound", -- [6]
-					"Stormheim", -- [7]
-					"Stormsong Valley", -- [8]
-					"Suramar", -- [9]
-					"Uldum", -- [10]
-					"Vale of Eternal Blossoms", -- [11]
-					"Zuldazar", -- [12]
-					"Missing header! (quest designers)", -- [13]
-					"Ahn'Qiraj War", -- [14]
-					"Battlegrounds", -- [15]
-					"Heart of Azeroth", -- [16]
-					"Island Expeditions", -- [17]
-					"Professions", -- [18]
-					"Rated PvP", -- [19]
-					"Special", -- [20]
-					"Visions of N'Zoth", -- [21]
-				},
 				["Rewards"] = {
 					"r|157830|1|1", -- [1]
 					[25] = "r|171354|1|1",
@@ -1366,6 +1367,7 @@ DataStore_QuestsDB = {
 					[23] = "r|172519|2|1",
 					[18] = "r|168614|1|1",
 				},
+				["HistoryBuild"] = "33528",
 				["Money"] = {
 					0, -- [1]
 					234000, -- [2]

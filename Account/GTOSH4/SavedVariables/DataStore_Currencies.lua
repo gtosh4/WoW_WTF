@@ -114,8 +114,8 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshdk"] = {
 				["Currencies"] = {
 					3, -- [1]
-					4145108, -- [2]
-					49878, -- [3]
+					4530516, -- [2]
+					56278, -- [3]
 					11268, -- [4]
 					29388, -- [5]
 					9094, -- [6]
@@ -145,7 +145,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1583896174,
+				["lastUpdate"] = 1583986251,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -321,7 +321,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1583898211,
+				["lastUpdate"] = 1583990578,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",

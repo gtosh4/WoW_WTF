@@ -914,10 +914,6 @@ REFlexDatabase = {
 		["Duration"] = 670,
 		["PlayerNum"] = 5,
 		["isArena"] = false,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Time"] = 1564522942,
-		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -1070,8 +1066,12 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["Winner"] = 0,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
 		["Version"] = 274,
+		["Winner"] = 0,
+		["Time"] = 1564522942,
 		["Players"] = {
 			{
 				"Zuluhand-Azralon", -- [1]
@@ -1648,18 +1648,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 2118,
 		["StatsNum"] = 0,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayersNum"] = 79,
 		["Duration"] = 687,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayerNum"] = 76,
 		["PlayerSide"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = false,
 		["Time"] = 1564523486,
 		["isRated"] = false,
 		["Version"] = 274,
 		["Winner"] = 0,
-		["isArena"] = false,
+		["isBrawl"] = false,
 		["Players"] = {
 			{
 				"Falystix-Dalaran", -- [1]
@@ -6976,6 +6976,11 @@ REFlexDatabase = {
 			}, -- [30]
 		},
 		["StatsNum"] = 4,
+		["Version"] = 274,
+		["PlayersNum"] = 30,
+		["Duration"] = 964,
+		["Hidden"] = false,
+		["isBrawl"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -7398,15 +7403,10 @@ REFlexDatabase = {
 				}, -- [4]
 			}, -- [30]
 		},
-		["PlayersNum"] = 30,
-		["Duration"] = 964,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isArena"] = false,
-		["Time"] = 1578549198,
+		["PlayerSide"] = 0,
 		["isRated"] = false,
-		["Version"] = 274,
+		["Time"] = 1578549198,
 		["Winner"] = 0,
 		["PlayerNum"] = 26,
 		["Season"] = 28,
@@ -7986,6 +7986,11 @@ REFlexDatabase = {
 			}, -- [30]
 		},
 		["StatsNum"] = 1,
+		["Version"] = 274,
+		["PlayersNum"] = 30,
+		["Duration"] = 740,
+		["Hidden"] = false,
+		["isBrawl"] = true,
 		["PlayersStats"] = {
 			{
 				{
@@ -8138,15 +8143,10 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["PlayersNum"] = 30,
-		["Duration"] = 740,
-		["Hidden"] = false,
-		["isBrawl"] = true,
-		["PlayerSide"] = 0,
 		["isArena"] = false,
-		["Time"] = 1578550387,
+		["PlayerSide"] = 0,
 		["isRated"] = false,
-		["Version"] = 274,
+		["Time"] = 1578550387,
 		["Winner"] = 0,
 		["PlayerNum"] = 12,
 		["Season"] = 28,
@@ -9678,16 +9678,16 @@ REFlexDatabase = {
 		},
 		["PlayersNum"] = 80,
 		["Duration"] = 397,
-		["Season"] = 28,
-		["isArena"] = false,
-		["Time"] = 1578651246,
+		["Hidden"] = false,
 		["isBrawl"] = false,
+		["Time"] = 1578651246,
+		["isArena"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 274,
 		["Winner"] = 0,
 		["PlayerNum"] = 41,
-		["Hidden"] = false,
+		["Season"] = 28,
 	}, -- [35]
 	{
 		["Map"] = 2106,
@@ -10074,13 +10074,15 @@ REFlexDatabase = {
 			}, -- [20]
 		},
 		["StatsNum"] = 2,
-		["Time"] = 1578657496,
+		["PlayerSide"] = 0,
 		["PlayersNum"] = 20,
 		["Duration"] = 614,
 		["Hidden"] = false,
 		["isBrawl"] = false,
-		["Version"] = 274,
+		["Time"] = 1578657496,
 		["isArena"] = false,
+		["Version"] = 274,
+		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -10243,8 +10245,6 @@ REFlexDatabase = {
 				}, -- [2]
 			}, -- [20]
 		},
-		["isRated"] = false,
-		["PlayerSide"] = 0,
 		["Winner"] = 1,
 		["PlayerNum"] = 7,
 		["Season"] = 28,
@@ -12394,15 +12394,6 @@ REFlexDatabase = {
 			}, -- [20]
 		},
 		["StatsNum"] = 2,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 20,
-		["Duration"] = 1003,
-		["PlayerNum"] = 15,
-		["isBrawl"] = false,
-		["Time"] = 1578686545,
-		["isArena"] = false,
-		["Version"] = 274,
-		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -12565,6 +12556,15 @@ REFlexDatabase = {
 				}, -- [2]
 			}, -- [20]
 		},
+		["PlayersNum"] = 20,
+		["Duration"] = 1003,
+		["PlayerNum"] = 15,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isArena"] = false,
+		["Time"] = 1578686545,
+		["isRated"] = false,
+		["Version"] = 274,
 		["Winner"] = 0,
 		["Season"] = 28,
 		["Hidden"] = false,
@@ -29279,18 +29279,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 1552,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 73,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["PlayerSide"] = 0,
-		["isArena"] = false,
+		["isBrawl"] = false,
 		["Time"] = 1583638162,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = false,
 		["Players"] = {
 			{
 				"Mezix-MoonGuard", -- [1]
@@ -29707,18 +29707,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 617,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 119,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["PlayerSide"] = 0,
-		["isArena"] = false,
+		["isBrawl"] = false,
 		["Time"] = 1583638811,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = false,
 		["Players"] = {
 			{
 				"Kangboo-Tichondrius", -- [1]
@@ -29845,13 +29845,13 @@ REFlexDatabase = {
 		["Hidden"] = true,
 		["Players"] = {
 		},
-		["isArena"] = false,
-		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Time"] = 1583638987,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 0,
-		["Time"] = 1583638987,
-		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = false,
 	}, -- [199]
 	{
 		["Map"] = 617,
@@ -30731,13 +30731,13 @@ REFlexDatabase = {
 		["Hidden"] = true,
 		["Players"] = {
 		},
-		["isArena"] = false,
-		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Time"] = 1583640851,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 0,
-		["Time"] = 1583640851,
-		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = false,
 	}, -- [206]
 	{
 		["Map"] = 2167,
@@ -32235,6 +32235,7 @@ REFlexHonorDatabase = {
 	[1564041600] = 7,
 	[1578650400] = 6552,
 	[1578132000] = 3,
+	[1583913600] = 1,
 	[1583575200] = 2280,
 	[1574330400] = 5,
 	[1579168800] = 2450,
@@ -32246,14 +32247,14 @@ REFlexHonorDatabase = {
 	[1564732800] = 9,
 	[1565510400] = 1990,
 	[1578564000] = 11,
-	[1566115200] = 23,
 	[1564905600] = 46,
+	[1566115200] = 23,
 	[1579082400] = 17,
 	[1582797600] = 17,
 	[1569225600] = 6,
 	[1563868800] = 980,
-	[1564214400] = 1,
 	[1564387200] = 470,
+	[1564214400] = 1,
 	[1578477600] = 1544,
 	[1564992000] = 384,
 	[1577095200] = 6,

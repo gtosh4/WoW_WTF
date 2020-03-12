@@ -83,7 +83,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
@@ -158,18 +158,23 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["BigWigs_Bosses_King Mechagon"] = {
+			["profiles"] = {
+				["Default"] = {
+					[291613] = 3129591,
+				},
+			},
+		},
 		["BigWigs_Bosses_Wrathion"] = {
 			["profiles"] = {
 				["Default"] = {
 					[306289] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Bosses_Maut"] = {
 			["profiles"] = {
@@ -186,6 +191,15 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Abyssal Commander Sivara"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296551] = 1032439,
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
 		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -193,74 +207,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Lady Ashvane"] = {
+		["BigWigs_Bosses_Drest'agath"] = {
 			["profiles"] = {
 				["Default"] = {
-					[296662] = 1032439,
+					[308941] = 3129591,
+					[310329] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Harlan Sweete"] = {
+		["BigWigs_Bosses_The Hivemind"] = {
 			["profiles"] = {
 				["Default"] = {
-					[257305] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Plugins_Sounds"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Alarm"] = {
-						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
-							[297128] = "Air Horn",
-						},
-						["BigWigs_Bosses_Queen Azshara"] = {
-							[299094] = "Big Kiss",
-						},
-					},
-					["Warning"] = {
-						["BigWigs_Bosses_Vexiona"] = {
-							[315762] = "|cFFFF0000Move|r",
-						},
-					},
-					["Alert"] = {
-						["BigWigs_Bosses_Vexiona"] = {
-							[307403] = "Voice: Focus",
-						},
-						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-							[290084] = "|cFFFF0000Interrupt|r",
-						},
-					},
-				},
-				["Toshdk - Kil'jaeden"] = {
-					["Alarm"] = {
-						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
-							[297128] = "Air Horn",
-						},
-						["BigWigs_Bosses_Queen Azshara"] = {
-							[299094] = "Big Kiss",
-						},
-					},
-					["Warning"] = {
-						["BigWigs_Bosses_Vexiona"] = {
-							[315762] = "|cFFFF0000Move|r",
-						},
-					},
-					["Alert"] = {
-						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
-							[290084] = "|cFFFF0000Interrupt|r",
-						},
-						["BigWigs_Bosses_Vexiona"] = {
-							[307403] = "Voice: Focus",
-						},
-					},
-				},
-			},
-		},
-		["BigWigs_Bosses_Conclave of the Chosen"] = {
-			["profiles"] = {
-				["Default"] = {
-					[285879] = 1041143,
+					[307201] = 3129591,
+					[307232] = 3129591,
+					[307213] = 3129591,
 				},
 			},
 		},
@@ -272,10 +232,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Queen Azshara"] = {
+		["BigWigs_Bosses_Conclave of the Chosen"] = {
 			["profiles"] = {
 				["Default"] = {
-					[300519] = 1032439,
+					[285879] = 1041143,
 				},
 			},
 		},
@@ -286,17 +246,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Abyssal Commander Sivara"] = {
+		["BigWigs_Bosses_Queen Azshara"] = {
 			["profiles"] = {
 				["Default"] = {
-					[296551] = 1032439,
+					[300519] = 1032439,
 				},
 			},
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["outline"] = "OUTLINE",
+					["BigWigsEmphasizeAnchor_y"] = 256.5439403139535,
 					["fontSize"] = 14,
 					["visibleBarLimit"] = 20,
 					["BigWigsAnchor_width"] = 200.2515716552734,
@@ -307,16 +267,16 @@ BigWigs3DB = {
 					["fill"] = false,
 					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_height"] = 27.00003242492676,
-					["fontSizeEmph"] = 14,
+					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 19.99998092651367,
-					["texture"] = "ElvUI Norm",
+					["emphasizeTime"] = 10,
 					["visibleBarLimitEmph"] = 10,
 					["BigWigsEmphasizeAnchor_x"] = 818.6733969688357,
-					["BigWigsEmphasizeAnchor_y"] = 256.5439403139535,
-					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
+					["fontSizeEmph"] = 14,
+					["outline"] = "OUTLINE",
 					["emphasizeMultiplier"] = 1,
-					["emphasizeTime"] = 10,
+					["texture"] = "ElvUI Norm",
 				},
 				["Toshdk - Kil'jaeden"] = {
 					["outline"] = "OUTLINE",
@@ -336,8 +296,8 @@ BigWigs3DB = {
 					["emphasizeTime"] = 10,
 					["visibleBarLimitEmph"] = 10,
 					["BigWigsEmphasizeAnchor_x"] = 1020.274594582181,
-					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
 					["BigWigsEmphasizeAnchor_y"] = 429.3450384687894,
+					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
 					["emphasizeMultiplier"] = 1,
 					["texture"] = "ElvUI Norm",
 				},
@@ -624,20 +584,67 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Hivemind"] = {
+		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
 				["Default"] = {
-					[307201] = 3129591,
-					[307232] = 3129591,
-					[307213] = 3129591,
+					["Alarm"] = {
+						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+							[297128] = "Air Horn",
+						},
+						["BigWigs_Bosses_Queen Azshara"] = {
+							[299094] = "Big Kiss",
+						},
+					},
+					["Warning"] = {
+						["BigWigs_Bosses_Vexiona"] = {
+							[315762] = "|cFFFF0000Move|r",
+						},
+					},
+					["Alert"] = {
+						["BigWigs_Bosses_Vexiona"] = {
+							[307403] = "Voice: Focus",
+						},
+						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+							[290084] = "|cFFFF0000Interrupt|r",
+						},
+					},
+				},
+				["Toshdk - Kil'jaeden"] = {
+					["Alarm"] = {
+						["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+							[297128] = "Air Horn",
+						},
+						["BigWigs_Bosses_Queen Azshara"] = {
+							[299094] = "Big Kiss",
+						},
+					},
+					["Warning"] = {
+						["BigWigs_Bosses_Vexiona"] = {
+							[315762] = "|cFFFF0000Move|r",
+						},
+					},
+					["Alert"] = {
+						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+							[290084] = "|cFFFF0000Interrupt|r",
+						},
+						["BigWigs_Bosses_Vexiona"] = {
+							[307403] = "Voice: Focus",
+						},
+					},
 				},
 			},
 		},
-		["BigWigs_Bosses_Drest'agath"] = {
+		["BigWigs_Bosses_Harlan Sweete"] = {
 			["profiles"] = {
 				["Default"] = {
-					[308941] = 3129591,
-					[310329] = 3129591,
+					[257305] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Bosses_Lady Ashvane"] = {
+			["profiles"] = {
+				["Default"] = {
+					[296662] = 1032439,
 				},
 			},
 		},
@@ -654,13 +661,6 @@ BigWigs3DB = {
 					["posy"] = 420.801483970972,
 					["fontName"] = "Friz Quadrata TT",
 					["lock"] = true,
-				},
-			},
-		},
-		["BigWigs_Bosses_King Mechagon"] = {
-			["profiles"] = {
-				["Default"] = {
-					[291613] = 3129591,
 				},
 			},
 		},
@@ -1066,8 +1066,8 @@ BigWigsStatsDB = {
 		},
 		[2375] = {
 			["heroic"] = {
-				["kills"] = 4,
-				["wipes"] = 12,
+				["kills"] = 5,
+				["wipes"] = 14,
 				["best"] = 504.2139999999199,
 			},
 		},
