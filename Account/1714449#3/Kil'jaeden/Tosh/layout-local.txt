@@ -1,4 +1,11 @@
 Version: 1
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 522
+Y: -194
+W: 383
+H: 303
 Frame: AAP_QuestFrame
 FrameLevel: 1
 Anchor: TOP
@@ -69,13 +76,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: scanner_button
-FrameLevel: 1
-Anchor: LEFT
-X: 91
-Y: 156
-W: 200
-H: 50
 Frame: REFlexFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -90,3 +90,10 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: scanner_button
+FrameLevel: 1
+Anchor: LEFT
+X: 91
+Y: 156
+W: 200
+H: 50

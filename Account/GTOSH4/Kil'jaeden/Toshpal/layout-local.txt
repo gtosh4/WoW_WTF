@@ -7,10 +7,10 @@ Y: -235
 W: 235
 H: 480
 Frame: ColorPickerFrame
-FrameLevel: 21
+FrameLevel: 22
 Anchor: CENTER
-X: 381
-Y: 252
+X: -161
+Y: 201
 W: 365
 H: 380
 Frame: LootHistoryFrame
@@ -131,4 +131,4 @@ Anchor: TOP
 X: -511
 Y: -99
 W: 267
-H: 220
+H: 248

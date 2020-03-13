@@ -55,17 +55,3 @@ X: 0
 Y: 0
 W: 635
 H: 200
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: CENTER
-X: 390
-Y: -252
-W: 160
-H: 52
-Frame: DetailsPluginContainerWindow
-FrameLevel: 1
-Anchor: TOP
-X: 252
-Y: -78
-W: 925
-H: 600
