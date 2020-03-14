@@ -63,13 +63,13 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["castBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
+			["timerOmniCC"] = true,
+			["castBarTexture"] = "Smooth v2",
 			["y"] = {
 				["arena1"] = 229.7807371077943,
 			},
@@ -85,7 +85,7 @@ Gladius2DB = {
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["timerOmniCC"] = true,
+			["auraVersion"] = 1,
 		},
 		["Sumex - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -355,7 +355,16 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
+			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["aurasBuffsHeight"] = 22,
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -368,15 +377,6 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["castBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",

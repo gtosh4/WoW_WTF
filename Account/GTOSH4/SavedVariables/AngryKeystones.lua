@@ -4,54 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 248,
-		["splits"] = {
-			1732, -- [1]
-			1306, -- [2]
-			740, -- [3]
-			2517, -- [4]
-			3104, -- [5]
-			2901, -- [6]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Death Knight",
-			["party2Name"] = "Peace",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2340,
-			["level"] = 19,
-			["timeElapsed"] = 3104.684,
-			["party3Role"] = "DAMAGER",
-			["affixes3"] = 2,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Metsy",
-			["affixes2"] = 11,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Evangelos",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Priest",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Mage",
-			["mapID"] = 1862,
-			["party2Role"] = "TANK",
-			["date"] = 1584072309,
-			["party2Class"] = "Monk",
-			["party5Name"] = "Yukio",
-		},
 		["playerDeaths"] = {
-			["Metsy"] = 8,
-			["Evangelos"] = 7,
-			["Peace"] = 13,
-			["Toshpal"] = 5,
-			["Yukio"] = 6,
-		},
-		["splitNames"] = {
-			"Heartsbane Triad defeated", -- [1]
-			"Soulbound Goliath defeated", -- [2]
-			"Raal the Gluttonous defeated", -- [3]
-			"Lord and Lady Waycrest defeated", -- [4]
-			"Gorak Tul defeated", -- [5]
-			"Enemy Forces", -- [6]
 		},
 	},
 	["splits"] = {
@@ -145,9 +98,9 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
-			[4] = 1,
 			[7] = 1,
 			[9] = 1,
+			[4] = 1,
 		},
 		[133436] = {
 			[5] = 5,
@@ -715,8 +668,8 @@ AngryKeystones_Data = {
 		[133463] = {
 			[12] = 5,
 		},
-		[150154] = {
-			[4] = 1,
+		[135846] = {
+			[2] = 4,
 		},
 		[138465] = {
 			[4] = 18,
@@ -759,11 +712,11 @@ AngryKeystones_Data = {
 		[138247] = {
 			130, -- [1]
 		},
-		[134251] = {
-			[4] = 14,
-		},
 		[136295] = {
 			[13] = 8,
+		},
+		[134251] = {
+			[4] = 14,
 		},
 		[139425] = {
 			[4] = 16,
@@ -774,14 +727,15 @@ AngryKeystones_Data = {
 		[97754] = {
 			4, -- [1]
 		},
-		[127488] = {
-			[7] = 50,
-		},
-		[130011] = {
-			[4] = 28,
-		},
 		[152009] = {
 			[5] = 7,
+		},
+		[130522] = {
+			[2] = 177,
+			[6] = 1,
+		},
+		[127488] = {
+			[7] = 50,
 		},
 		[132126] = {
 			[4] = 91,
@@ -789,9 +743,8 @@ AngryKeystones_Data = {
 		[150249] = {
 			[4] = 17,
 		},
-		[130522] = {
-			[2] = 177,
-			[6] = 1,
+		[130011] = {
+			[4] = 28,
 		},
 		[130436] = {
 			166, -- [1]
@@ -823,8 +776,8 @@ AngryKeystones_Data = {
 		[137511] = {
 			[4] = 28,
 		},
-		[135846] = {
-			[2] = 4,
+		[150154] = {
+			[4] = 1,
 		},
 		[130012] = {
 			[4] = 38,
