@@ -4,17 +4,17 @@ ElvCharacterDB = {
 		" if we're waiting for barb", -- [1]
 		" he's here", -- [2]
 		" I think", -- [3]
-		"/o 'cuz last time", -- [4]
-		"/o that's a lot of back tracking -/-", -- [5]
+		"I know", -- [4]
+		"/cw Crippled inv", -- [5]
 		"/cw Yellowy-Kil'jaeden I hope not", -- [6]
-		"I know", -- [7]
-		"/o we said it was a mistake", -- [8]
+		"/o 'cuz last time", -- [7]
+		"/o -.-", -- [8]
 		"/cw Pluie-Kil'jaeden actually, nm", -- [9]
 		"/g me", -- [10]
 		"he's here", -- [11]
-		"/cw Crippled inv", -- [12]
-		"/o I said no", -- [13]
-		"/o -.-", -- [14]
+		"/o that's a lot of back tracking -/-", -- [12]
+		"/o we said it was a mistake", -- [13]
+		"/o I said no", -- [14]
 		"why shad?", -- [15]
 		"I think", -- [16]
 		"/cw Yellowy-Kil'jaeden the new resto sham", -- [17]
@@ -24,599 +24,27 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2898, -- [11]
-			"Player-9-00051AAE", -- [12]
+			174, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981760,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302379,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
-		{
-			"Cursed Blood", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2901, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981766,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"3", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2902, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981771,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"2", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2903, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981772,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"1", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2904, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981773,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Cursed Blood", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2905, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981784,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Cursed Blood", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2906, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981784,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"3", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2907, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981789,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"3", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2908, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1583981789,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2909, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981789,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2910, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981789,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"2", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2911, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981790,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"2", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2912, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981790,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"2", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2913, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1583981790,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"1", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2914, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981791,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"1", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2915, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981791,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"1", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2916, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1583981791,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2917, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981794,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Cursed Blood", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2918, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981802,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Cursed Blood", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2919, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981802,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"3", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2921, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981807,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"3", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2922, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981807,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"2", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2923, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981808,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"2", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2924, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981808,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"1", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2925, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981809,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"1", -- [1]
-			"Ngow-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ngow-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2926, -- [11]
-			"Player-9-07D05E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ngow|r",
-			[51] = 1583981809,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2928, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981815,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -628,7 +56,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2930, -- [11]
+			181, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -636,57 +64,101 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981822,
+			[51] = 1584302418,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [2]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Spirit of Gold!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2931, -- [11]
-			"Player-9-00051AAE", -- [12]
+			188, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981827,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302464,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [3]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0B106E8E:1:3:11:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
-			"Crippled-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Spirit of Gold has ended!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Crippled-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2937, -- [11]
-			"Player-9-0B106E8E", -- [12]
+			190, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Crippled|r",
-			[51] = 1583981848,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [30]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302465,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [4]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0A7EC3E5:1:3:11:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			208, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302634,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [5]
+		{
+			"Toshaman interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584302647,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [6]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r", -- [1]
 			"Nv-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Nv-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -694,7 +166,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2938, -- [11]
+			213, -- [11]
 			"Player-9-0A7EC3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -702,77 +174,605 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Nv|r",
-			[51] = 1583981848,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1584302700,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [7]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Feasting Skyscreamer!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302700,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [8]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Feasting Skyscreamer has ended!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302701,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [9]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			218, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302709,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [10]
+		{
+			"Interrupted Dinomancer Kish'o's |cff71d5ff|Hspell:256849:0|h[Dino Might]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302728,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [11]
+		{
+			"Interrupted Dinomancer Kish'o's |cff71d5ff|Hspell:256849:0|h[Dino Might]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			222, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302728,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [12]
+		{
+			"Interrupted Dinomancer Kish'o's |cff71d5ff|Hspell:256849:0|h[Dino Might]|h|r!", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			225, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584302764,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [13]
+		{
+			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302810,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [14]
+		{
+			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302810,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [15]
+		{
+			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			230, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302818,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [16]
+		{
+			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			233, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302830,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [17]
+		{
+			"Interrupted Feasting Skyscreamer's |cff71d5ff|Hspell:255041:0|h[Terrifying Screech]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302830,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [18]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			236, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302852,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [19]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302917,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [20]
+		{
+			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302936,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [21]
+		{
+			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302936,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [22]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Zanchuli Witch-Doctor!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302941,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [23]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Zanchuli Witch-Doctor has ended!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			251, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302942,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [24]
+		{
+			"Interrupted Zanchuli Witch-Doctor's |cff71d5ff|Hspell:252923:0|h[Venom Blast]|h|r!", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584302951,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [25]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			255, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584302975,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [26]
+		{
+			"{rt3}Tank Activating{rt3}", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			256, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584302978,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
+		{
+			"{rt3}Tank Activating{rt3}", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			259, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584303058,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [28]
+		{
+			"Toshaman interrupted |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584303092,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303115,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [30]
+		{
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			269, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303115,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0B884C02:1:3:11:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2939, -- [11]
-			"Player-9-0B884C02", -- [12]
+			270, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583981848,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303117,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [32]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2967, -- [11]
-			"Player-9-00051AAE", -- [12]
+			272, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981906,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303133,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"|cff71d5ff|Hspell:6552:0|h[Pummel]|h|r Umbral Seer Void Bolt Volley!", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2968, -- [11]
-			"Player-9-00051AAE", -- [12]
+			273, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981906,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303133,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -782,7 +782,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2970, -- [11]
+			275, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -790,33 +790,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981940,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584303153,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2971, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981940,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -826,7 +804,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2972, -- [11]
+			276, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -834,121 +812,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583981940,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+			[51] = 1584303153,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [36]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2973, -- [11]
-			"Player-9-00051AAE", -- [12]
+			279, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583981949,
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303192,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [37]
+		{
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			280, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303192,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [38]
 		{
-			"why not do ilg first", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2979, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583981988,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
-		{
-			"then", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2980, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583981989,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
-		{
-			"first three -> ilg -> vex -> ra den -> nzoth", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2982, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583982016,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
-		{
-			"xd", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2983, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583982017,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
-		{
-			"1->2->3->etc", -- [1]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -958,7 +870,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2984, -- [11]
+			281, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -966,75 +878,141 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982027,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+			[51] = 1584303192,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [39]
 		{
-			"not a main raid day", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			282, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303211,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [40]
+		{
+			"Interrupted Vol'kaal's |cff71d5ff|Hspell:259572:0|h[Noxious Stench]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			283, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303211,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [41]
+		{
+			"{rt3}Tank Activating{rt3}", -- [1]
+			"Nv-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Nv-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2992, -- [11]
-			"Player-9-0A76F241", -- [12]
+			287, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1583982081,
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584303239,
 			[50] = "CHAT_MSG_SAY",
+		}, -- [42]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			289, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303298,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [43]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			296, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303412,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"uno", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2995, -- [11]
-			"Player-9-0A6C325A", -- [12]
+			297, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583982092,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303412,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
-		{
-			"SLAPP-ers?", -- [1]
-			"Dual-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dual-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2996, -- [11]
-			"Player-3676-09CBA46F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Dual-Area52|r",
-			[51] = 1583982097,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1046,7 +1024,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3000, -- [11]
+			300, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,209 +1032,495 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982145,
+			[51] = 1584303427,
 			[50] = "CHAT_MSG_SAY",
+		}, -- [46]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			305, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303493,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"dude don't put that in your eyes", -- [1]
-			"Dual-Area52", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dual-Area52", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3004, -- [11]
-			"Player-3676-09CBA46F", -- [12]
+			306, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Dual-Area52|r",
-			[51] = 1583982160,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303493,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"you're supposed to snort it", -- [1]
-			"Dual-Area52", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dual-Area52", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3005, -- [11]
-			"Player-3676-09CBA46F", -- [12]
+			315, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Dual-Area52|r",
-			[51] = 1583982165,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303531,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:311045:0|h[Void Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3006, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			316, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1583982170,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303531,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"Interrupted Zealous Adherent's |cff71d5ff|Hspell:311091:0|h[Condensing Void]|h|r!", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
+			"Nv interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Delpi-Kil'jaeden", -- [5]
+			"Nv-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3008, -- [11]
-			"Player-9-0B8BAB74", -- [12]
+			321, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1583982179,
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584303569,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3009, -- [11]
-			"Player-9-00051AAE", -- [12]
+			331, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982186,
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303659,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:311045:0|h[Void Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3019, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			333, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1583982225,
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303665,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3021, -- [11]
-			"Player-9-00051AAE", -- [12]
+			334, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982228,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303665,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3024, -- [11]
-			"Player-9-00051AAE", -- [12]
+			335, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982240,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303665,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"Interrupted Zealous Adherent's |cff71d5ff|Hspell:311091:0|h[Condensing Void]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3027, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			341, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1583982248,
-			[50] = "CHAT_MSG_EMOTE",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303686,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:311045:0|h[Void Bolt]|h|r", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			342, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303686,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			343, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303686,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			344, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303704,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [59]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			345, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303704,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303704,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584303726,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303784,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			357, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303791,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			358, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303791,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [65]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			359, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303791,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			367, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303829,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			370, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303891,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"Toshaman interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1266,7 +1530,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3029, -- [11]
+			374, -- [11]
 			"Player-9-0B9F1ECA", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,307 +1538,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1583982287,
+			[51] = 1584303913,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"1", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3052, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583982392,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
-		{
-			"not a main raid day", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3053, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1583982403,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"73", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3058, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583982432,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
-		{
-			"oh wait", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3059, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583982433,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
-		{
-			"bring my paladin", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3060, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583982435,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
-		{
-			"could do more", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3061, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583982435,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
-		{
-			"brb", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3062, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1583982436,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
-		{
-			"(:", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3063, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1583982438,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
-		{
-			"actual degens", -- [1]
-			"Dual-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dual-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3065, -- [11]
-			"Player-3676-09CBA46F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Dual-Area52|r",
-			[51] = 1583982445,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
-		{
-			"hurry up and kill that boss so I have people to play cod br with ;)", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3066, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1583982445,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
-		{
-			"not a main raid day", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3068, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1583982456,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"give me weapon", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3073, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1583982460,
-			[50] = "CHAT_MSG_RAID",
 		}, -- [69]
 		{
-			"whats cod", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3074, -- [11]
-			"Player-9-0B8BAB74", -- [12]
+			379, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1583982472,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584303933,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"wait", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3076, -- [11]
+			380, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1582,21 +1582,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982485,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1584303933,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"come in", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3077, -- [11]
+			381, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1604,87 +1604,87 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982486,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1584303933,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [72]
 		{
-			"and get us", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
+			"30 on Rek", -- [1]
+			"Proudrunner-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Proudrunner-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3079, -- [11]
-			"Player-9-09432D66", -- [12]
+			385, -- [11]
+			"Player-3661-082F83C6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982486,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc59a6cProudrunner-Hyjal|r",
+			[51] = 1584303974,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"a type of fish", -- [1]
-			"Metsy-Kil'jaeden", -- [2]
-			"", -- [3]
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3080, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			386, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeMetsy|r",
-			[51] = 1583982487,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"a wep", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Toshaman interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshaman-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3081, -- [11]
-			"Player-9-09432D66", -- [12]
+			388, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982487,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584304042,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"c:", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3082, -- [11]
+			392, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1692,143 +1692,143 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982489,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1584304063,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"who wants beacon", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3086, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			393, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982548,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304063,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"andruw", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3087, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			395, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982551,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304081,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"here u go", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3088, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			396, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982552,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304081,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [79]
 		{
-			"tyty", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3089, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			399, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1583982569,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304120,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"<3", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3090, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			400, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1583982571,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304120,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"|cff66bbff|Hjournal:2:20859:15|h[Eye of N'Zoth]|h|r", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Nv interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
+			"Nv-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3091, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
+			405, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1583982574,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584304139,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"alright", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1838,7 +1838,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3092, -- [11]
+			407, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1846,11 +1846,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982575,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584304162,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"whoever loses", -- [1]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1860,7 +1860,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3093, -- [11]
+			408, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1868,11 +1868,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982577,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584304162,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"to kosaki", -- [1]
+			"Shroud up", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1882,7 +1882,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3094, -- [11]
+			414, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1890,11 +1890,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982578,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584304246,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"is great", -- [1]
+			"|cff71d5ff|Hspell:115834:0|h[Shroud of Concealment]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1904,7 +1904,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3095, -- [11]
+			415, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1912,11 +1912,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982583,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584304246,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"becuase i have too much corruption", -- [1]
+			"14", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1926,7 +1926,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3097, -- [11]
+			416, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1934,163 +1934,691 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982587,
-			[50] = "CHAT_MSG_RAID",
+			[51] = 1584304247,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [87]
 		{
-			"not a main raid day", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"13", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3098, -- [11]
-			"Player-9-0A76F241", -- [12]
+			417, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1583982598,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304247,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"just use your cloak on use", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			"12", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3104, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			418, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982658,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304249,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"4head", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			"11", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3105, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			419, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982660,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304249,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"10", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3110, -- [11]
-			"Player-9-00051AAE", -- [12]
+			420, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982694,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304251,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Ra-den {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"9", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3121, -- [11]
-			"Player-9-00051AAE", -- [12]
+			421, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982718,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304252,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"8", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3125, -- [11]
-			"Player-9-00051AAE", -- [12]
+			422, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982724,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304253,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"7", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3139, -- [11]
-			"Player-9-00051AAE", -- [12]
+			423, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982794,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304254,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
+		{
+			"6", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			424, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304255,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [95]
+		{
+			"5", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			425, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304256,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [96]
+		{
+			"4", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			426, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304257,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"3", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			427, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304258,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"2", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			428, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304259,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [99]
+		{
+			"1", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			429, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304259,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [100]
+		{
+			"Shroud down", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			430, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304260,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [101]
+		{
+			"Interrupted Mindrend Tentacle's |cff71d5ff|Hspell:314592:0|h[Mind Flay]|h|r!", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbjørn-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584304282,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [102]
+		{
+			"Toshaman interrupted |cff71d5ff|Hspell:314592:0|h[Mind Flay]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			434, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584304286,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Nv!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304413,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304423,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			443, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304423,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [106]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			444, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304423,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [107]
+		{
+			"Nv interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nv-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			451, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584304443,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			452, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304460,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [109]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304460,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [110]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Arnbjørn!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			457, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304480,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [111]
+		{
+			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Arnbjørn has ended!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304481,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"lol", -- [1]
+			"Proudrunner-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Proudrunner-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			465, -- [11]
+			"Player-3661-082F83C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cProudrunner-Hyjal|r",
+			[51] = 1584304601,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [113]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			473, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304736,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			474, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304736,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [115]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			475, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304736,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [116]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			476, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304753,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [117]
+		{
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kosaki-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-9-09432D66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304753,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [118]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2102,7 +2630,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3144, -- [11]
+			480, -- [11]
 			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2110,712 +2638,184 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982817,
+			[51] = 1584304767,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
-		{
-			"{cross}{cross}{cross} |cff71d5ff|Hspell:355:0|h[Taunt]|h|r Ra-den {cross}{cross}{cross}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3147, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982827,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
-		{
-			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3148, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982828,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
-		{
-			"{skull}{skull}{skull} |cff71d5ff|Hspell:97462:0|h[Rallying Cry]|h|r {skull}{skull}{skull}", -- [1]
-			"Orcbum-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Orcbum-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3156, -- [11]
-			"Player-9-00051AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cOrcbum|r",
-			[51] = 1583982851,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14194:Player-9-0B884C02:1:3:11:20:4294967295:4294967295:4294967295:4294967295|h[Halls of Devotion]|h|r!", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Whinks-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3161, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583982870,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [99]
-		{
-			"i bopd u ", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3181, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982877,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
-		{
-			"cj", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3184, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982879,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
-		{
-			">:o", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3188, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982881,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
-		{
-			"i got", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3199, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982906,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
-		{
-			"4 pieces of corruption", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3201, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982908,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
-		{
-			"C:", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3202, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1583982909,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
-		{
-			"also", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3208, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982929,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
-		{
-			"side note", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3209, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982930,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
-		{
-			"who wants a free 1800 carry", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3211, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982936,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
-		{
-			"I do", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3217, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583982946,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
-		{
-			"gonna push my shaman later this week", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3218, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982946,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
-		{
-			"heck u nate", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3226, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982953,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
-		{
-			"u can get it on ur own", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3232, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982957,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
-		{
-			">:(!?", -- [1]
-			"Whinks-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3234, -- [11]
-			"Player-9-0B884C02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Whinks|r",
-			[51] = 1583982960,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
-		{
-			"sci", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3235, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1583982963,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
-		{
-			"carry me to 2k", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3238, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1583982965,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
-		{
-			"only 1800 cuz its myt shaman", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3243, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982973,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
-		{
-			"anyone want to do 20 underrot", -- [1]
-			"Metsy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3244, -- [11]
-			"Player-9-0B59DAFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeMetsy|r",
-			[51] = 1583982973,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
-		{
-			"once my shaman hits 1800 im deleting it", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3250, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982977,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
-		{
-			"ME FRIDA", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3253, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1583982979,
-			[50] = "CHAT_MSG_GUILD",
 		}, -- [119]
 		{
-			"i jsut want the elite set", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Nv interrupted |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Nv-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3262, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			481, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1583982989,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1584304771,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [120]
 		{
-			"okay i need another dps for 20 UR", -- [1]
-			"Metsy-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3350, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			484, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeMetsy|r",
-			[51] = 1583983245,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304834,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"me", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3351, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			485, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1583983250,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304834,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"pref melee", -- [1]
-			"Metsy-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3352, -- [11]
-			"Player-9-0B59DAFF", -- [12]
+			486, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeMetsy|r",
-			[51] = 1583983252,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304834,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [123]
 		{
-			"me?", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3353, -- [11]
-			"Player-9-0B94CF42", -- [12]
+			490, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1583983277,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304875,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"|cffa335ee|Hitem:172600::::::::120:102::56:6:6372:6388:1587:4786:6512:4775:::|h[Corrupted Gladiator's Leather Mantle]|h|r", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
+			"Interrupted Yazma's |cff71d5ff|Hspell:250096:0|h[Wracking Pain]|h|r!", -- [1]
+			"Kosaki-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kosaki-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			135, -- [11]
-			"Player-9-0ABBBD86", -- [12]
+			491, -- [11]
+			"Player-9-09432D66", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584033732,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Kosaki|r",
+			[51] = 1584304875,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"|cffa335ee|Hitem:168984::::::::120:102::35:5:5448:1532:4786:6512:4775:::|h[Extravagant Epaulettes]|h|r", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:252:16:9:11:2:120|h[Keystone: Shrine of the Storm (16)]|h|r", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Arnbjørn-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			136, -- [11]
-			"Player-9-0ABBBD86", -- [12]
+			495, -- [11]
+			"Player-9-0B0D1C71", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584033737,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584304897,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [126]
 		{
-			"|cffa335ee|Hitem:159331::::::::120:102::35:5:5448:1647:4786:6512:4775:::|h[Pistoleer's Spaulders]|h|r", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
+			"nope u want?", -- [1]
+			"Proudrunner-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Proudrunner-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			138, -- [11]
-			"Player-9-0ABBBD86", -- [12]
+			502, -- [11]
+			"Player-3661-082F83C6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584033744,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc59a6cProudrunner-Hyjal|r",
+			[51] = 1584304918,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

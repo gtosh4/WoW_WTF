@@ -1,318 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" as far as I saw, there wasn't much time to move the boss", -- [1]
-		" were people focusing boss?", -- [2]
-		" I didn't have a chance", -- [3]
-		" to look over logs", -- [4]
-		" stream pls", -- [5]
-		"/wa", -- [6]
-		"/g [WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [7]
-		" yeah, I'm swapping to tehkz", -- [8]
-		"/cw Delpi you helped with right side right", -- [9]
-		"/cw Delpi went smoothly, that was good", -- [10]
-		" [WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [11]
-		"/cw Gochie-Kil'jaeden was tide up there, did it work well", -- [12]
-		" where you were earlier pulls was fine, I moved sci and nam down to make room for you", -- [13]
-		"/cw Gochie-Kil'jaeden yeah, based on the timings from other logs, it was ~5-10s short", -- [14]
-		"/cw Gochie-Kil'jaeden but if it's up for us", -- [15]
-		"/cw Gochie-Kil'jaeden then perfect", -- [16]
-		" can you officer", -- [17]
-		" give jess a little bit of time to cool off", -- [18]
-		" but she's pissed atm", -- [19]
-		" at herself", -- [20]
+		" can you officer", -- [1]
+		" give jess a little bit of time to cool off", -- [2]
+		" but she's pissed atm", -- [3]
+		" at herself", -- [4]
+		"/cw Delpi you helped with right side right", -- [5]
+		"/g [WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [6]
+		"where you were earlier pulls was fine, I moved sci and nam down to make room for you", -- [7]
+		"/cw Delpi went smoothly, that was good", -- [8]
+		"/cw Gochie-Kil'jaeden then perfect", -- [9]
+		"I didn't have a chance", -- [10]
+		"give jess a little bit of time to cool off", -- [11]
+		"at herself", -- [12]
+		"as far as I saw, there wasn't much time to move the boss", -- [13]
+		"/cw Gochie-Kil'jaeden but if it's up for us", -- [14]
+		"/cw Gochie-Kil'jaeden yeah, based on the timings from other logs, it was ~5-10s short", -- [15]
+		"but she's pissed atm", -- [16]
+		"stream pls", -- [17]
+		"can you officer", -- [18]
+		"/cw Gochie-Kil'jaeden was tide up there, did it work well", -- [19]
+		"[WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584150262,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			49, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584150344,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584150646,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			139, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584150727,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"[WeakAuras: Toshpal-Kil'jaeden - Ra-Den Auto Assign]", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			140, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1584150789,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			192, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584151029,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"do i need to disperse the vita hit or anything?", -- [1]
-			"|Kq21|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			193, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584151030,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [7]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			202, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584151110,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"[WeakAuras: Toshpal-Kil'jaeden - Ra-Den Auto Assign]", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			235, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1584151219,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jirttok-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jirttok-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			256, -- [11]
-			"Player-9-0BB58476", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJirttok|r",
-			[51] = 1584151413,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"okay so there", -- [1]
-			"|Kq21|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584151464,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [11]
-		{
-			"was i in the right place because i didnt get it", -- [1]
-			"|Kq21|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584151472,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [12]
-		{
-			"you did get it pretty sure", -- [1]
-			"|Kq21|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			264, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584151482,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [13]
 		{
 			"ah", -- [1]
 			"|Kq21|k", -- [2]
@@ -335,7 +45,7 @@ ElvCharacterDB = {
 			[51] = 1584151488,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [14]
+		}, -- [1]
 		{
 			"well, i guess im blind af", -- [1]
 			"|Kq21|k", -- [2]
@@ -358,7 +68,7 @@ ElvCharacterDB = {
 			[51] = 1584151492,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [15]
+		}, -- [2]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -380,7 +90,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584151494,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [3]
 		{
 			"it's bugged, doesn't show the zap a lot", -- [1]
 			"|Kq21|k", -- [2]
@@ -403,7 +113,7 @@ ElvCharacterDB = {
 			[51] = 1584151501,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [17]
+		}, -- [4]
 		{
 			"gotcha", -- [1]
 			"|Kq21|k", -- [2]
@@ -426,7 +136,7 @@ ElvCharacterDB = {
 			[51] = 1584151515,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [18]
+		}, -- [5]
 		{
 			"right spot again", -- [1]
 			"|Kq21|k", -- [2]
@@ -449,7 +159,7 @@ ElvCharacterDB = {
 			[51] = 1584151678,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [19]
+		}, -- [6]
 		{
 			"?\\", -- [1]
 			"|Kq21|k", -- [2]
@@ -472,7 +182,7 @@ ElvCharacterDB = {
 			[51] = 1584151680,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [20]
+		}, -- [7]
 		{
 			"bleh i hate mechanics", -- [1]
 			"|Kq21|k", -- [2]
@@ -495,7 +205,7 @@ ElvCharacterDB = {
 			[51] = 1584151686,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [21]
+		}, -- [8]
 		{
 			"yea", -- [1]
 			"|Kq21|k", -- [2]
@@ -518,7 +228,7 @@ ElvCharacterDB = {
 			[51] = 1584151688,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [22]
+		}, -- [9]
 		{
 			"can you call out when mine is", -- [1]
 			"|Kq21|k", -- [2]
@@ -541,7 +251,7 @@ ElvCharacterDB = {
 			[51] = 1584151728,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [23]
+		}, -- [10]
 		{
 			"so i dont go early", -- [1]
 			"|Kq21|k", -- [2]
@@ -564,7 +274,7 @@ ElvCharacterDB = {
 			[51] = 1584151730,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [24]
+		}, -- [11]
 		{
 			"you'll count down", -- [1]
 			"|Kq21|k", -- [2]
@@ -587,7 +297,7 @@ ElvCharacterDB = {
 			[51] = 1584151740,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [25]
+		}, -- [12]
 		{
 			"in say chat", -- [1]
 			"|Kq21|k", -- [2]
@@ -610,7 +320,7 @@ ElvCharacterDB = {
 			[51] = 1584151742,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [26]
+		}, -- [13]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -632,7 +342,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584151796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [14]
 		{
 			"80% of the time its in shathyar xd", -- [1]
 			"|Kq21|k", -- [2]
@@ -655,7 +365,7 @@ ElvCharacterDB = {
 			[51] = 1584151816,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [28]
+		}, -- [15]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Unstable Vita]", -- [1]
 			"|Kq21|k", -- [2]
@@ -678,7 +388,7 @@ ElvCharacterDB = {
 			[51] = 1584151899,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [29]
+		}, -- [16]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Unstable Vita]", -- [1]
 			"|Kq21|k", -- [2]
@@ -701,7 +411,7 @@ ElvCharacterDB = {
 			[51] = 1584152003,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [30]
+		}, -- [17]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -723,7 +433,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584152179,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [18]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -745,7 +455,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584152260,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14051:Player-9-0ABBBD86:1:3:13:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ra-den the Despoiled]|h|r!", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -767,7 +477,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584152301,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [33]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14051:Player-9-0BB3FE43:1:3:13:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ra-den the Despoiled]|h|r!", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -789,7 +499,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584152301,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [21]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -811,7 +521,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584152563,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [22]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -833,7 +543,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584152644,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [23]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -855,7 +565,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584153027,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [24]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -877,7 +587,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584153055,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [25]
 		{
 			"im just dumb i guess but", -- [1]
 			"|Kq21|k", -- [2]
@@ -900,7 +610,7 @@ ElvCharacterDB = {
 			[51] = 1584153283,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [39]
+		}, -- [26]
 		{
 			"am in between tentacles", -- [1]
 			"|Kq21|k", -- [2]
@@ -923,7 +633,7 @@ ElvCharacterDB = {
 			[51] = 1584153295,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [40]
+		}, -- [27]
 		{
 			"in this phase", -- [1]
 			"|Kq21|k", -- [2]
@@ -946,7 +656,7 @@ ElvCharacterDB = {
 			[51] = 1584153298,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [41]
+		}, -- [28]
 		{
 			"or front or what", -- [1]
 			"|Kq21|k", -- [2]
@@ -969,7 +679,7 @@ ElvCharacterDB = {
 			[51] = 1584153300,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [42]
+		}, -- [29]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -991,7 +701,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584153304,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [30]
 		{
 			"ty", -- [1]
 			"|Kq21|k", -- [2]
@@ -1014,7 +724,7 @@ ElvCharacterDB = {
 			[51] = 1584153317,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [44]
+		}, -- [31]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1036,7 +746,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584153329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [32]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1058,7 +768,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584153348,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [33]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1080,7 +790,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584153410,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [34]
 		{
 			"what is decay", -- [1]
 			"|Kq18|k", -- [2]
@@ -1102,7 +812,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153429,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [48]
+		}, -- [35]
 		{
 			"i don't see it", -- [1]
 			"|Kq18|k", -- [2]
@@ -1124,7 +834,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153430,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [49]
+		}, -- [36]
 		{
 			"mental decay", -- [1]
 			"|Kq18|k", -- [2]
@@ -1146,7 +856,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153449,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [50]
+		}, -- [37]
 		{
 			"i know", -- [1]
 			"|Kq18|k", -- [2]
@@ -1168,7 +878,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153452,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [51]
+		}, -- [38]
 		{
 			"i don't see it on my timers", -- [1]
 			"|Kq18|k", -- [2]
@@ -1190,7 +900,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153455,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [52]
+		}, -- [39]
 		{
 			"I'll put times", -- [1]
 			"|Kq18|k", -- [2]
@@ -1212,7 +922,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584153499,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [53]
+		}, -- [40]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1234,7 +944,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584153578,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [41]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1256,7 +966,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584153675,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [42]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1278,7 +988,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584153713,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [43]
 		{
 			"can you mail me tatos", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1300,7 +1010,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584153728,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [57]
+		}, -- [44]
 		{
 			"er", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1322,7 +1032,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584153729,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [58]
+		}, -- [45]
 		{
 			"cod", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1344,7 +1054,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584153730,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [59]
+		}, -- [46]
 		{
 			"lol", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1366,7 +1076,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584153730,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [60]
+		}, -- [47]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1388,7 +1098,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584153794,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [48]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1410,7 +1120,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584153905,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [49]
 		{
 			"@sci just call 'em sciballs then", -- [1]
 			"Voidthirst-Kil'jaeden", -- [2]
@@ -1432,7 +1142,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Voidthirst|r",
 			[51] = 1584153934,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [50]
 		{
 			"WTS 10-15+keys Carry DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -1454,7 +1164,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584153988,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [51]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1476,7 +1186,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584154077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [52]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1498,7 +1208,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584154097,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [53]
 		{
 			"wut", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1520,7 +1230,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584154277,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [54]
 		{
 			";-;", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1542,7 +1252,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584154280,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [55]
 		{
 			"(:", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -1564,7 +1274,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1584154287,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
+		}, -- [56]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1586,7 +1296,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584154379,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [57]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1608,7 +1318,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584154480,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [58]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1630,7 +1340,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584154562,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [59]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1652,7 +1362,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584154679,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [60]
 		{
 			"WTS 10-15+keys Carry DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -1674,7 +1384,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584154710,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [61]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1696,7 +1406,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584154864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [62]
 		{
 			"WTS carry +10 /+15keys: WM-TOS-SIEGUE-KR-ML-WORK-YARD", -- [1]
 			"Tomateroxx-Kil'jaeden", -- [2]
@@ -1718,7 +1428,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTomateroxx|r",
 			[51] = 1584154906,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [63]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1740,7 +1450,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584154946,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [64]
 		{
 			"this is gonna take us 100 pulls isnt it", -- [1]
 			"|Kq21|k", -- [2]
@@ -1763,7 +1473,7 @@ ElvCharacterDB = {
 			[51] = 1584154996,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [78]
+		}, -- [65]
 		{
 			"what is breed madness", -- [1]
 			"|Kq18|k", -- [2]
@@ -1785,7 +1495,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584155168,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [79]
+		}, -- [66]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1807,7 +1517,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584155248,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [67]
 		{
 			"im gonna plan on cloaking after our hems die so i can start hitting other ones", -- [1]
 			"|Kq21|k", -- [2]
@@ -1830,7 +1540,7 @@ ElvCharacterDB = {
 			[51] = 1584155275,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [81]
+		}, -- [68]
 		{
 			"sound good?", -- [1]
 			"|Kq21|k", -- [2]
@@ -1853,7 +1563,7 @@ ElvCharacterDB = {
 			[51] = 1584155276,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [82]
+		}, -- [69]
 		{
 			"or does that waste cloak", -- [1]
 			"|Kq21|k", -- [2]
@@ -1876,7 +1586,7 @@ ElvCharacterDB = {
 			[51] = 1584155289,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [83]
+		}, -- [70]
 		{
 			"take that as a yes", -- [1]
 			"|Kq21|k", -- [2]
@@ -1899,7 +1609,7 @@ ElvCharacterDB = {
 			[51] = 1584155328,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [84]
+		}, -- [71]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1921,7 +1631,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584155329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14065:Player-9-0A07B176:1:3:13:20:4294967295:4294967295:4294967295:4294967295|h[The Even More Horrific Vision of Orgrimmar]|h|r!", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -1943,7 +1653,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1584155480,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+		}, -- [73]
 		{
 			"IF NO ONE HAS WATCHED IT... \"OUTBREAK\" IS NUMBER 9 FOR STREAMING IN THE US RIGHT NOW! HAVE A GREAT WEEKEND!", -- [1]
 			"Angelenoch-Kil'jaeden", -- [2]
@@ -1965,7 +1675,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Angelenoch|r",
 			[51] = 1584155497,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [74]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -1987,7 +1697,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584155712,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [75]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2009,7 +1719,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156015,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [76]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2031,7 +1741,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156097,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [77]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Ny'alotha Bosses<< with <Infinity> going on NOW! Also selling M+10s - 19s, with armor stack / specific key options available. This weekend, buy 2x M+ keys, get armor stack FREE! Gold only.", -- [1]
 			"Musical-Kil'jaeden", -- [2]
@@ -2053,7 +1763,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Musical|r",
 			[51] = 1584156128,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [78]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2075,7 +1785,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156399,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [79]
 		{
 			"The Gallywix Community || WTS >>Heroic Last 2 Ny'alotha Bosses<< with <Infinity> going on NOW! Also selling M+10s - 19s, with armor stack / specific key options available. This weekend, buy 2x M+ keys, get armor stack FREE! Gold only.", -- [1]
 			"Musical-Kil'jaeden", -- [2]
@@ -2097,7 +1807,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Musical|r",
 			[51] = 1584156410,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [80]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2119,7 +1829,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156480,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [81]
 		{
 			"shadow feels so bad for this fight", -- [1]
 			"|Kq21|k", -- [2]
@@ -2142,7 +1852,7 @@ ElvCharacterDB = {
 			[51] = 1584156650,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [95]
+		}, -- [82]
 		{
 			"why's that", -- [1]
 			"|Kq21|k", -- [2]
@@ -2165,7 +1875,7 @@ ElvCharacterDB = {
 			[51] = 1584156683,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [96]
+		}, -- [83]
 		{
 			"lucid timing is strange", -- [1]
 			"|Kq21|k", -- [2]
@@ -2188,7 +1898,7 @@ ElvCharacterDB = {
 			[51] = 1584156694,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [97]
+		}, -- [84]
 		{
 			"isn;t it 2m?", -- [1]
 			"|Kq21|k", -- [2]
@@ -2211,7 +1921,7 @@ ElvCharacterDB = {
 			[51] = 1584156714,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [98]
+		}, -- [85]
 		{
 			"same as combust", -- [1]
 			"|Kq21|k", -- [2]
@@ -2234,7 +1944,7 @@ ElvCharacterDB = {
 			[51] = 1584156719,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [99]
+		}, -- [86]
 		{
 			"yeah, second comes up when we're running", -- [1]
 			"|Kq21|k", -- [2]
@@ -2257,7 +1967,7 @@ ElvCharacterDB = {
 			[51] = 1584156726,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [100]
+		}, -- [87]
 		{
 			"running where", -- [1]
 			"|Kq21|k", -- [2]
@@ -2280,7 +1990,7 @@ ElvCharacterDB = {
 			[51] = 1584156739,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [101]
+		}, -- [88]
 		{
 			"so i either delay or let the crit go to waste a bit", -- [1]
 			"|Kq21|k", -- [2]
@@ -2303,7 +2013,7 @@ ElvCharacterDB = {
 			[51] = 1584156740,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [102]
+		}, -- [89]
 		{
 			"you delay", -- [1]
 			"|Kq21|k", -- [2]
@@ -2326,7 +2036,7 @@ ElvCharacterDB = {
 			[51] = 1584156748,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [103]
+		}, -- [90]
 		{
 			"down after the growths", -- [1]
 			"|Kq21|k", -- [2]
@@ -2349,7 +2059,7 @@ ElvCharacterDB = {
 			[51] = 1584156750,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [104]
+		}, -- [91]
 		{
 			"its weird", -- [1]
 			"|Kq21|k", -- [2]
@@ -2372,7 +2082,7 @@ ElvCharacterDB = {
 			[51] = 1584156753,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [105]
+		}, -- [92]
 		{
 			"p sure", -- [1]
 			"|Kq21|k", -- [2]
@@ -2395,7 +2105,7 @@ ElvCharacterDB = {
 			[51] = 1584156755,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [106]
+		}, -- [93]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2417,7 +2127,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156783,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [94]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2439,7 +2149,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584156864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [95]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2461,7 +2171,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584157166,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [96]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2483,7 +2193,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584157248,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [97]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2505,7 +2215,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584157549,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [98]
 		{
 			"you good if i hide those nameplates like that?", -- [1]
 			"|Kq21|k", -- [2]
@@ -2528,7 +2238,7 @@ ElvCharacterDB = {
 			[51] = 1584157669,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [112]
+		}, -- [99]
 		{
 			"so i can actually see", -- [1]
 			"|Kq21|k", -- [2]
@@ -2551,7 +2261,7 @@ ElvCharacterDB = {
 			[51] = 1584157675,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [113]
+		}, -- [100]
 		{
 			"idc", -- [1]
 			"|Kq21|k", -- [2]
@@ -2574,7 +2284,7 @@ ElvCharacterDB = {
 			[51] = 1584157679,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [114]
+		}, -- [101]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2596,7 +2306,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584157933,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [102]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2618,7 +2328,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584158014,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [103]
 		{
 			"2300 IO rogue LF Guild pst", -- [1]
 			"Athleanx-Kil'jaeden", -- [2]
@@ -2640,7 +2350,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Athleanx|r",
 			[51] = 1584158231,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [104]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2662,7 +2372,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584158317,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [105]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2684,7 +2394,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584158398,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [106]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2706,7 +2416,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584158701,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [107]
 		{
 			"YIKES", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2728,7 +2438,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584158741,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [121]
+		}, -- [108]
 		{
 			"he died to delusions", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2750,7 +2460,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584158745,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [122]
+		}, -- [109]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -2772,7 +2482,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584158973,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [110]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2794,7 +2504,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159085,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [111]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2816,7 +2526,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159166,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [112]
 		{
 			"the salv is", -- [1]
 			"|Kq18|k", -- [2]
@@ -2838,7 +2548,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584159350,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [126]
+		}, -- [113]
 		{
 			"way too toxic", -- [1]
 			"|Kq18|k", -- [2]
@@ -2860,7 +2570,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584159351,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [127]
+		}, -- [114]
 		{
 			"i can't get to it in time", -- [1]
 			"|Kq18|k", -- [2]
@@ -2882,7 +2592,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584159355,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [128]
+		}, -- [115]
 		{
 			"go after you land then", -- [1]
 			"|Kq18|k", -- [2]
@@ -2904,7 +2614,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584159378,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [129]
+		}, -- [116]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2926,7 +2636,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584159430,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [130]
+		}, -- [117]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -2948,7 +2658,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159468,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [131]
+		}, -- [118]
 		{
 			"looks like you had trouble with the macro/interact thing on that", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2970,7 +2680,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1584159509,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [132]
+		}, -- [119]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -2992,7 +2702,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584159532,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [133]
+		}, -- [120]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3014,7 +2724,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159549,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [134]
+		}, -- [121]
 		{
 			"they opnly have like 500k hp", -- [1]
 			"|Kq21|k", -- [2]
@@ -3037,7 +2747,7 @@ ElvCharacterDB = {
 			[51] = 1584159593,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [135]
+		}, -- [122]
 		{
 			"if we want to just kill middle one", -- [1]
 			"|Kq21|k", -- [2]
@@ -3060,7 +2770,7 @@ ElvCharacterDB = {
 			[51] = 1584159603,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [136]
+		}, -- [123]
 		{
 			"and leave others since its most direct route", -- [1]
 			"|Kq21|k", -- [2]
@@ -3083,7 +2793,7 @@ ElvCharacterDB = {
 			[51] = 1584159610,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [137]
+		}, -- [124]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3105,7 +2815,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584159757,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [138]
+		}, -- [125]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3127,7 +2837,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159852,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [139]
+		}, -- [126]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3149,7 +2859,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584159878,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [140]
+		}, -- [127]
 		{
 			"<Bare Minimum> 8/12H is currently in need of RDPS (Ele Sham, Boom,  Huntard). Raids are Weds/Thurs 6pm-8pm PST. Whisper for more info.", -- [1]
 			"Agromental-Kil'jaeden", -- [2]
@@ -3171,7 +2881,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcAgromental|r",
 			[51] = 1584159920,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [141]
+		}, -- [128]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3193,7 +2903,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584159933,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [142]
+		}, -- [129]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Carapace Timers]", -- [1]
 			"|Kq18|k", -- [2]
@@ -3215,7 +2925,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584160049,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [143]
+		}, -- [130]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [1]
 			"|Kq18|k", -- [2]
@@ -3237,7 +2947,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584160051,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [144]
+		}, -- [131]
 		{
 			"sorry it isnt working", -- [1]
 			"|Kq21|k", -- [2]
@@ -3260,7 +2970,7 @@ ElvCharacterDB = {
 			[51] = 1584160184,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [145]
+		}, -- [132]
 		{
 			"feel basically useless", -- [1]
 			"|Kq21|k", -- [2]
@@ -3283,7 +2993,7 @@ ElvCharacterDB = {
 			[51] = 1584160190,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [146]
+		}, -- [133]
 		{
 			"np", -- [1]
 			"|Kq21|k", -- [2]
@@ -3306,7 +3016,7 @@ ElvCharacterDB = {
 			[51] = 1584160190,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [147]
+		}, -- [134]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3328,7 +3038,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584160236,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [148]
+		}, -- [135]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3350,7 +3060,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584160317,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [149]
+		}, -- [136]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3372,7 +3082,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584160431,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [150]
+		}, -- [137]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3394,7 +3104,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584160492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [151]
+		}, -- [138]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3416,7 +3126,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584160620,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [152]
+		}, -- [139]
 		{
 			"WTS M+ 10-14 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3438,7 +3148,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584160638,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [153]
+		}, -- [140]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3460,7 +3170,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584160701,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [154]
+		}, -- [141]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3482,7 +3192,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161003,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [155]
+		}, -- [142]
 		{
 			"at least i feel like i can do more damage this way", -- [1]
 			"|Kq21|k", -- [2]
@@ -3505,7 +3215,7 @@ ElvCharacterDB = {
 			[51] = 1584161020,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [156]
+		}, -- [143]
 		{
 			"without being watched", -- [1]
 			"|Kq21|k", -- [2]
@@ -3528,7 +3238,7 @@ ElvCharacterDB = {
 			[51] = 1584161025,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [157]
+		}, -- [144]
 		{
 			"lol", -- [1]
 			"|Kq21|k", -- [2]
@@ -3551,7 +3261,7 @@ ElvCharacterDB = {
 			[51] = 1584161032,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [158]
+		}, -- [145]
 		{
 			"do feel really bad about it", -- [1]
 			"|Kq21|k", -- [2]
@@ -3574,7 +3284,7 @@ ElvCharacterDB = {
 			[51] = 1584161046,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [159]
+		}, -- [146]
 		{
 			"like idk how to explain it", -- [1]
 			"|Kq21|k", -- [2]
@@ -3597,7 +3307,7 @@ ElvCharacterDB = {
 			[51] = 1584161051,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [160]
+		}, -- [147]
 		{
 			"feel like ive been demoted", -- [1]
 			"|Kq21|k", -- [2]
@@ -3620,7 +3330,7 @@ ElvCharacterDB = {
 			[51] = 1584161057,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [161]
+		}, -- [148]
 		{
 			"it's fine, it's just the internet", -- [1]
 			"|Kq21|k", -- [2]
@@ -3643,7 +3353,7 @@ ElvCharacterDB = {
 			[51] = 1584161066,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [162]
+		}, -- [149]
 		{
 			"not your control", -- [1]
 			"|Kq21|k", -- [2]
@@ -3666,7 +3376,7 @@ ElvCharacterDB = {
 			[51] = 1584161069,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [163]
+		}, -- [150]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3688,7 +3398,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161085,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [164]
+		}, -- [151]
 		{
 			"should have never left my gigabit internet at old apaprtment >.<", -- [1]
 			"|Kq21|k", -- [2]
@@ -3711,7 +3421,7 @@ ElvCharacterDB = {
 			[51] = 1584161098,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [165]
+		}, -- [152]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3733,7 +3443,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584161175,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [166]
+		}, -- [153]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3755,7 +3465,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584161293,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [167]
+		}, -- [154]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3777,7 +3487,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161387,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [168]
+		}, -- [155]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3799,7 +3509,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161468,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [169]
+		}, -- [156]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3821,7 +3531,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584161560,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [170]
+		}, -- [157]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3843,7 +3553,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584161661,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [171]
+		}, -- [158]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3865,7 +3575,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161771,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [172]
+		}, -- [159]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -3887,7 +3597,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584161785,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [173]
+		}, -- [160]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -3909,7 +3619,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584161853,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [174]
+		}, -- [161]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -3931,7 +3641,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1584161947,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [175]
+		}, -- [162]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3953,7 +3663,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584161950,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [176]
+		}, -- [163]
 		{
 			"you told Arn and everybody else that 20-30 minutes ago...", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -3975,7 +3685,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584161951,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [177]
+		}, -- [164]
 		{
 			"smh", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -3997,7 +3707,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584161953,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [178]
+		}, -- [165]
 		{
 			"WTS 10-15keys 455+ LOOTs DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -4019,7 +3729,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584162150,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [179]
+		}, -- [166]
 		{
 			"WTS |cffffffff|Hitem:168310::::::::120:269::13:1:3524:::|h[Mech-Dowel's \"Big Mech\"]|h|r 400g a stack and |cffffffff|Hitem:168315::::::::120:269::13:1:3524:::|h[Famine Evaluator And Snack Table]|h|r 4000g", -- [1]
 			"Avataranng-Kil'jaeden", -- [2]
@@ -4041,7 +3751,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Avataranng|r",
 			[51] = 1584162188,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [180]
+		}, -- [167]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4063,7 +3773,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584162237,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [181]
+		}, -- [168]
 		{
 			"WTS 10-15keys 455+ LOOTs DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -4085,7 +3795,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584162256,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [182]
+		}, -- [169]
 		{
 			"WTS 10-15keys 455+ LOOTs DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -4107,7 +3817,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584162407,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [183]
+		}, -- [170]
 		{
 			"WTS AoTC right now. Heroic Nzoth kill. PST for info GOLD ONLY", -- [1]
 			"Rexum-Kil'jaeden", -- [2]
@@ -4129,7 +3839,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Rexum|r",
 			[51] = 1584162456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [184]
+		}, -- [171]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4151,7 +3861,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584162540,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [185]
+		}, -- [172]
 		{
 			"damn, method das booted cayna", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -4173,7 +3883,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584162549,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [186]
+		}, -- [173]
 		{
 			":)", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -4195,7 +3905,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584162553,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [187]
+		}, -- [174]
 		{
 			"Who's that", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4217,7 +3927,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1584162576,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [188]
+		}, -- [175]
 		{
 			"Shammy", -- [1]
 			"Choplo-Kil'jaeden", -- [2]
@@ -4239,7 +3949,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Choplo|r",
 			[51] = 1584162581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [189]
+		}, -- [176]
 		{
 			"The caster guy?", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4261,7 +3971,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1584162596,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [190]
+		}, -- [177]
 		{
 			"CYA CAYNA", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4283,7 +3993,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584162596,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [191]
+		}, -- [178]
 		{
 			"stupid shadow priest", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4305,7 +4015,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584162599,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [192]
+		}, -- [179]
 		{
 			"LULW", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4327,7 +4037,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584162599,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [193]
+		}, -- [180]
 		{
 			"oops", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4349,7 +4059,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584162602,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [194]
+		}, -- [181]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4371,7 +4081,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584162621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [195]
+		}, -- [182]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:71::::::|h[Vial of the Sands]|h|r 57,000g", -- [1]
 			"Corndog-Kil'jaeden", -- [2]
@@ -4393,7 +4103,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCorndog|r",
 			[51] = 1584162896,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [196]
+		}, -- [183]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4415,7 +4125,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584162924,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [197]
+		}, -- [184]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4437,7 +4147,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584163005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [198]
+		}, -- [185]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4459,7 +4169,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584163062,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [199]
+		}, -- [186]
 		{
 			"WTS 10-15keys 455+ LOOTs DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -4481,7 +4191,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584163105,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [200]
+		}, -- [187]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:71::::::|h[Vial of the Sands]|h|r 57,000g", -- [1]
 			"Corndog-Kil'jaeden", -- [2]
@@ -4503,7 +4213,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCorndog|r",
 			[51] = 1584163266,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [201]
+		}, -- [188]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4525,7 +4235,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584163308,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [202]
+		}, -- [189]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4547,7 +4257,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584163389,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [203]
+		}, -- [190]
 		{
 			"WTS 10-15keys CARRY 455+ LOOTs DM", -- [1]
 			"Buzzly-Kil'jaeden", -- [2]
@@ -4569,7 +4279,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Buzzly|r",
 			[51] = 1584163498,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [204]
+		}, -- [191]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:71::::::|h[Vial of the Sands]|h|r 57,000g", -- [1]
 			"Corndog-Kil'jaeden", -- [2]
@@ -4591,7 +4301,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cCorndog|r",
 			[51] = 1584163545,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [205]
+		}, -- [192]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4613,7 +4323,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584163692,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [206]
+		}, -- [193]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jirttok-Kil'jaeden", -- [2]
@@ -4635,7 +4345,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirttok|r",
 			[51] = 1584163773,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [207]
+		}, -- [194]
 		{
 			"It still seems like a lot of people don't understand the orb mechanic in P3", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4657,7 +4367,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163896,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [208]
+		}, -- [195]
 		{
 			"I was one of the three", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4679,7 +4389,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163901,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [209]
+		}, -- [196]
 		{
 			"and popped mine almost 5 seconds before the next person", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4701,7 +4411,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163909,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [210]
+		}, -- [197]
 		{
 			"they don't, but we'll get it down quickly", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4723,7 +4433,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163915,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [211]
+		}, -- [198]
 		{
 			"Anything I can do to help?", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4745,7 +4455,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163927,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [212]
+		}, -- [199]
 		{
 			"INVITE ME FOR ULDUM", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4767,7 +4477,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163929,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [213]
+		}, -- [200]
 		{
 			"LETS SPEED CLEAR IT", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4789,7 +4499,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163931,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [214]
+		}, -- [201]
 		{
 			"nite nite", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4811,7 +4521,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584163935,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [215]
+		}, -- [202]
 		{
 			"inv me", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -4833,7 +4543,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584163936,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [216]
+		}, -- [203]
 		{
 			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
 			"Inertia-Kil'jaeden", -- [2]
@@ -4855,7 +4565,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Inertia|r",
 			[51] = 1584163936,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [217]
+		}, -- [204]
 		{
 			"like warzone", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4877,7 +4587,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163937,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [218]
+		}, -- [205]
 		{
 			"CJ", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4899,7 +4609,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163938,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [219]
+		}, -- [206]
 		{
 			"come", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -4921,7 +4631,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163938,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [220]
+		}, -- [207]
 		{
 			"nope, just keep doing what you're doing", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4943,7 +4653,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163942,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [221]
+		}, -- [208]
 		{
 			"WHO ELSE WANTS IN", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4965,7 +4675,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584163945,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [222]
+		}, -- [209]
 		{
 			"inv", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4987,7 +4697,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1584163948,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [223]
+		}, -- [210]
 		{
 			"I'll get better at calling it sooner too", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -5009,7 +4719,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584163953,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [224]
+		}, -- [211]
 		{
 			"AIGHT WE FULL SUCKS TO SUCK", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -5031,7 +4741,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584163964,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [225]
+		}, -- [212]
 		{
 			"ROFL", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -5053,7 +4763,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584163985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [226]
+		}, -- [213]
 		{
 			"|cffa335ee|Hitem:167743::::::::120:65::13::::|h[Silas' Potion of Prosperity]|h|r", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5075,7 +4785,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584234761,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [227]
+		}, -- [214]
 		{
 			"whisper inv for raid", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -5097,7 +4807,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584235018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [228]
+		}, -- [215]
 		{
 			"real talk", -- [1]
 			"|Kq32|k", -- [2]
@@ -5120,7 +4830,7 @@ ElvCharacterDB = {
 			[51] = 1584235160,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [229]
+		}, -- [216]
 		{
 			"inv", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -5142,7 +4852,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584235169,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [230]
+		}, -- [217]
 		{
 			"if i leave this guild its because jamie just doesnt listen or doesnt care about feedback", -- [1]
 			"|Kq32|k", -- [2]
@@ -5165,7 +4875,7 @@ ElvCharacterDB = {
 			[51] = 1584235174,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [231]
+		}, -- [218]
 		{
 			"i tried to get her to optimize for an hour last night, and i got norhing", -- [1]
 			"|Kq32|k", -- [2]
@@ -5188,7 +4898,7 @@ ElvCharacterDB = {
 			[51] = 1584235189,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [232]
+		}, -- [219]
 		{
 			"after raid?", -- [1]
 			"|Kq32|k", -- [2]
@@ -5211,7 +4921,7 @@ ElvCharacterDB = {
 			[51] = 1584235199,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [233]
+		}, -- [220]
 		{
 			"so fuck it, im going iris because its the  best opption for what im working with", -- [1]
 			"|Kq32|k", -- [2]
@@ -5234,7 +4944,7 @@ ElvCharacterDB = {
 			[51] = 1584235207,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [234]
+		}, -- [221]
 		{
 			"Chinese strats", -- [1]
 			"|Kq32|k", -- [2]
@@ -5257,7 +4967,7 @@ ElvCharacterDB = {
 			[51] = 1584235217,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [235]
+		}, -- [222]
 		{
 			"optimise for p3 dmg, that's what we need most", -- [1]
 			"|Kq32|k", -- [2]
@@ -5280,7 +4990,7 @@ ElvCharacterDB = {
 			[51] = 1584235221,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [236]
+		}, -- [223]
 		{
 			"Im running stars", -- [1]
 			"|Kq32|k", -- [2]
@@ -5303,7 +5013,7 @@ ElvCharacterDB = {
 			[51] = 1584235228,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [237]
+		}, -- [224]
 		{
 			"i'", -- [1]
 			"|Kq32|k", -- [2]
@@ -5326,7 +5036,7 @@ ElvCharacterDB = {
 			[51] = 1584235233,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [238]
+		}, -- [225]
 		{
 			"just for that", -- [1]
 			"|Kq32|k", -- [2]
@@ -5349,7 +5059,7 @@ ElvCharacterDB = {
 			[51] = 1584235236,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [239]
+		}, -- [226]
 		{
 			"like sometimes i feel liek the only dps who is trying", -- [1]
 			"|Kq32|k", -- [2]
@@ -5372,7 +5082,7 @@ ElvCharacterDB = {
 			[51] = 1584235254,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [240]
+		}, -- [227]
 		{
 			"to look at logs and shit and optimize", -- [1]
 			"|Kq32|k", -- [2]
@@ -5395,7 +5105,7 @@ ElvCharacterDB = {
 			[51] = 1584235260,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [241]
+		}, -- [228]
 		{
 			"its so frustrating", -- [1]
 			"|Kq32|k", -- [2]
@@ -5418,7 +5128,7 @@ ElvCharacterDB = {
 			[51] = 1584235264,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [242]
+		}, -- [229]
 		{
 			"yeah", -- [1]
 			"|Kq32|k", -- [2]
@@ -5441,7 +5151,7 @@ ElvCharacterDB = {
 			[51] = 1584235268,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [243]
+		}, -- [230]
 		{
 			"and i bring it up to jamie and i get 0 feedback", -- [1]
 			"|Kq32|k", -- [2]
@@ -5464,7 +5174,7 @@ ElvCharacterDB = {
 			[51] = 1584235272,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [244]
+		}, -- [231]
 		{
 			"\"do what you want to do\"", -- [1]
 			"|Kq32|k", -- [2]
@@ -5487,7 +5197,7 @@ ElvCharacterDB = {
 			[51] = 1584235279,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [245]
+		}, -- [232]
 		{
 			"thats what i got", -- [1]
 			"|Kq32|k", -- [2]
@@ -5510,7 +5220,7 @@ ElvCharacterDB = {
 			[51] = 1584235281,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [246]
+		}, -- [233]
 		{
 			"but how do we track that", -- [1]
 			"|Kq32|k", -- [2]
@@ -5533,7 +5243,7 @@ ElvCharacterDB = {
 			[51] = 1584235293,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [247]
+		}, -- [234]
 		{
 			"it was my idea to swap her and hyper too", -- [1]
 			"|Kq32|k", -- [2]
@@ -5556,7 +5266,7 @@ ElvCharacterDB = {
 			[51] = 1584235303,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [248]
+		}, -- [235]
 		{
 			"like", -- [1]
 			"|Kq32|k", -- [2]
@@ -5579,7 +5289,7 @@ ElvCharacterDB = {
 			[51] = 1584235304,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [249]
+		}, -- [236]
 		{
 			"can't just be like \"raise your hand if you went over logs\"", -- [1]
 			"|Kq32|k", -- [2]
@@ -5602,7 +5312,7 @@ ElvCharacterDB = {
 			[51] = 1584235306,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [250]
+		}, -- [237]
 		{
 			"its not that hard to optimize but no one wants to try", -- [1]
 			"|Kq32|k", -- [2]
@@ -5625,7 +5335,7 @@ ElvCharacterDB = {
 			[51] = 1584235312,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [251]
+		}, -- [238]
 		{
 			"i mean no offense but", -- [1]
 			"|Kq32|k", -- [2]
@@ -5648,7 +5358,7 @@ ElvCharacterDB = {
 			[51] = 1584235321,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [252]
+		}, -- [239]
 		{
 			"that's what I'm trying to do as coach", -- [1]
 			"|Kq32|k", -- [2]
@@ -5671,7 +5381,7 @@ ElvCharacterDB = {
 			[51] = 1584235324,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [253]
+		}, -- [240]
 		{
 			"its obvious looking at results right", -- [1]
 			"|Kq32|k", -- [2]
@@ -5694,7 +5404,7 @@ ElvCharacterDB = {
 			[51] = 1584235328,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [254]
+		}, -- [241]
 		{
 			"just hard because jamie's used to doing everything her way", -- [1]
 			"|Kq32|k", -- [2]
@@ -5717,7 +5427,7 @@ ElvCharacterDB = {
 			[51] = 1584235337,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [255]
+		}, -- [242]
 		{
 			"which is BDG's way", -- [1]
 			"|Kq32|k", -- [2]
@@ -5740,7 +5450,7 @@ ElvCharacterDB = {
 			[51] = 1584235341,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [256]
+		}, -- [243]
 		{
 			"there is a reason my %s are highest in guild right now, because no one else prepares and just wings it", -- [1]
 			"|Kq32|k", -- [2]
@@ -5763,7 +5473,7 @@ ElvCharacterDB = {
 			[51] = 1584235347,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [257]
+		}, -- [244]
 		{
 			"which doesn't always work for us", -- [1]
 			"|Kq32|k", -- [2]
@@ -5786,7 +5496,7 @@ ElvCharacterDB = {
 			[51] = 1584235349,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [258]
+		}, -- [245]
 		{
 			"yeah", -- [1]
 			"|Kq32|k", -- [2]
@@ -5809,7 +5519,7 @@ ElvCharacterDB = {
 			[51] = 1584235355,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [259]
+		}, -- [246]
 		{
 			"sorry i dont mean to get mad but", -- [1]
 			"|Kq32|k", -- [2]
@@ -5832,7 +5542,7 @@ ElvCharacterDB = {
 			[51] = 1584235357,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [260]
+		}, -- [247]
 		{
 			"its frustrating feeling like", -- [1]
 			"|Kq32|k", -- [2]
@@ -5855,7 +5565,7 @@ ElvCharacterDB = {
 			[51] = 1584235369,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [261]
+		}, -- [248]
 		{
 			"nothing ever gets done", -- [1]
 			"|Kq32|k", -- [2]
@@ -5878,7 +5588,7 @@ ElvCharacterDB = {
 			[51] = 1584235373,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [262]
+		}, -- [249]
 		{
 			"and maybe im just not privy to it", -- [1]
 			"|Kq32|k", -- [2]
@@ -5901,7 +5611,7 @@ ElvCharacterDB = {
 			[51] = 1584235380,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [263]
+		}, -- [250]
 		{
 			"I know ox does, I think the mages do (at least turkey obv, and yuki and delpi)", -- [1]
 			"|Kq32|k", -- [2]
@@ -5924,7 +5634,7 @@ ElvCharacterDB = {
 			[51] = 1584235401,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [264]
+		}, -- [251]
 		{
 			"idk dude its just", -- [1]
 			"|Kq32|k", -- [2]
@@ -5947,7 +5657,7 @@ ElvCharacterDB = {
 			[51] = 1584235413,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [265]
+		}, -- [252]
 		{
 			"but half the raid just raid logs, and it's annoying", -- [1]
 			"|Kq32|k", -- [2]
@@ -5970,7 +5680,7 @@ ElvCharacterDB = {
 			[51] = 1584235426,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [266]
+		}, -- [253]
 		{
 			"not a good look when im being approached elsewhere and they come across as super professional", -- [1]
 			"|Kq32|k", -- [2]
@@ -5993,7 +5703,7 @@ ElvCharacterDB = {
 			[51] = 1584235429,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [267]
+		}, -- [254]
 		{
 			"just being honest because i trust you and value your opinion", -- [1]
 			"|Kq32|k", -- [2]
@@ -6016,7 +5726,7 @@ ElvCharacterDB = {
 			[51] = 1584235440,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [268]
+		}, -- [255]
 		{
 			"like yeah this essence choice isnt optimal but, its the best we can do since evan wont listen about moving the boss", -- [1]
 			"|Kq32|k", -- [2]
@@ -6039,7 +5749,7 @@ ElvCharacterDB = {
 			[51] = 1584235478,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [269]
+		}, -- [256]
 		{
 			"rdy for trash clear", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6061,7 +5771,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584235480,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [270]
+		}, -- [257]
 		{
 			"so what else am i gonna do", -- [1]
 			"|Kq32|k", -- [2]
@@ -6084,7 +5794,7 @@ ElvCharacterDB = {
 			[51] = 1584235483,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [271]
+		}, -- [258]
 		{
 			"is there a reason he didn't want to?", -- [1]
 			"|Kq32|k", -- [2]
@@ -6107,7 +5817,7 @@ ElvCharacterDB = {
 			[51] = 1584235516,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [272]
+		}, -- [259]
 		{
 			"idk he just says", -- [1]
 			"|Kq32|k", -- [2]
@@ -6130,7 +5840,7 @@ ElvCharacterDB = {
 			[51] = 1584235537,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [273]
+		}, -- [260]
 		{
 			"oh we cant do that", -- [1]
 			"|Kq32|k", -- [2]
@@ -6153,7 +5863,7 @@ ElvCharacterDB = {
 			[51] = 1584235541,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [274]
+		}, -- [261]
 		{
 			"its not possible", -- [1]
 			"|Kq32|k", -- [2]
@@ -6176,7 +5886,7 @@ ElvCharacterDB = {
 			[51] = 1584235543,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [275]
+		}, -- [262]
 		{
 			"but it totally is, BDG does it", -- [1]
 			"|Kq32|k", -- [2]
@@ -6199,7 +5909,7 @@ ElvCharacterDB = {
 			[51] = 1584235549,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [276]
+		}, -- [263]
 		{
 			"well, they probably kill the hemos faster", -- [1]
 			"|Kq32|k", -- [2]
@@ -6222,7 +5932,7 @@ ElvCharacterDB = {
 			[51] = 1584235579,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [277]
+		}, -- [264]
 		{
 			"we push boss at the same time basically", -- [1]
 			"|Kq32|k", -- [2]
@@ -6245,7 +5955,7 @@ ElvCharacterDB = {
 			[51] = 1584235588,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [278]
+		}, -- [265]
 		{
 			"then we need to kill hemos, which is what we were saying all night last night", -- [1]
 			"|Kq32|k", -- [2]
@@ -6268,7 +5978,7 @@ ElvCharacterDB = {
 			[51] = 1584235607,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [279]
+		}, -- [266]
 		{
 			"as far as I saw, there wasn't much time to move the boss", -- [1]
 			"|Kq32|k", -- [2]
@@ -6291,7 +6001,7 @@ ElvCharacterDB = {
 			[51] = 1584235610,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [280]
+		}, -- [267]
 		{
 			"its all a big feedback loop", -- [1]
 			"|Kq32|k", -- [2]
@@ -6314,7 +6024,7 @@ ElvCharacterDB = {
 			[51] = 1584235614,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [281]
+		}, -- [268]
 		{
 			"were people focusing boss?", -- [1]
 			"|Kq32|k", -- [2]
@@ -6337,7 +6047,7 @@ ElvCharacterDB = {
 			[51] = 1584235666,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [282]
+		}, -- [269]
 		{
 			"I didn't have a chance", -- [1]
 			"|Kq32|k", -- [2]
@@ -6360,7 +6070,7 @@ ElvCharacterDB = {
 			[51] = 1584235670,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [283]
+		}, -- [270]
 		{
 			"to look over logs", -- [1]
 			"|Kq32|k", -- [2]
@@ -6383,7 +6093,7 @@ ElvCharacterDB = {
 			[51] = 1584235673,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [284]
+		}, -- [271]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -6405,7 +6115,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584235739,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [285]
+		}, -- [272]
 		{
 			"Interrupted Occult Shadowmender's |cff71d5ff|Hspell:310842:0|h[Shadow Heal]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -6427,7 +6137,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584235748,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [286]
+		}, -- [273]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -6449,7 +6159,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584235787,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [287]
+		}, -- [274]
 		{
 			"1", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -6471,7 +6181,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584235793,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [288]
+		}, -- [275]
 		{
 			"Pluie interrupted |cff71d5ff|Hspell:311045:0|h[Void Bolt]|h|r", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6493,7 +6203,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584235821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [289]
+		}, -- [276]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6515,7 +6225,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584235822,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [290]
+		}, -- [277]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -6537,7 +6247,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584235824,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [291]
+		}, -- [278]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6559,7 +6269,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584235846,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [292]
+		}, -- [279]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -6581,7 +6291,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584235871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [293]
+		}, -- [280]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -6603,7 +6313,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584235926,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [294]
+		}, -- [281]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6625,7 +6335,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584235931,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [295]
+		}, -- [282]
 		{
 			"there he is", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6647,7 +6357,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584236115,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [296]
+		}, -- [283]
 		{
 			"1", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6669,7 +6379,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1584236161,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [297]
+		}, -- [284]
 		{
 			"1", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -6691,7 +6401,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584236186,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [298]
+		}, -- [285]
 		{
 			"stream pls", -- [1]
 			"|Kq27|k", -- [2]
@@ -6713,7 +6423,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584236358,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [299]
+		}, -- [286]
 		{
 			"|cffffff00Port of Zandalar is under attack!|r", -- [1]
 			"", -- [2]
@@ -6735,7 +6445,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584236378,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [300]
+		}, -- [287]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -6757,7 +6467,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584236582,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [301]
+		}, -- [288]
 		{
 			"who is whispering me...it's not showing the nameplate", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -6779,7 +6489,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584236585,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [302]
+		}, -- [289]
 		{
 			"thats cada", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -6801,7 +6511,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584236606,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [303]
+		}, -- [290]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6823,7 +6533,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584236618,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [304]
+		}, -- [291]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -6845,7 +6555,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584236680,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [305]
+		}, -- [292]
 		{
 			"|cffffff00Port of Zandalar is under attack!|r", -- [1]
 			"", -- [2]
@@ -6867,7 +6577,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584236686,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [306]
+		}, -- [293]
 		{
 			"WTS CARRY +10+13, ONLY GOLD.", -- [1]
 			"Kellyx-Kil'jaeden", -- [2]
@@ -6889,7 +6599,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kellyx|r",
 			[51] = 1584236758,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [307]
+		}, -- [294]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6911,7 +6621,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584236824,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [308]
+		}, -- [295]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6933,7 +6643,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237127,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [309]
+		}, -- [296]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -6955,7 +6665,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584237182,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [310]
+		}, -- [297]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6977,7 +6687,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237209,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [311]
+		}, -- [298]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -6999,7 +6709,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584237250,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [312]
+		}, -- [299]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -7021,7 +6731,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584237314,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [313]
+		}, -- [300]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7043,7 +6753,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237512,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [314]
+		}, -- [301]
 		{
 			"<B A M F>", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7065,7 +6775,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584237575,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [315]
+		}, -- [302]
 		{
 			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7087,7 +6797,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584237575,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [316]
+		}, -- [303]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7109,7 +6819,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237593,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [317]
+		}, -- [304]
 		{
 			"<B A M F>", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7131,7 +6841,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584237621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [318]
+		}, -- [305]
 		{
 			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7153,7 +6863,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584237621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [319]
+		}, -- [306]
 		{
 			"WTS CARRY +10+13, ONLY GOLD.", -- [1]
 			"Kellyx-Kil'jaeden", -- [2]
@@ -7175,7 +6885,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kellyx|r",
 			[51] = 1584237724,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [320]
+		}, -- [307]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7197,7 +6907,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584237845,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [321]
+		}, -- [308]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7219,7 +6929,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237896,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [322]
+		}, -- [309]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7241,7 +6951,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584237975,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [323]
+		}, -- [310]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7263,7 +6973,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584237977,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [324]
+		}, -- [311]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -7285,7 +6995,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584238005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [325]
+		}, -- [312]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7307,7 +7017,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238132,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [326]
+		}, -- [313]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -7329,7 +7039,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584238183,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [327]
+		}, -- [314]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -7351,7 +7061,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584238268,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [328]
+		}, -- [315]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7373,7 +7083,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238277,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [329]
+		}, -- [316]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7395,7 +7105,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238280,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [330]
+		}, -- [317]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7417,7 +7127,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238361,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [331]
+		}, -- [318]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7439,7 +7149,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238415,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [332]
+		}, -- [319]
 		{
 			"Details!: Mycelial Cyst - Damage Taken [ EF]", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7461,7 +7171,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238416,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [333]
+		}, -- [320]
 		{
 			"1. Delpi .................... 2.37M (15.1%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7483,7 +7193,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238416,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [334]
+		}, -- [321]
 		{
 			"2. Turkeyone .......... 2.36M (15.0%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7505,7 +7215,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [335]
+		}, -- [322]
 		{
 			"3. Yukio ................... 1.62M (10.3%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7527,7 +7237,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [336]
+		}, -- [323]
 		{
 			"4. Andruww ............ 1.22M (7.8%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7549,7 +7259,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [337]
+		}, -- [324]
 		{
 			"5. Sploshey ............. 1.14M (7.3%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7571,7 +7281,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [338]
+		}, -- [325]
 		{
 			"6. Lyuneria .............. 1.06M (6.8%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7593,7 +7303,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238418,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [339]
+		}, -- [326]
 		{
 			"7. Dumbers ............. 1.04M (6.6%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7615,7 +7325,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238418,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [340]
+		}, -- [327]
 		{
 			"8. Thunderrz ........... 979.2K (6.2%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7637,7 +7347,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238418,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [341]
+		}, -- [328]
 		{
 			"9. Metsy .................. 818.2K (5.2%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7659,7 +7369,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238418,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [342]
+		}, -- [329]
 		{
 			"10. Peace .................. 623.2K (4.0%)", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7681,7 +7391,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584238419,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [343]
+		}, -- [330]
 		{
 			"<B A M F>", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7703,7 +7413,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584238419,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [344]
+		}, -- [331]
 		{
 			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
 			"Tasalhof-Kil'jaeden", -- [2]
@@ -7725,7 +7435,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tasalhof|r",
 			[51] = 1584238419,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [345]
+		}, -- [332]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7747,7 +7457,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238422,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [346]
+		}, -- [333]
 		{
 			"WHOA THERE", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -7769,7 +7479,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1584238423,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [347]
+		}, -- [334]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7791,7 +7501,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238432,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [348]
+		}, -- [335]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7813,7 +7523,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238508,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [349]
+		}, -- [336]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7835,7 +7545,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238723,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [350]
+		}, -- [337]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7857,7 +7567,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238735,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [351]
+		}, -- [338]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7879,7 +7589,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584238816,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [352]
+		}, -- [339]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7901,7 +7611,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238820,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [353]
+		}, -- [340]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7923,7 +7633,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584238973,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [354]
+		}, -- [341]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7945,7 +7655,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584239051,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [355]
+		}, -- [342]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -7967,7 +7677,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584239118,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [356]
+		}, -- [343]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -7989,7 +7699,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584239181,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [357]
+		}, -- [344]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8011,7 +7721,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584239199,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [358]
+		}, -- [345]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -8033,7 +7743,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584239245,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [359]
+		}, -- [346]
 		{
 			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
 			"Kortitah-Kil'jaeden", -- [2]
@@ -8055,7 +7765,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Kortitah|r",
 			[51] = 1584239316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [360]
+		}, -- [347]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -8077,7 +7787,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584239462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [361]
+		}, -- [348]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8099,7 +7809,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584239502,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [362]
+		}, -- [349]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8121,7 +7831,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584239583,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [363]
+		}, -- [350]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8143,7 +7853,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584240270,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [364]
+		}, -- [351]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8165,7 +7875,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584240351,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [365]
+		}, -- [352]
 		{
 			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
 			"", -- [2]
@@ -8187,7 +7897,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584240795,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [366]
+		}, -- [353]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8209,7 +7919,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241037,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [367]
+		}, -- [354]
 		{
 			"i think its more imortant to have visionm on both sides", -- [1]
 			"|Kq32|k", -- [2]
@@ -8232,7 +7942,7 @@ ElvCharacterDB = {
 			[51] = 1584241043,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [368]
+		}, -- [355]
 		{
 			"from officers", -- [1]
 			"|Kq32|k", -- [2]
@@ -8255,7 +7965,7 @@ ElvCharacterDB = {
 			[51] = 1584241044,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [369]
+		}, -- [356]
 		{
 			"yeah, I'm swapping to tehkz", -- [1]
 			"|Kq32|k", -- [2]
@@ -8278,7 +7988,7 @@ ElvCharacterDB = {
 			[51] = 1584241057,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [370]
+		}, -- [357]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8300,7 +8010,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241119,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [371]
+		}, -- [358]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8322,7 +8032,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241421,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [372]
+		}, -- [359]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8344,7 +8054,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241502,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [373]
+		}, -- [360]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8366,7 +8076,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241804,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [374]
+		}, -- [361]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8388,7 +8098,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584241885,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [375]
+		}, -- [362]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8410,7 +8120,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584242188,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [376]
+		}, -- [363]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8432,7 +8142,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584242270,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [377]
+		}, -- [364]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8454,7 +8164,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584242572,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [378]
+		}, -- [365]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8476,7 +8186,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584242653,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [379]
+		}, -- [366]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8498,7 +8208,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584242956,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [380]
+		}, -- [367]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8520,7 +8230,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584243037,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [381]
+		}, -- [368]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8542,7 +8252,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584243340,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [382]
+		}, -- [369]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8564,7 +8274,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584243421,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [383]
+		}, -- [370]
 		{
 			" WTS >>Heroic 12/12 Full Clear Ny'alotha<< tomorrow evening  @ 9PM or 11PM PST. AOTC (last boss) only option available as well. Guaranteed Uncorrupted Voidwing mount included! GOLD ONLY.", -- [1]
 			"Emmvee-Kil'jaeden", -- [2]
@@ -8586,7 +8296,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Emmvee|r",
 			[51] = 1584243688,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [384]
+		}, -- [371]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8608,7 +8318,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584243724,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [385]
+		}, -- [372]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8630,7 +8340,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584243805,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [386]
+		}, -- [373]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8652,7 +8362,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [387]
+		}, -- [374]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8674,7 +8384,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244187,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [388]
+		}, -- [375]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8696,7 +8406,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244490,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [389]
+		}, -- [376]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8718,7 +8428,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244572,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [390]
+		}, -- [377]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8740,7 +8450,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244874,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [391]
+		}, -- [378]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8762,7 +8472,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584244955,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [392]
+		}, -- [379]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8784,7 +8494,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584245258,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [393]
+		}, -- [380]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8806,7 +8516,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584245339,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [394]
+		}, -- [381]
 		{
 			" /2 WTS >>Heroic 12/12 Full Clear Ny'alotha<< tomorrow evening  @ 9PM or 11PM PST. AOTC (last boss) only option available as well. Guaranteed Uncorrupted Voidwing mount included! GOLD ONLY.", -- [1]
 			"Emmvee-Kil'jaeden", -- [2]
@@ -8828,7 +8538,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Emmvee|r",
 			[51] = 1584245381,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [395]
+		}, -- [382]
 		{
 			"you helped with right side right", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8850,7 +8560,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584245421,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [396]
+		}, -- [383]
 		{
 			"yeah", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8872,7 +8582,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584245428,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [397]
+		}, -- [384]
 		{
 			"went smoothly, that was good", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8894,7 +8604,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584245431,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [398]
+		}, -- [385]
 		{
 			"tanks!", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8916,7 +8626,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584245439,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [399]
+		}, -- [386]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8938,7 +8648,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584245642,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [400]
+		}, -- [387]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8960,7 +8670,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584245724,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [401]
+		}, -- [388]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -8982,7 +8692,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [402]
+		}, -- [389]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9004,7 +8714,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246107,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [403]
+		}, -- [390]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9026,7 +8736,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246409,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [404]
+		}, -- [391]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9048,7 +8758,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246490,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [405]
+		}, -- [392]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9070,7 +8780,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246792,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [406]
+		}, -- [393]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9092,7 +8802,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584246873,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [407]
+		}, -- [394]
 		{
 			"[WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [1]
 			"|Kq19|k", -- [2]
@@ -9115,7 +8825,7 @@ ElvCharacterDB = {
 			[51] = 1584246976,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Evangelos",
-		}, -- [408]
+		}, -- [395]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9137,7 +8847,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584247176,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [409]
+		}, -- [396]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9159,7 +8869,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584247257,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [410]
+		}, -- [397]
 		{
 			"WTS |cffa335ee|Hitem:175009::::::::120:73::6:7:4824:6578:6579:6537:6513:1517:4786:::|h[Zealous Ritualist's Reverie]|h|r ", -- [1]
 			"Tittanis-Kil'jaeden", -- [2]
@@ -9181,7 +8891,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTittanis|r",
 			[51] = 1584247617,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [411]
+		}, -- [398]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9203,7 +8913,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584247942,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [412]
+		}, -- [399]
 		{
 			"WTS |cffa335ee|Hitem:175009::::::::120:73::6:7:4824:6578:6579:6537:6513:1517:4786:::|h[Zealous Ritualist's Reverie]|h|r ", -- [1]
 			"Tittanis-Kil'jaeden", -- [2]
@@ -9225,7 +8935,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTittanis|r",
 			[51] = 1584247969,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [413]
+		}, -- [400]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9247,7 +8957,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584248023,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [414]
+		}, -- [401]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -9269,7 +8979,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584248183,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [415]
+		}, -- [402]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9291,7 +9001,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584248326,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [416]
+		}, -- [403]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9313,7 +9023,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584248407,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [417]
+		}, -- [404]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -9335,7 +9045,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584248485,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [418]
+		}, -- [405]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9357,7 +9067,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584248710,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [419]
+		}, -- [406]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9379,7 +9089,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584248791,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [420]
+		}, -- [407]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -9401,7 +9111,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584248796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [421]
+		}, -- [408]
 		{
 			"should we move cds around so i aura sac + bubble third inf", -- [1]
 			"|Kq9|k", -- [2]
@@ -9424,7 +9134,7 @@ ElvCharacterDB = {
 			[51] = 1584248950,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [422]
+		}, -- [409]
 		{
 			"my tide is 2m:3\\", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9446,7 +9156,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584248959,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [423]
+		}, -- [410]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -9468,7 +9178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584248991,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [424]
+		}, -- [411]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9490,7 +9200,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249093,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [425]
+		}, -- [412]
 		{
 			"i didnt mean to second guess your cds, it just seemed like the throughput cds werent doign it", -- [1]
 			"|Kq32|k", -- [2]
@@ -9513,7 +9223,7 @@ ElvCharacterDB = {
 			[51] = 1584249161,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [426]
+		}, -- [413]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9535,7 +9245,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249175,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [427]
+		}, -- [414]
 		{
 			"[WTS] **NEW LOW AOTC PRICES** Running Right Now!! Get in on a quick and easy kill for your AOTC and Voidwing Mount! Gold Only. PST <3", -- [1]
 			"Nudles-Kil'jaeden", -- [2]
@@ -9557,7 +9267,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Nudles|r",
 			[51] = 1584249299,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [428]
+		}, -- [415]
 		{
 			"the center?", -- [1]
 			"|Kq9|k", -- [2]
@@ -9580,7 +9290,7 @@ ElvCharacterDB = {
 			[51] = 1584249337,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [429]
+		}, -- [416]
 		{
 			"kk", -- [1]
 			"|Kq9|k", -- [2]
@@ -9603,7 +9313,7 @@ ElvCharacterDB = {
 			[51] = 1584249349,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [430]
+		}, -- [417]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9625,7 +9335,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249478,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [431]
+		}, -- [418]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9647,7 +9357,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249559,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [432]
+		}, -- [419]
 		{
 			"i still can't find a spot to stand", -- [1]
 			"|Kq27|k", -- [2]
@@ -9669,7 +9379,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584249801,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [433]
+		}, -- [420]
 		{
 			"=-=-=-=-=-=-=", -- [1]
 			"|Kq27|k", -- [2]
@@ -9691,7 +9401,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584249802,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [434]
+		}, -- [421]
 		{
 			"was tide up there, did it work well", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9713,7 +9423,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584249803,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [435]
+		}, -- [422]
 		{
 			"yeah", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9735,7 +9445,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584249807,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [436]
+		}, -- [423]
 		{
 			"where you were earlier pulls was fine, I moved sci and nam down to make room for you", -- [1]
 			"|Kq27|k", -- [2]
@@ -9757,7 +9467,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584249827,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [437]
+		}, -- [424]
 		{
 			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Carapace of N'Zoth (94% (Stage 1), 20/20 people alive)", -- [1]
 			"|Kq27|k", -- [2]
@@ -9779,7 +9489,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584249827,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [438]
+		}, -- [425]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9801,7 +9511,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249861,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [439]
+		}, -- [426]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9823,7 +9533,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584249942,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [440]
+		}, -- [427]
 		{
 			"[WTS] **NEW LOW AOTC PRICES** Running Right Now!! Get in on a quick and easy kill for your AOTC and Voidwing Mount! Gold Only. PST <3", -- [1]
 			"Nudles-Kil'jaeden", -- [2]
@@ -9845,7 +9555,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Nudles|r",
 			[51] = 1584249967,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [441]
+		}, -- [428]
 		{
 			"<DBM> Yellowy has wiped on Mythic - Carapace of N'Zoth at 61% (Stage 2)", -- [1]
 			"|Kq27|k", -- [2]
@@ -9867,7 +9577,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584250045,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [442]
+		}, -- [429]
 		{
 			"lines up perfect and that devo does wonders there lol", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9889,7 +9599,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584250047,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [443]
+		}, -- [430]
 		{
 			"yeah, based on the timings from other logs, it was ~5-10s short", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9911,7 +9621,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584250065,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [444]
+		}, -- [431]
 		{
 			"but if it's up for us", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9933,7 +9643,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584250071,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [445]
+		}, -- [432]
 		{
 			"then perfect", -- [1]
 			"Gochie-Kil'jaeden", -- [2]
@@ -9955,7 +9665,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcGochie|r",
 			[51] = 1584250072,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [446]
+		}, -- [433]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -9977,7 +9687,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584250245,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [447]
+		}, -- [434]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -9999,7 +9709,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584250257,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [448]
+		}, -- [435]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10021,7 +9731,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584250326,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [449]
+		}, -- [436]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10043,7 +9753,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584250627,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [450]
+		}, -- [437]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10065,7 +9775,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584250709,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [451]
+		}, -- [438]
 		{
 			"i should sleep earlier", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10087,7 +9797,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584250738,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [452]
+		}, -- [439]
 		{
 			"i completly wake up after we have break", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10109,7 +9819,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584250750,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [453]
+		}, -- [440]
 		{
 			"whew only took 500k in grand delus dmg", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -10131,7 +9841,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584250789,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [454]
+		}, -- [441]
 		{
 			"XD", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -10153,7 +9863,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1584250790,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [455]
+		}, -- [442]
 		{
 			"only~", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -10175,7 +9885,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584250812,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [456]
+		}, -- [443]
 		{
 			"\"im not a fucking weeb, dansgame\" Delpi 2k20", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10197,7 +9907,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250850,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [457]
+		}, -- [444]
 		{
 			"25% best wipe", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10219,7 +9929,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [458]
+		}, -- [445]
 		{
 			"not bad", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10241,7 +9951,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250986,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [459]
+		}, -- [446]
 		{
 			"its bad.", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -10263,7 +9973,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584250989,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [460]
+		}, -- [447]
 		{
 			"woah", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10285,7 +9995,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250993,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [461]
+		}, -- [448]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10307,7 +10017,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251011,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [462]
+		}, -- [449]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10329,7 +10039,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251092,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [463]
+		}, -- [450]
 		{
 			"goodlyly", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10351,7 +10061,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584251118,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [464]
+		}, -- [451]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -10373,7 +10083,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584251156,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [465]
+		}, -- [452]
 		{
 			"Search ResultsFeatured snippet from the webZoomer is a nickname referring to members of Generation Z, those born in the late 90s and early 2000s", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -10395,7 +10105,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1584251729,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [466]
+		}, -- [453]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10417,7 +10127,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [467]
+		}, -- [454]
 		{
 			"Half-Zoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10439,7 +10149,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584251779,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [468]
+		}, -- [455]
 		{
 			"Semi-Zoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10461,7 +10171,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584251786,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [469]
+		}, -- [456]
 		{
 			"imagine being born in late 90's", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -10483,7 +10193,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584251809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [470]
+		}, -- [457]
 		{
 			"what are you my little brother?", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -10505,7 +10215,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584251816,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [471]
+		}, -- [458]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10527,7 +10237,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251860,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [472]
+		}, -- [459]
 		{
 			"BZoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -10549,7 +10259,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584252037,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [473]
+		}, -- [460]
 		{
 			"oh fuck", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -10571,7 +10281,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252042,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [474]
+		}, -- [461]
 		{
 			"im cooming\\", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -10593,7 +10303,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252044,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [475]
+		}, -- [462]
 		{
 			"jesus christ", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -10615,7 +10325,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584252053,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [476]
+		}, -- [463]
 		{
 			"LOL", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -10637,7 +10347,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252059,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [477]
+		}, -- [464]
 		{
 			"can you officer", -- [1]
 			"|Kq6|k", -- [2]
@@ -10659,7 +10369,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252262,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [478]
+		}, -- [465]
 		{
 			"give jess a little bit of time to cool off", -- [1]
 			"|Kq6|k", -- [2]
@@ -10681,7 +10391,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252537,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [479]
+		}, -- [466]
 		{
 			"but she's pissed atm", -- [1]
 			"|Kq6|k", -- [2]
@@ -10703,7 +10413,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252540,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [480]
+		}, -- [467]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10725,7 +10435,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [481]
+		}, -- [468]
 		{
 			"at herself", -- [1]
 			"|Kq6|k", -- [2]
@@ -10747,7 +10457,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252548,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [482]
+		}, -- [469]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10769,7 +10479,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252627,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [483]
+		}, -- [470]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -10791,7 +10501,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584252819,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [484]
+		}, -- [471]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10813,7 +10523,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252930,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [485]
+		}, -- [472]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10835,7 +10545,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253012,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [486]
+		}, -- [473]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10857,7 +10567,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253314,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [487]
+		}, -- [474]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10879,7 +10589,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253395,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [488]
+		}, -- [475]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10901,7 +10611,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253698,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [489]
+		}, -- [476]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10923,7 +10633,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [490]
+		}, -- [477]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -10945,7 +10655,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584253939,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [491]
+		}, -- [478]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10967,7 +10677,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254082,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [492]
+		}, -- [479]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -10989,7 +10699,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254163,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [493]
+		}, -- [480]
 		{
 			"|cffa335ee|Hkeystone:158923:370:13:9:11:2:120|h[Keystone: Operation: Mechagon - Workshop (13)]|h|r anyone need bracers?", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -11011,7 +10721,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254207,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [494]
+		}, -- [481]
 		{
 			"THATS A 13", -- [1]
 			"Soda-Kil'jaeden", -- [2]
@@ -11033,7 +10743,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSoda|r",
 			[51] = 1584254214,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [495]
+		}, -- [482]
 		{
 			"T.T", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -11055,7 +10765,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254222,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [496]
+		}, -- [483]
 		{
 			"!bees", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -11077,7 +10787,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254238,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [497]
+		}, -- [484]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -11099,7 +10809,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254466,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [498]
+		}, -- [485]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -11120,6 +10830,292 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254547,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [486]
+		{
+			"RIP RAPUNZELE", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584330428,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [487]
+		{
+			"|cffa335ee|Hitem:167743::::::::120:102::13::::|h[Silas' Potion of Prosperity]|h|r up if anybody needs it", -- [1]
+			"Oxclamatiøn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			199, -- [11]
+			"Player-9-0B9C7997", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Oxclamatiøn|r",
+			[51] = 1584330449,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [488]
+		{
+			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			349, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584330680,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [489]
+		{
+			"doing CTA nazj & uldum", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584330684,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [490]
+		{
+			"2 spots", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584330685,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [491]
+		{
+			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			397, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584330761,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [492]
+		{
+			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			587, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331063,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [493]
+		{
+			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331144,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [494]
+		{
+			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			836, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331447,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [495]
+		{
+			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			915, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331528,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [496]
+		{
+			"<Bare Minimum> 8/12H is currently in need of RDPS and 1-2 healers (Monk/Priest/Pally). Raids are Wed/Thurs from 6pm to 8pm Server. Willing to look for other options.  Everyone is welcome! PST for more info.", -- [1]
+			"Agromental-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Agromental-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1124, -- [11]
+			"Player-9-0AD9FC21", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcAgromental|r",
+			[51] = 1584331712,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [497]
+		{
+			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1302, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331831,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [498]
+		{
+			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
+			"Jurnlek-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jurnlek-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1405, -- [11]
+			"Player-9-0BB5C70B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJurnlek|r",
+			[51] = 1584331912,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [499]
 	},

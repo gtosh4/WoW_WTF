@@ -48,12 +48,7 @@ Details_StreamerDB = {
 			["point"] = "BOTTOMLEFT",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.305882352941177, -- [1]
-				0.305882352941177, -- [2]
-				0.305882352941177, -- [3]
-				0.850000008940697, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 28,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -61,13 +56,9 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["y"] = 200.0283660888672,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 14,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -79,7 +70,16 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["author"] = "Details! Team",
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 14,
+			["row_color"] = {
+				0.305882352941177, -- [1]
+				0.305882352941177, -- [2]
+				0.305882352941177, -- [3]
+				0.850000008940697, -- [4]
+			},
 			["main_frame_locked"] = true,
 			["arrow_anchor_y"] = 0,
 		},

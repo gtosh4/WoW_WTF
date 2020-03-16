@@ -5,36 +5,36 @@ AstralKeys = {
 		"SHAMAN", -- [2]
 		247, -- [3]
 		18, -- [4]
-		0, -- [5]
+		17, -- [5]
 		138, -- [6]
-		183010, -- [7]
+		452554, -- [7]
 	}, -- [1]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
 		369, -- [3]
 		16, -- [4]
-		0, -- [5]
+		19, -- [5]
 		138, -- [6]
-		183001, -- [7]
+		448918, -- [7]
 	}, -- [2]
 	{
 		"Kosaki-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
 		246, -- [3]
 		18, -- [4]
-		0, -- [5]
+		17, -- [5]
 		138, -- [6]
-		130727, -- [7]
+		452579, -- [7]
 	}, -- [3]
 	{
 		"Peace-Kil'jaeden", -- [1]
 		"MONK", -- [2]
 		247, -- [3]
 		18, -- [4]
-		15, -- [5]
+		20, -- [5]
 		138, -- [6]
-		130835, -- [7]
+		455147, -- [7]
 	}, -- [4]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -57,20 +57,20 @@ AstralKeys = {
 	{
 		"Tosh-Kil'jaeden", -- [1]
 		"PRIEST", -- [2]
-		248, -- [3]
-		15, -- [4]
-		0, -- [5]
+		369, -- [3]
+		16, -- [4]
+		15, -- [5]
 		138, -- [6]
-		179855, -- [7]
+		455084, -- [7]
 	}, -- [7]
 	{
 		"Blueflame-Kil'jaeden", -- [1]
 		"WARRIOR", -- [2]
-		246, -- [3]
-		11, -- [4]
-		0, -- [5]
+		370, -- [3]
+		13, -- [4]
+		11, -- [5]
 		138, -- [6]
-		1, -- [7]
+		4, -- [7]
 	}, -- [8]
 	{
 		"Morepheous-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		138, -- [6]
-		119457, -- [7]
+		455304, -- [7]
 	}, -- [9]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -95,9 +95,9 @@ AstralKeys = {
 		"DEMONHUNTER", -- [2]
 		369, -- [3]
 		20, -- [4]
-		0, -- [5]
+		20, -- [5]
 		138, -- [6]
-		130851, -- [7]
+		454515, -- [7]
 	}, -- [11]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		7, -- [4]
 		0, -- [5]
 		138, -- [6]
-		1, -- [7]
+		2, -- [7]
 	}, -- [12]
 	{
 		"Felfanatic-Kil'jaeden", -- [1]
@@ -156,11 +156,11 @@ AstralKeys = {
 	{
 		"Arnbjørn-Kil'jaeden", -- [1]
 		"MAGE", -- [2]
-		251, -- [3]
-		18, -- [4]
-		0, -- [5]
+		252, -- [3]
+		16, -- [4]
+		17, -- [5]
 		138, -- [6]
-		124819, -- [7]
+		455265, -- [7]
 	}, -- [18]
 	{
 		"Circé-Kil'jaeden", -- [1]
@@ -192,13 +192,13 @@ AstralKeys = {
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 17,
 		["class"] = "SHAMAN",
 		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 15,
 		["class"] = "PRIEST",
 		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
@@ -234,9 +234,9 @@ AstralFriends = {
 		246, -- [4]
 		18, -- [5]
 		138, -- [6]
-		130727, -- [7]
+		452577, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [3]
 	{
 		"Peace-Kil'jaeden", -- [1]
@@ -245,43 +245,18 @@ AstralFriends = {
 		247, -- [4]
 		18, -- [5]
 		138, -- [6]
-		57790, -- [7]
+		454996, -- [7]
 		"1", -- [8]
-		15, -- [9]
+		20, -- [9]
 	}, -- [4]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
-		},
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1584457200,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -310,6 +285,31 @@ AstralKeysSettings = {
 		["sorth_method"] = "character_name",
 		["current_list"] = "GUILD",
 	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1584457200,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["guild"] = true,
+			["raid"] = false,
+			["no_key"] = true,
+			["party"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
