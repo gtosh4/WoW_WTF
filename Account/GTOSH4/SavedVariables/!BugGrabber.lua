@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2140,
 	["lastSanitation"] = 3,
+	["session"] = 2141,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WeakAuras' tried to call the protected function 'WorldFrame:SetPoint()'.",

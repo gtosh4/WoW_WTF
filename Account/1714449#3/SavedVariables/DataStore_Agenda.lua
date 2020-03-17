@@ -24,9 +24,9 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|384428882"] = "152250|1584304949|0|1",
+					["Ny'alotha, the Waking City Heroic|384428882"] = "43935|1584413263|0|1",
 				},
-				["lastUpdate"] = 1584304947,
+				["lastUpdate"] = 1584413468,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1584307762,
