@@ -5,31 +5,31 @@ DataStore_MailsDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584252637,
-				["lastVisitDate"] = "2020/03/15 02:10",
+				["lastUpdate"] = 1584486422,
+				["lastVisitDate"] = "2020/03/17 19:07",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1583990550,
-				["lastVisitDate"] = "2020/03/12 01:22",
+				["lastUpdate"] = 1584483519,
+				["lastVisitDate"] = "2020/03/17 18:18",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,
@@ -43,8 +43,8 @@ DataStore_MailsDB = {
 						["itemID"] = 173416,
 						["link"] = "|cff0070dd|Hitem:173416::::::::120:252::14::::|h[Black Empire Cloth Gloves]|h|r",
 						["count"] = 1,
-						["lastCheck"] = 1583212238,
 						["icon"] = 3048007,
+						["lastCheck"] = 1583212238,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -52,8 +52,8 @@ DataStore_MailsDB = {
 						["itemID"] = 173399,
 						["link"] = "|cff0070dd|Hitem:173399::::::::120:65::14::::|h[Black Empire Plate Belt]|h|r",
 						["count"] = 1,
-						["lastCheck"] = 1583549896,
 						["icon"] = 2917471,
+						["lastCheck"] = 1583549896,
 						["daysLeft"] = 30,
 					}, -- [2]
 				},

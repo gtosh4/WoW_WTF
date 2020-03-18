@@ -29,3 +29,4 @@ Auctionator: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
 BigWigs_Nyalotha: enabled
+ElvUI_OptionsUI: enabled

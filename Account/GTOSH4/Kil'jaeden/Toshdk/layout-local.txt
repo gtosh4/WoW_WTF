@@ -1,11 +1,4 @@
 Version: 1
-Frame: scanner_button
-FrameLevel: 1
-Anchor: LEFT
-X: 136
-Y: 99
-W: 200
-H: 50
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -69,6 +62,13 @@ X: 0
 Y: 0
 W: 320
 H: 550
+Frame: scanner_button
+FrameLevel: 1
+Anchor: LEFT
+X: 136
+Y: 99
+W: 200
+H: 50
 Frame: REFlexFrame
 FrameLevel: 1
 Anchor: CENTER

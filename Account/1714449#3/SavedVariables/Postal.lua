@@ -1,5 +1,12 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -10,13 +17,6 @@ Postal3DB = {
 				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [5]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -59,9 +59,9 @@ Postal3DB = {
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Metsy|Kil'jaeden|Horde", -- [2]
-					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Toshpal|Kil'jaeden|Horde", -- [1]
+					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Metsy|Kil'jaeden|Horde", -- [3]
 					"Toshdk-Kil'jaeden|Kil'jaeden|Horde", -- [4]
 					"Voidthirst|Kil'jaeden|Horde", -- [5]
 					"Evangelos|Kil'jaeden|Horde", -- [6]
